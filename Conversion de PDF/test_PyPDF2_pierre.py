@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-import pyPdf
+import PyPDF2
 
 def getPDFContent(path):
     content = ""
