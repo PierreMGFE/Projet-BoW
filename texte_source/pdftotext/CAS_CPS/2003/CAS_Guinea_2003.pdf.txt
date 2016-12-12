@@ -1,0 +1,8413 @@
+Public Disclosure Authorized
+
+Document of
+The World Bank
+For Official Use Only
+
+Public Disclosure Authorized
+
+Report No: 25925 GUI
+
+Public Disclosure Authorized
+
+Public Disclosure Authorized
+
+COUNTRY ASSISTANCE STRATEGY
+FOR
+THE REPUBLIC OF GUINEA
+June 10, 2003
+
+Guinea Country Office
+Country Department 11
+Africa Region
+This document has a restricted distribution and may be used by recipients only in the
+performance of their official duties. Its contents may not otherwise be disclosed without
+World Bank authorization.
+
+CURRENCY EQUIVALENTS
+(Exchange Rate Effective May 1, 2003)
+Currency Unit = Guinean francs (GNF)
+US$1.00 = 1973 Guinean francs
+Guinean francs 1.00 = US$0.00051
+FISCAL YEAR
+January 1-December 31
+ABBREVIATIONS AND ACRONYMS
+AfDB
+CBSD
+CFAA
+CIDA
+CPAR
+CPPR
+CRD
+ECOWAS
+EU
+GDP
+GTZ
+HIPC
+IDA
+IDF
+IFC
+IMF
+MDGs
+MIGA
+NPVR
+OED
+PER
+PRGF
+PRSC
+PRSP
+QAG
+SAC
+SME
+UNDP
+UNIDO
+USAID
+
+African Development Bank
+Capacity Building for Service Delivery Program
+Country Financial Accountability Assessment
+Canadian International Development Agency
+Country Procurement Assessment Report
+Country Portfolio Performance Review
+Communautes ruraux de developpement
+Economic Community of West African States
+European Union
+Gross domestic product
+Deutsche Gesellschaft fuir Technische Zusammenarbeit
+Highly Indebted Poor Countries
+International Development Association
+Institutional Development Fund
+International Finance Corporation
+International Monetary Fund
+Millennium Development Goals
+Multilateral Investment Guarantee Agency
+Net present value debt-to-export ratio
+Operations Evaluation Department of the World Bank
+Public expenditure review
+Poverty Reduction and Growth Facility of the International Monetary Fund
+Poverty Reduction Support Credit
+Poverty Reduction Strategy Paper
+Quality Assurance Group
+Structural Adjustment Credit
+Small and medium size enterprises
+United Nation Development Program
+United Nations Industrial Development Organization
+United States Agency for International Development
+Vice President:
+Country Director:
+Country Program Coordinator:
+Country Manager/Team Leader:
+
+Callisto E. Madavo
+Mamadou Dia
+Peter N. Ngomba
+Jan Weetjens
+
+REPUBLIC OF GUINEA
+Country Assistance Strategy
+CONTENTS
+Executive Summary ..................
+
+v
+
+Country context ......................
+
+1
+
+1.
+A.
+B.
+C.
+D.
+2.
+
+Poverty and growth ....................
+Political environment, governance, and regional stability ........................................
+Fiscal performance and management of public finances ..........................................
+Progress in social sectors ....................................................
+Guinea's Poverty Reduction Strategy ................................................
+
+A.
+B.
+C.
+D.
+
+.
+
+.
+
+1
+3
+5
+5
+8
+
+PRSP pillar 1: fostering sustainable and equitable growth ....................................... 9
+PRSP pillar 2: access to and quality of basic social services ...................
+............... 11
+PRSP pillar 3: governance and institutional and human capacity ..............
+............ 12
+Summary of PRSP assessment ....................................................
+13
+
+3.
+
+Prospects for Growth ....................................................
+
+14
+
+4.
+
+Bank Group Assistance Strategy ....................................................
+
+15
+
+A.
+B.
+C.
+D.
+E.
+F.
+G.
+5.
+
+Bank Group Assistance Program
+A.
+B.
+C.
+D.
+E.
+F.
+G.
+H.
+
+6.
+
+Objectives of the 2003 country assistance strategy .15
+The Bank's experience in Guinea, lessons learned, and consultation .15
+Strategic elements of the CAS .18
+Support to PRSP pillar 1: sustainable and equitable growth .20
+Support to PRSP pillar 2: access and quality of basic social services .21
+Support to PRSP pillar 3: governance and institutional and human capacity .
+Donor coordination and collaboration .24
+.
+
+.
+
+.........................
+
+Managing the existing portfolio ..................................
+Analytical and advisory services ..................................
+Lending program ..................................
+Scenarios and triggers ..................................
+Impact of IDA lending on debt sustainability ..................................
+PRSP and CAS monitoring ..................................
+MIGA and IFC ..................................
+Risks and mitigation measures ..................................
+
+Concluding remarks ...................................
+
+23
+25
+25
+26
+27
+28
+30
+31
+33
+33
+34
+
+Boxes
+Box 1: Guinea core labor standards ................................................................. 8
+........................... 18
+Box 2: Summary of 2002 client survey results .........................
+Figures
+Figure 1: Transition from support through projects towards programmatic lending ........... 19
+Tables
+Table 1: Evolution of health indicators (percent) .................................................................
+Table 2: Evolution of education indicators (percent) ..............................................................
+Table 3: PRSP objectives and indicators .................................................................
+Table 4: Guinea 2002 update of PRSP macroeconomic framework (percentage of GDP or
+Guinean francs) ................................................................
+Table 5: Guinea financing requirements, 2003-2006 ...............................................
+Table 6: Existing Bank portfolio ................................................................
+Table 7: Recently completed and ongoing core diagnostic and other ESW ...........................
+Table 8: New analytical and advisory services ................................................................
+Table 9: Bank assistance program 2003-06 ................................................................
+Table 10: Program triggers ................................................................
+Table 11: Guinea MDGs and PRSP targets ................................................................
+Table 12: Core CAS benchmarks ................................................................
+Annexes
+Annex A2
+Annex B2
+Annex B3
+Annex B4
+Annex B5
+Annex B6
+Annex B7
+Annex B8
+Annex B9
+Annex C
+Annex D
+Annex E
+Annex F
+Annex G
+
+6
+7
+9
+10
+14
+25
+26
+27
+28
+30
+31
+32
+
+Guinea at a Glance
+Selected Indicators of Bank Portfolio Performance and Management
+IDA Program Summary and Bank Group Fact Sheet (IFC and MIGA Program)
+Summary of Non-lending Services
+Poverty and Social Development Indicators
+Key Economic Indicators
+Key Exposure Indicators
+IDA Operations Portfolio and Statement of IFC's Held and Disbursed Portfolio
+CAS Program Matrix
+HIPC tracking action plan
+PRSP objectives, strategies, and donor support
+Debt Sustainability Analysis
+Bank Fund Relation
+Map IBRD 31718
+
+This country assistance strategy was produced under the general direction of Mainadou Dia, Country Director,
+CDI I, and Peter Ngomba, Country Program Coordinator, CD1 1, by a team led by Jan Weetjens, Country
+Manager. The team included Ezzeddine Larbi, Zeljko Bogetic, Kevin Lumbila, Boubacar-Sid Barry, Suzanne
+Piriou-Sall, Moctar Thiam, Amadou Oury Diallo, Catherine Farvacque, Ronald Kopicki, Linda English, Tonia
+Marek, Anne Pierre-Louis, Khamna Rogo, Rogerio Pinto, Stefanie Teggeman, Noureddine Bouzaher, Ousman
+Jah, Sarah Lacoche, Issa Sanogo, Bella Diallo, Mathieu Meguhe, Marina Ghea, Kim Venne, Wendy S. Ayres
+Asmaou Diallo-Bah, Dominique Aka-Abhe, and Mariama Diabate.
+
+Guinea Country Assistance Strategy
+Fiscal Years 2004-2006
+Executive Summary
+i.
+
+In November 1997, the Board discussed Guinea's Country Assistance Strategy (CAS),
+
+and a Progress Report in July 2001. Guinea presented its PRSP to the Board in July 2002. Since
+the 1997 CAS, Guinea had modest growth, and this growth was not translated into significant
+poverty reduction. Nevertheless, important progress was made in improving health and
+education services and outcomes.
+ii.
+In discussing the 2003 CAS, Executive Directors may wish to address these questions:
+*
+
+Are the triggers to move from the base to the high and low case lending scenarios
+appropriate?
+
+*
+Is the proposed strategy to prepare the country for PRSCs appropriate?
+Country context and the government's program
+iii.
+Guinea has great potential for economic growth due to its abundance of minerals, its
+excellent conditions for agriculture, and its strategic location that favors trade. Guinea's real
+gross domestic product (GDP) grew at an average rate of 4 percent per year during the past
+decade. This growth, however, has not been widely shared. As a result, the proportion of the
+population living in poverty has not fallen during the decade and remained at about 40 percent.
+Guinea is mobilizing around 12 percent of its GDP in fiscal revenues, and thus has limited
+resources available to finance investments in priority sectors. The efficiency and effectiveness of
+public expenditures is also poor. This weak performance is closely linked to problems with
+govemance and corruption, which raise the cost of doing business and prevent Guinea from
+unlocking its huge potential.
+iv.
+The overall objectives of Guinea's PRSP are to reduce poverty, and to improve the living
+conditions and prospects of the population, particularly the poorest people. These objectives will
+be achieved through action in three broad areas, which also constitute the framework for the
+CAS: (a) fostering sustainable and equitable growth, (b) improving access and quality of basic
+social services, and (c) strengthening governance and institutional and human capacity. To foster
+sustainable and equitable growth requires improving the overall investment climate. This calls
+for a stable macroeconomic and financial environment; improved access to basic infrastructure
+(specifically electricity, water, and transportation); and a strengthened institutional, legal, and
+regulatory environment.
+v.
+To improve access and quality of basic social services, the government's strategy is to
+increase the transfer of resources to priority sectors and to local levels of government and
+beneficiaries. This will be achieved through the further consolidation of the medium-term
+expenditure framework. The strategy also calls for further transfer of responsibilities for
+financial management, and for strengthening of transparency and accountability of service
+providers through empowerment of beneficiaries.
+vi.
+The PRSP recognizes that achieving its third objective-strengthening governance and
+institutional and human capacity-is critical for achieving the first two objectives. The PRSP
+calls for decentralizing and deconcentrating resources and decision-making authority to
+
+vi
+subnational levels of government, stepping up the fight against corruption, and building
+institutional and human capacity at both the local and central levels.
+World Bank Group program
+vii.
+This CAS will support the implementation of Guinea's PRSP. By supporting the PRSP
+implementation, the Bank also supports Guinea in achieving the Millennium Development Goals
+(MDGs), which are consistent with the PRSP objectives.
+viii.
+The current CAS period will be a period of transition during which the Bank will move
+gradually towards more programmatic support. This transition period is required mainly to
+strengthen Guinea's fiduciary arrangements in public finance management and institutional
+framework for service delivery. During this period, the Bank will assist Guinea to reform its
+institutional and policy framework, build its capacity for service delivery, and improve the
+management of public finances so that Guinea's national institutions are able to effectively
+implement the country's development programs. To support this transition, the Bank and other
+donors will gradually move away from projects to prepare the various sectors for a more
+programmatic approach. To the extent that satisfactory public expenditure and fiduciary
+arrangements would be in place, the Bank would consider moving towards future support
+through PRSCs.
+ix.
+During this transition period, the Bank will provide continuity in its support to Guinea by
+using selected economic and sector work, a structural adjustment operation, and second phases of
+existing adaptable program loans to support the PRSP objectives of sustainable and equitable
+growth, better access to social services, and stronger capacity and governance. To prepare
+Guinea for support through PRSCs, these activities will be designed to ensure that sector reforms
+are consistent with cross-sectoral reforms in the area of public finance management, management
+of human resources, and local administration. Thus, the Bank will support the implementation of
+the PRSP while fostering progress with regard to governance, transformation of country
+institutions, and empowerment of beneficiaries.
+x.
+IDA commitments during the three-year CAS period could total approximately US$125.4
+million. No IDA grants are scheduled for Guinea during the CAS period. About 30 percent of
+IDA funding would be provided in the form of budget support. The base case scenario is
+consistent with Guinea's macroeconomic program. It assumes no further deterioration in the
+security situation in the subregion, continued political stability in the country, and sustained
+efforts from the government to (a) implement the PRSP; (b) maintain a satisfactory
+macroeconomic framework; (c) strengthen governance; and (d) ensure satisfactory
+implementation of Bank supported programs.
+Risks and mitigation measures
+xi.
+Both domestic and exogenous factors constitute risks that might trigger the low case
+scenario. The domestic factors are mainly related to Guinea's capacity to improve governance,
+maintain fiscal discipline and political stability in the country. Exogenous factors are related to
+the stability in the subregion. Slippages in the area of governance or macroeconomic stability
+would trigger the low case scenario for Bank support. To mitigate the risk related to political
+stability, the Bank is supporting institutional reforms and encouraging the empowerment of local
+communities and local governments. This is expected to increase the sustainability of the Bank's
+programs. To mitigate the impact of the insecurity in neighboring countries, the Bank through
+support for community driven development will assist the government in extenuating the impact
+of refugees on local communities. The Bank will also continue to coordinate closely with the
+specialized UN agencies to ensure adequate response.
+
+1.
+
+COUNTRY CONTEXT
+
+Guinea's real GDP grew at an average rate of 4 percent per year during the past
+1.
+decade. This growth however has not significantly reduced poverty or led to major
+improvements in social spending. Specifically:
+*
+*
+
+*
+*
+
+A.
+
+Guinea remains one of the poorest countries in the world because growth, which comes
+mainly from extractive industries and agriculture, has not been equitable.
+Guinea faces external constraints due to the instability in the subregion and deteriorating
+terms of trade, and internal constraints related to governance, and a centralized and
+interventionist public sector.
+Guinea raises limited fiscal resources.' Priority expenditures are not always used
+effectively or efficiently.
+In spite of some improvements in social indicators, more effort is required if Guinea is to
+meet its PRSP objectives and the Millennium Development Goals (MDGs).
+
+Poverty and growth
+
+2.
+The incidence of poverty in Guinea remains high. Although no recent data on
+Guinea's poverty profile are available (the most recent poverty profile was produced in 1995)
+the PRSP provides a discussion of poverty in Guinea.2 3 Guinea ranked 159 out of 173
+countries listed in UNDP's 2002 Human Development Report. This is marginally better than
+its 1994 ranking of 161 out of 174 countries. While gross enrollment and infant mortality
+rates have improved in recent years (see tables 1 and 2), per capita gross national income
+stood at only US$410 in 2002 (World Bank Atlas method), as compared to US$450 in 2000.4
+With regard to poverty, this decline in per capita gross national income could affect the
+relative gain in social welfare in the medium and long run.
+3.
+Based on the 1994/95 poverty profile, about 40 percent of the population nationwide
+is estimated to live on less than US$1.00 per day. About 53 percent of rural dwellers are
+estimated to be poor, compared with 25 percent of urban residents. Poverty also varies from
+region to region. The poorest region is Haute Guinee, with about 60 percent of the
+population living below the poverty line. Next are Moyenne Guinea and Guinee Forestiere
+with respectively 50 percent and 40 percent of the population poor. The richest region is
+Basse Guinee with 30 percent of people living below the poverty line.5 Of all socioeconomic
+groups, subsistence farmers are worst off. They account for 68 percent of the poor, although
+they make up just 50 percent of the population.
+
+I
+
+Fiscal revenues are around 12 percent of GDP.
+It would be difficult to achieve the PRSP objective of reducing poverty from 40 percent in 1995 to 30 percent in
+2010 if poverty elasticity were to remain constant and if GDP were to grow at its rate since 1996 of about 4 percent per
+2
+
+year.
+
+comprehensive household survey to be completed in 2003 will provide the data needed to analyze changes in
+the incidence, depth, geographical distribution, and causes of poverty. These poverty data will be used to update the
+PRSP. Support to strengthen Guinea's statistical and monitoring and evaluation systems will be provided through the
+Statistical Capacity Facility of the World Bank. A full poverty assessment is scheduled for 2006 and will support the
+preparation of the next CAS.
+This change can be attributed to three factors: depreciation of the Guinean franc, the decrease of external
+assistance by 42 percent and the increase of private transfers to foreigners by 23 percent over the same period.
+5 These figures from the PRSP will be confirmned through the national household survey, currently underway.
+3'The
+
+- 24.
+About 50 percent of Guinea's citizens are below 15 years of age, leading to a very
+high dependency ratio. Life expectancy in 2000 stood at 47 years. Population is growing at
+about 2.7 percent a year, and is projected to double during the next 20-25 years.
+5.
+Real gross domestic product (GDP) per capita during 1996-2002 grew by only
+1.4 percent. Inflation measured by consumer price index was 5.4 percent in 2001, but
+accelerated to 6.1 percent by the end of 2002, as government pursued an accommodating
+monetary policy to finance the budget deficit in the second half of 2002. The government is
+discussing an IMF-supported Staff Monitored Program to reestablish macroeconomic
+stability. This is needed to negotiate a new Poverty Reduction and Growth Facility (PRGF)
+program with the IMF, and to move to the Highly Indebted Poor Countries (HIPC)
+completion point, expected by 2004.
+6.
+The main sector source of growth was mining and industry while growth of
+agriculture and services lagged behind in part due to constraints on the overall business
+climate. Industry and mining, which accounts for 38.1 percent of GDP, has grown at an
+average of 5.2 percent over the last decade and has been the primary driver of growth.
+Growth in the sector comes mainly from the extraction of bauxite, diamonds, and gold. 6
+Manufacturing, an activity that typically has greater linkages to the domestic economy and
+therefore greater impact on poverty than the extractive industry, has grown by 4.6 percent
+over the last decade. Agriculture 7 has grown at an average annual rate of 4.0 percent for the
+past ten years, but most of the agricultural growth has come from expansion of cultivated
+areas, rather than through improvements in productivity. Services, comprising mainly
+commerce and transportation, have grown slowly-at an annual rate of 3.2 percent since
+1992-due to significant obstacles in Guinea's environment for commerce and trade.8
+
+7.
+
+Growth has been hampered by a weak investment climate. In the mining sector,
+
+persisting uncertainties regarding the fiscal regime for major investments and continued
+public sector interference deter private investment. Following departure of private partners,
+the power and water sector face deep-rooted problems, linked to weak management and
+maintenance of production and distribution infrastructure, and uncertainty regarding the legal
+and regulatory framework. The power sector is also plagued by poor collection of tariffs
+from consumers and lack of transparency in financial management. Agricultural productivity
+is hampered by low use of inputs, poor marketing infrastructure, weak transportation and
+trade policies, and weak rural financial services. Widespread tax evasion and lack of political
+will to enforce regulations are undermining the contribution of fisheries to the economy and
+their sustainable management. Complex tariff regulations, institutional and governance
+problems in customs and tax administration, and inefficiencies in the operation of Conakry's
+port and international airport limit the development of services, especially trade. Weaknesses
+in telecommunications also discourage investment and impede Guinea's growth.
+8.
+Nevertheless, Guinea has maintained its external competitiveness. After being
+relatively stable, Guinea's real exchange rate index depreciated at an average annual rate of 9
+percent during 1998-01.9 The real depreciation of the Guinean franc preserved the country's
+Guinea has over 30 percent of the world's known reserves of bauxite and has since 1971 been the world's second
+largest producer of bauxite after Australia.
+7
+Agriculture's contribution to GDP reached 25.5 percent in 2002, compared with 22.3 percent in 1992.
+8
+Poor growth in services has reduced its contribution to GDP from 49.8 percent in 1992 to 36.4 percent in 2002.
+9 The measure of the real effective exchange used is the multilateral index defined as the ratio of the nominal
+effective exchange rate index multiplied by the ratio of the weighted average of the CPIs of the trading partners to the
+CPI of Guinea. A decline (increase) of the index implies an appreciation (depreciation) in the real value of the local
+6
+
+-3 external competitiveness, allowing bauxite exports to increase by 2 percent. However, the
+devaluation of Brazil's currency in 1999 and Australia's ability to maintain its
+competitiveness posed a challenge for Guinean bauxite in the world markets. Looking to the
+future, bauxite prices are forecast to recover in 2003 and over the medium term, following
+the sharp fall of aluminum prices after September 11, 200 1.
+9.
+Guinea is addressing challenges for regional integration and trade. Although
+some progress has been made on achieving regional integration, much more needs to be
+done. While Guinea has formally adopted the Organization for the Harmonization of
+Business Law in Africa agreements, training of judicial personnel and increasing awareness
+in the business community of its provisions are still needed. Preparations, including customs
+reform, are scheduled for mid-2003 to facilitate adoption of the common external tariff. The
+launching of the West African Monetary Zone is postponed to July 2005.10 Reforms in
+Guinea's customs and tax administration are being pursued as part of Guinea's program
+supported by the IMF, and the mobilization of financing to link Guinea's road network with
+Senegal, Mali, and C6te d'Ivoire is being undertaken through a donor conference.
+10.
+Environmental resources are under pressure. Guinea possesses significant forests
+harboring endemic species. The forest region is also the source of several of West Africa's
+largest rivers. These resources are under threat from demographic pressures, poor
+agricultural practices, mining activities, and influxes of refugees. Degradation of these
+resources in turn is leading to declines in soil fertility and consequently to falls in agricultural
+productivity.
+B.
+
+Political environment, governance, and regional stability
+
+11.
+Since the start of the Second Republic in 1986, Guinea's political institutions
+have experienced several important changes and faced challenges. Guinea approved a
+multiparty constitution in 1991, and held presidential elections in 1993 and 1998. In 1994 it
+allowed the operation of an independent press, although radio and television remain under
+state control. The imprisonment of one of the main opposition candidates in 1999 resulted in
+significant political tensions in the country. He was subsequently released from prison in
+2001. A national referendum in 2002 to amend the constitution eliminated term limits and
+age restrictions for the president (which allowed the president to run for a third consecutive
+tern) and modified the administrative organization of the country. All opposition parties
+except one boycotted the July 2002 legislative elections to protest what they perceived to be
+irregularities in the management of the election process. Guinea's bilateral development
+partners also voiced concerns about the referendum and parliamentary elections, especially
+with regard to the mandate and independence of the electoral committee, the neutrality of the
+public service, and the access of political parties to the media. Guinea's institutions of
+representative democracy and local participation-the national assembly and the local
+government councils-are still evolving and in the process of developing their capacity to
+become effective sources of checks and balances on the executive.
+12.
+Poor governance and corruption are major factors inhibiting growth and
+reduction of poverty. Little progress has been made to curb widespread rent seeking
+currency. This real effective exchange index is the reciprocal of the index constructed by the IMF, which defines the
+real exchange rate as the relative price of non-tradable to tradable goods.
+1° The criteria for countries to participate in the monetary zone include: achieving by 2003 a five per cent inflation
+rate; reducing budget deficit to 4 percent of GDP; limniting central bank financing of budget deficits to 10 percent of the
+previous year's fiscal revenues; and maintaining foreign exchange reserves to six months of imports.
+
+-4 behavior and corruption. These problems hurt disproportionately the poor, since they often
+belong to the less politically connected segments of the population. Three years after the
+creation of Guinea's Anti-Corruption Committee, governance has worsened according to
+observers. For example, convictions were made in only one of the corruption cases identified
+by the committee. Complaints by the Anti-Corruption Committee and a recent strike by
+lawyers to protest the infringement on the operations of the judicial system by the ministry of
+justice highlight the widespread dissatisfaction with the judiciary.
+13.
+Guinea has in place the legislation and the institutional framework needed to
+strengthen the rule of law. However, powerful groups that benefit from the current system
+have often succeeded in protecting their privileges by delaying the application of the rule of
+law and by preventing the proper operating of institutions. As discussed in the PRSP,
+improving governance is hindered by Guinea's weak institutional and human capacity, by its
+centralized procedures for managing government business, and by the limited involvement of
+citizens in the management of public affairs.
+14.
+Guinea's highly centralized and interventionist public sector amplifies the
+governance challenge. While the November 2001 amendments to the constitution can be
+seen as a reversal of earlier progress on decentralization (districts and quartierswhich used to
+have democratically-elected councils and presidents are now governed by appointed
+presidents), they also consolidated the communautes rurales de developpement (CRD) and
+the municipal governments as the fundamental units of local government. Nevertheless, the
+electoral procedures to be followed at the CRD level to ensure full accountability of CRDelected leaders to their constituents remain to be clarified. At the same time, a system of
+checks and balances at the prefectoral level (which is the most important deconcentrated
+level of government) through development councils remains to be established. Nevertheless,
+progress has been made in the case of Conakry with the introduction of an improved
+allocation of local fiscal revenues between the government of Conakry and the five
+municipalities of Conakry, contributing to greater financial autonomy of the municipalities.
+15.
+Guinea has been experiencing humanitarian, economic, and security difficulties
+due the crises in the subregion. Pressures to spend to meet humanitarian needs of refugees
+from a series of regional crises have been significant.11 It has been recently estimated that the
+cost of accommodating refugees from the latest crisis in Cote d'Ivoire will create a small
+financing gap of about US$5 million.12 The influx of refugees has adversely affected
+Guinea's economy primarily by disrupting trade, transport, and remittances of Guinean
+workers abroad. Moreover, regional uncertainty has curbed foreign direct investment and
+trade, dampening the overall level of economic activity. While Guinea has benefited
+somewhat from a temporary transport diversion from Cote d'Ivoire, the cumulative effect of
+these crises has been negative. However, the most direct effect of the security situation on
+the economy has worked through the budget: increased military and security spending may
+have squeezed other priority expenditures.
+
+I
+
+According to the report to the Secretary-General of the United Nations from the mission of the humanitarian
+envoy for the crisis in Cote d'Ivoire "the Government of Guinea has been the most generous country for asylum
+seekers in Africa and prior to the outbreak of the armed conflict in Cote d'Ivoire, Guinea was hosting an estimated
+100,000 Liberian and Sierra Leonean refugees" (January-February 2003).
+12
+'An Approach Paper for Responding to the Impact of the Cote d'lvoire Crisis on the Neighboring Countries,"
+February 2003, World Bank.
+
+-5-
+
+C.
+16.
+
+Fiscal performance and management of public finances
+Fiscal revenues remain well below the subregional average. Guinea mobilized
+
+only 12.1 percent of GDP (excluding grants) in 2002 in fiscal revenues, as compared to an
+average in the subregion of 18 percent. Low mobilization of revenues is due primarily to
+wide-ranging tax exemptions, a weak regulatory framework, institutional weaknesses in
+customs and tax collection, and governance problems. Private entrepreneurs stated during
+the CAS consultations that fiscal revenues could be substantially increased through better
+governance and greater transparency in the collection and management of taxes. Moreover,
+much economic activity takes place in the informal sector, which also constrains Guinea's
+capacity to raise fiscal revenues.
+
+17.
+
+The pattern and quality of public expenditures have improved recently, but
+
+challenges remain.
+Budget allocations to priority sectors (education, health, rural
+development, and roads) have risen, with the share of the budget allocated to these sectors
+rising to 32 percent of total nonwage recurrent expenditures in 2001 from 25.5 percent in
+1997. Four important factors account for the improvement: (a) public expenditures are
+increasingly being managed through the medium-term expenditure framework, (b) reforms in
+the budget mechanisms have been introduced to allow resources to be transferred to
+subnational levels of the government, (c) public procurement has been deconcentrated to the
+regional and prefectoral levels; and (d) a computer-based accounting and monitoring system
+has been introduced. While these are important steps, challenges remain to ensure that all
+expenditures follow budgetary procedures, to further improve expenditure tracking systems,
+and to develop monitoring and evaluation systems to allow analysis of the impact of
+expenditures. The government started in 2002 to disseminate budget figures through the
+media, particularly for priority sectors.
+18.
+HIPC and debt sustainability. Guinea reached its decision point under the
+enhanced HIPC Initiative in December 2000. At the end 1999, the net present value (NPV)
+of Guinea's debt was estimated to be US$1,727 million and was equivalent to 219 percent of
+exports. HIPC assistance lowered the debt stock by US$545 million in NPV terms,
+equivalent to US$800 in nominal terms. The assistance from the International Development
+Association (IDA) was US$152 million in NPV terms, equivalent to US$234 million in
+nominal terms. HIPC assistance reduced Guinea's debt burden substantially. The NPV of
+debt-to-exports was projected to fall to 133.6 percent at the end of 2002 and to remain under
+the 150 percent threshold throughout the projection period (1999-2018).'3
+19.
+Guinea remains vulnerable to external shocks. An update of the debt sustainability
+analysis (annex E) shows that exports have been lower than projected for the decision point,
+mainly due to the fall in bauxite prices. The NPV of debt-to-exports is higher than expected
+at decision point projections. It will remain below 200 percent with prudent external
+borrowing policies and in the absence of adverse shocks, but a drop in exports would threaten
+long-term debt sustainability.
+D.
+
+20.
+
+Progress in social sectors
+
+Guinea has made progress towards achieving the MDGs for health, but much
+
+more needs to be done. Since adopting the Bamako Initiative and reorganizing its health
+13
+The completion point, which was initially scheduled for December 2002, is now scheduled for December 2004,
+after successful completion of a Staff Monitored Program and adoption and beginning of implementation of a new
+PRGF.
+
+-6 system in 1991, Guinea has significantly reduced infant and under-five mortality and
+maternal mortality, especially in the rural areas. Guinea has also increased immunization
+coverage against measles from 35 percent in 1990 to 52 percent in 2001, and improved
+access of women to prenatal care from 57 to 65 percent of pregnant women. The poor now
+seek much more care for common, but often fatal childhood problems, such as diarrhea and
+acute respiratory illnesses. However they are much less likely to follow-up care than the
+better off. Nevertheless, the total fertility rate is 5.5, maternal mortality exceeds 520 per
+100,000 live births, the contraceptive prevalence rate is only 4 percent, and the unmet
+demand for family planning services is over 20 percent. These indicators are worse in rural
+areas and among the poor.
+Table 1: Evolution of health indicators (percent)
+Guinea
+1990
+
+Life expectancy at birth
+Infant mortality rate
+
+Under five mortality rate
+Maternal mortality rate
+Total fertility rate
+
+43.7
+n.a.
+229
+n.a.
+n.a.
+
+1992
+44.4
+136.3
+229
+666
+5.7
+
+1994-95
+45.7
+121.3
+n.a.
+470
+n.a.
+
+Africa
+199 7-98
+46.5
+120
+182
+493
+5.4
+
+1998-99
+47
+98
+177
+528
+5.5
+
+1998-99
+47
+91
+151
+5.2
+
+Source: Demographic and health surveys 1992 and 1999, household integrated survey, World Bank,
+Ministry of Health (analyse du secteur sante), United States Bureau of Ceslsus.
+
+21.
+In spite of improvements, health expenditures continue to be low (less than 2 percent
+of GDP) and are focused on secondary care, tertiary care, and central administration, while
+only 14 percent of expenditures goes to primary care 14 . The wealthier groups benefit the
+most from the public health expenditures. For example, 65 percent of women from the
+richest income quintile gave birth in a public facility, while only 11 percent of women from
+the poorest quintile did. About 60 percent of health personnel are concentrated in Conakry,
+serving only 20 percent of the countries' population, and shortages of drugs and vaccines
+continue to hamper service quality.
+
+22.
+
+Access to education has improved markedly during the past ten years, but issues
+
+of equity in access and quality still need to be addressed. Guinea has experienced average
+enrolment growth rates of 10 percent per year (12 percent for girls) during the 1990s,
+resulting in significant improvements in girls' schooling, survival, and literacy rates (see
+table 2).15 Learning outcomes in both French and math have also improved during the past
+five years. Nevertheless, Guinea needs to address serious disparities and management issues
+in the sector in order to meet the MDG of having all children complete primary school by
+2015.
+23.
+In recent years, public expenditures in education increased from 1.7 percent of GDP
+in 1999 to 2.2 percent in 2001. While increasing in nominal terms, the share of the education
+budget for primary school has remained at 44 percent of the total. This has slowed down
+Guinea's progress in improving quality and equity of public expenditures.
+
+14
+The main reasons why indicators improved in spite of low health expenditures are gains in efficiency and
+transparency in front line service delivery due to community empowerment as part of the Bamako initiative and
+increased service utilization. Improved access to drinking water also had a positive impact.
+is This is the highest sustained rate of enrolment growth in any country worldwide during the period: gross
+enrolment rates increased from 34 percent in 1990 to 67 percent in 2001.
+
+-7Table 2: Evolution of education indicators (percent)
+1991-92
+Gross primary enrolment ratio of girls (percent)
+Gross primary enrolment ratio of boys (percent)
+Female literacy rate (percent)
+Male literacy rate (percent)
+
+20
+45
+
+2002
+(or most recent
+data available)
+63 (2002)
+72 (2002)
+15 (1996)
+
+37 (1996)
+
+SubSaharan
+Africa
+71
+85
+31
+47
+
+(1997)
+(1997)
+(1999)
+(1999)
+
+Source: Guinea PRSP.
+
+24.
+School completion rates are low (43 percent) and repetition rates (30 percent of
+students per year) are the highest in the region. This is partly due to the little emphasis given
+to teacher in-service training, weak supervision, and insufficient availability of textbooks.
+While studies have shown that repetition does not result in greater learning or the greater
+probability that a child will complete school, it accounts for about 34 percent of all primary
+education expenditures.
+25.
+Great inequities in access to education between urban and rural areas persist. In
+urban areas the gross enrolment rate was over 90 percent in 2001 (about equal for boys and
+girls) while in rural areas it was about 57 percent (62 for boys and 51 for girls). About 68
+percent of children in urban areas finish school, while only 36 percent of children in rural
+areas do. This is partly explained by higher repetition and drop-out rates and lower
+availability of complete schools in rural areas. In addition, over 3,000 classrooms in rural
+areas have no teachers, although 2,000 teachers per year complete training. This is partly
+because private schools, which are growing faster than public schools, are attracting qualified
+teachers. But, mismanagement of teachers is also an important factor. The government
+payroll has about 5,000 teachers more than there are in classrooms, which represents about
+33 percent of the total. Since teachers' salaries comprise about 34 percent of government's
+wage bill, managing teachers in a cost-effective and transparent way is one of the key policy
+reforms needed to meet the education MDGs.
+26.
+Gender inequity remains. Women are more likely to be poor on all dimensions of
+poverty, including access to education, employment, income, decision-making
+responsibilities, political participation, and others. Only 6 percent of rural women are able to
+read and write. Yet, they produce about 80 percent of the nation's food and work 15-17
+hours a day. While Guinea has ratified several conventions affecting gender equity,
+inequities persist in the civil and labor codes (see box 1). Women are also victims of cultural
+practices such as forced marriage, genital mutilation, and inheritance customs that favor men.
+27.
+HIV/AIDS prevalence is rising in Guinea. According to a July 2001 survey,
+HIV/AIDS prevalence among pregnant women had reached 4.4 percent in urban areas (5
+percent in Conakry). The war-affected regions in Guinee Forestiere show an even higher
+prevalence rate of 7 percent. The gender ratio of HIV/AIDS infected patients has shifted
+from eight men to one woman in 1989 to two women for one man in 2001. Among
+vulnerable groups, the latest surveys show 42 percent prevalence among commercial sex
+workers, 7.3 percent among truck drivers, 6.7 percent among the military, and 4.7 percent
+among people working in the mining sector. Since the end of 2001, the fight against
+HIV/AIDS has gained momentum. The personal commitments of the president and the first
+lady, the prime minister, and various members of government have resulted in accelerated
+efforts to fight HIV/AIDS. For example, a national Multisectoral HIV/AIDS committee was
+created under the leadership of the prime minister, and similar committees were created at the
+
+-8prefectoral level. A national strategy and sector-specific strategies have been prepared.
+Guinea has also succeeded in mobilizing external resources to finance the fight against
+HIV/AIDS, including a grant of US$20.3 million from the World Bank.
+Box 1: Guinea core labor standards
+Guinea ratified 56 ILO conventions, among which six relate to core labor standards. Guinea ratified
+three conventions related to minimum age in industry, agriculture, and nonindustrial employment, but
+not the two core labor standards pertaining to child labor. Given that 50 percent of Guinea's population
+is younger than 15 years old, and that especially in rural areas, the school enrolment rate is 57 percent
+(51 percent for girls) this is relevant, particularly for young women.
+Despite the fornal ratification of conventions related to discrirnination, the government's Civil
+Service Act prohibits discrimination only on the basis of philosophical or religious views and gender.
+This doesn't include all of the grounds set forth in the convention. Regarding freedom of association,
+Guinea ratified convention C87. However, contrary to the convention, arbitration issues included in the
+labor code are likely to restrict the exercise of the right to strike. The government should address this
+question in the ongoing revision of the labor code. The national legislation should also include
+provisions aimed at protecting workers' and employers' organizations against any acts of interference
+from each other. Provisions should be made to provide expressly for legal procedures and sufficiently
+dissuasive sanctions against acts of antitrade union discrimination and interference.
+
+2.
+
+GUINEA'S POVERTY REDUCTION STRATEGY
+
+28.
+After developing its poverty reduction strategy through a highly participatory
+process, Guinea presented in July 2002 its PRSP to the Boards of the World Bank and the
+IMF. The PRSP provides a frank analysis of the challenges in Guinea and lays out the
+government's strategy to address these challenges. A summary of the various actions to
+implement the PRSP and the partnerships to provide support are outlined in annex D.
+29.
+PRSP objectives and the MDGs. The overall objectives of the poverty reduction
+strategy are to significantly and sustainably reduce poverty in Guinea, and to improve the
+living conditions and prospects of the population, particularly of the poorest people. To
+achieve the objectives, the poverty reduction strategy centers on three pillars: (a) fostering
+sustainable and equitable growth; (b) improving access and quality of basic social services;
+and (c) strengthening governance and institutional and human capacity. The PRSP objectives
+are broadly consistent with the MDGs, except with regard to the reduction of poverty (see
+table 3).
+
+-9-
+
+Table 3: PRSP objectives and indicators
+
+Objectives / Indicators
+
+Existing situation
+Date
+Value of
+1996/00
+1995
+1997
+1999
+
+Improving access and quality of basic social services
+1999
+Gross primary school enrolment (%)
+1999
+Gross primary school enrolment girls (%)
+Adult literacy rate
+Infant mortality rate (9/oo)
+Matemal mortality rate (%)
+HIV seroprevalence rate (%)
+Access to safe drinking water (% pop.)
+
+MDG objectives
+2015
+MDG/
+
+catorPRSP
+
+_______________________I_ind
+
+Sustainable and equitable growth
+GDP growth rate (annual rate in %)
+Incidence of income poverty (in %)
+Road density (km of road/100 sq. km)
+Electricity access rate (%)
+
+PRSP objectives
+2005
+2010
+
+1998
+1999
+1999
+1998
+1999
+
+3.7
+40.3
+2.7
+16.4
+56.7
+44.3
+36
+98
+528
+4.4
+49
+
+5.0
+2.9'
+39.4
+70
+63
+70
+300
+<5
+80
+
+10
+30
+62
+65
+1003
+
+1003
+452
+50
+200
+<5
+100
+
+20
+
+Not in line
+
+100
+100
+
+In line
+In line
+
+40
+167
+<5
+100
+
+In
+In
+In
+In
+
+line
+line
+line
+line
+
+Strengthening governance and Institutional and human capacity
+Number CRDs strengthened
+Reduced counuption
+
+2002
+2002
+
+73
+303
+No quantitative information available in PRSP
+
+Increased accountability to beneficiaries
+
+2002
+
+No quantitative information available in PRSP
+
+2002
+
+No quantitative infornmation available in PRSP
+
+Independent, professional justice system
+Notes: (I) by 2003, (2) by 2007, (3) by 2012.
+Source: Guinea PRSP.
+
+A.
+
+PRSP pillar 1: fostering sustainable and equitable growth
+
+30.
+The poverty reduction strategy aims to achieve sustainable and equitable growth.
+This will require maintaining a stable macroeconomic framework, reforming policies, and
+creating an investment and trade environment that attracts private sector participation in
+delivering services, including in provision of basic infrastructural services (specifically
+electricity, water, and transportation services).
+Macroeconomic stability, improved fiscal and monetary policy, and improved
+31.
+The initial
+quality and quantity of expenditures in priority sectors are key.
+macroeconomic framework underpinning the PRSP was finalized in January 2002 on the
+basis of information then available and was updated to reflect revisions of the
+macroeconomic program as reflected in table 4. The growth projections have been lowered to
+an annual average of about 5.6 percent over the medium term, which the World Bank and
+IMF staff consider to be reasonable and attainable. Inflation is projected to decline to 3
+percent by 2004, compared with the initial objective of 2.8 percent. The external current
+account deficit is considerably higher than initially programmed, reflecting the imports
+associated with the major investmnents in mining projects, which are financed by private
+sector capital inflows. The overall government deficit is somewhat higher in the outer years
+than initially expected, owing to revised revenue projections, lower projected levels of
+external grants, and higher programmed spending in the priority sectors. To address further
+changes in the macroeconomic framework, the authorities are discussing an IMF Staff
+Monitored Program, which will ensure that the government's financial operation remain
+consistent with available resources and with the maintenance of macroeconomic stability.
+
+- 10-
+
+Table 4: Guinea 2002 update of PRSP macroeconomic framework (percentage of
+GDP or Guinean francs)
+2000
+Estimate
+1.8
+6.8
+11.1
+
+2001
+Estimate
+3.8
+5.4
+4.9
+
+Gross domestic investment
+Govemment
+Nongovernment
+
+21 9
+7.1
+14.8
+
+21.9
+7.2
+14.8
+
+(%of GDP)
+25.2
+7.8
+17.4
+
+23.8
+7.9
+15.9
+
+26.2
+9.2
+17.0
+
+29.7
+10.5
+19.2
+
+32.1
+10.8
+20.2
+
+Gross domestic saving
+Government
+Nongovemment
+
+16.8
+3.3
+13.5
+
+20.0
+1.3
+18.8
+
+20.1
+1.5
+18.6
+
+20.5
+3.8
+16.8
+
+24.8
+3.8
+21.0
+
+27.0
+4.5
+22.6
+
+28.3
+49
+23.4
+
+Govemmentrevenues
+Govemmentexpenditures
+
+10.9
+16.5
+
+11.3
+18.8
+
+12.1
+20.3
+
+12.4
+18.7
+
+12.4
+20.3
+
+12.9
+21.2
+
+13.2
+21.3
+
+24.0
+
+27.1
+
+24.7
+
+26.2
+
+27.5
+
+26.3
+
+26.1
+
+29.2
+
+29.0
+
+29.9
+
+29.5
+
+29.0
+
+29.2
+
+30.0
+
+Extemal Overall Budget Balance
+(including grants)
+
+-3.2
+
+-4.1
+
+-5.9
+
+-2.0
+
+-3.0
+
+-3.0
+
+-2.8
+
+External Current Account (including
+official transfers)
+
+-7.4
+
+-2.4
+
+-6.1
+
+-4.5
+
+-3.8
+
+-5.4
+
+-6 4
+
+5,434.2
+
+5,918.6
+
+6,324.9
+
+6,885.3
+
+7,501.30
+
+8,149.0
+
+Real GDP growth (%change)
+CPI (period average annual %/o
+change)
+GDP implicit deflator (%change)
+
+Exports (goods and nonfactor
+services)
+Imports (goods and nonfactor
+services)
+
+Memorandum Item:
+Nominal GDP (billions of Gnf)
+
+2002
+2003
+2004
+2005
+2006
+Estimate
+Projection Projection Projection Projection
+4.3
+4.5
+5.0
+5.8
+6.1
+3.0
+3.5
+3.0
+3.0
+3.0
+2.5
+4.2
+3.8
+2.6
+3.3
+
+8,914.9
+
+Source: Govemnment of Guinea and IMF staff estimates.
+
+32.
+Improvements in the policy environment for agriculture will aim at increasing
+agricultural production and productivity and improving incomes for the poorest. Policy
+reforms will be designed to strengthen, and finance the demand side of services by
+decentralizing resources for service delivery to subnational levels of government and to
+communities. This will reduce transaction costs, increase accountability of service providers
+to beneficiaries, and create a competitive market for service delivery. Service delivery will
+be rationalized and strengthened so that public and private providers reposition themselves
+based on their comparative advantage. The opening of menus of eligible expenditures under
+the Community Development Program will allow the financing of small scale productionoriented investments (market places, storage facilities, feeder roads, and the like). Policy
+reforms will also be pursued to encourage the development of agro-processing industries and
+to strengthen linkages with external markets.
+
+33.
+
+The PRSP also calls for policy reforms in fisheries and mining. In fisheries,
+
+policy reforms are envisaged to ensure sustainable management, and mobilization of fiscal
+revenues from the sector. To foster growth in the mining sector, the government will support
+reforms to attract private investment by further clarifying the regulatory framework for major
+mining investments, and by reorienting public administration in the sector.
+
+34.
+
+Improvements in the investment climate focus on utilities, and infrastructure.
+
+Regarding water and electricity, the government envisages attracting private participation in
+managing the utilities; improving the institutional and regulatory framework; and ensuring
+
+adequate competition, respect for environment, and minimization of fraud. The PRSP calls
+for private sector involvement to supply energy services in rural areas. To link producers to
+markets, the government has adopted a national transport plan to improve the management
+and maintenance of transport infrastructure. The government also plans to rehabilitate
+essential infrastructure damaged during the 2001 skirmishes. Demand for urban services and
+infrastructure is growing fast. 16 The strategy is to (a) continue financing and implementing
+the primary road network, (b) improve access within densely populated neighborhoods, and
+(c) improve solid waste management. In secondary cities, the government will continue to
+introduce municipal contracts to improve management and governance, mobilize resources,
+and improve municipal services and infrastructure.
+35.
+Actions will be taken to improve the environment for trade. Guinea's trade
+environment is one of the main impediments to economic growth. The PRSP envisages that
+policy reforms in customs, tax administration, transportation and the like will be
+implemented to foster regional integration and to remove bottlenecks constraining trade. The
+results of a 2003 integrated trade framework diagnostic will support the government's actions
+in this area.
+36.
+The joint staff assessment of the first PRSP pillar, concludes that the strategy
+recognizes the need for growth to reduce poverty, and identifies the sectors of growth,
+Nevertheless, the strategy could be strengthened with a thorough discussion of the reforms
+needed to substantially raise the investment rate. This should cover in particular the
+improvements needed in the investment climate, including in the overall judicial and
+regulatory framework. The strategy would also gain from a better understanding of how to
+overcome the constraints to agricultural growth.
+B.
+
+PRSP pillar 2: access to and quality of basic social services
+
+37.
+The PRSP aims to make progress towards the MDGs in health, education, access to
+water, and the fight against HIV/AIDS. The strategy calls for sector reforms and the
+empowerment of beneficiaries over service delivery.
+38.
+In health, the focus will be on achieving specific MDGs. These include reducing
+infant mortality rates from 98 to 50 per 1,000 and reducing maternal mortality from 528 to
+200 per 100,000 live births by 2010. Improving health outcomes calls for scaling up the
+Bamako Initiative. This will require (a) substantial investments to strengthen the primary
+health care facilities; (b) increasing access of the poor to cost-effective and affordable
+interventions (such as immunization programs, integrated management of childhood
+illnesses, and essential drugs and micronutrients); and (c) reducing maternal and neonatal
+mortality by increasing access to family-planning services, by strengthening prenatal care,
+and by promoting safe deliveries. The implementation of these strategies will require
+improving overall sector performance. This will involve measures such as reducing
+inequities, improving efficiency through reforms at the secondary and tertiary levels of care,
+improving financial management at all levels of the system, and strengthening human
+resources through public service reforns, training, and creating partnerships with NGOs and
+the private sector.
+39.
+In education the focus is on providing equitable access to a high-quality
+education system. The first goal is to increase enrolment rates in primary, and middle
+schools, especially of girls in rural areas. Early childhood initiatives, and literacy, secondary,
+16
+
+Conakry's population has almost doubled in the last 15 years and now stands at about 1.4 million inhabitants.
+
+- 12
+
+-
+
+vocational, and higher education programs will also be supported. The PRSP calls for
+improving the quality of education by developing strategies to improve teaching and learning
+in schools by introducing multigrade schooling, reformning the curriculum and examination
+system, improving textbooks, reading materials, school nutritional programs, among other
+actions. The strategy recognizes the need to strengthen the capacity for decentralized
+management and for greater involvement of communities in the management of schools.
+40.
+Water supply will be increased and management of water resources improved.
+In water supply and water resource management the focus is on preparing a national strategy
+and policy, defining an adequate legal framework, and building sustainable and decentralized
+water resources institutions. This includes developing an overall coordinating mechanism
+that has capacity to defend Guinea's interest in subregional negotiations on water resource
+management.
+In rural areas, many communities will receive resources through the
+Community Support Program, which they can use to improve drinking water systems. In
+addition, 330 to 450 boreholes per year will continue to be constructed using HPIC resources.
+With regard to wastewater, establishing a sustainable institution to recover the costs of
+operation and maintenance of facilities that are currently under construction will be
+important.
+
+41.
+
+The flght against HIV/AEDS is a top priority for the government. The objective
+
+is to maintain the HIV prevalence below 5 percent. The government will transfer resources
+to communities (including organizations or people living with HIV/AIDS) to implement local
+HIV/AIDS action plans. The participatory methodologies used to develop these action plans
+will pay particular attention to women's needs. The government will strengthen the capacity
+for voluntary testing and counseling, prevention of mother to child transmission, treatment of
+opportunistic infections, detection and treatment of sexually transmitted infections, and
+access to antiretroviral therapy. Finally, it will provide massive support to prevention
+campaigns, promoting increased use of condoms among other actions.
+
+42.
+
+The joint staff assessment of the second PRSP pillar underlines that the strategy
+
+rightly puts the emphasis on improved access to social services. In health, the focus on
+community empowerment builds upon the approach that has allowed Guinea to substantially
+improve some health outcomes. However, the strategy should offer solutions to the chronic
+underfunding of recurrent health expenditures and the strong bias in spending in favor of
+urban areas, secondary and tertiary levels of service, and the central administration. In
+education, the strategy could be strengthened by discussing how to improve management of
+teachers, and by specifying specific actions to improve quality of and access to education,
+especially for girls. In HIV/AIDS, the strategy could strike a better balance between
+treatment and prevention.
+
+C.
+
+PRSP pillar 3: governance and institutional and human capacity
+
+43.
+The PRSP recognizes that achieving its third objective-strengthening governance
+and institutional and human capacity-is critical for achieving the first two objectives. The
+PRSP calls for stepping up the fight against corruption, strengthening and empowering
+beneficiaries and subnational levels of government, and improving transparency in
+macroeconomic management.
+44.
+To step up the fight against corruption, the Anti-Corruption Committee was
+established in 2000. Members of the committee represent the government, various political
+parties, civil society, and the private sector. The committee has documented several
+corruption cases and presented them to the judicial system for follow-up. Thus far, however,
+
+- 13 a verdict has been reached in only one of the cases. In response to requests from citizens,
+anti-corruption committees will be created at the regional level to strengthen the fight against
+corruption.
+45.
+Empowering beneficiaries and strengthening subnational levels of government is
+central to the strategy. To improve access and quality of basic social services and
+availability of resources for recurrent expenditures, the strategy is to increase the transfer of
+funds to priority sectors and to local government and beneficiaries, and to strengthen tracking
+of funds down to the front line. This will be achieved through the further consolidation of the
+medium-term expenditure framework. In addition, the government plans to move towards
+contracting out public services and giving responsibility for recruiting service providers to
+local government and users' organizations. It will also implement performance-based
+incentive systems.
+Improving transparency in macroeconomic management will contribute to
+46.
+improved governance. The PRSP calls for the systematic release of information to the
+pubic on budget allocations and actual expenditures to strengthen the management of public
+resources. To strengthen transparency in macroeconomic management, the government is
+implementing the recommendations of the 2002 country procurement assessment report
+(CPAR), the country financial accountability assessment (CFAA), and the public expenditure
+review (PER). The government plans to build statistical and monitoring and evaluation
+capacity in recognition that the capacity to monitor and evaluate the impact of development
+expenditures is key to strengthening institutional capacity and governance.
+47.
+The joint staff assessment of third PRSP pillar points out that the emphasis in the
+PRSP on improving governance and fighting corruption is appropriate. However, the PRSP
+does not analyze the nature and causes of corruption, provide detailed proposals to reduce it,
+offer clear objectives, or name indicators through which to measure progress.
+D.
+
+Summary of PRSP assessment
+
+48.
+The staff of the Bank and the Fund believe that the PRSP provides a credible
+framework for the implementation of poverty reduction strategies. With the PRSP, the
+govemment has developed an effective framework to coordinate support from donors. The
+main strengths of the PRSP are (a) the quality of the participatory process, through which a
+genuinely country-owned strategy has been elaborated; (b) the inclusion of a relatively
+thorough poverty analysis, in spite of limited availability of data; and (c) the
+comprehensiveness of the strategy. The use of traditional communicators in the PRSP
+preparation process strengthened the quality of participation, and allowed effective
+communication in Guinea's various vernacular languages. To further increase ownership, the
+government has launched a series of regional workshops to develop regional strategies within
+the overall PRSP framework.
+
+49.
+
+Nevertheless, the joint staff assessment also identifies some weaknesses. Overall,
+
+the targets of the PRSP are probably overly ambitious. The strategy should prioritize key
+policy reforms required for equitable growth and identify specific actions. The chronic
+underfunding of recurrent expenditures in priority sectors is not yet adequately addressed.
+Also in the area of governance the PRSP can be strengthened by the identification of specific
+actions. These deficiencies constitute risks for the implementation of the PRSP, and should
+be discussed in future versions of the document. They are taken into account in defining the
+triggers for the high case scenario of this CAS.
+
+- 14-
+
+3.
+
+PROSPECTS FOR GROWTH
+
+50.
+Guinea has not realized its full economic potential. Guinea has great potential for
+economic growth due to its abundance of minerals, its excellent conditions for agriculture,
+and its strategic location that favors trade. However, both internal and external factors have
+kept Guinea from realizing its potential. Internal constraints include an inhospitable
+investment climate due to a weak regulatory framework, institutional and regulatory
+constraints on trade and regional integration, and overall weak governance. Exogenous
+factors include the continued instability in the subregion and heavy dependence on a single
+commodity, bauxite, for export revenue. The combination of these domestic and exogenous
+factors makes Guinea vulnerable to shocks that may come from continued instability in the
+subregion, declines in bauxite prices, or deterioration in the political stability of the country.
+51.
+Macroeconomic framework for 2004-06. The country's poverty reduction strategy
+recognizes the need for accelerated and sustained growth as the basis for the poverty
+reduction effort. As previously mentioned, the macroeconomic framework underpinning the
+PRSP has been revised to
+Table 5: Guinea financing requirements, 2003-06
+reflect less optimistic growth
+projections than when the
+(in millions of US$)
+2003 2004 2005 2006
+PRSP was presented to the
+2003/2 2004. 2005. 2006
+Boards of the IMF and World
+The
+Bank in July 2002.
+Proj/ Proj. Proj. Proj.
+Total requirements
+357.1 441.2 478.1 520.5
+current
+macroeconomic
+framework projects annual
+295
+Current account deficit 196.0 179.4 243
+GDP growth to be 5.8 percent
+129.1 115.2 105.8 106.1
+Debtamortization
+in 2005, and inflation to
+average 3 percent during
+32
+146.6 129.3 119.4
+Increase in reserves
+2004-06 (see table 4).
+0.0
+0.0
+0.0
+0.0
+Reduction of area.
+Despite slightly lower growth
+357.1 391.6 444.1 493.9
+Financing Sources
+projections, the targets for
+121.8 148.1 177.6 187.7
+Official grants
+revenues, spending in priority
+sectors, monetary policies,
+103.7 117.7 135.5 143.3
+Long-term off. loans
+28.4
+28
+32.5 59.8
+and structural reforms remain
+Foreign direct inv.
+21.9
+the same. Nonmining fiscal
+0.0
+3.2
+7.3
+Private capital
+Debt relief
+103.2 94.6
+91.2
+81.2
+revenues are projected to be
+Dbtrei10.2
+94.6
+91.2
+81.2
+11.1 percent of GDP and
+current expenditures to be
+34.0 26.6
+0
+49.6
+Financing gap
+Memo Item:
+10.3 percent of GDP. The
+22.0 33.0
+primary balance for 2005 is
+IDA disbursements
+19.0
+projected to be 2 percent of
+GDP and the external current
+account balance to be negative 5.2 percent. In spite of the recent deterioration in foreign
+reserves, the projected gross official reserves for 2005 are equivalent to 2.9 months of
+imports. Achieving the targets will require an extra effort from government.
+52. Medium-term financing requirements. Guinea's external financing requirements in
+the PRSP base case scenario total about US$ 1.8 billion for 2003-06, resulting in an estimated
+financing gap of US$ 110.2 million after accounting for projected debt relief of about US$370
+million for the period. The government (with Bank and IMF assistance) is updating
+financing requirements in light of recent developments and risks to the external outlook. To
+
+- 15 cover Guinea's sizeable financing gap will require improvements in the policy environment
+and a commitment to strong macroeconomic management. As mentioned previously, the
+government is currently discussing a Staff Monitored Program.
+Its successful
+implementation will strengthen Guinea's track record of reforms and provide the basis for
+negotiations of a new three-year PRGF-supported program. It will also lead to greater
+mobilization of resources from donors to implement the PRSP.
+4.
+A.
+
+BANK GROUP ASSISTANCE STRATEGY
+
+Objectives of the 2003 country assistance strategy
+
+53.
+The government's strategy for poverty reduction has three pillars: (a) fostering
+sustainable and equitable growth, (b) improving access and quality of basic social services,
+and (c) strengthening governance and institutional and human capacity. The objective of the
+CAS is to support the implementation of the government's strategies in each of these pillars.
+The Bank intends to do this through selected economic and sector work, a structural
+adjustmnent operation, and second phases of existing adaptable program loans to foster
+growth, improve access to social services, and strengthen capacity and governance (see tables
+8 and 9). Through these activities, the Bank will assist Guinea to reform its institutional and
+policy framework, to build its capacity for service delivery, and to improve the management
+of public finances so that Guinea's national institutions are able to effectively implement the
+country's development programs. The Bank would consider moving towards support
+through a PRSC, provided that Guinea establishes a strong fiduciary framework for public
+finance management.
+B.
+
+The Bank's experience in Guinea, lessons learned, and consultation
+
+54.
+This CAS reflects lessons learned from (a) Guinea's past perforrnance; (b) the
+implementation of the previous CAS; (c) a 2003 OED review of the past four structural
+adjustment operations in Guinea; (d) extensive consultations with stakeholders including
+government, private sector, civil society, and the donor community; and (e) a 2002 client
+survey.
+55.
+Guinea's past performance has been erratic. For example, considerable progress
+made in the 1990s with improving the performance of water and electricity services has been
+reversed and severe water and electricity shortages are again occurring. After a period of
+macroeconomic instability in late 1999 and early 2000. However new fiscal slippages in
+2002 led the PRGF supported program to go off track again. Hence, the government has
+requested the IMF to informally monitor the macro situation until end-year, with a view to
+pursuing a staff monitored program for six months thereafter. Guinea's track record of
+erratic performance has been taken into account in determining the CAS triggers.
+56.
+Since the late 1980s, Guinea has benefited from four structural adjustment
+credits. Notable progress was made in the area of public expenditure management,
+specifically through the introduction of a medium-term expenditure framework, and through
+the development of a computerized budget tracking system. This resulted in a substantial
+increase of transfer of funds for front line service delivery in 2002. Nevertheless, important
+challenges remain. A 2003 OED review of the four structural adjustment credits points to
+several lessons:
+
+- 16*
+
+A solid program of analytical work is essential to underpin policy-based lending
+operations. Partly due to a lack of analytical underpinnings, govemment ownership
+of some of the previous structural adjustment programs was weak.
+
+*
+
+Policy reform should focus on a few key areas where government has demonstrated
+its commitment. Tranche release should come after actual implementation of policy
+reforms, in accordance with clear performance indicators.
+
+*
+
+In light of the persistent fiscal deficit, more balanced attention should be given to
+both revenue mobilization and public spending.
+
+*
+
+More attention should be given to improving the investment climate and trade.
+
+*
+
+The Bank should closely monitor debt sustainability, and identify a strategy to
+manage its exposure to risk.
+
+57.
+The Bank's support to Guinea during the previous CAS. While several of the
+Bank supported programs achieved results, not all were successful. The Conmmunity Support
+Program and the Urban Program successfully promoted community empowerment over
+delivery of services. In education and health, the Bank-supported activities helped Guinea
+improve quality of and access to services. In the mining sector, the Bank contributed to
+policy reforms and a better regulatory framework, which opened the way to new investment.
+In spite of support from a Bank project, agricultural exports did not pick up during the
+previous CAS period. Implementation of the Bank supported Capacity Building for Service
+Delivery Program (CBSD) was unsatisfactory due to persistent management and fiduciary
+problems. The Bank is taking action to address these issues. In spite of its dialogue and
+operations, the Bank was not able to prevent the water and power utilities being again put
+entirely under public management. Due to lack of political commitment in the country, the
+Bank was not able to support reforms of the judicial system, as planned under the previous
+CAS.
+58.
+The Bank learned lessons from what worked and what did not work under the
+previous CAS:
+What worked
+*
+
+Community participation has been key. Programs such as the Community Support
+Program and the Urban Program that involved strong participation of beneficiaries, and
+transfer of financial resources and decision-making authority to subnational levels of
+government have been particularly successful in improving poor people's access to and
+quality of services, and in bettering govemance. Such programs have also promoted
+gender equity, since many of the community-identified priorities have involved
+measures that improve the quality of women's lives, such as improved access to
+drinking water, to maternal health services, and to agricultural services.
+
+*
+
+The involvement of the private sector (including beneficiary and producers'
+organizations) in service delivery has increased the quality of services. For example,
+beneficiaries of the Community Support Program have expressed increased satisfaction
+with services in a recent survey. Garbage collection in Conakry has improved under the
+Urban Program through subcontracting of the services to private organizations.
+
+*
+
+Programs implemented through government agencies were more sustainable and had
+greater institutional impact than those that were implemented through project
+
+- 17 implementation units. 17 A recent review of statements of expenses of the Bank's entire
+portfolio showed that such programs also performed better with respect to fiduciary
+aspects.
+*
+
+Transfer of resources to the front line has improved, but more remains to be done to
+improve quality of expenditures. Through the Fourth Structural Adjustment Credit, 80
+percent of the nonwage recurrent budget was transferred in 2002 to the subnational
+level. However, revenue mobilization, and adequate controls on public spending remain
+weak.
+
+*
+
+Donor coordinationhas been important in scaling up successful programs to national
+coverage. Programs involving strong donor coordination, such as education and the
+Community Support Program, have made more progress in scaling up to national
+coverage than those in which donor coordination has been weak. The establishment of
+clear national strategies facilitates donor support to a common program.
+
+What did not work
+*
+
+The Bank did not have a decisive impact on governance. Nevertheless, the Bank has
+been able to support progress in governance in selected areas, where there has been
+national leadership and political commitmnent. These include the reforms towards
+budgetary deconcentration and the development of budget tracking mechanisms.
+
+*
+
+Bank efforts to support agriculturalexports have not had the desired impact. The
+Agricultural Export Promotion Project that was designed to improve access to finance
+for exporters and to support export-oriented infrastructure has not succeeded, due to
+weak implementation arrangements and management capacity, and due to the overall
+constraining environment for agricultural production, export, and trade.
+
+59.
+As part of the CAS preparation the Bank consulted with government and the
+donor community. The consultations with the government took the form of a workshop that
+focused on the general messages of the CAS, and on the implementation arrangements that
+would allow greater transparency and accountability in the budgeting and management of
+public resources, the increased responsibility of government agencies, the attainment of
+national coverage for key programs, and the strengthening of fiduciary requirements. The
+government asked the Bank to gradually deliver a greater proportion of resources through
+programmatic and multisectoral lending to ensure that cross-sectoral reforms and sectorspecific programs are consistent. The government also emphasized the importance of
+empowering communities to increase effectiveness of development programs and to enhance
+transparency and accountability. Donors have been consulted and express support for the
+Bank's strategy.
+60.
+Consultations with the private sector and with civil society were organized
+jointly with the Economic and Social Council of Guinea and the World Bank. Both
+groups gave a very clear message that the top priority to reduce poverty is to improve
+governance. The management of public finances, the fight against corruption, and the
+improvement of the justice system were identified as key prerequisites to foster growth and
+17
+Project implementation units have often been used to circumvent weaknesses in government institutions. While
+this may create short-term advantages with regard to reaching specific project related development objectives, it also
+tends to delay needed reforms in government institutions. Moreover, project implementation units often create
+distortions by duplicating national institutions that are mandated to undertake the programs, and by attracting the bestqualified staff in government through remuneration system that is out of line with the government compensation scales.
+
+- 18 -
+
+improve the delivery of social services. The participants also named improving access to
+credit, promoting rural development, and enhancing access to markets as critical for growth.
+61.
+Compared to the results of the client feedback survey completed in 1998, the
+results of the 2002 survey showed that clients in Guinea are more satisfied with the
+Bank. Nevertheless, clients request that the Bank do more to improve the investment climate
+and to strengthen governance (box 2). This CAS attempts to respond to this request. In
+reaction to the client survey, the Bank will step up efforts to strengthen partnerships in the
+country, to share knowledge and best practices, and to increase its capacity to assist with
+implementation, including through timely disbursement of funds.
+Box 2: Summary of 2002 client survey results
+According to the 2002 client survey, the overall impression of the World Bank's effectiveness in Guinea
+is fairly favorable. The changes that the Bank has introduced in Guinea in recent years have resulted in
+greater client focus, greater staff effectiveness, and better quality of products and services, which, clients
+say, make the Bank a preferred partner in Guinea.
+Compared to the 1995 client survey, clients see improvements on a number of issues including: (a) the
+Bank's contribution to poverty reduction, (b) respecting Guinea's social priorities, (c)reflecting the
+diversity of views, (d) participation and partnerships; (e)utilization of local expertise, (f) adapting to
+country circumstances, (g)adapting global knowledge to Guinea's needs, (h) strengthening the public and
+private sectors, (i) enhancing individual capacity, (j) Bank staff's overall effectiveness and focus on
+clients' needs, (k) Bank staff's technical competence and straightforwardness in dealings with clients, and
+(1)helping to attract donor support.
+Nevertheless, greater efforts are required to meet clients' needs to (a) secure an enabling political,
+economic and legal environment, (b) promote good govemance, (c) bring results that last, (d) broaden
+partnerships, and (e) improve project and program design and implementation. The Bank also scored
+lower in 2002 than in earlier surveys with regard to its contribution to economic growth; and to
+accessibility of staff, consistency of messages, and sharing knowledge about international best practices.
+Finally, the Bank's performance on timely disbursement of project funds and delegation of
+decisionmaking responsibility to country office staff, as in earlier surveys, is rated weak.
+62.
+The present CAS takes the lessons learned into account. In particular the Bank
+will support (a) a program of analytical work to underpin the Bank's operations; (b)
+improvements in the investment climate and growth through support for a stable
+macroeconomic framework and for policy reforms; (c) programs that empower communities
+and involve the private sector in service delivery; and (d) institutional reform and capacity
+building to improve governance.
+C.
+
+Strategic elements of the CAS
+
+63.
+The current CAS period will be a period of transition during which the Bank and
+other donors would move gradually towards more programmatic lending (see figure 1).
+During this period, the Bank will (a) support the implementation of the three pillars of the
+PRSP; and (b) ensure that sector reforiis are consistent with cross-sectoral reforms in the
+areas of public finance management, management of human resources, and local
+administration to ensure that resources intended to reduce poverty are used efficiently and
+transparently. This would allow possible future support through PRSCs provided that Guinea
+maintains a stable macroeconomic framework and strengthens public finance management.
+
+-
+
+19
+
+-
+
+Figure 1: Transition from support through projects towards programmatic lending
+FY98 to FY03 CAS
+Projects
+
+FY04 to FY06 CAS
+
+Future CAS
+
+Sector Programs
+
+Programmatic Lending
+PRSC I
+
+SAC 111,
+IV
+
+SAC V
+
+Health Projects
+
+Health APL 11
+
+Education Projects
+
+Educ. for All
+u
+
+Policy
+
+Policy
+
+Ec. Govern. _
+
+Ec. Govern.
+
+-O
+
+Mining Project
+
+|Agr. Services Project
+
+_
+
+Health
+_
+
+Education
+
+i
+
+Education
+OtherTBD
+
+Community Support Program (CDD)
+Rural and urban infrastructure programs, including rural electrification
+Capacity Building for Service Delivery Program
+
+HIV/AIDS MAP
+
+64.
+
+The Bank's strategy will be selective in the following ways:
+*
+
+Selectivity in sectors of engagement. While the PRSP identifies many sectors as
+priorities, the Bank will support only those areas where it has a comparative
+advantage, or where other donors are not already taking the lead. For example,
+the IMF is taking the lead in reforming financial sector regulations. The French
+development agency and a number of NGOs are leading efforts to create
+sustainable microfinance institutions.
+UNIDO, GTZ, and the African
+Development Bank are taking the lead to foster the development of small and
+medium size enterprises and of the private sector generally. USAID, GTZ, and
+the European Union are supporting large programs for environmental protection
+and sustainable management of natural resources. The African Development
+Bank, the Islamic Development Bank, the European Union, and the French
+development agency are financing large operations in support of the national
+highways. In each of these areas, the Bank will leave leadership to the other
+development partners.
+
+*
+
+Selectivity within sectors of engagement. Within the sectors of engagement, the
+Bank will focus on front line service delivery, institutional capacity building,
+and policy reforms. Specific subsectors will be left to the lead of other
+development partners. For example, in the agricultural sector, the French
+development agency is leading the effort to strengthen producers' organizations.
+
+-20 -
+
+D.
+65.
+
+Support to PRSP pillar 1: sustainable and equitable growth
+To support the first PRSP pillar of sustainable and equitable growth, the Bank will
+
+carry out analytical work and will contribute to (a) fostering macroeconomic stability; (b)
+improving the investment climate through assistance for establishment of minimum
+infrastructure services required for growth; (c) supporting policy reforms in fisheries,
+agriculture, mining, and trade; and (d) improving rural services. This should help Guinea
+achieve an annual GDP growth rate of 5.8 percent (8 percent rural areas) by 2005.
+66.
+Strengthening the knowledge base. Building on a recent integrated trade
+framework diagnostic, a country economic memorandum (FY04-05) combined with a
+private sector assessment (to be led by other donors), will fill the existing knowledge gap of
+sources of and constraints to growth. An assessment of the gap between actual and minimal
+infrastructural services needed for growth will be part of these studies. The analytical work
+will aim at strengthening the dialogue between the partners in the economy, including private
+providers of social services, and will allow the Bank to further refine its growth strategy
+during the CAS period.
+67.
+Fostering macroeconomic stability. The strategy aims at triggering a virtuous cycle
+where growth and macroeconomic stability mutually reinforce each other. This synergy will
+depend to a large extent on improvements in govemance, which is one of the triggers for the
+high case scenario. To complement the IMF program, and in full coordination with the
+European Union and the African Development Bank, the Bank will support macroeconomic
+stability through further structural reforms aimed at (a) increasing fiscal revenues through
+reductions in tax exemptions and greater transparency and efficiency in tax collection; (b)
+improving budget management through full implementation of the action plans resulting
+from the CPAR, the CFAA, and the PER, expanding the medium-term expenditure
+framework to include all sectors, and establishing a budget tracking mechanism down to the
+local level; and (c) establishing a track record of adequate budget allocation and release for
+front line service delivery. These reforms will be supported through the fifth Structural
+Adjustment Credit (FY04).
+68.
+A satisfactory macroeconomic framework, including the various actions to strengthen
+public expenditure management, combined with strengthened monitoring and evaluation at
+community and national levels to assess development impact will allow the Bank to consider
+providing support through a PRSC. Given the magnitude of the challenge, the Bank does not
+expect that the conditions for support through a PRSC will be established before 2006.
+69.
+
+Supporting improvements in the investment climate through assistance for
+
+minimum infrastructure services required for growth. Using ongoing and new operations
+and selected economic and sector work that will be led by other donors, the Bank will
+support the establishment of minimum infrastructure services required for growth. Regarding
+utilities, the focus will be on improving governance and increasing involvement of the private
+sector in the provision of water and electricity services. However, through dialogue with the
+govermment, the private sector, and other donors, the Bank will examine how the private
+sector can be involved differently than in the past to avoid repeating the problems that led to
+reversals in performance of the water and electricity services.
+70.
+Urban and rural infrastructure services will be supported through two programs.
+First, the second phase of the Rural Infrastructure Program (FY04) will support (a)
+rehabilitation of essential social infrastructure that was damaged during the border
+skirmishes, (b) rehabilitation of the country's rapidly deteriorating rural road network, (c)
+
+- 21 -
+
+construction of selected economic infrastructure, and (d) capacity building to ensure that the
+improved infrastructure are managed in an environmentally and socially sustainable way.
+Second, the second phase of the Urban Program (FY05) will support construction of primary
+infrastructure, scaling-up the existing neighborhood upgrading programs, solid waste
+management, establishing agreements between municipal governments and their citizens on
+the transparent use of resources, and the strengthening of local municipal governments.
+However, based on the outcome of the assessment of requirements for minimum
+infrastructure services, the design of these operations may be adjusted.
+71.
+Supporting policy reforms in fisheries, agriculture, mining, and trade. Policy
+reforms in fisheries will be aimed at achieving sustainable management of fisheries and at
+increasing fiscal revenues from the sector. The European Union will take the lead, building
+upon economic and sector work that was carried out by the Bank as part of the integrated
+trade framework diagnostic. Guinea may be included in a larger initiative that the Bank
+envisages to improve fisheries in the subregion. Agricultural policy reforms will aim at
+supporting private service delivery, linking producers to markets, and strengthening
+producers' influence in policy making. This will be supported through an agricultural
+services component of the Community Support Program (FY05). Policy reforms in mining
+will reduce public sector interference and improve the regulatory framework to attract foreign
+capital. Policy reforms in trade will be designed to better link Guinea to the regional and
+international markets by implementing the action plans defined through the integrated trade
+framework diagnostic. The dialogue on trade and mining policies will be supported through
+the fifth Structural Adjustment Credit.
+Improving rural services. The second phase of the Community Support Program
+72.
+will widen the menu of activities eligible for financing to include production-oriented
+activities, including establishment of small-scale irrigation systems. Special efforts will be
+made to assess and address the socioeconomic needs for both women and men. The program
+will include a component for rural service delivery (research, extension, livestock services,
+small-scale irrigation, support to producers' organizations, and support to small and medium
+size enterprises) that will foster rural growth and encourage private sector providers to
+emerge in response to the demand for rural services. The program will include the
+development of monitoring and evaluation mechanisms to allow the assessment of the impact
+of the program on progress towards the MDGs, both at the community level and at the
+national level, and to strengthen accountability of local authorities and service providers to
+beneficiaries. Community driven development will be supported in a multisectoral way, by
+coordinating reforms in the respective sectors with reforms in cross-sectoral institutions
+(finance, local administration, and human resource management).
+73.
+Improving environmental management. Although the Bank will leave the lead for
+improved environmental management in Guinea to other donors, especially the European
+Union and USAID, it will support two projects through the Global Environmental Facility.
+These are the coastal zone management project and the community ecosystem management
+project (FY04).
+E.
+
+Support to PRSP pillar 2: access and quality of basic social services
+
+74.
+To support the PRSP pillar of increasing equitable access to social services, the Bank
+will strengthen its analytical base in support of a two-pronged strategy. This will focus on (a)
+empowering urban and rural people, their local governments, and their organizations; and (b)
+
+- 22 strengthening service delivery in specific priority sectors (health, education, fight against
+HIV/AIDS, and water resource management).
+75.
+Strengthening the knowledge base. To strengthen the analytical basis underpinning
+the dialogue and programs in the social sectors, a poverty assessment will be conducted in
+FY05-06 that will include an analysis of the distributional and social impacts of the Bank
+supported policy reforms in the education and health sectors. This will build on an education
+sector review that will be carried out in FY05.
+76.
+Empowering communities. Empowering beneficiaries by providing them with
+resources and authority in decision-making has proven to be a powerful tool in improving
+service delivery and social outcomes. Through the appropriate use of participatory
+methodologies for problem analysis and priority setting at the community level, the needs of
+various community subgroups will receive attention: women, men, the very poor, youth, and
+others. Both the Community Support Program and the Urban Program will have important
+participatory elements. The Bank is taking the lead in these two programs, but the support
+from other donors will allow national coverage to be attained during the CAS period.
+77.
+The second phase of the CBSD operation (FY06) will support improved service
+delivery by transforming the centralized public administration into an organization that
+supports decentralized service delivery.
+This will require institutional reform, the
+strengthening of the interface between beneficiaries and service providers (CRD and
+subprefectures), and provision of performance incentives to encourage health providers to
+work in underserved areas, such as rural areas.
+78.
+Strengthening service delivery. Strengthening of service delivery in specific sectors
+will aim at increasing coverage, accessibility, and quality of services. The second phase of
+an existing health operation (FY04), will scale-up the Bamako Initiative to reach national
+coverage; strengthen the primary health care level and the first level of referral with strong
+support from the central level; increase the share of resources for primary health care; and
+increase attention to health outputs, processes, outcomes, and realization of the MDGs. This
+includes increasing access for the poor to cost-effective and affordable interventions such as
+immunization programs, integrated management of childhood illnesses, improving quality
+and proportion of institutional deliveries, making essential drugs and micronutrient available
+in various health structures at the front line, and reducing maternal and neonatal mortality.
+79.
+The Bank will support activities to improve overall health sector performance and
+prepare the sector for possible support through a PRSC. These activities will include: (a) the
+formulation of a sector strategy grounded in the PRSP to reduce inequities, to improve access
+to basic services, and to strengthen the overall management of the system; (b) improvements
+in financial management at all levels of the systems; and (c) measures addressing human
+resources issues through public service reforms, training and partnerships with the private
+sector and NGOs.
+80.
+The Bank will support the PRSP objectives in education through the existing
+Education for All program that will be implemented throughout the CAS period. In addition
+this program will prepare the sector for a possible PRSC through measures to improve the
+quality of expenditures in the sector. The recently approved Multisectoral HIV/AIDS
+operation will also be implemented throughout the CAS period.
+The Bank will continue supporting the water sector through the ongoing Water and
+81.
+Sanitation Program, through the Community Support Program, and through a grant from the
+
+- 23 Institutional Development Fund to support Guinea's participation in the Senegal River Basin
+Authority. The Bank will also support Guinea's participation in the Regional Program for
+the Niger River Basin Cooperation.
+F.
+
+Support to PRSP pillar 3: governance and institutional and human capacity
+
+82.
+In support to this PRSP pillar, the Bank will seek to build capacity in its broadest
+sense, creating conditions for effective use of existing capacity (public and private sectors,
+and civil society) to deliver basic services to the poor in rural and urban areas. To achieve
+this, the focus will be on cross-sectoral generic issues relating to institutional transformation.
+The ultimate goal is to transform the public sector agencies from organizations focusing on
+bureaucratic control-which hinders service delivery and provides opportunities for rent
+seeking, patronage, and corruption-to organizations supporting public and private service
+delivery to the poor. To support the PRSP objective of strengthened institutional and human
+capacity and governance, the Bank will focus on: (a) establishing the analytical base to
+support the government's actions to strengthen governance; (b) transforming cross-cutting
+national institutions and service delivery agencies; and (c) strengthening mechanisms of
+accountability to ensure that local government is accountable to citizens, and operates in a
+transparent and participatory way. In addition, the Bank will support developing statistical
+capacity to allow adequate monitoring and evaluation of the PRSP implementation.
+Activities of the World Bank Institute will also contribute to strengthen institutional and
+human capacity.
+83.
+Strengthening the knowledge base. In support of the government's anticorruption
+efforts, the Bank will strengthen the analytical base on capacity and governance through a
+legal and judicial sector assessment (FY04) and an institutional and governance review
+(FY06) that will complement an ongoing governance and corruption diagnostic sponsored by
+the World Bank Institute. Based on the results of the study the government will develop an
+anticorruption action plan. Its effective implementation will be a trigger for the high case
+scenario. In addition, the Bank will support an integrated fiduciary assessment (FY05) that
+will assess Guinea's readiness to move towards a PRSC. Depending on the findings of these
+various studies, the PRSC may also include further analytical and technical support to
+improve economic governance.
+84.
+Institutional transformation. The CBSD program will finance the costs related to
+the transformation in both sector-specific and cross-sectoral departments and will focus on
+decentralization, deconcentration, subcontracting of service delivery, transfer of
+responsibility to local government and user organizations, and accountability to end users.
+The operation will also include a statistics component to improve capacity for monitoring and
+evaluation. In combination with the CBSD program, the Bank will also support parts of the
+legislative and judicial branches that play a role in financial oversight through a grant from
+the Institutional Development Fund (IDF) to build capacity of the finance committee of the
+national assembly and the chambre des comptes.
+85.
+Subject to government's demonstrated political will to address corruption, the CBSD
+program may support reforms in the judicial system to (a) improve access to and delivery of
+quality judicial services, in particular to the poor and to the business community through the
+strengthening of the network of justices of the peace and of the arbitration center; (b)
+improve the independence, integrity, and professionalism of the judiciary personnel; (c)
+ensure that the judiciary operates transparently and accountably through the establishment of
+
+- 24 -
+
+more effective controls and mechanisms of oversight and through assistance to implement the
+Organization for the Harmonization of Business Law in Africa agreements.
+86.
+While the Bank's ongoing CBSD operation and its second phase will be the chief
+operation to support institutional transformation, each of the above-mentioned operations will
+make substantial contributions. The sector-specific operations (the second phase of the
+health adaptable program loan, the ongoing Education For All Program, and the rural
+services component in the Community Support Program) will support the move towards
+decentralization, subcontracting of service delivery where possible, empowerment of
+beneficiaries and local government, and accountability to the end users.
+87.
+Strengthening downward accountability. The Community Support Program
+strengthens community participation and capacity building for budget planning and
+implementation at the community level. The second phase of the CBRD operation will
+support the implementation of the medium-term expenditure framework at the
+deconcentrated level to link local development plans to decisionmaking at this level. It will
+also support institutional reforms and capacity building in participatory planning in order to
+make deconcentrated agencies more responsive to local communities. It further promotes the
+establishment of prefectoral development councils, a forum of representatives of
+deconcentrated entities, local communities, and CRDs to oversee and participate in budget
+preparation and execution.
+88.
+Support to monitoring and evaluation. The Bank will continue to support the
+development of an overall national monitoring and evaluation framework for the
+implementation of the PRSP. It will support the development of statistical capacity through a
+grant from the Trust Fund for Statistical Capacity Building. In this, the Bank joins the efforts
+of UNDP and GTZ who provide support and ongoing technical assistance to build capacity
+for monitoring and evaluation in Guinea. In addition, the Bank will support the National
+Directorate for Statistics through the design and implementation of a multiyear household
+survey, which will track household revenues and expenditures and progress towards various
+MDGs. The Bank will continue to closely collaborate with its partners to ensure that the
+MDG indicators and the interim benchmarks for the implementation of the CAS are fully
+taken into account, and that the mechanisms to report on these benchmarks are further
+developed.
+89.
+The activities of the World Bank Institute will also contribute to the PRSP
+objectives. The number of Guinean participants in activities sponsored by the World Bank
+Institute has been increasing steadily over the past three years (50 in FY00, 86 in FY01, 161
+in FY02). The support of the World Bank Institute to Guinea is in line with the current CAS
+focus and includes t-aining programs on management of public resource for poverty
+reduction and health, on economic and business journalism, on social risk management, and
+on management of the budget cycle. Guinea has started the preparations for the construction
+of a Global Development Learning Network center. Its completion would lead to a
+significantly stronger participation of Guinea in activities sponsored by the World Bank
+Institute.
+G.
+
+Donor coordination and collaboration
+
+90.
+Donor coordination in Guinea has been traditionally strong and led to a division of
+labor to support the PRSP (see Annex D). Various donors provide support to programs such
+as the Community Support Program, the Education for All Program, or the Multisectoral
+HIV/AIDS Program, and jointly carry out supervision missions. Coordination is also strong
+
+- 25 -
+
+with regard to the macro program. The IMF and the World Bank coordinate to ensure that
+PRGF reviews and structural adjustment supervisions are merged into a joint exercise, with
+the systematic participation of the European Union and the African Development Bank.
+91.
+Beyond support to specific sectors, the various partners (donors, civil society, and
+government) have constituted a number of thematic and discussion groups that greatly
+facilitate dialogue and informal coordination.
+For example, a working group on
+decentralization has been created to follow up on the implications of the 2001 referendum
+that altered the administrative organization of the country. Similar groups exist in the areas
+of HIV/AIDS, education, health, rural development, and governance.
+92.
+Systematic efforts are also being undertaken to coordinate analytical work. For
+example, the Bank has been involved in a UNDP-led governance study. The European
+Union and the African Development Bank have been involved in the CFAA and the CPAR.
+Canadian Intemational Development Agency has provided financing and technical assistance
+for a gender assessment. And the World Bank Institute is closely coordinating the
+govemance survey with the African Development Bank. Moreover, analytical work carried
+out by one donor cani lead to operational follow-up by another donor, as is the case in
+fisheries.
+5.
+
+BANK GROUP ASSISTANCE PROGRAM
+
+93.
+To implement the Bank's strategy, the CAS proposes a three pronged-program. This
+program comprises (a) ongoing activities; (b) new analytical work, building on the existing
+knowledge base; and (c) new lending operations.
+A.
+
+Managing the existing portfolio
+
+94.
+
+Guinea's current portfolio is in line with the PRSP. The portfolio comprises eight
+
+projects representing a total commitment of US$215.6 million in IDA allocations and
+US$20.3 million in grants (see table 6). Of this, US$172.8 million remains undisbursed,
+representing about 80 percent of the net commitment. The recently approved Education for
+All Program, the Multisectoral HIV/AIDS Program, and the Decentralized Rural
+Electrification Project will be implemented throughout the CAS period, and successor
+operations are envisaged beyond the horizon of the curTent CAS. \
+Table 6: Existing Bank portfolio
+FY
+Bank Portfolio
+
+IDA
+
+PRSP Objectives
+
+Undisbursed
+
+commitment
+97
+99
+
+00
+02
+03
+
+Lending
+Third Water Supply
+Population and Reproductive Health
+Urban III
+Village Community Support
+Capacity Building for Service Delivery
+Education for All
+Decentralized Rural Electrification
+Multisectoral HIV/AIDS Program *
+Total
+
+Growth
+50.0
+11.3
+18.0
+22.0
+19.0
+70.0
+5.0
+20.3
+215.6
+
+37.2
+0.4
+11.9
+11.8
+13.8
+71.1
+5.6
+21.0
+172.8
+
+(XXX: major support; XX: significant support; X: some support; *:IDA grant
+
+XXX
+XXX
+
+XXX
+_
+
+Social
+XXX
+XXX
+XXX
+XXX
+X
+XXX
+_
+
+Govern.
+
+XXX
+XXX
+XXX
+
+- 26 95.
+The quality of the portfolio has improved compared to the situation prior to 1996
+when five Guinea projects were rated problem projects. Currently, only one project is rated
+unsatisfactory. This positive trend is also reflected in OED's evaluation reports. In FY99
+and FY00 OED rated only two of five projects that it evaluated as satisfactory. However, in
+FY01 and FY02 OED rated all three projects that it evaluated as satisfactory. Nevertheless,
+the overall positive trend should not mask challenges. A full 37 percent of the portfolio is at
+risk. The CBSD operation is being restructured to address longstanding implementation and
+fiduciary problems, the Education for All Program is hampered by weak disbursement rates,
+and the credit effectiveness of the Rural Electrification Project has been delayed.
+Appropriate action is being taken to address each of these issues.
+B.
+
+Analytical and advisory services
+
+96.
+Recently completed and ongoing core diagnostic and other diagnostic economic and
+sector work and other analytical work include a rapid fiduciary assessment, a CPAR, a
+CFAA, and a PER (see table 7). This analytical work aimed to strengthen governance and
+institutional capacity. Satisfactory implementation of the action plans arising from the core
+diagnostic economic and sector work would strengthen the fiduciary framework and would
+allow the Bank to consider a move towards providing budget support through a PRSC. In
+support of the PRSP's growth objectives, the Bank carried out an integrated trade framework
+diagnostic. To support the PRSP objective of improving access to core social services,
+analytical work is ongoing, in particular a gender assessment and a CPPR. To support the
+PRSP's governance objective, a governance and anti-corruption diagnostic is being carried
+out with the involvement of the Anti-Corruption Committee.
+Table 7: Recently completed and ongoing core diagnostic and other ESW
+FY
+01
+02
+03
+
+04
+
+Product
+Rapid fiduciary assessment
+CPAR
+Integrated trade framework diagnostic
+CFAA
+CPPR
+Gender assessment
+PER
+Govemance and anti-corruption diagnostic
+
+PRSP Oblectives
+Growth
+Social
+Govern.
+XXX
+XXX
+XXX
+XXX
+XX
+XX
+XXX
+XXX
+XXX
+XXX
+
+(XXX: major support; XX: significant support; X: some support)
+
+97.
+Strengthening the knowledge base and supporting capacity building. This CAS
+will build upon the existing body of analytical work as explained in table 8. In support of the
+first PRSP pillar the Bank will produce in FY04-05 a country economic memorandum and a
+private sector assessment. In support of the second PRSP pillar, an education sector review
+and a poverty assessment will be carried out during FY05-06. In support of the third PRSP
+pillar a legal and judicial sector assessment will be conducted in FY04, an integrated
+fiduciary assessment will be carried out in FY05, and an institutional and governance review
+will be completed in FY06. Beyond the analytical work, the Bank will support statistical
+capacity building through a trust fund, conduct training through the World Bank Institute,
+and strengthen the capacity of the national assembly and the chambre des comptes to monitor
+public expenditures through an Institutional Development Grant.
+
+- 27 Table 8: New analytical and advisory services
+FY
+04
+
+Product
+Legal and Judicial Sector Assessment
+
+WBI Activities
+IDF grant to support institutions with govemance related mandates in the
+judicial and legislative branches of govermnent.
+Trust fund grant to support statistical capacity building
+05
+
+PRSP Oblectives
+Govern.
+Growth
+Social
+XX
+
+XXX
+
+XX
+
+XX
+XXX
+XXX
+
+Integrated Fiduciary Assessment
+
+Private Sector Assessment
+
+XXX
+
+XXX
+xxx
+
+Education Sector Review
+
+County Economic Memorandum
+WBI Activities
+
+06
+
+XXX
+
+XXX
+XX
+
+XXX
+XX
+
+Institutional and Governance Review
+Poverty Assessment
+
+XX
+
+XX
+
+WBI Activities
+
+XX
+
+XX
+
+XX
+
+XXX
+XX
+
+(XXX: major support; XX: significant support; X: some support)
+
+C.
+
+Lending program
+
+98.
+Lending program. Under the base case scenario, IDA commitments during the
+three-year CAS period would total up to US$125.4 million (see table 9). The Bank is
+planning to support the first PRSP pillar through a structural adjustment operation (FY04)
+covering policy reforms in tax administration, mining and trade, and including various
+activities to strengthen Guinea's public expenditures and fiduciary framework. The reforms
+will be implemented during FY04-05. A planned rural infrastructure program (FY04) and
+the second phase of the Urban Program (FY05) will be used to support the establishment of
+minimum infrastructure services for growth in rural and urban areas. The second phase of
+the Community Support Program (FY05) will foster growth in rural areas and will include an
+important component for rural services. Two Global Environmental Facility-supported
+projects in FY05 will support the sustainable management of natural resources. Under the
+high case, the Bank would support the development of water and power services with two
+projects.
+99.
+The Bank will support the second PRSP pillar through the second phase of the
+existing health program (FY04). Should the Bank move towards provision of budget
+support, the first PRSC will focus on health and education. This operation would
+complement the ongoing support to social sectors (the Education for All program, and the
+Multisectoral HIV/AIDS program). The Bank will support the third PRSP pillar by
+following the existing CBSD Program with a second phase in FY06.
+
+- 28 -
+
+Table 9: Bank assistance program 2003-06
+Bank Group Assistance Program
+FY
+04
+
+05
+
+06
+
+Assistance Program
+Structural Adjustment Credit
+Second Health Adaptable Program Loan
+Second Rural Infrastructure
+GEF Coastal Zone Management Project
+GEF Community Ecosystem Management Project
+Second Community Support Program
+Second Urban Program
+Electricity Support Program
+Water Support Program
+First PRSC
+Second CBSD Program
+Total IDA allocation
+MIGA and IFC support
+
+Base
+case l
+
+Low
+case
+
+High
+case
+
+IDA Allocation (US$ mil)
+20.4
+20.4
+15.0
+15.0
+15.0
+20.0
+20.0
+0.0
+0.0
+0.0
+0.0
+22.0
+35.0
+22.0
+20.0
+20.0
+15.0
+15.0
+20.0
+25.0
+8.0
+10.0
+8.0
+125.4
+60.0
+160.4
+
+PRSP Objectives
+Growvth
+XXX
+
+Social
+
+Gover
+XXX
+
+XXX
+XXX
+XX
+XX
+XXX
+XXX
+XXX
+XXX
+
+XXX
+
+XXX
+XX
+
+XXX
+XXX
+
+XX
+XXX
+
+XXX
+
+(XXX: major support; XX: significant support; X: some support)
+
+D.
+
+Scenarios and triggers
+
+100.
+Guinea's PRSP provides a comprehensive framework for the implementation of its
+development strategies. Successful implementation will depend on Guinea's ability to
+maintain a stable macroeconomic environment, to improve service delivery, and to
+strengthen governance.
+101.
+The base case scenario. The base case corresponds to the program that is outlined in
+the PRSP. It assumes that the security situation in the subregion does not deteriorate further
+and that the political situation in the country remains stable. It also assumes that the
+government sustains its efforts to (a) implement the PRSP, (b) maintain a satisfactory
+macroeconomic framework, (c) strengthen governance, and (d) ensure satisfactory
+implementation of Bank supported programs. Triggers and indicators for remaining in the
+base case are specified in table 10.
+102. Under the base case, Guinea is expected to attain a growth rate of 5.8 percent due to
+increase in agricultural and mining output.
+Further reforms to maintain a stable
+macroeconomic framework and to improve the investment climate would be implemented,
+access and quality of social services would improve, and governance and institutional
+capacity would be strengthened. The Bank will support the government's efforts through a
+structural adjustment operation, investment lending to support service delivery and
+institutional reform, and analytical and advisory services. Conditional on satisfactory
+implementation of reforms in public finance management, the Bank may move towards
+providing budget support through a PRSC at the end of the CAS period.
+103.
+No IDA grants are scheduled for Guinea as part of the IDA US$125.4 allocation. Up
+to 30 percent of IDA funding would be provided through budget support. To the extent that
+Guinea maintains a stable macroeconomic environment, the Bank will help the govemment
+raise adequate donor funding.
+104.
+Low case scenario. Guinea's capacity to improve the overall governance situation
+and to maintain fiscal discipline constitutes the main risk that might trigger the low case
+scenario. This would happen if the implementation of the PRSP seriously slipped, if
+macroeconomic performance seriously deteriorated, if efforts to improve governance were
+
+- 29 delayed, or if implementation of the Bank-supported programs worsened. If the stability in
+the country or the in subregion declined, the Bank may also decide to move to the low case.
+105.
+IDA commitments under this scenario would total about US$60 million over the CAS
+period. There would be no budget support or support to infrastructure, but to protect the
+poor, and to continue strengthening Guinea's institutional capacity and governance, new
+lending in health, environment, community driven development, and capacity building would
+continue.
+106.
+High case scenario. The lending scenario could move to a high case if Guinea
+would achieve (a) an increase in fiscal revenues to 13 percent of GDP; (b) improvements in
+the quality of governance as illustrated through the actual implementation of a three-year
+action plan based on the survey results of the governance and corruption diagnostic; and (c)
+an increase in private sector involvement in the water and electricity sectors. The specific
+modalities for private sector involvement remain to be determnined.8
+107.
+IDA lending under the high case scenario would increase to up to US$160 million.
+Under the high case scenario, the Bank would finance investment in the water and electricity
+sectors to further improve Guinea's investment climate. It would also provide increased
+budgetary support through the PRSC.
+
+18 One option under examination is the unbundling of various activities in the operations of services and
+the selectively privatizing specific functions (for example, production, financial management, and
+distribution.).
+
+- 30 -
+
+Table 10: Program triggers
+Trigger area
+
+To sta
+
+in the base"iase,
+
+T-4- ' Nleans of verification,
+
+Poverty Reduction Strategy implementation-
+
+Effective implementation of the
+PRSP
+
+Satisfactory implementation of the PRSP
+Expenditures in priority sectors at a
+minimum level of 32 percent of nonwage
+recurrent expenditures
+
+Joint staff assessment of PRSP
+progress report
+Quarterly IMF/Bank review
+
+Macroeconomic management
+
+Maintain sound fiscal and
+
+Satisfactory implementation of
+
+monetary policies and a stable
+
+govemments macro program
+
+macroeconomic environment
+
+Fiscal revenues at a minimum of 12.1
+
+Quarterly IMF/Bank review
+Quarterly IMF/Bank review
+
+percent of GDP
+
+Governance
+Progress in the fight against
+
+Initiate implementation of anticorruption
+
+corruption and in establishing
+
+action plan
+
+transparency and accountability in
+public finance management
+
+Satisfactory progress on implementation
+of HIPC expenditure accountability
+action plan
+Implementation of CFAA, CPAR, and
+PER action plans
+
+Fifth Structural Adjustment Credit
+supervision reports and integrated
+fiduciary assessment
+Fifth Structural Adjustment Credit
+supervision reports and integrated
+fiduciary assessment
+
+No more than 20 percent of projects with
+unsatisfactory ratings for implementation
+
+Bank supervision reports
+CPPR
+
+Quarterly IMF/Bank review
+
+Portfolio performance
+
+Satisfactory implementation of
+Bank supported programs
+
+progress or development objectives
+
+Trigger area
+Base case triggers plus:
+Macroeconomic management
+Strengthen macroeconomic
+framework
+Governance
+Significant improvements in
+governance
+Investment climate
+Provide minimum infrastructure
+services for growth
+
+E.
+
+To move to the high*Faset-.
+
+Means of verification
+
+Increase in fiscal revenues to at least 13
+percent of GDP
+
+Quarterly IMF/Bank review
+
+Full implementation of anticorruption
+action plan.
+
+Monitoring by the Anti-Corruption
+Committee
+
+Selective private sector involvement in
+the water and electricity sectors
+
+Fifth Structural Adjustment Credit
+and infrastructure supervision
+reports
+
+Impact of IDA lending on debt sustainability
+
+108.
+The NPVR remains below 200 percent under each IDA lending scenario (Annex E).
+In the base case, the NPVR averages 137 percent during the CAS period and 130 percent
+thereafter (2007-18). In the low case, the NPVR averages 137 percent during the CAS
+period and 138 percent thereafter. In the high case, the NPVR averages 138 percent during
+the CAS period and 149 percent thereafter (peaking at 167 percent at the end of the
+projection period). This should not be a matter of concern because the ratio remains well
+below 200 percent. Nevertheless, to prevent the debt burden from becoming unsustainable,
+debt indicators will be monitored.
+109.
+Even though the NPVR is projected
+suffer an external shock, a reform setback,
+affect its export performance and increase
+reason, irrespective of which CAS scenario
+
+to remain well below 200 percent, Guinea could
+or a natural catastrophe, which could seriously
+the burden of debt service payments. For this
+prevails, Bank staff will monitor the NPVR, the
+
+- 31 debt service to exports ratio and the debt service to revenue ratio on a regular basis to ensure
+that these indicators of debt sustainability do not exceed prudent levels. Should the NPVR
+rise above 200, Bank management will review the size of the IDA program. In this case,
+reductions in the lending program may be necessary, while every effort would be made to
+match shortfalls in the external financing needs with incremental grants from donors to
+support Guinea's efforts to attain the MDGs.
+F.
+
+PRSP and CAS monitoring
+
+110.
+Guinea's progress in implementing the PRSP, including its progress towards the
+MDGs, and the Bank's effectiveness in supporting the PRSP implementation will be assessed
+through: (a) the annual joint staff assessment of the PRSP progress reports; (b) the results of
+the household survey; (c) annual monitoring of the portfolio through the CPPR; and (d)
+annual reviews of CAS triggers as part of the country policy and institutional assessment.
+Guinea's PRSP targets are largely in line with the MDGs (table 11).
+Table 11: Guinea MDGs and PRSP targets
+MDGs
+Cut in half between 1990 and 2015 the proportion of
+people whose income is less than one dollar per day.
+Ensure that, by 2015, children everywhere, boys and girls
+alike, will be able to complete a full course of primary
+schooling.
+Eliminate gender disparity in primary and secondary
+education, preferably by 2005, and to all levels of
+education no later than 2015.
+Reduce by two thirds, between 1990 and 2015, the under
+five mortality rate.
+Reduce by three quarters, between 1990 and 2015, the
+maternal mortality rate.
+Halt by 2015 the spread of WIV/AIDS and begin to
+reverse the incidence of infection.
+Have halted by 2015 and begun to reverse the incidence
+of malaria and other major diseases.
+Integrate the principles of sustainable development into
+country policies and programs and reverse the losses of
+environmental resources.
+Cut in half between 1990 and 2015 the proportion of
+people without sustainable access to safe drinking water.
+
+Guinea PRSP target
+While Guinea's objective to reduce poverty by 25 percent
+by 2010 is less ambitious than that of the MDG, attaining
+it will still require higher and more equitable growth.
+With only 40 percent of school age children completing
+school, extraordinary efforts will be needed to reach the
+MDGs ineducation, including enrolment of all children in
+grade one by 2005.
+According to UNDP estimates, Guinea is likely to reach
+the objectives on gender equality and empowernent of
+women.
+While Guinea may reach a child mortality rate of 40 by
+2015, this will require considerable extra efforts.
+While Guinea may reach a matemal mortality rate of 167
+by 2015, this will require considerable extra efforts.
+Guinea has significantly stepped up the fight against
+HIV/AIDS. While initially prevalence is likely to
+increase, Guinea may eventually be able to keep
+prevalence below 5 percent.
+No specific target determnined in PRSP.
+No specific target determined in PRSP.
+Access to drinking water has improved, and in this area
+Guinea is likely to achieve the MDG if current trends
+intensify.
+
+111. The Bank will support the PRSP implementation through its lending program and
+analytical and advisory services. The core CAS benchmarks to assess Bank's performance
+are listed in table 12. Additional benchmarks are reflected in annex B9. These benchmarks
+are developed based on the limited information available. During the CAS period, the Bank
+will support the strengthening of the knowledge base and of statistical capacity, which will
+allow establishing a stronger baseline of the various benchmarks, especially in the area of
+strengthened governance and institutional capacity, and measuring the progress over the CAS
+implementation period. Depending on the progress made during implementation, the Bank
+will adjust the strategy as needed at the midpoint of the CAS period in FY05.
+
+- 32 -
+
+Table 12: Core CAS benchmarks
+PRSP
+CAS benchmark
+pillar
+Ensure
+sustainable
+and equitable
+growth
+
+Improve
+access and
+quality of
+basic social
+services
+
+Strengthen
+govemance
+and
+institutional
+and human
+capacity
+
+Bank instruments
+
+I
+Action plans based on the CPAR, CFAA, and PER are
+implemented.
+Mechanisms to track budgetary expenditures to the front line
+developed and implemented.
+
+Fifth Structural Adjustment Credit
+CPAR, CFAA, PER*
+
+Policies to reduce cost of doing business clarified and under
+implementation.
+Number of days needed to clear goods through customs
+reduced from between 10 to 15 days in 2003 to 3 days in
+2006.
+
+Country economic memorandum
+Private sector assessment
+Fifth Structural Adjustment Credit
+
+Minimum package of infrastructural services for growth
+identified and under implementation at the end of the CAS
+period.
+
+Urban Program phase 1* and 2
+Water and electricity projects *
+
+The percentage of the country's rural roads rated good or
+above average increased from 30 percent in 2003 to 60
+percent in 2006.
+
+Rural infrastructure program
+
+NPVs of debt-to-export ratios below 200 percent.
+
+HIPC completion point debt
+sustainability analysis.
+
+Coverage of community support program increased from 73
+CRDs in 2003 to 303 CRDs in 2006.
+Policy recommendations to increase impact on poverty
+reduction r eflected in the PRSP updates.
+
+Community support program phase
+I* and 2
+Poverty assessment
+
+The percentage of total budgetary expenditures in health
+allocated to primary health care increased from 14 percent in
+2003 to 20 percent in 2006.
+The percentage of one-year-old children immunized against
+measles increased from 52 percent in 2001 to 60 percent in
+2006.
+
+Second phase of health project
+Possible PRSC
+
+The percentage of non-wage recurrent expenditures for
+primary education managed at the school level increased
+from 0 percent in 2003 to 50 percent in 2006.
+Repetition rates for primary education reduced from 30
+percent in 2003 to 20 percent in 2006.
+
+Education for All project*
+Education sector review
+
+National coverage of HIV/AIDS program attained by 2006.
+
+HIV/AIDS project*
+
+Improved fiduciary framework for public finance
+management adopted.
+Modalities for operating of prefectoral development councils
+adopted.
+
+Integrated fiduciary assessment
+
+Policies to strengthen judicial framework formulated and
+under implementation.
+
+Support to legislative and judicial
+reform through IDF grant
+Legal and judicial sector assessment
+
+Anticorruption action plan under implementation.
+
+Institutional and govemance review
+Govemance and corruption
+diagnostic
+
+._____________I
+
+CBSD program phases 1* and 2
+
+Note: *Existing program; **High case scenario; these benchmarks will be used to monitor progress under the basecase assistance program, and assume that no major exogenous shocks occur.
+
+- 33 G.
+
+MIGA and IFC
+
+112. The outstanding portfolio of guarantees of the Multilateral Investment Guarantee
+Agency (MIGA) in Guinea consists of eight contracts of guarantee in the agribusiness and
+manufacturing sectors, representing US$39.4 million in gross (and net) exposure. The total
+amount of foreign direct investment facilitated to date is US$62 million. In fiscal 2001,
+MIGA issued a guarantee to Guinea Investment Company Limited for its investment in
+Alumina Company of Guinea Limited, and a guarantee for US$40 million of loans to that
+company. The project includes a bauxite mine, an alumina plant, captive electricity and
+water utilities, and a 144-kilometer railway linking the project site to the Conakry port.
+113. The current portfolio of the International Finance Corporation (IFC) stands at US$3.5
+million. It consists of projects in the hotel industry, agribusiness, and schools. To the extent
+that Guinea manages to improve its overall investment climate and to attract private capital
+for further developments in mining, agribusiness, or trade, the Bank group will be ready to
+support investments through IFC and MIGA.
+H.
+
+Risks and mitigation measures
+
+114. Institutional instability. The combination of the lack of a clear consensus about the
+transition process, general discontent with severe water and electricity shortages, and the
+importance of the army in the stability of the country constitute risk factors that may result in
+an increase in civil unrest or a contested transition of power. In case of a breakdown of
+effective governance and institutional instability, the Bank would move to the low case
+scenario. Meanwhile, the Bank's strategy is to focus on reformn in subnational and national
+institutions and the empowerment of local communities and their governments. This is
+expected to increase Guinea's long-term capacity for development even if the country were
+to go through a period of institutional instability.
+115. Poor governance. Poor governance is at the heart of Guinea's development
+challenge, and little progress has been seen over the previous CAS period. While the Bank
+realizes the limits to its capacity to influence the national resolve to improve governance, its
+operations are designed to help Guinea address governance to the extent that there is effective
+political will. In the absence of this, and in case of deterioration in governance, the low case
+scenario will apply.
+116. Instability at Guinea's borders. Guinea has suffered greatly from the instability in
+its neighboring countries, and from rebel attacks in 2001. The country had to accommodate
+refugees from Sierra Leone and from Liberia, and 650,000 internally displaced people.
+Although the peace in Sierra Leone has allowed refugees from that country to return home,
+the continued instability in Liberia and C6te d'Ivoire poses a risk for Guinea's security and
+macroeconomic stability. To mitigate this risk, the Bank through the Community Support
+Program is able to assist the government in reducing the impact of refugees on local
+communities. The Bank will also continue to coordinate closely with the specialized UN
+agencies to ensure that an adequate response is made.
+117. Failure to adopt policy reforms. To attain its macroeconomic objectives, Guinea
+will have to implement policy reforms that have proven to be difficult in the past. In spite of
+declared intentions to move forward with regard to private sector involvement in water and
+electricity, the utility sectors are again entirely under public management. Implementation of
+policies to maintain, and, subsequently, raise fiscal revenues and to protect spending in
+priority sectors will touch the interest and rents of powerful lobbies. Lessons from the past
+
+- 34indicate that successful implementation of policy reforms depends on the political will. In
+the absence of strong r esolve to push reforms, Guinea would move to the low case scenario.
+118.
+
+Failure to move towards decentralization.
+
+The amendment to the constitution
+
+modified the relationship of the lowest level of government to the central administration by
+transforming it to a government body, headed by a government appointee, rather than an
+elected representative. Unless the existing regulations concerning the elections of officials at
+the CRD level are adapted, there is a risk that local councils will not be fully accountable to
+beneficiaries. To mitigate this risk, the organization of transparent CRD elections is a
+condition for the second phase of the Community Support Program. The Bank, together with
+other donors, will continue the dialogue with the country on this issue.
+6.
+
+CONCLUDING REMARKS
+
+119. The main goal of the government's PRSP and the Bank Group's CAS is to foster
+sustainable and equitable growth, to improve access to basic social services, and to
+strengthen governance and institutional capacity. The economic and sector work and lending
+operations proposed in this CAS are specifically designed to help Guinea reach these
+objectives.
+
+James D. Wolfensohn
+President
+By:
+
+Shengman Zhang
+
+Annex A2
+Page 1 of 2
+
+Guinea at a glance
+Guinea
+
+SubSaharan
+Africa
+
+LowIncome
+
+7.7
+410
+3.1
+
+674
+470
+317
+
+2,511
+430
+1,069
+
+2.7
+2.5
+
+2.5
+2.6
+
+1.9
+2.3
+
+28
+47
+98
+33
+49
+
+32
+47
+91
+
+31
+59
+76
+76
+37
+96
+
+POVERTY and SOCIAL
+2002
+Population, mid-vear (millions)
+GNI per capita (Atlas method, US$)
+GNI (Atlas method, US$ billions)
+
+325S03
+
+Development dlamond
+
+Avrage annual growth, 1996-02
+Population ((%)
+Labor force (%)
+
+/
+
+Most recent estimate (latest year available, 1996402)
+
+Poyerty (%of population below national poverty line)
+Urban population (%
+oftotal population)
+Life expectancy at birth (years)
+Infant mortality (per 1,000 live births)
+Child malnutrition (%
+of children under 5)
+Access to an improved water source (%of population)
+Illiteracy (%6ofpopulation age 15+)
+Gross primary enrollment (%
+ofschool-age population)
+
+67
+
+55
+37
+78
+
+Male
+
+72
+
+85
+
+103
+
+Female
+
+63
+
+72
+
+88
+
+1992
+
+2001
+
+2002
+
+3.3
+
+30
+
+3.1
+
+17.4
+19.4
+11 2
+5.2
+
+22.1
+27.6
+20.2
+19.7
+
+26.0
+25.4
+20.1
+19.8
+
+-7.4
+
+-2,4
+
+-6.1
+
+1.0
+
+0.8
+
+0,7
+
+80.6
+10.7
+49.5
+200.4
+
+104.3
+8.4
+78.4
+179.3
+
+95.0
+10.4
+73.8
+145.8
+
+Guinea
+
+Gie
+Low-income group
+
+KEY ECONOMIC RATIOS and LONG-TERM TRENDS
+1982
+
+Econom Ic ratlos
+GDP (USS billfons)
+
+..
+
+Gross domestic investmentVGDP
+Exports of goods and servceas/GDP
+Gross domestic savlngs/GDP
+Gross national savlngslGDP
+Current account balance/GDP
+
+Interest pavnents/GDP 1/
+
+..
+
+Total debtlGDP
+Total debt service/exports 1/
+Present value of debtVGDP
+Present value of debVexports 1/
+
+(average annual growth)
+GDP
+GDP per capita
+Exports of floods and services
+
+1982-92
+
+1992-02
+
+2001
+
+2002
+
+2002-06
+
+3.7
+08
+4,0
+
+43
+18
+56
+
+3.6
+13
+3.3
+
+4.2
+2.0
+3.8
+
+55
+3.3
+4.3
+
+1982
+
+1992
+
+2001
+
+2002
+
+22 3
+27 9
+3.4
+49.8
+
+24,5
+37.8
+4.4
+37.7
+
+25.5
+381
+4.4
+36.4
+
+81,3
+7,5
+25.6
+
+75 0
+4.8
+29.6
+
+73.8
+5,4
+30.7
+
+1982.92
+
+1992-02
+
+2001
+
+2002
+
+3.2
+2.3
+
+2.4
+4.9
+5.5
+-1 7
+
+4.3
+6.0
+6.0
+0.2
+
+15
+
+39
+
+4.0
+52
+4.6
+3.2
+
+4.1
+-3.7
+4.1
+3.7
+
+33
+50
+4.5
+3.0
+
+3.1
+52
+6.0
+4.0
+
+5.9
+5.0
+6.3
+9.4
+
+o
+
+Guinea
+Low-income group
+
+STRUCTURE of the ECONOMY
+(%of GOP)
+Agriculture
+Industry
+Manufacturing
+Services
+Private consumption
+General government consumption
+Imports of goods and services
+
+(average annual growth)
+Agriculture
+Industry
+Manufacturing
+Services
+Private consumption
+General government consumption
+Gross domestic Investment
+Imports of goods and services
+
+r
+
+97
+
+95
+-
+
+99
+
+GDI
+
+os
+ci
+OGDP
+
+10
+
+9
+
+99
+
+Do
+
+01
+
+5
+
+-
+
+Exports
+
+Imports
+
+Note: 2002 data are preliminary estimates. Group data are through 2001.
+*The
+
+02
+
+diamonds show four key indicators in the country (in bold) compared with Its income-proup average, If data are missing, the diamond will
+be Incomplete.
+1/ In 2001 and 2002, ratios take Into account enhanced HIPC assistance (estimates)
+
+0c2
+
+Annex A2
+Page 2 of 2
+Guinea
+PRICES and GOVERNMENT FINANCE
+1982
+
+1992
+
+2001
+
+2002
+
+Domestfc prices
+(%change)
+Consumer prices
+Implicit GDP deflator
+Government finance
+(%of GOP, includes current grants)
+Current revenue
+Current budget balance
+Overall surplus/deficit
+
+Inflation (%)
+
+i
+1.
+.
+
+32 4
+26.7
+
+5.4
+4.9
+
+3.0
+2.5
+
+8
+44
+2
+
+o
+
+-
+
+12.2
+2.0
+-7.1
+
+14.8
+1.9
+-4.1
+
+14.4
+35
+-5.9
+
+1982
+
+1992
+
+2001
+
+2002
+
+6.57
+343
+107
+
+723
+314
+121
+
+713
+376
+110
+
+..
+..
+
+97
+
+9O
+
+-
+
+99
+
+GDP deflator
+
+00
+
+-:
+
+S1
+
+02
+
+CPI
+
+TRADE
+(US$ millions)
+Total exports (fob)
+Bauxite
+Alumina
+
+Manufactures
+Total imports (cif)
+Food
+Fuel and energy
+Capital goods
+Exportpriceindex(1995=100)
+Import price index (1995=100)
+Terms of trade (1995=100)
+
+..
+..
+.
+.
+..
+..
+..
+
+740
+
+629
+
+728
+
+49
+69
+98
+
+93
+107
+132
+
+100
+116
+146
+8
+
+117
+95
+124
+
+95
+126
+76
+
+98
+129
+75
+
+1982
+
+1992
+
+2001
+
+2002
+
+484
+491
+-7
+
+811
+856
+-45
+
+822
+880
+-58
+
+792 o
+956
+-184
+
+-66
+-13
+
+-59
+-16
+
+..
+
+..
+..
+
+1,000
+900
+
+600
+400.d
+200
+
+o
+
+|
+GE
+
+07
+
+eS
+
+99
+
+*Exports
+
+00
+
+01
+
+02
+
+*Imports
+
+BALANCE of PAYMENTS
+(US$ millions)
+Exports of goods and services
+Imports of goods and services
+Resource balance
+Net Income
+Net current transfers
+
+0
+
+-141
+-73
+
+Current account balance
+
+.
+
+-244
+
+-73
+
+-195
+
+Financing items (net)
+Changes in net reserves
+
+.
+
+-2
+
+247
+-3
+
+127
+-54
+
+189
+6
+
+0
+22.4
+
+155
+902.0
+
+282
+1,950.6
+
+287
+1,992.7
+
+1982
+
+1992
+
+2001
+
+2002
+
+1,366
+49
+57
+
+2,648
+0
+548
+
+2,935
+0
+1,002
+
+2,791
+0
+987
+
+89
+8
+1
+
+87
+15
+5
+
+166
+0
+22
+
+163
+0
+14
+
+Memo:
+Reserves including gold (USS millions)
+Conversion rate (DEC, local/USS)
+
+..
+
+.1
+2-
+
+i
+
+-4
+
+*
+
+.
+
+*I
+
+I*
+
+.7
+8
+
+EXTERNAL DEBT and RESOURCE FLOWS
+(US$ millions)
+Total debt outstanding and disbursed
+IBRD
+IDA
+Total debt service
+IBRD
+IDA
+Composition of net resource flows
+
+Official grants
+Official creditors
+Private creditors
+Forelgn direct Investment
+Portfolio equity
+World Bank program
+Commitments
+Disbursements
+Principal repayments
+Net flows
+Interest payments
+Net transfers
+Development Economics
+
+G 178
+F8 86
+\
+
+B:987
+
+-.
+
+21
+
+E:511
+e,
+
+22
+23
+0
+0
+
+157
+-8
+56
+0
+
+...
+13
+-58
+
+18
+11
+3
+8
+5
+3
+
+78
+88
+16
+72
+4
+68
+
+0
+71
+14
+57
+8
+49
+
+...
+80
+30
+
+D:628
+
+0
+9
+7
+2
+7
+-5
+
+A- lORD
+B IDA
+C -IMF
+
+D- Other multilateral
+
+E -ilateral
+F - Prvate
+G -Short-term
+
+3/25/03
+
+Annex B2
+Page 1 of 1
+
+CAS Annex B2 - Guinea
+
+Selected Indicators* of Bank Portfolio Performance and Management
+As Of Date 03/06/2003
+
+Indicator
+PortfolioAssessment
+Number of Projects Under Implementation a
+Average Implementation Period (years) b
+Percent of Problem Projects by Number a,c
+Percent of Problem Projects by Amount a,c
+Percent of Projects at Risk by Number a d
+Percent of Projects at Risk by Amount a,d
+Disbursement Ratio (%)e
+Portfolio Management
+CPPR during the year (yes/no)
+Supervision Resources (total US$ thousands)
+Average Supervision (US$ thousands/project)
+Memorandum Item
+Proj Eval by OED by Number
+Proj Eval by OED by Amt (US$ millions)
+% of OED Projects Rated U or HU by Number
+% of OED Projects Rated U or HU by Amt
+
+2000
+
+2001
+
+2002
+
+2003
+
+13
+3.4
+7.7
+2.0
+15.4
+19.3
+20.1
+
+10
+4.4
+10.0
+12.9
+10.0
+12.9
+23.0
+
+7
+4.1
+14.3
+9.0
+14.3
+9.0
+31.4
+
+8
+3.0
+12.5
+8.8
+37.5
+64.5
+8.2
+
+no
+916.4
+70.5
+
+no
+747.1
+74.7
+
+no
+1,155
+96.3
+
+yes
+983.5
+109.3
+
+Since FY 80 Last Five FYs
+43
+8
+986.7
+288.2
+40.5
+50.0
+36.1
+48.6
+
+a. As shown in the Annual Report on Portfolio Performance (except for current FY).
+b. Average age of projects in the Bank's country portfolio.
+c. Percent of projects rated Uor HU on development objectives (DO) and/or implementation progress (IP).
+d. As defined under the Portfolio Improvement Program.
+e. Ratio of disbursements during the year to the undisbursed balance of the Bank's portfolio at the
+beginning of the year: Investment projects only.
+* All indicators are for projects active in the Portfolio, with the exception of Disbursement Ratio,
+which includes all active projects as well as projects which exited during the fiscal year.
+
+Annex B3
+Page lof2
+
+CAS Annex B3 - IBRD/IDA Program Summary
+
+Guinea
+
+As Of Date 03/06/2003
+
+Proposed IBRD/IDA Base-Case Lending Program
+Fiscal year
+
+Pro] ID
+
+2004
+
+Fifth Structural Adjustment Credit
+
+20.4
+
+Health Sector Support Program
+
+15.0
+
+Rural Infrastructure Program
+
+20.0
+
+2005
+
+2006
+
+GEF Coastal Zonet Management Project
+
+0.0
+
+GEF Community Ecosystem Management Project
+
+0.0
+
+Strategic Rewards b
+(H/M/L)
+
+Implementation b
+Risks (HIMIL)
+
+H
+H
+H
+M
+M
+
+M
+M
+M
+L
+L
+
+H
+H
+
+M
+M
+
+Result
+
+55.4
+
+Community Support Program
+
+22.0
+
+Urban II
+
+20.0
+
+Result
+
+42.0
+
+PRSC I
+
+20.0
+
+H
+
+M
+
+8.0
+
+H
+
+M
+
+Capacity Building and Institutional Reform II
+Result
+Overall Result
+
+US$(M)
+
+28.0
+125.4
+
+a. This table presents the proposed program for the next three fiscal years.
+b. For each project, indicate whether the strategic rewards and implementation risks
+are expected to be high (H), moderate (M), or low (L).
+
+Annex B3
+Page 2 of 2
+
+CAS Annex B3 (IFC & MIGA) for Guinea
+Guinea - IFC and MIGA Program, FY 2000-2003
+2000
+IFC approvals (US$m)
+
+2001
+
+2002
+
+2003
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0.50
+
+Sector (%)
+TRANSPORTATION & WAREH
+
+100
+
+Total
+
+100
+
+Investment instrument(%)
+Loans
+Equity
+Quasi-Equity
+Other
+
+Total
+MIGA guarantees (US$m)
+
+100
+
+0
+3.99
+
+Annex B4
+Page 1 of I
+
+CAS Annex B4 - Summary of Nonlending Services - Guinea
+As Of Date 03/06/2003
+
+Product
+Recent completions
+Rapid fiduciary assessment
+CPAR
+Underway
+CFAA
+Gender Assessment
+CPPR
+Integrated Trade Framework
+Diagnostic
+PER
+Governance and anti corruption
+Diagnostic
+Planned
+Legal and Judicial Sector Review
+CEM
+Private Sector Assessment
+Integrated Fiduciary Assessment
+Education Sector Review
+Institutional and Governance Review
+Poverty Assessment
+Support to PRSP Progress Report
+
+Completion FY
+FY01
+FY02
+
+Cost (US$000)
+
+65
+
+Audience a
+
+Objective b
+
+GOG/Bk
+GOG/Bk
+
+KG, PS
+PS
+PS
+PD
+PS
+KG, PD, PS
+
+FY03
+FY03
+FY03
+FY03
+
+30
+15
+20
+
+GOG/Bk
+GOG/Bk/Dr/PD
+GOG/Bk
+GOG/Bk/PD
+
+FY04
+FY04
+
+125
+175
+
+GOG/Bk
+PS
+GOG/Bk/Dr/PD KG, PD, PS
+
+FY04
+FY05
+FY05
+FY05
+FY05
+FY06
+FY06
+Annual
+
+30
+180
+30
+80
+60
+60
+115
+30
+
+GOG/Bk/PD
+GOG/Bk
+GOG/Bk/PD
+GOG/Bk
+GOG/Bk/PD
+GOG/Bk/PD
+GOG/Bk/PD
+GOG/Bk
+
+a. Government, donor, Bank, public dissemination.
+b. Knowledge generation, public debate, problem-solving.
+
+KG,
+PS
+KG,
+KG,
+KG,
+KG,
+KG,
+KG,
+
+PD, PS
+PD, PS
+PS
+PD, PS
+PD, PS
+PD
+PS
+
+Annex B5
+Page 1 of 1
+
+CAS Annex B5 - Guinea Poverty and Social Development Indicators
+Latest single year
+
+Same region/income group
+
+1980-85
+
+1994-00
+
+SubSaharan
+Africa
+
+4.1
+
+5.0
+
+7.4
+
+658.9
+
+2,459.8
+
+1.2
+16.3
+5.9
+
+2.2
+22.3
+6.2
+
+2.7
+32.8
+5.5
+
+2.6
+34.4
+5.2
+
+2.0
+31.9
+3.6
+
+..
+
+..
+
+40.0
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+470
+133
+
+410
+140
+
+..
+
+..
+
+101
+
+Gini Index
+
+..
+
+..
+
+40.3
+
+Lowest quintile (%of Income or consumption)
+Highest quintile (%of income or consumption)
+
+..
+
+..
+
+..
+
+..
+
+6.4
+47.2
+
+..
+
+..
+
+..
+
+..
+
+2.4
+3.6
+
+12
+3.4
+
+..
+
+..
+
+49
+72
+36
+
+55
+82
+41
+
+76
+88
+70
+
+52
+46
+
+53
+46
+
+57
+57
+
+1970-75
+POPULATION
+Total population, mid-year (millions)
+Growth rate (%annual average for period)
+Urban population (%of population)
+Total fertility rate (births per woman)
+
+LowIncome
+
+POVERTY
+
+(%ofpopulation)
+National headcount index
+Urban headcount index
+Rural headcount index
+
+INCOME
+GNI per capita (US$)
+Consumer price index (1995=100)
+Food price index (1995=100)
+
+450
+..
+
+INCOME/CONSUMPTION DISTRIBUTION
+
+SOCIAL INDICATORS
+Public expenditure
+Health (%of GDP)
+Education (%of GDP)
+
+Social security and welfare (%of GDP)
+Net primary school enrollment rate
+
+1.9
+1.7
+
+(%of age group)
+Total
+Male
+Female
+
+..
+
+27
+36
+
+..
+
+18
+
+.
+
+46
+54
+37
+
+Access to an Improved water source
+(%ofpopulation)
+Total
+Urban
+Rural
+
+.,
+
+.,
+
+..
+
+..
+
+..
+
+..
+
+Immunization rate
+
+(%under 12 months)
+Measles
+DPT
+
+Child malnutrition (%under 5 years)
+Life expectancy at birth
+(years)
+Total
+Male
+Female
+Mortality
+Infant (per 1,000 live births)
+Under 5 (per 1,000 live births)
+Adult (15-59)
+Male (per 1,000 population)
+Female (per 1,000 population)
+Matemal (per 100,000 live births)
+Births attended by skilled health staff (%)
+
+..
+
+29
+
+..
+
+15
+23
+
+..
+
+23
+
+38
+38
+39
+
+42
+41
+42
+
+47
+46
+47
+
+47
+46
+47
+
+59
+58
+60
+
+164
+345
+
+137
+265
+
+98
+177
+
+91
+162
+
+76
+115
+
+636
+534
+
+589
+507
+
+448
+443
+
+504
+459
+
+294
+261
+
+..
+
+..
+
+..
+
+..
+
+1,200
+35
+
+Note: 0 or 0.0 means zero or less than half the unit shown. Net enrollment ratios exceeding 100 indicate discrepancies
+between the estimates of school-age population and reported enrollment data.
+2002 World Development Indicators CD-ROM, World Bank
+
+Annex B6
+Page 1 of 2
+
+Annex B6 Guinea - Key Economic Indicators
+
+| ;
+
+Indicaiot
+
+Acmual
+199'.7.- 1998
+
+1996
+
+EmePoeic
+200f
+
+1999
+
+2001
+
+;:2002
+
+204N
+
+.'20U3
+
+2005 ';
+
+206J_j
+
+National accounts (as % of GDP)
+Gross domestic product'
+Agriculture
+
+100
+22
+
+100
+23
+
+100
+24
+
+100
+24
+
+100
+24
+
+100
+24
+
+100
+25
+
+100
+25
+
+100
+25
+
+100
+25
+
+100
+25
+
+Industry
+
+34
+
+36
+
+37
+
+.38
+
+36
+
+38
+
+38
+
+36
+
+35
+
+34
+
+34
+
+Services
+
+44
+
+41
+
+39
+
+38
+
+40
+
+38
+
+37
+
+38
+
+40
+
+41
+
+41
+
+Total Consumption
+Gross domestic fixed investment
+Government investment
+Private investment
+
+88
+17
+5
+12
+
+80
+18
+6
+12
+
+85
+18
+4
+14
+
+83
+22
+7
+15
+
+83
+22
+7
+15
+
+80
+22
+7
+15
+
+80
+25
+8
+17
+
+80
+24
+8
+16
+
+75
+26
+9
+17
+
+73
+30
+11
+19
+
+72
+32
+11
+21
+
+Exports (GNFS)b
+Imports (GNFS)
+
+19
+24
+
+20
+23
+
+21
+25
+
+22
+27
+
+24
+29
+
+27
+29
+
+25
+30
+
+26
+30
+
+28
+29
+
+26
+29
+
+26
+30
+
+Gross domestic savings
+Gross national savings'
+
+12
+9
+
+20
+17
+
+15
+13
+
+17
+15
+
+17
+15
+
+20
+20
+
+20
+19
+
+21
+19
+
+25
+23
+
+27
+25
+
+28
+26
+
+3867
+
+4144
+
+4438
+
+4802
+
+5434
+
+5919
+
+6325
+
+6885
+
+7501
+
+8149
+
+8915
+
+570
+
+560
+
+520
+
+500
+
+450
+
+420
+
+410
+
+420
+
+440
+
+450
+
+460
+
+5.0
+
+4.8
+
+4.6
+
+1.8
+
+3.8
+
+4.3
+
+4.5
+
+5.0
+
+5.8
+
+6.1
+
+2.2
+1.3
+2.4
+
+1.3
+1.2
+1.2
+
+0.1
+-0.4
+-0.6
+
+1.3
+1.0
+0.8
+
+2.0
+3.2
+3.6
+
+2.8
+2.2
+2.2
+
+3.1
+2.0
+1.9
+
+4.3
+1.7
+1.5
+
+3.1
+2.0
+1.2
+
+Memorandum items
+Gross domestic product
+(GINF billion at current prices)
+GNP per capita (US$, Atlas method)
+
+Real annual growth rates (%, calculated from 1994 prices)
+Gross domestic product at market prices
+4.6
+
+Real annual per capita growth rates (%, calculated from 1994 prices)
+Grossdomesticproductatmarketprices
+2.0
+2.3
+Total consumption
+0.6
+0.9
+Private consumption
+0.7
+0.4
+Balance of Payments (USS milllons)
+Exports (GNFS)b
+Merchandise FOB
+Imports (GNFS)b
+Merchandise FOB
+Resource balance
+Net current transfers
+Current account balance
+Netprivate foreign direct investment
+Long-termnloans(net)
+Official
+Private
+Other capital (nsincr. eors &omnussion)
+Change in reservesd
+Memorandum items
+Resource balance (%of GDP)
+Real annual growth rates ( YR94 prices)
+Merchandise exports (FOB)
+Primary
+Manufactures
+Merchandise imports (CIF)
+
+734.1
+610.0
+
+770.7
+660.0
+
+770.2
+659.4
+
+759.0
+645.8
+
+734.6
+666.6
+
+822.3
+722.8
+
+792.2
+713.3
+
+871.3
+787.0
+
+955.9
+866.8
+
+981.6
+891.1
+
+1028.8
+934.8
+
+941.9
+583.7
+-207.8
+-36.8
+-339.0
+
+855.0
+572.5
+-84.3
+-25.9
+-233.2
+
+903.3
+576.6
+-133.1
+22.2
+-239.4
+
+923.7
+581.8
+-164.7
+-4.3
+-252.8
+
+893.8
+583.3
+-159.2
+10.5
+-226.4
+
+880.5
+561.9
+-58.2
+51.6
+-72.8
+
+956.0
+649.6
+-163.8
+27.9
+-195.1
+
+980.2
+674.8
+-108.9
+27.5
+-150.8
+
+1010.5
+697.3
+-54.6
+18.9
+-131.1
+
+1087.2
+755.7
+-105.6
+9.0
+-201.8
+
+1184.2
+856.0
+-155.4
+7.0
+-251.1
+
+16.8
+1364.6
+-18.2
+1382.8
+-1069.7
+
+44.5
+2056.4
+122.7
+1933.7
+-1821.2
+
+49.1
+1522.1
+46.0
+1476.1
+-1336.3
+
+33.8
+1631.0
+-24.0
+1655.0
+-1453.7
+
+-47.2
+1200.3
+-75.0
+1275.3
+-970.6
+
+-58.0
+1396.3
+-13.5
+1409.8
+-1211.6
+
+30.3
+1143.0
+-115.8
+1258.8
+-984.5
+
+28.4
+809.7
+-63.3
+873.1
+-679.3
+
+27.8
+1293.4
+-62.3
+1355.8
+-1180.6
+
+261.3
+1846.9
+-47.3
+1894.2
+-1850.7
+
+261.3
+2011.0
+
+-2021.2
+
+27.3
+
+-46.5
+
+4.5
+
+41.8
+
+43.9
+
+-53.9
+
+6.3
+
+-8.0
+
+-9.5
+
+-55.7
+
+0.0
+
+-5.4
+
+-2.2
+
+-3.7
+
+-4.8
+
+-5.1
+
+-1.9
+
+-5.2
+
+-3.3
+
+-1.6
+
+-2.8
+
+-3.9
+
+0.5
+5.6
+
+14.3
+10.6
+
+11.9
+8.4
+
+6.7
+6.5
+
+5.9
+6.6
+..
+5.3
+
+5.6
+5.0
+
+5.1
+5.0
+
+5.0
+5.0
+
+5.0
+5.0
+
+5.0
+5.0
+
+5.0
+5.0
+
+6.0
+
+6.0
+
+6.0
+
+..
+
+-8.9
+
+..
+
+10.2
+
+..
+
+7.5
+
+..
+
+7.2
+
+..
+
+..
+
+5.6
+
+5.9
+
+..
+
+6.0
+
+(Continued)
+
+Annex B6
+Page 2 of 2
+
+Guinea - Key Economic Indicators
+(Continued)
+Actual
+lradctoi
+
+,.
+
+1996
+
+.1997
+
+1998
+
+1999
+
+Es=acPro
+i. 200u
+
+d
+2001
+
+r 2002
+
+.
+
+2004
+
+2003
+
+2005'
+
+_
+
+Public finance (as % of GDP at market prices)'
+10.3
+Current revenues (incl. cur. grants)
+9.0
+Current expenditures
+1.2
+Current account surplus (+) or deficit (-)
+7.4
+Capital expenditure
+6.2
+Foreign financing
+
+14.6
+9.1
+5.5
+8.3
+5.9
+
+14.1
+8.7
+5.4
+6.0
+3.6
+
+13.1
+8.9
+4.2
+7.2
+5.3
+
+13.2
+5.8
+7.4
+7.2
+7.4
+
+14.8
+13.2
+1.6
+7.3
+4.4
+
+14.4
+11.9
+2.5
+8.0
+7.2
+
+16.7
+10.7
+6.0
+8.0
+1.3
+
+17.3
+11.0
+6.3
+9.3
+2.1
+
+18.3
+10.7
+7.6
+10.6
+2.1
+
+18.6
+10.4
+8.2
+10.9
+1.8
+
+Monetary indicators
+M2/GDP
+Growth of M2 (%)
+
+9.0
+2.8
+
+9.9
+17.3
+
+9.8
+6.1
+
+9.9
+8.9
+
+10.9
+23.4
+
+11.6
+14.8
+
+11.7
+19:2
+
+11.1
+8.6
+
+10.9
+9.0
+
+10.8
+9.5
+
+11.3
+9.5
+
+75.5
+122.1
+61.8
+
+71.5
+121.0
+59.1
+
+63.8
+118.8
+53.7
+
+58.6
+87.9
+66.7
+
+57.1
+83.6
+68.3
+
+59.3
+76.3
+77.7
+
+59.1
+82.5
+71.7
+
+60.3
+82.5
+73.1
+
+61.5
+82.5
+74.6
+
+62.7
+82.5
+76.1
+
+63.0
+82.0
+76.8
+
+69.0
+
+69.9
+
+68.6
+
+68.1
+
+58.5
+
+55.6
+
+...
+
+...
+
+...
+
+...
+
+...
+
+3.0
+1.4
+
+1.9
+1.7
+
+5.1
+2.2
+
+4.6
+3.5
+
+6.8
+11.1
+
+5.4
+4.9
+
+3.0
+2.5
+
+3.5
+4.2
+
+3.0
+3.8
+
+3.0
+2.6
+
+3.0
+3.3
+
+Price indices(
+Merchandise
+Merchandise
+Merchandise
+
+YR94 =100)
+export price index
+importprice index
+terns oftradeindex
+
+Real exchange rate (US$/LCU)r
+Real interest rates
+Consumerpriceindex (%change)
+GDP deflator (% change)
+
+a.
+b.
+c.
+d.
+e.
+f.
+
+GDP at factor cost
+"GNFS" denotes "goods and nonfactor services."
+Includes net unrequited transfers excluding official capital grants.
+Includes use of IMF resources.
+Consolidated central government.
+"LCU" denotes "local currency units." An increase in US$/LCU denotes appreciation.
+
+Annex B7
+Page 1 of I
+
+CAS Annex B7 Guinea - Key Exposure I[ndicatorsl
+
+-
+
+|
+
+_
+
+-
+
+~ ~ ~
+
+|
+
+|
+
+_ dtadLcalbr
+
+Total debt outstanding and
+disbursed (TDO) (US$m)'
+
+;
+
+,
+
+AC.UBI~~~~
+
+.-
+
+'
+
+-1996
+3271
+
+1998
+
+9I
+3355
+
+...
+
+Net disbursements (US$m).
+
+,
+1999:_
+
+20C0 _
+
+3375
+
+3251
+
+3218
+
+...
+
+...
+
+~
+
+'
+
+Ermz
+
+i.,.e-.
+
+;,.,
+
+...
+
+20C
+
+.
+
+3119
+
+7
+
+2002
+2986
+
+'f''
+
+I'°;k3
+
+-0 ,'0 ,20
+
+-
+
+2842
+
+...
+
+...
+
+.
+
+2466
+
+2006
+2482 2674.47
+
+234
+
+177
+
+209
+
+213
+
+180
+
+78
+
+90
+
+94
+
+82
+
+80
+
+80
+
+TDO/XGSb
+
+444.9
+
+435.3
+
+417.8
+
+444.6
+
+442.5
+
+379.3
+
+TDO/GDP
+
+84.6
+
+88.7
+
+89.7
+
+97.5
+
+104.5
+
+102.8
+
+376.9
+93.9
+
+326.2
+83.8
+
+258.0
+68.0
+
+252.8
+64.3
+
+250
+64
+
+TDS/XGS
+
+31.8
+
+23.0
+
+27.2
+
+28.0
+
+24.5
+
+9.5
+
+11.4
+
+10.8
+
+8.6
+
+8.1
+
+8.1
+
+91.6
+
+91.6
+
+Total debt service (TDS)
+(US$m)'
+Debt and debt service indicators
+(%)
+
+Concessional/TDO
+IBRD exposure indicators (%)
+IBRD DS/public DS
+Preferred creditor DS/public
+
+78.7
+
+78.7
+
+78.5
+
+79.3
+
+79.9
+
+80.4
+
+90.7
+
+91.3
+
+91.6
+
+0.0
+32.2
+
+0.0
+42.0
+
+0.0
+41.9
+
+0.0
+42.5
+
+0.0
+48.8
+
+0.0
+51.9
+
+0.0
+48.1
+
+0.0
+38.9
+
+0.0
+38.2
+
+0.0
+52.6
+
+52.6
+
+0.0
+0.0
+
+0.0
+0.0
+
+0.0
+0.0
+
+0.0
+0.0
+
+0.0
+0.0
+
+0.0
+0.0
+
+0.0
+0.0
+
+0.0
+0.0
+
+0.0
+0.0
+
+0.0
+0.0
+
+0
+0.0
+
+1007
+
+1020
+
+1052
+
+1052
+
+.
+
+.
+
+.
+
+0
+
+DS (%)'
+
+IBRD DS/XGS
+IBRD TDO (US$m)d
+Of which present value of
+guarantees (US$m)
+Share of IBRD portfolio
+
+(%)
+
+IDA TDO (USSm)d
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+1002
+
+..
+
+..
+
+1022
+
+908
+
+989
+
+978
+
+1013
+
+1009
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+..
+
+..
+
+..
+
+..
+
+..
+
+IFC (US$m)
+Loans
+Equity and quasi-equity /c
+
+..
+
+..
+
+..
+
+MIGA
+MtGAGrossGunranreesOutsmanding(US$m)
+
+0.0
+
+8.3
+
+6.0
+
+4.0
+
+2.9
+
+51.5
+
+39.4
+
+19.4
+
+1. Assessment based on the HPC decision point document and debt relief and projections under the CAS base case scenario.
+a. Includes public and publicly guaranteed debt, private nonguaranteed, use of IMF credits and net shortterm capital. The debt outstanding takes into account HIPC assistance when a stock of debt operation is conducted.
+Debt service takes into account all projected HIPC assistance as from 2001.
+b. "XGS" denotes exports of goods and services, including workers' remittances.
+c. Preferred creditors are defined as IBRD, IDA, the regional multilateral development banks, the IMF, and the
+Bank for Intemational Settlements.
+d. Includes present value of guarantees.
+e. Includes equity and quasi-equity types of both loan and equity instruments.
+
+Annex B8
+Page 1 of 2
+
+CAS Annex B8 (IFC) for Guinea
+Guinea
+Statement of IFC's
+Held and Disbursed Portfolio
+As of 6/30/2002
+(In US Dollars Millions)
+Held
+FY Approval
+1988
+1998
+1993/98
+
+Disbursed
+
+Company Loan Equity Quasi Partic Loan Equity Quasi Partic
+Aurifere
+0
+0
+0
+0
+0
+0
+0
+0
+0
+SEF Agro 0.14
+0
+0
+0 0.14
+0
+0
+0.56 0.48
+0
+SGHI
+2.58
+0.56 0.48
+0 2.58
+
+Total Portfolio:
+
+2.72
+
+0.56
+
+0.48
+
+0 2.72
+
+Approvals Pending Commitment
+Loan Equity Quasi Partic
+
+0.56
+
+0.48
+
+0
+
+Annex B8
+Page 2 of 2
+
+CAS Annex B8 - Guinea
+Operations Portfolio (IBRDIIDA and Grants)
+As Of Date 03/2012003
+Closed Projects
+
+IBRDIIDA *
+Tota Disbursed (Active)
+ofwhich has been repaid
+Total Disbursed (Closed)
+of which has been repaid
+Total Disbursed (Active * Closed)
+of which has been repaid
+
+Total Undisbursed (Active)
+Total Undisbursed (Closed)
+Total Undisbursed (Active +Closed)
+
+53
+
+48 68
+0.00
+1,18924
+196.93
+1,237,914,007 97
+196,933,374.91
+
+172.88
+4-25
+177,129,930.86
+
+Active Projects
+
+Difference Between
+Expected and Actual
+
+Last PSR
+Supervision Rating
+Project ID
+
+Project Name
+
+P049716
+P050046
+P074288
+P050732
+P073378
+P041568
+P001075
+P001074
+Overall Result
+
+CAPACITY BUILDING FOR SI
+EDUCATION FOR ALL PROJ I
+Guinea: Decentralized Rural E
+Guinea:VILLAGE COMMUNIT
+MULTI-SECTORAL AIDS PRC
+POP & REPROD HEALTH
+THIRD WATER SUPPLY
+URBAN III
+
+Original Amount in US$ Millions
+
+Development
+Obiectives
+
+Implementation
+Proaress
+
+Fiscal Year
+
+U
+S
+S
+S
+S
+S
+S
+S
+
+U
+S
+S
+S
+S
+S
+S
+S
+
+2000
+2002
+2003
+1999
+2003
+1999
+1997
+1999
+
+a. Intended disbursement to date minus actual disbursement to date as projected at appraisal
+
+IBRD
+
+IDA
+
+GRANT
+
+19
+70
+5
+22
+20.3
+11.3
+50
+18
+195.3
+
+20.3
+
+Disbursements"
+Cancel.
+
+Undisb.
+13.81267
+71.11393
+5.553778
+11.8267
+20.99112
+0.41042
+37.22566
+11.9474
+172.8817
+
+Orig.
+
+Frm Revd
+
+19.518693
+-5.446988
+0.2439024
+12.226042
+1
+-2.010361
+10.628768 7.7673791
+12.481107
+48.641162 7.7673791
+
+Annex B9
+Page 1 oif3
+
+Annex -B9 - CAS Program Matrix
+Dia;gnosis
+
+PRSP' Strategic
+Directions
+
+1. Sustained and equitable
+Annual growth of about
+4% of GDP stemring
+mainily fronn extractive
+
+growth_
+
+Maintain mnacro economiic
+stability
+
+Fiscail 2004-06 Actions and. Performance Obe
+Developrnent
+__Country
+Partmaers' i^ocus __
+Actioins
+=p
+enclunarks:=t
+
+____
+
+IMF: Macro stability
+
+s/Benchmarks
+World Bank Group
+Actions
+B chmarks
+B=
+
+MIaintain macroeconomic
+siability
+
+Reach 5.8 percent annual
+growth rate by fiscal 2005
+
+Lendippgj
+FY04
+
+Action plans based on
+CPAR, CFAA, anc PER
+
+Expansion of budget
+tracking mechanism
+down to front line
+Expansion of miedium
+term expenditure
+
+Maintain inflation below
+3 percent
+
+implemented.
+Mectanisms
+r
+to rack
+budgetary expendietures to
+firont line dcvcloped
+and implemented.
+
+framework to include all
+
+adverse investment
+
+Increase fiscal revenuecs
+to 13 percent of GDP
+Maintain spending in
+priority sectors at 20)2
+
+i
+adjustment creditu
+al Intrctre
+Rua nisrcuethe
+Progral
+Pormadipectd
+
+Growth haTnpered by
+
+AfDB: Macro stability;
+transport infrastr. and
+policy dialogue; ag.
+water and
+siie
+ndrrl
+elette
+supply dsevices and
+rural
+eethricity supy
+development
+through
+involvement of
+UN System: SME; ag.
+private sector
+
+policy and rural
+
+sectors
+
+levels
+
+PolIicy refo)rms in
+
+dvlpet.vesand
+development
+
+Implementation ofGEcomntad
+
+Improve investment
+clinmate through:
+
+Little equity in growth
+imatoBpvryetter
+Yn
+and impact
+on poverty
+reduction
+
+climate and weak
+govmaeranc ea
+governance
+
+s
+
+Fiscal revenues hover
+around 11°6 to 120,tof
+
+aouDI
+
+tdv;fIshre
+
+*
+*
+
+nmining,
+
+Policies to ieduce cost of
+doing business clarified
+
+GEF community
+project
+
+implementation.
+Numiber of days needed
+to clear goods through
+
+agriculture, trade,
+and fishing sectors
+
+EU: Macro stability;
+transport infrastr. and
+policy; ag. serviccs; rural
+
+Improved
+
+dv;fseisanrd
+
+Privatization of public
+parastatal enterprises,
+
+govenmance
+Support to small
+and medium
+enterprises in
+urban and rural
+
+Fnrnch development
+agencv: R,ural and urban
+infrastr; water sector
+dialogue- farmers'
+organizations and ag.
+seivices; micro credit
+
+including private sector
+involvernent in water and
+electricity sectors
+.
+Policy reforms in
+agriculture, miring, trade,
+
+infrastructure ancl
+
+French CGoperation: TA
+
+services
+
+to Minisby of Fin.
+
+Private sector assessment
+
+Su<tainab][e
+management of
+environmental
+
+GTZ: PRSP monitoring;
+SME
+CIDA: water sector
+
+WBI support
+
+resources
+
+diogesupport
+ulsources
+dialogue
+
+areas throujgh
+
+*
+
+GEF coastal zone
+management project
+
+CPAR, CFAA, and PER
+action plans
+
+aind fisheries
+
+U'AID:
+credit
+
+SME,
+
+micro
+
+Improved public
+expenditure iianagennent
+sepnvesec
+vwat r
+
+under
+de
+
+Seetv novmn f
+private sector in water
+
+FY05:
+
+and power sectors
+
+Urbanl program
+
+between IO to 15 dlays in
+
+AAA activitiies:
+
+Minimum package of
+infrastructural services
+for growth identified and
+under implementation.
+
+FY04:
+
+Country econiom
+memorandumn
+
+csosrdcdfo
+bestwm eduen0t5day
+fino
+
+The Ipercentage of the
+counteyd
+g s iral roab s
+
+Possible IFC and MIGA
+
+average increased from
+30 percent in 2003 to 60
+perccnt in 2006.
+
+support
+
+NPV's of debt-to-export
+ratios below 200 percent.
+Satisfactory portfolio
+indicators (realism index
+> 80 percent; pro-activity
+index > 95 percent)
+Satisfactory QAG and
+OED evalualtion.
+
+Annex B9
+Page 2 of 3
+Diagnosis
+
+PRSP Strategic
+Directions
+
+Development
+Partners' focus
+
+Fiscal 2004-06 Actions and Performance Objectives/Benchmarks
+Country
+World Bank Group
+Actions
+Benchmarks
+Actions
+Benchmarks
+
+2. Access and quality ol basic social services
+Important progress i
+health and education
+indicators, butt yet at
+indSato
+letelsmpuove
+
+SSA levels
+
+Improved access, equity,
+
+AtDB primary health
+care, drug supply
+HlV/AIDS
+
+and quality of education
+Improved health and
+through an
+
+I/IStenm
+
+strengthened primary
+
+Challenges wihrgrUN
+
+NS
+
+teghndprmr
+
+health care and referral
+
+pealth fealea
+
+public expenditures in
+
+systems, decentralization
+
+social sectors
+Ilighly centralied
+
+organization of service
+
+delivery with limited
+accountability towards
+henefteiaries
+
+49 percent of population
+in Conakry has access to
+drinking water; about
+10,000 improved water
+points in rural areas
+HIV/AIDS levels
+currently at 4.4 percnt
+
+expenditures in social
+sectors through medium
+expenditure
+
+em: halth
+
+framework and budgetary
+
+oiy fsemalhanchlth
+
+quality and quantity of
+
+Improve quality of
+
+chld
+
+deocnrto
+
+Gross prmary school
+enrollment at 70 percent
+(63 percent for girls)
+
+iInfant mortality
+pcr thousand;
+
+rate at 70
+
+Onaoine:
+Community support
+program
+
+Increase coverage of
+community support
+po
+fr3 73 CRDs
+
+Natioruil HlV/AIDS
+
+t.303 CRDs by 2006.
+
+Education for all program
+
+poverty reduction
+
+program
+
+Pnlicy recommendations
+to increase impact on
+
+deconcentration
+
+Matemal mortality race at
+
+health, water supply,
+
+Empowermnent of se
+
+300 per 1 00,000 live
+
+of health services and
+
+primary education,
+
+beneficiaries ovcr social
+
+birth;
+
+Water and sanitation
+
+reflected in the PRSP
+
+improved quality of
+
+security reform
+
+scrvices delvery
+
+HIV/AIDS prevalence <5
+
+Rural electrification
+
+Percentage of total
+
+Increased access to
+drinking water in urban
+
+EU: hospital reform,
+primary health care, rural
+
+and education to improv
+quality, equity, and
+
+percent
+90 percent population
+
+proct
+
+accessibility of servi'ces
+implementation of
+
+acest
+
+edn:primary
+Health sector operation
+FY05
+0
+Second phase of
+commun
+program
+Y06;
+PRSC I (focus on health
+and education)
+AAA activities:
+Poverty Assessment
+(FY05-06) and Education
+Sector Review (FY05)
+
+budgetary ependiturs in
+health
+aocatd t
+
+HlV/AIDS, social
+
+expenditures
+
+and mral arras
+beneficiaries
+areas
+
+~waler
+supply, gender
+and equity
+rural
+
+Maintain HIVIAIDS
+incidence below 4 percent
+Pilot programs for rural
+electrification
+Gender focus in social
+services
+
+ety
+French Dcv Agencv:
+primary and technical
+education, rural water
+supply
+French
+Education for all
+GTZ: primary health care,
+rural water supply,
+education,
+e IdV/AIDS
+CILDA: education, health,
+water supply
+USAID: reproductive
+health, education policy,
+HIV/AIDS
+Japam Intcrational
+Cooperation Agnency:
+class room construction
+
+servics delveryarojec
+
+Policy reform in health
+
+lmptemealion of
+national HIV/AIDS
+strategy
+Double percentagc of
+population with access to
+dooperation:
+rinking water through
+andrural water
+supply
+Ensure gender equity in
+social sectors
+
+rnigwtr
+
+RpaleecrrcaioePrenaetftoa
+
+~~FY04:
+
+WBI training
+
+health care
+increased from 14 %in
+
+2003 to 20 %in 2006.
+Percentage of I year-old
+cen
+tm yed
+children immunized
+from 52 %in 2001 to 60
+%in 2006.
+n
+non-wage
+recurent expenditures for
+prim.
+Educ mpanaged at
+the school level from 0 %
+in 2003 to 50 %in 2006.
+Repetition rates for prim.
+Educ. reduced from 30 %
+in 2003 to 20 %in 2006.
+National coverage of
+HIV/AIDS program
+attained by 2006.
+Satisfactory portfolio
+indicators (realism index
+> 80 %; pro-activity
+indcx > 95 %)
+Satisfactory QAG and
+OED evaluation.
+
+Annex B9
+Page 3 of 3
+
+Diagnosis
+
+PRSP Strategic
+Directions
+
+|
+
+Fiscal 2004-06 Actions and Performance Objectives/Benchmarks
+Couniy
+World Bank Group
+|
+Acin
+enchmarks
+Actions
+|
+Bencrak
+
+Developmcnt
+Partners' focus
+
+3. Strengthening governance and institutional and human capacity
+Govemance problems
+Decentralization and
+AfDB: govemance
+negatively affect growth,
+deconcentration of
+assessment
+poverty reduction, and
+service delivery
+social service delivery
+tncreased accountability
+LIN System;
+Existing body of
+of local authorities
+decentralization, support
+atcorpin
+legislation and legislation and
+Fight against conruption
+committee,
+empowerment
+institutions to improve
+Em-powermnent of
+of beneficiarics, supportt
+governance, but
+implementationbuapered beneficiaries
+to legislative and judicial
+by powerful lobbies
+Refom injustice system
+systems
+by powerful lobbies
+Refomm In JUSbCC
+system
+Decentralization/
+EU: institutional reform,
+deconcentration
+fiduciary capacity
+framework under
+building, suppoit to aeh-
+
+Further clarification of
+dceentralization and
+deconcentration
+framework
+Processing of cases
+dumtebyheAntiCorrupton Committee
+CrutoCmite
+
+~~~~to
+
+French Development
+Aeency: support to
+decentralization,
+community
+empowerment
+
+~
+
+Adoption and
+implementation of
+Govemance and anticorruption action plan
+of
+judicial reform
+Expansion of community
+support program to reach
+national coverage
+Decentralization and
+deconcentration of
+sectoral service delivery
+
+~
+
+GTZ:supportto~
+GTZ: suppoat to
+decentralization,
+commupnty
+empowerment, support to
+
+piDA: strcngtbening
+CIDA: strcngthening
+capacity in social sectors
+USAID: support to
+govemance at local level,
+decentralization
+
+~
+
+| Organization of CRD
+elections
+Establishment of
+prefectoral development
+councils
+IpoSecond
+govemance as measurcd
+gvrnceamased
+through Govcmance
+Survey and Diagnostic
+Empowcmmcnt of
+beneficiaries over service
+delivery
+Publication of budget
+allocation and release in
+national press
+
+Oneoing:
+CtsnD program
+Lending:
+Y06:
+programphase of CB3SD
+Pgancvlp
+AAatvte:aotd
+
+AAA artivities:
+Legal and judicial sector
+assessment (FY04)
+Integrated fiduciary
+assessment (FY05)
+Institutional and
+govemance rcview
+(FY06)
+Annual follow-up to
+govemance survey and
+diagnostic
+Support to legislative and
+
+~~~~~~~~~upot
+oleilaie IDF
+judicial through
+
+n
+
+grant
+Strengthening monitoring
+and evaluation
+Training offered by the
+World Devclopment
+Instmute.
+
+Improved fiduciary
+framework for public
+finance management
+adopted.
+Modalites foT operating
+of
+prefectural
+developmcnt
+councils
+ntonis
+adopted.
+Policies to strengthen
+judicial framework
+formulated and under
+imlementation.
+mImplementation
+Auticorruption action
+plan under
+implementation.
+Satisfactory portfolio
+indicators (realism index
+> 80 percent; pro-activity
+index > 95 percent)
+Satisfactory QAG and
+OED evaluation.
+
+Annex B 10
+Page 1 of 1
+
+CAS Annex B10
+CAS Summary of Development Priorities
+
+Network area
+
+|
+Country
+| Perlormance8
+
+Major issueb
+|
+
+I
+
+Country
+priorityc
+
+[
+
+Bank
+Priorityc
+
+~~~~~~Reconciliation
+
+of country and
+Bank prioritiesd
+
+Poverty Reduction & Economic Managent
+
+Poverty reduction
+
+Poor
+
+Economic policy
+Public sector
+
+Poor
+Poor
+
+Gender
+Fair
+Human Development Department
+Education
+Fair
+
+Modest growth with little
+
+High
+
+High
+
+Weak investment climate
+Highly centralized public
+
+High
+High
+
+High
+
+administration
+Equity
+
+High
+
+High
+
+equity
+
+___ ___ _______
+_ __ ___ _
+
+High
+
+____ccess__qua
+
+| Access, quality, and equity
+
+High
+
+High
+
+Health, nutrition & Population
+
+Fair
+
+| Access, quality, and equity
+
+High
+
+High
+
+Social protection
+
+Fair
+
+| Equity
+
+High
+
+High
+
+High
+
+High
+
+Environmentally & Socially Sustainable Development
+Rural development
+Fair
+Decentralization, growth in
+rural areas
+
+Environment
+
+Fair
+
+Biodiversity, impact of mining
+
+_____ _____
+__industry
+_____ ____ _
+
+Social development
+
+Fair
+
+Finance, Private Sector & In rastructure
+Financial sector
+Good
+
+Micro credit
+
+High
+
+Low
+
+Private sector
+Energy & Mining
+
+Fair
+Poor
+
+Weak investment climate
+Private sector involvement in
+
+High
+High
+
+High
+High
+
+Infrastructure
+
+Fair
+
+High
+
+High
+
+AFD is taking
+
+energy sector
+
+Transportation infrastructure
+and policy
+
+"excellent," "good," "fair," or "poor."
+Indicate principal country-specific problems (e.g. for poverty reduction, "rural poverty," for education, "female secondary completion,"
+for environment, "urban air pollution").
+' To indicate priority, use "low," moderate," or "High."
+d Give explanation, if priorities do not agree; for example, another MDB may have the lead on the issue, or there may be ongoing dialogue
+a Use
+b
+
+Annex C
+Page 1 of 3
+
+Exipendfture Accountability Assessment and Actlon Plan (AAP)
+Guinea Action Plan Update TablRe
+December 2002
+Indicator
+
+Actions to Strengthen
+
+-
+
+Status3
+
+Progress to Date on Action Plans and
+
+Indicated Improvements (Outcomes)
+
+From Agreed Action
+PlansI and time horizon
+(S/M2 )
+
+(to be completed by country team)
+
+(from AAP)
+I
+
+;UDGVET PC"P 1JL..TlON
+
+Consolidated positions Adherence to MSFP public
+administration standards.
+
+_.
+
+*
+
+_
+
+Unified budget objective: Joint
+preparation of the 2003 budget law
+by the National Budget Office and
+the National Directorate of
+Investment (S)
+
+11
+
+I' I
+
+completion of this activity is still a long way off,
+work was done in this area, particularly at the time of budget
+analysis within the PRSP framework. In particular, a method
+of assessing recurrent costs needs to be decided upon, as well
+as the incorporation of the execution of donor-financed
+investment spending into budgetary transactions. The
+implementation of the medium-term expenditure framework
+(MTEF) should provide an opportunity to strengthen
+cooperative efforts between the respective directorates.
+- Although
+
+- This activity is expected to start and be carried out in 2003.
+It is understood that an accounting plan for local authorities,
+- Strengthen
+
+2
+
+3
+
+consolidate the general
+
+government budget with the EPAs
+_______________________and the local authorities (M)
+Make the budget more
+Government activities are not
+comprehensive:
+carried out through extrabudgetary transactions to a
+- Calculate govermnent revenue that
+great extent.
+has not been paid back to the
+Treasury (S)
+- Pay back all state revenue to the
+Treasury (M)
+- Close all satellite accounts, with
+the exception of project accounts
+subject to double signature ---donor/Government (S)
+Budget execution is very close Improve the rate of execution of
+expenditure
+to budget forecasts
+(in terms of the volume and
+operational allocation).
+
+NS
+
+compatible with that of the government, will be prepared
+
+within the framework of the World Bank's capacity building
+program (PRCI).
+
+11
+
+The Government incorporated inthe 2002 budget some
+allocated revenue that was not so far included. The
+Government made a commitment to continue this effort in
+order to achieve a single treasury account. To that end, the
+closing of extra budgetary accounts has started. Their
+consolidation in a unique treasury accounting system is a
+target under the program supported by the Fund.
+
+II
+
+The execution of priority expenditures for FY 2002, with the
+exception of investments financed using HIPC resources,
+was roughly as projected; a great improvement compared
+with previous fiscal years. A number of Financial
+Administration Directors (DAF) have been replaced, with a
+view to achieving this objective. The execution of nonpriority expenditures for FY 2002 exceeded budget forecasts
+partly because of security expenditures.
+
+IMF, and World Bank.
+2 S = short term, i.e. action that is expected to be completed in one year. M = medium term, i.e action that is expected to be completed in 2-3 years.
+of implementation, i.e. whether implementation has been
+3Progress to date should include: short description of progress and improvements; note degree
+date of completion.
+state
+please
+If
+Fl,
+initiated (11), is not yet started (NS), or is complete (Fl, for fully implemented).
+l
+
+Annex C
+Page 2 of 3
+4
+5
+
+The budget includes donorfinanced capital and current
+expenditure.
+Budgetary classifications are
+administrative, economic, and
+functional innature.
+
+N/A (meets benchmark)
+N/A (meets benchmark)
+
+6
+
+Poverty reduction expenditure
+is clearly identified in the
+budget.
+
+Codify the budgetary lines
+identified in order to monitor
+poverty reduction expenditure (S).
+
+II
+
+The Govemment has identified and indicated the budgetary
+lines that involve expenditure using HIPC resources.
+However, poverty reduction expenditure includes also
+expenditure of the priority sectors financed on non-HIPC
+resources. Anumber of expenditures of the non-priority
+sectors that support the management of expenditures using
+HIPC resources were added to this category. At the time of
+the mission, this information was obtained from the system
+using a query covering multiple criteria A specific identifier
+will be introduced in the coming months to obtain
+information in a simple and more reliable manner, with a
+view to detenmining the level of execution of the
+expenditures allocated to poverty reduction.
+
+7
+
+Medium-term expenditures are
+incorporated into the budget
+cycle.
+
+- Improve the programming of
+medium-term expenditure for the
+priority ministries (S).
+- Train staff in the Directorates of
+Administrative and Financial
+Affairs (DAAF) (S).
+
+II
+
+The Govemment has already a fairly comprehensive
+procedure inplace, which, for the past two fiscal years, has
+been facilitating the establishment of a medium-term
+macroeconomic fiscal account by the year 2005, based on the
+sectoral policies developed in the PRSP. The next step is to
+include inthe process a number of objectives to be attained
+by the ministerial departments and to take into account
+progress made with the deconcentration of expenditures.
+These two areas (implementation of the CDMT and support
+for deconcentration) the specifically covered inthe World
+Bank's capacity-building program (PRCI).
+
+BUDGET
+
+EXECUTION
+
+.
+
+.
+
+,
+
+:
+
+.
+
+,I
+
+8
+
+Low level of the arrears build
+up; slow build up of new
+arrears during the previous
+year.
+
+Avoid build up of arrears.
+
+II
+
+Remarkable progress has been made. At end-2002, the
+govemment reduced the totality of domestic arrears
+previously audited that were scheduled for reduction during
+2002. It has made significant efforts to avoid the buildup of
+arrears whether internal or external.
+
+9
+
+Intemal control is effective
+and efficient.
+
+- Prepare an overall global control
+policy (M).
+- Train financial controllers and
+ministries' inspectors (M).
+- Overhaul the Inspectorate General
+of Finance (IDF) (M).
+- Improve the follow-up of
+inspection reports (M).
+
+II
+
+-With regard to communication between the control entities,
+the financial control office will submit a half yearly budget
+execution report to the Inspectorate General of Finance, in
+order to achieve an overall control policy. Joint missions
+between these two entities will also be held.
+- A number of training activities are already under way,
+particularly as regards training of financial controllers at
+both the central and deconcentrated levels. A training
+program geared towards Financial Inspectors is already
+being prepared.
+Lastly, the Inspection Office of the National Treasury
+Directorate has been improved through the recruitment of
+young inspectors.
+
+10
+
+Audit monitoring conducted in
+addition to intemal control.
+
+Conduct physical and financial
+monitoring in all the priority
+sectors.(M)
+
+NS
+
+In addition to internal control, the anticorruption committee
+has conducted a number of audits that target the
+effectiveness of expenditure. However, ministerial
+
+_______________________________
+
+Annex C
+Page 3 of 3
+departments have not taken any action in this area.
+The Public Account t Chamber of the Supreme Court is
+currently unable to perform its functions in the area of public
+accounts audits and management control. Activities aimed at
+training magistrates and improving their working conditions
+should be undertaken, in order to allow this critical entity to
+carry out overall activities related to the management of
+public finance.
+11
+
+Reconciliation of banking and
+accounting data takes place on
+a systematic basis.
+
+4. DGET"
+12
+
+,roRTG
+
+N/A (meets benchmark)
+
+U
+
+Intemal data from ministries is
+received within four weeks of
+the reference period.
+Periodic statements are
+classified by function,
+
+N/A (meets benchmark)
+Improve the information system (M)
+
+NS
+
+14
+
+Accounts are closed two
+months after the end of the
+fiscal year.
+
+11
+
+15
+
+Accounts are audited and
+submitted to parliament within
+
+- Reduce the duration of the
+supplementary period to two months
+(S)
+- Observe the term of the
+complementary period and the
+closing of accounts by the National
+Treasury Directorate even if there
+are suspense accounts that have not
+been balanced. (S)
+- Shorten the time period for the
+auditing of accounts and preparation
+
+12 months of the end of the
+
+of the draft budget law.
+
+possible to close accounts more rapidly and the draft budget
+
+fiscal year.
+
+- Incoease the number of magistrates
+in the Public Account Chamber and
+make provisions for their training.
+(S)
+
+settlement law [loi de reglement] for FY 2001 was prepared
+in September 2002 and submitted to the Audit Office of the
+Supreme Court. It will be submitted to parliament as soon as
+possible, depending on when the relevant certificate of
+conformity is issued by the Public Account Chamber. The
+December 31, 2002 deadline was not met.
+
+13
+
+Regular improvements are made to the information system;
+however, in specific terms, this task has not yet been
+executed.
+The duration of the three-month supplementary period to
+per, to
+The trahons he thr cmn shortened.
+fclose transacions has not been shortened. However, the date
+for the closing of accounts hs been significantly brought
+forward compared with previous fiscal years.
+
+The new expenditure information system has made it
+pse to close
+moreapidly an thedt
+
+It should also be noted that the National Treasury Director
+has started submitting the documents related to the
+management account to the Public Account Chamber on a
+quarterly basis to the Audit Office. This will make it
+possible for balancing this account throughout the fiscal
+year. In order to carry out its mission, the Public Account
+Chamber should however, receive assistance to build
+capacity in management tools.
+
+Annex D
+Page 1 of 1
+PRSP objectives, strategies, actions, and donor support
+PRSP Objectives, Strategies, and Actions
+Fostering sustainable and equitable growth
+Establishment of stable macroeconomic and financialenvironment
+Increased fiscal revenues and efficiency gains in public expenditures
+Inflation control and exchange rate policies to increase competitveness
+Promotion of micro finance
+Extemal debt management through transparent management of debt relief
+Privatization of public and parastatal enterprises
+Regional integraton through trade framework, monetary integrabon, and cross-border
+initiatives
+Improvement of access to basic infrastructure
+Better access of water through private sector involvement in the sector
+Better access to electricity through fight against fraud and private sector involvement
+Transportation policy with focus on rural roads and ports management
+Better regulatory framework to attract private investment in post and telecommunication
+Support to sectors ofgrowth
+Growth in rural areas through increased productvity of agriculture involving improved
+services, access to markets, and empowerment of producers organizations
+Growth in mining thr-ough improved technical and legal security of mining claims;
+development of basic geological infrastructure; and attracting private investors
+Promoton of Tourism and Crafts
+Promotion of SMEs
+Natural resource management and environmental protecton
+Improved access and quality of basic social services
+Improved access, equity, and quality of educaton
+Improved health and nutriton through prevention, better access to essential health
+services; institutional and management capacity-building and improving service quality.
+Fight against HIV/AIDS through sector specific action plans and local response.
+Improved access to drinking water through rural water supply
+Rural electrification through pilot programs
+Housing and sanitaton through better urban planning and investment
+Reform in social security
+Focus on gender and equity in respective social services
+Strengthening govemance and institutional and human capacity building
+Good govemance
+Decentralization and deconcentra6on of service delivery and accountability of authorifies
+Transparency and fight against corrupton
+
+Participation and accountability towards beneficiares
+Stability and security at Guinea's borders and in the urban centers
+Institutionaland human capacity building
+Monitoring and evaluation of the strategy
+
+(XXX: major support; XX: significant support; X: some support)
+
+GOG
+
+WBG
+
+IMF
+
+I II
+X_X
+XXX
+XXX
+X
+XXX
+XXX
+YY_
+XXXIXXX
+XXX
+
+AfDB
+l
+
+XXX
+XXX
+x
+XXX
+
+|XXx
+XXX
+
+AFD
+
+XXX
+XX
+
+XX
+XX
+X X
+
+XX
+
+XXX
+
+XX
+
+XX
+
+XX
+
+XXX
+
+XX
+
+vvv
+XtXx
+
+XXX
+
+X_X
+
+Civil
+
+XX
+
+XXX
+XX
+XXX
+
+XX
+
+V
+tx
+
+l
+
+i
+
+i
+
+ii
+
+|
+
+l
+
+XX
+
+X
+
+_
+
+XX
+
+X
+
+[
+XXX |
+
+XXX)
+XXX
+
+XXX
+XXX
+
+XXX
+XXX
+
+XXX
+XXX I
+XXX |
+XXX
+I XX
+XXX
+__
+
+XXX
+
+_
+
+X
+
+XXX
+XXX
+| XXX
+
+XXX |_
+
+l
+
+XXX
+
+XXX
+|
+
+XXX
+l
+|XXX
+
+i
+_|
+
+l
+
+I
+
+X
+I
+l
+I
+
+l
+
+_
+
+XXX| XXX |
+|
+
+XXX
+l
+
+l
+
+X
+XXX |
+xxx
+
+XXX |
+l
+
+X
+
+__
+
+_YY
+
+__I
+
+l
+
+Private
+
+~~~~~~BlEat.
+|Soc. |Sector
+
+_
+
+XtXX
+
+X
+
+I Other
+
+|
+
+l
+
+XXX
+
+|
+XXX|
+l
+l
+l
+|x XXX | XX |
+|XX
+
+EU
+l
+
+XXX
+
+XXX
+
+XXX
+XX
+XX
+
+IXXX
+
+UN
+l
+
+XX
+XXX
+XXX | XXX
+|
+l
+
+XXX
+XXX
+
+XXX
+XXX
+
+XXX
+XXX
+
+XXX
+XX
+
+XXX
+XXX
+
+XXX
+XX
+
+X
+X
+
+X
+
+XXX
+XX
+
+X
+XXX
+
+X
+IXXX
+
+XXX
+XX
+
+XXX
+X
+
+XX
+X
+
+XXX
+
+l
+l
+I XXX
+XXX
+
+XXX
+
+X
+
+lllll
+
+XXX
+XXX
+XXX
+XXX
+
+|__XX X|_X__
+XX
+XXX
+XXX
+xx TxxxT
+XXX
+|_ X |
+|X
+_XXX_ XXX
+XX
+
+_
+
+l
+l _
+I
+
+l
+
+XX
+
+|
+
+i
+
+XXX l
+XXX
+
+_
+
+XXX
+
+X
+
+XXX | X
+XXX
+__
+X
+xxx T xx
+
+XX
+X
+
+XXX |_ XX
+__
+XXX
+__
+
+| XXX
+X
+xxx
+|
+
+XXX | XX |
+XX
+XXX
+xxx
+xxx
+|XXX
+___
+
+XX
+X
+
+XX
+xx
+
+|
+_X_XX_
+
+Annex E
+Page 1 of 4
+IDA lenclin2 and updated Debt Sustainability Analysis (DSA)
+HIPC assistance will significantly lower the debt service burden. At end 1999, Guinea's
+debt outstanding and disbursed amounted to US$3,375 million in nominal terms. The Net
+Present Value (NPV) of debt was estimated at US$1,727 million and was equivalent to 219
+percent of exports. Guinea reached its decision point under the enhanced HIPC Initiative in
+December 2000. HIPC assistance lowered the debt stock by US$545 million in NPV terms,
+equivalent to US$800 million in nominal terms. Of this, IDA committed to provide debt
+reduction of US$152 million in NPV terms as its contribution under the enhanced HIPC
+Initiative. IDA is delivering its assistance through 50 percent debt service reduction starting
+January 2001 and ending end-September 2015, representing a reduction of US$234 million in
+nominal terms. Starting January 2001, Guinea has received interim relief from its Paris Club
+creditors and its main multilateral creditors. The completion point was originally planned for
+December 2002, but it has been delayed because of poor performance under the 2001-2004
+PRGF-supported program arising mainly from significant overruns in non priority outlays.
+The PRGF went off-track at end December 2002 and has not been resumed.
+At decision point4 , Guinea's stock of debt was reduced substantially. The NPV of debtto-exports was projected to be reduced to 133.6 percent at end-20025 and to remain under the
+150 percent threshold throughout the projection period (1999-2018). The NPV of debt-toexports was projected to average 131.6 percent from 2000 to 2009, and 93.1 percent from
+2010 to 2018. At decision point, the base case scenario assumed: (i) 4.5 percent GDP growth
+from 2000 to 2001, 5.1 percent in 2002 and over 5.6 percent per year from 2003 until 2018;
+and (ii) 7.6 percent export volume growth from 2000 to 2006, 5.5 percent from 2007-2019.
+After 2003, export prices were projected to increase by under 2 percent per year.
+The NPV of debt-to-export ratio (NPVR) has turned out to be higher than projected. In
+2003, the NPVR is projected at 139 percent, compared with 125 percent in the decision point
+document. Exports have been lower than projected (Table 1), mainly due to the prices of
+mining products such as bauxite, alumina, and gold, which account for 70 percent of
+Guinea's exports. This was compensated slightly by changes in exchange rates and discount
+rates6 which lowered the projected NPV of debt by 4 percent from 2003 to 2018.
+The updated DSA projects the impact of the base case and low case macroeconomic
+scenario on the NPVR. For 2003-2018, the base case assumes: (i) real GDP growth rate
+rises from 4.5 percent to 6 percent by the end of the projection period; (ii) growth of exports
+expressed in dollars averages 6 percent; and (iii) the ratio of revenue-to-GDP increases from
+10.5 percent to 15 percent. The low case scenario assumes: (i) real GDP growth rate remains
+stable at 4 percent through the projection period; (ii) growth of exports averages 4 percent;
+and (iii) the ratio of revenue-to-GDP climbs from 10.5 percent to 12.5 percent.
+
+IDA/R2000-222 and IDA/R2000-222/1.
+the expected completion point date.
+6The DSA update takes into account end-2002 parameters (exchange and discount rates) while the decision
+point DSA was done on the basis of end-1999 parameters. Guinea's external debt is mainly composed of
+SDR (45 percent), US dollars (15 percent), Russian rubles (15 percent) and Euros (15 percent).
+4
+
+5 It was
+
+Annex E
+Page 2 of 4
+
+In both scenarios, the NPVR remains below 200 percent under each IDA lending
+scenario. In the base case IDA lending scenario (i.e., US$124.5 million FY 2004-2006), the
+NPVR averages 137 percent during the CAS period and 130 percent thereafter7 . In the low
+case IDA lending scenario (i.e.,US$60 million FY 2004-2006), the NPVR averages 136
+percent during the CAS period and 135 percent thereafter. Under the high case scenario (i.e.
+US$160 million FY 2004-2006), the NPVR averages 138 percent during the CAS period and
+149 percent thereafter (reaching a peak at 167 percent at the end of the projection period).
+This should not be a matter of concern because the ratio remains well below 200 percent. But
+to prevent the debt burden from becoming unsustainable, debt indicators would be monitored
+(Table 2 and Figure 1).
+Guinea remains vulnerable to external shocks. In an alternative scenario, shocks on
+exports were assumed in 2005 and 2012. Under this assumption, the NPVR averages 137
+percent during the CAS period and 156 percent thereafter. The NPVR would reach a peak at
+172 percent in 2016. Guinea was not eligible for IDA grants for the fiscal year 2003 because
+it is not among the poorest IDA countries: its GNI per capita is higher than US$360.
+Nevertheless, in the case of a severe external shock, supporting debt sustainability may
+require mobilization of'more grants.
+The DSA update shows that Guinea's fiscal debt sustainability will improve and remain
+robust. Guinea was not eligible for assistance under the fiscal openness window at decision
+point because of its low export and revenue-to-GDP ratio8 . Nevertheless, HIPC assistance
+committed under the NPV of debt-to-export criteria was expected to contribute significantly
+to fiscal debt sustainability. At decision point, Guinea's NPV of debt-to-revenues after HIPC
+assistance was projected to average 197 percent from 2003 to 2006, and 129 percent from
+2007 to 2018. The DSA update shows that the NPV of debt-to revenues averages 222 percent
+during the CAS perio(d under the base case scenario and 153 percent from 2007 to 2018.
+These higher than projected fiscal debt sustainability ratios are explained by lower than
+projected government revenues.
+Measures to improve debt sustainability should focus on export base diversification and
+debt management. Guinea's debt sustainability is sensitive to export shocks. To minimize
+the impact of such shocks, Guinea need to strengthen and diversify its export base, which is
+predominantly composed of mining products. The liberalization of trade, particularly the
+strengthening of regional trade with the Economic Community of West African States
+(Ecowas), is expected to be an important component of this strategy. Nonetheless, easing
+existing structural and institutional bottlenecks highlighted in the country's PRSP would be a
+key to promoting a (iversified export structure. Guinea should strengthen its revenue
+collection system, particularly with regards to mining sectors. Guinea should also pursue its
+efforts ion better use of external borrowing and debt management, particularly as regards the
+evaluation of the impact of new borrowings and the link between external debt policy and
+macroeconomic management.
+
+7For
+
+each IDA lending scenario, it was assumed that IDA lending from 2007 to 2018 would average the
+average annual IDA lending under the CAS.
+8 To be eligible under the fiscal/openness criteria, a country should have an export-to-GDP ratio of 30
+percent and a revenue-to-GDP ratio of 15 percent. Guinea's exports-to-GDP was 21.3 percent and its
+revenue-to-GDP was 10.7 percent at end 1999.
+
+Annex E
+
+Page 3 of 4
+
+Table 1: Exports and GDP: comparison between decision point projections and CAS
+projections
+(in mnillion US dollars, otherwise indicated)
+Average
+20002002
+(Actual)
+
+2003
+
+2004
+
+2005
+
+2006
+
+(Proj.)
+
+(Proj.)
+
+(Proj.)
+
+(Proj.)
+
+Average
+20042006
+
+Average
+20072018
+(Proj.)
+
+Projections of exports
+atdecisionpoint
+
+940
+
+1090
+
+1168
+
+1251
+
+1339
+
+1252
+
+2141
+
+Base case exports projections
+
+783
+
+871
+
+956
+
+982
+
+1029
+
+989
+
+1533
+
+Projections of GDP at
+decision point (nominal)
+
+3414
+
+4117
+
+4553
+
+5066
+
+5512
+
+5044
+
+9946
+
+Actual GDP/ revised base
+case projections (nominal)
+
+3083
+
+3677
+
+4087
+
+4531
+
+5057
+
+4284
+
+8770
+
+5.6
+
+5.6
+
+5.6
+
+5.6
+
+5.8
+
+6.1
+
+5.6
+
+6.0
+
+Projections of GDP at constant
+prices at decision point
+5.0
+5.4
+5.5
+(annual percentage growth)
+Actual GDP at constant prices
+/revised base case projections
+3.0
+4.5
+5.0
+(annual percentage growth)
+Source: Decision point Document, IMF and Bank staff estimates.
+
+Table 2: NPV of debt-to-export ratios after enhanced HIPC Assistance 9
+(percentages)
+
+2003
+
+2004
+
+2005
+
+2006
+
+Average
+2004-2006
+
+Average
+2007-2018
+
+Decision point scenario
+
+125
+
+119
+
+113
+
+108
+
+113
+
+95
+
+Base case scenario
+
+139
+
+140
+
+137
+
+135
+
+137
+
+130
+
+Low case scenario
+
+139
+
+139
+
+136
+
+133
+
+136
+
+135
+
+High case scenario
+139
+140
+137
+Source: Decision point Document, IMF and Bank staff estimates.
+
+137
+
+138
+
+149
+
+9The
+
+Table does not take into account additional debt relief beyond enhanced HIPC assistance.
+
+Annex E
+Page 4 of 4
+Figure 1: NPV of debt-to-exports after enhanced HlPC assistance
+190%
+
+Decision
+170%
+
+point
+
+_
+
+150%/
+
+e
+
+.--
+
+e
+
+scenario
+-0-- CAS
+
+~~~~~~~~~~~~~~~~~~~~bras
+case
+
+-
+
+scenano
+
+130%_=
+
+CAS low
+case
+scenario
+
+110%
+90%
+
+-6- CAS
+high case
+scenario
+
+70%
+50%
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017 2018
+
+Figure 2: NPV of debt-to-exports after enhanced HIPC assistance
+Shock scenario
+180%
+
+170% 160% -
+
+-
+
+-
+
+--
+
+-- Shock scenario
+
+-- K
+
+CAS base case scenario
+
+150% -
+
+140% 130% 120% 110%
+
+100%
+t
+
+>
+
+Ns
+
+> t
+
+<9 Ko
+
+o a
+
+,
+
+~~~~~~~~~~~~~s
+.savx
+w0~~~~t
+
+Annex F
+Page I of 3
+GUINEA: World Bank Relations
+
+Partnership in Guinea's Development Strategy
+Guinea's development strategy is laid out in the Government's Poverty Reduction Strategy
+Paper (PRSP), which was endorsed by the Executive Board of the Bank on July 25, 2002. The
+PRSP rests on three main pillars. First, to sustain faster economic growth and create incomeeaming and employment opportunities, particularly for the rural poor; second, to increase and
+extend access to basic: services; and third, to improve governance and strengthen institutional
+and human capacity. The PRSP builds on the groundwork of Guinea's poverty reduction
+policies as formulatecd in the "Guinea-Vision 2010" document of December 1996 and the
+interim PRSP of 2000.
+The IMF is taking the lead in assisting Guinea's poverty reduction strategy throughout its threeyear arrangement under the Poverty Reduction Growth Facility (PRGF) program for the period
+May 2001-May 2004. Besides the overall macroeconomic quantitative targets which include
+public debt supervision, the program has established structural performance criteria in key
+reform areas i.e., tax administration, banking supervision, and microfinance. Also, structural
+benchmarks have been set in the areas of revenue and expenditure-tracking management and
+money laundering. The Bank has complemented the Fund's work through social sector and
+structural adjustment credits supporting reforms in the areas of public expenditure management,
+governance, improved public sector management, regulatory reform and privatization.
+The World Bank is taking the lead in the policy dialogue and areas of structural reforms,
+including banking sector restructuring; privatization; administrative decentralization; capacity
+building; sectoral programs in the priority areas of health, education, rural development and road
+maintenance; and the anticorruption program. Overall, noticeable improvement has been made
+in the above-mentioned areas; however, in the judicial sector and utilities sector
+(telecommunications, electricity and water) progress has been slow.
+Bank Group Strategy
+The previous Country Assistance Strategy (CAS) for Guinea was presented to the Board in
+November 1997. It focused on macroeconomic stability, private sector development and public
+sector reform through a grassroots decentralization process. A CAS Progress Report was
+presented to the Board on July 2, 2001. The 2003 CAS will support elements of the country's
+PRSP (approved by the authorities in March 2002) and would also support the Government's
+desire to enter into new relationships with its development partners, based on a gradually phased
+change from projects to programmatic lending for more effective and efficient use of aid
+resources.
+IDA provided a fourtlh Structural Adjustment Credit (SAC IV) to Guinea in 2001, which is
+designed to support the country's poverty reduction strategy in the areas of public expenditure
+management, governance and public goods delivery to the poor. The SAC IV has satisfactorily
+impacted the country's macroeconomic performance in the medium-term. The credit was
+disbursed in one tranche (US$50 million) on the grounds that, despite the lack of any external
+budget support for a two-year period, Guinea had kept its economy broadly on track and had
+
+Annex F
+Page 2 of 3
+demonstrated commilment to the program reforms with regard to public expenditure
+management, governance and the decentralization of basic service delivery. The adjustment
+program supported by SAC IV has paved the way for a gradual transition towards programmatic
+lending to support the Government's poverty strategy.
+As of January 6, 2003, the IDA has approved 61 credits for Guinea, of which three have been in
+the transport and infrastructure sector; eight in the energy, water and telecommunications sector;
+five in strengthening the country's management capability (Technical Assistance (TA)/Economic
+Management), six in financing rural sector development; four in the urban sector; three in the
+health sector; four in the education sector; three in mining sector development; four in structural
+adjustment; four in the financial sector and one in private sector development. The total value of
+these projects amounts to about US$1,310 million equivalent, of which US$1,159 million has
+been disbursed. During FY98-02, the Board approved one adjustment operation (Public
+Expenditure Management Adjustment Credit) and six investment operations: the Village
+Community Support Program, the Capacity Building for Service Delivery Program, the
+Microfinance LIL, the Pre-service Teacher Education LIL, the Urban Project and the Population
+and Reproductive Health project. In July 2001 the Fourth Structural Adjustment Credit
+(US$50 million), the E]ducation-for-All project (US$70 million), and the Rural Electrification
+LIL (US$5 million) were approved. The Multi-sectoral HIV/AIDS Project was approved in
+December 2002. The Bank's active portfolio in Guinea currently comprises eight projects,
+totaling US$215.6 million, of which US$172.8 million is undisbursed. The non-lending program
+includes fiduciary assessment; analysis management systems and cross-cutting assessment of
+Guinea's social, structural and key sectoral development under PRSP work, sectoral programs
+and Bank/Fund collaborative work on social impact analysis.
+The proposed World Bank lending program will support in FY04 a Structural Adjustment
+Operation (US$20.4 million), a Health Sector Support Project (US$ 15 million), a Rural
+Infrastructure Project (US$20 million); in FY05 a Community Support Program (US$22
+million), and an Urban Development Program (US$20 million); and in FY06 a Capacity
+Building and Institutional Reform Program (US$8 million), and a Poverty Reduction Support
+Credit (US$20 million).
+Bank-Fund Collaboration in Speciflc Areas
+The IMF and World Bank staff maintain a collaborative relationship in supporting the
+Government's structural reforms. As part of its overall assistance to Guinea through lending,
+country analytic work and technical assistance, the Bank supports policy reforms in the
+following areas in collaboration with the Fund:
+Public Expenditure Management
+Improvements in public expenditure management have been one of the top priorities of the
+Guinean Government since 1996. The Bank, the Fund, and other donors have worked closely
+together to provide the Government the needed support for institutional and policy reforms.
+While the Fund is leading the dialogue on tax policy, the Bank is focusing on
+strategic resource allocation and operational efficiency of public expenditures. To enhance
+strategic resource allocation and operational efficiency, the Bank has assisted the Government in
+the preparation of the Medium-Term Expenditure Framework (MTEF) and is supporting the
+
+Annex F
+Page 3 of 3
+strengthening and openring up of the budget process as well as the allocation of resources to propoor priority areas at the decentralized level. A Public Expenditure Review (PER) has been
+designated to be fully participatory with overall management by the Bank but substantial
+participation by the authorities. The Bank and Fund collaborate closely to support institutional
+budget and expenditure management reforms. A Country Procurement Assessment Review
+(CPAR) was undertaken in 2002; a recent rapid Country Financial Assessment Analysis
+(CFAA) was also undertaken in 2001 and a full CFAA is scheduled for 2003.
+Public Service Reform andImproved Service Delivery
+In recent years, the Government of Guinea with support of the Bank and other donors has
+launched a number of major initiatives to improve performance and to foster greater
+accountability, transparency and integrity in the public sector. These include: (i) the Public
+Finance Management Reform Program; and (ii) the National Anti-Corruption Strategy and
+Action Plans for Guinea. Among these reforms, the public service reform program plays a
+central role, since its objective is to improve accountability, transparency and resource
+management for service delivery. The program is closely linked with other major reforms in
+public finance and decentralization. Cooperation between the Bank and the Fund covers those
+areas where public sector reform has a direct impact on fiscal stability and public sector
+financial management.
+Trade Reforms
+The Bank and the Fund also are working closely together to assist Guinea in establishing a progrowth trade framework. While the Fund has taken the lead in reformns in the tariff regime, the
+Bank is trying to foster trade through its Integrated Trade Framework. The Bank is also involved
+in a dialogue on trade reformns in the context of the West African Economic and Monetary Zone
+(WAEMU) at the regional level.
+Poverty and Social Impact Analysis
+The Bank and the Fund's respective Guinea Country Teams are currently discussing the Poverty
+and Social Impact Analysis. It is envisaged that a few selected areas may be analyzed over the
+coming years. These rmight cover: an analysis of the impact on social output indicators of
+govemment spending in health and education, an assessment of the impact of the adoption of the
+Common External Tariff of the West African Economic and Monetary Union on the taxation of
+basic consumer goods, an assessment of the impact of exchange rates flexibility on consumer
+prices, a social impact analysis of trade reforms, and an analysis of the impact of taxation on
+growth and income distribution. The selection of the few reforms to analyze will be based on the
+importance of the expected poverty and social impacts of each reform, the prominence of the
+issue in the government's agenda, the timing and urgency of the reform, and the level of national
+debate surrounding the reform.
+
+

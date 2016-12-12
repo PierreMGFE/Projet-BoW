@@ -1,0 +1,6441 @@
+Public Disclosure Authorized
+
+Document of
+The World Bank
+FOR OFFICIAL USE ONLY
+
+Public Disclosure Authorized
+
+Report No: 74313-PA
+
+INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT
+AND
+INTERNATIONAL FINANCE CORPORATION
+
+Public Disclosure Authorized
+
+Public Disclosure Authorized
+
+PROGRESS REPORT ON THE
+COUNTRY PARTNERSHIP STRATEGY
+FOR THE REPUBLIC OF PANAMA
+(FY2011-2014)
+
+February 13, 2013
+
+Central America Country Management Unit
+Latin America and the Caribbean Region
+
+This document is being made publicly available prior to Board consideration. This does not imply a presumed
+outcome. This document may be updated following Board consideration and the updated document will be
+made publicly available in accordance with the Bank's Policy on Access to information.
+
+The date of the last Country Partnership Strategy was August 10, 2010.
+
+CURRENCY EQUIVALENTS
+[US$1 = I Balboa (February 6, 2012)]
+
+FISCAL YEAR
+January I to December 31
+
+ABBREVIATION AND ACRONYMS
+AAA
+ACP
+CAF
+CAPRA
+CAT-DDO
+CCT
+CPPR
+CPS
+DPL
+DRM
+FDI
+GEF
+IBRD
+IDB
+IFC
+M&E
+MIGA
+NLTA
+OECD
+RAS
+RdO
+REDD
+TA
+WBG
+WSS
+
+Analytical and Advisory Activity
+Autoridad de Canal de Panamá
+Development Bank of Latin America
+Central American Probabilistic Risk Assessment
+Catastrophe Deferred Drawdown Option
+Conditional Cash Transfer
+Country Portfolio Performance Review
+Country Partnership Strategy
+Development Policy Lending
+Disaster Risk Management
+Foreign Direct Investment
+Global Environment Facility
+International Bank for Reconstruction and Development
+Inter-American Development Bank
+International Finance Corporation
+Monitoring and Evaluation
+Multilateral Investment Guarantee Agency
+Non Lending Technical Assistance
+Organization for Economic Cooperation and Development
+Reimbursable Advisory Services
+Red de Oportunidades (conditional cash transfer program)
+Reducing Emissions from Deforestation and Forest
+Degradation
+Technical Assistance
+World Bank Group
+Water and Sanitation Services
+
+Vice President:
+Country Director:
+Country Manager:
+Task Team Leader:
+
+IBRD
+
+IFC
+
+Hasan A. Tuluy
+C. Felipe Jaramillo
+Ludmilla Butenko
+Ludmilla Butenko
+
+Bernard Sheahan
+Jean-Philippe Prosper
+Roberto Albisetti
+Luciana Marchesini
+
+i
+
+JOINT IBRD-IFC COUNTRY PARTNERSHIP STRATEGY PROGRESS REPORT
+FOR THE
+REPUBLIC OF PANAMA
+
+Table of Contents
+
+I.
+II.
+III.
+IV.
+V.
+VI.
+
+Introduction
+........................................................
+Country Context ....................................................
+Relevance of the Country Partnership Strategy.
+..........................
+.....
+Progress toward achieving CPS Objectives and Outcomes .........................
+Proposed Modifications to the CPS...............1........................1
+Risks ............................................................
+
+1
+2
+5
+6
+12
+
+Tables:
+Table
+Table
+Table
+Table
+
+123 4-
+
+Selected Economic Indicators (2008-2015)....................4.......4
+Portfolio of Projects under Implementation.............
+Portfolio of Trust Funds under Implementation
+.....................
+Panama Planned vs. Actual Lending
+................
+
+................ 10
+.....
+10
+1..................1
+
+Annexes:
+Annex
+Annex
+Annex
+Annex
+Annex
+Annex
+Annex
+
+1234567-
+
+Revised CPS Results Framework for Panama .......................
+Review of the Progress Achieved under the Pillars of the CPS ..
+..............
+Non-Lending Activities
+.....................................
+......
+Panama Economic Achievements
+...............................
+.....
+MIGA Support for the Metro Project Financing
+......................
+IFC Recent Investments and Results ..................................
+Standard CPS Annexes
+.....................................
+.......
+
+ACKNOWLEDGEMENTS
+The World Bank Group greatly appreciates the close collaboration with the Government of Panama in
+the preparation of this Country Partnership Strategy Progress Report.
+Contributions from the World Bank Panama Country Team and Task Team Leaders were critical to the
+production of this document. Special thanks go to several colleagues including Oscar Calvo-Gonzalez,
+Friederike Koehler-Geib, Maria Gonzalez de Asis, Sabine Perrissin, Meylin Gem and Andrea Kucey.
+We also appreciate the support provided by Sonia C. Molina.
+
+II
+
+14
+23
+29
+31
+39
+40
+41
+
+PANAMA COUNTRY PARTNERSHIP STRATEGY PROGRESS REPORT
+I.
+
+Introduction
+1.
+This Progress Report assesses the implementation of the current joint IBRD-IFC Country
+Partnership Strategy (CPS) for Panama for FYI 1-14. The CPS was built around three pillars
+aimed to support Panama in addressing its development challenges: (i) economic growth that
+builds on Panama's competitive advantages; (ii) providing greater opportunities for all; and
+(iii) a transparent and efficient public sector that provides returns to society. The third pillar was
+cross-cutting and aimed to support growth and provide for a more efficient and effective public
+sector.
+2.
+The World Bank Group (WBG) focused within each of these pillars on areas in which it
+had a comparative advantage by virtue of prior successfully-implemented programs in Panama or
+relevant regional and global expertise. At the same time, the program was intended to be flexible
+and responsive to evolving client needs. The CPS envisaged US$400 million in new IBRD
+lending commitments by the end of FY12, purposely leaving the program for FY13-14 flexible,
+so as to retain the demand-driven aspect of its engagement in Panama.
+3.
+During the first part of the CPS period (September 2010-December 2012), Panama
+posted some of the highest growth rates among emerging economies, due to massive public
+investment in infrastructure, strong growth in many sectors and private consumption. This
+growth has promoted "shared prosperity", as poverty and inequality were significantly reduced,
+on the back of income growth and substantial public transfers. Considerable reforms have been
+achieved (e.g., tax policy and administration, doing business) and progress has been made
+towards achieving CPS outcomes, despite a slower-than-anticipated delivery at the start of the
+program and subsequent changes in its composition. Some of the outcomes and many milestones
+under the three pillars have been met or are on track to be met (e.g., completion of the national
+health and disaster risk management plans, recertification of 20 percent of beneficiaries of the
+conditional cash transfer (CCT) program, and creation of 59 agricultural productive alliances).
+4.
+The original CPS pillars remain valid, though some of the outcomes that the Bank
+expected to influence by means of IBRD lending have been achieved through other sources (e.g.,
+in the roads sector). Strengthening of social protection systems, basic health services, water and
+sanitation in remote rural communities, access of poor urban households to water and sanitation,
+agricultural productivity and conservation of forests and biodiversity remain an important part of
+the portfolio. At the same time, in line with the increased demand for technical assistance and
+advisory services rather than financial support, the envisaged lending program has been scaled
+down.
+5.
+Knowledge products and advisory and convening services have become an increasingly
+important part of IBRD's program to help Panama face its new challenges. An emerging topic
+has been adaptation to the approaching change of phase, from the boom of public investment in
+infrastructure-especially the expansion of the Panama Canal-to a new phase focusing on
+Foreign Direct Investment (FDI) attraction to leverage the operations of the expanded Canal for
+sustained shared prosperity. The Bank has delivered well-received work to support this agenda,
+1
+
+providing tools to frame a development strategy for the reverted areas around the Canal and
+implementation of the maritime and logistics strategy; a study on better jobs and the role of
+human capital; and help in organizing high-profile annual investors conferences. This thrust of
+Bank support will continue for the remainder of the CPS through policy notes, and other
+Analytic and Advisory Activities (AAA).
+6.
+The IFC program has focused on fostering further development of Panama's financial
+markets and infrastructure through support to micro- and trade finance, cellular networks, clean
+energy production, the Panama Canal expansion, and promoting investments oriented to lowincome groups. This engagement has built on synergies with the Bank, specifically on promoting
+competitiveness through Doing Business Reform advisory services, technical assistance (TA) to
+improve the transparency of the country's tax system and enhance its ability to exchange tax
+information to meet the standards of the Global Forum'. IFC's committed portfolio to date is
+US$560 million, including US$300 million for the Panama Canal expansion project.
+7.
+MIGA has issued a US$320 million guarantee to support financing of the Panama City
+metro construction, its first coverage of a sovereign financial obligation in Latin America. Two
+advisory services in support of the fiscal sustainability objective-on public debt management
+and asset management-are planned by the WB Treasury. The WBG engagement in Panama will
+continue to focus on providing tailored support from across the institution.
+8.
+One important lesson learned during the implementation of the CPS is that in an upper
+middle-income country, knowledge products tailored to specific country demands and
+complemented by development policy lending (DPL), can be a more appropriate and effective
+tool than conventional investment loans.
+II.
+
+Country Context
+9.
+Panama's economic growth has been one of the fastest in Latin America over the past
+decade, a trend that has even accelerated in recent years. It quickly rebounded from the 2008
+global economic crisis, and real gross domestic product (GDP) grew by 7.6 percent in 2010,
+reached 10.6 percent in 2011, and is projected at 10.5 percent for 2012. The major drivers of
+growth during this period have been massive public investment and private consumption. In
+terms of sectors, infrastructure construction has been the main source of growth, helped by
+housing construction, retail and wholesale trade, transportation, communications, and tourism.
+Growth of domestic credit, export and foreign direct investment also provided important growth
+impulses.
+10.
+Strong growth and public transfers have translated into impressive poverty reduction. The
+poverty rate fell from 48.5 percent in 2002 to 27 percent in 2011, while extreme poverty
+decreased from 21 to 11 percent over the same period 2 . Poverty has become more of a rural
+phenomenon due to the much larger reductions in poverty in urban areas. The highest incidence
+of poverty is observed in the three remote and sparsely populated indigenous areas (comarcas)
+1 Global Forum on Transparency and Exchange of Information for Tax Purposes.
+2 Preliminary Government data for 2012 estimates poverty rate at 25.8% and
+extreme poverty at 10.4%.
+
+2
+
+-Ngobe Bugle, Emberi, and Kuna Yala-containing less than 6 percent of the total population3
+but concentrating 16 percent of the poor and 28 percent of the extreme poor. Better targeting of
+poverty interventions and providing access to services in isolated communities remain challenges
+for the Government's social programs.
+11.
+Economic growth has been pro-poor and contributed to more widely shared prosperity.
+The growth of the income of households in the bottom forty percent of the income distribution
+reached 7.3 percent between 2002 and 2010, far exceeding the average income growth of
+4.3 percent over the same period. In addition, a measure of economic growth adjusted for equity
+yields a rate of 7.1 percent compared to the 5.8 percent in annualized GDP growth in 2002-2010.
+This is due to a decrease in inequality levels, with the Gini coefficient dropping from 0.57 in
+2002 to 0.53 in 2011.
+12.
+However, Panama's Gini coefficient is still at the mid-range of Latin American countries
+and there remains a significant unfinished agenda on social inclusion, reducing income
+inequality and improving service delivery, especially in rural and indigenous areas. Addressing
+these challenges would be critical for Panama to converge towards the most advanced countries
+in terms of shared prosperity.
+13.
+Panama has made substantial progress in integrating into the global economy, leveraging
+its unique geographical position and turning into a trade and logistics hub. The expansion of the
+Panama Canal has shown significant progress4 , as well as other major infrastructure projects to
+increase connectivity and competitiveness (e.g., expansion of the international airport,
+construction of local airports, port facilities, primary and secondary roads, metro in Panama City,
+metro bus project, creating cold storage and warehousing to boost agricultural production, etc.).
+While the large public investment program has put upward pressure on public expenditures, the
+budget deficit has been kept under 3 percent of GDP and overall fiscal sustainability has
+improved as public debt decreased from 53 percent of GDP in 2007 to 42 percent of GDP in
+2011.
+14.
+Tax policy and administration reforms helped increase tax revenues and a new sovereign
+wealth fund was set up to ensure that part of the additional revenues from the expanded Canal
+will be saved for spending during emergencies or recessions. To improve the efficiency of
+public spending, the authorities also implemented important reforms in public procurement and
+embarked on reforms to improve service delivery such as the restructuring of the water and
+sanitation sector. Panama has been actively developing its domestic capital market by issuing
+treasury notes, thus diversifying financing sources and reducing government exposure to
+refinancing and interest rate risks. Reflecting the strengthening of public finances, low debt, and
+a favorable growth outlook, the three major credit rating agencies awarded Panama investment
+grade in 2010 and have since further upgraded their ratings. The latest Doing Business Report
+
+Based on the data of Encuesta de Hogares de Panama (household surveys), 2010.
+Overall project is at 50 % completion, with most of the dredging works finished. The completion of new locks construction, at
+37% now, is expected by April 2015 instead of October 2014, with the expanded Canal fully operational by June 2015.
+The sovereign wealth fund is expected to accumulate savings from annual Panama Canal transfers when they exceed 3.5% of
+GDP starting in 2015.
+
+3
+
+highlighted progress made in a number of areas of business regulation reform (paying taxes,
+dealing with construction permits, and registering property).
+Table 1 - Selected Economic Indicators (2008-2015)
+Estimated
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+Projected
+2013
+
+2014
+
+2015
+
+(annualpercentagechange)
+Real GDP
+CPI Inflation (eop)
+
+10.1
+
+3.9
+
+7.6
+
+10.6
+
+10.5
+
+8.5
+
+7.0
+
+6.6
+
+6.8
+
+1.9
+
+4.9
+
+6.3
+
+5.0
+
+4.9
+
+4.5
+
+3.8
+
+(in percent of GDP)
+Savings and investment
+Gross national savings
+
+16.7
+
+24.9
+
+15.5
+
+16.4
+
+17.5
+
+19.2
+
+18.6
+
+16.6
+
+Gross fixed investment
+
+27.6
+
+25.6
+
+26.4
+
+29.0
+
+30.0
+
+31.0
+
+29.7
+
+26.5
+
+Fiscal accounts
+Central government
+Total revenues (including grants)
+
+19.8
+
+18.5
+
+18.6
+
+18.7
+
+19.7
+
+19.7
+
+19.2
+
+19.2
+
+Current revenue
+
+18.4
+
+18.1
+
+18.4
+
+18.6
+
+19.0
+
+19.2
+
+19.0
+
+19.1
+
+Tax revenues
+
+10.6
+
+10.9
+
+11.6
+
+12.1
+
+12.6
+
+13.0
+
+13.0
+
+13.1
+
+7.8
+
+7.2
+
+7.0
+
+6.5
+
+6.4
+
+6.2
+
+6.0
+
+5.9
+
+3.0
+
+3.2
+
+3.1
+
+2.9
+
+2.9
+
+3.0
+
+3.5
+
+3.5
+
+Capital revenue
+
+1.1
+
+0.3
+
+0.1
+
+0.2
+
+0.6
+
+0.5
+
+0.2
+
+0.1
+
+Total expenditure
+
+19.4
+
+19.9
+
+21.1
+
+22.2
+
+23.2
+
+22.8
+
+21.4
+
+21.3
+8.0
+
+Nontax revenues
+o/w PanamaCanalfees and dividends
+
+5.6
+
+6.2
+
+7.4
+
+8.4
+
+9.1
+
+9.5
+
+8.1
+
+Primary Balance
+
+Capital expenditure
+
+3.4
+
+1.4
+
+0.1
+
+-1.2
+
+-1.4
+
+-1.3
+
+0.5
+
+0.4
+
+Overall Balance
+
+0.3
+
+-1.5
+
+-2.5
+
+-3.5
+
+-3.5
+
+-3.1
+
+-2.2
+
+-2.1
+
+Nonfinancial Public sector
+Overall Balance (excluding ACP)
+
+0.4
+
+-1.0
+
+-1.9
+
+-2.3
+
+-2.5
+
+-2.8
+
+-2.7
+
+-2.1
+
+Overall Balance (including ACP)
+
+2.5
+
+-0.4
+
+-3.4
+
+-5.5
+
+-4.3
+
+-3.7
+
+-2.9
+
+-1.8
+
+Current Account Balance
+
+-10.9
+
+-0.7
+
+-10.8
+
+-12.8
+
+-12.5
+
+-11.8
+
+-11.1
+
+-9.9
+
+Trade Balance (of goods)
+
+-19.9
+
+-9.0
+
+-17.1
+
+-19.6
+
+-18.6
+
+-17.9
+
+-16.9
+
+-16.2
+
+External sector
+
+0.0
+
+8.1
+
+1.8
+
+1.8
+
+1.7
+
+1.7
+
+1.6
+
+2.2
+
+Services Balance
+
+Net exports from Col6n Free Zone
+
+13.6
+
+13.8
+
+12.9
+
+12.2
+
+11.1
+
+10.6
+
+10.2
+
+11.0
+
+Net factor income
+
+-5.1
+
+-6.9
+
+-6.0
+
+-7.0
+
+-5.9
+
+-5.3
+
+-4.9
+
+-4.8
+
+Net current transfers
+
+2.3
+
+0.5
+
+0.5
+
+0.4
+
+0.3
+
+0.4
+
+0.4
+
+0.4
+
+Foreign direct investment
+
+9.3
+
+5.2
+
+8.8
+
+9.1
+
+9.2
+
+9.3
+
+9.0
+
+9.0
+
+Total Public Debt
+GDP (in millions of current US$)
+
+41.3
+
+44.0
+
+44.1
+
+42.6
+
+42.1
+
+41.0
+
+39.9
+
+39.1
+
+23,002
+
+24,163
+
+26,590
+
+31,084
+
+35,902
+
+40,713
+
+45,394
+
+50,115
+
+Source: Contraloria General de Panama, IMF and World Bank staff calculations
+Note: ACP = Panama Canal Authority.
+1/ Gross debt of the non-financial public sector, and including the debt of the ACP and excluding the Sovereign Wealth Fund
+
+15.
+The country has done well in terms of primary education enrollment, which is almost
+universal, and has also initiated an early childhood development program. However, the quality
+of education, both secondary and tertiary, continues to lag behind the needs of the economy. The
+lack of adequate skills, quality of educational outcomes and preparedness of the Panamanians to
+join the workforce at the level required by a fast-growing and competitive economy remains a
+major challenge. While unemployment is low, at 4.2 percent in 2011, the shortage of qualified
+labor is a significant issue for both private and public sectors. As a short-term solution to attract
+4
+
+qualified professionals, the Government recently changed the immigration law making it easy for
+qualified foreigners to receive resident permits in Panama. However, to ensure medium- and
+long-term sustainability, the country needs to embark on education reforms, going beyond
+coverage.
+16.
+In order to improve transparency and address reputational risks associated with offshore
+financial centers, the Government has taken both legislative and institutional actions to
+implement the recommendations of the Peer Review of the Global Forum to effectively apply
+international tax agreements and exchange information for tax purposes. Some of these actions
+included international tax agreements, reforms to the fiscal code, and resolutions to oversee
+international taxation. Further steps are needed but the Government's commitment to this
+process makes it likely that this outcome will be reached.
+
+III.
+
+Relevance of the Country Partnership Strategy
+17.
+Overall, the CPS overestimated Government demand for investment lending, and as a
+result some of the planned operations did not materialize. This was due to several factors: fast
+growth generated higher revenues for own financing; rigorous debt management and fiscal space
+limits set by the Social and Fiscal Responsibility Law limited the demand for external financing
+from the IBRD and other development partners; the use of country rules for procurement in large
+infrastructure projects to fast track implementation precluded the Bank's participation; and in the
+social sectors, the Government decided not to borrow for some new projects containing a
+substantial recurrent costs component.
+18.
+At the same time, the development goals supported by the CPS strategic areas of
+engagement remain relevant, as does the CPS overall objective of supporting improvement of
+Panama's productive capacity, enhancing public sector efficiency, increasing basic public
+services coverage in remote areas and promoting inclusive growth. The continued strategic focus
+of the CPS on the three pillars is predicated on the need to further strengthen the foundations for
+medium-term competitiveness and growth, especially in terms of sustainability, as well as the
+continued mitigation of social vulnerabilities, particularly with regard to the rural and indigenous
+population.
+19.
+Panama continues to seek Bank support in the priority areas set out in the CPS, with the
+exception of the roads sector, where the country was able to expand and upgrade the network
+without IBRD financing (e.g., over 58 percent of secondary paved roads are by now in good
+condition). Similarly, while the ongoing health and social protection projects have shown
+substantial execution, the new lending envisaged in the CPS for these sectors was not requested
+by the Government, as it opted not to borrow for recurrent expenditures in light of fiscal
+sustainability concerns. The client predominantly used own financing and funds already secured
+from other development partners.
+20.
+The outlined CPS outcomes, with the exception of those associated with dropped lending
+activities, are relevant and will contribute to the country's development goals. They are expected
+to be achieved through: (i) the implementation of the ongoing projects in the portfolio;
+(ii) support to the Government with AAA, non-lending technical assistance and convening
+5
+
+services; and (iii) support to institutional reforms through development policy lending (DPL).
+Given the political cycle, the Bank will also prepare demand- and supply-driven sector policy
+notes and will facilitate the dialogue with all stakeholders to prepare the ground for the Bank's
+strategy with the next administration.
+21.
+The shift towards knowledge and convening services as the bulk of new activities for the
+remainder of the CPS period is presented in detail in Annex 3. In terms of new lending, the
+second DPL of the series (US$100 million) will be delivered in FY13, and the third one
+(US$50 million) is expected in FY14, with potentially one more investment operation 6 for the
+remainder of the CPS, following a request from the Government received in December 2012.
+This Progress Report further maintains the principle of flexibility that underpinned the CPS and
+takes the opportunity to streamline the Bank's engagement in Panama as the current political
+administration enters the second part of its term.
+
+IV.
+
+Progress toward achieving CPS Objectives and Outcomes
+22.
+Overall, considerable progress has been made towards achieving CPS milestones and
+outcomes. A detailed description of progress towards CPS results in each of the three pillars is
+presented in both the revised Results Matrix (Annex 1) and in Annex 2.
+Significant reforms have been achieved under the CPS in critical areas...
+23.
+The DPL reform actions related to legislative change at the onset of the political cycle
+have been particularly successful as illustrated by the tax policy and tax administration reforms
+undertaken by the Government to widen its tax base and reduce tax exemptions thus maintaining
+fiscal sustainability by keeping the fiscal deficit within the limits of the Social and Fiscal
+Responsibility Law.
+24.
+Together with the social protection project, the DPL contributed to the reform of the
+Government's CCT program, Red de Oportunidades, RdO (e.g., by providing tools for the
+recertification of the eligibility of beneficiaries) and helped streamline and target transfer
+programs better. It has been an integral part of the Government's social protection agenda,
+together with its flagships-the Beca Universal scholarship program, covering all eligible
+children in grades 1-12 in public schools, and the "100 a los 70", a non-contributory pension
+program. However, like in other sectors, these programs have been affected by institutional
+weaknesses, fragmentation, and lower budget allocations resulting in lower-than-expected results
+(e.g., in the implementation of the M&E system to assess results in pilot social sectors).
+25.
+Given the fast growth and reduction in poverty levels, the Government is incorporating
+vulnerability dimensions in the eligibility criteria of its social policy instruments (e.g., "RdO",
+"100 a los 70", and the new "Guardian Angel" disability program). The eligibility criteria of
+RdO include household income indicators, with data collected through the Vulnerability Census.
+The Ministry of Social Development has recently passed a resolution establishing the Social
+Vulnerability Survey to assess risk dimensions among eligible elderly (e.g., income level, health
+6
+
+Subject to IBRD's lending capacity, demand by other Bank borrowers and global economic developments.
+
+6
+
+conditions, one-person household), with a similar instrument being developed for the "Guardian
+Angel" program.
+26.
+The reform of the public procurement system in Panama continues to deliver tangible
+benefits. The procurement system has undergone a significant upgrade, with technical assistance
+from the World Bank for the design and implementation of PanamaCompra, a fully transactional
+e-procurement platform, which the Government is now working to expand beyond common use
+goods and standard services contracts. It serves not only as an effective means to promote
+transparency and efficiency in government procurement, but also as a business tool for
+companies interested in competing for public contracts. The Bank has also supported
+improvement of financial reporting and auditing practices, contributing to the country systems
+agenda.
+27.
+Water sector restructuring to foster improved provision of water and sanitation services,
+especially in rural areas, is a priority for the Government and a process is underway to modernize
+Panama's water and sewerage authority7 and reform the institutional framework of the sector.
+This has created an environment conducive to mobilizing resources for the sector, and the Bank
+has worked closely with two main development partners in the country-the Inter-American
+Bank for Development (IDB) and the Development Bank of Latin America (CAF)-to enhance
+policy dialogue and coordination. The draft law has been prepared and is awaiting review by the
+National Assembly.
+.... combined with tangible results achieved through ongoing IBRD operations
+28.
+The targeted results of IBRD operations under implementation relate directly to the
+overall CPS outcomes and in many cases important progress has been achieved despite various
+implementation challenges.
+29.
+Key accomplishments were achieved under all three pillars, such as: over 36,000 hectares
+of forest are now under effective conservation; 59 productive alliances were formed with smallscale producers receiving financing to access markets; the national disaster risk management
+plan for 2011-2015 is under implementation; a water supply and sanitation master plan has been
+completed for the cities of Chilibre, Alcalde Diaz, and San Miguelito; 144 rural water
+organizations were supported by the rural water project leading to 41,257 people in target areas
+receiving improved water and sanitation services; the number of framework agreements for
+procurement of goods and standard services has increased and e-procurement is now widely used
+by the public sector, with surveys conducted to measure public views of the system.
+30.
+One of the objectives of the WBG partnership with Panama has been to help decrease
+gender gaps, improving the lives of poor and indigenous women in particular. The Health Project
+contributes to higher percentages of women receiving at least three prenatal controls, and births
+attended by trained personnel. Participation of women in environmental sub-projects 8 of the GEF
+Rural Productivity project is at 43 percent exceeding the targeted 40 percent of beneficiaries. The
+
+8
+
+Instituto de Acueductos y Alcantarillados Nacionales (IDAAN).
+Sub-projects include forest conservation, natural resource management, reforestation, production of medicinal plants, etc.
+
+7
+
+Bank-supported CCT program transfers resources to mothers to improve their families' living
+standards.
+31.
+Another important objective has been focusing on addressing poverty and inequality
+within the most vulnerable indigenous communities. Six out of the seven ongoing investment
+lending projects serve indigenous and poor communities, and Indigenous Peoples Plans put in
+place in consultations with the beneficiaries are monitored regularly.
+The coverage of
+indigenous population by mobile health clinics services went up from 120,000 to 213,193 people
+exceeding the target of 180,000; 46.3 percent of the CCT program is targeted at indigenous
+recipients; and 10,847 indigenous people are receiving improved water and sanitation services.
+Knowledge and Convening Services have been an important element of the CPS
+32.
+Knowledge and convening services have become an increasingly important part of the
+support provided by the Bank to Panama. In terms of AAA, while the CPS anticipated delivery
+of ten pieces, twelve have been delivered to date, with the total number expected to reach
+thirty over the CPS period, including a reimbursable advisory service (RAS) to frame a
+development strategy for the reverted areas around the Canal-a new Bank instrument for
+Panama which paves the way for future engagement on this basis. This number also includes
+regional analytical pieces that specifically cover Panama (e.g., Trade Facilitation and Regional
+Integration in Central America; Regional Poverty Study; Regional Social Expenditures Review;
+Good Jobs: the Role of Human Capital). The Bank has maintained a follow-up dialogue on
+Accounting and Auditing Report on the Observance of Standards and Codes (ROSC) and support
+regarding International Financial Reporting Standards (IFRS). It has also provided convening
+services to Panama, specifically in the area of competitiveness, trade and logistics, and
+increasing efficiency of public procurement. Annex 3 provides detailed information about nonlending activities.
+Some CPS outcomes are no longer sought or have been modified
+33.
+Results in the third pillar to support a transparent and efficient public sector have been
+slower to materialize partly due to the long structural delay of the effectiveness of the Enhanced
+Public Sector Efficiency investment lending operation. While good progress has been made in
+some key areas, such as procurement, areas like implementation of the new version of the
+Integrated Financial Management System remains a medium-term agenda which is likely to take
+time in terms of showing results in key outcome indicators. In light of this, the revised Results
+Matrix in Annex 1 proposes some new outcome targets which are more realistic. The original
+CPS outcomes remain relevant but would only materialize during the next CPS period.
+34.
+Slow progress in enhancing the quality of higher education and innovation remains a
+challenge for the Government, and the shortage of qualified labor in Panama's fast-growing
+economy is becoming a serious limitation to its competitiveness. The quality of the higher
+education and innovation systems has not yet adapted to the needs of a dynamic global
+environment. The AAA on Higher Education and Innovationfor Global Competition initially
+planned under the CPS was replaced by the regional study on Good Jobs: The Role of Human
+Capitalwhich includes a thorough diagnostic of tertiary education and vocational training issues
+
+8
+
+in Panama. More needs to be done in this area in the near future and the Bank is planning a
+policy note on the sector to foster dialogue with a variety of stakeholders in Panama in the lead
+up to the political transition. No lending in the education sector is planned at this time but could
+be envisaged under the next CPS.
+IFC has a growing presence in Panama
+35.
+IFC engagement in Panama has built on synergies with the Bank, specifically on
+promoting competitiveness through advisory services to improve the investment climate in the
+areas covered by the Doing Business report and to respond to the challenges related to tax
+transparency. IFC has continued to support private sector development in financial markets and
+infrastructure, and to promote investments oriented to low-income groups. During the CPS
+period, IFC has made investments in the housing and banking sectors to expand residential
+mortgage lending to low-income households, expected to increase access to financial services to
+over 2,700 individuals; supported lending to SMEs in the agricultural sector to benefit
+260 farmers; and supported increase in trade and regional integration through US$150 million in
+trade guarantees to a local bank. The details of the IFC portfolio are presented in Annex 6.
+36.
+Infrastructure investments included participation in the financing of the Panama Canal
+expansion (US$300 million), a hydro-power project estimated to provide power for
+270,000 customers (US$38 million), a green-field cellular network built by a local phone
+company estimated to create 500 direct jobs, US$10.5 million in taxes and other payments to the
+government and 700,000 phone connections.
+Overall, success has been impressive where activities benefited from strong government
+ownership
+37.
+In areas where the Government has put in place institutional structures with the
+appropriate legal and resource backing, results have been achieved and sometimes exceeded
+expectations as, for example, in the case of the tax administration tribunal in terms of number of
+cases resolved, or the implementation of PanamaComprain terms of the number of contracts for
+common use goods processed.
+Implementation
+38.
+While there has been a shift to AAA in terms of new activities, the bulk of the CPS
+development results are still expected to be delivered through the existing portfolio of lending
+operations, with complementary advisory and convening services. The portfolio performance is
+satisfactory for the most part, despite slower-than-expected disbursements. The portfolio
+includes eight projects totaling US$302.4 million in commitments, including a DPL with
+Catastrophe Drawdown Option (CAT-DDO) (US$66 million) and a GEF grant (US$6 million),
+in human development, infrastructure, rural productivity, disaster risk management, and public
+sector efficiency. A total of US$142 million in investment lending remains to be disbursed, with
+three projects spanning beyond the CPS period. Two projects, Social Protection and Metro
+Water, representing 21 percent of total commitments are currently rated moderately
+unsatisfactory.
+
+9
+
+Table 2 - Portfolio of Projects under Implementation
+Proj ID.
+
+Proj. name
+
+P083045
+P082419
+P098328
+P064918
+P122738
+P106445
+P119694
+P121492
+
+PA GEF Rural Productivity
+PA-Water&Sanitation in Low-Income Comm.
+PA Social Protection project
+PA Rural Productivity
+PACATDDO
+PA Hlth Equity & Performance Improvement
+PA Metro Water and Sanitation Improvement
+PA Enhanced Public Sector Efficiency TAL
+
+Board
+approval
+
+Closing
+date
+
+Amount
+(US$ m)
+
+Disbursements
+(US$ m)
+
+Balance
+(US$ m)
+
+#
+Proj
+
+6/15/2006
+7/17/2007
+7/26/2007
+3/21/2007
+10/18/2011
+8/5/2008
+5/18/2010
+3/3/2011
+
+6/28/2013
+11/30/2013
+12/31/2013
+7/31/2014
+11/30/2014
+12/31/2014
+9/30/2015
+9/30/2016
+
+6.0
+32.0
+24.0
+39.4
+66.0
+40.0
+40.0
+55.0
+
+5.8
+19.1
+15.7
+26.9
+0
+23.0
+2.0
+2.4
+
+0.2
+12.9
+8.3
+12.5
+66.0
+17.0
+38.0
+52.6
+
+1
+1
+1
+1
+1
+1
+1
+1
+
+302.4
+
+94.8
+
+207.6
+
+8
+
+Data as ofFebruary 11, 2013
+
+39.
+The ongoing portfolio also includes a number of Bank-executed trust funds strategically
+aligned with the IBRD operations and supplementing the growing non-lending TA program.
+Table 3 - Portfolio of Trust Funds under Implementation
+Fund Name
+Strategy for the Development of Panama's Areas Revertidas
+Preparation of a Performance-Based Efficiency Improvement Contract
+Maritime and Logistics Strategy Implementation - Phase I
+Probabilistic Risk Assessment CAPRA
+Social Protection and Rights' Based Policies in LAC
+
+Program Closing Date
+SFLAC
+PPIAF
+SFLAC
+GFDRR
+NTF
+
+03/01/2013
+06/30/2013
+06/30/2013
+08/31/2013
+10/30/2014
+
+Grant Amount Disbursements Fund Balance
+USD
+USD
+USD
+300,000
+271,794
+28,206
+74,975
+50,885
+24,090
+280,800
+244,910
+35,890
+500,000
+306,318
+193,682
+125,000
+0
+125,000
+1,280,775
+873,907
+406,868
+
+40.
+Portfolio implementation was affected by the political transition a few months before the
+CPS launch. As a result, FY10 disbursements represented 11.8 percent of undisbursed balances.
+Disbursement levels improved in subsequent years, reaching 16.2 percent in FY11 and
+15.3 percent in FY12 (excluding DPL disbursements). Initial delays in implementation and
+relatively low disbursements stemmed from several factors:
+/ structural delays in reaching loan effectiveness (Enhanced Public Sector Efficiency and
+Metro Water and Sanitation Improvement projects);
+/ high project staff turmover in some Project Implementation Units;
+/ lengthy approval processes for project restructuring, mostly by the Comptroller's Office;
+/ slower disbursements on some of the projects due to lower allocations in the national
+budget-this also affected loans from IDB and CAF.
+41.
+Many of these concerms are valid for the remainder of the CPS period, and the dialogue
+with the Government and project staff on improving project implementation is ongoing. Annual
+Country Performance Portfolio Reviews (CPPRs) held jointly with the Ministry of Economy and
+Finance and the implementing agencies that have helped sharpen the focus on implementation
+and resolution of bottlenecks will continue. As will sector-specific "mini-CPPRs" and regular
+meetings with the Ministry of Economy and Finance to review implementation progress of each
+project. Furthermore, enhanced supervision is in place for projects that are encountering
+implementation challenges.
+42.
+As a result of a sustained close engagement, several projects (Water and Sanitation in
+Low-Income Communities, Health Equity and Performance Improvement, Social Protection,
+10
+
+Rural Productivity and the accompanying GEF grant) were restructured to accelerate
+implementation and ensure achievement of their development objectives. Since the restructuring,
+significant progress has been observed, with ratings upgraded for two projects, Water and
+Sanitation in Low-Income Communities and the Rural Productivity GEF grant, from moderately
+unsatisfactory (MU) to moderately satisfactory (MS).
+
+V.
+
+Proposed Modifications to the CPS
+43.
+The modifications proposed to the CPS respond to the country's evolving needs and
+demand, while aiming to bolster the chances that Panama can continue deepening its shared
+prosperity path. In order to deliver quickly on its planned program, and facing fiscal space
+constraints, the Government has resorted primarily to other sources of funding, thus substantially
+reducing uptake of new IBRD lending. As a result, the composition of the program changed to
+reflect increased focus on demand-driven knowledge services. Compared to the US$400 million
+in new lending envisaged, a total of US$221 million in new IBRD commitments has been
+delivered to date in support of enhanced public sector efficiency, fiscal management and
+efficiency of expenditures, and disaster risk management.
+Table 4 - Panama Planned vs. Actual Lending
+CPS Lending Program (IBRD in US$ million)
+FY11 Plan
+Strengthening Panama's Social Protection System TA
+
+Status at Progress Report
+$50
+
+Dropped
+
+Enhanced Public Sector Efficiency TA (P121492)
+Social Protection Additional Financing
+
+$75
+$15
+
+Delivered ($55)
+Dropped
+
+Road Asset Preservation
+
+$110
+
+Dropped
+
+Programmatic Broad-based Growth and Efficiency - DPL I (P123255)
+
+$50
+
+Delivered ($100)
+
+Total Planned FY11
+
+$300
+
+$155 delivered
+
+FY12 Plan
+Catastrophic Risk Deferred Draw-Down Option Operation (CAT-DDO)
+
+$50
+
+Delivered ($66)
+
+$50
+$100
+
+Moved to FY13 ($100)
+$66 delivered
+
+--
+
+Under preparation ($100)
+
+$50
+TBD
+TBD
+$50
+
+Moved to FY14 ($50)
+Dropped
+Dropped
+$150
+
+(P122738)
+Programmatic Broad-based growth and efficiency DPL II (P127332)
+Total Planned FY12
+FY13-FY14
+
+Programmatic Broad-based growth and efficiency DPL II (P127332)
+Programmatic Broad-based growth and efficiency DPL III
+Strengthening the Network of Basic Health and Nutrition Services
+Secondary Roads Development
+Total Planned FY13-FY14
+
+44.
+Aside from the second DPL (US$100 million) in FY13, a potential third DPL
+(US$50 million) in FY14 and potentially one more investment operation before the end of the
+CPS period, no new lending is envisaged. This is in line with the Government's decision to
+maintain its fiscal space with regard to international debt as stipulated under the Social and
+Fiscal Responsibility Law. The rest of the investment lending planned under the CPS is therefore
+being dropped with this Progress Report, as is presented in the Results Matrix (Annex 1).
+45.
+The Government has expressed continuous interest in the WBG's non-lending services
+which, complementing the ongoing portfolio, will represent the bulk of the Bank's new activities
+moving forward. Some of the topics that are expected to be taken up are: Panama urban growth
+strategy, digital inclusion, rural water and sanitation strategy, analytical work on labor markets,
+11
+
+training and skills. The CPS Progress Report outlines program activities planned over the next
+two years which would support economic growth, competitiveness, greater opportunities for all,
+and enhanced public sector effectiveness (see Annex 3 and Standard CPS Annex B8).
+46.
+Going forward, the IFC program in Panama is expected to grow, capitalizing on previous
+investments in infrastructure and financial markets, and eventually expanding into the service
+sector. Some opportunities include support to the infrastructure value chain related to the Panama
+Canal expansion and continuation of support in trade finance. IFC is also evaluating
+opportunities to support private tertiary education. The newly-established IFC office in Panama
+is expected to coordinate IFC's operations in Central America, and eventually provide support to
+the Caribbean.
+
+VI.
+
+Risks
+47.
+Economic: The risk of lower-than-expected growth leading to lower results of tax
+reforms did not materialize. The main economic risks derive from the fiscal stance and the
+country's vulnerability to external shocks. Some risk of overheating has stemmed from the
+combination of expansionary fiscal policy, high growth rates, and expansionary US monetary
+policy to which Panama is tied through its currency peg. Yet this risk is subdued as headline
+inflation is declining and the global environment is conducive to a smooth transition to trend
+growth in the medium term. There is some risk that fiscal balances may deteriorate. This would
+not compromise debt sustainability but would slow the reduction of the public debt-to-GDP ratio
+and limit room for maneuver should negative shocks hit the economy. The main mitigating
+factors are: flexibility in the timing of capital expenditure; the majority of public infrastructure
+projects are being executed on time and within budget, and are expected to be completed before
+the end of the current Administration's term; and the Government has been actively raising
+revenues. In addition, Panama is vulnerable to external shocks. Strong domestic fundamentals,
+the fact that a large part of the current account is financed through relatively stable FDI inflows,
+accumulation of savings in the sovereign wealth fund9 , and the country's access to multilateral
+financing for investment projects are likely to alleviate this risk.
+48.
+Institutional: The main institutional risks relate to weak participatory processes and the
+quality of public institutions. To improve transparency and efficiency of public spending, the
+Government is implementing reforms in the areas of fiscal management and procurement, such
+as strengthening budget execution, accounting and controls through an integrated financial
+management system. These reforms are supported by several donors, including the World Bank,
+through investment and TA projects that are expected to improve the monitoring and evaluation
+of public investment and spending. The effectiveness of some of the reforms depends on the
+capacity and ability of the Government to involve relevant stakeholders to create consensus
+around reforms. The Bank will closely engage with the relevant stakeholders on the reforms
+supported by the CPS, while recognizing the weaknesses of consultations as a general problem.
+
+9 As
+
+pointed out by IMF and Moody's analyses, the effect of the sovereign wealth fund may be less than expected as the net
+
+savings in the fund (savings less incremental debt incurred during the year) will likely be low if the Government were to
+register the maximum permissible deficits under the Social and Fiscal Responsibility Law.
+
+12
+
+49.
+Political and Social: With presidential elections coming up in May 2014, the speed of
+implementation of the Government program may lead to challenges in dealing with sensitive
+policy actions. Some opposition could occur regarding the recertification of eligibility of CCT
+programs as some current beneficiaries may cease to receive benefits, as a result of better
+targeting. The consultation process has started, following preparation of a communication
+strategy for current beneficiaries. In response to concerns voiced by some legal firms and other
+stakeholders regarding tax transparency reforms, the administration has opened a participatory
+process to reach out to stakeholders and better communicate the benefits of the proposed
+measures. The risk to the IBRD investment program is mitigated by the fact that all operations
+were properly consulted during their preparation phase and Bank teams are doing due diligence
+to ensure that the dialogue with all stakeholders remains open during implementation. The Bank
+will continue to stress the importance of strengthening the dialogue so that stakeholder concerns
+are captured and addressed. However, the Bank recognizes that the country is entering the preelectoral phase and this presents a risk to the pace of the implementation of the WBG program
+and reform in general.
+50.
+Environmental and Natural Disaster: The risk that the Government's ambitious
+investment plan could be delayed due to natural disasters and environmental concerns did not
+materialize. To reduce this risk, the Bank will continue to work closely with the client to ensure
+that all environmental evaluations and mitigation strategies are properly implemented during
+project execution. In those cases where environmental issues have been identified during
+supervision missions, remediation measures have taken place including restructuring,
+modification of environmental frameworks or preparation of new environmental plans, capacity
+building, and increased environmental supervision and project monitoring.
+51.
+The impact of a possible natural disaster could be partially mitigated by the DPL with a
+CAT-DDO approved in FY12, which would provide immediate liquidity to the Government to
+attend to affected areas and populations. Emergency grants that Panama has received from IDB,
+CAF, and the Central American Bank for Economic Integration show that financing from these
+institutions is an important factor in Panama's response to natural disasters. In addition, potential
+financing through the sovereign wealth fund would be available to mitigate the impact of certain
+emergencies in the future. The country's National Plan for Disaster Risk Management (20112015) defines specific actions to increase disaster resilience. To mitigate the risk of policy
+uncertainty, the Bank will work closely with the client to evaluate the impact of policy changes
+and facilitate broad country dialogue on risks. The DRM dialogue promoted by the CAT-DDO is
+leveraging other disaster risk reduction activities and interventions, such as promoting wide
+participation and ownership by local stakeholders and vulnerable groups. This includes the
+development of local disaster risk reduction platforms in indigenous regions which take into
+account specific vulnerability needs and integrate traditional knowledge into the DRM agenda.
+
+10
+
+Although according to the World Bank's Natural Disaster Hotspot Study, Panama ranks
+economic risk exposure to multiple hazards.
+
+13
+
+14 th
+
+among countries with the highest
+
+Annex 1 - Revised CPS Results Framework for Panama
+Government Objectives
+FYI1-FY14
+
+Outcomes the Bank Program
+Expects to Influence
+
+Milestones
+
+Progress achieved towards
+Milestones at Progress Report
+
+Suite of products and services
+
+CPS Pillar 1: Economic Growth that Supports Competitive Advantages (Enhancingthe environmentfor investment and productivity)
+
+Achieved.
+
+Fiscal Management of
+rsDP sres(YII
+FY14):
+Dv
+Y ( 3
+F
+
+A. Maintain
+macroeconomic stability
+
+Revised outcome: The
+Government mobilizes additional
+
+Tax reforms are completed to
+lower tax rates and widen tax base.
+
+and enhance Panama's
+productive capacity to
+expand opportunities for
+
+tax revenue including a
+1 percentage point per GDP
+increase in ITBMS revenues
+
+Key changes to corporate income
+
+(i) milestone achieved;
+
+job growth outside the
+traditional urban centers,.
+
+(baseline: 2009=2.1).
+ale ucoedopd
+
+(ii) data not yet available.
+
+Government maintains fiscal
+
+to 27.5 % in 2010 and to 25% in
+subsequent years; (ii) corporate
+income tax is collected monthly
+instead of yearly, at 1 % of gross
+
+Erisedoutcomedrop
+
+DPL-I Derreparation(F13
+(P1322)
+
+DPLIII Planned FY14
+Enhanced Public Sector
+Efficiency TA loan Delivered
+FY11 (P121492)
+
+sustainability by maintaining fiscal
+
+revenues, and excess payments at
+
+Public Debt Management
+
+deficit within the limits of the
+Social and Fiscal Responsibility
+
+the end of the year may be credited
+towards the following year.
+
+Advisory Services (RAS planned
+FY14)
+
+Law.
+
+Changes to personal tax include:
+
+Social and Fiscal Responsibility
+Law limit: 2.9%
+'1(ii)
+
+(i) maximum marginal tax rates for
+individuals fall from 27 to 15% ;
+about 17,000 of the lowest-paid
+
+(ii) higher exemption threshold
+was reported with a 1.1-1.4 times
+
+Nieilsonwchee
+MaimendLgscsSrty
+MaimendLgscsSrty
+
+income tax due to increase in
+
+(data will be available once exact
+
+Delivered FY12 (SFLAC-
+
+threshold of compliance from
+
+number of workers is confirmed by
+
+TF099440)
+
+$6,000 to $11,000; (iii) primary
+
+counterparts)
+
+Maritime and Logistics Strategy
+
+Current level: 2.5%-
+
+workers are exempt from personal
+
+adjustments to indirect taxes
+
+increase of income per capita,
+
+Implementation Phase I
+
+lImplementation
+
+Phase 1 Planned
+
+include the tax on final sales of
+
+FY14
+
+goods and services and the tax on
+CIF imports rise from 5 to 7%
+
+Strategy for Development of
+Areas Revertidas Delivered FY13
+
+(RAS, SFLAC-TF0101 50)
+Doing Business Reform Advisory
+Services (IFC) - underway
+Trade Facilitation and Regional
+Integration in Central America
+underway (P 120272)
+
+The current level is high in light of significant government investments in infrastructure
+
+14
+
+2011,
+i
+and should taper off i the next two years.
+
+-
+
+Government Objectives
+FY11-FY14
+
+Outcomes the Bank Program
+Expects to Influence
+
+Milestones
+
+Progress achieved towards
+Milestones at Progress Report
+
+Suite of products and services
+Central America Capital
+Markets Regional Integration Underway FY14 (P 143240)
+Central America Integration and
+Competitiveness Study underway (P119004)
+Panama Investors Conference
+Delivered FY11, FY12
+Competitiveness and Doing
+Business Conference - Planned
+FY13
+
+Increased agricultural productivity
+of small scale producers targeted
+by the program measured by 25%
+increase in sales receipts of small
+scale producers via PRORURAL
+financed productive alliances
+[Baseline: 0]12
+
+60 productive alliances formed and
+receiving financing to access
+markets
+
+Achieved Currently at 59.
+
+Rural Productivity project
+ongoing - P064918
+Rural Productivity project (6F
+component) ongoing - P083045
+
+Current increase 18.8%
+Percentage of paved secondary
+
+The proportion of paved secondary
+
+roads in good condition is
+
+roads in good condition increases
+
+increased by 20%.
+
+by 5 percent every year for four
+
+[Baseline: 55 percent in 2007.
+Source MOP]II(Y3drpe
+Outcome dropped 13
+
+years.
+
+N/A
+
+Road Asset Preservation Project
+
+(FY1 1) dropped
+Roa Asset) rpeevtodrjc
+New: Central America
+Infrastructure and Strategy for
+Growth - Delivered FY12
+(P 122790)
+
+B. Improve the higher
+education and innovation
+system to generate the
+
+Government adopts enhanced
+policy framework that helps to
+provide the basis for improved
+
+A strategy for reform of the higher
+education, vocational and technical
+training and innovations systems is
+
+skills and knowledge
+
+higher education, innovation and
+
+______________
+
+13
+
+N/A
+
+______________
+
+Higher Education and
+Innovation for Global
+Competition AAA replaced by
+the Good Jobs: The Role of
+
+The original baseline included in the CPS (US$153,933) is being revised as the project has improved its monitoring methodology. The project is not using a single baseline
+for all productive alliances but instead considers all the baselines of sales of each individual productive alliance once they are selected and monitors theirprogress over time.
+This is an ongoing process as new productive alliances join in regularly. The M&E of the operation is measuring increases in percentages, starting from "0".
+The WBG has not been involved in the roads sector under the CPS, as the Administration opted not to request IBRD fnding for road investments. Outcome dropped.
+
+15
+
+Government Objectives
+FY11-FY14
+needed to support
+globally competitive
+
+Outcomes the Bank Program
+Expects to Influence
+vocational and technical training.
+Outcome dropped1 4
+
+Milestones
+
+Progress achieved towards
+Milestones at Progress Report
+
+Suite of products and services
+Human Capital - Delivered FY12
+(P117460) Report No.72912
+
+completed.
+
+industries
+
+NLTA on Improving Regulatory
+Framework and Financing of
+Technical and Vocational
+Training Programs (FY12)
+dropped
+New: Labor Markets, Training
+and Skills for Competitiveness
+(Policy note) Planned FY14
+
+CRural ensures effective
+The Government
+
+No specific milestone was set for
+
+72.3 percent of the target CPS
+
+environment for building
+conservation (protection and
+sustainable management) of at
+tourism and conserving
+least 50,000 ha of forest and other
+globally important
+atual cosstes
+fress, ndo fgoa
+glbal
+biodiversity, forests, and bioivesit,
+ntrleoytm
+marine-coastal
+biodiversity significance in the
+ecocsystems
+buffer zones of Protected Areas
+
+this outcome; yet progress is
+evident as the project has reached
+72.3 percent of the target C
+
+outcome.
+
+C. To create a sustainable
+
+outomemap
+ucm
+
+The update of the forest vegetation
+
+(2013) will provide additional
+
+nomto
+
+nti
+
+agt
+
+and biological corridor.
+
+ProductivitytProject
+t Project
+(6FF) onodi
+REDD+, as part of the WB
+Forest Carbon Partnership
+
+Facility (FCPF)
+NP1
+
+-
+
+moved to
+
+New: Global indigenous people
+consultation on REDD+
+organized by the Bank in FY
+
+Baseline: 28,400 (2010)
+Target: 50,000
+Current: 36,126.5
+
+D. Manage the risk of
+
+Government improves capacity to
+
+Disaster risk management (DRM)
+
+Achieved. National Disaster Risk
+
+CAT-DDO delivered FY1 2
+
+natural disasters and
+
+respond to disasters and climate
+
+and climate change adaptation plan
+
+Management Plan 2011-2015 has
+
+(P122738)
+
+adaptation to climate
+
+change by implementing a new
+
+drafted.
+
+been drafted and approved.
+
+change
+
+disaster risk management andas
+climate change adaptation plan.
+
+Central American Probabilistic
+
+specific
+
+ws stt
+
+[Baseline: In 210 Panama had no
+comprehensive disaster risk/
+climate change mitigation plan]
+
+Assn
+
+comleDRRThecty5
+
+oDavi
+
+ti
+New: additional CAPRA
+assessments planned for two
+sectors
+
+Outcome indicator revised:
+DRM plan implemented by key
+
+ministries.
+Baseline: 0 Target: 3 ministries
+
+14
+
+Pa
+
+The Administration decided not to engage with the Bank in the education sector and this outcome was dropped.
+has moved to UNDP as a pilot Multiple Delivery Partners country.
+
+16
+
+FFCPF
+
+Government Objectives
+
+Outcomes the Bank Program
+
+FYI1-FY14
+
+Expects to Influence
+
+Milestones
+
+Progress achieved towards
+
+Suite of products aad services
+
+Milestones at Progress Report
+
+CPS Pillar 2: Greater Opportunities for All
+A. Improve access to
+
+Increased access to water and
+
+Strategic plan for the water sector
+
+Achieved. i addition, the
+
+Water Supply aad Sanitation in
+
+quality water and
+
+sanitation services in rural and
+
+elaborated and broadly discussed,
+
+following progress was achieved in
+
+Low Income Communities
+
+sanitation facilities
+
+indigenous areas measured by
+
+support ofWSS:
+
+ongoing
+
+77.000 additional people in target
+areas with access.
+Baseline 0 (2008) Baseine0 (208)and
+
+-
+
+Current: 41,257
+
+in certain rural communities.
+
+Original target: 77,000
+Outcome tar2et revised: 66,000
+
+-Monitoring Country Progress in
+Water Supply and Sanitation
+
+Improvement ongoing
+
+Improved access to reliable water
+
+(MAPAS) report is drafted and
+
+N
+
+services in targeted lower income
+
+results have been broadly
+
+peri-urban areas; measured by
+
+discussed.
+
+100,000 additional people with
+access00 atiose are.
+it
+
+-144 rural water organizations
+
+Sector Information System
+
+(SASAR) web interface launched
+mobile application operational
+
+access inein 2010
+
+supported by the
+
+-
+
+P082419
+
+NLTA Moaitoring Country
+Progress inWSS (MAPAS) in
+Central America ongoing
+
+sec
+
+P119694
+
+-
+
+IAfomte
+
+y
+Strategy for Rural Water and
+Saaitatioa (policy aote)
+
+-
+
+plauned
+
+Baseline 0 in 2010project.
+WSS Political Economy Study
+
+___________________Target
+
+ongoing
+
+GPF-TF096729
+
+Revised outcome indicator:
+
+WSS master plan for selected areas
+
+Improved access to reliable water
+and sanitation services in targeted
+
+of Panama Metropolitan Region
+developed under a participatory
+
+lower-income peri-urban areas;
+measured by 100,000 additional
+people with water access and by
+60,000 additional people with
+sanitation access in these areas.
+
+approach.
+
+Miguelito completed.
+
+coordination on sector reform)
+
+Contract for efficiency
+improvements in the W
+
+Achieved. Contract has been
+designed and procurement process
+
+Preparatioa of a PerformanceBased Efficiency Improvemeat
+Contract for IDAAN Colon
+
+Baseline: 0 (2010)
+
+provision for the city of Colon
+
+Current: data not available'
+Target (water): 100,000
+(sanitation): 60,000
+
+6
+
+B. Improve poor
+households' access to
+quality basic health and
+
+Improved access for women and
+children to critical health services
+as indicated by 95 percent of
+
+nutrition services
+
+children under 1 year of age with
+
+services
+
+chiibe, A
+
+Scasde
+
+an San
+
+-
+
+Partnership with UDB and CAF
+(ongoing dialogue and
+
+is close to completion.
+
+designed.
+
+New: LatinoSan Regional
+Conference -plauned FY13
+
+Background studies for the
+preparation of new operation are
+completed.
+
+Not achieved. The new operation
+was dropped.
+
+Metro Water and Sanitation project experienced long effectivenessSThe
+delays, no data on access extension to report yet.
+
+17
+
+Health equity ad performaace
+improvement project ongoing P106445
+
+Government Objectives
+FY11-FY14
+
+Outcomes the Bank Program
+Expects to Influence
+complete vaccination scheme
+[Baseline 70% in 2009, source:
+MINSA administrative data] and
+80 percent of pregnant women
+with at least three prenatal
+controls. [Baseline 70% in 2009
+source: MINSA administrative
+data]
+
+Milestones
+
+Progress achieved towards
+Milestones at Progress Report
+
+Suite of products and services
+
+sengthn
+National Health Plan completed
+and broadly consulted.
+
+Achieved.
+
+Additional progress: Policy
+dialogue on non-communicable
+diseases (NCD) was carried out
+
+Netrof
+
+(FY13) Dropped.
+Social Protection Project ongoing
+(P098328)
+Poliynte
+
+nsNon-
+
+Revised baselines and CPS
+
+with the Government, leading to
+
+Completed- Report No. 71848
+
+targets-
+
+the publication of a policy note
+that was subsequently included in
+
+Setting Standards for Improved
+
+Vaccination baseline: 26%
+current: 58%
+target: 85%
+
+the regional report on "Promotion
+of Healthy Lifestyles in Central
+America: Population-based
+
+Prenatal control baseline: 20%
+current: 37%
+target: 70N
+
+Governance in Health (regional
+NLTA) - planned FY14 (P 129669)
+
+Responses to Protect the
+SocialgProtectionPromectningoin
+Nutritional Status of the Poorest
+and Most Vulnerable in Times of
+
+e
+
+Crisis and Emergencies (SouthSouth event) - Delivered
+
+(TFO010076)
+Hackathon against Domestic
+
+Violence in PA Delivered FY1 3
+C. Strengthen social
+
+Improved consumption levels of
+
+protection of the
+vulnerable
+
+the poor through wider
+implementation of CCT program
+as measured by an increase of 400t
+in the number of beneficiaries.
+[Baseline: 72,000 beneficiary
+households in 2010] - Dropped-
+
+17
+
+Management information system
+(MIS) monitoring the CCT fwlly
+fuinctional with 66 percent of
+households recertified and a net
+increase in the number of
+beneficiaries of 20 percent.
+
+Not achieved. Recertification not
+
+SoilPteinPrjcogig
+
+implemented, partially due to low
+
+- P098328
+
+national budget allocation.
+
+Strengthening Panama's Social
+Protection System TA loan
+(FY11) Dropped
+Fiscal Management of
+Expenditures DPL series (FY11-
+
+The original baseline was based on administrative data estimates. The corrected baseline based on an individualized roster of beneficiaries was established during the first
+
+year of implementation and was much lower than originally expected for both indicators
+
+- 26%o and 20%o respectively. Given the revised baseline values, the original targets
+became unrealistic and were revised after the project restructuring to 850% and 70C respectively.
+By 2009, the RdO program, which started in the previous CPS period, reached more than 76,590 beneficiary households. Since then the coverage declined reflecting: (i)
+
+introduction of the non-contributory pension program ]OOa los 70 in 20 10 which led to 1,100-- senior beneficiaries migrating from RdO to ]OOa los 70; (ii) exclusion of noneligible recipients following implementation of MIS in 20 10; and (iii) reduced unemployment and poverty levels. By August 2012, even with the addition of new eligible
+households the number of beneficiaries reduced to 73,069. Current coverage reflects improvements in program management and in economic conditions. Increase in number of
+beneficiaries is no longer a relevant indicator in a growing economy, where significant reduction in poverty lowers the number of people covered by social programs.
+
+18
+
+Government Objectives
+
+Outcomes the Bank Program
+
+FYI1-FY14
+
+Expects to Influence
+New CPS Outcome: The Beca
+Universal scholarship program
+covers all eligible children in
+grades 1-12 in public schools.
+
+Milestones
+
+Progress achieved towards
+
+Suite of products and services
+
+Milestones at Progress Report
+Government adopts measures to
+expand Beca Universal coverage to
+private school students, based on
+cost of tuition.
+
+Achieved. Administrative
+measure adopted in 2012,
+implementation to be verified in
+the school year 2013.
+
+FY14):
+DPL-I Derreparation F13
+(P127322)
+
+Baseline: 291,000 children (2010)
+
+Panaa Po
+
+Current: 481,788 (Dec 2012)
+
+Trntig
+
+New CPS target
+The expected number of
+beneficiaries recertified in 100 a
+los 70 should be adjusted to 20
+percent, as a selective strategy
+does not require full recertification
+in specific areas like the
+indigenous and rural areas.
+
+th
+
+nt:
+
+Grohit
+
+Reduction Delivered FY11
+A new operational rule for the noncontributory pension program is in
+place and almost 50 percent of
+beneficiaries recertified,
+
+Achieved. Formalized through
+Ministerial resolution No.255
+approved in October 2012
+establishing Social Vulnerability
+Survey
+
+(P113807)
+Central America (CA) Poverty
+Measurement and Statistical
+Capacity -Delivered FY11
+(P120378)
+CA Poverty Study AAA planned
+FY14
+Panama Household Survey AAA
+planned FY14
+
+CA Social Expenditure and
+Institutional
+Review AAA
+Cental MAnmeatCA
+of et
+planned FYI 4
+Social Protection and Rights'
+FY11125)
+Delivered
+CpL-itPolicies
+Based
+in LAC:
+Institutional and Operational
+Experiences ongoing (NTF
+
+TF13463)
+
+CPS Pillar 3: Enhanced Public Sector Transparency, Effectiveness, and Efficiency
+A. Improve efficiency of
+
+public expenditure
+
+Improved mechanism in place in
+
+sector ministries to ensure correct
+budget execution and to evaluate
+success based on outputs and
+outcomes. 19[Baseline: Lack of
+sector incentives, targets,
+indicators and evaluation in public
+
+____programs]____
+
+19Original
+
+- Revised___________
+
+Institutionl-ReviewsAA
+ement
+
+Government implements a unique
+
+Partially achieved.a
+
+register of beneficiaries of main
+social programs
+
+Implementation challenges
+stemming from administration
+changes and high staff turnover in
+the Ministry of Social
+
+Expenditures DPL series (FY11IFY14):
+DPL-II DerreparationF1235
+(P120322)
+
+Evaluation of pilot public
+
+Development.
+Partially achieved. Capacity
+
+dyF
+ove
+DP
+Enhnce PblFY14 Set
+
+programs is carried out,
+
+building is underway.
+
+Ehne
+
+ulcSco
+
+outcome not likely to be achieved during this CPS period, as the Enhanced Public Sector Efficiency project that supports it will continue into the new CPS.
+
+19
+
+Government Objectives
+FY11-FY14
+
+Outcomes the Bank Program
+Expects to Influence
+
+Milestones
+
+Revisd
+Revised CPS outcome:(P121492)
+Improved mechanism in place in
+sector ministries to ensure correct
+budget execution as measured by
+linking the public sector budgeting,
+investment and procurement
+systems.
+
+CP
+
+Progress achieved towards
+Milestones at Progress Report
+
+outome:Efficiency
+
+A program of M&E oriented to
+results is implemented in pilot
+social sectors.
+
+Suite of products and services
+
+TA loan delivered
+Partially achieved.
+
+Public Expenditure and
+Financial Accountability (PEFA)
+planned FY13
+Central America Social
+Expenditure and Institutional
+
+Review AAA planned FY14
+
+Additional outcome:
+Government builds the technical
+building blocks for implementation
+of reform in liquefied propane gas
+subsidies.
+
+Preparation of Utility Subsidies
+review and recommendations.
+
+Achieved.
+
+Social Protection Project ongoing
+Strengthening Panama's Social
+Protection System TA Loan
+(FY11) Dropped
+
+Social Protection NLTA on
+Utility Subsidies (ongoing)
+B. Modernize financial
+
+Improved capacity to make budget
+
+Implementation of new version of
+
+Partially achieved. The
+
+management and
+procurement systems,
+and introduce
+
+decisions based on systematic
+provision of information on
+performance of public programs
+
+the Panama Integrated Financial
+Management System, SIAFPA.
+Pilot ministries have trained staff
+
+conceptual model for the new
+version of SIAFPA has been
+designed.
+
+performance focus in the
+
+[Baseline: No clear rules and
+
+public sector
+
+procedures that promote
+production and reporting of
+performance information]
+
+-Expe
+
+Fiscal Management of
+Expenditures DPL series (FY11FY14):
+DPL-I Delivered FY11 (P123255)
+
+togsratepgicall pan mayonitoAcivd
+programtors and cy
+utli
+have stronger design
+baselines, indicators and
+
+DPL-II Under preparation FY1 3
+(P 127322)
+DPLIII
+Sprograms
+Planned FY14
+nwith
+
+targets.
+
+Deepening the
+
+New CPS Outcomes: Bonds
+
+domestic market
+
+placed in the domestic market
+increase as a share of financing
+needs (baseline: 20090 percent;
+current: 2011p 30 r)
+
+Government has a vision to
+institutionalize performance-based
+
+Partially Achieved. There is a
+system in place to monitor
+
+MEF establishes an M&E unit that
+produces/coordinates a number of
+
+budgeting, generates tools for
+producers and users of
+
+Presidential Goals but there is no
+tool yet for producers and users of
+
+ROSC follow-up dialogue and
+support on International
+
+performance reports, and at least 2
+different social programs are under
+
+performance information, and has
+a system to monitor Presidential
+Goals.
+
+information.
+
+Financial Reporting Standards
+(IFRS) (ongoing)
+
+evaluation.
+
+2Outcome
+
+Public Debt Management
+Advisory Services (FY14 RAS)
+
+dropped, as it is not likely to be achieved during this CPS period, since the Enhanced Public Sector Efficiency project that supports it will continue into the new CPS.
+20
+
+Government Objectives
+FY11-FY14
+
+Outcomes the Bank Program
+Expects to Influence
+
+Milestones
+
+Progress achieved towards
+Milestones at Progress Report
+
+New capacity and tools to manage
+the validation of cost-risk tradeoffs
+and risk reports is implemented in
+Crdito Publico.
+
+Partially achieved. Government is
+working to extend maturity and to
+appraise more domestic market
+offerings. The Front, Middle and
+
+Back Office ffinctions are
+operating with a modern structure
+but this has not yet been formally
+established. A medium-term debt
+management strategy has not yet
+The Comptroller General improves
+the efficiency of budget execution
+processes by reducing unnecessary
+ex-ante control mechanisms.
+[Baseline: Control model based on
+ex-ante controls with only the
+existence of three ex-ante and expost controls over public
+expenditures makes execution
+difficult].
+
+The Comptroller General is
+making significant progress on
+reducing ex-ante controls on
+budget execution-
+
+Suite of products and services
+
+Financial Sector Assessment
+
+Program (FSAP) Delivered FY1 2
+
+been articulated.
+Partially Achieved. The design
+of a new internal control
+framework and internal/external
+audit function is underway.
+
+governmen agencie.nSupior
+
+Stor Assessinmeric
+
+Government increases institutional
+
+The Government has developed an
+
+Partially Achieved. The
+
+Fiduciary Capacity Building
+
+capacity to handle improved public
+procurement processes [Baseline:
+currently there is no human
+
+HR policy and implemented
+sustainable training programs for
+the public and private sector. It has
+
+Government in working towards
+the implementation of sustainable
+training programs in public
+
+NLTA Delivered FY11I (P 110049)
+
+resource policy or ongoing training
+program]
+
+designed and implemented
+standard procurement documents
+that are increasingly used byP
+DGCP and rolled-out by the
+
+Increased savings in public
+
+goenetaece.Conference
+
+procured goods and services, as
+measured by the reduction in the
+average unit andoor operational
+costs of key items tracked by the
+Public Procurement Directorate.
+
+The Government has increased the
+number of Framework Agreements
+for common use goods and
+standard services. Functional
+transactional e-procurement in
+
+[Baseline: Currently the
+
+place and used by the public
+
+Government has not developed the
+tools to measure savings and
+operational costs, this will be done
+with support from the WB]
+
+sector. Surveys conducted to
+measure public views of the
+procurement system.
+
+21
+
+procurement for themprivate
+alict and
+public sector. domestic4market
+
+Ehne
+
+Eonextencd
+
+ulcSco
+Sec
+
+nt ye b
+
+on Public
+Achieved.
+
+Procurement Delivered FYI13
+
+Government Objectives
+FY11-FY14
+
+Outcomes the Bank Program
+Expects to Influence
+
+Milestones
+
+CPS outcome added:
+Number of items (of goods
+commonly purchased by
+government agencies) covered by
+framework agreements has
+increased significantly [Baseline:
+2009 = 2,452, current: 2011 =
+26,180]
+
+22
+
+Progress achieved towards
+Milestones at Progress Report
+
+Suite of products and services
+
+Annex 2 - Review of the Progress achieved under the Pillars of the CPS
+1.
+Half of IBRD new lending under the CPS to date was in the form of Development Policy
+Lending with the First Programmatic Fiscal Management and Efficiency of Expenditures
+Programmatic DPL (US$100 million) which was approved in May 2011 and contributed to all
+three pillars of the CPS, and the DPL with a CAT-DDO approved in October 2011
+(US$66 million).
+2.
+The current investment lending portfolio includes seven operations (US$302.4 million) in
+Human Development (social protection and health), infrastructure (water and sanitation), rural
+productivity, and public sector efficiency.
+3.
+A broad range of non-lending activities, including convening services and knowledge
+exchanges, also contributed to the results highlighted below.
+4.
+Overall, considerable progress has been realized towards achieving CPS milestones and
+outcomes. Progress has been most significant under Pillar 1, Growth and Competitiveness.
+Under Pillar 2, Opportunities for All, results have been mixed, and more needs to be achieved
+under Pillar 3, Enhancing Public Sector Efficiency. A detailed description of progress towards
+CPS milestones and outcomes in each of the three pillars is presented in this annex and in the
+Results Matrix (Annex 1).
+Pillar 1 - Economic Growth that supports Competitive Advantages
+5.
+Pillar 1 called for maintaining fiscal stability and for actions in four key areas of
+competitiveness for Panama: agricultural productivity, roads, higher education and innovation,
+biodiversity and conservation, and natural disaster risk management and adaptation to climate
+change.
+6.
+The DPL reform actions related to legislative change at the onset of the political cycle
+have been particularly successful as illustrated by the tax policy and tax administration reforms
+achieved by the Government to widen its tax base and reduce tax exemptions. Although the taxto-GDP ratio target featured in the DPL (12.80) has not yet been achieved, the tax-to-GDP ratio
+increased substantially over the baseline value and reached 12.10 in December 2011.
+7.
+Two instruments-both ongoing-contributed to increasing agricultural productivity,
+the Rural Productivity investment lending project and the Rural Productivity GEF grant. After a
+period of slow implementation due to initial changes in project staff and low financing, the
+project has picked up pace significantly. As of mid-2012, 121 alliance sub-projects involving
+approximately 4,400 producers and receiving close to US$20 million of grants were at various
+levels of implementation. The project contributes to increased agricultural productivity of smallscale producers targeted by the program and is well under way to reaching the target outcome of
+25 percent increase (18.8 percent at progress report) in sales receipts of small-scale producers via
+the project financed productive alliances.
+8.
+With regards to the road sector, substantial progress has been achieved under this
+Administration, both in terms of network expansion, as well as its improvement. The Bank has
+23
+
+not contributed to these achievements, however, as the Government relied primarily on other
+sources of financing and decided not to seek IBRD lending for road infrastructure. The two
+roads operations planned at the onset of the CPS have been dropped and no Bank engagement in
+support of this sector is planned under the remainder of the CPS.
+9.
+Less progress has been achieved in enhancing higher education and innovation, and
+both remain a challenge for the Government as the lack of qualified labor in Panama's growing
+economy is limiting its competitiveness. The quality of higher education and innovation has not
+yet adapted to the needs of a dynamic global environment. The current shortage of qualified
+labor constrains firm growth in international markets and limits productivity growth and thus
+employment opportunities. The AAA on Higher Education and Innovation for Global
+Competitiveness initially planned under the CPS was superseded by the regional study on
+employment generation which includes a thorough diagnostic on Panama. More needs to be
+done in this area in the near future and the Bank is planning to produce a policy note on the
+sector to foster dialogue with a variety of stakeholders in Panama. No lending is planned at this
+time but could be envisaged under the next CPS.
+10.
+The Rural Productivity GEF project has contributed to mitigating the risk to natural
+ecosystems and global biodiversity stemming from deforestation and lack of sustainable
+conservation policies. Much progress has been achieved under this grant as 36,126.5 hectares
+(72 percent of the 50,000 hectares target) are already under effective conservation. The grant is
+also supporting the National Environmental Agency's effort to update a vegetation and
+ecosystem map that will monitor deforestation progress. The updated map which is expected to
+be completed in 2013 will help validate results on the ground.
+11.
+Panama has made great strides in the last two years in the area of disaster risk
+management and adaptation to climate change. In support of the National Disaster Risk
+Management Plan, the Ministry of Finance has played an active role in reducing the fiscal impact
+of natural disasters by: (i) securing contingent lines from IBRD-a DPL with a CAT-DDO for
+US$66 million approved in October 2011 -and IDB; (ii) designing a reserve fund for natural
+disasters in the national budget; and (iii) creating a sovereign wealth fund - Fondo de Ahorro de
+Panama (FAP) in June 2012. FAP funds may be used by the Ministry of Finance in the event of
+a natural disaster and to purchase catastrophic risk insurance. In the context of the Central
+American Probabilistic Risk Assessment (CAPRA) initiative funded by the Global Facility for
+Disaster Reduction and Recovery (GFDRR), Panama successfully carried out the first study on
+probabilistic seismic risk assessment for the city of David (the second largest city in Panama and
+one of the most vulnerable), through a TA project supported by the World Bank. It proved to be
+an excellent mechanism for training and capacity building. The focus is on assessing how health,
+education and housing infrastructure in David could be impacted by earthquakes. Results are
+helping to better identify risk management policies and investments, including the need to bolster
+structures to make them more resistant. More GFDRR-funded activities are envisaged during the
+second half of the CPS.
+12.
+Since the approval of the DPL with a CAT-DDO, the Government has been consistently
+implementing its DRM program. Several priority actions of the National DRM Plan have been
+completed, including: (i) introduction by the Ministry of Housing and Land Use Planning of
+24
+
+disaster risk criteria into the TOR for the design of plans of local land use; (ii) update of the
+National Plan for Integrated Water Resources Management and the National Policy on Climate
+Change to include key DRM components by the National Environmental Agency; and
+(iii) passing a decree empowering the Directorate of Investment, Concessions and Risks of the
+Ministry of Finance to develop a Disaster Risk Finance and Insurance Strategy.
+13.
+Two additional demand-driven initiatives not originally planned under the CPS were
+undertaken, both contributing to the overarching objective of enhancing Panama's
+competitiveness: (i) the Maritime and Logistics Strategy Implementation; and (ii) the Strategy
+for the Development of Panama's Reverted Areas designed to help Panama obtain the best results
+from use of its remaining "Reverted Areas". This was the first Reimbursable Advisory Services
+(RAS) to Panama and paves the way for further engagement on such basis.
+14.
+The Maritime Strategy Implementation has aimed to support the Maritime Authority of
+Panama in the preparation of a Maritime and Logistics Action Plan for implementing the
+National Maritime Strategy in order to promote sustainable maritime and logistics development
+through institutional strengthening and generate spillover effects for socioeconomic development
+and employment opportunities in an efficient maritime-logistics sector. All major activities under
+the project have been completed and a successful Stakeholder Coordination Workshop (October
+2011) led to reaching a broad consensus among the various stakeholders on the key challenges
+and priority actions to address them.
+15.
+The Areas Revertidas Strategy lays out options for the optimal use of the land in the
+Canal Zone, leveraging the Canal, integrating development needs, and maximizing the positive
+spillover effects of investments on these lands. Studies carried out under the Strategy include an
+Economic Impact Assessment of "input-output" and "crowd-sourcing" models to analyze which
+economic activities will have the most positive impact for Panama. The RAS also carried out
+environmental audits of eight sites and provided Panama with a toolkit for doing this analysis
+going forward. It also estimated the cost for expanding infrastructure and, in turn, calculated the
+true value of developing sites. In addition, a Residential Development Potential Study was
+completed for reverted areas in Panama City and Colon with recommendations for market-based
+tools for sustainable urban growth.
+Pillar 2 - Greater Opportunities for All
+16.
+The focus of Pillar 2 has been to create greater opportunities for all and promote shared
+prosperity, with specific outcomes foreseen in the areas of water and sanitation, access to health
+and nutrition services, and social protection.
+17.
+The DPL series has contributed to the strengthening of social protection of the
+vulnerable segments of the population through better targeting of the Government's CCT
+program Red de Oportunidades. Better targeting and the realization that not so many households
+actually fulfill the criteria for inclusion in the CCT program have led to a lower than initially
+foreseen number of beneficiary households. The DPL target related to the "100 a los 70"
+program for the elderly, which established that transfer to at least 10 percent of the program
+beneficiaries would be dependent upon compliance with health co-responsibility, has not been
+25
+
+achieved. Payments are being made to beneficiaries without monitoring and recording
+compliance with visits to health practitioners. The World Bank, through its Social Protection
+project, is working with the authorities to address this issue.
+18.
+The current Administration considers the water and sanitation sector a priority and has
+engaged in a process to modernize Panama's water and sewerage authority (IDAAN) and reform
+the institutional framework of the sector. This has created an environment conducive to
+mobilizing resources for the sector and has added pressure on IDAAN to deliver. The Bank has
+worked closely with the two main partners (IDB and CAF) to enhance policy dialogue and
+coordination. A number of activities that were linked to water sector policy have not reached
+their full potential yet, as reform of the sector is still pending.
+19.
+The Bank's engagement in Panama's water and sanitation sector has been strong with
+two significant lending operations, the first one approved in 2007 under the previous CPS with
+specific focus on low-income communities, and the second one (approved in May 2010)
+targeting the Panama City metropolitan area. The latter experienced a long effectiveness delay
+and it is too soon to report accurately on its progress at this time.
+20.
+While the earlier Bank operation was characterized by an overly ambitious design, which
+subsequently led to project restructuring and scaling back of some targets, it successfully
+targeted Panama's poorest population. To date, 25,326 beneficiaries (86 percent of total
+beneficiaries) live in poor townships, and 10,847 beneficiaries (37 percent of total beneficiaries)
+live in indigenous comarcas. Expanding access to water and sanitation services (WSS) with an
+emphasis on community involvement, local capacity-building and social outreach has worked
+very well in implementation. Communities are developing a sense of ownership of their WSS
+systems, which promotes sustainability.
+21.
+The project also incorporated innovative activities such as the development of the
+Information System for Rural Water Supply and Sanitation (SIASAR) web interface, which is
+revolutionizing the way of doing business in the water sector in Central America and is
+encouraging South-South knowledge exchange and regional coordination. The Water Partnership
+Program, the Water Sector Program and other operational and grant programs financed by the
+World Bank have been instrumental in supporting the launch of the SIASAR in Panama. IDB's
+upcoming project with the Directorate for the Water and Sanitation Sub-sector (DISAPAS),
+which draws heavily on the design of the Bank-funded Rural Water and Sanitation project, will
+support the achievements already gained.
+22.
+The Bank's ongoing operations in health and in social protection have contributed to
+progress in improving poor households' access to quality basic health and nutrition services.
+The specific milestone related to the development and dissemination of a National Health Plan
+has already been achieved. With regards to the second milestone-the completion of background
+studies for the preparation of a new operation in health-some adjustments have taken place
+given the Government's decision not to pursue a new IBRD operation in the health sector.
+However, based on the initial discussions about this new operation a note on "NonCommunicable Diseases (NCDs) at a Glance in Panama" was prepared and discussed with the
+
+26
+
+Government. These discussions also contributed to a sub-regional document on NCDs in Central
+America.
+23.
+Due to incorrect baselines for outcome indicators in the health sector, the targets set to be
+achieved under the CPS have been revised and are expected to be met fully by the project end.
+Although taking more time than originally anticipated, several structural changes in healthcare
+management have been introduced by the Government, which have a positive impact on the way
+healthcare is delivered in rural isolated areas. The Bank project supported the implementation of
+the Coverage Extension Program which aims to provide services through mobile teams in rural
+areas, at a decentralized level, via the Ministry of Health regional offices.
+24.
+In the first two years of the CPS, the Red de Oportunidades, the Government's social
+protection program, was strengthened considerably. Coverage was adjusted to take into
+account the establishment in 2010 of the non-contributory pension program "100 a los 70",
+which provides cash transfers to eligible beneficiaries over 70 years old, who are no longer
+covered by the Red de Oportunidades. The passage of Law 86 (November 2010), which
+introduced an additional eligibility condition, has helped ensure better targeting of the "100 a los
+70" Program, which is directed at seniors who are vulnerable and poor.
+25.
+In addition, a new management information system was introduced which enabled the
+identification and exclusion of households that moved to other regions, had duplicate records, or
+were no longer eligible due to their employment/income status. The greatest impact on the CCT
+program, however, has been Panama's sustained growth in the last two years, which has led to a
+significant decrease in the unemployment rate-from 8.6 percent in 2006 to 4.2 percent by
+2012- and an impressive reduction in poverty-from 38.3 percent to 25.8 percent- in the same
+period 2 1 . These positive developments have translated into a reduction in the number of
+beneficiaries of the Government's social protection programs, and while the current coverage is
+lower than planned at the onset of the CPS, it reflects important improvements in program
+management, as well as changing external conditions. The World Bank funded Social Protection
+operation, approved under the previous administration contributed to this progress.
+26.
+In terms of final outcomes, the CPS now includes a new outcome related to the universal
+scholarship (Beca Universal) program which aims to cover all eligible children in grades 1-12 in
+public schools.
+Pillar 3 - Enhanced Public Sector Transparency, Effectiveness, and Efficiency
+27.
+Under Pillar 3, the Bank aims to contribute to enhanced public sector transparency,
+effectiveness and efficiency. Bank support includes Investment Lending, Development Policy
+Lending and AAA.
+28.
+Overall, in areas where the Government has put in place institutional structures with the
+appropriate legal and resource backing, results have surpassed expectations as, for example, in
+the case of the tax administration tribunal which has surpassed the intermediate outcome
+21
+
+Source: Ministry of Finance, 2012
+
+27
+
+indicator of number of cases resolved, or with the implementation of the e-procurement system
+PanamaCompraand the number of common use goods contracts processed through it.
+29.
+Implementation has been more challenging in cases where additional legal backing was
+weak and Government resources scarce. This was the case for the recertification of the 100 a los
+70 beneficiaries where the needed legal instruments had yet to be developed to enable the
+recertification process and the budget allocation was insufficient. As a result, little progress has
+been made on the DPL target related to compliance monitoring. The target was to achieve
+compliance with health co-responsibility as determinant of the transfer payment for 10 percent of
+beneficiaries. Currently payments are being made without monitoring and recording compliance
+with visits to health practitioners target. The Ministry of Social Development is aware of the
+challenge but currently does not have the resources to implement a monitoring system.
+30.
+Progress has been strong in the area of modernizing financial and procurement
+systems, with the introduction of the Integrated Financial Management System (SIAFPA) and
+PanamaCompra,both designed to contribute to the improvement of the Government's capacity
+to make budget decisions based on systematic provision of information on performance of public
+programs.
+31.
+The reform of the public procurement system in Panama continues to deliverer tangible
+benefits. The procurement system has undergone a significant upgrade in recent years, with
+technical assistance from the World Bank for the design and implementation of PanamaCompra,
+a fully transactional e-procurement platform. This electronic system, though not yet universal,
+serves not only as an effective means to promote transparency and efficiency in government
+procurement, but also as a business tool for companies interested in competing for public
+contracts. The improved efficiency of the public procurement for common use goods contracts
+has reduced purchase times from 56 days on average to 24 hours, and the Government is
+working to use PanamaCompramore widely for other procurement transactions.
+32.
+Less progress was achieved in terms of improving the mechanisms in place in sector
+ministries to ensure correct budget execution and evaluate success based on outputs and
+outcomes. Most of the milestones have not yet been achieved, as the Bank operation designed to
+contribute to this outcome initially faced serious implementation challenges posed by
+effectiveness delay, administration changes and high staff turnover in the implementing
+agencies. The primary outcome indicator under the high-level objective of improving the
+efficiency of public expenditure has been revised and now reads "Improved mechanism in place
+in sector ministries to ensure correct budget execution as measured by linking the public sector
+budgeting, investment and procurement systems". In addition several new outcomes have been
+added to the Results Matrix (Annex 1) that will be monitored during the remainder of the CPS.
+
+28
+
+Annex 3 - Non-Lending Activities
+
+CPS Program
+
+Status
+
+FY11 Plan
+
+Status at Progress Report
+
+Poverty Assessment 2008 (draft)
+Making Progress on Poverty and Inequality
+
+Panama Poverty Assessment: Translating Growth into Opportunities and
+Poverty Reduction (P113807) Delivered
+Central America Poverty Measurement and Statistical Capacity (P120378)
+
+Delivered
+Public Credit Advisory Services (RAS)
+
+Moved to FY14
+
+CA Regional Competitiveness Study
+
+Moved to FY13
+Additional:
+Fiduciary Capacity Building NLTA (P110049) Delivered
+Global indigenous people consultation on REDD+ Completed
+Convening Services: Investors Conference 2011 Delivered
+
+FY12 Plan
+
+Status at Progress Report
+
+Central American Probabilistic Risk
+Assessment (CAPRA)
+
+Central American Probabilistic Risk Assessment (TF097502) - Assessment
+for the City of David completed FY12, two more assessments underway
+(additionalnew TF has been secured)
+
+Public Sector Expenditure and Institutional
+Review
+
+Social Expenditure and Institutional Review (P133348) (moved to FY14)
+Financial Sector Assessment Program (FSAP) (P127018) Delivered
+
+Quick Response / On -demand Analytical
+Support
+
+Panama Maritime Strategy Implementation Phase I (TF099440) Delivered
+Good Jobs : the Role of Human Capital (P117460) Planned for FY13,
+
+delivered in FY12
+Improving Regulatory Framework and
+Financing of Technical and Vocational
+Training Programs
+
+Dropped
+
+Additional: Political Economy Study in Water Supply and Sanitation
+
+(PO82419) Underway
+NLTA Water Sector Information System (SIASAR) - Delivered
+Central America Infrastructure and Strategy for Growth (P122790)
+
+Delivered
+Convening Services: Investors Conference 2012 Delivered
+FY13 Plan
+
+Status at Progress Report
+
+Higher Education and Innovation for Global
+Competition
+
+Good Jobs and Role of Human Capital (P117460) Delivered FY12
+
+Public Expenditure and Financial
+Accountability (PEFA)
+
+Public Expenditure and Financial Accountability (P121492) Underway
+Central America Integration and Competitiveness Study (P119004)
+Underway (planned for FY11)
+
+Quick Response / On-demand Analytical
+
+RAS on Areas Revertidas (P129365) Delivered
+
+Support
+
+NLTA on Utility Subsidies (P129365) ongoing
+Additional: Doing Business Reform Advisory Services (IFC) Underway
+Trade Facilitation and Regional Integration in Central America (P120272)
+Underway
+Policy Note on Non-Communicable Diseases (Rep. No. 71848) Delivered
+Improved LAC Country Responses to Protect the Nutritional Status of the
+Poorest and Most Vulnerable in Times of Crisis and Emergencies (SouthSouth exchange - TF010076) Delivered
+Social Protection and Rights' Based Policies in LAC: Institutional and
+
+29
+
+Operations Experiences (NTF TF013463) ongoing
+Monitoring Country Progress in Water Supply and Sanitation (MAPAS)
+NLTA (P132281) Underway
+
+Convenin2 Services:
+Support to VIII Latin America Conference on Public Procurement
+
+Delivered
+Hackathon Against Domestic Violence in Panama Delivered January 2013
+Competitiveness & Doing Business Regional Conference Planned April
+
+2013
+Support to LatinoSan Regional Conference Planned May 2013
+FY14 Plan
+
+Status at Progress Report
+Additional: Central America Capital Markets Regional Integration
+
+(P143240) Underway
+Poverty Study (P123309) Underway
+Setting Standards for Improved Governance in Health (P129669)
+Underway
+
+Social Expenditure and Institutional Review (P 133348) Underway (from
+FY12)
+Maritime Strategy Phase II (Support to the Logistics Cabinet) Planned
+Panama Household Survey TA Planned
+Labor Markets, Training and Skills for Competitiveness Planned
+Public Debt Management Advisory Services (RAS) Planned (from FY11)
+
+Policy Notes (to be determined, including notes on Digital Inclusion, Labor
+markets, Training and Skills for Competitiveness) Planned
+
+30
+
+Annex 4 - Panama Economic Achievements
+
+1.
+Panama has made important strides in its economic development in recent years.
+Panama's economic growth has been one of the fastest in Latin America over the past decade, a trend
+that has even accelerated in recent years (Figure 3). The country has done well in integrating into the
+global economy and has leveraged its geographical position, turning itself into a well-connected
+logistics hub. Panama has also consolidated its position as the most competitive economy in Central
+America and second after Chile in Latin America and the Caribbean, according to the 2012-13
+Global Competitiveness Report.
+2.
+Strong economic growth and public transfers have translated into poverty reduction.
+The poverty rate fell from 48.5 percent in 2002 to 27 percent in 2011, while extreme poverty
+decreased from 21 to 11 percent (Figure 1). Poverty has become more of a rural phenomenon due to
+the much larger reductions in poverty in urban areas. The highest incidence of poverty is in the three
+remote and sparsely populated indigenous areas Ngobe Bugle, Emberd, and Kuna Yalacontaining less than 7 percent of the total population but concentrating 16 percent of the poor and 28
+percent of the extreme poor.2 2 Better targeting of poverty interventions and providing access to
+services in isolated communities remain challenges for the Government's social programs.
+3.
+Economic growth has been pro-poor and contributed to prosperity being more widely
+shared. Income growth of households in the bottom 40 percent of the income distribution reached
+7.3 percent between 2002 and 2010, far exceeding the average income growth of 4.3 percent over the
+same period. Panama is catching up with the most advanced countries in terms of shared prosperity.
+In fact a measure of economic growth adjusted for equity has grown faster than the growth of GDP
+(7.1 percent compared to 5.8 percent annualized growth in 2002-2010). This is because inequality
+decreased, with the Gini coefficient dropping from 0.57 in 2002 to 0.53 in 2011.
+4.
+Yet inequality remains in the mid-range for Latin American countries and challenges
+persist in the public provision of services. In addition, ample scope remains for improving the
+public provision of social services across the country converging towards the most advanced
+countries in terms of shared prosperity. For example, children in indigenous communities still have
+less access to basic services than children in rural or urban areas (Figure 2).
+
+22
+
+These numbers are based on the 2010 Household Survey.
+31
+
+Figure 1: Poverty head count,
+(Percent, 2011)
+
+Figure 2: Children's access to basic services
+(Probability of access) 23
+0,98
+
+0
+
+ILI0681
+
+1
+
+1111111
+
+l
+
+-35
+
+20
+
+0.95098
+
+1 1
+
+.83
+0.26
+
+0
+
+70
+
+to sanitation access to electricity school attendance
+*
+child in indigenouscommunity
+atypical child inuiral area
+
+E me H eccess
+
+Source: World Bank staff calculations, Ministry of
+
+child inurban
+Wtypical
+
+Education, Educational Statistics 2010, Household
+surveys 2002-10.
+
+5.
+
+mtypical
+
+a
+
+area
+
+Source: World Bank (201 1):"Panama Poverty
+Assessment".
+
+As part of a strategy to address the country's development challenges, the
+
+Government has been improving tax revenue, efficiency of spending and social protection.
+
+At the outset of its term in 2009, the Government presented a five-year strategic plan with the
+overall objectives of sustainable economic growth and reduction of poverty and inequality. It
+also presented a strategy to mobilize tax revenue to increase fiscal space for public investment
+and social protection. The Government is currently implementing two tax reforms that widen the
+tax base and improve the efficiency of tax administration, and has made significant progress on
+negotiating a series of bilateral tax information sharing agreements. These revenue measures
+have been complemented by financial management and procurement reforms to increase
+transparency and efficiency of spending. The Government has also improved social protection by
+introducing a non-contributory pension program 100 a los 70 and a universal scholarship
+program Beca Universal and improving the targeting of the conditional cash transfer (CCT)
+program Red de Oportunidades.
+RECENT ECONOMIC DEVELOPMENTS IN PANAMA
+6.
+
+Panama's strong and relatively stable growth over the past decade has resulted
+
+from an open, diversified economy. Panama's real growth over the past ten years averaged 6.8
+percent, double the average for Latin America and the Caribbean. The economy is one of the
+most open in the region. Growth has mainly stemmed from transport and communications, trade,
+construction and financial intermediation. The strong growth in these sectors has also translated
+into increases of 1.3 percentage points of total employment in the transport and communication
+sector, of 0.6 in construction and of 0.5 in financial intermediation between 2008 and 2012. Over
+time, growth has transitioned to a more domestic demand-driven model on the back of increased
+Based on Human Opportunities Index estimations, the Figure shows the probability that a child in the
+different
+areas will have access to the services.
+23
+
+32
+
+investment growth and related increases in imports (Figure 4). With no independent monetary
+policy due to dollarization, much of the relative stability can be attributed to prudent fiscal
+policies that have kept public debt at manageable levels (Figures 5 and 6).
+7.
+After a temporary deceleration in 2009, economic growth has exceeded the precrisis pace, mainly driven by massive infrastructure investment and private consumption.
+The 7 percentage point fall in GDP growth in 2009 mainly resulted from the effects of the global
+slowdown through declines in credit growth, reduced transshipment and trade financing and a
+halt in new real estate construction. Yet, the economy continued growing at 3.9 percent in that
+year, and has picked up based on the public investment program, the Canal expansion and
+private consumption. Economic growth in 2011 and 2012 reached 10.6 percent and an expected
+10.5 percent, respectively, based on massive investment in infrastructure, reinforced by housing
+construction, retail and wholesale trade, transportation and communication, as well as tourism.
+The Government's five-year US$15 billion investment program has primarily accounted for the
+increase of public capital expenditures from 5.6 percent of GDP in 2008 to an expected 9.1
+percent in 2012 and the US$5.3 billion expansion of the Panama Canal has also driven up
+investment rates. At the same time, the external current account deficit widened sharply to 12.8
+and 12.5 percent of GDP respectively in 2011 and 2012, up from 0.7 in 2009.
+Figure 3: Real GDP
+(GDP index; 2002=100)
+
+Figure 4: Real growth-decomposition of
+aggregate demand components
+(Percentage points contribution (ihs);
+percentage change y-o-y (rhs))
+20
+
+240-
+
+20
+Gross capital formation
+7///A Net Exports
+
+--------------------------- - - - - - - -
+
+220 ---------------200 -------------------
+
+-----
+
+---
+
+----- ------
+
+15
+
+_
+
+-----------------------------
+
+10
+
+Trend2003'------180 --------------------------160 ---- - - - - - - - - - - - -
+
+-
+
+5
+
+Real GDPGrowth (rhs)
+
+-
+
+Private cansumptin
+Public consumption
+15
+10
+
+-
+
+5
+
+- - - - -
+
+_Meragegowth_rate2003-0
+7.9 percent
+Averagegrowthrate2l0
+- --- -- 120----9.6 percent
+100 . .
+140
+
+-12:
+
+00
+
+0
+
+-5
+
+-5
+
+-10
+
+33
+
+-10
+
+Figure 5: Overall fiscal balance
+(percent of GDP)*
+4 -
+
+Figure 6: Total public debt
+(percent of GDP)
+
+Overall Balance Central Gov
+E Overall Balance NFPS excl. ACP
+
+55
+External
+
+U Domestic
+
+20-0
+
+45
+40
+
+0
+
+35
+-230
+25
+
+-4-
+
+Source: World Bank staff calculations, MEF, Comptroller General, and IMF.
+Note: * NFPS excl ACP = Non Financial Public Sector excluding Panama Canal Authority.
+
+Table 1: Panama-key economic indicators 2008-2015
+(percent of GDP, unless otherwise stated)
+2008
+
+2009
+
+2010
+
+2011
+
+Estimated
+2012
+
+2013
+
+Projected
+2014
+
+2015
+
+10.5
+5.0
+
+8.5
+4.9
+
+7.0
+4.5
+
+6.6
+3.8
+
+(annualpercentagechange)
+
+Real GDP
+CPI Inflation (eop)
+
+10.1
+6.8
+
+3.9
+1.9
+
+7.6
+4.9
+
+10.6
+6.3
+
+(in percentof GDP)
+
+Savings and investment
+Gross national savings
+
+16.7
+
+24.9
+
+15.5
+
+16.4
+
+17.5
+
+19.2
+
+18.6
+
+16.6
+
+Gross fixed investment
+
+27.6
+
+25.6
+
+26.4
+
+29.0
+
+30.0
+
+31.0
+
+29.7
+
+26.5
+
+Fiscal accounts
+Central government
+Total revenues (including grants)
+
+19.8
+
+18.5
+
+18.6
+
+18.7
+
+19.7
+
+19.7
+
+19.2
+
+19.2
+
+Current revenue
+
+18.4
+
+18.1
+
+18.4
+
+18.6
+
+19.0
+
+19.2
+
+19.0
+
+19.1
+
+Tax revenues
+
+10.6
+
+10.9
+
+11.6
+
+12.1
+
+12.6
+
+13.0
+
+13.0
+
+13.1
+
+7.8
+
+7.2
+
+7.0
+
+6.5
+
+6.4
+
+6.2
+
+6.0
+
+5.9
+
+3.0
+
+3.2
+
+3.1
+
+2.9
+
+2.9
+
+3.0
+
+3.5
+
+3.5
+
+1.1
+19.4
+5.6
+
+0.3
+19.9
+6.2
+
+0.1
+21.1
+7.4
+
+0.2
+22.2
+8.4
+
+0.6
+23.2
+9.1
+
+0.5
+22.8
+9.5
+
+0.2
+21.4
+8.1
+
+Nontax revenues
+o/w PanamaCanalfees and dividends
+
+Capital revenue
+Total expenditure
+Capital expenditure
+
+0.1
+21.3
+8.0
+
+Primary Balance
+
+3.4
+
+1.4
+
+0.1
+
+-1.2
+
+-1.4
+
+-1.3
+
+0.5
+
+0.4
+
+Overall Balance
+
+0.3
+
+-1.5
+
+-2.5
+
+-3.5
+
+-3.5
+
+-3.1
+
+-2.2
+
+-2.1
+
+0.4
+2.5
+
+-1.0
+-0.4
+
+-1.9
+-3.4
+
+-2.3
+-5.5
+
+-2.5
+-4.3
+
+-2.8
+-3.7
+
+-2.7
+-2.9
+
+-2.1
+-1.8
+
+Current Account Balance
+
+-10.9
+
+-0.7
+
+-10.8
+
+-12.8
+
+-12.5
+
+-11.8
+
+-11.1
+
+-9.9
+
+Trade Balance (ofgoods)
+
+-19.9
+
+-9.0
+
+-17.1
+
+-19.6
+
+-18.6
+
+-17.9
+
+-16.9
+
+-16.2
+
+Nonfinancial Public sector
+
+Overall Balance (excluding ACP)
+Overall Balance (including ACP)
+External sector
+
+0.0
+
+8.1
+
+1.8
+
+1.8
+
+1.7
+
+1.7
+
+1.6
+
+2.2
+
+Services Balance
+
+Net exports from Col6n Free Zone
+
+13.6
+
+13.8
+
+12.9
+
+12.2
+
+11.1
+
+10.6
+
+10.2
+
+11.0
+
+Net factor income
+
+-6.9
+
+-6.0
+
+-7.0
+
+-5.9
+
+-5.3
+
+-4.9
+
+-4.8
+
+-5.1
+
+Net current transfers
+
+2.3
+
+0.5
+
+0.5
+
+0.4
+
+0.3
+
+0.4
+
+0.4
+
+0.4
+
+Foreign direct investment
+
+9.3
+
+5.2
+
+8.8
+
+9.1
+
+9.2
+
+9.3
+
+9.0
+
+9.0
+
+41.3
+23,002
+
+44.0
+24,163
+
+44.1
+26,590
+
+42.6
+31,084
+
+42.1
+35,902
+
+41.0
+40,713
+
+39.9
+45,394
+
+39.1
+50,115
+
+Total Public Debt'
+GDP (in millions ofcurrent US$)
+
+Source: Comptroller General, IMF and World Bank staff calculations
+Note: ACP = Panama Canal Authority
+1/ Gross debt of the non-financial public sector, and including the debt of the ACP and excluding FAP
+34
+
+8.
+Fiscal deficits have expanded to accommodate the Government's crisis response as
+well as investment and social protection projects. In 2009, authorities raised the fiscal deficit
+ceiling mandated under the Social and Fiscal Responsibility Law to allow an expansionary fiscal
+stance in 2009. Social assistance expenditures increased by 6.6 percent in 2009 and stimulus
+measures included subsidies on basic goods, a new labor program Mi PrimerEmpleo to help the
+youth find jobs and an increase in the minimum wage. Since then, the Government with the
+support of the National Assembly has raised the deficit ceiling of the nonfinancial public sector
+(excluding ACP) twice to allow deficits to reach 2.9 percent of GDP in 2012. Central
+government capital expenditure has increased from 5.6 percent of GDP in 2008 to an expected
+9.1 percent in 2012, accounting for most of higher public spending. Major public investment
+projects under the Government's five-year plan include the construction of a first metro line in
+Panama City (US$1.9 billion), a major improvement of the national road network (US$677
+million) and an expansion of airport infrastructure (US$227 million). So far, these projects have
+been advancing within the budget and planned timeframe and are expected to be finalized before
+the end of the term of the current administration in May 2014.
+Table 2: Central government revenues (in percent of GDP)
+Proj.
+Rewnues and grants
+Current revenue
+Taxes
+Direct taxes
+Income tax
+Ofwhich : Capital gains
+Taxon wealth
+Indirect taxes
+Import tax
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+19.8
+18.4
+10.6
+
+18.5
+18.1
+10.9
+
+18.6
+18.4
+11.6
+
+18.7
+18.6
+12.1
+
+5.5
+
+5.9
+
+5.9
+
+5.9
+
+4.9
+0.0
+0.5
+5.1
+1.8
+
+5.2
+0.0
+0.6
+5.0
+1.6
+
+5.0
+0.0
+0.6
+5.7
+1.5
+
+4.9
+0.0
+0.7
+6.2
+1.7
+
+19.7
+19.0
+12.6
+5.9
+4.8
+0.0
+0.7
+6.7
+1.8
+
+2.1
+
+2.1
+
+2.7
+
+3.2
+
+3.2
+
+0.4
+0.7
+7.8
+
+0.5
+0.7
+7.2
+
+0.4
+0.9
+6.8
+
+0.4
+0.9
+6.5
+
+0.4
+1.1
+6.4
+
+Dividends
+
+2.9
+
+2.7
+
+2.7
+
+2.6
+
+2.6
+
+Ofwhich : Panama Canal Authority
+Panama Canal Authority: fees per ton 1/
+Transfers fromdecentralized agencies
+
+1.5
+1.5
+1.8
+
+1.8
+1.4
+1.6
+
+1.8
+1.3
+1.6
+
+1.6
+1.3
+1.6
+
+1.6
+1.3
+1.4
+
+ITBMS
+
+Petroleum products
+Other taxon domestic transactions
+Nontax rewnue
+
+Other
+
+1.5
+
+1.4
+
+1.2
+
+1.0
+
+0.9
+
+Capital rewnue
+Grants
+
+1.1
+0.4
+
+0.3
+0.1
+
+0.2
+0.1
+
+0.1
+0.1
+
+0.6
+0.1
+
+Source: Comptroller General; Ministry of Economy and Finance; and Fund staff estimates and projections.
+1/ Includes public service fees.
+2/ Revenues and grants less current expenditure.
+
+9.
+Panama's debt-to-GDP ratio has been declining along with the risk exposure of the
+debt portfolio. Rapid growth and contained fiscal deficits are reflected in debt declining from 53
+percent of GDP in 2007 to 42.1 percent in 2012. In addition, the quality of the debt portfolio has
+35
+
+steadily improved as the authorities have extended the maturities of new issues and smoothed the
+portfolio redemption profile. The value of Treasury notes issues in the domestic market during
+2011 reached US$538 million, which corresponds to 30 percent of financing needs. These
+policies have significantly reduced exposure to refinancing and interest rate risk. This overall
+improvement has been recognized by all credit rating agencies, which awarded Panama
+investment grade in the spring of 2010 and have further improved the rating since. With the last
+upgrade by Moody's in October 2012, Panama's sovereign rating is on par with Brazil, Mexico,
+and Peru. The reforms of debt management supported by this operation will further contribute to
+these improvements.
+10.
+The Government has also addressed low tax-to-GDP ratio through tax reforms that
+are achieving expected results. The Government has been implementing tax policy and
+administration reforms that were approved in September 2009 and March 2010. The
+implementation of the reforms was expected to raise an additional 1.7 percent of GDP in
+revenues consisting of a 0.9 percentage point increase through the changes in the personal and
+corporate income tax, a negative impact of 0.6 percentage points through the lowering of the tax
+rates and the increase of income thresholds, and a further increase of 1.4 percentage points due to
+other reforms, including 0.5 percentage points related to tax administration reforms. While the
+first DPL in the series supported tax policy measures under the 2010 tax reform, the DPL II
+supports their implementation and other tax administration efforts. To date results have been
+considerable: overall tax revenue as percent of GDP has increased by 1.5 percentage points
+relative to 2008 and reached 12.1 percent in 2011 and an expected 12.6 percent in 2012 (see
+Table 2). In 2008 the economy grew at a comparable rate to 2011 and 2012, suggesting that the
+higher tax-to-GDP ratio results from the reforms rather than an increase in economic activity.
+11.
+However, the tax-to-GDP ratio is still low in international comparison, and reforms
+supported by DPL II are relevant to further increase spending efficiency. Panama's tax
+revenues undershoot the Central American average of 13.3 and are significantly lower than the
+19.2 percent average for Latin America (OECD, 2011). While dividends and fees from the
+Panama Canal and other non-tax revenues add another 7 percentage points of GDP to total public
+revenues, they remain low by international standards. A higher tax-to-GDP ratio would help
+alleviate the Government's resource constraint, reflected by below-average social spending.
+Panama spent 9.4 percent of GDP on social expenditure compared to a 13 percent average for
+Latin America and the Caribbean (ECLAC, 2011). The scarcity of resources highlights the
+relevance of reforms in the areas of procurement, debt management, and social protection to
+increase efficiency of spending.
+MACROECONOMIC OUTLOOK AND DEBT SUSTAINABILITY
+12.
+The Panamanian economy is likely to continue growing at a strong pace.
+Infrastructure investment and private consumption would continue driving growth in 2013 and
+2014. The Government's investment program is expected to extend into 2014 when major
+infrastructure projects would be finalized within budget and the planned time horizon. The
+Panama Canal expansion is also expected to sustain strong growth in 2013 and 2014. The project
+is progressing within budget and the expanded canal is expected to be completed in April 2015.
+After the finalization of the Canal expansion, large private investment projects such as a US$ 6.5
+36
+
+billion investment in copper mining due to start in 2013 and new public investments such as a
+second line of the Panama City metro would further sustain growth. In addition, increased
+activity around the Canal would help to drive growth. Current growth rates are likely to sustain
+and lead to a smooth transition towards trend growth in the medium term. Yet, sustaining high
+growth in the long run will require investment in education and innovation for growth to rely
+more on increases in total factor productivity and less on capital accumulation.
+13.
+Inflation and current account deficit are expected to remain at manageable levels in
+the short term and to decrease in the medium term. CPI inflation is expected to moderate to
+5-6 percent in 2013. It had reached 6.3 percent in 2011 based on an increase in the minimum
+wage, record levels of investment and higher commodity prices (food and oil) (Figure 4). The
+decline is expected to stem from stabilized international commodity prices. In the medium term,
+inflation is expected to gradually drop to around 4 percent. A potential spike in oil prices and a
+continued rise in food prices are upside risks to the inflation outlook. The current account deficit
+has risen largely on account of the import content of the Government investment program and
+the canal expansion, and is expected to decrease slowly with the investment rates in the mediumterm (Table 1). While the large deficit exposes the economy to deteriorations in external demand
+and changes in the risk aversion of foreign investors, strong domestic fundamentals mitigate the
+impact of such shocks. The economy's demonstrated resilience during the 2009 crisis and
+subsequent reforms to improve the financial safety net and financial sector supervision further
+mitigate external vulnerability.
+14.
+Although the fiscal deficit has been increasing, projections suggest a declining debtto-GDP ratio on account of strong economic growth. Panama's fiscal deficit is projected to
+reach 2.5 percent of GDP in 2012 and to be below 2 percent in 2016 (non-financial public sector
+excluding the canal authority). With the finalization of the current public investment projects and
+the completion of the Canal expansion, fiscal accounts are expected to improve primarily
+through higher revenues from the expanded Canal.
+15.
+Under conservative assumptions, Panama's public debt is expected to remain
+sustainable. A 2013 debt sustainability analysis by the International Monetary Fund (IMF)
+shows that a combination of a gradual rise in revenue and a containment of current expenditure
+would allow the authorities to expand public investment while keeping public debt sustainable in
+coming years. Under a number of alternative scenarios, debt sustainability shows the greatest
+sensitivity to shocks to the country's growth rates. However, under reasonable assumptions,
+these shocks are not expected to undermine debt sustainability in the medium term. While a
+further deterioration of fiscal accounts would decrease the room for maneuver in case of an
+external shock, it would not endanger debt sustainability. With capital expenditure explaining the
+bulk of deficit expansion, the Government has some room to cut spending if necessary. In
+addition, the Government has engaged in reforms to increase revenue, including tax policy and
+administration reforms and the approval of the Fondo de Ahorro de Panama (FAP) in 2012. This
+sovereign wealth fund will save transfers from the Panama Canal Authority to the Treasury in
+excess of 3.5 percent of GDP starting in 2015. Yet, as pointed out by several analysis (IMF and
+Moody's) the net savings (savings less incremental debt incurred during the year) in the FAP
+will likely be low if the Government were to register the maximum permissible deficits under the
+Social and Fiscal Responsibility Law. Regarding mitigation measures, the Ministry of Economy
+37
+
+and Finance is also preparing a medium-term debt management strategy, supported by the DPL
+series. As a result, the quality of the debt portfolio is expected to further improve.
+16.
+Panama's macroeconomic framework is adequate for development policy lending.
+Fiscal policy remains prudent and consistent with medium-term sustainability. This is even more
+important given the specific set-up of the economy without independent monetary policy and the
+large degree of openness.
+
+38
+
+Annex 5 - MIGA Support for the Metro Project Financing
+
+1.
+On June 29, 2012 (FY12) MIGA issued a guarantee of US$320 million to support the
+construction financing of "Line 1" of the Panama metro system. Line 1 consists of the
+Greenfield development, construction, supply, and installation of a 13.7 km metro line between
+the northern Los Andes and south-west Albrook areas of Panama City.
+2.
+Total project cost is estimated at US$1.9 billion, of which US$1.5 billion is related to the
+turnkey Engineering Procurement and Construction ("EPC") contract for Line 1.
+3.
+The guarantee issued represents MIGA's first coverage of a sovereign financial obligation
+in the Republic of Panama, and more broadly in the LAC region.
+4.
+
+24
+25
+
+The primary direct developmental benefits of the Line 1 are expected to be:
+*
+
+Increased Travel Time Savings. The main direct beneficiaries of Line 1 are expected to
+be the users who will significantly reduce their travel time. This benefit is the most
+significant constituent of the Line 1 benefits, given that the current average commuting
+24
+time in Panama City is 70 minutes in each direction2, and Line I will significantly save
+-25 on travel time associated with public transportation.
+
+*
+
+Reduced Vehicle Operating Costs. For those who do not switch to bus and metro, it is
+expected that the mass transit system, along with additional public works focusing on six
+key intersections in Panama City, will significantly reduce congestion and therefore
+reduce private vehicle operating costs associated with congestion.
+
+*
+
+Greater Environmental Benefits. The reduced congestion expected of an integrated
+Metrobus and Metro system will also reduce pollution by reducing C02 exhaust pipe
+emissions. These emissions tend to increase with stationary vehicles which are running
+(as is typical in times of congestion) and also tend to increase with the time vehicles are
+on the road. Improved mobility should address these two issues.
+
+*
+
+Reduced Pedestrian Accident Rates. Another expected benefit of the metro relates to
+increased urban street safety conditions as traffic congestion is reduced, and pedestrians
+wait in metro and bus stations for public transport rather than doing so on the road.
+
+Based on the 2007 Urban Mobility Study by the World Bank.
+Based on the report prepared by Deloitte Inc., the GoP consultants for the economic viability assessment of the
+Line 1, travel time of public transportation increases by 21 minutes from 2009 to 2035 without metro, whereas
+the transportation time increases by only 5 minutes with metro.
+
+39
+
+Annex 6 - IFC recent Investments and Results
+IFC's investments have climbed steadily every year since 2006 when the Corporation made just
+US$1.1 million in commitments to Panama. IFC's commitments in FY12 totaled US$176 million
+over four clients. IFC's committed portfolio as of June 30, 2012 is US$630 million. Consistent
+with IFC's regional priorities, infrastructure/sub-national finance accounted for 47 percent of the
+portfolio, financial markets for 30 percent, and electric power for 9.5 percent.
+Financial Markets
+Banco General US$50 million loan to facilitate private sector lending to low- and moderateincome households (FY12).
+*
+*
+*
+
+BBVA Panama US$25 million loan to support the Bank's lending activities to local SMEs
+(FY12).
+GTFP Multibank US$100 million trade finance line to support regional integration (FY12).
+QBE US$10 million in non-convertible preferred shares and US$8.5 million in common
+equity to support the expansion in the medium and low income insurer market (FY10).
+
+Infrastructure
+*
+
+Pando Montelirio US$60 million loan (own account) plus US$143 million (mobilization); the
+commitment is to support a hydropower development that plans to use the water of the
+Chiriqui Viejo River (CVR) in the Chiriqui Province in Western Panama (FY11).
+
+Panama IFC Committed Portfolio (as of June 30, 2012)
+Total Accumulated IFC Commitments since FY2000Toa
+(US$ mn)Commitments
+mn)
+US100(US$
+
+in Previous current FY12
+US$176
+
+Outstanding IFC Portfolio
+
+Debt (US$ mn)
+
+Equity (US$ mn)
+
+Quasi Equity / Loan
+
+(US$ mn)
+US$26
+
+RM (US$ mn)
+
+Total (US$ mn)
+
+US$194
+US$21
+US$63
+US$304
+Mobilization
+IFC Initiative / B-Loan / Parallel Financing
+Committed Amount (US$)
+Parallel Financing
+US$143 mn
+Investment Business - Top Sectors and Clients
+AS Business - Top Sectors
+Sector 1
+Doing
+Business
+Transportation and Warehousing (47%)
+Sector 1
+Reform Advisory
+Sector 2
+Finance & Insurance (30%)
+Sector 2
+Access to finance
+Sector 3
+Electric Power (9.5%)
+Client 1(Sector)
+ACP-Panama Canal (Infrastructure/Subnational) (47%)
+Client 2 (Sector)
+Multibank- (Trade Finance) (9.8%)
+Electron - Pando - Monte Lirio Hydro (Infrastructure)
+Client 3 (Sector)
+(9.5%)
+Ranking in Doing Business Report: 61/185
+
+40
+
+Annex 7 - Standard CPS Annexes
+
+*
+*
+*
+*
+
+Panama At-a-Glance
+Annex B2 - Selected Indicators of Bank Portfolio Performance and Management
+IBRD/IDA Program Summary
+IFC Investment Operations Program
+
+*
+
+Key Exposure Indicators
+
+*
+*
+
+Operations Portfolio (IBRD and Grants)
+IFC Committed and Disbursed Outstanding Investment Portfolio
+
+41
+
+Panama at a glance
+
+40501
+
+KegDelselopmnent ndicators
+
+Latin
+America
+&Carib
+
+Panama
+3.5
+75
+1.6
+75
+
+Population,mid-year[illions)
+Surace area[thourand sq.km)
+Population growth[(%)
+Urban population(%r,of total population)
+GNI[(Atlas method,US$,billions)
+GNI per capita (Atlas method,US$)
+GNI per capita[(PPP,international$)
+
+Upper
+middle
+knome
+
+583
+20,394
+1.1
+79
+
+2,452
+59,328
+
+4,505
+7,733
+10,926
+
+14,429
+5,884
+
+24.5
+
+6,970
+
+12,770
+
+6.2
+
+0.7
+57
+
+7.8
+7.1
+
+4.8
+3.2
+
+Posertyheadvountrtoat $1.25aday[(PPP,%
+Posertyheadvountrtoat$12.00 aday[(PPP,%
+Lifeexpectancy atboihyears)
+Ingant mortality[(per1,0001liveboil
+Childmalnutrition(X%of children under 5)
+
+7
+14
+76
+17
+..
+
+12
+74
+18
+3
+
+.
+.
+73
+17
+3
+
+Adultliteracy,male[fr,ofagers15and older)
+Adultliteracy,remale[fr,ofagers15and older)
+Gross primaryenrollmnen,male[(%ofageegroup)
+Gross primaryenrollmnent,remale[fr,ofageegroup)
+
+94
+93
+
+92
+90
+
+96
+91
+
+109
+106
+
+119
+115
+
+111
+111
+
+Accesstoanimpposedwater source[fr,of population)
+Accesstoimpposedsanitation aciltier[r,of population)
+
+93
+68
+
+94
+
+93
+
+1980
+
+1990
+
+2000
+
+2010
+
+45
+
+99
+
+15
+
+129
+
+2
+
+3
+-9
+13
+
+102
+12
+
+NetAidlFlo.s
+NetEDA and orcalad
+Jaan
+United States
+Spain
+Aid(X%of GNI)
+Aid percaiaUS$)
+
+2
+15
+
+6
+
+79
+
+0
+
+9,970
+
+GDP growth[%)
+GDP per capita growth[
+
+5.0
+
+Agditbuir21
+
+0
+
+73
+
+0
+
+97
+6
+
+1.3
+23
+
+2.0
+41
+
+0.1
+5
+
+37
+
+-5.1
+
+0.6
+
+1.5
+-1.2
+
+6.7
+
+1.0
+
+1.0
+100
+
+1.0
+
+6
+0.5
+
+a
+
+m
+
+o
+
+n
+
+rwhfOadOpraia¾
+1
+1
+
+Long-TermEcoovrmietTrends
+Consumer prices[aninual%change)
+GDP implicit deflator[aninual%change)
+Exchangerate[aninualaverage,iocaper US$)
+Terms of trade indemx[2000=100)
+
+13.8
+33.7
+1.0
+
+84
+
+88
+
+3.0
+
+86
+
+1980-901990-2000
+
+2000-10
+
+(swrapämus/
+
+Population,mid-year[illions)
+GDP[(US$ millione)
+
+2.0
+3,810
+
+8.9
+
+2.4
+5,313
+
+1.7
+
+0.5
+
+2.0
+4.7
+
+6.8
+
+2.5
+-1.3
+
+6.0
+
+3.1
+
+2.9
+
+2.7
+4.5
+
+1.7
+7.3
+
+6.4
+
+5.7
+3.6
+10.6
+
+3.5
+26,689
+5.3
+16.8
+77.9
+
+0.4
+0.7
+
+(c'ssyser
+
+9.8
+15.1
+9.7
+
+Agriculture
+Industry
+Manunacturing
+Sersvie
+
+19.5
+11.0
+71.5
+
+75.1
+
+7.2
+19.1
+10.1
+73.6
+
+Houseodfinalconsumption expenditure
+General god't final consumptionexpenditure
+Gross capital formation
+
+44.9
+17.6
+28.1
+
+56.9
+18.1
+16.8
+
+59.9
+13.2
+24.1
+
+71.4
+5.8
+26.7
+
+3.8
+1.2
+-9.2
+
+1.7
+10.4
+
+Exports of goodsand seraicer
+Imports of goodsand seraicer
+
+98.2 86.8
+78.6
+88.8
+
+72.6
+
+65.2
+69.2
+
+0.4
+
+-0.4
+
+Grovssvarins.
+
+PE-h3
+
+2.1
+
+3.0
+11,621
+
+69.8
+
+24.2
+
+23.1
+
+6.1
+
+17.1
+
+Note:Figureasinitalckare for yearsothert'hanthoisespecified..indicatesdata are not available.
+Deselopiment Economics,Deselopiment Data Group[(DECDG).
+
+42
+
+1.0
+
+1.2
+
+6.0
+
+7.8
+7.4
+
+Panama
+Balanse ofPagrmentsand Trade
+
+2000
+
+2010
+
+Total merchandiseexports[(Fob)
+Total merchandiseimnports[ciT
+Nettrade ingoo and services
+
+5,838
+7,655
+1510
+
+11,970
+16,124
+-1,049
+
+Current ccountbalance
+
+1,074
+
+-2,121
+
+DPr
+
+a
+
+9.2
+
+Workers'remittances and
+compensation ofemnployee(rs[reits)
+
+16
+707
+
+Reseresinoludiggold
+
+m an
+
+m
+pm
+
+-7.9
+231
+
+fl
+
+Central Government Inance
+18.2
+
+revenue[inuding gran)
+
+Current
+
+Ta revenue
+Currentempenditure
+
+oskore
+
+18.2
+
+9.6
+
+2.6
+
+16.9
+
+13.6
+
+Tjeclgholiggand hnistructulre
+t pl deficit
+
+Overallsur
+
+-1.1
+
+-1.2
+
+Paedrd[g
+Higheo marginal tam
+Indidal
+Corporate
+
+3
+
+17
+
+?1
+
+2.559
+
+rate)
+.
+37
+
+7screr(per
+30
+
+ftal0.)
+
+2000
+34.6
+
+Fied line and mobile phone
+100 peopl)
+High technolog mdpos
+[,of manufactured eport)
+
+2010
+
+42
+28
+
+200
+
+08
+
+1.2
+
+EnterinalDebtrand Resour e Flo.s
+Environment
+
+6,567
+886
+
+Total debt outstanding and digbued
+Total deblerivice
+Debt ligef(HIPC MORI)
+
+Totaldebt(%ofGDP)
+Total deblerivice[P
+
+56.5
+
+of eports)
+
+9.4
+
+624
+
+Foregn dihet investment (etriflow)
+Portfolig qity (et nrlows)
+
+0
+
+11,412
+1,077
+
+Agricultural land P of land area)
+Forei tarea(% ofland area)
+Toretial protectedareas , ofland area)
+
+42.8
+
+Frehwterrekorcerpercapita[cu.meters)
+Fresaterw sihdrw
+P(of internal resources)
+
+4.9
+2,363
+0
+
+C02 eisiogne per capita
+
+t)
+
+30
+45.3
+17.7
+
+4Ai.
+
+3A
+437
+187
+
+425d
+
+0.3
+
+a3
+
+2.0
+
+D per unit of energune
+(2005 PPP $ per kg
+oileqivaent
+
+9.5
+
+Energuepercapita[kgfoialquivalent)
+
+853
+
+VorldBank Groenpprtholo
+
+2000
+
+2010
+
+Total debt outstandigngand digburned
+Dibrrmen
+
+283
+
+420
+
+/
+
+Capoitot&tolIemal,.Idebt 2010
+
+S
+
+0
+
+re,
+
+Principal repayment
+Interest paments
+
+""*-.0
+
+2000
+
+2011
+
+Cos to sartabusiness[P,of GNIper capita)
+Time required to register propert (days)
+
+-
+
+8
+9.9
+
+Ranked as a majorc saiemnt 1 obusiness
+[, of managersureyed o who rned)
+
+2000
+
+Private Sector Deelopmfe
+
+Time requiredto sarta business (days)
+
+Elecriit
+Ta.rtes
+Stock
+marketcpiliogn(%of DP)
+Bank capital toasseratio()9.6
+
+IDA
+Total debt outstandigngand digbued
+Dibrremente
+Total deblerivice
+r/
+Totaldigbunedandoutstandigportfolio
+ohjihF RCrown acount
+DibrrementforC
+own accont
+Portfoli saler pregpaymene and
+repamentfor Cown accont
+
+2010
+
+... 3RR
+T
+24.0
+
+MIGA
+Grosseoposure-
+
+40.9
+
+Newg uraeer
+12.5
+
+Note:Figures in italicsare forymer r otert hant se oppeid.
+.indtedataare notjavailable. -indiates obsierdatio is notapplicable.
+
+Deidekspirme, Forderve Dedkim
+
+24
+38
+17
+
+0
+0
+
+0
+0
+
+0
+
+0
+
+226
+117
+
+84
+
+115
+114
+17
+
+2
+
+22
+
+IFC/iCcé
+
+32
+
+..
+
+22
+24
+21
+
+0
+Det.
+roup (Di09000.
+
+43
+
+-
+
+0
+4
+
+2
+
+Millennium Development Goals
+W
+
+s
+
+Panama
+
+tedaettoacheveeween 1990 and 2015
+
+fe.'7W.
+
+t/-2W"Ea
+lteho:5
+doss
+
+Panama.
+
+Goal I: halve the rates for ept[e pone r
+ndgradeli1990
+Poey headcountratio at $1.25 adayPPP %of population)
+Poertly headcount ratio at national poyerry line G%of population)]Y?A
+Share of m
+consumption to the poorest qunille )S
+PRevese of malntion %of children under 5)
+
+66
+
+9
+4
+
+Goal 5: redce maternal MOrtalitg ba; three-fourthes
+Maternal mortality ratio (modeled estimate per 100,000 like births)
+Births attended by skilled health Dtaff % o total)
+Contraceptice prevaence C%of women ages 15-49)
+ather mIj
+
+.
+43
+
+9
+94
+67
+96
+
+no
+
+100
+43
+
+101
+4O
+
+95
+
+8
+
+A
+
+33
+26
+73
+
+29
+23
+
+84
+
+26
+21
+97
+
+86
+C,88
+
+71
+
+71
+
+9
+97
+
+9
+
+17
+
+diseases
+
+15-49)
+
+0.2
+
+1.8
+
+1.4
+
+47
+74
+
+47
+100
+
+47
+
+87
+
+90
+65
+45.3
+17.7
+2.0
+9.5
+
+G3
+R
+43.7
+18.7
+20
+.?
+
+14.5
+13.9
+6.6
+
+15.7
+184.7
+427
+
+Goal 7: halve the proportion od people without sustainable access to basic needs
+Accesstoanimproedwatersource(%,opopulation)
+84
+Access toimpCroed sanitation Facilities (%o) population)
+58
+Forest area C, oItotal land area)
+51.0
+Terrestrial protected areas(C% o) land area)
+17.2
+C02 emissions (metrictons per capita)
+1.3
+GDP per unitl energy use(constant 2005 PPP $ per kg ooil equicalent)
+10.1
+Goal 8: develop a global parenship, forf development
+Telephone mainlines (per 100 people)
+Mobile phone subscribers (per 100 people)
+Internetusers(per100people)
+Computerusers (per 100 people)..
+
+M
+
+2010
+
+61
+
+Incidence OFtuberculosis (per 100,000 people)
+Tuberculosis ase detection rateC, allI Forms)
+
+Educatiorindictor%)
+
+A3
+
+95
+
+Goal 4: redce under-5 MOrtalitg ba; two-ehirds
+Under-5 mortality rate (per 1,000)
+Infant mortality rate (per 1000 like births)
+Measlesimmunization (proportionol one -yearods immunized
+
+F populaion age,
+
+14
+
+92
+
+Goal 3: eliminate gender disparil in education and ecmverwomen.
+Ratio o girls toboysin primaryand secondar education%)
+Vomen employed inthe nongiultural sector(ho fnoengiultural employment)
+Proportion o seats held by women in national parliamentC)
+
+Pr..In.o)fHIV
+
+2000
+
+.S
+
+Goal 2: ensure that childreen arze able to complete primarn schooling
+Primary school enrollment (net%)
+Primary completion rate % of
+oIreelant age group)
+Secondary school enrollment (gross %)
+Youth literacy rate C%or people ages 15-24)
+
+Goal 6: halt and begin to reverse the Spea d oF HIVGAIDS and
+
+995
+
+einimiziti%o-yer
+
+62
+17.7
+1.3
+9.9
+
+8.9
+
+11.4
+
+0.0
+0.0
+
+u.1
+
+83
+
+ad9
+48
+
+89
+
+ICT indictors{ pripeple}
+ded
+
+oldE}
+
+10.
+
+-o--FramyrserrUserrra
+
+44i
+Note: Figures in italics are
+
+For years other than those shpcped..
+
+Delsopment Economics Dealoment Data Group (DECDGC.
+
+indicates data are not asaiale
+
+415112
+
+CAS Annex 82 - Panama
+
+Selected Indicators* of Bank Portfolio Performance and Management
+As Of Date 1110/2013
+
+Indicator
+Porfoio Assessment
+Number of Projects Under Implementation
+Average Implementation Period (years)b
+Percent of Problem Projects by Number
+Percent of Problem Projects by Amount
+Percent of Projects at Risk by Number Percent of Projects at Risk by Amount a,d
+Disbursement Ratio (%e)
+PorffogIo Management
+CPPR during the year (yes/no)
+Superision Resources (total US$)
+Average Supervision (US$proect)
+
+2010
+
+2011
+
+2012
+
+2013
+
+6
+2.5
+33.3
+394
+33.3
+39.4
+12.3
+
+8
+2.7
+125
+7.1
+125
+7.1
+16.2
+
+8
+3.7
+250
+a9
+37.5
+20.5
+15.3
+
+8
+4.2
+25.0
+21.2
+25.0
+21.2
+8.5
+
+yes
+974
+89
+
+yes
+724
+91
+
+yes
+768
+6
+
+planned
+686
+98
+
+Memorandum Item
+Since FY80 Last Five Fs
+Proj Eval by OED by Number
+43
+6
+Proj Eval by OED by Amt (US$ millions)
+1,2148
+275.0
+% of OED Projects Rated U or HU by Number
+35.0
+20.0
+% of OED Projects Rated U or HU by Amt
+20.2
+16.4
+
+a.
+b.
+c.
+d.
+e.
+*
+
+As shown in the Annual Report on Portfolio Performance (except for current FY}
+Average age of projects in the Banks country portfolio
+Percent of projects rated U or HU on development objectives (DO) and/or implementation progress (IP)
+As defined under the Portfolio Improvement Program
+Ratio of disbursements during the year to the undisbursed balance of the Banks portfolio at the
+beginning of the year: Investment projects only
+All indicators are for projects active in the Portfolio, with the exception of Disbursement Ratio,
+which includes all active projects as well as projects which exited during the fiscal year
+
+45
+
+CAS Annex B3 - Panama IBRDIIDA Program Summary
+As Of Date 111012013
+
+Proposed IBRDIIDA Base-Case Lending Program
+Fiscal year
+2013
+
+us$("J
+
+Strategic Rewards
+(HMLJ
+
+Implementation
+Risks (H.A)Q
+
+PA 2nd Programnatic DPL
+
+100.0
+
+H
+
+M
+
+Overall Result
+
+10.O
+
+Proj ID
+
+CAS Annex B3 - Panama IFC Investment Operations Program
+
+2010
+
+2011
+
+2012
+
+2013*
+
+IFC and Participants
+IFC's Own Accounts only
+
+209.91
+104.91
+
+85.0
+47.0
+
+177.7
+177.7
+
+50.4
+50.4
+
+Original Commitments by Sector (%)- IFC Accounts only
+Trade Finance (TF)
+Financial Markets
+Renewable Energy Generation
+Total
+
+39.0
+18.1
+429
+10010
+
+Original Commitments (US$m)
+
+100.0
+
+57.8
+42.2
+
+100.0
+
+100.0
+
+10010
+
+100.0
+
+Original Commitments by Investment Instrument (%)- IFC Accounts only
+Guarantee
+
+39.0
+
+Loan
+Quasi loan
+Equity
+Quasi Equity
+Risk Management
+Total
+
+23.8
+14.3
+8.6
+9.5
+4.8
+100.0
+
+Data as of December 31, 2012
+
+46
+
+100.0
+
+57.8
+
+100.0
+
+42.2
+
+100.0
+
+100.0
+
+100.0
+
+CAS Annex B7 - Panama Key Exposure Indicators - 2007-2014
+
+Estimated
+
+Total debt outstanding and disbursed* (TDO) (US$m)
+Net Disbursements (US$m)
+Total debt service (TDS) (US$m)
+
+Projected
+
+2008
+12,720.6
+822.2
+1,866.8
+
+2009
+13,463.1
+742.5
+1,800.0
+
+2010
+14,926.0
+1,462.9
+2,100.0
+
+2011
+16,373.9
+1,447.9
+1,934.2
+
+2012
+18,853.5
+2,479.6
+2,800.0
+
+2013
+20,179.2
+1,325.7
+2,800.0
+
+2014
+21,512.4
+1,333.2
+2,800.0
+
+70.7
+55.3
+10.4
+
+70.6
+55.7
+9.4
+
+71.3
+56.1
+10.0
+
+62.9
+52.7
+7.4
+
+69.1
+52.5
+10.3
+
+65.1
+49.6
+9.0
+
+61.2
+47.4
+8.0
+
+9.9
+
+11.7
+
+11.9
+
+11.4
+
+10.9
+
+10.6
+
+10.6
+
+1.2
+6.3
+27.8
+5.5
+0.2
+270.9
+
+1.8
+5.6
+28.9
+6.5
+0.2
+435.0
+
+1.6
+5.4
+30.2
+6.7
+0.2
+420.0
+
+1.3
+5.6
+31.4
+6.0
+0.2
+399.2
+
+1.5
+5.7
+35.6
+5.7
+0.1
+555.8
+
+1.6
+6.1
+33.9
+5.3
+0.1
+646.4
+
+Debt and debt service indicators (%)
+
+TDO/XGS**
+TDO/GDP
+TDS/XGS
+Concessional/TDO
+
+Multilateral/TDO
+IBRD exposure indicators
+
+IBRD TDO/GDP (%)
+IBRD DS/public DS (%)
+Preferred creditor DS/public DS (%)
+Preferred creditor debt/GDP (%)
+IBRD DS/XGS (%)
+IBRD TDO (US$m)
+
+Includes public and publicly guaranteed, private nonguaranteed, use of IMF credits and net short term capital,
+excluding the offshore banking sector's liabilities.
+** XGS = X of goods+X of services+factor receipts.
+Source: IMF and World Bank.
+*
+
+47
+
+1.5
+6.5
+34.9
+5.0
+0.1
+680.6
+
+CAS Annex B8 - Panama Operations Portfolio (IBRD/IDA and Grants)
+Amounts in US Dollars Millions
+Accounting date as of 1/10/2013
+
+ClosedProjets
+
+54
+
+IBRDIDA *
+TotaDlbrsed( Active)
+.f wh ih has been reped
+T.ti Diersed crbeo5d)
+f wh ch h beenrep d
+Tota D-bursdCActive +Cltodl
+.fwhr has been repad
+
+848
+5.89
+523.33
+45.
+611.81
+411.75
+
+Ttl, Undi=bed (Actie )
+Tetl Undisbursed(Ced)
+TotalUndisb
+Aie Csend)
+
+2E7.92
+0.109
+207.92
+
+Difference Between
+
+Acttve p
+Last P5R
+
+Expeted and Actial
+OiqginasAfountin US$Mdkons
+
+Superv-sNoating
+
+ProfectName
+
+ProjectID
+P122738
+P121492
+P083045
+P106445
+Pi19694
+P064918
+PO98328
+P082419
+
+De
+
+irn
+
+~ent
+S
+MS
+S
+S
+MS
+MS
+MU
+MS
+
+PA CAT DDO
+PA Enhanced Public Sector Efficiency TAL
+PA GEF RuralProductiity
+PA Hlth Equity & Performance Improvement
+PA Metro Water and Sanitation Improvemen
+PA RuralProductivity
+PA Social Protection project
+PA-Water&Sanitation in Low-Income Comm.
+
+en aion
+S
+MS
+MS
+MS
+MU
+MS
+MS
+MS
+
+2012
+2011
+2006
+2009
+2010
+2007
+2008
+2008
+
+66
+SS
+6
+
+6
+
+Fim Red
+
+Or.
+
+66.0
+52.6
+0.3
+17.0
+38.0
+12.5
+8.9
+12.9
+
+40
+40
+39.4
+24
+32
+296.4
+
+Overall Result
+
+Dsbursements'
+
+IBRD IDA GRANT Canoel, Undlis.
+
+FY
+
+208.2
+
+-4_6
+15.4
+18.8
+11.9
+8.9
+12.9
+
+0.0
+
+60.9
+
+3.1
+
+3.1
+
+CAS Annex B8 - Statement of IFC's Committed and Outstanding Portfolio
+Amounts in US Dollars Millions
+Accounting date as of 12/31/2012
+
+Comtet isiuin
+
+LN
+
+Ql+.QE
+
+ET
+
+Cid-i
+
+Cid-iC
+
+Cmid-
+
+RM
+
+GT
+
+IFCCtd
+
+-
+
+Short Name
+BBVAPanarna
+
+199/21ff/52012
+,5n1i
+
+BanmeGeneralS.
+Del lstrne
+
+52.55
+
+Digicel (Panarna)
+
+32.92
+
+510
+25.5.0/2..09
+
+Eectren
+Grupo Mundial
+
+25.01
+5
+
+5
+9.13
+
+25..91gtu2013
+
+Mutibenk
+
+5.
+
+5.
+
+0
+
+'25.5.9
+
+PCAJACP
+
+0
+
+0
+C,
+
+5
+a
+
+25.00
+
+3720
+
+0.9
+
+TmtalPcifflb.
+
+25."0
+
+0
+
+3 11.
+
+435.42
+
+5.
+5.
+8.54
+
+17.67
+
+ALL
+
+IFCCm,tdiFC
+
+Fiscal Year
+2012/2013
+
+Cald-
+
+ALL
+LN
+ET
+Ql+QE
+dcout-ji
+C Cmi- Part Out-IFC out-F
+0
+
+0
+
+0
+
+25.00
+52.5D
+10.54
+
+25."0
+
+0
+
+0
+0
+
+0
+
+a
+10.w0
+
+5
+5
+
+52.5.
+5
+
+0
+0.54
+
+01
+
+0
+
+0
+
+32.92
+
+32.92
+
+0
+
+0
+
+21.51
+0
+
+61.51
+9.13
+
+0
+0
+0
+
+15.63
+5.
+
+0
+9.13
+
+0
+
+37.20
+
+.
+
+0
+
+5
+fl
+
+310.10
+
+0
+5.
+
+5
+
+g
+
+15.w1
+
+0
+
+01
+
+372
+
+48
+
+48
+
+RM
+ALL
+ALL
+Out-IFFC Out- FFC Out - part
+
+GT
+Out-EFC
+0
+0
+
+0
+
+25.00
+52.55
+
+5..0
+
+5
+
+0
+
+10.54
+
+5.50
+
+0
+
+0
+
+91
+
+32.92
+
+9.31:1
+0
+
+0
+
+18.23
+
+43.24
+
+0.W
+0.W0
+
+5
+
+1
+
+9.13
+
+5.00
+
+37.20
+5
+
+0
+
+37.2D
+5
+
+0.0
+
+1
+fl
+10.
+
+0
+
+0
+
+00.
+
+.
+
+PANAMA
+o
+
+SELECTED CITIES AND TOWNS
+
+MAIN ROADS
+
+0
+
+PROVINCE CAPITALS
+
+RAILROADS
+
+®
+
+NATIONAL CAPITAL
+
+PROVINCE BOUNDARIES
+
+RIVERS
+
+83°W
+
+-
+
+81 W
+
+82°W
+
+INTERNATIONAL BOUNDARIES
+
+-
+
+79°W
+
+80°W
+
+78°W
+77°W
+
+10°N
+
+Caribbean
+
+Sea
+
+TOats,
+
+ElPorvenir
+Ustupo
+
+nguinolaPortobel
+
+Bocas del Toro
+
+Teribo
+
+COSTA
+
+BOCAS
+
+~ aróe
+
+~
+
+9 N
+9°NVulrn
+
+Mosquitos
+
+LagoChiqu
+,hi,iqui,&n00
+
+E
+
+B UG
+co,
+s
+CH
+Corredor CHRIÖUi
+L2
+nepåElValle
+
+Ce
+
+C
+FCp
+
+rTO
+
+<1'm
+
+c
+
+P6Yn
+
+de
+
+Snta Fé
+
+Ocu
+
+Ob-d-
+
+J
+
+m
+
+«1
+
+delRe
+
+Rio at
+
+Yaviza
+
+Dvisa
+DiSanhago
+
+Sona
+Soa
+
+Chu nt,
+13m
+
+Chiman°
+
+Agudlce
+
+S
+
+Armulle
+8°N
+
+A
+Bahia
+
+e Blanca
+
+enonom e
+C.
+É'I
+
+,
+
+VERAUAS
+
+lGuabolá
+
+Cañazas
+
+SantoFé
+
+Chichica
+
+N
+
+°WR
+
+van°
+
+Cerro
+
+ta
+Ar S
+CordiPera
+
+~
+
+KUNA DE
+
+Pir
+p
+
+LaChorrero
+
+Crist6bl
+
+Pdrega
+r
+
+ANA9°
+
+Clovébora
+aChorcNG
+
+LE
+.
+
+David
+
+Tocumen
+
+t%OLÓN
+
+Crs Sa
+
+{i5n B
+
+K
+
+P A NL M Á'pn
+
+Salud
+
+Coeté
+
+Golfo de los
+
+OCusapin
+
+TORO
+
+KUNA DE
+MADUNGANDI
+
+Yanup
+
+Cordi/-eru de
+
+e
+
+i)GDEL
+
+R|CA
+
+10N
+
+Golfo de
+deYpe
+Panarnå
+
+Chitre
+
+uero
+Mutis
+
+Cerro
+
+Nullä7
+Tacorcupao
+7
+
+DARIEN
+
+o
+Boad
+Liénrr
+
+n-.
+
+\Tutf
+
+8°N
+
+Prr
+
+EMBERA-
+
+A (erro5i)
+
+Macaracas
+
+SANTOS
+
+Islade
+Coiba
+
+Cerr
+
+combualA
+
+(1400m)
+
+Piaa
+
+t°Puerto
+
+Ls sientos
+
+Tonosí
+
+0
+
+PANAMA
+
+0
+
+20
+
+40
+
+60
+
+40
+
+20
+
+80
+
+100 Kilometers
+|__
+
+"4i_______
+
+COLOMBIA-
+
+60Miles
+
+7°N
+
+CCEA N
+
+PA Cl FlC
+83'W
+
+82°W
+
+81 W
+
+by theMapDesg Uit of TheWorldBank
+fThismap oos produced
+Theboundornes, colors, denominotions
+and any otheromormtion
+sho on thismap do notimply,on thepart of TheWorldBank
+Group,any judgment
+on thelegal
+status
+of ony terntory, nr
+ony
+ofsuchboundaries.
+endorsement or occeptance
+
+80°W
+
+79°W
+
+78°W
+
+77'W
+
+

@@ -1,0 +1,3585 @@
+Public Disclosure Authorized
+Public Disclosure Authorized
+
+Document of
+The World Bank
+FOR OFFICIAL USE ONLY
+
+Report No. 87928-BA
+
+INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT
+INTERNATIONAL DEVELOPMENT ASSOCIATION
+INTERNATIONAL FINANCE CORPORATION
+
+Public Disclosure Authorized
+
+Public Disclosure Authorized
+
+COUNTRY PARTNERSHIP STRATEGY PROGRESS REPORT
+FOR
+BOSNIA AND HERZEGOVINA
+FOR THE PERIOD FY12–FY15
+
+June 3, 2014
+
+South East Europe Country Unit
+Europe and Central Asia
+International Finance Corporation, IFC
+Europe and Central Asia
+This document has a restricted distribution and may be used by recipients only in the
+performance of their official duties. Its contents may not otherwise be disclosed without World
+Bank authorization.
+
+Date of Last Country Partnership Strategy: August 30, 2011
+CURRENCY EQUIVALENTS
+(Exchange Rate Effective May 1, 2014)
+Currency Unit = Convertible Mark (BAM)
+BAM 1.00 = US$ 0.709429
+US$ 1.00 = BAM 1.412152
+GOVERNMENT’S FISCAL YEAR
+January 1 – December 31
+ABBREVIATIONS AND ACRONYMS
+AAA
+BH
+BD
+CAD
+CEFTA
+CPS
+CRIF
+DPO
+EBRD
+EC
+EIB
+EUR
+EU
+FBiH
+FDI
+FY
+GDP
+GEF
+GFDRR
+IBRD
+IDA
+IFC
+IFI
+IMF
+IPA
+IPARD
+JBP
+LFS
+MoFTER
+NPLs
+PA
+PPP
+PEIR
+PEFA
+PFM
+R&D
+RS
+SBA
+SIDA
+SME
+TA
+TF
+UNDP
+USAID
+VAT
+
+Analytical and Advisory Activities
+Bosnia and Herzegovina
+Brcko District
+Current Account Deficit
+Central European Free Trade Agreement
+Country Partnership Strategy
+Catastrophic Risk Insurance Facility
+Development Policy Operation
+European Bank for Reconstruction and Development
+European Commission
+European Investment Bank
+Euro
+European Union
+Federation of BH
+Foreign Direct Investment
+Fiscal Year
+Gross Domestic Product
+Global Environment Facility
+Global Facility for Disaster Reduction and Recovery
+International Bank for Reconstruction and Development
+International Development Association
+International Finance Corporation
+International Financial Institutions
+International Monetary Fund
+Instrument for Pre-Accession
+EU Instrument for Pre-Accession Assistance for Rural Development
+Joint IBRD/IFC Business Plan
+Labor Force Survey
+Ministry of Foreign Trade and Economic Relations
+Non-performing loans
+Protected Areas
+Public-Private Partnership
+Public Expenditure and Institutional Review
+Public Expenditure and Financial Accountability
+Public Financial Management
+Research and Development
+Republika Srpska
+Stand-By Arrangement
+Swedish International Development Cooperation Agency
+Small and Medium Enterprise
+Technical Assistance
+Trust Fund
+United Nations Development Program
+United States Agency for International Development
+Value Added Tax
+
+i
+
+Vice President:
+Country Director:
+Task Team Leaders:
+
+World Bank
+Laura Tuck
+Ellen A. Goldstein
+Anabela Abreu
+Goran Tinjic
+
+IFC
+Dimitris Tsitsiragos
+Tomasz Telma
+Per Kjellerhaug
+Lada Busevac
+George Konda
+
+Acknowledgments
+
+We would like to thank BH team members, in particular Sandra Hlivnjak (Economist, ECSP2), Simon
+Davies (Economist, ECSP2), Gallina Vincelette (Lead Economist and Sector Leader, ECSPE), Wolfgang
+Fengler (Sector Leader, ECSPF), Timothy Johnston (Sector Leader, ECSH1), Raymond Bourdeaux (Sector
+Leader, ECSSD), Maria Eugenia Davalos (Economist, ECPS3), Ruvejda Aliefendic (Private Sector
+Development Specialist, ECPF3), and Nichola Dyer (Country Program Coordinator, ECCU4) for their
+valuable input and comments.
+
+ii
+
+BOSNIA AND HERZEGOVINA
+COUNTRY PARTNERSHIP STRATEGY FY12–15 PROGRESS REPORT
+
+TABLE OF CONTENTS
+I. INTRODUCTION .....................................................................................................................1
+II. COUNTRY CONTEXT.............................................................................................................3
+III. CPS PROGRESS, IMPLEMENTATION AND ADJUSTMENTS ..........................................9
+A. CPS Implementation Progress to date..................................................................................9
+B. Portfolio Performance and Partnerships ............................................................................11
+C. Adjustments to the CPS Program and strategy going forward ..........................................12
+IV. RISKS ...................................................................................................................................15
+Annex 1: Results Matrix ..........................................................................................................16
+Annex 2: List of active Bank administered Trust Funds in BH ...............................................26
+Annex 3: AAA Program and Contribution to CPS Pillars.......................................................27
+Annex 4: Gender Gaps in BH ..................................................................................................31
+Annex 5: Key Economic and Program Indicators - Change from Last CAS ..........................33
+Annex 6: BH at a Glance .........................................................................................................34
+Annex 7: Selected Indicators of Bank Portfolio Performance and Management ....................37
+Annex 8: IBRD/IDA Program Summary .................................................................................38
+Annex 9: IFC Investment Operations Program .......................................................................39
+Annex 10: Operations Portfolio (IBRD/IDA and Grants) .......................................................40
+Annex 11: Map ........................................................................................................................41
+
+iii
+
+BOSNIA AND HERZEGOVINA
+COUNTRY PARTNERSHIP STRATEGY PROGRESS REPORT
+I.
+
+INTRODUCTION
+
+1.
+The Board of Executive Directors discussed the FY12-15 Country Partnership
+Strategy (CPS) for Bosnia and Herzegovina (BH) on August 30, 2011 (Report No. 64428BA). This report focuses on how the Bank has responded to changes in the country context since
+then, and how it will position itself strategically for the remaining period. It also provides initial
+details on the impact of the catastrophic flooding that occurred during the finalization of this
+report, and on the Bank’s response.
+2.
+In mid-May 2014, a major natural disaster struck BH, as the heaviest rainfall in
+Serbia and BH in 120 years of recorded weather measurement caused devastating floods
+and landslides. From May 13, the country saw massive flooding and over 3000 landslides.
+Governments declared a state of emergency on May 14, 2014, and requested international
+assistance. The floods touched about one third of the country’s territory, hitting hardest the
+northern and central flatlands, where the main agriculture industry is located. The human cost
+includes 25 confirmed deaths and one million people directly affected, with 40,000 evacuated
+and sheltered in 42 collective centers/temporary accommodation facilities. Preliminary evidence
+indicates the largest impact on infrastructure relating to housing, local infrastructure, transport,
+water and sanitation, and agriculture.
+3.
+Initial reports indicate that damage is extensive and the productive capacity of the
+economy has been shattered. Side roads and over 20 bridges have been destroyed or damaged,
+preventing humanitarian assistance from reaching remote areas. Many crops have been
+completely destroyed and livestock losses are severe, with possibly over 60,000 ha of farm land
+affected. Water supply was severely interrupted in the affected areas; one million people were
+deprived of drinkable water at the peak. Animal carcasses, contaminated water and debris pose a
+serious threat to public health. Over 25,000 houses are damaged and 230 health and school
+facilities fully or partially destroyed. Land mines that had been well-marked have been dislodged
+and the warning signs washed away, making recovery efforts more challenging and
+reconstruction more hazardous. The floods have created significant strains on the supply chains
+for a variety of goods crucially needed to ensure the continuity of public services and economic
+opportunities. For example, coal mines have been flooded, resulting in an interruption of supply
+to the Tuzla and Uglevik thermal power plants (which together account for over one-quarter of
+capacity and about 35 to 40 percent of generation). The plants are running on available stocks,
+but these will run out in the next few weeks.
+4.
+The authorities have requested World Bank support for a recovery needs
+assessment as well as an emergency recovery operation. A $150,000 Global Facility for
+Disaster Reduction and Recovery (GFDRR) grant has been obtained. The recovery needs
+assessment led by the government and supported by the Bank, the EU and the UN started on
+May 29, 2014. The needs assessment will guide possible project restructuring; the emergency
+recovery project ($57 million1, envisaged to be funded out of the Crisis Response Window) is
+already under preparation. This operation is to support the governments of BH in reestablishing
+public services and economic opportunities in flood-affected areas. It would finance emergency
+1
+
+The ongoing needs assessment will inform the exact credit amount.
+
+1
+
+disaster recovery goods and rehabilitation of key local infrastructure as well as technical
+assistance and capacity building activities for the implementation of the project. In light of BH’s
+imminent graduation from IDA, Board approval of this emergency operation by no later than
+June 30, 2014 will be sought.
+5.
+The CPS was designed in 2011, with the overall objective of supporting BH’s EU
+integration, the CPS’ broad objectives are to: (i) support economic growth by improving
+productivity and competitiveness; (ii) improve social inclusion by strengthening the
+targeting and fiscal sustainability of social benefits and improving delivery of basic public
+services; and (iii) strengthen the sustainable use of key natural resources and improve
+climate change adaptation. The CPS program was built on an analysis of BH’s key
+development challenges and was kept flexible to reflect the continuous political uncertainty in
+the country. The CPS envisaged total IDA/IBRD lending of $348 million of which $148 million
+was IDA and $200 million was IBRD lending. IFC commitments were projected at $80 – 100
+million. As of May 16, 2014, $250 million or 72 percent of the total lending envelope was
+committed ($130 million – IDA; $120 million – IBRD), while IFC’s commitments reached $40
+million (including $7 million from IFC-Canada Climate Change Program).
+6.
+The political system in BH is complex, reflecting the provisions of the country’s
+constitution established to end bitter ethnic conflict nearly twenty years ago. The general
+government sector consists of four units: the State (or central) level, two entities—Federation of
+Bosnia and Herzegovina (FBiH) and Republika Srpska (RS)—and Brcko District (BD). The State is
+governed by the Council of Ministers; each entity has its own government and local government
+units. In the FBiH, 10 cantons, each with its own government, represent an additional layer between
+the Government of the FBiH and local government units.
+7.
+Political fragmentation and stalemate have undermined reform processes. As
+recognized in the initial CPS document, the risk of weak political commitment to reform and of
+policy reversal was significant. This risk has materialized as the authorities have failed to
+advance sensitive reforms of social and veteran benefits that would have improved the quality of
+spending. Consequently, the Bank cancelled its planned programmatic Public Expenditure DPO
+series. The Bank then demonstrated flexibility and engaged in preparation of a new DPO because
+the authorities expressed sufficient commitment to business environment and investment climate
+reforms. Political fragmentation and stalemate remain the principal risks for delivery of the
+program during the remaining CPS period. This may lead to slower than expected progress
+against CPS outcomes and failure to deliver the full lending program. A flexible and
+opportunistic approach is necessary to achieve meaningful results despite limited political
+cohesion and will to reform.
+8.
+Political stalemate also undermined performance of the Bank Group program. In
+FY13, two projects worth $160 million (38 percent of total commitments) faced repeated
+effectiveness delays, and four projects were rated unsatisfactory temporarily in terms of progress
+either towards development objectives or implementation. FY12 disbursement performance was
+unusually strong, with the disbursement ratio at 40.7 percent, but in FY13 it deteriorated to 8
+percent due to the effectiveness and implementation delays. At end-April 2014 it stood at 16.5
+percent and is expected to reach 22 percent by the end of FY14.
+9.
+Progress toward CPS outcomes has been satisfactory with the notable exception of
+fiscal consolidation associated with an aborted DPO series. The CPS has been flexible to
+accommodate changing client demand and political cohesion. This CPSPR revises outcomes and
+indicators to reflect the shift in focus away from fiscal consolidation (Pillar II) and toward
+2
+
+business climate reform (Pillar I). Three outcomes were dropped for lack of an associated
+program, and the rest are either achieved or on track to be achieved by the end of the CPS period.
+10.
+BH graduates from IDA eligibility to IBRD-only status at the end of the IDA16
+period. Although its per capita income has long exceeded the threshold for eligibility to IDA
+funding, eligibility was extended to accommodate post-conflict needs. The graduation from IDA
+is a complex milestone with important implications because the country has extremely limited
+access to international capital markets. At the same time, the country faces a notable financing
+gap in the medium term which is likely to widen in the outer years of the decade if the
+commitment to fiscal consolidation remains weak.
+11.
+The CPS strategic focus on competitiveness, social inclusion, and environmentally
+sustainable development remains valid for the rest of the CPS period, and is well aligned
+with the World Bank Group’s twin goals of eliminating extreme poverty and boosting
+shared prosperity. These objectives address a still-fragile economic recovery, continued social
+vulnerabilities and lack of national cohesion, and the need to enhance competitiveness, growth
+and job creation. Specifically, the focus on enhancing competitiveness provides a foundation for
+job creation, opening up more opportunities for the poor and less well-off to improve their living
+standards and contribute to economic growth. Enhancing social inclusion is also clearly linked to
+the corporate goals by supporting increased access to economic opportunities for vulnerable
+groups, particularly to labor markets and health services. The program is also working towards
+promoting environmental sustainability in BH, an overarching goal of the World Bank Group.
+12.
+The Bank Group will continue to be selective and adjust the lending program to
+reflect the political will to tackle structural reforms. In the course of this CPS, the Bank
+made a strategic shift away from deeper fiscal reform (where political will was insufficient)
+toward improvement of the business environment and investment climate, where ownership of
+reforms was sufficient across all levels of government and results would stimulate growth and
+jobs. For the remainder of the CPS, the IFC/IBRD/IDA program will maintain its focus on
+reducing poverty and achieving shared prosperity by improving the competitiveness of the
+economy, facilitating job creation and strengthening the delivery of basic services for the
+vulnerable.
+II. COUNTRY CONTEXT
+
+Political Developments
+13.
+In the first half of the CPS period, a series of political crises affected implementation
+of the government’s programs. Continued political fragmentation marked the period 20112013. State-level Council of Ministers formation took 18 months after the October 2010
+elections and as a result, the State level budget for 2012 was not adopted timely. Beyond
+stymying structural reform efforts, that situation temporarily jeopardized foreign debt service.
+Reshuffling of the FBiH government has not been completed 23 months after the June 2012
+breakup of the ruling coalition. In the RS, the government resigned in block in February 2013,
+but a new government was formed the following month. Overall, the internal political stalemate
+weakened the country’s progress toward EU accession and delayed implementation of structural
+reforms, including those earlier agreed upon with the IMF, the World Bank and the EU. More
+recently, the government has made some progress on structural reforms with the support of the
+IMF and the Bank. Both entities are now processing important reforms aimed at improving the
+business environment and investment climate. The FBiH also adopted a pension strategy aligned
+with the Bank’s recommendations.
+3
+
+14.
+The domestic political situation continues to pose the most important risk for BH’s
+development and for EU accession. A 2009 ruling by the European Court of Human Rights
+(the “Sejdic-Finci” case) stated that BH needs to reverse a situation created under the Dayton
+peace agreement that prevents ethnicities other than Serbs, Croats and Bosniaks from holding
+elected positions. As a result of this and a lack of movement on an EU coordination mechanism
+and on trade issues, the last EU Progress Report noted little advancement on the path to EU
+membership. The EU reduced by around EUR47 million ($60 million) the 2013 Instrument for
+Pre-Accession (IPA) funding for BH, and suspended discussion of further IPA-2 financing for
+the 2014-2020 period pending progress in these areas.
+Recent Economic Developments and Outlook
+15.
+BH’s economy performed poorly in 2012 due to weak internal and external
+economic environments. After two years of fragile recovery from the 2009 recession, BH
+experienced a second downturn in 2012 (Table 1). Deteriorating external conditions, especially
+the prevailing uncertainty in the Euro zone, a severe winter at the start of 2012, and wildfires in
+the second half of that year all negatively affected economic activity. Consumption, investment,
+and exports each slumped in 2012. Industrial production also dropped, mainly due to weak
+external demand for BH exports.
+16.
+A surge in exports supported a modest economic recovery in 2013. After 14
+consecutive months of negative growth rates, industrial production picked up by 4 percent in the
+first ten months of 2013. Manufacturing grew by 9.7 percent compared with the same period in
+2012 - significantly higher than the 5.7 percent in September - and intermediate goods by 15.6
+percent, suggesting some revival in the manufacturing sector. Exports of goods grew by 9
+percent in the first three quarters of 2013 compared with the same period of 2012. Internal and
+external risks to this recovery remain, including a slow recovery in the EU, which could
+prejudice exports, and a slow-down in fiscal revenues, which would affect the 2014 budget.
+Economic and political risks are discussed in more detail below.
+17.
+Macro projections were prepared prior to the floods and will be updated once the
+damage and loss assessment is completed. The impact of the recent floods on economic
+activity in BH is not known yet, however downward pressure on the recovery is expected in
+2014. Preliminary information indicates that agriculture, industry, and mining are especially
+affected. The floods have harmed numerous small and medium size businesses in manufacturing
+and farming, and have hit predominantly areas with low and middle income households.
+Reconstruction efforts will partially counteract the negative effect on economic activity,
+provided adequate financing for reconstruction becomes available. A pickup in construction
+activities, investment and consumption (as lost items are gradually replaced) is expected. With
+increased domestic activity, a reversal of the current deflationary trends is possible.
+18.
+The currency board continued to support monetary stability and inflation remained
+low into 2013.2 Inflation was around 2 percent in 2012 (with core inflation below 1 percent) and
+the country experienced deflation of 1.5 percent in the first ten months of 2013. International
+reserves, which are crucial to maintaining monetary stability, remained at a comfortable level
+during 2013 (at around 5 months of imports). Given BH’s reliance on a currency board which
+
+2
+
+BH operates a currency board, under which the Bosnian convertible mark (KM) is convertible to the Euro at the fixed rate of
+KM 1.96:EUR1.
+
+4
+
+limits the scope for monetary policy, flexible labor markets and sustainable fiscal policies are
+exceptionally important to maintain macroeconomic balances and boost economic growth.
+19.
+Labor market participation and employment remain stubbornly low and below precrisis levels. Preliminary 2013 Labor Force Survey (LFS) results indicate that labor market
+participation in 2013 is just under 50 percent of the working age population. The employment
+rate in 2013 remained one percent below the 2008 (pre-crisis) level of 33 percent. The
+unemployment rate at 28 percent remained elevated compared with 23 percent in 2008.
+Unemployment is particularly high among those without tertiary education, women, and young
+people. The poor investment climate and labor market rigidities have greatly contributed to the
+persistent unemployment problem in BH. Labor market outcomes are poorer for those in the
+bottom 40 percent of the income distribution, as they have lower employment rates than the rest
+of the population due to higher unemployment and lower participation rates.
+20.
+After two years of large current account deficits, the external deficit narrowed in
+the first half of 2013. From 9.6 percent in 2012, the trade deficit declined to around 6 percent of
+GDP in the first three quarters of 2013, thanks to higher exports of electricity and goods. Imports
+of goods were 3.6 percent lower in the first three quarters of 2013 than during the same period of
+2012. A blend of foreign direct investment (FDI), grants, foreign credit and remittances financed
+the external account. FDI performed well in 2013, with investments totaling 2.6 percent of GDP
+in the first three quarters of the year compared with 1.9 percent in the first three quarters of 2012.
+However, a part of this increase was due to a surge of investments from Croatian companies
+wanting to maintain access to CEFTA markets following Croatia’s accession to the EU in mid2013. FDI slowed considerably in the third quarter of 2013.
+21.
+Remittances continued to be an important source of financial flows for BH.
+Remittances held up during the crisis and remain a major part of foreign financing. In 2012,
+remittances in the narrow definition (workers’ compensation and remittances) amounted to 10.8
+percent of GDP and in the broader definition (narrow definition plus private current transfers) to
+16.6 percent of GDP. Remittances were largely unchanged in the first three quarters of 2013 but
+have declined slightly as a percent of GDP.
+22.
+Although the banking sector remained relatively stable in 2013, a high level of nonperforming loans (NPLs) continues to plague the system. Many of the foreign-owned banks,
+which dominate the banking system, gradually deleveraged in the years after the global financial
+crisis. Some of the largest banks in BH shrank their balance sheets to repay deposits or loans
+from their parent banks. Banks’ foreign liabilities, which accounted for 31 percent of total bank
+liabilities at end-2008, represented 18 percent at end-2012 and fell further to 15.6 percent by
+October 2013. Moreover, the quality of banks’ credit portfolios deteriorated for the fourth year in
+a row alongside the stagnant economy, pushing NPLs to 14.3 percent of total loans at end-June
+2013. Provisioning for these rising NPLs, is at around two thirds. Although reliance on parent
+banks has declined, continued global financial market turbulence or a further downturn in Europe
+could make it more difficult for banks to raise funds from parent groups if required to deal with
+NPLs. In addition, the regulatory framework for dealing with NPLs needs further strengthening.
+23.
+BH faces significant fiscal challenges exacerbated by declining revenues. The
+authorities began fiscal consolidation in 2010 and reduced the deficit to 2.6 percent in 2012 from
+5.5 percent of GDP in 2009. In 2012, weak economic performance brought revenues down by
+1.3 percent of GDP, with direct taxes and social security seeing especially large falls. To
+maintain a sustainable fiscal stance in the face of declining revenues, the authorities took some
+measures to reduce expenditures, but government spending remains overly concentrated in non5
+
+growth enhancing areas. Efforts to contain current spending in 2012 were weak. Wages and
+social benefits together amounted to 27.7 percent of GDP in 2012. Social benefits are not
+adequately targeted with only an estimated 37 percent reaching the poorest quintile and over 12
+percent going to the wealthiest quintile in the country. This leakage is largely due to excessive
+spending on war-related benefits, which tend not to reach the neediest.
+24.
+The extension and augmentation of the Stand-By agreement with the IMF in
+January 2014 will continue to support the financing of the 2014 budget. The BH public
+sector financing needs for 2014 amount to around 4 percent of GDP, of which 1.4 percent is the
+deficit and the remainder debt amortization. In January 2014, the IMF completed the fifth review
+of BH’s economic performance under a 24-month SBA and extended the program through endJune 2015 to provide an anchor for economic policies during the election period and the political
+transition. 3 However, the IMF has not been able to complete the sixth review under the SBA as
+some fiscal targets and structural benchmarks were not met.
+25.
+Total public debt is considered broadly sustainable. At the end of 2012, BH’s public
+debt reached 45 percent of GDP, of which 28 percent was external debt. This external public
+debt is predominantly on concessional terms to international financial institutions (IFIs). Total
+public debt is expected to decrease slightly to below 45 percent in 2013.
+26.
+The medium-term macroeconomic framework assumes a slow economic recovery in
+the region and in the EU in 2014 (Table 1). Overall, the economy is estimated to have grown
+by 0.8 percent in 2013 and is expected to expand by 2 percent in 20144, driven mainly by
+recovering export demand. Over the medium term, growth is projected to increase gradually to
+around 4.0 percent by 2016, based on increased exports and continued stable inflows of
+remittances. Significant progress in implementing structural reforms will be important if BH is to
+achieve faster economic growth than currently foreseen.
+27.
+Strengthening public financial management, including debt management policies
+and practices, as well as focusing spending on growth-enhancing areas, will be an integral
+part of reinforcing fiscal sustainability and ultimately increasing BH’s medium-term economic
+potential.
+28.
+The medium to long term growth potential of BH’s economy is also constrained by a
+weak business environment. BH, ranked 131st out of 185 economies worldwide on the Doing
+Business index, is the worst-ranked country in Southeast Europe. Businesses face a large
+bureaucratic burden, complex governance structures, overlapping provisions between different
+levels of government and lack of transparency and consistent enforcement.
+29.
+External and internal risks threaten the macroeconomic outlook. Since the outlook
+assumes sufficient recovery in Europe for BH to see continued export growth, external risks are
+related to deterioration in the European economy and a potential rise in interest rates due to
+monetary policy tightening in the US and EU. The EU countries remain BH’s largest trading
+partners, hence an anemic recovery of the Eurozone would have a negative effect on BH’s
+economic outlook through a number of channels: a reversal of the increase in exports seen in the
+3
+
+The authorities entered into a 24 month Stand-By Arrangement (SBA) with the IMF in September 2012. On Jan 31, 2014, the
+SBA was extended by nine months and five days, increasing access by SDR 135.28 million to meet additional financing needs
+expected to arise mainly in late 2014.
+
+4
+
+This estimate was prepared prior to the 2014 floods; growth projections will be updated once the damage and loss
+assessment is completed.
+
+6
+
+first half of 2013; a potential reduction of remittances; and a potential decrease of capital flows.
+The Bank is adjusting its support to help address some of these risks by supporting alignment to
+relevant EU systems, including EU inspections systems for export promotion. In addition, as
+liquidity conditions tighten in the US and, eventually, the EU, interest rates could increase,
+making it more challenging for the entities to raise financing through short-term debt. Internal
+risks are posed primarily by the challenges of reconstruction following the devastating floods
+and by domestic politics. BH’s political environment presents a tough background for reforms;
+the October 2014 general elections are likely the single largest risk for implementation of
+planned reforms. To address these risks, the Bank Group is ramping up stakeholder engagement
+across entities and political parties. Also, financial sector vulnerabilities, including the high level
+of NPLs and lack of an adequate regulatory framework, persist. The Bank is paying greater
+attention to the financial sector through increased monitoring and analysis as well as technical
+assistance to the Financial Stability Unit of the Central Bank.
+30.
+BH will no longer have access to IDA funding at the end of this IDA replenishment.
+The last IDA resources will be delivered this fiscal year. This is a complex milestone with
+important implications as the country has extremely limited access to international capital
+markets. The country is facing a notable financing gap in the medium term, and the cost of filling
+that gap will rise as the country’s access to concessional financing ends. Access to IBRD
+resources will be consistent with a strong and continued lending program after graduation from
+IDA, in line with the country’s performance and IBRD capacity.
+Table 1. Key economic indicators for Bosnia and Herzegovina
+2011
+GDP Growth
+Inflation
+Unemployment rate
+Consumption
+Gross capital formation
+National Savings
+Saving-Investment balance
+
+1.0
+3.7
+27.6
+108.7
+15.7
+6.8
+-8.9
+
+2012
+
+2013
+2014
+Est.
+-1.1
+0.8
+2.0
+2.0
+0.3
+1.1
+28.0
+28.0
+…
+in percent of GDP
+108.6
+106.2
+106.4
+16.0
+16.6
+16.3
+6.3
+8.6
+8.7
+-9.7
+-8.0
+-7.6
+
+2015
+Proj.
+3.5
+1.5
+…
+
+2016
+
+105.4
+16.4
+9.4
+-7.0
+
+104.6
+16.2
+10.1
+-6.1
+
+4.0
+1.9
+…
+
+Fiscal Sector
+Revenue
+Expenditure
+Fiscal Balance
+Public debt
+
+46.1
+48.9
+-2.9
+40.5
+
+46.3
+49.0
+-2.7
+45.1
+
+45.9
+48.1
+-2.2
+44.9
+
+46.2
+47.5
+-1.4
+42.8
+
+45.7
+47.0
+-1.3
+40.2
+
+45.7
+46.5
+-0.8
+37.4
+
+External sector
+Current Account Balances
+External Debt
+FDI (Net)
+Gross Official reserves (in months of imports)
+
+-9.9
+49.1
+2.1
+5.4
+
+-9.7
+52.4
+3.4
+5.4
+
+-7.9
+53.0
+2.8
+5.2
+
+-7.6
+53.9
+2.3
+5.1
+
+-7.0
+52.4
+2.3
+4.9
+
+-6.2
+49.5
+2.3
+4.6
+
+Social Developments
+31.
+Living standards were rising and poverty declining prior to the 2008 crisis, but past
+gains likely were eroded since. The period 2004-2007 was marked by strong GDP growth
+averaging 6 percent per annum. Headcount poverty--measured as the fraction of the population
+7
+
+with incomes below BAM 205 per person per month—was 14 percent in 2007, almost 4
+percentage points less than in 2004. Poverty was assessed to be primarily rural, with rural
+poverty twice as high as that in urban areas, and three out of four poor people living in rural
+areas.5 Although poverty estimates are not yet available post 2007, empirical simulations suggest
+that the GDP decline over the last years has led to a rise in poverty. Data restrictions currently
+prevent the estimation of a shared prosperity indicator for BH.6
+32.
+Widespread poverty and high unemployment triggered massive protests throughout
+the country in February 2014. The protests quickly spread from Tuzla, once the industrial
+center of the country, to main cities across BH. Initially violent, they continued more peacefully
+afterwards with protesters demanding new and accountable governments, jobs, fight against
+corruption, and social equality.
+33.
+BH has made significant progress in promoting gender equality, yet gender gaps
+remain particularly in access to economic opportunities and agency. Significant gender gaps
+persist in labor markets, with low female labor force participation rates (32.5 percent in 2013)
+and lasting gender wage gaps. Moreover, gender inequalities in agency also exist in the country,
+with relatively fewer women than men participating in politics and leadership positions.
+Although data are limited, the high incidence of domestic violence is also a source of concern.
+Annex 5 and Box 1 (below) present more details on the gender situation in BH.
+Box 1: Gender issues are being integrated into the Bosnia and Herzegovina program
+The World Bank Group program in BH proactively mainstreams gender issues to address existing inequalities.
+First, for all projects in the pipeline, gender issues are being considered and included from the early stages. For
+example, the recently approved (FY13 Q2) Real Estate Registration Project includes raising public awareness of
+legal rights of women and producing sex-disaggregated data on real estate ownership to narrow gender gaps in
+women’s access to assets.
+Second, the gender dimension is also being actively incorporated in selected projects in the portfolio. The ongoing
+Irrigation Development Project is strengthening its gender dimension through (i) a project desk review to identify
+opportunities to address gender inequalities, and (ii) engaging in discussions with the Project Implementation Unit
+and relevant key stakeholders, together with a gender specialist, to identify, address and raise awareness on gender
+challenges in the project area. Furthermore, in the context of the Real Estate Registration project, the Bank
+organized (with grant funds from the Umbrella Facility for Gender Equality of the World Bank) a regional
+leadership training for key Government and non-Government stakeholders in the Western Balkans on land and
+gender issues, including those from BH. The objective of the training was to promote practical and proactive sector
+reform initiatives to modify attitudes, norms, and systems in order to facilitate women’s land acquisition and full
+utilization of land and property rights.
+Finally, BH will benefit from analytic and advisory activities with important gender components, including
+analytical work on employment and job creation, the existing regional program on poverty, the Gender Monitoring
+in the Western Balkans program and the activities under the recently approved Trust Fund “Promoting Gender
+Equality in the Western Balkans” with support from the Swiss Agency for Development and Cooperation and with
+a focus on women’s access to economic opportunities.
+
+5
+6
+
+As per the 2009 Poverty Update.
+Due to restrictions in data access, available poverty estimates are only available up to 2007. However, a recently signed MoU with the statistics
+offices is paving the way to providing more updated poverty and shared prosperity numbers and analyses.
+
+8
+
+III. CPS PROGRESS, IMPLEMENTATION AND ADJUSTMENTS
+
+A.
+
+CPS IMPLEMENTATION PROGRESS TO DATE
+
+34.
+Progress towards CPS outcomes has been satisfactory for the competitiveness and
+environmental sustainability pillars but less so for the social inclusion pillar. The CPS has
+been flexible to accommodate changing client demand and political cohesion. As a result, out of
+the original CPS outcomes for Pillar 1, two (Improved commercial use of the Sava river corridor
+and Improved confidence in the financial statements of business entities, including SMEs, by
+using accounting standards adapted to their size) were dropped and three revised. The two
+outcomes were dropped because associated Bank programs were not pursued. Two new
+outcomes were added to reflect the increased focus on business climate reforms. Of the ten
+outcomes now included in Pillar 1, three have been fully or partially achieved and the remainder
+are on track to achieve expected results by end-FY15. For Pillar II, the planned outcome of fiscal
+savings equal to 1.8 percent of GDP through improved targeting of social and veteran benefits
+was dropped because the programmatic Public Expenditure (PE) DPO series, which was the
+cornerstone of this pillar, was terminated due to lack of commitment of the entity governments to
+implement the reforms. The other three outcomes under this pillar are on track to achieve
+expected results by end-FY15. For Pillar III, of the three outcomes, one has already been fully
+achieved, while two are on track to be achieved by the end of the CPS period.
+Pillar I – Competitiveness
+35.
+The Bank Group’s program was effective in enhancing competitiveness and
+contributing to job creation. The program was anchored in analytical work on competitiveness
+carried out during the previous CPS (see Annex 3). IDA investments in road infrastructure, in
+partnership with EBRD and EIB, rehabilitated 220 km of roads and helped reduce user costs by
+almost 18% in the FBiH and by 10.5% in the RS, which exceeded the target of 10%. IBRD
+financing enhanced access to capital for small and medium enterprises (SMEs) during the
+financial crisis. The original loan of $70 million was fully disbursed in 2011 and 2012, and 110
+SMEs received loans from participating commercial banks. It is estimated that these loans helped
+sustain 4,000 jobs and create 1,120 new jobs. Additional IBRD financing of $120 million was
+approved in response to the government’s request for continued intervention in improving access
+to financing for SMEs. To complement the countercyclical IDA and IBRD crisis response, the
+IFC invested $40 million to support capacity expansion and energy efficiency improvements of
+the largest producer of glass, soda ash, and related chemicals in the country, and to support a
+local company exporting precision tools for the automotive, electrical and ski industries.
+36.
+Efficient registration of real estate helped develop transparent land markets.
+Property registration transactions, which used to take several months to complete, are now
+completed in one day in larger urban centers thanks to the IDA-financed Land Registration
+Project. The project also helped reduce the backlog of pending cases from 80,000 in 2006 to
+18,200 in 2012.
+37.
+IFC focused on reducing costs and risks of doing business through improving the
+business environment and investment climate. IFC is helping the BH authorities to adopt a
+new and modern law on FDI that would simplify export-import procedures and is expected to
+yield significant savings for businesses. IFC assisted local governments to simplify over 800
+business related permits and licenses, resulting in over $40 million in private sector savings.
+9
+
+Going forward, IFC will continue to provide advisory services in the key areas related to
+investment climate improvements. With financial support from a Swedish grant, IFC and IBRD
+will jointly work to help with streamlining and reorganization of the inspection functions,
+processes and legislation in accordance with EU requirements.
+38.
+The Bank demonstrated flexibility and restructured the Agriculture and Rural
+Development project in response to an urgent need to assist farmers in flooded areas. That
+assistance included provision of seedlings and greenhouses, as well as investments in rural
+infrastructure. Competitiveness of the agriculture sector will be further improved through
+investments in irrigation systems that will be financed by IDA. With IFC’s assistance, state level
+institutions adopted the Food Labeling Rulebook, which is expected to facilitate local food
+producers’ access to the EU market. Given that poverty in BH is primarily rural, these
+interventions are expected to contribute to the government’s efforts to increase economic
+opportunities for the poorest 40% of the population.
+39.
+In the infrastructure sectors, IFC’s objective is to increase private sector
+participation by mobilizing private investments and the granting of long-term concessions.
+IFC is the lead advisor helping the FBiH Government to attract private investments through a
+public-private partnership (PPP) transaction for a 40 km section of the country’s 5c highway
+corridor, part of the Pan-European transport corridor. The project is expected to attract EUR350
+million worth of investment. Also, IFC supported entity governments in drafting 18 pieces of
+legislation aimed at unlocking a renewable energy market worth EUR900 million (660 MW total
+capacity); from among these, the governments have already adopted four critical laws.
+40.
+In the financial sector, IFC has signed a Trade Finance Line with a foreign bank, to
+enhance its ability to provide export finance, thus contributing to export growth. IFC will
+continue working with financial intermediaries to provide better access to finance for the private
+sector, and especially for micro, small and medium enterprises. With IFC’s assistance, three
+leading microfinance institutions were certified to adhere to the highest standards in client
+protection in the microfinance industry (SMART campaign). IFC recently partnered with eight
+municipalities to support debt counseling to over-indebted individuals or small businesses,
+mainly clients of microcredit institutions.
+Pillar II – Social Inclusion
+41.
+Guided by the Bank’s analytic work on poverty and social assistance,7 which was
+reinforced by the conclusions of the Public Expenditure and Institutional Review (PEIR) in
+2012, the CPS greatly focused on enhancing the quality and efficiency of public spending.
+Following the global financial crisis, in 2010 the Bank launched a programmatic Public
+Expenditure DPO series. While DPO I ($111 million) was disbursed in 2010 after the authorities
+successfully legislated reforms of cash transfers, the Bank dropped DPOs II and III as structural
+reforms stalled in 2012, with entity governments stating that they no longer enjoyed the political
+and social support needed to undertake the reforms. In contrast, businesses and governments in
+both entities as well as the State government expressed support for investment climate reforms to
+enhance growth and create jobs.
+
+7
+
+Policy note on Social Assistance Transfers in BH – Moving Toward a More Sustainable and Better-Targeted Safety Net – April
+2009; and Protecting the Poor during the Global Crisis – Poverty Update – December 2009.
+
+10
+
+42.
+As a result, the Bank shifted towards greater support for Pillar I activities through
+business environment reforms, and scaled down the associated Pillar II lending. The Bank
+Group initiated a new DPO to support post-crisis growth through improvements in the business
+environment and investment climate. This growth-oriented reform program is deemed less
+politically and socially controversial than the earlier fiscal consolidation reforms.
+43.
+Nevertheless, the Bank has maintained a policy dialogue with BH counterparts on
+public spending and fiscal matters. Technical assistance on pensions and planned technical
+assistance on public health financing stem directly from the PEIR recommendations. As a result,
+the FBiH recently adopted a new pension strategy. In addition, through the debt management
+technical assistance, the Bank is supporting prioritization and production of a coordinated plan of
+action to strengthen debt management practices.
+44.
+The Social Safety Net and Employment Support Project has been effective in
+extending job brokerage for vulnerable job seekers. The project achieved the objective of
+extending job-brokerage services to 10,000 active job seekers among hard-to-employ categories
+(disabled, long-term unemployed etc). Furthermore, policy dialogue contributed to adoption of
+the new law on social protection in RS aimed at improvement of targeting of social benefits in
+this entity. Finally, ongoing technical assistance on options to improve poverty targeting criteria
+for social assistance programs will be incorporated in the new social assistance legislation which
+is planned to be introduced in FBiH during 2014-2015. Social assistance targeting in RS is also
+expected to benefit from incorporation of additional poverty indicators.
+45.
+IDA financing is proving effective in enhancing health system efficiency through
+strengthening of primary health care along the family medicine model. Population coverage
+through family medicine teams reached 1.25 million in FBiH and 1.03 million in RS, well on
+track to meeting the targets of 1.5 million and 1.25 million respectively, or 70 percent coverage
+of the population by the end of 2014. Given the demographic and epidemiological profile of the
+population in BH these are critical elements to increase shared prosperity by improving the
+health status of the population and contributing to reducing out-of-pocket expenditures on health.
+Pillar III - Environmental Sustainability
+46.
+Bank support is helping to reduce pollution from municipal sources into the Neretva
+and Bosna rivers and consequently the Adriatic Sea and Danube basins. Bank support
+strengthened water management through already-completed rehabilitation of the waste water
+treatment plants in four sites. Rehabilitation of a fifth plant is underway, while rehabilitation of
+two more plants is expected to be completed during FY14-15. In partnership with the EU, IBRD
+will significantly upgrade waste water infrastructure in Sarajevo, thus reducing pollution of the
+Bosna River from the country’s biggest urban center.
+47.
+Coverage of protected forest and mountain areas has increased. The GEF Forest and
+Mountain Protected Areas project expanded the protected area to 5.5 percent or 280,921 ha,
+exceeding the goal of 3 percent or 140,000 ha coverage by the end of the project in FY14.
+B.
+
+PORTFOLIO PERFORMANCE AND PARTNERSHIPS
+
+48.
+After a strong performance of the Bank’s investment portfolio in FY12, continued
+political stalemate negatively affected overall portfolio performance in FY13. The Bank’s active
+portfolio currently consists of 12 investment operations with commitments totaling
+11
+
+$454.6 million (IDA – $184.1 million; IBRD – $250 million; GEF grants – $14.5 million). In
+addition, the active recipient-executed trust fund portfolio amounts to $33 million. The period
+FY10-FY12 saw a healthy portfolio and strong disbursement performance. However, FY13 was
+marked by a slowdown of project implementation. The political situation delayed effectiveness
+of recently-approved projects (Irrigation Development Project, Real Estate Registration, and
+Additional Financing for Enhancing SME Access to Financing) which in turn impinged on
+overall disbursement performance. Portfolio performance is expected to improve in FY14 as
+recent restructurings start to bear results, and implementation of larger projects is accelerated.
+The disbursement ratio for FY14 is currently projected to reach 22 percent. IFC’s portfolio
+currently stands at $123.8 million, with 11 projects. Due to the complex political environment
+and high country risk profile, new foreign and domestic investments remain limited.
+49.
+The Bank has developed strong collaboration with partners, in particular the
+European Commission. Trust funds (TFs) are integrated with the Bank Group strategy and
+complement projects in areas such as environment, transport and investment climate (see Annex
+2). The EU approved a total of about $39 million of IPA resources, $19 million of which are
+effective and under implementation, as co-financing or additional financing for five Banksupported investment projects in environment and transport. Three SIDA TFs totaling about
+$13.7 million complement the Bank’s efforts in improving water management, agriculture and
+rural development, as well as the investment climate. The Swiss Development Cooperation is the
+key partner for the new program on risk factors awareness. USAID and UNDP have collaborated
+in the preparation of the Energy Efficiency Project. Furthermore, the IMF has been a key partner
+in structural reforms in the social sector, which were central to the IMF’s stabilization program.
+C.
+
+ADJUSTMENTS TO THE CPS PROGRAM AND STRATEGY GOING FORWARD
+
+50.
+A flexible CPS has been essential given BH’s difficult political economy and
+changing external environment. Flexibility has enhanced responsiveness to client demand,
+facilitating program scale-up in relevant areas and allowing the Bank Group to strategically shift
+support to areas most conducive to reform. In the wake of the Eurozone crisis, the Bank’s
+additional support to enhance SMEs’ access to financing augured a strategic shift toward private
+sector development. When political will to engage in sensitive public expenditure reforms
+proved insufficient and the Bank cancelled the originally-envisaged Public Expenditure DPO
+series ($200 million), the Bank Group responded flexibly by developing a new Business
+Environment DPO ($50 million). Indeed, the main shift in the Bank Group strategy since its
+inception has been to increase focus on Pillar 1 activities related to competitiveness and
+improvements in the business environment, and concomitantly reduce lending associated
+with fiscal reforms under Pillar 2. To respond to the flood emergency, support is being
+prepared rapidly to enable the country to access resources through IDA’s Crisis Response
+Window prior to BH’s graduation.8 In addition, the portfolio is being reviewed to identify
+projects that can be restructured to redirect resources to flood response if needed.
+51.
+In response to changing client demand, most recently, the Bank cancelled the
+proposed IDA credit for the Sava Waterway Rehabilitation Project after the governments
+failed to reach agreement over institutional arrangements. The remaining IDA resources have
+8
+
+The proposed project would finance inter alia energy and power sector goods such as petroleum and fuel products
+necessary for continuous operation of the thermal electricity generation plants.
+
+12
+
+been used for the Drina River Basin flood preparedness project, which was advanced into FY14.
+All available IDA funds will be fully committed, reaching $187 million (including the
+emergency project), by end-FY14. In addition, IBRD lending may reach $218 million upon
+delivery of the new DPO in FY15 and a possible additional $48 million operation in FY15 (see
+para. 50), consistent with the original planned CPS lending envelope. The original CPS Results
+Matrix has been revised to reflect all past program adjustments as well as planned adjustments
+for FY14 and FY15 (Annex 1).
+52.
+The Bank Group will continue to take a flexible approach, reflecting political
+commitment for specific reform programs and the adjusted strategy for FY14-15; this
+approach also allows for rapid response to the flood emergency. Access to IBRD resources
+will be consistent with a strong and continued lending program after graduation from IDA that
+will help Government maintain capital spending and pursue a limited structural reform agenda.
+Table 2. Revised CPS Lending Program, FY12-15
+ORIGINAL CPS LENDING PROGRAM (US$ m)
+IDA
+IBRD Total
+Country Regional
+
+REVISED CPS LENDING PROGRAM (US$ m)
+IDA
+
+IBRD
+
+GEF
+
+Total
+
+FY12 – FY13
+DPO II
+Irrigation Development
+CRIF
+Real Estate Registration
+Sava Waterway Rehab
+DPO III
+FY12 - FY13 Total
+
+Enhancing SME Access AF
+Irrigation Development
+
+100
+40
+2
+30
+16
+
+15
+
+88
+
+18
+
+120
+40
+
+3
+
+100
+200
+
+306
+
+Real Estate Registration
+
+34.1
+
+FY12 - FY13 Total
+
+74.1
+
+120
+
+194.1
+
+FY14 - FY15
+Sector Investment
+Regional Flood Control
+
+42
+
+FY14-FY15 Total
+
+42
+
+TOTAL IDA and IBRD
+
+130
+
+42
+
+18
+
+200
+
+Energy Efficiency
+Drina Flood Control
+Emergency Flood Response
+DPO
+Competitiveness and Jobs
+(high case)
+Sustainable Forest and
+Landscape Management
+Adriatic Sea GEF
+FY14-FY15 Total
+
+348
+
+TOTAL IDA and IBRD
+OVERALL TOTAL
+*Total lending does not include the GEF operations (US$8.0 million)
+
+32
+24
+57
+50
+48
+5.6
+2.4
+113
+
+98
+
+211
+
+187.1
+
+218
+
+405.1*
+
+53.
+In FY14 the CPS program has focused on delivering remaining IDA through the
+Environmental Sustainability Pillar. IDA financing will support improvements in energy
+efficiency and improvements of flood preparedness along the Drina River Basin. The Energy
+Efficiency project (FY14 Q3) will demonstrate the benefits of energy efficiency improvements in
+public sector buildings in the education and healthcare sectors and support the development of
+scalable energy efficiency financing models. The Drina flood preparedness project will provide
+increased protection from flood events to agricultural and commercial interests and communities
+in project areas, increasing resilience to recurring floods and mitigating the catastrophic impact
+of such floods, especially for the poorest. Finally, the GEF will also support two more projects in
+FY14: Sustainable Forest Management - $5.6 million (FY14 Q3) and the proposed Adriatic Sea
+Environmental Pollution Control - $2.44 million. A proposed $57 million IDA emergency flood
+13
+
+response operation is under preparation, to access IDA’s Crisis Response Window before BH’s
+graduation at end-FY14. The ongoing needs assessment will inform the exact credit amount.
+54.
+The Bank Group will pursue a more comprehensive approach to competitiveness
+and job creation in FY15, supporting a greater focus on shared prosperity. IBRD financing
+will support business environment and investment climate reforms through the Business
+Environment DPO, facilitating business start-up, streamlining investment procedures in
+inspections and construction, and simplifying cross-border trading processes. Depending on the
+outcome, a further $48 million of IBRD resources could be used, consistent with the CPS
+objectives, to develop a more comprehensive approach to increasing competitiveness of the
+economy, strengthening public finances (including public debt management) and enhancing job
+creation. If the appetite for further reform in this area is weak, Bank support could be re-directed
+toward priority investment projects such as reforming the health sector or improving the quality
+of the road network. Political fragmentation and upcoming elections may prohibit the entities
+from agreeing on a coherent reform program or identifying a priority investment operation to be
+supported by IBRD resources. In that case, absorption of IBRD resources may fall below this
+projection.
+55.
+The Joint IBRD/IFC Business Plan (JBP) for BH, prepared in early 2013, focuses on
+the competitiveness pillar of the CPS while recognizing the complex and challenging
+environment. The JBP focuses on policies and programs for SMEs as an area of high client
+demand, shared WBG interest and often joint interventions. The JBP recognizes that BH has one
+of the most unfavorable business environments in the region, along with complex government
+structures, yet also desires to seek to create a single economic space. Progress has been
+exceptional in the short time since the JBP’s preparation. Working hand-in-hand, combined
+IBRD and IFC teams initiated the joint Business Environment DPO. IBRD led on the scope of
+structural reforms and dialogue, while IFC provided technical advice in reform implementation
+and country analytics, along with established stakeholder relations. Going forward, this joint
+approach will continue to inform a more comprehensive approach to competitiveness and job
+creation.
+56.
+The key medium-term development challenges in BH are likely to remain:
+(i) improving the business environment and the overall competitiveness of the economy;
+(ii) fostering social inclusion and increasing the pace of job creation; and (iii) maintaining
+macroeconomic stability, including through strengthening of public financial management.
+During the second half of the CPS cycle and in preparation for the new Country Partnership
+Framework, the Bank will engage in policy dialogue with the authorities to ensure that the new
+program remains firmly anchored in poverty reduction and shared prosperity, with a strong focus
+on income growth and welfare of the poorest 40 percent of the population. This policy dialogue
+will be underpinned by the findings of previous and forthcoming analytic and knowledge work
+conducted by the Bank in BH and the Western Balkans.
+57.
+Analytic and knowledge services in the second half of the CPS period will provide
+an important diagnostic foundation for preparing the upcoming FY16-19 Country
+Partnership Framework (CPF) in alignment with the twin goals of eliminating extreme
+poverty and enhancing shared prosperity. The Western Balkans Poverty Assessment provides
+for regular monitoring of key poverty and inclusion indicators and statistical support and
+capacity strengthening, and will address knowledge gaps on poverty and distributional issues,
+particularly as they relate to Bank-supported reforms and projects. The Regional Activation and
+Smart Safety Nets programmatic analytical work will provide technical support for labor force
+14
+
+participation and social safety net reforms. The Western Balkans Jobs Challenges is intended to
+identify the main labor market incentives, determine policy priorities and discuss policies to
+improve labor market outcomes. The Public Expenditure and Financial Accountability (PEFA)
+Assessment provided a systematic overview of the status of public financial management and
+quantitative key budget performance indicators. This report represented a new platform for a
+number of PFM policies and its findings can significantly advance the Bank’s and donor policy
+dialogue in the country. Building on the extensive work on debt management at both the entity
+and state levels, the Bank continues to support the authorities in improving debt monitoring and
+strategy. Through the Western Balkans Regional Research & Development Strategy for
+Innovation Technical Assistance the Bank will help Western Balkan countries, including BH, to
+identify funding instruments for the implementation of their R&D action plans. The Western
+Balkans Financial Sector Outlook will continue to provide a semi-annual analysis of key
+vulnerabilities of the financial sectors in the region, together with recommendations to mitigate
+them. Finally, the new regional Deep Dive: Turn Down the Heat will feature the Western
+Balkans, and will help develop country-specific assessments and recommendations to help BH
+better prepare itself for extreme climate and possible future natural hazards. Annex 3 summarizes
+planned and actual delivery of analytic and knowledge services for the CPS period. For IFC
+specifically, Bosnia and Herzegovina will remain on the list of Fragile and Conflict Affected
+countries, and as such a priority country to support increased investment in selected sectors and
+balanced advisory support. Special FCS approval protocol for investments up to $10 million has
+been activated.
+
+IV. RISKS
+
+58.
+General elections scheduled for October 2014 will further affect the environment for
+reforms. The governments are unlikely to pursue substantial reforms as parties start positioning
+for elections. Therefore there is a risk to the Bank Group program, particularly the proposed
+DPO in FY15, should political instability increase and the country fail to meet all prior actions
+and/or the IMF SBA targets. In this case the Bank will pursue investment lending in niche areas
+where the government has a clear commitment to narrower sectoral reforms (see para. 50).
+59.
+Portfolio implementation risks will remain. The Bank’s program will continue to face
+implementation obstacles as a result of complex political processes. This risk may be augmented
+after the election due to possible delays in formation of the state and entity level executives.
+While issues such as effectiveness delays are not completely within the Bank’s control, the Bank
+will continue to work closely with project units and governments to mitigate this risk by
+preparing procurement packages so that contracting can start immediately upon effectiveness.
+The recent flood disaster may bring additional challenges to portfolio implementation as
+government attention is diverted to address the impact of the floods; overall government capacity
+may be further weakened. To help address this issue in the context of the flood support, the Bank
+will work with existing Project Implementation Units that have demonstrated capacity and are
+well-versed in Bank procedures. More generally, the Bank will continue to work closely with
+project teams and counterparts and to provide training as needed. The Bank will also continue its
+collaboration with key development partners, in particular EU institutions.
+
+15
+
+ANNEX 1: RESULTS MATRIX
+
+Original CPS Outcomes
+
+Revised and new CPS Outcomes
+
+Progress to date
+
+CPS Instruments and
+Partners
+
+Pillar I - Competitiveness: Support economic growth by tackling some of the bottlenecks to competitiveness and faster productivity growth
+Transparent land markets developed
+through registration of real estate
+rights, and complementary policies that
+enable transactions to be made with
+security and efficiency
+
+Original CPS outcome remains valid
+
+Baseline (2010): Backlog of 80,000 cases
+and several months (on average) to
+complete transactions (2010)
+Target (2011): Almost no case backlog
+and transactions completed in one day for
+95% of cases. Target (2014) in case of a
+follow up project: further improved
+transparency and efficiency by making
+the integrated registration and cadastre
+information available online nationwide.
+
+Partially achieved. Backlog of cases
+was substantially reduced although a
+backlog of 18,200 remains in the
+Federation of Bosnia and Herzegonia
+(FBiH). Transactions completed within
+one day for 53% of cases in Republika
+Srpska (RS), and 39% of cases in the
+FBiH. Goal of data entered into
+automated database for 1.6 million
+folders was exceeded as 1,609,202
+folders were completed by June 2012.
+
+Closed projects: Land
+Registration Project
+(P096200)
+Current portfolio: Real
+Estate Registration Project
+(P128950)
+AAA: Public Expenditure
+and Institutional Review
+(FY12 delivered);
+Partners: SIDA
+
+New CPS Outcome: further improved
+transparency and efficiency of real estate
+registration by making the integrated
+registration and cadaster information
+available online nationwide
+Baseline (2013): no cadaster records
+available online.
+Target (2015): 20% of cadaster records
+available online. By 2018, 100% of
+cadaster records available online.
+
+16
+
+Results are expected during the second
+half of the CPS cycle.
+
+Improved investment climate by: a)
+reducing costs and risks of businesses
+by improving inspection services,
+business operations and exit processes;
+b) improving the information and data
+exchange system among institutions in
+BH in order to comply with respective
+EU processes, and c) enabling capacity
+building within institutions
+Baseline (2011): 12 procedures, 23-40
+days to register a business in BH.
+Target (2015): Reduction in time and
+procedures to commence operations in
+BH for 10%, and improvement of
+investment climate through reformed
+inspection services and information
+exchange
+
+Revised CPS outcome: Improved
+investment climate by strengthening
+inspections systems in the country,
+indicated by establishing the
+Interoperability Information System
+enabling electronic data exchange
+between relevant institutions:
+
+Results are expected during the second
+half of the CPS cycle.
+
+Current portfolio: IFC
+Advisory Services; SIDA
+TF011205 Investment
+Climate.
+
+Partners: SIDA, SECO,
+Austrian Government
+
+Baseline: (2013): no Interoperability
+Information System exists
+Target: (2015): Interoperability
+Information System 80% completed
+Revised CPS outcome: Improved
+business environment by reducing the
+cost and time for business registration:
+
+Results are expected during the second
+half of the CPS cycle.
+
+Baseline (2013): RS - cost - KM 1,500,
+time - 23 days. FBiH – cost - 1,021 KM,
+time - 40 days.
+Target (2015): RS - cost - KM 750, time
+- 11 days; FBiH - cost KM500,
+time 20 days
+New CPS Outcome: Efficient and
+effective inspections regime created
+through enactment of the new inspections
+law (FBiH) and process of obtaining
+construction permits improved through
+enactment of the Law on construction
+(RS).
+Baseline (2013): FBiH – average number
+of certificates issued per day is 311.
+Direct costs for business, based on
+frequency of visits, is KM 9 million. RS –
+time required for individual permits on
+average 45 days. Direct and indirect costs
+
+17
+
+Results are expected during the second
+half of the CPS cycle.
+
+New financing: Business
+Environment DPO under
+preparation for delivery by
+early FY15.
+
+related to obtaining all construction
+related permits estimated at KM 180
+million annually, based on actual
+frequency of requested permits in all
+cities and municipalities in the RS.
+
+Enhance access to finance for SMEs in
+the context of the global financial crisis
+Baseline (2010): lending under the
+Enhancing SME Access to Financing
+project by participating financial
+institutions to SMEs - 0 US$
+
+Target (2015): FBiH – effectiveness of
+certificate issuance increased by 15%
+Direct costs for businesses based on
+frequency of visits is reduced by 10%
+after introduction of risk based
+inspections. RS – time to obtain
+construction permits is up to 15 days. KM
+17 million annual direct and indirect
+savings for businesses.
+Revised CPS outcome: Enhanced access
+to finance for SMEs in the context of the
+global financial crisis; indicated by the
+total amount of loans disbursed by
+participating financial institutions under
+the SME additional financing project.
+Baseline (2010): US$0
+
+Target (2014): US$ 70 million
+
+Current portfolio:
+Enhancing SME Access to
+Finance
+(P111780); IFC
+investments in MFIs.
+IFC’s Microfinance
+Advisory Project
+AAA: Western Balkan
+Financial Sector Outlook –
+delivered in FY13;
+Consumer Protection TA –
+delivered in FY13. PEFA;
+Western Balkans Regional
+R&D Strategy for
+Innovation.
+
+Milestone: (2012): US$ 64.9m
+Target (2015): US$ 154 million.
+
+Improved confidence in the financial
+statements of business entities,
+including SMEs, will enhance access to
+finance and alleviate the administrative
+burden on SMEs by using accounting
+standards adapted to their size
+
+On track. US$ 64.0 million of funding
+had reached the SMEs by 2012. 110
+SMEs received loans from participating
+commercial banks. It is estimated that
+these loans helped sustain 4,000 jobs,
+while creating 1,120 new jobs.
+
+Partners: EBRD, EC,
+ADA, SECO, Government
+of Luxembourg
+National REPARIS (The Road to Europe: Program of Accounting
+Reform and Institutional Strengthening) - TA was dropped as planned
+EU financial support for the activity was not provided.
+
+Dropped
+
+18
+
+Baseline (2010): Partial implementation
+of the EU acquis communautaire as it
+relates to corporate financial reporting.
+Uneven application of international
+standards for financial reporting.
+Target (2015): Better implementation
+and application of the EU acquis and
+international standards.
+Stronger State and Entity institutions
+deliver more efficient and effective
+agricultural services.
+
+Original CPS outcome and baseline
+values remain valid.
+
+Baseline (2010): Lack of adequate farm
+and client livestock registers necessary for
+tracking of direct payments and tracking
+of livestock movement. Lack of effective
+demand driven extension services.
+Regulatory framework under
+development by the Food Safety Agency,
+Agency for Plant Health Protection, and
+the State Veterinary Office to
+operationalize registries, and inspections
+services. Capacity building at
+laboratories under way. Draft extension
+strategies in both entities completed.
+Drafts lack strategic vision to develop
+sustainable system.
+Target (2012): 50% of holdings
+registered in central farm and client
+registry; 70% of large livestock registered
+in the national register. 60% of regulatory
+framework approved by the Council of
+Ministers.
+
+Revised target (2015): food safety 100% of holdings registered in identical
+Entity based farm and client registry.
+100% of large livestock, small ruminants
+and pigs registered in the animal registry
+with accurate data as confirmed by field
+checks of 10% of stock. Phyto-register
+operational. 80% of regulatory
+framework compliant with EU and
+
+19
+
+On track (food safety): Farm and client
+register operational in both Entities. RS
+to upload data in harmonized register.
+State Veterinary Office operationalizing
+National Livestock registry for large
+livestock, small ruminants and pigs 50%
+achieved. Residues laboratory testing
+capacity under development. Food
+Safety Agency with State Veterinary
+Office developed hygiene package
+adopted by the Council of Ministers.
+Agency for Plant Health Protection
+established digital phyto-register with
+multiple modules and completed border
+pest inspection manual. State Food
+Safety regulatory framework
+substantially developed, in process of
+harmonization with Entity inspection
+services. Food Safety Agency
+increasingly assuming its risk
+assessment capacity role in line with
+recent amendments to food safety
+legislation.
+
+Current portfolio:
+Agriculture and Rural
+Development Project
+(P101213)
+Partners: SIDA, EC.
+
+approved by the Council of Ministers and
+harmonized with entity Laws for
+inspections and with clear assignment of
+responsibility for operator databases in
+both Entities.
+
+Improved performance of the
+irrigation systems and the irrigation
+institutions to support agricultural
+producers.
+
+Revised target (2015): paying system 100% of EU IPARD like payments and
+direct payments made through transparent
+paying system based on farm and client
+register data operating in both Entities.
+Ministry of Foreign Trade and Economic
+Relations has limited direct access to
+manipulate database and generates
+regular reports of agriculture payments in
+both Entities and publishes consolidated
+reports
+
+On track with delays (paying
+systems): No progress with regard to the
+establishment of a State-level single
+paying agency and authority. Both
+Entities working on establishing paying
+systems to capture both IPARD and
+Direct Payments. In 2012, 45% of the
+agricultural payments in the RS were in
+the form of structural investment
+(IPARD like). In FBiH some 10 - 30%
+of agricultural payments are made as
+structural investments. In FBiH,
+substantial progress has been made to
+strengthen programing and develop
+systems to coordinate with cantonal
+structures to harmonize payments.
+
+Original CPS outcome remains valid
+
+On track: four large civil works
+contracts for irrigation systems
+development are underway, and when
+completed incremental areas with
+improved irrigation systems will be
+approximately 3,900 ha.
+
+Baseline (2011): 0 ha with improved
+irrigation system, and no incremental
+irrigation water added; no new operations
+and maintenance agreements signed with
+water users associations, and operations
+and maintenance fee collection rate 30%
+Target (2014): 3,500 ha with improved
+irrigation system, 10 million m3 of
+incremental irrigation water added, 4 new
+operations and maintenance agreements
+
+Current portfolio:
+Irrigation Development
+Project (P115954).
+New financing: Regional
+Flood Control Project
+(FY14) – outcomes will
+not be achieved during this
+CPS cycle.
+Partners: EC, WBIF
+
+Revised target (2015): 3,900 ha with
+improved irrigation system, 10 million
+m3 of incremental irrigation water added,
+4 new operations and maintenance
+
+20
+
+signed, rate of operations and
+maintenance fee collection above 30%.
+
+agreements signed, rate of operations and
+maintenance fee collection above 30%.
+
+BH participates in the SEE energy
+market, and is meeting requirements
+for integration into the EU energy
+market
+
+Original CPS outcome remains valid
+
+Baseline (2005): electricity generation 12,800 gWh. In 2009, generation and
+export reached record levels. Regulatory
+framework for renewable energy projects
+not enacted. Twenty renewable energy
+projects developed.
+Target (2012): Equal or greater
+electricity generation. Number of laws /
+regulations /amendments enacted on
+entity level 12: (FBiH 6; RS 6). No of
+renewable energy projects implemented 60. As a result of new renewable energy
+plants – 0.5 MtCO2e/year avoided.
+Upgraded road network, and reduced
+user costs on the priority sections.
+
+Original CPS outcome remains valid
+
+Baseline (2010): the FBiH Road
+Directorate and the RS Road Directorate
+collect data on road user costs for
+rehabilitated road sections.
+
+Partially achieved. The ECSEE APL3
+project supported the government’s SEE
+and EU market integration efforts with
+successful outcomes on market
+liberalization for no-residential
+customers, environment and financial
+and management systems, as well as
+partially achieved outcomes on markets,
+distribution, generation assets and dam
+safety. In terms of electricity
+generation, target was fully achieved. In
+terms of renewable energy, IFC
+supported entity governments draft 18
+pieces of legislation. Four key laws have
+already been enacted (Decree on
+Renewable Energy Sources and
+Cogeneration, Renewable Energy Law
+RS, Law on Concessions RS, Law on
+Renewable Energy and Efficient
+Cogeneration FBiH).
+
+Closed project: ECSEE
+APL3 (P090666)
+
+Achieved. Decline in vehicle operating
+costs of 17.75 percent in the FBiH, and
+10.5 percent in the RS, compared to
+baseline values.
+
+Closed project: Road
+Infrastructure and Safety
+Project (P100792).
+
+Partners: KfW, EBRD,
+EIB
+New financing: Energy
+Efficiency - outcomes will
+not be achieved during this
+CPS cycle; IFC
+investments in renewable
+energy.
+AAA: IFC advisory
+services.
+
+AAA: IFC’s Private Public
+Partnership advisory
+mandate.
+
+Target (2012): 10% road user cost
+reduction.
+Improved commercial use of the Sava
+river corridor (Croatia, BH, and
+Serbia) in BH.
+
+Dropped
+
+Project was cancelled
+
+21
+
+Partners: EC IPA TF (EUR
+5.6 million) finances
+preparatory activities such
+as feasibility studies and
+
+Baseline (2011): sections of the river are
+not navigable.
+
+demining.
+
+Target (2017): Priority sections of the
+Sava river returned to navigability.
+
+Original CPS Outcomes
+
+Revised and new CPS Outcomes
+
+Progress to date
+
+CPS Instruments and
+Partners
+
+Pillar II - Inclusion: Improve the delivery of public services for the vulnerable and the targeting and fiscal sustainability of social benefits to the poor
+Increased share of social benefits reach
+the poorest. Fiscal savings resulting
+from reforms of cash transfers equal
+1.8% of GDP. More effective job
+brokerage services extended to the
+vulnerable active job-seekers.
+Baseline (2011): it will be established
+with the 2011 Extended Household Based
+Survey. Job-brokerage services extended
+to 1,468 vulnerable active job-seekers.
+Legal framework in place for
+implementation of means/income testing
+for non-insurance cash transfers. Bylaws
+regulating means/income thresholds need
+to be adopted.
+Target (2014): Improved targeting
+accuracy by 25%. Job-brokerage services
+extended to 10,000 vulnerable active jobseekers, 35% are employed one year after
+receiving the services. Means/income
+testing underway for selected vulnerable
+categories. Fiscal savings equal 1.8% of
+GDP.
+Reduced incidence of noncommunicable diseases through
+increased access to quality family
+
+Current portfolio: Social
+Safety Net and
+Employment Support
+Project (P116774).
+
+The target related to fiscal savings is
+dropped due to the failure of the Public
+Expenditure DPO.
+Revised CPS outcome: Increased share
+of social benefits reach the poorest.
+More effective job brokerage services
+extended to the vulnerable active jobseekers.
+Baseline (2013): Means testing of lastresort social assistance exists but
+targeting to the poorest needs to be
+improved. Job-brokerage services are
+extended to 1,468 vulnerable active jobseekers.
+
+On track. Job-brokerage services were
+extended to 10,000 vulnerable active job
+seekers. In the FBiH, 70% are employed
+one year after receiving services.
+Development of the new eligibility
+determination processes and formulae is
+underway based on EHBS 2011 survey.
+New social assistance legislation with
+comprehensive income test is adopted in
+the RS. New social assistance law is
+under preparation in the FBiH.
+
+AAA: Western Balkan
+Poverty Assessment;
+Poverty TA, Pension TA.
+Smart Social Safety Nets
+TA
+
+Target: (2015): Social assistance laws
+adopted with improved means testing of
+last-resort social assistance benefits. Jobbrokerage services extended to 10,000
+vulnerable active job-seekers by the end
+of 2014, 35% of them stay employed one
+year after receiving the services.
+Revised CPS outcome: Increase access
+to quality family medicine primary health
+care with special focus on primary and
+
+22
+
+On track. Coverage of population
+through Family Medicine (FM) teams
+reached in FBiH: 1,250,000 and in RS:
+
+Current portfolio: Health
+Sector Enhancement
+Project Additional
+
+medicine primary health care.
+Baseline (2010): about 58% of population
+covered through family medicine (FBiH:
+1,000,000; RS 1,200,147).
+Target (2014): about 70% of population
+covered (FBiH: 1,500,000; RS:
+1,250,000)
+
+Improved availability, quality,
+environmental soundness, and financial
+viability of solid waste management
+services.
+
+secondary prevention of noncommunicable diseases
+Baseline (2010): about 58% of
+population covered through family
+medicine (FBiH: 1,000,000; RS
+1,200,147).
+
+Financing (P088663)
+New Swiss TF – antitobacco
+Partners: Council of
+Europe Development
+Bank.
+
+Target (2014): about 70% of population
+covered (FBiH: 1,500,000; RS:
+1,250,000)
+Original CPS outcome remains valid
+
+Baseline (2010): 75% of households in
+targeted area not served by the formal
+waste management system. 145 of
+estimated 1,200 wild dumps closed.
+Target (2015): number of unserved
+households reduced by 50%. 25% of wild
+dumps closed.
+
+Original CPS Outcomes
+
+1,034,229. A pilot program introducing
+payment incentives for primary and
+secondary prevention of NCD under
+implementation in the FBiH.
+
+Revised and new CPS Outcomes
+
+On track. Number of unserved
+households reduced for 50,000
+equivalents to 6.5% reduction.
+Extension of regional solid waste
+management system ongoing but with
+delays. Rehabilitation of regional
+landfills ongoing in five regions. This
+will result in significant increase of
+percentage of households served by
+formal waste management system both
+in RS and FBiH.
+
+Progress to date
+
+Current portfolio: Solid
+Waste Management II
+(P107998)
+Partners: EC IPA TF grant
+financing (EUR 8 million)
+supports investments in
+Banja Luka, and Mostar,
+and will be extended to
+Bos. Krupa, Neum,
+Srebrenik and Sarajevo
+sanitary landfills. SIDA
+financing – focusing on
+collection – complements
+Bank financed activities.
+CPS Instruments and
+Partners
+
+Pillar III - Environmental Sustainability: Ensure a sustainable use of natural resources, such as water and forestry, which are key to economic growth in BH,
+and adapt to climate change. Promote the sustainable development of basic municipal services
+Reduction of the population’s exposure
+to highly polluted water from Miljacka
+and Bosna rivers, and improved waste
+water collection in the Sarajevo
+Canton.
+
+Original CPS outcome remains valid
+
+23
+
+On track. Works on the sewerage
+network in Sarajevo nearly completed.
+Contracting (supply and install)
+underway for the works on Sarajevo
+wastewater treatment plant.
+
+Current portfolio: Sarajevo
+Waste Water Project
+(P090675).
+Partners: EC IPA TF grant
+financing (EUR 8 million)
+
+Baseline (2010): 0 m3/day of waste water
+collected treated at primary level. 0
+connections rehabilitated.
+
+will close the financing
+gap identified in Sarajevo
+Waste Water project.
+EBRD financing will
+complement the Bank
+financing.
+
+Target (2014): 200,000 m3/day treated at
+primary level. 48,000 connections
+rehabilitated.
+
+Reduced pollution from municipal
+sources into the Neretva and Bosna,
+subsequently reduced pollution in the
+Adriatic sea and Danube basin, and
+more sustainable water management.
+
+AAA: Vrbas River basin
+management (P117927) –
+delivered in FY13.
+Original CPS outcome remains valid
+
+Baseline (2010): 5.5% of municipal waste
+water is treated and discharged according
+to standards. No integrated water
+management in any river.
+Target (2015): 11% of municipal
+wastewater treated in accordance with
+new water standards. Main rivers are
+covered by completed or near-completed
+frameworks for sustainable water
+management.
+
+Expanded coverage of protected forest
+
+Original CPS outcome remains valid
+
+24
+
+On track. Numeric values on the
+percentage of municipal wastewater
+treated in accordance with the net
+standards will be available by the end
+2014 once all the works are completed.
+The rehabilitation of the wastewater
+treatment plants in Trnovo, Odzak, and
+Bileca were completed and the plants
+are fully operational. A reduction in the
+level of municipal-sourced pollution of
+the Bosna river has been confirmed and
+in line with technical specifications and
+standards. The rehabilitation of the
+Zivinice wastewater treatment plant
+phase I was completed, and phase II is
+underway. Rehabilitation of the
+wastewater treatment plant in Mostar is
+underway, as well as the rehabilitation
+of the Ljubuski sewerage system.
+Progress was also made in developing
+framework for sustainable water
+management. Three key studies were
+completed: (i) a Wastewater
+Improvement Plan for reducing River
+Pollution, (ii) Biological Monitoring of
+Rivers, Lakes and Reservoirs, and (iii) a
+feasibility study on low-cost, natural
+treatment of wastewater.
+
+Current portfolio:
+Water Quality Protection GEF (P085112); Neretva
+and Trebisnjica
+Management - GEF
+(P084608).
+
+Achieved. 5.5% or 280,921ha of areas
+
+Closed project: Forest and
+
+Partners: EC IPA TF grant
+financing (EUR 1.5
+million) supports
+investments in Zivinice
+and Mostar waste water
+treatment plant. SIDA also
+co-finances waste water
+treatment plant in Zivinice
+and Mostar. EC IPA TF
+(EUR 1.9 million) will also
+support rehabilitation of
+the sewerage network in
+Ljubuski municipality.
+New financing: Regional
+Flood Control Project
+(FY14), GEF Adriatic
+(FY14) – outcomes will
+not be achieved during this
+CPS cycle.
+
+under formal protection achieved.
+
+and mountain areas, and strengthened
+institutional and technical capacity for
+their sustainable management.
+
+Mountain Protected Areas
+- GEF (P087094).
+New financing: GEF
+Sustainable Forest
+Management (FY14) outcomes will not be
+achieved during this CPS
+cycle.
+
+Baseline (2010): 2.1%, or 112,000 ha of
+areas under formal protection.
+Target (2013): 3% or 153,000 ha
+formally protected.
+
+25
+
+ANNEX 2: LIST OF ACTIVE BANK ADMINISTERED TRUST FUNDS IN BH
+
+Trust Fund #
+
+Net Grant Amount
+(thousands of USD)
+
+Trust Fund Name
+
+TF012243
+
+BiH Institutional Strengthening SIDA TF - WB
+Technical Advisory
+Bosnia and Herzegovina: Technical Assistance
+for Improving Investment Climate and
+Institutional Strengthening
+Bosnia and Herzegovina EC IPA TF for Water
+Quality Protection Project - Zivinice Water and
+Sanitation Subproject
+Bosnia and Herzegovina EU IPA CO-TF for
+Second Solid Waste Management Project,
+Mostar and Banja Luka Subprojects
+Bosnia and Herzegovina Investment Climate
+Program
+Bosnia and Herzegovina Sava Waterway
+Rehabilitation Project - Recipient Executed
+
+TF012937
+
+European Union Instrument for Pre Accession
+Trust Fund for Sarajevo Waste Water Project
+
+TF011204
+
+Donor Country
+
+Exec. By
+
+882.00
+
+Sweden
+
+Bank
+
+3,750.00
+
+Sweden
+
+Recipient
+
+1,939.15
+
+EU
+
+Recipient
+
+7,206.53
+
+EU
+
+Recipient
+
+2,515.40
+
+Sweden
+
+Bank
+
+7,311.90
+
+EU
+
+Recipient
+
+10,495.55
+
+EU
+
+Recipient
+
+279.09
+
+EU
+
+Bank
+
+TF014050
+
+SAFE BiH PEFA 2012
+Bosnia and Herzegovina #10295 Liberalizing
+MTPL Insurance Market
+
+467.37
+
+Other
+
+Bank
+
+TF014657
+
+Bosnian Road PPP
+
+600.00
+
+Austria
+
+Bank
+
+TF014890
+
+Bosnia & Herzegovina Microfinance, Phase II
+
+Switzerland
+
+Bank
+
+TF015153
+
+Other
+
+Bank
+
+TF051092
+
+Bosnia-Serbia Knowledge Exchange Grant
+EU INVESTMENT GUARANTEE TRUST
+FUND FOR BOSNIA HERZEGOVINA
+
+13,861.00
+
+EU
+
+Bank
+
+TF090773
+
+BOSNIA AND HERZEGOVINA SWEDISH
+GRANT FOR AGRICULTURE & RURAL
+DEVELOPMENT PROJECT
+
+6,444.74
+
+Sweden
+
+Recipient
+
+TF012620
+
+EC IPA TF for Ljubuski Sewage-Neretva
+Trebisnjica Project
+
+2,639.35
+
+EU
+
+Recepient
+
+TF099534
+
+SIDA CO-TF for Water Quality Protection
+Project, Mostar Water and Sanitation subproject
+
+3,455.75
+
+Sweden
+
+Recipient
+
+TF011205
+
+TF011422
+
+TF011456
+TF011484
+
+TF013095
+
+1,200.00
+49.00
+
+63,096.83
+
+Total
+
+26
+
+ANNEX 3: AAA PROGRAM AND CONTRIBUTION TO CPS PILLARS
+
+Prior to this CPS
+Investment Climate Assessment
+
+Local Governance and Service
+Delivery in Bosnia and
+Herzegovina
+
+Are Skills Constraining Growth in
+Bosnia and Herzegovina
+
+Moving Toward a More
+Sustainable and Better-Targeted
+Safety Net
+Protecting the Poor During the
+Global Crisis – Poverty Update
+The Road to Europe, Transport
+Sector Review
+
+Agricultural Sector Policy Note
+for Bosnia and Herzegovina:
+Trade and Integration Policy Note
+
+Description
+The study assessed the main obstacles that require attention
+if private sector-led growth is to become a significant
+influence in the expansion of the BH economy.
+The study analyzed the outcome of local services and found
+that: i) access to and user satisfaction with services is low;
+ii) municipalities lack resources and need to increase fiscal
+space to expand access to services; iii) service providers lack
+incentives to improve performance.
+The policy note assessed what types of skills firms are
+looking for and not finding in the marketplace. It found that
+the shortage of skills sought by key export-oriented and
+import competing industries is substantial and threatens to
+constrain future economic growth of BH.
+The policy note analyzed the level of spending on noninsurance social protection cash transfers, and the targeting
+accuracy.
+Provided an update on headcount poverty and found that
+headcount poverty declined by 4% between 2004 and 2007.
+The transport sector review provided an in-depth assessment
+of the transport sector in BH and provided recommendations
+on key policy areas that need to be addressed in the transport
+sector.
+The policy note analyzed competitiveness of the agriculture
+sector in BH and provided recommendations on policy
+actions that need to be taken to improve competitiveness of
+agribusinesses in the country.
+
+27
+
+Delivered
+FY
+
+Pillar I
+
+FY09
+
+x
+
+FY09
+
+x
+
+FY10
+
+x
+
+Pillar
+II
+
+Pillar III
+
+x
+
+x
+
+FY09
+
+x
+
+FY10
+
+x
+
+FY10
+
+x
+
+FY10
+
+x
+
+x
+
+x
+
+During CPS FY12-FY15
+
+Description
+
+The policy note started documenting the household impact
+of the financial crisis in BH, and for the first time presented
+estimates of the indicators of social exclusion.
+The report provided policy recommendations in the areas
+Public Expenditure and
+such as fiscal, pensions, public sector wages, health,
+Institutional Review: Challenges
+education, forestry and energy.
+and Directions for Reform
+The study evaluated different options of developing water
+Integrated Water-Energy
+resources and hydro-energetic potentials in the Vrbas river
+Development Study on the Vrbas
+basin, and provided recommendations on further actions in
+River
+this area.
+Technical assistance was provided to entity authorities to
+Pension Technical Assistance
+further strengthen their pension systems. The TA also helped
+develop a pension sector strategy in the FBH.
+Public Expenditure and Financial The study will provide a systematic overview of the status of
+Accountability (PEFA) Assessment public financial management and quantitative key
+performance indicators, covering budget planning and
+preparation, budget execution and control, reporting and
+transparency, and external scrutiny and oversight. This
+report represents a new platform on which a number of PFM
+policies can be advanced and its findings can significantly
+advance the Bank’s and donor policy dialogue in the
+country.
+The study will: (i) provide regular monitoring of poverty,
+Western Balkans Poverty
+inequality and exclusion indicators; (ii) provide statistical
+Assessment
+support and strengthening capacity in areas related to the
+measurement of poverty and exclusion; and (iii) address
+knowledge gaps on poverty and distributional issues,
+particularly as they relate to Bank-supported reforms and
+projects.
+Analytical work provided technical support for labor force
+Regional Activation and Smart
+Social Exclusion in Bosnia and
+Herzegovina and the Global Crisis
+
+28
+
+Planned
+FY
+
+Delive
+red
+FY
+
+-
+
+FY12
+
+FY12
+
+FY12
+
+x
+
+FY11
+
+FY12
+
+x
+
+FY12
+
+FY13
+
+x
+
+FY13
+
+FY14
+
+x
+
+FY13-FY15
+
+FY14FY15
+
+FY13
+
+FY13
+
+Pillar I
+
+Pillar
+II
+
+Pillar III
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+Safety Nets Programmatic
+Analytical Work
+Western Balkans Jobs Challenges
+
+Western Balkans Regional
+Research & Development Strategy
+for Innovation Technical
+Assistance
+Western Balkans Financial Sector
+Outlook
+Western Balkans Energy
+Efficiency Scale-Up in Buildings
+
+Directions for the Energy Sector
+in the Western Balkans
+
+Biomass Based Heating in the
+Western Balkans
+Regional Deep Dive: Turn Down
+the Heat
+Western Balkans Programmatic
+Gender Monitoring
+
+participation and social safety net reforms through a
+combination of analytical/knowledge products, just-in-time
+advice, and intensive policy dialogue.
+Analytic work will identify the main labor market
+incentives, determine policy priorities and discuss policies to
+improve labor market outcomes.
+The TA will identify funding instruments for the
+implementation of the R&D action plans in Western Balkan
+countries.
+Provides semi-annual analysis of key vulnerabilities of the
+financial sectors in the region, and recommends actions to
+mitigate such vulnerabilities.
+Aimed at developing a roadmap for implementation and
+sharing of energy efficiency best practices, policy and
+implementation options, case studies and plans across the
+target countries.
+Meant to identify key energy issues and constraints which
+require country-specific and regionally-coordinated
+interventions, in order to position and guide the Bank’s
+policy dialogue, technical assistance, and financing support
+in the Western Balkans.
+Will identify options and solutions for increasing the
+sustainable use of biomass for heating throughout the
+Balkans.
+The study will help develop country-specific assessments
+and recommendations to help BH better prepare itself for
+extreme climate and possible future natural hazards.
+The program aims at promoting gender equality by
+strengthening the knowledge base and evidence on gender
+disparities in BH, Kosovo, FYR Macedonia and Serbia, in
+order to inform government, donor and civil society
+interventions. The work will identify and prioritize
+
+29
+
+FY14-FY15
+
+FY14FY15
+
+x
+
+FY14-FY15
+
+FY14FY15
+
+x
+
+FY14-FY15
+
+FY14FY15
+
+x
+
+-
+
+FY14
+
+-
+
+FY15
+
+-
+
+FY15
+
+FY15
+
+FY15
+
+x
+
+FY13-FY15
+
+FY13FY15
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+Education ESW
+
+opportunities to strengthen the regional knowledge base on
+gender, as these countries face similar challenges in several
+areas, while at the same time addressing country-specific
+obstacles for gender equality.
+Dropped
+
+30
+
+FY13
+
+-
+
+x
+
+ANNEX 4: GENDER GAPS IN BH
+
+BH has made significant progress on gender equality issues, and the government has been
+supportive in these efforts. The 2003 Law on Gender Equality required the government to
+create a Gender Action Plan. Completed in 2006, the plan outlines strategies and program
+objectives for achieving gender equality. Positive developments have included
+“legislation on gender equality, the legal prohibition of gender-based violence and
+harassment, and the institutionalization of gender mainstreaming in government offices,”
+(ILO 2011).
+Lack of recent microdata prevents an in-depth, updated analysis of gender issues in BH.
+Nevertheless, a literature review of available sources has been conducted to inform this
+CPSPR and suggests that important constraints to gender equality remain, most notably
+in the areas of access to economic opportunities and agency. Upon availability of recent
+microdata, a thorough gender assessment will be conducted to shed further light on
+gender inequalities in the country.
+Education. There are currently no significant gender gaps in primary and secondary
+enrollment rates in BH, and women are more likely than men to enroll in tertiary
+education (WDI 2011). However, a higher proportion of adult women than men still have
+only primary education (ILO 2011). Similar to patterns in the region, segregation exists
+in fields of study, affecting labor market outcomes and contribute to the gender
+segregation seen there as well.
+Health. BH has positive female health outcomes in many areas with gaps persisting in
+others. Nearly all pregnant women receive antenatal care and have births attended by a
+skilled attendant (UNICEF 2012), and maternal mortality is low (WDI 2010, 2011). Life
+expectancy is comparable to the ECA average for both men and women (WDI 2011);
+nevertheless, male adult mortality is nearly double female adult mortality (WDI 2010).
+Access to economic opportunities. Some of the most significant gender gaps in BH are
+in access to economic opportunities. Female and male labor force participation rates are
+lower than the regional average in BH, at 42 percent and 68 percent, respectively, for
+those aged 15 to 64 (WDI 2011). This gender gap, primarily driven by low female
+activity, is larger than that in ECA and is in part determined by traditional gender roles
+and insufficient child care facilities (WDI 2011, ILO 2011). For women who work, a lack
+of data limits discussion of the wage gap, but in 2006 the UNDP estimated it to be 42
+percent in the non-industrial production sector (2007). Further, only 33 percent of firms
+have female participation in ownership, and only 14 percent have women in top
+management despite a larger share of women than men in the labor market having
+completed tertiary education (WDI 2009, 2009, 2011). Women’s property rights are
+legally protected, yet tradition frequently favors male inheritance of property, and
+ownership of property is traditionally registered to male family members.
+Agency. Women in BH are less likely than men to occupy leadership positions. Women
+hold 19 percent of the seats in Parliament, and only 12 percent of government ministers
+31
+
+between 2006 and 2011 were female (Inter-Parliamentary Union 2013, UNICEF 2012).
+Data is not widely collected on violence against women, yet it is estimated that a third of
+women are victims of domestic violence, and that few ever seek help from the police. At
+the same time, sex trafficking is highlighted as a source for concern in the country,
+particularly among vulnerable groups such as the Roma (U.S. Department of State 2012).
+Sources:
+International Labor Organization (2011), Lejla Somun-Krupalija, “Gender and
+Employment in BH - A Country Study.” Bureau for Gender Equality, Working Paper
+4/2011, Inter-Parliamentary Union (2013), available at http://www.ipu.org/wmne/classif.htm
+OECD (2012), Social institutions and gender index, available from:
+http://genderindex.org/
+UNECE (2008), Statistical Database, available at http://w3.unece.org/pxweb/
+UNICEF(2012), available at
+http://www.unicef.org/infobycountry/bosniaherzegovina_statistics.html
+UNDP (2007), “Social Inclusion in BH”, available at
+http://hdr.undp.org/en/reports/nationalreports/europethecis/bosniaherzegovina/BOSNIA_
+AND_HERCEGOVINA_2007_en.pdf
+U.S. Department of State (2012), “Trafficking in Persons Report 2012.”, available at
+http://www.state.gov/documents/organization/192594.pdf
+World Bank (2012), World Development Indicators (WDI)
+
+32
+
+ANNEX 5: KEY ECONOMIC AND PROGRAM INDICATORS - CHANGE FROM LAST CAS
+
+Forecast in Last CAS
+a
+
+b
+
+b
+
+Actual
+b
+
+c
+
+Current CAS Forecast
+c
+
+a
+
+b
+
+Economy (CY)
+Growth rates (%)
+GDP
+Exports
+Imports
+Inflation (%)
+National accounts (% GDP)
+Current account balance
+Gross investment
+Public finance (% GDP)
+Fiscal balance
+Foreign financing
+International reserves
+(as months of imports)
+
+2012
+
+Program (Bank’s FY)
+Lending ($ million)
+IBRD total debt outstanding ($ million)*
+*End of calendar year data
+a. Estimated year
+b. Projected year
+c. Actual outcome
+
+FY13
+FY14
+FY15
+FY12
+FY13
+FY14
+FY15
+FY12
+145
+161
+21
+21
+160
+34.1
+56
+455
+439
+450
+
+2013
+
+2014
+
+2015
+
+4.0
+
+4.3
+
+4.5
+
+4.5
+
+2.5
+
+2.5
+
+2.6
+
+-5.8
+20.7
+
+-5.7
+21.2
+
+-1.7
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+b
+
+2.7
+
+-1.1
+-3.0
+-4.0
+2.0
+
+0.8
+6.5
+1.0
+0.3
+
+2.0
+9.7
+7.0
+1.1
+
+3.5
+10.1
+7.6
+1.5
+
+4.0
+8.2
+8.2
+1.9
+
+-5.4
+21.6
+
+-5.3
+22.1
+
+-9.7
+16.0
+
+-7.9
+16.6
+
+-7.6
+16.3
+
+-7.0
+16.4
+
+-6.2
+16.2
+
+-1.0
+
+-0.5
+
+0.1
+
+4.4
+
+4.2
+
+4.0
+
+4.0
+
+-2.7
+2.7
+5.4
+
+-2.0
+2.1
+5.0
+
+-2.2
+2.9
+5.2
+
+-1.4
+2.4
+5.1
+
+-1.3
+1.0
+4.9
+
+a
+
+b
+
+b
+
+b
+
+a
+
+b
+
+33
+
+a
+
+b
+
+b
+
+FY16
+98
+
+ANNEX 6: BH AT A GLANCE
+
+34
+
+Bosnia and Herzegovina
+B a la nc e o f P a ym e nt s a nd T ra de
+
+2000
+
+2 0 12
+
+(US$ millio ns)
+To tal merchandise expo rts (fo b)
+To tal merchandise impo rts (cif)
+Net trade in go o ds and services
+
+1,130
+4,166
+-2,577
+
+6,261
+11,120
+-3,987
+
+Voice and accountability
+
+Current acco unt balance
+as a % o f GDP
+
+-396
+-7.2
+
+-1,327
+-7.6
+
+Regulatory quality
+
+Wo rkers' remittances and
+co mpensatio n o f emplo yees (receipts)
+
+1,607
+
+1,849
+
+497
+
+4,390
+
+Governance indicators, 2000 and 2012
+
+Political stability
+
+Rule of law
+
+Reserves, including go ld
+
+Control of corruption
+0.0
+2012
+
+C e nt ra l G o v e rnm e nt F ina nc e
+
+2000
+
+(% o f GDP )
+Current revenue (including grants)
+Tax revenue
+Current expenditure
+
+39.0
+21.1
+42.8
+
+48.7
+42.1
+44.1
+
+Overall surplus/deficit
+
+-5.8
+
+-1.8
+
+25.0
+
+50.0
+
+..
+..
+
+..
+10
+
+100.0
+
+higher values imply better ratings
+
+Source: Worldw ide Governance Indicators (w w w .govindicators.org)
+
+T e c hno lo gy a nd Inf ra s t ruc t ure
+
+Highest marginal tax rate (%)
+Individual
+Co rpo rate
+
+75.0
+
+Country's percentile rank (0-100)
+
+P aved ro ads (% o f to tal)
+Fixed line and mo bile pho ne
+subscribers (per 100 peo ple)
+High techno lo gy expo rts
+(% o f manufactured expo rts)
+
+2000
+
+2 0 12
+
+52.3
+
+92.1
+
+23
+
+111
+2.5
+
+1.8
+
+E xt e rna l D e bt a nd R e s o urc e F lo ws
+E nv iro nm e nt
+(US$ millio ns)
+To tal debt o utstanding and disbursed
+To tal debt service
+Debt relief (HIP C, M DRI)
+
+2,800
+319
+–
+
+10,577
+1,062
+–
+
+50.9
+14.2
+
+60.6
+12.5
+
+Freshwater reso urces per capita (cu. meters)
+Freshwater withdrawal (% o f internal reso urces)
+
+146
+0
+
+350
+0
+
+To tal debt (% o f GDP )
+To tal debt service (% o f expo rts)
+Fo reign direct investment (net inflo ws)
+P o rtfo lio equity (net inflo ws)
+
+A gricultural land (% o f land area)
+Fo rest area (% o f land area)
+Terrestrial pro tected areas (% o f land area)
+
+42
+42.8
+0.6
+9,108
+
+42
+42.8
+1.5
+
+..
+
+9,246
+1.0
+
+CO2 emissio ns per capita (mt)
+
+6.1
+
+8.1
+
+GDP per unit o f energy use
+(2005 P P P $ per kg o f o il equivalent)
+
+4.3
+
+4.0
+
+1,133
+
+1,848
+
+Composition of total external debt, 2012
+Energy use per capita (kg o f o il equivalent)
+Short-term,
+1,262
+
+IBRD, 455
+IDA, 1,193
+
+Wo rld B a nk G ro up po rt f o lio
+
+2000
+
+2 0 12
+
+IB RD
+To tal debt o utstanding and disbursed
+Disbursements
+P rincipal repayments
+Interest payments
+
+562
+0
+0
+33
+
+455
+26
+25
+8
+
+IDA
+To tal debt o utstanding and disbursed
+Disbursements
+To tal debt service
+
+398
+44
+3
+
+1,193
+22
+33
+
+30
+30
+5
+
+98
+98
+0
+
+1
+
+12
+
+21
+21
+
+104
+0
+
+IMF, 888
+
+(US$ millio ns)
+
+Other multilateral, 1,228
+Private, 4,629
+Bilateral, 922
+
+US$ millions
+
+P riv a t e S e c t o r D e v e lo pm e nt
+Time required to start a business (days)
+Co st to start a business (% o f GNI per capita)
+Time required to register pro perty (days)
+Ranked as a majo r co nstraint to business
+(% o f managers surveyed who agreed)
+n.a.
+n.a.
+Sto ck market capitalizatio n (% o f GDP )
+B ank capital to asset ratio (%)
+
+2000
+
+2 0 12
+
+–
+–
+–
+
+37
+14.9
+25
+
+2000
+
+2 0 12
+
+..
+..
+
+34.9
+33.3
+
+..
+20.1
+
+..
+11.3
+
+IFC (fiscal year)
+To tal disbursed and o utstanding po rtfo lio
+o f which IFC o wn acco unt
+Disbursements fo r IFC o wn acco unt
+P o rtfo lio sales, prepayments and
+repayments fo r IFC o wn acco unt
+M IGA
+Gro ss expo sure
+New guarantees
+
+No te: Figures in italics are fo r years o ther than tho se specified.
+.. indicates data are no t available. – indicates o bservatio n is no t applicable.
+
+3/13/14
+
+Develo pment Eco no mics, Develo pment Data Gro up (DECDG).
+
+35
+
+Millennium Development Goals
+
+Bosnia and Herzegovina
+
+With selected targets to achieve b etween 1990 and 2015
+(estimate clo sest to date sho wn, +/- 2 years)
+
+B o s nia a nd H e rze go v ina
+
+G o a l 1: ha lv e t he ra t e s f o r e xt re m e po v e rt y a nd m a lnut rit io n
+P o verty headco unt ratio at $ 1.25 a day (P P P , % o f po pulatio n)
+P o verty headco unt ratio at natio nal po verty line (% o f po pulatio n)
+Share o f inco me o r co nsumptio n to the po o rest qunitile (%)
+P revalence o f malnutritio n (% o f children under 5)
+
+19 9 0
+..
+..
+..
+..
+
+19 9 5
+..
+..
+..
+..
+
+2000
+<2
+..
+9.1
+4.2
+
+2 0 12
+<2
+14.0
+6.7
+1.5
+
+G o a l 2 : e ns ure t ha t c hildre n a re a ble t o c o m ple t e prim a ry s c ho o ling
+P rimary scho o l enro llment (net, %)
+P rimary co mpletio n rate (% o f relevant age gro up)
+Seco ndary scho o l enro llment (gro ss, %)
+Yo uth literacy rate (% o f peo ple ages 15-24)
+
+..
+..
+..
+..
+
+..
+..
+..
+..
+
+..
+..
+..
+100
+
+..
+..
+..
+
+G o a l 3 : e lim ina t e ge nde r dis pa rit y in e duc a t io n a nd e m po we r wo m e n
+Ratio o f girls to bo ys in primary and seco ndary educatio n (%)
+Wo men emplo yed in the no nagricultural secto r (% o f no nagricultural emplo yment)
+P ro po rtio n o f seats held by wo men in natio nal parliament (%)
+
+..
+..
+..
+
+..
+..
+..
+
+..
+..
+7
+
+..
+41
+21
+
+18
+16
+52
+
+14
+12
+53
+
+10
+9
+80
+
+7
+6
+94
+
+18
+97
+..
+
+14
+99
+..
+
+10
+100
+48
+
+8
+100
+46
+
+G o a l 6 : ha lt a nd be gin t o re v e rs e t he s pre a d o f H IV / A ID S a nd o t he r m a jo r dis e a s e s
+P revalence o f HIV (% o f po pulatio n ages 15-49)
+..
+Incidence o f tuberculo sis (per 100,000 peo ple)
+94
+Tuberculo sis case detectio n rate (%, all fo rms)
+96
+
+..
+84
+72
+
+..
+63
+100
+
+..
+49
+76
+
+G o a l 7 : ha lv e t he pro po rt io n o f pe o ple wit ho ut s us t a ina ble a c c e s s t o ba s ic ne e ds
+A ccess to an impro ved water so urce (% o f po pulatio n)
+97
+A ccess to impro ved sanitatio n facilities (% o f po pulatio n)
+..
+Fo rest area (% o f land area)
+43.3
+Terrestrial pro tected areas (% o f land area)
+0.5
+CO2 emissio ns (metric to ns per capita)
+1.0
+GDP per unit o f energy use (co nstant 2005 P P P $ per kg o f o il equivalent)
+..
+
+97
+95
+43.1
+0.5
+1.0
+3.7
+
+98
+95
+42.8
+0.6
+6.1
+4.3
+
+100
+95
+42.8
+1.5
+8.1
+4.0
+
+G o a l 8 : de v e lo p a glo ba l pa rt ne rs hip f o r de v e lo pm e nt
+Telepho ne mainlines (per 100 peo ple)
+M o bile pho ne subscribers (per 100 peo ple)
+Internet users (per 100 peo ple)
+Ho useho lds with a co mputer (%)
+
+6.8
+0.0
+0.0
+..
+
+20.3
+2.4
+1.1
+5.2
+
+23.1
+87.6
+65.4
+39.8
+
+G o a l 4 : re duc e unde r- 5 m o rt a lit y by t wo - t hirds
+Under-5 mo rtality rate (per 1,000)
+Infant mo rtality rate (per 1,000 live births)
+M easles immunizatio n (pro po rtio n o f o ne-year o lds immunized, %)
+G o a l 5 : re duc e m a t e rna l m o rt a lit y by t hre e - f o urt hs
+M aternal mo rtality ratio (mo deled estimate, per 100,000 live births)
+B irths attended by skilled health staff (% o f to tal)
+Co ntraceptive prevalence (% o f wo men ages 15-49)
+
+14.5
+0.0
+0.0
+..
+
+Education indicators (%)
+
+Measles immunization (% of 1-year
+olds)
+
+25
+
+100
+
+100
+
+ICT indicators (per 100 people)
+120
+100
+
+75
+80
+60
+
+50
+
+40
+25
+
+0
+
+20
+2000
+
+2005
+
+2010
+0
+
+0
+1990
+
+1995
+
+2000
+
+2012
+
+2000
+
+2005
+
+2010
+
+Primary net enrollm ent ratio (..)
+Ratio of girls to boys in prima ry & secondary
+education (..)
+
+Bosnia a nd Herzegovina
+
+Fixed + mob ile subscribers
+
+Europ e & Central Asia
+
+Internet users
+
+36
+
+ANNEX 7: SELECTED INDICATORS OF BANK PORTFOLIO PERFORMANCE AND MANAGEMENT
+
+37
+
+ANNEX 8: IBRD/IDA PROGRAM SUMMARY
+
+Proposed IBRD/IDA Base-Case Lending Program
+Fiscal year
+
+Proj ID
+
+US$(M)
+
+2014
+
+Energy Efficiency Project
+Drina Flood Protection Project
+Emergency Flood Response
+Result
+
+32.0
+24.0
+57.0
+113.0
+
+2015
+
+BiH DPL
+Competitiveness and Jobs
+Result
+
+Overall Result
+
+50.0
+48.0
+98.0
+211.0
+
+38
+
+Strategic Rewards b (H/M/L)
+
+ANNEX 9: IFC INVESTMENT OPERATIONS PROGRAM
+
+As of 4/30/2014
+(In USD Millions)
+
+Committed
+
+Disbursed Outstanding
+
+FY Approval
+
+Company
+
+**Quasi
+Partici
+Loan Equity Equity *GT/RM pant
+
+2013
+2008
+2008
+2006
+0/05
+11/13/2007
+0
+
+Bekto precisa
+Cimos bosnia
+Heart center bh
+Nova banka
+Raiffeisen-bos
+Sisecam bosnia
+Unicredit bosnia
+
+11.06
+0
+3.22
+0
+13.14
+49.49
+0
+
+0
+0
+0
+1.58
+0
+0
+8.43
+
+0
+30.42
+0
+0
+0
+0
+0
+
+0
+0
+0
+0
+0
+1.2
+0
+
+0
+0
+0
+0
+0
+0
+0
+
+11.06
+0
+3.22
+0
+13.14
+49.49
+0
+
+0
+0
+0
+1.58
+0
+0
+8.43
+
+0
+30.42
+0
+0
+0
+0
+0
+
+0
+0
+0
+0
+0
+0
+0
+
+0
+0
+0
+0
+0
+0
+0
+
+76.91
+
+10.01
+
+30.42
+
+1.2
+
+0
+
+76.91
+
+10.01
+
+30.42
+
+0
+
+0
+
+Total Portfolio:
+
+* Denotes Guarantee and Risk Management Products.
+** Quasi Equity includes both loan and equity types.
+
+39
+
+**Quasi
+Partici
+Loan Equity Equity *GT/RM pant
+
+ANNEX 10: OPERATIONS PORTFOLIO (IBRD/IDA AND GRANTS)
+
+40
+
+ANNEX 11: MAP
+
+41
+
+

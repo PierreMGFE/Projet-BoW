@@ -1,0 +1,5559 @@
+Public Disclosure Authorized
+Public Disclosure Authorized
+
+Document of
+The World Bank
+FOR OFFICIAL USE ONLY
+
+Report No. 30941-CV
+
+INTERNATIONAL DEVELOPMENT ASSOCIATION
+
+Public Disclosure Authorized
+
+Public Disclosure Authorized
+
+COUNTRY ASSISTANCE STRATEGY
+FOR
+
+THE REPUBLIC OF CAPE VERDE
+
+January 27,2005
+
+Cape Verde Country Management Unit
+Africa Region
+
+This document has a restricted distribution and may be used by recipients only in the performance o f
+their official duties. I t s contents may not otherwise be disclosed without World Bank authorization.
+
+The date of the last Country Assistance Strategy Progress Report was August 28,2001.
+CURRENCY EQUIVALENTS
+Currency Unit = Cape Verde Escudos (CVE)
+US$1 = 84 CVE (January 2005)
+FISCAL YEAR
+January 1 - December 3 1
+ABBREVIATIONS AND ACRONYMS
+AAA
+ADB
+CAS
+CFAA
+CPAR
+CPPR
+DPR
+ERA
+ESW
+EU
+FAIMO
+
+Analytical and Advisory Activities
+African Development Bank
+Country Assistance Strategy
+Country Financial Accountability Assessmenl
+Country Procurement Assessment Report
+Country Portfolio Performance Review
+Development Policy Review
+Economic Regulatory Agency
+Economic and Sector Work
+European Union
+Frente de Alta Intensidade de ME0 de Obra
+(labor-intensive public works scheme)
+FIAS Foreign Investment Advisory Service
+GDP Gross Domestic Product
+GEF Global Environment Facility
+GNP Gross National Product
+J.DF Institutional Development Fund
+IFAD International Fund for Agricultural
+Development
+IFC International Finance Corporation
+IMF International Monetary Fund
+INPS National Institute for Social Protection
+I T Information Technology
+JSAN Joint Staff Advisory Note
+M&E Monitoring and Evaluation
+MCC Millennium Challenge Corporation
+MDG Millennium Development Goal
+
+Vice President:
+Director:
+Country Program Coordinator and CAS TTL:
+Team members:
+
+MIGA
+MPIP
+MTEF
+NGO
+OED
+PEM
+PER
+PIU
+PPIAF
+
+Multilateral Investment Guarantee Agency
+Multi-sector Private Infrastructure Project
+Medium-Term Expenditure Framework
+Nongovernmental Organization
+Operations Evaluation Department
+Public Expenditure Management
+Public Expenditure Review
+Project Implementation Unit
+Public-Private Infrastructure Advisory
+Facility
+PPP Public-Private Partnership
+PRGF Poverty Reduction Growth Facility (IMF)
+GPRS Growth and Poverty Reduction Strategy
+PRSC Poverty Reduction Support Credit
+GPRSP Growth and Poverty Reduction Strategy
+Paper
+PSD Private Sector Development
+RDA Rural Development Assessment
+SAC Structural Adjustment Credit
+SME Small and Medium Enterprise
+TSSD Technical Secretariat to Support
+Development
+UNDP United Nations Development Programme
+USAID United States Agency for International
+Development
+VAT Value-Added Tax
+WBI World Bank Institute
+WHO World Heath Organization
+WTO World Trade Organization
+
+Gobind T. Nankani
+Madani M. Tall
+Iradj Alikhani
+Cape Verde Country Team
+Herminia Martinez, Peer Reviewe1
+Peter Miovic, Peer Reviewer
+
+FOR OFFICIAL, USE ONLY
+
+Republic o f Cape Verde
+Country Assistance Strategy
+Contents
+
+............................................................................................. ...
+I.
+Introduction.............................................................................................................
+1
+Country Context ......................................................................................................
+1
+I 1.
+6
+I11. Main Challenges. Issues And Strategies ..............................................................
+EXECUTIVE SUMMARY
+
+111
+
+A . Background.........................................................................................................
+B. Macroeconomic stability and modernization o f Government ............................
+C. Growth and competitiveness ..............................................................................
+D. Human capital development and social protection ...........................................
+E. GPRSP Priorities and supporting basis ............................................................
+
+.
+
+IV
+V
+
+.
+
+Bank Experience Under The Previous CAS
+World Bank Group Assistance Strategy
+
+.
+
+VI
+
+......................................................
+
+.............................................................
+
+A . The World Bank Group’s results-based assistance strategy .............................
+B. World Bank Group country program and vehicle for assistance .....................
+
+.......................................................
+
+Results-BasedMonitoring And Evaluation
+
+.................................................................................................
+VI11. Concluding Remarks ...........................................................................................
+.
+
+VI1
+
+Risk Management
+
+6
+6
+9
+13
+15
+16
+
+18
+18
+22
+
+26
+27
+
+29
+
+This document has a restricted distribution and may be used b y recipients only in
+the performance of their official duties I t s contents may not be otherwise disclosed
+without W o r l d Bank authorization.
+
+.
+
+*.
+
+11
+
+Tables
+Table 1:
+Table 2:
+Table 3:
+Table 4:
+
+Selected Economic Indicators ..................................................................... 2
+Cape Verde’s Progress Towards the MDGs ................................................. 5
+CAS results-based framework ................................................................... 20
+CAS Lending Scenarios - U S $ M i l l i o n...................................................... 23
+
+CAS Annexes
+Annex 1
+Annex 2
+Annex 3
+Annex 4
+
+Framework for a Results-Based Country Program.....................................
+Description o f main GPRSP Pillars............................................................
+GPRSP Costing Table ................................................................................
+Country Financing Parameters ...................................................................
+
+30
+36
+38
+39
+
+Standard CAS Annexes
+Annex 5
+
+Annex 6
+Annex 7
+Annex 8
+Annex 9
+Annex 10
+Annex 11
+Annex 12
+Annex 13
+Annex 14
+Annex 15
+Annex 16
+
+CAS Table A1 .
+Key Economic & Program Indicators.............................
+47
+.
+Change from Last CAS
+Cape Verde at a glance ................................................... 48
+CAS Table A2 .
+CAS Table B 2 .
+Select Indicators o f Bank Portfolio ................................
+50
+Performance and Management
+IDA Program Summary .................................................
+51
+CAS Annex B 3 .
+CAS Annex B 3 .
+IFC and MIGA Program, FY 2002-2005 ......................
+52
+CAS Table B 4 .
+Summary o f Non-lending Services, FY04-FY08 ........... 53
+CAS Table B 5 .
+Social Indicators..............................................................
+54
+CAS Table B 6 .
+K e y Economic Indicators................................................ 55
+CAS Table B 7 .
+K e y Exposure Indicators .................................................
+57
+CAS Table B 8 .
+Operations Portfolio (IDA and Grants) ...........................
+58
+CAS Table B 8 .
+Statement o f IFC’s Held and Disbursed Portfolio .......... 59
+CAS Table B 10 .
+Summary o f Development Priorities.............................
+60
+
+MAP (IBRD 33383)
+
+...
+
+111
+
+EXECUTIVE SUMMARY
+1.
+Since the last CAS was presented to the Board in 1997, and the progress report
+was issued in 2001, Cape Verde has experienced sustained economic growth and poverty
+alleviation. Poverty still affects 37 percent o f the population, the majority o f whom are
+rural dwellers. The country i s on target to attain Millennium Development Goals
+(MDG). The economic basis for these improvements has been provided by sound
+macroeconomic policies, promotion o f private investments through an improved
+investment climate, divestiture, infrastructure reform, and public investments in human
+capital and social sectors. The macroeconomic environment briefly deteriorated in 1999
+and 2000, which was reflected in unsustainable deficits. Since then, the new
+administration moved swiftly to address fiscal problems with the support o f Bretton
+Woods institutions, and good progress on macro and structural fronts has been achieved.
+
+..
+
+The country benefits from a well-functioning multiparty democracy. Corruption
+appears quite l o w and few governance issues have been identified, even though fiduciary
+systems need improvements, access to legal services should b e expanded, and regulatory
+barriers remain. Geography and external factors largely determine the country’s
+development. The archipelago consists o f 10 islands, which results in a high-cost
+economy, principally because o f lack o f economies o f scale in infrastructure and
+government programs. Agriculture is constrained by limited arable land and poor
+rainfall. Remoteness from mainland Africa hinders regional integration. On the other
+hand, the large diaspora contributes substantially to the country’s GNP through
+remittances, estimated at about 20 percent o f GDP. The main growth sectors include
+construction, services, trade and tourism.
+11.
+
+iii. The CAS covering the four-year horizon (FY05-08) sets out planned lending and
+non-lending activities o f the World Bank Group in support o f Cape Verde’s Growth and
+Poverty Reduction Strategy (GPRS) and their intended results. The CAS takes into
+account achievements to date, integrates key development challenges and relevant sector
+strategies. K e y issues include (a) growing demands o n public fwnds for provision o f nonprimary social services and social safety nets for the poorest segments o f the population,
+and (b) the challenge o f building a competitive economy. T o address these, the Bank’s
+strategy i s articulated around three objectives that constitute the CAS pillars:
+(a)
+(b)
+(c)
+
+ensuring macroeconomic stability and sound public finance and budget systems;
+supporting private-sector-led growth through an enhanced investment climate and
+increased competitiveness through public-private partnerships in infrastructure; and
+implementing social programs aimed at alleviating poverty and inequity.
+
+I t is expected that GDP growth o f at least two percent per capita will be sustained
+during the CAS period and poverty will be reduced by about one percentage point per
+year, with special attention to alleviating rural poverty and addressing inequality which
+
+iv.
+
+remain pronounced. The following measurable improvements are among those expected
+by the end o f the CAS period: (i)
+coverage o f targeted social services to vulnerable
+groups increased; (ii)
+cost recovery based o n ability to pay for basic services expanded;
+(iii)
+key transport parastatals brought to point o f divestiture; (iv) administrative barriers
+
+iv
+
+reduced; (v) 2,000 new formal sector jobs created; (vi) coverage o f infrastructure
+improved and certain costs reduced; (vii) improved non-primary health and education
+coverage; and (viii) outreach o f social programs to the poor increased.
+The ongoing portfolio o f four projects and the proposed new lending program
+support C A S objectives and specific outcomes identified in i t s results-based framework.
+While the l o w case i s considered improbable, it consists o f two projects (US$30 million).
+Under the base case (US$50 million from IDA and US$5 million from GEF), 60 percent
+o f new lending will consist o f programmatic lending through PRSCs. This approach is
+justified by the country’s good and growing capacity and its successful track record, and
+i t will contribute to donor harmonization. The rest o f the base case will finance a roads
+project and an infrastructure investment operation. The high case (US$19 million above
+base case) would finance larger amounts under PRSC3 and PRSC4, and would include an
+IDA credit o f US$5 million to sustain efforts to stem the incidence and impact o f
+HIV/AIDS. The triggers for moving to the high case envisage a strong performance,
+notably in the areas o f public expenditure management and private sector reform.
+v.
+
+vi.
+The CAS provides a framework for the participation o f I F C and MIGA, especially
+to support the development o f private participation in infrastructure, as w e l l as WBI and
+specialized facilities. Non-lending programs are front-loaded in the CAS period, so that
+their results can be used to develop lending operations and as input to the policy dialogue
+in outer years (FY07-08).
+Other AAA would also help to monitor reform
+implementation and complete core diagnostic requirements. Capacity enhancement will
+be an integral part o f Bank support and will be closely harmonized with donors.
+
+Implementation o f the CAS i s subject to five broad, inter-related risks. The first
+relates to the volatility o f donor concessional lending, which would be mitigated by
+Government’s political commitment to policy reform. The second relates to the
+sensitivity o f Cape Verde to external shocks. The Government intends to continue
+providing investment opportunities in the country to its citizens living abroad and
+believes that the country’s stability and good governance, together with guarantee
+instruments, will help secure foreign international investors. The third r i s k stems from
+the Government’s ability to fulfill the reform agenda and avoid macroeconomic slippages
+in order to sustain growth and poverty alleviation. This is mitigated by the fact that
+stakeholders in Cape Verde have integrated lessons learned from previous pre-election
+experiences, and that M&E systems would ensure that slowdowns in reforms are
+identified and addressed. The fourth risk i s the hard budget constraint o n public
+expenditures and competing demand for resources which m a y result in the crowding out
+o f key programs. Mitigating measures include funding o f infrastructure programs
+through private-public partnerships, prioritization o f expenditures, and management o f
+contingent liabilities. Fifth, capacity constraints are being addressed with donor support.
+vii.
+
+The following issues are suggested for Board discussion: (i)
+does the CAS
+i s the policy, institutional and results
+adequately address key development priorities; (ii)
+framework underpinning the CAS adequate; (iii)
+is the shift towards more programmatic
+lending warranted; and (iv) does the CAS adequately assess r i s k s and contribute to
+greater donor harmonization?
+viii.
+
+INTERNATIONAL, DEVELOPMENT ASSOCIATION
+COUNTRY ASSISTANCE STRATEGY
+FOR THE REPUBLIC OF CAPE VERDE
+I.INTRODUCTION
+1.
+This Country Assistance Strategy (CAS) covers the four-year period from FY05 to
+FY08. I t sets out planned lending and non-lending activities o f the World Bank Group in
+support o f Cape Verde’s Growth and Poverty Reduction Strategy (GPRS) and their intended
+results, which are in line with the country’s Millennium Development Goals (MDGs). The
+CAS takes into account achievements to date, and integrates key development challenges and
+relevant sector strategies. The central challenge facing Cape Verde i s to sustain poverty
+reduction while addressing relatively high inequity. To address this challenge, the Bank
+strategy i s articulated around three objectives that constitute the CAS pillars: (a) ensuring
+macroeconomic stability and sound public finance and budget systems; (b) supporting
+private-sector-led growth through an enhanced investment climate and increased
+competitiveness through public-private partnerships in infrastructure; and (c) implementing
+social programs aimed at alleviating poverty and inequity. The proposed Bank assistance
+draws upon the Growth and Poverty Reduction Strategy Paper (GPRSP)’, which helps ensure
+that it is aligned, covers the same period, and builds on the GPRSP’s consultative process.
+11. COUNTRYCONTEXT
+
+2.
+Geography and population are key factors. Cape Verde i s an archipelago o f ten
+islands, nine o f which are inhabited by about 472,000 people. About h a l f the population
+lives o n the island o f Santiago around the capital, Praia. Following decades o f emigration,
+about twice as many Cape Verdeans live abroad. This diaspora keeps close ties with its
+country o f origin and contributes substantially to its GNP through remittances, estimated at
+about 20 percent o f GDP. The country’s geography, l o w proportion o f arable land, poor
+rainfall, and limited population make it a high-cost economy, principally because economies
+o f scale in infrastructure and government programs cannot be easily attained. The country’s
+remoteness from mainland Africa has hindered significant integration with West Africa.
+Recent macroeconomic performance has been strong. Table 1 presents selected
+3.
+economic indicators. Despite a drastic fiscal contraction in 2001 to reassert control over
+public expenditure, annual growth has remained above 4 percent. The current account deficit
+remains stable at around 11 percent o f GDP since 2001, reflecting effective demand
+management, l o w import growth, sustained inflows o f remittances o f almost 20 percent o f
+GDP, and better management o f the country’s exposure to external shocks l i k e o i l price
+increases. Foreign direct investment and donor disbursements have also helped to increase
+reserves at the Central Bank to 2.2 months o f imports, higher than the original target for the
+three-year PRGF program. Economic growth for 2004 i s estimated at 4 percent and inflation
+i s around 1.5 percent. Contrary to most o f Sub-Saharan Africa, the economy relies primarily
+on services, which account for 72 percent o f GDP. The main source o f growth i s expected to
+be in the service sector, such as hotels and restaurants, transport, and communication. The
+
+’ Reviewed in a recent Joint Staff Advisory Note (JSAN) discussedby the Board in January 2005.
+
+-2medium-term GDP growth rate is projected at 5 percent with an inflation rate under
+2percent. The current account deficit (excluding grants) i s expected to remain steady at
+around 10 percent o f GDP, based on continued inflows o f remittances and fiscal prudence.
+T a b l e 1: Selected Economic Indicators
+~~
+
+~~
+
+Annual average inflation (%)
+National Accounts (growth rates, YO)
+Agriculture
+Industry
+Services
+GDP at market prices
+Real per capita GDP
+National Accounts (% of GDP at current market prices)
+Gross domestic investment
+Public investment
+Private investment
+Gross domestic savings
+Balance of Payments (YOof GDP at current market prices)
+Current account balance (including budgetary and project grants)
+Current account balance (excluding projects grants)
+External Indicators
+Total debt service paidExports
+Gross Official Reserves in months o f imports
+Government finance (YOof GDP at current market prices)
+Domestic revenue
+Current expenditures
+Overall fiscal balance excluding capital grants
+Overall fiscal balance including all grants
+Extemal borrowing (net)
+Domestic borrowing (net)
+Monetary indicators
+Broad money (M2) (% annual growth)
+M2IGDP (% o f GDP at current market prices)
+Current social expenditure (YOo f GDP at current market
+prices)
+Education
+Health
+Memo: GDP at current market prices (billions o f LCU)
+Nominal average exchange rate (LCU per US$)
+Source: World Bank and IMF databases
+
+1999 2000 2001 2002 2003
+4.4 -2.4 3.8 1.8 3.0
+
+27.3
+2.6
+2.6
+8.6
+6.6
+
+3.9
+2.4
+2.4
+6.6
+4.6
+
+3.3
+4.3
+4.3
+5.1
+3.1
+
+2.5
+3.5
+3.5
+4.3
+2.3
+
+3.2
+4.2
+4.2
+5.0
+3.0
+
+20.9 19.3 18.3 20.9 20.2
+14.5 12.5 10.8 13.0 9.8
+6.4 7.2 7.5 7.9 10.4
+-17.6 -13.3 -14.4 -15.0 -14.0
+-12.4 -1 1.2 -10.7 -1 1.2 -10.3
+-14.9 -10.6 -10.3 -11.5 -9.7
+20.8
+1.6
+
+5.3
+1.0
+
+7.3
+1.4
+
+6.2
+2.0
+
+2.3
+2.0
+
+26.42
+26.6
+-14.8
+-9.9
+2.3
+1.1
+
+20.8
+34.2
+-25.9
+-19.8
+3.8
+14.6
+
+21.9
+21.9
+-10.9
+-4.8
+3.1
+2.0
+
+23.1
+21.3
+-9.9
+-2.7
+1.6
+0.3
+
+22.5
+20.9
+-8.1
+-3.5
+2.6
+1.0
+
+19.2 12.7 9.8 14.3 7.8
+61.2 65.6 67.5 72.5 72.4
+1
+
+6.9 8.8 8.5 7.9 7.6
+2.2 2.4 2.5 2.5 2.8
+60.4 63.6 70.5 75.4 81.2
+
+4.
+Sources of growth are concentrated in a few sectors. Compared to many other
+African countries, Cape Verde has modest growth potential, but has h l l y exploited various
+opportunities so as to achieve steady economic development. In the medium term, tourism i s
+expected to continue to be the main source o f foreign exchange revenue, especially as the
+sector develops high value niches. This sector would in turn drive other sectors that supply
+i t s inputs, including food, handicraft, manufactures and services. The development o f
+activities around the telecommunications cluster i s also expected to contribute to economic
+growth through improved and expanded telecom services, value added activities such as
+internet as well as call centers, the first o f which now operates in Praia and employs about
+Includes 6.6 percent o f GDP from privatizations
+
+-380people. GDP growth would be sustained through the expansion o f services, notably
+construction, and increased productivity o f ongoing activities, such as agriculture. As the
+country builds i t s human resources and expands and liberalizes infrastructure sectors, new
+sources o f growth and exports would emerge, for example in the aforementioned information
+technology (IT) sector. The Government’s longer term vision also calls for Cape Verde to
+become an infrastructure gateway service provider for West Africa, which would fhther
+strengthen growth through regional integration.
+
+5.
+External factors are important. Cape Verde is especially sensitive to external
+factors that may undermine growth. The fiscal balance and the funding o f public programs
+depend o n continued donor support. Continued inflow o f remittances is critical. Increases in
+international petroleum prices have unfavorable consequences on private sector growth, the
+electricity sector, the fiscal equilibrium and the balance o f payments, especially when
+Government limits adjustment in domestic prices. Finally, tourism receipts would be
+affected by a perception o f insecurity resulting from international events, which has so far
+been avoided, and recession in Europe. Cape Verde’s stable social, political and economic
+environment mitigates these risks.
+6.
+Regional integration potential i s constrained. As a small, open economy, Cape
+Verde i s well integrated into the world economy. Strong economic and social links exist
+with the United States, Europe, West Africa (notably Senegal and Guinea-Bissau) and the
+lusophone community in general. However, the country’s geography and relative distance
+from the coast o f Africa implies that regional integration i s largely implicit and its physical
+manifestations are mainly through trade. In recent years, Cape Verde has envisaged
+establishing closer regional links, for example by being part o f regional arrangements on
+modemization o f business law, air transport safety and regulation, and insurance regulation.
+This has not been brought to fruition, in part due to language considerations. The main
+option still under consideration by Government is for Cape Verde to provide an infrastructure
+gateway to West Africa. Studies are needed to help determine niches that would be
+technically feasible and economically and financially viable.
+
+7.
+Cape Verde i s a well-functioning multi-party democracy. Since the adoption o f a
+multi-party political system in 1991, there have been three elections and two orderly changes
+in Government. Corruption in the country i s perceived as being quite l o w and few
+governance issues have been identified, even though fiduciary systems need improvements,
+access to legal services should be expanded, and regulatory barriers exist. Macroeconomic
+slippages have occurred during the last two elections. While still a risk, a repeat i s
+significantly less likely to occur in the context o f the next parliamentary and presidential
+elections, scheduled for late 2005/early 2006. Past slippages were accompanied by a
+breakdown in the macroeconomic dialogue with Bretton-Woods institutions, the repetition o f
+which is unlikely. Furthermore, the independence o f the Central Bank has been strengthened
+during the last few years, and the scope for unprogrammed domestic financing has been
+substantially eliminated.
+8.
+Cape Verde has reached middle-income GNP levels. In parallel with the above
+evolution in the political system, the country has moved from a largely centrally-planned
+economy to a liberal economic regime based on: (a) improved factor markets and privatesector-led growth through divestiture o f state enterprises and utilities, financial sector reform,
+the strengthening o f property rights and price liberalization; (b) better integration into the
+
+-4world economy through trade liberalization and encouragement o f export-oriented activities;
+and (c) enabling fiscal and monetary policies, including strict limits o n public sector deficits
+and the peg o f the Escudo to the Euro. Since the early 199Os, economic growth o f about four
+percent per capita has been sustained by these policies and the GNP per capita now stands at
+about US$1,450. Bank support envisaged under the CAS would enable Cape Verde to
+deepen these reforms and sustain recent performance levels.
+9.
+Poverty has declined and i s mainly rural. Growth led to notable poverty
+alleviation during the 1990s. In 2001-02, 37 percent o f the population was poor, and 20
+percent was extremely poor (reference daily consumption level i s about US$1.5 and US$1.O
+respectively). Poverty has declined by about a quarter, compared to the 1988-89 level: the
+annualized decline in per-capita poverty i s one percentage point. Poverty in Cape Verde
+remains predominantly a rural phenomenon. More than half o f the rural population is poor
+compared to a quarter o f urban residents. Generations o f Cape Verdeans have coped with
+entrenched rural poverty by migrating both abroad and to urban areas. During the last
+decade, the rural population has declined from 56 percent to 45 percent o f the total
+population, but accounts for 62 percent o f the country’s poor. The most rural islands (Santo
+Antilo, Fogo, Brava) have significantly higher poverty rates than the rest o f the country. As
+discussed in Chapter 111-C, rural poverty is linked to lack o f income opportunities. The CAS
+will help promote continued poverty reduction through initiatives that support growth.
+Moreover, to help improve the situation for the majority o f the poor who live outside cities,
+the CAS will pay particular attention to rural development.
+10.
+Inequality remains high. The implied elasticity o f 0.7 for poverty reduction with
+respect to GDP per capita i s significantly below the figure observed elsewhere. This appears
+to be linked to income distribution that has not improved. The Gini index n o w stands at
+~ shows that consumption inequity in
+about 0.533, compared to 0.51 in the late 1 9 8 0 ~and
+Cape Verde i s generally worse than in comparable countries. Four factors appear to
+contribute to the high Gini index: (a) remittances seem to benefit relatively better-off
+segments o f the population and may exacerbate inequity problems; (b) the incidence o f
+public expenditures may not be sufficiently pro-poor; (c) the geography o f the archipelago
+makes it difficult and costly to bring social services to certain areas; and (d) entrenched rural
+poverty. As envisaged in the CAS, continued growth complemented with appropriate
+expenditure targeting i s expected to result in improved income distribution.
+11.
+Human development indicators show significant improvement. Cape Verde is on
+target to reach most MDGs by 2015, including in education and health (see Table 2). Under
+current trends, assuming GDP per-capita growth o f about two percent, the target o f reducing
+poverty by h a l f will be attained and surpassed. Even though relative inequality has
+increased, household living standards as measured by comfort factors (home ownership,
+household appliances, access to water and sanitation and infrastructure services) are fairly
+good for most Cape Verdeans, especially those who are not poor and are urban dwellers. In
+this respect, the rural inhabitants tend to be worse o f f than others.
+
+The GPRSP cites an even higher figure o f .57 for the Gini. But the lower figure i s quoted in the
+recent poverty assessment report and i s considered to b e a more up-to-date estimate.
+
+-5-
+
+Table 2: Cape Verde's Progress Towards the MDGs
+
+Source: World Development Indicators database, April 2004, and World Bank reports. Note: In some cases the data are for earlier or later
+years than those stated.
+
+12.
+Gender inequality i s less pronounced than elsewhere in Africa, but needs to
+continue being addressed. Women are more likely to b e poor than men in Cape Verde.
+Although a formal gender assessment has not yet been carried out, a revised poverty and
+gender profile has been generated based on analysis o f the national income and expenditure
+household surveys. These figures show that there have been impressive gains for women in
+basic education and falling fertility rates. Prevailing trends imply a decreasing dependency
+ratio and less pressure o n public finance to serve a growing population. In terms o f
+challenges ahead, women are more likely to be unemployed, and when employed tend to earn
+less than men at similar levels o f education and experience. Also almost half o f adult women
+in rural areas cannot read, and domestic violence i s an issue. The ongoing Bank support
+contributes to addressing these issues in a number o f ways. An IDF grant aims to strengthen
+the rule o f law. Also, the PRSC aims to expand social programs, for instance in the area o f
+improved matemal health.
+
+-6111. MAINCHALLENGES, ISSUES
+AND STRATEGIES
+A. Background
+
+13.
+Sustaining and building upon achievements to date. The Government recognizes
+that the main challenge i t faces is how to sustain the growth performance at around three
+percent per capita, so as to continue poverty alleviation, while at the same time implement
+social policies that improve the welfare o f poorer segments o f the population. Stakeholders
+recognize that neither result will be easy to achieve. Growth will need to be stimulated by
+further policy reforms. This will be complemented by a redirection o f expenditure programs
+towards the poor, together with an ambitious agenda to improve delivery o f social services
+and increased allocations for social sectors, above and beyond targeted programs. To
+achieve these objectives, the Government intends to introduce further reforms that ensure
+macroeconomic stability, an improved investment climate, infrastructure development and
+enhanced competitiveness.
+14.
+The PRS aims to consolidate the prospects of sustainable growth with a significant
+impact on poverty and inequity, and provides a framework for reforms. During 2004, there
+
+were extensive discussions o f GPRSP drafts with stakeholders and donors. The final version
+o f the Cape Verde GPRSP (2004-2007) was distributed on September 21,2004. The GPRSP
+is built on a set o f strategies and priorities that address Cape Verde’s main development
+challenges. In its strategy, the Government has put together a credible and realistic plan
+around the following main pillars o f interventions: (i)
+modernization o f Government;
+(ii)
+economic growth and private sector development, (iii)
+human capital development;
+(iv) infrastructure, regional development and the environment; and (v) social protection.
+These pillars are described further in Annex 2.
+15.
+
+The GPRSP includes strategic choices and trade-offs to bring the country up to par
+with the standards o f a middle-income country. The key issues and options facing the
+country are discussed in the remainder o f this chapter.
+B. Macroeconomic stability and modernization o f Government
+
+16.
+Macroeconomic stability and modernization o f Government are central elements o f
+the development strategy. Bank assistance will contribute through analytical work, notably
+Public Expenditure Reviews (PERs), the review o f fiduciary systems, the investment climate
+work, and proposed annual programmatic lending and ongoing investment operations.
+17.
+Macroeconomic stability. The fixed exchange rate regime in the form o f the peg to
+the Euro i s seen as one o f the mainstays o f macroeconomic stability and growth, and a
+contributor to a sound investment climate. The main disadvantage o f the regime i s in terms
+o f limiting monetary policy, which in turn constrains fiscal policy and results in pronounced
+trade-offs between competing public expenditure programs. Advantages include stability in
+this important dimension o f the investment climate. This arrangement, which the
+Government intends to maintain, is considered an important factor in sustaining the
+continued flow o f remittances that fuel investments and consumption. The bulk o f
+remittances originates from the United States (U.S.) and the U.S. dollar has depreciated
+significantly with respect to the Euro. This may lead to a reduction o f future remittances in
+local currency terms. Another risk, considered manageable at present, relates to increases in
+interest rates in the United States and Europe that could cause local interest rates to increase
+
+-7accordingly. Still, the present fixed peg arrangement has been deemed adequate in the
+medium to long term, and there are no plans to modify it, say by introducing some weighting
+for the dollar in the peg.
+Sustained capitalflows. Cape Verde remains dependent o n external capital flows to
+18.
+finance its development. Donor funding has reached a plateau in recent years and i s unlikely
+to further expand relative to GDP, at least not at highly concessional terms; and debt
+sustainability considerations limit borrowing on commercial terms. Private remittances
+remain steady, but are sensitive to changes in perceptions o f risk. In addition, the divestiture
+program that generated about US$lOO million from sales o f shares and assets during the
+1990s i s not expected to bring significant additional net revenues. These factors - together
+with the fact that domestic savings, as a share o f GDP, are unlikely to increase very much in
+the short to medium term - highlight the need for Government to maximize i t s limited
+sources and ensure that they flow to investments with the highest rates o f return and/or to
+fund programs that primarily benefit the poor. I t also underscores the importance o f
+attracting external private capital flows in order to sustain investments in infrastructure and
+productive sectors.
+
+19.
+Public expenditure allocation and control. Both revenues and expenditures
+(respectively about 22 percent and 30 percent o f GDP during the 2001-2003 period) are high
+by African norms and comparable to that o f many lower middle-income countries. There
+appear to be limited options for significantly increasing revenues relative to GDP, even
+though specific levies and user fees can be implemented to finance specific public programs.
+Similarly, in the absence o f significant additional aid inflows, the scope for increasing public
+expenditures i s limited by the need to keep domestic borrowing in check, especially to avoid
+crowding out private investment and to ensure debt sustainability. There is a recognized
+need to improve the budget allocation mechanism, so that important poverty alleviation
+initiatives can be funded. A Medium-Term Expenditure Framework (MTEF) is being
+developed to help improve allocation decisions and move towards multi-year expenditure
+programming. The hard budget constraint and cap on the deficit also require the
+reductiodelimination o f relatively regressive programs, such as subsidies to the national
+airline and increased cost recovery from the richer segment o f the population.
+20.
+Budget systems. T o improve transparency o f public expenditures and strengthen
+good governance, Govemment tax administration, and financial and procurement systems
+need to be strengthened. In the area o f tax administration, capacity is being enhanced. W h i l e
+customs administration i s strong, income tax administration is being strengthened through the
+introduction o f a new taxpayer registry and identification number, and a modem I T system.
+Fiduciary issues are being addressed through the implementation o f e-Government systems,
+the development o f relevant procedures manuals, and improvement in extemal and intemal
+controls (also covering issues such as timely reconciliation o f accounts, improved debt and
+cash management, empowering oversight institutions, et^.^). The financial management
+capacity o f municipalities i s uneven and will be strengthened in line with fiscal
+decentralization. Similarly, the consolidation o f responsibilities for oversight o f all donorfunded projects i s expected to strengthen budget implementation and monitoring systems.
+Finally, while procurement operations are basically sound, a legal framework to support and
+harmonize procurement activities i s being developed.
+See recent CFAA and PER.
+
+-8Improving the efficiency and effectiveness of the public sector. Recent analysis
+21.
+(CFAA, PER and CPAR) confirms the direction o f ongoing public finance reform in order to
+facilitate resource mobilization, reach envisaged goals and improve Government
+effectiveness. These studies and the GPRSP also call for further improvements. Progress in
+implementing financial management reforms risks being offset by capacity constraints and
+delays in adopting an appropriate legal framework. Moreover, fiscal slippages have
+exacerbated some shortcomings in public expenditure management, including recourse to
+emergency budget management on a cash basis, which may result in resources being taken
+away from priority sectors. Pressures are increasing from structural expenditure programs,
+such as pensions, health care, and education, in addition to the effects o f rising interest rates
+on domestic debt service, and contingent liabilities from autonomous institutes and
+parastatals, all o f which need to be managed.
+Strengthening public finance. The main medium-term challenges are to reinforce
+22.
+and improve critical aspects o f public finance at the central and municipal levels, including:
+(a) further integrating investment and expenditure budgets, by developing a MTEF to guide
+resource allocation and link sector budgets to programmatic outcomes; (b) reinforcing
+financial controls, including more timely and higher quality reporting and audits; (c) more
+effective tax administration through improved information management; (d) development o f
+adequate procurement legislation; and (e) control o f contingent liabilities. O f note, unlike in
+many countries in the sub-region, the residents o f Cape Verde generally do not perceive
+corruption as a major issue, as shown in the 2004 Afiobarometer s u r ~ e y s .In
+~ addition WE31
+work6 shows that the control o f corruption in Cape Verde i s about twice higher than other
+sub-Saharan countries, and converging towards European norms.
+With respect to
+governance indicators, the country receives relatively high marks for political stability, rule
+o f law, and voice and accountability, while further efforts are clearly needed in other areas,
+such as Government effectiveness and quality o f the regulatory regime. Improved fiduciary
+systems and public service delivery, and regulatory and investment climate reforms
+mentioned elsewhere in this document will further reinforce transparency and help strengthen
+the weaker aspects o f Cape Verde’s governance.
+Continuing the strong record of delivering a good mix of quality and quantity of
+23.
+public services. Even though the country’s population i s l o w (472,000 people) and
+concentrated in a handful o f large cities, the archipelago structure o f Cape Verde, including
+four islands with less than 15,000 inhabitants, calls for moving to the local level - wherever
+
+technically feasible and financially justifiable - the responsibility for decision-making and
+monitoring o f service provision. Current proposals for strengthening the role o f the
+municipalities underpin the intended goal to further improve policy responsiveness and
+implementation. The Government i s s t i l l elaborating i t s decentralization strategy, and it i s
+likely that this approach will be implemented progressively and cautiously so as to avoid
+excess cost o n the economy.
+24.
+
+Public sector reform priorities focused on removing the main bottlenecks to a
+modern administration. In the absence o f such an integrated strategy, ad-hoc institutional
+Afrobarometer, Working Paper No. 34, March 2004.
+D. Kaufmann, A. Kraay, and M. Mastruzzi 2003: Governance Matters 111: Governance Indicators
+for 1996-2002.
+
+-9reforms are threatening the Government’s ability to coordinate its actions and are
+undermining accountability. An example i s provided by the proliferation o f autonomous
+institutions with specific missions and their own revenue streams. Government actions are
+aimed at converting poorly functioning departments into institutes or agencies with a clearer
+mandate and more qualified personnel. The creation o f some agencies, such as the Economic
+Regulatory Agency or the Aviation Authority, stems from strategic choices that have been
+discussed and agreed with donors. In some other cases, this has resulted in overlapping
+mandates, diseconomies o f scale and increased costs. The establishment o f special
+frameworks to retain critical staff may also delay more comprehensive civil service reform.
+As part o f the first PRSC, the Government is reviewing the role and cost o f the various
+agencies to identify and mitigate contingent liabilities. The scope and role o f such
+institutions are part o f the sector dialogue aimed at paving the way to streamlined and more
+effective public institutions. Another reform priority i s to strengthen the rule o f law by
+raising citizen awareness o f and access to the judicial system, particularly for the poor.
+C. Growth and competitiveness
+
+25,
+Cape Verde has greatly benefited from economic liberalization and divestitures
+undertaken during the past decade. Still, diminishing retums to these reforms are being
+experienced and a new impetus i s needed, specifically in the areas described below. The
+main theme i s that while Government has adopted the broad policy framework,
+implementation in certain areas, especially when institutional building is needed, has been
+slower than expected, for example in the area o f economic regulation. Recognizing this
+issue, the Government has given it special attention since late 2003 and positive results are
+now being achieved. Bank assistance will further contribute through analytical work, notably
+the infrastructure and investment climate studies, as well as through the proposed and
+ongoing investment operations.
+26.
+Completion of the divestiture program. Following important accomplishments
+between 1991 and 1999 when most government-owned productive enterprises were divested,
+there has been a slowdown in the implementation o f the divestiture program during the past
+five years. M a i n divestiture actions which are now completed were related to the liquidation
+o f EMPA (public trading enterprise - import/export) and TRANSCOR (municipal transport
+enterprise) and related sector liberalization in the context o f the structural adjustment
+program. Important divestitures still under way include EMPROFAC (pharmaceutical
+enterprise), T A C V (Cape Verde Airlines) and ENAPOR (Cape Verde Islands Port
+Authority). These enterprises affect the cost and quality o f transport services and contribute
+to contingent fiscal liabilities. For example, large annual subsidies to TACV, up to about
+US$10 million at times, are a contributing factor to government expenditures not being
+reallocated to pro-poor expenditures. The Government recognizes these issues and i s well o n
+the way to completing the divestiture program by end-2005.
+Competitiveness of utilities.
+The introduction o f private participation in all
+27.
+infrastructure sectors, except as noted below in transport, has yielded positive results in terms
+o f private investments and service delivery. Since privatization, teledensity (fixed and
+mobile) has increased to over 250 per thousand inhabitants, a level similar to that o f East
+Asia. Also, following investments o f about US$lOO million by E L E C T R A (electricity and
+water enterprise), electricity and water supply has expanded, the number o f customers
+increased by 50 percent between 1999 and 2002, and power cuts are less frequent. However,
+partly reflecting the small and segmented domestic market, the costs o f these services are
+
+- 10quite high: electricity tariff and the cost o f an international call to the U.S. are respectively
+about 20 percent and three times higher than in Senegal. Enterprises operating in the energy,
+water and telecommunications sectors benefit in practice from a legal monopoly that
+contributes to high costs, discourages efficiency, competition and diversification o f services
+such as information technology. The inefficiency o f ELECTRA was reflected in high
+technical losses during the period 2000-2002 (18 percent for electricity and 25 percent for
+water), exacerbated by collection problems. Uncompetitive infrastructure thus constrains
+economic growth. Also, the rural poor face access problems that hinder attainment o f social
+objectives (as demonstrated in Latin America). To address these issues, the Government
+intends to encourage investments, through public-private partnerships, that would enhance
+competitiveness, reduce costs and increase competition by encouraging entry o f new
+operators (notably in the telecoms sector). This may also lead to the introduction o f private
+management in several o f the islands (such as Fog0 and Brava) where municipalities s t i l l
+control the water distribution.
+The State is withdrawing from the transport sector. The public sector is involved in
+28.
+many aspects o f the transport sector, which is viewed as a strategic sector in light o f Cape
+Verde’s location and population dispersion. Government owns maritime and air transport,
+and port and airport services, and will continue to maintain and expand the road network,
+especially to rural zones. The circumstances o f Cape Verde explain this situation. The
+introduction o f the private sector in port operations would still yield a private sector
+monopoly that would need to be regulated. Where competition i s more easily attainable,
+transport services are predominantly in private hands in urban and inter-urban road transport,
+long haul maritime transport, and largely in inter-island maritime transport.
+
+29.
+Private sector involvement i s thus seen as a key to relieving an over-extended
+Government that would increasingly play the role o f regulator and facilitator, and tackle
+remaining sector issues. The Government recognizes the need for faster progress in
+implementing port reforms. TACV has experienced a number o f loss-making years, and
+substantial contingent liabilities have tended to materialize periodically. Finally, the airports
+are managed autonomously, but the five-year delay in the opening o f the new Praia airport
+has been an issue, exacerbated by a large investment remaining idle. Beyond its fiscal
+impact, the transport sector i s a key element o f the domestic value chain that needs to be
+operated competitively and efficiently to support economic activities. N e w investments are
+needed and private participation in the sector i s needed to complement public resources. The
+Government i s aware o f the problems that have delayed changes in the past and intends to
+implement a comprehensive sector reform strategy and to encourage public-private
+partnerships in the sector. In this context, the institutional and funding mechanism for roads
+maintenance and i t s financing is being addressed through the reform in 2005 o f the existing
+roads fund.
+30.
+Adequate economic regulation capacity i s needed. There have been delays in setting
+up an appropriate regulatory mechanism, despite considerable efforts over six years. This i s
+partly due to politicization o f the process and partly due to indecision o n the appropriate
+institutional arrangements. These delays are partly responsible for tariff-setting problems
+encountered in the infrastructure sector. They also contribute to multiplication o f institutions
+that hamper fiscal sustainability. The establishment in 2004 o f the Economic Regulatory
+Agency (ERA) i s the first step towards addressing this need. ERA i s becoming operational
+and has already made its first decision pertaining to the transport sector. Capacity
+
+- 11 enhancement i s under way and, later on, a consolidation o f institutional responsibilities i s
+expected. This measure would help eliminate overlapping mandates across sectors and
+between technical and economic regulators, and would encourage efficiency.
+3 1.
+Trade Policy reform should continue. Reforms implemented in early-2004 have
+improved the tariff structure and shifted revenue instruments to VAT and excise taxes.
+Tariffs still remain high by intemational standards (7 bands between 0 and 50 percent) and
+contribute to anti-export bias. In the letter o f development policy o f the 2001 Structural
+Adjustment Credit (SAC), the Government indicated that fbrther tariff reforms would be
+considered during the next few years (entailing 3-4 bands between 0 and 20-25 percent).
+Otherwise, there are few remaining quantitative restrictions, even though for some products
+competition may be limited by high market concentration. The reductiodelimination o f
+administrative barriers may alleviate such problems. Further trade liberalization during the
+remainder o f the decade is expected to take place in the context o f Cape Verde’s ongoing
+accession to the World Trade Organization (WTO).
+32.
+The investment climate as the facilitator of private initiative. The Government has
+recently initiated reform o f corporate taxation and administrative barriers, and has given
+emphasis to judicial strengthening in order to ensure an even playing field that will stimulate
+private investment. Tax reforms include reduction o f the marginal effective tax rates for
+enterprises, rationalization o f the system and reduction o f exemptions. Administrative
+barriers are excessive: it takes between 96 and 200 days to open an enterprise in Cape Verde.
+In 2005, through IDA funding, the registries will be electronically linked throughout the
+islands and businesses should be able to be registered with 48 hours, assuming all documents
+are in order. Expected reforms would improve the interface between the private and public
+sector, reduce delays and transaction costs and contribute to improved supply chains. The
+thrust o f judicial strengthening i s to implement a legal and institutional framework that
+strengthens property rights, and facilitates rapid and fair dispute resolution.
+
+33.
+Functioning of labor markets. Unions are strong in the public sector and parastatals,
+particularly in transport and utilities. While this has not prevented divestiture o f these
+sectors, i t has led to situation where compensation to retrenched workers has been well above
+the minimum required by law. Public sector unions have been a responsible partner and have
+agreed to a social compact with Government that has contributed to social stability at times
+o f austerity. Labor regulations reflect a legacy o f past policies, and may have contributed to
+high official unemployment rates o f about 25 percent. The high severance pay regulations,
+which call for payment o f one month or more with every year o f work, increase employment
+costs and hinder the functioning o f the labor market. Changes in employment are hampered
+by the limited portability o f pension benefits. Finally, the legislation defining the modalities
+o f employment relations needs to be updated. Labor issues limit growth, constrain the
+development o f export-oriented activities, and contribute to inequality. The Government i s
+aware o f these problems and has drafted a comprehensive labor code, already presented to
+and discussed with the private sector. This code would facilitate labor mobility and ensure a
+closer relationship between compensation and labor productivity.
+Financial sector development in support of economic activities. The banking sector
+34.
+is fairly modem and, in view o f l o w non-performing loans, does not appear to face
+significant systemic risk. Financial deepening i s taking place and a modem payments system
+i s being implemented. Envisioned pension reform should contribute to the mobilization o f
+
+- 12term resources that can be recycled for investment financing, while at the same time reducing
+fiscal contingent liabilities and strengthening the safety net for formal sector employees. The
+sector issues s t i l l to be tackled include the high intermediation costs and under-developed
+financial services, especially for SMEs.
+35.
+Combating money-laundering. Cape Verde has demonstrated determination in
+combating money laundering by recently passing anti-money laundering legislation and
+joining the Inter-African Group Against Money Laundering. With some support provided by
+an ongoing IDA project, Cape Verde i s taking further steps to fully comply with international
+standards, including enacting specific regulations, promoting an effective bank supervisory
+system, and related capacity enhancement. Cape Verde i s also currently participating in a
+project initiated by the Portuguese government, in collaboration with the World Bank, aimed
+at providing further assistance in this area to Portuguese-speaking countries.
+
+36.
+Rural Development. Less than 10 percent o f the land is suitable for agricultural use
+and agricultural productivity is low. Farming i s mainly based o n smallholder farmers
+cultivating less than 1.5 hectares o n average. About 40 percent o f rain fed arable land is
+owned by farmers that cultivate it, and the poor have limited access to productive land. Only
+7 percent o f cultivated lands are irrigated. Rural households do not produce enough food to
+satisfy their consumption needs, and agricultural production contributes to about 15 percent
+o f Cape Verde’s food needs. L o w aquifer reserves and erratic rainfall constitute limiting
+factors. The mountainous geography also causes water run-off and soil erosion. While urban
+areas rely o n desalinization plants, rural areas have limited water harvesting and stocking
+infrastructure. Constrained access to quality education further reduces alternative
+employment opportunities for the rural poor. The rural population has been supported by
+labor-intensive public works schemes, which may have created welfare-dependency while
+building limited skills. Improving revenues in the rural areas would require both farm and
+non-farm activities.
+
+37.
+The Government i s aware that over-investment in rural activities i s a risk and intends
+to stimulate viable rural activities where this can be done in a manner that i s sustainable and
+affordable for the budget. Priorities include developing smallholder production systems
+resilient to shocks (irrigated agriculture) and oriented towards high added-value/competitive
+products. This would be achieved through increased reliance o n water-efficient irrigation
+technology, particularly on a small-scale basis. Agricultural techniques would include
+measures to mitigate soil degradation and improve water resource management.
+Furthermore, efforts would also concentrate o n non- farm activities. Small-scale fishing and
+related downstream activities show some potential. Other non-agriculture-related activities
+may include cottage industries (wood carving, pottery making, weaving) and tourism and
+eco-tourism services. Finally, improved land tenure would contribute improved access to
+credit and rural development. The Bank does not have substantial past involvement in rural
+development in Cape Verde and has limited knowledge o f the rural sector. The CAS calls
+for a Rural Development Assessment (RDA). This study would underpin future investment
+in the rural sector and help leverage a collaboration with other donors, notably FAD.
+38.
+Environmentally Sustainable Growth. The perception o f mounting natural resource
+challenges prompted Government to undertake an Environmental Action Plan (PANA-I) in
+1994, which was updated in 2004. PANA-I1provides a strategic orientation for the rational
+use o f natural resources and the sustainable management o f economic activities. I t s basic
+
+-13premise i s that the sustainable use o f resources and environmental protection are central to
+poverty reduction through the safeguard o f environmental assets, improved food security,
+and employment opportunities. The Plan i s comprehensive and i s the result o f broad
+consultations. It emphasizes sectoral linkages and management o f the environment at the
+municipal level and identifies three main environmental issues that match the M D G s in the
+areas o f (i)
+water supply; (ii)
+sanitation, (iii)
+marine and terrestrial biodiversity.
+Implementation o f the Plan will be overseen by the Department o f the Environment, which
+was established in 2002 within the Ministry o f Environment, Agriculture and Fisheries. A
+broad array o f donors supports the Plan. Major Bank involvement in this area i s not
+anticipated, even though the proposed RDA study would cover fisheries and i s expected to
+lead to a GEF grant in FY07.
+D. H u m a n capital development and social protection
+Expenditure programs in favor of the poor need to be expanded. The 2004 PER
+39.
+notes that since 2000, education and health account for about 30 percent o f public
+expenditures, one o f the highest levels with respect to comparators, including East Asian
+countries. Sustaining this ratio i s proving difficult in the face o f budget constraints,
+especially as mandatory and other priority expenditures crowd out other programs. An
+exacerbating factor is the increasing percentage o f primary school students that enroll in
+secondary education and the rapidly growing demand for health services, especially as life
+expectancy goes up. Both education and health services are facing demands that cannot
+continue to be met under the existing budget constraints. Therefore, achieving social sector
+objectives will take greater prioritizing and/or perhaps pursuing innovative ways to ensure
+greater private sector participation. The Government i s aware o f the need to make these
+programs more targeted towards the poor through cost-sharing by those with the ability to
+pay. Furthermore, fiscal space is being created for complementary social protection
+programs needed to alleviate the impact o f inequalities mentioned above.
+Expansion in access to and improved quality of education i s central to long-term
+40.
+poverty reduction. The Government sees as a priority to deepen the improvement of
+education quality, especially as most children complete primary education. There are two
+to continue providing textbooks and
+key priorities to be supported by the Government: (i)
+teachers' guides; and (ii)
+to reinforce and improve quality o f in-service teacher training.
+Universal enrollment at the primary level has created a surge in demand for secondary
+education. Enrollment figures in secondary increased three-fold from 16,000 students in
+1994 to about 50,000 students in 2002-2003, a figure that is expected to grow to 70,000 by
+2015. W h i l e the Government has instituted fees for secondary education, its unit costs are
+more than 2.5 times those o f primary education. Expanding access to both pre-school and
+tertiary education will fui-ther test the financial framework o f the sector. Revamping
+professional training and the apprenticeship system has traditionally been seen as important
+for providing opportunities o f fiu-ther education to a growing number o f students who only
+completed primary education and do not have the skills needed to enter the j o b market.
+However, the Government's vision also goes well beyond this limited objective and i s linked
+to its ambition for Cape Verde to build a competitive economy for the twenty-first century.
+To this effect, in the context o f its education reform strategy, the Government i s developing
+an ambitious policy to support professional training as an additionaVcomplementary option
+for secondary graduates and for graduates from lower secondary to be oriented towards high
+schools with technical and professional streams.
+
+- 144 1.
+
+Non-communicable diseases are becoming more prevalent, claiming an increasing
+share of the health care budget. Despite impressive strides, such as the eradication o f many
+
+contagious diseases that undermine development on the African continent, including
+containment o f AIDS and maintenance o f l o w prevalence rates around one percent, the
+growing cost o f non-communicable diseases strains the financial sustainability o f the health
+system. A s health indicators improve in Cape Verde, becoming comparable with those o f
+middle-income countries, fiscal instability o f the system is the main sectoral issue. The
+public sector health system faces serious financial difficulties, even though total Government
+health spending in Cape Verde is generous and financing by donors i s the second highest per
+capita in Africa. The main causes o f the financial problems are: (a) a growing deficit at the
+I N P S (National Institute for Social Protection), which reached two percent o f GDP in 2002;
+(b) a high and rapidly increasing rate o f expenditures o n pharmaceuticals; and (c) increases in
+demand as incomes improve and the population ages. In 2002, total health expenditures were
+approximately 4.5 percent o f GDP. Only 54 percent o f these expenditures were included in
+the Government budget: private, out-of-pocket expenditures accounted for 18 percent and
+INPS was 28 percent. The main challenges for the Government will be to develop a
+sustainable health-financing framework, including expansion o f insurance coverage, and to
+address inequities in access to services, including medicines for the poor. With respect to
+health financing, it should be noted that sustainability issues have been identified regarding
+the health fund that faces large accumulated debt. Work i s under way to quantify this
+problem and implement solutions that would help restore the system’s financial equilibrium.
+However, i t is likely that the related financial restructuring will impose additional temporary
+demands o n the budget.
+Creating a sustainable social protection system. A further challenge will be to
+42.
+reduce vulnerability and social exclusion, particularly among those least able to avoid or
+cope with shocks. The long-term covariate risk o f drought (when there i s a drought, all the
+islands tend to be hit so that there i s little room for spreading the losses by having people
+diversify their income sources to other economic activities) has led generations o f Cape
+Verdeans to mitigate risks through labor migrations. The remaining rural population has
+been supported by labor-intensive public works schemes (FAIMO - Frente de Aka
+Intensidade de Mi0 de Obra). Over time, the system generated a welfare-dependency;
+wages were low; no real skills were accuqulated; and there was little monitoring and
+evaluation o f the quality and impact o f the infrastructure created. Management o f
+idiosyncratic risks to health, livelihood, and access to services by vulnerable groups-such as
+the elderly, children and youth at risk, and single mothers-is currently addressed through a
+patchwork o f social assistance programs carried out through both public and NGO providers,
+with little overall coordination o f the quality, targeting or impact o f these services. In terms
+o f formal social security systems, the aging ex-FAIMO workforce and targeted groups have
+access to small pensions through non-contributory schemes, and formal sector workers and
+civil servants through contributory schemes. Coverage i s limited and targeting o f the noncontributory schemes needs improvement. Current pensioners with state or private pensions
+enjoy generous entitlements, but both schemes require changes to make them sustainable
+instruments to manage the risks associated with aging, particularly given Cape Verde’s
+demographic evolution.
+
+43.
+Mainstreaming gender issues. Gender issues are mainstreamed in the GPRSP and
+reflected in the results framework o f the C A S and PRSCs. Gender disaggregated
+performance indicators and those for priority interventions will be tracked in all relevant
+
+-15sectors. By the end o f the GPRSP period, the Government expects to have attained the
+following monitorable outcomes: (a) in education, gender parity achieved in primary
+education will be extended to the secondary level; (b) in health, access o f poor women to
+health services and specifically the presence o f trained staff, including midwives in poor
+districts, will be increased; (c) in social protection, the number o f women benefiting from
+decentralized social services, and o f poor women receiving social pensions and support for
+essential medicines will be increased; and (d) within justice, women will have benefited from
+community-based programs on knowledge o f law, and from judicial aid and alternative
+disputes resolution mechanisms.
+
+E. GPRSP Priorities and supporting basis
+44.
+For each of its pillars, the GPRSP provides a cost estimate (above current
+allocations) over the next three years. The cumulative overall amount i s about US$460
+million o f which 4 percent i s allocated to governance, 15 percent to Private Sector
+Development (PSD), 20 percent to the social sectors, 51 percent to infrastructure, and 14
+percent to social protection. The high allocation to the infrastructure sector reflects i t s
+prominence in the GPRSP, even though the Government i s aware o f the risk o f crowding out
+other expenditures should (a) some o f the expected funding fail to materialize, or
+(b)resulting recurrent costs impose an unsustainable burden o n the budget. The risk
+mitigation strategy includes reliance on the private sector to make and maintain a portion o f
+investments needed and prioritization o f programs so that only those with highest priority are
+funded within any given resource constraint. The remaining pillars will therefore benefit
+from other resource flows. At about 7.5 percent o f GDP per year, the complete financing o f
+the priority expenditures in the other pillars seems ambitious, but realistic.
+45.
+The growth projections of the GPRSP are relatively optimistic and higher than those
+o f the IMF PRGF-supported program (6.5 percent real annual growth versus 5 percent), but
+their underpinnings are clear and realistic: inflation projected at two percent (in line with
+Euro zone projections and consistent with the fixed exchange rate regime). Growth would
+come from higher domestic investment levels through the GPRSP period (at 23 percent, 3
+percent above the PRGF-supported program). I t should be noted that the CAS includes a
+more conservative GDP growth target o f at least two percent per capita, which is the
+minimum required to sustain poverty reduction o f about one percentage point per annum. In
+the projections, public investment is expected to increase by 1.6 percent o f GDP to 7.1
+percent. Private investment including foreign direct investment i s projected to rise from 14.7
+percent o f GDP in 2004 to 16.0 percent. In the longer term, investment-driven growth should
+gradually make way for export-driven growth. Exports o f goods and non-factor services
+(GNFS) should gradually increase to more than 38 percent o f GDP, up from the current
+figure o f 30 percent. Throughout, fiscal discipline will underpin private sector confidence.
+The deficit (after grants) i s expected to reach n o more than 4.8 percent o f GDP, it being
+understood that some o f the programmed expenditures would occur only if external financing
+materializes. T o achieve full financing will require successful mobilization o f internal and
+external resources, as well as a refocusing o f domestic expenditures towards priority
+programs. The GPRSP funding gap i s estimated at at least US$60 m i l l i o n per annum.
+Annex 3 summarizes the financing needs for each pillar. Relevant analysis shows that debt
+service can be sustained in the medium to long term.
+Monitoring and evaluation of the GPRSP i s a key instrument. The GPRSP’s
+46.
+implementation will be carried out through an integrated institutional framework, on the
+
+- 16basis o f a comprehensive set o f 37 core indicators. A GPRSP Coordinating Commission,
+comprised o f representatives fkom ministries, municipal governments, the Central Bank, the
+National Statistics Institute (NE), the private sector and NGOs, will oversee this. Mayors
+head consultative commissions at the decentralized level. The Technical Secretariat to
+Support Development (TSSD) under the General Direction o f Planning has day-to-day
+responsibilities to provide technical guidance, monitor program performance including
+reporting on the core set o f indicators, and inform internal and external partners o f progress,
+This framework will also be relied on to monitor CAS indicators.
+The GPRSP’s strategic framework is appropriate. The GPRSP was developed
+47.
+through a broad, participatory process under the guidance o f a Steering Committee supported
+in i t s activities by the TSSD. The GPRSP has a matrix approach o f pillars in strategic areas
+and cross-cutting policies (macroeconomic stability, decentralization, employment policy,
+etc.), which results in a comprehensive view o f poverty reduction. Two shortcomings are
+that the status o f TSSD remains undetermined and that the Secretariat will require capacity
+enhancement. Both issues are being addressed by Government, with the support o f donors.
+
+48.
+Debt Sustainability. Concessional lending will continue in the foreseeable fbture
+under the “small island rule” that allows higher GNP per capita thresholds for graduation to
+IBRD. A review o f debt levels indicates that debt sustainability i s not an issue at present,
+and is unlikely to become one in the future. Specifically, following the negotiated reduction
+o f bilateral debt, the ratio o f external public debt service to exports has been declining from
+29.2 percent in 2001 to 10.6 percent in 2003, which points to the sustainability o f Cape
+Verde’s external position over the medium term.
+
+IV. BANKEXPERIENCEUNDER
+THE PREVIOUSCAS
+49.
+The bulk o f Bank’s lending occurred after 1992. As o f January 10,2005, IDA had
+extended 21 credits to Cape Verde, amounting to about US$198 million equivalent, o f which
+US$174 million has been disbursed. Sixteen credits have closed, and the current portfolio
+includes four projects (five credits), amounting to US$58.1 million, o f which about US$25
+million remains undisbursed. In recent years, lending to Cape Verde has averaged about
+US$15 million per year, peaking at about US$30 million in 1997.
+
+50.
+The CAS has provided a useful framework to guide Bank support. The last CAS
+for Cape Verde was presented to the Board in December 1997. I t covered the period FY9800. A CAS update, covering FY01-02, was presented to the Board in August 2001. The
+goal o f the CAS was to support macroeconomic management and debt reduction, private
+sector development, human resource development, and poverty reduction. Six credits were
+extended during the 1997 CAS period, which i s broadly in line with the high-case scenario.
+The CAS update maintained the same objectives and envisaged additional lending through
+three operations, all o f which were approved by the Board. One o f the three operations, the
+Structural Adjustment Credit - prepared in four months in response to Government’s request
+for World Bank assistance in the face o f the balance o f payments and fiscal crisis
+experienced in 2001 - was key in staving o f f significant macroeconomic difficulties.
+According to a recent OED assessment, this operation exceeded i t s objectives with respect to
+key policy reforms. T w o supplemental credits o f US$4 million each and a Growth and
+Competitiveness Project were also prepared during 2002-2003.
+
+- 175 1.
+Historically, the performance of the portfolio has been satisfactory and
+Government has been effective in addressing emerging issues. Since the previous CAS
+and i t s update, the Government has demonstrated i t s ability to manage a larger portfolio o f
+projects. Up to now, all Bank projects in Cape Verde have closed with a rating o f
+satisfactory or better. However, two important projects (Privatization and Regulatory
+Capacity Building; and Energy and Water) were downgraded to unsatisfactory during FY04;
+so was another project (Social Sector Development) in October 2004. The problems
+experienced under the first two projects were attributable to a number o f unresolved
+infrastructure issues, including delays in divestiture, lack o f adequate regulatory capacity and
+policy indecision. These issues are being addressed. The privatization project experienced a
+significant turnaround and development objectives were expected to b e largely met by
+closing in December 2004. Exceptionally, the Energy and Water Project i s being extended
+for two years to allow for the completion o f k e y works and resolution o f contractual issues
+with the private partners. Finally, with regard to the Social Sector Development Project,
+Government has implemented the actions agreed with the Bank and a satisfactory outcome
+appears more likely.
+
+52.
+Experience i s encouraging. As discussed above, in spite o f recent difficulties
+reflected in the downgrading during 2004 o f three projects to unsatisfactory, the majority o f
+activities have been successfully undertaken and have been sustainable. Implementation
+challenges, which included high turnover o f staff, procurement at the local level, and
+weaknesses in accounting procedures, have been overcome. The Government has given
+priority to a progressive elimination o f Project Implementation Units (PIUs) and the
+mainstreaming of project implementation. This is being achieved through PIU consolidation
+and by projects being implemented by existing institutions (by the end o f the FY05-08 CAS
+period, there will be at most one PIU in operation). In the short term, implementation
+capacity problems have been addressed through training and/or hiring o f experts in
+procurement, financial management, etc. Strong stakeholders’ ownership and their increased
+involvement in project implementation, as well as an effective partnership between
+Government and IDA, have been keys to success. Further evidence o f this i s provided in the
+case o f the Privatization and Regulatory Capacity Building Project, where an ineffective
+participatory process in the form o f a non-functioning steering committee was partly
+responsible for delays in implementation. Lessons learned are being integrated in ongoing
+and planned investment lending, and this approach seems to be paying off: the HIV/AIDS
+Project has been upgraded to highly satisfactory and some components o f the Growth and
+Competitiveness Project are also rated as highly satisfactory.
+53.
+Lessons from the last CAS and the CAS update. The CAS update points to
+important achievements under the 1997 CAS. Infrastructure was constructed, and policy
+reform and divestitures in key enterprises were completed. Implementation challenges,
+which included high turnover o f staff, procurement at local level, and good accounting, were
+successfully overcome. Strong stakeholder ownership and good relationship with the Bank
+were additional elements in the success. The shortcomings noted included the problems in
+1999 and 2000 with public expenditure management, some unresolved domestic debt issues,
+and delays in divestitures. A contributing factor may have been that analytical work to
+address key issues briefly declined during the late 1990s, as a result o f a temporary drop in
+Economic and Sector Work (ESW). Another issue related to insufficient participation o f
+stakeholders in oversight o f some projects was reflected in ineffective steering committees (a
+few did not meet over long periods).
+
+- 1854.
+Good results can be achieved once risks and policy issues are addressed.
+Excellent performance, notably under the SAC, has been partly undermined by slow progress
+in the infrastructure reform agenda, especially in the area o f regulation and improved
+competition policies. These risks will be mainly addressed through dialogue under the
+Growth and Competitiveness operation. Another example o f transitional problems affecting
+results i s the Government’s decision to consolidate PIUs. The decision was implemented in
+2003, whereby actions were taken to rationalize j o b descriptions and salary structures for
+consistency among PIUS. In some cases, the salaries increased, but in most, they decreased.
+The use o f the same PIU by two or three projects led to the achievement o f economies o f
+scale, increased synergies, and lowered administrative costs. In isolated cases, the salary
+reductions may have exacerbated staff turnover, affected morale and undermined
+implementation - for example in the case o f the Social Sector Development Project. The
+integration of the execution o f future projects within existing structures will eliminate some
+problems, but could result in conflicting priorities and inadequate capacity. These problems
+could be addressed through appropriate training and reliance o n short-term experts.
+55.
+Non-lending services increased. Another recent achievement i s the increased
+delivery since 2001 of important ESW envisaged in the SAC. These include a Public
+Expenditure Review (PER, FY04), a Country Financial Accountability Assessment (CFAA,
+FY03), a Country Procurement Assessment Report (CPAR, FY04), a poverty assessment
+(FY04) and a Development Policy Review (DPR, FY05). These studies have been important
+inputs into the policy dialogue and have facilitated future programmatic lending. The study
+on the Role o f the State (FY04) provided underpinning to the proposed civil service reform
+and local community empowerment under the proposed PRSC. Other E S W not envisaged in
+the CAS and i t s update, but prepared because i t responded to an important gap in knowledge,
+include two Foreign Investment Advisory Service (FIAS) reports o n administrative barriers
+and taxation, as well as informal reports o n economic regulation and pensions. Reflecting
+the “demand-driven” nature o f these reports, they benefited ofim cofinancing o f consultants
+either by donors or Government (through IDA Credits).
+
+v.
+
+WORLD BANKGROUPASSISTANCE
+STRATEGY
+
+A. The World Bank Group’s results-based assistance strategy
+The proposed CAS is aligned with the GPRSP. The thrust o f the Bank’s future
+56.
+program i s to assist Cape Verde in implementing i t s Growth and Poverty Reduction Strategy,
+and the proposed CAS i s aligned with the GPRSP pillars. In view o f the need to sustain
+poverty reduction while addressing relatively high inequity, the Bank’s strategy i s articulated
+around three objectives that constitute the CAS pillars:
+(a) ensuring macroeconomic stability and sound public finance and budget systems;
+
+(b) supporting private-sector-led growth through an enhanced investment climate and
+increased competitiveness through public-private partnerships in infrastructure; and
+(c) implementing social programs aimed at alleviating poverty and inequity.
+The strategy cuts across and contributes to the GPRSP by focusing o n areas where the
+57.
+Bank has a comparative advantage. A s selectivity i s needed to maximize the impact o f
+limited IDA resources, interventions are proposed in areas that are likely to generate the
+
+- 19strongest results. The CAS calls for a significant shift towards programmatic lending,
+complemented by a multi-sectoral investment operation, to the extent possible every two
+years. Contributing to the harmonization agenda, Bank group support aims to catalyze other
+donors and build partnerships.
+58.
+Achieving greater development effectiveness. This i s to be attained through
+emphasis on growth and poverty, and consolidating projects so that they encompass multiple
+complementary objectives, such as macroeconomic stability, fiscal reform, sector reform and
+capacity enhancement. The CAS i s flexible in terms o f i t s proposed interventions. The fouryear horizon (FY05-08) will also provide stakeholders greater certainty over the scope and
+timing o f IDA support. As detailed below, results-orientation i s the most important feature
+o f the present CAS.
+
+59.
+Through the assistance described in this CAS, the Bank will: (a) develop better
+dialogue with all stakeholders; (b) use ESW to stimulate policy dialogue and support lending;
+(c) establish better linkages between implementation and G P R S P M D G results; and (d) build
+human capital through lending and advisory services. Table 3 summarizes a framework for
+monitoring progress towards intended results and ensures better alignment o f proposed and
+ongoing programs. Annex 1 provides additional details related to the results framework.
+Contributions to CASpillars. IDA supports the achievement o f the GPRSP goals
+60.
+through its existing lending portfolio, the planned CAS program o f lending, advisory
+services, and capacity enhancement for monitoring and evaluation. IDA’S assistance
+strategy, including ongoing and proposed lending, aligns with the GPRSP priorities as per
+Table 3 (next page). The CAS pillars are as follows:
+
+>
+0
+
+0
+
+>
+0
+
+7
+
+CAS Pillar I - ensuring macroeconomic stability and sound public finance and
+budget systems:
+The proposed PRSCs would be the main vehicle for supporting improved budgeting
+and budget systems, focusing o n the areas o f public expenditure management, civil
+service reform, decentralization, and judicial reform; and
+The ongoing Growth and Competitiveness Project (US$1 1.5 million, FY03)7 supports
+the development o f an appropriate investment climate through simplified Government
+procedures.
+CAS Pillar 2 - supporting private-sector-led growth through an enhanced investment
+climate and increased competitiveness through public-private partnerships in
+infrastructure:
+The ongoing Growth and Competitiveness Project seeks to broaden the base o f
+private participation in Cape Verde’s economic growth, enhance private sector
+competitiveness, further develop its financial sector and strengthen legal systems;
+
+Credit 3755-CV closes on February 28,2008.
+
+- 20 Table 3: CAS results-based framework
+Strategic and longer term
+/Higher order country
+outcomes
+Maintain a stable
+macroeconomic framework
+o f 2 percent per capita GDP
+growth
+Improve budget systems
+Ensure adequate public
+expenditures allocation and
+control
+
+I
+
+Reduce over-extended
+Govemment
+Improve investment
+climate
+
+Macro stability
+Debt sustainability maintained
+
+Pillars 1 t o 5
+
+P E M more transparent, and oversight institutions empowered
+
+Pillar 1
+
+Public expenditures allocated and used according to GPRSP pnorities
+Municipalities function in clanfied framework matched by adapted resources
+
+Pillars 1, 3
+and 5
+
+Improved ability t o manage public sector reform across institutions
+Framework to manage and train civil servants better adapted t o modem
+administration
+
+Maintain an efficient,
+effective and accountable
+public sector
+Improve knowledge and
+access to legal and judicial
+system
+
+CAS link
+to GPRSP
+Priorities
+
+CAS Outcome(s) during 4-year Period
+
+I
+1
+
+Improved adherence and knowledge o f the law among l a w communities
+Increased free access to justice system by the poor
+Improved supply o f professional mechanisms such as mediators
+
+CAS Pillar Two: Growth and Competitiveness
+Divestiture program to be completed by end-2005 and increase in publicpnvate partnerships
+Transaction costs are reduced and contnbute to improved supply chains
+Property nghts are strengthened and legal framework facilitates rapid and fair
+dispute resolution
+
+Pillar 1
+
+1I
+
+Pillars 1
+and5
+
+I Pillars 2
+and 4
+
+Pillars 2
+and 4
+
+Maintain adequate
+economic regulation capacity
+
+Adequate functioning o f Economic Regulatory Agency (ERA)
+
+Pillars 2
+and 4
+
+Improve functioning o f
+labor markets
+
+Comprehensive labor code in place
+
+Pillars 2
+and 4
+
+Enhance competitiveness
+o f infrastructure
+
+Investments to enhance competitiveness and reduce costs
+
+Pillars 2
+and 4
+
+Improve growth potential
+o f rural sector
+Encourage environment
+sustainable growth
+
+Smallholder production systems and non-farm activities are developed,
+including small-scale fishing, cottage industries and inputs t o tourism sector
+Adequate implementation o f Environmental Action Plan
+
+education and improve
+quality o f educational
+opportunities
+
+Improved quality and efficiency o f education
+Expanded and diversified general and technical secondary education and
+professional training service delivery
+Consolidated and restructured tertiary education sector
+
+Develop a sustainable
+health-financing framework
+and address inequities in
+access to services
+
+Improved sustainabihty, access and quality o f health services
+M o r e efficient health services
+Improved coverage o f p n o n t y health programs Integrated Management o f
+Childhood Illness (IMCI)
+Population more knowledgeable and with healthier behaviors
+
+Reduce vulnerability and
+social exclusion, particularly
+among those least able to
+avoid or cope with shocks
+and continued reduction in
+poverty by about one
+percentage point per year
+
+Improved ability t o plan and monitor social assistance services
+Improved access by the poor t o education, health and nutrition services
+Expanded coverage and better targeting o f the non-contributory pensions
+schemes
+Improved outreach and coverage o f children at extreme risk
+Better prevention and management o f food crises
+
+Pillars 2
+and 4
+Pillar 4
+
+Pillar 3
+
+I
+
+- 21 0
+
+0
+
+0
+
+0
+
+0
+
+9
+0
+
+0
+
+0
+
+The ongoing Social Sector Development Project (US$20.1 million, FY99)8 has been
+one o f the Government's central programs in the re-conversion o f F A I M O public
+works programs by promoting economically and socially usefbl works executed costeffectively by the private sector, and including support to small-scale entrepreneurs to
+enable them to carry out some o f the works;
+The proposed Road Sector Support Project (FY06, USSl5 million equivalent) would
+support Cape Verde's objective to improve i t s multi-modal transport network. In
+particular, it would improve communities' links to the main intra- and inter-island
+networks, fill critical network gaps and provide support to institutional reform and
+capacity enhancement in the sector;
+The ongoing Energy and Water Sector Reform and Development Projectg (US$17.5
+million, FY99) aims to (i)
+improve the supply o f power, water and sanitation systems,
+(ii)
+increase the operational and end-use efficiency in the power and water sectors,
+(iii)
+lessen the barriers to the development o f renewable energy sources, and
+(iv) foster the sound management o f water resources;
+The proposed Multi-sector Private Infrastructure Project (MPIP, FY07, US$5 million
+equivalent) would support infrastructure associated with rural development and
+tourism, as well as utilities and transport; and
+The proposed GEF grant (FY07, US$5 million) would improve fisheries and
+environmental and coastal management.
+CAS PiZZar 3
+inequity:
+
+-
+
+Implementing social programs aimed at alleviating poverty and
+
+The proposed PRSC series would provide programmatic support for education and
+health policy reforms in line with GPRSP objectives, and would support
+improvements in the coverage, targeting, effectiveness and financial sustainability o f
+the social protection system, including social pensions, social assistance, community
+development, targeted programs to increase access to social services, and
+management o f food crises;
+The ongoing HIV/AIDS Project", and its proposed follow-up under the high case,
+supports the goal o f the national strategy to reduce the spread o f HIV infection in the
+country; and
+The ongoing Social Sector Development Project has built a significant number o f
+basic social service facilities, including classrooms, rural health posts, community
+centers and day care facilities in order to expand access in the poorest communities.
+
+* Credit 32240-CV o f US$16.1 million and Credit 32241-CV o f US$4.0 (supplemental) are scheduled
+to close on March 31,2005.
+Credit 3205-CV closes on December 3 1, 2006.
+lo
+Credit 3629-CV closes on December 3 1,2006.
+
+- 22 I t also strengthens municipalities and local associations’
+
+community development targeted to vulnerable groups.
+
+ability to engage in
+
+B. World Bank Group country program and vehicle for assistance
+
+6 1.
+The CAS has built upon the participatory process of the GPRSP. The CAS builds
+on the broad in-country consultations on the GPRSP. Throughout its preparation, the key
+proposed IDA lending instrument, the PRSC, has been discussed extensively with
+representatives o f the Government and local communities, the civil society, the private
+sector, NGOs, unions and donors. Finally, discussions were held during the week o f
+December 6, 2004 with all main stakeholders, including key Government counterparts,
+NGOs, civil society and private sector representatives, and donors. The exchanges focused
+on the strategic partnership matrix, the CAS lending and advisory programs, the triggers for
+IDA assistance, and the expected results framework. The CAS was generally well received
+and supported by stakeholders. The present document reflects feedback received.
+Strategic considerations, aid effectiveness, harmonization and selectivity are key
+62.
+elements of the CASprogram. An increase in IDA and donor aid effectiveness i s to be
+achieved through the progressive consolidation o f the portfolio into three or four operations
+by the end o f the CAS period and through better harmonization. Lending and advisory
+services are intended to avoid duplicating the efforts o f other development partners. This
+includes traditional donors, such as the European Union (EU) and Dutch cooperation, as well
+as newer ones, such as the Global Fund for HIV/AIDS and the Millennium Challenge
+Corporation, which i s expected to be a key cofinancing partner in infrastructure. In the case
+o f the PRSC, the donor harmonization agenda is being advanced through a memorandum o f
+understanding on budget support developed with Dutch aid and the EU. Finally, the Bank
+will continue to work closely with the IMF to support the Government’s efforts to strengthen
+public finance management. In a number o f areas where the mandates o f the two institutions
+overlap, the work i s being coordinated to ensure that consistent advice i s provided to the
+authorities. The goal o f advisory services i s to define appropriate public interventions for
+growth and poverty reduction, and to provide a forum for stakeholders to discuss specific
+policy and reform issues. In this context, the Government o f Cape Verde has requested, from
+a Bank-administered trust fund, financing o f advisory services related to output-based aid.
+This i s expected to be approved during FY05.
+New World Bank procedures will provide greater lending flexibility. The country
+63.
+financing parameters for Cape Verde are set out in Annex 4 (with supporting analysis).
+There will be opportunities for investment projects to be designed using these parameters and
+to take advantage o f increased flexibility under the Bank’s new expenditure eligibility policy.
+
+64.
+Rationalization of IDA lending and rapid transition to budget support are key
+features of the CAS. The Government has requested a significant shift away from
+investment lending towards programmatic lending based o n the GPRSP. Government and
+donor ongoing support to institutional capacity enhancement in Cape Verde makes this
+possible. The four-year base-case lending program o f US$50 million and a proposed GEF
+grant o f US$5 million includes an IDA Roads scale-up operation originally programmed for
+FY05. Sixty percent o f the proposed lending will be in the form o f budget support through a
+series o f PRSCs. The rest will support the development o f private and rural sectors, and
+infrastructure programs. Table 4 summarizes the CAS lending scenarios. The lending
+
+- 23 scenario has been developed at a time when the amount o f IDA 14 replenishment has not yet
+been fully known. Should the IDA resources allocated to Cape Verde during FY06-08
+exceed the envelope assumed in the CAS, the Credit amounts for PRSC2 and 3 and the MPP
+project would be adjusted accordingly.
+Table 4: CAS Lending Scenarios - US$ Million
+
+NO5
+Programmatic
+
+FY06
+
+FY07
+
+PRSCl (USrS15.0)
+PRSC2 (USrS7.5)
+
+PRSC3 (USrS7.5)
+PRSC3 (USrS5.0) gl
+
+Investment
+
+Base
+
+High
+
+FY08
+
+Roads (US$lS.O) bl
+
+PRSC4 (USrS9.0)
+
+MPIP (USrS5.0)
+Fisheries (US$5.0 GEF)
+HIV/AIDS2 (USrS5.0)
+MPIP (USrS5.O)d
+
+-a1 In the high case, the credit amount would be in addition to the base case.
+
+I
+
+bl Project will be ready in FY05 and presented in FY06 if IDA resources are not available before June 2005.
+
+65.
+In view o f Cape Verde’s long and good track record, the low-case lending scenario i s
+considered very unlikely. The low-case scenario would materialize primarily if there were
+serious macroeconomic slippages, which in any event would delay future PRSCs. The FY05
+lending scenario assumes that the PRSCl will be fully funded under the l o w case. The
+proposed PRSC would allow IDA to consolidate i t s lending operations and engage in policy
+and technical dialogue in three GPRSP pillars. This choice o f pillars matches IDA’S
+comparative advantage and division o f labor with investment projects in the portfolio, and
+reflects selectivity with other donor support. The objectives o f the proposed PRSC series are
+to: (a) support the policies and reforms set forth in the Government’s GPRSP in order to
+achieve sustained improvements in the well-being o f the population; (b) develop an improved
+form o f external assistance that reduces distortions and transaction costs associated with
+project-based aid and increases Government capacity to plan, execute and monitor i t s efforts
+to address poverty; (c) harmonize donor support around the GPRSP, including alignment
+with other multilateral and bilateral donors (EU, Dutch cooperation) involved in or planning
+budget support operations; (d) provide predictable support to the budget cycle to consolidate
+and smooth resource transfers, particularly important given its external vulnerabilities; and
+(e) improve access to and quality o f key social services.
+
+66.
+Even though Cape Verde’s IDA lending in FY05 i s affected by shortages in IDA13
+resources, the Roads Project - under preparation since F Y 0 4 as part o f the IDA infrastructure
+scale-up program - remains in the base case, but with a scaled-down amount o f US$15
+million (envisaged initially at US$25 million). Should this operation fail to materialize in
+FY05 because of IDA resource constraints, i t would be delayed to FY06. The M P P would
+aim to support public-private partnerships and private initiative, mainly in the areas o f
+
+- 24 -
+
+infrastructure (broadly defined),ruraldevelopment,andtourism.It
+may include an IDA
+and/or MIGA guarantee and wouldhelp leverage support from other partsof the World Bank
+Group, notably IFC, as well as from the private sector and donors. The sequence of PRSCs
+reflects the need to make a medium-term commitment to supporting the Government in areas
+of public finance management, public administration and human development capital.
+In
+FY08 there would be a need on the Bank’s side to evaluate with its partners the programs
+supported by three PRSCs and results achieved. A PRSC4 operation is planned in FY08
+(US$9.0 million) in the high case. Should high-case triggers be met early on and additional
+IDA resources be allocated to Cape Verde, it is possible that the MPIP would be topped up
+by an additional US$5 million. If sufficient matching donor resources were found for the
+PRSC, an alternative wouldbe to allocate any top-upresourcesunder the high case to
+support growth and infrastructure development, including a possible supplemental credit to
+complement the Growth and Competitiveness Project.
+67.
+
+The country assistance will be enhanced through Analytical and Advisory Activities
+
+(AAA).Much of the analytical work has been front-loadedin FY06 so that it can contribute
+to lending and policy dialogue planned for subsequent years. Advisory services, including
+IDF grants, are expected to be in large part related to infrastructure, fisheries and economic
+management (public service reform) as well as legal. and judicial capacity development.
+Proposed ESW includes core diagnostics, annual PER updates, and general economic work
+(to sustain the macroeconomic and sectoral dialogue). The following studies are planned
+(see Annex 10):
+FY05 - Infrastructure Regulation and Competitiveness Diagnostic Report (based on
+REDI indicators).
+FY06 - (i) Investment Climate Assessment (ICA), initiated
+in FY05; (ii) Pension
+Study based on work undertaken in the context of the Growth and Competitiveness
+Project, and expanded to include
+health care and other benefits.
+FY06-07 - due to budget constraints, work will be initiated in FY06 and may be
+completed in FY07 - (i) Review of Human Development, covering education, health
+and social protection; and (ii) a Rural Development Assessment, including
+an analysis
+of the potential of non-farm activities, fisheries, land tenure and rural microfinance, to
+be cofunded by the Fisheries Partnership Fund.
+FY07 - Integrated CFAA/CPAR update assessing progress in implementing existing
+fiduciary reform agenda anddefining next steps.
+FY08 - (i) Poverty Assessment
+update;
+and
+(ii)
+Long-term
+a
+Growth
+and
+Competitiveness Study, which would provide inputs to the next cycle of GPRSPs
+(initiated in FY07).
+Furthermore, in the context of PRSC implementation support, the extended task team would
+prepare short policy-orientednotesfor discussion with stakeholders.Thesenoteswould
+provide the basis for further studies to be funded by Government and/or donors.
+68.
+Expected contributionsfrom otherparts of the World Bank Group. During the past
+five years, Cape Verde has benefited from the support of different members of the Bank
+Group. This support, which is expectedto continue over the CASperiod,includes
+
+- 25 specialized advisory services from networks and centralized units o f the Bank, notably in the
+area o f pension reform. I F C through FIAS has been an active participant and is expected to
+continue advising on investment climate reform. Cape Verde’s investment promotion agency
+was provided advisory services by MIGA, which may continue in the future. MIGA’s
+guarantees are expected to support future PPPs (Public-Private Partnerships). WBI has been
+supporting the development o f a social protection strategy. Cape Verdean regulators and
+policy-makers have also benefited from participation in specialized training provided by the
+Institute in Dakar. They would further benefit from knowledge management activities
+targeting lusophone countries that might be organized out o f Praia. The Public-Private
+Infrastructure Advisory Facility (PPIAF) will also be called upon to further investigate
+regulatory and infrastructure reform options. Finally, while the I F C has not yet been a major
+player, i t s role should expand as new tourism, information technology and PPP investments
+take place.
+69.
+CAS triggers and expected results. The main CAS triggers to maintain base-case
+lending would include: (a) continued satisfactory macroeconomic performance (PRSC
+trigger); (b) no more than one project with IDA commitment considered at risk (investment
+lending trigger); (c) adequate budget allocation to GPRSP sectors; and (d) avoidance o f
+accumulation o f new domestic arrears especially to suppliers and utilities beyond 0.2 percent
+o f GDP. High-case triggers would include: (a) no part o f the portfolio considered at risk;
+(b) substantial implementation o f priority actions o f the CFAA, including (i)
+presentation to
+Parliament o f the executed budget o f the previous year no later than six months after the end
+o f the year, and (ii)
+submission to Parliament o f the State’s general accounts for the period
+2000-2003; (c) completion o f process to attract private partners in the transport sector,
+specifically the airline and the port; and (d) improvement in the investment climate”, as
+measured by the reduction by half o f the average time to establish an enterprise, using 2002
+as a point o f reference.
+In line with ensuring better alignment between objectives and results, this CAS
+70.
+includes an expected results framework containing select key indicators (Table 3 and
+Annex 1). Reflecting expected additionality, the results will go beyond those expected under
+ongoing or planned operations. The expected long-term results o f the CAS and the GPRSP
+will be ultimately measured by general progress towards meeting MDGs, continued
+reduction in poverty by about one percentage point per year, and an increase in the relative
+share o f public spending that reaches the poor in various categories as measured through the
+poverty assessment update (as a proxy for improved consumption inequality).
+The continued support of development partners is essential. Cape Verde’s main
+71.
+instrument for overall donor coordination is the Round Table. The last Round Table took
+place in April 2003, and was jointly supported by UNDP and the W o r l d Bank. In terms o f
+donor coordination, the country’s long-term goals are to develop a country strategy results
+framework and to foster harmonization o f donor operational policies and procedures with
+national systems. The World Bank encourages Government efforts to sustain and increase
+donor funding, and to this effect is collaborating with a number o f emerging donors (notably
+directed to the Millennium Challenge Corporation). InAugust 2004, Cape Verde became the
+first country to make a detailed request to the MCC. While indications are that the US$73
+l1
+This
+
+trigger i s in line with the main conclusions o f the “Copenhagen Consensus.”
+
+- 26 million or so currently requested would not be fully allocated to the country, it i s likely that
+substantial sums would be made available for infrastructure and irrigation, some
+complementing IDA operations. The Bank has further encouraged the mobilization o f
+additional resources for Cape Verde by investigating with other donors the possibility o f
+topping up ongoing and planned operations.
+72.
+Donors are expected to take the lead in the area o f environment. The Government o f
+the Netherlands i s supporting the implementation o f the Environmental Action Plan through
+a budget support program targeted at the environmental sector, covering support to
+municipalities and legal and regulatory capacity enhancement. I t i s also funding, through the
+World Wide Fund for Nature (WWF), a project to conserve Cape Verde’s coral reefs and
+more generally the country’s coastal and marine biodiversity. The EU is funding activities to
+improve access o f the poorest segments o f the population to fresh water and sanitation,
+particularly in urban and peri-urban areas where needs are most pressing. The African
+Development Bank i s funding watershed management activities to reduce soil erosion and
+increase infiltration o f rainwater. UNDP, with GEF support, i s helping to implement Cape
+Verde’s National Biodiversity Strategy (1999) through the Integrated Participatory
+Ecosystem Management Project. The proposed GEF grant would thus help complement
+these donor activities.
+
+73.
+Continued capacity enhancement is key. Recognizing the importance o f capacity
+enhancement in institutions responsible for GPRSP implementation, several donors have
+either expressed interest or are already engaged in significant capacity-building efforts,
+including WHO in developing sectoral approaches in health; the Government o f Portugal in
+strengthening the national statistics system, among other areas; the EU in developing budget
+planning mechanisms; the Dutch cooperation in implementing the C F M C P A R action
+plans; the Canadian cooperation in supporting the development o f a MTEF; the French
+Government in supporting decentralization and municipal strengthening; and IFAD, ADB
+and U S A I D in strengthening local associations and community-driven development
+approaches. Similarly, vulnerability o f its climate and rainfall cycles, limited fresh water
+supplies, and reliance o n tourism as an engine o f development put sustainable use o f
+resources and protection o f the environment as central to poverty reduction. As noted above,
+the Government, with support from the Dutch cooperation and UNDP, has developed the
+National Environmental Plan (2004-20 14) through a multi-sectoral planning process, which
+is the main instrument for mitigating this critical risk.
+VI. RESULTS-BASED
+MONITORING
+AND EVALUATION
+
+74.
+The CAS monitoring and evaluation system will be aligned with that o f the
+GPRSP. The overall objective o f a monitoring and evaluation (M&E) system for the
+GPRSPKASPRSCs would be to ensure easy and timely access to relevant data in order to
+monitor progress, evaluate the impact o f the Growth and Poverty Reduction Strategy, and
+help define new orientations or make changes based o n analysis o f current data. The GPRSP
+has provided an opportunity for Cape Verde to develop a national integrated approach to
+monitoring and evaluation, control, statistics and information. Once h l l y implemented over
+the next three years, this system would become a flagship for Africa. A detailed technical
+implementation plan was validated by the Government o n December 15, 2004. This plan
+provides for clear institutional responsibility for various aspects o f M&E. The main features
+
+- 27 o f the system are integration o f budget and financial management systems with the technical
+aspects o f program delivery, development o f an integrated technological platform, open
+access for users to the main data warehouses, and the restructuring and strengthening o f
+various Ministries. W h i l e ambitious, the system builds on existing applications and
+platforms, which have been implemented by permanent teams in the Government. Needs in
+technical assistance and sources o f financing have been identified, including support from the
+Netherlands, EU, UNDP, the Government o f Portugal, and a possible GPRSP
+Implementation Trust Fund through the World Bank.
+The above system will be responsible for the monitoring and evaluation o f CAS
+results. A detailed M&E action plan and indicators have been agreed with Government in
+the context o f the PRSC and will be complemented from other sources, principally IDAfunded infrastructurePSD projects. The GPRSP provides an opportunity to introduce a
+results-based M&E system that includes: (a) annual GPRSP progress reports; (b) periodic
+reporting o n achievement o f MDGs (supported by UNDP); (c) overall annual budget
+monitoring; (d) PERs; (e) annual sectoral budget execution and service delivery targets
+prepared by line ministries; ( f ) periodic follow-up household surveys to track poverty and
+access to services, carried out by the National Statistics Institute (JIVE); (g) stakeholder
+surveys and qualitative monitoring o f Government performance and poverty impacts
+contracted through the TSSD; (h) analysis o f fiduciary performance; and (i)
+sectoral studies,
+including those covering investment climate and infrastructure competitiveness indicators.
+75.
+
+VII. RISK MANAGEMENT
+
+76.
+There i s considerable overlap between CAS and GPRSP risks. The coverage o f
+the CAS is less than that o f the GPRSP; and some o f i t s indicators, such as GDP growth, are
+not as ambitious. Nevertheless, there i s full consistency between the two strategies and the
+CAS shares many o f the risks facing the GPRSP. One such risk relates to the volatility o f
+donor contributions compounded by inadequate donor coordination mechanisms. This r i s k
+can be mitigated by a strong and visible political commitment to policy reform, even though
+it i s possible that over time Cape Verde will no longer be eligible for certain forms o f
+concessional lending.
+77.
+External shocks. Cape Verde is sensitive to external shocks, such as recessions in
+Europe and the United States, rising international interest rates, private investors and
+infrastructure operators becoming risk averse to further expansion into emerging markets,
+worldwide insecurity and o i l shocks, and reduced donor support. Recent studies suggest that
+these risks have been greatest since the end o f the cold war, and the Government i s aware o f
+the need to have mitigating plans ready for implementation. Recent o i l price increases have
+been mitigated by the appreciation o f the Euro vis-a-vis the dollar. Experience after
+September 11, 2001 shows that the attraction o f Cape Verde as a tourist destination remains
+steady even under very difficult circumstances. Recent petroleum sector reform has
+mitigated the impact o f rising prices o n the fiscal equilibrium, which has been moderated by
+the fall o f the dollar. The country intends to continue providing good investment
+opportunities to its citizens living abroad, and the Government believes that the country’s
+stability and good governance, together with instruments such as IDA and MIGA guarantees,
+will help secure foreign international investors. Finally, remittances have been quite stable
+over time and experience suggests that a significant sustained fall i s unlikely.
+
+- 28 -
+
+Domestic policies. The run-ups to the last two parliamentary and presidential
+78.
+elections witnessed fiscal slippages, the repeat o f which now appears significantly less likely.
+Since the last elections, the Central Bank has been granted considerable independence, which
+reduced this risk. Furthermore, as discussed in Chapter 11, sustaining growth and poverty
+alleviation will require fulfilling the reform agenda. Delays or policy reversals could
+undermine both objectives. Stakeholders in Cape Verde have integrated lessons learned from
+previous pre-election experiences and are committed to avoiding a repetition o f the past.
+Furthermore, the Bank and the Fund are actively pursing the macroeconomic dialogue and
+are monitoring the fiscal outtums on quarterly basis. This provides a system for early
+identification and alleviation o f any emerging problems. Similarly, the implementation o f
+the policy agenda highlighted in the GPRSP, and to be taken up under proposed PRSCs and
+IDA investment lending, is being monitored through M&E systems and followed by
+stakeholders. Slowdown in reforms and deviations from intended results would thus be
+quickly identified and addressed as needed. Finally, the Government i s committed to
+improving competitiveness through investment climate and labor reform. Building on earlier
+FIAS studies, the proposed Investment Climate Assessment would provide a more
+comprehensive diagnostic to policy makers.
+The hard budget constraint and management o f contingent liabilities. Cape
+79.
+Verde faces a binding hard budget constraint on public expenditures. This may lead to
+certain programs, such as those related to human development, being crowded out by others,
+for instance infrastructure investments. The Government i s aware o f this risk and proposes
+to address it in three ways. First, infrastructure programs will be fimded as much as possible
+through private-public partnerships. Second, various programs will be prioritized so as to fit
+the overall resource envelope. Third, recurrent implications. o f expenditures will be taken
+into account and integrated into the MTEF. Realization o f contingent liabilities could also
+undermine the budget process. The Government is aware o f this risk and i s taking
+appropriate steps to mitigate it. These include resolution o f problems with the energy
+operators and making sure that all future private-public partnerships are built o n sound bases.
+Other steps include pension and parastatal reforms and adequate health financing.
+Capacity constraints. The CAS calls for reliance on Government systems, as
+80.
+opposed to project implementation units, to implement key multi-sector programs that are
+becoming more ambitious and complex as more sectors are mainstreamed in the PRSC.
+While the pay-off to this approach in the medium to long term appears high, lack o f adequate
+capacity in the public administration in the short to medium term could become a bottleneck.
+This risk i s being mitigated in a number o f ways, including building appropriate budget
+systems in the context o f the PRSC, increasing the complexity o f programs progressively
+over time, and substantial capacity enhancement activities, many o f which are supported by
+donors.
+
+- 29 VIII. CONCLUDINGREMARKS
+
+81.
+During the next four years, Cape Verde will have the opportunity to consolidate
+results achieved since the early 1990s and implement a new agenda that will help the country
+converge to middle income status, with decreasing levels o f poverty and greater equity. The
+Bank will be a key partner in this process and is gearing up the way i t does business so as to
+move away from traditional project support and shift primarily to programmatic lending.
+This will also involve working even more closely with stakeholders in Cape Verde and the
+donor community to benefit from synergies to sustain poverty alleviation and growth.
+
+Washington D.C.
+January 27,2005
+
+t@i
+
+0
+
+e
+
+0
+
+9
+
+e . 5
+
+0
+
+0
+
+Q
+
+>
+0
+
+-2
+Q
+0
+
+m
+
+e
+&
+
+0
+
+8
+
+1
+,.s
+0
+0
+
+0
+N
+
+%
+
+0
+
+8
+
+.3
+
+Y
+
+cd
+
+2
+
+v
+
+m
+
+%
+.-.)
+
+I
+
+N
+
+m
+l
+
+m
+
+W
+.-.s
+
+%
+
+9
+
+0
+
+.5o
+a
+
+0
+*
+m
+
+0
+
+a2
+
+0
+*
+
+u
+0
+cd
+0
+
+m
+
+.3
+
+%
+0
+
+u
+
+&
+
+2
+8
+
+80
+
+0
+
+3
+
+a
+
+ry
+
+E
+
+Y
+
+8
+
+L
+
+0
+
+4
+
+9
+
+c
+0
+
+V
+
+d
+
+e
+
+e
+
+c1
+
+0
+
+x
+
+I
+
+m
+m
+I
+
+e,
+
+>
+0
+
+-2
+
+e,
+e,
+CA
+
+I
+
+d
+
+m
+I
+
+e,
+
+>
+
+0
+P
+(d
+
+e,
+e,
+
+n
+
+0
+
+c.'
+
+-36-
+
+-
+
+REPUBLIC OF CAPE VERDE Annex 2
+Description of main GPRSP Pillars
+1.
+The first pillar aims to modernize Government by improving procedures and
+institutions and enhancing its interface with citizens. Accountability and equity will be
+strengthened through more direct participation o f civil society, better financial
+management practices, improvements in tax policies, a firmer regulatory role in the
+economy, judicial reform, simplified administrative procedures, expanded use o f
+information technology (IT), and increased decentralization o f responsibilities and
+resources. The GPRSP discusses a broad reform agenda and refers explicitly to the
+recommendations o f the CFAA, PER, and CPAR, and thus confirms the shared vision
+among key stakeholders in the administration, beneficiaries, and donor community.
+2.
+The second pillar reflects the Government’s acknowledgment that fighting
+poverty requires economic growth built on sound and sustainable PSD. The proposed
+policy interventions focus o n the sectors with potential to generate employment and
+reduce poverty. Employment policy would benefit from improved labor market
+conditions; market failures in micro-enterprise financing would b e addressed; drip
+irrigation technology would be disseminated to improve agricultural productivity;
+infrastructure in the fisheries sector would be modernized; and tourism marketing and
+basic infrastructure development would be enhanced.
+
+3.
+Human capital development, the third pillar, seeks to improve the education
+and health status o f the population. Aligned with i t s Education Reform Strategy, the
+GPRSP aims to improve the employability and skills o f the labor force to support
+economic growth and alleviate poverty in Cape Verde. In particular, the Government
+seeks to: (i)
+reduce barriers that prevent the poorest from accessing secondary education;
+(ii)
+improve teacher training in order to increase the education system’s internal
+reinforce the linkage between the education system and the labor market
+efficiency; (iii)
+by ensuring that the skills and knowledge acquired are those needed by the economy;
+(iv) expand access to early childhood education; and (v) develop and organize tertiary
+education, in particular supporting science and technology, thus contributing to the
+creation o f superior-level skills needed for highly qualified jobs.
+
+4.
+
+In the case o f health policy, the Government’s sectoral reform strategy
+(Programa - Reformar o Sistema para Promover a Satide 2002-2005) has been
+summarized in the GPRSP, and identifies several priorities which together are assumed to
+
+have a significant impact o n poverty. Mindful o f increasing costs, health care will focus
+on an expansion o f the network o f health facilities in areas that are currently underserved,
+limit treatment overseas by improving local alternatives, improve human resources
+management through decentralization, strengthen health information system, reinforce
+citizen participation in health promotion and disease prevention, and ensure sustainable
+financing for the sector.
+
+- 37 5.
+The fourth pillar covers infrastructure, regional development and the
+environment. These issues have been at the heart o f Cape Verde’s development plans
+since independence and are seen as key contributors to the country’s competitiveness.
+Reflecting this view, while the private sector has outpaced public sector growth in the
+past 12 years, public financing o f large infrastructure projects has remained prominent.
+Specifically, energy, water and sanitation are slated to expand their networks through
+public/private partnerships. Air and maritime transportation are the focus o f a domestic
+and regional hub strategy. The Government also intends to encourage intra-island
+transport. The fund would finance new roads and maintenance o f the existing network.
+This pillar also proposes to develop environmental protection and conservation measures,
+to be implemented through increased community involvement.
+
+6.
+
+The emergence o f social protection as the fifth pillar reflects the challenges of
+curbing the increasing income inequality. There is also a growing realization that
+existing schemes (FAIMO-type job employment creation, public and private pension
+schemes, and public and private health insurance) require reforms to ensure sustainability
+and broaden coverage. The Government’s reform strategy seeks to move from the more
+reactive, coping strategies o f the past to increased attention to risk mitigation and
+prevention measures, and decentralize and contract out service delivery in line with the
+broader reforms o f the State that are under way in Cape Verde. The GPRSP prioritizes
+five medium-term objectives that support the reform strategies already under way,
+namely: (a) developing institutional capacity in social protection, (b) strengthening and
+extending programs that reach disadvantaged groups (including social pensions, social
+assistance and health insurance programs); (c) promoting local initiatives and community
+development; (d) promoting the rights o f children, and (e) improving mechanisms to
+prevent and manage food crises and strengthen food security.
+
+- 38 -
+
+REPUBLIC OF CAPE VERDE -Annex 3
+GPRSP Costing Table
+2005
+
+0.0
+
+2007
+
+2006
+
+2.7
+
+0.0
+
+0.3
+0.0
+
+0.0
+
+0.0
+
+0.0
+0.0
+
+Total 2005-2007
+
+2.9
+
+0.0
+
+8.4
+
+0.0
+
+3.7
+
+0.0
+
+0.8
+
+2.1
+
+0.1
+
+2.5
+
+0.3
+
+2.6
+
+0.3
+
+0.8
+
+1.2
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+0.0
+
+0.0
+0.0
+
+0.0
+
+0.0
+
+0.0
+0.0
+
+0.0
+
+0.0
+
+0.8
+
+7.8
+
+6.2
+
+6.1
+
+4.8
+
+23.0
+
+18.6
+
+0.0
+
+0.4
+0.1
+
+0.0
+
+0.4
+
+0.2
+
+0.1
+
+0.0
+0.2
+
+1.1
+0.2
+
+0.0
+0.6
+
+0.0
+
+7.9
+
+0.0
+
+23.9
+
+26.0
+
+0.0
+
+8.2
+4.4
+
+0.0
+
+0.0
+
+0.0
+
+48.7
+
+0.8
+
+0.0
+0.0
+0.0
+
+2.0
+11.7
+
+3.4
+4.8
+
+0.2
+
+1.4
+
+0.7
+
+1.1
+1.7
+
+0.7
+3.8
+
+0.9
+1.6
+
+0.0
+
+- 39 -
+
+REPUBLIC OF CAPE VERDE -Annex 4
+Country Financing Parameters
+BackgroundNote
+
+Summary
+
+1.
+This Note describes the application o f the new policy for expenditure eligibility in
+World Bank financing to Cape Verde by outlining the country financing parameters for
+Cape Verde. The new framework allows the Bank to finance expenditures needed to
+meet the development objectives o f the operations i t supports, within an overall
+framework that addresses risks to fiscal sustainability and the appropriate use o f Bank
+resources, in a way that i s consistent with the Articles o f Agreement.
+
+2.
+The new policy increases the flexibility to allow the use o f Bank loan proceeds for
+a number o f expenditures. I t rests on three guiding principles: (a) the expenditures
+financed from Bank loan proceeds are productive; (b) the impact o f operations financed
+under such loans o n the borrowing country’s fiscal sustainability i s acceptable; and
+(c) oversight arrangements on the use o f Bank funds are acceptable.
+3.
+The Government has been consulted on the parameters. Discussions on the new
+policy took place with the Government o f Cape Verde during the Country Portfolio
+Performance Review in M a y 2004 and during the CAS discussions in December 2004.
+The Government has indicated that i t welcomes the increased flexibility in the Bank’s
+approach to investment lending under the new policy.
+4.
+I t was however noted that with the shift o f Bank lending towards PRSCs, only
+about a third o f the proposed FY05-08 base case lending could benefit from that
+increased flexibility, mainly under two new investment operations, the Roads Sector
+project and the multi-sector Private Infrastructure project. In those instances, it is
+expected that recurrent expenditures could be financed as needed (to be decided o n a case
+by case basis).
+Country Assistance Strategy
+
+5.
+This Note i s an annex to the FY05-08 Country Assistance Strategy (CAS)
+Document. The overall CAS objective is to support the implementation o f Cape Verde’s
+Poverty Reduction Strategy, focusing on ensuring macroeconomic stability and sound
+public finance and budget systems, supporting competitiveness through public-private
+partnerships in infrastructure, and implementing social programs aimed at alleviating
+poverty and inequity. The base case lending scenario calls for US$50 million o f new
+IDA lending for FY05-08, covering two investment operations (Roads Sector - US$15
+million in FY06; and Multi-sector Infrastructure - US$5 m i l l i o n in FY07), and three
+PRSCs (US$15 million, US$7.5 million and US$7.5 m i l l i o n in FY05, 06 and 07
+respectively).
+6.
+Afi-ica.
+
+High CPIA ratings put Cape Verde as one o f the best performers in Sub-Saharan
+Historically, the performance o f the portfolio has been satisfactory and the
+
+-40-
+
+Government has been effective in addressing emerging issues. The current portfolio
+includes four projects, amounting to US$58 million, o f which about US$25 million
+remains undisbursed. The current portfolio focuses on capacity building in the social,
+public and infrastructure sectors, and to the careful introduction o f market-based
+incentives for private sector development. Two important projects (Privatization and
+Regulatory Capacity Building; and Energy and Water) were downgraded to
+unsatisfactory during FY04; so was another project (Social Sector Development) in
+October 2004. The problems experienced under the first two projects were attributable to
+a number o f unresolved infrastructure issues, including delays in divestiture, lack o f
+adequate regulatory capacity and policy indecision. These issues are being addressed.
+The privatization project experienced a significant turnaround and development
+objectives were expected to be largely met by closing in December 2004. Exceptionally,
+the Energy and Water Project i s being extended for two years to allow for the completion
+o f key works and resolution o f contractual issues with the private partners. Finally, with
+regard to the Social Sector Development Project, Government has implemented the
+actions agreed with the Bank and a satisfactory outcome appears more likely. Lessons
+learned are being integrated in ongoing and planned investment lending, and this
+approach seems to be paying o f f the H I V I A I D S Project i s being upgraded to highly
+satisfactory and some components o f the Growth and Competitiveness Project are also
+rated as highly satisfactory.
+Macroeconomic and Fiscal Considerations
+
+7.
+Recent economic developments have been good, but below expectations due to
+exogenous factors. Growth i s projected at 4.0 percent in 2004, while inflation remains
+l o w at below 2.0 percent. Tourism remains a strong performer, despite an uncertain
+world economic outlook and high o i l prices.
+8.
+The fixed exchange rate regime in the form o f the peg to the Euro is seen as one
+o f the pillars o f macroeconomic stability, and a contributor to a sound investment
+climate. The main cost o f the regime is in terms o f limiting monetary policy, which in
+turn constraints fiscal policy and results in trade-offs between public expenditure
+programs.
+9.
+Economic policies have been consistently pro-growth and pro-poor. Fiscal
+performance has remained sustainable, with a fiscal deficit (including grants) o f 3.2
+percent o f GDP in 2003 - thanks to high levels o f grants, sustained performance in tax
+revenue administration and responsiveness in expenditure management.
+Public
+expenditure management reforms are being coordinated by a technical secretariat, with
+technical assistance from the Bank and other donors.
+10.
+The Government completed i t s Poverty Reduction Strategy Paper in September
+2004. Cape Verde i s not a HIPC country, and has never had a debt rescheduling under
+the terms o f the Paris Club. However, it has, from time to time, negotiated a debt
+reduction on a bilateral basis with its various creditors. As a result, the ratio o f external
+public debt service to exports has been declining from 29.2 percent in 2001 to
+
+-41 -
+
+10.6 percent in 2003, which points to the sustainability o f Cape Verde’s external position
+over the medium term.
+11.
+Both revenues and expenditures (respectively about 22 percent and 30 percent o f
+GDP during the 2001-2003 period) are high by African norms and comparable to that o f
+many lower middle-income countries.
+There appear to be limited options for
+significantly increasing revenues relative to GDP, even though specific levies and user
+fees can be implemented to finance specific public programs. Similarly, in the absence o f
+significant additional aid inflows, the scope for increasing public expenditures is limited
+by the need to keep domestic borrowing in check, especially to avoid crowding out
+private investment and to ensure debt sustainability.
+12.
+To improve transparency o f public expenditures and strengthen good governance,
+Government tax administration, and financial and procurement systems need to be
+strengthened. In the area o f tax administration, capacity i s being enhanced. Fiduciary
+issues are being addressed through the implementation o f e-Government systems, the
+development o f relevant procedures manuals, and improvement in external and internal
+controls (also covering issues such as timely reconciliation o f accounts, improved debt
+and cash management, empowering oversight institutions, etc). The consolidation o f
+responsibilities for oversight o f all donor-funded projects is expected to strengthen
+budget implementation and monitoring systems. Similarly, the consolidation o f
+responsibilities for oversight o f all donor-funded projects is expected to strengthen
+budget implementation and monitoring systems. Finally, while procurement operations
+are basically sound, a legal framework to support and harmonize procurement activities i s
+being developed.
+13.
+Recent analysis (CFAA, PER and CPAR) confirms the direction o f ongoing
+public finance reform in order to facilitate resource mobilization, reach envisaged goals
+and improve Government effectiveness. The main medium-term challenges are to
+reinforce and improve critical aspects o f public finance, including: (a) further integrating
+investment and expenditure budgets, by developing a MTEF to guide resource allocation
+and link sector budgets to programmatic outcomes; (b) reinforcing financial controls,
+including more timely and higher quality reporting and audits; (c) more effective tax
+administration through improved information management; (d) development o f adequate
+procurement legislation; and (e) control o f contingent liabilities.
+14.
+Donors have coordinated monitoring and analysis o f the impact o f the
+interventions they have supported. Donors who provide programmatic budget support
+have harmonized their fiduciary requirements, such as reporting and procurement. The
+CFAA, PER, CPAR, and DPR, which have been funded jointly by the Bank, the EU and
+the Netherlands, have been widely shared and discussed, and provide a strong basis on
+which to improve the public expenditure systems.
+
+- 42 Cost Sharing
+
+15.
+Current Practice: The current cost sharing limit for Cape Verde applied to the
+overall lending program i s 90 percent. For individual projects, the Bank usually expects
+the borrower to make a 10 percent minimum contribution to project cost. The Bank’s
+financing share in an individual project i s determined during project preparation, based
+on the technical requirements o f projects. In practice, IDA credits have funded well
+under 90 percent o f project costs. The actual practice for the past three years has been 80
+percent o f project costs on average. Specifically, with regard to the Transport project
+which closed in December 2004, the average was 80 percent. With regard to the overall
+multi-donor program on the fight against HIV/AIDS, the January 2005 mid-term review
+established that the Bank’s coverage over the past two years had been 70 percent, with
+the remaining 30 percent covered by the Government and other partners.
+
+16.
+Bank-financed projects are fully integrated into the budget and as discussed in the
+CAS, the Government has full ownership o f the projects supported by the Bank. Bank
+investment disbursements amounted to US$13.8 million in FY04. This i s a relatively
+small portion o f Cape Verde’s overall development spending o f around US$305 million
+(or 32.6 percent o f GDP in 2004).
+17.
+The country’s public expenditure spending indicates that the authorities are
+committed to funding the development program and that Bank and other donor financing
+are fairly well integrated into the Government’s budget. Inthat regard, it should be noted
+that the thrust o f the Bank’s h t u r e program is fully aligned with the Government’s
+Growth and Poverty Reduction Strategy, as presented in the country’s GPRSP.
+Specifically, the Bank’s strategy i s articulated around three objectives that constitute the
+CAS pillars o f ensuring macroeconomic stability, supporting private-sector led growth
+and implementing social programs aimed at alleviating poverty. I t should also be noted
+that strong stakeholders’ ownership and their increased involvement in project
+implementation, as well as effective partnership between the Government and IDA, have
+been keys to the success o f the previous CAS implementation.
+Conclusion: In view o f Cape Verde’s overall strong commitment to the
+18.
+implementation o f Bank-financed projects, the Bank may finance up to 100 percent o f
+project costs. However, recognizing that the overall IDA envelope is fixed and that the
+CAS lending program i s shifting to budget support, very few projects are likely to adopt
+the higher Bank financing limits. Typically, most projects are expected to include
+contributions from Government, and would therefore not have 100 percent Bank
+financing. This approach would apply to projects in the private sector and infrastructure
+(FPSI) sectors, where for example significant participation in the order o f 50 percent o f
+total costs would be expected from private and other sources. The cost-sharing
+arrangements would be determined during the preparation o f each investment project,
+taking into account such project-specific considerations. In determining Bank financing
+in individual projects, the government’s funding from its o w n resources for the sector
+concerned will also be considered.
+
+-43
+
+-
+
+Recurrent Cost Financing
+
+Current Practice: Currently in Cape Verde, the Bank finances some recurrent
+19.
+costs in line with the existing policy. O n average, these account for 10 to 20 percent o f
+project costs. Examples o f recurrent cost financing include training, decentralized
+activities, as well as funding o f PIUs for implementation. Ongoing projects that finance
+the aforementioned types o f recurrent costs include social sector development,
+Energy/Water, HIV/AIDS and Growth and Competitiveness projects.
+20.
+In Cape Verde, increased financing o f recurrent costs does not jeopardize fiscal or
+debt sustainability for several reasons: (i)
+recurrent costs are already w e l l integrated into
+the budget preparation and execution processes, and financing o f these costs by the Bank
+would not introduce any special considerations for fiscal sustainability; (ii)
+as noted
+above, Cape Verde has a solid fiscal situation and good debt sustainability; and (iii)
+very
+few projects are likely to require significant recurrent cost financing, and therefore the
+amounts o f recurrent cost financing involved will remain limited, and may finance, for
+example, the cost o f limited training programs. There i s therefore no r i s k o f dependency
+on donors for recurrent cost financing.
+
+A review o f debt levels indicates that debt sustainability i s not an issue at present,
+21,
+and i s unlikely to become one in the future. Specifically, following the negotiated
+reduction o f bilateral debt, the ratio o f external public debt service to exports has been
+declining from 29.2 percent in 2001 to 10.6 percent in 2003, which points to the
+sustainability o f Cape Verde’s external position over the medium term. Concessional
+lending will continue in the foreseeable future under the “small island rule” that allows
+higher GNP per capita thresholds for graduation to IBRD.
+Inspite o f recent difficulties reflected in the downgrading during 2004 o f three
+22.
+projects to “unsatisfactory”, the majority o f activities have been successfully undertaken
+and have been sustainable. The Government has given priority to a progressive
+elimination o f Project Implementation Units (PIUs) and the mainstreaming o f project
+implementation. This is being achieved through PIU consolidation and by projects being
+implemented by existing institutions (by the end o f the FY05-08 CAS period, there will
+be at most one PIU in operation).
+
+23.
+Enhanced flexibility in recurrent cost financing would contribute to an important
+goal o f the proposed PRSCs in Cape Verde, namely more transparent reporting o f public
+expenditures through proper classification o f recurrent items in the development budget.
+24.
+Conclusion: N o country level limit o n recurrent cost financing is therefore
+proposed. Recurrent costs would be financed as needed o n a case by case basis. This
+principle will be applied selectively based o n short term needs and requirements to meet
+outcome targets. In all cases, it will be undertaken after careful assessment o f risks to
+sustainability at the sector and project levels.
+
+-44-
+
+Local Cost Financing
+
+Current Practice: At present, Bank projects generally finance 100 percent o f
+25.
+foreign expenditures, but the share o f Bank financing for local expenditures are generally
+less than 100 percent.
+26.
+The country satisfies the two conditions for eligibility. The exact share o f local
+cost financing varies across projects and expenditure categories. Greater flexibility in
+local cost financing would eliminate any perverse incentives for the Borrower to prefer
+foreign over local expenditures as the former i s financed at 100 percent.
+27.
+The country satisfies the first requirement that i t s development program exceeds
+the public sector’s own resources and expected domestic borrowing. As noted above, the
+total financing requirement for Cape Verde’s development program i s US$305 million.
+Domestic borrowing, taxes and other revenues provide only US$227 m i l l i o n (24 percent
+o f GDP), whilst US$78 million (9 percent) needs to be externally financed.
+
+The country satisfies the second requirement that the financing o f foreign
+28.
+expenditures alone would not enable the Bank to assist in the financing o f individual
+projects. Local costs have been high in past investment projects in Cape Verde: Bank
+disbursements for local costs averaged 67% o f total investment lending disbursements in
+FY02-04. In the case o f infrastructure projects, local costs relate to construction that is
+mainly composed o f local costs. In the case o f private-public partnerships, private
+investors are often foreign and fund foreign expenditures o f the project, leaving local
+costs to be financed by the projects/Govemment.
+Conclusion: Overall, Cape Verde meets the requirements for Bank financing o f
+29.
+local costs. Therefore, the Bank can finance local costs in any proportion required by
+individual projects. N o distinction needs to be made between foreign and local
+expenditures in individual projects, unless needed for project-specific considerations.
+Taxes and Duties
+
+30.
+Cape Verde’s tax system i s generally efficient. Income tax is the largest
+contributor to domestic revenue. 2,000 companies are potentially subject to income tax.
+Income tax is 30 percent for companies, down from 35 percent in 2003. The 13 largest
+companies pay more than 70 percent o f a l l income tax. An update o f the taxpayer
+registry i s currently under way. The average personal income tax (about US$250 per
+taxpayer) points to shortfalls in the identification o f payers and/or the collection o f taxes.
+A plan was successfully introduced in 2001 to allow the collection o f income taxes twice
+a year through commercial bank agencies. The work o n the registry o f taxpayers still
+needs to be completed.
+3 1.
+The new VAT (single rate o f 15 percent) introduced in 2004 i s a success: its
+intake i s twice what was originally projected, and was expected to top 6 percent o f GDP
+at end 2004. The introduction o f the VAT i s highly unusual for Western Africa, and
+underscores the higher contribution o f services in GDP. The VAT also replaces the
+
+-45
+
+-
+
+consumption tax. I t has been introduced with a streamlining o f tariffs to 7 extemal tariff
+bands (from 0 to 50 percent) down from more than 100 bands, but s t i l l complex by
+intemational standards. ConsumerAuxury goods have high customs duties. These items
+are not material in Bank-financed projects. Most items financed by IDA fall under the
+0-20 percent band.
+32.
+There currently exist exemptions to taxes on trade, consumption and income. The
+Govemment i s aware o f the issues and i s working with the IMF o n compiling a report
+that will present recommendations to streamline exemptions. A letter o f November 2002
+from the Ministry o f Finance clarified that no taxes would be levied on foreign
+consultants or o n foreign supplies o f goods, when said consultant services and goods
+were financed by IDA.
+33.
+Conclusion: While Cape Verde’s taxes have been assessed and are not considered
+excessive, thus there are no taxes or duties that the Bank would not be able to finance. At
+the project level, the Bank would consider whether taxes and duties constitute an
+excessively high share o f project costs.
+Concluding Comments
+
+34.
+The Bank and the Govemment o f Cape Verde find that the framework set out
+above reflects the best arrangements for Cape Verde, keeping in mind the three guiding
+principles mentioned in the summary o f this Note. As part o f the CPPR process, the
+parameters will be revisited, with any necessary adjustments made and processed as
+appropriate, in accordance with Bank procedures.
+
+- 46 Cape Verde: Country Financing Parameters
+
+The country financing parameters for Cape Verde set out below have been approved by
+the Regional vice president, Africa, and are being posted o n the Bank’s internal website.
+Item
+Cost Sharing: Limit on the proportion
+o f individual project costs that the
+Bank may finance.
+
+Parameter
+
+up to 100
+percent
+
+Recurrent Cost Financing: Any
+l i m i t s that would apply to the overall
+amount o f recurrent expenditures that
+the Bank may finance.
+
+N o country
+level limit
+
+Local Cost Financing: A r e the
+requirements o f local expenditures
+met, namely that: (i)
+financing
+requirements for the country’s
+development program would exceed
+the public sector’s own resources (e.g.,
+from taxation and other revenues) and
+expected domestic borrowing; and
+(ii)
+the financing o f foreign
+expenditures alone would not enable
+the Bank to assist in the financing o f
+individual projects.
+Taxes and Duties: Are there any taxes
+and duties that the Bank would not
+finance
+
+Yes
+
+None
+
+RemarksDExplanation
+The Bank may finance up to 100 percent o f project
+:osts, but most projects are expected to include
+:ontributions from the Government. This approach
+would apply to projects in the private sector and
+infrastructure (FPSI) sectors, where for example
+significant participation in the order o f 50 percent o f
+total costs would be expected from private and other
+sources. Cost sharing arrangements for individual
+projects w i l l be based o n project specific
+considerations.
+Recurrent cost financing will be determined by project
+specific considerations. In all cases, it will be
+undertaken after careful assessment o f risks to
+sustainability at the sector and project levels. The
+amount o f recurrent cost financing i s expected to
+remain limited and i s not expected to significantly
+imnact fiscal and debt sustainabilitv.
+The two requirements for Bank financing o f local
+expenditures are met. The Bank can therefore finance
+local costs in the proportions needed in individual
+projects.
+
+The current taxes and duties are not unreasonable. At
+the project level, the Bank would consider whether
+taxes and duties constitute an excessively high share o f
+project costs.
+
+- 48-
+
+-
+
+REPUBLIC OF CAPE VERDE Annex 6
+CAS Table A2
+
+Cape Verde at a glance
+POVERTY and SOCIAL
+2003
+Population, mid-year (millions)
+GNI per capita (Atlas method, US$)
+GNI (Atlas method, US$ billions)
+
+Cape
+Verde
+
+SubSaharan
+Africa
+
+Lowermiddleincome
+
+'
+
+0.47
+1,440
+0.68
+
+703
+490
+347
+
+2,655
+1,480
+3,934
+
+I
+
+11/24/04
+
+Developmentdiamond"
+Life expectancy
+
+I
+
+I
+
+I
+
+Average annual growth, 199743
+Population (%)
+Labor force (%)
+
+2.6
+3.8
+
+2.3
+2.4
+
+0.9
+1.2
+
+66
+69
+34
+
+36
+46
+103
+
+74
+24
+144
+146
+143
+
+58
+35
+87
+94
+80
+
+50
+69
+32
+11
+81
+10
+112
+113
+111
+
+Most recent estimate (latest year available, 1997-03)
+Poverty (% of population below nationalpoverty line)
+Urban population (% of total population)
+Life expectancy at birth (years)
+Infant mortality (per 1,000 live births)
+Child malnutrition (% of children under 5)
+Access to an improved water source (% of population)
+Illiteracy (% ofpopulation age 15+)
+Gross primary enrollment (% of school-age population)
+Male
+Female
+
+I
+
+' GNI
+
+I
+
+Gross
+primary
+nroilment
+
+per
+capita
+
+I
+I
+
+i
+
+Access to improved water source
+
+I
+
+1
+
+-Cape
+
+Verde
+
+-Lower-middleincomegroup
+
+KEY ECONOMIC RATIOS and LONG-TERM TRENDS
+1983
+
+1993
+
+2002
+
+2003
+
+GDP (US$ billions)
+Gross domestic investmentlGDP
+Exports of goods and ServiceslGDP
+Gross domestic savings/GDP
+Gross national savings/GDP
+
+0.1 1
+54.6
+34.7
+-1.8
+24.5
+
+0.36
+39.7
+12.4
+3.7
+26.4
+
+0.62
+20.9
+31.5
+-15.0
+10.1
+
+0.80
+20.2
+31.7
+-14.0
+10.6
+
+Current account balance/GDP
+Interest payments/GDP
+Total debtlGDP
+Total debt service/exports
+Present value of debtlGDP
+Present value of debtlexports
+
+49.2
+1.9
+67.6
+5.1
+
+-9.0
+0.4
+41.1
+4.8
+25.1
+80.3
+
+-11.5
+0.5
+53.8
+9.1
+32.3
+70.9
+
+-9.7
+0.3
+45.4
+5.3
+27.3
+56.6
+
+1983-93
+
+199343
+
+2002
+
+2003
+
+200347
+
+7.3
+5.3
+-4.3
+
+6.1
+3.4
+14.9
+
+4.6
+1.9
+8.5
+
+2.4
+5.9
+
+5.0
+
+5.5
+2.9
+6.4
+
+1983
+
+1993
+
+2002
+
+2003
+
+10.2
+16.9
+72.9
+
+13.7
+20.5
+9.6
+65.8
+
+11.2
+17.1
+8.2
+71.6
+
+6.8
+19.7
+8.0
+73.4
+
+93.1
+8.7
+91.0
+
+78.7
+17.6
+49.3
+
+103.2
+11.7
+68.1
+
+99.3
+14.7
+66.3
+
+(average annual growth)
+GDP
+GDP per capita
+Exports of goods and services
+STRUCTURE of the ECONOMY
+
+(% of GDP)
+Agriculture
+Industry
+Manufacturing
+Services
+Private consumption
+General government consumption
+Imports of goods and services
+
+(average annualgrowth)
+Agnculture
+Industry
+Manufactunng
+services
+Pnvate consumption
+General government consumption
+Gross domestcc Investment
+Imports of goods and services
+
+._
+
+1983-93
+
+199343
+
+I
+
+Economic ratios'
+Trade
+
+T
+Domestic
+savings
+
+Investment
+
+i
+Indebtedness
+Cape Verde
+
+Growth of investmentand GDP (Oh)
+
+A
+
+Growth of exports and imports (%)
+
+79
+113
+166
+63
+
+61
+55
+78
+62
+
+15
+45
+47
+51
+
+I5
+45
+47
+57
+
+62
+157
+16
+03
+
+90
+25
+-25
+88
+
+47
+90
+19 5
+11 7
+
+10
+31 9
+15
+22
+
+6o
+
+40
+2o
+
+-20-
+
+-Exports
+
+-0-lmporls
+
+Note: 2003 data are preliminary estimates
+
+* The diamonds show four key indicators in the countly (in bold) compared with its income-group average. if data are missing, the diamond will
+be incomoiete.
+
+I
+
+- 49-
+
+-
+
+REPUBLIC OF CAPE VERDE Annex 6
+Cape Verde at a glance (continued)
+Cape Verde
+PRICES and GOVERNMENT FINANCE
+
+1983
+
+1993
+
+2002
+
+2003
+
+10.3
+
+5.8
+1.9
+
+1.8
+1.8
+
+3.0
+2.8
+
+30.1
+10.3
+-9.3
+
+24.4
+3.1
+-10.2
+
+22.8
+1.8
+-6.4
+
+1993
+
+2002
+
+2003
+
+4
+0
+1
+1
+154
+53
+6
+71
+
+42
+
+53
+
+245
+61
+26
+I09
+
+303
+65
+26
+111
+
+89
+89
+100
+
+129
+138
+93
+
+133
+133
+100
+
+1983
+
+1993
+
+2002
+
+2003
+
+37
+117
+-80
+
+45
+179
+-134
+
+194
+419
+-226
+
+253
+529
+-275
+
+-7
+
+-4
+105
+
+-12
+166
+
+-12
+210
+
+Current account balance
+
+-52
+
+-33
+
+-71
+
+-77
+
+Financing items (net)
+Changes in net reserves
+
+55
+-3
+
+29
+4
+
+94
+-23
+
+80
+-3
+
+46
+71.7
+
+77
+80.4
+
+72
+117.2
+
+93
+97.7
+
+1983
+
+1993
+
+2002
+
+2003
+
+72
+0
+0
+
+149
+0
+21
+
+331
+0
+116
+
+362
+0
+131
+
+3
+0
+0
+
+5
+0
+0
+
+26
+0
+1
+
+20
+0
+1
+
+41
+16
+0
+0
+0
+
+58
+7
+0
+3
+0
+
+47
+10
+0
+22
+
+59
+10
+0
+31
+
+7
+0
+0
+0
+0
+0
+
+13
+4
+0
+3
+0
+3
+
+0
+20
+0
+20
+1
+19
+
+0
+15
+0
+15
+1
+14
+
+Domestic prices
+(% change)
+Consumer prices
+implicit GDP deflator
+Government finance
+(% of GDP, includes current grants)
+Current revenue
+Current budget balance
+Overall surplus/deficit
+TRADE
+
+(US$ millions)
+Total exports (fob)
+Bananas
+Fish
+Manufactures
+Total imports (cif)
+Food
+Fuel and energy
+Capital goods
+
+1983
+
+Export price index (1995=100)
+Import price index (1995=100)
+Terms of trade /1995=100J
+BALANCE of PAYMENTS
+/US$ millions)
+Exports of goods and services
+Imports of goods and services
+Resource balance
+
+Net income
+Net current transfers
+
+Memo:
+Reserves including gold (US$ millions)
+Conversion rate (DEC, /oca/AJs$)
+EXTERNAL DEBT and RESOURCE FLOWS
+
+(US$ millions)
+Total debt outstanding and disbursed
+iBRD
+IDA
+Total debt service
+iBRD
+IDA
+Composition of net resourceflows
+Official grants
+Official creditors
+Private creditors
+Foreign direct investment
+Portfolio equity
+World Bank program
+Commitments
+Disbursements
+Principal repayments
+Net flows
+Interest payments
+Net transfers
+Development Economics
+
+' Export and import levels (US$ mill.)
+1350
+
+47
+
+98
+
+99
+
+00
+
+02
+
+01
+
+Ew01t8
+
+03
+
+impotts
+
+1 Current account balance to GDP (Oh)
+
+j16
+
+Composition of 2003 debt (US$ mill.)
+
+A-IBRD
+B - IDA
+C-IMF
+
+D - Other multilateral
+
+-
+
+E Bilateral
+F Private
+G - Short-term
+~
+
+11/24/04
+
+- 50REPUBLIC OF CAPE VERDE -Annex 7
+CAS Table B2
+Selected Indicators of Bank Portfolio Performance and Management
+As at 01/10/05
+Indicator
+Portfolio Assessment
+Number of Projects Under Implementation a
+Average Implementation Period (years)
+Percent of Problem Projects by Number an
+Percent of Problem Projects by Amount as
+Percent of Projects at Risk by Number a , d
+Percent of Projects at Risk by Amount a,
+Disbursement Ratio (%) e
+Portfolio Management
+CPPR during the year (yedno)
+Supervision Resources (total US$’OOO)
+Average Supervision (US$’OOO/project)
+
+Memorandum Item
+Proj Eva1 by OED by Number
+Proj Eva1 by OED by Amt (US$ millions)
+% of OED Projects Rated U or HU by Number
+% of OED Projects Rated U or HU by Amt
+a.
+b.
+c.
+d.
+e.
+
+2002
+
+2003
+
+2004
+
+2005
+
+8
+3.6
+0.0
+0.0
+0.0
+0.0
+21.9
+
+7
+4.7
+0.0
+5.1
+0.0
+5.1
+30.9
+
+5
+4.9
+40.0
+43.5
+40.0
+43.5
+30.3
+
+3
+3.3
+33.3
+49.5
+33.3
+49.5
+17.0
+
+No
+
+Yes
+
+Yes
+
+Planned
+
+464
+(7 proj.)
+66.3
+
+690.4
+(8 proj.)
+86.3
+
+580.0
+
+410
+
+82.9
+
+82.8
+
+Since
+FY 80
+11
+104.7
+0.0
+0.0
+
+Last Five
+FYs
+4
+43.8
+0.0
+0.0
+
+As shown in the Annual Report on Portfolio Performance (except for current FY).
+Average age of projects in the Bank‘s country portfolio.
+Percent of projects rated U or HU on development objectives (DO) and/or implementation progress (IP).
+As defined under the Portfolio Improvement Program.
+Ratio of disbursements during the year to the undisbursed balance of the Bank’s portfolio at the
+beginning of the year: Investment projects only.
+
+Note: All indicators are for projects active in the Portfolio, with the exception of Disbursement Ratio,
+which includes all active projects as well as projects which exited during the fiscal year.
+
+- 51-
+
+REPUBLIC OF CAPE VERDE -Annex 8
+CAS Table B3
+IDA Program Summary
+As at 01/10/05
+Proposed IDA Base-Case Lending Program
+
+Fiscal year
+
+la
+
+strategic
+Implementation
+Rewards jb Risks (H/M/L) /b
+(H/M/L)
+
+Project ID
+
+us$(M)
+
+2005
+
+Poverty Reduction Support Credit (PRSC I)
+Result
+
+15.0
+15.0
+
+H
+
+H
+
+2006
+
+PRSC II
+Road Sector Support
+Result
+
+7.5
+15.0
+22.5
+
+H
+M
+
+M
+M
+
+2007
+
+PRSC Ill
+Infrastructure (MPIP)
+Result
+
+7.5
+5.0
+12.5
+
+H
+H
+
+M
+M
+
+Overall
+Result
+
+50.0
+
+/a This table presents the proposed program for FY05 and the next three fiscal years.
+/b For each project, the strategic rewards and implementation risks are indicated according to
+expectation: high (H), moderate (M), or low (L).
+
+- 52-
+
+REPUBLIC OF CAPE VERDE -Annex 9
+CAS Table B3
+IFC and MIGA Program, FY 2002-2005
+
+IFC approvals (US$m)
+Sector (YO)
+Finance & Insurance
+Total
+
+2002
+
+2003
+
+2004
+
+0.00
+
+0.00
+
+6.08
+
+0
+
+0
+
+100
+100
+
+Investment instrument (YO)
+Loans
+Equity
+Quasi-Equity
+Other
+Total
+
+0
+
+0
+
+0
+
+MIGA guarantees (US$m)
+
+1.14
+
+0.54
+
+0.54
+
+2005
+
+0
+
+43
+57
+
+0
+
+- 53REPUBLIC OF CAPE VERDE -Annex I O
+CAS Table 8 4
+Summary of Non-lending Services, FYO5-FY08
+As at 01/10/05
+Completion FY
+
+Product
+
+FY Cost
+USJOOO
+
+Under way in FY05
+General Economic Work
+
+125
+
+Audience
+
+b
+
+Objective
+
+Knowledge generation, problem solving,
+policy dialogue
+Bank, Govemment, Donors Knowledge generation, problem solving
+
+Bank
+
+annual
+
+50
+
+Diagnostic Report
+Dev. Policy Review (DPR) - carryover
+Full GPRSP
+Country Assistance Strategy (CAS)
+Country Performance Portfolio Review (CPPR)
+* Investment Climate Assessment (ICA)
+IDF Grant (Strengtheningthe Rule of Law)
+Planned in FY06
+General Economic Work
+
+2005
+2005
+2005
+2005
+annual
+2006
+2005
+
+TFund
+
+5
+15
+50
+25
+50
+15
+
+Bank, Govemment
+Bank, Govemment, Donors
+Bank, Govemment
+Bank, Govemment
+Bank, Govemment, Donors
+Bank, Govemment
+
+annual
+
+35
+
+Bank
+
+PER update
+GPRSP Progress Report
+CPPR
+Country FinancialAccountability Assessment
+(CFAA)/Country Procurement Assessment
+Report (CPAR) (Integrated)
+* Pension Study
+* Investment Climate Assessment (ICA)
+* Human Development Review
+* Rural DevelopmentAssessment
+Planned in FY07
+General Economic Work
+
+annual
+annual
+annual
+2007
+
+50
+15
+25
+30
+
+Knowledge generation, problem solving,
+policy dialogue
+Bank, Govemment, Donors Knowledge generation, problem solving
+Bank, Govemment, Donors Knowledge generation, problem solving
+Knowledge generation, problem solving
+Bank, Govemment
+Knowledge generation, problem solving
+Bank, Govemment
+
+2006
+2006
+2007
+2007
+
+15
+25
+25
+25
+
+Bank, Govemment, Donors Knowledge generation, problem solving
+Knowledge generation, problem solving,
+Bank, Govemment
+Knowledge generation, problem solving,
+Bank, Govemment
+
+annual
+
+35
+
+Bank
+
+PER update
+GPRSP Progress Report
+CPPR
+CFMCPAR (Integrated)
+* Human Development Review
+* Long-termGrowth and Competitiveness Study
+* Rural Development Assessment
+Planned in FYO8
+General Economic Work
+
+annual
+annual
+annual
+2007
+2007
+2008
+2007
+
+50
+15
+25
+30
+25
+50
+25
+
+Knowledge generation, problem solving,
+policy dialogue
+Bank, Govemment, Donors Knowledge generation, problem solving
+Bank, Govemment, Donors Knowledge generation, problem solving
+Knowledge generation, problem solving
+Bank, Govemment
+Knowledge generation, problem solving
+Bank, Govemment
+Knowledge generation, problem solving
+Bank, Govemment
+Knowledge generation, problem solving
+Bank, Govemment
+Knowledge generation, problemsolving
+Bank, Govemment
+
+annual
+
+35
+
+Bank
+
+CAS
+PER update
+GPRSP Progress Report
+CPPR
+* Long-termGrowth and Competitiveness Study
+* Poverty Assessment Update
+
+2008
+annual
+annual
+annual
+2008
+2008
+
+100
+50
+15
+25
+100
+100
+
+PER update
+
+* Infrastructure Regulationand Competitiveness
+
+* Plannedin FY05-08
+
+Knowledge generation, problem solving
+Knowledge generation, problem solving
+Knowledge generation, problem solving
+Knowledge generation, problemsolving
+Knowledge generation, problem solving
+Knowledge generation, problem solving
+
+Knowledge generation, problem solving,
+policy dialogue
+Bank, Govemment
+Knowledge generation, problem solving
+Bank, Govemment, Donors Knowledge generation, problem solving
+Bank, Govemment, Donors Knowledge generation, problem solving
+Bank, Govemment
+Knowledge generation, problem solving
+Bank, Govemment
+Knowledge generation, problem solving
+Bank, Govemment, Donors Knowledge generation, problem solving,
+
+CAS AAA scenario (see para. 67).
+
+a. The product list does not include trust funds and grants that are expected to support additional AAA in various areas, including
+
+public sector, and legal andjudicial capacity development, as well as infrastructurereform and fisheries.
+b. Govemment, donors, Bank, public dissemination.
+c. Knowledge generation, public debate, problem-solving.
+
+- 54-
+
+-
+
+REPUBLIC OF CAPE VERDE Annex 11
+CAS Table B5
+
+Cape Verde Social Indicators
+Same regionlincome group
+
+Latest single year
+
+POPULATION
+Total population,mid-year (millions)
+Growth rate (% annual average for period)
+Urban populalon (% ofpopulation)
+Total fertility rate (births per woman)
+
+1970.75
+
+1980-85
+
+1997.03
+
+SubSaharan
+Africa
+
+Lowermiddleincome
+
+0.3
+0.8
+21.4
+7.0
+
+0.3
+I.4
+33.0
+6.0
+
+0.5
+2.6
+65.6
+3.5
+
+702.6
+2.3
+36.1
+5.1
+
+2,655.2
+0.9
+49.7
+2.1
+
+260
+
+350
+52
+
+1,440
+133
+
+490
+
+1,480
+
+I.8
+
+2.5
+3.4
+
+2.6
+4.0
+
+POVERTY
+(% of population)
+National headcourt index
+Urban headoount index
+Rum1 headcountindex
+INCOME
+GNI per capib (US$)
+Consumer price index (1995=100)
+Food price index(l995=100)
+INCOMUCONSUMPTION DISTRIBUTION
+Gini index
+Lowest quintile p? of income orconsumption)
+Highest quintile (% of income or consumption)
+SOCIAL INDICATORS
+Public expenditure
+Health (% of GDP)
+Education (% of GNl)
+Social security and weifare (% of GDP)
+Net primary schod enrollment rate
+(% of age group)
+Total
+Male
+Female
+Access to an improved water source
+(% of population)
+Total
+Urban
+Rural
+Immunization rate
+(% of children ages 12-23 months)
+Measles
+DPT
+Child malnutrition (? under 5 years)
+Life expectancy at birth
+(Years)
+Total
+Male
+Female
+Mortality
+infant (per 1,000 live births)
+Under5 (per 1,000)
+Adult (1569)
+Male (per 1,000 population)
+Female (per 1,000 populafon)
+Maternal(per 100,OOOlive births)
+Births attended by skilled health staff (%)
+
+95
+97
+93
+
+91
+92
+91
+
+99
+98
+100
+74
+64
+89
+
+19
+
+58
+83
+45
+
+81
+94
+70
+
+58
+54
+
+78
+84
+11
+
+59
+58
+61
+
+63
+61
+66
+
+69
+66
+72
+
+46
+45
+47
+
+69
+67
+71
+
+88
+123
+
+78
+95
+
+34
+42
+
+103
+174
+
+32
+40
+
+335
+279
+
+292
+249
+
+207
+121
+
+519
+46 1
+
+214
+135
+
+10
+
+1 1/24/04
+CAS Annex 85. This table ws produced from the CMU LDB system.
+Note: 0 or 0.0 means zem or less than half the unit show. Net enrolhent rate: break in series between 1997 and 1998 due b
+change tom ISCED76 to ISCEW7. Immunization: refers to children ages 12-23 months who recehd vaccinationsbefore one
+year of age.
+
+- 55REPUBLIC OF CAPE VERDE -Annex 12
+CAS Table B6
+
+-
+
+Cape Verde Key Economic Indicators
+
+Indicator
+National accounts (as YOo f GDP)
+Gross domestic producta
+Agriculture
+Industry
+Services
+
+2000
+
+Actual
+2001
+2002
+
+Estimate
+2004
+
+2003
+
+Projected
+2006
+2007
+
+2005
+
+100
+12
+18
+70
+
+100
+11
+17
+72
+
+100
+11
+17
+72
+
+100
+7
+20
+73
+
+100
+7
+20
+73
+
+100
+7
+21
+72
+
+100
+6
+19
+74
+
+100
+6
+18
+76
+
+113
+20
+12
+7
+
+114
+18
+11
+8
+
+115
+21
+13
+8
+
+114
+20
+10
+10
+
+113
+22
+11
+11
+
+112
+23
+12
+12
+
+110
+23
+12
+11
+
+108
+21
+9
+12
+
+28
+61
+
+30
+64
+
+31
+68
+
+32
+66
+
+31
+64
+
+32
+65
+
+32
+63
+
+33
+62
+
+-13
+10
+
+-14
+9
+
+-15
+10
+
+-14
+11
+
+-13
+11
+
+-12
+12
+
+-10
+13
+
+-8
+13
+
+531
+
+550
+
+616
+
+797
+
+936
+
+1009
+
+1090
+
+1177
+
+1320
+
+1280
+
+1250
+
+1440
+
+1700
+
+1960
+
+2130
+
+2240
+
+Real annual growth rates (%, calculated from 1980 prices)
+Gross domestic product at market prices
+6.6
+3.8
+Gross Domestic Income
+6.6
+3.8
+
+4.6
+4.6
+
+5.0
+5.0
+
+5.5
+5.5
+
+5.5
+5.5
+
+5.5
+5.5
+
+5.5
+5.5
+
+Real annual per capita growth rates (%, calculated from 1980 prices)
+Gross domestic product at market prices
+1I1
+3.8
+1.9
+2.5
+0.0
+Total consumption
+2.1
+-2.7
+Private consumption
+13.4
+2.0
+
+2.4
+1.6
+-1.5
+
+2.9
+1.9
+1.8
+
+2.9
+1.6
+2.2
+
+2.9
+1.5
+1.8
+
+2.9
+1.5
+1.8
+
+Total Consumption
+Gross domestic fixed investment
+Government investment
+Private investment
+(GNFS)~
+Imports (GNFS)
+
+EXPOS
+I
+
+Gross domestic savings
+Gross national savings'
+Memorandum items
+
+Gross domestic product
+(US$ million at current prices)
+GNI per capita (US$, Atlas method)
+
+Balance o f Payments (US$ millions)
+
+(GNFS)~
+Merchandise FOB
+Imports (GNFS)~
+Merchandise FOB
+Resource balance
+N e t current transfers
+Current account balance
+
+EXPO*
+
+N e t private foreign direct investment
+Long-term loans (net)
+Official
+Private
+Other capital (net, incl. errors & ommissions)
+Change in reservesd
+Memorandum items
+
+Resource balance (% o f GDP)
+Real annual growth rates ( YR80 prices)
+Merchandise exports (FOB)
+Primary
+Manufactures
+Merchandise imports (CIF)
+
+146
+38
+326
+226
+-180
+135
+-56
+
+167
+37
+351
+232
+-1 84
+133
+-57
+
+194
+42
+419
+278
+-226
+166
+-7 1
+
+253
+53
+529
+342
+-275
+210
+-77
+
+292
+56
+596
+384
+-305
+23 7
+-79
+
+319
+60
+65 1
+422
+-332
+250
+-9 1
+
+353
+64
+688
+454
+-334
+256
+-87
+
+383
+70
+724
+49 1
+-341
+263
+-87
+
+32
+
+32
+
+22
+
+31
+
+38
+
+42
+
+38
+
+38
+
+12
+
+8
+
+21
+
+31
+
+16
+
+21
+
+-3
+
+-3
+
+20
+
+-15
+
+-23
+
+-3
+
+-6
+
+0
+
+0
+
+-16
+
+-33.9
+
+-33.4
+
+-36.6
+
+-34.5
+
+-32.6
+
+-32.9
+
+-30.7
+
+-29.0
+
+398.7
+
+-5.9
+
+10.8
+
+22.4
+
+3.8
+
+12.4
+
+5.5
+
+6.0
+
+-11.1
+
+0.0
+
+1.4
+
+28.3
+
+8.6
+
+0.0
+
+-0.3
+
+-0.3
+
+- 56Cape Verde - K e y Economic Indicators
+(Con tinned)
+
+Indicator
+
+2000
+
+Public finance (as % of GDP a t market prices)e
+20.8
+Current revenues
+Current expenditures
+34.2
+Current account surplus (+) or deficit (-)
+-13.4
+Capital expenditure
+12.5
+Foreign financing
+10.0
+M o n e t a r y indicators
+M2/GDP
+Growth o f M 2 (%)
+Private sector credit growth /
+total credit growth (%)
+Price indices( YR80 =loo)
+Merchandise export price index
+Merchandise import price index
+Merchandise t e r m o f trade index
+Real exchange rate (US$/LCU)'
+Real interest rates
+Consumer price index (% change)
+GDP deflator (?? change)
+
+Actual
+2001
+2002
+
+2003
+
+Estimate
+2004
+
+Projected
+2006
+2007
+
+21.9
+21.9
+-0.1
+10.8
+9.2
+
+24.7
+21.3
+3.4
+13.0
+8.7
+
+23.5
+20.9
+2.5
+9.8
+7.2
+
+25.7
+21.9
+3.8
+10.7
+7.7
+
+25.6
+21.3
+4.3
+11.6
+6.1
+
+24.3
+20.4
+3.9
+12.1
+5.3
+
+24.5
+19.6
+4.8
+9.3
+4.9
+
+65.6
+12.7
+19.2
+
+67.5
+9.8
+60.6
+
+72.5
+14.3
+43.0
+
+72.5
+7.8
+71.9
+
+72.5
+8.2
+88.6
+
+72.5
+7.8
+110.3
+
+72.5
+8.0
+259.9
+
+72.6
+8.2
+50.0
+
+187.7
+219.5
+85.5
+96.7
+
+192.8
+215.3
+89.5
+97.0
+
+196.3
+230.0
+85.3
+99.9
+
+201.7
+221.4
+91.1
+102.6
+
+206.6
+225.8
+91.5
+105.4
+
+211.2
+230.3
+91.7
+108.2
+
+216.2
+235.6
+91.7
+111.1
+
+221.3
+241.1
+91.8
+114.1
+
+-2.4
+-1.2
+
+3.8
+2.7
+
+1.8
+1.8
+
+3.0
+2.8
+
+2.0
+2.5
+
+2.0
+2.2
+
+2.3
+2.4
+
+2.3
+2.4
+
+a. GDP at market prices
+
+b. "GNFS" denotes "goods and nonfactor services."
+c.
+d.
+e.
+f.
+
+2005
+
+Includes net unrequited transfers excluding official capital grants.
+Includes use o f IMF resources.
+Consolidated central government.
+"LCU" denotes "local currency units." An increase in US$/LCU denotes appreciation.
+
+- 57-
+
+REPUBLIC OF CAPE VERDE -Annex 13
+CAS Table B7
+Cape Verde - Key Exposure Indicators
+
+Indicator
+
+2000
+
+Actual
+2001
+2002
+
+Estimate
+2004
+
+2003
+
+Projected
+2006
+2007
+
+2005
+
+302
+
+328
+
+33 1
+
+362
+
+378
+
+414
+
+423
+
+43 8
+
+Net disbursements (US$m)a
+
+24
+
+7
+
+20
+
+31
+
+16
+
+21
+
+-3
+
+-3
+
+Total debt service (TDS)
+
+12
+
+19
+
+17
+
+9
+
+12
+
+6
+
+25
+
+25
+
+136.0
+56.7
+5.3
+110.2
+
+129.5
+59.7
+7.4
+102.1
+
+118.1
+53.8
+5.9
+
+94.4
+45.4
+
+88.8
+40.4
+
+99.6
+
+87.9
+
+2.8
+81.3
+
+71.2
+
+85.3
+38.9
+5.1
+66.4
+
+83.2
+37.2
+
+2.3
+
+90.1
+41.0
+1.4
+
+0.0
+70.0
+
+0.0
+81.7
+
+0.0
+79.5
+
+0.0
+57.5
+
+0.0
+76.8
+
+0.0
+57.5
+
+0.0
+89.1
+
+0.0
+89.1
+
+0.0
+0
+
+0.0
+0
+
+0.0
+0
+
+0.0
+0
+
+0.0
+
+0.0
+
+0.0
+
+0
+
+0
+
+0
+
+0.0
+0
+
+102
+
+110
+
+116
+
+131
+
+133
+
+145
+
+159
+
+173
+
+Total debt outstanding and
+disbursed (TDO) (US$m)a
+
+(uS$m)a
+Debt and debt service indicators
+
+(%I
+
+TDOIXGS~
+TDOIGDP
+TDS/XGS
+ConcessionaliTDO
+
+4.8
+64.2
+
+IBRD exposure indicators (%)
+IBRD DSipublic D S
+Preferred creditor DS/public
+
+DS (%)'
+IBRD DS/XGS
+
+IBRD TDO (US$mld
+O f which present value o f
+guarantees (US$m)
+Share o f IBRD portfolio (%)
+IDA TDO (US$mld
+I F C (US$m)
+Loans
+Equity and quasi-equity /c
+
+MIGA
+
+a. Includes public and publicly guaranteed debt, private nonguaranteed, use o f IMF credits and net shortterm capital.
+b. "XGS" denotes exports o f goods and services, including workers' remittances.
+c. Preferred creditors are defined as IBRD, IDA, the regional multilateral development banks, the IMF, and the
+Bank for Intemational Settlements.
+d. Includes present value o f guarantees.
+e. Includes equity and quasi-equity types o f both loan and equity instruments.
+
+e,
+y1
+
+I
+
+-I
+y
+
+9
+
+0 o
+o
+0 o
+0 o
+0 o
+0
+
+0
+
+I
+
+00
+
+10
+I
+
+5
+
+v)
+
+- 59-
+
+REPUBLIC OF CAPE VERDE -Annex 15
+CAS Table B8 (IFC)
+Statement of IFC’s Held and Disbursed Portfolio
+As at 11130104
+Disburseb (I
+
+Held (US$ mil)
+FY Approval
+
+Company
+
+mil)
+
+Loan
+
+Equity
+
+Quasi
+
+Participation
+
+Loan
+
+Equity
+
+Quasi
+
+Participation
+
+1992 AEF
+Growela
+2004 CECV
+
+0.15
+
+0
+
+0
+
+0
+
+0.15
+
+0
+
+0
+
+0
+
+6.63
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+Total Portfolio:
+
+6.78
+
+0
+
+0.00
+
+0
+
+0
+
+0
+
+0
+
+Approvals Pending Commitment
+Loan
+
+Equity
+
+Quasi
+
+Growela = shoe manufacturing
+CECV = Caixa Econbmica de Cabo Verde
+
+Participation
+
+0.15
+
+- 60-
+
+REPUBLIC OF CAPE VERDE -Annex 16
+CAS Table B10
+S ummary of DeveIopme nt Priorit ies
+
+Network
+
+Country
+performance
+
+Major issue
+
+Country
+priority
+
+Bank
+priority
+
+High
+
+High
+
+Poverty Reduction & Economic Management
+
+Poverty reduction
+
+Fair
+
+Economic policy
+
+Good
+
+Regulation
+
+Moderate
+
+High
+
+Public sector
+
+Good
+
+Public finance
+
+Moderate
+
+Low
+
+Gender
+
+Fair
+
+Inequality
+
+Moderate
+
+High
+
+Secondary education
+
+High
+
+High
+
+Quality
+
+High
+
+High
+
+Rural growth and poverty
+
+Human Development Department
+
+Education
+
+Good
+
+Education
+
+Fair
+
+Health and nutrition
+
+Good
+
+Non-communicable diseases
+
+High
+
+High
+
+Social protection
+
+Poor
+
+Vulnerable groups
+
+High
+
+High
+
+High
+
+Moderate
+
+Environmentally & Socially Sustainable Development
+
+Rural development
+
+Poor
+
+Limited access to land, soil erosion
+
+-Rural development
+
+Poor
+
+Alternative employment
+
+Moderate
+
+Moderate
+
+Coastal environment
+
+Good
+
+Coastaymarine areas
+
+Moderate
+
+Moderate
+
+Social development
+
+Fair
+
+High
+
+High
+
+Promote financial intermediation
+
+Moderate
+
+Moderate
+
+Moderate
+
+High
+
+Inequality
+
+Finance, Private Sector & Infrastructure
+
+Financial sector
+
+Good
+
+Private sector
+
+Fair
+
+Complete divestiture program
+
+Infrastructure
+
+Fair
+
+Water and sanitation supply
+
+High
+
+High
+
+Infrastructure
+
+Fair
+
+Need for PPP
+
+High
+
+High
+
+

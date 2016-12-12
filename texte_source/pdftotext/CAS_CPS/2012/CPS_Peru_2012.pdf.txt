@@ -1,0 +1,5812 @@
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+
+For Official Use Only
+
+CPSCR Review
+Independent Evaluation Group
+
+67368
+
+1. CPS Data
+Country:
+
+Peru
+
+CPS Year: FY06
+
+CPS Period: FY07 – FY11
+
+CPSCR Review Period: FY07 – FY11
+
+Date of this review: March 6, 2012
+
+2. Executive Summary
+i.
+This review examines implementation of the FY07-11 Peru Country Partnership Strategy
+(CPS) and the FY09 CPS Progress Report (CPSPR), and evaluates the CPS Completion Report
+(CPSCR). The review covers the joint program of IBRD, IFC and MIGA. The review complements the
+Country Program Evaluation (CPE) on Peru discussed by CODE in July of 2010 (Peru: Country
+Program Evaluation for the World Bank Group, 2003-09). The two reviews, however, cover different
+periods (2007-11 in the CPSCR Review vs. 2003-09 in the CPE) as well as a somewhat different set
+of objectives. These two aspects explain the differences in the evaluations, such as the upgrading in
+rating of a pillar and the downgrading of another.
+ii.
+The WBG strategy was organized around three pillars: (i) accelerating economic growth;
+(ii) enhancing social development; and (iii) modernizing institutions. Pillar 1, on growth, focused on
+maintaining macro stability and reducing macro vulnerabilities, accelerating growth and broadening its
+sources, as well as making growth environmentally sustainable. Pillar 2, on social development, aimed
+at meeting basic needs, and promoting and developing a new social contract on education, health and
+nutrition. Pillar 3 supported furthering decentralization and access to public services, strengthening
+public sector management, and improving the justice system and reducing corruption.
+iii.
+IEG rates the overall outcome of the WBG strategy in Peru as moderately satisfactory. IEG
+notes that Peru’s own accomplishments in many areas, particularly on growth, macroeconomic
+stability, de-dollarizing the monetary system, and addressing some basic needs are remarkable—
+these achievements are mostly attributable to Peru’s own efforts. IEG also highlights the timeliness of
+the WBG’s support to Peru at the time of the global financial crisis, which was instrumental in helping
+the country access world bond markets, as well as the additionality of IFC’s intervention in supporting
+municipalities use their royalties to benefit poor communities. With WBG support, Peru has improved
+public expenditure efficiency, some rural infrastructure as noted in the Peru CPE, and environmental
+frameworks and regulations, as well as increased access to water, sanitation and electricity, also
+highlighted in the Peru CPE. Peru made progress in strengthening public sector management and,
+with support from the WBG, established a unified treasury account, and is making headway in resultsbased budgeting at the national level, participatory investment budgeting at the local level, and
+mainstreaming an integrated financial administration system also at the sub-national level. Spending
+of royalties by some local governments is also benefiting local communities. With mixed results, Peru
+worked on improving the quality of education, the coverage of health services, and nutrition, and
+continues to work on improving its justice system and abating corruption, albeit slowly and with uneven
+outcomes. There is no information about progress on housing and property rights, and on how health
+services have been adapted to the evolving epidemiological profile. The WBG made little progress in
+helping Peru reduce informality or promote non-traditional labor intensive sectors of the Peruvian
+economy, and came late in the CPS period with assistance on disaster preparedness and mitigation.
+The country’s decentralization process came to a halt for political reasons early in the CPS period,
+making immaterial the WBG’s objective of supporting it.
+
+CPSCR Reviewed by:
+
+Peer Reviewed by:
+
+Juan José Fernández-Ansola
+Consultant, IEGCC
+
+Jorge Garcἰa-Garcἰa
+Consultant, IEGCC
+
+Surajit Goswami,
+Consultant, IEGCC
+
+Steve F. Pirozzi
+Senior Evaluator, IEGCC
+
+CASCR Review Coordinator
+Jaime Jaramillo-Vallejo,
+Lead Economist, IEGCR
+
+CPSCR Review
+Independent Evaluation Group
+
+For Official Use Only
+2
+
+iv.
+IEG underscores four lessons stemming from this review. First, the WBG has greater
+development effectiveness when it aligns its strategy with the government’s own program, as
+evidenced by the highly effective intervention supporting Peru’s actions to deal with the effects of the
+global financial crisis. By contrast, the WBG had less effective interventions in areas with little country
+buy in, such as the decentralization in social sectors and rural education. Second, the development
+effectiveness of the WBG can only be demonstrated where there are interventions that can help the
+country deliver the expected results. By contrast, strategy objectives that are beyond the purview of
+the WBG, although achieved by the country, are not a demonstration of the WBG’s development
+effectiveness. Third, WBG strategies gain efficacy when they have a monitoring and evaluation
+framework that is based on available and verified data, and that can actually be used by the WBG to
+actively play out its strategy. Within this review, those objectives that were better monitored were the
+ones that showed the best development results. Fourth, the WBG could find ways of improving
+coordination within the Group itself to take advantage of good initiatives that can be scaled up for the
+benefit of the country, as could have been the case with IFC’s work with the municipalities that were
+receiving the royalties of its investees.
+
+3. CPS Summary
+Overview of CAS Relevance:
+Country Context
+1.
+A sound policy framework, prudent macroeconomic policies and strong commodity prices
+helped Peru achieve cumulative GDP real growth of over 31 percent between 2007 and 2010, which led
+to a fall in poverty from 46 percent in 2006 to 31 percent in 2010, the latest measure. The strong
+cumulative growth includes a decline in the rate of growth to about 1 percent in 2009 due to the global
+financial crisis, as well as a rebound of 9 percent in 2010. Notwithstanding the crisis and in its midst, the
+international rating agencies granted Peru investment grade-- Fitch (2008), Standard and Poor’s (2008),
+and Moody’s (2009), which the country still maintains. Peru also had to face two major earthquakes,
+one in 2007 (magnitude 8.0, Richter scale) and another one in 2011 (magnitude 6.9), as well as the
+impact of ―El Niño‖ (and the subsequent ―La Niña‖) in 2010. Despite its strong macroeconomic and
+poverty reduction performance, Peru still faces challenges, including in reducing poverty further with a
+more equal distribution of income, developing infrastructure, and improving the quality of social
+services.
+2.
+Peru’s priorities—expressed in the Prime Minister’s presentation of the government plan to the
+Peruvian Congress in August of 2006—were to sustain and accelerate economic growth to ensure a
+rapid reduction of poverty. Emphasis would be put on promoting economic and human development,
+bolstering social inclusion, and improving living standards. The transition from President Toledo (200106) to President Garcia (2006-11) brought changes in the overall country strategy. While in some areas,
+such as macroeconomic policy, the country’s own priorities remained unchanged (as is discussed in the
+Peru CPE), in others, notably decentralization, there were significant changes.
+Objectives of WBG Strategy
+3.
+The WBG strategy was organized around three pillars: (i) accelerating economic growth;
+(ii) enhancing social development; and (iii) modernizing institutions. Pillar 1, on growth, focused on
+maintaining macro stability and reducing macro vulnerabilities, accelerating growth and broadening its
+sources, as well as making growth environmentally sustainable. Pillar 2, on social development, aimed
+at meeting basic needs, and promoting and developing a new social contract on education, health and
+nutrition. Pillar 3 supported furthering decentralization and access to public services, strengthening
+public sector management, and improving the justice system and reducing corruption.
+Relevance of the WBG Strategy
+4.
+
+The WBG strategy addressed some of the key challenges facing Peru, particularly on growth,
+
+CPSCR Review
+Independent Evaluation Group
+
+For Official Use Only
+3
+
+inclusion, and social services, and responded flexibly to the evolving global financial crisis. The
+strategy was aligned with Peru’s government plan, and the WBG’s response was flexible on size and
+timing of key operations. At the same time, feedback from former Ministry of Finance officials suggests
+that the initial reform platform developed under the CPS was short on detail, lacked agreement on
+specific reform interventions expected from the WBG, and could have given the wrong impression that
+Peru was going to use WBG services extensively in its implementation of policies. In the event, Peru
+went its own way on reform, and the dialogue with the authorities was not as fluid as needed for the
+WBG to bring into its own projects and programs the country’s changing policy intentions. As a result,
+projects such as the decentralization in social sectors and rural education performed poorly.
+Nevertheless, the WBG responded flexibly and diligently to the requests for assistance from the
+Peruvian authorities at the time of the global financial crisis.
+5.
+The WBG strategy was weakly relevant in its design. Some outcomes were not supported by
+appropriate WBG interventions, while there were loose links between WBG strategy objectives and its
+interventions for other outcomes. Under Pillar 1 in particular, the WBG targeted high-order macro
+outcomes with interventions of a fairly circumscribed scope. For example, the outcomes on informality
+and tourism development under this pillar were not plausibly linked to the interventions. Some of the
+macro outcomes in Pillar I (for example on inflation and de-dollarization) were outside the WBG’s
+purview and capacity to influence, and there were no WBG interventions in the strategy that could have
+had an impact on them. Moreover, on program design, the monitoring of the results framework was
+made difficult by some indicators that were not measurable or did not have proper baselines, limiting
+their use for the WBG’s monitoring and evaluation, as well as subsequent decision-making.
+6.
+Both IFC and MIGA interventions were congruent with market demand. IFC invested in natural
+resources, electricity generation and transmission, toll roads, and improving Lima’s airport, while
+supporting SMEs through its investee financial institutions—the bulk of these investments were in
+Peru’s traditional sectors. MIGA participated by extending guarantees for the transportation, mining,
+and financial sectors. IFC’s additionality at the country program level was particularly high in its
+investment in a private natural resource company whose royalties helped strengthen the administration
+of recipient poor municipalities with support from IFC. These activities were conducted in one of Peru’s
+poorest regions with IFC support. The municipalities—after being strengthened—utilized the royalties
+obtained to invest in local schools, roads, and other infrastructure, lifting the quality of services for the
+poor.
+Risk Identification and Mitigation
+7.
+The CPS indicated that the main risks to the program were possible social conflict, vulnerability
+to external shocks, particularly a global economic downturn or natural disasters, and delays in the US
+approval of the Free Trade Agreement (FTA). The social conflict and the FTA risks had mitigating
+measures, but did not materialize. The strategy did not identify mitigating measures to address the
+impact of the external shocks, which indeed happened—major earthquakes, ―El Niño‖ and the global
+financial crisis. Outside of the original strategy framework, the WBG moved swiftly to provide support to
+Peru to help it cope with the first earthquake and the global financial crisis.
+Overview of CAS Implementation:
+Lending and Investments
+8.
+IBRD lending amounted to US$2.7 billion over the CPS period—lower than the US3.5 billion
+indicated in the CPS. The reduced lending responded to an explicit government decision to minimize
+
+CPSCR Review
+Independent Evaluation Group
+
+For Official Use Only
+4
+
+borrowing from international financial institutions in view of the rapid growth of international reserves and
+fiscal revenues. Moreover, about US$1.4 billion of the funds borrowed were in the form of deferred
+drawdown options (DDOs), which were largely not exercised by Peru (only US$350 million were used by
+the country). The elleven policy loans made during the CPS period—which include the DDOs—amounted
+to US$2.2 billion, and fourteen projects—of which six were not programmed—amounted to about US$500
+million. Nine programmed projects were dropped or postponed. The main development policy loan
+operations were on fiscal management and competitiveness (a programmatic series of four), the
+environment (a programmatic series of two), dealing with catastrophes, and results and accountability in
+social sectors. Investment projects focused on agriculture, water and sanitation, rural development, rural
+electrification, transport infrastructure, health reform, property rights, and water resources management.
+9.
+Thirty-two IFC investment projects, with 24 partners, were in operation at inception of the
+review period, for US$309 million of net commitment. IFC had developed a sizeable investment portfolio
+in the pre-CPS period in a variety of activities and most of the projects related to agriculture were closed
+in the review period. During the review period, IFC committed another US$952 million for 47 projects,
+with 29 partners in a variety of sectors. The largest IFC interventions were for developing Peru’s natural
+resource exports: a US$ 36 million investment and US$340 million in loans for gas liquefaction and gas
+and oil field development. MIGA guarantees totaling $65 million helped investments in the
+transportation (US$7 million), mining (US$40 million), and financial (US$18 million) sectors.
+10.
+Performance of IBRD projects was adequate and the portfolio remained healthy. The proportion
+of commitments at risk represented about 1 percent of the portfolio in FY11, better than the average for
+the Latin America and Caribbean Region (9.9 percent). Implementation of most projects was rated
+moderately satisfactory or satisfactory, with exception of the Sierra Rural Development Project and the
+Vilcanota Valley Rehabilitation and Management Project which were rated moderately unsatisfactory.
+Slow implementation of the latter two projects reflects delays in approving sub-components of the
+projects by the central government, and inexperience of the Cusco local government in implementing
+IBRD-financed projects.
+11.
+Except for one project with a negative evaluation, IEG has rated IFC’s investment projects
+positively for development effectiveness. However, IFC’s portfolio approved during the CPS period is
+relatively new, and there are no IEG evaluations for the new projects. The average riskiness of the IFC
+portfolio appears to have gone up as IFC invested in equity in many projects in Peru, and ventured into
+areas that are more risky financially but have significant social returns.
+Advisory and Analytical Activities and Services
+12.
+IBRD delivered 45 analytical and advisory activities (AAA), 15 of which were not planned. The
+areas covered by AAA included a Country Economic Memorandum (CEM), a Public Expenditure
+Review (PER), an FSAP update, as well as topics such as informality, anti-poverty strategy in Lima,
+effectiveness of anti-poverty intervention, skills and labor policies for the poor, rural electrification,
+capital markets development, national gas development strategy, governance and governability,
+national procurement system and strategy, decentralization in social sectors, municipal services
+assessment, social and distributional impact analysis of participatory budgeting, natural resources, land
+use, and the environment. In addition, there was non-lending technical assistance on poverty,
+education, nutrition, health, and governance.
+13.
+During the CPS period, IFC continued to implement six advisory services in the pipeline.
+Through one of these, National Plan Peru, IFC provided investment climate support to eight
+municipalities and participated (along with USAID, CIDA, DIFID, USAID and more than 20 other
+entities) in Peru’s Tramifacil program, a program to reduce red tape and increase formalization. In
+addition, IFC began another 23 advisory services. Two of these were approved in FY11 but are in the
+pre-implementation stage. The major themes have been linking SMEs with large entities where IFC has
+invested, and strengthening municipalities in their use of natural resource based royalties to address
+the needs of the communities. The four finalized IEG advisory service project evaluations found the
+projects successful.
+
+CPSCR Review
+Independent Evaluation Group
+
+For Official Use Only
+5
+
+14.
+The Peru CPE discussed in detail the effectiveness of the advisory and analytical activities of
+the WBG until FY09, finding that their impact was generally good but varied across sectors.
+Partnerships and Development Partner Cooperation
+15.
+Within the WBG, cooperation at the strategy stage was positive between IBRD, IFC, and MIGA,
+but less so at the operational level, as noted in the Peru CPE. In some cases, such as IFC’s
+engagement in capacity development in the municipalities receiving royalties, closer IBRD-IFC
+engagement might have helped enhance the program and its scaling up. Beyond the WBG itself,
+cooperation with the IMF, the Inter American Development Bank (IADB), the Corporacion Andina de
+Fomento (CAF), the Fondo Latino Americano de Reservas (FLAR), and other external development
+partners was good, and framed within a strong leadership by the government. As noted above, IFC
+collaborated with CIDA, DFID, USAID and 20 other entities in one of its advisory services.
+Safeguards and Fiduciary Issues
+16.
+
+There were no significant safeguards issues or fiduciary complaints that IEG is aware of.
+
+Overview of Achievement by Objective:
+Pillar 1: Promoting Economic Growth
+17.
+Under this pillar the WBG’s support was to focus on (i) maintaining macroeconomic stability and
+reducing vulnerabilities; (ii) accelerating growth and widening the base of growth; and (ii) making growth
+environmentally sustainable.
+18.
+Maintaining macro stability and reducing vulnerabilities. The WBG’s strategy’s
+understanding of Peru’s policy challenges to face its vulnerabilities included increasing tax collections
+while curtailing expenditures, reducing dollarization in the economy, especially dollar-denominated
+outstanding bank loans, and adopting hazard and risk management practices that mitigate the impact of
+natural disasters. The government’s own strategy in this area focused on continuing to implement a
+strong macro-framework that would deliver a sound fiscal policy, low inflation, and de-dollarize the
+economy. Indeed Peru had adopted a fiscal responsibility law in 1999, setting a limit of 1.0 percent of
+GDP on the structural fiscal deficit, which has been observed since. Peru’s tax revenues increased
+from 15.3 percent of GDP in 2006 to 16 percent in 2008, the CPS’s benchmark, but then declined to
+15.2 percent in 2010, the latest year for which data is available. The government increased spending
+temporarily to counter the economic slowdown of 2009, using part of the resources saved under the
+fiscal rule, while maintaining the structural deficit below the statutory limit. The de-dollarization of the
+monetary system continued the trend of recent decades, with dollar-denominated bank loans declining
+from 50.8 percent of total loans in 2006 to 38.5 percent in 2011. The de-dollarization reflects many
+years of monetary prudence that have brought Peru’s inflation rate from hyperinflation levels in the late
+1980s to one of the lowest in Latin America. On natural disaster preparedness and mitigation, the
+Ministry of Finance has created a risk management directorate and is adjusting investment standards
+and regulations. However, most of these accomplishments were in areas outside the purview, or
+capacity to influence of the WBG.
+19.
+IBRD supported fiscal performance through a programmatic series of Fiscal Management and
+Competitiveness DPLs (FY07-FY10). On the tax revenue side the lead agency was the IMF, while IBRD
+and IADB played supporting roles. On the expenditure side IBRD’s support focused on institutional
+issues (reviewed under Pillar 3) and on expenditure priorities at the time of the global financial crisis.
+These interventions were well inside the framework of the fiscal responsibility law. As for dedollarization, the WBG had no bearing on the Central Bank’s policy of maintaining a stable and
+convertible currency, which is the driver behind the gradual shift from dollars into soles in the Peruvian
+monetary system observed in recent decades. On natural disaster preparedness and mitigation, IBRD
+provided support through a Catastrophe DPL Deferred Drawdown Option approved in late 2010
+(US$100 million), in the wake of ―El Niño‖ and ―La Niña‖. This intervention supplements the US$ 300
+
+CPSCR Review
+Independent Evaluation Group
+
+For Official Use Only
+6
+
+million support provided by the Corporacion Andina de Fomento (CAF) in 2009, after Peru recovered
+from the 2007 earthquake. As for analytical work, IBRD delivered a Public Expenditure Review, a series
+of policy notes, and a brief comparative note on the cost of tax compliance for taxpayers based on
+surveys carried out in several countries.
+20.
+IBRD also contributed to this general objective by providing contingent financing to help
+manage financial risk and mitigate the impact of the global financial crisis. Peru drew on its own
+reserves in 2008 and, for 2009, put together an external financial package that included US$ 2 billion in
+bond placements in international financial markets, US$ 1.4 million in DPL DDOs from IBRD, US$400
+million from CAF, and additional financing from IADB. Even though Peru did not draw the bulk of the
+resources from IBRD’s DPL DDOs, these operations provided financing assurances, easing Peru’s
+return to the international bond market. Some of these operations are highlighted in the Peru CPE.
+21.
+Accelerating growth and widening the base of growth. The WBG strategy had a broad
+focus in this objective. Its scope covered international market access and trade, the business
+environment, physical infrastructure, technological capacity, extractive industries, rural infrastructure,
+access to microfinance, informality, and expanding labor intensive sectors. Growth in Peru continues to
+be resource based, with some diversification as evidenced by the gradual decline in the share of the
+mining sector’s contribution to Peru’s GDP. Moreover, indicators such as the World Economic Forum
+(WEF) global competitive index show an improving trend from 3.9 over 7.0 in 2006-07 to 4.2 in 2011-12.
+There is little or incomplete information on the other sub-objectives, such as a decrease of informality.
+Yet the share of non-traditional exports in total exports declined from 25 to 22 percent from 2006 to
+2011.
+22.
+IBRD supported infrastructure investment through the Regional Transport Infrastructure
+Decentralization (FY06, still active), Peru Decentralized Rural Transport (FY07), and Second Rural
+Electrification (FY11) projects. The DPL series on Fiscal Management and Competitiveness (FY07FY10) contributed to improved expenditure management, stressing the importance of the public
+investment program at the time of fiscal restraint. A more detailed discussion of the WBG activities in
+infrastructure can be found in the Peru CPE. Most of the lending designed to achieve the other subobjectives were either dropped or postponed. Analytical work supporting this objective comprised
+Recent Economic Developments in Infrastructure (FY10), the National Gas Strategy (FY10), and the
+Small Hydropower non-lending technical assistance (FY08), as well as economic sector work on
+informality, labor, capital markets, and an FSAP update.
+23.
+IFC’s contribution to this objective was mainly through investments and advisory services in
+mining, energy, and transportation. The pre-FY07 equity investments in gold and copper mining
+continued, and new equity investments were made in copper mining—these are the ―traditional‖ sectors
+of the Peruvian economy. Investments in the energy sector were extensive, with the largest investment
+in a natural gas liquefaction plant and transmission of the liquefied gas—mainly for exports—and
+distribution of gas (in Lima and Callao). In addition, in FY11, a hydroelectric project was approved and
+is under construction. On a different front, IFC interventions in the financial sector helped upgrade its
+investees—often with support from IFC advisory projects, supporting services such as life-insurance for
+the poor, residential mortgages, and penetration into geographically remote areas. In addition, IFC
+helped establish a secondary mortgage market company. IFC also provided loan guarantees for
+improvement of transportation services in Lima and Arequipa municipalities.
+24.
+Early in the CPS period, IFC made a large investment (both loan and equity) to develop a gas
+and oil field, which seems to have fallen short of financial expectations. This investment, however, left
+an important footprint in terms of social and institutional development. IFC provided advisory support to
+the municipalities benefiting from the royalties paid by this particular investment, which are located in
+one of the poorest regions of the country. With IFC’s support, the municipalities used those resources
+to invest in local schools, roads, and other infrastructure.
+25.
+MIGA’s largest guarantee was for a mining project. On transportation, MIGA provided a
+guarantee to facilitate the upgrading of Lima’s airport. MIGA also guaranteed an investment of an
+Ecuadoran bank in Peru.
+
+CPSCR Review
+Independent Evaluation Group
+
+For Official Use Only
+7
+
+26.
+Making growth environmentally sustainable. The strategy focused on improving regulations,
+institutional frameworks, and developing awareness in the public and the government as a whole about
+the importance of environment conservation. To the extent that frameworks and regulations are preconditions for environmental sustainability, indeed Peru appears to be moving towards a more
+environmentally-conscious approach to development. But there is yet no concrete evidence of
+environmental improvement in Peru. Between 2006 and 2009, CO2 emissions appear unchanged, the
+marine protected areas have only increased slightly from 2.8 percent of total territorial waters to 3.0
+percent, while the forest area has declined from 53.7 percent of Peru’s territory to 53.1 percent.
+Moreover, the Ministry of Health reports and remains concerned about the high levels of air pollution in
+the Lima-Callao area, which it monitors regularly. Nevertheless, the Ministry of the Environment is now
+monitoring the implementation of commitments of licensed businesses, has contingency plans on air
+quality for the most polluted cities, and is following up on mining legacies that pose a health and
+environmental threat to neighboring communities.
+27.
+The most significant WBG intervention was a programmatic series of two Environmental DPLs
+(FY09, FY10), and the main piece of analytical work was a Country Environmental Assessment (FY06).
+The interventions also included support through five Global Environment Facility (GEF) trust fund AAAs.
+28.
+IEG rates the outcome of the WBG strategy in Pillar 1 as moderately satisfactory. IEG notes
+that Peru’s own accomplishments in these areas, particularly on growth and macroeconomic stability
+are noteworthy. IEG also highlights the timeliness of the WBG’s support to Peru at the time of the
+global financial crisis, which was instrumental in helping the country access world bond markets, as well
+as the additionality of IFC’s intervention in supporting municipalities use their royalties benefiting their
+poor communities. With WBG support, Peru has improved public expenditure efficiency, some rural
+infrastructure, as noted in the Peru CPE, and environmental frameworks and regulations. The WBG
+made little progress in helping Peru reduce informality or promote non-traditional labor intensive sectors
+of the Peruvian economy, and came late in the CPS period with assistance on disaster preparedness
+and mitigation. IEG does not consider as satisfactory outcomes of the WBG strategy those that are fully
+achieved by the country without a clear contribution from the WBG, as was the case with dedollarization or the fiscal responsibility rule.
+Pillar 2: Enhancing Social Development
+29.
+Under this pillar the WBG’s support was to focus on (i) meeting basic needs; and (ii) promoting
+and developing a new social contract in education, health, and nutrition.
+30.
+Meeting Basic Needs. The WBG’s strategy covered as basic needs water and sanitation,
+electricity, and housing and property rights. Between 2006 and 2010, strong economic growth and a
+pro-active government strategy led to a decrease in Peru’s index of unmet basic needs from 34 to 26
+percent for the whole population and from 62 to 47 percent for the rural population. The share of
+Peruvian’s with access to treated water sources increased from 71.6 percent in 2006 to 74.1 percent in
+2009, while that with access to sanitation increased from 72.4 percent to 74.8 percent in the same
+period. A significant improvement took place in the share of rural households with access to electricity,
+which increased from 28.9 percent in 2006 to 55.0 percent in 2010. There is no information, however,
+on progress on housing and property rights.
+31.
+Main IBRD interventions to support this objective were the National Rural Water Supply and
+Sanitation Project (FY05), and the Rural Electrification Project (FY06). In addition, the WBG delivered
+two pieces of AAA: Poverty Monitoring and Information Systems (FY08), and Extreme Poverty—
+Effectiveness of Antipoverty Intervention I (FY10). An update of the latter was delivered in FY11, late in
+the CPS period. The impact of the WBG interventions on the infrastructure aspects of meeting basic
+needs are discussed in detail in the Peru CPE.
+32.
+Promoting and developing a new social contract in education, health, and nutrition. The
+focus of the WBG strategy was on quality of education, on improving health indicators and organizing
+health care more in line with the evolving epidemiological profile, and on reducing malnutrition,
+especially of children. Outcomes were mixed. On education, for the period 2007 to 2010, the
+
+CPSCR Review
+Independent Evaluation Group
+
+For Official Use Only
+8
+
+standardized test used by Peru to measure progress in reading and mathematics of second grade
+students show that, at the national level, the proportion of students in the highest of three achievement
+levels increased from 15.9 to 28.7 percent and from 7.2 to 13.8 percent, respectively. The general
+improvement, however, hides troublesome developments, such as an increase of the proportion of rural
+students in the lowest achievement group in mathematics from 66.1 to 72.9 percent in 2007-10, and
+decline in performance, especially in mathematics, between 2009 and 2010. As noted in the Peru
+CPE, the WBG’s ―contribution in education was undermined by limited progress in institutional reform
+as well as its difficult relationship with the Ministry of Education.‖ On health, a reform of the health
+insurance system resulted in higher affiliation rates all over the country, as well as in an increase of
+over 40 percent in the health insurance budget. Births under institutional coverage increased from 63
+percent (2007) to over 73 percent (2010) in the ten poorest regions, below the 75 percent target in the
+CPS. There is no information on how the health care has evolved to adapt to the changing
+epidemiological profile. Peru also made progress in reducing national chronic malnutrition, but
+seemingly short of the CPS target.
+33.
+The WBG’s main lending was through the Results and Accountability in Social Sectors
+(REACT) DPL series (FY07-11), and the Health Reform APL II (FY09). In addition, the WBG provided
+the following technical assistance and economic sector work to support this objective: Juntos for
+Nutrition non-lending technical assistance (FY10), Results in Nutrition for Juntos SWAp (FY11), Health
+Reform Program (FY09), technical assistance in the Education Sector (FY10) and Universal Insurance
+Health Reform (FY11), as well as several pieces of economic sector work on the effectiveness of antipoverty intervention in extreme poverty cases. The bulk of the WBG interventions focused on defining
+standards that families could expect from social services, developing monitoring systems, and providing
+individualized data for parents on the learning, health and nutrition status of their children.
+34.
+In line with IFC’s approach in the health sector, IFC—with Peru Fund, an IFC investee—has
+recently approved investment in a hospital providing cutting edge oncology and cardiology services that
+will benefit mostly the middle-income groups.
+35.
+IEG rates the outcome of the WBG strategy in Pillar 2 as moderately satisfactory. Peru made
+some progress in bringing down the index of unmet needs, and, with WBG support, in increasing
+access to water, sanitation and electricity. Peru also made progress, with mixed results in some cases,
+in improving the quality of education, the coverage of health services, and nutrition. There is no
+information on progress on housing and property rights, and on how health services have been adapted
+to the evolving epidemiological profile .
+Pillar 3: Modernizing Institutions
+36.
+Under this pillar the WBG’s strategy aimed at supporting continuing progress on
+decentralization and public service access, strengthening public sector management, and improving the
+justice system and reducing corruption.
+37.
+Furthering decentralization and access to public services. The movement toward
+decentralization, which had gained force under President Toledo, slowed down under President Garcia
+and is still, under President Humala, in the process of defining its objectives and modalities, particularly
+regarding the transfer of resources and responsibilities. Peru, nonetheless, has worked on
+strengthening local governments, as reviewed below. These efforts, however, have yet to bear fruit in
+terms of a stronger role for local governments and communities, as well as improved public service
+delivery at that level. Indeed, public service delivery outcomes show mixed progress, with a gradual
+improvement in some cases. Over the period of 2007-2009, net pre-primary school enrollment
+increased from 65 to 76 percent, while net primary school enrollment declined from 97 to 95 percent,
+and net secondary enrollment improved from 75 to 78 percent. In the health sector, between 2007 and
+2010, the immunization for measles and DPT of children ages 12-23 months decreased from 95 and 97
+percent, respectively, to 94 and 93 percent. Meanwhile, the share births attended by skilled health staff
+increased from 71 in 2006 to 83 in 2009.
+
+CPSCR Review
+Independent Evaluation Group
+
+38.
+
+For Official Use Only
+9
+
+The WBG supported efforts in this area through the early DPLs of the programmatic series.
+
+39.
+Strengthening public sector management. During the CPS period Peru made some
+progress in strengthening its public sector management. The World Bank Institute (WBI) indicator for
+Governance Effectiveness, which reflects perceptions of the quality of public services, the quality of the
+civil service, the degree of its independence from political pressures, the quality of policy formulation
+and implementation, and the credibility of the government's commitment to such policies, albeit still in
+the negatives, improved from -0.53 in 2006 to -0.21 in 2010, within a range that goes from -2.50 (weak)
+to 2.50 (strong). Similarly, the Wastefulness of Government Spending sub-index of the Global
+Competitive Index of the World Economic Forum improved from 2.9 over 7.0 in 2006-2007 to 3.8 in
+2011-2012. In terms of specific policy actions, the Ministry of Finance adopted a unified treasury
+account, and introduced results-based budgeting for five strategic pilot programs in 2008, expanding
+the scope of the program to twenty four programs in 2011. In addition, as a result of the implementation
+of the Participatory Budget Law, many sub-national governments follow participatory budget norms in
+the preparation of the investment budget, but the system still needs mainstreaming and refining, as only
+36 percent of the budgets rely on a participatory process. Also, most local governments are using an
+integrated financial administration system introduced during the CPS period. Moreover, many
+municipalities are now better equipped to gain access and use their royalties from the extractive sector.
+Many of these efforts took place after the Peru CPE period, and explain the higher rating in this review.
+40.
+IBRD provided support in strengthening public sector management as part of the DPL
+programmatic series, especially the Results and Accountability in Social Sectors DPL series (FY07,
+FY09, and FY11). The main analytical work in support of better fiscal management was a Public
+Financial Management Performance Report (jointly with the EU and IADB). Additional AAA included
+Municipal Debt (FY07), Government and Governability Enhancement (FY09), Social and Distributional
+Impact Analysis of the Participatory Budget in Peru (FY10), and, late in the CPS period,
+Decentralization and Quality of Education (FY11) and Public Expenditure Sub-national Pilots (FY11).
+41.
+IFC, aside from the support provided to the municipalities that benefited from the royalties from
+its investment, joined efforts with CIDA, DFID and USAID to implement the Canon (royalty)
+Management and the Improving Municipal Investment projects in five regions.
+42.
+Improving the justice system and reducing corruption. Overall, there was a slight
+improvement in the justice system indicators and no significant change in the corruption indicators. The
+WBI indicator for Rule of Law, which reflects perceptions of the extent to which agents have confidence
+in and abide by the rules of society, and in particular the quality of contract enforcement, property rights,
+the police, and the courts, as well as the likelihood of crime and violence, albeit still in the negatives,
+improved from -0.75 in 2006 to -0.61 in 2010, within a range that goes from -2.50 (weak) to 2.50
+(strong). Also, Latinobarómetro’s surveys shows that the approval rating of the judicial system
+increased from 13 percent in 2006 to 20 percent in 2012, while the disapproval rating declined from 76
+percent to 69 percent in the same period. Moreover, a 2009 Social Assessment of a judicial project
+found that only 35 percent of surveyed case attorneys expressed satisfaction with the courts and their
+operation in Peru. In regard to corruption indicators, the WBI indicator for Control of Corruption,
+reflecting perceptions of the extent to which public power is exercised for private gain, including both
+petty and grand forms of corruption as well as "capture" of the state by elites and private interests,
+remained in the negatives and barely moved from -0.22 in 2006 to -0.23 in 2010, within a range that
+goes from -2.50 (weak) to 2.50 (strong). In terms of specific policy actions, the government introduced a
+program to provide legal assistance and alternative dispute resolution mechanisms to the poor and
+marginalized groups (Centros de Asistencia Legal Gratuita, ALEGRA).
+43.
+The main interventions by the WBG were the Justice Services Improvement Project I and II
+(FY04, FY11). The latter is just beginning its implementation, while the former propped justice services
+in selected districts, worked on human resource management and supported some of the legal aid
+clinics that ALEGRA has.
+44.
+IEG rates the outcome of the WBG strategy in Pillar 3 as moderately satisfactory. Peru made
+progress in strengthening public sector management and, with support from the WBG, established a
+
+CPSCR Review
+Independent Evaluation Group
+
+For Official Use Only
+10
+
+unified treasury account, and is making headway in results-based budgeting at the national level,
+participatory investment budgeting at the local level, and mainstreaming an integrated financial
+administration system at the sub-national level. Spending of royalties by some local governments is
+also benefiting local communities. Peru continues to work on improving its justice system and abating
+corruption, but progress has been slow and not entirely successful, despite having established an
+effective mechanism to aid the poor and marginalized in their dealings with the justice system. The
+decentralization process came to a halt for political reasons early in the CPS period, making the WBG’s
+objective of supporting it immaterial.
+Pillars
+Pillar 1: Promoting Economic Growth and Reducing
+Vulnerabilities
+Pillar 2: Enhancing Social Development
+Pillar 3: Modernizing Institutions
+
+IEG Rating
+Moderately Satisfactory
+Moderately Satisfactory
+Moderately Satisfactory
+
+4. Overall IEG Assessment
+Outcome:
+
+Moderately Satisfactory
+
+IBRD Performance:
+
+Moderately Satisfactory
+
+IFC Performance:
+
+Satisfactory
+
+MIGA Performance:
+
+Moderately Satisfactory
+
+Overall outcome:
+45.
+IEG rates the overall outcome of the WBG strategy in Peru as moderately satisfactory. IEG notes
+that Peru’s own accomplishments in many areas, particularly on growth, macroeconomic stability, dedollarizing the monetary system, and addressing some basic needs are remarkable—these achievements
+are mostly attributable to Peru’s own efforts. IEG also highlights the timeliness of the WBG’s support to
+Peru at the time of the global financial crisis, which was instrumental in helping the country access world
+bond markets, as well as the additionality of IFC’s intervention in supporting municipalities use their
+royalties to benefit poor communities. With WBG support, Peru has improved public expenditure
+efficiency, some rural infrastructure as noted in the Peru CPE, and environmental frameworks and
+regulations, as well as increased access to water, sanitation and electricity, also highlighted in the Peru
+CPE. Peru made progress in strengthening public sector management and, with support from the WBG,
+established a unified treasury account, and is making headway in results-based budgeting at the national
+level, participatory investment budgeting at the local level, and mainstreaming an integrated financial
+administration system also at the sub-national level. Spending of royalties by some local governments is
+also benefiting local communities. With mixed results, Peru worked on improving the quality of education,
+the coverage of health services, and nutrition, and continues to work on improving its justice system and
+abating corruption, albeit slowly and with uneven outcomes. There is no information about progress on
+housing and property rights, and on how health services have been adapted to the evolving
+epidemiological profile. The WBG made little progress in helping Peru reduce informality or promote
+non-traditional labor intensive sectors of the Peruvian economy, and came late in the CPS period with
+assistance on disaster preparedness and mitigation. The country’s decentralization process came to a
+halt for political reasons early in the CPS period, making immaterial the WBG’s objective of supporting it.
+IBRD Performance:
+46.
+IBRD performance is rated moderately satisfactory. IBRD reacted quickly and promptly to support
+Peru when it requested assistance to face the global financial crisis, and demonstrated flexibility in its
+AAA program. The WBG’s strategy and program were generally aligned with Peru’s development
+strategy. However, authorities’ feedback suggests that the initial policy platform developed under the
+CPS was short on detail, lacked agreement on specific interventions expected from the WBG, and could
+have given the wrong impression that Peru was going to use WBG services extensively in its
+
+CPSCR Review
+Independent Evaluation Group
+
+For Official Use Only
+11
+
+implementation of policies. In the event, Peru went its own way on developing its policies, and the
+dialogue with the authorities was not as fluid as needed for IBRD to adapt its own projects and programs
+to the government’s changing policy intentions. As a result, projects such as the decentralization in social
+sectors and rural education performed poorly. Moreover, the strategy lacked relevance of design, by
+including objectives that were not supported by appropriate IBRD interventions, or by having loose links
+between the objectives and the interventions. This was the case particularly under Pillar 1, where IBRD
+interventions, which were micro in scope, could not be expected to deliver the anticipated higher-order
+macro-objectives. The tourism and informality objectives were not supported by adequate interventions. In
+addition, some of the macro objectives in Pillar I (on inflation and de-dollarization for example) were
+outside the WBG’s purview, and capacity to influence. On a different dimension, the monitoring and
+evaluation framework of the strategy was weak, sometimes based on inexistent indicators or wrong
+baselines. The strategy was well-coordinated between IBRD, IFC and MIGA, but operations were poorly
+coordinated, especially between IBRD and IFC.
+IFC Performance:
+47.
+IEG rates performance of IFC as satisfactory. IFC had an extensive program providing risk capital
+to private sector activities and services to the poor. IFC’s role to improve services to the poor came mostly
+through an opportune intervention with demonstrated additionality, by helping the neighboring
+municipalities of one of its investees use the royalties of the investment in new schools, health services,
+and road infrastructure. This intervention could have been scaled up had IFC and IBRD coordinated
+better their activities in Peru.
+MIGA Performance:
+48.
+IEG rates performance of MIGA as moderately satisfactory. MIGA has developed a diversified
+portfolio with demand coming from developed and emerging market countries. However, using
+IFC investments and the growth enjoyed by the country as proxies for the opportunity for new MIGA
+business, the volume of MIGA guarantees appears to be modest.
+
+5. Assessment of CPS Completion Report
+49.
+This is a well-written CPSCR. It is detailed and comprehensive on the activities undertaken by the
+WBG. However, the CPSCR could have covered some of the country outcomes that correspond to the
+strategy objectives. It could also have been more forthcoming and dealt more in-depth with those areas
+of the program where things did not go well, to find out the reasons and draw lessons. The CPSCR could
+have also offered more information on the role of the government and other development partners in the
+achievement of the objectives of the WBG strategy.
+
+6. Findings and Lessons
+50.
+IEG underscores four lessons stemming from this review. First, the WBG has greater
+development effectiveness when it aligns its strategy with the government’s own program, as evidenced
+by the highly effective intervention supporting Peru’s actions to deal with the effects of the global financial
+crisis. By contrast, the WBG had less effective interventions in areas with little country buy in, such as the
+decentralization in social sectors and rural education. Second, the development effectiveness of the
+WBG can only be demonstrated where there are interventions that can help the country deliver the
+expected results. By contrast, strategy objectives that are beyond the purview of the WBG, although
+achieved by the country, are not a demonstration of the WBG’s development effectiveness. Third, WBG
+strategies gain efficacy when they have a monitoring and evaluation framework that is based on available
+and verified data, and that can actually be used by the WBG to actively play out its strategy. Within this
+review, those objectives that were better monitored were the ones that showed the best development
+results. Fourth, the WBG could find ways of improving coordination within the Group itself to take
+advantage of good initiatives that can be scaled up for the benefit of the country, as could have been the
+case with IFC’s work with the municipalities that were receiving the royalties of its investees.
+
+CASCR Review
+Independent Evaluation Group
+
+Annexes
+13
+
+Annex Table 1a: Actual vs. Planned Lending, FY07-11
+
+Annex Table 1b: Trust Funds, FY07-11
+
+Annex Table 2: Analytical and Advisory Work, FY07-11
+
+Annex Table 3a: IEG Project Ratings for Peru, FY07-FY11
+
+Annex Table 3a: IEG Project Ratings for Peru and Comparators, FY07-FY11
+
+Annex Table 4: Portfolio Status for Peru and Comparators, FY07-11
+
+Annex Table 5: IBRD / IDA Net Disbursements and Charges Summary Report for Peru
+
+Annex Table 6: Total Net Disbursements of Official Development Assistance and Official
+Aid, 2007-2010
+
+Annex Table 7: Economic and Social Indicators for Peru and Comparators, 2007-2010
+
+Annex Table 8: Millennium Development Goals
+Annex Table 9: List of IFC’s investments in Peru that were active during FY07-11 (US$’000)
+Annex Table 10: List of IFC’s Advisory Services in Peru, FY07-11
+Annex Table 11: List of MIGA’s Operations in Peru, FY07-11 (US$ ‘000)
+
+Annex Table 12: Summary of Achievements of the CPS Objectives
+
+Annexes
+15
+
+CASCR Review
+Independent Evaluation Group
+
+Annex Table 1.a: Planned and Actual Lending, FY07-11
+Project
+ID
+
+Proposed
+FY
+
+Approval FY
+
+Proposed
+Amount
+
+Approve
+d
+Amount
+
+Fiscal Management and Competitiveness DPL
+
+2007
+
+2007
+
+-
+
+200.0
+
+Second Programmatic Fiscal Management and Competitiveness DPL
+(including Supplemental Financing)
+
+2008
+
+2009
+
+-
+
+700.0
+
+Third Programmatic Fiscal Management & Comp. DPL
+
+2009
+
+2010
+
+-
+
+150.0
+
+Fourth Programmatic Fiscal Management DPL
+
+2010
+
+2011
+
+-
+
+100.0
+
+Peru First Programmatic Environmental DPL/DDO
+
+2008
+
+2009
+
+-
+
+330.0
+
+Second Programmatic Environmental DPL
+
+2010
+
+2010
+
+-
+
+50.0
+
+2011
+
+-
+
+100.0
+
+Project
+Programmed projects (CPS FY07-11)
+
+P10133
+5
+P10159
+0
+P10672
+0
+P11621
+4
+P10147
+1
+P11615
+2
+P12086
+0
+P07881
+3
+P07916
+5
+P11731
+0
+P09556
+3
+P10108
+6
+P10117
+7
+P11626
+4
+P10766
+6
+
+Catastrophe Development Policy Loan DDO (CAT DDO)
+Regional Transport Infrastructure Decentralization
+
+2007
+
+2006
+
+-
+
+50.0
+
+PE Sierra Rural Development Project
+
+2007
+
+2007
+
+-
+
+20.0
+
+Results in Nutrition for Juntos SWAp
+
+2007
+
+2011
+
+-
+
+25.0
+
+PE- (APL2) Health Reform Program
+
+2007
+
+2009
+
+-
+
+15.0
+
+Results and Accountability in Social Sectors (REACT) DPL
+
+2007
+
+2007
+
+-
+
+150.0
+
+2009
+
+2009
+
+-
+
+330.0
+
+2011
+
+2011
+
+-
+
+50.0
+
+2008
+
+2010
+
+-
+
+10.0
+
+-
+
+Dropped
+Dropped
+Dropped
+Slipped to FY14
+Slipped to FY14
+Dropped
+Dropped
+Slipped to FY13
+Dropped
+
+-
+
+Second Results and Accountability in Social Sectors (REACT) DPLDeferred Drawdown Option
+Third Results & Accountability in Social Sectors (REACT) Programmatic
+DPL
+Water Resources Management Modernization (PRONASAR II)
+
+Governance Enhancement Program
+Fifth Programmatic Fiscal Management Development Policy Loan
+Infrastructure for Sustainable Tourism
+PE Sierra Rural Development Project II
+PE- (APL3) Health Reform Program (III)
+Low Income Housing
+Doing Business Enhancement Program
+Quality Assurance in Tertiary Education (previous Higher Education)
+Supplemental Fiscal Management and Competitiveness DPL II
+Total Programmed projects CPS FY07-11
+Non-programmed projects
+P09557
+Peru Decentralized Rural Transport Project
+0
+P11786
+Second Rural Electrification
+4
+P11871
+Peru Third Programmatic Environmental DPL
+3
+P11729
+Optimization of Lima Water and Sewerage Systems (previous Water
+3
+Resources Management)
+P11075
+Justice Services Improvement Project II
+2
+P10476
+Sierra Irrigation Subsector
+0
+P11692
+Peru Safe and Sustainable Transport Project (previous Additional
+9
+Financing Lima Transport Project)
+P11733
+Agriculture, research and extension project III (Incagro III)
+6
+Total non programmed projects CAS FY07-11
+
+2280.0
+-
+
+2007
+
+-
+
+50.0
+
+-
+
+2011
+
+-
+
+50.0
+
+-
+
+2011
+
+-
+
+75.0
+
+-
+
+2011
+
+-
+
+54.5
+
+-
+
+2011
+
+-
+
+20.0
+
+-
+
+2011
+
+-
+
+20.0
+
+-
+
+2010
+
+-
+
+150.0
+
+-
+
+Slipped to FY14
+
+419.5
+
+Annexes
+16
+
+CPSCR Review
+Independent Evaluation Group
+
+Project
+ID
+
+Project
+
+Proposed
+FY
+
+Approval FY
+
+Total projects CAS FY07-11
+Project
+ID
+
+Project
+
+3500.01
+Approval FY
+
+Ongoing projects
+P06525
+National Rural Water Supply and Sanitation Project
+2003
+6
+P00805
+Lima Water Rehabilitation and Management Project
+1995
+1
+P05523
+Rural Education Project
+2003
+2
+P07343
+Justice Services Improvement
+2004
+8
+P00803
+Irrigation Subsector Project
+1997
+7
+P08880
+Institutional Capacity for Sustainable Fiscal Decentralization TAL
+2005
+9
+P07778
+Trade Facilitation and Productivity Improvement Technical Assistance
+2003
+8
+Project
+P04460
+Second Rural Roads Project
+2001
+1
+P08258
+Agricultural Research and Extension APL Phase 2
+2005
+8
+P03574
+Lima Urban Transport Project
+2004
+0
+P08262
+Vilcanota Valley Rehabilitation and Management Project
+2005
+5
+P07889
+Real Property Rights Consolidation Project
+2006
+4
+P09011
+PE Rural Electrification
+2006
+6
+P07895
+Accountability for Decentralization in the Social Sectors (previous
+2005
+3
+Programmatic Social Reform TAL)
+P08183
+Additional Financing - Lima Water Rehabilitation and Management Project
+2003
+4
+P07402
+Lima Transport Project
+2004
+1
+P07881
+Regional Transport Decentralization
+2006
+3
+Source: Peru FY07-11 CPS/CASPR and WB Business Warehouse Table 2a.1, 2a.4 and 2a.7 as of 01/18/2012 .
+
+1
+
+Proposed
+Amount
+
+Approve
+d
+Amount
+2700.0
+
+Closed FY
+
+Approved Amount
+
+Ongoing
+
+80.0
+
+2008
+
+149.7
+
+2008
+
+28.9
+
+2010
+
+11.8
+
+2009
+
+94.7
+
+2011
+
+6.5
+
+2009
+
+17.9
+
+2007
+
+48.1
+
+2011
+
+23.2
+
+2011
+
+45.0
+
+2011
+
+4.1
+
+Ongoing
+
+25.0
+
+Ongoing
+
+50.0
+
+2009
+
+6.6
+
+2009
+
+20.0
+
+2010
+
+45.0
+
+Ongoing
+
+50.0
+
+The CPS planned an IBRD lending envelope of up to US$3.5 billion or up to US$700 million per annum during FY07-FY11. But it was not explicit
+about a breakdown of lending by operation, except to say that fast disbursing policy loans were expected to average US$400 million per year, reaching
+a maximum of US$2 billion over the CPS period.
+
+Annexes
+17
+
+CPSCR Review
+Independent Evaluation Group
+
+Annex Table 1.b: Trust Funds, FY07-11
+Project ID Project
+
+TF ID
+
+Approved Approv
+Amount
+al
+
+GEF Strengthening Biodiversity Conservation through the National
+TF91166
+0.2
+Protected Areas
+GEF Strengthening Biodiversity Conservation through the National
+P095424
+TF97155
+8.9
+Protected Areas
+P120888 Peru Participatory intervention model to improve child nutrition
+TF96419
+1.58
+GEF Saving Glaciers: Artisanal Industry Aims to Stop the Melt and Save
+P121012
+TF97026
+0.20
+Water
+P115008 Peru National Results Based Monitoring, Evaluation and Information
+TF96843
+0.30
+P120124 Peru capacity building for sub-national public investment
+TF96018
+0.40
+Peru-Strengthening the National System for Evaluation and Quality
+P117834
+TF96586
+0.40
+Assurance of Education
+P090110 PE Rural Electrification
+TF56023
+10.00
+P065256 National Rural Water Supply and Sanitation Project
+TF54288
+0.85
+P068250 GEF Participatory Management of Protected Areas
+TF51285
+14.80
+P074021 Lima Transport
+TF52856
+7.93
+P073438 Justice Services Improvement
+TF54758
+0.71
+P073817 PE-Programmatic Social Reform Loan II
+TF51333
+0.80
+P079165 PE Sierra Rural Development Project
+TF51888
+1.10
+P081954 Poechos Hydropower Project
+TF54342
+1.29
+P082291 Lima City Poverty Strategy IDF Grant
+TF52499
+0.46
+P082709 (CIDA) Small Towns Water and Sanitation Project
+TF51968
+1.67
+P090116 PE Rural Electrification
+TF54624
+0.33
+P092834 PE Santa Rosa Hydro Carbon Finance
+TF54010
+0.44
+P094739 PE Huaycoloro Landfill Gas Recovery
+TF55184
+3.84
+P095570 Peru Decentralized Rural Transport Project
+TF56582
+0.76
+P098846 Peru-Extractive Industries Transparency Initiative
+TF57870
+0.30
+Second Results and Accountability (REACT) Development Policy LoanP101177
+TF90644
+1.00
+Deferred Drawdown Option
+P104407 Strengthening Congressional Budget Oversight Capacity
+TF91818
+0.49
+P109786 Peru CONAM Institutional Capacity Strengthening
+TF92745
+0.22
+P110920 Peru CDM Project Portfolio Consolidation Project - CF Assist
+TF91358
+0.17
+P115993 Improving the Quality and Efficiency of Public Expenditure Management
+TF95180
+0.15
+GEF Indigenous Wisdom and Biomathematics: Amazonians Tackle
+P121006
+TF96715
+0.20
+Climate Change
+Adapting Native Andean Crops for Food Security in the Face of Climate
+P121136
+TF96863
+0.17
+Change
+P118713 Peru Third Programmatic Environmental DPL
+na
+0.03
+P074021 Lima transport
+TF52856
+7.4
+P065256 National rural water supply and sanitation project
+TF54228
+0.9
+P104760 Sierra Irrigation Subsector
+na
+0.3
+P125551 Round 23 - Peru - Enhancing Integrated Legal Strategies for the Poor
+TF099277
+1.1
+P117310 Results in Nutrition for Juntos SWAp
+na
+0.03
+P079165 PE Sierra Rural Development Project.
+na
+0.3
+P008037 Irrigation Subsector Project
+na
+0.02
+P107666 Water Resources Management Modernization
+na
+0.06
+P117318 Peru Vilcanota II Project Preparation
+TF096160
+0.6
+P082588 Agricultural Research and Extension APL Phase 2
+na
+0.04
+P116264 Third Results & Accountability (REACT) Programmatic DPL
+na
+0.08
+P121854 Integration of Disaster Risk Information in Peru's Planning System
+TF099051
+0.31
+P082625 Vilcanota Valley Rehabilitation and Management Project
+na
+0.2
+Source: Peru FY07-11 CPS/CASPR and WB Business Warehouse Table 2a.1, 2a.4 and 2a.7 as of 01/24/2012.
+P095424
+
+Closin
+g
+
+2008
+
+2009
+
+2011
+
+Active
+
+2011
+
+Active
+
+2011
+
+Active
+
+2011
+2011
+
+Active
+Active
+
+2011
+
+Active
+
+2007
+2005
+2003
+2005
+2006
+2004
+2004
+2004
+2004
+2006
+2005
+2005
+2006
+2007
+2008
+
+Active
+2009
+2011
+2010
+2009
+2008
+2008
+Active
+2007
+2008
+2007
+Active
+Active
+2007
+2011
+
+2008
+
+2010
+
+2008
+2009
+2008
+2010
+
+2011
+Active
+2010
+Active
+
+2010
+
+Active
+
+2011
+
+Active
+
+2011
+2005
+2005
+2011
+2010
+2011
+2007
+1997
+2010
+2012
+2005
+2011
+2010
+2005
+
+Active
+2010
+2009
+Active
+Active
+Active
+Active
+2009
+Active
+Active
+2011
+Active
+Active
+2011
+
+Annexes
+18
+
+CPSCR Review
+Independent Evaluation Group
+
+Annex Table 2: Planned and Actual Analytical and Advisory Work, FY07-11
+Economic and Sector Work
+Planned (CPS FY07-11)
+PE Informality Study
+PE Informality Study II
+PE-Recurso II
+PE-Recurso III
+Review of Progress with FTAs
+Justice Sector Access and Standards
+PE-Recurso I
+PEFA I
+PEFA II
+Review of PPP
+Income, Poverty and Inequality Review
+Financial Sector Assessment Program (FSAP) Update Peru
+Skills and Access to Urban Labor Markets in Peru
+PE Recurso IV
+PE Recurso V
+PE Policy Notes - Labor Market Review
+PE Extreme Poverty-Effectiveness of Antipoverty Intervention
+PE Extreme Poverty-Effectiveness of Antipoverty Intervention II
+Social and Distributional Impact Analysis of the Participatory
+Budget in Peru
+Peru - Recent Economic Development in Infrastructure (REDI)
+PERU Government and Governability Enhancement
+Peru Rural Electrification
+Peru Natural Gas Study (National Gas Development Strategy)
+Overcoming Barriers to Hydropower Investment in Peru
+PE Public Expenditure Review (PER)
+Tax Compliance Cost Surveys
+Non-planned
+Peru Small Hydropower
+Peru Corporate Governance SOE Assessment
+Peru - Insolvency & Creditor Rights ROSC
+PE Policy Notes - AAA Decentralization (Decentralization in
+Social Sectors)
+Peru Capital Markets for Growth
+Peru II Corporate Governance ROSC Assessment
+Peru Policy Notes
+PE Municipal Debt
+Technical Assistance
+Planned (CPS FY07-11)
+PE Education Sector
+CEM (Country Economic Memorandum)
+PE Universal Insurance Health Reform
+Natural Resources Land Use Change and Environment
+Peru: Financial Crisis Simulation Program FIRST # 8086
+PE Sub-national Pilots
+PE Juntos for Nutrition-NLTA
+Decentralization and Quality of Education (previous
+Decentralization and Public Expenditure Efficiency)
+FIRST: Peru Improving SME access to capital markets
+Poverty monitoring and information systems
+Non-planned
+Peru - Technical Assistance on Ministry of Finance Public
+Private Partnerships (PPP) Law Drafting
+FIRST Peru: TA for strengthening private sector accounting
+and auditing
+Assessment of climate Impact on Peru's hydrology.
+Development of a methodology
+CA: Lima (Peru) City Poverty Strategy
+
+AAA ID
+
+Proposed
+FY
+
+Delivered to Client
+FY
+
+Output Type
+
+P101334
+P106731
+P104262
+P106943
+
+na
+na
+na
+2009
+na
+na
+
+2007
+2008
+2007
+2008
+Dropped
+Dropped
+2006
+2009
+Dropped
+2009
+Dropped
+2011
+2011
+2010
+2012
+2010
+2011
+2011
+2010
+
+Report
+Report
+Report
+Report
+
+na
+P122390
+P106406
+P103644
+P117375
+P113248
+P113917
+P122834
+P112072
+P106687
+P106739
+P093486
+P111012
+P109969
+P113889
+
+na
+na
+na
+na
+2007
+2010
+2010
+2011
+2010
+2010
+2010
+2010
+2009
+2009
+
+Report
+Report
+Report
+Report
+Policy Note
+Client Document Review
+Client Document Review
+Policy Note
+
+2011
+2009
+2007
+2010
+2009
+2011
+2010
+
+Report
+Report
+Model/Survey
+Report
+Report
+Report
+
+P103422
+P100333
+P122177
+P103161
+
+2008
+2007
+2012
+2010
+
+Client Document Review
+Report
+Report
+Policy Note
+
+P106743
+P126022
+P121721
+P094276
+
+2008
+2012
+2012
+2007
+
+Report
+Report
+Policy Note
+Report
+"How-To" Guidance
+
+2010
+2009
+2009
+2009
+
+P111529
+P106728
+P101500
+P117337
+P117351
+P110925
+P111717
+P117589
+
+2011
+2007
+2011
+2011
+na
+2010
+2011
+2010
+
+2010
+Forwarded to 2012
+2011
+2011
+2011
+2011
+2011
+2011
+
+Client Document Review
+"How-To" Guidance
+"How-To" Guidance
+Client Document Review
+"How-To" Guidance
+"How-To" Guidance
+
+P105450
+P103116
+
+2009
+2009
+
+2009
+2009
+
+"How-To" Guidance
+Client Document Review
+
+P110749
+
+2009
+
+"How-To" Guidance
+
+P110336
+
+2011
+
+"How-To" Guidance
+
+P110305
+
+2011
+
+P081481
+
+2008
+
+Knowledge-Sharing
+Forum
+Institutional Development
+Plan
+
+Annexes
+19
+
+CPSCR Review
+Independent Evaluation Group
+
+AAA ID
+Peru Strategic Plan for the Telecommunications Investment
+Fund
+Opportunities for the Information Technology and Information
+Technology Enabled Services (IT/ITES) Off shoring Industry in
+Peru
+PE Poverty monitoring and information systems II
+
+Proposed
+FY
+
+P116789
+
+Delivered to Client
+FY
+2010
+
+Client Document Review
+
+P117650
+
+2010
+
+Client Document Review
+
+P113841
+
+2009
+
+Client Document Review
+
+Source: Peru FY07-11 CPS/CASPR and WB Business Warehouse Table ESW/TA 8.1.4 as of 01/18/2012.
+
+Output Type
+
+Annexes
+20
+
+CPSCR Review
+Independent Evaluation Group
+
+Annex Table 3a: IEG Project Ratings for Peru, FY07-FY11
+Total
+Evaluated
+(US$M)
+
+Project Name
+
+Project ID
+
+2007
+
+P044601
+
+2007
+
+P065200
+
+2008
+
+P008051
+
+2008
+
+P055232
+
+PE- Rural Education
+
+29.0
+
+2009
+
+P008037
+
+PE Irrigation Subsector Project
+
+92.7
+
+Satisfactory
+
+NA
+
+2009
+
+P077788
+
+PE Trade Facil. and Prod. Improv. T. A.
+
+16.0
+
+Satisfactory
+
+Moderate
+
+2009
+
+P081834
+
+PE Lima Water Rehab Additional Financing
+
+14.5
+
+Satisfactory
+
+Negligible to low
+
+2010
+
+P073438
+
+PE Justice Services Improvement
+
+7.1
+
+Satisfactory
+
+Moderate
+
+2010
+
+P078953
+
+PE-(CRL1) Accountability for
+Decentralization in the Social Sectors
+
+4.1
+
+Moderate
+
+2011
+
+P088809
+
+PE Inst. Capacity for Decent. TAL
+
+1.8
+
+Moderately
+unsatisfactory
+Moderately
+satisfactory
+
+PE Second Rural Roads Project
+PE GEF Indigenous Management
+Protection Areas.
+PE LIMA Water Rehabilitation and
+Management Project.
+
+48.1
+0.0
+149.7
+
+IEG Outcome
+
+IEG Risk to
+Development
+Outcome *
+
+Exit FY
+
+Moderate
+
+Satisfactory
+
+Moderate
+
+Satisfactory
+Satisfactory
+Moderately
+unsatisfactory
+
+Negligible to low
+Significant
+
+Moderate
+
+Source: WB Business Warehouse Table 4a.6 as of as of 01/23/2012.
+* With IEG new methodology for evaluating projects, institutional development impact and sustainability are no longer rated separately.
+
+Annex Table 3b: IEG Project Ratings for Peru and Comparators, FY07-11
+Total
+Evaluated
+($M)
+
+Total
+Evaluated
+(No)
+
+Outcome
+% Sat ($)
+
+Outcome
+% Sat (No)
+
+RDO % Moderate
+or Lower ($) *
+
+RDO % Moderate
+or Lower (No) *
+
+Peru
+
+362.9
+
+10
+
+90.9
+
+80.0
+
+89.3
+
+88.9
+
+Uruguay
+
+244.1
+
+6
+
+62.5
+
+83.3
+
+100.0
+
+100.0
+
+Region
+
+Colombia
+1,189.8
+15
+94.1
+78.6
+92.7
+LAC
+9,312.3
+194
+81.6
+77.8
+80.2
+World Bank
+48,888.9
+897
+82.3
+74.7
+68.2
+Source: WB Business Warehouse Table 4a.5 as of as of 01/23/2012.
+* With IEG new methodology for evaluating projects, institutional development impact and sustainability are no longer rated separately.
+
+84.6
+74.2
+59.3
+
+Annexes
+21
+
+CPSCR Review
+Independent Evaluation Group
+
+Annex Table 4: Portfolio Status for Peru and Comparators, FY07-11
+Fiscal year
+Peru
+# Proj
+# Proj At Risk
+% At Risk
+Net Comm Amt
+Comm At Risk
+% Commit at Risk
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+19
+6
+31.6
+908.6
+299.1
+32.9
+
+16
+4
+25.0
+505.2
+83.8
+16.6
+
+17
+4
+23.5
+1743.3
+56.6
+3.2
+
+18
+1
+5.6
+1895.3
+10.0
+0.5
+
+18
+1
+5.6
+1948.4
+20.0
+1.0
+
+Uruguay
+# Proj
+# Proj At Risk
+% At Risk
+Net Comm Amt
+Comm At Risk
+% Commit at Risk
+
+10
+0
+0.0
+375.0
+0.0
+0.0
+
+10
+0
+0.0
+375.5
+0.0
+0.0
+
+9
+0
+0.0
+294.3
+0.0
+0.0
+
+8
+0
+0.0
+299.2
+0.0
+0.0
+
+8
+1
+12.5
+299.2
+25.3
+8.5
+
+Colombia
+# Proj
+# Proj At Risk
+% At Risk
+Net Comm Amt
+Comm At Risk
+% Commit at Risk
+
+20
+0
+0.0
+1,935.1
+0.0
+0.0
+
+22
+2
+9.1
+2,886.5
+170.0
+5.9
+
+17
+2
+11.8
+1,877.9
+130.0
+6.9
+
+21
+2
+9.5
+2,516.7
+120.0
+4.8
+
+21
+3
+14.3
+1,967.3
+147.7
+7.5
+
+LCR
+# Proj
+# Proj At Risk
+% At Risk
+Net Comm Amt
+Comm At Risk
+% Commit at Risk
+
+280
+61
+21.8
+16,874.7
+3,606.6
+21.4
+
+291
+63
+21.6
+18,277.4
+3,722.7
+20.4
+
+294
+69
+23.5
+26,127.9
+3,296.1
+12.6
+
+302
+64
+21.2
+32,044.9
+5,314.7
+16.6
+
+291
+59
+20.3
+32,353.1
+3,194.8
+9.9
+
+World
+# Proj
+1,485
+1,525
+# Proj At Risk
+243
+276
+% At Risk
+16.4
+18.1
+Net Comm Amt
+100,357.1
+106,761.7
+Comm At Risk
+15,354.3
+18,428.2
+% Commit at Risk
+15.3
+17.3
+Source: WB Business Warehouse Table 3a.4 as of 01/23/2012.
+
+1,552
+344
+22.2
+131,076.4
+19,929.9
+15.2
+
+1,590
+366
+23.0
+158,287.4
+28,186.1
+17.8
+
+1,595
+337
+21.1
+168,248.7
+22,978.5
+13.7
+
+Annexes
+22
+
+CPSCR Review
+Independent Evaluation Group
+
+Annex Table 5: IBRD/IDA Net Disbursements and Charges Summary Report for Peru (in US$
+million)
+FY
+
+Disb. Amt.
+
+Repay Amt.
+
+Net Amt.
+
+Charges
+
+Fees
+
+Net Transfer
+
+2007
+
+38.1
+
+243.4
+
+-205.3
+
+144.5
+
+1.2
+
+-350.9
+
+2008
+
+267.2
+
+222.2
+
+44.9
+
+151.0
+
+1.0
+
+-107.1
+
+2009
+
+298.4
+
+236.9
+
+61.5
+
+118.9
+
+2.9
+
+-60.3
+
+2010
+
+473.3
+
+252.0
+
+221.3
+
+73.3
+
+2.7
+
+145.3
+
+2011
+
+262.9
+
+266.2
+
+-3.2
+
+60.7
+
+1.5
+
+-65.0
+
+Total (07-11)
+
+1,339.9
+
+1,220.7
+
+119,259.9
+
+548.5
+
+9.3
+
+-438.5
+
+Source: WB Loan Kiosk, Net Disbursement and Charges Report as of 01/23/2012
+
+Annexes
+23
+
+CPSCR Review
+Independent Evaluation Group
+
+Annex Table 6: Total Net Disbursements of Official Development Assistance and Official Aid,
+2007- 2010 (in US$ million)
+Development Partner
+Bilaterals
+Australia
+Austria
+Belgium
+Canada
+Denmark
+Finland
+France
+Germany
+Greece
+Ireland
+Italy
+Japan
+Korea
+Luxembourg
+Netherlands
+New Zealand
+Norway
+Portugal
+Spain
+Sweden
+Switzerland
+United Kingdom
+United States
+DAC Countries, Total
+Czech Republic
+Hungary
+Israel
+Poland
+Slovak Republic
+Thailand
+Turkey
+United Arab Emirates
+Other development partners
+Non-DAC Countries, Total
+Multilaterals
+EU Institutions
+GEF
+Global Fund
+IAEA
+IDB Sp. Fund
+IFAD
+UNAIDS
+UNDP
+UNFPA
+UNICEF
+UNTA
+WFP
+Multilateral, Total
+All Development Partners, Total
+
+2007
+
+2008
+
+2009
+
+2010
+
+2007-2010
+
+0.24
+1.01
+15.44
+20.09
+-0.44
+2.34
+6.21
+7.58
+0.22
+2.13
+4.19
+39.81
+10.22
+4.1
+-0.09
+1.16
+143.03
+0.06
+109.35
+5.77
+14.57
+-250.97
+94.08
+230.1
+0.92
+0.01
+0.67
+0.13
+0.3
+0.01
+0.12
+..
+1.55
+3.71
+
+0.03
+0.89
+29.81
+15.58
+0.3
+2.93
+9.27
+93.55
+0.13
+1.22
+10.62
+-17.91
+8.73
+2.1
+-1.37
+0.01
+0.29
+..
+131.48
+3
+17.8
+-11.61
+94
+390.85
+0.72
+..
+1.07
+0.09
+..
+0.03
+..
+..
+..
+1.91
+
+0.07
+0.81
+21.79
+17.91
+0.54
+2.63
+9.03
+79.8
+0.13
+1
+9.27
+-36.77
+6.99
+1.69
+0.28
+0.05
+-7.27
+0.04
+100.17
+2.85
+22.23
+1.07
+104.39
+338.7
+0.59
+..
+0.88
+0.11
+0.04
+0.02
+0.16
+..
+..
+1.8
+
+1.9
+0.93
+15.63
+22.15
+1.4
+3.26
+10.1
+51.85
+0.1
+0.45
+5.27
+-711.61
+6.4
+1.49
+0.32
+0.24
+3.78
+0.02
+118.05
+1.02
+21.35
+1.27
+130.64
+-313.99
+0.35
+..
+0.87
+..
+..
+0.04
+0.03
+0.02
+0.01
+1.32
+
+2.24
+3.64
+82.67
+75.73
+1.8
+11.16
+34.61
+232.78
+0.58
+4.8
+29.35
+-726.48
+32.34
+9.38
+-0.86
+1.46
+139.83
+0.12
+459.05
+12.64
+75.95
+-260.24
+423.11
+645.66
+2.58
+0.01
+3.49
+0.33
+0.34
+0.1
+0.31
+0.02
+1.56
+8.74
+
+65.2
+..
+12.23
+0.46
+-6.77
+-2.01
+0.31
+0.81
+1.49
+1.37
+2.09
+0.71
+74.72
+308.53
+
+52.43
+0.67
+17.73
+0.42
+-5.98
+-1.72
+0.44
+1.1
+1.98
+0.93
+0.75
+2.68
+70.26
+463.02
+
+73.8
+8.78
+22.06
+0.28
+-5.2
+-3.66
+0.52
+1.83
+2.15
+0.87
+..
+0.41
+100.67
+441.17
+
+25.76
+3.48
+22.95
+0.34
+2.58
+-1.98
+0.55
+0.83
+3.8
+1.15
+..
+-0.06
+58.33
+-254.34
+
+217.19
+12.93
+74.97
+1.5
+-15.37
+-9.37
+1.82
+4.57
+9.42
+4.32
+2.84
+3.74
+303.98
+958.38
+
+Source: OECD DAC Online database, Table 2a. Destination of Official Development Assistance and Official Aid - Disbursements, as of
+01/24/2012
+
+Annexes
+24
+
+CASCR Review
+Independent Evaluation Group
+
+Annex Table 7: Economic and Social Indicators for Peru and Comparators, 2007- 2010
+Series Name
+Growth and Inflation
+GDP growth (annual %)
+GDP per capita growth (annual %)
+GNI per capita, PPP (current international $)
+GNI, Atlas method (billions current US$)
+Inflation, consumer prices (annual %)
+Composition of GDP (%)
+Agriculture, value added (% of GDP)
+Industry, value added (% of GDP)
+Services, etc., value added (% of GDP)
+Gross fixed capital formation (% of GDP)
+Gross domestic savings (% of GDP)
+External Accounts
+Exports of goods and services (% of GDP)
+Imports of goods and services (% of GDP)
+Current account balance (% of GDP)
+External debt, total (% of GNI)
+Total debt service (% of GNI)
+Total reserves in months of imports
+Fiscal Accounts /1 /2
+Revenue and Grants (% of GDP)
+Total Expenditure (and net lending, % of GDP)
+Overall Balance (% of GDP)
+Public Sector Gross Debt (% of GDP)
+Social Indicators
+Health
+Life expectancy at birth, total (years)
+Immunization, DPT (% of children ages 12-23 months)
+Improved sanitation facilities (% of population with access)
+Improved water source (% of population with access)
+Mortality rate, infant (per 1,000 live births)
+Population
+Population, total (in millions)
+Population growth (annual %)
+Urban population (% of total)
+Education
+School enrollment, preprimary (% gross)
+School enrollment, primary (% gross)
+School enrollment, secondary (% gross)
+
+Peru
+
+Peru
+
+Uruguay
+
+Colombia
+Average 2007-2010
+
+LCR
+
+World
+
+8.8
+7.6
+8930.0
+136.7
+1.5
+
+6.5
+5.4
+8426.7
+123.8
+3.4
+
+6.7
+6.4
+12625.0
+28.5
+7.4
+
+4.1
+2.6
+8665.0
+218.8
+4.8
+
+3.6
+2.5
+10584.8
+4062.7
+..
+
+1.8
+0.7
+10683.6
+58439.5
+..
+
+7.5
+35.1
+57.4
+22.9
+24.3
+
+8.3
+34.3
+57.5
+24.5
+27.3
+
+7.7
+35.4
+56.8
+24.4
+26.2
+
+10.3
+26.5
+63.2
+19.2
+18.6
+
+7.5
+34.7
+57.8
+21.6
+20.4
+
+6.1
+31.8
+62.1
+20.3
+22.2
+
+2.9
+26.7
+70.4
+20.5
+20.7
+
+27.3
+27.1
+-4.2
+28.8
+4.4
+8.4
+
+24.0
+20.4
+0.2
+29.7
+3.7
+11.5
+
+25.1
+22.2
+-1.5
+24.6
+4.6
+11.5
+
+25.5
+23.2
+-1.8
+27.7
+4.2
+10.5
+
+27.5
+28.5
+-1.4
+34.8
+4.1
+7.8
+
+16.6
+19.1
+-2.7
+21.9
+3.8
+5.5
+
+22.9
+22.6
+..
+..
+3.6
+8.1
+
+27.9
+28.0
+..
+..
+..
+12.9
+
+20.7
+16.0
+3.3
+30.9
+
+20.9
+17.3
+2.2
+25.7
+
+18.5
+19.5
+-2.0
+27.4
+
+19.2
+18.9
+-1.5
+26.7
+
+19.5
+18.6
+-0.4
+26.6
+
+27.5
+25.8
+-1.1
+59.9
+
+26.1
+27.8
+-1.7
+34.1
+
+..
+..
+..
+..
+
+..
+..
+..
+..
+
+73.1
+97.0
+..
+..
+18.7
+
+73.3
+99.0
+68.0
+82.0
+17.4
+
+73.5
+93.0
+..
+..
+16.1
+
+..
+93.0
+..
+..
+14.9
+
+73.4
+95.0
+68.0
+82.0
+16.1
+
+76.0
+94.5
+100.0
+100.0
+10.0
+
+73.0
+91.3
+74.0
+92.0
+17.4
+
+73.6
+92.6
+79.4
+93.4
+19.2
+
+69.1
+83.8
+60.6
+86.8
+42.5
+
+28.2
+1.1
+71.3
+
+28.5
+1.0
+71.4
+
+28.8
+1.1
+71.5
+
+29.1
+1.1
+71.6
+
+28.8
+1.1
+71.5
+
+3.3
+0.3
+92.4
+
+45.3
+1.4
+74.7
+
+579.2
+1.1
+78.7
+
+6725.2
+1.2
+50.2
+
+68.6
+113.8
+89.7
+
+72.9
+110.2
+89.8
+
+77.5
+108.5
+91.6
+
+..
+..
+..
+
+75.2
+109.3
+90.7
+
+85.2
+114.0
+88.3
+
+47.4
+119.0
+92.6
+
+71.4
+116.0
+88.6
+
+47.3
+106.6
+67.4
+
+2007
+
+2008
+
+2009
+
+2010
+
+8.9
+7.7
+7170.0
+95.0
+1.8
+
+9.8
+8.7
+8080.0
+114.2
+5.8
+
+0.8
+-0.2
+8270.0
+120.5
+2.9
+
+7.0
+37.1
+55.9
+21.5
+29.5
+
+7.4
+36.9
+55.7
+25.9
+27.1
+
+29.1
+22.4
+1.4
+32.4
+9.2
+9.8
+
+Source: WB World Development Indicators (01/23/2012) for all indicators excluding those noted.
+1/ IMF 2010. Republic of Peru: Article IV.
+2/ 2010 data are IMF's projections.
+
+Annexes
+17
+
+CASCR Review
+Independent Evaluation Group
+
+Annex Table 8: Peru - Millennium Development Goals
+Goal 1: Eradicate extreme poverty and hunger
+Employment to population ratio, 15+, total (%)
+Employment to population ratio, ages 15-24, total (%)
+Income share held by lowest 20%
+Malnutrition prevalence, weight for age (% of children under 5)
+Poverty gap at $1.25 a day (PPP) (%)
+Poverty headcount ratio at $1.25 a day (PPP) (% of population)
+Prevalence of undernourishment (% of population)
+Vulnerable employment, total (% of total employment)
+Goal 2: Achieve universal primary education
+Literacy rate, youth female (% of females ages 15-24)
+Literacy rate, youth male (% of males ages 15-24)
+Persistence to last grade of primary, total (% of cohort)
+Primary completion rate, total (% of relevant age group)
+Total enrollment, primary (% net)
+Goal 3: Promote gender equality and empower women
+Proportion of seats held by women in national parliaments (%)
+Ratio of female to male primary enrollment (%)
+Ratio of female to male secondary enrollment (%)
+Ratio of female to male tertiary enrollment (%)
+Share of women employed in the nonagricultural sector (% of total nonagricultural employment)
+Goal 4: Reduce child mortality
+Immunization, measles (% of children ages 12-23 months)
+Mortality rate, infant (per 1,000 live births)
+Mortality rate, under-5 (per 1,000)
+Goal 5: Improve maternal health
+Adolescent fertility rate (births per 1,000 women ages 15-19)
+Births attended by skilled health staff (% of total)
+Contraceptive prevalence (% of women ages 15-49)
+Maternal mortality ratio (modeled estimate, per 100,000 live births)
+Pregnant women receiving prenatal care (%)
+Unmet need for contraception (% of married women ages 15-49)
+Goal 6: Combat HIV/AIDS, malaria, and other diseases
+Children with fever receiving antimalarial drugs (% of children under age 5 with fever)
+Condom use, population ages 15-24, female (% of females ages 15-24)
+Condom use, population ages 15-24, male (% of males ages 15-24)
+Incidence of tuberculosis (per 100,000 people)
+Prevalence of HIV, female (% ages 15-24)
+Prevalence of HIV, male (% ages 15-24)
+Prevalence of HIV, total (% of population ages 15-49)
+Tuberculosis case detection rate (all forms)
+Goal 7: Ensure environmental sustainability
+CO2 emissions (kg per PPP $ of GDP)
+CO2 emissions (metric tons per capita)
+Forest area (% of land area)
+Improved sanitation facilities (% of population with access)
+Improved water source (% of population with access)
+Marine protected areas (% of total surface area)
+Terrestrial protected areas (% of total surface area)
+Goal 8: Develop a global partnership for development
+Debt service (PPG and IMF only, % of exports, excluding workers' remittances)
+Internet users (per 100 people)
+Mobile cellular subscriptions (per 100 people)
+Net ODA received per capita (current US$)
+Telephone lines (per 100 people)
+Other
+Fertility rate, total (births per woman)
+GNI per capita, Atlas method (current US$)
+GNI, Atlas method (current US$) (billions)
+Gross capital formation (% of GDP)
+Life expectancy at birth, total (years)
+Literacy rate, adult total (% of people ages 15 and above)
+Population, total (millions)
+Trade (% of GDP)
+Source: World Development Indicators database as of 01/24/2012.
+
+1990
+
+1995
+
+2000
+
+2009
+
+53
+34
+5.6
+8.8
+1
+2
+27
+36
+
+61
+48
+4.4
+5.7
+3
+9
+21
+36
+
+64
+50
+3.2
+5.2
+5
+15
+18
+44
+
+69
+53
+3.6
+..
+2
+8
+15
+40
+
+..
+..
+..
+..
+..
+
+..
+..
+..
+89
+90
+
+..
+..
+81
+102
+100
+
+97
+98
+83
+101
+97
+
+6
+97
+94
+..
+37.2
+
+11
+97
+94
+..
+38.9
+
+11
+99
+93
+98
+41.3
+
+28
+100
+99
+..
+42.9
+
+64
+62
+78
+
+98
+51
+62
+
+97
+35
+40
+
+91
+19
+21
+
+..
+80
+59
+250
+64
+16
+
+..
+56
+64
+220
+67
+12
+
+66
+59
+69
+160
+84
+10
+
+54
+83
+73
+98
+94
+..
+
+..
+..
+..
+320
+..
+..
+0.1
+55
+
+..
+..
+..
+240
+..
+..
+0.2
+78
+
+..
+9
+..
+180
+..
+..
+0.4
+81
+
+..
+..
+..
+120
+0.3
+1
+0.5
+94
+
+0.3
+1.0
+55
+54
+75
+..
+..
+
+0.2
+1.0
+54
+59
+77
+..
+..
+
+0.2
+1.2
+54
+62
+79
+..
+..
+
+0.2
+1.5
+54
+68
+82
+3
+13.8
+
+7
+0.0
+0
+18
+3
+
+13
+0.0
+0
+15
+5
+
+24
+3.1
+5
+15
+7
+
+10
+24.7
+73
+16
+10
+
+3.8
+720
+15.7
+16.5
+66
+..
+21.8
+29.6
+
+3.3
+1,990
+47.8
+24.8
+68
+87
+23.9
+30.8
+
+2.9
+2,050
+53.3
+20.2
+71
+..
+26.0
+34.2
+
+2.6
+4,200
+122.4
+22.5
+73
+90
+29.2
+43.3
+
+Annexes
+18
+
+CASCR Review
+Independent Evaluation Group
+
+Annex Table 9: List of IFC’s investments in Peru that were active during FY07-11 (US$’000)
+Project ID
+
+Cmt. FY
+
+Closure
+FY
+
+Project
+Status
+
+IFC Sector
+Primary
+
+IFC
+Sector
+Explntry
+
+Project
+Size
+
+Net
+Loans
+
+Net Equity
+
+Total Net
+Commitme
+nt
+
+24,674
+
+12,343
+
+332
+
+12,675
+
+159,792
+
+12,870
+
+12,870
+
+13,890
+
+13,890
+
+Investments approved pre-FY07, but active during FY07-11
+2983
+(equity active)
+3823, 7447,
+10170,10837
+4498,
+4618
+
+1993
+
+Active
+
+IINR
+
+1993,96,
+2000,01
+
+Active
+
+IINR
+
+1995, 96
+
+2008
+
+Closed
+
+Financial
+Markets
+
+Fund
+
+20,010
+
+8279
+
+1998
+
+2008
+
+Closed
+
+MAS
+
+Sugar
+
+83,300
+
+14,178
+
+8484
+
+1998
+
+2008
+
+Closed
+
+Financial
+Markets
+
+Leasing
+
+13,000
+
+10,000
+
+8267
+
+2000
+
+Inactive
+after
+11/08
+
+MAS
+
+Dairy
+
+15,000
+
+7,000
+
+7,000
+
+9180
+
+2000
+
+Closed
+
+MAS
+
+Flour mill
+
+158,588
+
+40,000
+
+40,000
+
+Closed
+
+MAS
+
+Agri.
+Storage
+
+40,260
+
+20,000
+
+20,000
+
+Active
+
+MAS
+
+Sugar
+
+59,426
+
+15,000
+
+9248,
+22033
+9615,
+22477
+
+2000, 05
+
+2010
+2010
+
+2000, 05
+
+Gold
+mining
+Copper
+mining
+
+14,178
+2,500
+
+300
+
+12,500
+
+15,300
+
+9874
+
+2001
+
+(2012)
+
+Active
+
+MAS
+
+Hotel
+
+22,400
+
+6,000
+
+6,000
+
+10651
+
+2001
+
+2008
+
+Closed
+
+MAS
+
+Tour Op.
+
+8,000
+
+5,000
+
+5,000
+
+10024
+
+2002
+
+(2012)
+
+Active
+
+IINR
+
+Railways
+
+41,900
+
+9,000
+
+9,000
+
+10730, 20480
+
+2002, 03
+
+2009
+
+Closed
+
+Financial
+Markets
+
+10894
+
+2002
+
+2010
+
+Closed
+
+MAS
+
+20,200
+
+11026, 20535
+
+2002, 03
+
+Active
+
+IINR
+
+Life
+Insurance
+Industrial
+Products
+Electricity
+Dstrbtn.
+
+11108
+
+2002
+
+2007
+
+Closed
+
+Financial
+Markets
+
+20050
+
+2003
+
+Active
+
+11007
+
+2004
+
+2009
+
+22412
+
+2004
+
+(2012)
+2009
+
+4,593
+
+4,593
+
+4,593
+
+5,400
+
+2,000
+
+7,400
+
+30,200
+
+18,000
+
+200
+
+18,200
+
+Microfin.
+
+5,000
+
+3,000
+
+3,000
+
+IINR
+
+Toll Road
+Oprtn.
+
+90,878
+
+18,000
+
+18,000
+
+Closed
+
+MAS
+
+Dairy
+
+25,000
+
+19,000
+
+19,000
+
+Closed
+
+Financial
+Markets
+
+Microfin.
+
+4,000
+
+4,000
+
+4,000
+
+Closed
+
+MAS
+
+Ag. & Ind.
+Cnglmrate
+
+59,000
+
+7,500
+
+7,500
+
+MAS
+
+University
+
+20,000
+
+4,500
+
+4,500
+
+23010
+
+2005
+
+23545
+
+2005
+
+Active
+
+23878
+
+2005
+
+Active
+
+MAS
+
+Hotel
+
+10,000
+
+10,000
+
+10,000
+
+Microfin.
+
+69,000
+
+29,000
+
+29,000
+
+Fruits and
+Veg.
+
+36,341
+
+15,000
+
+15,000
+
+1,020,502
+
+271,921
+
+24759
+
+2006
+
+Active
+
+Financial
+Markets
+
+24873
+
+2006
+
+Active
+
+MAS
+
+Subtotal
+
+Source: IFC, June 2011- The list does not cover the regional projects.
+MAS: Manufacturing, Agriculture, and Services: IINR: Industry, Infrastructure, and Natural Resources
+
+36,685
+
+308,606
+
+Annexes
+27
+
+CPSCR Review
+Independent Evaluation Group
+
+Annex Table 9 (Continued): List of IFC’s investments in Peru that were active during FY07-11
+(US$’000)
+Project ID
+
+Cmt. FY
+
+Closure
+FY
+
+Investments approved in FY07-11
+24051
+2007, 08
+26953
+24346
+26963
+2007, 08,
+28093
+09, 09
+28615
+29526
+24366
+28007
+2007,
+29669
+09,10,11
+30567
+24489
+2007
+
+Project
+Status
+
+IFC Sector
+Primary
+
+IFC
+Sector
+Explntry
+
+Project
+Size
+
+Net Loans
+
+Active
+
+MAS
+
+Sugar
+
+43,704
+
+18,300
+
+Active
+
+IINR
+
+Oil & Gas
+
+216,599
+
+40,438
+
+36,099
+
+76,537
+
+Active
+
+Financial
+Markets
+
+Secondry
+Mrtg. Fin.
+
+51,420
+
+329
+
+961
+
+1,290
+
+Airport
+
+20,000
+
+20,000
+
+20,000
+
+Microfin.
+
+2,480
+
+2,480
+
+2,480
+
+Housing
+Energy
+
+130,000
+
+88,000
+
+88,000
+
+Microfin.
+
+14,000
+
+7,000
+
+SME
+
+48,000
+
+33,000
+
+33,000
+
+Hotel
+Liquifctn.
+Plant +
+Pipeline
+
+29,000
+
+13,000
+
+13,000
+
+3,971,709
+
+300,000
+
+300,000
+
+Microfin.
+
+12,762
+
+6,616
+
+6,616
+
+Agri.
+
+32,800
+
+12,000
+
+12,000
+
+Leasing
+
+10,000
+
+10,000
+
+10,000
+
+Total Net
+Commitment
+
+18,300
+
+24892
+
+2007
+
+Closed
+
+25360
+
+2007
+
+Active
+
+25374
+
+2007
+
+Active
+
+2007, 11
+
+Active
+
+2007
+
+Active
+
+IINR
+Financial
+Markets
+Financial
+Markets
+Financial
+Markets
+Financial
+Markets
+MAS
+
+25390
+
+2008
+
+Active
+
+IINR
+
+27762
+
+2008
+
+Active
+
+26076
+
+2008
+
+Active
+
+26100
+
+2008
+
+Active
+
+26110
+
+2008
+
+Active
+
+26456
+
+2008
+
+Active
+
+25964
+
+2009
+
+Active
+
+2009
+
+Active
+
+MAS
+
+Copper
+mining
+
+17,000
+
+17,000
+
+17,000
+
+2009,
+10,10,11,
+11,11
+
+Active
+
+Financial
+Markets
+
+Life
+Insurance
+
+31,315
+
+1,994
+
+1,994
+
+2009,
+11,11
+
+Active
+
+Financial
+Markets
+
+Microfin.
+
+13,627
+
+11,706
+
+11,706
+
+Closed
+
+IINR
+
+Copper
+mining
+
+27,799
+
+17,799
+
+17,799
+
+Active
+
+MAS
+
+Paper
+
+400
+
+400
+
+400
+
+25717
+29540
+25931
+
+26130
+30734
+26150
+29183
+29686
+30356
+30776
+30959
+27292
+29693
+31178
+28215
+29660
+28302
+
+2009, 11
+2009
+
+2011
+
+Active
+
+Net Equity
+
+Financial
+Markets
+MAS
+Financial
+Markets
+IINR
+Financial
+Markets
+Financial
+Markets
+
+Diversfd.
+Energy
+B-Loan &
+25360disb
+
+66,000
+
+7,000
+
+10,000
+
+190,000
+
+Trade
+
+14,000
+
+10,000
+0
+
+21,133
+
+21,133
+
+Annexes
+28
+
+CPSCR Review
+Independent Evaluation Group
+
+Closure
+FY
+
+Project
+Status
+
+IFC Sector
+Primary
+
+Project ID
+
+Cmt. FY
+
+26918
+
+2010
+
+Active
+
+27715
+
+2010
+
+Active
+
+28031
+
+2010
+
+Active
+
+IINR
+
+28741
+
+2010
+
+Closed
+
+27727
+
+2011
+
+Active
+
+28971
+
+2011
+
+Active
+
+IINR
+Financial
+Markets
+Financial
+Markets
+
+29405
+
+2011
+
+Active
+
+IINR
+
+29595
+
+2011
+
+Active
+
+MAS
+
+Subtotal
+
+2010
+
+Financial
+Markets
+Financial
+Markets
+
+IFC
+Sector
+Explntry
+Mid-cap
+Fund
+Muni Fin
+Nat. Gas
+Dstbtn.
+Water
+Muni Fin
+
+Project
+Size
+15,000
+
+Net Equity
+
+Total Net
+Commitment
+
+15,000
+
+15,000
+
+32,000
+
+31,685
+
+31,685
+
+235,800
+
+50,000
+
+50,000
+
+424,500
+
+44,180
+
+44,180
+
+5,500
+
+5,345
+
+5,345
+
+36,000
+
+36,000
+
+290,000
+
+70,000
+
+70,000
+
+70,000
+
+25,000
+
+25,000
+
+Trade
+Electricity
+Generatn
+Hospital
+
+Net Loans
+
+6,001,415
+
+814,506
+
+137,959
+
+952,465
+
+Grand total
+7,021,977
+1,086,427
+Source: IFC, June 2011- The list does not cover the regional projects.
+MAS: Manufacturing, Agriculture, and Services; IINR: Industry, Infrastructure, and Natural Resources
+
+174,644
+
+1,261071
+
+Annexes
+29
+
+CPSCR Review
+Independent Evaluation Group
+
+Annex Table 10: List of IFC’s Advisory Services in Peru, FY07-11:
+Project ID
+
+Project Name
+
+Start FY
+
+End FY
+
+Project
+Status
+
+Primary Business
+Line
+
+Total
+Funds, US$
+73,000
+
+Advisory Services operations approved pre-FY07, but active during FY07-11
+533764
+
+LK:Edyficar TA
+
+Dec-06
+
+Jul-07
+
+Closed
+
+Access to Finance
+
+539023
+
+Yanacocha Cjamarca
+
+Oct-05
+
+Aug-07
+
+Closed
+
+SBA
+
+550,000
+
+542364
+
+LK: Yanacocha III
+
+May-06
+
+Feb-09
+
+Closed
+
+SBA
+
+371,204
+
+542665
+
+Government Best Practice
+
+Apr-06
+
+Jul-07
+
+Closed
+
+Inv. Climate
+
+150,000
+
+543944
+
+National Plan Peru
+
+Feb-06
+
+May-10
+
+Closed
+
+Inv. Climate
+
+1,152,150
+
+544284
+
+Nesst Peru
+
+Sep-06
+
+Jun-09
+
+Closed
+
+SBA
+
+Subtotal:
+
+127,150
+2,423,504
+
+Advisory Services operations approved in FY07-11
+506050
+
+BDGEF Inka Terra (Biodiversity)
+
+Mar-04
+
+Dec-08
+
+Closed
+
+SBA
+
+480,000
+
+506393
+
+GEF BD Poison Dart Frog
+
+Nov-04
+
+May-07
+
+Closed
+
+SBA
+
+687,308
+
+523361
+
+GEF SE Biofuels Transportation
+
+Jul-04
+
+Dec-08
+
+Closed
+
+SBA
+
+1,054,800
+
+542324
+
+Aug-06
+
+Jun-07
+
+Closed
+
+Inv. Climate
+
+549485
+
+VCA/CSR Apparel
+Canon Monitoring (social
+accountability) Peru
+
+Dec-06
+
+Dec-10
+
+Closed
+
+SBA
+
+549865
+
+Canon Management Peru
+
+May-07
+
+Dec-10
+
+Closed
+
+900,000
+
+550267
+
+EBGEF Continental Peru
+
+Oct-06
+
+Nov-10
+
+Closed
+
+SBA
+Access to Finance
+(EE)
+
+556865
+
+Edyficar Upgrade
+
+Oct-07
+
+Active
+
+Access to Finance
+
+403,980
+
+557026
+
+Edpyme Confianza Transformation
+
+Apr-08
+
+Closed
+
+Access to Finance
+
+257,400
+
+559447
+
+Aug-07
+
+Hold
+
+Access to Finance
+
+125,000
+
+561317
+
+MSME AmerLeasing
+Promoting Eff use of Oil Royalties
+(Tumbes/BPZ)
+
+Apr-08
+
+Jan-10
+
+Closed
+
+SBA
+
+45,651
+
+561489
+
+CT R – Viru SA
+
+Oct-07
+
+Jul-08
+
+Closed
+
+SBA
+
+127,500
+
+566909
+
+Peru LNG Linkages
+
+Oct-08
+
+Active
+
+SBA
+
+1,462,434
+
+566947
+
+Peru LNG Community (E&S). Mntrng.
+
+Oct-08
+
+Feb-10
+
+Closed
+
+SBA
+
+120,000
+
+567347
+
+Rio Tinto – Enhancing Royalties Inv.
+
+Feb-09
+
+Jan-11
+
+Closed
+
+SBA
+
+146,098
+
+567387
+
+Peru LNG Enhancing Royalties Inv.
+
+Nov-08
+
+Jun-11
+
+Closed
+
+SBA
+
+980,000
+
+568547
+
+Opp for dev of IT/ITES ind in Peru
+
+May-09
+
+Jun-10
+
+Closed
+
+Inv. Climate
+
+100,000
+
+568467
+
+Jul-10
+
+Hold
+
+Inv. Climate
+
+614,382
+
+572627
+
+Inspections Peru
+Rio Tinto II -Imp. Inv. Mgmt. of a
+Social Fund
+
+Dec-09
+
+Jan-11
+
+Closed
+
+SBA
+
+65,347
+
+574927
+
+BPZ II Enhancing Royalties
+
+Feb-10
+
+May-11
+
+Terminated
+
+SBA
+
+49,240
+
+579128
+
+Rural Fin. Peru - Micro
+
+Nov-10
+
+Active
+
+Access to Finance
+
+1,200,000
+
+581028
+
+Strengthening Local Govt.
+
+Feb-11
+
+Active
+
+SBA
+
+4,073,540
+
+583008
+
+Municipality Royalty Inv.
+
+Feb-11
+
+Active
+
+SBA
+
+3,840,000
+
+Subtotal:
+Grand Total
+Source: Source: IFC, January 2012
+SBA: Sustainable Business Advisory
+
+Jun-11
+
+176,550
+1,782,430
+
+530,000
+
+19,221,660
+21,645,164
+
+Annexes
+30
+
+CPSCR Review
+Independent Evaluation Group
+
+Annex Table 11: List of MIGA’s Operations in Peru, FY07-11 (US$ ‘000)
+Project ID
+
+Contract Enterprise
+
+FY
+
+Project
+Status
+
+Sector
+
+Investor
+
+732
+
+Compania Minera Antamina S.A.
+
+2007
+
+Active
+
+Mining
+
+Japan
+
+3960
+
+2007
+
+Active
+
+Transportation
+
+USA
+
+8204
+
+Mitsui del Peru S.A.
+Banco Universal S.A. Unibanco;
+ORCA Credit Holdings LLC
+
+2010
+
+Active
+
+Financial Markets
+
+Ecuador
+
+18,000
+
+4006
+
+Lima Airport Partners S.R.L.
+
+2011
+
+Active
+
+Transportation
+
+Germany
+
+6,464
+
+Grand Total:
+Source: MIGA, January 2012
+
+Max. Gross
+Issuance
+39,960
+600
+
+65,024
+
+Annexes
+31
+
+CPSCR Review
+Independent Evaluation Group
+
+Annex Table 12: Summary of Achievements of the CAS/CPS Objectives
+
+Objectives
+
+Major
+Outcome
+Measures
+
+CPS 07-11: Pillar 1
+Promoting Economic Growth
+1. Maintaining macro stability and reducing
+vulnerabilities
+2. Accelerating growth and widening the base of
+growth
+3. Making growth environmentally sustainable
+1. Maintaining macro stability and reducing
+vulnerabilities
+Achievement of rating of Investment Grade
+(upgrade from current grade BB+ to investment
+grade BBB).
+Accumulated inflation (excluding food and fuels) of
+12.5 percent or below from 2007 to 2011.
+Reduce public debt from 38 to 26 percent of GDP if
+no adverse external shocks or 32 percent of GDP if
+some external shocks.
+Reduce dollarization of the financial system from 65
+to 52 percent.
+2. Accelerating growth and widening the base of
+growth
+Improve business environment
+
+Increase public investment in infrastructure to from
+less than 1 percent to 3 percent of GDP.
+
+Increase enrolment and graduation rates in science,
+technology, innovation and related disciplines at the
+tertiary level.
+Increase in non-traditional exports from 25 percent
+to 40 percent of total exports.
+Increase the number of new exporting firms located
+in developing regions2 from 24 to 39.
+Reduce informality rate from 60 to 51 percent.
+
+Increase in the number of tourists that visit Peru
+annually from 1.3 million to 2 million.
+
+Actual Results
+(as of current month year)
+
+Peru achieved Investment Grade by Fitch,
+Standard & Poor’s and Moody’s by 2010.
+Notes in 2011: Fitch: BBB, Standard &
+Poor’s: BBB Moody’s: Baa3. All three
+ratings are above the “investment grade”.
+Cumulative inflation, excluding food and
+fuels reached 11.3 percent between
+January 2007 and December 2011.
+Outstanding public debt as a percent of
+GDP was 34.4 in 2006. This percentage
+decreased to 23.9 in 2010 and to an
+average of 21.7 for the first three quarters of
+2011.
+The share of dollar denominated liabilities in
+broad money of the banking system
+decreased from 50.8 percent in 2006 to
+38.5 percent in December 2011.
+Peru improved its score of overall
+competitiveness from 3.94 (position 74 over
+125 countries) in 2006-07 to 4.21 (position
+67 over 142 countries) in 2011-12. Peru
+improved the most in factors that enhanced
+efficiency and in the basic requirements
+category. Nevertheless, it has shown a
+decrease on the measure accounting for
+innovative factors during this period.
+No data available
+
+Comments
+
+Source: Fitch, Standard & Poor’s
+and Moody’s.
+
+Source: Central Bank of Peru
+(BCRP)
+Source. BCRP
+
+Source. BCRP
+
+Source: Global Competitiveness
+Reports (World Economic Forum).
+
+This indicator was not monitorable
+directly, nor monitored. Available
+data refers to the investment budget
+of sectors that are considered
+having a high infrastructure
+component.
+
+No data available
+The share of non-traditional exports in total
+exports fell from 25 percent to 22 percent in
+2011.
+The number of new exporting firms located
+in developing regions was 31 as of
+February 2011.
+The informality rate targeted in the CAS is
+based on the Schneider methodology. The
+latest information of this measure gives a
+rate of 57 for 2006. There is not data
+available after 2006.
+Annual tourist visitors to Peru increased
+from 1.72 million in 2006 to 2.3 million in
+2010.
+
+Source: CPSCR
+Source: CPSCR
+
+Data for 2011 are not yet available.
+Source: Mincetur (Ministry of Trade
+and Tourism)
+
+2
+
+The included regions were Puno, San Martin, Madre de Dios, Huancavelica, Amazonas, Ayacucho and Apurimac.
+
+Annexes
+32
+
+CPSCR Review
+Independent Evaluation Group
+
+CPS 07-11: Pillar 1
+Promoting Economic Growth
+3. Making growth environmentally sustainable
+Implementation of post-license monitoring system
+by the Ministry of Environment.
+
+Publish and disseminate widely air quality data for
+the Lima-Callao Metropolitan Region.
+
+Ongoing pre
+CPS 07-11
+Support
+
+New
+Lending
+Support
+
+Actual Results
+(as of current month year)
+In 2008, Government established the
+“Organismo de Evaluacion y Fiscalizacion
+Ambiental (OEFA)” with responsibility for
+continuously monitoring the implementation
+of environmental commitments of licensed
+businesses.
+Daily air quality monitoring data for the
+cities of Lima and La Oroya is published
+and disseminated through SENAMHI’s
+(Peruvian National Service of Meteorology
+and Hydrology) and DIGESA’s (Office of
+Health Management) websites.
+
+Comments
+
+Source: Ministry of Environment
+
+Source: SENAMHI
+
+P008037 Irrigation Subsector Project
+
+Approved FY97. Closed FY09.
+
+IEG outcome rating: Satisfactory
+
+P088809 Institutional Capacity for Sustainable
+Fiscal Decentralization TAL.
+P077788 Trade Facilitation and Productivity
+Improvement Technical Assistance Project.
+P044601 Second Rural Roads Project.
+P082588 Agricultural Research and Extension APL
+Phase 2.
+P035740 Lima Urban Transport Project.
+P082625 Vilcanota Valley Rehabilitation and
+Management Project.
+P078894 Real Property Rights Consolidation
+Project.
+P090116 PE Rural Electrification.
+P078953 Accountability for Decentralization in the
+Social Sectors (Previous Programmatic Social
+Reform TAL).
+P074021 Lima Transport Project
+P078813 Regional Transport Decentralization
+P101335 Fiscal Management and Competitiveness
+DPL.
+P101590 Second Programmatic Fiscal
+Management and Competitiveness DPL (including
+Supplemental Financing)
+P106720 Third Programmatic Fiscal Management &
+Comp. DPL.
+P116214 Fourth Programmatic Fiscal Management
+DPL.
+P101471 Peru First Programmatic Environmental
+DPL/DDO.
+P116152 Second Programmatic Environmental
+DPL.
+P120860 Catastrophe Development Policy Loan
+DDO.
+P079165 PE Sierra Rural Development Project.
+
+Approved FY05. Closed FY11.
+
+IEG outcome rating: Moderately
+Satisfactory
+IEG outcome rating: Satisfactory
+
+P104760 Sierra Irrigation Subsector.
+P107666 Water Resources Management
+Modernization (PRONASAR II).
+P095570 Peru Decentralized Rural Transport
+Project.
+P117864 Second Rural Electrification.
+P118713 Peru Third Programmatic Environmental
+DPL.
+P116929 Peru Safe and Sustainable Transport
+Project (Additional Financing Lima Transport
+Project).
+P078813 Regional Transport Infrastructure
+Decentralization.
+
+Approved FY03. Closed FY09.
+Approved FY01. Closed FY07.
+Approved FY05. Closed FY11.
+Approved FY04. Closed FY11.
+Approved FY05. Closed FY11.
+
+IEG outcome rating: Satisfactory
+Latest Internal Rating
+(IR):Satisfactory
+Latest IR: Satisfactory
+Latest IR: Moderately Unsatisfactory
+
+Approved FY06. Active.
+
+Latest IR: Satisfactory
+
+Approved FY06. Active.
+Approved FY05. Closed FY09.
+
+Latest IR: Satisfactory
+IEG outcome rating: Moderately
+unsatisfactory
+
+Approved FY04, Closed FY10
+Approved FY06. Active.
+Approved FY07. Closed FY08.
+
+Latest IR: Satisfactory
+
+Approved FY09. Active.
+
+Latest IR: Satisfactory
+
+Approved FY10. Active.
+
+Latest IR: Satisfactory
+
+Approved FY10. Closed FY12.
+
+Latest IR: Satisfactory
+
+Approved FY09. Active.
+
+Latest IR: Satisfactory
+
+Approved FY10. Active.
+
+Latest IR: Satisfactory
+
+Approved FY11. Active.
+
+Latest IR: Satisfactory
+
+Approved FY07. Active.
+
+Latest IR: Satisfactory
+
+Approved FY11. Active.
+Approved FY10. Active.
+
+Latest IR: Moderately Satisfactory
+Latest IR: Satisfactory
+
+Approved FY07. Active.
+
+Latest IR: Satisfactory
+
+Approved FY11. Active.
+Approved FY11. Active.
+
+Latest IR: Satisfactory
+Latest IR: Satisfactory
+
+Approved FY10. Active.
+Approved FY06. Active.
+
+Latest IR: Satisfactory
+
+Annexes
+33
+
+CPSCR Review
+Independent Evaluation Group
+
+Planned
+AAA
+
+Additional
+AAA
+
+CPS 07-11: Pillar 1
+Promoting Economic Growth
+P113889 (ESW) PE Public Expenditure Review
+(PER)
+P122390 (ESW) Financial Sector Assessment
+Program (FSAP) Update Peru.
+Review of PPP.
+P101334 (ESW) PE Informality Study.
+P106731 (ESW) PE Informality Study II.
+Tax Compliance Cost Surveys.
+P111012 (ESW) Peru Natural Gas Study (National
+Gas Development Strategy).
+P106687 (ESW) Peru - Recent Economic
+Development in Infrastructure (REDI).
+P106406 (ESW) Skills and Access to Urban Labor
+Markets in Peru.
+P093486 (ESW) Peru Rural Electrification.
+P117337 (TA) Natural Resources Land Use
+Change & Environment.
+P109969 (ESW) Overcoming Barriers to
+Hydropower Investment in Peru.
+P105450 (ESW) FIRST: Peru Improving SME
+access to capital markets.
+P117351 (TA) Peru: Financial Crisis Simulation
+Program FIRST # 8086.
+P106743 (ESW) Peru Capital Markets for Growth
+P103422 (ESW) Peru Small Hydropower.
+P121721 (ESW) Peru Policy Notes.
+P113248 (ESW) PE Policy Notes - Labor Market
+Review.
+P110305 (ESW) Assessment of climate Impact on
+Peru's hydrology. Development of a methodology.
+P116789 (ESW) Peru Strategic Plan for the
+Telecommunications Investment Fund.
+P117650 (ESW) Opportunities for the Information
+Technology and Information Technology Enabled
+Services (IT/ITES) Off shoring Industry in Peru.
+P110749 (TA) Peru - Technical Assistance on
+Ministry of Finance Public Private Partnerships
+(PPP) Law Drafting.
+P110336 (TA) FIRST Peru: TA for strengthening
+private sector accounting and auditing.
+P100333 (ESW) Peru Corporate Governance SOE
+Assessment.
+P126022 (ESW) Peru II Corporate Governance
+ROSC Assessment.
+P122177 (ESW) Peru - Insolvency & Creditor
+Rights ROSC.
+
+Actual Results
+(as of current month year)
+Delivered FY11.
+Delivered FY11.
+Delivered FY09.
+Delivered FY07.
+Delivered FY08.
+Delivered FY10.
+Delivered FY10.
+Delivered FY11.
+Delivered FY11.
+Delivered FY07.
+Delivered FY11.
+Delivered FY09.
+Delivered FY09.
+Delivered FY11.
+Delivered FY08.
+Delivered FY08.
+Delivered FY12.
+Delivered FY10.
+Delivered FY11.
+Delivered FY10.
+Delivered FY10.
+Delivered FY09.
+Delivered FY11.
+Delivered FY07.
+Delivered FY12.
+Delivered FY12.
+
+Comments
+
+Annexes
+34
+
+CPSCR Review
+Independent Evaluation Group
+
+Objectives
+
+Major
+Outcome
+Measures
+
+CPS 07-11: Pillar 2
+Actual Results
+Enhancing Social Development
+(as of current month year)
+1. Meeting Basic Needs
+2. Promoting and developing a new social
+contract in education, health and nutrition
+1. Meeting Basic Needs
+Reduction in the Unmet Basic Needs Index from 42 The Unmet Basic Needs Index
+to 36 percent for the entire population and from 72 to (Indice de necesidades básicas
+62 percent for the rural areas.
+insatisfechas) decreased from 34
+in 2006 to 26 percent in 2010 for
+the entire population and from 62
+percent in 2006 to 47 percent for
+the rural population in 2010.
+
+Comments
+
+The baseline information indicated in the
+outcome for the Unmet Basic Needs for the
+entire population in 2006 (42 percent) is
+wrong, because it accounts only for the
+Unmet Basic Needs for the entire population
+excluding the agglomeration of Lima and
+Callao.
+The baseline information indicated in the
+outcome for the Unmet Basic Needs for the
+rural areas does not match our baseline
+information.
+No data available for 2011.
+Source: Peru National Office of Statistics
+(INEI)
+
+Increase in the percentage of households with
+The proportion of population with
+adequate water from 76 to 85 percent and sanitation improved access to water sources
+services from 57 to 65 percent.
+has increased from 71.6 in 2006 to
+74.1 in 2009. Furthermore, the
+proportion of population with
+improved sanitation services has
+risen from 72.4 in 2006 to 74.8 in
+2009.
+Increase in the access to electricity in rural areas
+The
+percentage
+of
+rural
+from 30 to 42 percent.
+households with access to
+electricity increased from 28.9 in
+2006 to 55 percent in 2010.
+
+The baseline information indicated in the
+outcome does not match our baseline
+information.
+No data available either for 2010 or 2011.
+Sources : INEI
+The baseline information indicated in the
+outcome does not match our baseline
+information.
+No data available for 2011.
+Source: Ministry of Energy and Mines.
+
+2. Promoting and developing a new social
+contract in education, health and nutrition
+Reduction on the proportion of students in “level 0”
+No data available.
+of national student census evaluation from 46
+percent to 25 percent and increase on the proportion
+of students in “levels 2 or 3” from 39 percent to 60
+percent between 2004 and 2011.
+
+In 2010, the proportion of students lagging
+“below level 1” decreased from 30 in 2007 to
+24 percent in reading and from 57 in 2007 to
+53 percent in math. The proportion of
+students reaching “Level 2” increased from
+16 in 2007 to 29 percent in reading and from
+7 in 2007 to 14 percent in math.
+No data available either for 2006 or 2011.
+Source: Unidad de Medition de la Calidad
+Educativa (Ministry of Education)
+
+Increase in the Health Insurance System (SIS)
+affiliation rate for women of childbearing age in the
+ten poorest regions by 10 percentage points and SIS
+expenditure on services in these 10 regions by 20
+percent in real terms in 2006-2008.
+
+3
+
+No data available for the Health
+Insurance System (SIS) affiliation SIS affiliation rose to 5.22 million (2008) in
+rate for women of childbearing age the ten poorest regions3; and to 10.5 million
+in the ten poorest regions.
+nationwide. Both figures increased by 50
+percent since 2007.
+The SIS budget increased from Source: CPSCR
+S/.267 million in 2006 to S/.420
+million in 2008. This represented
+an increase of 42 percent in real
+terms.
+
+The included regions were Amazonas, Apurimac, Ayacucho, Cajamarca, Huancavelica, Huánuco, Loreto, Piura, Puno and Tacna.
+
+Annexes
+35
+
+CPSCR Review
+Independent Evaluation Group
+
+CPS 07-11: Pillar 2
+Actual Results
+Comments
+Enhancing Social Development
+(as of current month year)
+Increase coverage of institutional births (IB) in the 10 2007 and 2010 surveys (Encuesta
+poorest regions to reach 75 percent and nationwide demográfica y de salud familial) No data available for 2011.
+rural coverage to reach 58 percent.
+show that IB coverage increased
+from 49.4 in 2007 to 58.4 percent Source: INEI
+in 2010 for rural areas. Moreover,
+surveys show a rise from 62.7 to
+73.3 percent in IB coverage in the
+10 poorest regions.
+Reduction in national chronic malnutrition from 24 to National chronic malnutrition
+15 percent in 5 years.
+reached 23 percent in 2010.
+As a result of the adoption of new WHO
+standards, the baseline of 24 percent in 2006
+was adjusted to 28 percent; and, the
+government adopted a new national target of
+23 percent by 2010. This new target has
+been achieved. However, the 23 percent
+figure is estimated to be equivalent to about
+18 percent under the old standard, implying
+that progress fell somewhat short of the 15
+percent originally targeted in the CPS.
+Ongoing P008051 Lima Water Rehabilitation
+pre CPS 07- Management Project.
+11 Support P055232 Rural Education Project.
+
+New
+Lending
+Support
+
+Planned
+AAA
+
+Additional
+AAA
+
+and Approved FY95. Closed FY08.
+
+P065256 National Rural Water Supply and
+Sanitation Project.
+P081834 Additional Financing - Lima Water
+Rehabilitation and Management Project.
+P117310 Results in Nutrition for Juntos SWAp
+P095563 PE- (APL2) Health Reform Program.
+P117293 Optimization of Lima Water and Sewerage
+Systems (Water Resources Management).
+P101086 Results and Accountability in Social
+Sectors (REACT) DPL.
+P101177 Second Results and Accountability in
+Social Sectors (REACT) DPL-Deferred Drawdown
+Option.
+P116264 Third Results & Accountability in Social
+Sectors (REACT) Programmatic DPL.
+P104262 (ESW) PE-Recurso II
+P106943 (ESW) PE-Recurso III
+P111529 (TA) PE Education Sector
+P113917 (ESW) PE Extreme Poverty-Effectiveness
+of Antipoverty Intervention.
+P122834 (ESW) PE Extreme Poverty-Effectiveness
+of Antipoverty Intervention II.
+P103644 (ESW) PE Recurso IV
+P117375 (ESW) PE Recurso V
+P111717 (TA) PE Juntos for Nutrition-NLTA.
+P101500 (TA) PE Universal Insurance Health
+Reform.
+P103116 (TA) Poverty monitoring and information
+systems.
+P103161 (ESW) PE Policy Notes - AAA
+Decentralization (Decentralization in Social Sectors).
+P081481 (TA) CA: Lima (Peru) City Poverty
+Strategy.
+P121721 (ESW) Peru Policy Notes.
+
+Approved FY03. Closed FY08.
+
+Source: INEI
+IEG outcome rating: Satisfactory
+
+Approved FY05. Closed FY09.
+
+IEG outcome rating: Moderately
+Unsatisfactory
+Latest IR: Moderately Satisfactory
+
+Approved FY03. Closed FY09.
+
+IEG outcome rating: Satisfactory
+
+Approved FY11. Active.
+Approved FY09. Active.
+Approved FY11. Active.
+
+Latest IR: Satisfactory
+Latest IR: Satisfactory
+Latest IR: Satisfactory
+
+Approved FY07. Closed FY10.
+Approved FY09. Active.
+
+Latest IR: Satisfactory
+
+Approved FY11. Active.
+
+Latest IR: Satisfactory
+
+Delivered FY07.
+Delivered FY08.
+Delivered FY10.
+Delivered FY11.
+Delivered FY11.
+Delivered FY10.
+Delivered FY12.
+Delivered FY11.
+Delivered FY11.
+Delivered FY09.
+Delivered FY10.
+Delivered FY07.
+Delivered FY12.
+
+Annexes
+36
+
+CPSCR Review
+Independent Evaluation Group
+
+Objectives
+
+Major
+Outcome
+Measures
+
+CPS 07-11: Pillar 3
+Modernizing Institutions
+1. Decentralization and access to public
+services
+2. Strengthening public sector management
+3. Improving the justice system and reducing
+corruption
+1. Decentralization and access to public
+services
+Increase in number of local and regional
+governments accredited from 310 to 600.
+
+Actual Results
+(as of current month year)
+
+Comments
+
+No data available.
+The Government of Peru changed the
+framework of decentralization.
+Theaccreditation of regional and local
+governments became irrelevant.
+Source: P078953 Accountability for
+Decentralization in the Social Sectors ICR.
+
+2. Strengthening public sector management
+Introduction of Results-Based Budgeting (RBB)
+as a tool to improve the efficiency of public
+spending.
+
+Increase in the number of regional and local
+governments preparing budgets following
+participatory budgeting norms from 425 to 725.
+
+Ongoing pre
+CPS 07-11
+Support
+New
+Lending
+Support
+Planned
+AAA
+
+Additional
+AAA
+
+MEF established the resultsbased budget (RBB) for five
+strategic pilot programs in 2008,
+expanding to 24 in 2011. RBB is
+now an integral part of the budget
+cycle.
+As a result of the implementation
+of the Participatory Budget Law,
+currently 100 percent of subnational governments follow
+participatory budget norms in the
+preparation of the investment
+budget.
+
+Source: MEF and CPSCR
+
+Source: MEF and CPSCR
+
+3. Improving the justice system and reducing
+corruption
+Reach a 55 percent of satisfaction of the clients
+within the jurisdictional institutions that are
+implementing management improvements.
+
+No data available.
+
+P073438 Justice Services Improvement
+
+Approved FY04. Closed FY09.
+
+Source: CPSCR
+IEG outcome rating: Satisfactory
+
+P110752 Justice Services Improvement Project
+II.
+
+Approved FY11. Active.
+
+Latest ISR: Satisfactory
+
+P106739 (ESW) PERU Government and
+Governability Enhancement.
+P117589 (TA) Decentralization and Quality of
+Education (Decentralization and public
+expenditure efficiency).
+P110925 (TA) PE Sub-national Pilots.
+P112072 (ESW) Social and Distributional
+Impact Analysis of the Participatory Budget in
+Peru.
+P094276 (ESW) PE Municipal Debt.
+
+Delivered FY09.
+Delivered FY11.
+Delivered FY11.
+Delivered FY10.
+Delivered FY07.
+
+According to a 2009 evaluation, 78 percent
+of users evaluated the project service
+delivery model, ALEGRA (Asistencia Legal
+Gratuita), favourably with respect to the
+adjudication and conflict resolution services
+provided by the vonciliators. 77 percent of
+respondents also provided a favourable
+evaluation of aspects related to the physical
+environment and physical access to
+ALEGRA.
+
+

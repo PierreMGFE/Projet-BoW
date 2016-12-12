@@ -1,0 +1,3128 @@
+Public Disclosure Authorized
+
+Document of
+The World Bank
+
+FOR OFFICIAL USE ONLY
+
+Public Disclosure Authorized
+
+Public Disclosure Authorized
+
+Public Disclosure Authorized
+
+Report No. 59355 - KI
+
+INTERNATIONAL DEVELOPMENT ASSOCIATION
+INTERNATIONAL FINANCE CORPORATION
+
+COUNTRY ASSISTANCE STRATEGY
+FOR THE
+REPUBLIC OF KIRIBATI
+FY 2011 - 2014
+
+January 31, 2011
+
+Timor Leste, Papua New Guinea, and Pacific Islands Country Management Unit
+East Asia and Pacific Region
+The International Finance Corporation
+
+This document has a restricted distribution and may be used by recipients only in the performance of their official duties.
+Its contents may not otherwise be disclosed without World Bank authorization.
+
+REPUBLIC OF KIRIBATI
+CURRENCY EQUIVALENT
+1 Australian Dollar (AUD) = 0.99 US Dollar (USD)
+(Exchange rate effective as of January 2011)
+ABBREVIATIONS AND ACRONYMS
+AAA
+
+Analytic and Advisory Activities
+
+KAP
+
+Kiribati Climate Adaptation project
+
+ADB
+
+Asian Development Bank
+
+KDP
+
+Kiribati Development Plan
+
+AusAID
+
+Australian Agency for International Development
+
+M&E
+
+Monitoring and Evaluation
+
+CAS
+
+Country Assistance Strategy
+
+MDGs
+
+Millennium Development Goals
+
+CEDAW
+
+Convention on the Elimination of All Forms of
+Discrimination Against Women
+
+MDTF
+
+Multi-Donor Trust Fund
+
+CPAR
+
+Country Procurement Assessment Report
+
+MOF
+
+Ministry of Finance
+
+CPPR
+
+Country Project Portfolio Review
+
+NGO
+
+Non-Governmental Organizations
+
+DGF
+
+Development Grant Facility
+
+NZ
+
+New Zealand
+
+DPO
+
+Development Policy Operation
+
+PALM
+
+Japan – Pacific Alliance Leaders’ Meeting
+
+DRR
+
+Disaster Risk Reduction
+
+PASAI
+
+Pacific Association of National Audit Institutions
+
+DWFNs
+
+Distant Water Fishing Nations
+
+PEFA
+
+Public Expenditure and Financial Accountability
+
+EC
+
+European Commission
+
+PFM
+
+Public Financial Management
+
+EDF
+
+European Development Fund
+
+PFTAC
+
+IMF Pacific Technical Assistance Facility
+
+EEZ
+
+Exclusive Economic Zone
+
+PF3
+
+Pacific Facility III
+
+EITI
+
+Extractive Industries Transparency Initiative
+
+PIC
+
+Pacific Island Country
+
+FIAS
+
+Investment Climate Advisory Service
+
+PNA
+
+Parties to the Nauru Agreement
+
+FTI
+FSM
+
+Education for All Fast Track Initiative
+Federated States of Micronesia
+
+PPCR
+PRIF
+
+Pilot Program for Climate Resilience
+Pacific Regional Infrastructure Facility
+
+GDP
+GEF
+
+Gross Domestic Product
+Global Environment Facility
+
+PSD
+RMI
+
+Private Sector Development
+Republic of the Marshall islands
+
+GFDRR
+
+Global Facility for Disaster Reduction and Recovery
+
+QER
+
+Quality Enhancement Review
+
+GFRP
+
+Global Food Crisis Response Program
+
+RERF
+
+Revenue Equalization Reserve Fund
+
+GNI
+
+Gross National Income
+
+RSE
+
+NZ Recognised Seasonal Employment Scheme
+
+HDI
+
+Human Development Indicators
+
+SDR
+
+Special Drawing Rights
+
+IBRD
+ICAO
+
+International Bank for Reconstruction and
+International Civil Aviation Organization
+
+SPREP
+TA
+
+South Pacific Regional Environment Programme
+Technical Assistance
+
+IDA
+
+International Development Association
+
+UNDP
+
+United Nations Development Programme
+
+IEG
+
+Independent Evaluation Group
+
+UNICEF
+
+United Nations Children's Fund
+
+IFC
+
+International Finance Corporation
+
+USAID
+
+United States Agency for International
+
+ILF
+
+Import Levy Fund
+
+WCPFC
+
+Western Central Pacific Fisheries Commission
+
+IMF
+
+International Monetary Fund
+
+WFP
+
+World Food Programme
+
+IUU
+
+Illegal, Unregulated, Unreported fishing activity
+
+JICA
+
+Japan International Cooperation Agency
+IDA
+
+IFC
+
+James W. Adams
+
+Rashad Kaldany
+
+Country Director:
+
+Ferid Belhaj
+
+Karin Finkelston
+
+Task Team Leader:
+
+Robert Jauncey
+
+Gavin Murray
+
+Vice President:
+
+REPUBLIC OF KIRIBATI
+WORLD BANK GROUP
+COUNTRY ASSISTANCE STRATEGY
+Contents
+
+EXECUTIVE SUMMARY............................................................................................................ i
+I.
+
+RATIONALE FOR A COUNTRY ASSISTANCE STRATEGY......................................... 1
+
+II.
+
+COUNTRY CONTEXT AND DEVELOPMENT CHALLENGES ..................................... 1
+
+Economic Geography ........................................................................................................................................ 1
+Recent Economic Developments ....................................................................................................................... 3
+Government Development Strategy: 2009-13 .................................................................................................... 5
+Donor Engagement ............................................................................................................................................ 5
+
+III. WORLD BANK GROUP ENGAGEMENT WITH KIRIBATI ................................................ 6
+Transforming World Bank Group Engagement in the Pacific ............................................................................ 6
+Translating Pacific Themes to Kiribati............................................................................................................... 7
+Building Resilience Against Climate Change and External Shocks ................................................................... 7
+Generating Opportunities from Greater Global and Regional Integration .......................................................... 8
+Internal Finance Corporation ........................................................................................................................... 10
+Mainstreaming Gender..................................................................................................................................... 10
+Implementation: Partnerships, Selectivity, New Ways of Doing Business, and Accountability ....................... 10
+Financing Terms and Sources .......................................................................................................................... 11
+
+IV. RISK..................................................................................................................................................... 12
+Attachments
+Attachment 1: Kiribati and Pacific Island Countries MDG Progress ................................................................ 13
+Attachment 2: Kiribati Results Matrix ............................................................................................................. 15
+Attachment 3: Kiribati: Country at a Glance .................................................................................................... 17
+Attachment 4: Selected Indicators of IDA Portfolio Performance and Management ........................................ 19
+Attachment 5: IDA Program Summary ............................................................................................................ 20
+Attachment 6: Operations Portfolio ................................................................................................................. 21
+Attachment 7: Map of the Republic of Kiribati ................................................................................................ 22
+
+REPUBLIC OF KIRIBATI
+WORLD BANK GROUP
+COUNTRY ASSISTANCE STRATEGY FY2011 – FY2014
+
+EXECUTIVE SUMMARY
+i.
+This is the first Country Assistance Strategy (CAS) for Kiribati and reflects a deepening of the
+World Bank Group’s engagement. The World Bank Group has been scaling up its assistance throughout the
+Pacific and decided to move from the previous umbrella approach afforded by a regional strategy to individual
+country strategies better able to reflect specific country development challenges. This CAS aims to assist
+Kiribati in: (i) addressing the existential threat posed by climate change; and, (ii) mitigating the effects of
+geographic isolation. The CAS accompanies Kiribati’s first IDA investment and heralds an expanded program
+of World Bank Group support.
+ii.
+Kiribati is one of the most remote and geographically dispersed countries in the world, consisting of
+33 islands spread over 3.5 million square kilometers of ocean – an area larger than India. None of the
+inhabited atolls in Kiribati lie more than a few meters above sea level, and the effects of rising sea-levels and
+associated soil salination are beginning to threaten already limited water supplies. In June 2008, President
+Tong highlighted the possibility for Kiribati citizens to consider future resettlement to larger metropolitan
+centers in the region noting that “to plan for the day when you no longer have a country is indeed painful but I
+think we have to do that.”
+iii.
+Reflecting Kiribati’s vulnerability to the existential threat of climate change, the core of the Bank
+Group’s strategy will be to help with climate adaptation measures. A key focus will be to expand current
+pilot approaches to coastal protection and water management. These efforts will provide a basis for a
+coordinated multi-donor, multi-sectoral engagement to help Kiribati address the multiple and complex
+dimensions of climate adaptation as well as the pressing water-supply issues faced by the main population
+center of South Tarawa. Given the Bank Group’s limited engagement with Kiribati to date, preparation of a
+more comprehensive approach to climate change adaptation will also be accompanied by a series of
+complementary but less complex investments.
+iv.
+Beyond climate change, Kiribati remains geographically isolated and highly exposed to external
+shocks, resulting in volatile economic performance. Revenues from fishing licenses, remittances, aid, and a
+trust fund from now depleted phosphate reserves, comprise almost half of all economic activity. Given its
+heavy reliance on imports, Kiribati was impacted severely by the recent food and fuel price spikes.
+v.
+In this context, the World Bank Group will also seek to scale-up efforts to help overcome the
+tyranny of distance and to generate opportunities from closer regional and global integration and private
+sector led growth. The importance of greater integration for small and remote island states is highlighted in
+the 2009 World Development Report, Reshaping Economic Geography. The Bank will continue to work with
+the Kiribati authorities, as well as the Australian and New Zealand Governments, to mitigate geographic
+isolation and expand economic opportunities, including core infrastructure – airports and telecoms – to help
+connect Kiribati to the world. Similarly, support for regional measures to improve the sustainable
+management and returns to island countries from the tuna fishery offer considerable potential benefits.
+vi.
+World Bank Group support to Kiribati will require a new way of doing business, consistent with the
+recommendations of the Post Crisis Directions (PCD) paper. The challenge of applying the Paris
+Declaration principles is thrown into starkest relief in small states such as Kiribati. The 2009 Cairns Compact
+committed Pacific countries and development partners to coordinating their resources more effectively and to
+accelerating progress towards the MDGs. These objectives are echoed strongly in the PCD where they are
+identified as essential to development effectiveness. Accordingly, Bank activities in Kiribati will be selective
+and will focus on promoting growth and regional integration. The program will be informed by successful
+experience in Kiribati and elsewhere in the Pacific with all interventions designed with capacity considerations
+uppermost.
+
+REPUBLIC OF KIRIBATI
+WORLD BANK GROUP
+COUNTRY ASSISTANCE STRATEGY
+FY11 – FY14
+I.
+
+RATIONALE FOR A COUNTRY STRATEGY FOR KIRIBATI
+
+1.
+The World Bank Group is significantly scaling up analytical and financial support to help Kiribati
+reduce the constraints of economic geography and make the most of economic opportunities. The Bank will
+be providing IDA finance to Kiribati for the first time in FY11, with Board approval being sought in parallel to
+this CAS for a road maintenance investment to be undertaken jointly with the Asian Development Bank, with
+additional financial support from Australia and New Zealand. Over the next few years, it is anticipated that
+Bank Group support for Kiribati could grow significantly, drawing on both IDA and generous donor trust
+funds resources.
+2.
+Reflecting increased World Bank Group engagement across the Pacific islands, individual country
+strategies will be prepared for each client country. Given the importance of greater regional integration, such
+bespoke strategies will draw from key elements of a common regional approach. Nevertheless, individual
+country strategies will allow for a greater acknowledgement of the different histories, development situations,
+and challenges of the Pacific island countries, as well as a more nuanced discussion of how common regional
+themes in the Bank Group’s engagement are translated into specific country contexts. Strategies for each of
+the Pacific islands will inevitably need to be appropriately streamlined and focused, and will not necessarily be
+articulated with the same level of detail as they are for the Bank Group’s larger clients. Reflecting a
+commitment to work collaboratively with other donors, strategies such as this one for Kiribati, draw heavily
+from analytical work undertaken by other partners, particularly the ADB, IMF, and the Pacific Islands Forum
+Secretariat. The Government of Kiribati strongly supports both the preparation of individual country strategies
+and the program outlined in this CAS.
+II.
+
+COUNTRY CONTEXT AND DEVELOPMENT CHALLENGES
+
+Economic Geography
+3.
+Kiribati is a Micronesian island country with a history of human settlement extending back 2-3000
+years when the first Austronesian speaking voyagers reached the islands. Kiribati culture has been
+influenced by interaction with both Polynesian and Melanesian societies.
+4.
+Since independence from the UK in 1979, Kiribati has been a Parliamentary democracy. Under the
+Constitution, executive power rests with a President elected by a unicameral legislature. The next elections are
+scheduled for October 2011. Representation in the legislature is heavily weighted toward the outer islands. In
+addition, 23 elected local councils are substantively involved in service delivery and responsible for business
+licensing and for urban land use planning. In this environment, a high degree of political consensus tends to be
+required if reform measures are to be successfully implemented.
+5.
+Kiribati is one of the most remote and geographically dispersed countries in the world. The country
+is composed of 33 islands spread over 3.5 million square kilometers – an area larger than India. The
+population of about 100,000 people lives on 20 coral atolls and a single volcanic island, with a total land area
+of less than 800 square kilometers. The capital, South Tarawa, is about 4,000 kilometers from Australia,
+Hawaii, and New Zealand. Partly because of this remoteness, atolls in Kiribati were used for nuclear testing
+by the US and the UK in the 1950s and 1960s.
+1
+
+6.
+Kiribati is one of the most vulnerable countries in the world to climate change, natural disasters,
+and environmental degradation. In the longer-term, climate change poses an existential threat for Kiribati.
+With the exception of the sparsely populated Banaba island, the highest point above sea level is only a few
+meters, and sea level rises are already causing erosion that is threatening several atolls. While Kiribati’s
+Phoenix Islands Protected Area is the world’s largest marine reserve – covering over 400,000 square
+kilometers and including over 120 varieties of coral and 520 fish species – warming seas are damaging coral
+reefs and marine habitats. Increasing soil salination is reducing the amount of arable land available. Thin
+ground water lenses are similarly fragile and there is a risk of increased salination as a result of predicted sea
+level rises. These vulnerabilities are compounded by the fact that the main island of South Tarawa is very
+densely populated. About 50,000 people live on South Tarawa which has a total land area of 16 square
+kilometers, while the islet of Betio has over 10,000 people living on a total land area of just over 1 square
+kilometer – making it as densely populated as Manila or Jakarta. Critically, climate change cuts across all
+aspects of Kiribati’s development; as well as technical responses, it will be vital to ensure that the social
+dimensions of climate change – and the particular vulnerability of many poor people with already limited
+access to land and water – are addressed. The effects of climate change are similarly exacerbated by
+population growth, which in turn is linked to poverty and women’s access to family planning measures.
+7.
+Although at the margins of the global economy, Kiribati’s economic geography means that it is
+heavily reliant on external factors, with economic performance being highly volatile. In the last ten years,
+GDP growth has averaged around 1.1% per annum, but has ranged from -5% to 6%. Kiribati’s growth
+prospects are constrained by its geographic isolation, its narrow export base, and impediments to private sector
+activity. Comparative advantages are limited because of permanent cost wedges associated with Kiribati’s
+small size and remoteness from markets. Systemic volatility is exacerbated by Kiribati’s exposure to natural
+hazard risks, particularly drought and the loss of groundwater. The country is highly reliant on imports –
+equivalent to over 50% of GDP. With exports of only about 3% of GDP, Kiribati faces a significant structural
+trade gap. Main sources of external income are investment earnings from the Revenue Equalization Reserve
+Fund (RERF) established in the 1950s to invest royalties from now depleted phosphate reserves, workers’
+remittances, and the sale of fishing licenses to operate in its Exclusive Economic Zone. These external income
+sources are equivalent to about half of GDP or about a third of GNI. In addition, foreign aid has also
+amounted to about 20-25% of GDP in recent years.
+Figure 1: Components of Kiribati Gross National Income: 2001 – 20010 (est)
+300
+250
+200
+
+RERF Investment Income
+
+A$m 150
+
+Fishing Licenses
+Remittances
+
+100
+
+GDP
+50
+0
+2001
+
+2003
+
+2005
+
+2007
+
+2009
+
+Source: IMF Estimates, OECD-DAC Geographical Distribution of Financial Flows to Developing Countries
+
+2
+
+8.
+
+Kiribati’s development outcomes are mixed.
+
+•
+
+Kiribati is one of the poorer countries in the Pacific, with GNI per capita of about $2,000. While absolute
+poverty is rare, one fifth of the population lives below the national poverty line, particularly in the outer
+islands and parts of the main urban settlements in Tarawa.
+
+•
+
+Education coverage is high and Kiribati is close to achieving universal primary education, although issues
+remain in regard to educational quality. As well as the Government, which provides free primary
+education, churches play a central role in Kiribati’s education system.
+
+•
+
+Health service delivery is improving, but outcomes are a source of concern. Under five mortality rates
+have improved from 88 per 1,000 live births in 1990 to 64 in 2008, but this is still among the highest in the
+region, in large part due to lack of clean water and sanitation. The proportion of births attended by a
+skilled health physician has increased significantly, but maternal mortality has also increased from an
+average of 1-2 per year to 4-5 per year.
+
+•
+
+Gender outcomes are mixed. Kiribati has signed the UN Convention on the Elimination of All Forms of
+Discrimination Against Women (CEDAW) and women’s rights are protected under the Constitution.
+Unlike some countries in the region, women have full rights to own land. There is little or no difference
+between enrollment rates for boys and girls (girls are slightly over-represented at secondary levels). On
+the other hand, violence against women is high; and at the local level unimwane (elder men) preside over
+village decision-making while women tend to work primarily in the informal economy. Women’s
+representation in Parliament is limited, although the Vice President is a woman.
+
+9.
+
+Kiribati’s progress against each of the MDG goals is set out in Attachment 1.
+
+Recent Economic Developments
+10.
+External economic shocks, particularly the food and fuel prices spikes of 2008, hit Kiribati harder
+than almost any other country in the world. Kiribati is highly reliant on imported food, especially rice.
+Electricity supply is also heavily dependent on imported petroleum products, and Kiribati’s remoteness means
+that fuel price increases flow through to almost every sector of the economy as a result of increased transport
+costs. In total, imports – primarily of food and fuel – are equivalent to about half of Kiribati’s GDP.
+Following global price shocks, the Government did take action to open food imports to a wider range of
+private sector companies in Kiribati, and the increased competition helped mitigate the impact of the spike in
+prices. Still, these shocks contributed to an economic contraction in Kiribati, as well as a significant increase
+in inflation and deterioration in Kiribati’s external position from which the economy is still recovering.
+Figure 2: Real GDP Growth and Inflation: 1992 – 2010 (est)
+20
+15
+10
+5
+
+GDP
+
+0
+
+Inflation
+
+-5
+-10
+2000
+
+2002
+
+2004
+
+2006
+
+2008
+
+2010
+
+Sources: 2000 – 2008: IMF Article IV June 2009, 2009 – 2010 (est) ADB Pacific Economic Monitor July 2010
+
+3
+
+11.
+Rebuilding the value of the Revenue Equalization Reserve Fund (RERF), which declined as a result
+of a fall in global asset prices as well as unsustainable Government expenditures, is a key challenge. The
+RERF was established in 1956 to invest royalties from now depleted phosphate reserves on Banaba Island.
+Earnings from the RERF are a major source of Government finance. The Government has generally followed
+conservative investment policies. The RERF reached a peak value of A$650m in 2000, or slightly more than
+A$7,000 per capita. Asset price volatility since 2000, however, has seen the value of investment assets fall.
+This has been compounded by Government drawdowns to fund high fiscal deficits which have exceeded RERF
+earnings. The IMF estimated in its 2009 Article IV that drawdowns should be limited to 6-7% of GDP to
+ensure sustainability, yet average annual drawdowns since 2003 have been about double this. As a result of
+both external and domestic factors, the value of the RERF declined to about A$550m in 2009, recovering
+slightly to over A$570m in 2010. Under current fiscal trends, IMF estimates suggest that the RERF could be
+depleted by around 2030.
+Figure 3. RERF Closing Balance (nominal A$m) and Real Per Capita level (A$ 1996)
+700
+
+8000
+
+600
+
+7000
+
+500
+
+6000
+5000
+
+400
+
+4000
+
+300
+
+3000
+
+200
+
+2000
+
+100
+
+1000
+
+0
+
+0
+1991
+
+1993
+
+1995
+
+1997
+
+RERF Balance (LHS)
+
+1999
+
+2001
+
+2003
+
+Per Capita A$ 1996 (RHS)
+
+2005
+
+2007
+
+2009
+
+1996 Real Value (A$)
+
+Source: IMF Article IV and Staff Estimates
+
+12.
+Fiscal consolidation will be important to preserve the RERF but will be a challenge given large
+infrastructure requirements, as well as basic needs in health and education. The public sector provides
+nearly two-thirds of formal employment and government expenditure amounts to more than 100 percent of
+GDP. Unless carefully managed, fiscal consolidation could disrupt service delivery and depress growth. To
+enhance revenues, the Government is introducing tax reforms including a PAYE system and plans for a broadbased consumption tax, but progress has been hindered by capacity constraints. Revenue generation will also
+be constrained if growth prospects remain weak. Given revenue limitations, depletion of the RERF, and its
+high vulnerability to economic shocks, Kiribati will need to rely mainly on external grants rather than debt to
+finance its development priorities.
+13.
+SOE reforms and efforts to encourage private sector growth will also be needed. There are 24 SOEs
+in Kiribati, engaged in electricity, telecommunications, domestic air services, ports, marine service, hardware
+retailing, inter-island fish transport, hotels, and general stores. The efficiency of SOE operations is
+questionable: for instance, telecommunications and electricity costs in Kiribati are the highest in the Pacific
+and coverage is very limited. Many SOEs also represent a significant drain on public finances, through both
+implicit and explicit subsidies. Given weaknesses in expenditure controls, the unknown fiscal risk from SOEs
+has the potential to undermine the Government’s budget position. ADB and the Australian Government have
+been supporting Kiribati’s plans to privatize or liquidate 15 of the 24 SOEs. There has been progress in
+developing a legislative framework and institutional capacity for reform, although no transactions have
+occurred to date. The authorities are moving to increase competition, and have, inter alia, encouraged greater
+competition in food imports in 2008, overseen the establishment of a private airline in 2008, and stated their
+commitment to moving ahead with a second telecoms license.
+4
+
+14.
+The private sector is relatively small but growing. The Chamber of Commerce estimates that there
+are some 2,000 businesses, although almost all are small, with only two employing over 200 people. Kiribati
+rates 79 out of 183 economies in the World Bank Group’s Doing Business report, the fifth in the Pacific after
+Tonga, Samoa, Fiji and Vanuatu. Private investment remains constrained by cumbersome entry and exit
+procedures and limited access to finance. Improving the business environment is vital, although given
+Kiribati’s economic geography, reform on its own may not be sufficient to attract new foreign investment.
+Addressing governance issues will be a priority, particularly strengthening weak public financial
+15.
+management (PFM) systems. Kiribati is ranked 111 out of 180 countries on Transparency International’s
+corruption perceptions index. Despite progressive improvements, a 2010 Public Expenditure and Financial
+Accountability (PEFA) assessment led by ADB highlighted concerns regarding the quality and completeness
+of financial statements of the Government’s public accounts.
+Government of Kiribati’s Development Strategy
+16.
+The Government of Kiribati’s development vision is “a vibrant economy for the people of Kiribati”.
+The Government’s approach is set out in the Kiribati Development Plan (KDP) 2008–2011, which was
+endorsed in April 2008 and serves as a basis for the CAS. The theme running through the strategy is
+“enhancing economic growth for sustainable development”. The KDP prioritizes 6 key policy areas: (i) human
+resource development, (ii) economic growth and poverty reduction, (iii) health, (iv) environment, (v)
+governance, and (vi) infrastructure. The strategy then sets out 195 individual goals and activities. In
+discussions with the Bank Group and partners, the Government has consistently identified the priority it places
+on improving key elements of the national infrastructure network, which is seen as essential to lowering the
+cost structure of the economy, and on climate change adaptation.
+Donor Engagement
+17.
+Kiribati, like many small island states, is heavily reliant on international development cooperation
+flows. Net flows to Kiribati in recent years have reached slightly over $40m per annum, equivalent to about
+25% of GDP or about $400 per capita, per annum.
+•
+
+Australia is Kiribati’s largest partner, providing an annual program of assistance in excess of A$20m
+($20m). The framework for Australian cooperation with Kiribati is set out in the Partnership for
+Development signed by respective Leaders in January 2009. Australian assistance has three key themes:
+(i) strengthening growth and economic management by supporting public financial management reforms,
+increasing government revenues, reducing the cost of public enterprises and improving delivery of public
+services; (ii) improving basic education; and (iii) developing workforce skills in areas of industry demand
+to reduce youth unemployment.
+
+•
+
+The Asian Development Bank has had a long-term engagement in Kiribati, based around an integrated
+program of analytical work and investments. ADB has tentatively set a 5-year ADF allocation of $12m for
+Kiribati covering the period 2008 to 2012, with additional trust fund resources available to support
+investments and TA. ADB, with Australia, is leading economic reform and improving PFM. ADB and
+the World Bank have prepared a co-financed investment to undertake road maintenance on the main road,
+and to strengthen infrastructure management.
+
+•
+
+The European Commission’s country strategy (2008 – 2013) sets out a framework for engagement with
+Kiribati under the 10 th European Development Fund (EDF). The EC anticipates making approximately
+€14m ($18m) available during this period, with a focus on the outer islands, including household solar
+energy supply, water/sanitation and health services.
+
+5
+
+•
+
+Japan. Japanese assistance has averaged about $10m per annum in recent years. Kiribati is also eligible
+for support from the 6.8 billion Yen ($66m) Pacific Environment Community Fund (PEC Fund) which will
+focus on solar power generation and sea water desalination projects in the Pacific region.
+
+•
+
+New Zealand announced in August 2010 that it would double aid to Kiribati to approximately NZ$8m
+($6m) per annum. A key focus of expanded assistance will be to rehabilitate Cassidy airport on Kiritimati
+island, which will be essential to bring this facility up to ICAO standards. NZ assistance to date has
+focused on: (i) workforce skills development, particularly the highly successful Maritime Training
+College; (ii) a sustainable towns program to address urban management, piloting of village water and
+sanitation improvements, and local business development agencies; (iii) Kiritimati Island port
+infrastructure improvements, and (iv) improved public sector management.
+
+•
+
+Taiwan, China, is a significant donor to Kiribati, providing approximately A$11m (US$10m) per year.
+Priorities are set by the Government of Kiribati, with a focus particularly on infrastructure, including
+school and hospital building, and technical assistance with a focus on household agriculture, livestock, and
+fish farming, as well as providing scholarships and medical referrals. Taiwan, China, will be providing a
+$14m loan on partly concessional terms to refurbish the runway and terminal of the main Bonriki
+international airport on South Tarawa.
+
+•
+
+The United Nations system is active, with UNICEF and WHO providing support to strengthen early
+childhood development and health programs.
+
+•
+
+Church groups play an especially important role in providing education in Kiribati. Traditionally,
+churches rather than the Government have provided schooling, and over half of all students in Kiribati
+today attend church schools.
+III.
+
+WORLD BANK GROUP ENGAGEMENT
+
+Transforming World Bank Group Engagement in the Pacific Region
+The Bank Group’s engagement with the Pacific Island countries reflects the fact that their
+18.
+development trajectories will be shaped – more than perhaps any other nations in the world – by their
+economic geography. The Bank’s Pacific island member countries 1 have a population of about 2 million
+people, spread across hundreds of islands, and scattered across an area equivalent to 15 percent of the globe’s
+surface. Given their fragility and geographic isolation, sustained development progress will require long-term
+cooperation by international partners. The reality for most Pacific countries is that aid will not be a
+transitional phenomenon. Even where policy environments are strong, continued external assistance is likely
+to be needed to support service delivery. More broadly, greater economic integration, more equitable natural
+resource agreements, and more open labor markets in metropolitan neighbors will also be vital for the longerterm future of the Pacific Islands.
+19.
+The World Bank Group is in the process of scaling up its engagement with the Pacific Island
+countries as part of a renewed longer-term commitment. Both IDA and IFC are significantly increasing
+engagement. As well as scaling up in more “traditional” clients, the Bank is placing particular emphasis on
+deepening engagement with “non-traditional” clients, such as Kiribati. Reflecting the similar challenges
+faced by many island countries, World Bank Group engagement across the Pacific has been tightly focused
+around the overarching objectives of: (i) strengthening regional/global integration; (ii) building resilience to
+economic shocks, natural disasters and climate change; and (iii) encouraging economic reform and private
+sector development. At the same time, the way these themes are operationalized will obviously depend on
+differing country circumstances, and this is the purpose of individual CASs now being prepared.
+1
+
+Fiji, Kiribati, Palau, Marshall Islands, Micronesia, Samoa, Solomon Islands, Tonga, Tuvalu and Vanuatu.
+
+6
+
+Figure 4: World Bank Group Commitments to the Pacific Islands FY01 – FY11 (est)
+140
+120
+100
+80
+$m
+
+IFC
+
+60
+
+IDA + TF
+
+40
+20
+0
+FY01 FY02 FY03 FY04 FY05 FY06 FY07 FY08 FY09 FY10 FY11
+
+20.
+The World Bank Group is committed to the Cairns Compact agreed by Pacific leaders to better use
+all resources available for development, and will work closely with clients and partners to improve
+development effectiveness. This will be especially important as total aid from all donors to the Pacific is
+increasing substantially. While the Bank is scaling up, the value of our engagement is not principally defined
+in terms of the size of the lending program, but rather by the extent to which the Bank can “bundle” its
+expertise and financing, collaborate with other development partners to transfer global knowledge, build
+capacity, and encourage changes that will improve the lives of Pacific Island citizens.
+Translating Pacific Themes to Kiribati
+21.
+Reflecting the Government’s development priorities, and consistent with the unifying themes of
+World Bank Group engagement in the Pacific islands, engagement with Kiribati will be focused on:
+•
+
+Building resilience against external shocks, with a particular focus in Kiribati on climate change
+adaptation; and
+
+•
+
+Mitigating economic isolation by encouraging regional and global integration.
+
+Building Resilience Against Climate Change and External Shocks
+22.
+The core focus of increasing World Bank Group involvement with Kiribati will be to support
+adaptation measures that respond to Kiribati’s extreme vulnerability to climate change and climate related
+natural disasters. The potential effects of climate change in Kiribati are particularly evident in risks to
+already limited supplies of fresh water on South Tarawa. Managing groundwater reserves, sustaining
+freshwater lenses, improving rainwater collection, and developing new sources of water (either from
+desalination, treatment of water from contaminated lenses, or piped from North Tarawa) will be especially
+important, although all have been tried previously with limited success.
+23.
+The Bank proposes to work closely with partners and the Government over to help coordinate a
+comprehensive approach to climate change adaptation on the main population centre of South Tarawa.
+World Bank engagement in Kiribati to date has been based around the Kiribati Adaptation Project (KAP)
+implemented by the Bank with financing from the Global Environment Facility and the Australian and New
+Zealand Governments. KAP is one of the first Bank programs to fully integrate climate adaptation into
+development planning efforts.
+7
+
+24.
+The Bank proposes to allocate the bulk of the IDA-16 resources available to Kiribati toward a
+multi-donor climate change adaptation investment, informed by coordinated analytical work. As well as
+IDA resources, we will also explore options to work with other partners to mobilize grant financing for any
+such investment, particularly with significant additional financing for Pacific Island countries anticipated for
+climate change adaptation. The complexity of the sector, the scope of the undertaking, and the Bank’s
+relatively steep learning curve in Kiribati will require the building of country knowledge and to develop a
+common understanding of risks and priorities with the Government and partners. The Australian Government
+has expressed strong interest in supporting the Bank’s engagement in this area.
+25.
+As well as strengthening resilience against climate change, the Bank will also be helping to reduce
+Kiribati’s vulnerability to external economic shocks, such as the food and fuel price spikes. A proposed
+500kW grid-connected solar photo-voltaic generator for South Tarawa (financed by GEF with support from
+Australia) will help diversify electricity generation and reduce reliance on diesel, imports of which are
+currently equivalent to 15% of GDP. The Bank’s successful experience with the Tonga Energy Roadmap
+suggests that gains could also be made from energy sector reform, including opening of the market to new
+private generation. The Bank will also be supporting the Government of Kiribati’s efforts to ensure the
+availability and affordability of food on the outer islands, where the population has limited livelihood
+opportunities and meager agricultural land. People living on the outer islands already spend a high proportion
+of their income on imported food, and were especially hard hit by steep both in food and transport costs. A
+$2m grant from the Global Food Crisis Response Program (GFRP) will help finance the shipping of food
+from South Tarawa to the outer islands and the freight of selected agricultural products from the outer islands
+to Tarawa. Assistance will also be provided from the Global Facility for Disaster Reduction and Recovery
+(GFDRR).
+Generating Opportunities from Greater Global and Regional Integration
+26.
+Given Kiribati’s remoteness, basic infrastructure that connects the people of Kiribati to the outside
+world will be essential to encouraging greater global and regional integration, and to supporting increased
+levels of external assistance. High priority transport sector investments integrating climate change adaptation
+planning will be started in parallel with efforts to develop coordinated and more comprehensive multi-donor
+adaptation interventions. IDA investments in relatively less complex areas will provide ballast to the
+relationship by building World Bank country knowledge, as well as by increasing Government familiarity and
+understanding of Bank systems and processes. The Bank will collaborate with ADB to jointly co-finance
+rehabilitation of the main South Tarawa road, with support from Australia and NZ through PRIF. This
+operation – the Government’s immediate priority – is being presented to the Board with this CAS, and will be
+the first ever IDA investment in Kiribati. Airport rehabilitation and safety measures will also be critical if air
+services to the remote Kiribati archipelago – the key link with the outside world – are to be maintained and
+ICAO standards met. The Bank proposes to work with the NZ Government to co-finance the rehabilitation of
+Kiritimati airport and road from the airport to town, as well to provide critical safety and navigation
+investments at Bonriki airport in Tarawa, where China, Taiwan is financing runway rehabilitation. These
+significant “once in a generation” infrastructure investments will be needed and will fully incorporate climate
+change adaptation measures into their design.
+27.
+Across the Pacific, the Bank Group will work with clients and partners to help island states derive
+greater benefits from closer integration with the metropolitan countries in the region and from stronger
+regional cooperation. There are particular opportunities available to Kiribati from regional cooperation in
+improving returns from sustainable management of pelagic fish stocks, temporary labor migration, and
+telecommunications reform.
+28.
+A fisheries engagement strategy for the Pacific is being developed, following a request for support
+from the newly established Parties to the Nauru Agreement (PNA) Office. In the past few years, the eight
+Pacific island members of the PNA – which collectively account for about 40% of the world’s tuna stocks –
+have agreed on a wide range of measures to improve the management of the tuna resource and to increase
+8
+
+benefits for Pacific island countries. These include: (i) agreements to cut licensed fishing days by 30% in
+2011, (ii) the closure of high seas pockets that previously complicated the control of fishing activities in the
+region; improved vessel monitoring systems to reduce illegal, unregulated and unreported (IUU) fishing,
+including a goal of 100% observer coverage on all boats; and (iii) preferential conditions for domestic vessels
+or those that comply with specific requirements for local crew and unloading. Nevertheless, several tuna
+species remain under pressure and further actions are likely to be required. In formulating a fisheries strategy,
+the Bank will work closely with the existing regional architecture managing fisheries in the Pacific, including
+FFA and the Western Central Pacific Fisheries Commission (WCPFC), as well as with other donor partners.
+It is anticipated that Bank support will primarily revolve around technical assistance to the PNA Office to
+implement reform measures.
+29.
+The Bank will continue to work closely with Pacific island countries and partners to help expand
+opportunities for international employment. Labor is one of the few viable exports for many small and
+remote island countries – but is subject to significant policy barriers. New Zealand’s Recognized Seasonal
+Employment (RSE) scheme has provided over 9,000 Pacific islanders, including over 150 from Kiribati, with
+opportunities to work up to nine months in the horticultural industry, returning home with skills and
+remittances averaging $4,400 per worker (after deductions and living expenses). Although the number of
+Kiribati nationals so far employed under this scheme is relatively low, the Bank is currently working with the
+Government to improve the competitiveness of Kiribati workers, which is constrained by the relatively high
+costs of travel from Kiribati compared with other labor sourcing countries in the Pacific. As well as the
+immediate financial returns, broader benefits have also flowed back into Pacific countries including new
+found skills in agriculture, as well as computer literacy and English language skills. The World Bank will
+continue to work with regulatory agencies in both Australia and New Zealand to reduce the cost of
+remittances, to explore opportunities for returning Pacific islanders to apply their skills and establish
+businesses, and to encourage greater opportunities for skilled migration.
+30.
+There is considerable untapped potential for Kiribati to take advantage of opportunities for closer
+global integration made possible by the telecommunications revolution. The World Bank Group has played
+a significant role in encouraging telecoms reform throughout the Pacific in recent years. Increased
+competition and the entry of new private sector operators have caused prices for mobile telephones in
+countries across the region to fall dramatically, and access to telecoms services to increase in some cases by a
+factor of ten. The World Bank is also helping to strengthen independent telecoms regulators, and is
+supporting the establishment of a Pacific Regional Telecommunications Regulatory Resource Center, with
+PRIF financing from Australia and NZ. Similarly, IFC investments of around $170m over the past three
+years have played a key role in encouraging over $500m in investments by new private sector telecoms
+operators. Following technical assistance from the Bank, the Government of Kiribati has indicated its
+commitment to opening the telecoms market to competition in parallel to efforts for the state owned operator,
+TKSL, to form a non-exclusive joint venture that would increase its competitiveness. Competition holds
+particular relevance for Kiribati that currently has among the highest telecoms costs in the region and very
+low mobile phone usage rates.
+31.
+Structural economic reform will be vital if Pacific island countries are to participate more fully in
+global growth and to attract and benefit from private sector investment. As the World Bank Group develops
+credibility, and as investments start to provide an anchor for the relationship and examples of the benefits of
+reform, the World Bank anticipates working with partners in a more formally coordinated policy dialogue that
+addresses economic and structural reform priorities more substantively. The Bank will work closely with the
+IMF in Article IV missions and will similarly participate in future PEFA assessments, led by multilateral
+partners. At the regional level, there will be greater Bank engagement with the IMF’s Pacific Financial
+technical Assistance Center (PFTAC). The World Bank is also one of the partners supporting the Pacific
+Association of Supreme Audit Institutions (PASAI), and this will be one mechanism to strengthen oversight
+institutions in Kiribati and throughout the region.
+9
+
+International Finance Corporation (IFC)
+32.
+IFC will play a key role in coordinated World Bank Group efforts in Kiribati to encourage new
+private investment, as well as to increase competition and private sector involvement in service delivery.
+Across the Pacific, IFC is significantly scaling up both investment and analytical support. IFC engagement
+has been integrated in this joint CAS. In particular, IFC is playing an important role in strengthening
+investment climate in countries across the Pacific, and will similarly scale up TA to Kiribati to strengthen the
+business enabling environment and to support specific PPP transactions or asset sales as the government
+moves to rationalize SOEs. IFC has scope to provide financing for any new telecoms market entrant, as has
+been done successfully elsewhere in the region, and will explore other investment opportunities. As has been
+illustrated by the telecoms revolution around the region, encouraging competition and private sector
+involvement in service delivery has been crucial in overcoming capacity constraints. Reflecting this, a key
+element of the Bank Group’s approach will be to encouraging local private sector involvement throughout the
+program, including road maintenance, airport management, and energy.
+Mainstreaming Gender
+33.
+Gender issues will be incorporated throughout the Bank program. Gender outcomes in Kiribati are
+mixed, with good representation of girls in school and a strong legislative framework, but relatively high
+maternal mortality and low representation of women in the formal economy. Bank activities are expected to
+be very tightly focused, with other donors leading interventions specifically targeting gender issues.
+Nevertheless, gender considerations will actively inform the implementation of the Bank’s program. A focus
+on addressing climate change adaptation and improving water supply in South Tarawa, for instance, is
+anticipated to result in improvements in maternal and child health. Similarly, research by the Pacific Institute
+for Public Policy 2 in Vanuatu shows a clear link between economic productivity and access to mobile phones,
+with women successfully making use of new opportunities, and similar outcomes are anticipated in Kiribati.
+Implementation: Partnerships, Selectivity, New Ways of Doing Business, and Accountability
+34.
+In scaling up analytical and financial support for Kiribati, the World Bank Group will be highly
+selective. The proposed program will be closely focused on scaling up activities that have already been
+piloted in Kiribati – particularly climate change adaptation – or on replicating successful experience
+elsewhere in the Pacific. Investments will be carefully sequenced to build a track record and strengthen the
+Bank’s country understanding. New investments will be designed with simplicity in mind and to reflect the
+capacity constraints in Kiribati.
+35.
+Selectivity will be accompanied by close collaboration with development partners which have a
+more extensive track record in Kiribati. The Bank intends to work closely with other partners on analytical
+work in Kiribati to give substance to the Cairns Compact agreed at the Pacific Island Forum in August 2009
+that aims to strengthen coordination and make better use of all the resources available for development,
+avoiding duplication and strengthening synergies among donors.
+36.
+Given extremely limited capacity in Kiribati, as with many of the smaller island countries,
+developing leadership and institutions needed to manage change will require commitment to a long-term
+capacity enhancement effort that places emphasis on developing fiduciary oversight and on downstream
+implementation support. Governments throughout the Pacific continue to face significant challenges in
+recruiting and retaining domestic expertise. Reflecting weak public financial management arrangements in
+Kiribati, all investments will include strong fiduciary and safeguards oversight and support. The Bank will
+try to be more nimble in project preparation, and give greater attention to downstream implementation
+support. Without lowering fiduciary or safeguards standards, we intend to try to streamline and accelerate
+activity preparation, and to rebalance Bank engagement toward greater support throughout the project cycle.
+2
+
+“Going Mobile: Social and Economic Impact of Introducing Telecommunications Through Vanuatu”, December 2009.
+
+10
+
+37.
+Anticipated outcomes from World Bank Group engagement are set out in the results matrix in
+Attachment 2. This will be revised as implementation proceeds, and will be updated in the CAS
+
+Progress Report.
+38.
+Supporting this growing engagement, the Bank Group will open a joint liaison office with ADB in
+2011. This reflects the model in Samoa, Tonga, and Vanuatu, where local professional liaison officers
+represent both institutions in the first ADB/World Bank shared (rather than simply co-located) offices
+anywhere in the world. This presence has been instrumental in improving the Bank’s dialogue with clients
+and encouraging better cooperation with the ADB.
+Financing Terms and Sources
+39.
+The financing envelope for this CAS – including both IDA and generous donor trust funds and
+co-financing – will be flexible and contingent on Kiribati’s commitment to undertaking structural
+reforms. The base case scenario from FY11 to FY14 will foresee the full use of Kiribati’s IDA allocation
+across the IDA 15 and IDA 16 periods. The CAS provides opportunities for some opportunistic reallocations
+to Kiribati from elsewhere in the Pacific, although any such reallocation will require a strong performance to
+be justified. In addition, the Bank will look at ways to leverage its resources with other donors’ so as to offer
+a comprehensive and substantive program of assistance that can underpin the present strategy. All proposed
+investments are anticipated to be co-financed with other partners or supported by trust funds and other
+programs such as the Global Environment Facility (GEF) and the Global Food Crisis Response program
+(GFRP). Australia and New Zealand have been especially generous in supporting the World Bank Group’s
+engagement in the Pacific, both through the Pacific Regional Infrastructure Facility (PRIF), which is
+designed to coordinate multilateral bilateral engagement in infrastructure, as well as on a bilateral basis.
+Trust fund financing by donors could potentially amount to almost as much as the Bank is able to make
+available through IDA. Details of the source of financing anticipated for individual activities are set out
+below.
+Kiribati: Proposed IDA and Trust Fund Operations (FY11 – FY14)
+Year
+IDA
+
+IDA-15 Period
+Kiribati Climate Change Adaptation (KAP-3)
+Food Price Crisis Response
+Transport (Road Maintenance)
+
+FY11
+FY11
+FY11
+
+IDA-16 Period
+Airport Safety and Rehabilitation
+Tarawa Renewable Energy
+Telecoms Liberalization Support
+Climate Change Adaptation/ Water
+
+FY12
+FY12
+FY12
+FY13
+
+
+
+
+
+
+Cofinanced/
+Trust Fund
+
+GEF/Aust/NZ
+GFRP
+ADB/PRIF 3
+NZ
+GEF/PRIF
+PRIF
+Australia
+
+40.
+IDA resources will be provided on 100% grant terms. While Kiribati has very limited external debt,
+its capacity to take on new debt – even on concessional terms – is extremely constrained. This reflects
+Kiribati’s limited growth prospects, and the potential for the RERF to be depleted. A joint IMF-World Bank
+debt sustainability analysis has concluded that if the proposed World Bank program were to be provided as
+concessional credits, Kiribati would be at a high risk of debt distress. The provision of grants is
+consequently consistent with IDA’s debt sustainability framework.
+
+3
+
+PRIF financing is provided by Australia and NZ.
+
+11
+
+41.
+A selective program of World Bank Group analytical work is proposed in sectors where the Bank
+is scaling up engagement and in collaboration with analysis being undertaken by other partners.
+Analytical work and technical assistance anticipated during the first part of the CAS period is set out below.
+Kiribati: Proposed Analytical Work and Technical Assistance FY11 – FY14
+FY11
+Telecoms: Regulatory Support and Transaction Advice for Market Liberalization
+Climate Change Adaptation/ Water Masterplan for South Tarawa
+Participation in 2010 IMF Article IV; Debt Sustainability Assessment
+(Regional) Fisheries Engagement Strategy: Support to the PNA Secretariat
+FY12
+Import Levy Fund Reform Options Study
+IFC Business Enabling Environment TA
+Participation in Public Expenditure and Financial Accountability Assessment
+
+IV.
+
+RISKS
+
+42.
+Risks to the proposed scaling up in Bank Group engagement in Kiribati are high. This reflects the
+Bank Group’s limited engagement to date, domestic capacity constraints and PFM weaknesses affecting
+development outcomes, and the difficulties in securing political consensus for reform. Risks are magnified
+by the Bank’s limited country knowledge. Nevertheless, this strategy has the strong support of the
+Government of Kiribati, and of a broad range of civil society organizations in Kiribati with which it has been
+discussed.
+43.
+Mitigating these risks will require a new way of doing business where the Bank draws on the
+experience of long-standing development partners. A tightly focused and sequenced program of activities
+will give priority to investments that can be co-financed with partners with a longer-track record in Kiribati.
+Risks will also be managed through simplicity of design, a greater focus on downstream implementation
+support, a willingness to restructure activities as needed. Ensuring adequate procurement and fiduciary
+support will be vital. Downstream implementation support will be further strengthened by the establishment
+of a joint liaison office in Kiribati expected to provide a basis on which to build more regular dialogue and a
+nuanced country understanding.
+44.
+Given the difficulties of sustaining reform momentum in Kiribati, new activities will be
+implemented in a sequenced way and linked to areas where there is clear reform momentum. Decisions
+on new investments in the second part of the CAS period will be dependent on experience with initial
+interventions and an assessment of how best to support reform efforts by the Government. The
+Government’s expressed strong support for the program outlined in this CAS will be critical in ensuring
+effective implementation.
+
+12
+
+Attachment 1: Kiribati and Pacific Island Countries: MDG Progress
+Melanesia
+Kiribati
+MDG 1. Eradicate extreme
+poverty and hunger
+
+Low food poverty, but off
+track to halve basic
+Halve between 1990 and 2015 the
+needs poverty
+proportion of people whose income is
+less than $1 per day.
+
+MDG 2. Achieve universal
+primary education
+MDG 3. Promote gender equality
+and empowerment
+Eliminate gender disparities in
+primary and secondary education
+
+MDG 4. Reduce child (Under 5)
+mortality by two thirds
+MDG 5. Improve maternal health
+Reduce maternal mortality by three
+quarters
+
+MDG 6. Reverse the spread of
+HIV/AIDS, malaraia and TB
+MDG 7. Ensure environmental
+sustainability
+Integrate principles of sustainable
+development into country policies
+
+On track
+On track education
+equality, off track
+empowerment
+
+Fiji
+
+PNG
+
+Polynesia
+
+Solomon Islands
+
+Vanuatu
+
+Samoa
+
+Micronesia
+Tonga
+
+FSM
+
+Palau
+
+RMI
+
+Low food poverty,
+but off track to
+halve basic needs
+poverty
+
+Off track
+
+Low food poverty, Low food poverty, Low food poverty, Low food poverty, Low food poverty, Low food poverty, Low food poverty,
+but off track to
+but off track to
+but off track to
+but off track to
+but off track to
+but off track to
+but off track to
+halve basic needs halve basic needs halve basic needs halve basic needs halve basic needs halve basic needs halve basic needs
+poverty
+poverty
+poverty
+poverty
+poverty
+poverty
+poverty
+
+Slightly off track
+
+Off track
+
+Slightly off track
+
+Slightly off track
+
+Off track
+
+Slightly off track
+
+On track education
+equality, off track Slightly off track
+empowerment
+
+On track
+
+On track
+
+Slightly off track
+
+On track
+
+Of concern
+
+On track education On track education
+On track education On track education
+equality, off track equality, off track Slightly off track equality, off track equality, off track
+empowerment
+empowerment
+empowerment
+empowerment
+
+Slightly off track
+
+Slightly off track
+
+Off track
+
+Slightly off track
+
+Slightly off track
+
+On track
+
+On track
+
+Slightly off track
+
+On track
+
+On track
+
+Off track
+
+Off track
+
+Off track
+
+On track
+
+Off track
+
+On track
+
+On track
+
+Of concern
+
+On track
+
+On track
+
+Off track
+
+Off track
+
+Off track
+
+Slightly off track
+
+Slightly off track
+
+On track
+
+Slightly off track
+
+On track
+
+On track
+
+Slightly off track
+
+Off track
+
+Slightly off track
+
+Off track
+
+Off track
+
+Slightly off track
+
+On track
+
+On track
+
+On track
+
+On track
+
+Of concern
+
+Source: 2010 MDG Tracking Report, Pacific Islands Forum Secretariat
+Average Annual GDP Growth 20002009
+
+1.1
+
+0.7
+
+2.9
+
+1.6
+
+3.2
+
+3.5
+
+1.1
+
+-0.1
+
+0.9
+
+1.9
+
+World Bank IDA Country
+Performance Rating 2009
+
+3.0
+
+N/A
+
+3.1
+
+2.6
+
+3.3
+
+4.0
+
+3.5
+
+2.8
+
+N/A
+
+2.8
+
+13
+
+Millennium Development Goals
+
+Kiribati
+
+With selected targets to achieve b etween 1990 and 2015
+(estimate closest to date shown, +/- 2 years)
+
+Kiribati
+
+Goal 1: halve the rates for extreme poverty and malnutrition
+Poverty headcount ratio at $1.25 a day (PPP, % of population)
+Poverty headcount ratio at national poverty line (% of population)
+Share of income or consumption to the poorest qunitile (%)
+Prevalence of malnutrition (% of children under 5)
+
+1990
+..
+..
+..
+..
+
+1995
+..
+..
+..
+..
+
+2000
+
+Goal 2: ensure that children are able to complete primary schooling
+Primary school enrollment (net, %)
+Primary completion rate (% of relevant age group)
+Secondary school enrollment (gross, %)
+Youth literacy rate (% of people ages 15-24)
+
+..
+..
+..
+..
+
+..
+..
+..
+..
+
+97
+
+99
+99
+..
+
+125
+87
+
+Goal 3: eliminate gender disparity in education and empower women
+Ratio of girls to boys in primary and secondary education (%)
+Women employed in the nonagricultural sector (% of nonagricultural employment)
+Proportion of seats held by women in national parliament (%)
+
+..
+..
+0
+
+..
+..
+
+122
+37
+5
+
+107
+
+77
+57
+47
+
+70
+52
+80
+
+64
+47
+61
+
+Goal 4: reduce under-5 mortality by two-thirds
+Under-5 mortality rate (per 1,000)
+Infant mortality rate (per 1,000 live births)
+Measles immunization (proportion of one-year olds immunized, %)
+
+88
+65
+75
+
+Goal 5: reduce maternal mortality by three-fourths
+Maternal mortality ratio (modeled estimate, per 100,000 live births)
+Births attended by skilled health staff (% of total)
+Contraceptive prevalence (% of women ages 15-49)
+
+..
+..
+..
+
+Goal 6: halt and begin to reverse the spread of HIV/AIDS and other major diseases
+Prevalence of HIV (% of population ages 15-49)
+Incidence of tuberculosis (per 100,000 people)
+Tuberculosis case detection rate (%, all forms)
+
+..
+513
+18
+
+Goal 7: halve the proportion of people without sustainable access to basic needs
+Access to an improved water source (% of population)
+Access to improved sanitation facilities (% of population)
+Forest area (% of total land area)
+Terrestrial protected areas (% of surface area)
+CO2 emissions (metric tons per capita)
+GDP per unit of energy use (constant 2005 PPP $ per kg of oil equivalent)
+Goal 8: develop a global partnership for development
+Telephone mainlines (per 100 people)
+Mobile phone subscribers (per 100 people)
+Internet users (per 100 people)
+Personal computers (per 100 people)
+
+0
+
+72
+
+2008
+..
+..
+..
+..
+
+..
+
+..
+..
+..
+..
+
+..
+
+..
+
+4
+
+..
+
+..
+..
+..
+
+89
+21
+
+..
+
+..
+464
+
+..
+420
+71
+
+48
+22
+2.5
+..
+0.3
+..
+
+54
+25
+..
+..
+0.3
+..
+
+62
+30
+2.5
+..
+0.4
+..
+
+1.7
+0.0
+0.0
+..
+
+2.6
+0.0
+..
+..
+
+4.0
+0.4
+1.8
+1.0
+
+92
+
+..
+
+372
+
+..
+
+97
+
+65
+33
+2.5
+
+55.0
+
+0.3
+
+..
+
+4.1
+1.0
+2.1
+
+1.1
+
+Education indicators (%)
+
+Measles immunization (% of 1-year
+olds)
+
+ICT indicators (per 100 people)
+
+150
+
+100
+
+10
+
+125
+75
+
+100
+75
+
+50
+
+50
+25
+
+25
+
+0
+2000
+
+2002
+
+2004
+
+2006
+
+2008
+
+0
+
+0
+1990
+
+1995
+
+2000
+
+2007
+
+2000
+
+2002
+
+2004
+
+2006
+
+2008
+
+Primary net enrollment ratio
+Ratio of girls to boys in primary & secondary
+education
+
+Kiribati
+
+East Asia & Pacific
+
+Note: Figures in italics are for years other than those specified. .. indicates data are not available.
+
+14
+
+Fixed + mobile subscr ibers
+
+Internet users
+
+1/14/11
+
+Attachment 2: Kiribati Results Matrix
+Medium-term
+Country Goals
+
+Key Issues
+
+CAS Outcomes
+Expected (FY11 – FY14)
+
+Milestones
+
+WBG Instruments and
+International Partners
+
+Strategic Area I: Building Resilience Against Climate Change and External Shocks
+Improved resilience to
+climate change and
+natural disasters
+
+Improved capacity to
+transport food to
+remote outer islands
+
+• Kiribati highly vulnerable to
+natural disasters and climate
+change
+• Fresh water lens already
+stressed and access to water
+will become more limited
+• Limited freshwater a major
+source of disease
+
+• Outer islands’ population
+heavily reliant on imported
+food with very high transport
+costs
+• Import Levy Fund (ILF) largely
+exhausted
+
+Reducing reliance on
+• Kiribati is reliant on imported
+price volatile imported
+petroleum products for 75% of
+fuel and increase
+energy generation
+affordability of energy • Imported fuel accounts for 15%
+of GDP
+• Over 80% of the population of
+South Tarawa has access to
+grid, but prices high (peak of
+over $0.50/ kWh in 2008)
+
+• Improved coastal resilience
+• Strengthened water resources
+and management with greater
+access to clean water
+(baseline:48% of the
+population with access to clean
+water)
+• Greater integrated capacity to
+manage DRR and CCA issues
+
+• ILF reforms ensure more
+sustainable and efficient
+approach to subsidizing
+transport of food to outer
+islands
+• Improve petroleum supply
+chain to reduce price and
+volatility of energy supply
+• Increase renewable energy to
+5% of grid supplied power by
+2014
+• Direct reduction of GHG
+emissions of 10 ktCO2 over 20
+years
+
+15
+
+• Comprehensive strategy
+developed and under
+implementation to address
+CCA/ water issues on South
+Tarawa
+• Shoreline protection
+completed at key sites in
+South Tarawa and mangrove
+replanting on 5 outer islands
+• Rainwater harvesting systems
+in place in Banaba island and
+5 sites in South Tarawa,
+including Tungaru hospital
+• Rainwater run-off from South
+Tarawa road replenishing
+water lens
+• Expansion of groundwater
+abstraction in Tarawa
+• Recapitalization of Import
+Levy Fund
+
+AAA/TA: Regional DRR/CAA
+risk analysis; South Tarawa
+climate change adaptation and
+water masterplan (2012)
+Operations: Kiribati Adaptation
+Project 2 and 3 (2006 and 2011);
+Coordinated multi-donor, multisector climate change adaptation
+investment (2013);
+Donor Partners: ADB, Australia,
+NZ, PRIF/PIAC. GFDRR
+
+AAA/TA: Review of options to
+strengthen sustainability of ILF
+(FY12)
+Operations: GFRP food price
+crisis response grant (FY11)
+
+• 500 kW on-grid solar PV
+generation capacity to be
+introduced
+
+AAA/TA: Energy sector analysis
+(FY12)
+Operations: South Tarawa solar
+energy (FY12)
+Donor Partners: Australia, New
+Zealand, GEF, Japan (Tarawa
+grid), EC (outer islands off-grid
+PV systems)
+
+Strategic Area II: Overcoming Isolation and Generating Opportunities from Greater Global and Regional Integration
+Medium-term
+Key Issues
+CAS Outcomes
+Milestones
+Country Goals
+Expected (FY11 – FY14)
+Improve transport
+infrastructure for
+remote populations
+and provide
+countercyclical
+employment
+opportunities
+
+Improved access to
+telecommunications
+services to provide
+opportunities for
+growth
+
+Greater opportunities
+for Kiribati
+temporary labor
+migration
+
+• South Tarawa road has failed
+• Air transport critical for remote
+communities, but safety
+concerns risks stoppage of
+flights (as has already occurred
+At Tarawa for 2 weeks and
+Kiritimati island for 12 months
+in 2009)
+• Unemployment and
+underemployment increasing as
+a result of global economic
+slowdown
+• Telecoms services provided by
+monopoly state owned TSKL
+• Mobile penetration is less than
+10% of the population
+• High cost telecoms ($20
+monthly rental charge with 30c
+per minute mobile to mobile on
+South Tarawa up to $1.30 per
+minute from South Tarawa to
+Kiritimati island)
+• 150 Kiribati workers currently
+participate per year in NZ RSE
+scheme
+• Each worker on average returns
+with $4,000
+
+• Functioning road system on
+South Tarawa, with continuing
+maintenance undertaken by
+domestic private sector
+contractors
+• Bonriki and Cassidy airports
+moving from non-compliant to
+compliant with ICAO
+standards
+• Temporary employment of
+1,000 person months on road
+construction
+• Mobile penetration to increase
+to 40% by 2014
+• Reduced price for telecoms
+services
+• Regulatory environment that
+allows competition with equal
+access by all market players
+
+• Increase in Kiribati workers
+participating in temporary labor
+migration schemes in Australia
+and NZ, with higher returns per
+worker as efficiency increases
+
+16
+
+WBG Instruments and
+International Partners
+
+• 31 km of roads rehabilitated
+• Agreed plan for reform of
+road sector management and
+financing under
+implementation
+• Navigation and safety aids
+installed at Bonriki and
+Cassidy airports
+• Civil aviation masterplan
+agreed and under
+implementation
+
+Operations: South Tarawa Road
+Rehabilitation (FY11) and
+Kiribati Aviation Infrastructure
+Investment (FY11)
+
+• Second telecoms license
+granted to allow new private
+sector market participant
+(2012)
+• Transparent CSO for outer
+islands services
+
+AAA/ TA: Telecoms TA (2011)
+
+• WB and Government to
+improve the competitiveness
+of Kiribati workers in RSE
+scheme
+
+AAA: Trade facilitation TA
+(FY12)
+
+Donor Partners: ADB; Australia;
+Taiwan, China; New Zealand
+
+Operations: Telecoms reform
+investment (FY12)
+Donor Partners: IFC, Australia
+
+Kiribati at a glance
+
+1/14/11
+
+Key Development Indicators
+
+East
+Asia &
+Pacific
+
+Kiribati
+
+(2009)
+
+Lower
+middle
+income
+
+Age distribution, 2008
+Male (..)
+
+Population, mid-year (millions)
+Surface area (thousand sq. km)
+Population growth (%)
+Urban population (% of total population)
+
+0.10
+
+44
+
+1,930
+16,299
+0.7
+44
+
+3,767
+31,923
+1.2
+40
+
+0.2
+1,820
+3,350
+
+5,283
+2,738
+5,596
+
+7,709
+2,046
+4,481
+
+-0.7
+-2.2
+
+8.5
+7.7
+
+7.5
+6.3
+
+Poverty headcount ratio at $1.25 a day (PPP, %)
+Poverty headcount ratio at $2.00 a day (PPP, %)
+Life expectancy at birth (years)
+Infant mortality (per 1,000 live births)
+Child malnutrition (% of children under 5)
+
+..
+..
+..
+47
+..
+
+17
+39
+72
+22
+12
+
+..
+..
+68
+44
+25
+
+Adult literacy, male (% of ages 15 and older)
+Adult literacy, female (% of ages 15 and older)
+Gross primary enrollment, male (% of age group)
+Gross primary enrollment, female (% of age group)
+
+..
+..
+112
+114
+
+96
+90
+111
+112
+
+87
+73
+109
+105
+
+Access to an improved water source (% of population)
+Access to improved sanitation facilities (% of population)
+
+65
+33
+
+88
+59
+
+0.8
+
+1.6
+
+GNI (Atlas method, US$ billions)
+GNI per capita (Atlas method, US$)
+GNI per capita (PPP, international $)
+GDP growth (%)
+GDP per capita growth (%)
+
+Female (..)
+
+75…
+60…
+45…
+30…
+15…
+0-4
+0
+
+0
+
+0
+
+1
+
+1
+
+1
+
+percent of total population
+
+(most recent estimate, 2003–2009)
+Under-5 mortality rate (per 1,000)
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+
+86
+50
+
+1990
+
+1995
+
+Kiribati
+
+Net Aid Flows
+
+(US$ millions)
+
+Net ODA and official aid
+
+Top 3 donors (in 2008):
+
+Australia
+Japan
+European Commission
+
+Aid (% of GNI)
+Aid per capita (US$)
+
+1980
+
+1990
+
+2000
+
+2000
+
+East Asia & Pacific
+
+a
+
+2009
+
+19
+
+20
+
+18
+
+27
+
+3
+2
+0
+
+4
+9
+1
+
+5
+8
+1
+
+8
+8
+6
+
+50.1
+329
+
+41.9
+287
+
+16.2
+211
+
+13.6
+277
+
+5.5
+
+15.8
+
+3.8
+-4.7
+
+0.4
+0.3
+
+8.8
+4.6
+
+0.9
+..
+
+1.3
+..
+
+1.7
+..
+
+1.3
+..
+
+Long-Term Economic Trends
+
+Growth of GDP and GDP per capita (%)
+12
+10
+8
+6
+4
+2
+0
+-2
+-4
+-6
+-8
+95
+
+Consumer prices (annual % change)
+GDP implicit deflator (annual % change)
+Exchange rate (annual average, local per US$)
+Terms of trade index (2000 = 100)
+
+2007
+
+05
+
+GDP
+
+GDP per capita
+
+1980–90 1990–2000
+
+2000–09
+
+(average annual growth %)
+
+Population, mid-year (millions)
+GDP (US$ millions)
+
+0.1
+28
+
+0.1
+28
+
+0.1
+68
+
+0.1
+128
+
+Agriculture
+Industry
+Manufacturing
+Services
+
+20.7
+9.0
+2.1
+70.2
+
+18.6
+7.6
+1.2
+73.8
+
+22.5
+11.8
+5.0
+65.7
+
+28.6
+9.5
+6.2
+61.8
+
+Household final consumption expenditure
+General gov't final consumption expenditure
+Gross capital formation
+
+94.5
+59.2
+33.1
+
+89.6
+52.8
+93.1
+
+..
+..
+..
+
+Exports of goods and services
+Imports of goods and services
+Gross savings
+
+23.4
+110.2
+..
+
+11.6
+147.2
+..
+
+6.9
+46.8
+..
+
+1.9
+1.5
+
+1.8
+3.9
+
+1.7
+1.3
+
+-3.2
+6.8
+1.9
+5.5
+
+2.2
+-2.3
+4.4
+2.6
+
+..
+..
+..
+
+..
+..
+..
+
+..
+..
+..
+
+..
+..
+
+..
+..
+
+..
+..
+
+(% of GDP)
+
+..
+..
+..
+
+9.4
+76.5
+
+..
+
+-2.3
+-3.9
+-10.7
+0.1
+
+Note: Figures in italics are for years other than those specified. 2009 data are preliminary. .. indicates data are not available.
+a. Aid data are for 2008.
+
+17
+
+Kiribati
+Balance of Payments and Trade
+
+2000
+
+2009
+Governance indicators, 2000 and 2009
+
+(US$ millions)
+Total merchandise exports (fob)
+Total merchandise imports (cif)
+Net trade in goods and services
+
+4
+40
+-47
+
+4
+60
+-81
+
+Voice and accountability
+
+Current account balance
+as a % of GDP
+
+6
+9.2
+
+-4
+-2.8
+
+Regulatory quality
+
+Workers' remittances and
+compensation of employees (receipts)
+
+7
+
+9
+
+Reserves, including gold
+
+0
+
+Political stability
+
+Rule of law
+Control of corruption
+
+0
+
+0
+2009
+
+Central Government Finance
+
+2000
+
+(% of GDP)
+
+Current revenue (including grants)
+Tax revenue
+Current expenditure
+
+71.0
+..
+48.1
+
+98.2
+..
+53.9
+
+Overall surplus/deficit
+
+-1.4
+
+-12.4
+
+..
+..
+
+..
+..
+
+Highest marginal tax rate (%)
+Individual
+Corporate
+
+25
+
+50
+
+75
+
+100
+
+Country' s percentile rank (0-100)
+higher values imply better ratings
+
+Source: Kaufmann-Kraay-Mastruzzi, World Bank
+
+Technology and Infrastructure
+Paved roads (% of total)
+Fixed line and mobile phone
+subscribers (per 100 people)
+High technology exports
+(% of manufactured exports)
+
+2000
+
+2008
+..
+
+..
+
+4
+
+5
+
+..
+
+..
+
+External Debt and Resource Flows
+Environment
+
+(US$ millions)
+
+Total debt outstanding and disbursed
+Total debt service
+Debt relief (HIPC, MDRI)
+Total debt (% of GDP)
+Total debt service (% of exports)
+Foreign direct investment (net inflows)
+Portfolio equity (net inflows)
+
+8
+
+2
+
+–
+
+11.1
+
+10
+2
+–
+
+3.0
+
+7.7
+2.5
+
+1
+0
+
+..
+..
+
+Agricultural land (% of land area)
+Forest area (% of land area)
+Terrestrial protected areas (% of surface area)
+
+46
+2.5
+..
+
+Freshwater resources per capita (cu. meters)
+Freshwater withdrawal (billion cubic meters)
+CO2 emissions per capita (mt)
+
+Composition of total external debt, 2008
+
+46
+2.5
+
+55.0
+
+..
+..
+0.39
+
+..
+..
+
+0.35
+
+GDP per unit of energy use
+(2005 PPP $ per kg of oil equivalent)
+
+..
+
+..
+
+Energy use per capita (kg of oil equivalent)
+
+..
+
+..
+
+World Bank Group portfolio
+
+2000
+
+2009
+
+(US$ millions)
+
+Multi- lateral,
+10
+
+US$ millions
+
+Private Sector Development
+Time required to start a business (days)
+Cost to start a business (% of GNI per capita)
+Time required to register property (days)
+Ranked as a major constraint to business
+(% of managers surveyed who agreed)
+n.a.
+n.a.
+Stock market capitalization (% of GDP)
+Bank capital to asset ratio (%)
+
+2000
+
+2009
+
+–
+–
+–
+2000
+
+21
+38.0
+513
+2009
+
+..
+..
+
+..
+..
+
+..
+..
+
+..
+..
+
+IBRD
+Total debt outstanding and disbursed
+Disbursements
+Principal repayments
+Interest payments
+
+0
+0
+0
+0
+
+–
+–
+–
+–
+
+IDA
+Total debt outstanding and disbursed
+Disbursements
+Total debt service
+
+0
+0
+0
+
+–
+–
+–
+
+IFC (fiscal year)
+Total disbursed and outstanding portfolio
+of which IFC own account
+Disbursements for IFC own account
+Portfolio sales, prepayments and
+repayments for IFC own account
+
+–
+–
+–
+
+0
+0
+0
+
+–
+
+0
+
+MIGA
+Gross exposure
+New guarantees
+
+–
+–
+
+–
+–
+
+Note: Figures in italics are for years other than those specified. 2009 data are preliminary.
+.. indicates data are not available. – indicates observation is not applicable.
+
+18
+
+1/14/11
+
+CAS Annex 4 - Kiribati
+Selected Indicators* of Bank Portfolio Performance and Management
+As Of Date
+12.16.2010
+
+Indicator
+Portfolio Assessment
+Number of Projects Under Implementation
+
+2008
+
+2009
+
+2010
+
+2011
+
+1
+
+1
+
+1
+
+1
+
+2.1
+
+3.1
+
+4.1
+
+4.3
+
+100.0
+100.0
+100.0
+100.0
+32.3
+
+0.0
+0.0
+100.0
+100.0
+37.7
+
+0.0
+0.0
+0.0
+0.0
+72.6
+
+0.0
+0.0
+0.0
+0.0
+100.0
+
+b
+
+Average Implementation Period (years)
+a,
+Percent of Problem Projects by Number
+c
+
+a, c
+
+Percent of Problem Projects by Amount
+a, d
+Percent of Projects at Risk by Number
+a, d
+Percent of Projects at Risk by Amount
+e
+Disbursement Ratio (%)
+Portfolio Management
+CPPR during the year (yes/no)
+Supervision Resources (total US$)
+Average Supervision (US$/project)
+
+Memorandum Item
+Proj Eval by OED by Number
+Proj Eval by OED by Amt (US$ millions)
+% of OED Projects Rated U or HU by
+Number
+% of OED Projects Rated U or HU by Amt
+
+Since FY 80
+0
+0
+0
+0
+
+Last Five
+FYs
+0
+0
+0
+0
+
+a. As shown in the Annual Report on Portfolio Performance (except for current FY).
+b. Average age of projects in the Bank's country portfolio.
+c. Percent of projects rated U or HU on development objectives (DO) and/or implementation progress
+(IP).
+d. As defined under the Portfolio Improvement Program.
+e. Ratio of disbursements during the year to the undisbursed balance of the Bank's portfolio at the
+beginning of the year: Investment projects only.
+* All indicators are for projects active in the Portfolio, with the exception of Disbursement Ratio,
+this includes all active projects as well as projects which exited during the fiscal year.
+
+19
+
+CAS Annex 5 - Program Summary - Kiribati
+As Of 1.31.2010
+
+Indicative Program Including IDA and Potential Trust Funds
+
+FY
+2011
+2011
+2011
+2012
+2012
+2013
+2014
+
+Project ID
+
+US$(M)
+
+Kiribati Road Rehabilitation Project
+GEF Kiribati Climate Adaptation 3
+Food Price Crisis Response
+Kiribati Airport Rehabilitation
+Tarawa Solar Energy
+Kiribati Telecommunications Reform
+Kiribati Climate Change Adaptation
+
+24.0
+5.0
+2.0
+10.0 – 15.0
+3.0 - 4.0
+3.0 - 5.0
+10.0 - 20.0
+
+20
+
+Strategic
+Rewards b
+(H/M/L)
+
+Implementation b
+Risks (H/M/L)
+
+M
+H
+M
+M
+M
+H
+H
+
+M
+L
+L
+M
+L
+L
+H
+
+CAS Annex 5 - Kiribati
+Operations Portfolio (IBRD/IDA and Grants)
+As Of Date 16 Decem ber 2010
+
+Closed Projects
+
+0
+
+IBRD/IDA *
+Total Commitments
+
+0.00
+
+GEF
+Total Commitments
+
+1.80
+
+Total Disbursed
+
+1.50
+
+Active Projects
+
+Difference
+Last PSR
+
+Expected a
+
+Supervision Rating
+Project ID
+
+Project Name
+
+P089326
+
+KI Adaptation Program 2
+
+Original Amount in US$ Millions
+
+Development
+Objectives
+
+Implementation
+Progress
+
+Fiscal Year
+
+MS
+
+MS
+
+2006
+
+21
+
+IBRD
+
+IDA
+
+GRANT
+
+1.8
+
+Disburse
+Cancel.
+
+Undisb.
+
+0.3
+
+Orig.
+
+170°E
+
+180°
+
+170°W
+
+160°W
+
+This map was produced by
+the Map Design Unit of The
+World Bank. The boundaries,
+colors, denominations and
+any other information shown
+on this map do not imply, on
+the part of The World Bank
+Group, any judgment on the
+legal status of any territory,
+or any endorsement or
+acceptance of such
+boundaries.
+
+10°N
+
+Monday
+Sunday
+
+M AR S H ALL
+I S LAND S
+
+PACIFIC
+
+OCEAN
+
+Kingman Reef (U.S.)
+Palmyra Atoll
+(U.S.)
+Teraina
+Tabuaeran
+(Fanning I.)
+
+Makin
+Butaritari
+Marakei
+
+Abaiang
+
+TARAWA
+
+Maiana
+Abemama
+Kuria
+Aranuka
+
+NA U R U
+
+0°
+
+Banaba
+(Ocean Island)
+
+Nonouti
+Tabiteuea
+
+Gilbert
+Islands
+
+0°
+
+Jarvis I.
+(U.S.)
+
+Phoenix
+Islands
+
+Beru
+
+Nikunau
+Onotoa
+
+Tamana
+
+Kiritimati
+(Christmas I.)
+
+Howland I. (U.S.)
+Baker I. (U.S.)
+
+Arorae
+
+Kanton
+McKean
+Nikumaroro
+
+Birnie
+Orona
+
+Line Islands
+
+Enderbury
+Rawaki
+
+Malden
+
+Manra
+Starbuck
+
+K I R I B A T I
+SO LOM ON
+I S L AN D S
+
+TU VALU
+
+Tokelau
+(N.Z.)
+Vostok
+
+Wallis and Futuna Islands
+(France)
+
+VA N UAT U
+
+SAMOA
+
+Cook Islands
+(N.Z.)
+
+Millenium
+
+10°S
+
+Flint
+
+American
+Samoa
+(U.S.)
+KIRIBATI
+
+170°E
+
+20°S
+
+NATIONAL CAPITAL
+180°
+
+0
+
+400 Kilometers
+
+200
+
+20°S
+0
+170°W
+
+100
+
+200
+
+300
+
+400 Miles
+160°W
+
+150°W
+
+IBRD 33427
+
+FEBRUARY 2005
+
+International
+
+T O NGA
+Date Line
+
+KIRIBAT I
+
+FIJI
+
+

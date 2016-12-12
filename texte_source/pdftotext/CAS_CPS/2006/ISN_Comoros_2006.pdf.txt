@@ -1,0 +1,4248 @@
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+
+Document o f
+The World Bank
+FOR OFFICIAL USE ONLY
+
+Report No. 37932-KM
+
+INTERNATIONAL DEVELOPMENT ASSOCIATION
+INTERIM STRATEGY NOTE
+FOR
+THE UNION OF COMOROS
+FOR THE PERIOD FYO7-OS
+November 16,2006
+
+Comoros Country Management Unit
+Africa Region
+
+This document has a restricted distribution and m a y be used by recipients only in the performance o f their
+official duties. I t s contents m a y not otherwise be disclosed without W o r l d B a n k authorization.
+
+UNION OF COMOROS
+INTERIM STRATEGY NOTE
+Date o f last Transitional Support Strategy Update
+March 11, 2004
+
+CURRENCY EQUIVALENTS
+Currency Unit = Comorian Franc (KMF)
+U S $ l = KMF 389 (as o f October 30,2006)
+WEIGHTS AND MEASURES
+Metric system
+FISCAL, YEAR
+January 1 - December 3 1
+ACRONYMS AND ABBREVIATIONS
+AFD
+AfDB
+AU
+BADEA
+
+CAS
+CPIA
+DIASCOM
+DSA
+DTIS
+EIB
+EU
+ESW
+EUR
+FADC
+GDP
+GEF
+GNI
+GNP
+HIPC
+HIV/AIDS
+
+Agence Francaise de Dkveloppernent
+(The French Development Agency)
+African DevelopmentBank
+African Union
+Banque Arabe pour le Dkveloppement
+Economique en Afrique
+(Arab Bank for Economic
+Developmentin Africa)
+Country Assistance Strategy
+Country Performance Institutional
+Assessment
+la Coordination des Associations de la
+Diaspora Comorienne
+Debt Sustainability Analysis
+Diagnostic Trade Integration Study
+European InvestmentBank
+European Union
+Economic and sector work
+Euro
+Fonds d ‘Appui awr Dkveloppernent
+Communautaire
+Gross Domestic Product
+Global Environment Facility
+Gross National Income
+Gross National Product
+Heavily Indebted Poor Countries
+Human Immunodeficiency
+VirudAcquired Immune Deficiency
+Syndrome
+
+Vice President:
+Country Director:
+Task Team Leader:
+Task Team:
+
+HDI
+IDA
+IDF
+IF
+IMF
+JSAN
+KMF
+LICUS
+MDG
+MDRI
+MDTF
+NPV
+ODA
+OPEC
+PCF
+PER
+PRGF
+PRSP
+SMF
+s SP
+STI
+TA
+TSSU
+UN
+UNDP
+UNICEF
+WBI
+WHO
+
+Human Development Index
+InternationalDevelopment Association
+Institutional Development Fund
+IntegratedFramework
+InternationalMonetary Fund
+Joint Staff Advisory Note
+Comorian Franc
+Low Income Countries Under Stress
+Millennium Development Goal
+Multilateral Debt Relief Initiative
+Multi-Donor Trust Fund
+Net Present Value
+Official Development Assistance
+Organization of PetroleumExporting
+Countries
+Post Conflict Fund
+Public Expenditure Review
+Poverty Reduction and Growth Facility
+Poverty Reduction Strategy Paper
+Staff Monitored Program
+Services Support Project
+Sexually Transmitted Infection
+Technical Assistance
+Transitional Support Strategy Update
+United Nations
+United Nations DevelopmentProgram
+United Nations Children’s Fund
+World Bank Institute
+World Health organization
+
+Gobind Nankani
+Colin Bruce
+Anna van der Wouden
+Harold Bedoya, Geoffrey Bergen, Eavan
+O’Halloran, Maryanne Sharp, Javier Suarez
+
+FOR OFFICIAL USE ONLY
+TABLE OF CONTENTS
+
+EXECUTIVE SUMMARY .....................................................................
+I INTRODUCTION............................................................................
+I1 COUNTRY CONTEXT ....................................................................
+A . Recent political developments ..................................................
+B. Macroeconomic environment and outlook ........................................
+C . Debt and HIPC ........................................................................
+D. Social conditions .....................................................................
+E. Governance ............................................................................
+
+.
+
+.
+
+.
+
+Page
+1
+2
+2
+3
+4
+5
+
+6
+7
+
+........................................
+
+I11 COMOROS’ DEVELOPMENT STRATEGY
+9
+A . PRSP process .........................................................................
+9
+B. Donor alignment in supporting Comoros’ development strategy ............ 11
+
+.
+
+... 11
+
+I V IMPLEMENTATION AND EVALUATION OF PAST ENGAGEMENT
+A . Implementation under the 2004 Transitional Support Strategy Update ....
+B. Overall assessment and results., ..................................................
+C . Lessons learned from past and current Bank engagement., ....................
+
+.
+
+V WORLD BANK INTERIM STRATEGY .............................................
+A . Rationale for Bank engagement., .................................................
+B. Principles for engagement in fragile states ......................................
+C. K e y objectives, strategic and financial framework o f the Interim......
+Strategy ................................................................................
+D. Proposed program., .................................................................
+E. Good governance and anti-corruption measures ...............................
+F. Monitoring results., ..................................................................
+G. Aid coordination and harmonization ..............................................
+
+11
+12
+13
+
+14
+14
+14
+15
+16
+19
+19
+20
+
+.
+
+V I RISK MANAGEMENT. SCALING-UP and EXIT STRATEGY.............. 20
+A . Risks.................................................................................. 20
+B. Scaling up and exit strategy .......................................................
+22
+Annexes
+Annex 1:
+Annex 2:
+Annex 3:
+Annex 4:
+Annex 5:
+Annex 6 :
+
+Results Indicators
+Financial Execution o f Public Investment Plan per donor
+Summary o f Paris Principles for International Engagement in Fragile States
+2005 IDA Resource Allocation Index
+Country Financing Parameters
+Debt Sustainability Analysis
+
+CAS Annex A l :
+CAS Annex B2:
+
+Comoros at a Glance
+Selected Indicators o f Bank Portfolio Performance and Management
+
+CAS Annex B3:
+CAS Annex B4:
+CAS Annex B8:
+
+IDA Program Summary
+Summary o f Non-lending Services
+Operations Portfolio
+
+Figures
+
+Figure 1:
+Figure2:
+
+Comoros' governance indicators compared with SSA averages
+Evolution o f Comoros' Governance indicators 1998-2005
+
+Tables
+Table 1:
+Table 2:
+Table 3:
+
+Selected Economic and Financial Indicators 1990-2005
+2004 TSSU Short-Term Results Matrix (March 2004-March 2006)
+Planned Bank Group assistance during the I S N period
+
+This document has a restricted distribution and may be used by recipients only in the performance o f
+their official duties. I t s contents may not otherwise be disclosed without World Bank authorization.
+
+UNION OF COMOROS
+
+INTERIM STRATEGY NOTE
+
+EXECUTIVE SUMMARY
+Comoros i s a small, fragile state with a long history o f political and institutional instability.
+Since 200 1 when the three Comorian islands adopted a new constitution following a secessionist crisis
+during which one o f the islands attempted to break away, Comoros has been gradually stabilizing and
+improving. This process, however, has not been without frequent setbacks resulting mainly from the
+power struggle among the islands. Inter-island cooperation i s the fundamental condition without which
+Comoros cannot move towards sustainable socio-economic development, and despite recent progress,
+the situation remains highly vulnerable.
+1.
+
+ii.
+Following presidential elections in M a y 2006, Comoros has a new President who has pledged
+to rid the country o f corruption and economic and political mismanagement and to steer it into a path
+o f sustainable economic development and poverty reduction. The new authorities face a daunting
+challenge to consolidate stability and order after 30 years o f political turmoil brought by numerous
+coups and counter-coups, and poor inter-island cooperation.
+
+...
+
+Years o f economic mismanagement and political crisis have resulted in a steady decline in real
+GDP per capita at an average annual rate o f about one percent since mid-l990s, and the accumulation
+o f external debt and arrears to most multilateral and bilateral donors. The economy o f Comoros has
+limited resource endowments, a small domestic market (based o n a population o f only 575,000), weak
+institutional capacity and a narrow export base, which make it particularly vulnerable to external
+shocks. The country relies heavily o n remittances from the Comorian diaspora. At around 17 percent
+o f the GDP in 2005, the share o f remittances in national income i s among the highest in the world.
+111.
+
+iv.
+Social indicators are weak, although more favorable than in most o f sub-Saharan Africa, partly
+because Comoros has one o f the lowest rates o f HIV/AIDS in the region. GNI per capita stood at $650
+in 2005 and 37 percent o f households are living below the poverty line. The young and rapidly
+increasing population constitutes a major challenge. -Chronic youth unemployment has already
+become a major concern.
+V.
+Comoros faces major governance challenges. I t ranks well below the sub-Saharan Africa
+average in four out o f six World Bank Institute (WBI) aggregate governance indicators, with
+particularly poor performance on government effectiveness and corruption. In the past few years some
+progress has been made with the support o f international partners regarding the transparency o f public
+financial management. The new President has embarked on a good governance program but the
+challenges are enormous and the population i s growing impatient for results.
+
+vi.
+The government has very limited resources to address the challenges and needs, and i s looking
+to the international community to support the reform program. The Bank, recognizing the dire
+situation o f the new government and the vulnerability o f the country, has prepared this Interim
+Strategy for the next 18 months that builds o n the Bank’s previous Transitional Support Strategy
+Update (TSSU). The Bank will focus on selected interventions in areas o f the Bank expertise and
+comparative advantage. Given Comoros’ poor Country Program and Institutional Assessment (CPIA)
+score, available IDA resources are limited and the Bank will supplement the program by trust funds to
+the extent possible.
+
+This Interim Strategy i s based o n the principles for engagement in fragile states and draws on
+the Bank’s increasing experience in these countries. Bank assistance i s centered around two axes: (i)
+providing basic services to the most disadvantaged communities with a focus on community and local
+consolidating national reconciliation through building state capacity and
+capacity building; and (ii)
+increasing accountability.
+vii.
+
+viii.
+The first axis proposes to continue the Bank’s work in basic service delivery through $5
+million additional financing to the Services Support Project, a very successful community
+development program and the Bank’s flagship operation in Comoros. A Poverty and Service Delivery
+Study will complement the Bank’s work in this area by identifying bottlenecks to service delivery. The
+strategy also proposes a Cooperation and Investment Forum with the Comorian Diaspora to tap on the
+potential to establish a co-financing framework for community development.
+
+The strategy proposes a variety o f instruments to achieve the objectives o f the second axis in
+state capacity building and increased accountability. These include a $1.8 million Economic
+Governance Technical Assistance project, leadership training, economic and sector work (ESW),
+Fiduciary Risk Assessment and statistical capacity building work. A key activity will be to support the
+completion o f a full Poverty Reduction Strategy Paper (PRSP) through a PRSP trust fund and policy
+dialogue.
+ix.
+
+Given the magnitude o f governance issues, the Bank will pay special attention to fiduciary
+aspects in project preparation and implementation, and will supervise the portfolio closely.
+
+x.
+
+xi.
+This strategy carries significant risks that are largely internal. Rapid deterioration o f the
+political landscape and the poor governance environment are the key risks for the strategy period.
+Weak institutional capacity and government willingness to pursue necessary macroeconomic reforms
+also pose significant risks. The Bank’s strategy could also suffer from the insufficiency o f government
+resources that could lead to arrears to the Bank and close down project implementation. External risks
+include vulnerability to shocks and lack o f external financial support should donor pledges not be
+forthcoming. The Bank will mitigate these risks to the extent possible through i t s operations and close
+coordination with the development partners.
+xii.
+
+The following issues are suggested for Board discussion:
+0
+
+0
+
+Does the proposed strategic focus offer an adequate response to the development needs o f
+Comoros?
+D o Executive Directors support the proposed approach to managing risks in the high-risk
+country context?
+
+I.
+INTRODUCTION
+1.
+This Interim Strategy Note (ISN) presents the Bank's program of assistance to the Union
+of Comoros for the next 18 months (FYO7-08). The I S N follows a Transitional Support Strategy
+Update that was discussed by the Board o f Executive Directors o n M a r c h 11, 2004. The Transitional
+Strategy covered a period o f 24 months until M a r c h 2006 but the preparation o f this strategy was
+postponed until after the presidential elections in M a y 2006.
+2.
+Since the 2004 Transitional Strategy, Comoros has avoided the separatist crises that had
+burdened it in the past. However, the new political framework has yet to stand the test o f time.
+While recent developments have increased the potential for political stability, the situation i s s t i l l
+fragile and the risk o f Comoros sliding back into political turmoil remains significant. In these
+circumstances the Bank proposes to continue with an Interim Strategy. Depending o n the progress
+made during this strategy period, either an updated Interim Strategy or a full Country Assistance
+Strategy (CAS) will be prepared at the end o f FY08. Benchmark indicators for scaling up under a full
+C A S are presented in Section V I o f this document.
+3.
+The I S N was prepared in consultation with a variety of Comorian stakeholders. The
+strategy was discussed with the former government in early 2006 and with the new authorities in June
+2006. In October 2006 the final draft o f the I S N was distributed in advance and comprehensive
+discussions about the program were held with authorities representing both island-level and Union
+governments, and with civil society.
+11. COUNTRY CONTEXT
+4.
+Comoros i s a small island economy with 575,000 inhabitants spread unevenly among the
+three islands that make up the Union of Comoros. A fourth island o f the Comorian archipelago,
+Mayotte, chose to remain under French sovereignty when a referendum o n independence was held in
+1975. Comoros i s one o f the world's poorest countries with poor transportation links, few natural
+resources and a young and rapidly increasing population. It ranked 132ndout o f 177 countries on the
+UN Human Development Index (HDI) in 2004. GDP for 2005 stood at $387 million, and G M per
+capita at $650. Thirty-seven percent o f households live below the poverty line (2004). Social
+indicators are relatively weak and Comoros i s unlikely to achieve most o f the Millennium
+Development Goals (MDGs).
+
+5.
+The economy of Comoros i s characterized by limited resource endowments, a small
+domestic market, weak institutional capacity and a narrow export base, which make it
+particularly vulnerable to external shocks. The economy i s centered on the primary sector and
+retail services which account respectively for about 5 1 and 18 percent o f GDP. The third largest sector
+i s government services (about 10 percent o f GDP), followed by transport and communication (9
+percent), and financial services and construction and public works (about 5 percent each). The
+primary sector i s geared towards the production o f three high-value export crops - vanilla, cloves and
+ylang-ylang - which provide the bulk o f export earnings. Production o f food crops - mostly bananas,
+cocoa, and tubers - as well as fishing for local consumption remains underdeveloped.
+6.
+The history of Comoros has been plagued by political and institutional instability since
+independence on July 6,1975. The country has experienced 20 coups or attempted coups in 30 years.
+This continuous political turmoil has thwarted social and economic development and has severely
+
+-2-
+
+weakened government institutions. In 1997 the island o f Anjouan attempted to break away from the
+other two Comorian islands Grande Comore and Moheli. In February 200 1 a reconciliation agreement
+was signed in Fomboni, and in December o f that year a new constitution was adopted creating a Union
+o f Comoros with considerable autonomy accorded to each o f the three islands. The new constitution
+provided for each o f the three islands to have i t s own President and Parliament, and the U n i o n
+presidency was to be rotated among the three islands. This formula o f four presidents, four
+governments and four parliaments proved to be a cumbersome and costly structure particularly for a
+country this small. Moreover, the constitution did not address the core issue o f the division of powers
+between the U n i o n and the islands. What followed was a struggle for power and influence between the
+U n i o n and the island authorities over revenue sharing and budget execution.
+A.
+
+Recent political developments
+
+7.
+After 18 months of stalemate during which the country was virtually paralyzed as the
+dispute over the division of powers continued, the national reconciliation process gained new
+momentum. Notwithstanding the disagreements between the U n i o n and the islands, a transitional
+agreement, brokered by President M b e k i o f South Afkica, was signed in Beit Salem on December 20,
+2003. The Beit Salem agreement set out transitional measures for customs administration and budget
+execution, and stipulated parliamentary elections for the island and the Union parliaments. The island
+and U n i o n legislative elections were held in March and April 2004, and international observers
+considered them to have been broadly free and fair. The party o f the then U n i o n President, Colonel
+Assoumane Azali, Convention pour la renaissance des Cornores (CRC), was the clear loser in all the
+four elections. The elections were followed by the establishment o f the Constitutional Court. The
+newly established U n i o n parliament voted on the organic laws on the sharing o f powers, and a new
+institutional structure was created. The international community stepped up i t s support to Comoros to
+maintain the reconciliation momentum through financing key aspects o f the process, and while the
+clashes between the Union and the islands were not entirely behind, the country seemed to be on a
+more stable footing with a renewed sense o f hope.
+
+8.
+An important milestone in the national reconciliation was reached in April 2006 when
+Ahmed Abdallah Mohamed Sambi was elected the new Union President. H e w o n a landslide
+victory in democratic and peaceful elections with his message o f political change, anti-corruption and
+a promise o f higher living standards. The new President appointed a streamlined government with a
+reduced number o f ministers and counselors that has professed a commitment to reform. President
+Sambi has thus far focused on resolving teacher strikes and o n an anti-corruption program. These
+actions were well-received. However, public expectations for reform are extremely high, and it i s
+unclear how the government, which lacks both resources and capacity, will achieve i t s ambitious
+agenda o f social and economic reforms.
+9.
+Although the situation remains extremely fragile, there i s for now a window of
+opportunity for development efforts that could help underpin stability. The new authorities are
+faced with overwhelming challenges to reverse the fortunes o f the Comorian people and will need
+strong backing from the international community to consolidate the support for the reform agenda and
+to implement it.
+
+-3-
+
+B.
+
+Macroeconomic environment and outlook
+
+10.
+Economic development in the past t w o decades has been hindered by a combination of
+recurrent political crises, macro-economic imbalances, and external shocks. This has resulted in a
+progressive decline in real GDP per capita at an average annual rate o f about one percent since mid1990s. It has also undermined Comoros’ capacity to service i t s high external debt. Against this
+background, remittances from the Comorian diaspora’ have sustained domestic consumption and
+provided a buffer against adverse terms o f trade shocks. The share o f remittances from the Comorian
+diaspora i s one o f the largest in the world at around 18 percent o f GDP in 2005, and hence remittances
+have largely come to define the economy and society in Comoros. They are counter-cyclical negatively correlated with growth and export performance - and contribute to a large structural trade
+deficit. They are mainly used for consumption and create disincentives to work or produce in Comoros
+as families focus their wealth accumulation strategies o n facilitating migration o f family members
+with the expectation o f transfers in return’. Participation in the franc zone - where the Comorian franc
+(KMF) i s pegged to Euro - has also been critical in maintaining macro-economic stability.
+11.
+Economic performance in recent years has remained lackluster despite slight
+improvements in performance in 2005. Real GDP grew by 4.2 percent in 2005, mostly driven by
+domestic demand which continued to be fueled by large private transfers from abroad. Monetary
+policy remained circumscribed by Comoros’ participation in the franc zone, with inflation estimated at
+3.2 percent. Broad money continued to contract, mostly due to the shnking o f credit to the private
+sector as a consequence o f the lower levels o f vanilla crop financing and lack o f lending opportunities.
+The trade balance deteriorated further in 2005 as a result o f continued decline o f vanilla exports
+earnings and fuel import price increases. Despite steady flows o f private transfers from abroad the
+current account deficit widened sharply in 2005 to over 7 percent. The first semester o f 2006 was
+marked by an economic slowdown and a sharp deterioration o f public finance management in the runup to the Presidential elections. The budgetary arrangements for revenue sharing - transfers o f
+resources between competing authorities requiring a high level o f mutual trust - ceased to function as
+political tensions and mistrust between the island and U n i o n governments grew. This situation was
+compounded by inter-governmental accusations o f political interference and non-transparent
+management o f customs operations and public companies. The result was lower than targeted revenues
+- some 13 percent lower than for the same period in 2005 - and an accumulation o f wage, external debt
+service, and other domestic arrears. Continuing difficulties in the vanilla sector as well as a decline in
+tourism sector revenues are also likely to impact economic performance in 2006, with GDP growth
+projected at around one percent.
+12.
+Political uncertainty and poor governance affect economic outcomes. The poor economic
+growth record can be attributed in part to Comoros’ inherent disadvantages, such as the small scale o f
+the local market, high transportation costs and few air links, as well as various environmental factors,
+such as high population density and deforestation. However, the main immediate obstacle to growth i s
+the political economy situation. A core issue in this regard has been the weak inter-island coordination
+o f economic policy particularly in the context o f fiscal decentralization. The I-PRSP identifies
+tourism, agriculture, fishing, financial services and communication as sources o f growth. However,
+without progress in resolving long-intractable governance issues along with inter-island tensions that
+have eroded institutional capacity, i t i s unlikely that these sources o f growth will materialize in a
+
+-
+
+1
+
+The Comorian diaspora is estimated at some 150,000 t o 200,000 people equivalent t o about one quarter o f
+ropulation - living mostly in the island o f Mayotte and France.
+See Africa Region Working Paper Series No. 75: “Remittances to Comoros: Volume, trends, Impact and
+Implication ”.
+
+-4-
+
+substantive way. In the medium term, further economic reforms and debt relief will be critical to
+achieving higher economic growth. The debt and governance situation are discussed below.
+Table 1. Selected Economic and FinancialIndicators, 1990-2005
+(YOof GDP unless otherwise stated)
+
+C.
+
+Debt and HIPC
+
+13.
+Comoros has carried an unsustainable external debt burden for over two decades. At the
+end o f 2005, Comoros’ public external debt was estimated to be $265 million (70 percent o f GDP).
+Multilateral creditors accounted for 82 percent o f this, the two largest creditors being the W o r l d Bank
+and the African Development Bank (AfDB). Arrears to official creditors amounted to $93 million at
+the end o f 2005 (160 percent o f government revenues and 106 percent o f gross international reserves),
+o f which two-thirds was owed to multilateral creditors, mainly the AfDB and the Arab Bank for the
+Economic Development o f Africa (BADEA). In 2005, external debt service obligations amounted to
+$7.5 million (13.5 percent o f revenues), o f which Comoros serviced about half, including full
+payments to the W o r l d Bank and partial payments to the AfDB, the Islamic Development Bank, and
+OPEC. N o debt service was paid to BADEA, the European Investment Bank (EIB) and bilateral
+creditors. At the end o f 2005, the net present value (NFV) o f external debt was well above all policydependent thresholds, in particular in relation to exports o f goods and services, with debt more than
+four times above the threshold. Debt service due slightly exceeds the Debt Sustainability Analysis
+(DSA) threshold for exports but i s below the threshold for revenues.
+14.
+Comoros i s to be grandfathered under the Enhanced Highly Indebted Poor Countries
+(HIPC) initiative. According to International Monetary Fund (IMF) and W o r l d Bank Board meetings
+on September 6 and 7, 2006, Comoros i s one o f the countries to be grandfathered under the HIPC
+initiative based o n meeting the income and indebtedness criteria at the end o f 2004. This will allow
+Comoros more time than envisaged under the HIPC sunset clause to establish a satisfactory track
+record under the IMF Staff Monitored Program (SMP) that would pave the way to a Poverty
+Reduction and Growth Facility (PRGF) arrangement. However, before Comoros can enter into a
+PRGF arrangement with the IMF, i t will need to reach an understanding with i t s creditors o n clearing
+o f arrears. Significant progress has been achieved with most creditors except for the AfDB. Comoros
+currently does not qualify for the AfDB post-conflict facility and n o financing mechanism has yet
+been identified to clear the $30 million in arrears. Discussions between the Comorian authorities and
+the AfDB to solve the arrears issue are underway.
+
+-5-
+
+15.
+Comoros would remain in debt distress under unchanged policies, but could achieve
+sustainable debt indicators in an adjustment scenario with higher growth and arrears clearance, and
+debt relief from HIPC and Multilateral Debt Relief Initiative (MDRQ3The joint I M F - W o r l d Bank
+Debt Sustainability Analysis indicates that, with HIPC and MDRI debt relief in 2009, external debt
+indicators would improve substantially. Arrears clearance in 2007 would sharply reduce the NPV-toexports ratio, to 3 11 percent. At the completion point, the NPV o f external debt would fall further, to
+74 percent o f exports, well below the H I P C threshold and also below the policy-dependent lowincome D S A threshold. Interim assistance would help decrease the debt service-to-exports ratio to 14
+percent in 2008. In 2010, the debt service ratio would become 5 percent o f exports. The analysis also
+indicates that after the completion point, debt would be sustainable even under a variety o f shocks.
+
+D.
+
+Social conditions
+
+16.
+Comoros i s among the poorest countries in the world. The proportion o f households living
+below the poverty l i n e in 2004 was 37 percent4. The incidence o f poverty varies across islands and
+appears to be higher in rural areas, where 65 percent o f the population lives. Population growth i s
+estimated at around 2.1 percent, with the average number o f children per woman estimated at 5.1. L i f e
+expectancy was 63 years in 2005. With an average o f 390 inhabitants per sq km in 2001, Comoros i s
+more densely inhabited than most sub-Saharan countries. This problem particularly affects the island
+o f Anjouan where high population density i s imposing strains on farmland, water and firewood.
+17.
+Although the percentage o f women with a delivery assisted by qualified medical personnel
+increased from 52 percent in 1996 to 63 percent in 2000, maternal mortality continues to be high at an
+estimated 381 per 100,000 live births in 2003. Infant mortality stood at 52 per 1,000 live births, and
+under-five child mortality at 70 per 1,000 in 2004, with only 39 percent o f children under five
+receiving post natal care. Vaccination rates were 53.2 percent in 2004. The primary causes o f death in
+children under the age o f five are malaria, diarrhea, respiratory diseases and malnutrition.
+
+Adult literacy rates are l o w at 56 percent, especially among women (49 percent). The average
+18.
+net primary school enrollment ratio in 2004 was 69 percent and the average net secondary school
+enrollment ratio for the same year was 66 percent. In 2004, only 61 percent o f the population had
+access to sources o f drinking water. The average percentage o f population with access to latrine was
+37.5 percent (and 32.2 percent in rural areas) in 2004.
+19.
+H I V / A I D S prevalence in Comoros i s s t i l l low, estimated at around 0.12 percent in 2002. The
+country has presumably been protected by i t s insular status, its Muslim culture and nearly universal
+circumcision for males, weak communication links with sub-Saharan Africa and a relative paucity o f
+genital ulcerative diseases. The majority o f the population has some general knowledge about
+H I V / A I D S and 75 percent could cite methods o f protection against transmission in 2004. However,
+between 1996 and 2003, the percentage o f the population between the ages o f 15 to 24 years using a
+condom during their last r i s k y act o f sexual intercourse decreased from 35.7 percent to 19.5 percent.
+Moreover, stigma and discrimination remains an important challenge.
+
+A particularly important vulnerable group i s youth. Children and youth represent a major
+20.
+and growing share o f the population: in 1995, 57 percent o f the population was below 20 years old.
+This constitutes a major challenge for the country in terms o f education, health care, nutrition, jobs
+4
+
+See Joint I M F - W o r l d Bank Low Income Countries Debt Sustainability Analysis in Annex 6.
+Estimated at about KMF285,OOO or about US$700 per capita per year
+
+-6-
+
+and leisure provision. Dependency ratios remain high, as employment rates are low, especially among
+the youth. In 2004, the unemployment rate among youth between the ages o f 15 and 24 years was 29.4
+percent. Moreover, the percentage o f unemployed girls i s twice as high as that o f boys. Poorly
+educated, or unable to find a job, many young people remain idle, end up immigrating or become
+engaged in criminal activities as this was the case during the secessionist crisis o f 1997. Socioeconomic costs (direct and indirect) associated with delinquent and r i s k y behaviors (e.g., juvenile
+violence, early pregnancies, early school drop-out, drug and alcohol addictions, STI/HIV/AIDS), and
+social disintegration following immigration abroad, can be enormous and go beyond costs related to
+prevention and mitigation measures.
+
+Although the legal framework for protection of women’s rights exists, women continue
+21.
+to be in a more precarious position than men. In rural areas and following traditional divisions o f
+labor women spend more time working than men do: they are in charge o f some food crops, fetching
+water and wood, taking care o f children, house chores, etc. Women’s level o f education i s lower than
+that o f men’s. As a result, women s t i l l tend to be under-represented in local decision-making bodies as
+well as in elected positions. The lower level o f schooling and literacy o f women compared to men
+have predictable consequences o n the employment o f women. Furthermore, women are insufficiently
+involved in economic activities as evidenced by the l o w percentage o f women in non-agricultural paid
+employment (13.7 percent in 2004).
+
+E.
+
+Governance
+
+22.
+Comoros continues to face major governance challenges as years of political instability
+have significantly eroded the legitimacy and accountability of the state. Poor economic
+governance and weak institutional capacity across the entire public administration have been a key
+impediment to economic growth and poverty reduction. Non-transparent management o f public
+finances and procurement, weak financial controls, and a dysfunctional justice system have lent
+themselves to widespread corruption with impunity, contributing not only to poor quality o f services
+but also a high level o f public distrust in government institutions. This situation has been compounded
+by the conflict o f powers between the central government and the islands. A particular area o f concern
+i s the state-owned companies, notably the rice and h e 1 importing companies, the electricity company
+and the telecom company which are managed in total opacity. Some o f these companies do not
+produce financial statements on a regular and timely basis, and none o f them has been subject to an
+independent audit for years.
+
+23.
+Comoros’ public sector finds itself in disarray, characterized b y strikes, absenteeism,
+repeated cycles of salary arrears, and low skills base. The state i s largely absent at the local level,
+particularly with the conflict between the islands over civil service powers and resource bottlenecks
+resulting in a virtual failure in social service delivery. A case in point i s the health sector that receives
+a very l o w share o f government resources, and although i t s budget allocation has improved
+considerably in the last years, 80 percent o f the budget goes to paying salaries o f health personnel.
+Health services are largely supported by communities themselves with the patients paying out o f
+pocket for basic services and medicines, which in turns finances the payment o f contracted health
+workers and operational costs o f health posts and centers.
+24.
+According to the W o r l d Bank Institute’s governance indicators, Comoros ranks well
+below sub-Saharan Africa averages in four out of six indicators, with particularly poor
+performance in the areas o f government effectiveness and control o f corruption. Political stability and
+voice and accountability indicators appear slightly above regional average (Figure 1). The evolution o f
+these indicators between 1998 and 2005 has not been very encouraging; government effectiveness and
+
+-7-
+
+control o f corruption indicators appear to have further deteriorated, likely as a result o f the standstill
+due to the conflict o f competences between the Union and islands (Figure 2). The CPIA for 2005
+gives an equally negative picture o f governance and corruption in Comoros: Comoros scores in the
+bottom quartile on the main corruption question as well as broader governance issues.
+25.
+Against this backdrop some progress has been achieved in the past couple o f years with
+respect to the transparency o f public finance management. A key outcome was the agreement o n
+revenue sharing and the adoption o f a budgetary mechanism which allowed the implementation o f a
+consolidated budget. The mechanism relies on the principle that all shared revenues are remitted to a
+special account at the Central Bank. After putting aside fixed shares for external debt and civil service
+pension payments, receipts are redistributed between each entity according to preset ratios. While this
+mechanism has been critical in improving inter-island cooperation and worked fairly smoothly in
+2005, it remains rather fragile. I t s major shortcomings are that: (i)
+a bulk o f the revenues i s designated
+for distribution (i.e. only a marginal portion o f revenues i s designated for retention by the
+islandsAJnion); and (ii)
+in practice, only two islands collect revenues designated from distribution. The
+result i s that not only the incentives for each party to maximize revenues for distribution are weak, but
+there i s also a strong incentive to hide revenues and circumvent the mechanism. This weakness was
+patent in the run-up to the presidential elections in M a y 2006, when mistrust and mutual allegations o f
+undeclared revenues resulted in a collapse o f the mechanism. Strengthening the transparency o f this
+mechanism and improving i t s resilience to political interference will be critical for the consolidation o f
+the reconciliation process.
+26.
+Rebuilding institutions and improving economic governance will be central to any
+sustainable growth and poverty reduction in Comoros. This, together with strengthening political
+governance and promoting national dialogue and cooperation, are the key challenges ahead for the
+Union and island governments. The new authorities have taken preliminary steps to restore inter-island
+confidence and strengthen the transparency and accountability o f public finance management, notably
+by eliminating multiple accounts at the Central Bank, giving access to Central Bank information to all
+parties, and allowing mutual monitoring o f revenue reporting operations. Moreover, in line with their
+commitment to fight corruption, the new authorities have established commissions to inquire into the
+management o f customs and tax revenue administrations as well as state companies.
+
+Figure 1: Comoros' governance indicators (top) compared with sub-Saharan Africa averages
+
+tovernnent Effectiveness
+
+Regulatory Q u a l i t y
+
+Rule o f Lam
+
+Control o f Corruption
+
+I
+
+0
+
+25
+
+!In
+
+Countrv's P e r c e n t i l e Rank (8-100)
+
+-8-
+
+75
+
+1""
+
+Figure 2: Evolution of Comoros' Governance indicators between 1998 (bottom) and 2005 (top)
+
+l o i c s and R c c o u n t s b i l i t y
+
+' o l i t i c a l S t a b i l i t y / N o Violence
+
+1
+
+No d a t a
+
+Governnent Effectivencao
+
+Rsgulatory W a l i t y
+
+R u l e o f LaY
+
+C o n t r o l o f Corruption
+
+Countrq's P e r c e n t i l e Rank (0-IBB)
+
+A.
+
+I
+
+PRSP Process
+
+27.
+The Interim Poverty Reduction Strategy Paper (I-PRSP) was completed in October 2005 and
+presented to the Board o f Directors o f the W o r l d Bank on M a y 16, 20065, together with the Joint Staff
+Advisory Note (JSAN6). The I-PRSP i s the first comprehensive economic and social strategy
+document prepared through a wide participatory process. The PRSP consultation process was
+able to remain on track despite political tensions and contributed to bringing the U n i o n and the three
+island authorities and stakeholders together to discuss common issues. The new authorities have
+endorsed the I-PRSP, recognizing that it provides a valid long-term vision o f sustainable economic
+growth and poverty reduction, which combines private-sector driven economic growth, improved
+governance and better provision o f public services. The I-PRSP i s also considered critical for the
+consolidation o f the national reconciliation process.
+28.
+The I-PRSP centers o n three main objectives: (i)
+sustained economic growth; (ii)
+improved
+human capital development; and (iii)improved governance and political stability. T o achieve these
+objectives the I-PRSP sets seven core strategic axes, comprising 35 programs over the 2006-2009
+period:
+
+1. Establishing supportive conditions for sustainable economic development by
+strengthening public finances and developing the country's infrastructure;
+2. Promoting private sector growth, with a particular emphasis on tourism, agriculture
+and fishing.
+3. Strengthening the justice system and promoting good governance;
+5
+
+The lag between the time the I-PRSP was completed and the Board discussion was due to a decision by the Bank and the LMF to wait for
+the outcomes of the end-Decemberperformance under the SMP.
+Report No. 35491-KM
+
+-9-
+
+4. Improving health conditions, with a particular focus o n combating priority diseases,
+improving maternal health, and improving health system management;
+5 . Promoting education and vocational training;
+6. Promoting a healthy and sustainable environment; and
+7. Strengthening security and combating crime.
+
+29.
+The JSAN commended the I-PRSP in its ambition and commitment for development and
+noted that the strategy and its related action plan contained most of the material required for a
+full PRSP. The I-PRSP’s macroeconomic framework i s considered broadly in line with the
+government’s objectives although the JSAN recommends that the full PRSP develop the medium-term
+macroeconomic framework more fully, including developing alternative scenarios for GDP growth
+
+and availability o f financing. The I-PRSP stressed the need to foster private sector development and
+good governance through, inter alia, improving the business environment, developing infrastructure
+and strengthening the role o f civil society and the private sector as development partners. W h i l e the
+strategy identifies key growth sectors - agriculture, fisheries and tourism - the JSAN recognizes that
+more work i s needed to formulate sectoral policies in these areas. In particular, the I-PRSP’s emphasis
+on human development i s commendable with an appropriate and ambitious strategic direction set out.
+Nevertheless, the J S A N highlighted certain concerns about the lack o f basic human development
+indicators, poor data collection, weak capacity, and limited resources available for the health and
+education sectors. As regards implementation o f the ambitious strategy for human development, more
+comprehensive and detailed expenditure tracking procedures will be needed as part o f the overall
+program for strengthening budgetary management.
+
+30.
+Moving forward, the JSAN encouraged the government to translate the I-PRSP into
+specific and realistic near-term priority actions that are consistent with available financial
+resources and implementation capacities. The average annual cost o f the strategy i s $100 million,
+over 20 percent o f GDP, which the government hopes to finance mainly through international aid. In
+December 2005, the international community, led by Mauritius and South Africa, held a Donors
+conference for Comoros in Mauritius to mobilize resources for the I-PRSP related implementation
+Action Plan for 2006-2009. Donors pledged to boost their assistance to about $200 million for 20062009, a threefold increase from 2004-2005, but only about h a l f o f what the authorities estimate i s
+needed for the implementation o f the I-PRSP. T o date, most o f the donor pledges have not yet
+materialized. It i s highly unlikely that in the ‘current circumstances o f n o new significant Official
+Development Assistance (ODA) and absence o f debt relief, the government would have the necessary
+resources to fully implement the PRS Action Plan.
+31.
+In line with the I-PRSP the new authorities have centered their reform policies on
+strengthening public sector governance and transparency to help improve the investment climate and
+enable the private sector to pick-up. The program envisages a significant increase in public investment
+and social spending - by about 6 percent o f GDP between 2006 and 2009 - based o n a gradual rise in
+domestic revenue, a modest reduction in the wage bill, and higher external assistance as per pledges
+announced during the 2005 donor conference in Mauritius. The economic policy priority for the new
+government will be to strengthen fiscal revenues by rebuilding confidence between the island and
+Union authorities and tightening revenue administration. A first step was taken in late June 2006 when
+the ministers o f finance o f the Union and the islands reached an agreement to improve the
+transparency o f the revenue-sharing mechanism, ensuring all revenues would be channeled through a
+single account. Another major priority for the new government, and the President in particular, i s a
+social housing program that i s not included in the I-PRSP. In light o f scarce financial resources, i t i s
+important, however, that the government prioritizes i t s spending, allocating adequate resources on
+poverty reduction measures other than public works.
+
+- 10-
+
+32.
+In summary, the strategic areas o f the I-PRSP in need o f greater elaboration or improvement
+have been detailed in the JSAN. One o f the Bank’s key priorities will be to work with the government
+to formulate a full PRSP, particularly as regards setting realistic goals and priority areas for
+development, and supporting the creation o f a comprehensive monitoring and evaluation system to
+monitor the impact o f the strategy. These issues will serve as the focus for the Bank’s overall policy
+dialogue for the I S N period.
+B.
+
+Donor alignment in supporting Comoros’ development strategv
+
+33.
+The role o f development partners in supporting the PRSP process i s critical. Given the limited
+number o f donors in Comoros, there i s a vital need for a harmonized and coordinated approach to
+donor support to the government program. In particular, close collaboration o n project and program
+activities i s critical to ensure maximum developmental impact and to leverage additional sources o f
+financing.
+
+34.
+The Bank’s principal project to date, the Service Support Project (SSP) has worked closely
+with partners in a variety o f ways and sectors. In an effort to move toward an integrated communal or
+local development mechanism, the SSP i s coordinating closely with the European U n i o n (EU) o n i t s
+Decentralized Cooperation Program, which will support the decentralization dialogue, strengthening
+o f democracy and good governance, and support to local development initiatives. In addition, a key
+component o f the EU program will support local authorities in solid waste management. With respect
+to the EU’s program o n education, discussions are underway to coordinate the construction and/or
+rehabilitation o f school-related infrastructure, including latrines. In addition, the project will provide
+capacity building for those school management committees that the EU project i s supporting. The
+Agence FranGaise de Dkveloppement (AFD) i s currently preparing a health sector support project
+focused on, among others, institutional capacity building, support to the national hospital, and
+strengthening o f access and quality o f services in Anjouan, Discussions have been held with the AFD
+team o n the creation and support to equipment maintenance in the major hospitals o f the country,
+which i s partially being financed under the SSP. Moreover, the AFD and the project have worked
+hand in hand in providing capacity building to communities who are benefiting from small water
+projects financed by the AFD.
+35.
+Although the development partners have coordinated closely o n program activities in recent
+years, partners do not yet have a shared vision and strategy for supporting Comoros beyond the
+national reconciliation process. With the election o f the new President and a new government in place,
+a major priority i s donor alignment in supporting the I-PRSP and the development o f a common vision
+and strategic approach to programmatic interventions. This will be a key objective and expected
+outcome o f the support to the PRS process.
+IV. IMPLEMENTATIONAND EVALUATION OF PAST ENGAGEMENT
+A.
+
+Implementation under the 2004 Transitional Support Stratew Update
+
+36.
+The Transitional Support Strategy Update, based on the fragile states principles, was
+presented to the Board on March 11, 2004. The strategy had two main objectives: (i)
+maintaining
+basic social services; and (ii)
+supporting the reconciliation process and facilitating transition t o a
+viable institutional structure. T o reach these objectives the Bank was to (i)
+re-orient the existing
+portfolio towards projects that have used communities for service delivery; (ii)implement a new
+
+- 11 -
+
+Services Support Project that would help maintain the delivery o f basic services to the poorest
+segments o f the society; and (iii)
+if the reconciliation process proves sustainable, co-finance a MultiDonor Trust Fund (MDTF) in a joint effort by all relevant donors to ensure the basic functioning o f
+key public institutions.
+
+37.
+The Services Support Project of $13.3 million was the Bank’s only lending operation
+during the strategy period. The SSP built o n a successful Social Fund project with improved
+targeting to reach the poorest communities and introduction o f a participatory community planning
+and development process. The project also sought to address some urgent health and water sector
+needs and co-financed the 2004 national household survey. Following the signing o f the Beit Salem
+agreement on transitional measures in December 2003, the Bank collaborated with other development
+partners to reinforce the sustainability o f the reconciliation process through co-financing a MDTF. T o
+this end, the Bank mobilized L o w Income Countries Under Stress (LICUS) and Institutional
+Development Fund (IDF) grants in the amount o f $1.1 million, focusing o n (i)
+capacity building on
+budgetary and fiscal policies formulation and implementation; and (ii)rehabilitation o f customs
+administration. The MDTF was closed in September 2005 after 1.5 years o f implementation.
+38.
+The Transitional Strategy foresaw two pieces o f analytical work: (i)a Rural Sector Review;
+and (ii)
+a Poverty and Service Delivery Assessment. Given the importance o f the reconciliation agenda
+and i t s slower than expected implementation, the Bank decided to forego the Rural Sector Review,
+postpone the Poverty and Service Delivery Assessment and concentrate o n small diagnostics that
+could immediately feed into the reconciliation process and be translated into concrete measures by the
+authorities. These diagnostics included (i)
+a study on customs administration with an action plan for
+rehabilitation; (ii)
+the preparation o f new budgetary and accounting nomenclatures, which have been
+validated and implemented in the 2006 budget; (iii)an assessment o f the expenditure control
+mechanism; (iv) an assessment o f public procurement regulations and practices; (v) a study on the
+civil service administration and the wage bill; and (vi) an audit o f the transitional budgetary
+mechanism.
+B.
+
+Overall assessment and results
+
+39.
+The Bank’s interventions during the strategy period have proven relevant and largely
+successful. Given the mixed track record o f previous investment projects in health, education and rural
+development, the Bank’s decision to concentrate i t s investments in supporting service delivery at the
+community level was pertinent for the strategy period. The Services Support Project has been
+successful in delivering results o n the ground, and implementation has been largely satisfactory
+despite the unstable and fragile operating environment. Supervision has been intensive with emphasis
+placed on fiduciary safeguards. The various trust funds that the Bank mobilized were instrumental in
+helping the authorities find a workable budgetary arrangement, paving the way for the agreement on a
+consolidated budget and the resumption o f a Staff Monitored Program with the IMF in February 2005.
+The MDTF was critical for the transition process by providing financing and technical assistance in
+key areas. However, although the MDTF was successful in terms o f outcomes, the Bank’s experience
+under the MDTF was not optimal. This was due to procedural problems that emerged from the Bank
+not being able to contribute directly to the MDTF as per Bank policy. This issue i s under discussion
+with development partners to learn from the experience and to avoid similar potential problems in
+future. Lastly, one o f the main achievements o f the current strategy period was the completion o f an IPRSP, the development o f which was supported by the Bank through a PRSP Trust Fund.
+
+- 12-
+
+s \fatris (3Iarch 200C3larcli 2000)
+
+Pillar I: Maintair)
+
+432 t s taryet or 2 I O "
+
+C.
+The Hank has
+
+19 projects sirice Coax
+
+oined the Brettun
+
+n ~ I ~ ~ coups
+e r ~and
+~ schanges in the a ~ ~ ~ i i n i structure
+~ ~ ~ ~ o~ f i the
+a ~country.
+e
+The islands have been
+rtlluctant to accept Union oxrsight tn thetr d e ~ ~ ~ efforts
+~ p ~atid
+~ ~e hn e~ ~ projects
+~ ~ ~ that
+r e have
+~structure
+~t i co n~a ~have struggled. Moreover, the
+depended on ccntral, or even d e ~ ~ ~ i ~i ~~~ns ~t ~~ t u
+~ u r n ~ ~~ r~ ~i s ~~ ~r ~~ s~~~~ et ~t ocnhas
+~
+a l taxed
+~ ~ rthee prczjecls as they h a a ~
+devutud a ~ o ~ s i ~ c r aamount
+ble
+of time and ef-fwt to engage uith ~ i n ~ s on
+~ ~all~ three
+e s islands that often have differing priorities.
+Overall poor go\ emance ~ n c ~ L ~~d ri no~ c ~ r issues
+~ m ~and
+~ fieyue'nz
+i ~
+changes in project ~ a n a g e r n ~ ~ i t
+has also had a ncga.txw impact on project ~ r n ~ ? ~ e ~ ~ ~Bank
+~ n t aprojects
+t ~ o n . haw bccn nearly c ~ ~ ~ s ~ ~ t e n t l } ~
+rated ~ I n s ~ ~ t a i ndtie
+a b tcz
+l ~ lack of budget resource's to ~ a ithe. ~project
+~ outcomes.
+~ ~ ~ ~ i
+
+31,
+% M e the Bank has rated its own perforntance as ~ a t ~ s f a c on
+t ~ ~most
+~ y accounts, it i s
+arguabIe that some o f the ~ I ~ ~ p l ~rob^^^^^
+~ ~ ~ could
+~ a thave
+i ~been
+n c i r c M ~ ~ e n if
+t ~the
+d project
+design had considered the country context and ~ M ~ ~ a ~ n a issues.
+b i l j t ~I t sccnis tIiaZ the Bank \vas
+overly a i i ~ and
+b 0%
+~ c~ ~~ ~ ~~national
+~s
+~capacity.
+~ In
+~ recent
+a years,
+~
+the
+~ ~ ~i t ~ a ~has
+i o n~ m p r o v c d8s
+
+- 13-
+
+the Bank program became firmly rooted in prevailing conditions with reasonable expectations on
+outcomes, tightened fiduciary control and focus o n working with communities.
+
+42.
+
+The key lessons learned from the Bank’s recent engagement in Comoros are that (i)
+projects
+implemented through communities are more successful than those implemented through the
+government; (ii)
+expected outcomes o f Bank operations need to be set at a realistic level; (iii)
+the Bank
+must focus i t s assistance o n a few selected areas to avoid over-taxing weak government capacity; (iv)
+donor coordination and joint efforts are essential; (v) the PRSP process has proved to be a good
+mechanism to bring parties together to discuss common issues; and (vi) operating in a L I C U S
+environment requires frequent and intensive supervision, which i s difficult to achieve without incountry or regional presence. -Currently the Bank has n o staff based in Comoros.
+
+V. WORLD BANK INTERIM STRATEGY
+A.
+
+Rationale for Bank engagement
+
+43.
+
+The Bank i s one o f the main development partners in Comoros having an important role as a
+provider o f financial support and a knowledge institution offering the authorities advice and technical
+assistance (TA) on areas o f Bank’s expertise. In terms o f financial contribution, the Bank’s assistance
+i s relatively small compared to some other major development partners such as France or the European
+Union. Nevertheless, the development impact from the Bank’s recent assistance relative to the
+resources spent has been significant. Through the Services Support Project the Bank has had a direct
+impact o n improving the living conditions o f the population which motivates the Bank’s work in
+Comoros. Moreover, given the Bank’s extensive country knowledge and a long history o f t r u s t and
+partnership with Comoros, the Bank has been granted a leadership role in strategic thinking among the
+development partners who look to the Bank for direction. Hence, if the Bank were to disengage from
+Comoros, i t would undoubtedly leave a void and have an impact on the development community as a
+whole. Finally, as the experience from fragile states has shown, engagement in the long-run, including
+during difficult times, i s critical for development and the effectiveness o f Bank assistance.
+B.
+
+Principles for engagement in fragile states
+
+44.
+This strategy draws on the Bank’s increasing experience and knowledge o n fragile states as
+well as the Paris Principles for international engagement in fragile states. Given the distinctive nature
+o f the Comorian conflict, the Bank’s program will be firmly rooted in country-specific circumstances
+and analysis. In the Bank’s Fragile State typology Comoros falls closest, although not entirely, to the
+classification o f a “gradual improver”, characterized by the presence o f some government reform
+leadership but facing entrenched systems where change i s often difficult, slow and liable to periodic
+setbacks. The Bank’s program i s centered around a set o f guiding principles for engagement in fragile
+countries and gradual reformers in particular, including:
+Balance of visible and invisible results. The I S N will balance governance and institutional
+strengthening, which at times can be invisible to the population, with visible outputs which will
+strengthen support for the reform process. This i s particularly important for Comoros where the new
+government has an ambitious r e f o m program but limited resources to implement it while the
+population i s anticipating quick results.
+
+- 14-
+
+State capacity building needs to move in tandem with efforts to build accountability. If Comoros i s
+t o move towards a path o f durable stability, i t must establish strong and accountable state institutions
+that are resilient to political and economic shocks. This will require a long-term focus o n capacity
+building supported by the development partners. T o increase accountability, the new government has
+pledged to increase transparency and to establish external oversight for major revenue and expenditure
+actions.
+Bank responsiveness needs to go beyond “mission model”. The traditional Bank mission model i s
+not optimal in a fragile state environment where close supervision and hands-on assistance i s needed.
+The Bank’s program in Comoros would greatly benefit from strengthened regional presence which i s
+hoped to be established during this strategy period.
+C.
+
+Key obiectives, strategic and financial framework of the Interim Strategy
+
+45.
+The ISN i s based on the government’s I-PRSP and strategy consultations with the
+Comorian stakeholders, including the Union and island governments and c i v i l society. I t does not
+suggest a change in the course from the 2004 Transitional Strategy and proposes to continue with
+roughly the same objectives for the next 18 months (FY07-08):
+
+(i)providing basic services to the most disadvantaged communities with a focus on
+community and local capacity building; and
+
+(ii)consolidating the national reconciliation through building state capacity and increasing
+accountability.
+46.
+While the I S N builds on the successes o f the 2004 strategy period, it will need to reflect
+the evolving country context. Comoros has made significant progress towards a more stable political
+and institutional environment. The Bank will focus on consolidating the national reconciliation
+through selected interventions in areas where the Bank has a comparative advantage. At the same time,
+the Bank will try to be flexible to take into account changing circumstances. In the immediate future,
+the Bank’s interventions will be designed to contribute to the country’s efforts to become eligible for
+HIPC debt relief and to formulate a full PRSP, both key priorities for Comoros. Considering the
+continuing fragility o f the country context, the strategy will continue to include activities that have
+been successful even in a confrontational political environment.
+47.
+The I S N has to make the most o f limited resources. Comoros’ IDA allocation has declined
+due to poor CPIA ratings (2.4 in 2005). The total IDA14 envelope i s around $6.8 million. Since this
+strategy covers the period until the end o f FY08 (ie. until the end o f IDA14 period), the available IDA
+resources are known. T o ensure sufficient financing for the two new lending operations encompassed
+by this strategy, the I D A 1 4 allocation will be 100 percent front-loaded to FY07. Against the
+background o f limited IDA financing, the strategy will need to (i)
+supplement IDA resources by
+mobilizing trust funds e.g. f r o m the L I C U S facility; and (ii)
+collaborate closely with development
+partners to leverage resources. Considering the limited absorptive capacity o f the government, any
+additional financing will primarily be used to either supplement existing Bank operations or to cofinance activities with development partners.
+
+-15-
+
+D.
+
+ProDosed Drom-am
+
+Objective I:Providing basic services to the most disadvantaged communities with a focus on
+community and local capacity building
+48.
+Given the virtual lack o f social service provision, the Bank will continue to support the
+government in this key area. The participatory community development approach introduced under the
+previous strategy period i s quickly taking root and a recent (September 2006) Mid-Term Review o f
+the Services Support Project made a series o f recommendations for expanding the scope o f the
+community development activities, which are being integrated into the implementation o f the SSP.
+The strategy proposes a $5 million additional financing to the Services Support Project (FY07) to
+allow for a scaling up o f the project’s activities, including (i)extending the community development
+process to a greater number o f communities and integrating the communal levels into the process,
+resulting in an increase in the number o f community and local development plans; (ii)
+improving the
+quality o f the community development process and related activities; and (iii)
+placing more emphasis
+o n environmental protection and conservation activities. Communal authorities’ participation in the
+local development process i s expected to contribute to strengthening transparency, accountability and
+pro-poor development in the country.
+49.
+As stated in the I-PRSP, the Comorian environment i s considered a crucial and highly
+sensitive domain in which priority attention needs to be paid to actions designed to protect, conserve,
+and manage the natural heritage. The combined impact o f natural erosion and man-made behavior i s
+deteriorating habitats and species. The government and i t s partners in the sector are currently
+preparing a proposal for financing o f community-based management of environmental assets that
+will be submitted t o the Global Environmental Facility (GEF). Day-to-day management o f these
+activities will be undertaken by the SSP implementing agency, under the auspices o f the Ministry o f
+Environment. Finally, trust funds are expected to be mobilized to support joint social sector activities
+with other development partners: for example, Bank-United Nations Children’s Fund (UNICEF)
+activities o n early childhood development (nutritional security, mother and child health, child
+survival and development) and youth empowerment.
+
+50.
+T o inform the authorities about the causes o f poor education and health outcomes in Comoros
+and bottlenecks to the provision o f basic services, the Bank will prepare a Poverty and Service
+Delivery Study (FYOS). The study will examine the institutional structure for service delivery,
+including roles and responsibilities at the national and island levels, and the budgeting and planning
+processes for the two sectors. An analysis o f access and utilization o f education and health services
+will also be undertaken. On the basis o f the results, the study will outline a series o f policy
+recommendations to improve service delivery in these two areas in the short-and medium-term. The
+study will use data from the 2004 national Household Survey, which will be complemented by the
+2003 Census, the 2001 Multiple Indicator Survey, and public expenditure data.
+
+51.
+Given the virtual non existence o f the public sector, the role o f service delivery i s often
+undertaken by the communities themselves, sponsored by the diaspora, although diaspora-financed
+projects suffer frequently from inadequate planning, poor targeting and lack o f implementation
+expertise. The new generation o f the Comorian diaspora i s eager to improve the targeting and impact
+o f the diaspora financed activities. The authorities have also expressed their interest in establishing a
+co-financing framework for community development projects throughout the country that would lay
+the foundation for the development o f a sector-wide approach to community development. The Bank,
+in collaboration with development partners, will support this initiative through a targeted Cooperation
+and Investment Forum with the Comorian Diaspora (FYOS) which in addition to creating a
+
+- 16-
+
+permanent financing mechanism, will seek to ensure the financing o f a set number o f small
+community and local projects in the three islands, identified in SSP-financed community development
+plans. The Forum would be partially financed under the additional financing to the SSP.
+
+Objective 11: Consolidating the national reconciliation through building state capacity and
+increasing accountability
+52.
+Increased state capacity and accountability are essential for Comoros particularly with regards
+to budget and public expenditure management which has for long been the stumbling stone o f the
+U n i o n and island authorities. The new government relies heavily on the international community to
+provide advice and support in this area. The Bank has been actively involved in economic governance
+and institutional development during the 2004 Transitional Strategy and will continue to engage in the
+area through an Economic Governance Technical Assistance Project (FY07) in the amount o f $1.8
+million. In line with recent experience in fragile states, the project will focus on the most basic
+administrative systems and priority actions needed to continue improvement in state performance and
+prevent failure o f key functions. I t s overarching objective will be to support the strengthening o f
+government core personnel and financial management systems and improving the transparency and
+accountability o f government operations. The critical areas o f intervention will be: (i)
+budget and
+public expenditure management; (ii)
+government procurement; and (iii)
+civil service management. The
+preparation o f the project will be done in close collaboration with other donors and partners active in
+the area o f economic governance in Comoros, including the European Union, France, the IMF and the
+UNDP. It will build on recent and ongoing interventions as well as o n the set o f diagnostics conducted
+in the recent months. T h i s operation i s intended as an additional step to support government’s efforts to
+improve economic governance.
+53.
+As the experience with the I-PRSP demonstrated, the PRSP process i s valuable in providing a
+consensual platform for communication and national cooperation. Completing a full PRSP i s a core
+priority for the government and Comorians at large, and the Bank will continue to support the process
+through a PRSP Trust Fund that will include activities on: (i)
+strengthening poverty analysis and
+monitoring capabilities through the development o f the knowledge base on poverty and demography
+in Comoros and the establishment and implementation o f monitoring and evaluation systems for the
+PRSP; (ii)
+supporting the move towards a full PRSP by contributing to sharpening the analysis in
+selected areas to allow better prioritization o f policy actions and finalizing and disseminating the full
+PRSP; and (iii)
+strengthening the participatory process through training and capacity building
+activities for the c i v i l society.
+54.
+The JSAN o f the I-PRSP highlighted the need to strengthen statistical capacity which i s seen
+as critical for effective implementation o f the PRS. The I S N proposes a Statistical Capacity Building
+Grant (FY07) to address this issue. The grant will finance a diagnostic o f the statistical system and
+the finalization and validation o f the National Strategy for Development o f Statistics which the
+government i s currently preparing.
+55.
+The new government has requested the Bank’s assistance in leadership training to enhance
+communication in the complex institutional setting and to benefit from international leadership
+expertise. The W o r l d Bank Institute will be organizing a Leadership Seminar as part o f an ongoing
+L I C U S grant in early CY07. If the event proves successful, the Bank will continue, through WBI, t o
+engage in a leadership program for the authorities which will be critical for building government’s
+capacity and enhancing the inter-island cooperation.
+
+- 17-
+
+56.
+
+T o support the Bank's work in the area o f public expenditure and financial accountability, the
+strategy proposes a Public Expenditure Management and Financial Accountability Review
+(PEMFAR) (FYOS) that will assess accountability procedures in Comoros and identify areas for
+improvement, with particular focus on the budget cycle (preparation, execution, control, accounting,
+and auditing), parliamentary oversight o f budget and public accounts, and financial management,
+accountability and reporting o f state-owned enterprises.
+
+57.
+At the government's request, Comoros will benefit from the Integrated Framework (IF) for
+trade related technical assistance t o least developed countries. As provided for under the IF, the Bank
+will take the lead in conducting a Diagnostic Trade Integration Study @TIS) (FYOS). The D T I S
+will assess the overall competitiveness o f the economy, identify sectors for greatest export potential
+and outline constraints to trade development. The DTIS will propose policy recommendations and
+assess trade related technical assistance and capacity building needs t o advance the integration o f
+Comoros into the global trading system.
+58.
+The I-PRSP stresses the importance o f private sector development to achieve equitable
+economic growth and employment creation. A key priority will be reforming public enterprises,
+notably the telecommunications and o i l importing companies. The authorities have started discussions
+with the W o r l d BanWIFC t o launch preparation o f reform strategy in these two sectors that are deemed
+critical to strengthening public finances and fostering economic growth. This strategy period aims at
+pursuing the dialogue and strengthening political ownership and momentum for these
+challenging reforms. IFC Advisory Services will support the government's reform agenda, subject to
+the government's firm commitment and readiness to engage in these reforms.
+
+This I S N will focus on preparing the activity while the actual implementation may begin under the next
+strategy in FY09.
+
+- 18-
+
+E.
+
+Good governance and anti-corruption measures
+
+59.
+Governance and anti-corruption issues are a primary concern for the strategy. T o
+improve the government’s institutional safeguards against corruption, the Bank’s program for
+Comoros will include a number o f capacity-enhancing activities as presented above. Moreover, a
+Fiduciary Risk Assessment will be carried out in FY07. Simultaneously, the Bank will continue to
+work through communities with an independent project implementation unit to ensure that the Bank’s
+main operation i s implemented according to Bank regulations. The underlying goal o f the Bank’s
+approach i s to build the government’s capacity to prepare the authorities to eventually take o n the full
+responsibility for project implementation. Moreover, following the 2004 W o r l d Development Report
+(WDR) and the fragile states principles o f engagement, capacity-building approaches in community
+development projects can provide opportunities to foster better governance environments through
+increasing “client voice”; emphasizing building bottom-up demand for end-user accountability and
+service provision which i s inclusive, participatory, and effective; and fostering conditions for deeper
+and more favorable long-term change in the governance environment.
+60.
+Building anti-corruption safeguards into the ongoing portfolio. N e w lending in the
+Bank’s portfolio will continue to apply and expand institutional safeguards against corruption,
+including:
+At time o f project design
+Governance review o f project anti-corruption environment, involving financial management
+and procurement staff.
+0
+
+Fiduciary risk analysis as a standard part o f project design management procedures.
+
+During supervision
+0
+
+Increased disclosure o f project information.
+
+0
+
+Introduction o f risk-based auditing.
+Regular (annual) project performance review.
+
+0
+
+Increased transparency in monitoring project outcomes and audit results, including training
+for civil society actors in monitoring techniques.
+
+Full transparency o f procurement via publication o f all procurement plans and transactions.
+Enforcement o f fiduciary standards, by following up systematically o n cases o f noncompliance, integrity issues and audit findings.
+Independently monitored complaints mechanism.
+
+F.
+
+Monitoring results
+
+61.
+The I S N proposes a set o f indicators to measure the outcome o f Bank support. The indicators,
+presented in Annex 1, aim at not being overly ambitious but grounded in the realities o f the current
+country situation and fitted for the relatively short implementation period. The main outcomes focus
+o n expanding the coverage o f the Bank’s community development activities and the number o f
+participants involved in the process. In addition, completing a full PRSP and preventing the failure o f
+key state functions while achieving very concrete steps toward improved performance are key areas
+
+- 19-
+
+against which the outcome o f Bank’s support will be measured. The Bank will assess progress against
+these indicators on an ongoing basis.
+
+G.
+
+Aid coordination and harmonization
+
+62.
+Comoros needs strong, long-term support from i t s development partners to consolidate the
+reconciliation and to finance key reforms. The number o f active donors in Comoros has been limited
+making close donor coordination and leveraging additional resources a priority. The main
+development partners in Comoros include France, UNDP, European Union, African U n i o n (AU), IMF
+and the W o r l d Bank. Since the new government came to power, it has been looking to solicit support
+from other international partners, particularly those in the Middle East and other Islamic countries, e.g.
+i t has recently signed a series o f cooperation pacts with Iran and held discussions with Libya.
+
+O f the main donors, France i s the most significant with a program o f around $62 million in
+63.
+grants for the next five years. The main focus o f France’s assistance has been in the health sector but
+has also included capacity building activities for the assemblies, rural development and public finance
+management assistance. Going forward, the scope o f activities France i s supporting will be expanded
+to include justice reform. The European Union i s preparing i t s program for 2008-2013 that will
+propose E m 3 6 million primarily for the transport and education sectors. The UNDP has been taking
+the lead in donor coordination, particularly in the case o f the MDTF that it managed. I t also played a
+key role in the electoral process and establishment o f the constitutional institutions. The African Union
+made a significant contribution to the political process during the electoral period in 2006 and AU
+troops were instrumental in ensuring the peaceful running o f the presidential elections in M a y 2006.
+64.
+
+In addition to close collaboration under the MDTF, the Bank has worked with the main donors
+
+in several areas o f Bank engagement. In public finance management, the Bank and the IMF coordinate
+closely with France. The AFD and the Services Support Project have created synergies in community
+
+development. In communities where AFD financed small water projects, the SSP undertook the
+community development process to ensure the sustainability and maintenance o f investments.
+Moreover, U N I C E F and W o r l d Health Organization (WHO) are collaborating with the SSP on water,
+hygiene and sanitation issues based o n their extensive field and technical expertise. The Bank, through
+the SSP, and the EU have also started a dialogue on harmonizing the community and local
+development process in Comoros and ensuring complementarity o f activities focused on capacity
+building o f local authorities and c i v i l society. While donor coordination in Comoros has been
+functioning relatively well, the respective programs o f all actors could benefit from a more aligned and
+harmonized approach. A major bottleneck to increased donor coordination i s the weak institutional
+capacity o f Government to assume i t s leadership role in this area. The Bank will continue to encourage
+and support Government in this role.
+
+VI. RISK MANAGEMENT, SCALINGUP AND EXIT STRATEGY
+A.
+
+Risks
+
+65.
+The I S N proposes a proactive approach to risk management whereby key risks are identified
+upfront and dealt with pre-emptively to the extent possible. This strategy carries substantial risks, the
+most prominent o f which include:
+
+- 20 -
+
+0
+
+0
+
+0
+
+0
+
+Return to instability. While the national reconciliation process to date has been
+successful, the political environment i s s t i l l uncertain. Given the history o f Comoros, the
+risk o f a rapid deterioration o f the political landscape cannot be excluded. If the islands do
+not cooperate or the new government fails to consolidate i t s power, Comoros could
+quickly slide into yet another period o f turmoil and instability. This could also be
+triggered by the islands’ presidential elections that are scheduled for the f i r s t half o f 2007.
+If a candidate close to the secessionist movement that i s s t i l l brewing underneath the
+perceived stability wins the elections, the country could experience yet another
+secessionist crisis. A major back-tracking in the reconciliation process would seriously
+harm Comoros’ chances for reaching debt relief, jeopardize project implementation and
+could alienate the international community that has made a major effort to support
+Comoros in the past years. T o mitigate this risk, the Bank and other key donors must stay
+firmly engaged, monitor the situation closely, and maintain a constructive dialogue with
+the Union and island governments. The international community recognizes that there i s
+currently an important window o f opportunity in which to act in order to help consolidate
+the peacehl transition to the new government and to off-set the risk o f a relapse into
+instability.
+Poor governance. The governance environment clearly poses a risk for the
+implementation o f the Bank’s program. As outlined in detail before, the Bank will
+maintain tight fiduciary control o f i t s operations and will address the governance issues
+through i t s operations and dialogue with the authorities.
+
+Weak institutional capacity. Past experience in Comoros has shown that there i s limited
+government capacity in terms o f human resources, institutions and physical capital for the
+implementation o f reforms and projects. Even when government commitment i s present,
+weak capacity poses a significant risk to the successful implementation o f the strategy.
+Caution against unrealistic assumptions, especially regarding the implementation of
+reforms, i s therefore warranted. C i v i l society and community organizations have potential
+but lack skills and supporting infrastructure for coordinating activities, executing projects
+and monitoring results o n the ground. The Bank’s Economic Governance Technical
+Assistance Project focuses o n a limited set o f key reforms and measures that can influence
+the performance o f the public sector and that can strengthen the implementation o f the
+country’s Poverty Reduction Strategy. In the same way, the SSP project i s focusing on
+strengthening the capacity o f communities, beneficiaries and other actors who are playing
+a role in service delivery.
+Insufficiency of resources and default. In the short-run, growth prospects for Comoros
+are limited and i t i s expected that the economy will continue to depend on very few
+productive activities. The indigenous private sector in Comoros i s also extremely weak as,
+to date, the economy has been driven by the public sector through the civil service and
+public enterprises. The Bank will continue to pursue a frank and open dialogue with the
+Government about the importance o f diversifying i t s agricultural base away from the
+reliance o n one or two crops, as well as focusing o n select sectors which have a real
+potential for growth - such as tourism. This economic diversification should also be a
+core element o f the future full-PRSP. Moreover, the overall reform dialogue will focus o n
+the need for reforms in order to increase investment and foreign aid. The weak growth
+prospects combined with the risks posed as regards the government’s willingness to
+pursue necessary reforms in a consistent manner and i t s ability to maintain a stable
+macroeconomic environment may lead to a sheer lack o f public resources that could result
+
+-21 -
+
+in non-servicing o f debt to the Bank which would bring to a halt the Bank’s project
+disbursements, T h e government has so far been able to honor the Bank’s preferred
+creditor status and has continued to meet i t s debt service requirements to IDA but has not
+been able to meet these requirements to the AfDB and to other creditors. There i s also a
+risk that the donor resources pledged during the December 2005 Mauritius conference will
+not be forthcoming which would leave the I-PRSP seriously under-funded and which
+could also lead to the government seeking alternative sources o f financing on a nonconcessional basis. The Bank will help to off-set the financing risk by continuing to work
+with the IMF and other development partners to ensure Comoros will benefit from
+comprehensive HIPC debt relief. The Bank and the IMF are also placing particular
+emphasis o n budget management which, among other outcomes, should allow for greater
+donor confidence in the new government’s management and encourage the donors to
+fulfill their financing pledges. Moreover, the Bank, through the proposed Economic
+Governance Technical Assistance Project, and advisory support to the authorities along
+with development partners, will assist the government to follow- through o n the reform
+program. The HIPC framework also facilitates dialogue o n overall macroeconomic and
+public sector management and adherence to the reforms laid out therein.
+0
+
+Vulnerability to outside shocks. Comoros remains extremely vulnerable to exogenous
+shocks, especially to fluctuations in the terms o f trade and dependence on the availability
+o f foreign aid. In particular, the impact o f the current high o i l prices presents a particular
+risk. As with any economy that i s highly concentrated in the production and export o f a
+few goods, there will always be an element o f vulnerability to negative world commodity
+price changes. T o mitigate this risk i t i s vital to continue the course o f prudent public
+sector management, strengthening capacity and investing in human and institutional
+capital. Good governance and an attractive investment climate can help in diversifying
+the economy over the short run. Other exogenous shocks include the risk posed by natural
+hazards such as vulnerability to volcanic eruptions and environmental impacts (cyclones,
+tsunami etc). The Bank, through i t s dialogue with the authorities and collaboration with
+development partners, will try to ensure that the government has a strategy o n emergencypreparedness that addresses the relevant natural hazards.
+Political interference in implementation of SSPproject. Although to a lesser extent than
+before, there i s s t i l l a risk that the U n i o n and island authorities could interfere with the
+implementation o f the SSP project, and undermine the poverty targeting strategy used in
+the selection o f beneficiary communities as well as the overall community-based approach
+o f the project. With this in mind, the project has been designed to have a strong,
+independent and autonomous project management and transparent and clear procedures
+for community targeting are detailed in the project’s operational manual. Moreover, the
+project continues to be closely supervised by the Bank on a regular basis.
+
+B.
+
+Scaliw UR and exit strategv
+
+66.
+Given the fragility o f the political and economic situation in Comoros, the weakness o f
+government capacity, as well as limitations on the amount o f assistance the Bank will be able to
+provide, the benchmarks for scaled-up assistance must remain somewhat general. K e y benchmarks,
+which will be closely monitored by the Bank, are:
+
+- 22 -
+
+0
+
+0
+
+Political and Institutional Stability. Continued consolidation o f political and
+institutional stability, including inter-island cooperation, as appraised by international
+community.
+Macroeconomic Management and Stability. Successful implementation o f a StaffMonitored Program, as appraised by the IMF staff, and establishment o f a PRGF
+arrangement.
+National Development Strategy. Delivery o f a full PRSP, which concludes with
+prioritized and reasonably-costed objectives for national development, as jointly appraised
+by Fund and Bank staffs
+Governance. The adoption o f an action plan to reform public finances in congruence with
+donor recommendations.
+
+0
+
+Portfolio implementation. Continued satisfactory implementation o f projects financed by
+the World Bank, as determined by Bank staff.
+
+67.
+In principle, improvement in country policy and institutional performance, including progress
+on governance reforms, should permit the Bank to increase IDA allocations for Comoros; however,
+the exact amount o f allocations would also depend o n the performance o f all other IDA borrowers and
+on the total size o f the IDA resource envelope at the time. Satisfactory performance along these
+benchmark indicators would help Comoros improve CPIA outcomes in several categories, including
+budget, effectiveness o f public administration, property rights, and governance/anti-corruption. It
+would also permit the Bank to elaborate a full Country Assistance Strategy by the end o f the I S N
+period. In the event o f unsatisfactory progress, the Bank will adjust i t s operations as needed. In
+practice this would mean revising implementation schedules and planned activities, or in the case o f
+severe obstacles, a partial suspension o f activities. The Bank remains committed to staying engaged in
+Comoros in the long-term even in the event that activities would need to be scaled down.
+
+- 23 -
+
+Results Indicators
+
+Strategic element
+
+Provide basic services to the most
+disadvantaged communities with a
+focus on community and local
+capacity building
+
+Annex 1
+Page 1 o f 1
+
+Main results after 18 months o f imdementation
+
+- Diaspora co-financing framework for community development
+available for discussion
+- Production o f 30 community and local development plans
+- At least 35 communities have benefited from a subproject grant
+- 60 percent o f the population o f the community have participated
+in developing a community or local development plan
+
+- Completion o f a full PRSP
+- C i v i l servants wages are paid o n a timely manner and no further
+salary arrears are accumulated
+
+- The unit responsible for the accounting o f the consolidated
+budget i s operational and government financial operations data i s
+compiled and consolidated monthly within 30 days o f the end o f
+the month
+Consolidate the national
+reconciliation through building
+state capacity and increasing
+accountability
+
+- High authority for c i v i l service i s filly operational and 100
+percent o f civil servants for the U n i o n and the Islands are
+accounted for in the computerized management system
+- C i v i l service functional review i s conducted and adjustment
+plan validated through a participatory process
+- Inter-island Budgetary Committee meets o n a monthly basis
+
+Annex 2
+Page 1 o f 1
+Financial Execution of Public Investment Plan as of April 30,2006, per donor (in KMF m i l l i o n )
+
+Name
+
+Donors
+European Development Fund (multisector)
+CAON
+Agriculture
+Infrastructure rehabilitation (roads)
+Transitory arrangements
+Education sector program
+Decentalization program
+Emergency response (Karthala)
+Multiprogram on MicroRealis
+French Development Agency (multisector)
+National Union of SANDUK
+Agricultural diversification program
+Project preparation funds
+MECK
+Water economic management project
+AIMPS norms
+China (airport)
+Global Fund
+W a l i d B e n Tala1 Fund (power)
+UNICEF
+FAC (social fund)
+W o r l d Health Organization
+UN Population Fund
+UNDP
+Damien Fund
+IDA (Services Support)
+Islamic Development B a n k (power)
+
+Grants
+
+Loans
+
+8,288.0
+4,029.2
+226.2
+642.9
+639.6
+856.2
+621.0
+442.8
+291.1
+309.4
+1,295.3
+119.5
+
+3,106.9
+0.0
+
+46.8
+61.5
+23 1.2
+836.3
+900.0
+447.0
+400.0
+389.4
+375.0
+244.9
+125.9
+61.6
+19.7
+
+467.4
+467.4
+
+2,539.5
+100.0
+
+Own Resources
+Comoros Telecoms (telecom)
+State
+Road maintenance
+Education (University)
+Administration
+Rahabilitation o f national heritage
+
+Total Financial Execution of Public Investment
+Plan
+Source: Commissariat General au Plan
+
+8,288.0
+
+3,106.9
+
+2006
+Program
+
+Execution
+April
+30", 2006
+
+Execution
+rate
+
+11,394.9
+4,029.2
+226.2
+642.9
+639.6
+856.2
+621.0
+442.8
+291.1
+309.4
+1,762.7
+119.5
+467.4
+46.8
+61.5
+23 1.2
+836.3
+900.0
+447.0
+400.0
+389.4
+375.0
+244.9
+125.9
+61.6
+19.7
+2,539.5
+100.0
+
+4,121.6
+1,677.8
+65.2
+71.0
+0.0
+684.9
+256.2
+0.0
+291.1
+309.4
+163.7
+8.1
+0.0
+7.6
+14.7
+16.8
+116.5
+350.0
+206.3
+0.0
+352.6
+40.0
+213.4
+62.2
+45.3
+11.6
+998.7
+0.0
+
+36.2%
+41.6%
+28.8%
+11.0%
+0.0%
+80.0%
+41.3%
+0.0%
+100.0%
+100.0%
+9.3%
+6.8%
+0.0%
+16.2%
+23.9%
+7.3%
+13.9%
+38.9%
+46.2%
+0.0%
+90.5%
+10.7%
+87.1%
+49.4%
+73.5%
+58.9%
+39.3%
+0.0%
+
+7,612.0
+5,918.0
+1,694.0
+564.0
+630.0
+350.0
+150.0
+
+2,258.7
+2,005.0
+253.7
+0.0
+239.0
+6.2
+8.5
+
+29.1%
+33.9%
+15.0%
+0.0%
+37.9%
+1.8%
+5.7%
+
+19,006.9
+
+6,380.3
+
+33.6%
+
+Annex 3
+Page 1 o f 1
+
+Summary o f Paris Principles for InternationalEngagement in Fragile States
+Take context as the starting point: sound political analysis i s needed, above and beyond
+quantitative indicators o f governance, institutional strength or conflict.
+M o v e from reaction to prevention, sharing and responding to risk analysis, addressing the
+root causes o f state fragility and strengthening capacity o f regional organizations.
+Focus on state-building as the long-term vision, strengthening the capacity o f state structures
+to perform core functions; their legitimacy and accountability; and ability to provide an
+enabling environment for strong economic performance.
+
+Align with local priorities where governments demonstrate political will to foster their
+countries’ development; where donor/govemment consensus i s lacking, seek wider
+consultations and partial or shadow alignment.
+Recognize the political-security-development nexus, moving to support national reformers in
+developing unified planning frameworks for political, security, humanitarian, economic and
+development activities at the country level.
+Promote coherence between donor agencies, involving those responsible for security,
+political and economic affairs as well as those responsible for development aid and
+humanitarian as s istance .
+Agree o n practical coordination mechanisms between international actor, including upstream
+analysis; joint assessments; shared strategies; coordination o f political engagement; joint
+offices, multi-donor trust h d s and common reporting frameworks.
+
+Do n o harm, avoiding activities which undermine national institution-building, such as bypassing budget processes or setting high salaries for local staff.
+
+Mix and sequence instruments, including use o f both state recurrent financing and nongovernment delivery to fit different contexts.
+A c t fast and with flexibility at short notice when opportunities occur.
+
+... but stay engaged long enough to give success a chance: capacity development in core
+institutions will take at least 10 years.
+Avoid pockets o f exclusion, addressing “aid orphans” and coordinating to prevent excessive
+donor-driven aid volatility.
+
+Annex 4
+Page 1 of 1
+
+2005 IDA Resource Allocation kdex (IRAI)
+COMOROS
+
+ss Rylulatoty Enwon
+
+bsn in the Public Sector
+
+Whin a cluster.
+a/ for calwlalmn af the &aster averam. all cntenu are ectuallywigh
+bE #vera11 r m ts calculated as Ae mean ofthe scare dfwrclust&i.
+d For more mfcfmrtlon. see knnex 1 n MsWm to >IDA R
+7
+=
+{kwrage Six G a v r m a w LndicabrsTJ.5)"
+{WX IRA1 + 20% P w t b l ~ 1R a w ] x G w e m n c e FacBor.
+* Ratings on each a m on a 1 0 to 6.0 5mle ( e w IDA Gounlty P e r b m n c e Rating5which m zOD5 range from 0 5 I o 5 6).
+
+Annex 5
+Page 1 of 4
+
+Comoros: Country Financing Parameters
+Item
+Cost sharing. Limit o n the
+proportion o f individual
+project costs that the Bank
+may finance
+
+Parameter
+up to 100%
+
+Recurrent cost financing.
+Any limits that would apply
+t o the overall amount o f
+recurrent expenditures that
+the Bank may finance
+Local cost financing. Are
+the requirements for Bank
+financing o f local
+expenditures met, namely
+that: (i)
+financing
+requirements for the
+country's development
+program would exceed the
+public sector's o w n
+resources (e.g., from
+taxation and other revenues)
+and expected domestic
+borrowing; and (ii)
+the
+financing o f foreign
+expenditures alone would
+not enable the Bank to
+assist in the financing o f
+individual projects
+Taxes and duties. Are
+there any taxes and duties
+that the Bank would not
+finance?
+
+N o countrylevel limit
+
+Yes
+
+None
+
+RemarkdExplanation
+During the 18-month duration o f the ISN, all projects are
+expected to be financed at loo%, given government's
+limited budget and inability to provide counterpart
+funding. Ownership o f Bank-financed projects i s being
+ensured through a close relationship between the Bank and
+the Government's top leadership. At the project level,
+ownership i s being ensured through means such as placing
+project management responsibilities directly in the
+communities together with concerned ministries, and close
+supervision and capacity-building o f government
+institutions.
+The Bank, working closely with the IMF, will monitor the
+fiscal and debt situation. In determining Bank financing
+o f recurrent costs in individual projects, the Bank will
+continue to take into account arrangements being
+established to ensure sustainability.
+The requirements for local cost financing are met.
+The Bank may finance local costs in the appropriate
+proportion needed in individual projects.
+
+Taxes and duties are considered reasonable. At the project
+level, the Bank will examine whether taxes and duties
+constitute an unreasonable share o f project costs when
+determining whether to finance.
+
+Annex 5
+Page 2 of 4
+COMOROS: COUNTRY FINANCING PARAMETERS
+
+1.
+This Annex provides additional information o n the country financing parameters for
+Comoros established pursuant to OP/BP 6.00, Bank Financing. The Government has been
+consulted o n the country financing parameters.
+A. Cost Sharing
+
+2.
+Development spending amounted to about 3.6% o f GDP in 2005. Foreign financing
+accounted for approximately 80% o f capital expenditures for the same year. The state budget
+(portion financed by o w n resources) covers the bulk o f recurrent costs. Bank financing i s
+integrated into Comoros’ budget. Bank disbursements have averaged US$2-3 million per year.
+As noted in the main text, the I S N i s based o n the government’s I-PRSP with two main objectives
+for the next 18 months (FY07-08): (i)continue to provide basic services to the most
+disadvantaged communities with a focus o n community and local capacity building; and (ii)
+consolidate the national reconciliation through building state capacity and increasing
+accountability. The Bank would continue to ensure that individual Bank-supported operations
+are well embedded in the country’s PRSP, and integrated into the budget.
+3.
+Ownership o f Bank-financed programs i s being ensured through a close relationship
+between the Bank and the Government’s top leadership. At the project level, ownership i s being
+ensured through means such as close supervision and capacity-building o f government
+institutions, and placing project management responsibilities directly in the communities together
+with concerned ministries. As noted in the ISN, continued satisfactory performance o f projects
+financed by the Bank will be a key benchmark for scaled-up assistance.
+
+4.
+Given Comoros current fragile situation and resulting needs, the Bank cannot expect
+significant financial contribution from government. The I S N notes that new operations are
+expected to be designed in a manner that responds to the specific circumstances o f a L I C U S
+country; and that in view o f both the extent o f the ongoing fiscal mobilization effort and the need
+to ensure rapid implementation, the Government will not be required t o provide counterpart funds
+for any o f the operations included in the I S N (as with projects under the 2004 Transitional
+Support Strategy). Therefore, and based on the needs o f the transition, the Bank will provide
+100% financing for projects financed during the 18-month duration o f the ISN.
+B. Recurrent Costs
+5.
+In Comoros, the Bank (and other donors) have been financing recurrent costs, mainly in
+the context o f capacity building programs, and operating costs o f implementing agencies (salaries
+and materials), which are for the most part outside the civil service. For instance, the Fonds
+d ’Appui au Diveloppement Communautaire (Fund to Support Community Development (FADC)
+was established as a n o n p r o f i t association for public service and i s financially and
+administratively autonomous. In the only project approved since FY04, approximately 11 percent
+o f Bank commitments were for recurrent costs, all o f which were for project operating costs.
+Such recurrent cost financing i s considered necessary, and the Bank i s expected to continue to
+finance such costs during the I S N period. Maintenance in large infrastructure programs i s not
+financed by the Bank at this stage, but by the national budget. The state budget (portion financed
+by own resources) finances the bulk o f recurrent costs.
+As discussed in the ISN, fiscal and debt sustainability i s a concern. The Bank, working
+6.
+closely with the IMF, will monitor the fiscal and debt situation. As noted in the ISN, successful
+implementation of a Staff-Monitored Program, as appraised by IMF staff, and establishment o f a
+
+Annex 5
+Page 3 o f 4
+
+PRGF arrangement i s a key benchmark for scaled-up assistance. Sustainability has been a
+concern in past- Bank financed operations. Lessons learnt have been incorporated into the design
+o f recent operations to overcome such concerns (see I S N paragraphs 40-42).
+
+7.
+Given the transitional needs for recurrent cost financing and the measures outlined in the
+paragraph above, n o country-level limit p e r se i s being set o n recurrent cost financing. In
+determining Bank financing o f recurrent costs in individual projects, the Bank will continue to
+take into account arrangements being established to ensure sustainability.
+C. Local Cost Financing.
+
+8.
+
+Financing requirements for the country's development program exceed the public sector's
+
+own resources (e.g., from taxation and other revenues) and expected domestic borrowing. The
+average annual cost o f the I-PRSP strategy i s about US$lOO million, over 20 percent o f GDP,
+
+which the government hopes to finance mainly through international aid. Donors have pledged to
+boost their assistance t o about US$200 million for 2006-2009 which i s a threefold increase from
+2004-2005. Nevertheless, this i s only about h a l f o f what the authorities estimate i s needed for the
+implementation o f the I-PRSP.
+9.
+The financing o f foreign expenditures alone would not enable the Bank to assist in the
+financing o f individual projects. The Bank's current portfolio focuses primarily on projects in
+community development and financial management and governance related technical assistance,
+both o f which have a high element o f local expenditure. For example, the local expenditure o f
+the proposed additional financing operation (Services Support Project) will be around 70 percent.
+The future Bank portfolio i s bound to remain around this range, as community driven
+development will continue to be an important part o f the Bank's work in Comoros.
+10.
+The two criteria for Bank financing o f local costs are met. Thus the Bank may finance
+local costs in any proportion required by individual projects.
+
+D. Taxes and Duties Financing
+11.
+Major taxes and duties are summarized below. Bank projects have been either taxed at
+the same rates or exempted, depending on the conditions negotiated at the outset.
+Comoros: Major taxes and duties (as o f August 31,2006)
+
+I Tax rates (range)
+
+Item
+Profit tax
+
+Taxes
+
+I income
+
+on
+
+I 35%
+
+I
+
+I
+
+I
+
+for individuals and companies with turnover less than C F 500
+million, 50% otherwise
+capital 15%
+
+Payroll taxes
+Consumption tax
+Import tax
+
+5%-30% depending on income
+Base rate o f 10%; 0% - 5% for selected items.
+Rates o f 0%, 15%, 21%, and 30% o f import value, c i f plus
+administrative levy o f 1% o f customs receipts o n taxable imports; 3% o f
+c i f value o f exemDt imDorts
+
+Source: IMF. U n i o n o f Comoros: Selected Issues and Statistical Appendix (SM/06/328), September 28,
+2006.
+
+I
+
+Annex 5
+Page 4 o f 4
+
+12.
+Taxes and duties have been assessed as reasonable and the Bank may therefore finance
+taxes and duties associated with project expenditures. The application o f this general approach
+will be subject to an ongoing monitoring o f tax policy and h o w taxes are applied to Bankfinanced projects. At the project level, the Bank will consider whether taxes and duties constitute
+an excessive share o f project costs.
+
+Annex 6
+Page 1 of 8
+Union of Comoros: Debt Sustainabilitv Analysis
+
+1.
+This assessment o f Comoros’s external public debt dynamics was prepared jointly
+with Bank staff based o n the I M F - W o r l d Bank debt sustainability analysis (DSA) for lowincome countries. It makes clear that in a baseline scenario o f unchanged policies, Comoros
+would remain in debt distress even in the absence o f shocks. In an adjustment scenario, which
+assumes improved economic performance and HIPC/MDIXI debt relief at end-2009, debt
+would become sustainable even under a variety o f stress tests. Comoros’s external arrears are
+a major near-term hurdle for achieving debt sustainability, and the specifics o f arrears
+clearance mechanisms will have important implications for near-term debt service.
+Background
+
+2.
+External debt has been unsustainable for over two decades. Large-scale
+borrowing from official creditors after independence l e d to rapid accumulation o f external
+debt, which had reached 100percent o f GDP by the mid-1980s. The debt burden became
+quickly unsustainable and arrears as a proportion o f total debt increased from 9 percent in
+1984 to 35 percent in 2005. At yearend 2005, the net present value (NPV) o f total debt
+amounted to 419 percent o f exports o f goods and services. Though debt service to the World
+Bank has been paid in full, arrears to most other official creditors have accumulated.
+3.
+At end-2005, Comoros’s public external debt was estimated to be $266 million
+(72 percent of GDP). Multilateral creditors accounted for 82 percent o f this and the two
+largest creditors were the World Bank and the AfDB Group. Comoros has n o loans from the
+IMF. With 69 percent o f i t s total debt stock in SDRs, 14 percent in US. dollars, and
+14 percent in currencies that are linked to the U.S. dollar, Comoros’s, external position i s
+highly exposed to fluctuations o f the euro (to which the Comorian franc i s pegged) against
+the US. dollar. Since 2001, Comoros has benefited from the depreciation o f the U.S. dollar
+against the euro, which has contributed to a gradual reduction in i t s debt-to-GDP ratio,
+
+Saudi
+Other
+Fund bilaterals
+Fund 5%
+3%
+9%
+
+Kuw
+
+AfDB
+
+group
+24%
+
+USD
+14%
+
+Other
+
+BA
+10%
+
+Tultilaterals
+8%
+
+Bank
+41%
+
+-
+
+M3st of the debt stock is affected by
+the Euro/U.S. dollar rate.
+
+M r e than 80 percent of Comoros’s debt
+is owed to multilateral creditors.
+
+II
+
+SAR
+5%
+
+Others
+2%
+
+1%
+
+SDF?
+69%
+
+Annex 6
+Page 2 of 8
+
+amounted to $7% million in 2005 (13% percent o f
+revenues), o f which Comoros serviced about half,
+including full payments to the W o r l d Bank and partial
+payments to the AfDB Group, the Islamic Development
+Bank, and OPEC in 2005. N o debt service was paid to
+BADEA, the European Investment Bank (EIB), and
+bilateral creditors.
+
+5.
+Debt indicators for Comoros are well above
+HIPC and Low-Income D S A thresholds. The BankFund low-income D S A fkamework classifies Comoros as
+
+Two-thirds of Comoros’s arrears are
+owed to multilateral creditors.
+Other
+bilaterals
+
+Saudi
+Fund
+
+Af DB
+group
+
+3%
+
+14%
+
+Kuwait
+Fund
+16%
+
+Cthe
+nuttilaterals World
+8%
+Bank
+0%
+
+28%
+
+threshold for revenues.
+Policy-Dependent External Debt Burden Indicators and Thresholds
+Thresholds
+Comoros Low income DSA
+HIPC
+end-2005
+(poor performers)
+NPV of debt in percent of:
+Exports
+419.4
+100.0
+150.0
+GDP
+52.3
+30.0
+...
+Revenues
+334.2
+200.0
+250.0
+Debt service in percent of
+Exports
+Revenues
+
+16.8
+13.3
+
+15.0
+25.0
+
+...
+...
+
+6.
+Comoros’s external debt i s well above regional averages. In relation to GDP, debt
+was o n a par with African HIPC countries but i t s debt-to-exports ratio was far higher than
+most. Debt service due i s somewhat below regional averages, but i t s near-term liquidity
+problems are more severe than in most other countries, given the amount o f i t s arrears.
+
+9
+
+See Interim Guidance on the Preparation o f Joint Fund-World Bank Debt Sustainability Assessments for
+Low-Income Countries (2005).
+
+Annex 6
+Page 3 of 8
+
+Comoros's external debt in 2005 was above
+regional and HIPC comparators
+(in percent of GDP).
+
+H~K k.
+R. Sub-Sahara Con-oros
+
+500
+400
+
+60
+
+300
+40
+
+H K Dec. R.
+
+Sub-Sahara
+
+200
+
+20
+
+1
+Con-oros
+
+600
+
+100
+80
+
+Comoros' external debt in 2005 was far above
+regional and HIPC comparators
+(in percent of eqorts).
+
+100
+
+0
+
+0
+
+Diagnosis, Arrears Clearance, and HIPC and MDRI Assistance
+Comoros i s to be grandfatheredunder the Enhanced HIPC initiative. According
+7.
+to IMF and W o r l d Bank Board meetings on September 6 and 7, 2006, Comoros i s one o f the
+countries to be grandfathered under the HIPC initiative based on meeting the income and
+indebtedness criteria at end-2004. Comoros has therefore more time to start an IMFsupported program than envisaged under the previous HIPC sunset clause.
+Comoros needs to clear a large stock o f arrears before it can benefit from future
+8.
+debt relief. Before a PRGF arrangement with the IMF, Comoros would need to reach
+understandings with its creditors o n clearing arrears. Clearance might take four forms: (i)
+a
+payment by Comoros, using i t s international reserves, (ii)
+an arrears rescheduling agreement
+with the creditor, (iii)
+debt relief from the creditor, or (iv) third-party donor assistance to help
+with arrears clearance. While Comoros has a relatively comfortable level o f international
+reserves o f about 8 months o f imports o f goods and services, it can use only a minimal
+amount o f them given the franc zone ceiling o n government borrowing from the central bank.
+An informal meeting between the authorities and key creditors and donors was
+9.
+held at the IMF during the Spring Meetings in 2006. Most creditors have since proposed a
+
+multiyear rescheduling o f arrears, which would keep open the possibility o f including part o f
+the arrears in future debt relief. A special case i s the AfDB Group, where assistance with
+arrears clearance i s constrained given that the AfDB does not currently classify Comoros as
+eligible for i t s post-conflict country facility."
+
+~
+
+~~
+
+lo
+In the AfDB's arrears clearance mechanism, for countries classified as postconflict, one-third o f the debt
+is paid by the country, one-third i s paid by a donor, and one-third i s cancelled by the AfDB.
+
+Annex 6
+Page 4 of 8
+
+10.
+The staff performed a debt sustainability analysis for both the baseline and the
+adjustment scenarios. The baseline scenario (Tables l a and 2 ) assumes that economic
+growth stays in line with historical averages (2 percent), economic reform i s limited, and
+inflows o f aid are minimal. Fiscal revenues and wages would remain broadly unchanged,
+preventing a pick-up in public investment and social spending. Comoros would continue to
+service IDA, while arrears with other creditors build and external debt would remain
+unsustainably high (see Tables l a and 2).
+
+11.
+The adjustment scenario assumes accelerated economic reforms and debt relief
+(Tables l a and 2). I t allows for higher growth (4 percent over the long term), supported by a
+pick-up in public and private investment. As in the I-PRSP, growth sectors are assumed to
+include tourism, agriculture, fishing, finance, infrastructure, and communication. A rebound
+in exports would limit the increase in the trade deficit caused by higher aid-related imports. A
+primary surplus o f about 1 percent o f GDP would be targeted each year to allow for a modest
+amount o f debt service and a gradual reduction in domestic arrears. Public investment and
+social spending would increase by about 6 percentage points o f GDP between 2006 and 2009,
+based o n a gradual rise in domestic revenue, a modest reduction in the wage bill, and higher
+external assistance in line with pledges announced during the 2005 donor conference. The
+adjustment scenario also assumes (i)arrears clearance and rescheduling o n concessional
+bilateral debt rescheduling for 2007-09, (iii)
+interim debt relief in 2008-09,
+terms in 2007, (ii)
+and (iv) HIPC and MDRI debt relief in 2009. I t i s assumed that there will be n o new
+nonconcessional debt, while concessional borrowing will be relatively low, with most
+assistance coming in the form o f grants.
+12.
+The specifics of arrears rescheduling can have an important impact on liquidity.
+A relatively short arrears rescheduling without a grace period would imply relatively high
+near-term debt service. For the D S A in the adjustment scenario, it i s assumed that arrears are
+rescheduled over fifteen years for all bilateral and multilateral creditors except the AfDB,
+where arrears are assumed to be cleared through a combination o f own payments and external
+assistance.'
+
+External debt service due
+Scenario I
+In percent of exports
+In percent of revenues
+
+Debt Service Due Under Alternative Arrears Clearance
+Average (2007-2009)
+Average (2010-2016)
+Baseline
+Adjustment
+Baseline Adjustment
+
+18.1
+13.8
+
+13.3
+9.8
+
+5.8
+4.6
+
+3.8
+3.1
+
+38.5
+29.5
+
+34.0
+24.9
+
+3.9
+3.1
+
+2.6
+2.1
+
+Scenario II
+In percent of exports
+In percent of revenues
+
+''
+
+In line with standard practice, a l l arrears clearance agreements w o u l d be explicitly linked to the H I P C
+initiative to ensure that Comoros's contribution to arrears clearance does n o t reduce fbture debt relief and
+that creditors providing debt relief before the decision point are credited under the initiative.
+
+Annex 6
+Page 5 of 8
+
+13.
+Since two-thirds of Comoros’s external debt i s owed to the AfDB group and the
+World Bank, the country could benefit substantially from the MDRI. Under the MDRI, it
+i s assumed for 2009 that almost all debt to IDA i s cancelled, as i s debt to the African
+Development Fund, which i s about 7 1 percent o f all debt to the AfDB group.
+11
+
+&ears rescheduling and HIPChQRI debt relief would
+ha= a strong impacton Comoros NWofexbrnal debt
+(in percent ofexports).
+1600 r
+
+300
+
+HIPCAORI debt rdiefwouid h a w a sb-ong impact on
+debt sedce (in percent of goemment rewnues).
+
+julicg,
+
+After rescheduling, before NK
+
+Adjushmt. after
+
+200
+
+--..
+
+100
+0
+2006
+
+2010
+
+2014
+
+2018
+
+2022
+
+2026
+
+2006
+
+2310
+
+2014
+
+2018
+
+MZ?
+
+2026
+
+15.
+I n the adjustment scenario, with HIPC and MDRI debt relief in 2009, external
+debt indicators would improve substantially (Table la). Arrears clearance in 2007 would
+sharply reduce the NPV-to-exports ratio, to 3 11 percent. At the completion point, the NPV o f
+external debt would fall further, to 74 percent o f exports, well below the H I P C threshold and
+also below the policy-dependent low-income D S A threshold. Interim assistance would help
+decrease the debt service-to-exports ratio to 14 percent in 2008. In 2010, the debt service ratio
+would become 5 percent o f exports.
+16.
+The debt dynamics in the adjustment scenario would be sustainable in a variety
+of stress tests (Table lb). T o see whether HIPC and MDRI debt relief can bring debt to
+sustainable levels, shocks are applied to the post-debt relief period o f 2010 and 201 1. Given
+Comoros’s l o w level o f exports, the NPV-to-export ratio i s the indicator that i s most
+vulnerable to shocks. For instance, a cumulative decline in exports o f 40 percent over the two
+years, would raise the NPV o f debt to 163 percent o f exports in 201 1 (from 57 percent in the
+adjustment scenario), and it would take 8 years to reduce the NPV to the policy-dependent
+threshold o f 100 percent o f exports
+
+Annex 6
+Page 6 o f 8
+
+(Figure 2). By contrast, the NPV-to-GDP ratio and debt service-to-export ratio would
+17.
+remain well below policy-dependent thresholds.
+Conclusion
+18.
+Comoros would remain in debt distress under unchanged policies, but could
+achieve sustainable debt indicators in an adjustment scenario with higher growth and
+arrears clearance and HIPC and MDRI debt relief. The analysis shows that after the
+completion point debt would be sustainable even under a variety o f shocks. A near-term
+challenge will be to agree o n arrears clearance schemes that do not jeopardize the country's
+liquidity position yet open the way for a PRGF-supported arrangement and HIPC and MDRI
+debt relief.
+
+80
+
+-Baseline
+
+N P V of debt-to-GDP ratio
+
+-
+
+70
+
+-
+
+60
+
+Historical scenario
+
+-
+
+50
+
+baseline scenario)
+
+-
+
+40
+30
+
+- - - - _ _-_- - - _ _ _ _
+
+-
+
+20
+
+t
+
+lo
+
+900
+800
+700
+600
+
+500
+
+-
+
+N P V of debt-to-exports ratio
+
+-----____
+--
+
+-
+
+400
+
+-
+
+-
+
+300
+
+-
+
+100
+
+__-
+
+Historical scenario
+baseline scenario)
+
+-
+
+-
+
+-
+
+X
+
+I
+
+_
+
+_
+
+_
+
+.
+
+200
+
+-Baseline
+
+----__
+-----___-_
+
+0
+
+50
+
+Debt service-to-exports ratio
+
+40
+
+-
+
+30
+
+-
+
+2o
+I O
+
+0
+
+-
+
+-Baseline
+
+- - - Historical scenario
+-Most
+
+d- - - - -
+
+-
+
+\
+
+---\
+
+.
+
+extreme stress test (on
+baseline scenario)
+
+------___-__
+
+99'4'499
+- r m o p m w
+m
+
+.
+r
+
+.:
+
+,
+
+:
+
+,
+
+:
+
+: -z : .: .:
+,
+
+,
+
+Annex 6
+Page 8 of 8
+Table 1b. Comoros: Sensitivity Analyses for Key Indicators of Public and Publicly Guaranteed External Debt, 2006-26
+(Adjustment scenario)
+Projections
+
+2006 2007 2008 2009 2010 2011 2012
+
+2016
+
+2026
+
+NPV of debt-to-GDP ratio (in percent)
+Adjustment
+
+5 2 3 5 3 2
+
+9
+
+8
+
+8
+
+7
+
+5
+
+3
+
+5 2 3 5 3 2
+52
+35
+32
+
+9
+10
+
+8
+9
+
+6
+8
+
+8
+6
+
+6
+7
+
+2
+5
+
+5 2 3 5 3 2
+52
+35
+32
+52
+35
+32
+52
+35
+32
+52
+35
+32
+52
+35
+32
+
+9
+9
+9
+9
+9
+9
+
+9
+10
+9
+10
+12
+12
+
+8
+12
+10
+12
+17
+11
+
+8
+11
+9
+11
+16
+10
+
+6
+9
+7
+9
+14
+8
+
+3
+5
+4
+5
+7
+4
+
+A. Alternative Scenarios
+A l . Key variables at their historical averages in 2007-26 11
+A2. New public sector loans on less favorable terms in 2007-26 21
+
+B. Bound Tests
+81. Real GDP growth at historical average minus one st. deviation in 2010-11
+82. Export value growth at historical average minus one st. deviation in 2010-1 1 31
+83. US dollar GDP deflator at historical average minus one st. deviation in 2010-11
+84. Net non-debt creating flows at historical average minus one st. deviation in 2010-11 41
+65. Combination of 81-84 using one-haif st. deviation shocks
+86. One-time 30 percent nominal depreciation relative to the baseline in 2010 51
+
+NPV of debt-to-exports ratio (in percent)
+Adjustment
+
+493
+
+311
+
+272
+
+74
+
+64
+
+57
+
+51
+
+37
+
+19
+
+493
+493
+
+311
+313
+
+272
+275
+
+74
+78
+
+64
+69
+
+58
+62
+
+53
+56
+
+44
+
+42
+
+12
+28
+
+493
+493
+493
+493
+493
+493
+
+311
+311
+311
+31 1
+311
+311
+
+272
+272
+272
+272
+272
+272
+
+74
+74
+74
+74
+74
+74
+
+64
+104
+64
+81
+107
+64
+
+57
+163
+57
+85
+160
+57
+
+51
+149
+51
+78
+147
+51
+
+37
+115
+37
+60
+115
+37
+
+19
+56
+19
+29
+56
+19
+
+19
+
+21
+
+14
+
+13
+
+5
+
+5
+
+4
+
+3
+
+1
+
+19
+19
+
+21
+21
+
+15
+15
+
+13
+13
+
+5
+5
+
+5
+5
+
+4
+4
+
+3
+3
+
+1
+2
+
+81. Real GDP growth at historical average minus one st. deviation in 2010-11
+82. Export value growth at historical average minus one st. deviation in 2010-11 31
+83. US dollar GDP deflator at historical average minus one st. deviation in 2010-1 1
+84. Net non-debt creating flows at historical average minus one st. deviation in 2010-11 41
+85. Combination of 81-84 using one-half st. deviation shocks
+86. One-time 30 percent nominal depreciation relative to the baseline in 2010 51
+
+19
+19
+19
+19
+19
+19
+
+21
+21
+21
+21
+21
+21
+
+15
+15
+15
+15
+15
+15
+
+13
+13
+13
+13
+13
+13
+
+5
+7
+5
+5
+6
+5
+
+5
+9
+5
+5
+7
+5
+
+4
+9
+4
+5
+7
+4
+
+3
+6
+3
+3
+5
+3
+
+1
+4
+1
+2
+4
+1
+
+Memorandum item:
+Grant element assumed on residual financing (Le., financing required above baseline) 61
+
+56
+
+56
+
+56
+
+56
+
+56
+
+56
+
+56
+
+56
+
+56
+
+A. Alternative Scenarios
+A l . Key variables at their historical averages in 2007-26 11
+A2. New public sector loans on less favorable terms in 2007-26 21
+
+B. Bound Tests
+81. Real GDP growth at historical average minus one st. deviation in 2010-1 1
+82. Export value growth at historical average minus one st. deviation in 2010-11 31
+83. US dollar GDP deflator at historical average minus one st. deviation in 2010-11
+84. Net non-debt creating flows at historical average minus one st. deviation in 2010-11 41
+85. Combination of 81-84 using one-half st. deviation shocks
+86. One-time 30 percent nominal depreciation relative to the baseline in 2010 51
+
+Debt service ratlo (In percent)
+Adjustment
+A. Alternative Scenarios
+A i . Key variables at their historical averages in 2007-26 l /
+A2. New public sector loans on less favorable terms in 2007-26 21
+8. Bound Tests
+
+Source: Staff projections and simulations
+11Variables include real GDP growth, growth of GDP deflator (in US$ terms), non-interest current account in percent of GDP, and non-debt creating flows.
+21 Assumes that the interest rate on new borrowing is by 2 percentage points higher than in the adjustment., while grace and maturity periods are the same
+as in the baseline.
+31 Exports values are assumed to remain permanently at the lower level, but the current account as a share of GDP is assumed to return to its baseline
+level after the shock (implicitly assuming an offsetting adjustment in import levels).
+41 Includes official and private transfers and FDI.
+51 Depreciation is defined as percentage decline in doiiarliocal currency rate, such that it never exceeds 100 percent.
+61 Applies to all stress scenarios except for A2 (less favorable financing) in which the terms on all new financing are as specified in footnote 2.
+
+CAS Annex A2
+Page 1 of 3
+
+Key Development Indicators
+(ZOOS)
+Population, mid-year (millions)
+Surface area (thousand sq. km)
+Population growth (%)
+Urban population (YOof total population)
+GNI (Atlas method, US$ billions)
+GNI per capita (Atlas method, US$)
+GNI per capita (PPP. international $)
+GDP growth (Oh)
+GDP per capita growth (Oh)
+
+Comoros
+
+SubSaharan
+Africa
+
+Low
+income
+
+0.60
+2.2
+2.1
+37
+
+741
+24,265
+2.1
+35
+
+2,353
+29,265
+1.8
+' 30
+
+0.4
+650
+2,000
+
+552
+745
+1.981
+
+1,364
+580
+2,486
+
+4.2
+2.1
+
+5.3
+3.1
+
+7.5
+5.6
+
+63
+52
+25
+
+44
+75
+46
+100
+29
+
+59
+80
+39
+
+I
+
+Age distribution, 2005
+Female
+
+Male
+
+io
+
+io
+
+0
+
+20
+
+Dercent
+
+(most recent estlmate, ZOOtrZOOS)
+Poverty headwunt ratio at $1 a day (PPP, %)
+Poverty headcount ratio at $2 a day (PPP. Oh)
+Life expectancy at birth (years)
+Infant mortality (per 1,000 live births)
+Child malnutrition (Oh of children under 5)
+
+Jnder.5 mortallty rate (per 1,000)
+
+Adult literacy, male (% of ages 15 and older)
+Adult literacy, female (Oh of ages 15 and older)
+Gross primary enrollment, male (Oh of age group)
+Gross primary enrollment, female (Oh of age group)
+
+91
+80
+
+99
+87
+
+73
+50
+110
+99
+
+Access to an improved water source (% of population)
+Access to improved sanitation facilities (Oh of population)
+
+86
+33
+
+56
+37
+
+75
+38
+
+200
+
+i50
+io0
+50
+0
+
+ism
+
+Net Aid Flows
+
+moo
+
+3895
+
+0 Comoms
+
+1980
+
+1990
+
+2000
+
+2005
+
+43
+
+45
+
+19
+
+25
+
+12
+0
+1
+
+24
+0
+0
+
+11
+0
+0
+
+13
+0
+0
+
+34.9
+129
+
+18.2
+104
+
+9.3
+35
+
+6.8
+42
+
+14.6
+
+-7.4
+2.2
+
+5.9
+
+3.8
+
+3.6
+2.3
+
+21 1.3
+0
+
+272.3
+117
+
+534.0
+100
+
+395.6
+80
+
+0.3
+124
+
+0.4
+250
+
+0.5
+202
+
+0.6
+387
+
+2.6
+2.8
+
+2.2
+1.2
+
+2.1
+2.6
+
+51 .O
+11.0
+4.4
+38.0
+
+4.0
+-2.9
+4.9
+3.1
+
+2.6
+3.9
+1.7
+-0.6
+
+3.5
+2.5
+1.7
+1.4
+
+(US$ mi//ions)
+Net ODA and official aid
+Top 3 donors (in 2004):
+France
+Canada
+Belgium
+Aid (%of GNI)
+Aid per capita (US$)
+
+Srowth of GDP and GDP per capita (Oh)
+
+Long-Term Economic Trends
+Consumer prices (annual % change)
+GDP implicit deflator (annual O
+h change)
+Exchange rate (annual average, local per US$)
+Terms of trade index (2000 = 100)
+
+mo1
+
+0 SubSaharanAfnca
+
+Population, mid-year (millions)
+GDP (US$ millions)
+
+w
+
+95
+
+8a
+
+--O-GDP
+
+-GDP
+
+05
+
+percapita
+
+1980-90
+1990-2000
+2000-05
+(average annual growfh 56)
+
+Agriculture
+Industry
+Manufactunng
+Services
+
+34.0
+13.2
+3.9
+52.8
+
+(% of GDP)
+41.4
+48.6
+8.3
+11.5
+4.2
+4.5
+50.3
+39.9
+
+Household final consumption expenditure
+General gov't Rnal consumption expenditure
+Gross capital formation
+
+79.2
+30.9
+33.2
+
+78.7
+24.5
+19.7
+
+92.3
+13.4
+10.1
+
+100.7
+12.2
+9.3
+
+3.0
+1.8
+-4.2
+
+3.8
+-4.1
+-4.9
+
+4.8
+-0.9
+0.6
+
+Exports of goods and services
+imports of goods and services
+Gross sawngs
+
+8.7
+51.9
+
+14.3
+37.1
+-1.3
+
+16.7
+32.5
+11.2
+
+12.5
+34.7
+5.1
+
+9.3
+-0.2
+
+-1.8
+-1.1
+
+-3.3
+4.2
+
+Note: Figures in italics are for years other than those specified. 2005 data are preliminary estimates.
+a. Aid data are for 2004.
+Development Economics. Development Data Group (DECDG)
+
+.. indicates data are not available.
+
+CAS Annex A2
+Page 2 of 3
+Comoros
+Balance of Payments and Trade
+
+2000
+
+2005
+
+14
+56
+-32
+
+14
+118
+-82
+
+Voice and accountability
+
+Regulatory quality
+
+(US$ millions)
+Total merchandise exports (fob)
+Total merchandise imports (cia
+Net trade in goods and services
+Workers' remittances and
+compensation of employees (receipts)
+
+25.6
+
+65.0
+
+Current account balance
+as a % of GDP
+
+-4
+-2.0
+
+-12
+-3.2
+
+Reserves, including gold
+
+42.5
+
+87.1
+
+Politicalstability
+
+Rule of law
+Contml of corruption
+0
+
+82005
+02000
+
+Central Government Finance
+(% of GDP)
+Revenue
+Tax revenue
+Expense
+
+10.2
+
+15.7
+
+16.3
+
+19.9
+
+Cash surplus/deficit
+Highest marginal tax rate (%)
+Individual
+Corporate
+
+External Debt and Resource Flows
+
+...
+...
+
+...
+...
+
+Total debt (% of GDP)
+Total debt service (% of exports)
+
+...
+
+...
+
+Foreign direct investment (net inflows)
+Portfolio equity (net inflows)
+
+...
+
+266.0
+7.5
+
+-
+
+I
+
+iource: Kaufmann.Kraav-Mastruzzi, World Bank
+
+Technology and Infrastructure
+
+2000
+
+Paved roads (% of total)
+Fixed line and mobile phone
+subscribers (per 1,000 people)
+High technology exports
+(% of manufactured exports)
+
+76.5
+
+Agricultural land (% of land area)
+Forest area (% of land area, 2000 and 2005)
+Nationally protected areas (% of land area)
+
+-0.5
+0
+
+C02 emissions per capita (mt)
+
+13
+
+2004
+
+26
+
+0.5
+
+65
+
+3.6
+
+66
+2.2
+
+2,041
+0.8
+0.16
+
+0.15
+
+IBRD
+Total debt outstanding and disbursed
+Disbursements
+Principal repayments
+Interest payments
+
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+IDA
+Total debt outstanding and disbursed
+Disbursements
+Total debt service
+
+71
+2
+2
+
+111
+3
+3
+
+-
+
+-
+
+GDP per unit of energy use
+(2000 PPP 5 per kg of oil equivalent)
+Energy use per capita (kg of oil equivalent)
+
+IDA 111
+
+e,iaterai 52
+
+Time required to start a business (days)
+Cost to start a business (% of GNI per capita)
+Time required to register property (days)
+
+75
+
+higher YBIYBS imply bensr reling~
+
+Freshwater resources per capita (cu. meters)
+Freshwater withdrawal (% of internal resources)
+
+IBRO, 0
+
+Private Sector Development
+
+50
+
+71.5
+16.8
+
+Comporltlon of total external debt, 2005
+
+PI,".!.
+
+25
+
+Country's percentile rank (0-100)
+
+Environment
+
+(US$ millions)
+Total debt outstanding and disbursed
+Total debt service
+HlPC and MDRl debt relief (expected; flow)
+
+Short-brm, 30,
+
+;overnance Indlcators, 2000 and 2005
+
+(US$ miliions)
+
+2000
+
+2006
+
+-
+
+23
+192.3
+24
+
+-
+
+Ranked as a major constraint to business
+(% of managers Surveyed who agreed)
+n.a.
+n.a.
+Stock market capitalization (% of GDP)
+Bank branches (per 100,000 people)
+
+IFC (fiscal year)
+Total disbursed and outstanding portfolio
+of which IFC own account
+Disbursements for IFC own account
+Portfolio sales, prepayments and
+repayments for IFC own account
+MiGA
+Gross exposure
+New guarantees
+
+Note: Figures in italics are for years other than those specified. 2005 data are preliminary estimates.
+.. indicates data are not available. -indicates Observation is not applicable.
+Development Economics, Development Data Group (DECDG).
+
+10/31/06
+
+CAS Annex A2
+Page 3 of 3
+
+Millennium Development Goals
+
+Comoros
+
+With selected targets to achieve between 7990 and 2075
+
+(estimate closest to date shown, +/- 2 years)
+
+Goal 1: halve the rates for E l a day poverty and malnutrition
+Poverty headcount ratio at $1 a day (PPP, % of population)
+Poverty headcount ratio at national poverty line (% of population)
+Share of income or consumption to the poorest qunitile (%)
+Prevalence of malnutrition (% of children under 5)
+
+1990
+
+1995
+
+2000
+
+19
+
+26
+
+25
+
+34
+
+39
+24
+
+50
+35
+
+84
+
+84
+
+2004
+
+Goal 2: ensure that children are able to complete primary schoollng
+Primary school enrollment (net, %)
+Primary completion rate (% of relevant age group)
+Secondary school enrollment (gross, %)
+Youth literacy rate (% of people ages 15-24)
+
+57
+32
+I8
+57
+
+Goal 3: eliminate gender dlsparlty In educatlon and empower women
+Ratio of girls to boys in primary and secondary education (%)
+Women employed in the nonagricultural sector (% of nonagriculturalemployment)
+Proportion of saats held by women in national parliament(%)
+
+71
+17
+0
+
+0
+
+0
+
+3
+
+120
+88
+87
+
+100
+74
+69
+
+82
+61
+70
+
+70
+52
+73
+
+52
+
+480
+62
+
+21
+
+28
+
+54
+
+50
+
+46
+39
+
+Goal 4: reduce under4 mortality by two-thlrds
+Under4 mortality rate (per 1,000)
+Infant mortality rate (per 1,000 live births)
+Measles immunization (proportion of one-year olds immunized, %)
+Goal 5: reduce maternal mortality by three-fourths
+Maternal mortality ratio (modeled estimate, per 100,000 live births)
+Births attended by skilled health staff (% of total)
+Goal 6: halt and begin to reverse the spread of HiVlAlDS and other major diseases
+Prevalence of HIV (% of population ages 15-49)
+Contraceptive prevalence (% of women ages 1549)
+Incidence of tuberculosis (per 100,000 people)
+Tuberculosis cases detected under DOTS (%)
+
+88
+
+Goal 7: halve the proportion of people without sustainable access to bask needs
+Access to an improved water source (% of population)
+Access to improvedsanitation facilities (% of population)
+Forest area (% of total land area)
+Nationally protected areas (% of total land area)
+C02 emissions (metric tons per capita)
+GDP per unit of energy use (constant 2000 PPP S per kg of oil equivalent)
+
+93
+32
+5.4
+
+Goal 8: develop a global partnership for development
+Fixed line and mobile phone subscribers (per 1,000 people)
+Internet users (per 1,000 people)
+Personal computers (per 1,000 people)
+Youth unemployment (% of total labor force ages 15-24)
+
+111, -
+
+IEducation lndlcators (%)
+
+I
+
+1888
+
+-0-Primry
+
+2000
+
+Measles lmmunizatlon (X of 1-year olds)
+
+2002
+
+net enrollment ratio
+
+2m4
+
+I
+
+1880
+
+DConuros
+
+Note: Figures in italics are for years other than those specified.
+Development Economics, Development Data Group (DECDG).
+
+2wo
+
+2w
+
+OSubSaharan Africa
+
+.. indicates data are not available.
+
+0.1
+
+3.6
+
+86
+33
+2.2
+
+0.2
+
+0.1
+
+0.2
+
+0.1
+
+8
+0
+0
+
+9
+0
+
+13
+3
+6
+
+26
+14
+9
+
+0
+
+CT lndlcators (per 1,000 people)
+30
+
+1885
+
+55
+
+1
+
+20.32
+
+2002
+
+2w4
+
+0 Fixed + nubile subscribers
+0 internet users
+
+1Ol31106
+
+CAS Annex B2
+Page 1 of 1
+
+Selected Indicators* of Bank Portfolio Performance and Management
+as of 1013012006
+
+Indicator
+Portfolio Assessment
+Number of Projects Under Implementation a
+Average Implementation Period (years)
+Percent of Problem Projects by Number a * c
+Percent of Problem Projects by Amount
+Percent of Projects at Risk by Number as
+Percent of Projects at Risk by Amount
+Disbursement Ratio (%) e
+Portfolio Management
+CPPR during the year (yeslno)
+Supervision Resources (total US$)
+Average Supervision (US$/project)
+
+Memorandum Item
+Proj Eva1 by OED by Number
+Proj Eva1 by OED by Amt (US$ millions)
+% of OED Projects Rated U or HU by Number
+% of OED Projects Rated U or HU by Amt
+
+a.
+b.
+c.
+d.
+e.
+
+2004
+
+2005
+
+2006
+
+2007
+
+1
+
+1
+
+1
+
+1
+
+0.3
+
+1.3
+
+2.3
+
+2.6
+
+0.0
+0.0
+0.0
+0.0
+34.8
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+0.0
+0.0
+19.8
+
+0.0
+0.0
+0.0
+21.9
+
+0.0
+0.0
+0.0
+12.2
+
+No
+185,000
+37,000
+
+No
+173,000
+173,000
+
+No
+150,000
+150,000
+
+No
+130,000
+65,000
+
+Since FY
+80
+18
+109.2
+47.1
+48.2
+
+Last Five
+FYs
+6
+34.1
+40.0
+39.3
+
+As shown in the Annual Report on Portfolio Performance (except for current FY).
+Average age of projects in the Bank's country portfolio.
+Percent of projects rated U or HU on development objectives (DO) andlor implementation progress (IP).
+As defined under the Portfolio Improvement Program.
+Ratio of disbursements during the year to the undisbursed balance of the Bank's portfolio at the
+
+beginning of the year: Investment projects only.
+* All indicators are for projects active in the Portfolio, with the exception of Disbursement Ratio,
+which includes all active projects as well as projects which exited during the fiscal year.
+
+CAS Annex B3
+Page 1 o f 1
+
+IDA Program Summary
+as of 10/30/2006
+Proposed IBRDllDA Base-Case Lending Program a
+
+Fiscal
+year
+
+proi ID
+
+2007
+2007
+Total
+
+Additional financing to Services Support Project
+Economic Governance TA Project
+
+H = High
+M = Medium
+L = Low
+
+US$(M)
+5.0
+1.8
+6.8
+
+Strategic Rewards
+b (H/M/L)
+
+Implementationb
+Risks (H/M/L)
+
+H
+
+M
+M
+
+H
+
+CAS Annex B4
+Page 1 o f 1
+
+Summary of Non-lending Services
+as of 10/30/2006
+
+Product
+
+Completion FY
+
+Cost (US$OOO)
+
+Audiencea
+
+Objectiveb
+
+Knowledge/Problem
+solving
+
+Recent completions
+
+FY03
+
+32
+
+Government
+
+Environment Dialogue
+
+FY07
+
+15
+
+BanWGovernment
+
+PRSP
+
+FY08
+
+40
+
+Government
+
+Poverty & Service Delivery
+Planned
+
+FY08
+
+63
+
+BanWGovernment
+
+Statistical Capacity Building
+
+FY07
+
+48
+
+Government
+
+PEMFAR
+
+FY08
+
+110
+
+Government
+
+Trade Integration Study
+
+FY08
+
+75
+
+Country Strategy
+
+FYO9
+
+100
+
+Government
+BanWGovernmenff
+Public disseminat.
+
+Energy Note
+Underway
+
+a. Government, donor, Bank,
+public dissemination.
+b. Knowledge generation, public debate, problemsolving.
+
+KnowledgelProblem
+solving
+KnowledgelProblem
+solving
+Knowledge/Problem
+solving
+Knowledge/Problem
+solving
+Knowledge/Problem
+solving
+Knowledge/Problem
+solving
+Knowledge/Problem
+solving
+
+W
+
+9
+
+

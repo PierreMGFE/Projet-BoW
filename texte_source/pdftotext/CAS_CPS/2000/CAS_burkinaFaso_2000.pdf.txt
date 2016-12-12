@@ -1,0 +1,7089 @@
+Public Disclosure Authorized
+
+Document of
+
+The World Bank
+FOR OFFICIAL USE ONLY
+
+Public Disclosure Authorized
+
+Report No. 21285-BUR
+MEMORANDUMOF THE PRESIDENT
+OF THE
+INTERNATIONALDEVELOPMENTASSOCIATION
+TO THE
+EXECUTIVEDIRECTORS
+
+Public Disclosure Authorized
+
+Public Disclosure Authorized
+
+ONA
+COUNTRYASSISTANCESTRATEGY
+OF THE WORLDBANK GROUP
+FOR
+BURKINAFASO
+November 3, 2000
+
+Country Department for Burkina Faso
+AFC15
+Africa Region
+
+This document has a restricted distribution and may be used by recipients only in the
+performanceof their official duties. Its contents may not otherwisebe disclosedwithout
+World Bank authorization.
+
+CURRENCYEQUIVALENTS
+Currency Unit = CPA Franc (CFAF)
+US$1 = 782 CFAF (October 25, 2000)
+
+WEIGHTSAND MEASURES
+Metric System
+
+GOVERNMENTFISCALYEAR
+JanuaryI - Decemnber
+31
+
+ACRONYMSAND ABBREVIATIONS
+AAA
+AflDB
+APL
+ARTEL
+BCEAO
+CAE
+CAS
+CET
+CFAA
+CFAF
+COGES
+CPI
+CPIA
+CPPR
+DAC
+ECOWAS
+EMRSO
+EU
+FIAS
+FTA
+GDP
+GEF
+GEPRENAF
+HIPC
+HIV/AIDS
+ICR
+IDA
+IDG
+IFC
+IMF
+
+INSD
+MIGA
+MTEF
+NGO
+ODA
+OECD
+OED
+OHADA
+ONEA
+PASECT
+PER
+PFP
+PNGT
+
+PNDRD
+PROF
+PRONAGEN
+PRSC
+PRSP
+PSM
+PSAC
+RPTES
+SAC
+SILEM
+SOFITEX
+SPA
+SWAP
+UN
+WAEMU
+
+Analyticaland AdvisoryActivities
+African DevelopnentBank
+AdaptableProgramLending
+Agence de Regulationdes Telecommunications
+Banque Centraledes Etarsde I'Afriquede l'Ouest
+CountryAssistanceEvaluation
+CountryAssistanceStrategy
+ConmnonExternalTariff
+CountryFinancialAccountabilityAssessment
+CFA Franc
+Comitesde Gestion
+ConsumerPrice Index
+CountryPolicyand InstitutionalAssessment
+CountryPortfolioPerformanceReview
+DevelopmentAssistanceCommnittee
+(OECD)
+EconomicConmiissionfor West Africaa States
+Economnic
+Managenment
+ReformSupportOperation
+EuropeanUnion
+ForeignInvestmnt AdvisoryServices
+Free TradeArea
+Gross DomesticProduct
+GlobalEnvironmentFacility
+GestionParticipativedes RessourcesNaturelleset de la Faune
+Highly IndebtedPoor Countries
+Human hlinunodeficiencyVirusAcquired Imenunodeficiency
+Syndrome
+LIplenentation Conpletion Report
+InternationalDeveloprent Association
+InternationalDeveloprmentGoals
+IntemationalFinanceCorporation
+InternationalMonetaryFund
+Institut Nationalde Statistiqueset Demographie
+MultilateralInvestmentGuaranteeAgency
+MediumTermExpenditureFramework
+Non-GovernmentalOrganization
+OfficialDevelopmnent
+Assistance
+Organizationfor Economnic
+Cooperationand Developmnent
+OperationsEvaluationDepartment(WorldBank)
+Organisationpour I'Harmonisationdu Droitdes Affairesen Afrique
+OfficeNationalde l'Eau
+ProjetdtAjustenrentSectorieldes Transports
+PublicExpenditureReview
+PoticyFrameworkPaper
+Programme National de Gestion des Te,roirs
+ProgrammeNationalde DeveloppementRuralD&centrafisi
+PovertyReduction& Growth Facility
+Progranme Nationalde Gestionde l'Ecoasteme Naturel
+PovertyReductionSupportCredit
+PovertyReductionStrategy Paper
+PublicSector Management
+ProgramnuticStrctural Adjustrent Credit
+RegionalProgramn
+for theTraditionalEnergySector
+StructuralAdjustmentCredit
+SahelIntegratedLow LandEcosystemManagerment
+Societedes Fibres Textilesdu BurkinaFaso
+SpecialProgramfor Africa
+Sector WideApproach
+UnitedNations
+West AfricanEconomic& MonetaryUnion
+Vice-President
+Country Director
+Sector Manager
+Task Team Leader
+
+Callisto Madavo
+Hasan Tuluy
+Charles Humphreys
+Celestin Monga
+
+FOR OFFICIAL USE ONLY
+
+MEMORANDUM OF THE PRESIDENT
+OF THE INTERNATIONAL DEVELOPMENT ASSOCIATION
+TO THE EXECUTIVE DIRECTORS
+ON A COUNTRY ASSISTANCE STRATEGY
+FOR BURKINA FASO
+
+TABLE OF CONTENTS
+Page No.
+EXECUTIVESUMMARY
+INTRODUCTION
+POLICY FRAMEWORK
+
+I.
+A.
+B.
+
+BURKINA PASO'S DEVELOPMENTCHALLENGESAND THE GOVERNMENT'SPRSP
+MEDIUM-TERMMACROECONOMICFRAMEWORK
+
+BANK GROUP ASSISTANCESTRATEGY
+
+II.
+A.
+B.
+C
+D.
+
+m.
+
+PROGRESS UNDER LAST CAS AND LESSONS LEARNED
+CAS RATIONALE AND STRATEGICAPPROACH
+COUNTRY ASSISTANCEPROGRAM
+VEHICLES FOR BANK ASSISTANCE,ALTERNATIVESCENARIOSAND CONTINGENCIES
+
+KEY ISSUES IN IMPLEMENTING THE CAS
+MONITORING OF OUTCOMES
+COLLABORATIONWITH OTHER DEVELOPMENTPARTNERS
+
+IV. RISKS
+
+(i)
+1
+1
+1
+3
+
+7
+7
+8
+10
+16
+
+23
+23
+24
+
+25
+
+This document has a restricted distribution and may be used by recipients only in the
+performance of their official duties. Its contents may not be otherwise disclosedwithout
+World Bank authorization.
+
+MEMORANDUMOF THE PRESIDENT
+OF THE INTERNATIONALDEVELOPMENTASSOCIATION
+TO THE EXECUTIVEDIRECTORS
+ON A COUNTRY ASSISTANCESTRATEGY
+FOR BURKINAFASO
+
+TABLE OF CONTENTS (cont'd)
+TEXT TABLES
+* Table 1: Selected Indicators
+* Table 2: Scenario of Moderate Growth - Selected Indicators, 1999-2005
+* Table 3: High Growth Scenario - Selected Indicators, 1999-2005
+* Table 4: Base Case Assistance Program, FY 2001-2003
+• Table 5: Triggers and Main Assumptions for Lending Program Composition
+* Table 6: Proposed Core Benchmarks during CAS Period
+BOX TABLES
+* Box 1: OED Country Assistance Evaluation
+* Box 2: Client Feedback Survey
+• Box 3: Bank Group Portfolio (FY01)
+* Box 4: Inprovements in Governanceand Fight Against Corruption
+* Box 5: Rationale for PRSC in Burkina Faso
+ATTACHMENTS
+* 1. Constraints to Growth and Poverty Reduction
+* 2. Burkina Faso's Poverty Profile
+* 3. Key Structural Reforms Implementedunder Previous CAS
+* 4. Econometric Model for Macroeconomic Simulations
+i
+5. CAS Formulation: A Participatory Process
+- 6. Burkina Faso's Gender Profile
+77. Collaboration with Development Partners
+- 8. Performance MonitoringFramework
+- 9. Combating HIV/AIDS
+* 10. Core Labor Standards
+ANNEXES
+* A2: Burkina Faso at a Glance
+* B 1: CAS Matrix 2000-2003
+* B2: Selected Indicators of Bank Portfolio Performance and Management
+* B3: Bank Group Program Summary:IDA
+* B3: IFC and MIGA Program
+* B4: Sunmmaryof Nonlending Services
+B5: Social Indicators
+* B6: Key Economic Indicators
+B7: Key Exposure Indicators
+* B8: Status of Bank-GroupOperations
+* B8: Statement of IFC's Held and Disbursed Portfolio
+MAP IBRD 28673
+
+MEMORANDUMOF THE PRESIDENT
+OF THE INTERNATIONALDEVELOPMENTASSOCIATION
+TO THE EXECUTIVEDIRECTORS
+ON A COUNTRYASSISTANCESTRATEGY
+FOR BURKINAFASO
+
+EXECUTIVE SUMMARY
+
+BurkinaFaso is a poor landlockedcountrywith a limited resourcebase, high vulnerabilityto
+1.
+externalshocks,and acute social needs. With a populationof nearly 12 million growing at about 2.8
+percent per annum,BurkinaFaso's real GNP per capita was US$230in 1999.Given its narrow tax
+base and structural Government budget deficit, the country has traditionally benefited from
+substantialexternal aid flows(officialdevelopmentassistancereceivedrepresentedabout 13 percent
+of GDP over the last five years). Burkina Faso established a good track record on prudent
+macroeconomic management and structural reforms during the last CAS period (FY97-00).
+However, the country has been unable to attract levels of foreign direct investment necessary to
+increase employmentand incomes, owingto poor economicinfrastructureand high transactionand
+input costs, low labor productivityand a large social deficit,the limited size of the modern economy,
+and severalimportantinstitutionalweaknesses.
+Objectives. Despite BurkinaFaso's average GDP growth of 5.7 percent during 1996-99,45
+2.
+percent of the populationremainspoor and more than two-fifthslive in extremepoverty.Thecentral
+objectiveof the CAS is to support the Government'sefforts as describedin the PRSP to achieve
+sustainedhigh growth rates, to reduce the high incidenceof poverty, and to improve the nutrition,
+health, and educationof the rural population,which constitutes the largest group among the poor.
+Specifically,the CAS seeks to help the Governmentreduce the povertyheadcountratio by at least 2
+percentagepoints per year during2000-2003.
+Approach.While building on the positive developmentoutcomes achievedover the last four
+3.
+years, this CAS
+* incorporates the results of intensive analytical work and discussions with the Burkinabe
+authoritieson the causes of povertyand the challengesof higher,sustainablegrowth.
+* focuses on the areas critical for the poor (education,health, water supply, rural development)
+and on increasingtheir accessto basic publicservices.
+* addresses key cross-cutting issues of capacity building, gender, decentralization, and the
+environment.
+* recommends a progressive shift from project support towards program supportto further the
+strategic,efficient, and equitableuse of public resources, regardlessof source.
+* acknowledgesthat efficientuse of IDA administrativeresourcesimplieshigh sectoral selectivity.
+Proposedprogram. The CAS will focus on (i) supportingpolicies and programs aimed at
+4.
+improving the supply side of the economy to allow for sustained,broad-basedand export-oriented
+growth; (ii) improving public finance management to ensure that Government revenues are
+mobilizedwithout distortingthe modern sector of the economy,and (iii) ensuringthat the allocative
+processand the effectivenessof public spendingwill place special emphasison social services.With
+respect to the latter, the CAS will contribute to closing the social deficit by supporting ten-year
+programsin educationand health as well as effortsto aggressivelyfightHIWV/AIDS.
+The proposed base case lending level of $400-420million for 11 operations(compared to
+-5.
+$205-260million and 8 operationsunder the previous CAS) assumes:(i) continued maintenanceof
+i
+
+good macroeconomicenvironment;(ii) satisfactoryimplementationof the reformprogramin the key
+povertyreducing sectors presentedin the PRSP; (iii) enhancedexternal and internal competitiveness
+through concrete actions to liberalize utilities and reduce input and factor costs as outlined in the
+PRSP; (iv) improved transparencyand accountabilityin public finance management as outlined in
+the PRSP; and (v) continuedsatisfactoryportfolioperformance. The high case lending would be
+triggeredby: (i) major improvementsin public financemanagement,includingthe implementationof
+institutionalreforns and budgetaryproceduresthat will make the system more efficient and budget
+management more expeditious, reliable, transparent, consistent, and accountable; (ii) swift
+implementation of the private sector development strategy, including completion of the utilities
+reform program;and (iii) increasein the absorptivecapacityfor public funds,as demonstratedby the
+speed and level of implementationof priority public expenditureprograms. Triggers for low-case
+lending would include failure to effectivelyimplement the reform agenda outlined in the PRSP and
+maintainmacroeconomicstability,and sustaineddeclinein portfolioperformance.
+6.
+CAS Risks. The implementationof the Bank's proposedassistancestrategy faces three types
+of risks: (i) deterioration of the external environment; (ii) weak institutional capacity; and (iii)
+political risks. In our assessment,these risks aremanageable.The Bank will take all necessarysteps
+describedin the CAS to mitigatethem.
+7.
+The followingissuesare suggestedfor Boarddiscussion:
+* Are the scale and compositionof the proposedprogram appropriateresponsesto Burkina
+Faso's developmentneeds and do theyreflect the Bank's comparativeadvantage?
+* Is the proposedset of core benchmarksfor monitoringand evaluatingthe implementation
+of the CAS adequate?
+
+ii
+
+MEMORANDUM OF THE PRESIDENT
+OF THE INTERNATIONAL DEVELOPMENT ASSOCIATION
+TO THE EXECUTIVE DIRECTORS
+ON A COUNTRY ASSISTANCE STRATEGY
+FOR BURKINA FASO
+
+INTRODUCTION
+The Government of Burkina Faso has been implementing since 1991 a wide range of
+1.
+economic reforms under a series of stabilization and structural adjustment programs supported by the
+Bank, the IMF and other donors. In 1995, it issued a Letter of Intent for Sustainable Human
+Development Policy, which laid down its vision of the country for 1995-2005. The vision consists of
+transforning Burkina Faso from one of the poorest countries in Sub-Saharan Africa into a middleincome one with a dynamic private sector open to the world economy. However, the authorities now
+recognize that, in spite of its stabilization record, Burkina Faso will not be able to reduce poverty and
+meet the 2015 International Development Goals (IDG), unless the country accelerates the pace of
+reforms to liberalize and open up the economy. The recently completed Poverty Reduction Strategy
+Paper (PRSP - IDA/Sec/M2000-313) discussed at the Board on June 30, 2000 presents the agenda for
+a new, more ambitious course of action that would lead to higher growth rates and substantial
+poverty reduction.
+The last CAS was discussed by the Board in
+2.
+Indicators
+Table1:Selected
+June 1996 (15740-BUR). This CAS is designed as the
+AverageAverageEstimate
+Bank business plan for FY01-03 to support Burkina
+(199294) (1995-97)(1999)
+Faso's PRSP. Thus, this CAS: (i) reflects the results of
+10.6 11.6
+9.8
+(million):
+Population
+intensive analytical work and discussions with the
+2.8
+2.8
+2.8
+Growth(%):
+Burkinabe authorities on the causes of poverty and Population
+2.8
+2.4
+2.6
+the challenges of higher, sustainable growth; (ii) GDP($billion):
+230
+230
+220
+GNPper capita($):
+focuseso the.areascriticalforthepoor(education,
+3.7
+
+4.9
+
+5.8
+
+focuses on the areas critical for the poor (education,
+
+GDPGrowth(%):
+
+health, water, rural development) and on increasing
+their access to basic public services; (iii) addresses
+the key cross-cutting issues of capacity building,
+gender, and the environment; and (iv) recommends a
+progressive shift from project support towards
+
+FiscalDeficiVGDP(%): -7.7 -7.9 -12.3
+-1.1
+4.6
+0.4
+Inflation(CPI)(%):
+-16.2
+7.5
+0.3
+ExportGrowth(%)
+livingbelow$1/day:45%
+% of Population
+
+program
+
+support in order to futher
+
+the strategic,
+
+efficient, and equitable use of all public resources,
+The CAS incorporates
+whatever their source.
+results-oriented
+and
+outcomequantitative,
+benchmarks to better monitor and fine-tune the
+assistance program and its effectiveness.
+
+I.
+A.
+
+Litercy Rate:
+GrossPrimaryEnrollment:
+Ferrle PriraryEnrollment:
+
+furthr the stategic,Fenmale LiteracyRate:
+in orderto
+InfantMortality:
+
+Life Expectancy at Bith (y33%
+of {IIV/AIDS:
+Prevalence
+
+19%
+9%
+41%
+34%
+
+105 per1000
+6.4%
+
+POLICY FRAMEWORK
+
+BURKINA FASO'S DEVELOPMENT CHALLENGES AND THE GOVERNMENT'S PRSP
+
+A Strong Analytical Base. Recently, considerable analysis has been undertaken and open
+3.
+debate has occurred over Burkina Faso's growth prospects. In 1999, the Government commissioned
+
+a comprehensiveanalysis of competitivenessand long-termsources of growth in the country. The
+findingsserved as the basis of a workshopin Ouagadougouin May 1999with the participationof the
+Government,the Bank, donors,the private sector, and civil society. A special Cabinet meetingwas
+later convened by the Head of State. The study Burkina Faso: Competitivite et Croissance
+Economique-Orientations, Strategieset Actions was completedin early 2000, and identified four
+major constraintsto growth (see Attachment 1): (i) a depleted social and human capital base, low
+labor productivity,and high unemployment;(ii) weak physicalinfrastructure,high input costs, anda
+small modem private sector; (iii) severely constrained institutional capacity; and (iv) a relatively
+closed economy,exportingonly small amountsof raw material and labor.
+4.
+The PRSP is based on a solid understandingof the nature and locus of poverty in Burkina
+Faso. In 1996 and 2000, the Governmentissued two povertyprofiles drawing from the results of
+Priority Surveys conducted in 1994 and 1998. BurkinaFaso is one of the few francophoneWest
+African countriesthat have producedcomparablesurveysto analyzepoverty trends over a five-year
+period. The availability of these data has allowed poverty outcomes to be measured and the
+relationship between poverty and key determinants-geography, family composition,gender, and
+occupation-to be better understood.
+5.
+Poverty Profile. The survey findings indicate that poverty is a widespreadphenomenonin
+BurkinaFaso, and that 45.3 percent of the population(see Table 1) currentlylives below the absolute
+poverty line of approximatelyCFAF 72,690 per year (compared to 44.5 percent in 1994 with a
+povertyline of CFAF41,099)1.Povertyis particularlyprevalentin rural areas,althoughits incidence
+in urban areas increased by five points from 1994 to 1998, reaching 16 percent in 1998 (see
+Attachment2).
+6.
+The participatory surveys of the perceptions of the poor regarding poverty reveal that the
+situationdiffers dependingon where the respondentslive. The key factors for the urban poor are, in
+order of importance,climate-relatedhazards,low purchasingpower, old age, and large family size.
+Poor people in rural areas, however, attribute their situation mainly to lack of economic
+opportunities,physical handicaps,and social decay. Theregional analysisof poverty showsthat the
+poverty map in Burkina Faso changedbetween 1994 and 1998.Although the incidence of poverty
+decreasedsignificantly(by nearly eightpercentagepoints)in the southern,southeastern,and northern
+agro-climaticregions,the south-centralregion experiencedan increaseof four percentagepoints. The
+analysis of poverty among socioeconomicgroups (based on source of income) shows that the
+incidenceof poverty is increasingfor all groupsexcept cash crop farmersand inactive persons. It is
+highestamongfood crop farmers,who accountfor most of the populationliving in poverty.
+7.
+Main Pillars of the PRSP and Staff Assessment. The PRSP acknowledgesthat sustainable
+povertyreductionrequiresnot only rapid growth,but growththat offers increasedaccess to economic
+opportunity by the poor and growth that is environmentallysound. It also depends on good
+governancethat ensures transparencyand the fair distributionof the benefits of growth. The PRSP
+outlines and prioritizes the Government'spoverty reductionstrategy that aims to intervene in four
+areas: (i) acceleratingbroad-basedgrowth; (ii) ensuring that the poor have access to basic social
+services;(iii) expandingopportunitiesfor employmentand income-generatingactivities for the poor;
+and (iv) promotinggood governance.In each area, the documentdescribesthe specific actions that
+the Govermnentintends to take over the medium term to overcome the severe constraints.The
+1The poverty line per year and per capita, based on household expenditures, was estimated at CFAF 41,099 (equivalent to
+US$74) in 1994 and updated to CFAF 72,690 (equivalent to US$123) in 1998. In real terms, these two amounts of money allow
+the acquisition of the same basket of goods. The sizeable increase in the poverty line is due to the CFA franc devaluation in early
+- 1994, which has made the basic basket of goods more expensive (the 1994 poverty line was determined on the basis of 1993
+costs).
+2
+
+action plan focuses on three priority sectors-education, health, and rural development-where
+public interventionstraditionallyhave had the highestpayoffin terns of fosteringeconomicgrowth,
+increasingemploymentopportunities,and raisingthe Burkinabestandardof living.
+8.
+
+The Government'scoreobjectivesfor 2005canbe summarizedas follows:
+* to raise GDPper capita,at a minimum,by 3 percentannually;
+* to reduce the headcountpovertyindexfrom 45.3 percentto less than 35 percent;
+* to raise the literacyrate from 19 to 40 percent;
+* to increase life expectancyto 57 years.
+
+9.
+The Government's poverty reduction strategy is appropriate to Burkina Faso's current
+circumstancesand provides a sound basis on which to elaborate the Bank's assistance strategy. It
+candidlyidentifiesthe causes of poverty,and correctlyfocuseson key sectoralstrategies that would
+have the highest impact on poverty alleviation.The relationshipbetween poverty and geography,
+family composition,gender,occupationand otherkey determinantsare well understood.The action
+plan focuses on three priority sectors:health, education,and rural development.This emphasisis
+consistentwith the findingof the competitivenessstudythat human capital and rural productivityare
+key constraintsto growth. The monitoringand evaluationsystem put in place by the Governmentis
+appropriate.The costing of the PRSP action plan is consideredreliable because it draws upon the
+long-term strategies under finalizationin priority sectors and on the preliminary work done, in
+cooperationwith Bank staff, on the 2001-2003medium-termexpenditureframework.New spending
+priorities are consistent with Burkina Faso's limited implementation capacity and with noninflationary finance. The PRSP considers the scope for reallocation of spending, increasing its
+efficiencyand raisingnew revenuein a non-distortionarymanner,as well as scope for more extemal
+assistance.The use of HIPC resourcesis clearlypresented.
+10. While the povertyreductionstrategyas thewhole is consideredsound,there are someelements
+of concemto staff, which are the topic of ongoingdialoguewith the authorities:(i) the PRSPprojects
+real GDP growth rates of over 7 percent a year in 2001-03, which would be unprecedented-the
+Burkinabe authoritiesacknowledgethat they would have to implementswiftly an ambitiousreform
+agenda to reach that goal; (ii) the PRSP contains limited analysisof why public service quality is
+low,unit costshigh and outcomesdisappointing-the Governmentrecognizesthis weaknessand has
+just completeda series of PER studiesin the socialsectorsand expectsto use the findingsto address
+these questions;and (iii) the need to ensuresystematicconsultationdirectlywith the poor. This is to
+be completedthroughthe preparationof a participatorypovertyassessment,with technicalassistance
+from the Bank in 2001. The Governmentplans to update the PRSP annuallyto take into account the
+lessonslearned from the implementationof policiesadopted,the findingsof complementarystudies
+carriedout by various institutionsto gain a better grasp of the povertyphenomenon,and the evolving
+resourceframework.
+B.
+
+MEDIUM-TERMMACROECONOMICFRAMEWORK
+
+EconomicPerformanceunderthe PreviousCAS
+11.
+Between 1996 and 1999, real GDP grew on average by 5.7 percent annually despite a
+significant deterioration in the terms of trade over the period. The relatively strong growth
+performanceis attributableto the competitivenessgains followingthe 1994 CFA franc devaluation,
+to the large public investment program, and to the financial and structural policies aimed at
+consolidatingthe market orientation of the economy and maintaining macroeconomicstability.
+Activity in the manufacturingsector, in particular the cotton ginning industry, was boosted in the
+1996-98period by a strong increasein cotton productionfrom 150,000tons in 1995/96to 338,000
+3
+
+tons in 1997/98.In 1998/99,cottonproductiondeclinedto 284,500 tons in responseto unfavorable
+environmental conditions and remained broadly stable in 1999/2000.Despite a sharp decline in
+internationalprices in 1999, the ginning and marketingcompany (SOFITEX)was able to avoid
+lossesby improvingquality and reducingcosts.Reflectingstrongpublic investment(which averaged
+almost 14 percent of GDP in 1996-99),the constructionand public work sectors also supported
+growththroughoutthe period, togetherwith services,which grew on averageby 6 percent annually.
+Inflation on an annual basis, as measuredby the GDP deflator, declinedfrom 6 percent in 1996 to
+2 percent on average,between 1997and 1999.
+12.
+Govermmentrevenue rose during the last CAS period from 12.3percent of GDP (1996) to
+13.5percent of GDP (1999)despitelosses causedby the reduction of externaltariff rates associated
+with the introduction of the West African Economicand Monetary Union (WAEMU)common
+externaltariff (CET).For all three years, the currentprimarybalanceexceededthe PRGFtargets,and
+effortswere made to redirectspendingto socialsectors.The level of public capitalspending,mainly
+externallyfinanced,hoveredbetween 12 and 16percentof GDP over the period.
+13.
+After declining between 1996 and 1997, the external current account deficit,excluding
+grants, rose in 1998 and 1999 by 1.5 percentagepoints of GDP to 16 percent of GDP, due to an
+increase in imports in 1998 (the result of a rise in spendingthrough the capital budget and private
+investment) and lower-than-expectedcotton exports in 1999. This slightly higher deficit was
+financedby foreignreserves,withoutresortingto externalarrears. Structuralreformsundertaken
+in 1996-2000are summarizedinAttachment 3. Implementationof these reforms has not,however,
+led to any significantchange in the structureof BurkinaFaso's economy,which is still dependenton
+few primaryproductexports.
+14. Sources of Growth. The key factors in building the growth momentum during the 199499 period were the January 1994 devaluation,the public investment ratio, averaging 14 percent
+of GDP in 1996-99, and the sound macroeconomic policies and structural reforms under
+successive adjustment programs, which improved the environment for private sector activities.
+Recent studies indicate that in order for BurkinaFaso to achieve its PRSP goals, the Govemment
+would need to continue to liberalize the economy, improve external competitiveness, and
+develop the country's economicand social infrastructure.
+15. The agriculturalsector,which contributesabout31 percent of GDP at currentprices, was the
+main source of growth.It grew by 3.1 percent in 1999in real terms (5.5 percent in 1998).Following
+a record increase of 17 percent in crop year 1998-99,the cereals output increased further by 1.6
+percent in 1999to reach 2.7 milliontons. Growthin the primary sectorwas due to a combinationof
+factors, including structural reforms and changes in sectoral policies that helped raise farrners'
+income and improvedprofitability-especially in the cotton sector. Livestock,numberingabout 20
+million heads of cattle, forestryand fishing continuedto grow at a broadlystable rate. There is scope
+to increase production substantiallyin cotton and cereals, provided that farmers acquire essential
+tools and have accessto financing.Thereis also scopeto expandsignificantlyproductionand exports
+of fruits and vegetables,includingmangos,sesame,and sheanuts.
+16. Cotton will remain Burkina Faso's main export commodity in the medium tern. Cotton
+exports, after a very rapid growth in 1995-98when they more than doubled,reflecting improved
+incentivesto producers, are projectedto expandat a more moderatepace of 6 percent per year in
+1999-2004. Exportgrowth potentialis presentfor fruits, vegetables,and productsthat can be used
+by the pharmaceuticalindustry. There is also a potential for developmentof the exports of hides,
+skins and leather, as well as of gold and other minerals. Gold exports are projected to increase
+substantially,owing to the intenseexplorationscurrentlyunder way. The growth in exportvolume is
+predicatedhowever on someprice recovery. Thereshouldbe scope for developingtextiles and light
+4
+
+manufacturing directed to satisfy regional demand provided Burkina Faso improves its
+competitiveness.Nontraditionalexportsareprojectedto growrapidly from a low base.
+LinkagesbetweenGrowth,Consumption,and Poverty
+17.
+Burkina Faso's strong economicperformanceover the last six years has not translatedinto
+increasedwelfare and poverty reduction.Poverty incidence,as measured by the headcount index,
+has not been reduced during 1994-98(45.3 percentin 1998,comparedto 44.5percent in 1994).Two
+importantmacro links betweenpoverty,as measuredby consumption-basedwelfare and income per
+capita,need to be considered.First, because inequalityishigh in BurkinaFaso, there are important
+distributionaldifferencesamong income and socioeconomicgroups.Also, little correlation exists
+between aggregateconsumptionindicators and consumptionin the three lowest income quintilesthe poorest provinces.Accordingto studies by the INSD,the 1994 devaluationand the subsequent
+structuralreformshave raisedliving standardsfor cottonproducers,especiallyin the South-West,but
+mayhave increasedurban poverty.
+18.
+Second, cross-sectionalanalysesindicate that, on average,increased consumptionper capita
+of 1 percent is associated with a decline in the poverty headcount ratio of about 1 percent. This
+suggeststhat policies that lead to an increasein aggregateconsumptionare likely to lead to a decline
+in the poverty headcount ratio. In BurkinaFaso, the link between aggregateoutput per capita and
+consumptionper capita is complex.Therefore,the reformprogram under considerationwill reflect
+analysesof (i) the determinantsof aggregateconsumption;(ii) the welfare effectsof reforms;(iii) the
+impact of changes in relative prices, terms of trade, and domestic absorptionof foreign financing;
+and (iv) the nature of savings and public expenditurepolicies in a countrywith high inequalityin
+income distribution.The next stage of analysiswill look at sector specific income distributionand
+the impactof differentgrowthpatternson improvinglivingstandards.
+ModelingGrowthScenarios
+19.
+An econometric model was built in close collaborationwith the Government's economic
+team to design an appropriatemix of fiscal, monetary,and public investmentpolicies that would
+bring the economyto a highergrowthpathwhile maintainingan adequatelevel of consumption.
+20.
+Scenarioof Moderate Growth. On the basis of the assumptionsprovidedin Attachment4,
+simulationresultsindicate that real GDPgrowthcouldaverage4.5 percentper annumover the period
+2000-05,while the GDP deflatorwill stabilizebelow the WAEMUtarget at about 2.4 percent on
+average. At the annual real GDP growth rate of about 4.5 percent and given the current
+elasticityof povertyreductionwithrespectto meanincome(about 1.5), BurkinaFaso's poverty
+will decreaseonly by 16 percent(about7 percentagepoints)and the countrywill not meet the
+2015 ODA-OECDtargets.2 Also, this scenariocarrieswith it a significantdownsiderisk. Because
+cottonremains the main exportcrop, the Burkinabeeconomywill remain vulnerableto climatic and
+termsof trade shocks.In the caseof a serious adverseexternalshock,real GDP growthrate may fall
+below the population growth rate, which could fuel poverty and worsen domestic and external
+imbalances.
+
+2With its population growingat 2.8 percent a year, a real GDP growth rate of 4.5 imnpliesan increase in GDP per capita of 1.7
+percent.Assuming an elasticity of poverty with respect to income of 1.5, this would translate into a reduction of 2.6 percent per
+year of the headcount index, that is 1.2 points from the current 45.3 percent.
+
+5
+
+Table 2: Scenario of moderategrowth: Selected Indicators, 1999-2005
+2001
+4.9
+2.8
+
+2003
+4.9
+2.8
+
+2005
+4.3
+2.8
+
+2.1
+
+2.1
+
+1.5
+
+45.3
+I4.4
+
+1.5
+3.1
+42.5
+1.5
+
+1.5
+3.1
+40.0
+2.3
+
+-1213
+-165
+
+-12
+-12
+
+-12
+
+1.5
+2.2
+38.2
+2.4
+-12
+-12
+
+19991(6cttial)
+Real GDP growth rate (annualpercentage
+
+5.8
+2.8
+3.0
+
+change)
+
+Populationgrowthrate (annualpercentage change)
+Real GDP per capita (annual percentage change)
+Poverty elasticity in Burkina Faso with respect to mean income
+Expected reduction in headcount ratio (% per year)
+Poverty headeount ratio
+GDP deflator (annualpercentage change)
+Fiscal deficit (in percentage of GDP, excluding grants)
+Current account deficit (in percentage of GDP, excl grants)
+
+21.
+
+Rationale
+
+Government's
+
+for
+
+a High
+
+Growth
+
+Scenario.
+
+The
+
+1,5
+
+PRSP
+
+-11
+
+acknowledges
+
+that
+
+achieving
+
+the
+
+poverty reduction objectives will require a new policy framnework. Keeping in mind
+
+that the Government's
+
+revenue
+
+capacity
+
+remains
+
+donors would be called upon to maintain
+
+very low (and unlikely
+
+to change in the near future),
+
+high aid flows to Burkina Faso (provided
+
+that the
+
+authorities keep their commitment to reform). To achieve higher growth rates over the mediumterm-a GDP growth rate of 7 percent a year-the Burkinabe authorities recognize that they must
+implement an aggressive structural reform program to remove constraints to private sector
+development and to accelerate the pace of Burkina Faso's integration into the regional and world
+economy. This will include diversifying the economy; investing in human resources; reducing the
+high costs of electricity, telecommunications and transport; improving the taxation system; and
+deepening financial intermediation.
+22.
+In this bold scenario, and on the basis of assumptions provided in Attachment 4, simulation
+results indicate that real GDP growth could rise steadily over the period 2000-2005 to reach 7.7
+percent, while the GDP deflator is contained at about 2.6 percent. With a poverty elasticity of
+about 1.5, the poverty headcount ratio would be reduced by about 30 percent (15 points).
+Stronger export performance may also lead to a significant improvement in the overall deficit and the
+current account balance (excluding grants) between 1999 and 2005, as shown in Table 3 below.
+Table 3: High Growth Scenario: SelectedIndicators, 1999-2005
+Real GDP growth rate (annual percentage change)
+Population growth rate (annual percentage change)
+Real GDP per capita (annual percentage change)
+Poverty elasticity in Burkina Faso with respect to mean income
+Expected reduction in headcount ratio (% per year)
+Poverty headeount ratio
+GDP deflator (annual percentage change)
+Fiscal deficit (in percentage of GDP, excluding grants)
+Current account deficit (in percentage of GDP, excl. grants)
+
+6
+
+: 199W(actual) I
+5.8
+:
+
+2.8-7
+3.07
+L1.5l
+4S.3:
+
+-1.4
+-12.3
+16
+
+1
+
+2001
+6.3
+2.8
+3.5
+1.5
+5.2
+40.5
+1.5
+-12
+
+-11
+
+2003
+7.6
+2.8
+4.8
+1.5
+7.2
+34.7
+1 2.4
+
+-10
+-10
+
+2005
+7.7
+2.8
+4.9
+1.5
+7.3
+29.6
+2.6
+-10.0
+-9.0
+
+II.
+A.
+
+BANK GROUP ASSISTANCE STRATEGY
+
+PROGRESS UNDER LASTCAS AND LESSONSLEARNED
+
+23.
+Progress towards Objectives in
+Previous CAS. The last CAS which was
+BoxE1:OED Country Assistance Evaluation (CAE)
+th
+by onn July
+1, 1996
+In 1999OED
+comnpleted
+discussed bydiscussd
+the Board
+Board
+July 11,
+1996 program
+in Burkina
+Faso.a CountryAssistanceEvaluationof IDA's
+(R96-140) supported three objectives: . While the focus of IDA's program over the past decade was
+maintaining a stable macroeconomic
+deemed generally appropriate, the overall outcome was rated
+environment, providing social services to
+marginally satisfactory despite somne iniportant successes,
+the poor and creating sustainable income,
+and key parastatals, reorientation of primary education
+employment, and growth opportunities.
+system, strengthening of capacity to build and mnaintainurban
+Progresswas made under the first objective
+infrastructure, and of agricultural services, and the extent of
+as notedin paras 11-13.Data indicatea poor
+beneficiaryparticipation.
+Support of structural adjustment with closely integrated
+record in the second objective: despite
+projects in key sectors was found broadly relevant, but too
+important economic achievements, and
+ambitious given institutional capacity and political instability,
+although much has been done to promote
+slow process in reaching consensus around private
+essentialbasic social services,BurkinaFaso *participation
+the economy.
+e Privatization, incivil
+service reform, and trade and price
+still suffers from a large social deficit. In
+liberalizationwere judged to be partial successes Little
+reference to the third objective, some
+progress was noted howeverin private sector development,
+progress was made in liberalizing and
+rationalizationof the pubLicinvestmentprogram,
+decentralizationof public health services and in supportto dry
+opening up the economy. However, the
+land agriculture.
+population has grown faster than the . Coordination arnongBurkina Faso's main donors wasjudged
+economy's capacity to generate additional
+inadequateand a framework for integrating extemal assistance
+income. In addition, growth opportunities
+was absentwhich weakenedthe policy impact of the country
+dialogue.
+are still hamperedby low laborproductivity, . These fndings have been shared with the authorities and the
+now further threatenedby HIV/AIDS,high
+lessonstaken into accountin preparing this CAS.
+input and factor costs, weak organizational
+and institutionalsettings for efficientsocial
+servicedelivery,and poor donorcoordination.
+24.
+What Worked Well. The Bank's adjustment operations-a one tranche Economic
+ManagementReform Credit in FY99, followedby a one tranche SAC III in FYOO-workedwell to
+improveBurkinaFaso's public financemanagementand resourcemobilization.The last three Public
+Expenditure Reviews (PERs) were successful and a medium-term expenditure framework is
+currently in place. The Public InstitutionalDevelopmentCredit (closed in FY00) supported the
+computerizationand on-linemanagementof publicfinance (includingTreasury)and the civil service.
+Reforms under the Transport Adjustment Credit (closed in FY00) have led to the successful
+implementationof road maintenancewith regular budgetallocations.Two urban operations-Urban
+II (closedin FY97) and UrbanEnvironment(undersupervision)increasedprivate sector participation
+and domesticresourcemobilization.The EducationIV Credit(closedin FY99), and the Post-Primary
+Education Credit (under supervision) contributed to the strengthening of institutions and
+infrastructureto promote quality and access, most notably in primary education.Progress was also
+made in liberalizingthe telecommunicationssector,with the issuance of two new cellular licenses
+and the creationof a regulatoryagency(ARTEL).Privatizationof Air Burkinais well advanced.
+25.
+What Worked Less Well. Implementationof the privatization program under the Private
+SectorAssistanceCredit (closedin FY00) moved slowerthan anticipatedas the processfocussedon
+transactionsrather than on an articulationof a strategiccontext.However,the situationturnedaround
+in the last year of implementation, during which the project supported the preparation and
+disseminationof a major study on competitivenessand economicgrowthin BurkinaFaso.
+7
+
+26.
+What Did Not Work Well. In several sectors,
+the Bank and the Governmentcame to no agreement
+on the content and pace of reforms. For example,
+reforms to liberalize trade and prices of cereals,
+livestock,and cash crops (e.g., cotton)have still not
+been agreed upon. The second Agriculture
+Adjustment credit was cancelled during preparation
+(March 98) due to continued disagreement with
+Government on the reform agenda. Rationalization of
+
+Govemiment on the reform agenda. Rationalization of
+
+the public investmentprogram, too, was incomplete
+largely due to weak donor coordination.Utilities and
+air transport costs have not been reduced; the
+economicbenefits of slower population growth and
+the challenge of AIDS were not sufficiently
+emphasizedin the dialoguewith the Government.
+
+Box2: ClientFeedbackSurvey
+A survey was conducted in December 1997 and
+provided lessons
+can help the Bank strengthen its
+relationship withthat
+the Governrnent
+and other donors.
+The survey noted that Bank staff need to reach out and
+listen more. Feedback also suggests that Bank staff
+need to be mnoreproactive in detecting and resolving
+imnplementationissues. The survey confirmed strong
+Bank-Government relations, especially at senior
+Governmentlevels. During CPPR preparation, project
+units recently noted long delays in processing of no-
+
+objections, high level of Bank staff rotation at
+Headquarters which has negative effect on project
+imnplementation,poor planning of Bank missions, and
+too heavy reliance on consultants with limited
+experience.
+
+27.
+Portfolio Management. Gross IDA disbursements fell
+below planned levels in the late 1990s because of the failure to
+reach agreementon sectoral reformsin agricultureand in response
+to weak implementationcapacity. As of November1, 2000, there
+were seven activeprojects in the Bank's portfolioin BurkinaFaso,
+totaling $186 million, of which $87 million was undisbursed,
+significantlylower thanthe 15 projectstotalingUS$372millionin
+FY97. While a number of projectsclosed in the latter part of the
+1996-2000CAS period, emphasis was placed on building the
+analytical base, with economic and sector work undertaken in
+education, health, decentralization, public finance and
+infrastructure. Portfolioperformanceover the last several years
+has been mixed, but generally satisfactory. At the time of the
+
+Box 3: Bank Group
+Portfolio(UJS$m)
+(FY01)
+11AConmitmnents
+Number of Projects
+Sectoral Composition (%)
+Agriculture
+Health
+Education
+Mining
+Urban
+IDA Undisbursed (US$m)
+MIGA Outstanding (US$m)
+IFC Exposure (US$m)
+IFC Number of Projects
+
+186
+7
+25
+30
+14
+11
+20
+87
+0
+2.05
+3
+
+__I
+
+second CPPR (May 1998), there were four problem projects in the portfolio and one at present
+(Private Irrigation). The disbursementratio has been steadyover the years at about 20 percent. The
+proactivity index was low (50 percent in FY98, 33 percent in FY99) but has improved and is
+currentlyat 100percent. The realism indexis at 100%.
+28.
+Future Portfolio Actions. The following actions were discussed during the March 2000
+CPPR to further improve portfolio management, to be implemented during the upcoming CAS
+period:
+* improve the pace of disbursementsby movingconditionsof effectivenessto conditionsof
+negotiationsduringproject preparation;
+* resolve the issue of repeated delays in transfer of funds by BCEAO and all commercial
+banks; and
+* improvethe rate of timelysubmissionof auditreports.
+B.
+
+CAS RATIONALE AND STRATEGIC APPROACH
+
+29. Objectives. The thrust of theBank's futureprogramis to assist BurkinaFaso in implementing
+its PovertyReduction Strategy.The overridingobjectivewill be to supportthe Government'sefforts
+to achieve sustained high growth rates, to reduce the high incidence of income poverty, and to
+improve the nutrition, health, and educationof rural population-poorest segment of the population.
+Specifically,the CAS seeks to help the Government reduce the poverty headcount ratio by at
+8
+
+least2 percentagepointsper yearduring2000-2003.To achievethis goal, the CAS will focuson
+the four objectivesof the PRSPas noted in paragraph7. There is no substantialdivergencebetween
+the Bank's and the Government'sdevelopmentagendas,priorities,and policies.
+30. Selectivity and Flexibility. Bank interventionin support of the PRSP is intended to be
+selectiveand complementaryof activitiessupportedby other donors.In line with the OED findings
+and recommendations,we have developeda strategywith two key prongs:bringingresourcescloser
+to the beneficiaries,where they are most likely to be productivelyused; and collectivedonor action
+to reduce mismanagementand inefficiencies.To these ends, the Bank will support: (i) greater
+participationof local stakeholdersin program and project design and implementation;(ii) closer
+cooperationamongdonorsto link improvedgovernanceand donorlendinglevels.
+31. The Bank will work closely with other donors to ensure consistencyin the country policy
+dialogue,and a divisionof labor in lending and nonlendingservices.For example in education,the
+Bank is taking the lead in the reform effort and in basic education,whilesome bilateral agenciesare
+focusingmore on physicalrehabilitationof schoolsand secondaryeducation;in health, the Bank is
+takingthe lead in advisingthe Governmenton thepreparationof the ten-yearreform plan,with other
+development agencies complementingthese efforts through physical investments and specific
+thematicprograms.In transport,the Bank is not contemplatingnew operationsin main road network
+development,but will support maintenanceand rural roads development. On judicial reform, the
+Bank will work in parallel with others donorsto help the Governmentfinalizeits action plan but the
+EU will take the lead in supportingthe implementationphase. Thepriorities for theBank's assistance
+program vis-a-vis other donors have been determined through our country dialogue with the
+Government,nonlendingservices,and intensiveconsultationswith all developmentpartners during
+the preparationof the PRSPand the CAS (see Attachment5).
+32. LinkingGender and Poverty Reduction. In BurkinaFaso, as in most African economies,
+womenplay substantialeconomicroles (seeAttachment6). Theimplicationsfor the CASare as follows:
+Gmender
+shouldbe consideredan issue of economicgrowth and efficiency,not just a problem
+of equity, and not just limited to the social sectors. Gender-basedasset inequality directly
+limits growth and poverty reduction.Men and women experience poverty differently,and
+different aspects of poverty(inequality,vulnerability,isolation,powerlessness)have gender
+dimensions.
+
+* Investmentsin the householdeconomyhave substantialpay-offsin increased efficiencyand
+growth in the market economy, and will also contribute to improving the health and
+education status of the poor: (i) labor-saving technology relating especially to food
+processing is likely to have a greater immediate impact in raising the productivity and
+reducingthe time burdensof women;(ii) domesticenergy(fuelwood)is of great importance;
+(iii) transportinterventionsneed to reflect the differentneeds of men and women, so as to
+improve women's access to transport services(including intermediatemeans of transport)
+commensuratewith their load-carryingresponsibilities.
+* Comparedwith men,women operateunder severetime constraints,which limit their options
+and flexibilityto respondto changingeconomicopportunities.
+33.
+Of particularconcernare the differentHlV prevalencerates for young men and women aged
+15 to 24 in Burkina Faso, respectively,3.33 and 7.51 percent. In terms of access to productive
+resources,there remain key differencesin earned income, in access to fmancialservices,land, and
+agricultural services. Despite women's important role in agriculture,only around 15 percent of
+extensionagents are female.Availabledata also indicatethat the participationof men and women in
+publiclife and institutions,and in decision-makingprocesses,are highlyuneven.
+
+9
+
+34. EnsuringEnvironmentalProtection.The PRSP has identified sustainable managementof
+natural resources as a major principle for combatingpoverty. This is based on the fact that
+deforestation,land degradation,and to a lesser extenturban air pollution(mainlydue to emissionsby
+motorized transportation)are currently having a high economic and social cost. In particular,
+deforestationand land degradationnot only constituteseriousenvironmentalproblems,but are also a
+major constraint to sustained agriculturalgrowth.The loss of biodiversityregarded valuable and
+threatenedon a global basis is also a concern addressedby the Bank in BurkinaFaso as part of its
+mandateas a GEF implementationagency.
+35.
+Since low agriculturalyields, food insecurity,and povertyboth ultimatelylead to and result
+from environmentaldegradation,the PRSPemphasizesagriculturalintensificationand modernization
+as an effective approach to protecting Burkina Faso's natural resource base, and expanding
+employmentand income-generatingactivities for the majorityof the poor.A numberof appropriate
+agricultural technologicalpackages have been identified to this end. Bank assistance will help
+achieve a widespreadadoptionof these technologies,and strengthenthe capacity of the countryto
+deal with any adverseimpactsthat couldresult fromintensifyingagriculturalproduction.
+C.
+
+COUNTRY ASSISTANCEPROGRAM
+
+36.
+The followingsection summarizesareas of emphasisfor theBank Group countryprogram
+for FY01-03. The detailed presentationof lending and non-lendingprograms can be found in the
+CAS matrix in AnnexB 1.
+37. The programwas preparedin close collaborationwith the Burkinabeauthoritiesand takes into
+account activities of other developmentpartners (see Attachment7). Many of the specific activities
+build upon Bank's previous workin BurkinaFasoand representareas in which the Governmenthas
+particularlysoughtBank expertise,and where the Bank can play a catalyticrole in bringingtechnical
+know-how and mobilizing assistancefrom other donors. While the program represents proposed
+commitmentsand assistance for the period FY01-03,its actions are designedto be supportiveof
+long-term programs (e.g., ten-year programs in education, health and community based rural
+development).
+Focusand Compositionof BankAssistance
+38. Supportingthe PRSP agenda will involveselectiveactions and programson each of the four
+frontsdefinedby the Government(para 7).
+SUPPORTING THE ACCELERATEDGROWTHSTRATEGYANDCLOSERINTEGRATIONINTO
+THEREGIONALECONOMY
+
+39.
+Closer integration into the West African economy and the world economy can only be
+attained through improving Burkina Faso's competitiveness.As a member of the West African
+Economic and Monetary Union (WAEMU),Burkina Faso's recent macroeconomicstability is
+attributable to the macroeconomicconvergence policy, which the Union and its Central Bank
+3 Burkina Faso is also a member of the Economic
+(BCEAO)have engineeredover the past decade.
+Community of the West African States (ECOWAS), which has taken steps toward the
+implementationof a free trade area (FTA)for sixteenWestAfricancountries.
+
+1996, the Union has acceleratedthe pace of economicintegration,introducing a comwon external tariff (CET) in January
+2000, and adopting a set of macroeconomicconvergencecriteria for member countries.
+3Since
+
+10
+
+40.
+These developmentsconstitutechallengesand opportunitiesfor Burkina Faso. As a small,
+poor, and landlockedcountry with tiny and fragmentedmarkets, the country would improve its
+competitivenessthroughdeeperinvolvementin the regionalintegrationprocess. Implementationof a
+sound sub-regionalstrategy would help BurkinaFaso accelerateits reformprogram,providingfor
+joint commitmentand consistency,scale and competition,and therefore,a higher policy multiplier
+effect. On the other hand, there is a risk that protectionistcommon policies within WAEMU or
+ECOWAScouldreduce the sub-region'scompetitivenessin the global economy.This would lead to
+the concentrationof industrial activities in the coastal countries(Cote d'Ivoire, Senegal)and make
+BurkinaFaso and othersmallerSahelian countriescaptivemarkets.
+41.
+As part of its ambitious plan to move BurkinaFaso toward a 21st century service-export
+economy,the Governmentaims to decrease the mean tariff toward the lower end (Oto 10 percent)
+range, and is consideringreducing taxes on corporateincome (from 35 percent to 20 percent), and
+eliminatingimport taxes on selectedhigh-technologyitems-telecommunication and computers.The
+reform program adopted by the Burkinabe authoritiescombinesnational market liberalizationand
+sub-regionalmarket integration to develop a dynamic infrastructureservice and human resource
+sectorwithinlimited public resourcesfor large investments.(i) In air transport,BurkinaFaso would
+benefit from regional market liberalizationand unification,thanks to scale and competitioneffects.It
+would also benefit from reduced access costs and from attracting ground services, especially for
+freight,through market liberalizationand using tax policy to lower airport fees and ground service
+costs. This would increase the country's chances of becoming a sub-regionalhub. (ii) In energy,
+Burkina Faso has devoted considerableeffort to improving interconnectionswith its neighbors,
+especiallyGhana and Cote d'Ivoire. Its participationin the West-AfricaPower-Poolwould ensure a
+stable and cost-effectiveenergy supply for the country.Current disparitiesin energycosts-CFAF
+102 per kwh in Burkina Faso versus CFA 40 in CMted'Ivoire-indicate that BurkinaFaso would
+benefit from an integratedsub-regionalenergymarket. (iii) In telecoimnunications,nationalmarket
+liberalization and sub-regional integration, including technical standardization, frequency
+management,regulatorysystems,and establishmentrights wouldall benefit the sector. BurkinaFaso
+is accelerating its privatization and liberalization programs and is working with WAEMIUand
+ECOWAS toward telecom market integration. (iv) With regard to human and social capital
+development,Burkina Faso will design and implementits educationand health policies (especially
+the fight against AIDS and the provisionof specializedservices)at the regional level. Labor market
+issues,includingcore laborstandardscall for continuedGovernment'sattention(see Attachment10).
+42.
+Regional integration will have transitional costs that will increase the Government's
+financingrequirementsin the short run, especiallygiven the lower taxes on importsand the need to
+increase spending in education,health, and basic infrastructures.As only a small portion of these
+costs are likely to be met through intra-WAEMUfiscal transfers,greater assistancewill be needed
+from the donor community.The Bank's support to BurkinaFaso to benefit from greater regional
+integrationwould take two forms: (i) assistingthe Governmentto improvethe enablingmacro-policy
+environmentwith more ambitious growth and poverty reduction targets; and (ii) supporting the
+privatesectordevelopmentprogram.
+43.
+Improvementsto the enablingmacro-policyenvironmentwill be supportedthrough the
+analyticalwork to update the PRSP, public expenditurereviews,various policy notes on key issues
+(labor market dynamics,monetaryand fiscal policies in the WAEMUcontext), and the finalization
+As an illustration, the CET irnplies a lower mean tariff level than what currently prevails in Burkina Faso which would suggest
+some degree of net trade creation. Yet, in light of the type of bold move needed to improve visibility and to close the
+comnpetitivenessgap, the CET appears still high by internationalstandards. Moreover,the introduction of the taxe degressivede
+protection, means that tariff rates mnayrise to the upper end (15-30 percent) rather than the lower (0-10 percent) range, penalizing
+landlocked,resource poor countries such as Burkina Faso with small industrial production.
+4
+
+11
+
+of importantstrategypapers-private sectordevelopmentstrategy,financialsector review,long-term
+plans for educationand health, energyand transportsector strategynotes. Through analyticalwork
+on a regional assistancestrategy,the Bank will also providepolicy adviceto help BurkinaFasomeet
+the challengesand opportunitiesof deeperregionalintegration.
+44.
+To support the private sector and financialdevelopmentstrategy, the Bank will emphasize
+the need for BurkinaFaso to open up to new opportunities,domestically,regionallyand globally,and
+to encourageprivate initiative to explore growth prospects in agriculture,mining and services,in
+particular by improving the businessenvironment.The macroeconomicframeworkand objectives
+will haveto reflectthe paradigmshift and take into considerationthe requirementsfor a bold private
+sectordevelopmentstrategy.Bankassistancewill facilitate:
+* liberalization in critical sectors-air transport/handling services, power and
+telecommunications, introduction of competition in the cotton subsector, further
+retrenchmentof public sector from agricultureand livestockproductiveactivities-to create
+a unifiedsubregionalmarket and to securecost reductions,economiesof scale, and enhanced
+competition,
+* a divestitureprogramfor telecommunications,power and petroleumdistributioncompanies,
+airport storage facilities, slaughterhouses,farm equipmentmanufacturingand distribution,
+agriculturaland livestockinputsupplysystems;
+* legal reform,tax reform,reductionof transactioncosts,harnonization to WAEMIUstandards
+of import/exportdutieson agriculturaland livestockinputsand products;
+* the developmentof alternativetransportcorridorsand improvementin financial services to
+handle foreignexchangetransactions.
+45. The Bank will also supportenterprisecapacitybuildingat the SMEandmicro-enterpriselevel,
+with activities such as advisory services to agri-business,development of market information
+systems, promotion of joint ventures for agro-processing,and improvement of quality control
+systems.
+SUPPORTING ACCESS OF THE POOR TO BASIC SOCIAL SER VICES.
+
+46.
+A crucial objective of the strategy is to support a more ambitious social sector reforrn to
+prepare Burkina Faso's labor force for the challenge of regional integration and increased
+competitivenessof its outward-orientedeconomy.To improvethe quality and equitable access of
+social services,emphasismust be placed on improvingmanagerialand implementationcapacity,and
+increasingexpenditureefficiency. The Bank plans to support primaryhealth care for the neediest,
+basic education, and access to potable water. Support for access to primary health care will be
+attainedthroughBank involvementin a ten-yearsectordevelopmentprogramthat will define actions
+to addressexistingproblems.Specificstrategieswill includeactionsin three areas:
+* public expenditure will be targeted to cost-effective interventions addressing the health
+
+problemsof the poor and vulnerable.Rural areaswith the worst coverageand quality of basic
+primaryhealth care serviceswill receivepriorityfor public investmentsand a larger share of
+currentexpenditure,includingthe wage expenditure.
+*
+
+the Bank will help improve the efficiency of service delivery through the following: review of
+
+the organizationalstructureof the Ministry of Health; review of its pricing policies in an
+effort to reducethe cost or renderfree of chargeessentialand preventiveservicesto increase
+access and utilizationof these services by the poor; availability of essential drugs will be
+improved to 90 percent or more; and continued monitoring of the availability and
+affordabilityof drugsto the poor and vulnerableis to be instituted.
+
+12
+
+* partnershipswill be built with local serviceproviders,and accountabilityto the poor will be
+reinforced. The capacities of decentralized managers and service providers, and of
+communitymanagementcommittees(COGES),will be strengthened,with a view to enable
+them to establish effectivedialogue and partnerships,and provide ongoingmonitoringand
+evaluationof performance.This is key to making publicserviceprovidersmore accountable
+to the communitiesthey serve and to providingcommunitieswith the informationthey need
+to participate effectively in planning and budgeting of local-level health activity. A
+contractual approach to health service provision will also be developed, in an effort to
+encouragelocal partnersin health care (NGOs,communities,private sector,and academia)to
+target their activitiesto underservedareas.
+47.
+Bank supportfor educationis designedto help raise enrollmentand completionrates, as well
+as learning outcomes and literacy rates, while maintaining a reasonable pace of expansion at
+postprimarylevels where the emphasiswill be on improvingthe adequacyof learning outcomesfor
+the labor market. For primary education, the Bank will help implement quality cost-effective
+programsthat attain desiredlearningoutcomesat affordablepricesto the poor. Key leversto support
+these objectivesinclude loweringthe cost of educationto the poor and girls, controllingexpenditure
+at otherlevels of education,cuttingtheunit cost of education,and reducingrepetition.
+48. With respectto other levelsof education,Bank assistancewill servethree goals simultaneously
+within financial constraints:(a) to providea chance for qualifiedprimary school graduatesto move
+on to higher levels of education;(b) to create a pool of candidatesfrom which selectionfor higher
+educationand recruitment of primaryschool teacherscan be made; and (c) to supplyworkerswith
+sufficienteducationto fill mid-leveljobs in the modemeconomy.
+SUPPORTING OPPORTUNITIES
+ACTIVITIES FOR THE POOR.
+
+FOR
+
+EMPLOYMENT
+
+AND
+
+INCOME-GENERATING
+
+49.
+Rural developmentof Burkina Faso is an important pillar to help expand economic
+opportunitiesfor the poor. Recent evidence from many developing countries suggests that the
+sectoral compositionof growth matters in terms of the impact on the incomes of the poor, given
+estimates of elasticities of povertyreduction with respect to growth-a 1 percent increase in the
+contributionof agricultureto GDP can yield a 1.6 percent increasein the incomesof the poor above
+the GDPincreasein industryor services,whichincreasesincomesof the poor by 1.2percent and 0.8
+percentrespectively.
+50.
+These differences are related to the linkages of agriculturalgrowth on small-scale nonagricultural sector of the rural economy5 Rural household incomes in Burkina Faso are highly
+diversified-the averagerural householdderivesabout 39 percent of its income from cropping,13
+percent from livestock production,and the remaining38 percent from non-agriculturalactivities.
+Agriculturalgrowtharisingfrom reducedtransactioncosts (ruralinfrastructure)and increasedfactor
+productivity(improvedtechnology,health, education)reducespoverty more through indirect than
+direct processes. In additionto increasingemploymentand loweringfood prices6,-both of which
+have an immediate poverty impact - increased farm incomes stimulate demand for goods and
+
+5These linkages come from rural households spending their expanding income on locally produced non-tradable goods and
+
+services. In Burkina Faso, household-leveldata indicate that 45 percent of any increase in rural household incomes is spent on
+farm non-tradables (e.g. dairy products, millet) and 22 percent on non-farm non-tradables (e.g. locally processed foods, services,
+locally manufactured items). Growth multipliers for Burkina Faso indicate that for each dollar of income generated in the
+agriculturaltradable sector $1.88 of additionalincome will be generated in the local non-tradablesector due to linkages.
+6 The average and marginalbudget shares for basic staples in rural Burkinabehouseholds are 60 percent and 53 percent,
+respectively.
+13
+
+services in the large, employment intensive, rural and market-town based small-scale enterprise
+sector.
+51. Judiciously chosen public investment will be needed to overcome these constraints.
+Specifically, public expenditure on rural infrastructure, technology generation, and institutional
+development/reform will be necessary for rural and agricultural growth to accelerate. Decentralized
+decision making and econornic empowerment of beneficiary communities is expected to improve the
+choice, relevance, cost effectiveness, and maintenance of rural infrastructure. In addition, to meet the
+demands of the local population, the deconcentration of sectoral ministries (and engaging in
+public/private partnerships where appropriate) will improve the delivery mechanisms of public goods
+and services and make them more demand-responsive.
+52.
+The CAS will support this vision of sustainable agricultural growth and rural development.
+The main priorities are as follows: (i) support measures to open the economy and improve access to
+markets (both domestic and export) for agricultural products, farmers, and agro-enterprises
+(including investments in rural infrastructure); (ii) increase the productivity of rural assets (labor and
+land) through health, education, water, and the conservation and renewal of natural resources; (iii)
+support the rural decentralization process by transferring responsibilities and resources to those
+directly concerned by the development process and pursue the institutional reform necessary to
+refocus the role of the State; and (iv) initiate regional interventions centered on currently underexploited regions and aiming at removing constraints that are specific to the Central Plateau region.
+SUPPORTING GOOD GOVERIVANCEAND INSTITUTIONAL REFORM
+Box 4: Improvementsin Governanceand Fight against Corruption
+Burkina Faso has made efforts over the past five years to improve governance and reduce corruption:
+.
+Burkina Faso has a unified budget system and a computerized expenditure management system (Circuit de la depense), which make
+it possible to track the States accounting and financial transactions (some ministries are currently decentralizing this facility).
+*
+In 1998, the Government launched a systematic review of public expenditure by a national team of experts under the supervision of an
+interministerial committee.
+*
+The 1999 and 2000 budget guidelines were significantly improved: in conformity with the HIPC social targets, the share of actual
+public expenditure for health and education in the budget has increased; a shift to performance budgeting was made for six key
+ministries (Health, Finance, Interior, Defense, Basic Education, and Secondary/Technical education), with outcome indicators to
+monitor efficiency, and increased accountability for line managers.
+*
+A Medium-term Expenditure Framework for 2001-2003 was prepared and presented to Parliament in October 2000 with the 2001
+budget bill. The introduction of a medium-term framework was discussed both at the local and central level. The discussion has
+enhanced the capacity of the Government to formulate the annual budget within a dynamic perspective of medium-term objectives
+and strategies.
+•
+Major improvements were observed in public procurement procedures, such as the periodic publication of bids received in public
+tenders.
+*
+Trade liberalization and tariff reform have also reduced rents and increased revenues from customs administration.
+*
+The privatization program has removed a large source of rents and patronage from the public sector. The restructuring of the
+financial sector and related reforms have greatly reduced the role of Government in credit allocation decisions (delinquent
+borrowers are prohibited from obtaining new bank loans and from bidding on public procurement contracts and privatization. The
+Government has also carried out a major overhaul of its business laws by adopting new business laws under the OHADA treaty.
+.
+In 1999 and for the first time in over a decade, budget execution reports laws (lois de reglements) for fiscal years 1993 and 1994 were
+enacted by the National Assembly, the Governmentis committed to completing reports for the 1995-98 period by March 2001.
+*
+An independent Supreme Audit Court was created in 2000. It will be given a larger role in the preparation of audited budget laws.
+*
+An audit of military expenditures for fiscal year 1999 is currently being completed and will be transmitted to the Supreme Audit
+Institution and to Parliament.
+
+53. Results from surveys carried out by Transparency International also indicate that Burkina Faso
+is considered one of the less corrupt countries in West Africa. The Government has made progress in
+improving governance and reducing corruption (see Box 4 above). Nevertheless, corruption continues
+to be perceived as a problem, undermining the effectiveness of public expenditure and the framework
+for negotiations between private sector operators and the Government.
+
+14
+
+54. The PRSP presents four guiding principles to improve governance: (i) adopting a more
+comprehensiveapproach to public finance managementto ensure that public funds from all sources
+are managed according to a clear set of consistent and transparent rules, and in conformitywith
+internationally accepted good practices; (ii) reducing Government intervention and discretion in
+economic activity; (iii) making the Governmentmore accountable by increasing participation of
+electoral bodies, civil society groupsand the private sector in policy design, policy implementation,
+and monitoring;and (iv) ensuring a more efficientuse of public revenuesby focusingpublic policy
+evaluation on results on the ground. Following these principles, the strategy developed by the
+Burkinabeauthoritiesincludesactionsin the followingareas:
+55. Increasing awarenessof the economic andpolitical costs of corruption.The nationalplan of
+good governanceadopted in 1998 seeks to correct distortionsin public administrationby promoting
+suchvaluesas meticulousness,probity,and transparencyin public affairsand amongbusinessmen,and
+by intensifyingthe struggle againstpractices at odds with the general interest, especiallycorruption,
+nepotism,and patronage.A national anti-corruptionnetworkis currentlybeing set up for comments
+and proposalsregardingpossiblesolutions.
+56. Strengthening the judicial system. The judicial system still faces a number of issues: (i)
+insufficientnumber of judges and courts (most courts are concentratedin Ouagadougouand BoboDioulasso);(ii) the slowness of decisionmaking (long delays beforejudgements are rendered) and
+publication of decisions; (iii) lack of accountability and impartiality of judges; (iv) lack of
+equipment;and (v) lack of knowledgeof the generalpublic (includingbusinesspeople)of their rights
+and obligations. In addition, administrativeproceduresare very cumbersomefor enterprisecreation
+and contributeto high transactioncosts.
+57. Based on the recommendationsof the National Forum on Justiceheld in October 1998, the
+Ministry of Justicehas prepareda judicial reformstrategyand nationalactionplan coveringthe period
+2000-04. The plan was approvedby the Councilof Ministerson April 12, 2000. Its objectivesare: (i)
+to strengthenthe institutionalstatus of thejudiciaryby carryingout institutionalreforms and measures;
+and (ii) to increaseand strengthenjudicial systeminfrastructureand the human,material,and financial
+resources at its disposal. Gearedto these objectives,the plan proposes11 action programs with an
+overall budget of CFAF 24 billion. The European Union has taken the lead in supporting these
+reforms. The Bank, however, will continue to work with both the Governmentand other donorsto
+help implementthe agenda.
+58. Improvingpublic administrationandpublicfinance management.With respectto reform of
+public administrationin Burkina Faso, a restructuringprocess has been going on since 1992. The
+ministryresponsiblefor the civil servicehas initiatedsystematicand forward-lookingtalks with several
+representativesof civil society and key players in the public administrationin order to lay the
+foundationsfor a comprehensivereform.National conferenceson the comprehensivereform of the
+civil serviceprovidedan opportunityto discussand enrich draft texts that were subsequentlyadopted
+by the NationalAssembly.Essentially,they compriselaws establishingthe forms of interventionand a
+distributionof spheres of competencebetween the State and other stakeholdersin Burkina Faso's
+development;the legal frameworkgoverningemploymentin the civil serviceand governmentofficials;
+and rules governingthe creation,organization,and managementof governmentbodies. To them should
+be addedthe decree on rules for drawingup public sectorprogramand progressreports in the public
+administrationand the decree orderinggeneralizeduse of manuals of proceduresand performance
+chartsin all branchesof the civil service.
+examnple,to create a company in Burkina Faso, a small entrepreneur would have to go through numerous steps and pay
+duties of up to 20 percent of its capitalbefore he can even start activities.
+7For
+
+15
+
+59. The authoritieshave greatly improvedtheir budgetingand expenditurepractices over the past
+five years. But despite recent improvementsin revenue collection,Burkina Faso continues to be
+faced with an inadequatetax structure.Fiscalrevenueis highlydependenton a relatively high level
+of tariffs, which discriminatesagainst exports and underminesthe efficiency in the allocation of
+publicresources.In the contextof the implementationof the WAEMU'scommonexternaltariff, the
+Governmenthas designeda reform programwhich includes: adoptingmeasures aimed at shifting
+fiscal resource away from trade taxes and strengtheningtax administrationby broadeningthe tax
+base through curtailingtax and customsduty exemptions(in accordancewith evolving WAEMU
+policy, in particular the envisaged regional harmonization of the investment code); reducing
+excessiveregulationof private entities and adoptionof preferentialschemes; and strengtheningtax
+administrationthroughthe computerizationof all customrevenuecollectionoffices.
+60. Fosteringdecentralization.Convincedthat a well-thought-outdecentralizationprocess,carried
+out in a pragmaticand discerningmanner,enhancesdemocracyinasmuchas it supportslocal initiatives
+and grassrootscontrolby locallyelectedleaders,the Governmenthas set in motiona processthat began
+with the adoptionin 1998of writtenguidelinesfor decentralization(textesdorientationen matierede
+decentralisation),which are currentlybeing implementedAccelerationof the process requires: (i)
+continuationof the decentralizationpolicy with the same pragmatism and graduality that have
+characterizedit so far in orderto allowthe communitiesto organizethemselvesin a way thatwill allow
+them to respond to local expectations;(ii) adequatefnancing provisionsdesigned to provide the
+communitieswith the means they need to be able to fulfill, from now on, the tasks that have been
+devolvedto them, so that the retrenchmentof the State does not bring with it a deteriorationin
+indispensablebasic social services (above all in education and health); (iii) training of regional
+representativesto prepare them for the managementand supervisionroles conferred on them by
+decentralization;(iv) implementationof an efficientand impartiallocal administration,responsiveto
+the needs of the population; (v) efforts to achieve citizen participationthrough civil society
+organizationsin local development,not only in the formulationof objectivesand choice of meansbut
+also in executionand supervisionof actions undertaken;(vi) the practice of decentralized,local
+cooperation,while respectingnationaldevelopmentpriorities;(vii)adoptionof an officialtext to solve
+any anomaliesresultingfrom the geographicalremappingof administrativeborders,while maintaining
+a sufficient degree of decentralizationof services to make interventionsmore effective, improve
+citizens'accessto publicservices,and installgenuinegrassrootsgovernment;and (viii) adoptionof an
+officialtext allowingtrue decentralizationof managementof the State'shuman,material,and financial
+resources,by grantingnew powersto officialsresponsiblefor operations.
+D. VEHICLES FOR BANK ASSISTANCE, ALTERNATIVE SCENARIOS AND
+CONTINGENCIES
+61.
+To supportthe operationalobjectivesof the PRSP, theBank envisagesaprogram and related
+country budget allocation which will: (i) give priority to supervision of ongoing projects; (ii)
+acknowledgethe importantrole of donors;(iii) consolidatelendingoperationsinto fewer,but broader
+resourcetransfermechanismsthat are more closelyintegratedwith the Government'sownbudgetary
+allocationand executionprocesses;and (iv) includea share of nonlendingservicesto foster a robust
+analyticalbase for consensusand partnershipbuilding.
+62.
+To refocus its assistanceprograrnwith a consistentemphasison rapid growthwith poverty
+reduction, the Bank Group strategywill focus attention on: (i) key social sectors where there are
+viable long-termnstrategies, or where they can be developed;(ii) longer-termeconomicreforms to
+improvecompetitivenessand reduce businesscosts; (iii) improvingpublic resourcemanagementin
+the country;and (iv) adaptingBank programsto the sub-regionalframeworkand potentials. In terms
+of instruments,there will be a continuationof analyticaland advisoryactivities, as knowledgeis the
+16
+
+critical input for progressin the substantiveareaspresentedin the PRSP.The Bank will also support
+public spendingincreasinglythroughconsolidatedlendingoperations-results-drivenprogrammatic
+credits,with separateprojectsfor capacitybuildingand infrastructureinvestmentsdirectlytargetedto
+poverty alleviation and private sector developmentand where active institutional strengtheningis
+requiredfor improvedservicedelivery.
+63. Threelendingscenariosare envisaged:base,high,and low cases.The base case
+lending/nonlendingprogramis in the order of $400-420millionover FY01-03(see Table4). The
+base case is consistentwith the presentIDA allocation.Underthe high casescenario,the Bank could
+increaselending to around $450-500millionover the threeyears, about50 percent of which couldbe
+in the form of fast-disbursingcreditsin key sectors(see para 80). Underthe low casescenario,
+lendingwouldbe limitedto socialsectorsand rural development.
+CAS Base case Assistance Program FY01-03
+64. The base casescenariowould be contingenton: (i) continuedmaintenanceof good
+macroeconomicperformance;(ii) satisfactoryimplementationof the reformprogramin the key
+povertyreducingsectorspresentedin the PRSP;(iii) enhancedexternaland internalcompetitiveness
+throughconcreteactions to liberalizeutilities and reduceinput and factorcosts, as outlinedin the
+PRSP;(iv) improvedtransparencyand accountabilityin public financemanagement,as outlinedin
+the PRSP; and (v) continuedsatisfactoryportfolioperformance.
+SUPPORTING THE ACCELERATED GROWTH STRATEGY AND
+INTEGRATIONINTO THEREGIONALECONOMY
+
+CLOSER
+
+65.
+The Bank will help BurkinaFaso consolidaterecent gains in macroeconomicmanagement
+and move beyond stabilization to deeper structural reforms and sustained economic growth. A
+poverty reduction support credit (PRSC) will be prepared in FY01, focusing on reforms to
+improve public finance managementand the competitivenessof the economy,and to facilitate the
+country's integration into the regional and world economy.Should there be a continuedneed for
+fiscaladjustmentand balanceof paymentsupport,the Bank couldprepareanotherPRSCin FY03 to
+furthersupportprogramsin key sectorswhere sectoralstrategies and action plans are being defined
+as part of the implementationof the Government'spovertyreductionstrategy.
+66.
+A technical assistance credit for Private Sector Development(Competitivenessand
+Enterprise Development project) will be prepared in FY02 to provide support in the
+implementationof the residual privatization program; improve the quality, access, and cost of
+telecommunications;promotethe developmentof a strongindigenousprivatesectorin BurkinaFaso
+througha streamlinedbusinessenvironmentand well-targetedfinancialand non-financialservicesto
+small and medium-sizeenterprises.
+67.
+The Bank will supportthe Governmenteffortsto improvequality and costs of infrastructure,
+notably in water, urban, energyand transportsectors.In thewater sector,the Bank will supportthe
+preparation of the OuagadougouWater Supplyproject (FY01) aimed at improving the living
+conditionsof the populationin the capital city by increasing,in the long run, the quantityand quality
+of potable water available and strengtheningthe managementof the utility company (ONEA) by
+increasingautonomyand improvingaccounting,long-termplanning and efficiencyof operationand
+maintenance.
+68.
+The Bank has been very successfulin urban development,and the CAE suggestedthat the
+future program take into account the lessons learned.Under the ongoing Urban Environment
+operationthe Bank will continueto supportimprovementof urban livingconditionsthroughpriority
+urban works, participationof the urban populationin urban services developmentand support to
+17
+
+Government'sdecentralizationprogram.Supplementalfinancing for this project could be proposed
+in FY02.
+69.
+In the energy sector, the Bank will assist the Government,through the preparationof a
+sector reform operation (FY02),aimed at introducingprivate sector participationto improvethe
+efficiency of the provision of electricity services and the supply of hydrocarbonproducts to the
+economy, and increasing access to infrastructureservices, especiallyto rural communities. This
+operation will include a capacity development component to strengthen management of the
+traditional energy sub-sector,capitalizing on ongoing work of the RPTES Program funded by
+Dutch,Danish,and Norwegiangrants.
+70.
+For a landlocked country like Burkina Faso, the efficiency of the transport system is
+critical to economic development and growth. Under the PASECT (closed in FY00) the Bank
+provided assistancefor a large reformprogram,which included restructuringof national shippers
+council, public sector disengagementfrom road maintenanceexecutionactivities, liberalizationof
+urban transport services, privatization of the national air transport company (ongoing) and
+concessioningof railway operations.The Government'sstrategy in the transport sector is to (i)
+increase public investmentefficiency,(ii) improveroad transportproductivity,and (iii) strengthen
+managementand policy implementationcapacityof the public sector to ensure adequateknowledge
+and monitoring of sector performance.Given alternativesources of financing for this sector, the
+Bank is currentlynot consideringadditionallendingfor transportprojectsexceptfor rural roads.
+71.
+With Bank support,the Governmenthas developeda programto build capacityand provide
+an attractive climate for investmentin themining sector. The ongoingMining Sector Capacity
+Buildingand EnvironmentalProjectprovidesassistanceto strengthenand deepen the regulatory
+and fiscal reforms, build capacity in public and private sector agencies, complete geological and
+environmentaldatabasesand assistin the artisanaland small scale miningsector.
+SUPPORTINGACCESSOF THEPOOR TOBASICSOCIALSERVICES.
+72.
+In education,the new proposedBasic EducationAPL (FY02)will address issues such as
+the slow increase in primary enrollment and the unsatisfactoryimprovementsin the quality of
+education,as well as inequalitybetweenboys' and girls' enrollments,and rural and urban areas, and
+teacherrecruitmentin local communities.Underthe ongoingPost-PrimaryEducationproject,the
+Bank is supporting increased access to secondaryeducation, increased enrollment of girls, and
+improvedqualityof post primaryeducation.
+73.
+In health, our analysis of the allocation and utilization of HIPC funds will provide an
+assessmenton the need for increased IDA fundingin the sector and a new Health SIP may be
+needed(FY03).The Bank would supportthe Govermment'sten-yearhealth strategy(currentlyunder
+preparation)to address issues of poor health and nutrition status, of rapid population growth and
+AIDS in BurkinaFaso. An HIV/AIDSDisasterResponseoperationis being preparedin FY01 in
+supportof the Governmentmulti-sectoral2001-05HFV/AIDSmedium-termstrategicplan. The two
+ongoing projects, the Health and Nutrition operation and the Populationand AIDS Control
+operation,are currentlyscheduledto close in FY01.
+SUPPORTING OPPORTUNITIESFOR EMPLOYMENT AND INCOME-GENERATING
+ACTIVITIES FOR THEPOOR.
+74.
+In the rural sector, the Government's long-term vision is one of participatory and
+representativelocal governmentsand institutionsplanning and managing their own development
+programs and mobilizingthe necessaryresourcesthroughincreasedlocal revenuesand Government
+fiscal transfers. The Bank's main instrumentis a Community-BasedRural DevelopmentAPL
+which is being presented to the Board with this CAS and which would support Burkina Faso's
+18
+
+NationalProgram for DecentralizedRural Development(PNDRD)to: (i) strengthenthe capacity of
+villages and local governmentsto prioritize, plan, implement, and maintain community-based
+investments;(ii) provide decentralizedfunding for demand-drivenand community-managedrural
+infrastructureand services; and (iii) support the ongoing decentralizationprocess. The PNDRD
+intends to reach all rural communities and implement a harmonized, multi-donor funded,
+decentralizedrural developmentframework.It will be implementedover a 15-yearperiod,consisting
+of three 5-yearphases. Eachphase will be designedflexiblyto adapt to the country'sdecentralization
+choices,the pace of institutionalreforms, and the need to harmonizeapproachesof various donors.
+To enhancethe impactof the Community-BasedRuralDevelopmentAPL on the nationaland global
+environment,two GEF 15-yearoperationswill also be prepared:PRONAGENAPL (FY01 Natural
+EcosystemManagementProgram;a follow up to the pilot GEPRENAF)and SILEMAPL (FY02
+Integrated Ecosystem ManagementProgram). The Bank will also support strengtheningof rural
+infrastructurethrougha proposedRuralRoadsProjectin FY03.
+75.
+The portfolio of ongoing operations includes the AgriculturalServices II operation in
+supportof producers' organizationsand the nationalprogramfor agriculturalresearchand extension.
+During the upcoming mid-term review (November2000), the project will be restructured to: (i)
+improvethe efficiency of services,by implementingprogressivelydemand-drivenmechanisms,and
+(ii) providethe frameworkfor morerapid, sustainable,broad-basedand export-orientedgrowthin the
+agriculture and livestock sectors. Under the ongoing Private Irrigation operation, the Bank
+supports strengthening of cost-effectivesystems to deliver demand-drivenservices for private
+irrigation.The ongoing GEPRENAFoperation(Pilot Community-BasedNatural Resources and
+Wildlife Management)introducesa new approachto biodiversityconservationthat aims to find a
+commonsolutionto both developmentand conservationconcerns,by involvinglocal communitiesin
+the sustainablemanagementand profitableexploitationof natural resources.
+76.
+Nonlending activities in the rural sector will focus on three priorities: (i) support
+implementationof the rural developmentstrategycurrentlybeing adoptedby the Government,and
+improvethe sector knowledgebase, as recommendedby OED;(ii) improvethe efficiencyof public
+spending in the sector, through a full PER; and (iii) improve the quality of statistical data,
+particularlythroughsupport(in the form of advice and capacitybuilding)for povertymonitoringand
+follow-upof PRSPimplementation.
+
+19
+
+Box 5: Rationalefor PRSCs in Burkina Faso
+Recent PER studies and other analytical work carried out in the framework of the 2001-2003 MTEF indicate that full
+imnplementationof sectoral strategies already adopted or currently being finalized in priority sectors (education, health, rural
+development) will require major improvements in public sector management. The CAE noted that Bank projects in Burkina
+Faso, while quite comprehensive in coverage and broadly consistent with one another, have too often been conceived
+independently, with little explicit analysis of potential trade-offs among themr In order to address the country's weak
+institutional capacity and to ensure sustainability of the reform program, "DA should focus chiefly on reforming
+govemance, particularly as it affects the environment for private sector development and the allocation of public resources."
+In the context of the four PRSP pillars-accelerating broad-based growth; ensuring that the poor have access to basic social
+services; expanding opportunities for employment and income-generating activities for the poor; and promoting good
+governance-, Bank Group's assistance will address cross-sectoral and public management issues. To be effective and to
+ensure better involvement of sectoral ministries and all key stakeholders in the dialogue, the shift from project lending
+towards program lending presented in paras. 77-79 will imply a gradual change in lending instruments. We envisage two
+Poverty Reduction Support Credits (PRSCs) over the period FY 2001-2003.
+The PRSC instrument would be consistent with the PSAC framework for progranmmaticadjustment lending*. It would
+provide an adequate framework for comprehensive public finance reforms that require simultaneous actions at the level of
+the Ministry of Economy and Finance, and at the level of line ministries. Its flexibility would also provide a more effective
+mechanism to address sector-wide issues that cannot be dealt with traditional, stand alone investment projects. The PRSC
+would also facilitate the dialogue on the Government's overall use of public resources,regardless of their sources. Finally, by
+focusing directly on the four main pillars of the PRSP, the PRSC would help strengthen donor coordination and Government
+ownership of the reform progratn
+While improvements are necessary to strengthen capacity in public fnancial management, public procurement, budget
+reporting, public disclosure, auditing, and accountability, the Government has made substantial progress in budget
+management over the past years (see Box 4). One lesson from the recent ICR for the Economic Management Reform Support
+Operation is that a broader instrument like the PRSC can itself be particularly effective in supporting the policy reforms and
+institutional changes needed to improve fiduciary management.
+* PRSC will be prepared within the PSAC framework as discussed in the Programmnaticand Emergency Adjustment
+Lending: World Bank Guidelines (R98-249), October 2, 1998 and Operational Memorandum Guidelines for Programmatic
+Adjustment Loans/Credits,February 11, 2000. See also SupportingCountry Development: World Bank Role and Instruments
+in Low-and Middle Income Countries (DC/2000-19), September 8, 2000.
+
+SUPPORTING GOOD GOVERNANCE AND INSTITUTIONALREFORM.
+
+77. The Bank has supported efforts to improve governance in Burkina Faso through several
+operations(PID, SAC I, EMRSO,SAC III). Nevertheless,further reflectionand additionalsteps are
+needed to ensuregreater effectivenessand transparencyin the managementof public affairs.This was
+confirmed by studies recently conductedin connectionwith the public expenditurereview, which
+underscoredthe importance of continuingwork on problemsrelated to budget execution capacity,
+above all in the social sectors. Moreover,given the intention to move toward a program support
+system,both a priori and a posterioricontrolmechanismsneedto be strengthened.A countryfinancial
+accountabilityassessment(CFAA)will be started in FYO1and supportfor these activities could be
+providedunder a PublicSectorManagementoperationin FY03.
+78.
+The dialoguethat wouldunderpinthe shift from project lendingto programsupportwouldbe
+essential to increase the country's absorptivecapacity and would provide a more effective way to
+build management capacity in the public service. By relying on Governmentsystems, the Bank
+would necessarily focus attention on strengtheningthese, rather than setting up parallel structures
+that bypass national systems that divert scarce talent to handle donor procedures and reporting.
+Finally, it would help improvedonor coordinationas otherdonorsare preparedto join this approach,
+such as the EU, theAfDB, and severalothers.
+79. The Bank would be assessingand supportingstrengtheningGovernment's capability in three
+areas: (i) budget formulationto help assure that the process of formulatingand arbitratingbudgets is
+20
+
+as transparentand open as possible,with the expectationthat this will lead to budgets that are more
+focused on poverty and development;(ii) budget implementation,including the capacity to track
+expendituresand to producethe financial informationneeded for internal audits and the monitoring
+and evaluation information needed to assess budgetary outcomes and impact; and (iii) external
+auditing, especially the capability and independenceof the supreme audit authority to enhance its
+ability to carry out both fiancial and performance audits. The Bank intends to devote substantial
+resources to help strengthen Governmentperformancein these areas and to monitor improvement.
+Beyond conditions dealing with managing public resources, others would include a sound macrofiscal framework(no accumulationof arrears) and sectoral policies that are favorable to private
+investment.
+FY2001-2003
+Program,
+Table4: BaseCaseAssistance
+--An:Alytical Work
+
+*
+*
+*
+*
+*
+*
+*
+
+*
+*
+*
+*
+
+CAS
+Support for PRSP Monitor. (*)
+HIPC Follow up
+TA for PER (*)
+Public Service Quality
+Assessment
+Economic monitoring
+Technical assistance to the
+National Statistics Institute
+(INSD)
+Poverty Database
+IDF Gender/Legal Reform
+Support to EU Initiative
+Country Financial
+Accountability Assessment (*)
+
+FY 2003
+
+2002
+
+FY 2001-F.
+
+*
+
+*
+*
+*
+
+*
+
+*
+
+--
+
+Support for PRSP Monitor (*)
+TA for PER (*)
+Economic Monitoring
+Technical assistanceto the
+National Statistics Institute
+(INSD)
+CPPR
+Client Feedback Survey
+
+_-_-_-_--_--_-_-
+
+*
+*
+
+*
+
+*
+*
+
+_--
+
+TA for PER (*)
+Vocational training strategy
+Technical assistanceto the
+National Statistics Institute
+(INSD)
+CAS Progress Report
+Economic Monitoring
+
+Lending (in millions of US$)
+*
+*
+*
+*
+
+* Public Sector Mgt $10
+Basic Education $30 (*)
+Rural roads $40 (*)
+*
+Energy $20
+Competitivenessand Enterprise * PRSC (2) $60
+*
+Development $25
+*__ Urban environment suppl. $20
+(*) Indicates Bank operations/non-lendingthat would be maintained in the low case scenario
+
+Community-based RD $67 (*)
+OuagadougouWater Supply $70
+PRSC (1) $60
+AIDS Disaster Response (*) $20
+
+*
+*
+
+High CaseLending Scenario
+80. A high case lending scenario could be envisaged if Burkina Faso accelerates and deepens
+reforms relative to targets set in the PRSP, with a focus on increasing transparency and
+accountabilityin policy implementation,and on managingexternal risks more effectively.The high
+case scenario assumes that the Burkinabe authorities are able to implement the new economic
+paradigm described in para. 21 swiftly and to a significantextent. This would provide the basis for
+increasedprivate investment,and put BurkinaFaso on a higher export-ledpath. It also assumes that
+the authoritieshave demonstratedthrough more efficient and effective use of public funds that
+domestic absorptivecapacity for higher lending is in place. This would set the frameworkfor faster
+povertyreductionand improvementsin social indicators.Triggersfor high case lendingwould be (in
+addition to the base case assumptions):(i) major improvementsin public finance management,
+includingthe implementationof institutionalreforms and budgetaryproceduresthat make the system
+more efficient and budget management more expeditious, reliable, transparent, consistent, and
+21
+
+accountable; (ii) swift implementation of the private sector development strategy, including
+completionof the utilities reform program; and (iii) increase in the absorptivecapacity for public
+funds, as demonstratedby the speed and level of implementation of priority public expenditure
+programs. Under this scenario, the Bank could increase lending to around $450-500 million over
+FY01-03, about 50 percent of which could be in the form of fast-disbursingloans to support the
+Government reform program in key sectors (human development, private sector and finance,
+transport,energy).
+Low Case Scenario
+81. Failure to implement the reform program outlined in the PRSP, to maintain macroeconomic
+stability,and sustained declinein portfolio performance,would trigger a low case lending scenario.
+In this case, lending would be limited to support health, the fight against HITV/AIDS,education
+programs, the community-based development program and rural roads. There would be no
+adjustmentlending.Policy dialogueand a limitednonlendingprogramwould continue(see Table 4).
+Table 5: Triggers and Main Assumptionsfor Lending Program Composition
+Low Case Triggers
+- Failure to implement effectively
+the reform agenda outlined in the
+PRSP and maintain
+macroeconomic stability;
+
+Base Case Assumptions
+Continued maintenanceof good
+macroeconomicenvironment
+satisfactory to the Bank;
+-
+
+High Case Triggers
+- All Base case assumptions,plus:
+
+Satisfactory implementahonof the
+reform program in the key poverty
+reducing sectorspresented In the
+PRSP;
+- Enhanced extemal and intemal
+competitivenessthrough actions to
+liberalize utilities and reduce input
+and factor costs as outlined in the
+PRSP;
+
+- Major improvements in public finance
+m
+nanagement, including implementation
+of institutional reforns and budgetary
+procedures that will make budget
+managementmore efficient, expeditious,
+reliable, transparent, consistent, and
+accountable;
+- Swift implementation of the private
+sector development strategy, including
+completion of the utilities reform
+program;
+
+- Improved transparencyand
+accountabilityin public finance
+managementas outlined in the
+PRSP;
+
+- Increasein the absorptive capacity for
+public funds as demonstrated by the
+speed and level of implementation of
+priority public expenditure programs.
+
+-
+
+- Sustaineddecline in portfolio
+performance
+
+-Continued satisfactory portfolio
+performance.
+
+Lending would be liniited to social
+sectors and rural development.No
+adjustment lending. Continued
+policy dialogue and limited
+
+Lending: $400-420 million
+Focus on the educationand health
+sectors, and actions to stimulate
+equity-basedgrowth.
+
+Lending: $450-500 rmillion,about 50
+percent fast-disbursing.
+
+nonlending.
+
+Due Diligence Nonlending Services
+82. In close collaborationwith the Burkinabe authorities,IDA has gathered over the past three
+years enough due diligence information and knowledgeto improve the dialogue on the reform
+program. IDA has relied on a combinationof annual Policy Framneworkpapers (PFP), a second
+priority survey and two poverty profiles, public expenditurereviews, sectoral policy notes, and
+infornal papers on specific issues. IDA has also helped the Burkinabe authorities carry out a
+substantialamount of analyticalwork in key sectors (education,health, rural development,energy,
+transport,and private sector development).With IDA support,the Governmenthas also carried out a
+comprehensiveeconomic study on long-term sources of growth and competitivenessin Burkina
+Faso. The study has served as the basis for the preparationof the Poverty Reduction StrategyPaper
+
+22
+
+and has helpedmove forwardthe policy dialogueon the competitivenessof the economyand private
+sectordevelopment.A CountryProcurementAssessmentwas completedin 2000.
+83. Due diligence AAA will provide a thorough understandingof the country's development
+problems,of the analytical frameworkfor designingand evaluatingmacroeconomicand sectoral
+strategies,and of the need for and availabilityof extemalfinancing.It will alsohelp coordinatedonor
+projects and harmonizeIDA, Governmentand IMF perspectives,and generatepublic discussionof
+Burkina Faso's developmentoptions, with the aim of creating public support for the ambitious
+reform agendaahead. It is expectedthat authoritieswill take the lead in carryingout these activities.
+The agenda includes a participatory poverty assessment (PPA), public expenditure reviews,
+fiduciary/institutionalassessmentsfor public finance accountability,and economicpolicy notes to
+provide an economy-wideview of the main challengesfacing the country.The AAA programalso
+includes studies on public finance management,includingtaxation; on macroeconomicperformance
+and povertyalleviation;and on private sectorparticipationin infrastructure.The Bank is proposing
+to use due diligence analyticaland advisory activities(AAA)more intensivelythan in the past few
+years to provide a solid basis for policy dialogue and enhance the design of operations. The Bank
+program will include such activities as supportto PRSP monitoring;technical assistanceto PER
+processes,assistanceto INSD; capacitybuilding for economicmonitoring. Other activities to be
+financed include a country financial accountabilityassessment (FY01), a public service quality
+assessment(FY01),and a vocationaltraining strategy(FY03).
+Role of MIGA and IFC
+84. Due to the limited size of the formal sector(only 80 enterprisesemployingmore than 50 staff,
+includingstate enterprises),there has been relativelylittle private investmentand consequentlylittle
+activityby IFC (one small scale miningproject and two financialsectorinvestmentprojects totaling
+$2 million) and MIGA in the past. FIAS is currently assisting the Government in streamlining
+registrationprocedures to improve the business climate and make the country more competitive.
+lFC's role is expected to be limited in the near term, due to low demand, but could expand
+substantiallyin the context of the implementationof the new developmentagenda,especiallyin the
+infrastructureprivatizationarea.
+III.
+
+KEY ISSUES IN IMPLEMENTING THE CAS
+
+MONITORINGOF OUTCOMES
+
+85.
+One of the key featuresin the CAS is the frameworkfor monitoring:(i) countryperformance,
+to determinewhetherthe conditionsfor the base casestill exist,or whetherthere is justification for a
+change in the size or compositionof the proposedassistanceprogram(see Table 6, below); and (ii)
+Bank performancein deliveringon the CASobjectives.
+86.
+
+Country performance. Since 1997, Burkina Faso has been testing a new approach to
+
+developmentaid conditionality.This approach,known as the reformulatedconditionalitytest and
+designedin the frameworkof the SPA,is gearedmainly towardenhancingGovernmentownershipof
+the policy identification,monitoring,and evaluationprocess;and towardenhancingthe effectiveness
+of aid by monitoringprograms on the basis of measurableand previouslyestablishedperformance
+indicators. The idea is for all donors and lenders to reach consensuson a series of performance
+indicators for Governmentactivities in key sectors. Those indicators are then used as the basis for
+decisionsregardingdisbursementof financialassistance-preferablyin the form of programsupport.
+Table 4 and Annex B4 list AAA activities funded under BB administrativeresources, whereas Annex B 1 also includesAAA
+activities funded under Bank projects, and/or Trust Funds.
+
+23
+
+87. For each major policy domain and in addition to monitoringindicatorsfrom the SPA test, the
+Bank has, with the authorities, key stakeholders and donors, elaborated a detailed monitoring
+framework,based on agreed-uponindicators(see Attachment8). Theseindicatorsare drawn from the
+PRSP. The main monitoring instrumentswould be the reviews of the structural reform program,
+carriedout every six monthswith the IMF, and the publicexpenditurereviews,togetherwith selected
+economicand sector work, and householdsurveys.Countryportfolioperformancereviews (CPPRs)
+will continue to be carried out every two years, and will be led by the Resident Mission.A CAS
+progressreportwill be preparedand discussedwith the authoritiesin FY03.
+Table6: ProposedCoreBenchmarks9
+duringCASPeriod
+1. Poverty headcount ratio (*)
+2. Infant mortality rate (per 1,000 live births)
+
+1999
+45-3
+105
+
+2003
+40
+85-80
+
+1 13
+
+100-95
+
+- Rural
+- Urban
+4. Primary enrollrnent rate (percent)
+5. Gross primary enrollment rate for girls/total enrollment
+(percent)
+
+(S)Number of
+
+67
+41
+:336
+:
+
+55-50
+53
+50
+_____
+
+persons below the poverty line as a percent of total population.
+
+COLLABORATIONWITH OTHERDEVELOPMENTPARTNERS
+
+88.
+BurkinaFaso enjoys broad donor support. A large numberof bilateral and multilateral aid
+agencies and a significant number of local and international NGOs are active in the country.
+External aid flows are estimatedto represent 13 percent of GDP (about the same as Government
+revenue),and some 90 percent of thepublic investmentprogramis externallyfinanced.
+89.
+IDA partnershipwith the IMF has deepenedover the last fouryears withjoint work on HIPC,
+PERs, and the PRSP. The effectivenessof the Bank/Fundrelationshiphas been critical, because in
+the absence of clearly defined strategies in some sectors and with the limited capacity of the
+0 overall aid coordination has been very uneven in recent years.
+Cooperation Directorate,1
+Inconsistenciesamong donorshave oftenled to intensivediscussionsand inefficiencies.Since 1999,
+the Governmenthas shown an increasedinterestin fosteringsynergiesamongdonor activities. It is
+now more determined to strengthen its aid management capacity and has started to adjust aid
+coordinationmechanismsand practices,beginningwith the formulationof an operationalframework
+(sector strategies, public expenditureprograms, harmonizedproject implementationarrangements)
+for activities supportedby different donorsin several sectors (education,health, community-based
+rural development).
+90. The ambitiousnature of BurkinaFaso's developmentand povertyreduction strategyhighlights
+the need for selectivity and greater use of complementaritiesamong donors.The Bank will work
+closelywith the Governmentand otherdonorsto avoid duplicationwhilehelping build the country's
+limited institutionalcapacity. The challengefor the Bank will be to build on existing cooperative
+relationships and to focus on areas of its comparative advantage. During CAS preparation
+information was collected by donor and sector on donors' assistance, as well as projected
+9 In setting benchmarks during CAS Period and monitoring indicators (see Attachment 8), we draw on the experience of Burkina
+Faso's pilot initiative on Reformulated Conditionality, under which the authorities and donors have agreed on specified outcomes
+as the measure of progress under adjustment operations. The targets set by the authorities reflect the OECD/DAC International
+Development Goals, although the target dates for universal enrollment in primary education and for eliminating gender disparity
+in education have been adapted in line with the low base from which Burkina starts and its limnited implementation capacity.
+to During FY00 CAS preparation, difficulties in gathering basic data and producing a summnarymatrix of the nature and volume
+of aid from the various donors highlighted the administration's limited institutional capacity to manage foreign assistance on the
+basis of a properly informed decision-rnaking process.
+
+24
+
+commitments.Attachment 7 provides overall amounts&. The difficultyin carrying out this task
+suggests that both coordinationand tracking of aid will require capacity building on the part of
+Governmentand simplificationof procedureson the part of donors.
+91. Consultationwith the 1MFhas been excellentand should continueto be so, with joint-missions
+twice a year as the main vehicle for macroeconomicpolicy dialoguewith the Government.Greater
+effortswill be made to assure closecoordinationwith the EU. In the comingyears, consultationwill
+be intensifiedand efforts will be made to harmonizepolicy advice, project design, and procedures
+among developmentpartners(e.g., for the BasicEducationProject nowunder preparation).A closer
+workingrelationshipwill also be soughtwith bilateral assistanceagencies,given their increasingly
+heavy involvement in Burkina Faso. The Bank will strengthen the dialogue with all other
+developmentpartners, including the UN agencies, the private sector, and representativesof civil
+society.Residentmissionstaffingpolicywill aim at havingBank expertsmore involvedin sectorand
+issues-orientedworkinggroupsin the field.
+92. Another critical elementin this effortwill be to develop adequatemechanismsto monitorand
+evaluatethe impact of externalassistance.In this context,the Bank will have to take the appropriate
+steps to provide even greater support to the Governmentin the area of donor coordination.But
+ultimately, the key to success will be the Government'sown coordinationand rationalization of
+foreignaid.
+IV. RISKS
+93.
+Implementationof the Bank's proposed assistance strategy faces three types of risks: (i)
+deteriorationof the externalenvironment;(ii) weak institutionalcapacity;and (iii) political risks and
+diplomatictensions.
+94.
+External Environment. Given the heavy reliance of Burkina Faso's economy on cotton,
+gold, and livestock exports, the greatest concern of Burkinabe policymakersis the depression of
+regionalas well as global demand,which would slowexportgrowthand delay implementationof the
+povertyreduction strategy. The PRSP sets a target of 7 percent real GDP growth, on average, for
+2001-2003.The PRSP acknowledgesthat BurkinaFaso's poverty reduction strategy is ambitious,
+and that successwill substantiallydepend on externalfactors (demandfor cotton, world prices, the
+dollar/CFAFexchange rate). The medium-termbalance of payment projections for Burkina Faso,
+which will strongly influence the country's rate of economic growth, are subject to substantial
+uncertaintiesregardingexportvolumesand pricesfor cottonand gold.
+95.
+Weak Institutional Capacity.The medium-termreforrn agenda presented in the PRSP,
+especially in the social sectors, constitutes a weighty program for the next three years. Its
+implementationwill require full commitmentfrom the authoritiesand significantmobilization of
+civil society groups. Given the scope of the action plan to be undertaken-and in light of past
+difficultiesin reaching some targetsin the educationand health sectors--thereis a risk that the reform
+program could falter because of pressures from vested interests and persistent institutional
+weaknesses.Moreover,thereis a risk that evenif reformsare fully implemented,therewill be a long
+delayin supplyresponseand direct investments.
+96.
+Political Risks. BurkinaFaso has enjoyedpolitical stabilityunderthe leadershipof President
+Blaise Compaore. The countryhas moved steadilytowardpoliticalpluralismand has now organized
+several multiparty elections: presidential (1991 and 1998), parliamentary (1992 and 1997), and
+municipal (1995 and 2000). However, there have been signs of social instability and opposition
+since the assassinationof a popularjournalist in December 1998. To address the crisis, President
+Detailed informnationby donor and sector is available at Direction Generalede la Coop&ation.
+
+25
+
+Compaore has promised some major political changes over the coming months. So far, the
+Government has continued efforts to deepen economic and social reforms. Should a coalition
+Governmentbe instituted in early 2001, there is a risk that the reform momentum could slow and
+that, in a worst case scenario, some reforms couldbe halted. Another risk would be a fall in external
+aid flowsresulting from the perceptionon the part of some donorsthat Burkina Fasohas governance
+and humanrights problemsand that it plays a role in regional conflicts. It should also be noted that
+political tensions in neighboringcountries,and in particular C6te d'Ivoire, could have implications
+for the cross-bordermovementof migrant labor and the associated transfer of private international
+remittances,which up to now have addedsignificantlyto BurkinaFaso's nationaldisposableincome.
+97.
+In our assessment,theserisks are significantbut manageable.The Bank will take a number
+of steps to mitigate them. On the economicfront, the Bank, together with other donors, is closely
+monitoring economic developments in Burkina Faso. Management of downside risks in the
+macroeconomicframeworkis a central elementin the Bank's policy dialogue.The above-mentioned
+monitoringframeworkhas been developedfor that purpose.The Bank's exposureis low and Burkina
+Faso has consistently serviced its debt. On the institutionalfront, the risks are mitigated by the
+Government'scommitmentto decentralizationand to ensuring full participationof all key segments
+of Burkinabe society in the implementationand monitoringprocess. Bank Group programs under
+considerationfor the medium term will mainstreamgrassrootsand women's participationin policy
+design and evaluation. On the political front, even if there is a change in Government, the
+probabilityof the worse case scenario-overall backtrackingof the reform program-is considered
+moderatebecause there is growing awarenessacross BurkinaFaso's political spectrum that without
+considerableforeign investment,the country will be unable to resist the challenges and grasp the
+benefits of deeper regional integrationand achievesustainablegrowth.Diplomatictensions between
+Burkina and neighboringcountries are mitigated by the Government's commitmentto comply with
+UN resolutionsaboutconflictsin the region.
+98.
+On balance, therefore,there is a strongjustificationto assist BurkinaFaso in the challenging
+times ahead. The base case programpresentedin the CAS, focusing on lending in priority sectors,
+has been designedto meet the client's needswhile minimizingpotentialrisks.
+
+JamesD. Wolfensohn
+President
+By ShengmanZhang
+Attachments
+Washington,D.C.
+November3, 2000
+
+26
+
+Attachment 1
+Constraintsto Growth and Poverty Reduction
+In order to meet the challenging objectives of reducing poverty and increasing per capita income
+in rural areas where most of the population live, the Burkinabe authorities have identified four
+major constraints on the economy which they intend to tackle:
+(i) Large social deficit, low labor productivity, and high unemployment. Burkina Faso's
+population density is already the highest in the Sahel (40 inhabitants per km) and contributes to
+the high incidence of poverty. At the same time, dependency ratios are high. With close to half
+the population being under the age of 15, rapid population growth (2.8 percent) is not likely to
+diminish over the near term. Such high population growth rates will put a strain on extremely
+limited water resources. Water management is also a critical health issue as much of the
+population has no access to clean drinking water. Moreover, Burkina Faso also continues to have
+among the lowest gross primary school enrollment rates in sub-Saharan Africa: 44 percent for
+boys and 34 percent for girls. Similarly, the health status of the population is poor with life
+expectancy at birth reaching only 54 years, and AIDS prevalence is estimated to be about 6
+percent. According to various growth accountingstudies, Burkina Faso's labor productivity is one
+of the lowest in West Africa. And estimates of the unemploymentrates across the 45 provinces of
+the country are high-about 20 percent in Ouagadougou,the capital city.
+(ii) Poor economic infrastructure, high input costs, and limited size of the modem private sector.
+Competition for new export markets is especially dependent on access to and adequate supply of
+reliable and competitivelypriced infrastructure services. Yet, the relatively poor quality and high
+costs of infrastructure in Burkina-including power, transport, telecommunication,and waterreduces the likelihood that private entrepreneurs, domestic and foreign, will increase their
+investment in response to policy reforms. Furthermore, the size of the modem private sector is
+limited. Burkina has a large informal sector of some 90,000 micro-enterprisesthat contributes 32
+percent of GDP and accounts for 70 percent of non-agricultural employment.The informal sector
+contributes more than 50 percent of value added in certain industries. The formal sector that
+contributes 40 percent of GDP only employs 2 percent of the workforce. It comprises a rather
+large number of very small enterprises (about 6,300 enterprises accounting for 25 percent of
+GDP) and only 80 enterprises-including the 37 public enterprises-with more than 50
+employees. More disturbing is the low public confidence in the equity and efficiency of the tax
+system: tax rates are high on the small modem sector, as illustrated by the importance of tax
+exemptions and tax evasion.
+(iii) Institutional capacity. Burkina Faso's public institutions are weak, especially in the
+implementation of the rule of law. Besides a major legal and judicial reform, the government
+needs to strengthen its capacity for revenue mobilization, and to ensure that public resources are
+allocated and spent in the most efficient and social equity oriented way.
+(iv) A relatively closed economy exporting labor. In spite of the strong export performance,
+particularly since the devaluation,the export rate remained the lowestin the region (11 percent of
+GDP on average between 1994 and 1999) which partially explains Burkina Faso's structural
+current account deficit (-16 percent of GDP in 1999). For the past decades, an important fraction
+of Burkina Faso's workforce has migrated to coastal neighboring countries-especially Cote
+d'Ivoire-to seize low wage job opportunities,a trend which also contributed to lower domestic
+labor productivity.
+
+27
+
+Attachment 2
+Burkina Faso's Poverty Profile
+Poverty incidenceincreased slightly from 44.5 percent to 45.3 percent'2 during 1994-1998. Data
+used for this poverty assessment come from two national surveys on household living standards
+carried out in 1994 and 1998.'3 Depth of poverty (P1, defined as the percentage by which
+consumption remains below the one correspondingto the poverty line) remained broadly stable
+during the period, at 14 percent, which suggeststhat a large part of the poor population is close to
+the poverty line. Larger households of over ten people tend to be poorer. Poverty incidence
+increased in urban areas by more than 5 percentage points to 16 percent in 1998. In rural areas,
+poverty incidence decreased slightly,by less that 1 percent.
+However, poverty in Burkina Faso is still predomninatelyrural, accounting for 94.5 percent of
+national poverty. The incidence of regional poverty varies widely. The cotton-growing western
+region has the lowest incidence at 41 percent, and the center-north part of the country has the
+highest incidence. The poor in the remoter areas lack access and information about markets. The
+geographicalpattern of poverty is changing as a result of the reduction of poverty in the south,
+southeast, and north, and the significant increase in the south-central region. Other research
+illustrates large differences in equity patterns within regions, and across provinces. Evidently,
+certain types of local-level institutionsare associated with lower inequality across villages. This
+means that in the future the same level of growth could significantly accelerate poverty reduction
+for these groups of villages.
+PovertyIncidence(P0)and PovertyDepth(11)by Regions,1994and1998'
+(Inpercent)
+1994
+P0
+
+P1
+
+1998
+PO
+
+P1
+
+Regions
+South Central
+
+51.4
+
+14.6
+
+55.5
+
+19.7
+
+NorthCentral
+
+61.2
+
+20.9
+
+61.2
+
+18.2
+
+Southeast
+
+54.4
+
+18.7
+
+47.8
+
+12.2
+
+North
+
+50.1
+
+18.7
+
+42.3
+
+9.5
+
+South
+West
+
+45.1
+40.1
+
+14.0
+11.9
+
+37.3
+40.8
+
+12.0
+12.0
+
+Urban
+Rural
+
+10.4
+51.1
+
+2.5
+16.1
+
+15.9
+50.7
+
+4.0
+15.8
+
+National
+
+44.5
+
+13.9
+
+45.3
+
+13.9
+
+Source: Burkinab6authorities' Priority SurveyI and Priority SurveyII
+
+' Povertvincidenceis measuredas the head countindexPO (thepercentageof a groupbelow the poverty line);Pl
+to
+remainsbelowthe one conresponding
+representsthe depthof povertydefinedas the percentageby whichconsumption
+thepovertyline.
+
+Poverty increased for public and private wage earners, craftsmen, and merchants, and for other
+employment. Between 1994 and 1998, poverty incidence decreased by 8 percentage points to
+42 percent for cash crop farmers, but increased by 2 percentage points to 53 percent in 1998 for
+food crop farmners.It is likely that the CFA franc devaluationbenefited some farmers, especially
+cotton farmers, but had a negative impact on the purchasing power of wage earners.
+12 Themethodusedto measurepovertywas identical,and,therefore,it is possibleto comparemost ofthe
+of expenditureaggregatesis weakenedbecausethe datawerecollected
+data. However,the comparability
+duringtwo differentperiodsof the year.In addition,otherpovertyestimatesusingdifferentmethodologies,
+andbasedon 1992and 1998demographicandhealthsurvey(DHS)data,showa slightdecreasein poverty.
+13Thehouseholdlivingstandardswerecarriedout in 1994and 1998basedon a sampleof about8,500
+householdsdistributedacrossten regions.Thedataare analyzedin the BurkinaFasopovertyprofile,
+finalizedin May 2000.
+
+28
+
+BurkinaFaso:PovertyIncidenceby EconomicOccupation,
+1994and1998
+(Inpercent)
+1994
+
+1998
+
+Economnic occupations
+
+P0
+
+Co
+
+P0
+
+CO
+
+Public wage eamers
+
+2.2
+
+0.2
+
+5.9
+
+0.5
+
+Privatewageeamers
+Craftsmen and merchants
+Other emnployment
+Cash crop farners
+Foodcropfarmers
+Unemployed
+
+6.7
+9.8
+19.5
+50.1
+51.5
+41.5
+
+0.4
+1.4
+0.3
+11.8
+78.9
+7.1
+
+11.1
+12.7
+29.3
+42.4
+53.4
+38.7
+
+0.7
+1.6
+0.4
+15.7
+77.1
+4.0
+
+Total
+44.5
+100.0
+45.3
+100.0
+Source: Priority Survey I and Priority Survey II.
+' Poverty incidence is measured as the head count indexP0 (the percentage of a group below the poverty
+line). The contribution of each group to the total number of people below the poverty line is captared by the
+index CO.
+
+The most vulnerable groups are children, women, unemployed, and the elderly. There are 100
+women for every 95 men on the absolute poverty threshold. HIV/AIDS is also creating a new
+group of dependentpoor and increasing the stress on traditional networks of support.
+
+29
+
+Attachment 3
+
+Key Structural Reforms Implemented under Previous CAS
+Policy Measures
+Fiscal reforms
+Introduce WAEMU's product classification
+Eliminate special intervention tax and introduce WAEMU's CET, lowering maximum
+tariff rate from 37 percent to 25 percent
+Eliminate special VAT payment procedures for importers of raw materials and for
+enterprises registered under the investment code
+Eliminate all remaining exemptions on public contracts and enhance monitoring of
+taxation for foreign-financedprojects
+Complete computerization of tax revenue collection, enhance monitoring of large
+enterprises, and improve recovery from defaulters
+Introduce a withholding tax at source on imports and purchases from wholesalersand
+producers
+Introduce a withholding tax at source on payment for services
+Reduce the business profit tax from 40 percent to 35 percent
+Computerize wage and public investment expenditure
+Conduct review of public investment
+Haxmonizethe budgetary system within the WAEMU framework
+Civil service reform
+Approve and implement law on civil service end- 1998
+Approve and implement master plan for institutional reforms and modemization of
+public administration including:
+Introduction of merit-based promotion system
+Larger recourse to contractual staff
+Approve law on decentralization and deconcentration
+Introduce a single personnel file, encompassing those of the Ministries of Finance
+and of the Civil Service
+Financial sector reform
+Complete restructuration of the postal checking system and savings fund (CCPCNE), with separation of accounts from treasury and compensation between
+treasury and the national postal office (Sonapost).
+Strengthen the network of savings and loans cooperatives
+
+Status
+Done in April 1999
+Done. Rate reduced to 20 percent in January 2000
+Done
+Done in June 1999
+Done in 1999
+Done in January 2000
+Done in January 2000
+Done in 2000
+Ongoing
+Conducted in 1998-99
+Done
+Approved in April 1998, and entered into force end-1998
+Done in January 1999
+Ongoing since 1999
+Done in December 1998.Implementation ongoing
+Done in March 2000
+
+Done in June 2000.
+
+Yearly audit of main savings and loans network since 1998:
+unit responsible for enforcing PARMEC law strengthened.
+1/
+On the basis of new OHADA acts and the regulations of the banking commission, Done in 1997-99
+strengthen rules applying to bank collateral,bank reserves, and effectivecapital
+Business environment, legal and regulatory framework
+Simplify business law in context of OHADA
+1997-2000, ongoing
+Increase recruitment of magistrates and computerize courts and tribunals
+1997-2000, ongoing
+Strengthen one-stop window (CPE) for private enterprises and streamline regulation Done in November 1997
+by October 1997
+Public enterprisesand privatization
+Strengthen institutional framework for privatization, so as to speed up process
+Done
+Complete ongoing privatization of 41 enterprises
+Privatize 21 enterprises
+Done
+Put up for sale or liquidate by Dec. 1997 8 entelprises
+Done
+Put remaining 12 enterprises up for sale by March 1998
+Done with some delays
+Review the strategy for the remaining enterprises in govemment portfolio
+Done
+Select four new companies for privatization in 1998
+Done
+In telecommunications,
+grant two cellular phone licenses, and
+Done in April 2000
+operationalize regulatory agency
+Done in March 2000
+Approve privatization and liberalization of energy sector
+Done
+Agricultural policy
+Phase out activities of state rice import company
+Done in 1997-99
+Adopt new agreement on producer price and profit-sharing mechanism for cotton
+Done in March 1998
+Adopt plan to open up the capital of SOFITEX to cotton producers and others
+30 percent of
+shares
+acquired by
+producers;
+interprofessionalagreement signed in 1999
+Complete reorganization of agricultural services of Ministry of Agriculture
+Done in December 1998
+1/ The PARMEC law was adopted in 1994,in the context of the WAEMU, regulating savings and loan cooperativesand their networks.
+
+30
+
+Attachment 4
+An Econometric Model for Macroeconomic Simulations
+The model was built in close collaboration with the Burkinabe authorities. It is designed
+1.
+for policy simulation in the context of a small dependent economy facing short and long-term
+constraints to GDP growth. First, effective demand constitutes an important constraint on GDP
+growth. In addition, a significant part of the Burkinabe economy is informal and an equally large
+proportion of rural output - food products - is non-marketed. Second, foreign exchange
+availability is a major constraint to growth. This is because Burkina Faso is a natural resource
+poor agrarian country, particularly vulnerable to climatic shocks, which makes the economy very
+dependent on imports, especially foods, durable consumer goods, oil products as well as capital
+goods. Given that export propensity is very low (11 percent of GDP in 1999), the country is also
+dependent on workers' remittances and foreign aid. Finally, Burkina Faso is a member of the
+WAEMU. The fixed exchange rate system implies tight monetary policy, especially credit policy.
+This constitutes a third constraint on short-term output growth. As a result, in the short run, real
+income growth is constrainedby foreign exchange availability and domestic credit.
+These constraints affect the various components of aggregate demand. Specifically,
+2.
+consumption depends on disposable income, real credit to the private sector and import capacity
+because of food and durable consumer goods. Likewise, total investment depends on potential
+output as well as import capacity since most capital goods are imported. Public consumption, net
+transfer to the private sector and public investment are policy variables that are set according to
+growth and distribution objectives as explained later. Imports depend on income and on the
+country's relative competitivenessindicated by the real exchange rate, while exports are driven
+by competitiveness as well as potential output. In the long run, output is determined according to
+an endogenous growth model. Capacity depends on physical capital, human capital and total
+factor productivity growth. The price level is determined via cost-push factors (import and
+primary factor costs) and short-term demandpressure related to capacity utilization rate.
+On the financial side, the model describes flows of funds for four economic agents, namely
+3.
+the private sector, the government, the monetary sector and the foreign sector. The public sector
+comprises the central government as well as the local administrations. The monetary sector
+comprises the central bank and deposit money banks and the private sector the rest of the
+economy (households and non-monetary financial institutions). The money market is described
+via supply and demand activities. The demand for money depends on real income and expected
+inflation. Policy targets on gross foreign reserves, bank credit to the private sector and to the
+government are specified, so that changes in net foreign liabilities clear the money market. As to
+the government sector, public consumption and investment are set as policy targets as indicated
+above. Meanwhile, Government revenue is derived from taxes and exogenously specified levels
+of grants. The variation in foreign loans to the public sector ensures the financing of the public
+sector resource gap. With a fixed nominal exchange rate, a target on gross foreign reserve of the
+Central Bank and all other foreign financing items pre-determined, balance of payments closure
+may require some short term borrowing, which is considered short term public liability.
+Scenario of Moderate Growth.
+This scenario assumes the continuationof current adjustment policies in the context of low
+4.
+level worldwide inflation and moderate international interest rates (5 percent). We assume a
+moderate increase in export prices while import prices will remain stable around the inflation rate
+of OECD countries-as a whole there is a 2 percent improvement in the terms of trade over the
+projection period. We assume a slight depreciation of the exchange rate (2.5 percent) consistent
+with a strong dollar and low inflation in the zone. We assume that the BCEAO will adopt a
+cautious monetary policy to maintain inflation within the WAEMU's convergence target.
+31
+
+Attachment 4
+Domestic credit is projected to expand by 2 percent above the inflation rate. We project an
+increase in net foreign assets aiming at maintaining gross foreign reserves at a minimum of 8
+months of imports. Workers' remittances are expected to increase by 10 percent over the period
+2000-03 and partly offset the deterioration of the current account balance. This trend is in line
+with sub-regional GDP growth. We assume the deepening of financial intermediation and a
+favorable environment which will create investment opportunities and attract external savings.
+5.
+Fiscal policy remains prudent with direct and indirect tax rate of respectively 3 and 5
+percent of GDP. By contrast, we have adjusted indirect tax import rates to take into consideration
+the implementation of the custom unions in WAEMU countries as of January 2000. We used as a
+benchmark the average import tariff in the zone estimated at 12 percent given product
+classification and the new CET structure. We project a steady increase of capital expenditure of 5
+percent so that the government can continue its effort to improve basic infrastructure and human
+capital. Simultaneously, public consumption will rise by about 2 percent following additional
+recruitment in priority social sectors and extra recurrent costs generated by the increased volume
+of public investment.
+6.
+Simulation results indicate that in this scenario, real GDP growth will average 4.5 percent
+per annum over the projection period (2000-2005).The inflation rate will stabilize slightly below
+the WAEMU target at around 2.4 percent. There will be a slight improvement of external and
+internal balances. At this annual rate of 4.5 percent of real GDP growth and given the
+current elasticity of poverty reduction with respect to mean income (about 1.5), the poverty
+headcount index will only decrease by about 1.5 points per year, which would not allow
+Burkina Faso to achieve the OECD 2015 developmentgoals.
+High Growth Scenario.
+7.
+Reducing poverty in Burkina Faso will require a more ambitious development scenario.
+The PRSP presents such a high growth scenario, with a target for the average annual real GDP
+growth rate in 2000-03 of 7.4 percent. To reach this target, the government of Burkina Faso plans
+to implement a two-pronged strategy: (i) a more flexible macroeconomic framework; and (ii) a
+structural reform program aiming at opening-up the economy to regional and world markets and
+to significantly reducing input and transaction costs.
+8.
+A more flexible macroeconomicframework: The government has articulated the country's
+poverty reduction strategy and a comprehensive action plan that identifies priority sectoral
+policies to be pursued in support of poverty reduction, including in the areas of education and
+health. The first step should be afull costing of the envisagedpoverty reduction strategy, both
+with regard to public spending requirements and to changes in the tax system. The second step
+would involve taking into consideration the scope for financing budgetary expenditure through
+net domestic borrowing in light of the need to maintain macroeconomic stability as prescribed by
+the WAEMU and BCEAO. The third step would be to assess thescope for externalfinancing be
+it in the form of grants, net external borrowing, or debt relief. After having carried out the
+assessment of the external and internal resources, policy makers could then determine whether the
+desired poverty reduction strategy can be financed in a manner consistent with the country's
+growth and stability objectives.
+9.
+The model is a useful tool to conduct thisiterative process. Policy targets on government
+spending (public consumnptionand investment as defined in the PRSP) and policy targets on gross
+foreign reserves, bank credit to the private sector and to the government (as dictated by the
+WAEMU and BCEAO rules) are specified. The model calculates the changes in net foreign
+liabilities necessary to clear the money market and the public sector resource gap. Given the fixed
+32
+
+Attachment 4
+norninal exchange rate, a target on gross foreignreserve of the Central Bank and all other foreign
+financing items pre-determined, the balance of payments closure may require some short term
+borrowing. If there remains an imbalance between expenditure and expected financing that
+jeopardizes the country's macroeconomic growth and stability objective as stipulated in the
+WAEMU treaty, one option would be to ascertain the extent to which the additional external
+financing may be available. If the desired poverty reduction program cannot be reconciled with
+the country's economic stability and growth objectives, then policy makers will need to
+reconsider the various parameters specifiedinitially specified.
+10. Implementing a Bold Structural Reform Agenda. The second pillar of the strategy is to
+remove all constraints to private sector development and accelerate the pace of Burkina Faso's
+integration into the regional and world economy. This includes diversifying the economy to
+establish a strong foundation for sustained growth in view of the vulnerability of the country to
+external shocks; investing in human resources: This will imply a boost in both current and
+capital expenditures over the horizon 2005;bringingdown gradually the high costs of electricity,
+telecommunications,and transport;improvingtaxation of the informal sector, reducing corporate
+income tax and tightening of the exemptions under the investment code;deepening financial
+intermediationand increasing access to microfinance savings and loan institutions, especially for
+the poorest and for women. These reforms would lower transaction and input costs, enhance the
+competitiveness of the economy, attract foreigndirect investment, increase exports, and stimulate
+private sector development.Such growth-enhancingand poverty-reducingpolicy agenda boosts
+private sector and partners' confidence. We assume an increase in foreign direct investment and
+portfolio investment growth over the projection period. Foreign transfers to the private sector will
+also improve. Foreign donors will also support the government strategyby providing additional
+current and capital grants. We project a slight CFA depreciation with respect to the dollar (as in
+the scenario of moderate growth) and an improvement in the terms of trade over the projection
+period.
+11. Following the increase in public human capital expenditures and stronger private sector
+activity after the reduction in factor costs, corporate income tax, and increased productivityreal
+GDP growth rises steadily over the medium-term to reach 7.7 percent in 2005 and inflation
+is contained at about 2.6 percent, (slightly below the WAEMU target of 3 percent). With a
+poverty elasticity of about 1.5, the poverty headcount ratio would be reduced by about 30
+percent (15 points).
+
+33
+
+Attachment 5
+CAS Formulation: A Participatory Process
+In the process of CAS preparation and formnulation,we have organized throughout 1999 and early 2000
+consultations with Burkinabe officials, academic experts, private businessmen, local UN agency heads,
+multilateral and bilateral program directors, and the representatives of many NGOs and community groups.
+To initiate the process, we held a Country team retreat in Washington in January 1999, opened to other
+donors working in Burkina Faso, and to two senior officials representing the Government. In the summer of
+1999, we held workshops in Ouagadougou, Bobo-Dioulasso,and Tenkodogo to consult with representatives
+of the administration in the country side and civil society groups. We invited interested groups and
+individuals to advise the Bank on identification of development priorities and formulation of its assistance
+strategy for Burkina Faso. The agenda, participation, and conduct of the meetings were left to organizers.
+Written talking points, notes and other background material for these meetings were prepared by the
+Government. Finally, in September 2000, a French version of the draft of the CAS was shared with the
+burkinab6 authorities and the donors. Their views and recommendations were fully taken into consideration
+in the final version of the document.
+The meetings held throughout the preparation process of the CAS varied somewhat in quality, but the
+response was uniformly positive, the discussions were often lively but always constructive, and some ideas
+merging from these brainstorming sessions have been incorporated into this new CAS. While the discussion
+of priorities and suggestions for future Bank action in Burkina Faso tended to reflect the specific interests of
+each social group, there were some points in common. These have included an understanding of the need to
+improve the competitiveness of the Burkinabe economy through major reforms of the utilities (electricity,
+water, telecommunications), and to redefine the role of the state and to limit public expenditures to sectors
+where market failure cannot be corrected otherwise. High priority was given to reducing the human capital
+deficit-with particular emphasis on raising the health and education levels in the rural areas-and to
+improving governance through better public finance management, greater decentralization of decisionmaking and of control over program execution, and increased account ability of all Government officials.
+The process emnphasizedthe need to maintain flexibility in the implementation of the Bank program. During
+the various workshops organized in 1999, the joint Bank-Government teams agreed on strategic priorities
+and adopted three criteria to be used for defining the medium-term Bank program: (i) impact of the strategy
+on the overall growth and poverty reduction objective; (ii) institutional viability and degree of ownership;
+and (iii) comparative advantage of the Bank. It was agreed that these criteria would serve as guiding
+principles to design Bank assistance and to make adjustments to the program if circumstances change during
+the CAS implementation period.
+The CAS preparation process had clear benefits. Government officials and Bank staff were encouraged by
+the participants' awareness of the need for a faster pace of reforms. The discussions also revealed major
+information gaps and therefore, the need for well thought through communication strategies for privatization
+programs and public administration reform, for example. It has been agreed with Government that this CAS
+process should contribute to the information/comnnunicationeffort through further dissemination activities.
+The approved CAS document will be widely distributed and discussed in the country (all development
+stakeholders, local and international media, political parties, Economic and Social Council, economic
+commission of the National Assembly). Finally, these CAS discussions have shown that therelationship
+between the Government and the Bank has gained in confidence over the past three years.
+
+34
+
+Attachment 6
+Burkina Faso's Gender Profile
+Indicator
+
+I
+Female
+1. HUMANCAPITALASSETS
+
+Male
+
+Health
+
+LifeExpectancy
+atBirth
+CrudeBirthRate(per1,000people)
+InfantMortality
+Rate(per1,000livebirths)
+Maternal
+Mortality
+FertilityRate(womenaged15-49)
+Prevalence
+ofFemaleGenitalCutting(FGC)(%)
+HIV/Aids
+AdultHIVPrevalence(%of populationaged15-49)
+HIVPrevalenceRatein YoungPeople(Age15-24)High
+Estimate(%)
+Adults(15-49)LivingwithHIV/AIDS
+TotalNumberof PeopleCuwfently
+Infected
+AIDSOrphans(Cumulative)
+WomenAttendingAntenatalClinics(%infected)
+FemaleSex Workers;MaleSDTpatients(%infected)
+
+54
+45
+105
+484
+6.8
+66
+6.44
+7.51
+
+3.33
+
+180,000
+
+150,000
+350,000
+320,000
+
+7.4
+58.2
+
+41.8
+
+AdultLiteracyRate(15+)
+GrossPrimaryEnrollnentRate(%of agegroup)
+Shareof SecondaryEnrollments(%)
+Shareof TertiaryEnrollments
+(%)
+Progressionto Grade5 (%of cohort)
+
+12.9
+34
+35
+23
+68
+
+24.8
+46.7
+65
+77
+71
+
+2. ECONOMIC ASSETS
+AdultLaborForce(%)
+Agricultural
+LaborForce(%)
+Administrative
+& ManagerialLaborForce(%)
+LandOwnership(%)
+HouseholdHeadship,Rural(%) Total
+
+47
+>50
+14
+<6
+7
+
+53
+<50
+86
+>94
+93
+
+Education
+
+3. SOCIAL CAPITALASSETS
+Representation
+in Parliament,1999(%)
+8
+Representation
+in Cabinet 1999
+10
+Representation
+in LocalGovernment(%)
+10
+MeanAge at firstmarriage(years)
+17
+Sources: PRSP, Demographicand Health Survey 1999,LTNAIDS,
+UNDP, vauiousstudies.
+
+35
+
+92
+90
+
+90
+27
+
+Attachment 7
+Collaborationwith DevelopmentPartners
+During CAS preparation informationwas collectedby donor and sector on past transfers, as well as
+4 . The difficulty in gathering basic data and producing a summary matrix of the
+projected conmmitments1
+nature and volume of aid from the various donors highlighted the administration's limited institutional
+capacity to manage foreign assistance on the basis of a properly informed decision-makingprocess. It
+suggestedthat both coordinationand trackingof aid will require capacity buildingon the part of Government
+and simplificationof procedures on the part of donors. A critical element in this effort will be to develop
+adequate mechanisms to monitor and evaluate the impact of external assistance. For details, see donor
+activitiesin Annex B 1.
+Donors(excludingIDA)
+Total disbursements (1996-98)and Projected Commitments (1999-2002)
+($ million)
+
+Rural Dev/
+Environ
+
+Sector
+
+1996-1998
+1999
+2000
+2001
+2002
+
+207.7
+62.1
+63.7
+49.2
+38.4
+
+Educatlon
+
+63.3
+14.1
+23.2
+21.9
+21.1
+
+Health
+
+66.1
+14.9
+14.7
+10.6
+10.0
+
+Transporti
+Infrastructure
+
+135.7
+30.2
+30.6
+45.7
+30.2
+
+Energy
+
+58.1
+15.3
+11.8
+21.6
+14.2
+
+Water
+
+Instit
+Dvlpt
+
+82.4
+69.9
+55.1
+24.8
+33.0
+
+4 Detailed information by donor and sector is available at Direction Generale de la Cooperation.
+
+36
+
+175.1
+42.3
+27.4
+29.8
+35.8
+
+Other
+
+Total
+
+40.4
+10.2
+10.3
+6.4
+6.1
+
+828.9
+258.9
+236.8
+210.0
+188.8
+
+Attachment 8
+5
+PerformanceMonitoringFrameworkl
+Policy Domain
+1. Macroeconomic
+Framework and
+Poverty Reduction
+
+*
+*
+*
+
+Key Monitoring Indicators
+Real GDP growth
+Real exchange rate
+Number of people below the
+
+*
+*
+
+povertyline
+2. Education
+
+3. Health
+
+4. Governance
+
+Private Sector
+Development
+
+Grossenrohnentrate for girls/total *
+enrolmentrate
+* Gross enrolrent rate in he least
+*
+privilegedrural areas
+*
+* Average cost per child in primary
+*
+school
+* Vaccinationcoverageratio (in %)
+*
+- BCG
+- DTCP3
+- Measles
+*
+* -Yellow fever
+*
+* Essentialdrugs breakdownrate (%) *
+*
+
+Cornpletionof year-endbudget
+executionreports (lois de
+reglement)and transmissionto the
+SupremeAudit Court (Cour des
+Comptes)and to Parliament.
+* Share of budget effectively
+reachingthe most decentralized
+departments.
+* Half-yearlyopinionpolls:
+- of users of governmentservices
+(Healtheducation);
+-of economicagents on government
+tendors (procurementprocedures,
+settlementdelays)
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+Public enterprisedivestiture
+Number of new ventures
+Foreign direct investtnent
+
+*
+
+*
+
+*
+*
+
+Monitoring Instruments
+Review of the structural reforn program every
+six months
+Review of public expenditure management
+
+everyyear
+Poverty profilesevery two years
+Publicationof theAnnuaire scolairre every
+year;
+Publicexpenditurereview in 2000 and 2002
+Incidenceanalyseseverytwo years
+Annual Surveys
+Consolidatedyearly reportsby the MOH on
+vaccinationrates and staffingfor each calendar
+year,to be audited and valdated by INSD
+Publicexpenditurereview in 2000 and 2002
+Incidenceanalysesevery two years
+Independentaudit of CAMEO records on drug
+stocks everyyear
+Disseminationby March 31, 2001, to all
+district authorities,and organizationof
+workshopswithlocal authoritiesand civil
+society
+Annual surveys
+Annual surveyof decentralizedunits on the
+status of allottedbudget execution
+
+Monitoringof the agreed program
+AnnualReports from various sources
+Surveys
+
+15 Thefollowingtableof monitoringindicatorsdrawsuponthe PRSPindicatorsadoptedin the frameworkof the SPA
+pilotinitiativeon Reformulated
+Conditionality.
+37
+
+Attachment 9
+Combating HIV/AIDS
+Burkina Faso has the second highestHIV/AIDSinfectionrates in West Africa. The InternationalPartnership
+for Action Against AIDS has identified Burkina Faso as one of the priority countries in the Africa region.
+With an overall HIV prevalence rate of 6.4 percent, the country is in the generalizedphase of the epidemic.
+HIV infection rates amongst high-risk groups are dramnaticallyhigher: TB patients: 34 percent; STD clinic
+patients: 23 percent; cormmercialsex
+workers: 35 percent. The age groups
+CumulativeNumberof ReportedAIDS
+most affected are adults in their most
+Cases, 1986-99
+productive years and young girls (1324). The main mode of transmission is
+
+20000
+
+heterosexualintercourse with perinatal
+transmission on the rise. Geographic
+
+14000
+
+areas characterized by heavy internal
+
+12000
+
+and external migratory flows are
+disproportionately affected, to the
+
+8000
+
+extent
+
+heavy
+
+4000
+
+concentration of individuals and
+changes in sexual behavior. As can be
+
+0
+
+seen
+
+that
+
+from
+
+there
+
+the
+
+is
+
+exhibit
+
+a
+
+above
+
+the
+
+16000
+
+6000l
+
+,
+
+~
+
+'99
+
+~
+
+,pll l
+
+~
+
+cumulative number of reported AIDS
+Year
+cases has increased rapidly over the _
+past decade, reaching about 18,000in 1999. TheseAIDS cases are believed to represent only a fraction of
+the actual cases.
+The governmentof Burkina Faso realizes the gravity of the HIV/AIDSepidemic and has been proactive in
+implementinga series of national plans. Since the emergenceof the firstAIDS cases in 1986 there has been
+a growing political conmiitment,an intensificationof the scope and range of interventions,and a substantial
+growth in the level of financial resources being channeled for the HIV/AIDSprogram. The government's
+own contributionrose from only US10,000duringthe first phase to close to US$2.5million during the most
+recent plan. The IDA-fundedPopulationand AIDS Control Project has provided one of the key sources of
+funding for the 1996-2000HIV/AIDS Plan. The recently prepared 2001-2005 HlV/AIDS Multi-sectoral
+Plan emphasizes the need for strengthening partnerships, promoting participatory approaches, and
+empoweringdecentralized authorities to take a lead in the fight against this disease. The plan provides a
+soundbasis for future Bank assistance.
+IDA has adopted the followingstrategies for providing support to the government in the fight against this
+devastating pandemic: (i) mainstreaming HIV/AIDS activities into all areas of IDA assistance, with a
+particularfocus in the short-termon retrofitting on-goingoperations;(ii) continuingour policy dialoguewith
+Burkinabeauthorities to ensure that HIPC funds are targeted for critical HIV/AIDS activities;(iii) ensuring
+that funds from the on-going Population and AIDS Control Project are effectively used for priority
+interventions;and (iv) preparing a fast track HIV/AIDSDisasterResponse Project. With regard to the latter,
+Bank managementhas expressed a strong commitmnent
+to supportingauthorities in their effort to access the
+US$500million Multi-CountryHIV/AIDSProgramfor the Africaregion (MAP) in an effort to scale up their
+national program. The HIV/AIDS Disaster Response operation would be used as the main vehicle for
+channeling funds for the multi-sectoraland communitydriven fight against HIV/AIDS. In addition, the
+Bank is supporting the Ministry of Health in undertaking a sector-wide approach for financing priority
+activitiescoveredin its 10-yearhealth sector developmentprogram, includingpriority HIV/AIDSactivities.
+
+38
+
+Attachment 10
+Core Labor Standards
+The 1962Labor Code has been amendedseveral times during the past decade, most recently in 1996.Under
+this legislation, workers, including civil servants, traditionally have enjoyed a legal right of association,
+which is recognized under the Constitution-essential workers, such as police, may not join unions. There
+are four major labor confederations and twelve autonomous trade unions linked together by a national
+confederal committee. They represent a wide ideological spectrum. Labor unions may affiliate freely with
+intemational trade unions. The National Confederationof Burkinabe Workers (CNTB) is affiliated with the
+Brussels-basedWorld Confederationof Labor.
+Unions have the right to bargain for wages and other benefits, both directly and with employers and with
+industry associations.These negotiationsare governedby minimums on wages and other benefits contained
+in the InterprofessionalCollective Convention and the CommercialSector Collective Convention,which are
+establishedwith Governmentparticipation.If no agreementis reached, employeesmay exercise their right to
+strike. Either labor or managementmay refer an impasse in negotiationsto labor tribunals. Appeals may be
+pursued through the Court of Appeal to the Supreme Court, whose decision is binding on both parties.
+Collectivebargaining is extensive in the modern wage sector, but it encompassesonly a small percentage of
+workers.
+The law prohibits forced labor and there are no reports of its use. The Labor Code sets the minimum age for
+employmentat 14 years, the average age for completion of basic primary school. However, the Ministry of
+Employment, Labor, and Social Security, which oversees labor standards, lacks the means to enforce this
+provision adequately, even in the small wage sector. Children commonly work with their parents in family
+subsistence farms in rural areas or in small businesses and the informal sector in urban areas. The Labor
+Code mandates a minimum monthly wage, a standard workweek of 40 hours for nondomestic workers and
+60 hours for household workers. The minimum monthly wage in the formal sector, about $45 (CFAF
+27,089), does not apply to subsistenceagriculture,which employs over 80 percent of the population. The law
+establishes safety and health standards at the workplace. However, the Government's Labor Inspector Corps
+does not have sufficient resources to fulfill its duties adequately.
+
+39
+
+Annex A2
+
+BurkinaFaso at a glance
+Burkina
+Faso
+
+SubSaharan
+Africa
+
+LowIncome
+
+11.6
+230
+2.7
+
+642
+500
+321
+
+2,417
+410
+988
+
+2.8
+21
+
+2.6
+2.6
+
+1.9
+2.3
+
+45.3
+17
+54
+105
+33
+78
+81
+41
+46.7
+34.7
+
+34
+50
+92
+32
+43
+39
+78
+85
+71
+
+31
+60
+77
+43
+64
+39
+96
+102
+86
+
+1979
+
+1989
+
+1998
+
+1999
+
+1.5
+
+2.4
+
+9.3
+-3.1
+
+10.3
+7.1
+
+2.6
+29.6
+14.0
+12.7
+19.6
+
+2.6
+27.8
+13.0
+9.8
+15.2
+
+0.7
+30.4
+9.7
+
+-14.5
+0.2
+54.7
+16.6
+
+-16.0
+
+0.3
+19.0
+3.2
+
+276.0
+
+279.0
+1999403
+
+POVERTYand SOCIAL
+1999
+Population,mid-year(millions)
+GNP per capita (Atlasmethod, US$)
+GNP (Atlasmethod,US$ billions)
+
+1113/00
+
+Developmentdiamond
+Life expectancy
+
+Average annual growth, 1993,99
+Population(%f)
+Labor force (%)
+Most recent estimate (latest year available, 199349)
+Poverty (Y. of populationbelow nationalpoverty line)
+Urban populabtion
+(% of total population)
+Life expectancyat birth (years)
+Infant mortality (per 1,000 live births)
+Child malnutrition(% of children under5)
+Access to improved water source (% of population)
+Illiteracy (% of populationage 15+)
+Gross primary enrollment (% ofschool-age population)
+Male
+Female
+
+GNP
+per
+capita
+
+Gross
+primary
+enrollment
+
+Access to safe water
+
+-Burkina
+Faso
+Low-incomegroup
+
+KEY ECONOMICRATIOSand LONG-TERMTRENDS
+
+GDP (USSbillions)
+Gross domesticinvestmentUGDP
+Exports of goods and serviceslGDP
+Grossdomesticsavings/GDP
+Gross nationalsavings/GDP
+Current account balance/GDP
+InterestpaymentsWGDP
+Total debWGDP
+Total debt service/exports
+Presentvalue of debtWGDP
+Presentvalue of debt/exports
+
+Economicratios*
+Trade
+
+Domestic
+Savings
+
+Investment
+
+59.9
+23.3
+Indebtedness
+
+(averageannualgrowth)
+GDP
+GNP per capita
+Exports of goods and services
+
+197949 1989-99
+
+1998
+
+1999
+
+3.8
+1.0
+1.2
+
+6.2
+3.4
+44.7
+
+5.8
+2.9
+-16.2
+
+5.8
+2.4
+6.3
+
+1979
+
+1989
+
+1998
+
+1999
+
+34.2
+22.8
+
+31.8
+23.9
+
+32.0
+27.8
+
+31.3
+28.3
+
+43.0
+
+44.3
+
+40.1
+
+40.4
+
+90.9
+12.2
+30.9
+
+78.9
+14.0
+24.9
+
+73.0
+14.3
+30.9
+
+76.7
+13.6
+29.4
+
+197949 1989-99
+
+1998
+
+1999
+
+-2.1
+
+-
+
+Burkina Faso
+Low-incomegroup
+
+STRUCTUREof the ECONOMY
+(% of GDP)
+Agricuiture
+Industty
+Manufacturing2
+Services
+Private consumption
+Generalgovernmentconsumption
+Importsof goods and services
+
+(averageannualgrowth)
+Agriculture
+Industry
+Manufacturing
+Services
+Private consumption
+Generalgovernmentconsumption
+Gross domesticinvestment
+Importsof goods and services
+Gross national product
+
+3.6
+4.1
+2.3
+4.5
+
+3.3
+3.5
+
+5.5
+10.9
+
+3.1
+10.8
+
+3.5
+
+4.1
+
+6.7
+
+2.9
+7.0
+
+3.3
+2.8
+5.9
+2.6
+
+64
+8.2
+23.5
+32.1
+6.3
+
+7.6
+-1.3
+-5.8
+-5.7
+5.8
+
+2.8
+
+GrowthofinvestmentandGDPlI)
+so
+4
+20
+0
+0
+o40
+GDt
+
+GDP
+
+Growthof exportsand imports(%)
+so
+40..
+
+20.i
+
+3.8
+
+e
+
+_.
+
+i0
+
+95
+
+98
+
+8
+
+Exports
+
+olmports
+
+Note: 1999 data are preliminaryestimates.
+The diamondsshow four key indicatorsin the country(in bold) comparedwih its income-groupaverage. If data are missing,the diamondwill
+be incomplete.
+
+40
+
+Annex A2
+
+Burkina Faso
+PRICESand GOVERNMENTFINANCE
+1979
+
+1989
+
+1998
+
+1999
+
+-0.3
+
+1.0
+
+3.2
+
+-1.1
+-1i4
+
+10.0
+-1.0
+-
+
+13.1
+4.0
+-10.0
+
+15 0
+52
+-12.0
+
+1989
+
+1998
+
+1999
+
+325
+206
+46
+
+255
+136
+48
+
+700
+
+639
+
+600
+
+30*
+
+72
+196
+
+102
+221
+
+100
+0
+
+98
+104
+95
+
+101
+105
+97
+
+Domestic
+prIc s
+(%change)
+
+InfiltIon (%)
+30
+
+A
+
+25
+
+Consumerprices
+Implicit GDP deflator
+
+Government
+fnance
+(%of GDP,excludingcurrentgrants)
+Current revenue
+Current budgetbalance
+Overallsurplusldefick
+
+20
+
+Is
+0
+-4
+
+94
+
+95
+
+-GDP
+
+9f
+
+deflator
+
+98
+
+97
+
+0
+
+99
+
+CPI
+
+TRADE
+(US$millions)
+
+1979
+
+Total exports(fob)
+Cotton
+Meat
+Manufactures
+Total imports(ci')
+
+Food
+
+.
+
+143
+
+..
+
+Fuel endenergy
+Capital goods
+Export price index (1995=100)
+Importpriceindex (1995=100)
+
+..
+
+..
+
+Termnsoftrade(1995=100)
+
+Export and Importlevels (USSmill)
+
+JJ
+
+Bo0
+5s0
+400
+
+74 200d
+93
+
+94
+
+95
+
+aExports
+
+9
+
+97
+
+90
+
+99
+
+UImports
+
+BALANCE of PAYMENTS
+Current account balanceto GDP(%)
+
+1979
+
+1989
+
+1998
+
+1999
+
+174
+
+244
+
+364
+
+292
+
+491
+-316
+
+587
+-343
+
+803
+-439
+
+760
+-467
+
+Net income
+Net current transfers
+
+N/A
+83
+
+N/A
+140
+
+-12
+190
+
+-13
+155
+
+-10
+
+Current account balance
+
+N/A
+
+N/A
+
+-261
+
+-326
+
+-12
+
+N/A
+
+NIA
+
+227
+33
+
+310
+15
+
+1
+-18
+
+..
+
+212.7
+
+266
+319.0
+
+373
+585.2
+
+407
+560.6
+
+1979
+
+1989
+
+1998
+
+1999
+
+295
+0
+65
+
+717
+0
+255
+
+1,358
+
+1,452
+
+710
+
+753
+
+9
+0
+0
+
+39
+0
+3
+
+74
+10
+
+11
+
+137
+49
+13
+2
+0
+
+116
+79
+3
+0
+0
+
+240
+
+13
+
+14
+19
+0
+19
+0
+19
+
+63
+25
+1
+24
+2
+22
+
+15
+58
+11
+47
+5
+42
+
+(US$millions)
+
+Exportsof goodsandservices
+Imports of goods and services
+Resourcebalance
+
+Financingitems (net)
+Changes in net reserves
+
+Memo:
+Reservesincluding gold (US$millions)
+Conversionrate (DEC,local/US$)
+
+o 1
+
+101
+
+1111
+
+-2
+
+_
+
+_
+
+EXTERNALDEBT and RESOURCE FLOWS
+
+millions)
+(UJS$
+Total debt outstandingand disbursed
+IBRD
+IDA
+Total debt service
+IBRD
+IDA
+Composiion of net resoumeflows
+Official grants
+Official creditors
+Private creditors
+Foreign direct investment
+Portfolio equity
+Word Bankprogram
+Commitments
+Disbursements
+Prindpalrepayments
+Netflows
+Interestpayments
+Net transfers
+
+Composffionof 1998debt (US$mill.)
+
+D:648
+B:710
+
+0
+0
+30
+63
+6
+
+A-IBRD
+B - IDA
+
+E-Bilateral
+D- Othermuftilateral F - Private
+
+57
+5
+52
+11/3100
+
+DeveiopmentEconomics
+
+41
+
+BURKINA FASO: COUNTRY ASSISTANCE STRATEGY MATRIX 2000-2003
+Diagnosis and Development
+
+objectives of the PRSP
+
+Government's
+
+Strategy/Actions
+
+1
+J
+
+Selecd Bank and Government
+efrmneIndicators
+
+0oNjctive 1: Aeceiate
+1.1 Maintain a Stable Macroeconoxmic
+Framnework
+
+-Consolidate
+recent gains in
+macroeconosnic management and move
+beyond stabilization to deeper
+structural reforms and sustained
+economic growth.
+
+- Focus on reforTmsto improve the
+
+comipetitiveness of the economy and to
+facilitate the country's integration into
+the regional and world economny
+
+tQ
+
+1.2 Increase the Competitiveness of
+the Econom and Reduce Factor Costs
+
+Bank Group Instruments
+
+Timing
+
+Activities of Other Donors
+
+JRqilty-Baed Growth
+
+of a stable
+macroeconomice environment, that will
+ensure a sustained growth and a
+sustanable fiscal and external position,
+as evidenced by continued strong
+perforsnance under a program
+supported by an arrangement under dhe
+PRGF
+-Maintenance
+
+- Satisfactory assessment by Bank staff
+
+of the authorities' annual reports on
+imiplementation of the PRSP
+4j-
+
+jand
+LENDING
+-
+
+PRSC-1(FY01)
+
+- PRSC2 (FY03)
+
+Budgetary slupport and support to
+balance ofpayments (European Union,
+Denmiark, Switzerland, Netherlands)
+
+NON-LENDING
+- Capacity building for economfic
+monitoring (miacro modeling and
+forecasting techniques) (FYOI-02-03)
+-Technical assistance to the National
+Statistics Institute (INSD) (FYOI-0203)
+
+(i) lower the unit labor cost by
+adjusting the minimum wage and
+LENDING
+reducing the welfare costs home by
+- Competitiveness and Enterprise
+fornal sector enterprises;
+Developmient (FY02)
+ji2:ji::T:i EiiESi:i:
+i iiiiifHiS)iS
+ii:g iS:E::
+7rii::iiiSEig::fi:i:i:
+: ::::EiEi:,EFRii
+i :::iiEiCEgi
+ifE-....................................................................................
+Ei:L7
+i :::i:fiii77hRiLiFiSi
+i:i:iT::
+::::7::
+ii:Ri
+LiL::::
+(ii) increase\QXji00i
+the efficiency
+ofpusblic
+0t;;lf 0|$
+:$j);0X;;Q}29
+j 0 j 0 t:0W83
+)\;; Qi:000$t
+0000j00lllX0)$9));000t0juij
+|)t}0X):XQ
+e ive1; j);Q;; 0Q0|9000|;lllllti
+t
+e
+ll} e).
+.* w t T 0 tI-.
+investment by acting on the
+recommendations of the study on
+reform of the Public Investment
+Progra (PIP);
+(iii) accelerate development of financial
+markets;
+(iv) trade liberalization;
+(v) privatize existing state interests;
+(vi) strengthen the Governmnents
+regulatory capacity;
+(vii) liberalize the cotton rector and
+encourage new entrants
+I-
+
+BURKINA FASO: COUNTRY ASSISTANCE STRATEGY MATRIX 2000-2003 (continued)
+
+Strategy/Actions
+
+Diagnosbis and Devel P
+Objectives of the PRSP
+
+Goverunent's
+
+1.3 Support to Improve the Growth
+
+Agriculture/Livestock
+
+Potential of Specific Productive Sectors (i) Create a legal framework conducive
+to the emergence of professional
+agricultural organizations
+(ii) Support these organizationsin
+setting up an effective charnberof
+agriculture;
+(iii) Train organizationmembers
+(iteracy, management, rural trades) to
+improve their productivity;
+(iv) Create a framework designed to
+spurprivate investment in the
+agricultural sector,
+(v) Improve marketing channelsfor
+inputs and agricultural products in
+order to boost the competitivenessof
+sectors with a high potential for
+
+Activities of Other Donors
+
+Rank Group Instruments
+and Timing
+
+andiaovere
+Seletemane
+Performnance Indicators
+Increase in the volume and value of
+
+PORTFOLIO
+
+non-traditional agriculturalexports
+
+-
+
+Agricultural Services II
+Private Irrigation
+LENDING
+- Conmunity-based Rural
+Development (FY01)
+NON LENDING
+- Support to implementation of Rural
+Development Strategy
+- Full PER (FY0 1)
+- Support for poverty monitoring and
+follow up of PRSP implemenitation
+(FY0I-02-03)
+
+Statistical surveys (Netherlands);
+
+Food Security (Germany);
+. CommunityDevelopment (Denmark;
+Genmany;AFDB; BOAD, Belgium and
+IFAD; IDB; OPEC Fund);
+-
+
+Water & Soil Conservation, Forestry
+(IFAD);
+-
+
+Strengtheningof animal health
+Serdces (Eupean Development
+-
+
+Sanitary control (EDF);
+Gounna Livestock Development
+Project (BADEA)
+-
+
+growth;
+
+(vi) Set up a regulatory fraznework
+favoring contract agriculture.
+Water
+Improving the living conditions of the
+population in the capital city by
+increasing, in the long run, the quantity
+and quality of potable water available
+in capital city and strengthening the
+utility company (ONEA)
+Urban
+Provision of priority uwban
+infrastructure and servicesin urban
+centers and secondary cities
+
+LENDING
+- Ouagadougou Water Supply (FY01)
+
+PORTFOLIO
+- Urban Environment
+LENDING
+- Usban Environment supplemental
+(FY02)
+
+XD
+
+tP4
+
+BURKINA FASO: COUNTRY ASSISTANCE STRATEGY MATRIX 2000-2003 (continued)
+
+overnmesit's Strategy/Actions
+
+Development
+Diagosmband
+Dibgectivs othPRPPerformance
+
+4-
+
+IActivities
+and Timing
+
+Indicators
+
+PORTFOLIO
+- Mining Sector Capacity Building and
+Environment
+
+Nbning
+Strengthen and deepen the regulatory
+and fiscal reforms, build capacity in
+public and private sector agencies,
+complete geological and environmental
+databases.
+Energy
+Introduce private sector participaton to
+improve the efficiency of the provision
+of electricity and rural telephony
+services and the supply of hydrocarbon
+products to the economy, increasing
+access to universal infrastructure
+services.
+Transport/Infrastructure
+(i) Increase public investment
+efficiency, (ii) improve road transport
+productivity and distribution
+mechanisms, (iii) strengthen
+management and policy
+implementation capacity of the public
+sector to ensure adequate knowledge
+and monitoring of sector performance.
+Industry
+(i) Simplify the official procedures for
+investing and establishing an enterprise
+(ii) Revise the tax system
+(iii) Create an infornation and
+documentation center to facilitate the
+gathering, processing, and
+dissemination of economic and
+business information
+(iv) Make private sector support
+programs more effec6ive
+(v) Reinforce judicial mechanisms to
+help comnbatfraud
+(vi) Consolidate the legal framework
+for business by creating and
+strengthening commercial tribunals.
+Tourism
+(i) Develop "Sea-Sahel" tourist circuits
+(ii) Develop specialized tours ( e.g.
+nature treks or hunting tours in the
+Paina, Arly, orNahouri reserves)
+
+PORTFOLIO
+- RPTES Program
+LENDING
+- Energy Sector Reform Operation
+(FY02)
+
+NON LENDING
+- Full PER (FY01)
+
+LENDING
+- Competitiveness and Enterpeise
+Development (FY02)
+
+_
+:777
+7:r7E
+7.r77r7t
+
+dA;
+
+j
+
+:
+
+:::
+
+?
+
+:
+
+? es
+
+:
+
+t:
+
+77
+
+:
+
+!
+:e::
+L::Socia\Wll
+i li)Serv4ices
+:T VS tes itt Baste;-itlsl'oo
+::E.:ySbam.............................
+i:tha0:::titL
+Guaidrant:E::::ditE0(E:iteeiiii
+iiC
+~~~Objetb'.2
+
+f iSi iffS:
+
+r
+
+E
+
+of Other Donors
+
+BURKINA FASO: COUNTRY ASSISTANCE STRATEGY MATRIX 2000-2003 (continued)
+Diagnosis and Development
+Objectives of the PRSP
+2.1 Promote access ofthe poor to
+education
+
+Ln
+2.2 Promote Access of the Poor to
+Health Services
+
+Government's
+
+(i) Increase education's share of public
+expenditures and ensure the
+decentralized hiring of primary school
+teachers
+(ii) Implement institutional refonns
+within the MEBA and increase
+efficiency in the use ofpublic funds in
+education
+(iii) Identify specific steps to benefit
+the poorest and most vulnerable groups
+(iv) Establish permanent literacy and
+traininig centers or non-formal basic
+educational centers; and implement
+projects directed at women
+(v) Incorporate literacy training in a
+wider set of activities and services (such
+as health, education, credit, and
+extension services)
+(vi) Achieve abetter balance between
+various levels of the education system
+to lay the foundation for needs of
+future workforce
+(i) Grant top priority to the health
+problems of the poorest segments of the
+population (e.g. expansion of
+vaccination program, promotion of
+women and child health, combating
+tuberculosis and HIV/AIDS, optimize
+the use of human resources in rural
+areas)
+(ii) Make essential health care
+affordable (e.g. ensure availability of
+essential medications and vaccines in
+the CSPS, lower the cost of
+preventative medicines, develop local
+solidarity mechanisms by establishing a
+legal frarnework for mutual health
+insurance mechanisms)
+(iii) Support the participation of users
+and communities in the development
+and management of health care
+activities (e.g. develop communitybased strategies, strengthen the powers
+of local
+
+management
+
+Selected Bank and Government
+Performance Indicators
+
+Strategy/Actions
+
+committees)
+
+- Progress towards PRSP's quantitative
+objectives for
+
+*
+
+Gross enrollment rate for
+girls/total enrollment
+
+*
+
+Gross enrollment rate in the least
+privileged rural areas
+
+*
+
+First-year enrollment rate (CP1)
+
+I
+
+Activities of Other Donors
+
+Bank Group Instruments
+and Timing
+
+- Improving quality of education
+(Canada)
+
+PORTFOLIO
+- Post Primary
+
+- School meals (Cathwel-CRS)
+LENDING
+- Basic Education (FY02)
+- Community-Based Rural
+Development (FY01)
+
+- Non formal education (UNICEF;
+Netherlands)
+
+NON LENDING
+- Vocational training strategy (FY03)
+
+- Secondary School Infrastructures
+(AFDB)
+- Training of technical secondary
+teachers (Austria)
+
+- girls
+
+ruareas
+-20 poorest provinces
+*
+
+- Support to Ouagadougou University
+(Belgium; Netherlands; France)
+
+Literacy rate
+
+- Construction ofclassrooms and
+lodging for teachers, ENEP (AFDB;
+OPEC Fund; UNICEF; Netherlands;
+IDB; Belgium)
+
+- Women
+- Percentage of literate women in
+the 20 poorest provinces
+
+*
+
+Average cost per childin primary
+
+school
+Progress towards PRSP's quantitative
+indicators:
+*
+
+Vaccination coverage ratio (in %)
+- BCG
+- DTCP3
+- Measles
+-Yellow fever
+
+*
+
+Rate of use of health facilities:
+number of new contacts per
+person and per year in first level
+health centers (CSPS, CMA)
+
+*
+
+Essential drugs breakdown rate
+(%)
+
+*
+
+Cost ofmedical interventions in
+first level health centers
+
+- Family Planning and fight against
+
+PORTFOLIO
+- Health and Nutrition
+-Population and Aids
+
+STD-AIDS (US-AID, Germany; WHO;
+UN-AIDS)
+- Promotion of essential generic drugs
+(Netherlands; Germany; France)
+
+LENDING
+- Aids Response (FY0 1)
+- Community-Based Rural
+Development (FY0 1)
+
+- Targeted budgetary support
+(European Union and Netherlands
+- Rural Water (Denmark, Germany,
+Netherlands; UNICEF
+
+P
+to
+
+X
+.
+
+.
+
+_
+
+BURKINA FASO: COUTNTRYASSISTANCE STRATEGY MATRIX 2000-2003 (continued)
+Diagnosis and Development
+Objectives of the PILSP
+2.3 Promote Access of the Poor to
+Water
+
+Government's
+
+Strategy/Actions
+
+(i) Boost access to drinking water by
+developing 3,000 modern water points,
+
+Bank Group Instruments
+and Timiing
+
+Selected Bank and Government
+Performance Indicators
+- Progress towards PRSP's quantitative
+objectives foT Drinking Wat.er supply
+
+Activities of Other Donors
+
+LENDING
+- Comimunity-Based Rural
+Developmient (FY0 1)
+
+infissstnucture and in mnanagingthe
+facilities,
+(iii) Establishing a legal and regulatory
+frameworkccovering all administrative
+levels and including principles to govern
+administratiou of the sector (ganting of
+usage perminits,used water discharge
+permnits, mates,standards, etc.).
+
+dIncme
+
+Objective 3: EPMandOpruiiarEpomnnd
+
+41
+
+3.1 Reduce the vulnerability, of
+agricultural activities
+C71
+
+(i) Increased adoption of soil
+fertility/water conservation technologies
+
+(i) Soil fertility nmanagement
+Promote the development
+~~~~~~~~(ii)
+
+of small-
+
+scale agricultural water
+supply/irrigation systema
+
+(i) Improve research and its linkages
+with extension
+
+the Poor
+
+PORTFOLIO
+- GEPRENAF (GEF)
+- Private Inigation
+LENDING
+- Community-Based Rural
+Development (FY01)
+- Sahel Lowland Ecosystemn
+ManaLgement (GEF)
+Aquifer Initiative (GEF)
+-Shallow
+(GEF)
+-PRONAGEN
+
+(iii) Enhance land tenure security
+
+3.2 Intensify' and modernize
+agricultr
+
+Generitlonfar.
+
+PORTFOLIO
+(i) Farm mnechanization rate
+
+-Agricultural
+-Private
+
+Services II
+Irrigation
+
+2010
+
+(ii) Imiprove access to equipment and
+inAputs
+
+2000
+35%65%/
+
+(iii) Support for producer's
+organizations and conmwodity
+associations
+
+(ii) Increase in miillet/sorghum yields
+
+LENDING
+- Community-Biased Rural
+Development (FY01)
+
+Fight against Desertification, Soil
+Erosion (European Union; Switzerland;
+Netherlands)
+
+BURKINA FASO: COUNTRY ASSISTANCE STRATEGY MATRIX 2000-2003 (continued)
+Diagnosis and Development
+objectives of the PRSP
+
+3.3 Increase and diversify rural income
+
+3.4 Open up Rural Areas
+
+Government's Strategy/Actions
+
+(i) Expand the geographic reach of the
+decentralized financial system
+(ii) Increase the monetarization of farm
+output
+(iii) Increase the competitiveness of
+cash crops
+(iv) Promote income-generating
+activities
+- Rural roads
+- Rural electrification
+
+Selected Bank and Government
+Performance Indicators
+
+(i) Increase in coverage of DISS
+
+(i) Continue implementation of the
+National Plan of Good Govemance
+(ii) Continue implementation of the
+National Decentralization Policy;
+
+LENDING
+- Community-Based Rural
+Development (FY01)
+
+LENDING
+- Community-Based Rural
+Development (FY01)
+- Rural Roads (FY03)
+
+Objective 41Promote Good Governance
+4.1 Democratic Govemance
+
+Bank Group Instruments
+and Timing
+
+Activities of Other Donors
+
+BURKINA FASO: COUNTRY ASSISTANCE STRATEGY MATRIX 2000-2003 (continued)
+Diag nosis and Development
+
+Objectives of the PRSP
+
+4.2 Local Governance
+
+Cvenen'StagyAtos
+
+Goverment's Strategy/Actions
+(i) Provideadequate financing
+provisionsto emerging communities;
+(ii) Preparc regional representatives for
+the management,supervision,and
+leadershiproles conferred on them by
+decentralization;
+
+Selected Bank and Government
+
+Performance Indicators
+
+Share of budget effectively reaching
+the most decentralized departments.
+Annual survey of decentralized units on
+the status of allotted budget execution
+
+Bank Group Instruments
+
+and Timing
+
+LENDING
+- Community-Based Rural
+Development(FY01)
+
+Atvte
+
+fOhrDnr
+
+Activities of Other Donors
+Decentralization (Belgium; Canada;
+Netherlands; Switzerland; European
+Union; France
+
+(iii) inmplementan efficient and
+impartiallocal administration,
+responsiveto the needs of the
+population;
+
+(iv) Make efforts to achieve citizen
+participation through involving civil
+society organizationsin all aspects of
+local development (planning, decisionmaking,execution, and monitoring)
+4Co
+
+(v) Adopt an official text to solve any
+anomaliesresulting from the
+geographic re-mapping of
+administrativeborders while
+maintaining a sufficient degree of
+decentralizationof servicesto make
+interventionsmore effective, improve
+citizens'access to public services, and
+install genuine grass-rootsgovernment;
+(vi) Adopt an official text allowing true
+decentralization of managementof the
+State's hunian, material, and financial
+resources,by granting new powers to
+officialsresponsible for operations
+
+W
+
+I-
+
+BURKINA FASO: COUNTRY ASSISTANCE STRATEGY MATRIX 2000-2003 (continued)
+Diagnosis and Development
+Objectives of the PRSP
+4.3 Economic Govemance
+
+Government's Strateg/Actions
+(i) Strengtheningthe management and
+monitoring mechanisms of public
+finances
+(ii) Carry out a review of public
+expenditurein all sectors
+(iii) Enact thebudget accountslaw (loi
+de reglements)by the National
+Assembly and create an independent
+Audit Office
+
+Seletrmank andiaorn
+Performance Indicators
+Half-yeazlyopinion polls:
+- of users of govemnmentservices
+(Health education);
+-of economic agents on
+government tendors
+(procurementprocedures,
+settlementdelays)
+
+(iv) Improvecoordination of aid and
+focus on harmonization.
+
+Gap between unit prices of a certin
+number of products obtainedby publc
+bidding and those obtained by the
+private sector
+
+(v) Increase the national capacity to
+elaborate strategies and prepare budget
+
+Timely coVpletion and release of
+budget execution reports
+
+Bank Group L
+and Timing
+
+Activities of Other Donors
+
+LENDING
+- Competitiveness and Enterprise
+Development (FY02)
+- Public Sector Managenent (FY03)
+NON-LENDING
+- Public service quality assessment
+(FY01)
+
+estimates
+
+(vi) Promotesuch valuesas
+meticulousness,integrity, and
+transparencyin public affairs and among
+businessmen.
+(vii) Intensifythe struggleagainst
+practices at odds with the public interest,
+especiatlycorruption,nepotism, and
+patronage
+(viii) Setup a national anti-corruption
+network for comments and proposed
+solutions
+
+X
+
+Annex
+
+B2
+
+CAS Annex B2 - BurkinaFaso
+
+SelectedIndicators*of BankPortfolioPerformance
+and Management
+As Of Date 11/0312000
+
+Indicator
+PortfolioAssessment
+Number of Projects Under Implementationa
+Average ImplementationPeriod(years)b
+Percent of ProblemProjects by Number a, c
+Percent of ProblemProjects by Amount a, c
+Percent of Projectsat Risk by Number a, d
+Percent of Projectsat Risk by Amount a, d
+DisbursementRatio (%) e
+Portfolio Management
+CPPR duringthe year (yes/no)
+SupervisionResources(total US$)
+Average Supervision(US$/project)
+
+MemorandumItem
+Proj Eval by OED by Number
+Proj Eval by OED by Amt (US$millions)
+% of OED Projects Rated U or HU by Number
+% of OED Projects Rated U or HU by Amt
+
+a.
+b.
+c.
+d.
+e.
+*
+
+1998
+
+1999
+
+2000
+
+2001
+
+12
+4.4
+25
+19.7
+25
+19.7
+19.8
+
+11
+4.5
+27.3
+22.2
+36.4
+35.3
+21
+
+7
+4.1
+14.3
+2.8
+14.3
+2.8
+28.7
+
+7
+4.4
+14.3
+2.8
+14.3
+2.8
+9.2
+
+YES
+$2,189
+$156
+
+NO
+$1,466
+$104
+
+YES
+$880
+$97
+
+NO
+$981
+$81
+
+Since FY 80 Last Five FYs
+35
+7
+557.5
+150.5
+31.4
+14.3
+23.4
+2.7
+
+As shown in the Annual Reporton Portfolio Perfommance
+(exceptfor current FY).
+Average age of projects in the Bank's countryportfolio.
+Percentof projects rated U or HU on developmentobjectives (DO) and/orimplementationprogress(IP).
+As defined under the Portfolio ImprovementProgram.
+Ratio of disbursementsduringthe year to the undisbursedbalanceof the Bank'sportfolio at the
+beginningof the year: Investmentprojectsonly.
+All indicatorsare for projects active in the Portfolio,withthe exceptionof DisbursementRatio,
+which includes all active projectsas well as projectswhich exited duringthe fiscal year.
+
+50
+
+Annex
+CAS Annex B3- Bank Group Program Summary
+
+B3
+
+Burkina Faso
+
+As Of Data 1110112000
+
+Proposed IBRDIIDA Base-Case Lending Program a
+Fiscal year
+
+Proj ID
+
+US$(M)
+
+2001
+
+COMMUNITY-BASEDRURAL DEVELOPMENT
+
+67.0
+
+HIVIAIDS Disaster ResponseProject
+
+20.0
+
+OUAGADOUGOUWATERSUPPLYPROJECT
+
+70.0
+
+PRSC (1)
+
+60.0
+
+Sub-Total
+
+217.0
+
+BASIC EDUC SECTOR
+
+2002
+
+2003
+
+Implementation
+Risksb
+
+StrategicRewardsb
+
+H
+H
+H
+H
+
+H
+
+30.0
+
+H
+
+COMPETITIVENESS& ENTERPRISEDEVELOPM 25.0
+
+H
+H
+H
+
+M
+M
+M
+L
+
+H
+H
+H
+
+M
+L
+L
+
+ENERGY
+
+20.0
+
+URBAN ENVIRONMENTSUPPLEMENTAL
+
+20.0
+
+Sub-Total
+
+95.0
+
+PUBLIC SECTORMANAGEMENT
+
+10.0
+
+RURAL INFRASTRUCTURE
+
+40.0
+
+PRSC (2)
+
+60.0
+
+Sub-Total
+
+110.0
+
+TOTAL
+
+422.0
+
+H
+L
+L
+
+a. This table presents the proposed programfor the next three fiscal years.
+b. For each project, indicatewhether the strategic rewardsand implementationrisks are expected to be high (H), moderate(M),
+or low (L).
+Template createdon 11/3/00.
+
+51
+
+Annex B3
+
+CAS Annex B3 (IFC & MIGA) for Burkina Faso
+Burkina Faso - IFC and MIGA Program, FY 1998-2001
+1998
+
+IFC approvals(US$m)
+
+1999 2000 2001
+
+0.30 1.50
+
+Sector (%)
+FINANCIALSERVICES
+MINING & METALS
+
+100
+
+Total
+
+100 100
+
+100
+
+0
+
+0
+
+0
+
+0
+
+Investment instrument(%)
+Loans
+Equity
+Quasi-Equity
+Other
+
+Total
+MIGA guarantees(US$m)
+
+100
+
+66
+34
+
+0
+
+0
+
+0.00 0.00
+
+52
+
+Annex B4
+
+Burkina Faso
+
+CASAnnex B4 - NonlendingServices
+AsOf Date1110312000
+
+Product
+
+Compl. Cost
+($'000)
+FY
+
+Audiencea
+
+Objectiveb
+
+this FY
+Underway
+FY01
+FY01
+FY01
+FY01
+FY01
+FY01
+FY01
+FY01
+FY01
+FY01
+
+65
+20
+81
+13
+70
+45
+20
+50
+50
+30
+
+Bank
+Bank,Gvt
+Bank, Gvt
+Bank, Gvt
+Bank, Gvt
+Bank
+Bank, Gvt, donors
+Bank
+Bank, Gvt
+Bank
+
+KnowledgeGeneration
+knowledgeGeneration
+Problem-solving,KnowledgeGeneration
+knowledgeGeneration
+Problem-solving,KnowledgeGeneration
+knowledgeGeneration
+Problem-solving,KnowledgeGeneration
+knowledgeGeneration
+knowledgeGeneration
+KnowledgeGeneration
+
+CPPR
+Client Feedback Survey
+TA for PER 2/
+Econ.Monitoring/Gen.EconWork 3/
+Support for PRSP Monitoring
+TA to INSD
+
+FY02
+FY02
+FY02
+FY02
+FY02
+FY02
+
+50
+20
+115
+80
+50
+20
+
+Bank, Gvt
+Bank, Gvt
+Bank, Gvt
+Bank, Gvt
+Bank, Gvt, donors
+Bank, Gvt
+
+Problem-solving,KnowledgeGeneration
+Problem-solving
+Problem-sharing,Knowledge Generation
+Knowledge Generation
+Knowledge Generation
+Knowledge Generation
+
+CAS ProgressReport
+TA to INSD
+VocationalTraining Strategy
+TA for PER 2/
+Econ.Monitoring/Gen.EconWork 3/
+
+FY03
+FY03
+FY03
+FY03
+FY03
+
+50
+20
+40
+115
+110
+
+Bank
+Bank, Gvt
+Bank, Gvt
+Bank, Gvt
+Bank, Gvt
+
+KnowledgeGeneration
+KnowledgeGeneration
+KnowledgeGeneration
+Problem-solving,Knowledge Generation
+KnowledgeGeneration
+
+CAS 1/
+Poverty Database
+Public Service Quality Assessment
+IDF Gender/Legal Reform
+TA for PER 2/
+HIPC Follow up
+Support to EU Initiative
+Econ.Monitoring/Gen.EconWork 3/
+Support for PRSP Monitoring
+Country Fin. Account. Assessment
+
+Planned
+
+a.
+b.
+1/
+2/
+3/
+
+Govemment, donor, Bank, public dissemination.
+Knowledgegeneration, public debate, problem-solving.
+Total completion cost for CAS: $295k
+Includes supportto National PER Committee,and dissemination
+includesTA for capacity building and informal backgroundpolicy work
+
+53
+
+Annex
+
+B5
+
+Burkina Faso Social Indicators
+Latestsingle year
+
+Sameregionlincomegroup
+
+1970-75
+
+1980-85
+
+1993-99
+
+SubSaharan
+Africa
+
+6.2
+1.9
+6.3
+7.0
+
+79
+2.5
+11.4
+7.5
+
+11.6
+2.8
+17.5
+6.8
+
+627 3
+2.2
+33.3
+5.4
+
+3,5364
+1.4
+30.5
+3.1
+
+510
+128
+
+520
+136
+
+1.5
+4.1
+
+1.3
+3.2
+
+POPULATION
+Total population, mid-year (millions)
+Growth rate (% annual average)
+Urban population (% of population)
+Total fertility rate (births per woman)
+
+Lowincome
+
+POVERTY
+
+(%of populabon)
+National headcount index
+Urban headcount index
+Rural headcount index
+INCOME
+GNP per capita (US$)
+Consumer price index (1995=100)
+Food price index (1995=100)
+
+45.3
+
+15.9
+..
+
+..
+
+140
+
+180
+76
+92
+
+..
+
+INCOME/CONSUMPTIONDISTRIBUTION
+Gini index
+Lowest quintile (% of income or consumption)
+Highest quintile (% of income or consumption)
+SOCIAL INDICATORS
+Public expenditure
+Health (% of GDP)
+Education (% of GNP)
+Social security and welfare (% of GDP)
+Net primary school enrollment rate
+
+0. 7
+230
+114
+115
+48.2
+5.5
+55.0
+
+2.7
+2.8
+
+0.6
+
+2.0
+0.8
+
+10
+12
+7
+
+23
+29
+17
+
+32
+39
+25
+
+Total
+Urban
+
+.
+
+78
+
+Rural
+
+.
+
+35
+50
+26
+
+38
+2
+
+58
+53
+
+80
+82
+
+.
+
+68
+70
+33
+
+41
+
+45
+
+54
+
+50
+
+63
+
+137
+278
+
+117
+242
+
+105
+210
+
+92
+151
+
+68
+92
+
+526
+407
+
+467
+362
+
+547
+484
+
+432
+383
+
+235
+208
+
+(%of agegroup)
+Total
+Male
+Female
+Access to safe water
+
+86
+89
+82
+
+(% of populabion)
+.
+
+Immunization rate
+
+(% under12months)
+Measles
+DPT
+Child malnutriton (% under 5 years)
+Life expectancy at birth
+
+(years)
+Total
+Male
+Female
+Mortality
+Infant (per thousand live births)
+Under 5 (per thousand live births)
+Adult (15-59)
+Male (per 1,000 population)
+Female (per 1,000 population)
+Maternal (per 100,000 live births)
+2000 World Development Indicators CD-ROM, World Bank
+
+54
+
+Annex B6
+
+Burkina Faso - Key EconomicIndicators
+
+National accounts (as % of GDP)
+Groasdomedicproducta
+Agriculture
+Industry
+
+100
+
+100
+
+100
+32
+
+100
+
+35
+
+100
+32
+
+100
+
+34
+
+31
+
+30
+
+100
+30
+
+100
+29
+
+26
+
+25
+
+27
+
+28
+
+28
+
+30
+
+31
+
+32
+
+40
+
+40
+
+39
+
+40
+
+40
+
+41
+
+40
+
+40
+
+Total Consumption
+Gross domestic fixed investnent
+Govemment investment
+Private investment
+(includes increase in stocks)
+Exports(GNFS)b
+Imports (GNFS)
+
+91
+23
+10
+14
+
+91
+26
+12
+15
+
+89
+28
+14
+13
+
+87
+30
+14
+16
+
+90
+28
+16
+12
+
+88
+29
+14
+14
+
+87
+28
+14
+14
+
+87
+27
+13
+14
+
+13
+28
+
+11
+29
+
+11
+28
+
+14
+31
+
+13
+29
+
+11
+28
+
+11
+26
+
+11
+25
+
+Gross domestic avings
+Gross national savingsc
+
+9
+18
+
+9
+17
+
+11
+17
+
+13
+20
+
+10
+15
+
+12
+18
+
+13
+19
+
+13
+19
+
+2355
+
+2536
+
+2387
+
+2599
+
+2584
+
+2685
+
+2980
+
+3245
+
+220
+
+240
+
+230
+
+230
+
+230
+
+250
+
+250
+
+260
+
+Real annual growth rates (%/,calculated from 1985 prices)
+4.0
+Grossdomesticproductatmarketprices
+4.7
+Gross Domestic Incomc
+
+6.0
+4.7
+
+4.8
+4.7
+
+6.2
+7.8
+
+5.8
+3.7
+
+5.7
+4.9
+
+6.6
+7.2
+
+6.6
+6.9
+
+Real annual per capita growth rates (%., calculated from 1985 prices)
+3.1
+1.1
+Grossdomesticproductatmarketprices
+-0.4
+0.2
+Total consumption
+-04
+2.5
+Private consumption
+
+1.9
+1.0
+1.0
+
+3.3
+3.7
+3.5
+
+2.9
+3.6
+4.7
+
+2.8
+0.6
+0.4
+
+3.7
+1.7
+2.1
+
+3.7
+2.8
+2.9
+
+Services
+
+Memorandum items
+Gross domestic product
+(USS million at current prices)
+GNP per capita (USS, Atlas method)
+
+Balance of Payments (USS millions)
+Exports (GNFS)b
+Merchandise FOB
+Imports (GNFS)b
+Merchandise FOB
+Resource balance
+Net current transfers
+Cufrent account balance
+Netprivateforcigndirectinvestment
+Long-tenn loans (nct)
+Official
+Private
+Other capital (net, incl. errors & ommissions)
+Change inreservesd
+Memorandwn items
+Resource balance (% of GDP)
+
+306
+237
+666
+485
+-361
+239
+-31
+
+276
+233
+724
+562
+-448
+205
+-91
+
+267
+229
+661
+511
+-394
+164
+-104
+
+364
+325
+803
+639
+-439
+190
+-117
+
+292
+255
+760
+600
+-467
+155
+-135
+
+292
+253
+745
+595
+-453
+190
+-101
+
+340
+296
+783
+625
+-444
+194
+-90
+
+368
+322
+819
+653
+-451
+207
+-82
+
+20
+
+16
+
+11
+
+-13
+
+13
+
+17
+
+19
+
+21
+
+..
+
+..
+
+..
+
+83
+
+73
+
+78
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+-143
+
+4
+
+35
+
+33
+
+15
+
+-5
+
+-27
+
+-32
+
+-15.3
+
+-17.7
+
+-16.5
+
+-16.9
+
+-18.1
+
+-16.9
+
+-14.9
+
+-13.9
+(Continued)
+
+55
+
+Annex B6
+Burkina Faso - Key Economic Indicators
+(Continued)
+
+Public finance (as % of GDP at market prices)e
+Current revenues
+Currentexpenditures
+Current account surplus (+) or deficit (-)
+Capital expenditure
+Monetary indicators
+M2/GDP
+Growth of M2 (%)
+Private sector credit growth
+total credit growth (%/o)
+Real intaest rates
+Consumerpriceindex (%change)
+GDPdeflator(%change)
+
+a.
+b.
+c.
+d.
+e.
+f.
+
+13.1
+11.4
+1.7
+9.7
+
+14.4
+10.4
+4.0
+10.9
+
+13.8
+10.1
+3.7
+13.1
+
+13.1
+10.4
+4.0
+125
+
+15.0
+11.3
+5.2
+16.0
+
+14.4
+11.0
+4.9
+14.3
+
+14.5
+10.6
+5.0
+13.6
+
+25.5
+23.7
+-97.6
+
+25.0
+8.2
+74.0
+
+26.7
+14.2
+64.8
+
+24.8
+1.7
+87.4
+
+25.3
+6.5
+37.1
+
+24.9
+6.3
+58.7
+
+82.6
+
+83.1
+
+7.8
+9.8
+
+6.1
+4.2
+
+-0.1
+2.2
+
+1.0
+3.1
+
+-1.1
+-1.4
+
+1.5
+1.3
+
+2.0
+2.1
+
+2.0
+2.3
+
+GDP atfactor cost
+"GNFS" denotes "goods sad nonfactor services."
+Includes net unrequited transfers excluding official capital grants.
+Includes use of 1vi resources.
+Consolidated central govermnment
+"LCU" denotes "local currency units." An increasc in USS/LCU denotes appreciation.
+
+56
+
+14.8
+10.5
+5.3
+12.8
+
+Annex B7
+Page 1 of 1
+
+Burkina Faso - Key Exposure Indicators
+
+Indicator
+
+1995
+
+Actual
+1996
+1997
+
+Estimate
+1999
+2000
+
+1998
+
+Total debt outstanding and
+disbursed (TDO) (US$m)'
+
+1267
+
+1294
+
+1297
+
+1358
+
+1452
+
+Net disbursements(US$m)f
+
+124
+
+81
+
+69
+
+63
+
+126
+
+48
+
+49
+
+50
+
+54
+
+296.6
+53.8
+11.3
+78.9
+
+312.5
+51.0
+11.7
+83.9
+
+476.9
+53.4
+18.7
+83.0
+
+0.0
+77.0
+
+0.0
+84.6
+
+0.0
+0
+
+Total debt service (TDS)
+(US$m)'
+
+Projected
+2001
+2002
+
+2003
+
+1533
+
+1533
+
+1533
+
+61
+
+74
+
+74
+
+74
+
+373.0
+52.2
+14.9
+83.6
+
+497.0
+56.2
+20.9
+82.2
+
+524.7
+57.1
+25.2
+
+451.5
+51.4
+21.7
+
+417.0
+47.2
+20.0
+
+0.0
+82.0
+
+0.0
+84.0
+
+0.0
+79.7
+
+0.0
+0
+
+0.0
+0
+
+0.0
+0
+
+0.0
+0
+
+..
+
+..
+
+..
+
+..
+
+..
+
+608
+
+636
+
+690
+
+710
+
+..
+
+Debt and debt service indicators
+(%/6)
+
+TDOIXGSb
+TDO/GDP
+TDS/XGS
+ConcessionallTDO
+IBRD exposure indicators (%)
+IBRD DS/public DS
+Preferredcreditor DS/public
+DS
+
+..
+
+(%)
+
+IBRD DS/XGS
+IBRD TDO (US$m)d
+Of which present value of
+guarantees (US$m)
+Share of IBRD portfolio
+
+(e)
+
+IDA TDO (US$m)d
+IFC (US$m)
+Loans
+Equityand quasi-equity kc
+MIGA
+MIGA guarantees (US$m)
+
+a. Includes public and publicly guaranteeddebt, privatenonguaranteed,use of 1MF
+credits and net shortterm capital.
+b. "XGS" denotes exports of goods and services, includingworkers' remittances.
+c. Preferred creditors are defmed as IBRD,IDA, the regional multilateraldevelopmentbanks, the IM, and the
+Bank for Intemational Settlements.
+d. Includes presentvalue of guarantees.
+e. Includes equity and quasi-equitytypes of both loan and equity instruments.
+
+57
+
+CA*Amxmm.
+
+_BrinaFr.
+
+~OeW
+Oparallma(Operalanas
+Paddisa)
+
+Blain of Blank
+
+AmOgOshitriMSIS
+
+OmWdPro* 44
+
+LanRLl,.
+Supurviasin Ratngbi
+PrajactID
+
+Project "ame
+
+P000296
+P000287
+P000283
+P0003D8
+P000304
+P05088S
+P000297
+
+A SERVICES
+I
+HEALTHNUTRTION
+8NMNW
+CAPACITYBULL
+POPULATKIOtAJDS
+CONT
+POST4PRIMARY
+EDUC.
+PRIVATEIRRIGATION
+URN ENV
+
+oleofiln
+
+ab-y
+
+s
+a
+S
+S
+S
+U
+S
+
+IMI*t*
+
+S
+S
+S
+S
+U
+S
+
+Fisca Year
+
+5
+
+9
+
+4,J5151
+
+IDA
+
+196
+1994
+1997
+1994
+1997
+1999
+1995
+
+0
+0
+0
+0
+0
+0
+0
+
+41.3
+29.2
+21.4
+26.3
+26
+5.2
+37
+
+0
+0
+0
+0
+0
+0
+0
+
+SubTlht
+
+0
+
+1186.4
+
+0
+
+4743,4g
+
+0.~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~U
+
+a Inlandeddlsbtunmsns to daten*Ns actualdisab[nmre s lo dala
+
+p4rct*d ataUMlhal.
+
+ss",a
+
+ORD
+
+L*WCrsdib Saunuy b UISD
+
+UaiW.i
+
+pecind andDda
+WubuswAinfmd
+
+OdtdniaAriiouna InUrnSnih
+OtANT
+
+Cacalle.
+
+.
+
+.^itQ
+-bdab.
+
+OrI* Frim Itmed
+
+0
+0
+0
+0
+0
+0
+0f
+
+28.7
+4.5
+15.6
+4.8
+ISA
+3.8
+12.7
+
+14.5
+4.8
+7.4
+5.4
+9.3
+1.1
+12.2
+
+8.6
+2.4
+0
+0
+0
+0
+12.2
+
+0
+
+66.1
+
+54.
+
+23.2
+
+Annex B8
+
+CAS Annex B8 (IFC) for Burkina Faso
+BurkinaFaso
+Statementof IFC's
+Held and DisbursedPortfolio
+As of 8131/00
+(In US DollarsMillions)
+Held
+
+Disbursed
+
+FY Approval Company
+Loan Equity Quasi Partic Loan Equity Quasi Partic
+1999 AEFFasoMine
+1
+0.4
+0
+0
+0
+0
+0
+0
+0 0.25
+0
+0
+0 0.25
+0
+0
+1997 Ecobank-Burkina
+0
+0
+0 0.38
+0
+0
+1998 SGBB
+0 0.38
+Total Portfolio:
+
+1
+
+1.03
+
+0
+
+0
+
+ApprovalsPendingCommitment
+Loan Equity Quasi Partic
+
+59
+
+0
+
+0.63
+
+0
+
+0
+
+I
+
+MAP SECTION
+
+BURKINAFASO
+
+M A L I
+'
+
+'
+
+NATIONAL CAPITAL
+CAPITALED'ETAT
+
+_
+
+_
+
+-14'
+50
+
+0
+14'
+
+150
+
+100
+
+*
+
+I
+
+.---
+
+D
+
+\°
+
+SOEJROU
+
+C-
+
+?--~
+
+0
+
+S
+
+M A L I
+
+X
+
+~
+
+T-
+
+0
+
+1
+
+-2
+
+y
+
+~~~--
+
+m
+
+U
+
+I
+
+Bcbo : O
+/
+
+'C
+
+KENEDOUGOU)
+
+I
+
+j
+
+~
+
+\.
+
+f
+
+-'
+
+O
+
+~~BOULKIEMWE
+'
+r 1JKADIOM
+OOU~
+
+E12'
+BAEGA
+
+,
+
+-loulDe
+ZIR
+
+-f
+
+~~~~~~~~~~~~TUYod
+~~~~~~~~~~
+
+\
+
+0e
+
+E
+
+--
+
+.0
+
+'¢-~~
+
+PONI
+
+>'-t
+
+.0
+
+'
+
+wNHUI
+
+>
+
+\-
+
+R>
+MA
+
+6Fd-N'oSO
+
+KOPOG
+&GANZOURGOUf/UR
+
+r
+
+'0
+
+H;t
+
+OULGOU
+
+~
+
+\
+
+o
+
+DiapaB
+
+0
+
+~
+
+0~~~~~~~~P r
+
+NOUMB/
+
+r
+
+\'
+
+->
+"t9
+
+,,
+
+KMPEG
+
+,'KUPEO
+
+N I1
+
+VE
+
+Goou
+
+M
+
+Thi
+
+,,,.,,
+
+05
+
+n
+
+~~~~~~~~~
+
+**
+
+_.
+,
+
+p
+
+DeisUni
+
+on the part of
+this .nap do n,otimnply,
+TheWorld BookGroap,any j.dg,reW
+
+H NA N A
+G~~OT
+
+D 'IVO RE
+
+i i
+odoc.d by the
+TheWorldBn
+-onoin,clors
+denominaions
+anyother informtionshownon
+
+s nap
+
+I~~~~~~~~~~~~The
+~~~~~~~~~~~~~.d
+
+B
+
+~~~~~~~~~~~~~~
+
+4
+
+AO°iwo\
+
+j
+
+-0
+
+'-I
+
+COTE
+
+%I..
+
+(
+
+adorNGou1O
+
+.
+
+f
+
+/~~~~~~~~~~~~~~~J
+
+>
+
+-<
+
+-NIn~
+
+,-
+
+,
+
+N
+
+0 f"r
+
+10'
+
+L0
+
+SS
+
+0 Dioulsso
+
+_
+
+,
+
+0-; t/
+
+\
+
+0
+
+.
+
+K
+
+-
+
+)
+
+Zorgho
+%
+
+L
+
+r
+
+LES BALE
+
+NIGER
+
+GorO4 bi
+
+KOMONDJAR1
+
+Q
+
+M%
+
+-og
+
+Sjj
+
+B
+
+5|.-s
+
+"»
+
+.
+GNAGNA
+
+<osoulso'5--
+
+-O
+
+>-",OUOAG)k~06uU
+
+N PNGUIEUWt
+Rth
+-~,
+
+,
+
+YAGHA
+
+i>
+
+\,,f
+
+H
+
+Y,j
+
+GoquM'
+I
+
+G
+
+?-
+
+__S/}9
+
+IJ
+
+MH
+JWA;>
+BAN
+j gBANWA
+ru
+1 g*
+r$
+HOUE
+
+12'
+
+(
+
+(SANMATENGA
+oK'O
+
+-
+
+.\
+
+-
+
+<
+
+4
+
+/
+
+AYAA
+
+f-t
+
+GOJ'f
+
+N
+
+f
+
+,^
+
+z
+
+PASSORE
+
+.KOSS
+
+~*
+
+(5 4
+
+S
+
+,L
+
+ArLANucOCrEAN
+
+7-
+
+:9
+
+h
+
+'1 j
+
+'GH
+
+(
+
+,
+
+0
+
+--
+
+(LERAOA
+
+0
+
+YATEN GA'9
+
+t,
+
+DIVoOI
+COTER
+
+I
+
+OqU1SENO
+
+(
+
+j
+
+~~~~~~~01
+
+~
+
+0Dori
+
+200
+
+/ KILOMETRES
+KILOMETERS
+
+r--E-
+
+-ERIA)
+,-''
+
+~~~~~~~
+
+________________
+
+GUINEA
+
+G(-'A-
+
+.-
+
+LIMITESDESPROVINCES
+BOUNDARIES
+INTERNATIONAL
+INTERNATIONALES
+FRONTIERES
+
+FASdoo;,JI
+
+BU
+
+',,oRKINA
+
+)'
+?
+
+OUDALAN
+BOUNDARIES
+
+IGR
+
+INA
+
+,
+
+RIVIERES
+- -PROVINCE
+_
+
+(
+
+AA
+
+L
+
+RIVERS
+-
+
+.4
+
+A_ t
+
+TO GO
+-
+
+o.
+
+Th
+
+F,
+
+th. legal taIs of any t-ritry, or
+'ion
+or -rept.-nco of
+\ osy
+y endorsement
+0
+
+ho°ndri
+
+~~~~~~~~~~~~~~~~~~~2'2'
+
+Os
+
+-
+
+

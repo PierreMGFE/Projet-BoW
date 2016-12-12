@@ -1,0 +1,4302 @@
+64636
+
+Independent Evaluation Group
+
+1. CPS Data
+Country: Bosnia and Herzegovina
+CPS Period: FY08 – FY11
+
+CPSCR Review Period: FY08 – FY11
+
+Date of this review: September 20, 2011
+
+2. Executive Summary
+
+iii.
+This was an ambitious program with uneven results. Under Pillar 1 WBG assistance helped
+improve key infrastructure, partially succeeded in accelerating corporate restructuring and
+privatization, and had marginal success in improving the business climate. Under Pillar 2, WBG
+assistance helped deliver better municipal services and primary healthcare, and partially succeeded in
+strengthening municipal finance and reducing urban-rural income disparities. But the targeting of
+social services did not improve as expected under the program. Moreover, contrary to program
+objectives, government spending as a share of GDP increased (in part due to the 2008-9 financial
+crisis), while fiscal coordination among the entities that make up BiH has suffered setbacks. On
+balance, IEG rates the outcome of the WBG’s program as a whole as moderately satisfactory.
+
+Public Disclosure Authorized
+
+Public Disclosure Authorized
+
+CPS Year: FY08
+
+Public Disclosure Authorized
+
+Public Disclosure Authorized
+
+For Official Use Only
+
+CPSCR Review
+
+i.
+This review assesses the implementation of the FY08-11 Bosnia and Herzegovina (BiH) CPS,
+as well as the CPS completion report. The strategy was jointly implemented by IBRD/IDA, IFC and
+MIGA, and this review covers the joint program of the three agencies.
+ii.
+BiH is a post-conflict state, whose governing structure complicates decision making and is
+prone to slow policy making and implementation. Poverty remains high for a European country, and
+political tensions have slowed progress towards EU accession, to which BiH aspires. The CPS and
+CPSPR were well aligned with BiH’s strategy, focusing on two pillars: improving the environment for
+private sector led growth; and improving the quality of government spending and delivery of public
+services.
+
+iv.
+This review has three recommendations. The WBG could explore ways of dealing effectively
+with the political stalemate between the entities in program implementation, beyond the distinction
+between core and non-core areas. Maintaining a vigorous general and open policy dialogue on what is
+now labeled non-core seems as a more effective way of helping BiH move forward in its growth and
+development efforts in these particular areas. Second, strategy objectives could be better linked to the
+interventions of the program. Most projects completed in the evaluation period and assessed by IEG
+were rated satisfactory or moderately satisfactory, but a close review of achievement of CPS
+objectives in the respective areas shows a less rosy picture. This suggests either that objectives were
+over-ambitious given the interventions that were programmed, or that the chosen interventions were
+not the right ones for the objectives. Third, on strategy implementation, the WBG could do better by
+improving its understanding of the binding constraints on private sector development in BiH, and
+structuring its interventions accordingly. The strategy for private sector development fell well short of
+objectives, suggesting that WBG interventions—at business entry—did not deal with the main
+constraints impacting businesses at the operations stage (identified as mostly bureaucratic
+interference).
+
+CPSCR Reviewed by:
+
+Peer Reviewed by:
+
+Juan José Fernández-Ansola
+Consultant, IEGCC
+
+Jorge Garcia-Garcia,
+Consultant, IEGCC
+
+Surajit Goswami,
+Consultant, IEGPR
+
+Steve B. Pirozzi
+Senior Evaluator, IEGCC
+
+CASCR Review Coordinator
+Jaime Jaramillo-Vallejo
+Lead Economist, IEGCC
+
+For Official Use Only
+2
+
+CPSCR Review
+Independent Evaluation Group
+
+3. CPS Summary
+Overview of CPS Relevance:
+Country Context
+1
+
+1.
+BiH is a post-conflict state, whose governing structure complicates decision making, turning
+policy consensus into an elusive target. Politics remains highly fragmented, with increasing tensions
+between the two entities, namely the Federation of Bosnia and Herzegovina (the Federation) and
+Republika Srpska (the RS). Poverty is high for a European country, and political tensions have slowed
+progress towards EU accession, to which BiH aspires. BiH remains in the IBRD/IDA blend category of
+the WBG.
+2.
+Growth averaged 5-6 percent a year in BiH in 2000-08, driven by a boom in domestic demand
+financed from abroad. Foreign lending to BiH virtually came to a halt as a result of the financial crisis,
+pushing the economy into recession in 2009. A moderate recovery has taken place since then.
+Poverty declined slightly over the past decade, especially in urban areas, as rural areas are lagging.
+About 18 percent of the population lives in poverty and 80 percent of the poor live in rural areas. The
+main challenges facing BiH are to maintain growth through further diversification of the economy, to
+enhance capacity and productivity in the export sectors, and to improve the business and investment
+environment.
+3.
+The BiH authorities’ medium-term development strategy (―the platform‖) calls for improving
+fiscal coordination and stability, creating a more conducive business environment, and promoting
+reforms that ensure sustainable development.
+Objectives of WBG Strategy
+4.
+The CPS and CPSPR responded to country challenges by focusing on two pillars:
+(i) improving the environment for private sector led growth, and (ii) improving the quality of public
+spending and delivery of public services. This was to be done through balanced interventions to
+achieve the program’s objectives. The CPSPR introduced some changes in the results matrix to better
+align the performance of individual projects with the CPS pillars, introduce performance indicators that
+were not included in the original matrix, including adding new indicators on ―formal employment‖ and
+improved targeting of social benefits. It also responded to the changing country context in the
+aftermath of the global financial crisis with a development policy operation addressing public
+expenditure. IFC and MIGA interventions complemented IBRD/IDA interventions, with investment—
+including in privatization—and advisory services aimed at developing the private sector, and providing
+guarantees for a sizeable foreign direct investment in leasing and manufacturing, respectively.
+5.
+The WBG strategy addressed some of the key challenges facing BiH, such as improving the
+business and investment environment. It also responded flexibly to the evolving global financial crisis
+at the CPSPR stage. The strategy appears to have under-estimated the time and efforts needed to
+build the consensus required to develop the institutional arrangements for project execution.
+Relevance of the WBG Strategy
+6.
+Relevance of the strategy was modest. The CPS aimed at improving the business
+environment, and improving the quality of government spending and delivery of services. The
+1
+
+BiH consists of two autonomous entities—the Federation of Bosnia and Herzegovina (the Federation) and the Republika
+Srpska (the RS)—and a state-level government that acts as an umbrella organization. Policies are largely made and
+implemented at the entity level, but coordination of policies between entities and with the state is an ongoing challenge.
+The Federation is divided into ten cantons and seventy-four municipalities, and the RS is divided into sixty-three
+municipalities.
+
+CPSCR Review
+Independent Evaluation Group
+
+For Official Use Only
+3
+
+interventions were generally appropriate to achieve the proposed outcomes, except that in the
+business environment the WBG concentrated its efforts on processes for business entry. However, the
+main constraints, which the interventions left untouched, appeared to have been at the operating
+stage, with most of the problems caused by corruption and by excessive bureaucratic interference.
+The CPS and CPSPR went into some detail in the analysis of the political economy, and structured
+assistance around core areas where government commitment to reform was clear, and non-core
+areas where commitment was less certain. This distinction, which reflected pragmatism about the
+political stalemate between the entities, turned out to have little bearing on the delivery of the program
+and did not effectively mitigate the political economy risks. In addition, the link between IBRD/IDAsupported interventions and objectives was not always clear, as was the case with the expected
+increase in formal employment.
+7.
+Consistent with the overall WBG strategy and congruent with market needs, IFC combined its
+investment operations with advisory services to improve access to finance and competitiveness of
+SMEs, develop trade finance to help trade flows during the global financial crisis, and explore
+opportunities for public-private partnership projects. MIGA provided guarantees for investments in the
+financial sector and manufacturing.
+Risk Identification and Mitigation
+8.
+As noted above, the CPS identified as the main risk to the program the political polarization
+between the three constituent groups (Bosnians, Croats, and Serbs). Aside from distinguishing
+between core and non-core activities, the strategy intended to manage this risk by negotiating the
+degree and form of state-level involvement on a project-by-project basis in the non-core areas (the
+Federation generally wanted the state more involved, while the RS wanted it involved less or not at
+all). Ongoing tensions between the constituent groups did indeed result in a major slowdown of policy
+progress and program implementation, and, partly as a result, several projects in the original CPS had
+to be dropped or postponed.
+Overview of CPS Implementation:
+Lending, Investments and Grants
+9.
+Fourteen IBRD/IDA and ten IFC projects were in operation in BiH at inception of the CPS for
+US$289 million and US$141 million, respectively. In all, including MIGA, the WBG program comprised
+six new IBRD/IDA lending operations for $306 million, additional project financial support of
+US$83 million for six IFC projects, over US$9 million in GEF grants, and three MIGA operations for
+US$61 million. About one-third of IBRD/IDA lending was devoted to an unplanned Public Expenditure
+Crisis DPL in response to the global financial crisis; and, of the remainder, most was used for
+infrastructure and SME competitiveness, with a small amount devoted to the health sector. IFC’s
+support was in the financial sector, health, and chemicals. Several IBRD/IDA projects were dropped
+from the original plan, and two were postponed to the next CPS period (Sava River/Brcko Port and
+Land Registration II).
+10.
+Performance of the IBRD/IDA projects that made it through the difficult political environment
+was good, and the portfolio remained healthy. Outcomes of six of the seven projects completed in the
+evaluation period and assessed by IEG were rated satisfactory or moderately satisfactory. As of June
+2011 the active portfolio consisted of 14 projects, with the amount of commitments at risk representing
+6.3 percent, compared with an ECA average of 12 percent. The only project that is at-risk in
+implementation was rated as moderately unsatisfactory by implementation reports, and the project is
+being restructured to address the weaknesses identified.
+11.
+IFC followed a strategy of further developing the firms it had supported before in financial
+markets (microfinance and trade facility) and in chemicals. However, IFC also initiated support to new
+
+CPSCR Review
+Independent Evaluation Group
+
+For Official Use Only
+4
+
+areas, as was building a private health facility. Development effectiveness (as indicated in the DOTS
+system) of about half of IFC investments have been rated moderately satisfactory or better, with
+another quarter that has not been rated or rated too early to tell. IFC appears to have pulled back its
+activities slightly as the country situation has been found to be increasingly risky.
+12.
+In addition, MIGA approved three operations in support of investments in the manufacturing
+and financial sectors.
+Advisory and Analytical Activities and Services
+13.
+While AAA pieces were well timed and served as input to lending, in some instances findings
+and recommendations did not find their way to implementation because of lack of buy-in and weak
+absorptive capacity. A policy note on social assistance transfers (FY09) and a poverty update (FY10)
+provided analytical underpinning for reforms of the social protection system that were initiated in late
+2009 and early 2010. Additional advisory work focused on the investment climate assessment (FY08),
+the transport sector (FY10), and competitiveness.
+14.
+During the review period, IFC approved eight advisory projects on renewable energy intended
+to promote small hydro-power plants, as well as on sustainable business, investment climate, and
+access to finance.
+Safeguards and Fiduciary Issues
+15.
+The small-scale agriculture project triggered environmental and international waterways
+safeguards. According to the environmental assessment, environmental issues were linked to the
+rehabilitation and reconstruction of irrigation systems and water use, and direct impacts were likely to
+be small to insignificant. A local water institute in the RS supervised the operation of the contracts to
+ensure proper disposals of waste from the works of irrigation rehabilitation and monitoring of soil and
+water quality during construction. On international waterways, the water user associations collaborated
+with entity water agencies and shared information with the power companies based on the minimum
+flow in the Neretva and Tebisjica rivers. There were no fiduciary complaints that IEG is aware of.
+Overview of Achievement by Objective:
+Pillar 1: Improving the Environment for Private Sector-Led Growth and for Convergence with
+Europe
+16.
+Under this pillar the WBG’s support was to focus on (i) expanding business activity and
+increasing economic opportunity; (ii) improving key infrastructure; (iii) strengthening regional
+cooperation to manage public goods, including environment and clean energy; and (iv) invigorating
+privatization and corporate restructuring.
+17.
+Expanding business activity and increasing economic opportunity. In the World
+Economic Forum’s competitive index scale of 1 to 7, BiH’s business environment improved marginally
+from 3.6 to 3.7 in the evaluation period. WBG interventions helped reduce the number of days to
+register a business, cut the backlog of land registration, and improve agricultural information systems.
+However, the relevant ICR reviews noted that the main constraints in this area were at the business
+operating stage—rather than business entry, where the WBG concentrated efforts. Most of the
+constraints were due to corruption and excessive bureaucratic interference, which the interventions left
+untouched. BiH still lags behind other countries in South-Eastern Europe which have shown
+significantly faster improvement in the business environment. WBG support came in the form of a
+Business Environment Structural Adjustment Credit, Land Registration Project, and an Agricultural and
+Rural Development Project.
+
+CPSCR Review
+Independent Evaluation Group
+
+For Official Use Only
+5
+
+18.
+IFC continued to firm the development of an alternative dispute resolution mechanism, which
+had been introduced under the previous CPS. In addition, an IFC investment project for automotive
+parts expanded business activity at Novi Travnik, Zenica, and Gradacac—through Cimos, a Slovenian
+firm, parts manufactured in BiH go into 4.5 million cars produced by BMW, Audi, Ford, and Toyota.
+19.
+Improving key infrastructure. The WBG strategy focused on maintaining roads, improving
+commercial use of the Sava river corridor, and developing energy resources. Road rehabilitation made
+progress (70 percent of planned road sections rehabilitated); road user costs declined across the
+country (11 percent in RS and 18 percent in the Federation); and transport strategy implementation is
+advancing. Nevertheless, progress in the latter has been uneven—more advanced in the Federation
+than in RS. Energy generation and exports of energy have increased significantly, but the independent
+system operator is not functioning because of disputes between the Federation and RS. WBG support
+came through the Road Infrastructure and Safety Project, the Energy Community of South-East
+Europe Project, and a Transport Sector Review. The Sava river project was postponed.
+20.
+Strengthening regional cooperation to manage public goods. Notwithstanding the
+broadness of the objective, which specifically mentioned environment and clean energy, the WBG
+focused on a small subset of the public good universe: protecting forests and enhancing the capacity
+for an effective response to avian influenza infection. The ecosystem protected area increased to
+2.4 percent of the territory—against a 3 percent target—and interventions helped reach the target for
+safe handling procedures of avian influenza at risk population. The interventions were supported by
+GEF Forest and Mountain Protected Areas, and an Avian Influenza Preparedness Project.
+21.
+Invigorating privatization and corporate restructuring. Little progress was made in this
+objective: only six strategic enterprises were privatized during the CPS period—less than half the
+target number—and enterprise restructuring made little headway in both entities, according to both
+CPSCR and the IMF. Underperforming state-owned enterprises (SOEs) and un-restructured privatized
+companies continue to be a significant drag on BiH’s economy. SOEs remain inefficient, and a source
+of corruption and political influence. Moreover, the dispersed structure of ownership resulting from
+voucher-to-share conversion has induced poor corporate governance and weak firm performance,
+which have not been abated due to the shallowness of capital markets. As a result many privatized
+enterprises remain undercapitalized, operate below potential, and have accumulated arrears to the
+government for worker pension obligations, taxes, and unpaid salaries to workers. Given the limited
+political commitment to privatization and enterprise restructuring, IBRD provided limited support
+through the administration of an EU-funded trust fund (Accelerating Enterprise Restructuring) and AAA
+in the form of an Investment Climate Assessment.
+22.
+On a positive note, IFC, jointly with Turkish investors, was instrumental in the privatization of a
+glass manufacturing company.
+23.
+WBG assistance contributed significantly to improving key infrastructure (core) and had partial
+success in improving cooperation to manage public goods (core). Corporate restructuring and
+privatization (non-core) made slight progress, and the business climate improved marginally (core). On
+balance, the outcome under this pillar was borderline moderately satisfactory.
+Pillar 2: Improving the Quality of Government Spending and the Delivery of Public Services for
+the Vulnerable
+24.
+Under this pillar the WBG’s support was to focus on (i) improving the delivery of municipal
+services and strengthen municipal finance; (ii) improving the quality of social service delivery;
+(iii) reducing urban-rural disparities in income; (iv) increasing the targeting of social benefits; and
+(v) reducing the burden of government in the economy and strengthening fiscal coordination.
+
+CPSCR Review
+Independent Evaluation Group
+
+For Official Use Only
+6
+
+25.
+Improving delivery of municipal services and strengthening municipal finance. During
+the CPS period water losses were reduced in all participating municipalities and twenty-four hour
+water supply extended to some places for the first time. It should be noted, however, that water
+service targets for some municipalities had already been achieved by the beginning of the CPS period.
+Six regional sanitary landfills are now fully functional, with the number of unregulated dumpsites
+reduced by 15 percent, less than the target of 20 percent. A community development project (CDP)
+helped improve basic services and facilities for low-income and poor communities in under-served
+municipalities. The project delivered a considerable number of outputs—construction and rehabilitation
+of facilities, enhanced social infrastructure such as libraries, youth centers and sports clubs—and
+there is some evidence of positive outcomes. A survey summarized in the project’s ICR reports that
+52 percent of those interviewed in the Federation and 62 percent in the RS considered that their living
+conditions had improved as a result of the new services provided under the project. In addition to the
+CDP and a Solid Waste Management Project, IBRD/IDA helped improve the delivery of services in
+large municipalities through the Urban Infrastructure and Service Delivery Project.
+26.
+Improving the quality of social service delivery. IBRD intended to help improve basic
+heath indicators through better primary health care in the country, which were lagging due to the
+excessive focus on specialists’ services. Following this support, there was a 75 percent increase in
+examinations by family doctors in the Federation (against a target of 55 percent). However, there is
+limited information on developments in the RS, and there is little hard evidence of improvements in
+health indicators as yet. WBG support was provided through the Health Sector Enhancement Project.
+27.
+Reducing urban-rural disparities in income. The WBG sought to help increase rural
+incomes through its project on small-scale commercial agriculture. While agricultural production and
+productivity increased, the extent to which this translated into an increase in farm incomes and the
+extent to which commercialization occurred were not measured by the WBG or the authorities, and is
+not known. Available evidence suggests that rural-urban income disparities remain significant,
+because most agriculture sector activity is informal and subsistence agriculture still plays an important
+role.
+28.
+Increasing the targeting of social benefits. The WBG intended to support the improvement
+of benefit targeting through the Social Safety Net and Employment Support Project (SSNES), aiming
+to ensure that social benefits reach 70 percent of the poorest quintile. In the event, legislation was
+approved establishing a needs-based approach. However, there are no measurable results yet, and
+there is significant pressure by interest groups to maintain the current levels of spending with no
+improvements in targeting. Less than 40 percent of the overall social assistance budget is targeted to
+the poorest 20 percent of the population (among the lowest in ECA), and over 16 percent of the
+benefits are captured by the richest fifth of the population. At the root of poor benefit targeting is the
+large preponderance of benefits that go to war veterans and their families, a legacy of the peace
+agreements. In addition to the SSNES project, the WBG supported BiH in this area through analytical
+work (Proxy Means Targeting for Equitable and Sustainable Social Assistance and Social Safety
+Nets).
+29.
+Reducing the burden of government in the economy and strengthen fiscal
+coordination. Fiscal expenditure increased to over 50 percent of GDP in BiH over the CPS period—
+against the target of a reduction of 2 percentage points from a baseline of 41 percent of GDP. Higher
+expenditures were to some extent a response to the global financial crisis, which brought a decline in
+formal employment. Fiscal coordination improved in the initial stages of the CPS, but has suffered
+setbacks recently, amidst institutional gridlock resulting from political tensions. As a result, the Fiscal
+Council—a state-level institution that is supposed to strengthen fiscal coordination—has not adopted
+the 2011 fiscal envelope for the country. With political tensions increasing, coordination on fiscal policy
+is likely to weaken amongst the entities that make up BiH. IBRD provided support through the Public
+Expenditure Crisis DPL. The lead agency on macroeconomic and fiscal issues was the IMF, which
+remains concerned about fiscal developments and is requesting corrective actions.
+
+For Official Use Only
+7
+
+CPSCR Review
+Independent Evaluation Group
+
+30.
+WBG assistance had partial success in improving the delivery of municipal services and
+strengthening municipal finance (core) and improving primary health care (non-core). But the WBG’s
+contribution to reducing urban-rural income disparities (non-core) is not known. Legislation
+notwithstanding, the targeting of social benefits (non-core) has not improved. The burden of
+government on the economy (non-core) has increased rather than declined, while fiscal coordination
+(non-core) has not improved. On balance, and based mainly on the results in the core area, the
+outcome under this pillar is rated moderately satisfactory.
+Objectives
+
+CPSCR Rating
+
+IEG Rating
+
+Pillar I: Improve the Environment for Private Sector-Led
+Growth and Convergence with Europe
+
+N/A
+
+Moderately Satisfactory
+
+Pillar II: Improve the Quality of Government Spending
+and the Delivery of Public Services for the Vulnerable
+
+N/A
+
+Moderately Satisfactory
+
+4. Overall IEG Assessment
+Overall Outcome:
+
+Moderately Satisfactory
+
+IBRD/IDA Performance:
+
+Moderately Satisfactory
+
+IFC Performance:
+
+Moderately Satisfactory
+
+MIGA Performance:
+
+Satisfactory
+
+Overall outcome:
+31.
+The overall outcome is rated moderately satisfactory. This was an ambitious program with
+uneven results. Pillar 1 had four core sub-objectives out of five, while Pillar 2 had only one out of five.
+Under Pillar 1, WBG assistance helped improve key infrastructure and regional cooperation to manage
+a few public goods, and had partial success in improving the delivery of municipal services and
+primary health care, and strengthening municipal finance. The business climate—a core area—
+improved only marginally, and corporate restructuring and privatization—the only non-core area under
+pillar 1—had limited success. Under Pillar two, the core area of municipal finance and services had
+some success in terms of outputs delivered, but beneficiary services show some gaps in reach. The
+remaining areas under pillar two—all non-core—showed some progress but fell short of program
+expectations. While WBG’s contribution to reducing urban-rural income disparities is not known, the
+targeting of social benefits has not improved in a measurable way, the burden of government in the
+economy has increased, and fiscal coordination has not improved.
+IBRD/IDA performance
+32.
+IBRD/IDA performance is rated moderately satisfactory. The WBG’s strategy and program
+were well aligned with BiH’s development strategy, and well coordinated with the activities of other
+donors. The lending program underwent significant changes during implementation, including projects
+dropped or postponed, reflecting an adverse political environment to reform in some areas and the
+effects of the global financial crisis. The usefulness of the core/non-core distinction as a means to
+mitigate the risks of political stalemate between the entities is questionable, because it does not seem
+to have helped to improve program implementation and delivery. The WBG responded flexibly to the
+global financial crisis through an unplanned DPL introduced at CPSPR stage. However, the CPSCR
+provided little evidence of essential preparatory work to build consensus amongst all key entities to
+develop the institutional arrangements necessary for project execution. The results framework had
+deficiencies in monitoring and evaluation. AAA was generally well-timed, but findings and
+recommendations did not always find their way into implementation because of lack of buy-in by mid-
+
+CPSCR Review
+Independent Evaluation Group
+
+For Official Use Only
+8
+
+level staff and weak absorptive capacity. Safeguards and fiduciary issues were adequately dealt with.
+IFC performance
+33.
+IFC performance is rated moderately satisfactory. On the investment side, it started the
+process of making BiH competitive again in two traditional industries, namely castings (for auto parts)
+and glass. IFC also contributed by continuing the development of alternative dispute resolution
+mechanism. Implementation of both investment and advisory services projects has been satisfactory.
+MIGA performance
+34.
+MIGA performance is rated satisfactory. Its intervention to support a sizeable investment in
+leasing appears to have been appropriate, now that foreign investors consider BiH ripe for pursuing
+this activity.
+
+5. Assessment of CPS Completion Report
+35.
+This is a well-written CPSCR. The evaluation is detailed and comprehensive for the most part,
+although it could have dealt more in-depth with areas of the program where things did not go well, to
+find out the reasons and draw lessons. Although BiH has shown a good record of growth, there has
+been little progress in reducing poverty, and the CPSCR could also have explored this issue in greater
+depth because this may have implications for future WBG strategy.
+
+6. Findings and Lessons
+36.
+IEG agrees with the CPSCR lessons and recommendations for the next CPS, particularly on
+the need to maintain a policy dialogue in key areas in the absence of lending, and to build consensus
+during project preparation about institutional arrangements to be pursued during project execution.
+37.
+The WBG could explore ways of dealing effectively with the political stalemate between the
+entities in program implementation, beyond the distinction between core and non-core areas. As
+compared to sticking to a particular project, maintaining a vigorous and open policy dialogue on what
+is now labeled non-core seems as a more effective way of helping BiH move forward in its growth and
+development efforts in these particular areas. While some resources will have to be allocated to this
+end, these expenses are outweighed by the potential benefits of helping bring about the political
+consensus to move on difficult topics and issues. The current approach of giving less weight to the
+non-core areas within the program seems to have reduced the IBRD’s incentives to move forcefully in
+these areas.
+38.
+Strategy objectives could be better linked to the interventions of the program. Most projects
+completed in the evaluation period and assessed by IEG were rated satisfactory or moderately
+satisfactory, but a close review of achievement of CPS objectives in the respective areas shows a less
+rosy picture. This suggests either that objectives were over-ambitious given the interventions that were
+programmed, or that the chosen interventions were not the right ones for the objectives.
+39.
+As for implementation, the WBG could do better by improving its understanding of the binding
+constraints on private sector development in BiH, and structuring its interventions accordingly. The
+strategy for private sector development (improving business climate; acceleration of privatization and
+enterprise restructuring) fell well short of objectives, suggesting that WBG interventions—at business
+entry—did not deal with the main constraints in the business environment having an impact at the
+business operation stage (mostly bureaucratic interference).
+
+CPSCR Review
+Independent Evaluation Group
+
+Annexes
+9
+
+Annex Table 1:
+
+Bosnia and Herzegovina Planned and Actual Lending, FY08-11
+
+Annex Table 2:
+
+Planned and Actual Analytical and Advisory Work, FY08-11
+
+Annex Table 3a:
+
+IEG Project Ratings for Bosnia and Herzegovina, FY08-11
+
+Annex Table 3b:
+
+IEG Project Ratings for Bosnia and Herzegovina and Comparators,
+FY08-11
+
+Annex Table 4:
+
+Portfolio Status for Bosnia and Herzegovina and Comparators, FY08-11
+
+Annex Table 5:
+
+IBRD/IDA Net Disbursements and Charges Summary Report for Bosnia
+and Herzegovina, FY08-11 (in US$ million)
+
+Annex Table 6:
+
+Total Net Disbursements of Official Development Assistance and Official
+Aid, 2006-2009 (in US$ million)
+
+Annex Table 7:
+
+Economic and Social Indicators for Bosnia and Herzegovina and
+Comparators, 2006 – 2009
+
+Annex Table 8:
+
+Bosnia and Herzegovina - Millennium Development Goals
+
+Annex Table 9:
+
+List of IFC’s investments in Bosnia & Herzegovina that were active
+during FY08-FY11 (US$’000)
+
+Annex Table 10:
+
+List of IFC’s Advisory Services in Bosnia and Herzegovina, FY08-FY11:
+
+Annex Table 11:
+
+List of MIGA’s Operations in Bosnia and Herzegovina, FY08-FY11:
+
+Annex Table 12:
+
+Summary of Achievements of the CPS Objectives
+
+Annexes
+11
+
+CPSCR Review
+Independent Evaluation Group
+
+Annex Table 1: Bosnia and Herzegovina Planned and Actual Lending, FY08-11
+PID
+
+Project
+
+Proposed
+FY
+
+Approval FY
+
+Proposed Amount
+
+2008
+2009
+2010
+Pipeline
+Postponed
+Dropped
+Dropped
+Dropped
+Pipeline
+Dropped
+2010
+2010
+2010
+Dropped
+Dropped
+2011
+Dropped
+Dropped
+Dropped
+Dropped
+
+25
+25
+25
+25
+88
+
+Approved
+Amount
+
+Programmed Projects
+P100792 Road Infrastructure and Safety
+P107998 Solid Waste II
+P090675 Sarajevo Waste Water (for Municipal Development Project)
+P108000 Sava River / Brcko Port
+…
+Land Registration II
+P089043 Privatization / Corporate restructuring
+…
+Bankruptcy
+…
+Regional / Urban Transport Project (Corridor VC)
+P110910 Disaster Risk Management Project
+…
+Public Sector / Administration Reform
+P116774 Social Safety Nets & Employment
+P111780 SME Competitiveness and Access to Credit
+P116951 Public Expenditure Crisis DPL
+…
+Readiness for IPA accession funding
+…
+Rural / ED Conditional Cash Transfers
+P120285 Health Sector Enhancement Project Additional Financing
+…
+Secondary Education for Rural Areas
+…
+Regional Energy Project
+…
+Electricity Market Development
+…
+Support for Corridor VC
+Total Programmed Projects CPS FY08-11
+
+2008
+2008
+2009
+2009
+2010
+2010
+2011
+2010
+2010
+2010
+2010
+2010
+2011
+2011
+2011
+
+25
+40
+35
+
+205
+
+15
+70.0
+111
+
+10.0
+
+393.0
+
+306.0
+
+Non-programmed Projects
+NA
+Total projects CPS FY08-11 excluding Grants and Special Financing Projects
+On Going Projects During CPS Period
+P071001
+P071004
+P058521
+P084596
+P070995
+P055434
+P079226
+P057950
+P079161
+P083353
+P100415
+P096200
+P090666
+P101213
+P088663
+
+BUS ENABLG ENV SAC
+SOCIAL INSURANCE AND AF TA
+ELEC PWR 3 RECN
+EMPLYMT 2
+COMMUNITY DEVELOPMENT AND AF
+SM SC COM AGRIC
+EDUC RESTRUCTURING
+SOLID WASTE MGMT AND AF
+FOREST DEVELOPMENT AND AF /CNSRV TA
+URB INFRA & SERV DEL AND AF
+AVIAN FLU - BA
+LAND REGISTRATION
+ECSEE APL3-BiH
+AG & RURAL DEVT
+HLT SEC ENHANC
+
+Total On Going projects CPS FY08-11
+Total projects CPS
+
+FY08-111/
+
+1/ Excluding Grants and Special Financing Projects
+
+393.0
+
+306.0
+
+Approval
+FY
+
+Closing FY
+
+Approved
+Amount
+
+2002
+2003
+2001
+2004
+2001
+2003
+2005
+2002
+2003
+2005
+2007
+2006
+2006
+2007
+2005
+
+2008
+2008
+2008
+2009
+2010
+2010
+Cancelled
+2010
+2011
+2011
+2011
+2012
+2012
+2012
+2015
+
+44
+6.3
+35
+12
+17.8
+12
+10
+26
+7.0
+25
+5
+15
+36
+21
+17
+289.1
+595.1
+
+Annexes
+12
+
+CPSCR Review
+Independent Evaluation Group
+
+Annex Table 2: Planned and Actual Analytical and Advisory Work, FY08-11
+Proposed
+FY
+
+Project ID
+
+P058521
+P096614
+P096211
+P102647
+P106864
+P096552
+
+P088663
+P110183
+P096211
+
+P112985
+P107508
+P113753
+
+P073474
+P109394
+P110299
+P110794
+P108100
+P122460
+P122930
+P113105
+
+Economic and Sector Work
+Planned (CPS FY2008-2011)
+Energy Sector Study
+Strengthening Local Governance Study
+Transport Sector Review
+Investment Climate Assessment
+Country Economic Memorandum
+Poverty Assessment
+Regional Climate Change / disaster mitigation
+Evaluation of reform in selected areas of primary health care sector in
+Bosnia and Herzegovina
+Proxy Means Targeting for Equitable and Sustainable Social Assistance
+in Bosnia and Herzegovina
+Annual Fiscal Updates
+Transport Sector Rev.
+Macro Monitoring
+Poverty Monitoring
+Non-planned
+Social Safety Nets / PMT Programmatic AAA
+Trade & Integration Policy Notes
+Report on the Observance of Standards
+Protecting the Poor During the Global Crisis: 2009 BH Poverty Update
+Technical Assistance
+Planned (CPS FY2008-2011)
+PPIAF
+Non-planned
+Bosnia & Herzegovina-ICT Competitiveness
+Bosnia: Mun. Gov. Reform and Accountability
+Advisory Services to the Stock Exchanges of Banja Luka and Sarajevo
+PPP training follow-up
+WBI advisory services
+Bosnia Pension TA
+Policy Roundtables
+REPARIS and supervision
+
+2007
+2007
+2008
+2008
+2008
+2008
+
+Delivered
+to Client
+FY
+
+Output Type
+
+2008
+2009
+2010
+2008
+2009-2010
+2010
+2010
+
+Report
+Report
+Report
+Report
+Policy Notes
+Report
+Report
+
+2011
+
+Report
+
+2008
+2009
+2010
+2008-2011
+2008-2011
+
+Policy Note
+Report
+Report
+Regular updates
+Regular updates
+
+2009
+2009
+2010
+2010
+
+Policy Note
+Policy Note
+Report
+Report
+
+Dropped
+2009
+2009
+2010
+2010
+2011
+2011
+2011
+Pipeline
+
+"How-To" Guidance
+"How-To" Guidance
+"How-To" Guidance
+Report/Technical Assistance
+Technical assistance
+"How-To" Guidance
+"How-To" Guidance
+Technical assistance
+
+Source: Bosnia and Herzegovina 2008 CPS, 2010 CPSPR and WB Business Warehouse Table 8.1.4 as of 8/1/2011.
+
+Annexes
+13
+
+CPSCR Review
+Independent Evaluation Group
+
+Annex Table 3a: IEG Project Ratings for Bosnia and Herzegovina, FY08-11
+Exit FY
+
+Project Name
+
+Total Evaluated
+(US$M)
+
+IEG Outcome
+
+IEG Risk to
+Development
+Outcome *
+
+Pin
+
+2008
+
+ELEC PWR 3 RECN
+
+35.3
+
+SATISFACTORY
+
+MODERATE
+
+P058521
+
+2008
+
+BUS ENABLG ENV SAC
+
+51.9
+
+MODERATELY SATISFACTORY
+
+MODERATE
+
+P071001
+
+2008
+
+SOC INS TA and AF
+
+6.3
+
+MODERATELY SATISFACTORY
+
+MODERATE
+
+P071004
+
+2009
+
+EDUC RESTRUCTURING
+
+0.5
+
+NOT RATED
+
+NON-EVALUABLE
+
+P079226
+
+2009
+
+EMPLYMT 2
+
+10.7
+
+MODERATELY UNSATISFACTORY
+
+MODERATE
+
+P084596
+
+2010
+
+SM SC COM AGRIC
+
+11.2
+
+MODERATELY SATISFACTORY
+
+MODERATE
+
+P055434
+
+2010
+
+COMM DEVT and AF
+
+17.8
+
+MODERATELY SATISFACTORY
+
+SIGNIFICANT
+
+P070995
+
+ICR Risk to
+Development
+Outcome *
+
+Pin
+
+Closed Projects Not Evaluated by IEG YET
+Exit FY
+
+Project Name
+
+Total Evaluated
+(US$M)
+
+ICR Outcome
+
+2010
+
+Solid Waste Management
+Project and AF
+
+26
+
+SATISFACTORY
+
+2011
+
+Forest Development &
+Conservation Project & AF
+
+7
+
+MODERATELY SATISFACTORY
+
+LOW OR NEGLIGIBLE
+
+P057950
+
+MODERATE
+
+P079161
+
+ISR Date
+
+PIN
+
+5/25/2011
+
+P083353
+
+11/1/2010
+
+P085112
+
+6/1/2011
+
+P087094
+
+2/28/2011
+
+P088663
+
+1/6/2011
+
+P090666
+
+11/6/2010
+
+P090675
+
+Ongoing Projects. ISR ratings
+Closing
+FY
+2011
+2013
+
+Project Name
+URB INFRA & SERV DEL &
+AF
+
+Total Evaluated
+(US$M)
+26.5
+
+ISR DO
+
+ISR IP
+
+MODERATELY
+SATISFACTORY
+
+MODERATELY
+SATISFACTORY
+MODERATELY
+SATISFACTORY
+MODERATELY
+SATISFACTORY
+
+QUALITY PROTECT (GEF)
+FOREST & MTN PROT
+AREA (GEF)
+
+8.9
+
+HLT SEC ENHANC
+
+17.0
+
+SATISFACTORY
+MODERATELY
+SATISFACTORY
+MODERATELY
+SATISFACTORY
+
+ECSEE APL3-BiH
+Sarajevo Waste Water (for.
+Mun. Dev.)
+
+36
+
+SATISFACTORY
+
+SATISFACTORY
+
+35
+
+SATISFACTORY
+
+SATISFACTORY
+
+2012
+
+LAND REGISTRATION
+
+15
+
+SATISFACTORY
+
+SATISFACTORY
+
+1/24/2011
+
+P096200
+
+2011
+
+AVIAN FLU – BA
+
+5
+
+SATISFACTORY
+
+2/25/2011
+
+P100415
+
+ROAD INFRA & SAFETY
+
+25
+
+4/5/2011
+
+P100792
+
+AG & RURAL DEVT
+
+21
+
+SATISFACTORY
+MODERATELY
+SATISFACTORY
+
+2/25/2011
+
+P101213
+
+SOLID WASTE MGT 2
+SME ACCESS TO
+FINANCE
+SOCIAL SAFETY NETS &
+EMPL
+Public Expenditure Crisis
+DPL
+
+40
+
+SATISFACTORY
+
+SATISFACTORY
+MODERATELY
+SATISFACTORY
+MODERATELY
+UNSATISFACTORY
+MODERATELY
+SATISFACTORY
+
+5/11/2011
+
+P107998
+
+70
+
+SATISFACTORY
+
+1/3/2011
+
+P111780
+
+15
+
+SATISFACTORY
+
+SATISFACTORY
+MODERATELY
+SATISFACTORY
+
+6/1/2011
+
+P116774
+
+111
+
+SATISFACTORY
+
+SATISFACTORY
+
+12/8/2010
+
+P116951
+
+2013
+2015
+2012
+2016
+
+2012
+2012
+2014
+2015
+2015
+2011
+
+3.4
+
+SATISFACTORY
+
+Source: WB Business Warehouse Table 4a.5 and 4a.6 as of as of 4/21/2011.
+* With IEG new methodology for evaluating projects, institutional development impact and sustainability are no longer rated separately.
+
+Annexes
+14
+
+CPSCR Review
+Independent Evaluation Group
+
+Annex Table 3b: IEG Project Ratings for Bosnia and Herzegovina and Comparators, FY08-11
+Region
+Bosnia and
+Herzegovina
+
+Total Evaluated
+($M)
+
+Total
+Evaluated
+(No)
+
+Outcome
+% Sat ($)
+
+Outcome
+% Sat (No)
+
+RDO %
+Moderate or
+Lower ($) *
+
+RDO %
+Moderate or
+Lower (No) *
+
+134
+
+7
+
+92
+
+83
+
+87
+
+83
+
+Albania
+
+31
+
+3
+
+100
+
+100
+
+33
+
+33
+
+Croatia
+
+260
+
+9
+
+100
+
+89
+
+100
+
+78
+
+Montenegro
+
+9
+
+2
+
+52
+
+50
+
+52
+
+50
+
+Macedonia
+
+34
+
+2
+
+100
+
+100
+
+100
+
+100
+
+ECA
+
+5,571
+
+113
+
+89
+
+80
+
+75
+
+62
+
+World
+
+28,996
+
+531
+
+85
+
+75
+
+69
+
+58
+
+Source: WB Business Warehouse Table 4a.5 and 4a.6 as of as of 6/6/2011.
+* With IEG new methodology for evaluating projects, institutional development impact and sustainability are no
+longer rated separately.
+
+Annexes
+15
+
+CPSCR Review
+Independent Evaluation Group
+
+Annex Table 4: Portfolio Status for Bosnia and Herzegovina and Comparators, FY08-11
+Fiscal year
+Bosnia and Herzegovina
+# Proj
+# Proj At Risk
+% At Risk
+Net Comm Amt
+Comm At Risk
+% Commit at Risk
+Albania
+
+2008
+
+2009
+
+2010
+
+2011
+
+14
+1
+7.1
+243.4
+10.0
+4.1
+
+13
+1
+
+15
+2
+
+13
+2
+
+7.7
+261.4
+36.0
+13.8
+
+13.3
+434.4
+29.9
+6.9
+
+15.4
+326.3
+24.4
+7.5
+
+# Proj
+# Proj At Risk
+% At Risk
+Net Comm Amt
+Comm At Risk
+% Commit at Risk
+Montenegro
+
+18
+3
+16.7
+310.5
+59.9
+19.3
+
+17
+3
+17.6
+300.5
+61.6
+20.5
+
+14
+6
+42.9
+265.6
+120.4
+45.3
+
+14
+3
+21.4
+285.6
+59.1
+20.7
+
+# Proj
+# Proj At Risk
+% At Risk
+Net Comm Amt
+Comm At Risk
+% Commit at Risk
+Croatia
+
+6
+1
+16.7
+43.0
+7.0
+16.3
+
+9
+1
+11.1
+88.3
+7.0
+7.9
+
+7
+1
+14.3
+80.5
+7.0
+8.7
+
+6
+1
+16.7
+80.9
+16.2
+20.0
+
+16
+# Proj
+# Proj At Risk
+2
+% At Risk
+12.5
+Net Comm Amt
+1,062.7
+Comm At Risk
+265.4
+% Commit at Risk
+25.0
+Macedonia
+# Proj
+13
+# Proj At Risk
+0
+% At Risk
+0.0
+Net Comm Amt
+282.6
+Comm At Risk
+0.0
+% Commit at Risk
+0.0
+Europe & Central Asia
+# Proj
+303
+# Proj At Risk
+38
+% At Risk
+12.5
+Net Comm Amt
+17,966.1
+Comm At Risk
+2,257.0
+% Commit at Risk
+12.6
+World
+# Proj
+1,525
+# Proj At Risk
+276
+% At Risk
+18.1
+Net Comm Amt
+106,761.7
+Comm At Risk
+18,428.2
+% Commit at Risk
+17.3
+Source: WB Business Warehouse Table 3a.4 as of 6/2/2011.
+
+17
+
+14
+
+13
+
+2
+11.8
+1,082.7
+163.2
+15.1
+
+3
+21.4
+1,134.4
+186.9
+16.5
+
+2
+15.4
+1,221.1
+122.2
+10.0
+
+14
+2
+14.3
+307.6
+25.5
+8.3
+
+14
+3
+21.4
+319.7
+41.8
+13.1
+
+9
+1
+11.1
+282.4
+5.5
+1.9
+
+287
+52
+18.1
+21,383.2
+3,460.2
+16.2
+
+276
+50
+18.1
+24,340.5
+4,357.1
+17.9
+
+263
+45
+17.1
+22,992.7
+2,760.3
+12.0
+
+1,552
+344
+22.2
+131,076.4
+19,929.9
+15.2
+
+1,590
+366
+23.0
+158,287.4
+28,186.1
+17.8
+
+1,637
+344
+21.0
+168,436.7
+22,895.8
+13.6
+
+Annexes
+16
+
+CPSCR Review
+Independent Evaluation Group
+
+Annex Table 5: IBRD/IDA Net Disbursements and Charges Summary Report for Bosnia and
+Herzegovina, FY08-11 (in US$ million)
+Disb.
+Amt.
+
+Repay
+Amt.
+
+2008
+
+56.8
+
+35.0
+
+21.8
+
+31.9
+
+4.3
+
+-14.4
+
+2009
+
+28.5
+
+37.0
+
+-8.4
+
+22.3
+
+8.0
+
+-38.8
+
+2010
+
+43.5
+
+42.5
+
+1.0
+
+8.9
+
+8.3
+
+-16.2
+
+2011
+
+168.9
+
+42.2
+
+126.6
+
+7.3
+
+8.0
+
+111.2
+
+Total (08-11)
+
+297.7
+
+156.7
+
+141.0
+
+70.5
+
+FY
+
+Net Amt.
+
+Charges
+
+Source: WB Loan Kiosk, Net Disbursement and Charges Report as of 6/2/2011.
+
+Fees
+
+28.7
+
+Net
+Transfer
+
+41.8
+
+Annexes
+17
+
+CPSCR Review
+Independent Evaluation Group
+
+Annex Table 6: Total Net Disbursements of Official Development Assistance and Official Aid, 2006-2009
+(in US$ million)
+2006
+
+2007
+
+2008
+
+2009
+
+2006-2009
+
+Bilaterals
+Australia
+..
+0
+0
+0 0
+Austria
+0
+0
+0
+0 0
+Belgium
+0
+-0.17
+-4.86
+-0.28 -5.31
+Canada
+0
+0
+0
+0 0
+Denmark
+-0.06
+0
+-0.1
+-0.03 -0.19
+Finland
+0
+0
+0
+0 0
+France
+0
+0
+0
+0 0
+Germany
+0
+0
+9.73
+1.07 10.8
+Greece
+0
+0
+0
+0 0
+Israel
+0
+0
+0
+.. 0
+Ireland
+0
+0
+0
+0 0
+Italy
+-0.14
+-0.06
+-0.06
+0 -0.26
+Japan
+3.57
+0
+-0.65
+-1.44 1.48
+Korea
+12.88
+7.72
+0
+13.93 34.53
+Luxembourg
+0
+0
+0
+0 0
+Netherlands
+0
+0
+0
+0 0
+New Zealand
+..
+..
+..
+.. 0
+Norway
+0
+0
+-0.05
+-0.01 -0.06
+Portugal
+1.7
+12.55
+18.16
+3.1 35.51
+Spain
+32.46
+6.85
+32.98
+30.99 103.28
+Sweden
+0
+0
+0
+6.03 6.03
+Switzerland
+0
+0
+0
+0 0
+United Kingdom
+0
+0
+0
+0 0
+United States
+0
+0
+0
+0 0
+DAC Countries, Total
+50.41
+26.89
+55.15
+53.36 185.81
+Czech Republic
+0
+0
+0
+0 0
+Hungary
+0
+0
+0
+0 0
+Iceland
+0
+0
+0
+0 0
+Poland
+0
+0
+0
+0 0
+Slovak Republic
+0
+0
+0
+0 0
+Thailand
+..
+..
+..
+.. 0
+Turkey
+0
+0
+0
+0 0
+United Arab Emirates
+..
+..
+..
+0 0
+Arab Countries
+-1.6
+-1.32
+-1.68
+-4.85 -9.45
+Other Donor Countries, Total
+0
+0
+0
+0 0
+Non-DAC Countries, Total
+-1.6
+-1.32
+-1.68
+-4.85 -9.45
+Multilaterals
+0
+Arab Agencies
+6.27
+3.17
+-0.17
+1.56 10.83
+IAEA
+0
+0
+0
+0 0
+IDB Spec. Fund
+..
+..
+..
+.. 0
+IFAD
+3.94
+2.6
+1.59
+4.02 12.15
+Montreal Protocol
+..
+..
+..
+.. 0
+Nordic Dev. Fund
+..
+..
+..
+.. 0
+UNAIDS
+0
+0
+..
+0 0
+WFP
+..
+..
+..
+.. 0
+EU Institutions
+3.69
+0
+0
+0 3.69
+EBRD
+0
+0
+0
+.. 0
+GEF
+..
+0
+0
+.. 0
+Global Fund
+0
+0
+0
+.. 0
+IDA
+22.86
+47.96
+16.53
+18.02 105.37
+UNDP
+0
+0
+0
+0 0
+UNFPA
+0
+0
+0
+0 0
+UNHCR
+0
+0
+0
+0 0
+UNICEF
+0
+0
+0
+0 0
+UNTA
+0
+0
+0
+0 0
+Multilateral Agencies, Total
+36.76
+53.73
+17.95
+23.6 132.04
+All Partners, Total
+85.57
+79.30
+71.42
+72.11 308.40
+Source: OECD DAC Online database, Table 2a. Destination of Official Development Assistance and Official Aid - Disbursements, as of 6/2/2011.
+
+Annexes
+18
+
+CPSCR Review
+Independent Evaluation Group
+
+Annex Table 7: Economic and Social Indicators for Bosnia and Herzegovina and Comparators, 2006 – 2009
+Bosnia and
+Herzegovina
+
+Series Name
+2007
+
+2008
+
+Growth and Inflation
+GDP growth (annual %) /1
+6.2
+5.6
+GDP per capita growth (annual %)/1
+6.2
+5.8
+GNI per capita, PPP (current international $)
+3,790.0
+4,520.0
+GNI, Atlas method (current US mil. $)
+8,140.0
+9,000.0
+Inflation, consumer prices (annual %) /1
+5.0
+3.8
+Composition of GDP (%)
+Agriculture, value added (% of GDP)
+10.1
+9.1
+Industry, value added (% of GDP)
+27.4
+28.5
+Services, etc., value added (% of GDP)
+62.6
+62.4
+Gross fixed capital formation (% of GDP)
+29.6
+28.2
+Gross domestic savings (% of GDP)/2
+-3.3
+-1.0
+External Accounts
+Exports of goods and services (% of GDP)
+38.9
+36.7
+Imports of goods and services (% of GDP)
+73.3
+69.4
+Current account balance (% of GDP)
+-10.8
+-14.4
+External debt (% of GDP)
+56.1
+43.5
+Total debt service (% of GNI)
+2.8
+2.3
+Total reserves in months of imports/2
+4.7
+5.7
+Fiscal Accounts /2
+Revenue (% of GDP)
+46.7
+45.9
+Expenditure (on a commitment basis) (% of GDP)
+47.1
+49.5
+Overall Balance (% of GDP)
+-0.3
+-3.6
+Total Public Debt (% of GDP)
+32.9
+30.8
+Social Indicators
+Health
+Life expectancy at birth, total (years)
+75.0
+75.1
+Immunization, DPT (% of children ages 12-23 months)
+95.0
+91.0
+Improved sanitation facilities (% of population with access)
+..
+95.0
+Improved water source (% of population with access)
+..
+99.0
+Mortality rate, infant (per 1,000 live births)
+12.9
+12.7
+Population
+Population, total (in millions)
+3.8
+3.8
+Population growth (annual %)
+-0.1
+-0.1
+Urban population (% of total)
+46.9
+47.4
+Education
+School enrollment, preprimary (% gross)
+11.0
+12.5
+School enrollment, primary (% gross)
+115.2
+109.3
+School enrollment, secondary (% gross)
+86.2
+90.2
+1/ IMF. April, 2011. World Economic Outlook.
+2/ IMF. Article IV Consultations for relevant countries
+Source: WB World Development Indicators for all indicators excluding those noted.
+
+Albania
+
+Montenegro
+
+2009
+
+Macedonia
+FYR
+Average 2007-2009
+Croatia
+
+Slovenia
+
+ECA
+
+World
+
+-2.9
+-2.9
+4,700.0
+8,770.0
+0.0
+
+3.0
+3.0
+4,085.0
+8,315.0
+2.9
+
+5.3
+4.9
+3,555.0
+7,935.0
+2.7
+
+5.1
+5.2
+5,625.0
+12,592.5
+5.4
+
+1.6
+1.7
+12,600.0
+18,345.0
+3.6
+
+3.5
+3.4
+3,775.0
+9,772.5
+3.5
+
+2.1
+1.6
+22,227.5
+26,685.0
+3.1
+
+3.3
+3.1
+5,960.0
+11,998.6
+…
+
+1.9
+0.71
+8,281.0
+10,251.4
+…
+
+8.0
+28.1
+63.9
+19.7
+-2.4
+
+9.4
+27.2
+63.4
+25.6
+-3.3
+
+21.0
+19.7
+59.3
+28.9
+2.5
+
+9.6
+20.6
+69.7
+29.8
+-8.4
+
+5.8
+27.8
+66.4
+26.1
+22.5
+
+11.4
+33.3
+55.3
+20.8
+3.5
+
+2.4
+34.3
+63.3
+26.8
+28.1
+
+7.6
+32.7
+59.8
+22.2
+23.7
+
+2.9
+27.5
+69.6
+21.1
+21.3
+
+33.4
+58.0
+-6.9
+54.6
+3.7
+5.3
+
+36.5
+66.9
+-10.1
+52.7
+2.9
+5.2
+
+27.9
+53.5
+-12.3
+30.6
+1.8
+4.2
+
+41.6
+81.6
+-40.5
+38.4
+2.2
+
+40.7
+47.3
+-7.1
+…
+…
+5.1
+
+49.6
+71.2
+-7.0
+54.2
+7.3
+4.3
+
+65.7
+66.6
+-4.0
+…
+…
+1.0
+
+31.9
+31.3
+…
+38.5
+7.2
+11.0
+
+27.6
+27.7
+…
+…
+…
+12.0
+
+44.6
+50.2
+-5.7
+35.4
+
+45.7
+48.9
+-3.2
+33.0
+
+26.2
+31.6
+-5.4
+56.3
+
+46.1
+45.7
+0.4
+33.4
+
+39.4
+41.9
+-2.5
+32.3
+
+31.8
+32.8
+-1.0
+22.9
+
+40.8
+42.7
+-1.9
+27.1
+
+75.3
+90.0
+..
+..
+12.5
+
+75.0
+90.8
+95.0
+99.0
+12.8
+
+76.6
+98.0
+98.0
+97.0
+14.8
+
+74.1
+92.3
+92.0
+98.0
+8.4
+
+75.9
+96.0
+99.0
+99.0
+4.9
+
+74.1
+94.8
+89.0
+100.0
+10.8
+
+78.6
+96.8
+100.0
+99.0
+2.8
+
+69.3
+95.2
+89.1
+95.5
+20.8
+
+68.8
+81.4
+60.6
+86.8
+44.9
+
+3.8
+-0.2
+48.0
+
+3.8
+-0.1
+47.2
+
+3.1
+0.4
+46.4
+
+0.6
+0.0
+60.4
+
+4.4
+-0.1
+57.2
+
+2.0
+0.1
+66.7
+
+2.0
+0.5
+48.8
+
+402.4
+0.2
+63.9
+
+6659.3
+1.2
+49.7
+
+14.8
+108.9
+91.2
+
+12.8
+111.1
+89.2
+
+58.3
+118.9
+72.4
+
+53.6
+97.0
+92.7
+
+32.0
+91.7
+84.0
+
+81.1
+97.8
+96.4
+
+53.0
+98.9
+88.7
+
+42.2
+105.9
+66.3
+
+…
+
+…
+…
+…
+
+Annexes
+19
+
+CPSCR Review
+Independent Evaluation Group
+
+Annex Table 8: Bosnia and Herzegovina - Millennium Development Goals
+Goal 1: Eradicate extreme poverty and hunger
+Employment to population ratio, 15+, total (%)
+Employment to population ratio, ages 15-24, total (%)
+GDP per person employed (constant 1990 PPP $)
+Income share held by lowest 20%
+Malnutrition prevalence, weight for age (% of children under 5)
+Poverty gap at $1.25 a day (PPP) (%)
+Poverty headcount ratio at $1.25 a day (PPP) (% of population)
+Vulnerable employment, total (% of total employment)
+Goal 2: Achieve universal primary education
+Literacy rate, youth female (% of females ages 15-24)
+Literacy rate, youth male (% of males ages 15-24)
+Persistence to last grade of primary, total (% of cohort)
+Primary completion rate, total (% of relevant age group)
+Total enrollment, primary (% net)
+Goal 3: Promote gender equality and empower women
+Proportion of seats held by women in national parliaments (%)
+Ratio of female to male primary enrollment (%)
+Ratio of female to male secondary enrollment (%)
+Ratio of female to male tertiary enrollment (%)
+Share of women employed in the nonagricultural sector (% of total nonagricultural employment)
+Goal 4: Reduce child mortality
+Immunization, measles (% of children ages 12-23 months)
+Mortality rate, infant (per 1,000 live births)
+Mortality rate, under-5 (per 1,000)
+Goal 5: Improve maternal health
+Adolescent fertility rate (births per 1,000 women ages 15-19)
+Births attended by skilled health staff (% of total)
+Contraceptive prevalence (% of women ages 15-49)
+Maternal mortality ratio (modeled estimate, per 100,000 live births)
+Pregnant women receiving prenatal care (%)
+Unmet need for contraception (% of married women ages 15-49)
+Goal 6: Combat HIV/AIDS, malaria, and other diseases
+Children with fever receiving anti-malarial drugs (% of children under age 5 with fever)
+Condom use, population ages 15-24, female (% of females ages 15-24)
+Condom use, population ages 15-24, male (% of males ages 15-24)
+Incidence of tuberculosis (per 100,000 people)
+Prevalence of HIV, female (% ages 15-24)
+Prevalence of HIV, male (% ages 15-24)
+Prevalence of HIV, total (% of population ages 15-49)
+Tuberculosis case detection rate (%, all forms)
+Goal 7: Ensure environmental sustainability
+CO2 emissions (kg per PPP $ of GDP)
+CO2 emissions (metric tons per capita)
+Forest area (% of land area)
+Improved sanitation facilities (% of population with access)
+Improved water source (% of population with access)
+Marine protected areas (% of total surface area)
+Net ODA received per capita (current US$)
+Goal 8: Develop a global partnership for development
+Debt service (PPG and IMF only, % of exports, excluding workers' remittances)
+Internet users (per 100 people)
+Mobile cellular subscriptions (per 100 people)
+Telephone lines (per 100 people)
+Fertility rate, total (births per woman)
+Other
+GNI per capita, Atlas method (current US$)
+GNI, Atlas method (current US$) (billions)
+Gross capital formation (% of GDP)
+Life expectancy at birth, total (years)
+Literacy rate, adult total (% of people ages 15 and above)
+Population, total (millions)
+Trade (% of GDP)
+
+Source: World Development Indicators database as of 6/2/2011.
+
+1990
+
+1995
+
+2000
+
+2005
+
+2009
+
+42
+17
+12053
+..
+..
+..
+..
+..
+
+41
+17
+7414
+..
+..
+..
+..
+..
+
+41
+15
+19087
+9
+4
+0
+0
+..
+
+41
+14
+25432
+7
+2
+0
+0
+..
+
+42
+18
+26811
+7
+..
+0
+0
+..
+
+..
+..
+..
+..
+..
+
+..
+..
+..
+..
+..
+
+100
+100
+..
+..
+..
+
+..
+..
+..
+..
+..
+
+100
+100
+..
+..
+87
+
+..
+..
+..
+..
+..
+
+..
+..
+..
+..
+..
+
+29
+..
+..
+..
+..
+
+17
+102
+102
+..
+35.2
+
+12
+102
+102
+131
+35.7
+
+52
+21
+23
+
+53
+19
+21
+
+80
+14
+17
+
+90
+13
+16
+
+93
+13
+14
+
+..
+97
+..
+18
+..
+..
+
+..
+..
+..
+15
+..
+..
+
+24
+100
+48
+11
+99
+..
+
+18
+100
+36
+10
+99
+23
+
+15
+..
+..
+9
+..
+..
+
+..
+..
+..
+94
+..
+..
+..
+100
+
+..
+..
+..
+84
+..
+..
+..
+76
+
+..
+..
+..
+63
+..
+..
+..
+110
+
+..
+..
+..
+52
+..
+..
+..
+110
+
+..
+..
+..
+50
+..
+..
+..
+91
+
+..
+1
+43.2
+..
+..
+1
+2
+
+1
+1
+..
+95
+97
+1
+277
+
+1
+6
+42.7
+95
+97
+1
+199
+
+1
+7
+42.7
+95
+98
+1
+141
+
+1
+8
+42.7
+95
+99
+1
+110
+
+..
+0
+0
+15
+2
+
+..
+0
+0
+7
+2
+
+13
+1.1
+3
+21
+1
+
+4
+21.3
+42
+26
+1
+
+3
+37.7
+86
+27
+1
+
+..
+..
+..
+67
+..
+4.3
+..
+
+870
+2.9
+20
+68
+..
+3.3
+91.9
+
+1510
+5.6
+20.6
+74
+97
+3.7
+104.2
+
+3000
+11.3
+22
+75
+..
+3.8
+106.6
+
+4700
+17.7
+22.1
+75
+98
+3.8
+91.4
+
+Annexes
+20
+
+CPSCR Review
+Independent Evaluation Group
+
+Annex Table 9: List of IFC’s investments in Bosnia & Herzegovina that were active during FY08-FY11 (US$’000)
+Project
+ID
+
+Approval
+FY
+
+Closure
+FY
+
+Project
+Status
+
+IFC Sector
+Primary
+
+IFC Sector
+Explntry
+
+Project
+Size
+
+Net
+Loans
+
+Net
+Equity
+
+Total Net
+Commitment
+
+Investments approved in the pre-CPS period, but active during the CPS period
+7622
+10786
+11602
+11310
+
+1997
+
+2011
+
+Closed
+
+Financial Mkts
+
+2001
+
+2010
+
+Closed
+
+Financial Mkts
+
+Pvtzn/VC
+
+11,238
+
+2002
+2002
+(Disb
+2006)
+
+2008
+
+Closed
+
+MAS
+
+Cement
+
+93,000
+
+22,500
+
+22,500
+
+2009
+
+Closed
+
+Financial Mkts
+
+Housing
+Energy Eff
+
+18,614
+
+18,614
+
+18,614
+
+24017
+
+2005
+
+2011
+
+Closed
+
+Pharma.
+
+19,790
+
+10,000
+
+10,000
+
+24543
+
+2006
+
+2009
+
+Closed
+
+Cons.& Soc.
+Services
+Financial Mkts
+
+Microfin.
+
+3,667
+
+2,426
+
+1,241
+
+3,667
+
+24682
+Multi.
+inc. RI
+24611
+
+2006
+
+2010
+2009
+merger
+
+Closed
+
+Financial Mkts
+
+5,040
+
+4,050
+
+1,350
+
+5,040
+
+Closed
+
+Financial Mkts
+
+36,933
+
+36,933
+
+2006
+
+Active
+
+Financial Mkts
+
+Microfin.
+Comm.
+Bank
+SMEs
+
+18,154
+
+12,103
+
+25557
+
+2007
+
+Active
+
+MAS
+
+Chemicals
+
+65,222
+
+23,500
+
+271,658
+
+130,126
+
+25264
+
+2007
+
+Pvtzn/VC
+
+Subtotal
+
+-
+
+2,000
+
+2,000
+
+586
+
+11,824
+
+36,933
+6,051
+
+18,154
+23,500
+
+11,228
+
+141,354
+
+Investments approved in the CPS period
+26693
+
+2008
+
+Active
+
+Auto parts
+
+79,464
+
+35,000
+
+Hospital
+
+23,046
+
+3,745
+
+Closed
+
+MAS
+Cons.& Soc.
+Services
+Financial Mkts
+
+26191
+
+2008
+
+Active
+
+27425
+
+2009
+
+2010
+
+Microfin.
+
+11,000
+
+11,000
+
+27435
+
+2009
+
+2010
+
+Closed
+
+Financial Mkts
+
+Microfin.
+
+8,241
+
+5,641
+
+25602
+
+2010
+
+Active
+
+Financial Mkts
+
+Trade Fin.
+
+2,513
+
+2,513
+
+29692
+
+2011
+
+Active
+
+MAS
+
+Glass Manf
+
+35,000
+864
+
+4,609
+11,000
+
+2,600
+
+8,241
+2,513
+
+42,141
+
+22,000
+
+Subtotal
+
+166,405
+
+79,899
+
+3,464
+
+22,000
+83,363
+
+Grand Total
+Source: IFC, April 2011- The list does not cover the regional projects.
+MAS: Manufacturing, Agriculture, and Services
+
+438,063
+
+210.025
+
+14,692
+
+224,717
+
+Annexes
+21
+
+CPSCR Review
+Independent Evaluation Group
+
+Annex Table 10: List of IFC’s Advisory Services in Bosnia and Herzegovina, FY08-FY11:
+Project
+ID
+
+Project Name
+
+Start FY
+
+End
+FY
+
+Project
+Status
+
+Primary Business
+Line
+
+Total
+Funds, US$
+
+Advisory Services operations approved in the pre-CPS period, but active during the CPS period
+536963
+
+2006
+
+2011
+
+Closed
+
+Sus. Business Advisory
+
+78,823
+
+537507
+
+CT R Celikovic (SME Direct Support)
+ADR (Alternative Dispute Resolution) PEPSE
+BH
+
+2006
+
+2010
+
+Closed
+
+Sus. Business Advisory
+
+1,165,690
+
+540183
+
+Corp Gov Bosnia
+
+2006
+
+2010
+
+Closed
+
+Sus. Business Advisory
+
+834,250
+
+543084
+
+2006
+
+2009
+
+Closed
+
+Sus. Business Advisory
+
+563,650
+
+538383
+
+Recycling PEP SE BH
+IntTechStdReg ((International Standards &
+Technical Regulations)
+
+2006
+
+2010
+
+Closed
+
+Sus. Business Advisory
+
+547667
+
+CT RBBH (Housing/Energy Eff.)
+
+2006
+
+2010
+
+Closed
+
+Access to Finance
+
+560,658
+
+548625
+
+CT EKI
+
+2007
+
+2008
+
+Closed
+
+Access to Finance
+
+77,723
+
+550587
+
+GEM MI BOSPO (Microfinance Inst.)
+
+2007
+
+2010
+
+Closed
+
+Access to Finance
+
+83,846
+
+555367
+
+Bosnia Sub-national Competitiveness
+
+2007
+
+Active
+
+Investment Climate
+
+2,982,452
+
+Subtotal:
+
+86,000
+
+6,433,092
+
+Advisory Services operations approved in the CPS period
+564808
+
+ISWM (Intgrtd. Solid Waste Mgmt.)
+
+2009
+
+546045
+
+Nova Banka TA
+
+559505
+
+Closed
+
+Sus. Business Advisory
+
+302,366
+
+2008
+
+Active
+
+Access to Finance
+
+466,000
+
+2008
+
+Active
+
+Access to Finance
+
+205,600
+
+565707
+
+WWB (Women’s World Banking) TA
+ISTR (International Standards & Technical
+Regulations) BH Extn.
+
+2009
+
+Active
+
+Sus. Business Advisory
+
+489,122
+
+567010
+
+CorpGovBOS-II
+
+2009
+
+Active
+
+Sus. Business Advisory
+
+503,019
+
+563647
+
+ADR Construction BH
+
+2009
+
+Active
+
+Investment Climate
+
+471,012
+
+569807
+
+Microfinance - Bosnia
+
+2011
+
+Active
+
+Access to Finance
+
+880,000
+
+575567
+
+Renewable Energy – Small Hydro Power Plants
+
+2011
+
+Active
+
+Sus. Business Advisory
+
+Subtotal:
+Grand Total
+
+Source: Source: IFC, April 2011
+
+2011
+
+1,529,840
+4,846,959
+11,280,051
+
+Annexes
+22
+
+CPSCR Review
+Independent Evaluation Group
+
+Annex Table 11: List of MIGA’s Operations in Bosnia and Herzegovina, FY08-FY11:
+Project ID
+
+Project Name
+
+FY
+
+7492
+
+Coprotec sistemi d.o.o. Orasje
+
+2008
+
+7591
+
+Raiffeisen Leasing
+
+9161
+
+ProCredit Bank AD
+
+Grand Total:
+Source: Source: MIGA, 2011
+
+Project Status
+
+Sector
+
+Amount, US$
+
+Active
+
+Manufacturing
+
+1,119,622
+
+2009
+
+Active
+
+Financial Services
+
+47,724,913
+
+2011
+
+Active
+
+Financial Services
+
+12,488,700
+61,333,235
+
+Annexes
+23
+
+CPSCR Review
+Independent Evaluation Group
+
+Annex Table 12: Summary of Achievements of the CPS Objectives
+CPS 09-11: Pillar 1
+
+Actual Results
+(as of current month year)
+
+Improve the Environment for Private Sector-Led Growth and
+Convergence with Europe
+Objectives
+1. Expand business activity and increase economic
+opportunities
+2. Improve key infrastructure
+3. Strengthen regional cooperation to manage
+public goods
+4. Invigorate privatization and corporate
+restructuring
+-Major
+Outcome
+1. Expand business activity and increase economic opportunities
+Measures
+Reduce the duration and number of procedures required
+According to Internal Review (IR) the
+to register a business:
+number of days to register a business
+- Baseline: In June 2007 New Business Registration
+was reduced in both entities. The
+System (BRS) launched – Average registration time 54
+World Economic Forum
+days (DB),
+competiveness index increased from
+- Target: 30 days in the Federation of Bosnia and
+3.55 to 3.7 during CPS.
+Herzegovina (FBH) and 23 days in the Republika Srpska
+(RS) (2008).
+According to the WB’s Doing
+Business, the FBH ranking for
+“Starting Business” dropped from 157
+to 160, the number of procedures (12)
+remained unchanged over the period
+of 2008-2011, and the number of days
+increased from 54 to 55. The
+“Business Freedom” of the Heritage
+Foundation and the Wall Street
+Journal, which includes quantitative
+measures of the ability to start,
+operate, and close a business,
+dropped too.
+
+Comments
+
+Modest Progress.
+Source: P071001 Business Environment
+Structural Adjustment Credit. IR. June, 2008.
+CPSCR, Doing Business of the WB, Heritage
+Foundation.
+.
+
+Develop transparent land markets through registration of
+real estate:
+- Baseline: In 2006 150,000 registry folders completed
+in the automated database, 80,000 backlog cases,
+several months to complete real estate transactions.
+- Target: 2 million folders completed, full reconciliation,
+no backlogs (2011).
+
+As of June 2011, 1.45 million folders
+were completed. Backlog has been
+reduced to 18,305 and 80% of cases
+are now resolved in 5 working days in
+16 Land Registration Offices (10 in
+FBH and 6 in the RS). Current
+progress in implementing the Land
+Registration Project provides
+assurance that the program goal will
+be fully achieved as planned by the
+end of 2011.
+As of December 31, 2010 there were
+211, 682 land transactions recorded or
+223% increase compared to 2006.
+
+Substantial Progress.
+Source: P096200 Land Registration Project. IR.
+January, 2011.
+
+Support harmonization with the EU’s Common
+Agricultural Policy by supporting establishment of
+agricultural information systems, and EU-compatible
+payment systems for subsidies:
+- Target: EU-compatible payment system designed
+(2010). Initiating EU-compatible Rural Development
+Grants (2011)
+
+Rule books on farm and client registry
+and livestock registry completed
+(although the latter is under
+amendment). In 2010, about 50% of
+agriculture subsidies in RS and 30% in
+FBH were structural (investment
+grants) approximating IPARD
+requirements. Overall, establishment
+of registries at state and entity level for
+effective Agricultural Information
+System (AIS) required to administer
+IPARD payments is progressing.
+
+Substantial Progress.
+Source: P101213 Agriculture and Rural
+Development Project. IR. January, 2011.
+
+Ensure stakeholder-driven extension services are
+operational:
+- Baseline: Limited in the RS, none in the FBH (2007),
+- Target: Stakeholder managed, contracted publicprivate extension services reaching 20% of commercial
+farmers (2012).
+
+Extension agencies established, and
+draft extension strategies have been
+developed in both entities. However,
+the WBG assessed that drafts lack
+strategic vision to develop sustainable
+systems. The strategies are currently
+
+Negligible Progress.
+Source: CPSCR.
+
+CPSCR.
+
+CPSCR.
+
+Annexes
+24
+
+CPSCR Review
+Independent Evaluation Group
+CPS 09-11: Pillar 1
+
+Actual Results
+(as of current month year)
+
+Improve the Environment for Private Sector-Led Growth and
+Convergence with Europe
+
+Comments
+
+under revision based on comments
+from the WBG team. Services are not
+operational yet.
+2. Improve key infrastructure
+Ensure road network is better maintained and safer:
+- Baseline: In 2006 road user costs US$0.25 per km
+per vehicle,
+- Target: Reduction in road user costs of at least 10%
+on rehabilitated roads (2011).
+
+For the RS the average road user cost
+(RUC) per vehicle-km has declined
+from 0.284 Euros in 2007 to 0.253
+Euros in 2011. This represents an
+average 10.90 percent decline in RUC,
+with variation on a section by section
+basis.
+RUC in Federation BiH reduced from
+0.253 Euros in 2004 (baseline) to
+0.208 Euros in 2011, or a decline of
+17.75 percent.
+
+Substantial Progress.
+Source: CPSCR.
+
+Sustain or increase BH electricity generation and exports
+at corresponding hydrological conditions:
+- Baseline: Power generation 12,800 Gwh (2006),
+- Target: Equal or greater generation and exchange
+import/export transactions between EPs in BH and other
+regional power utilities.
+
+Generation and export of power in
+2009 has reached record levels and
+the EPRS and EPBH have earned
+record profits in spite of lower prices in
+the regional electricity market.
+
+High Progress.
+Source: P090666 Energy Community of South
+East Europe (ECSEE) APL3-Bosnia and
+Herzegovina Project. IR. January, 2011.
+
+Improve commercial use of the Sava river corridor:
+- Baseline: 2007: sections of the river are not
+navigable.
+- Target: Priority sections of the River Sava returned to
+navigability.
+
+Sava River Navigability Project has
+been postponed due to the need to
+adjust the CPS lending program in
+response to the crisis.
+
+CPSCR.
+Negligible Progress.
+Source: CPSCR.
+
+3. Strengthen regional cooperation to manage public goods
+Protect and use critical forests, water and mountain
+ecosystems in a sustainable way:
+- Baseline: Area under formal protection is 0.55% of
+the territory (2007),
+- Target: protected area 3% (2010).
+
+Area under formal protection
+increased to 2.4% or 123,000 ha.
+
+Substantial Progress.
+Source: CPSCR.
+
+Enhance capacity for an effective response to avian
+influenza infection:
+- Baseline: In 2007 weak and inconsistent safe poultry
+handling procedures,
+- Target: 50 % of at risk population practicing safe
+handling procedures in respect to poultry meat.
+
+Surveys and communications strategy
+completed. It is estimated that 45 50%% of at risk population practices
+safe-handling procedures.
+
+High Progress.
+Source: P100415 Avian Influenza Preparedness
+Project. IR, June, 2011.
+CPSCR.
+
+4. Invigorate privatization and corporate restructuring
+Advance privatization and corporate restructuring:
+- Baseline: FBH - 14 SOEs scheduled for privatization
+in 2008. RS - privatization about 2/3 completed, 80
+enterprises to be privatized in 2008.
+- Target: FBH privatization policy adopted and
+implemented. RS – policy adjustment to reflect lower
+quality of remaining assets to be privatized. Complete
+restructuring of 12 enterprises to demonstrate possible
+methods and benefits of active approach -2009.
+Ongoing pre
+CPS/CPS 07-10
+Support
+
+P071001 Business Environment Structural Adjustment
+Credit
+P096200 Land Registration Project
+P101213 Agriculture and Rural Development Project
+
+17 enterprises privatized in FBH (only
+two strategic: Hepok – Mostar, and
+Tobacco factory Mostar). FBH
+Privatization plan was not adopted.
+In the RS - 21 enterprises were
+privatized over the period 2008-2010
+(of which 4 were strategic enterprises).
+Corporate restructuring made very
+little progress in both entities.
+
+Approved FY 2002. Closed FY 2008.
+Approved FY 2006. Active.
+Approved FY 2007. Active.
+
+P090666 Energy Community of South East Europe
+
+Modest Progress.
+Source: CPSCR.
+
+IEG rating: Moderately Satisfactory
+Latest internal rating: Satisfactory. 1/24/2011.
+Latest internal rating: Moderately Satisfactory,
+IR. 2/25/2011.
+Latest internal rating: Satisfactory, IR.
+
+Annexes
+25
+
+CPSCR Review
+Independent Evaluation Group
+CPS 09-11: Pillar 1
+Improve the Environment for Private Sector-Led Growth and
+Convergence with Europe
+(ECSEE) APL3-Bosnia and Herzegovina Project
+P100415 Avian Influenza Preparedness Project
+New Lending
+Support
+P100792 Road Infrastructure and Safety
+Non-Lending
+Support
+(Grants and
+P087094 Forest and Mountain Protected Areas
+Special
+P103242 Accelerating Enterprise Restructuring In Bosnia
+Financing
+& Herzegovina through Active Portfolio Management of
+Projects)
+PIFs
+Planned AAA
+P102647 Investment Climate Assessment
+P096211 Transport Sector Rev.
+Additional AAA
+
+Actual Results
+(as of current month year)
+
+Comments
+
+Approved 2006. Active.
+Approved FY 2007. Closed FY 2011.
+
+1/6/2011.
+Latest internal rating: Satisfactory. 2/25/2011.
+
+Approved 2008. Active.
+
+Latest internal rating: Satisfactory, IR.
+4/5/2011.
+
+Approved 2009. Active.
+Approved FY 2007. Closed FY 2011.
+Delivered to Client FY 2008.
+Delivered to Client FY 2010.
+
+Annexes
+26
+
+CPSCR Review
+Independent Evaluation Group
+CPS 09-11: Pillar 2
+Actual Results
+Improve the Quality of Government Spending and the Delivery of
+(as of current month year)
+Public Services for the Vulnerable
+Objectives
+1. Improve the delivery of municipal services and
+strengthen municipal finance
+2. Improve the quality of social service delivery
+3. Reduce urban-rural disparities in income
+4. Increase the targeting of social benefits
+5. Reduce the burden of Government in the
+economy and strengthen fiscal coordination
+Major
+Outcome
+1. Improve the delivery of municipal services and strengthen municipal finance
+Measures
+Improve delivery of water supply, sanitation and urban
+Current values for water supply in four
+services:
+target large municipalities are: Banja
+- Baseline: Water supply in four participating
+Luka - 100%; Posusje - 100%; Cazin municipalities (92%, 0%, 90%, 94%) in 2004 (these
+100%; and Pale - 96% in June, 2011.
+indicators were respectively 100%, 0%, 100%, 95% in
+December of 2007),
+- Target: 100% in 4 large municipalities
+Improve administration of solid waste at municipal level:
+- Target: Six regional sanitary landfills established and
+operational (2009); 20% reduction in wild dumpsites
+
+Promote sustainable mechanisms for municipal capital
+investments:
+- Baseline: Weak citizen participation in decision
+making at local level (2007),
+- Target: Improved participatory budgeting in 30 poor
+municipalities (2009)
+
+Comments
+
+Modest Progress.
+Source: P083353 Urban Infrastructure & Service
+Delivery Project. IR. June, 2011 and January, 2008.
+CPSCR.
+
+Six regional sanitary landfills have
+been established and are now fully
+operational. The recent assessment
+suggests that 15% reduction in the
+number of wild dumpsites was
+achieved. This result is somewhat
+below projected 20% due to lack of
+counterpart financing for this activity.
+However, results achieved seen as
+satisfactory given the large number of
+wild dumpsites.
+
+Substantial Progress.
+Source: P057950 Solid Waste Management Project.
+IR. January, 2010.
+
+In 32 municipalities (14 in the FBH and
+18 in RS) a significant part of budget
+investments were made using the
+Participatory Budget Planning (PBP)
+approach (70% in the FBH and 50% in
+RS meeting the target). Still a survey of
+beneficiaries showed that a substantial
+majority (72 percent) said that they had
+not participated in decision-making on
+community development, while sixty
+percent were not satisfied with
+participation in problem solving.
+
+Modest progress, as reflected in survey of
+beneficiaries.
+Source: P070995 Community Development Project.
+IR. March, 2010.
+
+75% increase in the FBH with
+1,020,014 first examinations by FM
+doctors.
+
+Substantial Progress, although no hard evidence on
+improvement in health indicators.
+Source: P088663 Health Sector Enhancement
+Project. IR. February, 2011.
+
+CPSCR.
+
+2. Improve the quality of social service delivery
+Significant increase in utilization of family medicine (FM)
+in primary health care:
+- Baseline: No. of first examinations by FM doctors
+(FBH: 582,716; RS: 572,876 - 2005),
+- Target: increase by 55% in FBH; by 15% in RS
+(2010).
+
+CPSCR.
+In the RS 4,238,848 first and control examinations
+were made. 15% increase is believed to have been
+achieved although the health MIS does not
+differentiate between first and control visits.
+Importantly, the percentage of the population
+registered with upgraded FM teams increased from
+about 5% to about 58% of the population.
+
+Significant reduction in utilization of secondary and
+tertiary health services:
+- Baseline: No. of referrals to specialists in locations
+where FM model was introduced FBH: 1,513,241 (2005),
+- Target: FBH: decrease by 10% (2010).
+
+Over 10% decrease in the number of
+referrals was achieved in the FBH in
+locations where FM model was
+introduced (1,204,566 referrals in
+2009).
+
+High Progress
+Source: P088663 Health Sector Enhancement
+Project. IR. February, 2011.
+CPSCR.
+
+Annexes
+27
+
+CPSCR Review
+Independent Evaluation Group
+CPS 09-11: Pillar 2
+Improve the Quality of Government Spending and the Delivery of
+Public Services for the Vulnerable
+
+Actual Results
+(as of current month year)
+
+Comments
+
+3. Reduce urban-rural disparities in income
+Increase in marketable horticultural produce in poor
+southern BH areas:
+- Baseline: 5% of farm production is marketed (2003),
+- Target: 30 % of farm production marketed (2011)
+
+There is no information available.
+
+Negligible Progress.
+Source: P055434 Small Scale Commercial
+Agriculture Development Project. IR. October, 2010.
+CPSCR.
+In southern parts of BH the area under vineyards
+has doubled, and area under horticulture has
+increased by 25%.
+
+Develop further small-scale market integrated
+commercial agriculture and improve access to credit for
+agribusiness/ agro-processing and small farmers - in less
+developed southern parts of the country:
+- Baseline: 2006: US$2.15 million for agribusiness;
+US$1.5 million for microcredit,
+- Target: - US$4.5 million long-term loans by 2010 for
+agri-business/agro-processing, US$7.5 million disbursed
+as microcredit to small farmers and rural families with
+99.5% repayment rates
+
+US$4.4 million in long-term loans was
+disbursed to agri-businesses in the
+target area. US$ 11.5 million was
+disbursed by partner microcredit
+organizations to small farmers. While
+portfolio at risk remained low at 1.5%,
+overall quality of portfolio and
+repayment rates fell in 2009 as a result
+of the global financial crisis.
+
+High Progress.
+Source: P055434 Small Scale Commercial
+Agriculture Development Project. IR. October, 2010.
+
+There are no data available.
+
+Negligible Progress.
+Source: CPSCR.
+
+CPSCR.
+
+4. Increase the targeting of social benefits
+Increase targeting of social benefits:
+- Baseline: targeting accuracy of social benefits –
+below 20% (2008). Social benefits reach only 18%
+among the poorest quintile.
+- Target: targeting accuracy of social benefits at least
+40%. Social benefits reach 70% among the poorest
+quintile (2012). Needs based approach.
+
+Some progress made in terms of revising the legal
+framework for non-insurance cash transfers in both
+entities. Income testing was introduced for cash
+transfers to veteran categories to ensure
+sustainability of the system and adequate support to
+the most vulnerable. Although need based approach
+has now been legislated, the first results will be
+measurable in mid-2012.
+
+5. Reduce the burden of Government in the economy and strengthen fiscal coordination
+Reduce the burden of Government on the economy and
+strengthen fiscal coordination:
+- Baseline: National Fiscal Council not established, and
+fiscal targets not well coordinated between different
+levels of government. Current expenditures equal to 41%
+of GDP (2007),
+- Target: Fiscal Council established and functional.
+Sound fiscal framework maintained. The share of current
+expenditures in GDP lower by 2pp (2011)
+
+P083353 Urban Infrastructure & Service Delivery Project
+
+The state-level Fiscal Council Law was
+adopted in 2008 and the Fiscal Council
+(FC) was established. The FC agreed
+on the overall fiscal envelope for the
+state and the two entities for 2009 and
+2010. These were an integral part of
+the Stand-by Agreement with the IMF
+and have largely been observed. In a
+pre-election context (elections in
+October of 2010) the FC postponed the
+adoption of overall fiscal envelope for
+2011.
+Formal employment grew up to 2008,
+but this trend was subsequently
+reversed in 2009 and 2010 as a result
+of impact of the global economic crisis
+on BH economy:
+- 2008: 706,088 (2.7% growth
+compared to 2007),
+- 2009: 686,044 (-0.2% growth
+compared to 2007),
+- 2010: 681,332 (-0.9% growth
+compared to 2007).
+Approved FY 2005. Closed FY 2011.
+
+P057950 Solid Waste Management Project
+P070995 Community Development Project
+
+Approved FY 2002. Closed FY 2010.
+Approved FY 2001. Closed FY 2010.
+
+Increase formal employment:
+- Baseline: 687,445 employees (2007)
+- Mid-term: 5% growth (2008)
+- Target: 10.2% growth (2010)
+
+Ongoing pre
+CPS 07-10
+Support
+
+Negligible Progress.
+Source: CPSCR.
+Bosnia and Herzegovina October 2010 Article IV
+Consultations. IMF.
+
+Negligible Progress.
+Source: CPSCR.
+
+Latest internal rating: Moderately Satisfactory,
+IR. 5/25/2011.
+IR rating: Satisfactory.
+IEG rating: Moderately Satisfactory
+
+Annexes
+28
+
+CPSCR Review
+Independent Evaluation Group
+CPS 09-11: Pillar 2
+Improve the Quality of Government Spending and the Delivery of
+Public Services for the Vulnerable
+P088663 Health Sector Enhancement Project
+P055434 Small Scale Commercial Agriculture
+Development Project
+New Lending
+Support
+New nonlending
+Support
+(Grants and
+Special
+Financing
+Projects)
+Additional
+AAA
+
+P116951 Public Expenditure Crisis DPL
+P116774 Social Safety Net and Employment Support
+Project
+P110183 Proxy Means Targeting for Equitable and
+Sustainable Social Assistance in Bosnia and
+Herzegovina
+P096614 Strengthening Local Governance Study
+
+P112985 Social Safety Nets / PMT Programmatic AAA
+
+Actual Results
+(as of current month year)
+
+Comments
+
+Approved FY 2005. Active.
+
+Latest internal rating: Moderately Satisfactory,
+IR. 2/28/2011.
+
+Approved FY 2003. Closed FY 2010.
+Approved FY 2010. Closed FY 2011.
+
+IEG rating: Moderately Satisfactory.
+Latest internal rating: Satisfactory, IR. 12/8/2010.
+
+Approved FY 2010. Active.
+
+Latest internal rating: Satisfactory, IR. 6/1/2011.
+
+Delivered to Client FY 2008.
+Delivered to Client FY 2009.
+
+Delivered to Client FY 2009.
+
+

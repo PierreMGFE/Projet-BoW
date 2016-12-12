@@ -1,0 +1,5510 @@
+Public Disclosure Authorized
+
+Document o f
+The World Bank
+
+FOR OFFICIAL USE ONLY
+
+Public Disclosure Authorized
+
+Report No. 34463-LB
+
+INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT
+
+COUNTRY ASSISTANCE STRATEGY
+FOR
+
+Public Disclosure Authorized
+
+Public Disclosure Authorized
+
+THE REPUBLIC OF LEBANON
+
+November 22,2005
+
+Lebanon Country Management Unit
+Middle East and North Africa Region
+
+This document has a restricted distribution and may be used by recipients only in the
+performance o f their official duties. Its contents may not otherwise b e disclosed
+without W o r l d Bank authorization.
+
+The Date of the Last Country Assistance Strategy was December 4,1997
+CURRENCY AND EQUIVALENTS
+
+Currency Unit = Lebanese Pounds (LL)
+1 US$= 1,5075 LL (November 2005)
+FISCAL YEAR
+January 1 - December 3 1
+ABBREVIATIONS AND ACRONYMS
+
+EIB
+ENP
+
+Analytical and Advisory Activities
+Abu Dhabi Fund for Development
+Agence Franqaise de Developpement
+[French DevelopmentAgency]
+Arab Fund for Economic and Social Development
+Banque du Liban
+[Central Bank of Lebanon]
+Banque Libanaise pour l e Commerce
+[Lebanese Commercial Bank]
+Country Assistance Strategy
+Council for Development arid Reconstruction
+Country Economic Memorandum
+Country Financial Accountability Assessment
+Consumer Price Index
+Country Portfolio Performance Review
+Consultant and Research Institute
+European Commission
+Economic and Social Council
+Electricite du Liban
+[Lebanon Electric]
+European Investment Bank
+European NeighborhoodPolicy
+
+ESCWA
+ESW
+EU
+FA0
+FDI
+FY
+GDP
+IBRD
+ICT
+IDAL
+IDB
+IDF
+IFC
+ILO
+IMF
+IoF
+
+Economic and Social Commission for Western Asia
+Economic Sector Work
+European Union
+Food and Agriculture Organization
+Foreign Direct Investment
+Fiscal Year
+Gross Domestic Product
+International Bank for Reconstruction and Development
+Information and CommunicationTechnology
+Investment Development Authority o f Lebanon
+Islamic Development Bank
+Institutional Development Fund
+International Finance Corporation
+International Labour Organization
+International Monetary Fund
+Institute o f Finance
+
+AAA
+ADFD
+AFD
+AFESD
+BDL
+BLC
+CAS
+CDR
+CEM
+CFAA
+CPI
+CPPR
+CRI
+EC
+ECOSOC
+EdL
+
+MDG
+MEA
+
+Japan Bank for InternationalCooperation
+Kuwait Fund for Arab Economic Development
+Kreditanstalt fur Wiederaufbau
+[German Development Credit Agency]
+Millennium Development Goals
+Middle East Airlines
+
+MENA
+
+Middle East and North Africa
+
+METAC
+MIGA
+MOET
+MOF
+NDGI
+NGOs
+NSSF
+OECD
+OED
+OFID
+
+Middle East Technical Assistance Center
+Multilateral Investment Guarantee Agency
+Ministry of Economy and Trade
+Ministry of Finance
+National Deposit Guarantee Institution
+Non Governmental Organizations
+National Social Security Fund
+Organization for Economic Cooperation and Development
+Operations and Evaluations Department
+OPIC Fund for International Development
+
+OMSAR
+PEPMENA
+PIP
+PPP
+QPPR
+ROSC
+SFD
+SMEs
+SOEs
+UNDP
+UNESCO
+UNFPA
+UNICEF
+USAID
+UTDP
+WBG
+WBI
+WHO
+
+Office o f the Minister of State for Administrative Reform
+Private Enterprise Partnership for the Middle East and
+North Africa
+Portfolio Improvement Plan
+Public-Private Partnership
+Quarterly Portfolio Performance Review
+Report on the Observance of Standards and Codes
+Saudi Fund for Development
+Small and Medium Enterprises
+State Owned Enterprises
+United Nations Development Programme
+United Nations Educational, Scientific and Cultural Org.
+United Nations Population Fund
+United Nations Children’s Fund
+United States Agency for International Development
+Urban Transport Development Project
+World Bank Group
+World Bank Institute
+World Health Organization
+
+JBIC
+KFAED
+KFW
+
+MANAGERS AND STAFF RESPONSIBLE FOR THIS CAS
+
+Vice President: Christiaan Poortman
+Country Director: Joseph Saba
+Task Team Leader: Omar Razzaz
+
+ACKNOWLEDGMENTS
+
+Several Bank staff members contributed to the writing o f this report: Chadi B o u Habib
+(Economist); Sebastien Dessus (Senior Country Economist); Hadia Karam (Operations Officer);
+Omar Razzaz (Country Manager); and Haneen Sayed (Lead Operations Officer). M o n a Ziade
+(Communication Officer) organized the consultations with civil society and Mouna Couzi (Senior
+Program Assistant) edited the report and provided diligent support and quality assurance throughout
+the process. The report was prepared under the guidance o f Joseph Saba (Country Director). The
+report underwent two Regional Operations Committee reviews in January and November 2005. The
+team i s gratefbl for the comments and suggestions received from many colleagues during the C A S
+process, a l l o f which helped to improve the report.
+Substantial inputs were received from both the International Finance Corporation (IFC) and
+the Multilateral Investment Guarantee Agency (MIGA). IFC staff w h o contributed inputs included
+Julia Brickell (Country Officer) and Torek Farhadi (Strategy Officer). MIGA staff who contributed
+inputs included Alwaleed Fareed Alatabani (Senior Risk Management Officer) and K e i t h Martin
+(Senior Marketing Specialist).
+Various Government officials, advisors, elected officials, academics and researchers, private
+sector representatives and representatives o f the international community provided guidance to the
+report, a l l o f whom should be warmly thanked.
+This report i s dedicated to the memory o f the late Minister Basil Fuleihan, w h o conducted
+most o f the C A S discussions between the Government and the Bank.
+
+TABLE OF CONTENTS
+
+EXECUTIVE SUMMARY
+
+i
+
+I.
+
+COUNTRY CONTEXT
+
+1
+
+A.
+B.
+C.
+D.
+E.
+
+The Civil War Legacy
+Macro-Economic and Structural Issues
+Poverty, Human Development, and the Millennium Development Goals
+Natural Resources and the Environment
+Governance
+
+1
+1
+5
+7
+8
+
+11.
+
+COUNTRY DEVELOPMENT PROGRAM AND OUTLOOK
+
+10
+
+A.
+B.
+
+Country Development Program
+Economic Outlook
+
+10
+11
+
+111. LESSONS LEARNED FROM THE PREVIOUS CAS AND LOOKING FORWARD
+A.
+B.
+C.
+D.
+
+CAS Lessons
+Portfolio Issues
+Preparing the New CAS
+Development Partners
+
+13
+
+13
+14
+16
+16
+
+IV. PROPOSED BANK COUNTRY ASSISTANCE STRATEGY
+
+17
+
+A.
+B.
+C.
+D.
+E.
+
+The CAS Pillars
+Building Partnerships for Local and Regional Capacity Enhancement
+Lending Scenarios and Triggers
+IFC, MIGA, and WBI Programs
+Monitoring and Evaluation o f Results
+
+17
+22
+23
+26
+28
+
+V.
+
+CREDITWORTHINESS AND R I S K S
+
+29
+
+A.
+
+Creditworthinessand Risks
+
+29
+
+BOXES
+Box 1 Lebanon’s Debt
+Box 2 The Private Sector in Lebanon
+Box 3 Budgetary Processes Continue to be Opaque
+
+2
+3
+9
+
+FIGURES
+Figure 1. Annual Cost of Environmental Degradation by Environmental Category
+
+7
+
+TABLES
+Table 1.
+Table 2.
+Table 3.
+Table 4.
+
+Actual Economic Developments and 1997 CAS Base Case Projections
+Base Case Scenario Projections: Selected Macro-Economic Indicators
+Indicative Lending Assistance Program
+CAS Consultations Timeline
+
+1
+12
+25
+45
+
+CAS ANNEXES
+Annex I. Framework for a Results-Based Country Program
+Annex 11. Activities o f Development Partners (Ongoing/Planned)
+Annex 111. CAS Consultations
+
+31
+35
+41
+
+CAS TABLES
+Annex A 2 - Lebanon at a Glance
+Annex B 2 - Selected Indicators o f Bank Portfolio Performance and Management
+Annex B 3 - Bank Group Program Summary (IBRD, IFC, MIGA)
+Annex B 4 - Summary o f Non-Lending Services
+Annex B5 - Social Indicators
+Annex B 6 - K e y Economic Indicators and Selected Indicators Table
+Annex B 7 - Key Exposure Indicators
+Annex B 8 - Statement o f IFC’s Held and Disbursed Portfolio
+Annex B 8 - Operations Portfolio (IBRD/IDA/Grants)
+
+MAP IBRD 33433
+
+46
+48
+49
+51
+52
+53
+58
+59
+60
+
+EXECUTIVE SUMMARY
+
+i.
+The tragic assassination of Prime Minister Hariri (February 2005) was a watershed event
+for Lebanon. The assassination climaxed thirty years o f c i v i l strife, war, attempts at state building,
+and physical reconstruction in a heavily contested political environment. Throughout this period, the
+resilience and resourcefulness o f the Lebanese people, and the willingness o f investors to return has
+been impressive - due largely to the country’s talented and entrepreneurial workforce, a favorable
+geographical position, and a modem financial sector able to attract large foreign investment.
+But the challenges going forward are formidable. Public mismanagement has resulted in a
+ii.
+huge accumulated public debt, slow economic growth, weak public institutions, and delayed structural
+reforms.
+Today, Lebanon faces: (i)severe macro-economic imbalances, with debt to GDP
+approaching 17 1 percent; (ii)limited employment-generating growth, resulting in higher levels o f
+poverty and emigration; and (iii) deficient public infrastructure and services (power,
+telecommunications, water, wastewater), which reduce the country’s competitiveness and degrade its
+environment and natural resources.
+
+iii.
+
+The root of Lebanon’s pressing challenges lies in its governance. While it has been very
+effective in maintaining peace and stability (no small accomplishment after 15 years o f war),
+Lebanon’s governance structure has proved unable to promote economic and social development in a
+sustainable manner. Overlapping powers and responsibilities, clientelism, and limited accountability
+and transparency have often resulted in policy paralysis, weak institutional structures in both the
+public and private sectors, and perceptions o f high levels o f corruption. In the absence o f c i v i l service
+reform, administrative reform, and the revamping o f control agencies, fiscal, structural and sector
+reforms are at risk o f being unsustainable.
+iv.
+Looking forward, Lebanon faces stark choices: it could “muddle through” in a crisis
+management mode, losing further ground and facing a possible severe economic crisis; or
+alternatively, it could develop and implement a transition plan for credible public institutions and
+sustainable growth. Putting Lebanon back o n a sustainable path to growth and stability would
+require a broad-based national dialogue involving a l l branches o f the Government and society in
+working towards a socialleconomic recovery plan. Such a plan would need to be perceived as both
+credible and fair, addressing the short-term transition to macro-economic stability, as w e l l as laying
+the foundations for longer-term employment generation and growth. The transition period would
+include: tightening fiscal policy in a socially equitable manner; reforming/privatizing State Owned
+Enterprises (SOEs) and utilities in a transparent and productive way; reducing the stock o f debt in a
+concerted effort w i t h local and international creditors; restoring the minimum acceptable levels o f
+good governance in a few critical public institutions; and mitigating the poverty effects o f the
+transition. But, it w o u l d also include a longer-term strategy for reforming public institutions and
+processes to enable the public sector, in partnership with the private sector and c i v i l society, to effect
+quality human capital development, well-managed natural resources, and an investment climate
+conducive to investment, growth, and employment generation.
+V.
+This is a tall order and a challenging agenda. But there is clear evidence of broad-based
+appreciation oJ and commitment to, such an agenda from the polity at large and the Government.
+The World Bank and other international donors and agencies stand ready to help. Indeed, reforms
+are already under way in many areas. The Government sees its task as laying the foundations for
+much o f this work in preparation for rapid implementation over the next few years. The W o r l d Bank,
+in partnership w i t h other donors and development agencies, stands ready to provide assistance in a
+number o f the above aseas over the next four years o f this Country Assistance Strategy (CAS 20062009). The CAS focuses o n three pillars: (i)governance for economic management and growth
+support; (ii)
+the development o f human capital and the mitigation o f the poverty effects o f transition;
+
+and (iii)
+resource and environmental management. To this end, a robust assistance program o f
+analytical and policy advice, institution building, and finance for investment would be deployed. For
+investments, up to US700 m i l l i o n in IBRD lending would be made available over the C A S period,
+should Lebanon make an effort to significantly reduce the debt burden, carry out structural reforms,
+enhance the safety net and poverty mitigation program, and improve portfolio performance. I F C and
+MIGA would focus o n a number o f investment climate, privatization, political risk coverage, and
+investment promotion activities.
+vi,
+The international response has been strong. Recognizing the need for external assistance, a
+concerted international effort has taken place to mobilize assistance for Lebanon if it makes a credible
+commitment to reform and takes concrete actions to implement a program for recovery and growth.
+A Donors’ Conference to assist Lebanon i s anticipated during the First Quarter o f 2006.
+
+vii.
+This results-oriented CAS provides a framework for such assistance, including the ways
+and means for setting priorities, and assessing and monitoring progress in a rapidly shifting policy
+environment. While the pillars are not anticipated to change, the results framework will need to be
+updated by the mid-term C A S review, in light o f the detailed Government reform program currently
+under preparation.
+
+...
+viii.
+
+Thefollowing issues are suggested for Board discussion:
+
+I s the composition o f the program and the balance between lending, analytical work, and
+institution building adequate?
+
+A r e the levels o f assistance and the proposed triggers in line with Lebanon’s development
+challenges and current policies?
+
+11
+
+I.COUNTRY C O N T E X T
+
+A.
+
+The Civil War Legacy
+
+1.
+Lebanon’s devastating 15-year Civil War (1975-1990) resulted in massive economic,
+social, and political destruction. Because o f Lebanon’s C i v i l War, most o f the country’s
+infrastructure was destroyed or severely damaged, a quarter o f the population was displaced, one in
+five Lebanese citizens - mostly professionals and skilled workers - left the country, and public
+institutions were severely weakened. Today, 15 years after the end o f the C i v i l War, Lebanon i s in
+the difficult position o f having not completed the post-war reconstruction process, from both physical
+and institutional perspectives. Lebanon i s facing severe short-term macro-economic difficulties and
+long-term poverty and environmental challenges. Lebanon’s current level o f per capita income i s still
+one-third below the level o f 1975.
+2.
+Initially, Lebanon made a strong recovery, restoring basic services and rehabilitating
+basic infrastructure while maintaining economic stability. By 1997, per capita real incomes had
+nearly doubled from their end-war levels, many o f the country’s social indicators had returned to prewar levels, and much o f Lebanon’s infrastructure had been rebuilt, and public services restored.
+
+However, this period of initial recovery came at a cost. Public debt had rapidly
+3.
+accumulated to unsustainable levels, and the country experienced a slowdown o f economic growth,
+the continued weakening o f public institutions, and limited progress in structural reforms. The
+unsettled regional situation, often intractable differences in national politics and external
+interferences, added to Lebanon’s difficulties.
+B.
+
+Macro-Economic and Structural Issues
+
+4.
+By 1997, the Lebanese public had become aware of large macro-economic imbalances.
+The high public and external deficits o f the initial post-war years, while not unusual during
+
+reconstruction, were becoming unsustainable, and the newly prepared Country Assistance Strategy
+(CAS) at that time (December 1997) stressed the necessity for a sharp fiscal adjustment. If the
+accumulation o f the public debt was not contained, the base case stability and growth scenario
+developed in the C A S (Table 1) would be threatened.
+
+Table 1. Actual Economic Developments and 1997 CAS Base Case Projections, 1998-2005
+
+Real GDP Growth (%)
+CPI Inflation (%)
+Gross Debt Over GDP (%)
+Fiscal Balance Over GDP (YO)a/
+Primary Fiscal Balance Over GDP (YO)a/
+Net Debt Over Revenue (YO)
+Primary Fiscal Balanceover Revenue (%)
+Gross Foreign Reserves (USS billion)
+Net Foreign Reserves (US$ billion)
+Banks’ Deposits Dollarization Rate (%)
+
+1997
+15.6
+2.7
+8.2
+97.8
+-24.6
+-10.1
+587
+-51.0
+5.9
+3.1
+63.9
+
+1998
+16.9
+2.7
+0.3
+109.2
+-15.2
+-2.1
+576
+-1.5
+6.4
+3.0
+65.5
+
+1999
+17.0
+-0.8
+0.3
+131.4
+-15.6
+-1.5
+600
+1.5
+7.6
+4.8
+61.6
+
+Current Account Balance (% o f GDP)
+1997 CAS Base Case Pro.iections
+Real GDP Growth (%)
+CPI Inflation (%)
+Gross Debt Over GDP (%)
+Fiscal Balance over GDP (%)
+
+-30.8
+1997
+4.0
+8.5
+89.0
+-18.8
+
+-23.6
+1998
+5.0
+8.0
+93.0
+-14.7
+
+-19.5
+1999
+6.0
+7.0
+94.0
+-11.8
+
+Actual Figures
+Gross Domestic Product (US$ billion)
+
+2000
+16.7
+0.9
+-0.3
+149.9
+-24.6
+-7.9
+738
+-35.2
+5.7
+2.5
+66.9
+-18.2
+2000
+6.5
+6.0
+94.0
+-10.1
+
+Source: World Bank Staff Calculations based on MOF, MOET, C R I and BDL.
+
+* Projections as o f September 2005.
+
+ai includes foreign-financed capital expenditures.
+
+1
+
+2001
+17.1
+4.4
+-2.4
+165.7
+-18.6
+-1.8
+877
+1.7
+4.4
+-0.8
+72.5
+-19.9
+
+2002
+18.5
+2.6
+4.5
+170.0
+-15.4
+1.2
+761
+5.4
+5.1
+-0.2
+69.3
+-17.9
+
+2003
+20.0
+4.9
+4.3
+167.0
+-13.7
+2.5
+711
+14.1
+10.2
+3.2
+66.1
+-20.9
+2001-2005
+7.3
+5.0
+75.0
+-4.8
+
+2004
+21.9
+6.3
+4.8
+163.9
+-9.9
+2.3
+661
+13.3
+9.5
+0.1
+70.0
+
+2005”
+22.3
+1.o
+1.4
+171.4
+-10.5
+1.1
+730
+8.0
+9.9
+-0.8
+72.0
+
+-18.9
+
+-20.2
+
+5.
+Efforts made by the Authorities since 1997 were notable but were insufficient to stabilize
+the debt. These efforts included deep tax reforms and debt restructuring, which significantly
+
+improved tax collection and lowered the debt service. Between December 1997 and December 2004,
+however, the gross public debt rose dramatically - from US15.4 billion (98 percent o f GDP) to
+US$35.8 billion (164 percent o f GDP), and was projected to approach US$38 billion (171 percent of
+GDP) by end-2005. Although the primary deficit dropped significantly during this period - to
+eventually turn (from 2002) into a surplus, the debt dynamics i s still considered highly unsustainable
+in the face o f current GDP growth rates and interest rates (see B o x 1).
+
+Box 1. Lebanon’s Debt
+
+B y end-2005, Lebanon’s public debt will approach US$38 billion, or approximately 171 percent o f GDP, the
+highest ratio in the world. In 2005 the debt service will have stood at about 11-12 percent o f GDP, down from
+16-17 percent in the period 2000-2003, thanks to the major debt restructuring efforts undertaken in 2003
+following the Paris I1 Conference. The vast majority o f the debt i s held by private investors - by Lebanese
+commercial banks, in particular, which are highly exposed on the sovereign risk (more than half o f their assets
+are in public bonds or at the Central Bank). Half o f the debt i s denominated in foreign currencies, mostly in
+US. Dollars. Debt denominated in local currency has an average maturity o f 1.8 years, against 5.8 years for
+debt denominated in foreign currency. Yet maturities are not evenly distributed, with 75 percent o f the current
+debt to mature over the CAS period 2006-2009, including 50 percent over its first two years.
+Sustainability analysis suggests that the primary surplus, at less than 2 percent o f GDP in 2005, would need to
+increase rapidly to 6-7 percent to maintain the debt to GDP ratio at its current level under adverse circumstances
+(a rise in interest rates, exchange rate fluctuation, growth deceleration). In the absence o f fiscal and structural
+reform measures, World Bank projections suggest that the debt to GDP ratio would start to rise again (base
+case), placing Lebanon in a situation o f greater vulnerability with dampened growth. In contrast, measures that
+would result in a significant rise in the primary surplus, coupled with the privatization o f some public assets,
+would permit to lower the debt to GDP ratio (high case) by the end o f the CAS period.
+6.
+Growth slowed down after the initial boom o f post-war reconstruction. Estimated
+economic growth did not exceed 2-3 percent (in annual terms o n average) over the period 1997-2005
+- d o w n from 6-7 percent during the initial post-war phase o f recovery and reconstruction (19921997). Furthermore, economic growth was very volatile over this period and strongly responsive to
+external and political shocks. Lebanon can structurally benefit from massive financial transfers and
+capital inflows from abroad. However, most o f these savings are consumed or unproductively
+invested, hence preventing the extension and modernization o f supply capacities, and in turn,
+economic growth and j o b creation. Over the years, the Lebanese economy has progressively entered
+into a slow growth trap, whereas declining investment’ reflects lack o f profitable business
+opportunities and weak external competitiveness. The latter suffer from the upward pressure o n price
+levels’ exerted by transfers and capital inflows, which i s not compensated w i t h productivity gains. In
+turn, the economy has gradually abandoned important sectors o f activity to foreign competition and
+concentrated its productive resources into non-tradable activities where the demand i s moribund and
+productivity gains potentially scarcer. In the face o f high reservation wages (with high price levels),
+would-be domestic workers prefer to emigrate (skilled youths in particular) or not participate in the
+labor market (women notably). T w o percent o f the labor force i s emigrating every year, and
+Lebanon’s human capital is progressively eroding, despite massive education spending. Structural
+impediments to private investment (from costly utilities, t o a configuration o f high regulatory barriers,
+to private investment and monopolies, see B o x 2), high real interest rates, and macro-economic
+uncertainty linked to the debt overhang most likely prevented Lebanon from channeling a greater
+share o f its large financial base towards productive investments.
+
+’
+
+Investment as a percentage o f GDP decreased from for 31 percent in the period 1994-1997 to less than 21
+percent since 2001. Banks’ credits to the private sector have been saturated since 2001 (Source: MOET, ABL).
+While broadly similar in 1992, price levels in Lebanon were almost twice that o f comparator uppermiddle-income countries in 2004 (Source: W D I indicators).
+2
+
+Box 2. The Private Sector in Lebanon: Entrepreneurship
+in the Midst o f InstitutionalMalaise
+I t i s ironic that Lebanon’s entrepreneurs, who have flourished just about everywhere in the world, are struggling in
+Lebanon. Obviously, macro-economic conditions can explain much o f the weaknesses in the private sector, but numerous
+
+surveys have suggested that the problems extend well beyond the macro-economic conditions, into the very structure of
+Lebanon’s economy and governance.
+
+Lebanon has the one rare ingredient o f economic productivity that most countries in the region lack: a multi-lingual,
+talented, entrepreneurial, and relatively well-educated workforce. In general, Lebanon also has a strong banking sector and
+a strong services sector (tourism, the media, retail and wholesale trading, professional services, including education and
+health). But, Lebanon lacks some o f the common ingredients that most countries now take for granted: a reliable and
+affordable power supply; a modem Information and Communication Technology (ICT) infrastructure; efficient trade
+facilitation systems (including customs, border crossing and transport logistics); a streamlined regulatory system for
+business entry, operation and exit; modem corporate governance and capital market regulations; protection for intellectual
+property rights; and a legal framework to ensure competition in competitive markets, as well as for restricted markets
+es, public services, natural monopolies).
+Empirical studies b y the World Bank Group and others have shed light on the above constraints in Lebanon:
+State Owned Enterprises and the Role of the Private Sector: The Bank has long maintained that privatization i s not an
+end in itself, but a means to achieving an end. In Lebanon, the end should not be seen solely in terms o f getting the highest
+return from privatization to reduce the public debt. Indeed, the total valuation o f enterprises with the potential for
+privatization i s quite small in relation to the total debt (around 10-15 percent). Rather, the end should be to reduce the cost
+and enhance the quality o f service in key industries such as power and telecommunications, with the ultimate aim o f
+spurring economic growth. A Public-Private Partnership Strategy needs to be developed which conceives o f the full scope
+o f private participation options, from service contracts all the way to full privatization, and i s applied differently to SOEs
+that are very different in nature (water, electricity, telecommunications, tobacco, airline, ports, casinos, etc.).
+
+Barriers to Entry and Operation: Administrative barriers were highlighted in the recent cost o f doing business survey.*
+In Lebanon, 46 days are needed to register a business, compared with the best practice o f less than 1 day. Contract
+enforcement takes 721 days, three times as long as the OECD average. Other studies have highlighted similar areas o f
+regulatory concern.
+Corporate Governance: Corporate governance is also poor, with a disclosure index significantly worse than the MENA
+average. This area requires immediate attention in terms o f developing the appropriate regulations, laws, enforcement
+systems, and professional associations. This i s particularly fundamental to Lebanon’s financial services sector aspirations,
+including the development and deepening o f capital markets.
+Monopolies and Oligopolies: About half o f all Lebanese markets in agriculture, manufacturing and services are
+considered oligopolistic or monopolistic; and one-third have a dominant firm w i t h a market share o f about 40 percent. This
+might be due partly to the small size o f the economy, but artificial barriers do exist and they reduce opportunities for
+competition.
+Expanding Economic Activities Beyond the Greater Beirut Area: As in many small countries, Lebanon’s capital city,
+Beirut, captures the bulk o f economic productivity. This i s natural in many sectors which require agglomeration
+economies, access to universities, and a high quality o f life. But, real opportunities beyond tourism exist for local economic
+development in secondary cities such as Tripoli, Sidon, Tyre, Ba’albeck, and Zahle which are not fully exploited. In these
+areas, the opportunity exists to identify industrial clusters around transshipment and trade logistics, agro-industry, and small
+manufacturing.
+Trade Facilitation: Lebanon’s traditional role as a trade link between the East and the West is being undermined b y
+substandard and outmoded infrastructure, operating systems, and regulations. Important improvements have been made to
+the airport’s infrastructure, management and customs systems, but ports, highways linking the ports to Syria (especially
+through Tripoli), border crossings, and other logistics need to be upgraded. The availability o f trade financing i s another
+area which requires further investigation.
+
+The World Bank Group i s providing assistance to reduce a number o f the above constraints, but Lebanon is still far behind
+many countries o f similar income levels. A national strategy with a timetable and clear deliverables is needed to improve
+the investment climate.
+*Doing Business 2005, The World Bank, Washington, DC.
+
+3
+
+7.
+The Lebanese macro-economic environment i s highly dependent on its financial and
+fiscal situation. W i t h domestic banking deposits exceeding 260 percent o f GDP and a full openness
+
+o f the capital account, confidence shocks can at any time entail massive capital outflows, which
+would inevitably entail a large contraction o f the demand resulting from a forced closure o f the
+current account deficit. In turn, depositors’ confidence in the financial system i s ultimately linked to
+the fiscal situation, given the very high level o f exposure o f the banking system to the sovereign, in
+foreign currency in particular. In the face o f potentially high vulnerabilities related to the public debt
+was notably evidenced in the
+overhang, Lebanon’s financial system seems particularly r e ~ i l i e n t .This
+~
+weeks following the assassination o f former Prime Minister Rafik Hariri in February 2005, during
+which financial stability was severely threatened.4 Fortunately, the financial authorities managed to
+contain capital outflows and the situation eventually rebounded. But the fiscal, economic, and
+financial costs implied by these events are very substantial and have left the country in an even more
+precarious financial position. And while there i s a widespread sentiment in Lebanon that the financial
+system can withstand any shock after it managed to avoid a full-blown confidence crisis in early 2005,
+past experience around the world systematically demonstrates that private markets cannot indefinitely
+accommodate rising public debt ratios. Even the most faithful investors can eventually lose
+confidence in the Government’s capacity to honor i t s debt, and a major crisis can then ensue, w i t h
+potentially devastating effects o n economic and social fabrics.
+
+8.
+Addressing the unsustainability o f the public debt dynamics and improving the
+investment climate are national priorities for setting the country on a higher growth path. The
+
+country has strong comparative advantages that should allow much faster longer-term real GDP
+growth, above 5 percent every year. These advantages include: strong entrepreneurial skills, high
+human capital, an open economy, a favorable geographical position, and a modem financial sector
+able to attract large foreign i n ~ e s t m e n t ,a~l l o f which w o u l d help provide Lebanon with a base for
+future growth and the development o f a modern, competitive, and outward-oriented economy.
+However, this potential cannot be realized unless: (i)
+the underlying macro imbalances are rapidly
+addressed, through a significant drop in the debt stock and fiscal deficits; and (ii)the investment
+climate i s improved so that the private sector can absorb a greater share o f savings currently invested
+in public debt.
+
+9.
+Lessons from the failure to implement the Paris I1 reform plan should guide the design
+of a new social and economic reform plan. In November 2002, the Government convened a
+donors’ meeting - Paris 11, during w h i c h i t presented a program o f fiscal and structural policies
+
+intended to reduce fiscal imbalances, maintain financial stability, and restore growth. The program
+consisted o f three pillars. The first pillar was fiscal and reflected a major effort to bring the primary
+surplus to 8-9 percent o f GDP by 2007, through a combination o f tax increases and expenditure
+containment. The second pillar was financial and constituted restructuring the public debt towards
+longer maturities and lower interest rates. The third pillar considered the privatization o f major State
+Owned Enterprises whose proceeds would be used entirely to reduce the stock o f the debt. These
+
+Lebanon probably benefits from the fact that most o f its public debt i s intermediated by domestic banks, which
+have large access to foreign savings (commercial banks’ deposits represented 261 percent o f GDP by end-2004;
+and current account deficits have been well above 20 percent o f GDP on average since 1992) from the Lebanese
+Diaspora and Gulf countries. Over the years, the banking sector has progressively become locked into financing
+the growing public sector financing needs, and has found itself trapped in a situation in which it becomes critical
+for its own viability to maintain the solvency o f its most important client, the Government. This country-specific
+characteristic could explain to some extent the greater resilience o f the Lebanese financial system to what i s
+perceived to be an unsustainable debt dynamics.
+In the month following Prime Minister Hariri’s assassination, US$5.2 billion (23 percent o f GDP) worth o f
+Lebanese Pound-denominated deposits were converted into foreign currency, out o f which US$2 billion
+(9 percent o f GDP) left the country. The Central Bank’s net reserves dropped and became strongly negative.
+A l l these characteristics are considered, in the long-run, growth empirical literature as being fundamentally
+favorable to growth (see Sachs and Warner, 1997, for instance). In contrast, the same literature underlines the
+negative impact o f high government deficits and a poor institutional framework on long-run growth.
+
+4
+
+three pillars were embodied in the Budget Law o f 2003. Yet, only the second pillar materialized with
+the assistance o f donors and Lebanese banks.
+Other components o f the Paris I1 reform package
+proved too ambitious in the face o f Lebanon’s weak institutional capacities and diffusion o f decisionmaking power. In particular, the Government’s privatization program, which was foreseen as
+strongly reducing the debt stock and fostering economic activity, did not materialize. Lack o f
+consensus on the ultimate role o f the existing public enterprises in the provision o f public goods,
+together with insufficient technical preparation, probably explained this lack o f progress. Similarly,
+Lebanon was unable to raise its primary surplus as much as i t had envisaged in the face o f the
+population’s growing opposition to further fiscal adjustment. This suggests the need for strong
+consensus-building efforts on key reforms areas, and a reinforcement o f social protection and safety
+nets to insure a fair sharing o f the adjustment burden across the various political and social groups in
+Lebanon.
+
+C.
+
+Poverty, Human Development, and the Millennium Development Goals
+
+10.
+An accurate understanding of the poverty situation in Lebanon and o f progress made
+over the past decade i s very difficult to obtain, given the weakness o f baseline information and
+the lack o f recent data on income o r expenditures. The most recent source o f statistical
+information’ on income and consumption dates back to 1997 and data at that time focused only on the
+Greater Beirut Area, excluding most o f the country and population. In addition, there i s no official
+poverty line in Lebanon. Along with a Living Conditions Survey, a new Household Budget Survey
+(nationally representative) was conducted in 2004, but expenditure data necessary for poverty
+calculation were not yet available at the time o f writing o f the CAS (November 2005).
+11.
+Regional disparities in poverty levels are believed to be significant. Recent indirect
+indicators o f poverty (based on the knowledge o f local social actors, or the consumption o f particular
+items for which data exists at a detailed geographical level) suggest large geographical disparities in
+poverty rates.’ Poverty i s concentrated in suburbs o f large urban poles, or on the contrary, in remote
+rural areas (from an accessibility perspective). Zones o f conflict during the war also still appear to
+constitute major pockets o f poverty.
+
+12.
+Unemployment i s high among youth, prompting emigration in large numbers.
+According to a Living Conditions Survey conducted in 2004, the active population stood that year at
+1.17 million (31 percent o f the estimated population, excluding Palestinian refugee camps), out o f
+which 8 percent declared themselves unemployed. Sixty-four percent o f the unemployed are aged
+between 15 and 29 years (while the same age category represents 33 percent o f the active population).
+In other words, the frequency o f unemployment among youth, at 16 percent, i s twice higher than the
+
+US$4.4 billion was pledged by the donors at the Paris I1 Conference, out of which US$3.1 billion was for debt
+restructuring, and the remainder for project finance. US$2.4 billion worth o f soft loans was eventually
+transferred for debt restructuring in 2003. Lebanese banks contributed to the debt restructuring effort through
+the acquisition of 2-year public bonds at zero percent and the write-off o f some public debt detained by the
+Central Bank. Paris I1 contributions from donors and Lebanese banks permitted to restructure part o f the debt
+profile and lessened the terms on which the Government could borrow on the domestic market. These
+contributions also encouraged private capital inflow and enabled the Central Bank to replenish its stock of
+foreign reserves. Regional developments, through greater tourism inflow, growing oil prices, and the
+repatriation of Arab funds in the region, coincidentally came to the rescue of Lebanon and eventually amplified
+the positive impact o f Paris I1 on market confidence, private capital inflow, and interest rates.
+Available informatioddata sets include: the Population and Housing Survey conducted in 1994-1996 by the
+Ministry of Social Affairs, based on a method o f unsatisfied basic needs, which does not include income or
+household expenditures; and the 1997 Central Administration of Statistics Survey on Household Income and
+Budget, which includes information on household income and budget but i s not publicly available.
+Source: “Formulation of a Strategy for Social Development in Lebanon”, Council for Development and
+Reconstruction, Beirut, February 2005.
+
+’
+
+5
+
+national average. These figures confirm those o f an earlier survey’ conducted in 2001 (although not
+strictly comparable from a statistical sense), which also estimated the unemployment rate among
+youth to be twice the national average. The 2001 survey indicated that 58 percent o f the unemployed
+youth were considering emigration as a response to their poor economic conditions, and that 1.5 to 2
+percent o f the active population had been emigrating every year between 1996 and 200 1.
+13.
+While Lebanon does spend significantly on health, education, and social welfare
+programs - about 21 percent o f GDP, excluding pensions - the outcomes are not commensurate
+with this level of spending. A unique feature i s the l o w public sector share o f this spending - only 6
+percent o f G D P (compared to the international average o f 11 percent), and much o f the public
+spending o n human development has a limited impact.” Most social sector programs, including
+health and education, are not targeted to the poor. Rather, a significant share o f public social
+spending takes the f o r m o f demand-side support (such as subsidies to c i v i l servants), instead o f
+support for a more desirable increase in the supply and quality o f public social services. Thus, instead
+o f supporting, for example, better schools or greater access to health services, a significant part o f
+public spending i s allocated, via the government payroll, to families that may not necessarily be the
+neediest.
+
+The Government has sought Bank assistance in developing a social strategy. Given the
+14.
+anticipated fiscal contractionary environment in the coming years, i t i s important that the Government
+develop a comprehensive poverty strategy that would focus o n h o w to mitigate the effects o f the
+transition o n the poor and the near poor. The first critical step towards such a comprehensive poverty
+strategy would be to develop a nationally representative poverty survey. The Government, through
+the Ministry o f Social Affairs and the Central Administration o f Statistics, and with the support o f the
+World Bank, U N D P and UNFPA, i s in the process o f implementing a multi-purpose household survey
+- the first o f i t s kind in Lebanon. The W o r l d Bank i s also providing technical assistance o n pension
+and social security reform, social public expenditure reform, and creating a safety net.
+As in the case of poverty, little accurate data exist on the status o f women in Lebanon.
+15.
+Nevertheless, various studies point to the fact that women have made significant gains over the past
+two decades in areas such as education, where the gender gap has been closed in primary and
+secondary enrollment rates (indeed, women have higher rates o f enrollment in higher education),
+although this has not necessarily translated into equal access to economic activity o r to decisionmaking at the national level. For example, only 20 percent o f the female working age population (1564 years old) are working or are seeking a j o b compared to 76 percent o f men. In 2004, the
+unemployment rate for women approached 11 percent, against 7.5 percent for men. The reasons
+behind the seemingly low levels o f participation in the labor force are not fully understood. Further
+investigation o f this issue (which should include some original data collection) i s necessary, as i s
+further investigation into other factors which are impeding further empowerment o f women in
+Lebanese society.
+
+With respect to the remainder o f the Millennium Development Goals, Lebanon i s
+16.
+considered as “probably o r potentially” meeting them by 2015, with the majority o f the goals
+classified as “probably will be met” by the UN MDG Report.” Ninety-eight percent o f children in
+Lebanon enroll in primary education, and the percentage o f students completing primary education
+has increased from 9 1 percent in 1997 to 95 percent in 2003. Mortality rates for children under age 5
+years have declined significantly in the past decade. But compared t o other middle-income countries
+Source: “L’entree des jeunes Libanais dans la vie active et l’emigration,” Saint-Joseph University, Beirut, June
+2002.
+loPer the recent World Bank’s Public Expenditure Review draft, which was delivered to the Government for
+comments and clearance.
+‘ I See Millenium Development Goals Report (MDGR) for Lebanon, by the Lebanese Government and UN
+Country Team (September 2003).
+
+6
+
+and to the level o f expenditure o n health and education, Lebanon is considered to have relatively poor
+quality health and education indicators, especially in the public sector. The Government i s keen to
+achieve the Environmental Sustainability Goal, although it faces the challenge o f the absence o f a
+national environment strategy and o f specific intervention programs that would respond to the need o f
+this sector. F o r all the MDGs, there are important regional disparities in access, quality, and
+efficiency issues.
+
+D.
+
+Natural Resources and the Environment
+
+17.
+Lebanon’s natural resources are being mined and degraded at an unsustainable rate.
+Lebanon’s water resources, its landscape, and its overall environment are among its main assets and
+are sources o f attraction to tourists and Diaspora Lebanese. The years o f war, however, followed by a
+long period w h i c h lacked a clear environmental strategy, regulations, or enforcement, have severely
+degraded these resources. In 2000, the cost o f environmental degradation in Lebanon was estimated
+at between 2.8 percent and 4.0 percent o f GDP per year.” The estimated costs o f this damage are
+broken d o w n by environmental category in Figure 1.
+
+18.
+The cost of environmental degradation measured here i s not limited to the resources
+themselves. The cost spills into areas o f public health, household budgets, the competitiveness o f the
+economy, and inter-generational equity, where the rate o f mining and degradation means that many o f
+these resources will not be available in the future.13
+0
+
+Water: Although service coverage i s
+high, w i t h 90 percent o f municipal
+households connected to the public
+
+Figure 1. Annual Cost o f Environmental Degradation
+by Environmental Category (mean estimate as a
+percentage o f GDP).
+
+,
+
+water
+system,
+the
+country’s
+1.20%
+infrastructure i s generally o l d and
+deteriorated,
+and
+leaving
+or
+100%
+overflowing wastewater results in
+0 80%
+severe
+sanitary
+conditions
+and
+0 60%
+contaminates surface and ground
+0 40%
+water resources.
+Operations and
+management and billing deficiencies
+0 20%
+are equally weak, which l i m i t the
+0 00%
+ability to recover operating costs, let
+Water
+Air
+Coastal
+Land
+Waste
+alone any maintenance or capital
+investment costs. Still, the private
+cost o f water i s extremely high:
+Lebanon’s population consumes a large quantity o f bottled water, due mostly to the
+perception that the municipal water supply i s o f l o w quality. The cost associated w i t h this
+perception i s estimated at around US$90 m i l l i o n per year. This high consumption also
+contributes to increased plastic and glass bottle waste. F r o m a health perspective, it i s
+estimated that about 260 children die every year (10 percent o f a l l child deaths) from
+diarrhea-related diseases associated w i t h inadequate potable water, sanitation, and hygiene.
+
+[
+
+0
+
+Air Quality: Despite significant improvements in overall air quality levels due to the recent
+banning o f light diesel vehicles, the impact o f air pollution o n human health i s still
+
+significant, w i t h an estimate o f about 350 premature deaths each year that are due to urban
+
+Sarraf e t al., 2004, “Cost o f Environmental Degradation - The Case o f Lebanon and Tunisia,”
+Environmental Economics Series, Paper No. 97, World Bank Environmental Department.
+l3Cost measures include: (i)
+loss o f a healthy life and the well-being o f the population; (ii)
+economic losses
+loss o f environmental opportunities
+(reduced soil productivity, value o f lost resources, loss in tourism); and (iii)
+(reduced recreational value for beaches, forests, etc.).
+7
+
+air pollution. Additional cases o f chronic bronchitis and other forms o f respiratory illnesses
+are counted by the thousands. About 80 percent o f air pollution i s generated by vehicles,
+while the rest can be attributed mostly to power generating plants.
+0
+
+E.
+
+Coastal and L a n d Degradation: B o t h types o f degradation are the result o f untreated and
+often illegally dumped municipal solid waste and wastewater, as well as uncontrolled
+development o n shorelines and fragile landscapes (including quarries, deforestation, and
+industrial development in watershed areas). Combined, their cost exceeds 1 percent o f GDP.
+Governance
+
+T h e root o f Lebanon’s problems lies in its governance structure. Some aspects of
+19.
+governance in Lebanon are unique to the country and reflect i t s confessional mosaic. But this
+should not justify a lack o f transparency o f public processes o r accountability o f public officials.
+Lebanon’s governance structure reflects its confessional mosaic o f 17 different sects: the seats in the
+National Assembly are shared equally between Christians and Muslims; the President must be a
+Maronite Christian; the Prime Minister must be a Sunni Muslim; and the Speaker o f the Assembly
+must be a Shia Muslim. This formula ensures that no single leader can dominate national decision
+making and that most public affairs issues are subject to consensus among the major groups o f the
+Government. This is, perhaps, an aspect o f governance deeply embedded in the Constitution and the
+T a i f Accord, and has many virtues in the Lebanese context. The downside o f this arrangement, as has
+been made clear in the past few years, i s that it can potentially paralyze structural reforms in the
+absence o f full consensus and render it difficult to hold Government officials accountable for ultimate
+executive responsibility.
+20.
+On the positive side, Lebanon has many o f the constitutional institutions which have a
+positive influence on g ~ v e r n a n c e . ‘ ~Indeed, Lebanon ranks among the highest o f countries in the
+region in terms o f political participation, c i v i l liberties, and a free press. A m o n g the most important
+features o f such accountability are the following: (i)
+Lebanon holds regular parliamentary and local
+supervision by the media and c i v i l society i s fairly strong, and unfettered public debates
+elections; (ii)
+o n governance are a regular feature o f public life; and (iii)
+the Lebanese L a w o f Associations i s one o f
+the most liberal and one o f the oldest in the region, reflecting the large number o f NGOs active in all
+parts o f the country. This i s an important and unique asset for Lebanon in the region, and the country
+can build o n this asset by enhancing public awareness o f national challenges so that “participation”
+becomes a more meaningful exercise by informed citizens.
+21.
+On the negative side, Lebanon ranks low in terms o f the quality o f i t s bureaucracy, the
+independence o f civil service from political pressure, corruption, and tax evasion.” The country
+lacks the modern, flexible, and business-friendly regulatory framework and apparatus needed for the
+sustainable development o f the private sector. Civil service reform i s o n hold, which leaves the c i v i l
+service staffed with people who have little training and are unprepared to tackle the modern demands
+o f public administration. Budgeting and capital expenditure procedures need to be revamped.
+Lebanon’s legal framework also needs modernization, especially in the area o f commercial l a w and
+courts. At the local level, elections and participation are guaranteed, but without the corresponding
+decentralization of, or financial autonomy for, the local councils. Addressing all o f these issues i s
+complicated by the governance structure itself, which, by design, diffbses political authority among
+various sects and branches o f the Government. These governance issues are reflected in most sectors
+and in the Bank’s o w n portfolio, in which physical components have tended to move (albeit slowly)
+
+l 4 “Better Governance for Development in the Middle East and North Africa: Enhancing Inclusiveness and
+Accountability”, The World Bank (2003).
+15
+Indeed, in terms o f the perception of corruption, Lebanon has slid in ranking from 78 in 2003 to 97 in 2004
+according to the Transparency International Corruption Perceptions Index.
+
+8
+
+while reforms, especially those requiring coordinated actions beyond a particular ministry,I6 have
+stagnated.
+
+Box 3. Budgetary Processes Continue to be Opaque
+
+While the Government has made progress in reporting the budgetary position on a regular basis, many
+activities are conducted in an opaque manner. These activities include: (i) transactions o f extra-budgetary
+funds and entities; (ii)
+loans to selected public autonomous agencies that are converted to expenditure at
+the end o f the financial year; (iii) unutilized investment authority that i s carried forward without
+additional parliamentary disclosure; (iv) major funds for health, social services, and municipal financing
+that are not disclosed to parliamentary budget scrutiny or for review o f actual performance against the
+budget plans; and (v) the absence o f a formal audit opinion by the Court o f Accounts on the fairness o f
+the Government’s annual financial report.
+The CFAA which was delivered to the Government for comments and clearance has proposed a number
+o f key refoms that, if implemented, would have direct impact on reforming the public financial
+management system o f the Government. The priorities for the next 2-3 years, as proposed by the CFAA,
+should be focused on: (i)establishing a unified budget framework that accounts for the financial
+activities o f the public sector and presents it in a consolidated, audited set o f financial statements for the
+public sector; (ii) strengthening internal controls by making the amendments to the Law on Accounting
+through the introduction o f an internal audit function; (iii)
+reforming the Court o f Accounts to make i t
+independent o f the Government, remove i t from the Government’s internal financial control processes,
+and focus its work on expressing an opinion on the fairness o f the Government’s annual financial
+statements and on performance audits o f Government entities.
+
+22.
+
+The challenges going forward will be to build a national consensus needed around a
+governance reform agenda and the commitment to implement it; and to insure that national
+reforms are “unstuck” by streamlining the reform process itself. Areas o f actions include: (i)
+budget consolidation and expenditure tracking; (ii)c i v i l service reform, including transparent
+enhanced judicial capacity and independence; (iv)
+processes for hiring based o n meritocracy; (iii)
+revamping and empowering the control agencies responsible for ensuring public accountability and
+transparency (Civil Service Board, Court o f Accounts, Central Inspection); and (v) to build the
+capacity o f executive ministries/agencies at the middle management level and insulate them from
+frequent political interference. All these are hndamentally sovereign initiatives - that is, the political
+w i l l has to be endogenous for them to succeed. The Bank and other international organizations can
+only play a helping role in sharing international best practices, technical know-how, and capacity
+
+building.
+
+l6 Indeed, some ministries, such as the Ministry o f Finance, Ministry o f Health, and Ministry o f
+Telecommunications, and the Office o f the Minister o f State for Administrative Reform (OMSAR), have
+undertaken important internal reforms o f their structures and systems.
+
+9
+
+11. C O U N T R Y DEVELOPMENT PROGRAM AND OUTLOOK
+C o u n t r y Development Program”
+
+A.
+
+23.
+The Government o f Lebanon fully appreciates the severity o f the current economic
+situation, f r o m both a sustainable development perspective and a financial perspective, and has
+expressed its commitment to undertake deep structural reforms supported by national
+consensus. This sense o f urgency i s compounded by an awareness o f the limited and diminishing
+impact over time o f the financial package put forward at the Paris I1 Conference to contain the growth
+
+o f the public debt. The Government also acknowledges the utmost need to undertake deep structural
+reforms, and considers the development o f a national political consensus necessary to embark o n a
+program o f reforms that will profoundly reshape Lebanon’s political, economical, social, and judicial
+systems.
+
+The Government i s articulating i t s economic and social program around four main
+24.
+pillars. These are:
+0
+
+Modernizing the real economy;
+
+0
+
+Addressing Lebanon’s fiscal and debt sustainability challenges;
+
+0
+
+Improving the Government’s governance capacities and reforming the public sector; and
+
+0
+
+Improving social conditions and strengthening social safety nets.
+
+25.
+On the real economy front, the Government foresees privatization, trade liberalization,
+the improvement o f the investment climate, and the development o f capital markets as major
+elements o f i t s strategy. The Government would seek greater private participation in public utilities
+(telecommunications, electricity, water), with private involvement ranging f r o m contract management
+to full transfer o f public assets to the private sector, depending o n the situation o f various public
+entities. Privatization w o u l d be accompanied by the establishment o f independent regulatory
+authorities, with the objective to increase competition in these sectors. The Government w o u l d seek
+full accession to the W o r l d Trade Organization, and envisages, in this regard, enforcing the legal
+protection o f intellectual property rights. I t i s also committed to pursuing its gradual trade
+liberalization with the European U n i o n (EU) and Greater Arab Free Trade Area countries. The
+Government foresees the simplification o f the business regulatory environment (reducing entry and
+exit barriers t o private sector operations; and enhancing the effectiveness o f the judiciary system) and
+the development o f capital (debt and equity) markets as critical to the promotion o f private
+investment.
+
+26.
+On the fiscal front, the Government i s aiming f o r the rationalization o f public
+expenditures, the introduction o f a global income tax, and the r e f o r m o f the tax and debt
+management administration. The rationalization o f expenditure comprises public and private
+pension reform, power sector reform, and public expenditure management reforms. Proceeds from
+privatization would be entirely used for debt reduction.
+27.
+
+On the governance front, the Government envisages developing a comprehensive
+strategy to restructure public institutions based on a new appraisal o f the role o f the State, and
+to overhaul the civil service through a large human resource plan. The strategy would address: (i)
+public finance transparency; (ii)
+civil service reform; (iii)
+procurement reform; (iv) reducing red tape;
+and (v) improving and enforcing anti-corruption measures.
+
+” This section i s based on the presentation made by the Government o f Lebanon to donors in New York, United
+States, on September 19,2005.
+
+10
+
+28.
+On the social front, the Government foresees the necessity o f reinforcing social safety
+nets and developing targeted programs to reach poverty clusters through NGOs and
+municipalities. This includes the reform o f Social Security, the institutionalization o f current social
+fund type projects, and the rationalization o f public social expenditures, in order to achieve greater
+coverage and better targeting o f the latter.
+29.
+I n terms o f capital investment priorities, the Council for Development and
+Reconstruction’s (CDR) Three-Year Development Program emphasizes the detrimental effects o f
+limited investments o n water resources, the Lebanese coastline, and the agricultural sector.
+Regionally, it acknowledges a “glaring” level o f regional disparities and calls for bridging the gap
+towards achieving a “balanced development,” translated into full equity for basic services (potable
+water, electricity, and telephone networks), and prioritization o f other services such as sewerage and
+solid waste according to population density.
+30.
+I n light of these priorities, the Government (represented by the Prime Minister’s Office,
+the Ministry o f Finance, the Ministry o f Economy and Trade, the Central Bank, and the
+Council f o r Development and Reconstruction) has been in close coordination with the B a n k and
+other international agencies to align donor advisory services w i t h r e f o r m and investment
+priorities.
+
+B.
+
+Economic Outlook
+
+3 1.
+
+The sources o f uncertainty regarding Lebanon’s economic outlook are considerable.
+They range f r o m uncertainty about the external economic environment (oil prices, global interest
+rates, global growth) to uncertainty about regional political developments (the Arab-Israeli conflict;
+developments in Iraq, Syria, and Iran), the readiness o f donors to provide financial support, and
+Lebanese domestic developments, whether economic, financial, political, or social. This, added to the
+absence o f solid statistical information (balance o f payments, real economy indicators) renders any
+forecasting exercise difficult at best. Nevertheless, some important parameters need to be considered
+in assessing Lebanon’s possible outlook.
+32.
+On the external side, it i s unlikely that the environment w i l l continue to be as favorable
+as i t has been in recent years. Global interest rates are projected to rise over the medium term (by
+some 300 basis points over the C A S period)I8, which will exert a significant upward pressure o n the
+Government’s borrowing costs. A t the regional level, capital flows in the aftermath o f September 11,
+2001 have been significant, and may continue for the foreseeable future, depending, notably, o n the
+evolution o f o i l prices.
+33.
+On the regional side, uncertainties are likely to remain high. An Israeli-Arab peace
+settlement i s not yet in sight, nor i s a rapid stabilization o f the political situation in Iraq, w h i c h could
+open sizeable outlets to Lebanese exporters. Growing tensions between SyridIran and Western
+countries could also have some repercussions o n the domestic political scene. Donors, w h o expressed
+their intention to support the Government’s reform program, might, nevertheless, require the ex-ante
+implementation o f reform measures before substantial additional assistance (for debt restructuring
+notably) can be disbursed.
+34.
+On the domestic policy side, coherence among various branches o f t h e Government and
+broad political support w i l l be a deciding factor in Lebanon’s capacity to undertake such a
+challenging fiscal adjustment, in particular when it i s designed to r e f o r m and rationalize public
+expenditures, raise tax revenue, and transfer public assets to the private sector. At the time o f
+writing the CAS, the Government had not yet articulated in detail i t s reform plan. The adoption o f
+
+’* “MENA Economic Development and Prospects”, The World Bank, April 2005.
+11
+
+such a plan by the Cabinet, the Parliament, and more broadly by the population, has, therefore, yet to
+be seen.
+
+35.
+I n the short run, the likelihood of a market-driven financial disruption seems low, but
+the prospect o f a confidence crisis cannot be dismissed. Short-term risks are reduced by the level
+o f gross foreign currency reserves at the Central Bank, which by end-2005 should approach 40
+percent o f GDP and cover 48 percent o f the money supply in local currency. But w i t h such a high
+debt to GDP ratio, combined w i t h a pegged exchange rate and high capital mobility, Lebanon w i l l
+remain vulnerable to a confidence crisis. In light o f the aforementioned considerations, three
+scenarios could be envisaged:
+
+36.
+A first scenario would correspond to a “muddling-through’’ situation: The Government
+would continue to undertake some policy measures in the right direction, but these measures
+would be too weak and would be dependent on the political mood of the moment. Overall, the
+
+policy framework would be insufficient to stabilize the debt dynamics, which would inevitably expose
+the country to greater risks o f financial disruption and would further hamper its growth prospects.
+From a C A S perspective, this scenario would define the W o r l d Bank’s base case engagement. (Table
+2 shows base case scenario projections for selected macro-economic indicators). At the time o f
+writing the CAS, Lebanon was considered by the C A S team to be in the base case.
+
+Table 2. Base Case Scenario Projections: Selected Macro-Economic Indicators, 2005-2009
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+Real Gross Domestic Investment
+Export Volumes, GNFS
+Import Volumes, GNFS
+
+1.o
+2.7
+-5.0
+-4.0
+0.0
+
+3.0
+1.8
+2.9
+4.0
+2.6
+
+2.5
+1.7
+1.2
+4.2
+-0.7
+
+2.0
+0.9
+0.6
+4.3
+-1.5
+
+2.0
+0.9
+0.7
+4.3
+-1.6
+
+Ratios to G D P (%)
+Gross Domestic Investment
+
+20.0
+
+20.0
+
+20.0
+
+20.0
+
+20.0
+
+-0.9
+-20.9
+1.1
+-10.5
+171
+
+-0.5
+-20.5
+1.2
+- 10.4
+175
+
+0.3
+-19.7
+2.3
+-10.7
+179
+
+1.5
+-18.5
+2.9
+-11.7
+186
+
+2.7
+-17.3
+3.5
+-12.2
+193
+
+8.0
+730
+
+8.1
+716
+
+9.7
+718
+
+12.4
+742
+
+14.7
+774
+
+Growth Rates (%)
+
+Real GDP
+Real Private Consumption
+
+Gross Domestic Savings
+Resource Balance
+Fiscal Primary Balance a/
+Fiscal Balance a/
+Gross Public Debt
+Fiscal Triggers
+Fiscal Primary Surplus Over Fiscal Revenue
+
+Net Public Debt Over Fiscal Revenue
+Source: World Bank Staff Projections.
+a/ Includes foreign-financedcapital expenditures.
+
+37.
+A second scenario would see the policy framework envisaged by the new Government
+being fully implemented. This would involve bold fiscal efforts to increase the primary fiscal
+surplus; pension and civil service reform; active debt management; significant overhauling o f
+the power sector; and enhanced private sector participation in utilities. In this scenario, the fiscal
+primary surplus would reach 6-7 percent o f GDP by the end o f the C A S period, a level that would
+initially stabilize and then progressively reduce the debt to GDP ratio”. Structural reforms that would
+improve the business environment, competition, the entry and operation o f SMEs, and better service
+
+’’
+
+The magnitude o f the decline in the debt to GDP ratio would then depend to a large extent on donors and
+banks’ debt restructuring contributions. A very optimistic scenario would foresee the debt to GDP ratio going
+down to 120-130 percent by 2009; a less optimistic one to 140-150 percent.
+
+12
+
+delivery ( o f power in particular) would upgrade, to some degree, the long-term growth potential o f the
+Lebanese economy2’. However, the situation would remain fragile and would require broad public
+support. Also, social policies would be needed to bridge the gap in public services, health and
+education, and better protect the most vulnerable segments during the adjustment. This scenario i s
+ambitious if it i s judged by the track record o f several years o f policy paralysis. Nevertheless, it i s
+realizable in light o f the following: (i)the Government’s announced intentions to curb the debt
+dynamics through structural reforms while shielding the poorest f r o m negative impacts o f the
+adjustment2’; (ii)the probable large impact o f the power sector’s overhaul o n fiscal accounts,
+economic activity, and Government credibility; (iii)the likely financial support o f the donor
+community t o the implementation o f the reform program (social and economic) and debt
+restructuring; and (iv) the likely large response o f the market to the perceived ability o f the
+Government t o command a strong mandate for carrying out the adjustment program. From a C A S
+perspective, this scenario would define the W o r l d Bank’s high case engagement.
+
+38.
+A third scenario would correspond to a rapid deterioration of the financial situation
+should investors lose confidence in Lebanon’s capacity to honor its debt. A major economic
+crisis would then ensue in the face of insufficient liquidity to finance the deficit and to roll-over
+the debt stock. A negative shock, or simply the inability o f Lebanon to consolidate the fiscal
+adjustment efforts undertaken in recent years, could be at the origin o f this reversal in investors’
+perceptions. F r o m a CAS perspective, this scenario w o u l d define the W o r l d Bank’s low case
+engagement and warrant a CAS Update. The latter would re-evaluate the situation and, accordingly,
+the World Bank’s engagements w i t h a view to contain the growth in poverty, improve safety nets, and
+guarantee the delivery o f basic services.
+
+111.
+A.
+
+LESSONS LEARNED FROM THE PREVIOUS CAS AND LOOKING FORWARD
+CAS Lessons
+
+39.
+The 1997 CAS predicated Bank Group assistance upon satisfactory macro-economic
+performance (particularly in reducing the fiscal deficit) and good performance in the
+implementation of the portfolio. As the “Review o f the 1997-2000 C A S Period” indicates,
+outcomes, with respect to both o f these areas, were poor. Yet, there were important islands o f success
+and progress in policy dialogue and project performance. The experience offers the following
+important lessons for future engagement:
+0
+
+The complexity of the political environment for decision making in Lebanon should not
+be underestimated. The Bank, like other donors, has often made the erroneous assumption
+that simply because a piece o f policy reform i s in the national interest o f Lebanon it will be
+implemented. In Lebanon, the confessional system o f governance and the resulting diffusion
+
+o f political authority make such reforms subject to collective action, and such collective
+action is, for the same reasons, far f r o m guaranteed.
+0
+
+I t i s important to stay out of lending in sectors where consensus on reform has yet to be
+developed and to focus instead on non-lending analytical and advisory work until a
+credible commitment can be ascertained.
+
+*’This scenario envisages an average 5 percent nominal GDP growth (3 percent real) throughout the period, a
+
+rate broadly similar to that observed since 1997. I t i s assumed here that the negative short term impact o f fiscal
+adjustment on aggregate demand would be offset by a rapid decline in interest rates spreads and a more
+progressive improvement in the investment climate.
+In the absence o f any reliable poverty data (at the time o f writing o f the CAS), projecting poverty rates in the
+various scenarios remain highly speculative, though, i t i s likely that a fiscal adjustment strategy only aimed at
+reducing the public debt (Le., not accompanied with specific measures to protect the most vulnerable segments
+o f the population) would aggravate the poverty situation in the short run.
+
+’’
+
+13
+
+0
+
+0
+
+0
+
+0
+
+0
+
+B.
+
+The Bank’s analytical work, and i t s dissemination through dialogue w i t h the
+Government, Parliament, civil society, and the media have been as important as lending
+(if
+n o t more so) in having a positive impact on strategic public choices in Lebanon.
+I t i s important to learn to build on the country’s strengths: i t s private sector, civil
+society, and local governments. The country’s strengths l i e in: (i)
+i t s highly entrepreneurial
+private sector, which has survived, and in some sectors prospered, in spite o f the difficult
+environment; (ii)
+i t s vibrant civil society/NGO sector, which has provided many o f the social
+services and public goods traditionally provided by the Government; and (iii)its nascent
+elected local councils, which have provided local services with limited resources.
+
+I n the absence o f comprehensive civil service reform, public sector programs should a i m
+to: (i)
+help spin o f f public services that can be performed by the private sector, and (ii)
+focus policy reforms and capacity building on successful public sector “islands” critical
+to the management, monitoring, and regulation o f the economy, the social services, and
+the environment.
+Simpler projects should be designed, and adaptable instruments should be considered.
+I t i s important to keep an eye on short-term fiscal trends, but a deep understanding o f
+structural and institutional constraints to long-term development should also be
+developed.
+
+Portfolio Issues
+
+40.
+Every project in Lebanon i s b o r n w i t h two exogenous “flags,” signaling the risk
+associated with the macro-economic record and poor track record o f completed projects.22 Any
+additional “flag,” such as the “effectiveness” flag that results f r o m delayed ratification in Parliament,
+immediately brands that project as a “potential problem project” for several years, and before the
+concerned ministry or the project team has a chance to start implementing the project.
+
+4 1.
+
+Measurement issues aside, the Lebanon portfolio i s a challenging one, t o say the least. A
+confluence o f macro, governance, organizational, capacity, and implementation problems has helped
+put Lebanon’s portfolio o n the Bank’s “watch list,” w h i c h raises serious questions about the ability o f
+the Bank to make a positive contribution t o development in Lebanon through lending, and about
+Lebanon’s ability to absorb and make good use o f foreign-funded projects. In the past year, and in the
+context o f political turmoil, the portfolio deteriorated even further. There have been important
+exceptions in this portfolio picture, w i t h several projects performing very well.
+
+42.
+The Lebanese authorities have historically argued that W o r l d B a n k conditions and
+procedures have been much more onerous than those o f other donors, and have thus
+contributed to complications and delays. The Bank has accepted the responsibility for its o w n part,
+
+and has worked to design simpler projects and, as part o f its overall internal streamlining effort,
+continues to work o n simplifying procedures. However, the performance o f the Lebanese portfolio
+remains weak vis-&vis the Bank’s overall regional and global portfolios and the portfolios o f other
+major donors, which suggests a need to address systemic problems in the Lebanese portfolio.
+
+The two flags are Country Environment and Country Record. The first i s based on a composite indicator o f a
+country’s weak macro management. The second i s based on an independent evaluation o f samples o f completed
+projects (selected by the Operations and Evaluations Department), where net commitments associated with
+unsatisfactory projects represent more than 40 percent o f commitments for completed projects over the previous
+five years.
+22
+
+14
+
+43.
+Joint efforts to diagnose and address portfolio problems have resulted in a two-pronged
+approach to improving the portfolio: (i)
+a short-term approach to adapt the portfolio to current
+macro and implementation conditions; and (ii)
+a medium-term CAS-driven approach, to launch
+the type o f incentives, policies, procedural reforms and capacity building needed to realize the
+development objectives o f the country.
+
+44.
+
+To address the short-term portfolio management issues, the Bank and the Government
+have made concerted efforts to proactively address project issues, as well as restructure or
+cancel projects when ne~essary.’~In 2004, the Bank rolled out the “Client Connection” to provide
+the Government w i t h full access to project information, and in partnership with the Government
+(Prime Minister’s Office, Ministry o f Finance, and CDR), started a Quarterly Portfolio Performance
+Review (QPPR) to ensure a proactive monitoring/problem solving approach to the portfolio. An
+intensive procurement training program i s also under way.
+
+45.
+However, these measures by themselves are not sustainable in the absence of systemic
+improvements in a number of areas o f public management/policy making. These areas are
+discussed in the following six paragraphs.
+
+46.
+Agreement on sector strategy up front: Going forward, all proposed investment lending
+operations need to be strongly justified within a broad sectoral approach, agreed upon ex ante
+with the various branches o f Government. Such a dialogue o n reform has already begun in the
+areas o f debt and fiscal management, health, pensions, safety nets, water, and power with significant
+
+potential o n the upside in terms o f rationalizing fiscal policy and reducing poverty. Other potential
+sectors for future agreement include the reform o f oversight and control agencies, education,
+municipal finance, procurement, and solid waste management.
+
+Parliamentary ratification procedures: Effectiveness delays in Lebanon are highest in
+47.
+the MENA region, and have considerable implications for the cost of projects and the
+realization o f their development objectives. While the Parliament has a constitutional responsibility
+to ratify all foreign loans, there i s considerable room for streamlining the procedures. Such a
+discussion has already begun with members o f Parliament and should result in concrete steps to
+
+reduce the ratification time.
+
+Counterpart funds and land expropriation: In an attempt to contain and manage the
+48.
+budget deficit from year to year, the slow release of project counterpart funds and the absence
+of budget appropriations for land expropriation have resulted in considerable delays in project
+implementation. A move, currently under way, to accrual-based accounting and medium-term
+budgeting w i l l reduce any incentives to delay payments by fully budgeting and accounting for project
+costs up front.
+
+49.
+The attracting and retaining of quality civil servantskonsultants in t h e public sector to
+ensure the sustainability o f improvements: A Government freeze on all new hiring, subject to
+approval b y the Cabinet o f Ministers, has helped to put the lid on an expenditure item that had
+been growing without control. However, i t has also made i t difficult t o hire critical staff to
+
+m a n a g e h n systems aimed at modernizing the public sector, or even to retain o r replace skilled c i v i l
+servants who are going into retirement.24 This, typically, has thrown into doubt the sustainability o f
+the institutional development components o f many previous Bank projects. As the Government i s
+
+23 Under the first CPPR (June 2001), U S 7 8 million was cancelled from three problem projects, and a fourth one
+was cancelled (because o f the suspension o f an undisbursed amount o f US$16.5 million). The second CPPR
+(October 2002) focused on bringing the problem projects to a satisfactory status and preventing hrther
+deterioration o f the projects at risk. The 2003 PIP reduced unsatisfactory projects by half through the
+cancellation and restructuring o f non-performing projects.
+24 The average age o f civil servants in the public sector i s 58 years, and mandatory retirement i s 64 years o f age,
+implying a high rate o f attrition in the years to come.
+
+15
+
+contemplating broad reforms and capacity building, the issue o f hiring, compensating, or redeploying
+c i v i l servants and consultants needs to be fully addressed.
+
+50.
+Procurement reform: World Bank projects implemented by CDR have frequently faced
+procurement problems and delays. A recent diagnosis carried out by the International Training
+Center o f the ILO pointed to a number o f deficiencies including the high centralization o f decision
+making, the lack o f a “manual o f procedures,” and the need for further capacity building o f
+procurement staff o n W o r l d Bank procedures. CDR has recently moved to address these constraints
+in an attempt to quickly turn around the performance o f the portfolio. Beyond CDR, however, other
+ministries and public agencies have to abide by an antiquated Public Procurement L a w and
+procedures dating back to 1959 and 1963. A revised draft public procurement l a w was prepared with
+an IDF grant. If approved and implemented, i t would greatly enhance the efficiency and transparency
+o f public procurement procedures and would allow the Bank to rely increasingly o n national public
+procurement systems.
+51.
+Portfolio triggers: The base lending scenario envisioned in this CAS partly reflects the
+poor state of the portfolio (see Section IV, Part C.). M o v i n g to higher levels o f engagement will
+require reducing problem projects (no more than 33 percent); increasing the disbursement rate (equal
+to or above 15 percent) and ensuring more rapid ratification o f loans (9 months or less).
+
+C.
+
+Preparing the New CAS
+
+52.
+The CAS preparation process has overlapped three consecutive Governments,
+establishing a much broader consensus around its broad strategy and pillars. In anticipation o f a
+change in Government in 2004, extensive C A S consultations were carried out with a broad set o f
+stakeholders, within and outside the Government, to ensure broad endorsement o f the strategy and the
+pillars. Indeed, the pillars and broad direction identified w i t h the previous Government’s counterpart
+team (representing the Prime Minister’s Office, the Ministry o f Finance, and CDR), were validated
+and elaborated w i t h the new counterpart team. A C A S workshop held with the core counterpart team
+(the Prime Minister’s Office, the MOF, and CDR), and later with the extended Government,
+confirmed Government endorsement o f the C A S pillars and matrix.
+53.
+CAS consultations in Lebanon have been extensive. Given the substantial freedom o f the
+press in Lebanon and the considerable tolerance for public discourse, the Bank planned and
+implemented an extensive C A S consultation process w i t h Parliament, the private sector, c i v i l society,
+and the press o n the three pillars o f the CAS. A m o n g the m a i n outputs o f the consultations have been
+the following: (i)
+refinement and augmentation o f the C A S outcomes and indicators, and Bank inputs;
+(ii)
+agreement o n enhancing the relationship with Parliament through the C A S and project cycles by
+organizing regular briefings o n project preparation, implementation performance, and outcome
+evaluation; and (iii)
+j o i n t W o r l d Bank-IFC follow-up with the Chambers o f Commerce o n progress in
+removing regulatory constraints to the entry and operation o f the private sector (see Annex 111).
+
+Given the outcome orientation of the CAS, it was agreed that consultations would be on54.
+going to take stock o f the progress made towards the intermediate and CAS outcomes.
+
+D.
+
+Development Partners
+
+55.
+The Bank has been working very closely with its international and regional partners to
+forge a well thought out and coordinated strategy for Lebanon. The partners’ programs are
+described in the C A S Results Matrix (Annex I)and in Annex 11. The present section outlines the
+programs o f the m a i n partners and the j o i n t efforts and activities.
+
+16
+
+56.
+International Monetary Fund. Although the IMF does not have a formal program with
+Lebanon, i t has carried out Article 4 Consultations and capacity building o f the macro-economic,
+fiscal, and financial sector management. Field missions have coordinated very closely o n analytical
+work, and have joined forces in preparing the IMF’s Fiscal ROSC and the Bank’s Country Financial
+Accountability Assessment (CFAA). Since the recent opening o f the IMF’s M i d d l e East Technical
+Assistance Center (METAC), coordination on capacity building in several areas i s poised to grow.
+
+57.
+
+European Commission. The EC’s Lebanon National Indicative Program 2002-2004
+identifies four priorities: (i)the development o f the trade sector/implementation o f the Association
+Agreement; (ii)the integrated rural development program for alleviating poverty; (iii)support for
+environmental protection; and (iv) support for exchanges and cooperation in the education sector.
+The Bank and E C are in close coordination with the Lebanese Government o n the power, water, and
+capacity building o f C D R to ensure strategic complementarities and improved absorptive capacity o f
+donor-funded projects. Going forward, E C assistance to Lebanon would be governed by the European
+Neighborhood Policy (ENP). The ENP provides a framework for the Lebanese Government to
+develop a five-year Action Plan that would enhance economic integration and deepen political
+cooperation with the EU. The Action Plan i s s t i l l to be developed, pending the Government’s more
+precise identification o f its policy priorities. The E C has sought Bank feedback o n that front, and
+regular exchange o f information and review by the Bank o f E C programs i s envisaged.
+
+58.
+Regional and Bilateral Donors and UN Agencies. These donors and UN agencies provide
+advisory services and finding to projects aimed at supporting development efforts and social sectors,
+and improving physical infrastructure and vital services in the country. The Bank participates in
+regular donor and agency coordination meetings. These meetings provide an opportunity for
+participants to present their programs and address common issues. The m a i n activities o f each
+donor/agency are spelled out per pillar in Annex 11.
+IV. PROPOSED BANK COUNTRY ASSISTANCE STRATEGY
+
+59.
+The proposed Bank Country Assistance Strategy i s guided by the Bank’s current
+portfolio and by lessons learned from the previous CAS period. Namely, Bank resources would
+improving the performance o f the current portfolio
+be focused o n the following priority areas: (i)
+through supervision and through building implementation capacity; (ii)expanding analytical and
+advisory activities in support o f the improved economic, social, and environmental management o f
+the transition process; and (iii)
+limiting lending activities to sectors in which a credible commitment to
+reform i s established ex ante.
+
+A.
+
+The CAS Pillars
+
+60.
+The objective o f the CAS i s to help Lebanon build its public institutions to transition out
+of its current macro-economic imbalances; to address the social and environmental implications
+o f the transition in an equitable fashion; and to lay the foundations for job creation and growth.
+Bringing down the public deficit i s a necessary condition for sustained debt reduction and economic
+growth; but this requires greater fiscal tightening, w h i c h in turn i s likely to have a negative impact o n
+the most vulnerable in the society and o n growth itself in the short run. The success o f a painful
+a credible fiscal
+transition period to sustainable growth requires several ingredients simultaneously: (i)
+adjustment program to improve investors’ anticipations and lower interest rates; (ii)a better
+investment climate to enhance the growth response to the restored macro-economic conditions; and
+(iii)a more efficient social program geared towards social protection for the most vulnerable groups.
+In addition, many capital investments and maintenance operations o f a public good nature are likely to
+be postponed during the transition, and this might cause irreversible degradation to the natural
+environment. Hence, there i s a need to move strategically and selectively o n investments in these
+areas.
+
+17
+
+61.
+Three pillars are envisaged to help Lebanon in this transition and beyond: (1)
+governance, economic management, and growth support; (2) developing human capital and
+mitigating the poverty effects of transition; and (3) resource and environmental management.
+These pillars overlap very w e l l with the Government’s strategy (see Section 11. A.) that i s to be
+considered in a high case scenario, as well as with the Bank’s assessment o f what needs to be or can
+be achieved over the next four years in light o f the current macro-economic and political outlook and
+the status o f the existing portfolio. Their expected outcomes are described in the next paragraphs and
+in Annex Iin greater detail.
+
+CAS Pillar (1): Governance, Economic Management, and Growth Support
+62.
+This pillar aims to support the central objective o f the CAS, Le., t o address the underlying
+deficiencies in the governance and management o f public finance in terms o f transparency,
+accountability, information, and capacity building. Such reforms would reduce the sources o f macroeconomic imbalances and put the economy o n a path towards sustainable growth in the medium to
+long term. The challenge for the Government is to: (i)bring the country’s indebtedness to a clearly
+declining trend through governance reforms, fiscal discipline, and debt management; and (ii)
+move
+aggressively to remove the structural constraints to investment through a combination o f regulatory
+reforms and public investments aimed at enhancing the competitiveness o f the private sector. This
+pillar, therefore, i s divided into two components: governance and economic management o n the one
+hand, and growth support o n the other hand.
+63.
+Governance and Economic Management. This component w o u l d contribute to the
+realization o f three main outcomes: (i)improved transparency o f budget processes and tracking o f
+public expenditure incidence and impact; (ii)improved capacity in fiscal and debt management,
+statistical information and public investment planning; and (iii)increased financial autonomy and
+private sector participation in SOEs. A credible bundle o f policy measures, as opposed to disjointed
+efforts, w o u l d have a significant payoff in terms o f investor confidence in Lebanon. Such a bundle
+would include fiscal and debt management measures, as w e l l as long awaited structural reforms to the
+economy. Bank lending operations for economic management w o u l d be conceived within a broader
+strategic commitment by the Government, w i t h a focus o n public sector restructuring operations
+which could result in significant savings/loss reduction to the public sector and to a better
+rationalization o f expenditure/public sector management.
+64.
+Obvious targets for improved fiscal management are public autonomous agencies and
+pension reform. As o f January 2005, Lebanon counted n o less than 72 public autonomous agencies
+and enterprises, as w e l l as several participations t o the capital o f various commercial activities. These
+entities exert a strong influence o n the Government’s accounts, some in the f o r m o f a major drain o n
+the budget (the most prominent example being Electricite du Liban, which cost Lebanon in 2004 onefifth o f its overall public deficit) and others in the form o f important additional entrepreneurial
+revenues (the telephone companies, for instance, which in 2004 covered about h a l f o f the deficit).
+Over the last few years, the Government has legally paved the way for the privatization o f some o f
+these assets, but a lack o f consensus o n the role o f the public enterprises in the provision o f public
+goods, and insufficient preparatory measures, have prevented any serious progress f r o m being made.
+Furthermore, most o f these entities’ financial activities are not transparent to the Government, to
+Parliament o r to the public. These include loans to selected public autonomous agencies that are
+converted to expenditure at the end o f the financial year, unutilized investment authority that i s carried
+forward without additional parliamentary disclosure, and major funds for health and social services
+and for municipal financing that are not disclosed to parliamentary budget scrutiny, or for review o f
+actual performance against the budget plans. As for pensions, the current pay-as-you-go schemes to
+c i v i l and military services and end-of-service indemnities to government contract workers (the latter
+being managed by the National Social Security Fund [NSSF]) are not sustainable. This would
+impose, over the C A S period, an additional annual cost to the budget o f approximately h a l f a percent
+o f GDP, which would grow further thereafter. Various reforms can be envisaged, most o f which
+would require technical assistance and financial assistance in the transition.
+
+18
+
+65.
+Public expenditure management i s another important element of the bundle of reforms.
+Currently, t h e capital investment budget of CDR i s not consolidated into the budget, though i t
+significantly affects the future stream of current expenditures and debt repayments. Public
+procurement procedures are also antiquated and non-transparent, which leaves the door open for lack
+o f competition and widespread perceptions o f corruption. With a view to developing a medium-term
+expenditure framework in the near future, expenditure information systems (including tracking
+surveys) need to be developed in the relevant agencies. The entire investment planning cycle - from
+planning, approvals, implementation, and monitoring and evaluation - needs to be improved through
+procedural reforms, improved systems, and capacity building. A draft public procurement law, which
+has been languishing since 1999, needs to be revived and considered for revamping procurement
+procedures.
+66.
+Debt management i s another field in which capacity needs to be built (at the Ministry of
+Finance in particular, in coordination with the Central Bank), in order to minimize the r i s k s of
+financial disruption while maintaining the lowest possible borrowing costs. The Ministry o f
+Finance and the Central Bank, w i t h support from the W o r l d Bank and the IMF, have supported the
+creation o f a specialized Debt Management Department. Management systems and capacity building
+for the Department will be needed to make i t fully operational.
+67.
+The statistical capacity to support policy formulation remains crucially limited.
+Attempts to build statistical capacity have not been sustainable in the absence of a clear
+institutional design o f roles and responsibilities for various sets of statistics. Assistance in this
+assistance with a Statistical Master Plan to define the institutional needs,
+area w o u l d include: (i)
+funding sources, and data needs at the national and sectoral levels; (ii)
+partnership w i t h the IMF in
+improving economic/fiscal/financial statistical data; (iii)assistance with methodologies for
+poverty/social data analysis; and (iv) making statistical information available to the public through a
+clear dissemination strategy.
+
+More specifically, Bank activities in this area could include both lending and advisory
+68.
+services, as described below:
+
+Lending operations w o u l d include investment/TA lending for power sector restructuring;
+SOE refodrestructuring; statistical capacity; public expenditure information systems;
+
+pension and social security reform; and modernization o f the role o f control agencies (Audit
+Court, Civil Service Board, and Central Inspection).
+
+Bank diagnostics w o u l d include Public Expenditure Review (ongoing); Country Financial
+Accountability Assessment (ongoing); Country Procurement Assessment Review; governance
+reform; municipal finance and decentralization; policy notes o n pensions; and public
+investment planning.
+
+Technical assistance would concentrate o n debt management, SOE restructuring, and
+financial sector assessment capacity.
+69.
+Growth Support. The second component o f the first pillar i s concerned w i t h improving the
+growth potential o f the Lebanese economy, which could reach up to 5 percent (in real terms) in the
+medium to long run. For such growth to have a progressive distributional impact, policies would need
+to focus o n removing obstacles to investment in labor-intensive sectors (services, ICT, agro-industry),
+and policies w o u l d need to be developed to address labor market and segmentation issues
+(skilledunskilled, domestic/foreign, and maleifemale) to facilitate local economic development in and
+around secondary cities with high unemployment rates.
+
+70.
+Obviously, a necessary pre-condition for such growth would be enhanced macroeconomic stability, but other structural and regulatory constraints also play a role in depressing
+private investment and growth and need to be removed in preparation for a recovery stage.
+
+19
+
+These constraints include the high cost and inefficiency o f public services and utilities (power,
+telecommunications, and water); weak trade facilitation systems (trade policy, transport, customs,
+administrative procedures, trade finance, and information supply); regulatory obstacles to private
+sector entry and operation; monopolistic market structures; and rudimentary corporate governance
+rules (see B o x 2).
+
+Going forward, and in coordination with the IFC and MIGA, the B a n k i s prepared to
+undertake a series of lending and advisory activities.
+
+71.
+
+0
+
+Lending operations would include local economic development projects focused o n
+secondary cities in labor-intensive sectors w i t h clear comparative advantages, with national
+level support in export finance, and with efficient trade facilitation systems (customs, border
+crossings, transport logistics, one-stop-shop service).
+
+0
+
+Bank diagnostics would include Investment Climate Assessment; Trade Strategy; Sources o f
+G r o w t h Study; Labor Market and Gender Assessment;
+administrative barriers and industrial zones.
+
+0
+
+and technical assistance on
+
+ZFC and MZGA would focus on a number o f investment climate, privatization, political risk
+coverage, and investment promotion activities (see Section IV. D: IFC, MIGA, and WBI
+Programs for details).
+
+CAS Pillar (2):
+
+Developing Human Capital and Mitigating the Poverty Effects of Transition
+
+72.
+This pillar supports the CAS outcomes o f reducing poverty levels, enhancing the
+efficiency o f the social protection scheme, rationalizing health expenditure and improving i t s
+poverty focus, and enhancing the quality o f education.
+73.
+Recent international experience has shown that periods of economic turbulence have a
+profound impact on the social fabric o f a developing country. The poor and near-poor are
+particularly vulnerable to crises even though they are not directly exposed to the financial sector.
+Even when a country manages to successfully shelter the economy against crises, the poor still suffer
+disproportionately from the impact o f fiscal contraction, and thus the new poor emerge. These groups
+begin to “disinvest” in their human capital by withdrawing their children f r o m schools, delaying
+needed health care, and similar types o f behavior.
+74.
+T o prevent the above from happening, Lebanon as a first step needs to develop a
+comprehensive “social protection” strategy that i s shared among the various segments o f
+society, The development o f such a strategy w o u l d help build social consensus around the recovery
+reforming the endprogram. Elements o f the social sector and safety net strategy would include: (i)
+of-service indemnity program and the c i v i l servants and military pension funds; (ii)enlarging the
+scope of social assistance programs and seeing that they are more effective and better targeted; (iii)
+increasing labor market flexibility; and (iv) evaluating the impact o f social programs through a
+Poverty and Social Impact Analysis-type approach. The strategy would also need to consider h o w to
+protect public social spending (health, education) during adjustment and fiscal consolidation, which
+would require increasing the efficiency o f spending in these sectors. The current household survey
+presently being undertaken by the Ministry o f Social AffairdCentral Administration o f
+Statistics/UNDP/World Bank will shed light o n the profile o f the poor and will serve as the building
+block for the development o f a poverty assessment. In the event where the survey would reveal high
+incidence o f rural poverty, an explicit rural poverty alleviation program could be considered, in close
+coordination w i t h the EC.
+75.
+
+Beyond the safety nets, Lebanon needs to continue to develop its human capital, which
+can be i t s most vibrant resource when utilized efficiently and effectively. This will require
+pushing o n with reforms in the health and education sectors to achieve better outcomes f r o m the
+
+20
+
+significant level o f spending already taking place. In the health sector there i s a need to focus
+Government efforts on a few health policy objectives, such as containing overall health care costs,
+improving financial protection for households, and strengthening the primary health care system.
+Pharmaceutical reform, particularly the issue o f drug pricing, i s one such key area. Another i s the
+issue o f integrating the various public health insurance funds to provide wider and better coverage for
+the poor. In education, there i s a need to build the system’s policy development capacity and to agree
+o n a sector-wide strategy, to introduce governance models and institutional structures that can
+adequately manage the sector efficiently and yield quality outcomes, and to address regional
+educational disparities.
+
+76.
+This pillar would support lending and advisory activities aimed at mitigating poverty and
+reinforcing the existing safety nets through community or municipality-driven development programs
+(by focusing the delivery o f services through NGOs and municipalities). M o r e specifically, the
+following are considered:
+Lending operations would focus o n fostering financially viable, effective and efficient anti-
+
+poverty and social safety net programs, and supporting reform in k e y areas o f pensions, health
+and education. N e w operations could include the expansion o f community- or municipalbased development programs; a health technical assistance project focused o n rationalizing
+health expenditures through big-ticket items such as the drug bill; greater financial protection
+from illness for the poor; greater use o f primary health care; and a pension reform technical
+assistance project.
+
+Bank diagnostics w o u l d focus on supporting the following: (i)
+a pension reform strategy; (ii)
+a poverty assessment and strategy; (iii)a labor market and gender assessment; and (iv) a
+multi-year programmatic Economic Sector W o r k program to develop a comprehensive “social
+protection strategy” that would consist o f the integration o f analytical w o r k on pension
+reform, social safety nets, labor market impediments, health and education, and the impact
+evaluation o f social programs.
+
+Technical assistance w o u l d include a small grants program for NGOs (grants), and an
+
+H I V / A I D S IDF grant.
+
+CAS Pillar (3): Resource and Environmental Management
+77.
+This pillar would contribute to the CAS outcomes o f improved water management, land
+use management and air pollution control.
+78.
+Currently, Lebanon’s natural resources - water, soil, air, fauna and flora - are being
+mined at such a rate that many of the resources will not be available in the future. A key
+
+objective o f the C A S i s to reverse these trends and enable Lebanon to move to more sustainable use
+patterns. The resource most in need o f better management i s water. This w o u l d require an integrated
+approach addressing the balancing o f the competing demands o f a l l water users (irrigated agriculture,
+urban water supply, industry, recreation, fisheries and ecosystems) as w e l l as those that affect water
+quality (industrial pollution, urban wastewater, urban solid waste, new development, agricultural
+pollution). This approach w o u l d focus o n obtaining the maximum benefit f r o m water extracted and
+on ensuring minimal degradation o f water quality in the country’s rivers, coastal zones and aquifers.
+
+79.
+Over the next four years the Bank can help Lebanon improve the quality o f surface and
+groundwater and improve urban and rural water delivery. Such help w o u l d not only make
+Lebanon’s natural resource use more sustainable, but would also bring immediate benefits to
+agricultural productivity, human health and ecosystems. The Bank w o u l d help the Government
+strengthen its nascent Water Authorities and change the water management system to a system based
+o n basins and sub-basins rather than administrative units. The Bank w o u l d also help the country to
+develop and adopt a more efficient environmental agency to set and enforce environmental policy and
+
+21
+
+to assess and monitor the environmental impacts o f new development. These changes would help the
+authorities t o reduce the agricultural, industrial and municipal pollution o f surface and groundwater,
+and to control excess abstraction. A new system o f policy and enforcement w o u l d provide predictable
+environmental guidelines for private sector development. The approach w o u l d be based o n the
+national land use plan recently prepared by CDR, the waterhrrigation sector notes prepared by the
+Bank to justify water management at the basin and sub-basin level, and the A c t i o n Plan for the water
+sector aimed at stepping up sector reforms (consensus o n strategy, regulatory framework, cost
+recovery and subsidy policy, the implementation o f regional tariff schemes; and the expansion o f
+private sector involvement in sector operations).
+
+80.
+On solid waste, the challenge i s to develop a comprehensive solid waste strategy that i s
+sustainable, i s acceptable to Lebanese society, and i s underpinned by an appropriate policy,
+institutional, and financial framework. A Bank proposal has been drafted to address this
+strategically and to seek the support and consensus o f key stakeholders. No B a n k lending would be
+conceived in this area in the absence o f a clear and broadly endorsed strategy.
+
+8 1.
+
+Bank activities under this pillar would include both advisory and lending services.
+e
+
+Lending operations would include an integrated water and environmental management
+program in two basins - the Beka’a and the Litani. This program would: (i)
+establish a
+
+mechanism for environmental management, including reducing pollution in the Upper Litani
+Basin; (ii)
+rehabilitate and develop new urban water, wastewater, irrigation, and drainage
+infrastructure to improve water use efficiency and increase productivity; (iii)protect
+biodiversity and the natural heritage; (iv) implement the land use plans for this basin; and (v)
+build capacity among local officials and raise public awareness regarding the sustainable
+management o f water resources. The environmental program w o u l d be complemented by an
+urban water and wastewater project targeting several areas o f Lebanon, in line w i t h national
+priorities.
+
+e
+
+Policy notes w o u l d include a Country Environmental Analysis, w h i c h w o u l d focus primarily
+
+o n water quality, costal zone management, environmental compliance and enforcement, and
+w o u l d identify win-win solutions based o n a cost-benefit analysis o f mitigating adverse
+productivity and health impacts.
+
+Technical assistance would include the harmonization o f Lebanese policies for
+environmental assessment and resettlement with those o f the Bank, the preparation o f
+financial schemes for solid waste management, and support to the Ministries o f Environment
+and Justice to improve the enforcement o f environmental regulation.
+B.
+
+Building Partnerships for Local and Regional Capacity Enhancement
+
+82.
+Lebanon i s known for its high caliber specialists and academic institutions, and for a
+high capacity in certain sectors of the economy, which for years it has “exported” to the rest of
+the region and the world. The Bank’s strategy proposes to build upon Lebanon’s human capital
+advantage by developing partnerships with local universities, institutions, associations, and NGOs for
+the delivery o f capacity enhancement activities locally and for the region. F o r this purpose, Lebanon
+has several k e y advantages: (i)
+it can offer training in three languages - Arabic, French, and English and, therefore, can serve the eastern and western parts o f the region; (ii)
+it offers a wide range o f good
+facilities and infrastructure for learning activities, including high connectivity; (iii)
+it provides easy
+travel access; and (iv) it hosts key regional institutions such as ESCWA, UNESCO, ILO and others
+that would be natural partners in this work. F o r these reasons, Lebanon has become a virtual “subregional training hub,” complementing the Bank’s knowledge hub in the city o f Marseille.
+83.
+The Government has indicated its commitment to developing Lebanon as a regional hub
+for learning and i s willing to facilitate the resources needed for the implementation o f this
+
+22
+
+objective. As an initial step, the Government has signed a knowledge partnership Memorandum o f
+Understanding among the Institute o f Finance, the W o r l d Bank Middle East and N o r t h Africa region,
+and the W o r l d Bank Institute. On January 18, 2005, the W o r l d Bank opened its Public Information
+Center at the Institute o f Finance as a first phase o f the partnership. In parallel, the IMF announced
+Lebanon as its regional base for the Middle East Technical Assistance Center. This should provide
+for significant synergies in realizing the full potential o f Lebanon as a regional training center.
+C.
+
+Lending Scenarios and Triggers
+
+84.
+The Bank’s financial assistance i s tailored to the scenarios envisaged below (see also
+Table 3). These various scenarios take into account the Donors’ Conference expected to be held in
+early 2006 in Beirut. This conference may result in donor funds being made available for debt
+restructuring.
+
+85.
+
+Lending envelopes, triggers, and a mix o f lending instruments (project finance vs.
+development policy lending) have been identified with a view to support the Government in
+implementing its structural reform agenda. The stronger Lebanon’s commitment to and
+implementation o f key structural reforms, the larger the lending envelope and the accessibility to
+quick disbursing programmatic development policy lending. The size o f the lending envelope and
+accessibility to quick disbursing programmatic lending are directly related to specific demonstration
+
+o f commitment to and implementation o f critical structural reforms.
+
+86.
+A l l lending in the base and high case i s subject to the following principles o f engagement: (i)
+upfront reforms; (ii)readiness for implementation at the time o f negotiations (operations manual
+completed, TORS and draft contracts agreed upon, etc.); (iii)
+agreed-upon strategies with the W o r l d
+Bank; and (iv) clear social impact a n d o r support to the fiscal adjustment effort.
+Base Case Scenario
+
+87.
+Up to US$100 million for investment could be lent by the World Bank to Lebanon over
+the four-year CAS period in the Base Case Scenario. The Bank’s engagement w o u l d be limited to
+
+investment lending and advisory services (i.e., n o development policy lending).
+
+The Base Case Scenario would require meeting the following fiscal (budget plus
+treasury) outcome and portfolio indicators:
+
+88.
+
+a
+
+The ratio o f fiscal primary surplus over total fiscal revenue not below 8 percent25;
+
+a
+
+The disbursement ratios o n existing W o r l d Bank portfolio not below 10 percent each year; and
+
+0
+
+Effectiveness delays not to exceed 9 months.
+
+Low Case Scenario
+
+89.
+
+The inability to meet the above indicators would suggest a limited political willkapacity
+to carry through with fiscal, portfolio and structural reforms and, therefore, a high and growing
+probability for a financial and economic crisis. Thus, lending as envisaged in this C A S to support
+
+structural reforms would become irrelevant and unjustified. Lending w o u l d cease until the country
+meets again the triggers in the base case, o r i f a rapid deterioration o f the financial and economic
+situation warrants a C A S update. The latter w o u l d then reevaluate the situation, and accordingly, the
+W o r l d Bank’s level o f engagement.
+
+As projected for end-2005 by the MOF, as o f September 2005, excluding foreign-financed capital
+expenditure. Unlike the more traditional primary surplus over GDP, this measure presents the advantage o f
+being easily monitorable, as reported every month by the MOF. In contrast, GDP figures are not easily
+available.
+25
+
+23
+
+High Case Scenario
+
+90.
+Up to U S 7 0 0 million could be lent by the World Bank over the four-year CAS period in
+the high case scenario; US$250 million before the mid-term CAS review, and another U S 4 5 0
+million afterwards.
+The High Case Scenario would require meeting the following fiscal (budget plus
+91.
+treasury) and indebtedness indicators:
+
+Before the mid-term CAS review, up to US$250 million could be committed should the following
+conditions be met:
+The fiscal primary surplus over total fiscal revenue ratio gradually improving above 8
+percent;
+
+The net public debt26to total fiscal revenue ratio gradually declining from 730 percent;
+Strong Government and Parliament commitment to raising the fiscal primary surplus, through
+the implementation o f structural reforms in pension (public and private) and power sectors,
+safety nets and civil service. Commitments would be clearly spelled out in official
+declarations;
+Implementation initiated in pension (public and private) and power sectors, and safety nets;
+
+The disbursement ratios on existing World Bank portfolio not below 15 percent each year;
+Effectiveness delays not to exceed 9 months; and
+Projects in “problem” status not to exceed 33 percent o f total portfolio (by number o f
+projects) - down from 71 percent as o f October 2005.
+
+Out o f the USS250 million, up to US$lOO million could take the form o f development policy lending.
+In addition to the conditions above, development policy lending would be considered in connection
+with the adoption by the authorities o f a major policy package financially supported by the
+international community.
+
+After the mid-term CAS review, up to another US$450 million could be committed should the
+following conditions be met:
+
+The fiscal primary surplus over total fiscal revenue ratio above 17 percent by end-2007;
+The net public debt to total fiscal revenue ratio declines below 650 percent by e11d-2007;~~
+Observed implementation of, and continued Government and Parliament commitment to
+significant structural reforms in the pension (public and private), power sectors and safety
+nets; and
+Implementation initiated in civil service reforms.
+
+Out o f the US$450 million, up to US$300 million could take the form o f development policy lending.
+Such lending would support the continued implementation o f substantive incremental reforms as
+
+proposed in the above-mentioned policy package.
+
+As projected for end-2005 by the World Bank staff, as o f September 2005. The net public debt i s defined by
+the difference between gross public debt and public deposits in the banking sector. This measure i s also reported
+every month by MOF.
+26
+
+For a 5 percent nominal GDP growth, these triggers broadly correspond to a 2 percentage points o f GDP
+increase in the primary surplus and a 4 percentage points of GDP decline in the net public debt between 2005
+27
+
+and 2007.
+
+24
+
+Table 3. Indicative Lending Assistance Program
+Engagement
+
+Lending
+Social Funds/Public Works
+
+Loan Amount
+(US$ million) *
+20-50
+
+15-50
+
+Municipal InfrastructureProject
+(supplement to the existing loan)
+
+Utility Investment and Management
+Improvement Program (including
+power and water, could be split for
+simplification)
+
+50-100
+
+Base Case
+Grants
+
+Diagnostics
+
+Public Expenditure Review (06)
+Country Financial Accountability
+Assessment (06)
+Country Procurement Assessment
+Review (06)
+CEM - Sources o f Growth (07)
+Poverty Assessment and Strategy Based
+on New HouseholdBudget Survey (07)
+Investment Climate AssessmenUTrade
+Facilitation (06)
+Labor Market and Gender Assessment
+(07)
+Social Protection Strategy (07)
+Policv Notes
+
+Small Grants Program to NGOs
+(ongoing)
+
+Pension Policy Note (06)
+Country EnvironmentalAnalysis (07)
+
+HIViAIDS IDF Grant
+
+Technical Assistance
+
+100
+
+Sub Total
+
+100-300
+
+Utility Investment and Management
+Improvement Program (expanded
+beyond the base case)
+Investment/TA Loan for Public Sector
+Restructuring(SOEs, Public
+Investment Information System,
+Pension and Social Security Reform,
+Statistical Capacity Building, Public
+Monitoring Authorities)
+
+50-60
+
+Health Project (new loan)
+
+15-20
+
+TA on Financial Sector
+AssessrnenUPublic Debt Management
+(ongoing)
+TA administrative barriers and industrial
+zones (07)
+TA on governance reform and municipal
+finance (07)
+Technical Assistance
+
+Capacity Building and Information
+Systems for Relevant Economic and
+Financial Administrations (ongoing)
+Public-Private Sector Partnership in the
+Water Sector (06)
+
+High Case
+
+50-100
+
+Trade Facilitation/Local Economic
+Development Projects in Secondary
+Cities
+IntegratedLitani Basin Management
+Program
+
+Capacity Building (solid waste,
+environmentalperformance, and social
+safeguards) (07)
+Enforcement o f environmental
+regulations (07)
+
+50
+400
+
+Development Policy Lending for above
+mentioned structural reforms
+
+700
+
+Total High Case Envelope
+
+*
+
+Analytical and Advisory Activities
+
+While individual projects may vary in amount, as indicated above, the total for the base case will not exceed US$lOO million,
+and the total for the high case will not exceed US$700 million.
+
+25
+
+IFC, MIGA, and WBI Programs
+
+D.
+IFC
+
+92.
+Lebanon was previously one of IFC’s largest exposure countries in the region. However,
+in the past few years, due to the country’s macro-economic situation, I F C has been selective with i t s
+investments and has rather focused o n managing its portfolio in Lebanon. In FY05, I F C approved a
+US$8 m i l l i o n loan for a new international school in Adma. In September 2005, the portfolio
+contained seven investments totaling US$32 million. A majority o f the portfolio is composed o f
+credit lines to Banks, through which I F C helps address the financial sector, including leasing and onlending to SMEs. I F C has signed three banks under the Global Trade Finance Program, w i t h the
+intention o f addressing the international trade finance needs in the country. Furthermore, I F C has
+been providing advisory services and technical assistance (TA) in Lebanon. Over the last C A S
+period, I F C has provided advisory services and TA in the successful restructuring o f M i d d l e East
+Airlines and for the development o f the insurance industry.
+IFC i s presently assisting the Lebanese Government through technical assistance in
+93.
+addressing urgent economic and business environment reform issues. The Private Enterprise
+Partnership for the Middle East and N o r t h Africa (PEP-MENA) i s IFC’s new facility to deliver TA
+throughout the Region. In Lebanon, P E P - M E N A plans to have interventions in the financial sector,
+strengthening S M E development, business enabling and regulatory environment, privatization o f
+SOEs and public-private partnerships. Currently, PEP-MENA i s working in several areas as
+described below:
+a
+
+Corporate Governance: I F C PEP-MENA i s working with the Association o f Banks o f
+Lebanon and its member banks to strengthen standards o f corporate governance in the
+banking sector.
+
+a
+
+Bank Privatization: I F C PEP-MENA i s carrying out a valuation o f Banque Libanaise Pour le
+Commerce (BLC) - for Banque du Liban. This valuation i s a necessary first step in the return
+o f this bank to the private sector.
+
+a
+
+Business Environment: In November 2005, IFC, in conjunction with the Ministry o f
+Economy and Trade, held a conference o n D o i n g Business in Lebanon, which discussed the
+barriers the private sector faces. P E P - M E N A i s n o w discussing a number o f additional
+programs to address the various issues identified by the session. Programs under discussion
+w i t h the Government include Alternative Dispute Resolution, and administrative reforms
+targeting various Government approvals.
+
+0
+
+In the coming months, PEP-MENA i s also proposing to provide technical assistance in the
+housing finance, microfinance and the S M E sectors, to assist banks in better serving these
+markets, and i s also considering rolling out the Business Edge Program, w h i c h provides
+training to small businesses to help them improve their business systems.
+
+During the CAS period, IFC will focus on three broad objectives:
+
+94.
+a
+
+Enhancing the Climate for the Private Sector;
+
+a
+
+Reform o f SOEs, privatization, and Public-Private Partnerships;
+
+a
+
+Supporting Private Sector Investment.
+
+I n the near term, the key focus o f the IFC i s enhancing the investment climate for the
+95.
+private sector in Lebanon. T h e W o r l d Bank’s D o i n g Business Survey, 2006 edition, continued to
+highlight a number o f obstacles. Indicators place Lebanon towards the high end o f regional economies
+in terms o f the cost to start a business, the number o f days needed, and number o f approvals required.
+Significant delays in the time i t takes to enforce a contract, in addition to some o f the highest costs o f
+26
+
+enforcement in the region, place a constraint on the effective operation o f the private sector, and in
+turn negatively affect the growth o f the economy and o f employment, as businesses are unable to
+expand and operate effectively. The IFC’s PEP-MENA w i l l provide assistance t o the Government to
+review procedures for registering a business, enforcing contracts, including alternative dispute
+resolution and refocusing government regulation on oversight and protection.
+
+96.
+Reform of SOEs, privatization and public-private partnerships. IFC’s PEP-MENA i s
+already working o n a bank privatization project in the country. Provided the Government moves
+ahead w i t h reform in certain areas such as infrastructure, I F C would expect to pursue opportunities in
+advisory work and potential selective investments. The proposed reform o f the electricity sector i s an
+area that PEP-MENA stands ready to assist the Government in. Other potential areas where I F C
+might be able to assist the Government include port and airport privatization.
+97.
+Supporting private sector investment: IFC’s traditional involvement in Lebanon has
+been in financing the private sector. To enhance international opportunities for Lebanese
+companies, link and integrate them w i t h the global economy, I F C will continue to increase i t s
+assistance in Trade Finance by pursuing additional banks for the Global Trade Finance Program. In
+the meantime, as one o f the Bank’s strategic focuses i s o n mitigating the poverty effects o f transition,
+IFC w i l l continue to look for investment opportunities in microfinance, which will address critical
+financing needs for the lower end o f the S M E sector. In the context o f improved macro-economic and
+regulatory conditions, I F C could quickly scale up its investments and target a number o f sectors,
+including labor intensive and export oriented manufacturing facilities, energy, health and education,
+and more interventions in the financial sector. A particular emphasis will be placed on identifying
+south-south financing opportunities, capitalizing o n Lebanese expertise and capacity o n a regional or
+international level, where IFC’s global reach may provide value.
+
+MIGA
+98.
+MIGA’s activities are designed to encourage productive foreign direct investment (FDI)
+flows into developing countries. T o this end, MIGA’s package o f risk mitigation instruments w i l l be
+an integral part o f the overall W o r l d Bank Group (WBG) efforts under the C A S to support the private
+sector development agenda in Lebanon, particularly in infrastructure development, the attraction and
+retention o f investments, access to the international capital markets for Lebanese companies and
+banks, and support for Lebanese investors venturing abroad. A t this critical moment in Lebanon‘s
+economic and political development, MIGA guarantees, by effectively mitigating the political risks
+associated w i t h private investments, can play a significant role in providing comfort to foreign
+investors whose risk perceptions may have increased in recent months.
+99.
+Infrastructure: M I G A can support private investments, as well as privatizations/publicprivate partnerships (PPPs), through the provision o f political risk guarantees to foreign
+investors, particularly in the infrastructure sector. MIGA’s guarantees can alter investor’s risk
+perceptions and facilitate access to financing, extending the tenor and reducing the interest rates o n
+loans. In this regard, MIGA will continue to work w i t h the Bank and the I F C in order to identify
+potential privatizations and PPPs in the power and water sector and provide support to investors that
+are particularly interested in the breach o f contract (breach o f government undertaking) cover that
+MIGA offers. Investors interested in investing in the water sector in Lebanon have approached
+MIGA.
+
+100. Following on initial contacts during fiscal years 2004 and 2005, M I G A i s prepared to
+deepen its collaboration with the CDR, the Privatization Council, and the Investment
+Development Authority o f Lebanon (IDAL), focusing on assisting those agencies in the targeted
+marketing o f infrastructure opportunities to investors, including through MIGA’s suite of online investment promotion sites, and providing investors with information on risk mitigation
+instruments available for the projects.
+
+27
+
+10 1.
+Attraction and Retention o f Investments. The Government and the investment promotion
+agency IDAL have expressed an interest in MIGA’s assistance in overcoming Lebanon’s image
+problem in the investor community, particularly outside o f the MENA region. With support from
+partners, and a full commitment from the Lebanese authorities, MIGA i s prepared to launch a fullscale, multi-year program o f targeted assistance for IDAL under the new CAS, with a view to making
+IDAL a state-of-the-art investment promotion agency that will have a measurable impact o n the
+attraction and retention o f FDI into Lebanon, consistent with the Government’s goal o f increasing and
+diversifying FDI inflows. Targets in this regard would be sectors that are labor-intensive and that
+have significant potential for FDI, such as tourism, services and SMEs.
+
+102.
+I n addition, M I G A i s planning to conduct a regional enterprise benchmarking program
+for the M E N A region, and Lebanon will be included in that list. This will give IDAL and others
+in Lebanon concrete, enterprise-level data o n obstacles to and opportunities for investment in key subsectors o f the economy. Finally, an important component, in conjunction with the Lebanon country
+office, will be to ensure that all relevant actors in Lebanon are aware o f the full range o f WBG risk
+mitigation instruments available from the Bank, IFC, and MIGA, to mitigate risks - real or perceived
+-that may inhibit investors from investing in, or obtaining financing for, projects in Lebanon.
+Access to International Capital Markets for Lebanese Companies and Banks. By
+103.
+assuming the Lebanese sovereign risk, MIGA’s guarantees can allow strong Lebanese companies and
+banks going to the international capital markets to significantly exceed the (currently sub-investment
+grade) sovereign ceiling o f Lebanon and achieve significantly higher ratings, resulting in both
+increased investor interest and lower all-in financing costs. Banks can also use this program when
+arranging mortgage-backed securitizations or private placements in the international capital markets.
+Support for Lebanese Investors Investing Abroad. Lebanese investors and banks have
+104.
+long played an important regional role in the Middle East and in Africa. Unlike their counterparts in
+most developed countries, Lebanese investors do not have access to national schemes to support them
+as they venture abroad. MIGA can bridge this gap and can thereby also increase the potential for
+Lebanese f i r m s to obtain financing, either locally or abroad, for their investments. Moreover, the
+presence o f MIGA investors could increase tenors and decrease interest rates o n loans sourced
+domestically or abroad. MIGA has already supported Investcom, a Lebanese telecommunications
+company, for its investments in Benin, Ghana, and Syria with more than US$165 m i l l i o n in
+guarantees. In the forthcoming C A S period, MIGA will seek to enhance this role, as Lebanese
+investors and banks become more active abroad, and as their knowledge o f MIGA’s services
+increases.
+
+WBI
+105.
+The W B I has embarked on several initiatives to support government officials, NGOs,
+the media, private sector and academia by offering policy dialogue and training opportunities to
+promote knowledge and capacity building. I t has provided in-country and regional training in
+several sectors such as finance, education, social protection, health, and gender. I t has also
+established partnerships with universities and “think tanks” in order to build national capacities and
+promote in-country technical expertise. I t will also be the k e y partner within the Bank Group for the
+implementation o f Lebanon’s “regional training hub” strategy.
+
+E.
+
+Monitoring and Evaluation o f Results
+
+106.
+The Lebanon Country Team has organized itself into three clusters corresponding to the
+three pillars o f the CAS. Each cluster will have the responsibility o f periodically validating the
+CAS outcomes, monitoring intermediate indicators, and adjusting staffing and Bank resources
+strategically to avoid fragmentation and ensure the prioritization o f Bank involvement. The
+main focus o f monitoring and evaluating results o n the Government side will be CDR, the main
+
+28
+
+agency in charge o f implementing the bulk o f capital investments for the country. The C D R has just
+established a monitoring and evaluation department which will be supported with capacity buildingby
+the Bank. A t the country level, given the lack o f timely economic and social data for policy
+formulation, an important part o f the Bank’s strategy w i l l be the development o f a Statistical Master
+Plan, which will be the basis for ensuring that timely statistics can be obtained for the evaluation o f
+the outcomes o f national policy on the economic and social fronts. In addition, the Bank will work
+with partners and the Ministry o f Social Affairs to implement a new household level survey for
+poverty assessment. For the capacity enhancement activities (nationally and regionally), the Bank
+w i l l monitor and evaluate directly the impact o f such initiatives.
+107.
+The results-based monitoring framework for the CAS reflects work in progress in a
+rapidly shifting policy environment. The framework presented in Annex Iwill need to be updated
+by the mid-term CAS review or before, in light o f a detailed Government reform program which i s
+currently under preparation. The updated framework w i l l become the basis for program performance
+evaluation in the CAS Completion Report, which in turn w i l l be rated and validated by an OED
+review.
+
+V. CREDITWORTHINESS AND RISKS
+A.
+
+Creditworthiness and Risks
+
+108.
+Lebanon’s limited creditworthiness and the considerable uncertainties regarding future
+policy direction require caution in managing the World Bank’s exposure to Lebanon.
+Simultaneously, the World Bank remains deeply committed to its role, together with the entire
+international financial community, in reducing poverty and helping Lebanon to return to a
+sustainable growth performance consistent with its potential. Lebanon’s debt to the IBRD
+(disbursed and outstanding) reached US$346 million as o f October 2005 (excluding guarantees).
+With undisbursed amounts at US$222 million, exposure could increase in the next few years i f
+disbursements improve.
+Financing Requirements. In the most likely scenario, Lebanon would need to receive, on
+109.
+average, US$4.7 billion a year over the CAS period from abroad to finance i t s current account deficit
+and replenish i t s commercial and central banks’ net foreign assets, excluding any privatization
+operations. B y way o f comparison, US$4.7 billion worth o f capital inflows were required each year
+on average between 2000 and 2004 to perform the same operations. Given existing exposure and
+creditworthiness limits, the World Bank w i l l remain, in all cases, a marginal contributor to Lebanon’s
+financing requirements.
+World Bank Exposure. In the event that Lebanon would be able to raise i t s disbursement
+110.
+ratios to 20 percent - against 15 percent by end-2004 - the share o f the IBRD portfolio exposed to
+Lebanon could reach 0.34 percent on average between 2005 and 2009 in the base case scenario (an
+outstanding debt o f approximately US$500 million, see Annex B7), slightly up from the period
+between 2000 and 2004, where it reached 0.32 percent (including guarantees). Such an exposure
+could rise sharply - and even almost double, should Lebanon decide to borrow under the conditions
+stipulated in the high case scenario, where up to US$400 million would be made available for
+development policy lending (US$lOO million before the mid-term CAS review, and US$300 million
+after).
+
+111.
+Lebanon’s Creditworthiness and Associated Risks. Four categories o f risk pertain to
+Lebanon: (i)the risk o f deterioration o f the portfolio performance; (ii)the risk o f a stalled reform
+program; (iii)the risk o f a financial crisidhard landing adjustment; and (iv) political (domestic and
+regional) and related security risks. All these risks are significant, though the first two lend
+
+29
+
+themselves better to risk mitigation measures by the Bank. The following paragraphs explore these
+risks and possible mitigation measures.
+112.
+Portfolio Risks. Lebanon’s portfolio i s on the Bank’s “watch list.” Concerted efforts have
+been made by the Bank and Government counterparts to close and restructure non-performing
+projects. New efforts are in place to reduce effectiveness delays and to proactively address emerging
+problems. But most portfolio risks (Country Risk, Country Environment, Procurement, and
+Effectiveness) are not project specific and are mostly rooted in macro-economic, institutional
+processes, and capacity constraints - hence the risk o f recurring portfolio problems. The portfolio risk
+i s mitigated in the medium term through capacity building in fiduciary areas (procurement, financial
+management and safeguards).
+I t i s also mitigated by a selective approach to future lending
+conditional o n up-front and credible commitments.
+113.
+Risk o f a Stalled Reform Program. There is a significant risk that narrow personal and
+sectarian interests w i l l continue to overshadow national-level interests and obstruct the
+implementation o f a comprehensive reform plan. This risk could be compounded in the case o f
+macro-economic stress, as national priorities requiring collective action could be faced w i t h political
+paralysis and deepening social fragmentation. This risk would be mitigated by limiting Bank
+involvement to the l o w case o f n o lending, but intensifying the Bank’s effort to build public support
+and capacity for reform through analytical, advisory, and outreach activities.
+114.
+Financial Crisis Risk. The nature and extent o f macro-economic imbalances will continue to
+make Lebanon vulnerable to a hard landing adjustment. Past international experience has forcefully
+and systematically demonstrated that private markets cannot tolerate rising public debt ratios and
+sluggish growth performance indefinitely, even though interest rates w o u l d remain lucrative and the
+banking sector would seemingly remain profitable. Sooner or later, governments have to adopt a
+policy framework that addresses the macro-economic imbalances and the debt unsustainability. The
+longer governments wait, the more painful the adjustment will be, and the less they will be able to
+count on investor confidence. The main sources o f domestic vulnerability are the large size o f the
+fiscal deficit, the debt to G D P ratio and the exposure o f commercial banks to the sovereign risk.
+Domestic vulnerability also includes contingent liabilities such as the public pension system, which, i f
+not tackled in time, could weaken the fiscal situation even more. The principal source o f external
+vulnerability lies in the great dependence o f Lebanon o n foreign capital inflows. A currency crisis or
+a sovereign default could be compounded by a loss o f investors’ confidence that could reduce or even
+reverse the needed capital inflows. Conversely, a loss o f confidence could also trigger a currency
+crisis or a sovereign default. These risks are compounded by the likely fact that the external
+environment (global interest rates, available liquidities in the region) w i l l n o t always be as favorable
+for Lebanon as they have been over the past decade. The above risks are mitigated somewhat through
+the extensive advisory services provided by the IMF and the W o r l d B a n k o n debt and fiscal
+management. Other sources o f external vulnerability are linked to political instability in the region
+and are discussed below.
+115.
+Political and Security Risks. Regionally, Lebanon i s exposed to external risks that are
+directly linked to the relations with Syria and the Arab-Israeli conflict next door: Relations with
+Syria are still in flux; Lebanon i s technically in a state o f war w i t h Israel; skirmishes between Israeli
+and Hizbullah forces continue along the southern borders; and, finally, Palestinian refugees in
+Lebanon, living in destitute conditions and barred from employment in most professions (in spite o f
+recent improvements), continue to await their right o f return. All o f these factors combine to produce
+a potentially explosive situation in Lebanon if a regional settlement o f the Arab-Israeli conflict i s not
+ultimately reached.
+
+30
+
+I I3
+
+2.
+
+5 .
+
+.
+
+. . .
+
+x .
+
+. .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+0
+
+.
+
+.
+
+W 3 i .
+
+$1
+
+-1
+
+/*
+I
+
+.
+
+0
+
+.
+
+.
+
+e
+
+0
+
+0
+
+e
+
+e
+
+0
+
+0
+
+3
+
+w w w
+
+0
+
+a
+
+E
+
+m
+
+w
+
+a
+
+a
+
+E
+
+C
+
+P
+Y
+
+c
+
+E
+O
+
+n
+
+h
+
+z3
+
+3
+
+ft
+
+3
+
+w 9
+
+e
+
+e
+
+E
+
+x
+
+4
+
+*
+
+e
+
+e
+
+E
+
+\
+
+w
+
+5
+
+a
+
+_.
+
+_.
+
+t
+
+i
+00
+
+m
+
+P
+Y
+
+E
+
+0
+
+3
+
+5
+-f
+
+0
+
+3
+sm
+5
+
+CAS ANNEX I11- CAS CONSULTATIONS
+Introduction
+The W o r l d B a n k Lebanon Country Office held a series o f C A S consultation sessions as o f early 2004,
+drawing more than 300 participants w i t h a wide range o f backgrounds into the debate over the three
+C A S pillars. The discussions and workshops included NGOs, Parliament Committees, Municipal
+Councils and the Private Sector, in addition to line ministries and public institutions currently
+involved, or likely to be involved, in the Bank’s portfolio o f lending and non-lending activities.
+The consultations slowed during the Government transition after the exit o f Prime Minister Rafic
+Hariri and the advent o f Prime Minister Omar Karami (October-November 2004) to allow for the
+validation o f the pillars by the new Government. Activities picked up pace in December when the
+Bank and the new Government agreed to the C A S Matrix. With the Government’s consent, the Matrix
+was distributed to active players in the public sector, the private sector, N G O s and Parliament,
+enriching subsequent discussions in January and February 2005.
+
+In addition, the Bank received a number o f written remarks and suggestions for cooperation f r o m
+participants in the discussions, including the Office o f the Minister o f Administrative Development,
+the Ministry o f Environment, the Ministry o f Interior and Municipalities, the Ministry o f Agriculture,
+the Ministry o f Public Works, the Consumer Association-Lebanon, Prestige Publication and the NGO
+Jihad al-Binaa.
+Each o f the sessions began with a World Bank presentation, comprising:
+1. Introduction to the W o r l d Bank;
+2. Explanation o f the C A S and C A S process;
+3. Lessons learned from the previous portfolio; and
+4. Overview o f the three pillars in terms o f C A S outcomes and B a n k inputs.
+
+Discussiono f Pillars
+In general, participants commended the Bank for a comprehensive Matrix that established the l i n k s
+between fiscal and debt management, as w e l l as the development o f real economy, employment and
+poverty issues. Others welcomed the emphasis o n the development o f local economies in secondary
+cities and rural areas.
+
+There was a consensus that many o f the needed reforms, while technical in nature, hinged largely o n
+political economy and decision making. M a n y participants referred t o the B a n k as a “credible
+authority” with “convening power” - assets that could be deployed to press for reform.
+The dialogue w i t h Parliament and w i t h the public sector exposed complaints over the Bank’s
+complicated bureaucracy that had caused delays in the execution o f projects. Also, Parliament
+members stressed o n more than one occasion the need to involve them in the project cycle at an early
+stage. There was an obvious sense that the Government was “parachuting” projects negotiated w i t h
+the Bank into Parliament, without the prior consultation with MPs, w h o could better identify the
+developmental needs in the regions they represent.
+The W o r l d Bank acknowledged the bureaucracy that governs i t s work, but noted that reforms were
+under way to streamline Bank procedures, citing the Clearing Country Systems as one example.
+However, the Bank stressed that Lebanon’s performance i s uniquely weak, even compared with other
+countries o f the region, and that the country i s one o f 12 o n the Bank’s watch list, despite its human
+resources potential.
+41
+
+Some participants questioned why the W o r l d Bank was s t i l l involved in lending operations, despite
+the absence o f sector reforms, which deny the country the ability to properly benefit from such
+investments.
+
+The Bank agreed that, indeed, this was an important lesson drawn f r o m the previous CAS. Going
+forward the B a n k will invest only in sectors in which a credible commitment to reforms has been
+established. The scenarios o f lending envisioned range f r o m zero lending, where only advisory
+services are offered, a l l the way to substantial lending in reformed sectors.
+
+Poverty and Social Safety Nets
+
+The consultations culminated in increased awareness o f poverty issues in Lebanon, but it was difficult
+to determine the extent o f poverty, especially abject poverty, in the absence o f reliable statistics and
+official data. There were requests for:
+1. Expediting the household survey, due in FY06;
+2. Defining a poverty line;
+3. Devising a strategy to mitigate the transition costs o f structural policy changes;
+
+4. Improving the impact o f the social safety net through better distribution o f budget
+allocations, and
+
+5.
+
+Designing a mechanism for the coordination o f interventions by local and international
+stakeholders.
+
+Economic Management
+The consultations underlined a widespread understanding o f the need to address, without delay, the
+country’s macro-economic difficulties, especially that o f managing the debt, w h i c h has exceeded
+US$35 billion. There were serious concerns about the absence o f statistics and reliable figures to
+support an economic development policy. Central Bank representatives stressed the need to stimulate
+growth, citing the development o f capital markets, to monitor the progress o f SMEs and to introduce
+reliable databases as some activities that would help support such a policy. Parliamentarians and
+private sector representatives voiced concerns over the distributional impact o f macro-economic
+policies. Some questioned the ability o f the national economy to withstand the “astronomical” profits
+earned by local banks, w h i c h are restricting the growth in other sectors.
+The W o r l d Bank noted that tension between the fiscal adjustment agenda and the growth agenda
+would be felt in the short term.
+The Bank stressed that in the transition phase, there has to be an equitable sharing o f the burden. Any
+macro-economic policy to ensure monetary and fiscal stability should not neglect the poor. A fair tax
+policy, social safety nets and employment-generating growth could help mitigate the impact o f
+transition.
+Discussants sought explanations o f the pros and cons o f privatization as prescribed by the W o r l d Bank
+
+- a process that was promised at the Paris I1 conference o f the donor community in 2001 but was
+
+disrupted by political disagreements. The Bank clarified that privatization was a means and not an
+end, and advised a tailored approach to each SOEs.
+
+The Bank also clarified that some services, such as the power and water sectors, w o u l d need to
+significantly improve their performance to become appealing for potential private sector investment,
+noting that the Government has to weigh core privatization and management privatization o n a caseby-case basis.
+
+42
+
+Entrepreneurs called on the Bank and the International Finance Corporation (IFC) to increase their
+interaction w i t h the private sector.
+
+The Bank acknowledged that in the past i t had been mostly focused on monitoring short-term macroeconomic changes. Going forward, it w i l l devote more resources to the Investment Climate
+Assessment and sources o f growth. Naturally, this will require close interaction with the private
+sector.
+Capacity Building
+Local interlocutors, in both the public and private sectors, agreed that the lack o f statistics, the
+deficient institutional capacity, unclear designs and an absence o f a division o f labor have impaired
+policy development and hindered project implementation. The Bank was asked to focus on these
+issues in the next CAS.
+Sectoral ministries expressed serious concerns about the sustainability o f World Bank projects in the
+shadow o f deficient institutional capacity. They singled out the dismantling o f Project Implementation
+Units (PIUs) after the completion o f a project, without ministries being able to absorb skilled
+consultants, as a major obstacle. The inability to absorb the PIUs in ministries affects both the
+sustainability and the continuity required to uphold Bank-Government cooperation.
+
+The Office o f the Minister for Administrative Reform (OMSAR) stressed the unique role it could
+providing assistance in capacity building, (ii)
+preparing a legislative
+assume on a number o f levels: (i)
+draft for reform, and (iii)carrying out institutional design and organizational structures for the
+ministries.
+The Bank concurred, and expressed a willingness to support a reform process and capacity building
+
+efforts. The Bank noted that it was involved in administrative reform through an ambitious project
+which was only partially implemented, largely because o f the lack o f political will. The Bank agreed
+that OMSAR could play a major role in moving forward, but stressed that the political w i l l would
+have to be evident.
+For their part, parliamentarians sought technical assistance from the World Bank to obtain accurate
+data and devise policies that would address the key social issues such as healthcare, education and
+pension plans. They noted that parliamentary committees have the constitutional prerogatives to
+develop legislation, but that their members lack the data and the expertise.
+One suggestion was for the development o f an “observatory network” that would help support
+Parliament.
+One concern raised was the slow development o f the Information Technology (IT) sector. One
+Member o f Parliament attributed the deficiency to a fight for supremacy among various ministries,
+each seeking to annex the sector to its portfolio (Finance, Economy, Telecommunications, etc.).
+
+Agro-industry and Trade Facilitation
+Discussions touched on agriculture and agro-industry as possible opportunities for growth and
+employment generation. Participants asked that the Bank give more prominence in the CAS to
+agriculture, agro-industry and trade facilitation, given their importance for j o b creation, especially in
+poor and rural areas.
+The Bank asserted that it has been involved in this sector through two projects that sought to improve
+irrigation and develop the agricultural infrastructure. But in national terms, agriculture was
+contributing only 6.5 percent to the GDP, with limited potential for expansion. The Bank stressed that
+
+43
+
+there was a need to generate other economic opportunities for employment in rural areas and to
+further develop the agro-industry sector. I t was also noted that the EU was active in this particular
+sector, but that the Bank was ready to complement EU activities in either lending or advisory work
+focused o n agro-industry or the Litani Basin.
+
+Industry
+In answer to a complaint that there was n o sufficient emphasis on local industry, the W o r l d Bank
+asserted that i t lacked the proper data to be able to evaluate the contributions o f the various sectors’ to
+the economy and their future potential for growth. But as far as the Bank was concerned, tackling the
+issue o f industrial competence should not encourage further subsidies. Instead, lowering barriers to
+entry and reducing production costs (water, electricity, and telecommunications) w o u l d help support
+industries.
+
+Housing, Vocational Training, Knowledge and Partnership
+Representatives o f line ministries noted the lack o f reference to housing and vocational education, and
+proposed that the Bank partner w i t h local universities in knowledge sharing.
+The Bank agreed that housing was important for the security and livelihood o f the poor, but this was
+in essence a private good. The Bank asserted the need to address the nature o f market failure in the
+housing sector, including the absence o f financing, land supply, infrastructure and inflationary
+pressures in the real estate market.
+
+With regard to vocational training, the Bank’s experience in this area has been disappointing and
+resulted in the cancellation o f the US$29 m i l l i o n Vocutionul Training Project. As for knowledge
+
+partnerships, the W o r l d Bank has been capitalizing o n the research, academic and training facilities in
+Lebanon, which are among the country’s most valuable assets.
+
+Health
+There were clear concerns about the absence o f a national health plan - a deficiency that has spurred
+piecemeal/sectoral interventions by the donors. Participants called for a national plan that w o u l d set
+the priorities for this sector and a mechanism that w o u l d enable donor contributions to be more
+efficiently absorbed. Health Ministry officials complained that weak capacity and W o r l d Bank
+bureaucracy had delayed the implementation o f a health plan that took nine years to complete, instead
+o f the initially envisaged maximum o f six years. They also suggested that health issues be included in
+the first CAS pillar as a macro-economic priority and not restricted to the second pillar.
+
+The Environment
+Participants referred to Bank studies, w h i c h estimated the cost o f environmental degradation at 3.5
+percent o f the GDP or more than the total economic growth projected in 2004. There was significant
+worry about the gradual, yet consistent, degradation o f coastal areas and the pollution o f the air and
+water in the absence o f a comprehensive national policy. The Ministry o f Environment said 45
+percent o f the coastal areas were occupied, and that the country was losing 2 percent o f its coastline
+per year.
+The Parliament’s Environment Committee complained that the environment has not been a priority
+for the Government, which i s grappling w i t h macro-economic and financial imbalances. B u t the Bank
+insisted that Lebanon could n o longer afford to put environmental issues o n h o l d as it risked
+irreversible ecological damage. The Bank cited threats to the country’s water resources, especially the
+underground tables.
+
+44
+
+In discussions in Parliament and w i t h the Public Sector, participants lamented the waste o f water
+resources, w h i c h were unmatched in the region. A national water strategy, combined w i t h a technical
+action plan, w o u l d allow Lebanon to sell water to i t s neighbors. A Ministry o f Environment official
+noted that Gulf countries were blessed w i t h “black gold,” and Lebanon w i t h potentially lucrative
+“transparent gold,” if the sector were properly managed. The Bank stressed the need to strengthen
+local water authorities.
+There were calls for an urgent remedy to the nationwide problem o f solid waste. M a n y municipalities,
+especially the 250 new ones created after the 2000 election, lacked the expertise and capacity to deal
+w i t h solid waste. There were unanimous calls for a comprehensive approach to solid waste
+management - collection, disposal and treatment. The Bank noted that it was forced to close a solid
+waste project after a disappointing performance, but expressed i t s willingness t o re-engage i f a clear
+national strategy were adopted by the Government.
+
+Table 4. CAS Consultations Timeline
+
+45
+
+CAS Annex A2 - Lebanon
+Lebanon at a Glance
+POVERTY and SOCIAL
+
+2004
+Population. mid-year (millions)
+GNI per capita (Atlas method, US$)
+GNI (Atlas method, US$ billions)
+
+Lebanon
+
+M. East
+8 North
+Africa
+
+Uppermiddleincome
+
+4.6
+4,700
+21.4
+
+294
+2,000
+589
+
+576
+4,770
+2,740
+
+1.3
+2.6
+
+1.8
+-1.3
+
+0.8
+-0.9
+
+Development diamond'
+
+Life expectancy
+
+Average annual growth, 1998-04
+Population (%)
+Labor force (%)
+
+GNI
+per
+capita
+
+Most recent estimate (latest year available, 1998-04)
+Poverty (% of population below national poverty line)
+Urban population (% of total population)
+Life expectancy at birth (years)
+Infant mortality (per 1,000 live births)
+Child malnutrition (% of children under 5)
+Access to an improved water source (% of population)
+Literacy (% ofpopulation age 15+)
+Gross primary enrollment (% of school-age population)
+Male
+Female
+
+88
+71
+26
+
+56
+68
+45
+
+72
+69
+24
+
+100
+88
+103
+105
+101
+
+66
+69
+100
+104
+94
+
+93
+91
+106
+108
+106
+
+Gross
+primary
+enrollment
+
+~
+
+Access to improved water source
+Lebanon
+Upper-middle-incomegroup
+
+KEY ECONOMIC RATIOS and LONG-TERM TRENDS
+
+1994
+
+2003
+
+2004
+
+GDP (US$ billions)
+Gross capital formation/GDP
+Exports of goods and servicesiGDP
+Gross domestic savings/GDP
+Gross national savings/GDP
+
+9.6
+31.6
+7.9
+-22.9
+-16.1
+
+20.0
+20.3
+17.2
+0.5
+-0.6
+
+21.9
+21.1
+21.3
+1.4
+2.2
+
+Current account balanceiGDP
+Interest payments/GDP
+Total debtiGDP
+Total debt serviceiexports
+Present value of debtiGDP
+Present value of debtiexports
+
+-28.6
+0.9
+22.2
+5.3
+
+-20.9
+7.4
+39.6
+16.3
+
+-18.9
+6.1
+41.0
+11.0
+
+2003
+
+2004
+
+2004-08
+
+2.8
+1.3
+12.4
+
+4.9
+3.6
+10.1
+
+6.3
+5.0
+23.4
+
+2.2
+1.1
+2.5
+
+1984
+
+1994
+
+2003
+
+2004
+
+..
+..
+..
+
+6.8
+26.5
+15.0
+66.7
+
+7.9
+20.3
+12.9
+71.6
+
+7.0
+20.9
+12.7
+72.1
+
+..
+..
+..
+
+107.6
+15.3
+62.4
+
+82.8
+16.7
+37.0
+
+81.3
+17.4
+41.0
+
+1984-94
+
+1994-04
+
+2003
+
+2004
+
+..
+..
+..
+
+2.2
+0.8
+1.1
+3.0
+
+4.9
+4.9
+4.9
+10.0
+
+6.3
+6.3
+6.3
+5.9
+
+..
+
+0.8
+5.0
+-2.1
+-0.9
+
+1.8
+0.2
+13.8
+1.6
+
+2.5
+8.8
+7.1
+7.0
+
+1984
+
+(average annual growth)
+GDP
+GDP per capita
+Exports of goods and services
+
+1984-94 1994-04
+16.1
+13.6
+26.5
+
+STRUCTURE of the ECONOMY
+
+(% of GDP)
+Agriculture
+Industry
+Manufacturing
+Services
+Householdfinal consumption expenditure
+General gov't final consumption expenditure
+Imports of goods and services
+
+(average annual growth)
+Agriculture
+Industry
+Manufacturing
+Services
+Householdfinal consumption expenditure
+General gov't final consumption expenditure
+Gross capital formation
+Imports of goods and services
+
+..
+
+..
+..
+..
+
+36.6
+
+Economic ratios'
+Trade
+
+__
+
+Domestic
+savings
+
+Capital
+formation
+
+Indebtedness
+Lebanon
+Upper-middle-incomegroup
+
+i
+
+Growth of capital and GDP (%)
+30
+20
+10
+
+-2-0
+
+;;:1
+-30
+
+,
+
+~
+
+I
+
+99
+
+00
+
+02
+
+01
+
+03
+
+04
+
+-
+
+GCF
+
+--O-GDP
+
+IGrowth of exports and impo
+
+Note: 2004 data are preliminaryestimates.
+
+* The diamonds show four key indicators in the country (in bold) compared with its income-group average. If data are missing, the diamond will
+be incomplete.
+
+46
+
+-
+
+CAS Annex A2 Lebanon
+Lebanon at a Glance (continued)
+
+Lebanon
+PRICES and GOVERNMENTFINANCE
+Domestic prices
+I%change)
+Consumer prices
+Implicit GDP deflator
+Government finance
+(% of GDP, includes cumnt grantsJ
+Current revenue
+Current budget balance
+Overall surpluddeflcit
+TRADE
+
+(US$ mi//ionsJ
+Total exports (fob)
+Livestock, animal, and vegetable products
+Fats and oils
+Manufactures
+Total imports (cif)
+Food
+Fuel and energy
+Capital goods
+
+1984
+
+1994
+
+2003
+
+2004
+
+..
+..
+
+7.9
+7.9
+
+1.3
+3.2
+
+3.0
+2.9
+
+..
+
+..
+
+13.3
+-11.3
+-20.1
+
+22.2
+-10.7
+-13.7
+
+22.9
+-6.7
+-9.9
+
+1984
+
+1994
+
+2003
+
+2004
+
+1.758
+
+2,556
+
+1,483
+7,134
+
+2,182
+0.727
+
+..
+
+0
+2,375
+40
+494
+
+#DIV/O!
+
+1,307
+
+1,533
+
+87
+84
+104
+
+98
+98
+100
+
+98
+93
+106
+
+1994
+
+2003
+
+2004
+
+756
+5,990
+-5.234
+
+3,435
+7,387
+-3,952
+
+4,649
+8,964
+4,315
+
+327
+2,165
+
+-1,232
+1,003
+
+-1,079
+1,265
+
+Current account balance
+
+-2,742
+
+4,181
+
+-4,129
+
+Financing items (net)
+Changes in net reselves
+
+4,603
+-1,861
+
+7,566
+-3,386
+
+4,298
+-169
+
+7,375
+1,680.1
+
+14,031
+1,5075
+
+13,500
+1,507.5
+
+(US$ mi//ions)
+Exports of gwds and selvices
+Imports of goods and sewices
+Resource balance
+
+1984
+
+Net inwme
+Net current transfers
+
+Memo:
+Reserves including gold (US$ mi//ionsJ
+Conversion rate (DEC, /oca//US$)
+EXTERNAL DEBT and RESOURCEFLOWS
+
+6.5
+
+1984
+
+1994
+
+2003
+
+2004
+
+861
+29
+0
+
+2,127
+64
+
+7,906
+454
+
+8,957
+477
+
+Total debt selvice
+IBRD
+IDA
+
+125
+7
+0
+
+185
+8
+0
+
+762
+49
+0
+
+893
+48
+0
+
+Composition of net resource flows
+Official grants
+Official creditors
+Private creditors
+Foreign direct investment (net inflows)
+Podfolio equity (net inflows)
+
+28
+23
+-29
+5
+0
+
+74
+398
+
+581
+33
+
+-8
+-2,548
+
+77
+27
+4
+23
+4
+19
+
+0
+57
+34
+23
+15
+7
+
+0
+49
+35
+14
+14
+0
+
+(US$ mi//ions)
+Total debt outstandingand disbursed
+IBRD
+IDA
+
+World Bank program
+Commitments
+Disbursements
+Principal repayments
+Net flows
+Interest payments
+Net transfers
+
+0
+5
+4
+1
+3
+-2
+
+DevelopmentEconomics
+
+~ _ _ _
+
+II
+
+llO.WO,
+8wo
+
+..
+
+Export price index (2000=100J
+lmpolt price index 12000=100)
+Terms of trade (2000=100J
+BALANCE of PAYMENTS
+
+Export and import levels (US$ mill.)
+I
+
+-
+
+98
+
+99
+
+w
+
+ZIExports
+
+02
+
+01
+
+.~lmportsO3
+
+"I
+
+1 Current account balance to GDP (%)
+
+Composition of 2003 debt (US$ mill.)
+A 454
+
+1
+/
+
+A - IBRD
+B - IDA
+C - IMF
+
+D - Other multilateral
+
+E - Bilateral
+F - Private
+G -Short-term
+
+10/19/05
+
+47
+
+-
+
+CAS Annex B2 Lebanon
+Selected Indicators* o f Bank Portfolio Performance and M a n a g e m e n t
+
+(As o f October 18,2005)
+Indicator
+Portfolio Assessment
+Number of Projects Under Implementation a
+Average Implementation Period (years)
+Percent of Problem Projects by Number a,
+Percent of Problem Projects by Amount
+Percent of Projects at Risk by Number a , d
+Percent of Projects at Risk by Amount
+Disbursement Ratio (%) e
+Portfolio Management
+CPPR during the year (yesho)
+Supervision Resources (total US$)
+Average Supervision (US$/project)
+
+2003
+
+2004
+
+2005
+
+2006
+
+13
+4.9
+30.8
+35.9
+46.2
+45.2
+14.7
+
+9
+4.7
+11.1
+16.8
+33.3
+36.1
+17.4
+
+7
+4.8
+71.4
+67.3
+71.4
+67.3
+11.3
+
+7
+5.1
+71.4
+67.3
+85.7
+92.2
+4.0
+
+Yes
+646
+46
+
+no
+873
+67
+
+no
+678
+75
+
+Yes
+600
+75
+
+Memorandum Item
+Since FY 80 Last Five FYs
+Proj Eva1 by OED by Number
+13
+9
+Proj Eva1 by OED by Amt (US$ millions)
+527.2
+460.5
+46.2
+44.4
+% of OED Projects Rated U or HU by Number
+% of OED Projects Rated U or HU by Amt
+21 .I
+17.9
+a. As shown in the Annual Report on Portfolio Performance (except for current FY).
+b. Average age of projects in the Bank's country portfolio.
+c, Percent of projects rated U or HU on development objectives (DO) and/or implementation progress (IP).
+d. As defined under the Portfolio Improvement Program.
+e. Ratio of disbursements during the year to the undisbursed balance of the Bank's portfolio at the
+beginning of the year: Investment projects only.
+All indicators are for projects active in the Portfolio, with the exception of Disbursement Ratio,
+which includes all active projects as well as projects which exited during the fiscal year.
+
+48
+
+-
+
+CAS Annex B3 Lebanon
+Bank Group Program Summary
+(As of October 18,2005)
+
+Tentative IBRD Base-Case Lending Program *
+Fiscal year
+
+2007
+2007
+2007
+2007
+
+Proj ID
+
+US$(M)
+
+Lebanon Health Sector Development
+Utility Investment and Management Improvement Program
+Community Development Project (supplementary loan)
+Municipal Infrastructure Project (supplementary loan)
+Result
+
+Overall
+Result
+
+15.0
+50.0
+20.0
+15.0
+100.0
+
+Strategic
+Rewards /b
+(H/M/L)
+
+Implementation
+/b Risks
+(H/M/L)
+
+H
+
+H
+
+H
+H
+M
+
+H
+H
+L
+
+100.0
+
+l a This table presents the proposed program for the next two fiscal years.
+ib For each project, the strategic rewards and implementation risks are expected to be high (H), moderate
+(M), or Low (L).
+
+49
+
+CAS Annex B3 (IFC and MIGA) - Lebanon
+IFC and MIGA Program, FY 2003-2006
+(As of October 18,2005)
+
+IFC approvals (US$m)
+
+2003
+
+2004
+
+2005
+
+0.00
+
+5.25
+
+8.00
+
+2006
+
+Sector (%)
+
+Education Services
+Nonmetallic Mineral
+
+100
+
+Total
+
+0
+
+100
+
+100
+
+100
+
+100
+
+100
+
+0
+
+100
+
+100
+
+0.00
+
+0.00
+
+0.00
+
+0
+
+Investment instrument (%)
+Loans
+Equity
+Quasi-Equity
+Other
+
+Total
+MIGA guarantees (US$m)
+
+50
+
+0
+
+CAS Annex B4 - Lebanon
+Summary of Non-Lending Services
+
+(As o f October 18,2005)
+~
+
+Product
+Recent completions
+-Line Ministries
+PER Social Sector
+PER Education
+PER Transport
+PER Telecom
+PER Health
+PER WatedWastewater
+PER Solid Waste
+PER Irrigation
+Energy Strategy
+Assessment of Socio-Economic
+Poverty Note
+Privatization Support
+Social Security/ContractualSaving
+IDF for Public Procurement
+Sources of Growth
+Economic and Social Review (Note)
+Social Protection Note
+IDF for Streamlining MOSA
+Capital Market Development TA
+Economic Reform Support
+ROSC Accounting and Auditing
+Hydrocarbons Strategy
+Agricultural Policy Note
+Irrigation Sector Sustainability
+Poverty Survey/TA
+Underway
+Pension Policy Note
+Financial Assessment (CFAA)
+Public Expenditure Review
+IDF for Strengthening HIV/AIDS Sys.
+Planned
+
+Country Procurement Ass. Review
+Investment Climate Assessment
+Poverty Assessment
+Labor Market & Gender Assessment
+CEM - Sources of Growth
+Country Environmental Analysis
+Social Protection Strategy
+Economic Monitoring
+
+Completion Cost
+(US$OOO) Audience a/
+FY
+
+1999
+1999
+1999
+1999
+1999
+1999
+1999
+1999
+1999
+1999
+1999
+2000
+2000
+2000
+2001
+2001
+2002
+2002
+2004
+2003
+2003
+2003
+2004
+2004
+2004
+2005
+
+147
+182
+83
+64
+43
+27
+84
+32
+41
+115
+67
+105
+166
+176
+25
+161
+50
+146
+25
+18
+111
+
+Objective b/
+
+190
+65
+125
+50
+
+GovernrnentlBank
+GovernmentlBank
+GovernrnentlBank
+GovernrnentlBank
+GovernmentlBank
+GovernrnentlBank
+Government/Bank
+Government/Bank
+GovernmentlBank
+GovernmentlBank
+GovernmentlBank
+GovernmentlBank
+GovernmentlBank
+GovernmentlBank
+Government
+GovernmentlBank
+GovernmentlBank
+GovernmentlBank
+Government
+GovernmentlBank
+GovernmentlBank
+GovernmentlBank
+GovernmentlBank
+GovernmentlBank
+GovernmentlBank
+GovernmentlBank
+
+Knowledge generation/Problem-solving
+Knowledge generation/Problem-solving
+Knowledae aeneration/Problem-solvina
+Knowledge generation/Problem-solving
+Knowledge generationlProblem-solving
+Knowledge generation/Problem-solving
+Knowledge generationlProb1et-n-solving
+Knowledge generationlProblem-solving
+Knowledge generationlProblem-solving
+Knowledge generation/Problem-solving
+Knowledge generationlProblem-solving
+Knowledge generation/Problem-solving
+Knowledge generation/Problem-solving
+Knowledge generation/Problem-solving
+Problem-solving
+Knowledge generationlProblem-solving
+Knowledge generation/Problem-solving
+Knowledge generation/Problem-solving
+Knowledge generation/Problem-solving
+Knowledge generatiodProblem-solving
+Knowledge generation/Problem-solving
+Knowledge generation/Problem-solving
+Knowledge generation/Problem-solving
+Knowledge generation/Problem-solving
+Knowledge generation/Problem-solving
+Knowledge generation/Problem-solving
+
+2006
+2006
+2006
+2005-08
+
+90
+40
+220
+80
+
+Government/Bank
+Government/Bank
+Government/Bank
+Government
+
+Knowledge generation/Problem-solving
+Knowledge generation/Problem-solving
+Knowledge generation/Problem-solving
+Knowledge generation/Problem-solving
+
+2006
+2006
+2007
+2007
+2007
+2007
+2007
+
+150
+150
+175
+140
+150
+100
+80
+
+GovernmentlBank
+GovernrnentlBank
+GovernmentlBank
+GovernmentlBank
+GovernmentlBank
+GovernmentlBank
+GovernmentlBank
+
+Knowledge generation/Problem-solving
+Knowledge generation/Problem-solving
+Knowledge generation/Problem-solving
+Knowledge generation/Problem-solving
+Knowledge generation/Problem-solving
+Knowledge generation/Problem-solving
+Knowledge generation/Problem-solving
+
+35 GovernmentlBank
+vearlv
+
+Knowledge generationlProblem-solving
+
+2006-09
+
+-
+
+a. Government, donor, Bank, public dissemination.
+b. Knowledge generation, public debate, problem-solving.
+
+51
+
+1
+
+-
+
+CAS Annex B5 Lebanon
+Social Indicators (as o f October 18,2005)
+Latest single year
+1970-75 1980-85 1997-2003
+POPULATION
+Total population, mid-year (millions)
+Growth rate (% annual average for period)
+Urban population (% of population)
+Total fertility rate (births per woman)
+POVERTY
+(“4 of population)
+National headcount index
+Urban headcount index
+Rural headcount index
+INCOME
+
+4.5
+1.3
+87.5
+2.2
+
+311.6
+1.9
+58.0
+3.1
+
+334.9
+1.2
+75.8
+2.4
+
+4,565
+126
+108
+
+2,250
+
+5,340
+
+3.7
+1.7
+0.4
+
+2.8
+4.3
+
+3.7
+4.4
+
+90
+90
+89
+
+83
+86
+83
+
+93
+93
+94
+
+100
+100
+100
+
+88
+96
+78
+
+77
+
+23
+17
+
+96
+92
+
+92
+92
+
+94
+90
+
+65
+63
+67
+
+66
+64
+68
+
+71
+69
+73
+
+69
+67
+70
+
+73
+70
+77
+
+45
+54
+
+38
+44
+
+28
+32
+
+44
+54
+
+19
+22
+
+259
+198
+
+241
+181
+
+192
+136
+150
+
+193
+143
+
+197
+103
+
+2.9
+2.4
+67.0
+4.5
+
+3.3
+1.7
+79.4
+3.6
+
+GNI per capita (US$)
+Consumer price index (1995=100)
+Food price index (1995=100)
+INCOMElCONSUMPTlON DISTRIBUTION
+Gini index
+Lowest quintile (% of income or consumption)
+Highest quintile (% of income or consumption)
+SOCIAL INDICATORS
+Public expenditure
+Health (YOof GDP)
+Education (% of GDP)
+Social security and welfare (YOof GDP)
+Net primary school enrollment rate
+
+(“A of age group)
+Total
+Male
+Female
+Access to an improved water source
+(% of population)
+Total
+Urban
+Rural
+Immunization rate
+
+(% of children ages 12-23 months)
+Measles
+DPT
+Child malnutrition (% under 5 years)
+Life expectancy at birth
+(years)
+Total
+Male
+Female
+Mortality
+Infant (per 1,000 live births)
+Under 5 (per 1,000 live births)
+Adult (15-59)
+Male (per 1,000 population)
+Female (per 1,000 population)
+Maternal (modeled, per 100,000 live births)
+Births attended by skilled health staff (%)
+
+S a m e regionlincome group
+M. East &
+Upper8 North Africa
+middle-income
+
+Note: 0 or 0.0 means zero or less than half the unit shown. Net enrollment rate: break in series between 1997 and 1998 due to
+change from ISCED76 to ISCED97. Immunization: refers to children ages 12-23 months who received vaccinations before one
+year of age.
+World Development Indicators database August 2004, World Bank
+
+52
+
+7r
+
+0
+
+le
+3
+3
+N
+
+C
+
+I3
+3
+
+C
+Q
+
+rg
+
+C
+
+2
+vi
+
+3
+3
+N
+
+2
+
+VI
+
+o???
+
+09s
+
+0
+
+VI
+
+N
+
+Q\
+
+3
+3
+N
+
+W
+
+d
+
+-
+
+z
+
+vi
+3
+3
+N
+
+0
+
+B
+3
+
+0
+
+8
+3
+
+0
+
+N
+
+C
+
+3
+N
+
+m
+
+d
+
+? ? ?
+0 “ -
+
+z
+d
+
+N
+
+a\
+
+0
+
+d
+
+N
+
+C
+
+3
+
+m
+
+5
+3
+
+0
+
+3
+
+C
+F
+
+Q
+
+Q\
+
+m
+
+N
+
+3
+
+m
+
+3
+N
+
+m
+
+0
+
+7r
+7r
+
+Q
+
+2
+
+00
+
+m
+
+U
+
+(I
+
+0
+
+- 0 9 1
+
+r.imm
+
+Q\
+
+0
+0
+N
+
+2
+w
+w
+
+W
+0
+0
+N
+
+m
+sc
+m
+m
+
+t0
+0
+N
+
++
+
+\o
+0
+
+N
+0
+
+0
+N
+
+In
+0
+0
+N
+
+v
+
+0
+
+0
+N
+
+-
+
+-
+
+m
+
+w
+d
+
+m
+d
+w
+
+d
+
+P
+N
+
+s
+
+43
+P
+
+Q\
+Q\
+
+5
+
+I
+
+d
+
+N
+0
+0
+
+0
+0
+0
+N
+
+1
+
+m
+
+m
+
+0
+N
+
+3
+
+-s
+
+rri
+0
+0
+N
+
+N
+
+3
+
+z
+
+m
+
+m
+
+N
+
+m
+
+N
+
+3
+
+Q
+N
+N
+
+3
+N
+N
+
+e,
+
+Q\
+0
+0
+
+N
+
+00
+0
+0
+N
+
+I-
+
+O
+0
+
+N
+
+\o
+0
+0
+N
+
+m
+
+0
+0
+N
+
+v
+
+0
+
+0
+
+N
+
+3
+0
+
+N
+
+N
+0
+0
+N
+
+10
+10
+3
+
+0
+0
+N
+
+d
+
+0
+0
+
+0
+
+N
+
+t\
+
+s
+
+.-*0m
+.-V
+
+!i
+4
+
+m
+0
+
+0
+N
+
+oe
+
+0
+
+0
+N
+
+t-
+
+0
+0
+N
+
+w
+
+0
+0
+N
+
+IA
+0
+0
+N
+
+B
+0
+
+N
+
+B
+0
+
+N
+
+3
+
+sm
+
+m
+0
+0
+
+*
+00
+0
+0
+N
+
+l0
+0
+
+*
+w
+
+0
+
+0
+N
+
+vi
+0
+0
+N
+
+B
+0
+
+N
+
+90090Pt09
+
+o - + o d P r-l n m *
+lnor-0
+m w m
+
+c0
+
+CI
+
+Q
+
+aE
+0
+
+I
+
+5
+B
+
+h
+
+c,
+
+.
+I
+
+a
+u.
+.m
+I
+I
+
+.
+I
+
+4
+
+5P
+
+..
+u
+
+3
+
+z
+
+pa
+
+E
+
+.
+I
+
+V
+
+E
+Q
+
+E
+
+iz
+
+I
+
+Q
+
+fa
+
+c,
+
+4
+
+n
+*
+L
+
+6
+
+0
+
+0
+
+h
+
+E
+
+w
+
+m
+3
+v
+v:
+a,
+
+c..
+
+c
+
+E
+
+M
+1
+
+-
+
+CAS Annex B8 (IFC) Lebanon
+Statement o f IFC's
+Held and Disbursed Portfolio
+(As of August, 31,2005)
+(In U S Dollars Millions)
+Held
+F Y Approval
+1997
+1997
+1996
+1999
+1996
+1998
+2001
+1996
+1996
+2005
+Total Portfolio:
+
+Disbursed
+
+Company
+
+Loan
+
+Equity
+
+Quasi
+
+Partic
+
+Loan
+
+Equity
+
+Quasi
+
+Partic
+
+ADC
+Bank o f Beirut
+Byblos Bank
+Byblos Bank
+Fransabank
+Idarat SHV
+Lebanese Leasing
+MidEast Capital
+SGLEB
+SIS Adma
+
+0.42
+7.53
+0.78
+13.04
+0.3
+1.07
+0.75
+0
+0.47
+8
+
+0
+0
+0
+0
+0
+0
+0
+1.5
+0
+0
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+0
+0
+0.62
+4.43
+0.27
+0
+0
+0
+0.47
+0
+
+0.42
+7.53
+0.78
+13.04
+0.3
+1.07
+0.75
+0
+0.47
+5
+
+0
+0
+0
+0
+0
+0
+0
+1.5
+0
+0
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+0
+0
+0.62
+4.43
+0.27
+0
+0
+0
+0.47
+0
+
+32.36
+
+1.5
+
+0
+
+5.79
+
+29.36
+
+1.5
+
+0
+
+5.79
+
+59
+
+0
+W
+
+MAP IBRD 33433
+
+61
+
+IBRD 33433
+35°30'E
+
+36°00'E
+
+36°30'E
+
+To
+Hims
+
+To
+Tall Kalakh
+
+To
+Al Hamidiyah
+
+Kabir
+
+Qoubauyat
+
+LEBANON
+Halba
+
+35°30'N
+
+Funaydiq
+
+Tripoli
+
+To
+Al Qusayr
+
+Abou Moussa
+
+Zhgarta
+Zhgarta
+
+Hermel
+Hermel
+
+NORTH
+LEBANON
+
+Chekka
+
+Qaa
+
+Ja o
+
+Bcharri
+
+z
+
+n
+
+Qurnat
+Qur
+nat
+as Sawda’
+Sawda’
+(3,088 m)
+
+.
+
+s
+
+Al Labwah
+
+M
+
+t
+
+Aynata
+Aynata
+
+O ro
+
+Ihdin
+
+Douma
+
+Mediterranean
+Sea
+
+ntes
+
+Sib’’il
+Sib
+Sib’il
+Amioun
+
+V
+
+34°00'N
+
+b
+
+a
+
+n
+
+Afqa
+
+B
+
+e
+
+Jounie
+
+BEIRUT
+
+a
+
+i
+
+e
+-L
+
+b
+
+a
+
+n
+
+o
+
+n
+
+s.
+
+To
+An Nabk
+
+Baalbeck
+
+34°00'N
+
+BEKAA
+
+Antilyas
+
+BEIRUT
+
+a
+
+e
+
+tn
+
+L
+
+MOUNT
+LEBANON
+
+e
+
+k
+
+l
+
+M
+
+A
+
+Ibrahim
+
+a
+
+l
+
+nt
+
+o
+
+Jbeil
+
+n
+
+Al Aqurah
+
+y
+
+Rayak
+Hammana
+
+Baabda
+
+Zahleh
+i
+an
+L it
+
+Damour
+
+Beit
+ed Dine
+
+Jieh
+Joub Jannine
+
+Saida
+
+Qaraaoun
+
+El Zahrani
+
+Rachaiya
+Ha
+
+L it a n i
+
+Tibnine
+Tibnine
+Naqoura
+
+N A B AT I Y E H
+
+10
+
+20
+
+10
+
+30 Kilometers
+
+20 Miles
+
+LEBANON
+
+To
+Baniyas
+
+Hula
+
+Bent Jbail
+Rmaich
+
+0
+
+Mar yjayoun
+Maryjayoun
+
+SOUTH
+LEBANON
+
+sb
+
+34°30'N
+
+i
+an
+
+0
+
+Nabatiyeh
+
+Tyre
+
+To
+Ad Dimas
+
+A w w a li
+
+Jezzine
+34°30'N
+
+To
+Az Zabadani
+
+To
+Gadot
+
+To
+Nahariyya
+
+33°00' N
+
+35°30'E
+
+SELECTED CITIES AND TOWNS
+
+To
+Qiryat
+Shemona
+
+GOVERNORATE (MOHAFAZAT) CAPITALS
+This map was produced by
+the Map Design Unit of The
+World Bank. The boundaries,
+colors, denominations and
+any other information shown
+on this map do not imply, on
+the part of The World Bank
+Group, any judgment on the
+legal status of any territory,
+or any endorsement or
+acceptance of such
+boundaries.
+
+NATIONAL CAPITAL
+RIVERS
+MAIN ROADS
+RAILROADS
+GOVERNORATE (MOHAFAZAT) BOUNDARIES
+INTERNATIONAL BOUNDARIES
+
+36°00'E
+NOVEMBER 2004
+
+

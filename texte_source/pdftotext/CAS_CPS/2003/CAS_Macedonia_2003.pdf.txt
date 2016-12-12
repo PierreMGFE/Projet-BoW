@@ -1,0 +1,5348 @@
+Public Disclosure Authorized
+
+Document o f
+The World Bank
+
+Public Disclosure Authorized
+
+Public Disclosure Authorized
+
+Report No. 265 13-MK
+
+MEMORANDUM OF THE PRESIDENT
+OF THE
+INTERNATIONAL BANK FOR RECONSTRUCTION AND
+DEVELOPMENT
+TO THE
+EXECUTIVE DIRECTORS
+ON A
+COUNTRY ASSISTANCE STRATEGY
+FOR THE
+
+Public Disclosure Authorized
+
+FORMER YUGOSLAV REPUBLIC OF MACEDONIA
+August 14,2003
+
+South East Europe Country Unit (ECCU4)
+Europe and Central Asia Region
+
+CURRENCY EQUIVALENTS
+Unit of currency: Macedonian Denar (DEN) 53.88 DEN = US$l.O (at August 8,2003)
+WEIGHTS AND MEASURES
+Metric System
+
+ACRONYMS AND ABBREVIATIONS
+
+A A A Analytical and Advisory Assistance
+CAS
+Country Assistance Strategy
+CARDS Community Assistance for Reconstruction,
+Development, and Stabilization
+CDF Comprehensive Development Framework
+C E M Country Economic Memorandum
+CFAA Country Financial Accountability Assessment
+CPAR Country Procurement Assessment Report
+Country Portfolio Review
+CPR
+Civil Service
+cs
+DFID UK’s Department for International
+Development
+Development Objective
+DO
+Democratic Union for Integration
+DUI
+EBF Extra-Budgetary Fund
+EBRD European Bank for Reconstruction and
+Development
+ECA Europe and Central Asia
+ESW Economic Sector Work
+European Union
+EU
+Foreign Direct Investment
+FDI
+FESAL Financial and Enterprise Sector Adjustment
+Loan
+FIAS Foreign Investment Advisory Service
+Federal Republic o f Yugoslavia
+FRY
+FYR Former Yugoslav Republic o f
+FSAP Financial Sector Assessment Project
+Financial Sector Development
+FSD
+GDP Gross Domestic Product
+GEF Global Environment Facility
+Household Budget Survey
+HBS
+Health Insurance Fund
+HIF
+I B R D International Bank for Reconstruction and
+Development
+International Development Association
+IDA
+International Finance Corporation
+IFC
+International Monetary Fund
+IMF
+Implementation Progress
+IP
+I-PRSP Interim Poverty Reduction Strategy Paper
+
+V i c e President:
+Country Director:
+Team Leader:
+
+IRRP
+
+Irrigation Rehabilitation and Restructuring
+Project
+LIL
+Learning and Innovation Loan
+MDG Millennium Development Goal
+MIGA Multilateral Investment Guarantee Agency
+N A T O North Atlantic Treaty Organization
+NBM National Bank o f Macedonia
+NGO Non-Governmental Organization
+NSPR National Strategy for Poverty Reduction
+OED Operations Evaluation Department
+PDIF Pension and Disability Insurance Fund
+PEIR Public Expenditure and Institutional Review
+PHARE EU assistance program to pre-accession
+countries.
+PRGF Poverty Reduction and Growth Facility
+PRSP Poverty Reduction Strategy Paper
+PSAL Programmatic Structural Adjustment Loan
+PSMAC Public Sector Management Adjustment
+Credit
+PSMAL Public Sector Management Adjustment Loan
+Q A G Quality Assurance Group
+SAA
+Stabilization and Association Agreement
+S A 0 State Audit Office
+SBA
+Stand B y Arrangement
+SD
+Social Development
+SDSM Social Democratic Alliance o f Macedonia
+SEED Southeast Europe Enterprise Development
+SFRY Socialist Federal Republic of Yugoslavia
+SME SmallNedium Enterprise
+SOE
+State-Owned Enterprise
+TSA
+Treasury Single Account
+TSS
+Transitional Support Strategy
+TTFSE Trade and Transport Facilitation in Southeastern
+Europe
+UN
+United Nations
+UNICEF United Nations Children’s Fund
+USAID US Agency for International Development
+WBI
+World Bank Institute
+WLSG Working Level Steering Group
+W T O World Trade Organization
+
+Shigeo Katsu
+Orsalia Kalantzopoulos
+Tim Gilbo
+
+COUNTRY ASSISTANCE STRATEGY FOR
+THE FORMER YUGOSLAV REPUBLIC OF MACEDONIA
+TABLEOF CONTENTS
+
+..................................................................................................................
+I
+. Introduction .....................................................................................................................
+I1. The Country Context ......................................................................................................
+
+1
+
+Political Developments ...........................................................................................................
+Recent economic developments .............................................................................................
+Medium term prospects ..........................................................................................................
+
+1
+3
+6
+
+Executive Summary
+
+.
+I V.
+
+................................................
+Key Development Challenges in FYR Macedonia......................................................
+
+I11 The Government’s Agenda of Policies and Programs
+
+i
+
+1
+
+8
+
+10
+
+Promoting the efficient management of public resources and tackling corruption ..............11
+Promoting the creation of jobs through sustainable private sector driven growth ...............13
+Promoting reconciliation. building human capital and protecting the most vulnerable ....... 15
+
+V
+
+.
+
+The Bank’s Partnership with FYR Macedonia and the New IBRD Assistance
+Strategy
+
+...........................................................................................................................
+
+17
+
+Progress under the 1998 CAS and the 2001 TSS ................................................................. 18
+The objectives o f the new CAS, and how progress towards them w i l l be measured...........20
+The new IBRD program ....................................................................................................... 21
+Lending scenarios and triggers ............................................................................................. 27
+28
+Creditworthiness and exposure indicators............................................................................
+
+. Coordination with Partners and Civil Society............................................................
+VI1. Risks to the Success of the Bank’s program ...............................................................
+VI11.Concluding Remarks .....................................................................................................
+VI
+
+29
+
+32
+33
+
+Index o f Tables
+
+Table 1.
+Table 2.
+Table 3.
+Table 4.
+Table 5.
+Table 6,
+Table 7 .
+
+Selected Macroeconomic Indicators 1992-2002
+Macroeconomic Projections 2002-2005
+Lending Results under the TSS
+Portfolio Status
+CAS Outcomes, Indicators and Benchmarks
+The Planned IBRD Assistance Program FY04-06
+Triggers for the FY04-06 Lending Program
+
+4
+7
+19
+21
+22
+25
+28
+
+Index of Boxes
+
+Box 1.
+Box 2.
+Box 3.
+Box 4.
+
+The Ohrid Agreement
+The Stabilization and Association Agreement with the European Union
+Recent Diagnostic Studies and Surveys in FYR Macedonia
+Incorporating the Views o f C i v i l Society into the CAS
+
+Annexes
+
+Annex A. Lending Portfolio - Maturity b y Objective
+Annex A2. FYR Macedonia - At A Glance
+Annex B2. Selected Indicators o f Bank Portfolio Performance and Management
+Annex B3. I B R D A D A Program Summary
+Annex B 3 (IFC & MIGA) Program Summary
+Annex B4. Summary o f Nonlending Services
+Annex B6. K e y Economic Indicators
+Annex B7. Key Exposure Indicators
+Annex B8. Operations Portfolio (IBRD/IDA and Grants)
+Annex BS(1FC). Statement o f IFC’s Held and Disbursed Portfolio
+Annex B9. CAS Program Matrix
+Annex B l0. Summary o f Development Priorities
+
+3
+9
+11
+31
+
+Executive Summary
+1.
+This is the first IBRD only Country Assistance Strategy (CAS) for the former Yugoslav
+Republic of Macedonia (FYR Macedonia). This CAS, covering FY04-06, follows a
+Transitional Support Strategy (TSS) that was discussed by the Board on September 13, 2001.
+The TSS outlined a program o f Bank assistance to support the post conflict priorities o f the
+country as i t emerged from an internal conflict in 2001. The TSS program covered FY02, but
+was extended to cover FY03 when macroeconomic performance and progress on structural
+reforms deteriorated in the lead up to the elections in September o f 2002. This CAS presents an
+IBRD program o f support for the period FY04-06, which seeks to build on the markedly
+improved macroeconomic management and structural reform progress since the elections. I t
+outlines a highly selective program o f investment and adjustment lending o f up to US$165
+million, complemented b y a substantial body o f diagnostic and fiduciary work. The IBRD
+program would focus on promoting the effective management of public resources, tackling
+corruption, creating the conditions for private sector led growth, and ensuring an effective safety
+net i s in place for the most vulnerable Macedonians.
+2.
+Key issues for discussion by the Board. The IBRD support program would scale up the
+Bank’s support and aims to take advantage o f the stability in FYR Macedonia and the region
+which now exists. Key issues which the Executive Directors may wish to consider include:
+I s the timing appropriate for the Bank to move forward with a new program o f IBRD
+financial support considering FYR Macedonia’s recent history of conflict and the
+ongoing challenges o f maintaining social cohesion?
+
+D o the priorities outlined for support b y the Bank promise the most effective use o f the
+Bank’s resources, in consideration o f the broader set o f development challenges
+identified and lessons learned b y the Bank since 1998?
+I s the proposed framework for monitoring the results o f the C A S appropriate and
+feasible, considering that efforts to develop a formal national development strategy are at
+an early stage?
+3.
+A new multi-ethnic coalition government came to power in November 2002 with a
+mandate to implement the peace agreement that ended the 2001 conflict (known as the Ohrid
+Agreement), and to tackle corruption, create jobs and address poverty. Following concerted
+action by the Government the macroeconomic outlook has improved, and agreement has been
+reached with the International Monetary Fund (IMF) on a reform program supported b y a Stand
+B y Arrangement (approved April 30, 2003). The Bank portfolio, which had deteriorated during
+the 2001 crisis, has now returned to health, and implementation i s proceeding well.
+4.
+Internal and regional peace offers a window of opportunity. For the first time since
+FYR Macedonia’s independence in 1991 both the regional and internal environments are calm,
+offering an opportunity to achieve sustainable growth. While FYR Macedonia does not have a
+Poverty Reduction Strategy Paper (PRSP) or a National Development Strategy, the Ohrid
+Agreement o f August 2001 and the Stabilization and Association Agreement (SAA) with the
+European Union (EU), which was signed in April 2001, together form a strong country-owned
+framework for the development agenda. The Ohrid Agreement provides the political framework
+through which the divisions in Macedonian society can be addressed and social cohesion
+
+i
+
+improved. However, the agreement i s complex, and implementation w i l l require overcoming
+significant economic and political challenges. EU membership remains an overarching longterm goal, and the SAA provides strong incentives to overcoming political differences that have
+stymied economic reform in the past. The SAA calls for the gradual harmonization o f
+Macedonian laws and institutions with those o f the European Union, as well as setting specific
+timetables for the reduction o f trade barriers between FYR Macedonia, the EU, and other S A A
+countries.
+Increased regional economic integration can spur growth and reduce poverty. Over
+5.
+the last half-decade, economic growth in FRY Macedonia has been inconsistent. Significant
+foreign investment flows have not materialized, and unemployment has remained high. An
+improved regional environment and FYR Macedonia’s strategic geographic location offer an
+opportunity for increased economic integration within the region and with the EU, which would
+help spur investment, improve the competitiveness o f the private sector, and drive growth. To
+better understand and address the challenge o f transforming growth into poverty reduction, there
+i s a need to build an accurate, agreed baseline understanding o f poverty, the capacity to
+objectively monitor poverty over time, and develop the mechanisms b y which poverty analysis
+can inform policy.
+
+6.
+Despite the recent crises that hindered development, including the 1999 Kosovo crisis
+and the 2001 internal conflict, progress has been made on the economic reform agenda. This
+includes improvements in the health o f the financial sector, and, to a lesser extent, the
+management o f public resources. Key economic challenges are to further improve public sector
+management, particularly to foster the transparency and efficiency o f public expenditure and to
+professionalize the civil service. Further efforts to improve the investment climate in order to
+attract increased foreign and domestic investment w i l l also be critical to long-term growth.
+Improvements in the efficiency and targeting o f the social safety net w i l l also be important to
+address poverty in the short-term.
+7.
+The program is selective and results can be monitored. The IBRD program o f support
+has been coordinated with other development partners, with whom the Bank w i l l be working
+closely during implementation. Case triggers have been carefully chosen to ensure a graduated
+program o f support consistent with the lessons learned over recent years. A priority set o f
+measurable outcomes has been selected, based on the Bank’s comparative advantage and past
+and planned involvement, that can be used to track the effectiveness o f the CAS program.
+
+Risks. N o t all o f the risks to the success o f the CAS program can be mitigated b y the
+Bank. The threat o f renewed political turmoil and ethnic violence, though modest and
+diminishing, w i l l remain, especially considering the difficulties that may be encountered in
+implementing the Ohrid Agreement and continuing uncertainty as to the future o f neighboring
+Kosovo. The difficult economic reform agenda that lies ahead may also create social stresses
+that could translate into waning political commitment on the part o f the Government. The
+selective and closely coordinated nature o f the Bank’s interventions over the CAS period also
+imply a reliance on the effective performance of development partners, both in tandem with
+Bank projects and in other key sectors where the Bank w i l l not be involved.
+8.
+
+I.
+
+Introduction
+
+1.
+This i s the first IBRD only CAS for FYR Macedonia, defining a program o f Bank
+assistance for the period FY04-06. The last full CAS was prepared in 1998, which outlined a
+support program for FY99-01, based on a blend o f IDA and IBRD resources. A progress
+report was prepared in 1999 when an emergency scenario was triggered b y the Kosovo crisis
+(see below). While FYR Macedonia graduated from IDA on July 1, 2001, the Bank prepared
+a TSS in August o f that year in response to the outbreak o f an internal conflict. The TSS,
+which covered FY02, outlined exceptional access to a further IDA allocation o f US$35
+million on hardened terms. The coverage o f the TSS was extended through FY03 because o f
+delays in implementation due to continuing political instability which slowed reform progress
+in the lead up to the parliamentary election in September 2002.
+
+2.
+Despite the recent crises, FYR Macedonia now has an opportunity to regain the
+economic momentum that i t had established in the latter part o f the last decade. An improved
+regional climate and increased impetus for integration with the EU can combine to build on
+the substantial, albeit inconsistent, progress that has been made towards transforming the
+Macedonian economy since independence in 199 1. FYR Macedonia can establish a virtuous
+cycle in which ongoing ethnic reconciliation and growing social stability lays the basis for
+stronger economic growth, reduced unemployment, and fewer households living in poverty.
+Improving the quality and accountability o f public institutions w i l l be a fundamental
+challenge, necessary both to underpin reconciliation and also to attract badly needed domestic
+and foreign investment. FYR Macedonia needs to grasp the opportunity afforded b y i t s
+strategic location in South East Europe and i t s considerable progress towards economic
+transformation to date, and aggressively pursue the integration o f i t s economy with those o f
+i t s neighbors and with the EU. FYR Macedonia w i l l need to foster a competitive and
+dynamic private sector to take advantage o f improved access to regional markets.
+
+11.
+
+T h e Country Context
+
+Political Developments
+
+3.
+The regional environment has improved, but risks remain. For the first time since
+independence in 1991, FYR Macedonia faces both regional and domestic environments o f
+relative political stability. The breakup o f the former Socialist Federal Republic o f
+Yugoslavia (SFRY), which began when Slovenia declared independence in 1991, resulted in a
+series o f conflicts throughout the decade between and within the constituent republics o f the
+SFRY Although FYR Macedonia escaped hostilities within i t s borders until 2001, tensions
+were often high throughout the 1990s due to spillover effects o f nearby conflicts. The country
+was under particular pressure because o f i t s multi-ethnic makeup, and United Nation (UN)
+forces were present in the country from 1992 through 1999 to help preserve the new state.*
+During the same period, intermittent closing o f borders to the north and the south isolated
+
+.'
+
+~
+
+I
+
+The SFRY consisted of present day Slovenia, Croatia, Bosnia-Herzegovina, FYR Macedonia, and Serbia and
+Montenegro.
+According to the 1994 census, the population consists of ethnic Macedonians (66.6 percent), ethnic Albanians
+(22.7 percent), ethnic Turks, (3.9 percent), ethnic Serbs (2.0 percent), Roma (2.3 percent), and some other small
+minority communities.
+
+'
+
+1
+
+FYR Macedonia geographically and strangled international trade f l o w s 3 Then, in 1999, a
+crackdown b y forces o f the Federal Republic o f Yugoslavia (FRY)4 on an armed ethnic
+Albanian insurgency in the Serbian province o f Kosovo pushed about 350,000 refugees across
+the border into FYR Macedonia (the equivalent o f 17 percent o f the country’s population).
+The Kosovo crisis severely strained internal stability and economic management in FYR
+Macedonia, severing key trade and transport links to the north and presenting a considerable
+humanitarian challenge in managing and caring for Kosovar refugees. With the military
+intervention and financial assistance o f the international community there was an early end to
+hostilities, most refugees quickly returned home, and the Macedonian economy rapidly
+recovered.
+4.
+Domestic peace has been re-established. In early 2001, fighting erupted between
+Macedonian government forces and ethnic Albanian rebels in the northwest region o f FYR
+Macedonia. As fighting spread to the outskirts o f the capital, a full-blown civil war was
+feared. However, in August 2001, an internationally mediated ceasefire led to the disarming
+o f insurgents overseen b y the North Atlantic Treaty Organization (NATO), a Presidential
+amnesty for most combatants, and a peace agreement signed b y the leaders o f the major
+political parties. This General Framework Agreement for Peace (also known as the Ohrid
+Agreement, after the town where i t was negotiated) provided for the cessation of hostilities
+and the increased protection o f the rights o f ethnic Albanians and other minority groups.
+(Box 1). A small NATO protective force entered the country to lead the disarmament effort
+and monitor security developments, which became a EU-led military peacekeeping mission in
+March 2003. B y 2003, violence had subsided in the conflict-affected areas, most displaced
+persons had returned home, and the police had established an active presence in most
+communities.
+
+A positive political environment now exists. The outcome o f the September 2002
+5.
+parliamentary elections places FYR Macedonia in a good position to take advantage o f the
+opportunity that the improved regional security environment offers. The elections were
+conducted peacefully and were endorsed b y international monitors as free and fair. The
+Together for Macedonia coalition, headed b y the Social Democratic Alliance o f Macedonia
+(SDSM), won 60 o f the 120 seats in Parliament. As has been the case with all governments
+since independence, the winning ethnic Macedonian party opted to include in the Government
+one o f the ethnic Albanian parties. In this case a coalition was formed with the Democratic
+Union for Integration (DUI),founded b y a leader o f the 2001 insurgency, which had swept the
+election among ethnic Albanian voters and contributed a further 16 seats to the Government.
+The SDSM/DUI victory represented a popular backlash against corruption and irregular
+public spending which had ballooned in the public sector in 2001 and 2002. The coalition
+came to power with a mandate to re-impose the rule o f law, fight corruption, reduce
+unemployment, and alleviate poverty.
+
+Disagreement with neighboring Greece over the use o f the name “Republic of Macedonia” led to a trade
+blockade during 1994-1995, and internationalsanctions against the Federal Republic o f Yugoslavia (now Serbia
+and Montenegro) imposed in 1992 (and a ban on transshipment o f products through the country in 1993) were
+not lifted until 2001.
+4
+FRY adopted a new constitution in 2003 and changed i t s name to ‘Serbia and Montenegro’.
+
+L
+
+Box 1. The Ohrid Agreement
+The General Framework Agreement for Peace (the Ohrid Agreement) was signed on August 13, 2001 by the
+leaders of the four main political parties in FYR Macedonia at the time, representing ethnic Macedonians and
+ethnic Albanians. I t set out specific reforms and protections aimed at strengthening the rights of minority
+communities, especially ethnic Albanians. The Ohrid Agreement institutes a minority veto over certain categories
+o f legislation, including laws that directly affect culture, use of language, education, local government and
+personal documentation, and provides for affirmative action in public employment, The agreement also mandates
+the increased use of the Albanian language in public affairs and decentralization o f the responsibility for many
+government functions to the municipalities.
+The amendments to the Constitution required by the Ohrid Agreement were adopted by the Parliament on
+November 16, 2001 (almost two months later than anticipated). After considerable debate and delay the new Law
+on Local Self-Government was adopted by the Assembly on January 24, 2002. The Law assigns local
+governments responsibility for establishing and financing primary schools, providing social care for the disabled,
+and other social categories, and providing primary health care and health protection for persons without health
+insurance. The transitional provisions o f the law anticipate an implementation period of two years, specifying that
+existing sector-specific laws should be harmonized by the end of 2003.
+An important aspect of the Ohrid Agreement from an economic perspective i s that i t includes a commitment to
+create ‘equitable’ representation o f minorities in the public administration, addressing present imbalances. This
+will require the employment o f under represented minorities, which w i l l be difficult to fulfill while containing
+wage spending. This challenge will be amplified by the need to decompress wage structures in public
+employment. Improving the representation of minorities will also compound difficulties in implementing
+regulations intended to create a professional, merit-based civil service. The achievement of civil service reform
+objectives will be further complicated by the reduction in central government employment and increase in local
+government employment implied by decentralization.
+
+6.
+
+The Stabilization and Association Process o f the EU and the Stability Pact, both
+created following the 1999 Kosovo conflict, provide strong integrating forces that are
+fostering increasing economic and political ties in the region, under the broader framework o f
+harmonization with Europe. However, the unresolved final status o f Kosovo remains a
+potential flashpoint for ethnic tensions and continues to constrain the regional economic and
+political outlook.
+Recent economic developments
+
+7.
+Macroeconomic stability has been maintained since the mid 1990s. FYR Macedonia
+was the least developed o f the republics o f the SFRY, and i t s economy had been contracting
+for more than six years at the time o f independence in 199 1. Macroeconomic instability in the
+early years, which saw output collapse b y about 20 percent and the fiscal deficit balloon to 13
+percent o f GDP, was countered by a stabilization program beginning in 1994. This program
+succeeded in bringing inflation down to single digit levels and reducing the fiscal deficit to
+1.4 percent o f GDP by 1996, largely through sharp cuts in transfers and subsidies and
+rescheduling of external debt. Over the next couple o f years the pace o f economic growth
+picked up, price stability was preserved, and fiscal balance was largely achieved b y 1997.
+Importantly, government expenditure was slashed by nearly 10 percent o f GDP between 1994
+and 1998, although this achievement was subsequently undermined b y the expenditure
+demands of the 2001 conflict. (Table 1.)
+8.
+Recent crises have disrupted growth. The 1999 Kosovo crisis resulted in a doubledigit rate o f decline of industrial production, and a severe deterioration o f the fiscal balance.
+
+3
+
+However, the swift resolution of the crisis allowed for a quick recovery, with higher exports
+and consumption resulting in GDP growth o f 4.3 percent in 1999, and donor aid helping close
+the fiscal gap. The current account deficit fell to just below 1 percent o f GDP as official and
+private transfers surged. B y 2000 exports had recovered to their 1998 level, and the economy
+registered i t s highest growth rate since independence (4.5 percent). In addition, the
+authorities returned to their program of structural reforms that had stalled during the crisis.
+As a result o f this quick turnaround, overall performance for 1995-2000 remained quite
+positive. The economy grew in this period b y 14.4 percent, with the industrial sector taking
+the lead with an 18.6 percent growth, driven b y revival o f the iron and steel industry, and
+textiles. Services followed with a 12.9 percent growth rate (mostly under the influence o f the
+developing telecommunication and transport sectors) while output in agriculture grew b y 8.4
+percent.
+9.
+The 2001 civil conflict disrupted this positive economic momentum. While direct
+conflict damage was limited, output contracted by 4.5 percent as opposed to forecast GDP
+growth o f 6 percent. Investment activity dropped markedly, and the fiscal and external deficits
+widened significantly as security related expenditures surged and exports and transfers
+plummeted. In 2002, the recovery o f the economy was slower than expected, with investment
+remaining sluggish, while higher private consumption was offset b y depressed exports and
+surging imports. The fiscal deficit remained high (at 5.7 percent o f GDP), partly because o f
+ongoing security needs but mostly because o f increased spending in the run-up to the
+September 2002 parliamentary elections. The failure o f exports to recover drove a worsening
+current account deficit, moving f r o m 6.8 percent o f GDP in 2001 to 8.7 percent in 2002.
+
+10.
+Significant investmentflows have not materialized. Apart from a spike in 2001 from
+the sale o f the telephone company (Maktel), foreign direct investment (FDI) has remained at
+l o w levels. Privatization, although rapid, has generally favored insiders, which has
+significantly restricted post-privatization restructuring.
+M u c h o f the enterprise sector
+continues to generate losses, while the newly emerging private sector i s s t i l l too small and
+fragmented to generate significant growth or job creation. While more successful transition
+economies saw massive inflows o f investment and capital from developed neighbor countries,
+both FDI and domestic investment in FYR Macedonia have been constrained b y the riskiness
+o f the region, lingering domestic problems with the investment climate, and heightened
+perceptions o f domestic political risk.
+Table 1. Selected Macroeconomic Indicators 1992-2002
+1992
+
+GDP growth (5%)
+Inflation
+Fiscal Balance
+Revenues
+Expenditures
+Current Account
+Foreign Direct Investment
+Gross Domestic Investment
+
+1993
+
+1994
+
+1995
+
+1996
+
+-6.6
+1690.7
+
+-7.5
+349.8
+
+-1.8
+121.8
+
+-1.1
+15.9
+
+-9.8
+39.3
+49.1
+
+-13.4
+40.2
+53.6
+-3.2
+0.0
+17.9
+
+-2.7
+43.1
+45.8
+-7.8
+0.7
+15.5
+
+-0.7
+38.3
+39.0
+-6.7
+0.2
+20.8
+
+0.0
+15.6
+
+Sotrrcri: National Bank of Macedonia, State Statistical Office, Ministry
+
+of Finance
+
+A
+
+1997
+
+1.2
+1.4
+3.0
+4.4
+(in % of GDP)
+-1.4
+-0.4
+35.7
+34.8
+37.1
+35.1
+-7.7
+-7.7
+0.3
+0.4
+20.1
+21.0
+
+1998
+
+1999
+
+2000
+
+2001
+
+2002
+
+3.4
+0.8
+
+4.3
+-1.1
+
+4.5
+5.8
+
+-4.5
+5.5
+
+0.7
+1.8
+
+-1.7
+33.3
+35.0
+-7.5
+3.3
+22.3
+
+0.0
+35.4
+35.4
+-0.9
+0.9
+19.7
+
+2.5
+36.6
+34.1
+-2.1
+4.9
+21.4
+
+-6.3
+34.4
+40.8
+-6.8
+12.9
+18.3
+
+-5.7
+36.1
+41.8
+-8.7
+2.1
+21.9
+
+11.
+Unemployment has remained very high. FYR Macedonia has had high rates o f
+unemployment since the late 1960s which have worsened with the transition to a market
+e ~ o n o m y . ~The Labor Force Survey indicates that about one-third o f the workforce i s
+unemployed, although other evidence argues that few adults are completely idle. Many
+households have turned to subsistence agriculture and petty trade, staving off poverty, while
+jobs in the formal sector have continued to disappear. Labor market flexibility has improved
+through significant reforms o f the legal and administrative framework for employment, but
+growth so far has simply not been sufficient to spur j o b creation that would absorb significant
+numbers o f those without work.
+Poverty is a moderate problem in FYR Macedonia.
+From an international
+12.
+perspective, poverty in FYR Macedonia i s moderate, with 7.5 percent o f the population with
+per capita consumption below the international standard o f $2.15 per day in 2000.6 Data from
+the 2000 official Household Budget Survey (HBS) indicate moderate relative poverty, with 20
+percent o f the population falling below 60 percent o f median equivalent income. The
+household data also reveals the following:
+
+Significant gaps exist in our knowledge o f p ~ v e r t y .These
+~
+include a lack of data on (i)
+the regional poverty profile; (ii)
+the non-income dimensions o f poverty; (iii)
+the ethnic
+disaggregation o f poverty; (iv) the informal coping mechanisms o f the poor; and (v) the
+gender dimensions o f poverty.
+Poverty i s persistent. Modest but volatile growth since 1996 has been countered b y
+rising inequality o f incomes over the same period, leaving poverty rates unchanged
+during 1996-2000 (as measured against constant real national standards).8
+Unemployment and underemployment are high, and are strongly correlated with
+poverty. The poverty risks o f households with unemployed have been rising
+throughout 1996-2000. Poverty i s also very strongly correlated with poor educational
+outcomes.
+Widespread rural poverty and pockets of urban poverty persist. Consumption poverty
+i s higher in rural areas, which also hosted most o f the poor through the 1996-2000
+period. There are pockets o f poverty in urban areas, especially in urban slums, and the
+geographical concentration o f poverty i s partly in areas where ethnic tensions are the
+highest.
+Complex demographics and the regional dispersion o f living standards make poverty
+hard to measure and monitor. Given a variety of living arrangements varying from
+Significant rates of unemployment were a distinguishing feature of the Yugoslav socialist system.
+In ECA, US$2.15 i s used as the absolute poverty line instead of $1 due to heating costs.
+A 1999 Poverty Assessment supported by the Bank was based mostly on data from 1996 and earlier. The
+Macedonian authorities produced an Interim-Poverty Reduction Strategy Paper (I-PRSP) in 2000 and later a
+National Strategy for Poverty Reduction (NSPR). The former government had begun work on a PRSP, but
+decided, once FYR Macedonia became ineiigible for I D A and PRGF resources, to reduce the scope of work.
+The resulting strategy was presented by the new government to donors in December 2002. The new government
+has indicated a desire to work with the Bank and other partners on developing the NSPR further.
+Poverty measured using an inflation adjusted consumption basket has been relatively constant, with a 12
+percent increase i n real personal consumption between 1996-2000 which was fully offset by worsening income
+distribution.
+
+’
+*
+
+5
+
+extended multigenerational households with 15-20 members to nuclear families and
+single elderly people, coupled with ethnic and cultural diversity, any diagnosis o f
+poverty i s extremely sensitive to data quality and measurement techniques.
+13.
+Recent policy performance has been encouraging. Despite poor outcomes in
+attracting investment and reducing unemployment, economic management has improved in
+2003. The IMF Board approved a Stand B y Arrangement to support the Government’s
+macroeconomic program at the end o f April 2003, which w i l l run until the end o f June 2004.
+Under the program, the authorities plan significant fiscal adjustment, which w i l l reverse the
+deterioration experienced in 200 1 and 2002. Though challenging to implement, the program
+lays out a sustainable fiscal path for the medium term.
+Medium term prospects
+14.
+Integration into the regional and EU markets will be key to growth. The
+Stabilization and Association Agreement (SAA) with the EU w i l l promote greater flows o f
+goods and services b y reducing tariff and other trade barriers, providing an enormous market
+for Macedonian producers and stimulating competition in the domestic market. Perhaps more
+importantly, the S A A aims to accelerate the alignment o f policies, legislation and institutions
+with those o f the EU. This alignment should spark higher FDI flows and higher domestic
+investment, fueling stronger growth. As a small, landlocked economy in a strategic
+geographic position, FYR Macedonia must strive to become an open and l o w cost goods and
+capital transshipment center linking Turkey, Greece, Bulgaria, Serbia and Montenegro,
+To attract foreign investment and increase the
+Albania and other EU countries.
+competitiveness o f the economy, FYR Macedonia must aggressively work to remove the
+regulatory and procedural barriers currently inhibiting the flow o f goods, services, capital and
+information across i t s borders. While the SAA and recent World Trade Organization (WTO)
+membership commit FYR Macedonia to a schedule o f trade liberalization, there remain
+significant procedural and administrative constraints to the successful integration o f the
+Macedonian economy with the region and the EU.
+
+15.
+Assuming continuing improvements in regional and domestic stability and strong
+policy performance, the medium-term outlook i s positive. With good structural reform
+progress and an external environment conducive to improved trade and capital flows,
+economic growth i s projected to strengthen to 4.5 percent by 2005 (Table 2).9
+
+9
+
+These projections assume achieving the high case reform scenario with corresponding IBRD support as
+outlined in Section V.
+
+6
+
+T a b l e 2. Macroeconomic Projections 2002-2005
+Actual
+
+Projected _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+2002
+Gross Domestic Product
+Inflation
+Fiscal Balance
+Revenues
+Expenditures
+Current Account
+Foreign D i r e c t Investment
+Gross Domestic Investmei
+
+2003
+(in %)
+
+0.7
+1.8
+
+3 .O
+2.6
+(in % o f GDP)
+-5.7
+-1.9
+36.1
+32.9
+41.8
+34.8
+-8.7
+-6.8
+2.1
+2.4
+21.9
+23.0
+
+2004
+
+2005
+4.0
+2.1
+
+4.5
+2.1
+
+-1.1
+33.4
+34.5
+-6.9
+2 .I
+23.5
+
+-0.6
+33.0
+33.6
+-6.5
+2.8
+24.4
+
+16.
+Zncreased investment is critical to the medium-term outlook. Increased regional
+integration w i l l promote the emergence o f a more efficient and competitive business
+environment. Sustained economic growth w i l l require higher investment levels and concerted
+efforts to improve the productivity and the efficiency o f allocation o f factors o f production,
+particularly o f investment capital and assets such as land. In addition to poor results in
+attracting foreign investment, financial intermediation o f domestic savings in FYR Macedonia
+i s low, due primarily to poor judicial protection o f creditor rights, unclear systems for
+recording title, transfer and collateralization o f land, and a history o f political interference in
+the operations o f the enterprise and financial sectors. To achieve projected growth outcomes,
+improvements in the investment climate w i l l be needed to restore investment to pre-crisis
+levels o f around 27 percent o f GDP b y 2005. This implies a significant increase in both
+domestic savings and financial intermediation, combined with rising confidence o f foreign
+investors.
+
+17.
+
+There is significant untapped potential in the Macedonian labor force. While labor
+intensive growth i s needed to reduce unemployment and improve l i v i n g standards in the
+short-term, human capital development must remain a priority. Special attention w i l l need to
+be paid to education and health, to generate rising labor productivity over the long term, as
+well as further reform and consistent enforcement o f labor regulations and taxes. Reform o f
+the overall regulatory environment for the private sector w i l l be crucial, as limited prospects
+for significant restructuring and productivity gains among former State-Owned Enterprises
+(SOEs) w i l l mean that opportunities for increased labor utilization w i l l need to be largely
+generated b y small and medium enterprises (SMEs). As economic borders disappear in the
+medium-term, the Macedonian economy w i l l need to diversify f r o m i t s reliance on traditional
+sectors such as steel and textiles towards more human capital intensive activities. The
+emergence o f new, dynamic, SMEs in the service sector capable o f fully exploiting FYR
+Macedonia’s strategic location and historic strengths, such as in engineering, w i l l be
+particularly important in this regard.
+
+18.
+External Debt and Creditworthiness. While current projections indicate that with
+proper management, external debt should not create sustainability problems in the mediumterm, these projections hinge on a return to sustainable growth o f output and o f exports. At
+the end of 2002, FYR Macedonia’s external debt stood at $1.4 billion, or 39 percent of GDP.
+7
+
+The country is, thus, rated as less-indebted b y the Bank, although the share of preferred creditor
+debt remains high (at 20 percent of GDP and 51 percent of total debt). Liquidity remains
+relatively comfortable, with a short-term debt to reserves ratio o f 28 percent and import cover o f
+4.2 months o f imports, despite the extremely weak performance o f exports in the last two
+years. Although external debt increased rapidly in the period up to 1998, i t has since
+stabilized at around 40 percent o f GDP. The structure o f external debt i s relatively favorable,
+with liabilities based on concessional lending accounting for around one-quarter o f total debt
+outstanding. Liabilities towards private and commercial creditors accounts for just over onequarter o f total external debt, and short-term debt i s less than 6 percent o f the total. Close to
+86 percent o f the total debt outstanding i s public and publicly-guaranteed, with the majority
+being obligations o f the central government. In addition, even domestic public debt i s
+denominated almost entirely in foreign currency.
+
+111.
+
+The Government’s Agenda of Policies and Programs
+
+19.
+Although FYR Macedonia does not have a formal national development strategy, the
+policy agenda o f the Government was clearly articulated in i t s political platform leading into
+the 2002 elections. The four pillars of the platform, political and social stability, poverty
+reduction, j o b creation, and tackling corruption, enjoy broad support throughout FYR
+Macedonia. Several detailed policy documents have been issued including on macroeconomic
+policy, the fight against corruption, support for SMEs, and labor markets. More generally,
+development policy i s underpinned b y the implementation o f two agreements: the Ohrid
+Agreement, and the SAA with the European Union (Box 2).
+
+Political and social stability. The governing coalition has stressed the need to move
+ahead rapidly with implementation o f the Ohrid Agreement as a means to maintain
+political and social stability, without which FYR Macedonia w i l l suffer further economic
+stagnation. Implementing the Ohrid Agreement simultaneously with a macroeconomic
+r e f o m program underpinned b y fiscal consolidation w i l l be challenging. Some of the
+requirements o f the Ohrid Agreement, such as increasing the use o f the Albanian language
+in public affairs, have proven relatively easy to implement. However, other elements,
+such as the decentralization o f many functions and services and increasing minority
+employment in the public administration, present important challenges. Maintaining
+stability w i l l also require the government to aggressively tackle organized crime that has
+flourished, particularly in areas where public order broke down during the 2001 conflict.
+Creating jobs. The poor performance of the formal labor market and high rates o f
+registered unemployment in FYR Macedonia have been major factors undercutting
+commitment to reform b y the public and the Government (particularly restructuring o f
+state enterprises and c i v i l service reform). Creating jobs w i l l first and foremost require
+robust economic growth driven b y a revitalized private sector. Structural reforms aimed
+at aligning Macedonian legislation and institutions with those o f the EU - guided b y the
+S A A - and an improved domestic investment climate w i l l be essential in this regard.
+Poverty reduction. Robust economic growth w i l l also be necessary for sustained poverty
+reduction, but attention w i l l have to be paid to the quality o f growth. The Government has
+indicated a willingness to work with the Bank to develop mechanisms to better measure
+
+8
+
+poverty outcomes and monitor progress over time, and i t i s expected that as progress i s
+made government policy w i l l be increasingly informed and directed b y poverty outcomes.
+Again, the poverty reduction agenda w i l l be strongly aligned with Macedonian aims to
+integrate more closely w i t h the institutions o f the EU.
+0
+
+Tackling corruption. Although official corruption has been a feature o f Macedonian
+administrations since the days o f the SFRY, the problem appears to have ballooned in the
+period between the signing o f the Ohrid Agreement and the 2002 elections. Political
+patronage and interference in the operation o f the private sector also appear as serious
+impediments to the development o f an efficient market system and serve as deterrents to
+investment. Tackling corruption was a key plank in the electoral platform o f the
+Government, and the authorities have demonstrated a commitment to this priority b y
+moving quickly to reform the Customs Agency and to initiate proceedings against a
+number o f officials suspected o f corruption.
+
+Box 2. The Stabilization and Association Agreement (SAA) with the EU
+FYR Macedonia, along with four other countries in the region (Bosnia and Herzegovina, Croatia, Serbia and
+Montenegro and Albania), receives substantial EU support aimed at advancing the reform process in the country
+in order to enable it to draw closer to the EU and to integrate into i t s structures. T o this end, the EU designed a
+regional concept for these countries, the "stabilization and association process", and i t developed a new, tailormade category o f agreements for the relevant group o f countries, the SAA.
+FYR Macedonia i s a pioneer country for the SAA. The General Affairs Council of the EU issued the required
+negotiating mandate on 24 January 2000, and negotiations were successfully concluded on 24 November 2000
+with the initialing o f the Agreement. The S A A was signed in Luxembourg on 9 April 2001 but remains to be
+ratified by the national parliaments o f all the EU member states.
+
+~
+
+The trade section o f the Agreement entered into force separately as an interim agreement effective from June,
+2001. This confers upon F Y R Macedonia asymmetric preferential trade access to the EU, representing a crucial
+step forward given that the EU i s i t s most important trading partner with a 42 percent share of the country's
+overall trade volume.
+The interim agreement envisages the step-by-step establishment o f a free trade area within ten years after entry
+into force o f the agreement, i.e. b y June 201 1 at the latest. Sensitive products, in particular in agriculture and
+fisheries, are subject to special transitional rules during the first few years, to be lifted or adapted as the
+implementation o f the agreement continues.
+With the SAA, FYR Macedonia w i l l have at i t s disposal an instrument enabling the country to achieve the
+gradual alignment o f laws, institutions, and policies with the "acquis communautaire". Such alignment should
+enable higher FDI flows, better access to markets, and higher growth. The S A A i s in many ways similar to the
+Europe Agreements, which have been concluded with today's candidate countries from Central and Eastern
+Europe. Moreover, it earmarks funds for FYR Macedonia within the framework of the EU Community
+Assistance for Reconstruction, Development and Stabilization Program (CARDS), which i s designed to support
+the stabilization and association process.
+
+9
+
+IV.
+
+Key Development Challenges and Opportunities in FYR Macedonia
+
+20. Achieving the Millennium Development Goals (MDGs) in FYR Macedonia. FYR
+Macedonia i s generally o n track to meet the main human development MDG targets by 2015,
+but i t needs to focus on the sub-national level and small pockets o f the population with larger
+disparities in MDG indicators. MDG targets are likely to be met on child mortality, maternal
+mortality (where rates are already very low), and tuberculosis control. Although the
+prevalence o f H I V / A I D S i s low, there i s a substantial risk o f future outbreaks, given growth in
+some of the transmission mechanisms in the region such as intravenous drug use and
+commercial sex activity. The country may be able to meet the MDG on school completion
+but i s unlikely to achieve sufficient progress on equality in schools, due to significant demand
+issues related to minorities such as Albanians and Roma, particularly with regard to girls in
+these minority groups. Information i s currently insufficient to judge whether the MDG on
+nutrition w i l l be met. There i s also insufficient data to assess whether FYR Macedonia w i l l
+meet the MDG targets for access to safe drinking water and improving the lives o f slum
+dwellers.
+21.
+The Bank and its partners have completed a significant body of analytic work.
+Existing analytic work serves as a good basis for understanding and prioritizing the
+development challenges in FYR Macedonia at the sectoral level, according to their likely
+impacts on long-term growth and poverty reduction (Box 3)." Challenges may be grouped
+under three broad themes, which have also been chosen as the objectives for the Bank's
+strategic response: (i)
+promoting the efficient management o f public resources and tackling
+corruption; (ii)promoting the creation of jobs through sustainable private sector driven
+growth; and (iii)promoting reconciliation, building human capital and protecting the most
+vulnerable.
+Promoting the efficient management of public resources and tackling corruption.
+
+22.
+Public expenditure management has improved, but much remains to be done. A
+critical weakness which remains in public expenditure management, and which has been a
+major opportunity for corruption and misuse o f public resources in the past, i s that five ExtraBudgetary Funds" (EBFs), which together comprise some 40 percent o f total government
+spending, operate outside o f the central government budget and the treasury and with weak
+oversight and financial controls. Of these, the Pension and Disability Fund and the Health
+Insurance Fund are the largest. A focus o f the public sector management reform agenda w i l l
+necessarily be to improve the financial sustainability, accountability and transparency o f the
+operations o f the EBFs over the coming years.
+
+IO
+
+The formulation of the CAS has benefited significantly from a Country Economic Memorandum which i s
+currently being finalized for circulation to the Board.
+iI
+The five EBFs are the Health Insurance Fund, the Pension and Disability Insurance Fund, the Agriculture
+Fund, the Road Fund, and the Employment Fund.
+
+10
+
+23.
+Numerous weaknesses in public resource management were identified b y the Bank’s
+Public Expenditure and Institutional Review (PEIR), and many were addressed in a revised
+Law on Budget and Financial Management, approved in 2000, followed b y other enabling
+legislation. These efforts have improved the budget development process, however budget
+preparation i s s t i l l not sufficiently guided b y agreed macro-fiscal strategy and policy
+priorities. Policy planning and development in the Ministry o f Finance has improved, but
+increased capacity needs to be developed in line ministries. As a matter o f priority, the
+government needs to begin work on the establishment o f a multi-year budgeting framework,
+the lack o f which represents a major risk to budget formulation. On the budget execution
+side, the implementation o f an effective treasury system has represented an important step
+forward. The current lack o f control o f commitments b y budget users remains a problem,
+although a treasury systems upgrade planned for September 2003 would address this
+weakness.
+Box 3. Recent Diagnostic Studies and Surveys in FYR Macedonia
+Core Fiduciary/Diagnostic Work
+Poverty Assessment
+Public Expenditure and Institutional Review (PEIR)
+Country Procurement Assessment Report (CPAR)
+Country Portfolio Review
+Country Financial Accountability Assessment (CFAA)
+National Bank of Macedonia (NBM) Safeguards Assessment
+Selected Issues and Statistical Appendix
+Country Economic Memorandum
+Other Country Studies
+Human Development Report
+Macedonia Statistical System: Global Assessment
+Barriers to SME Development in Bosnia, Macedonia and Slovenia
+Education Sector Update
+Agricultural Sector Update
+Fiscal Decentralization Policy Note
+Report on the Observance of Standards and Codes - Accounting and
+Auditing
+FYR Macedonia Gender Background Note
+Gender Discussion Note
+Financial Sector Assessment Program
+Administrative Barriers to Investment Study
+Regional Studies
+Business Environment and Enterprise Performance Survey
+Trade Policies and Institutions in the Countries o f South Eastern Europe
+Institutional Reform for Investment and Growth in South Eastern Europe
+Regional Energy Strategy - South East Europe
+
+Agency
+WB
+WB
+WB
+WB
+WB
+IMF
+IMF
+WB
+
+UNDP
+EC-PHARE
+EC-PHARE
+WB
+WB
+WB
+WB/IMF
+
+Date
+
+1999
+April 2002
+June 2002
+Nov. 2002
+July 2003
+June 2003
+April 2003
+due Sept. 2003
+Annual
+July 2001
+Aug 2001
+June 2002
+Oct. 2002
+Mar 2003
+June 2003
+
+WB
+WB
+WB/IMF
+IFC-FIAS
+
+due Sept. 2003
+due Sept 2003
+due Sept 2003
+due Oct. 2003
+
+EBRDNB
+WB
+WB
+WB
+
+2003
+2003
+due 2003
+due 2003
+
+24.
+Fiduciary controls over public finances need to be strengthened. The new L a w on
+Budgets provided for the establishment o f internal audit units by first line budget users. T o
+date, progress on this key fiduciary control has been limited. Internal audit functions have
+only been established in the Ministry o f Finance and in the Public Revenue Office, and these
+remain under resourced. The external audit function was established in 1999 as the State
+
+11
+
+Audit Office (SAO), w i t h a legislative basis in the 1999 L a w on State Audits. While the SA0
+has made good progress, particularly over the last two years, and produces audits o f sound
+quality, i t currently has the resources to audit only around 10 percent of the audit universe
+annually. l2 I t also faces a significant challenge in implementing internationally accepted
+auditing standards and processes.
+25.
+The civil service and broader public sector employment structures require
+significant reform. Uncontrolled growth o f the public wage bill i s a major risk to fiscal
+sustainability in FYR Macedonia. The c i v i l service salary structure i s also highly compressed
+and represents an obstacle to attracting and retaining skilled staff. The Government’s human
+resource management reform agenda encompasses two broad areas: c i v i l service (CS) reform,
+and pay and employment reform throughout the rest o f the public a d m i n i ~ t r a t i o n . ’ ~Progress
+has been made on CS reform, including the passage o f and subsequent revision o f a new Law
+on C i v i l Servants and recent enforcement efforts. However, the proposed decompression o f
+c i v i l service salaries has been repeatedly postponed due to fiscal constraints.
+26.
+Inappropriate public sector interventions in business have continued, although no
+longer primarily because of state ownership. Public ownership i s no longer a serious
+constraint to private sector performance - more than 100 SOEs are to be sold or closed b y
+end-2003, which w i l l essentially conclude privatization. However numerous autonomous
+agencies l4and as many as 500 enterprises with government shareholding or other legal
+responsibility remain o f concern. These entities present governance challenges as they
+operate under minimal government supervision. Moreover, they could present a fiscal
+problem, since liabilities may eventually fall onto the public purse. Public sector distortions
+in recent years have included the uneven enforcement o f laws and policies, including taxes
+and duties, continued tolerance by government o f arrears, and the provision o f implicit
+guarantees and subsidies. This behavior reflects typically nepotism and corruption and
+creates a distorted playing field for private investors. Moreover, under these circumstances
+competitive pressure for efficient resource reallocation in the private sector barely exists. A
+key challenge over the coming years, and one which the government i s now beginning to
+address, w i l l be to realign the notion of the appropriate role o f the state in the economy.
+27.
+Decentralization will test the provision of basic services. The new L a w on Local
+Self-Government (January 2002) sets out, in broad terms, a very substantial functional
+decentralization, w i t h the provision o f key services to become the responsibility o f municipal
+governments. Maintaining the uninterrupted provision o f core services, in particular
+education, health, and social welfare, w i l l be challenging as decentralization progresses. The
+current 124 municipalities have diverse size, population, and financial and management
+l2The law requires that 240 of the total 1,752 budget entities be audited annually, with the remainer requiring
+triennial audits.
+I’ The “rest of the public administration” includes (i) non-CS positions within the central government; (ii)
+employment financed through the various Funds (Health Insurance Fund, Employment Fund, Pension and
+Disability Insurance Fund, Road Fund), (iii) sub-national government employment, and (v) public enterprises
+and state-owned enterprises. The CS comprises, in addition, about 10,000 to 12,000 positions, and the public
+administration as a whole i s estimated to have about 125,000 employees.
+l4These include the Civil Aviation Administration, the Commodity Reserves Agency, the Free Economic Zone
+Agency, the Investment Development Agency, the Privatization Agency, and the Telecommunications Agency.
+
+12
+
+capacities, which w i l l complicate assigning new responsibilities to them. Decentralization
+reforms are also likely to bring about significant changes in the responsibilities and funding o f
+municipal utilities.
+Promoting the creation of jobs through sustainable private sector driven growth.
+
+28.
+Privatization has not resulted in large productivity gains. About 60 percent o f all
+privatizations in FYR Macedonia have been to insiders through management-employee buyouts. As a result the enterprise sector remains inefficient, poorly managed and generally not
+competitive. FYR Macedonia has been a relatively poor performer in terms o f attracting
+foreign direct investment, with net FDI inflows under 1 percent o f GDP throughout most of
+the 1990s. Improving this situation in the medium to long-term, w i l l require addressing the
+poor businesshegulatory environment, the lack o f management s k i l l s and business linkages in
+enterprises, and operational inefficiencies o f the banking sector. Recent work b y the Bank
+and the IMF also indicates that the observance o f auditing and accounting standards in FYR
+Macedonia i s particularly poor, and contributes to the overall climate o f poor fiduciary control
+and the potential for corruption in both the public and private sectors.
+29.
+Uncertainty over land title is a brake on the private sector. The recent Foreign
+Investment Advisory Service (FIAS) study indicated that problems with the purchase of and
+construction on real-estate were rated as the most significant administrative barrier to
+investment in FYR Macedonia. Unclear property rights constrain collateral and mortgage
+financing and acts as a brake on private sector activity. W o r k has commenced on establishing
+a modern real estate cadastre and the development o f modern and transparent processes for
+title transfer and permits; however, only about 40 percent o f the territory o f FYR Macedonia
+has thus far been registered in the new system, and only two out o f 1,870 cadastral
+municipalities have been completely covered.
+30.
+Theflnancial sector has improved, but is under-developed. The banking system i s
+characterized b y a lack o f competition, high deposit and lending rates, and a limited appetite
+for lending. However, the overall health o f the system has been greatly improved in recent
+years through improvement o f the regulatory and supervisory framework and the resolution o f
+a number o f problem banks. Nevertheless, significant weaknesses remain such as a legacy o f
+non-performing loans, and a high degree o f euro-ization, with the result that 40 percent o f
+loans to the private sector are in foreign currency. The legal and institutional infrastructure
+underlying the financial system can be improved, especially through strengthening o f the
+judicial system, which has hitherto impeded the enforcement o f general contractual and
+property rights. The remainder o f the financial system i s also underdeveloped: for example,
+while there are seven insurance companies, the largest controls about 90 percent o f the
+insurance market, and insurance supervision i s particularly weak. FYR Macedonia has a
+stock exchange, but with limited listings and little liquidity. There are no fixed income
+markets outside o f National Bank o f Macedonia bills and special issues o f government bonds
+on non-market terms, although the Government plans to initiate a T-bill market b y the end o f
+the year.
+31.
+Reform of the judicial system is a priority. The judicial system in FYR Macedonia
+suffers from systemic. problems including weak enforcement o f creditor and property rights,
+
+13
+
+high levels o f politicization at all levels in the courts, and a lack o f accountability o f judges.
+There i s widespread frustration in the business community at the lack of commercial
+understanding on the part o f the judges. Judicial rulings are appealed with great frequency,
+and some judges resort to delaying or adjourning hearings unnecessarily, in order to avoid
+having to address complex commercial issues. There i s also a significant problem with
+enforcement o f court orders, with the courts exercising so little authority that the support o f
+the other state institutions such as the police cannot be assured.
+32.
+Energy supplies are threatened in the medium term. FYR Macedonia i s one of the
+poorest countries in South East Europe in energy resources and w i l l become even poorer as
+the country exhausts i t s main lignite reserves around 2010. Unless alternative fuel supplies are
+obtained, this w i l l result in the closing o f the lignite-fired plant at Bitola, which accounts for
+about 70 percent o f current electricity supply. Large investments in electricity infrastructure
+are needed to diversify electricity supply and increase integration into the South East Europe
+Regional Energy Market, and eventually into the EU electricity market. However, for
+investment to materialize on the scale needed, an appropriate policy environment w i l l need to
+be developed to allow for increasing commercialization and private sector participation in the
+energy market, especially in the electricity .sub-sector. Opportunity also exists to improve the
+efficiency o f energy usage in FYR Macedonia, which has high energy consumption relative to
+GDP, and to develop the country’s significant renewable energy resources (mostly small
+hydropower and geothermal). While electricity pricing currently allows for profitable
+generation and supply, the tariff structure requires review to provide incentives for new
+generation (including using renewables) and energy conservation. System distribution losses
+are currently at 18 percent, which i s high and needs to be sharply reduced.
+
+33.
+The transport sector is crucial for successful regional integration.
+FYR
+Macedonia’s strategic location makes i t a keystone for land transport between Turkey,
+Greece, Bulgaria and the rest o f Europe. The efficient and effective operation o f the roads
+and railways, as well as border crossings and the customs system, which link the Macedonian
+economy to the region w i l l become increasingly important to realizing the country’s growth
+potential. Currently, the operation o f both the road and railway networks i s controlled b y
+inefficient SOEs, which run at losses and constitute either direct or contingent liabilities on
+the budget. In addition, existing infrastructure i s degrading as scarce resources are diverted to
+subsidize poorly targeted services and support overstaffed agencies at the expense of
+maintenance. The customs service and border crossing points have been notorious centers o f
+corruption; however, forceful action b y the Government and new investments in infrastructure
+and customs practices are beginning to bear fruit. Restructuring o f transport links, including
+improving the possibilities for private sector participation, w i l l also be crucial for
+harmonization with EU institutions under the SAA. On the regional level, FYR Macedonia
+must work with i t s neighbors to increase cooperation between the customs agencies in South
+East Europe, harmonize procedures, and increase transparency.
+Rural development has been limited. In general, agriculture suffers from the same
+34.
+impediments to private sector growth as the rest o f the economy. In addition, productivity i s
+l o w due to the combination o f inefficiently small farm lot sizes and lack o f investment. As in
+other sectors, banks generally will not lend against land because o f uncertainty o f land title.
+With competition increasing as trade barriers are progressively reduced under the SAA, there
+
+14
+
+i s a need for market-driven farm restructuring to rationalize the state owned agricultural
+enterprises (Agrokombinats) and other users o f public land. Comprehensive irrigation sector
+reform, including the development of a national irrigation plan and mechanisms to ensure
+sustainability o f the entities that own and operate the extensive existing irrigation
+infrastructure network i s also badly needed. Furthermore, the commodity reserve system
+continues to distort incentives and stifle competition.
+
+35.
+Environmental challenges are substantial. FYR Macedonia faces significant
+environmental challenges, particularly in water resource management. Recent successful
+collaboration with neighboring Albania on the implementation o f a GEF supported project to
+improve the management o f Lake Ohrid’s water resources provides a good model for future
+efforts in this area. The Vardar River, which supplies about 75 percent FYR Macedonia’s
+total water resources, i s polluted b y untreated urban and industrial waste, which i s but one
+issue in a larger set of transboundary water management issues that FYR Macedonia has with
+neighboring Greece. The level of Lake Dojran, a tectonic lake shared by Greece and FYR
+Macedonia, has fallen dramatically in recent years, due largely to extensive irrigation in i t s
+catchment area in Greece. Without concerted action, Lake Dojran w i l l certainly dry up in the
+near future with irreversible biodiversity loss. Such asymmetries between the national fresh
+water conservation priorities of neighboring countries w i l l need to be addressed in a
+consultative cross border manner, which could be greatly assisted b y further GEF
+involvement.
+
+36.
+
+Cultural heritage and tourism offer opportunities. In addition to i t s varied and
+beautiful landscape, FYR Macedonia’s location at the crossroads between Slavic, Greek,
+Turkish and Albanian cultures has endowed the country w i t h a particularly rich cultural
+heritage. Features such as Greek, Roman, and Byzantine ruins, and villages rich in vernacular
+architecture offer opportunities for tourism development. A recent assessment o f tourism
+opportunities, supported b y the Bank, was optimistic about both internal and external tourism
+potential and highlighted significant advantages that FYR Macedonia could leverage to attract
+tourists at relatively l o w cost. However, the assessment also underscored weaknesses that
+have hindered tourism development, such as the absence o f a government strategy for
+tourism, unclear property rights which constrains private investment, and scarce statistical
+data.
+
+Promoting reconciliation, building human capital and protecting the most vulnerable
+Maintaining social cohesion remains a challenge. The Kosovo crisis and the civil
+37.
+conflict o f 2001 eroded social cohesion and elevated the importance o f inter-ethnic relations
+in the ongoing political debate. There are substantial social and economic differences
+between FYR Macedonia’s ethnic communities, rural and urban populations and, more
+generally, between sub-regions o f the country. While the implementation of some provisions
+o f the Ohrid agreement has begun to promote reconciliation and reintegration o f communities,
+there remains a substantial unfinished agenda to promote social inclusion. In particular,
+variations in educational attainment across gender and ethnicity, important barometers for the
+economic status o f current and future generations, are a cause for concern.
+
+15
+
+38.
+The quality and relevance of education needs to be improved. International tests rate
+Macedonian education outcomes among the poorest in Europe in sciences and mathematics in
+grade 8 and also in literacy in grade 4. Most local and international experts consider the
+curricula overloaded and highly demanding in terms o f the factual knowledge that must be
+absorbed by students, while failing to develop better problem-solving and knowledge
+acquisition skills that are needed in a modern competitive economy. While the primary
+completion rate i s 90 percent, this average conceals large disparities among ethnic groups, b y
+region, b y urban versus rural and b y income level. Participation in pre-primary education
+demonstrates similar disparities, particularly among ethnic groups. l5As i s common in other
+countries in the region, the educational outcomes o f girls from minority groups i s a critical
+issue. Recent studies o f the Roma communities in Skopje confirmed that school enrollment
+among all school-age Roma children i s alarmingly low, with between 31 and 37 percent o f
+school age children not attending school. Children born into poor households often are
+trapped in a vicious circle in which the low income o f their families translates into
+unsatisfactory educational attainment and achievement, which reduces their future earning
+potential.
+Financing of the health system is tenuous. While FYR Macedonia spends a
+39.
+relatively high share o f i t s GDP on health16, in practice the availability o f health care i s
+inadequate for those who cannot afford to pay for drugs and informal payments or for private
+doctors' fees. Inefficiency and corruption in the state Health Insurance Fund (HIF) and stateowned healthcare institutions i s a major source o f poor performance in the health system. In
+recent years, corruption in HIF management and procurement became increasingly blatant,
+despite regular State Audit Office audits documenting illegality and poor financial control.
+Efforts at reform have been tentative, though progress has occurred in some areas. For
+example, the HIF now contracts with private as well as public primary care providers. While
+the quality o f primary care has been improved in some places through training, the stateowned network o f healthcare providers has adopted unsustainable expenditure cutting
+measures in an effort to stay in balance as revenues have fallen. This was exacerbated b y
+politically-driven new hiring and the concentration o f limited resources in specialized services
+and tertiary health care, while buildings and equipment deteriorated and primary care was
+neglected.
+The pension system needs further reform. In 2002, the total expenditures o f the
+40.
+Pension and Disability Insurance Fund (PDIF) amounted to 10.8 percent o f GDP, and the
+fund required transfers from general revenues o f about 3.0 percent o f GDP. The structural
+deficit in the PDIF i s expected to grow into the future. Reform w i l l need to include
+parametric changes, along with efforts to improve administration through strengthened
+accounting and improved internal controls. In addition, institutional capacity in the areas o f
+strategic planning, business process development, human resource management and
+communication needs further development.
+
+15
+
+Participation i s 90 percent among ethnic Macedonians, 54 percent among ethnic Albanians, and 37 percent
+among ethnic Turks.
+At about 6.5-7 percent o f GDP in public spending plus 2-3 percent o f GDP in private spending.
+
+''
+
+16
+
+41.
+Along with the changes in the current system, legislation was passed in 2000 to
+implement a mandatory second pillar pension, intended to improve the long-term
+sustainability o f the pension system. This pillar would be mandatory for new entrants to the
+labor market and voluntary for persons who are already in the workforce.
+The
+implementation o f a two pillar system faces a number o f significant challenges including
+creating the fiscal space necessary to capitalize the second pillar, creating adequate financial
+instruments for investment, and ensuring that the institutional framework established i s cost
+effective and consistent with sound governance principles and long-term financial return
+objectives.
+The social safety net is poorly coordinated. The Macedonian system o f social
+42.
+protection includes a mixture of cash benefits, unemployment support, social services and
+institutional care. Although the Government has introduced legislative changes in recent
+years in most areas o f social assistance, the programs are s t i l l facing fiscal pressures due to a
+large and increasing number o f beneficiaries, falling contributions, and generous benefits in
+some areas. There are also contradictions in legislation and confusion in the regulations
+governing the administration o f social protection policy. This situation has arisen largely
+from a history o f reactive and piece-meal approaches to the development and design of social
+policy objectives and social administration, with little consideration given to administrative
+requirements of programs, or linkages between programs. There i s a need to target assistance
+programs more effectively, and to ensure policy and administrative consistency across
+programs.
+Urban slums are a substantial problem. I t i s estimated that there are about 100
+43 *
+slum settlements in FYR Macedonia, in which perhaps 20 percent o f the total urban
+population lives. Skopje has 27 settlements with an estimated population o f 80,000
+inhabitants. Typically, these communities lack sustainable access to basic infrastructure such
+as safe drinking water, sanitation and solid waste disposal, and most households lack secure
+tenure. Most households do not own the land on which their houses are built and do not have
+building permits. According to estimates, every fourth house in these areas was built without
+land ownership title, although no official data are available to confirm the extent o f this
+problem.
+
+V.
+
+The Bank’s Partnership with FYR Macedonia and the New IBRD
+Assistance Strategy
+
+44.
+FYR Macedonia has been a member of the World Bank since 1993. This i s the third
+full CAS for FYR Macedonia since i t joined the World Bank group. Since FY94, ten IBRD
+loans totaling US$192 million and fifteen IDA credits totaling US$240 million have been
+approved. The last full CAS was prepared in 1998 and outlined a support program for FY9901. The Board discussed a CAS progress report in June 2000, which summarized progress
+and updated the Bank’s business plan to respond to the 1999 Kosovo crisis. However, the
+implementation o f the CAS was severely disrupted b y the 2001 civil conflict. Following the
+outbreak o f violence that year, a TSS was prepared which outlined a post-conflict program of
+assistance. While FYR Macedonia graduated from IDA eligibility on July 1, 2001, the TSS
+included exceptional access to a further US$35 million of IDA resources on hardened terms,
+in conjunction with US$15 million in IBRD lending through FY02.
+
+Progress under the 1998 CAS and the 2001 TSS.
+45.
+The 1998 CAS and the 2000 Progress Report. The 1998 CAS outlined a program in
+support of three core objectives (i)
+promoting private sector growth and job creation; (ii)
+enhancing the efficiency o f the state; and (iii)
+alleviating poverty and developing human
+capital. The 2000 CAS Progress Report detailed mixed results in progress towards achieving
+these objectives, due largely to delays in preparation o f some o f the operations outlined under
+the CAS as a result of the 1999 Kosovo crisis. The Report noted that at that time the
+authorities were 12-18 months behind schedule on the structural reform agenda laid out in the
+CAS. Progress in enterprise reform had been particularly slow, and investment had not
+picked up as anticipated. While some gains had been made in strengthening the financial
+sector, particularly through the privatization o f the largest state-owned bank, the rescheduling
+o f the Bank’s proposed Financial and Enterprise Adjustment Loan I1 (FESAL 11) from FY99
+to FYOl reflected significant slippage in enterprise sector reform. Moreover, no lending at all
+took place in FYOO17,and the planned Public Sector Management Credit (PSMAC) had to be
+rescheduled until FYOl as the attention o f the Government was diverted from public sector
+reform (subsequently slipping further - see Table 4). However, during this period a first
+Poverty Assessment was completed, which provided a more complete picture o f the nature o f
+poverty in FYR Macedonia, and very substantial progress was made towards improving
+primary health indicators through the continued implementation o f the F Y 9 6 Health Sector
+Transition project. The Education project proposed in the initial CAS was dropped in the
+Progress Report to make way for new operations in response to the Kosovo crisis.
+46.
+Reform accelerated in 2000 as the after-effects o f the Kosovo crisis dissipated, and
+implementation o f the revised CAS program was largely successful prior to the 2001 civil
+conflict. The TSS reported that all operations outlined in the progress report were delivered,
+with the exception o f the PSMAC. Importantly, the FESAL I1operation went forward which,
+together with the Social Support project and support from other donors, provided new impetus
+to enterprise restructuring and financial sector strengthening. While the 200 1 crisis resulted
+in further disruption and delays, the substantial improvements in the stability o f the financial
+sector and the successful resolution o f a majority o f large state-owned enterprises remain
+perhaps the most significant achievements of the 1998 CAS program.18 T w o flexible
+operations approved in June 2001 under the CAS, the Community Development and Culture
+LIL and the Children and Youth LIL, also played an important role in promoting activities to
+improve social cohesion.
+
+47.
+Results under the TSS. The TSS outlined a one yearlg program o f post-conflict Bank
+support primarily geared towards achieving four post-conflict priorities, namely (i)
+meeting
+balance o f payments needs; (ii)
+reconstruction; (iii)
+strengthening social cohesion; and (iv)
+supporting decentralization. A lending program o f four new operations was planned, which
+consisted o f two operations originally envisaged under the 2000 CAS Progress Report, and
+two new operations to respond to the post-conflict scenario (Table 3). The impact o f the TSS
+program again were mixed. The Emergency Economic Recovery Credit played an important
+17
+
+A small Mini-hydro Power Global Environment Facility (GEF) Grant was approved in FYOO.
+Although no Operations Evaluation Department (OED) Country Assistance Evaluation has been completed for
+FYR Macedonia, the FESAL I1 was rated Highly Satisfactory in a Quality at Entry Review by QAG.
+19
+The effective period of the TSS was extended through FY03 following further program delays in FY02.
+
+18
+
+role in coordinating donor balance o f payments support to allow a quick recovery of the
+economy immediately after the conflict. However, while the Board approved the PSMAC in
+FY02, i t was not signed because of deterioration o f the macroeconomic framework in the lead
+up to the September 2002 elections. The Education project (originally planned to be US$15
+million o f IBRD) was not delivered because i t s design needed to be modified in response to
+the new challenges o f the Ohrid Agreement.*’ The continuing support for the Ohrid
+Agreement, the peaceful transfer o f power following the 2002 elections, and continued
+macroeconomic stability do indicate that the progress towards achieving the objectives o f the
+TSS i s continuing.
+Lessons learned implementing the 1998 CAS and the TSS. The disruptions to the
+48.
+Table 3. Lending Results under the TSS
+
+I
+
+50
+
+Total
+
+1 3 5 1 0 1
+
+35
+
+I
+
+Bank’s partnership with FYR Macedonia that resulted from the 1999 Kosovo crisis, the 2001
+civil conflict and, to a lesser extent, the political turmoil in the lead-up to the 2002 elections,
+have had an important impact on the design o f the new CAS. Recent experience in FYR
+Macedonia i s consistent with the conclusions o f OED evaluations of post-conflict assistance
+and adjustment lending and i s reflected in the design o f the CAS. A Country Portfolio
+Review (CPR) in late 2002 also provided specific recommendations for addressing systemic
+implementation issues and for strengthening implementation arrangements and portfolio
+management to reduce the risks in project execution. Key lessons learned include:
+The reshaping o f the program in response to the Kosovo crisis to include more flexible
+instruments o f support was appropriate and successful. The initiation o f two LILs
+focused on promoting social cohesion and an accompanying post-conflict grant
+implemented at the community level did help to mitigate the risks o f spillover effects
+o f the conflict.
+A sound macroeconomic framework i s a critical element o f adjustment programs.
+While the suspension of the Bank’s adjustment support in 2002 did strain policy
+dialogue with the authorities at the time, in the medium term this action served to
+preserve the credibility o f the program and allow for a successful resumption o f the
+reform agenda once the political environment had improved.
+
+The Education Project i s now included as an FY04 operation under this CAS. As the Dutch government has
+indicated a desire to co-finance the IBRD project with a US$10 million grant, the planned IBRD amount has
+been reduced to US$5 million.
+
+2o
+
+19
+
+Implementation experience with infrastructure projects has been mixed. While the
+Irrigation Rehabilitation and Restructuring (IRRP), Trade and Transport Facilitation
+TTFSE), and the Water Utility Improvement projects were adversely impacted b y the
+crises (with the latter eventually being cancelled), progress under the Power Sector
+Improvement (and i t s complementary GEF supported project) and the Transport
+Sector project has been satisfactory. Increased attention has been paid to evaluating
+the implementation risks o f infrastructure projects proposed in the new CAS.
+Decentralization o f portfolio and project management to the country office allowed for
+increased supervision effort and intensified sectoral policy dialogue.
+Current status of the Bank’s portfolio. Following the CPR, an action plan was
+49.
+developed for implementation b y both the Bank and the Government to improve the portfolio
+quality and identify constraints and opportunities to be addressed in the new CAS program.
+The CPR highlighted implementation delays and variable performance o f the portfolio (which
+includes TSS operations as well as operations initiated under the 1998 CAS and 2000
+Progress Report) that resulted from the security concerns and macroeconomic and political
+uncertainty following the 1999 Kosovo crisis and the 2001 civil conflict. Implementation of
+some investment operations, notably the IRRP and the TTFSE, was badly affected b y the
+crises. Implementation o f the CPR action plan has yielded substantial results, with the status
+of the portfolio improving considerably in the last six months. (Table 4) 21
+
+T h e objectives of the n e w CAS, and h o w progress towards t h e m w i l l b e measured.
+
+50,
+The analysis o f FYR Macedonia’s development challenges in Section I V has been
+developed collaboratively b y the Bank and the Government, based on the overarching twopronged framework provided by the Ohrid Agreement and the SAA. The objectives of the
+to promote the efficient management of
+new CAS are drawn from this assessment, namely: (i)
+public resources and tackle corruption; (ii)
+to promote the creation o f jobs through sustainable
+to promote social cohesion, build human capital, and
+private sector driven growth; and (iii)
+protect the most vulnerable.
+5 1.
+Results of the CAS will be measurable. A limited set o f priority outcomes, indicators,
+benchmarks and targets have been selected from the broader group outlined in the Country
+Program Matrix (Annex B9), which w i l l be used b y the Bank and the Government to assess
+progress towards achieving the CAS objectives. This monitoring framework focuses on
+sectors in which the Bank has comparative advantage and has been involved in the past, and
+the new IBRD CAS program has been designed to achieve these outcomes as steps towards
+FYR Macedonia’s longer-term development goals (Table 5). The outcome targets are based
+on the full implementation o f a strong reform lending scenario (paragraph 65).
+Table 4. Portfolio Status
+Project
+
+End
+2002
+Status
+
+Mid
+2003
+Status
+
+2 1 A l l projects are now rated as satisfactory on DO and I P apart from the IRRP, which i s in the process o f being
+restructured following the successful completion o f a time bound action plan agreed in December 2002.
+
+20
+
+Trade and Transport
+Facilitation
+Water Utility
+Improvement
+Irrigation
+Rehabilitation and
+Restructuring
+Public Sector
+Management
+Adjustment Credit
+(PSMAC)
+Community
+Development
+
+U
+
+S
+
+Second Financial and
+Enterprise Sector
+Adjustment Loan
+(FESAL 11)
+Power System
+
+S
+
+S
+
+S
+
+S
+
+Community
+Development and
+Culture
+
+S
+
+S
+
+U
+U
+
+U
+
+S
+
+S
+
+Significant attention by the government has resulted in markedly
+improved implementaiion o f the TTFSE.
+The Bank agreed with the Government to cancel this project in
+
+1
+
+late 2002.
+
+A time-bound action plan for restructuring of this project was
+successfully completed in July 2003. Documents proposing the
+restructuring o f this project are under preparation.
+Although approved by the Board on April 9, 2002, signing was
+delayed by the lack of an appropriate macroeconomic framework.
+Following improvements in 2003, the credit was signed on M a y 5,
+2003 and disbursed on May 30,2003.
+Signing was delayed by the 2002 election process, but after
+concerted action by the Government the project became effective
+in April 2003
+Disbursement o f the second tranche, which had been delayed by
+the lack of an appropriate macroeconomic framework, proceeded
+on July 28, 2003.
+Implementationof this project has proceeded relatively smoothly,
+as has an associated GEF suDDorted Droiect.
+Although impeded by the 2001 security crisis, implementationhas
+accelerated and the project i s expected to close on schedule in
+June 2004.
+The project has proceeded smoothly in parallel with progress
+towards the resolution of loss making enterprises supported by the
+well.
+Despite some initial implementation problems, progress has
+accelerated in 2003,
+
+The ZBRD assistance program is selective. There are substantial and competing
+52.
+priorities for development assistance in FYR Macedonia. The Bank w i l l rely heavily on
+development partners to take the lead in some sectors, in particular those in which the SAA
+
+agenda and the complementary EU CARDS program w i l l be focused. This approach has
+resulted in a more concentrated program and further emphasized reliance on the Bank’s
+partners (paragraph 74). To this end, the new CAS program does not include assistance for
+rural development, direct support to the enterprise/SME sector, health service delivery, or
+capacity building at the municipal level.
+
+21
+
+Table 5. CAS Outcomes, Indicators and Benchmarks
+Long Term Goal
+
+3fficient and
+ransparent
+nanagement of
+3ublic resources
+
+Sustainable private
+sector driven growth
+and reduced
+unemployment
+
+Reduced poverty
+and improved social
+cohesion.
+
+Short-term CAS
+Outcome
+
+Intermediate Indicator
+
+All EBFs fully
+integrated into the
+budget preparation
+and reporting
+systems and using
+the Treasury
+Single Account
+(TSA)
+Adequate external
+audit coverage o f
+budget users and
+EBFs to assure
+integrity o f public
+finances
+More efficient
+financial
+intermediation by
+the banking sector.
+
+Vumber o f EBF's
+ntegrated into the budget
+,reparation and reporting
+systems and TSA (or
+ibolished).
+
+1
+
+5
+
+4nnual audit coverage o f
+mblic accounts
+
+10 %
+
+Reduction i n average loan
+spreads.
+
+Increased private
+sector participation
+i n infrastructure.
+
+Increased use of
+improved data to
+inform policy
+debate.
+
+Base
+line
+
+End
+FY06
+Target
+
+Bank I 1
+Recent
+Instruments
+PEIR
+CFAA
+PSMAC
+
+ruments
+FY04-06 CAS
+Program
+% M A L I1
+?SAL I& I1
+PEIR Update
+
+25 %
+
+PEIR
+CFAA
+CPAR
+PSMAC
+
+PSMAL I1
+PSAL I& I1
+PEIR Update
+CPAR Update
+
+-9%
+
+67%
+
+FESAL I1
+
+Number of private
+investmentdpartnerships
+i n roads, railway and
+energy.
+
+0
+
+2
+
+Power project
+TTFSE project
+Transport
+Project
+
+Public access to agreed
+poverty monitoring
+datasets.
+
+No
+access
+
+Public
+access
+
+Poverty
+Assessment
+(2000)
+
+PSAL I& I1
+FSAP
+Financial Sector
+Devt. project
+Land Registration
+project
+LegaVJudicial
+Diagnostic
+Regulatory and
+Judicial Reform
+project
+Energy Sector
+Strategy
+Transport
+restructuring
+project
+Electric Power
+Development
+project
+Poverty
+Assessment.
+PSAL I& I1
+
+The new IBRD program
+
+53.
+
+The new IBRD program described below i s designed to support a program o f strong
+structural reform that would enable the achievement o f both the CAS outcomes and the
+macroeconomic outcomes projected in Table 2. Proposed new IBRD instruments have been
+chosen in consideration of existing Bank support through the current active portfolio (Annex
+A). In a strong reform scenario, structural adjustment lending w i l l be combined with
+supporting investment operations and complementary diagnostic work to strengthen the
+institutions o f public governance and create the conditions in which the private sector can
+flourish. A programmatic approach to adjustment lending would be developed, based on
+lessons learned implementing the 1998 CAS and the 2001 TSS. The adjustment lending
+program would be backed by targeted investment operations which w i l l provide the necessary
+technical expertise and physical investments to implement policy reforms under the program.
+
+22
+
+To promote the efficient management of public resources and tackle corruption.
+
+54.
+Building on the achievements o f the existing program through the PSMAC, the
+PEIR, the C F A A and the CPAR, a set o f new Bank interventions i s planned to further
+strengthen the management o f public resources and to tackle corruption. Support of the
+public sector management reform program w i l l be continued with a Public Sector
+Management Adjustment Loan ZZ (PSMAL ZZ) in FY04 which w i l l support reform of the
+Health Insurance Fund and the Pension and Disability Insurance Fund, as well as further
+measures to consolidate improvements in budgetary planning and execution such as the
+implementation of control over commitments b y budget entities. Reform o f the existing
+instruments o f social protection to improve targeting, eliminate adverse incentives affecting
+the labor market, and reduce the fiscal drain on government finances w i l l also be supported.
+Technical assistance to implement these reforms, along with required information technology
+improvements, w i l l be provided through a complementary Health and Social Protection
+Administration project, also planned for FY04.22 Since progressively deeper reform of public
+administration w i l l continue through the CAS period, the Bank w i l l look to define with the
+Government a programmatic approach, to commence with a first Programmatic Structural
+Adjustment Loan (PSAL Z) in FY05, to be followed b y a second operation PSAL ZZ in FY06.
+The PSAL program i s planned to support both the improvement o f public sector management
+and reforms to improve the investment climate. In FY06, a Public Expenditure and
+Institutional Review (PEZR) Update and a Country Procurement Assessment Report
+(CPAR) Update are also planned to review progress and inform development o f a subsequent
+CAS.
+
+55.
+While improvements in the transport sector are essential for regional integration and
+growth, a primary objective o f the Bank’s Transport Sector Restructuring project planned
+for FY04 i s to restructure the two principal SOEs that dominate the sector - Macedonian
+Railways and Makedonijapat (Roads)- to facilitate the opening o f the transport sector to
+private sector investment. The restructuring i s also necessary for compliance with EU
+directives as mandated b y the SAA, and to reduce the drain on public finances caused b y
+mounting losses. The Bank w i l l look to invest in restructuring and regulatory development o f
+the sector to complement proposed investments b y the European Bank for Reconstruction and
+Development (EBRD) and other private sector entities in the new operating companies
+formed for the railways and roads. This work w i l l seek to scale up and ensure sustainability
+o f the substantial progress made through the Bank’s existing Transport Sector Project, which
+i s due to close in FY04. At the regional level, the Trade and Transport in South East Europe
+(TTFSE) initiative w i l l continue to work to improve trade links and customs harmonization.
+To promote the creation of jobs through sustainable private sector driven growth.
+56.
+To a large extent the success o f the CAS w i l l depend on a rebound in private sector
+activity and growth. As with the public sector reform program, the Bank’s support to this
+objective w i l l be anchored on structural adjustment lending, specifically through the PSAL Z
+and PSAL ZZ supported program. Extensive work w i l l be completed through FY04 and FY05
+
+’*The Health and Social Protection Administration project i s likely to be co-financed by the Government o f the
+Netherlands.
+
+23
+
+to define a multi-year program o f reforms aimed to stimulate the private sector, which i s
+likely to include measures to improve the business environment, further strengthen the
+broader financial sector, and to complete the process o f resolution o f SOEs and other entities
+which has progressed well to date under the F E S A L program.23 The adjustment program
+would be supported b y a series o f complementary and linked investment operations as
+described below.
+
+57.
+The recently completed C E M highlighted the lack o f secure t i t l e over land as a key
+constraint to the growth of the private sector, a finding supported b y a FIAS survey. To
+address this issue a Land Registration project i s planned for delivery in FY05, which w i l l
+seek to support the completion o f a real estate cadastre and the building o f institutional
+capacity to support land title transfer and land use monitoring. This project, informed b y an
+Urban Slums Analysis in FY04, w i l l also seek to improve the security o f land use rights
+and/or title for the residents o f urban slums. The operation would be supported as necessary
+b y structural conditionality in the P S A L program. A Legal and Judicial Diagnostic study i s
+also planned to collate the findings o f the Financial Sector Assessment Project (FSAP), the
+FIAS study and other work, which have identified significant weaknesses in the judicial
+system that adversely affect creditor and property rights, as well as generally undermining the
+rule o f law. The diagnostic would also look to inventory the substantial programs o f donor
+support in the sector. On the basis o f this diagnostic a Regulatory and Judicial Reform
+project i s planned for FY06. This project may include upgrading the quality and access to
+justice through raising judicial competence and discipline, as well as to support the
+implementation of structural measures to strengthen the authority o f the courts and
+enforcement, de-politicize the office of the public prosecutor, and promote transparency in the
+functioning of the courts.
+
+58.
+The Bank and the IMF w i l l complete the FSAP in FY04, and this w i l l inform the
+design o f a Financial Sector Development project proposed in FY05. The project would aim
+to strengthen the regulatory and supervisory framework for the financial sector, particularly
+those for the insurance and pension systems. In addition, the project could help implement
+policies to improve intermediation to the S M E sector and the economy in general, and may
+also seek to address development o f regulatory capacity in other sectors. As background
+analytic work (especially the FSAP and the LegaYJudicial Diagnostic) i s completed and the
+design o f the P S A L program advances, the timing o f the proposed Financial Sector
+Development project and the Regulatory and Judicial Reform project may be interchanged
+depending on readiness for implementation.
+
+59.
+Following on from the C E M that was produced in FY03, two CEM follow-up policy
+notes, which are planned in FY04 to inform the design o f the PSAL program. These notes
+w i l l seek to build on the knowledge o f the labor market and growth dynamics provided b y the
+C E M and are likely to focus on priority policy topics such as the role o f government in public
+enterprises and parastatals, and the gray economy. A PEIR Update and a CPAR Update are
+also planned in F Y 0 6 to assess progress and inform the design o f a subsequent CAS.
+
+23
+
+The FESAL I1 i s scheduled to close on December 3 1, 2003.
+
+24
+
+Table 6. The Planned IBRD Assistance Program FY04-06
+FY04
+Lending
+
+Low Case
+
+LIS$m
+
+Base Case
+
+Zducation Access
+mprovement Project
+
+Zducation Access
+mprovement Project
+
+lealth and Social
+'rotection Administration
+
+ESW/AAA
+
+High Case
+
+YS$m
+
+5a
+
+3ducation Access
+mprovement
+
+15
+
+'Iealth and Social
+'rotection Administration
+
+15
+
+'SMAL I1
+
+30
+
+rransport Restructuring
+
+15
+
+:EM Follow Up
+Votes
+
+:EM Follow Up Notes
+
+:EM Follow Up Notes
+FSAP
+
+?YAP
+
+FSAP
+Fnergy Sector Strategy
+
+Tnergy Sector
+Ttrategy
+
+Land Registration
+
+Energy Sector Strategy
+Poverty Assessment
+
+Assessment
+
+poverty Assessment
+
+FY05
+
+/S$m
+-
+
+15
+
+Lending
+
+Land Registration
+Financial Sector
+Development
+
+15
+
+PSAL I
+
+15
+
+15
+
+Land Registration
+
+15
+
+Financial Sector
+Development
+
+15
+
+Water Resources
+Management (GEF)b
+
+ES W/AAA
+
+Poverty Assessment
+
+Poverty Assessment
+
+LegaUJudicial
+Diagnostic
+
+LegaWJudicial Diagnostic
+
+LegaUJudicial Diagnostic
+
+Social Services Delivery
+Study
+
+Social Services Delivery
+Study
+
+Regulatory and Judicial
+Reform
+
+FY06
+Lending
+
+Electric Power
+Development
+
+Poverty Assessment
+ITA)
+PEIR Update
+CPAR Update
+Social Development
+Update
+
+Total
+
+Water Resources
+Management (GEF)b
+
+Poverty Assessment
+
+Social Services
+Delivery Study
+
+ES W/AAA
+
+Urban Slums Analysis
+
+15
+
+PSAL I1
+
+15
+
+25
+
+Regulatory and Judicial
+Reform
+
+15
+
+Electric Power
+Development
+
+Poverty Assessment (TA)
+
+Poverty Assessment (TA)
+
+PEIR Update
+
+PEIR Update
+
+CPAR Update
+
+CPAR Update
+
+Social Development
+Update
+
+Social Development
+Update
+
+20
+
+90
+
+a. Expected to be co-financed by a US$10 m grant from the Government of the Netherlands.
+An application for GEF financing will be presented in FY05.
+
+b.
+
+25
+
+25
+
+165
+
+60.
+The Bank w i l l complete an Energy Sector Strategy in FY04, which w i l l seek to pull
+together previous work b y various partners, and w i l l integrate the proposed development of
+the sector in FYR Macedonia with the region through complementary work proceeding
+This work will inform the design o f an Electric Power
+concurrently at a regional
+Development project in FY06. Through this project the Bank w i l l seek to catalyze
+partnerships with other institutions and the private sector, as well as reducing electricity losses
+in distribution. This operation w i l l take advantage of the Bank’s unique position to overcome
+obstacles to private sector involvement in infrastructureprovision.
+61.
+The Bank w i l l also seek to follow up on the successful implementation of the GEF
+financed Lake Ohrid Conservation project, which has facilitated cross-border environmental
+cooperation between Albania and FYR Macedonia. A project proposal for further GEF
+support to address transboundary water management issues w i l l be submitted in FY05.
+To promote social cohesion, build human capital, and protect the most vulnerable
+62.
+A critical outcome o f the CAS upon which the long-term reduction o f poverty depends
+i s improved capacity to understand and track the impacts of policy on poverty and progress
+towards achieving the MDGs. The Bank i s planning a comprehensive intervention under the
+CAS, through a Programmatic Poverty Assessment over three years, which w i l l aim not only
+to collate and provide analysis of poverty data, but also to build the capacity of national
+institutions to collect and analyze data. Imminent results o f the November 2002 census w i l l
+allow for the formulation o f a new sampling frame and renewed analysis of poverty data from
+previous years. This w i l l not be sufficient to deliver a robust poverty assessment due to some
+existing data deficiencies, but w i l l provide a much more accurate poverty profile than
+currently available. The Bank’s poverty team w i l l then work with local institutions to define
+a strategy to produce regular poverty monitoring reports. The FY04 Urban Slums Analysis
+will complement the poverty work and seek to address a dearth o f knowledge concerning the
+status of urban slums in FYR Macedonia and develop a strategy towards the achievement of
+the relevant MDG targets.
+’
+
+63.
+The Government’s primary vehicle for improving social cohesion i s the Ohrid
+Agreement and, in March 2002, donors pledged some US$274 million in assistance towards
+supporting the implementation o f the Agreement. Much of this assistance i s directed towards
+programs of technical capacity building at the municipal level, and thus the Bank w i l l not
+focus i t s resources in this area. The Bank will, however, be looking to support specific
+sectoral elements of the decentralization process and seek to mitigate against critical risks,
+such as a breakdown in the delivery of key services. In FY03 the Bank completed a policy
+note which outlined the challenges facing the education sector in the face of
+de~entralization~~,
+and the planned Education Access Improvement project in FY04 w i l l
+focus on improving the quality o f primary and secondary education in FYR Macedonia while
+piloting new financing arrangements. The project w i l l also seek to improve the access of
+minority groups (especially girls) to primary education through school-based initiatives,
+24 A proposal for a horizontal Adaptable Program Loan supporting integration of the energy sector in the South
+East Europe sub-region i s currently being formulated.
+l 5 Toward an Education Strategy for the Twenty First Century. World Bank, 2002
+
+26
+
+which remains a key weakness in FYR Macedonia’s progress towards the Millennium
+Development Goal o f universal primary education. During implementation the project w i l l
+seek opportunities to further support access o f Roma to education from the Roma Education
+Fund, which i s expected to be operational in 2005.26 A Social Services Delivery Study i s also
+planned in FY05 to review the causes of inequity and gaps in access to social services, in the
+context o f the changes taking place as a consequence o f the Ohrid Agreement, and in light of
+the findings o f the Poverty Assessment. A Social Development Update i s also planned for
+FY06 to identify emerging challenges related to social cohesion as the implementation of the
+Ohrid Agreement proceeds. The Bank w i l l also continue to support the broader reconciliation
+agenda through i t s existing portfolio, in particular through the Children and Youth
+Development and the Community Development projects under implementation.
+64.
+Through the adjustment lending program - the PSMAL I1 and the subsequent P S A L I
+and I1- and the Health and Social Protection Administration project the Bank w i l l also assist
+the government with a redesign o f the existing social protection system to improve targeting
+o f the safety net and provide better coverage o f the poorest. The improvements in the
+transparency and accountability o f health service delivery expected under the project w i l l also
+be important to improving access to and quality o f health care for the most vulnerable. The
+Bank w i l l be working closely with the government to implement pension reform to improve
+the long term financial sustainability o f the pension system, while mitigating the significant
+risks that exist.
+Lending scenarios and triggers
+
+65.
+Lending scenarios. In light o f FYR Macedonia’s creditworthiness for IBRD
+borrowing (see below) as well as the lessons learned from the previous CAS and TSS, under a
+high casehtrong reform scenario the CAS proposes an IBRD lending envelope for the FY0406 period up to a maximum of US$165 million, o f which around 35 percent would be
+adjustment lending. This lending scenario would seek to support the Government’s efforts to
+implement a strong program o f difficult structural reforms. Based on lessons learned,
+investment operations whose success relies upon achievement o f difficult and politically
+unpopular measures have also been included in the strong reform case - such as Transport
+Restructuring. A base case o f up to US$90 million in investment lending would constitute an
+intermediate scenario. Investment operations planned for the base case, while designed to
+have high development impact, would support the steady implementation o f institutional
+reforms, and are o f medium to moderate risk. The low case scenario envisages very limited
+investment lending o f up to US$20 million in education and land registration.
+66.
+Lending case triggers. At the outset o f the CAS, FYR Macedonia i s considered to be
+in the base case, but with continued strong policy performance i t i s expected that a strong
+r e f o r d h i g h case lending scenario can be achieved in FY04. The strong reform scenario
+would require the continued maintenance of a satisfactory macroeconomic framework as well
+as the achievement o f key structural measures, which have been carefully selected as
+indicators o f commitment to move ahead with difficult reforms (Table 7). Triggers also
+~
+
+An initiative to support the ‘Decade o f Roma Inclusion’ beginning in 2005 was announced at a conference
+“Roma in an Expanding Europe: Challenges for the Future” hosted by the Government o f Hungary in Budapest
+in July 2003.
+
+26
+
+21
+
+Table 7. Triggers for the FY04-06 Lending Program
+Base Case
+
+High Case
+
+Maximum two problem projects in the
+portfolio
+
+Maximum one problem project in the portfolio.
+
+include the implementation o f important fiduciary controls. Under the strong reform scenario
+agreed CAS outcomes detailed in Table 5 w i l l be closely monitored to ensure reform
+performance i s sustained and continued high case lending would be warranted. Achievement
+of the conditionality of the P S A L program, to be defined in FY05, w i l l also provide a strong
+basis for monitoring structural performance. Portfolio status triggers have also been included,
+which would ensure that a deterioration in portfolio quality would result in a downgrading of
+the lending scenario. In the event that an appropriate macroeconomic framework was not
+maintained, the transparency and accountability o f the HIF were to deteriorate, or the
+portfolio quality to deteriorate, the l o w case scenario would be triggered. Were renewed
+insecurity to significantly constrain the Bank’s ability to supervise projects such that
+successful implementation o f even a l o w case scenario became impossible, the CAS would be
+suspended, and the Board would be consulted concerning an appropriate response.
+Creditworthiness and exposure indicators.
+
+67.
+Creditworthiness Indicators. In comparison with other post-conflict countries, FYR
+Macedonia compares favorably on many indicators o f macroeconomic performance and
+indebtedness, despite the deterioration in the fiscal and current accounts over 2001-02. This
+belies at least two important considerations from a creditworthiness perspective. First i s the
+critical importance o f political developments underpinning the country’s prospects and debt
+
+28
+
+service capacity. Second i s the high level o f preferred creditor debt, which increases risks to
+IBRD in the event o f external financing difficulties. Failure to fully implement the Ohrid
+Agreement or a resurgence in ethnic tensions or open conflict could lead to a rapid deterioration
+in creditworthiness, particularly if broad donor support i s withdrawn. So too fiscal slippage
+leading to a rapid build-up o f public debt represents a risk. Over the medium-term, an
+improvement in creditworthiness depends on increased political stability, implementation o f
+structural reforms, and reduced dependence on official financing.
+68.
+Exposure Guidelines. IBRD exposure at end-CY02 was $138 million, or 0.1 percent
+of the total portfolio. The preferred creditor to public debt service ratio (45 percent in 2003)
+breaches the Bank’s guideline of 35 percent, but i t i s expected to fall further under current
+projections. The IBRD debt service ratio (1.1 percent) and share o f public debt service (11
+percent) currently remain well within the exposure guidelines o f 4 percent and 20 percent,
+respectively.
+
+VI.
+
+Coordination with Partners and Civil Society
+
+69.
+
+The role of the Country Office in portfolio management has been strengthened.
+Building on the recommendations o f the CPR, responsibility for monitoring o f the Bank’s
+portfolio has been progressively shifted to the Country Office in Skopje. The office has a
+strong cadre o f local professional sector staff, which has also enabled the progressive transfer
+o f task management responsibilities to the field. Country Unit oversight o f portfolio
+performance has also been devolved to the field, under the overall responsibility of the
+Country Manager, which has enhanced supervision capacity and facilitated recent
+improvement in health o f the portfolio. The capacity o f the Country Office has been
+augmented through the procurement certification o f one staff member, who w i l l become the
+focal point for preliminary procurement actions. Financial management and disbursement
+coverage o f the FYR Macedonia portfolio has also been devolved to regional offices, which
+has improved fiduciary and administrative oversight.
+Linkages and Coordination with ZFC. While this i s not a joint CAS, the IBRD
+70.
+strategy relies on the complementary engagement o f IFC. I F C has played an important role in
+stabilizing the banking sector through an investment in and subsequent rehabilitation support
+to Stopanska Banka, which holds about 40 percent o f total assets in the banking sector, and
+w i l l continue to focus on strengthening o f financial markets. IFC w i l l continue to emphasize
+creating and expanding financing institutions targeting micro- and small and medium-scale
+enterprises. Through the Southeast Europe Enterprise Development Facility (SEED), I F C i s
+also assisting SMEs to prepare sound financing proposals and i s providing core enterpriselevel support, business and entrepreneurial s k i l l s training, information exchange, and
+networking. Through IFC’s recent equity investment in ProBusiness Bank, A.D., Skopje,
+micro and small enterprises clients w i l l be exposed to best practice standards in areas such as
+disclosure o f financial information, and environmental and social considerations when
+appraising potential investments. Also, I F C w i l l continue to assist small and medium
+enterprises b y providing equity capital through i t s investment in an equity fund. I F C w i l l also
+seek to partner with the Bank in i t s efforts to develop the leasing, insurance and capital market
+sectors.
+
+29
+
+7 1.
+The IBRD strategy aims to attract strategic investors into key infrastructure sectors,
+and IFC w i l l have an important role to play in this regard. IFC has already participated with a
+US$50 million investment (convertible bonds) in Macedonian Telecommunications, the stateowned provider o f fixed and cellular telecommunication services. In the medium term, IFC
+w i l l focus on priority regional infrastructure projects, and to this end I F C i s working, together
+with U.S. Agency for International Development, to develop a Balkans Infrastructure
+Development Facility, to facilitate private sector participation in infrastructure projects in
+Balkans. In the enterprise sector, I F C has to date invested in five projects for a total o f US$32
+million and w i l l continue to support viable export-oriented enterprises.
+72.
+The role of MZGA and the WBZ. MIGA i s likely to play an important role in the
+achievement o f the CAS objectives, especially in infrastructure and the enterprise sector. To
+date, MIGA has facilitated some US$30.7 million in foreign direct investment into FYR
+Macedonia, through a guarantee issued in April 2000 covering war and civil disturbance risks
+to an equity investment in a cement company located in Skopje. MIGA i s expecting to
+increase i t s capacity to guarantee projects in FYR Macedonia b y partnering with public and
+private counterparts on co- and reinsurance, to support eligible projects, including complex
+infrastructure projects such as those expected in energy, railways and roads. MIGA w i l l also
+look for opportunities for future technical assistance activities to support investment
+promotion and w i l l continue to publicize investment opportunities through i t s online services,
+particularly PrivatizationLink and FDI Xchange. WBI w i l l also be active in FYR Macedonia
+and i s planning a series o f distance learning and in-country events to build capacity and
+promote debate concerning the Roma, investment climate, private-public partnerships, and
+other development topics.
+73.
+Civil society participation in preparation of the CAS. In the absence of a PRSP or
+Comprehensive Development Framework (CDF), incorporating the views o f a broad spectrum
+o f stakeholders into the CAS has been challenging. The Bank’s Country Office supervised a
+series o f consultations with representatives o f civil society to solicit the views o f stakeholders
+concerning the World Bank Group in FYR Macedonia and also to learn the respondents’
+views on a set o f wider topics including perceptions of key developmental challenges (Box 4).
+The surveys also included questions about the importance o f EU accession and
+decentralization to gain insight into the ownership o f the population o f the S A A and Ohrid
+Agreement agendas.
+74.
+The Bank’s donor partners have been closely involved in preparation of the CAS.
+Close dialogue led b y the Country Office in Skopje has resulted in a high degree of
+coordination and integration o f the Bank’s proposed program with those o f i t s partners. A
+donor focus group was established to assist CAS preparation, which has served to help the
+Bank pursue a selective approach while avoiding neglect o f core priorities. The Bank’s major
+donor partners include the EU (through the CARDS program implemented b y the European
+Agency for Reconstruction supporting the priorities o f the SAA), USAID, United Kingdom’s
+Department for International Development (DFID), and a strategic financing partnership with
+the Government o f the Netherlands. Close coordination o f programs i s particularly important
+in education, public sector management, trade facilitation, social protection reform and
+judicial reform, where complementary donor activities are planned to provide comprehensive
+assistance. The Bank’s support for infrastructure - through projects in transport restructuring,
+
+30
+
+Box 4. Incorporating the Views of Civil Society into the CAS.
+The consultation process consisted o f several quantitative and qualitative feedback instruments: (i) a
+quantitative baseline survey carried out in February 2003 to evaluate awareness o f the Bank and i t ’ s
+activities and opinions about key development challenges on which the CAS should focus, (ii)a program of
+in-depth Interviews conducted with 20 pre-selected individuals (experts from different fields and prominent
+people) familiar with the activities o f the World Bank in FYR Macedonia (February-March 2003), and (iii)
+24 focus groups (10-12 participants each), ten o f which were held in Skopje and the rest in cities around the
+country. Focus groups consisted o f representatives o f local government, non-governmental organizations,
+academia, students, private sector and union representatives. Parliamentarians, donors and media formed
+separate focus groups. A summary report o f the public consultation was completed in April o f 2003. The
+report suggest that they key areas for focus o f the Bank strategy should include:
+Reducing unemployment and supporting investment i n industry.
+Reform o f the public administration and anti-corruption activities.
+Reform of the pension system.
+Reform o f the public health insurance system.
+Reform o f the education system.
+Building a strategy for export development.
+The report also detailed participant’s views about monitoring o f the Bank’s development strategy.
+Corruption emerged as a key concern across a broad spectrum o f participants, and as a result improved
+transparency i n government has been selected as a core targeted outcome o f the CAS, along with monitoring
+indicators.
+
+energy, and trade and transport facilitation - w i l l also be closely interlinked with those o f
+other donors and multilateral banks. In some sectors other donors w i l l take the lead, including
+rural development (led b y the EU), SME development (led by EU, USAID, and IFC), and
+environment (led b y the EU - with possible GEF support).
+
+75.
+The Bank program i s also designed to complement the government’s program
+supported b y the IMF SBA. Bank staff have worked closely with the IMF to coordinate
+conditionality and reform priorities, and the resulting S B A supported program and planned
+Bank structural and technical support are mutually reinforcing. K e y areas o f cooperation
+include public sector management reform in general, and especially civil service reform,
+improving budgetary management (including the EBFs), and financial sector regulation and
+restructuring.
+
+76.
+The Bank will work with the Government to strengthen donor coordination. The
+Bank and the EU co-chairs the High Level Steering Group for South East Europe and i t s
+working level counterpart, the Working Level Steering Group (WLSG). The WLSG has
+played a key role in coordinating donor efforts to promote peace and stability through the
+implementation o f the Ohrid Agreement, and in harmonizing donor positions. These efforts
+have been supported by the joint Bank-European Commission office in Brussels, which has
+been central to monitoring o f donor flows. With the improved situation in FYR Macedonia
+shifting the focus to longer term development efforts rather than post-conflict assistance, the
+Government has begun to take a more central role in coordination efforts. The joint office in
+Brussels has been working with the Ministry o f Finance to transfer the assistance monitoring
+function, and new mechanisms for ensuring the coordination o f developmental priorities
+between ministries, and, hence, with donors, are expected to be developed soon. This
+
+31
+
+function w i l l necessarily closely relate to efforts to introduce a multi-year strategic planning
+and budgeting process.
+
+VII.
+
+Risks to the Success o f the Bank’s program
+
+77.
+Political risks are substantial. The Ohrid Agreement i s to some extent unwieldy and
+complex, but i t s implementation i s politically essential for the preservation o f peace between
+ethnic groups in FYR Macedonia. Peace and stability, in turn, are absolute prerequisites for the
+achievement o f the CAS objectives, and the broader goal o f poverty reduction. Renewed ethnic
+division and instability could result if the implementation o f the Ohrid Agreement appears to
+stall. The unresolved status o f Kosovo also remains a source o f potential conflict in the region.
+The Bank i s not well placed to mitigate such risks. However, ongoing assistance to overcome
+the technical difficulties o f implementation o f the Agreement i s proving helpful.
+78.
+There are also political risks associated with the implementation o f the proposed
+reform program. Given already high unemployment, i t w i l l be particularly difficult to sustain
+political support for unpopular reforms, including reforms o f the public administration and
+parastatals, pension and labor market reforms, and enterprise restructuring. Instability in the
+government coalition could result in reform delays. Given recent history, foreign investors are
+likely to remain particularly sensitive to even temporary setbacks, and a negative shift in
+sentiment could undermine needed FDI inflows, donor support, and growth. The Bank can
+mitigate such risks, b y working closely with the government to ensure that complementary
+supporting programs are in place to minimize adverse short-term social impacts o f the reform
+program supported b y the CAS. Such considerations w i l l be especially important for the
+proposed restructuring o f SOEs and the reforms to the social protection system and labor
+markets.
+Macroeconomic vulnerabilities also exist. Entering the CAS period, the global
+79.
+economic outlook has major uncertainties. Slower than expected growth in FYR Macedonia’s
+main trading partners or higher than expected world o i l prices would undercut domestic
+growth. Fiscal revenues would be affected, as would the sustainability o f the country’s
+expenditure policy over the medium term, making ongoing reforms more difficult to afford.
+Declines in international business confidence, particularly due to further instability in the
+region, could limit flows o f international capital, again undercutting the country’s growth
+scenario. Slower than expected reform progress could also result in poorer growth outcomes
+than forecast. In the event o f a downside scenario, the structure o f public debt could leave
+FYR Macedonia vulnerable.
+
+The selective Bank program will rely on sustained donor coordination. A selective
+80.
+approach b y the Bank necessarily entails risks that other partners may not perform as expected,
+which may leave Bank interventions isolated and ineffective. The Bank program w i l l be closely
+coordinated with those o f other donors, on a component basis, in the areas o f public sector
+management reform, education, infrastructure, financial sector development and regulatory and
+judicial reform. Moreover, the Bank w i l l rely on its donor partners to take the lead in key
+sectors such as S M E development. rural development, and democracy and rule o f law. The
+effectiveness o f the Bank’s programs in achieving the CAS outcomes w i l l be reliant on the
+
+32
+
+effective delivery o f support programmed b y other donors, and vice versa. The strengthening
+o f the role o f the Bank’s Country Office and continued close dialogue with partners w i l l
+mitigate this risk. Close contact in the field w i l l endeavor to ensure the Bank w i l l have
+sufficient warning and flexibility to adapt i t s interventions should the programs o f donor
+partners change or be constrained.
+
+VIII. Concluding Remarks
+8 1.
+The planned program of IBRD assistance to FYR Macedonia over the next three years
+presents an important opportunity for the country to benefit from scaled-up Bank assistance at
+a critical time. FYR Macedonia faces significant challenges to overcome the internal
+divisions and conflict that have prevented poverty reduction in recent years, as well as to
+complete the transformation o f i t s economy that began over ten years ago. The S A A process
+and the prospects o f eventual EU membership provide a powerful framework to guide i t s
+efforts, and the Bank i s well placed to support this agenda in coordination with other donors.
+Through implementation o f the S A A and the Ohrid Agreement, as well as broader structural
+reforms o f the economy, the Government can make significant progress towards putting in
+place the policies and program that w i l l reduce poverty over the medium term, and the IBRD
+support program outlined above w i l l be vital to this effort.
+
+James D. Wolfensohn
+President
+
+b y Shengman Zhang
+Managing Director
+Washington, D.C.
+September 9,2003
+
+33
+
+E
+
+.=
+
+Macedonia, FYR at a glance
+POVERTY and SOCIAL
+
+2002
+Population, mid-year (millions)
+GNI per capita (Atlas method, US$)
+GNI (Atlas method, US$ billions)
+
+Macedonia,
+FYR
+
+EuroDe &
+Central
+Asia
+
+Lowermiddleincome
+
+2.0
+1,700
+3.5
+
+475
+1,960
+930
+
+2,164
+1,240
+2,677
+
+0.5
+1.o
+
+0.1
+0.6
+
+1.o
+1.2
+
+60
+73
+13
+6
+99
+
+63
+69
+20
+
+103
+104
+102
+
+90
+3
+102
+103
+101
+
+46
+69
+33
+11
+80
+15
+107
+107
+107
+
+1/21/04
+
+Development diamond‘
+
+Life expectancy
+
+Average annual growth, 1996-02
+
+Population (%)
+Labor force (%)
+
+GNI
+Per
+capita
+
+Most recent estlmate (latest year available, 1996-02)
+
+Poverty (“A of population below national poverty line)
+Urban population (“A of total population)
+Life expectancy at birth (years)
+infant mortality (per 1,000 live births)
+Child malnutrition (% of children under 5)
+Access to an improved water source (“A of population)
+Illiteracy (“A ofpopulation age 1.54
+Gross primary enrollment (% of school-age population)
+Male
+Female
+
+I
+
+Gross
+primary
+enrollment
+
+Access to improved water source
+W
+
+u
+
+V
+
+d
+
+Macedonia, FYR
+Lower-middle-income group
+
+KEY ECONOMIC RATIOS and LONG-TERM TRENDS
+
+1982
+
+1992
+
+2001
+
+2002
+
+GDP (US$ billions)
+Gross domestic InvestmenffGDP
+Exports of goods and serviceslGDP
+Gross domestic savingslGDP
+Gross national savings/GDP
+
+2.3
+15.6
+54.3
+16.6
+14.8
+
+3.4
+18.3
+42.4
+5.2
+14.0
+
+3.7
+21.9
+36.8
+0.5
+13.1
+
+Current account balance/GDP
+interest payments/GDP
+Total debffGDP
+Total debt servicekxports
+Present value of debVGDP
+Present value of debtlexports
+
+-0.8
+
+-6.8
+1.6
+41.4
+12.8
+
+-8.7
+1.3
+43.5
+11.1
+
+2001
+
+2002
+
+2002-06
+
+0.9
+0.2
+4.1
+
+-4.5
+-4.9
+-15.7
+
+0.7
+0.6
+-4.4
+
+4.1
+3.5
+6.5
+
+1982
+
+1992
+
+2001
+
+2002
+
+17.1
+39.8
+32.9
+43.2
+
+11.7
+32.1
+20.3
+56.1
+
+12.1
+29.7
+18.6
+58.2
+
+63.9
+19.5
+53.3
+
+70.0
+24.8
+55.5
+
+76.7
+22.8
+58.2
+
+1982-92 1992-02
+
+2001
+
+2002
+
+-0.2
+0.2
+-1.8
+1.9
+
+-10.8
+-6.4
+-3.9
+-1.6
+
+2.3
+-4.8
+-5.6
+3.9
+
+2.0
+3.1
+3.4
+7.9
+
+-10.0
+29.7
+-17.9
+-15.3
+
+8.3
+2.4
+7.7
+10.7
+
+(average annual growth)
+GDP
+GDP per capita
+Exports of goods and services
+STRUCTURE of the ECONOMY
+(“A of GDP)
+Agriculture
+Industry
+Manufacturing
+Services
+
+Private consumption
+General government consumption
+imports of goods and services
+
+(average annual growth)
+Agriculture
+Industry
+Manufacturing
+Services
+Private consumption
+General government consumption
+Gross domestic investment
+Imports of goods and services
+
+1982-92 1992-02
+
+..
+..
+..
+
+Economic ratios*
+
+Trade
+
+Indebtedness
+-Macedonia, FYR
+Lower-m/ddie-incomegroup
+
+. _
+
+I Growth of investment and GDP (%)
+20
+10
+
+0
+.10
+20
+
+-
+
+- __.
+
+Growth of exports and imports (%)
+40 -
+
+-
+
+*n‘-
+
+Exports
+
+*Imports
+
+Note: 2002 data are preliminaly estimates. Group data are through 2001.
+* The diamonds show four key indicators in the country (in bold) compared with its income-group average. If data are missing, the diamond will
+
+be incomplete.
+
+I
+
+I
+I
+
+Macedonia, FYR
+PRICES and GOVERNMENT FINANCE
+
+1992
+
+2001
+
+2002
+
+1,690.7
+1,271.8
+
+5.5
+3.6
+
+1.9
+1.4
+
+-9.8
+
+34.2
+-2.5
+-6.3
+
+35.9
+-1.3
+-5.7
+
+1992
+
+2001
+
+2002
+
+1,199
+
+1,154
+37
+65
+825
+1,688
+194
+234
+284
+
+1,112
+35
+75
+778
+1,963
+246
+241
+407
+
+69
+79
+87
+
+71
+81
+88
+
+1992
+
+2001
+
+2002
+
+1,259
+1,236
+23
+
+1,395
+1,934
+-539
+
+1,364
+2,156
+-792
+
+0
+
+Net income
+Net current transfers
+
+-72
+30
+
+-39
+343
+
+-31
+498
+
+4
+
+Current account balance
+
+-19
+
+-235
+
+-324
+
+Financing items (net)
+Changes in net reserves
+
+79
+-60
+
+318
+-82
+
+194
+131
+
+Memo:
+Reserves including gold (US$ millions)
+Conversion rate (DEC, local/US$)
+
+60
+5.1
+
+775
+68.0
+
+735
+64.4
+
+1992
+
+2001
+
+2002
+
+1,423
+124
+254
+
+1,613
+138
+304
+
+Total debt service
+IBRD
+IDA
+
+194
+12
+2
+
+167
+12
+
+Composition of net resource flows
+Official grants
+Official creditors
+Private creditors
+Foreign direct investment
+Portfolio equity
+
+-27
+23
+442
+0
+
+-22
+25
+77
+1
+
+24
+23
+4
+19
+10
+10
+
+15
+33
+6
+28
+7
+21
+
+Domestic prices
+(% change)
+Consumer prices
+Implicit GDP deflator
+
+1982
+
+Government finance
+(% of GDP, includes current grants)
+Current revenue
+Current budget balance
+Overall surplus/deficit
+TRADE
+(US$ millions)
+Total exports (fob)
+Raw materials
+Food
+Manufactures
+Total imports (cif)
+Food
+Fuel and energy
+Capital goods
+
+1982
+
+144
+1,198
+112
+127
+85
+
+Export price index (1995=100)
+Import price index (1995=100)
+Terms of trade (1995=1OO)
+BALANCE of PAYMENTS
+(US$ millions)
+Exports of goods and services
+Imports of goods and services
+Resource balance
+
+EXTERNAL DEBT and RESOURCE FLOWS
+
+(US$ millions)
+Total debt outstanding and disbursed
+IBRD
+IDA
+
+World Bank program
+Commitments
+Disbursements
+Principal repayments
+Net flows
+Interest payments
+Net transfers
+DeveloDment Economics
+
+1982
+
+1982
+
+0
+
+1
+
+I
+
+Inflation (%)
+
+I
+
+“--“““GDP
+
+deflator
+
+I
+
+-0’CPI
+
+Export and import levels (US$ mill.)
+2.500
+
+~
+
+T
+
+2,000
+1,500
+
+1,000
+500
+0
+98
+
+97
+
+98
+
+!E Exports
+
+1
+
+00
+
+99
+
+01
+
+02
+
+w Imports
+
+Current account balance to GDP (%)
+1
+
+2
+3
+5
+6
+7
+8
+
+9
+
+Composition of 2002 debt (US$ mill.)
+G: 64 A: 138
+
+304
+
+F 501
+
+C 67
+
+A - IBRD
+B . IDA
+C . IMF
+
+D - Other multilateral
+
+E -Bilateral
+F - Private
+G -Short-term
+
+1/21104
+
+PRICES and GOVERNMENT FINANCE
+Domestic prices
+(% change)
+Consumer prices
+Implicit GDP deflator
+
+1982
+
+(US$ millions)
+Total exports (fob)
+Raw materials
+Food
+Manufactures
+Total imports (cif)
+Food
+Fuel and energy
+Capital goods
+
+2001
+
+2002
+
+1,690.7
+1,271.8
+
+5.5
+3.6
+
+1.9
+1.4
+
+10
+
+Government finance
+(x of GDP, includes current grants)
+Current revenue
+Current budget balance
+Overall surplusideficit
+TRADE
+
+1992
+
+(US$ millions)
+Exports of goods and services
+Imports of goods and services
+Resource balance
+
+1982
+
+-9.8
+
+35.9
+-1.3
+-5.7
+
+1992
+
+2001
+
+2002
+
+1,199
+
+1,154
+37
+65
+825
+1,688
+194
+234
+284
+
+1,112
+35
+75
+778
+1,963
+246
+241
+407
+
+69
+79
+87
+
+71
+81
+88
+
+2001
+
+2002
+
+144
+1,198
+112
+127
+85
+
+1982
+
+1992
+
+1,395
+1,934
+-539
+
+1,364
+2,156
+-792
+
+Net income
+Net current transfers
+
+-72
+30
+
+-39
+343
+
+-31
+498
+
+Current account balance
+
+-19
+
+-235
+
+-324
+
+Financing items (net)
+Changes in net reserves
+
+79
+-60
+
+318
+-82
+
+194
+131
+
+Memo:
+Reserves including gold (US$ millions)
+Conversion rate (DEC, local/US$)
+
+60
+5.1
+
+775
+68.0
+
+735
+64.4
+
+1992
+
+2001
+
+2002
+
+1,423
+124
+254
+
+1,613
+138
+304
+
+Total debt service
+iBRD
+IDA
+
+194
+12
+2
+
+167
+12
+1
+
+Composition of net resource flows
+Official grants
+Official creditors
+Private creditors
+Foreign direct investment
+Portfolio equity
+
+-27
+23
+442
+0
+
+-22
+25
+77
+1
+
+24
+23
+4
+19
+10
+10
+
+15
+33
+6
+28
+7
+21
+
+(US$ millions)
+Total debt outstanding and disbursed
+IBRD
+IDA
+
+World Bank program
+Commitments
+Disbursements
+Principal repayments
+Net flows
+Interest payments
+Net transfers
+Development Economics
+
+4
+0
+
+34.2
+-2.5
+-6.3
+
+1,259
+1,236
+23
+
+EXTERNAL DEBT and RESOURCE FLOWS
+
+6
+2
+
+Export price index (1995=?00)
+Import price index (1995=100)
+Terms of trade (1995=100)
+BALANCE of PAYMENTS
+
+8
+
+1982
+
+0
+
+00
+
+2
+
+I
+
+sjl"mrXXI_
+
+GDP deflator
+
+01
+
+02
+
+-.oICPI
+
+I
+
+I
+
+Export and import levels (US$ mill.)
+2,500
+
+2 000
+1 500
+
+1000
+500
+0
+96
+
+97
+
+98
+
+99
+
+Exports
+
+~
+
+00
+
+02
+
+01
+
+Imports
+
+Current account balance to GDP (%)
+0
+1
+
+2
+3
+4
+
+5
+6
+7
+8
+
+9
+
+Composition of 2002 debt (US$ mill.)
+G: 64 A: 138
+
+304
+F 501
+
+C 67
+
+A - IBRD
+B - IDA
+C . IMF
+
+D - Other multilateral
+
+E - Bilateral
+F - Private
+G - Short-term
+
+1/21/04
+
+I
+
+C A S Annex B2 - Macedonia, FYR
+Selected Indicators o f Bank Portfolio Performance and Management
+-Indicator
+-
+
+FY03-
+
+FYOl
+
+FY02
+
+Number o f Projects under implementation"
+Average Implementation Period (years)b
+Percent of Problem Projects b y Number"'"
+Percent o f Problem Projects by Amount
+Percent of Projects at Risk by Number a,d
+Percent of Projects at Risk by Amount
+Disbursement ratio (%)e
+Portfolio Management
+
+13
+.2.3
+0.0
+0.0
+0.0
+0.0
+22.2
+
+13
+.2.5
+15.4
+16.2
+15.4
+16.2
+29.3
+
+8
+3.2
+12.5
+8.3
+25.0
+29.4
+30.5
+
+CPPR during the year (yesho)
+Supervision resources (total US$ thousands)
+Average Supervision (US$/project)
+
+No
+85 1
+65.4
+
+No
+856
+65.8
+
+Yes
+83 1
+103.8
+
+Portfolio Assessment
+
+Memorandum item
+Projects evaluated by OED by Number
+Projects evaluated by OED by Amount (US$millions)
+% of OED Projects Rated U or HU b y Number
+% o f OED Projects Rated U or HU by Amt
+a
+
+Since FYSO
+13
+374.9
+30.8
+5.7
+
+Last five
+FYs
+7
+113.9
+42.9
+18.8
+
+As shown i n the Annual Report on Portfolio Performance (except for current FY)
+Average age o f projects in the Banks country portfolio.
+Percent of projects rated U or HU on development objectives (DO) andlor implementation progress (IP).
+d As defined under the Portfolio Improvement Program.
+e Ratio o f disbursements during the year to the undisbursed balance of the Bank's portfolio at the beginning o f the
+year: investment projects only.
+
+CAS Annex B3 - IBRDDDA Program Summary
+As of 07/31/03
+Pronosed IBRD Base Case Lending Proerama
+Fiscal
+Year
+
+2004
+
+2005
+
+Project ID
+
+Education Access Improvement
+Health and Social Protection
+Administration
+
+a.
+
+5 .O
+15.0
+
+Strategic Rewardsb
+(H/M/L)
+
+Implementation Risksb
+(H/M/L)
+
+H
+H
+
+M
+M
+
+Result
+
+20.0
+
+Land Registration
+Financial Sector Development
+
+15.0
+15.0
+30.0
+
+H
+M
+
+M
+L
+
+Judicial Reform
+Electric Power Development
+
+Result
+
+15.0
+25.0
+40.0
+
+H
+M
+
+H
+M
+
+Overall Result
+
+90.0
+
+Result
+2006
+
+US$(M)
+
+Macedonia, FYR
+
+This table presents the planned program for the period July 2003 until June 2006 - i.e. FY04-06
+
+b. For each project, indicate whether the strategic rewards and implementation risks are expected to
+be high (H), moderate (M),or low (L).
+
+CAS Annex B3 (IFC & MIGA) for FYR Macedonia, f o r m
+
+-
+
+FYR Macedonia, form IFC and M I G A Program, FY 2000-2003
+
+IFC approvals (US$m)
+
+Sector (%)
+
+FINANCE & INSURANCE
+TEXTILES, APPAREL & LEATHER
+
+Total
+
+2000
+
+200 1
+
+2002
+
+2003
+
+4.61
+
+5.21
+
+5.30
+
+3.2
+
+100
+
+100
+
+100
+
+100
+
+100
+
+89
+11
+
+100
+
+100
+
+100
+
+100
+
+100
+
+18.80
+
+17.00
+
+9.90
+
+0.00
+
+100
+100
+
+100
+
+100
+
+Investment instrument( %)
+Loans
+Equity
+Quasi-Equity
+Other
+
+Total
+
+MIGA guarantees (US$m)
+
+100
+
+C A S Annex B4 - Summary of Nonlending Services - Macedonia FYR
+As of Q7l31JQ3
+
+Product
+Recent Completions
+Public Expenditure and Institutional Review
+Country Procurement Assessment Report
+Education Sector Update
+Agriculture Sector Update
+Country Portfolio Review
+Country Economic Memorandum
+Fiscal Decentralization Policy note
+Report on the Observance of Standards and
+Codes
+Country Financial Accountability
+Assessment
+Administrative Barriers to Investment
+(FIAS)
+
+Completion
+FY
+
+Cost
+(US$OOO)
+
+Audience"
+
+Objectiveb
+
+FY02
+FY02
+FY02
+FY03
+FY03
+FY03
+FY03
+FY03
+
+406
+93
+126
+315
+40
+176
+41
+42
+
+G,D,B,PD
+GD,B
+G,D,B,PD
+G,D,B,PD
+G,B
+G,B,D,PD
+G,B,D
+G,B
+
+KG, PS
+KG, PS
+KG, PS, PD
+KG, PS, PD
+PS
+KG, PS
+KG, PS
+KG, PS
+
+FY03
+
+80
+
+G,B,D,PD
+
+KG, PS
+
+FY03
+
+-
+
+G,B,D,PD
+
+KG,PS,PD
+
+Underway
+Financial Sector Assessment Program
+Poverty Assessment
+Energy Sector Strategy
+CEM follow up notes
+
+FY04
+FY04
+FY04
+FY04
+
+197
+441
+80
+90
+
+G,B
+G,D,B,PD
+G,BD
+G,B,D
+
+KG, PS
+KG, PS, PD
+KG, PS
+KG, PS
+
+Planned
+Legal Judicial Diagnostic
+Social Services Delivery Study
+PEIR Update
+CPAR Update
+Social Develooment Uodate
+
+FY05
+FY05
+FY06
+FY06
+FY06
+
+50
+100
+185
+80
+80
+
+G,BD
+G,D,B,PD
+G,D,B,PD
+GD,B
+G,D,B,PD
+
+KG, PS
+KG, PS
+KG, PS
+KG, PS
+KG, PS, PD
+
+a.
+b.
+
+Government, Donor, Bank, Public Dissemination
+Knowledge Generation, Public Debate, Problem Solving
+
+Annex B6
+Page 1 of 3
+
+-
+
+Macedonia, FYR Key Economic Indicators
+'
+
+Indicator
+National accounts (as % of GDP)
+Gross domestic product'
+
+(base case)
+
+Actual
+1999
+2000
+
+1998
+
+Estimated
+2002
+
+2001
+
+Projected
+2004
+2005
+
+2003
+
+2006
+
+100
+13
+
+100
+13
+
+100
+12
+
+100
+12
+
+100
+12
+
+100
+13
+
+100
+13
+
+100
+12
+
+100
+12
+
+Industry
+
+34
+
+33
+
+34
+
+32
+
+30
+
+30
+
+30
+
+30
+
+30
+
+Services
+
+53
+
+55
+
+54
+
+56
+
+58
+
+57
+
+57
+
+57
+
+57
+
+Total Consumption
+Gross domestic fixed investment
+Government investment
+Private investment
+
+93
+17
+5
+13
+
+90
+17
+4
+12
+
+93
+16
+3
+13
+
+95
+15
+4
+11
+
+99
+15
+3
+12
+
+94
+17
+3
+14
+
+94
+15
+3
+12
+
+93
+15
+3
+12
+
+92
+15
+3
+12
+
+Exports (GNFS)b
+Imports (GNFS)
+
+41
+56
+
+42
+52
+
+48
+62
+
+42
+55
+
+37
+58
+
+35
+52
+
+36
+51
+
+37
+51
+
+37
+51
+
+Agriculture
+
+Gross domestic savings
+
+7
+
+10
+
+7
+
+5
+
+1
+
+6
+
+6
+
+7
+
+8
+
+Gross national savings'
+
+16
+
+21
+
+23
+
+14
+
+13
+
+16
+
+15
+
+16
+
+17
+
+3571
+
+3673
+
+3587
+
+3437
+
+3712
+
+4356
+
+4402
+
+4534
+
+4670
+
+1920
+
+1830
+
+1830
+
+1700
+
+1700
+
+1880
+
+2080
+
+2210
+
+2240
+
+Real annual growth rates (%, calculated from 1996 prices)
+3.4
+4.3
+Gross domestic product at market prices
+Gross domestic income
+3.0
+5.5
+
+4.5
+4.5
+
+-4.5
+-4.8
+
+0.7
+-0.8
+
+3.0
+3.1
+
+3.0
+3.6
+
+3 .O
+3.2
+
+3.0
+3.3
+
+Real annual per capita growth rates (%, calculated from 1996 prices)
+4.1
+Gross domestic product at market prices
+3.9
+2.8
+6.2
+4.1
+Total consumption
+2.3
+4.2
+Private consumption
+2.1
+8.4
+
+-4.9
+-3.3
+-10.4
+
+0.6
+6.8
+8.2
+
+1.a
+-2.9
+3.0
+
+2.5
+2.9
+2.0
+
+2.5
+1.6
+3.5
+
+2.5
+1.5
+0.2
+
+Memorandum items
+Gross domestic product
+(US$ million at current prices)
+GNP per capita (US$,Atlas method)
+
+Balance of Payments (US$ millions)
+
+Exports (GNFS)b
+Merchandise FOB
+
+1441
+1292
+
+1463
+1190
+
+1636
+1321
+
+1395
+1153
+
+1364
+1110
+
+1519
+1236
+
+1582
+1276
+
+1662
+1331
+
+1744
+1386
+
+hports (GNFS)~
+Merchandise FOB
+Resource balance
+Net current transfers
+Current account balance
+
+2016
+1807
+-575
+350
+-269
+
+1917
+1686
+-454
+464
+-32
+
+2279
+201 1
+-643
+614
+-75
+
+1934
+1677
+-539
+343
+-235
+
+2156
+1878
+-792
+498
+-324
+
+226 1
+1967
+-742
+500
+-298
+
+2263
+1967
+-68 1
+442
+-279
+
+2326
+2026
+-664
+444
+-273
+
+2380
+2075
+-635
+450
+-252
+
+Net private foreign direct investment
+
+Long-termloans (net)
+Official
+Private
+Other capital (net, incI. errors & ommissions)
+
+118
+222
+89
+133
+-2
+
+32
+62
+109
+-46
+67
+
+176
+25
+67
+-42
+125
+
+442
+-82
+-27
+-55
+-42
+
+77
+2
+-17
+20
+114
+
+105
+2
+110
+-108
+216
+
+90
+2
+74
+-72
+188
+
+90
+2
+65
+-63
+194
+
+100
+2
+94
+-9 1
+180
+
+Change in reservesd
+
+-69
+
+-128
+
+-250
+
+-82
+
+131
+
+-25
+
+-2
+
+-13
+
+-30
+
+-16.1
+
+-12.4
+
+-17.9
+
+-15.7
+
+-2 1.3
+
+-17.0
+
+-15.5
+
+-14.6
+
+-13.6
+
+Memorandum items
+Resource balance (% of GDP)
+
+Annex 66
+Page 2 of 3
+
+Real annual growth rates ( YR96 prices)
+Merchandise exports (FOB)
+Primary
+Manufactures
+Merchandise imports (CIF)
+
+-2.3
+0.8
+4.3
+29.9
+
+-7.4
+1.8
+-12.5
+-1.5
+
+15.3
+0.1
+35.1
+10.7
+
+-9.1
+-15.9
+-17.6
+-29.6
+
+-4.0
+2.4
+-3.9
+3.3
+
+4.5
+17.6
+-0.8
+-1.5
+
+3.8
+2.8
+4.5
+1.5
+
+3.0
+2.8
+3.3
+1.7
+
+(Continued)
+
+3 .O
+2.8
+3.2
+1.3
+
+Annex B6
+Page 3 of 3
+
+-
+
+Macedonia, FYR K e y Economic Indicators
+(base case, continued)
+
+Indicator
+
+1998
+
+Public finance (as 9'0 of GDP at market prices)e
+33.2
+Current revenues
+33.3
+Current expenditures
+Current account surplus (+) or deficit (-)
+0.0
+1.8
+Capital expenditure
+0.7
+Foreign financing
+
+Actual
+1999
+2000
+
+2001
+
+Estimate
+2002
+
+2003
+
+Projected
+2004
+2005
+
+2006
+
+35.3
+33.2
+2.1
+2.2
+2.1
+
+36.4
+30.6
+5.8
+3.5
+1.5
+
+34.2
+36.7
+-2.5
+4.1
+-1.8
+
+35.9
+37.2
+-1.3
+4.6
+0.9
+
+32.6
+31.6
+1.o
+3.0
+2.9
+
+33.1
+31.4
+1.7
+2.9
+2.1
+
+32.7
+30.3
+2.4
+2.9
+1.7
+
+32.6
+31.0
+1.6
+2.9
+2.5
+
+16.0
+14.9
+144.4
+
+19.4
+29.7
+-11.4
+
+21.5
+25.6
+-101.1
+
+34.1
+56.7
+-11.2
+
+30.5
+-8.6
+29.4
+
+31.3
+8.7
+157.5
+
+32.3
+9.5
+98.9
+
+33.3
+9.6
+98.9
+
+34.5
+9.7
+98.9
+
+Price indices( YR96 =loo)
+Merchandise export price index
+Merchandise import price index
+Merchandise t e r m of trade index
+
+76.2
+68.9
+110.6
+
+74.8
+64.9
+115.2
+
+72.0
+69.1
+104.1
+
+69.0
+79.1
+87.2
+
+69.3
+89.1
+77.8
+
+73.7
+94.4
+78.1
+
+73.3
+92.7
+79.1
+
+74.2
+93.6
+79.3
+
+75.1
+94.3
+79.6
+
+Real exchange rate (US$/LCU)f
+
+85.7
+
+85.1
+
+86.6
+
+87.1
+
+87.4
+
+80.7
+
+82.2
+
+83.5
+
+84.5
+
+0.8
+1.4
+
+-1.1
+2.8
+
+5.8
+8.2
+
+5.5
+3.6
+
+1.9
+1.4
+
+2.8
+3.0
+
+2.2
+3.0
+
+2.8
+3.0
+
+2.8
+3.0
+
+Monetary indicators
+M2/GDP
+Growth of M 2 (%)
+Private sector credit growth /
+total credit growth (%)
+
+Real interest rates
+Consumer price index (% change)
+GDP deflator (% change)
+
+a.
+b.
+c.
+d.
+e.
+f.
+
+GDP at factor cost
+"GNFS" denotes "goods and nonfactor services."
+Includes net unrequited transfers excluding official capital grants.
+Includes use of IMF resources.
+Consolidated central government.
+"LCU" denotes "local currency units." An increase in US$/LCU denotes appreciation.
+
+Annex 87
+Page 1 of 1
+
+-
+
+Macedonia, FYR Key Exposure Indicators
+(base case)
+
+Indicator
+
+1998
+
+Actual
+1999
+2000
+
+Estimated
+2002
+
+2001
+
+Projected
+2004
+2005
+
+2003
+
+2006
+
+148 1
+
+1430
+
+1464
+
+1423
+
+1613
+
+1659
+
+1764
+
+1869
+
+1977
+
+Net disbursements (US$?#
+
+170
+
+61
+
+51
+
+-14
+
+11
+
+166
+
+105
+
+107
+
+108
+
+Total debt service (TDS)
+
+158
+
+158
+
+138
+
+197
+
+234
+
+187
+
+194
+
+200
+
+224
+
+(8)
+TDOEGS~
+
+96.9
+
+91.4
+
+83.3
+
+93.9
+
+107.0
+
+100.8
+
+101.9
+
+102.8
+
+103.9
+
+TDOiGDP
+
+41.5
+
+38.9
+
+40.8
+
+41.4
+
+43.5
+
+38.1
+
+40.1
+
+41.2
+
+42.3
+
+TDSKGS
+
+10.3
+
+10.1
+
+7.9
+
+13.0
+
+15.5
+
+11.4
+
+11.2
+
+11.0
+
+11.8
+
+ConcessionabTDO
+
+17.1
+
+21.3
+
+23.0
+
+23.0
+
+25.2
+
+34.0
+
+37.3
+
+38.1
+
+37.9
+
+8.0
+
+7.0
+
+10.6
+
+11.3
+
+12.1
+
+10.7
+
+33.5
+
+30.1
+
+Total debt outstanding and
+disbursed (TDO) (US$m)'
+
+(US$m)"
+Debt and debt service indicators
+
+IBRD exposure indicators (%)
+IBRD DS/public DS
+Preferred creditor DS/public
+
+8.9
+
+10.6
+
+13.9
+
+45.6
+
+64.0
+
+78.9
+
+53.2
+
+61.8
+
+44.5
+
+41.2
+
+DS (8)'
+IBRD DSEGS
+
+IBRD TDO
+
+(us$m)d
+
+0.6
+
+0.7
+
+0.6
+
+0.8
+
+0.8
+
+108
+
+110
+
+116
+
+124
+
+138
+
+1.2
+
+1.1
+163
+
+186
+
+1.2
+209
+
+1.3
+223
+
+Of which present value of
+guarantees (US$m)
+Share of IBRD portfolio ( 8 )
+
+IDA TDO (us$mId
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+181
+
+223
+
+249
+
+254
+
+304
+
+339
+
+42
+
+46
+
+34
+
+23
+
+24
+
+16
+
+5
+
+5
+
+19
+
+29
+
+31
+
+34
+
+0.0
+~.
+
+0.0
+..
+
+19.0
+
+19.0
+
+19.0
+
+0.3
+
+345
+
+IFC (US$m)'
+Loans
+Equity and quasi-equity'
+MIGA
+MIGA guarantees (US$m)
+
+a. Includes public and publicly guaranteed debt, private nonguaranteed debt, use of IMF credits and net short-
+
+term capital.
+b. "XGS" denotes exports of goods and services, including workers' remittances.
+c. Preferred creditors are defined as IBRD, IDA, the regional multilateral development banks, the IMF, and the
+
+Bank for InternationalSettlements.
+d. Includes present value of guarantees.
+e. IFC data i s as of June 30 of each year.
+
+344
+
+34 I
+
+PI
+cu
+
+cu
+
+0
+
+0
+
+B
+
+1
+
+J
+
+L!t
+
+Q
+E
+
+.m
+
+I
+
+I
+
+I
+
+L
+
+3
+
+C
+
+f!
+
+L
+I
+
+I
+
+I
+
+I
+
+0
+
+5
+
+L
+
+P
+
+I
+
+I----I;
+
+Ij c r ,
+
+, w
+
+@L3
+
+: 3
+
+I
+
+P
+
+0
+
+d
+
+I
+
+c
+
+M
+
+2
+
+c
+
+M
+
+3
+a,
+
+g
+
+Y
+
+c
+
+.-M
+
+-0
+
+-
+
+a
+
+z
+
+;
+L
+
+9,
+
+E
+
+.Y
+
+h
+
+E
+0
+
+5
+C
+cd
+
+-x
+.-
+
+Y
+
+m
+s
+
+0-
+
+.I
+e
+
+cd
+0
+
+a
+
+%
+
+4
+
+.e
+
+;L"
+
+E
+0
+
+.Y
+e
+
+0
+
+a
+
+2
+
+8 .$ .$
+L
+
+a L L
+
+-0
+O
+
+L
+
+a-0
+0
+
+0
+
+8 '2 8 8
+
+

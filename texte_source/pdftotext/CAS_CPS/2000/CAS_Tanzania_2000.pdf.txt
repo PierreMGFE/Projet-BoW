@@ -1,0 +1,8634 @@
+Public Disclosure Authorized
+Public Disclosure Authorized
+
+Document of
+
+The World Bank
+FOR OFFICIAL USE ONLY
+Report No. 20426-TA
+
+MEMORANDUM OF THE PRESIDENT
+OF THE
+INTERNATIONAL DEVELOPMENT ASSOCIATION
+AND THE
+INTERNATIONAL FINANCE CORPORATION
+
+Public Disclosure Authorized
+
+TO THE
+EXECUTIVE DIRECTORS
+ON A
+COUNTRY ASSISTANCE STRATEGY
+OF THE WORLD BANK GROUP
+
+Public Disclosure Authorized
+
+FOR
+THE UNITED REPUBLIC OF TANZNIA
+May 22, 2000
+Country Department for Tanzania
+MacroeconomicesII, AFTM2
+Africa Region
+|This document has a restricted distribution and may be used by recipients only in the performance of their
+|official duties. Its contents may not otherwise be disclosed without World Bank authorization.l
+
+l
+
+GOVERNMENT FISCAL YEAR:
+
+July 1 - June 30
+
+Currency Equivalents
+
+CurrencyUnit= TanzaniaShilling(T Sh)
+US$1= T Sh 797 (April2000)
+ACRONYMS AND ABBREVIATIONS
+
+APL
+BEMP
+CAE
+CAS
+CDF
+CG
+COMESA
+EAC
+ESAF
+DAWASA
+FIAS
+HIPC
+ICRG
+IDA
+IFC
+IMF
+LGRP
+MIGA
+MTEF
+NBC
+NMB
+NGO
+NPES
+OCAG
+OED
+OEG
+PFP
+PRGF
+PRSP
+PSAC
+PER
+PERC
+SADEC
+SEMP
+SMEs
+TAS
+TASAF
+TANESCO
+TIC
+TTLC
+UNAIDS
+WBI
+
+Adjustable Project Loan
+Basic Education Master Plan
+Country Assistance Evaluation
+Country Assistance Strategy
+Comprehensive Development Framework
+Consultative Group
+Common Market for Eastern and Southern Africa
+East Africa Community
+Enhanced Structural Adjustment Facility
+Dar es Salaam Water and Sewerage Authority
+Foreign Investment Advisory Service
+Highly Indebted Poor Countries
+International Country Risk Guide Index
+International Development Association
+International Finance Corporation
+International Monetary Fund
+Local Government Reform Program
+Multilateral Investment Guarantee Agency
+Medium Term Expenditure Framework
+National Bank of Commerce
+National Microfinance Bank
+Non-Governmental Organization
+National Poverty Eradication Strategy
+Office of the Controller and Auditor General
+Operations Evaluations Department
+Operations Evaluation Groups
+Policy Framework Paper
+Poverty Reduction and Growth Facility
+Poverty Reduction Strategy Paper
+Programmatic Structural Adjustment Credit
+Public Expenditure Review
+Public Expenditure Reform Credit
+Southern African Development Community
+Secondary Education Master Plan
+Small and Medium Enterprises
+Tanzania Assistance Strategy
+Tanzania Social Assistance Fund
+Tanzania Electric Supply Company Ltd.
+Tanzania Investment Center
+Tanzania Telecommunications Company Ltd.
+United Nations AIDS Program
+World Bank Institute
+
+VicePresident:
+CountryDirector:
+Task TeamLeader:
+
+IDA
+CallistoE. Madavo
+JamesW. Adams
+MiriaPigato
+
+IFC
+AssaadJabre
+CesareCalari
+James Emery
+
+FOR OMCIAL USE ONLY
+
+MEMORANDUM OF THE PRESIDENTOF THE
+INTERNATIONAL DEVELOPMENT ASSOCIATION
+AND THE INTERNATIONAL FINANCE CORPORATION
+TO THE EXECUTIVE DIRECTORS ON A
+COUNTRY ASSISTANCE STRATEGYOF THE WORLD BANK GROUP
+FOR THE UNITED REPUBLIC OF TANZANIA
+
+CONTENTS
+
+Executive Summary...................................................
+
+i
+
+I. Political, Social and Economic Context ....................................................
+
+1
+
+A. Political, economic and private sector development issues............................................... I
+2
+B. Poverty, social and governance issues....................................................
+II. Macroeconomic Performance and Prospects ................
+
+....................................
+
+6
+
+6
+A. Recent economic performance ....................................................
+B. Macroeconornic prospects, external environment and risks .............................................. 7
+III. The Government's Strategy ....................................................
+A. Overview ...................................................
+B. Creating higher growth and economic opportunities for the poor ...................................
+C. Building capabilities ....................................................
+D. Empowerment and accountability ...................................................
+IV. The Bank Group Assistance Strategy ...................................................
+A. Consultations ..................................................
+.
+B. Lessons from past experience ..................................
+C. The strategy ...................................
+....................
+D. Description of the lending program ..............
+E. Non lending services..................................
+.
+F. WBI and MIGA...................................
+G. Portfolio issues ...................................
+H. Benchmark indicators for Government/Bank
+..................................
+I. Risks..................................
+J. Concluding remarks ..................................
+
+9
+9
+10
+11
+12
+13
+13
+14
+17
+20
+22
+24
+24
+25
+25
+26
+
+and may be used by recipientsonly in the
+This documenthas a restricteddistribution
+of theirofficialduties. Its contentsmaynot otherwisebe disclosedwithout
+perfoumance
+WorldBankauthorization.
+
+MEMORANDUM OF THE PRESIDENTOF THE
+INTERNATIONAL DEVELOPMENT ASSOCIATION
+AND THE INTERNATIONAL FINANCE CORPORATION
+TO THE EXECUTIVE DIRECTORS ON A
+COUNTRY ASSISTANCE STRATEGYOF THE WORLD BANK GROUP
+FOR THE UNITED REPUBLIC OF TANZANIA
+CONTENTS (cont'd)
+CHARTS
+Chart I
+Chart 2
+
+Tanzania: Social and Governance Indicators
+Tanzania: Selected Economic Indicators
+
+TEXT BOXES
+Box I
+Box II
+Box III
+Box IV
+Box V
+
+The Development Vision 2025 (1998) and the National Poverty
+Eradication Strategy (1997)
+CAS Consultations With Civil Society: Key Findings
+OED's and OEG's Findings and Recommendations
+Triggers for High Case Scenario
+The Need to Scale Up the Fight Against HIV/AIDS
+
+TEXT TABLES
+Table I
+Table 2
+Table 3
+
+Tanzania: Past Results and Macroeconomic Projections for 2000-03
+A Framework for Development Partnership
+Tanzania CAS- Lending Program FYO1-03(US$ millions)
+
+ANNEXES
+Annex I
+Annex II
+Annex III
+Annex IV
+Annex V
+
+The Low Case Scenario
+Tanzania: The Road to Ownership and Effective Partnership
+Portfolio Overview & Performance Improvement Strategy
+Client Feedback Survey 1997
+Standard Annexes
+
+Map
+
+Tanzania - IBRD 27941
+
+MEMORANDUM OF THE PRESIDENTOF THE
+INTERNATIONAL DEVELOPMENT ASSOCIATION
+AND THE INTERNATIONAL FINANCE CORPORATION
+TO THE EXECUTIVE DIRECTORS ON A
+COUNTRY ASSISTANCE STRATEGYOF THE WORLD BANK GROUP
+FOR THE UNITED REPUBLIC OF TANZANIA
+
+Executive Summary
+1.
+Economic reforms in Tanzania began in 1986 and by the early 1990s household surveys
+indicated that higher economic growth was reducing poverty. However, in the mid 1990s
+Tanzania's reform program fell off track, resulting in high budget deficits, increased inflation and
+low economic growth. In parallel, corruption increased significantly. Reflecting this situation,
+long-standing donor support for Tanzania came under threat. As summarized in the "Report of
+the Group of Independent Advisors on Development Cooperation Issues Between Tanzania and
+its Aid Donors" (ThieHelleiner Report) in June 1995: "With the current macroeconomic situation
+lagging behind expectations and the continuing malaise in aid relationships, the major progress of
+the past nine years is now at significant risk".
+2.
+Approximately six months after the report was published, elections were held and a new
+Government, led by President Benjamin Mkapa, came to power. In its early pronouncements on
+the economic situa4tion,the Government committed itself to a renewed effort at economic reform
+and expressed its determination to re-establish more positive relations with its donors and
+partners in development. The last Country Assistance Strategy (CAS), presented in 1997 during
+the initial period of the Mkapa Government, focussed on supporting this effort at renewal. Three
+related themes were central to that CAS: (i) the critical link between economic growth and
+poverty reduction; (ii) the priority of supporting and reinforcing the growth oriented
+macroeconomic reforms introduced by the new Government; and (iii) the need to respect and
+foster Government ownership of both its macroeconomic reforms and investment programs.
+3.
+In parallel to the work on this CAS the Government is preparing the Tanzania Assistance
+Strategy (TAS) and the Poverty Reduction Strategy Paper (PRSP). The TAS provides a
+development framework to organize donors assistance around strategic priorities and to increase
+the share of aid, currently as low as 40 percent, accounted for by the budget. The PRSP work is
+focussing on specific policies and institutional changes for reducing poverty and improving living
+standards in the short and medium term. The focus of this CAS is on higher growth, poverty
+reduction and institutional reforms to improve governance and service delivery. The CAS shares
+the main strategic directions of the TAS - adherence to macro stability, a renewed emphasis on
+rural development:, improved governance and increased private sector participation in the
+economy. It also supports the Government's desire to enter into new relationships with partners,
+based on the phased switching from projects to programs for a more effective and efficient use of
+aid resources. The preparation of the CAS has been participatory, involving wide consultations
+with civil society and a large number of stakeholders. It also reflects the lessons learned by OEG
+and OED in their recent reviews.
+4.
+The CAS presents three scenarios. In the base-case scenario (within which the Bank is
+currently operating), lending would rise from US$200 million a year (in the last CAS) to US$260
+million. This assumes that objectives for the PRSP and the Poverty Reduction and Growth
+Facility (PRGF) would be met, consistent with anticipated schedules. In this scenario,
+macroeconomic stability and structural measures in the areas of governance, financial
+i-
+
+management, tax reforms and improvement of the business environment would be implemented
+and social sector programs would be strengthened. The adoption of the low-case scenario
+(lending program of US$100 million a year) would result from significant delays in the
+implementation of PRSP and PRGF, as well as from slippage in the expected timing for the HIPC
+completion point.
+5.
+The CAS envisions a move to the high-case scenario by the third year if specific triggers
+(mostly on governance and public sector management) are met. This scenario would add US$200
+million to the base-case lending scenario, and more importantly, move away from traditional
+project financing towards budgetary support through the instrument of a Public Expenditure
+Reform Credit (PERC). The PERC would focus on poverty and environmentally sustainable rural
+development issues and would be utilized by the Bank to systematically address cross-sectoral
+issues of poverty reduction identified in the PRSP.
+6.
+Tanzania is vulnerable to external shocks, commodity price changes and droughts. But
+the sources of foreign exchange earnings are becoming increasingly diversified, and the current
+level of international reserves offer sufficient cushion against external shocks. Domestically,
+revenue shortfalls or increased government spending could endanger the adjustment efforts.
+Domestic support for the reforms could be undercut if higher growth and poverty reduction are
+not achieved. Finally, worsening governance and increased corruption may alienate the support of
+key aid partners and reduce investment.
+7.
+These risks, however, are manageable. Tanzania is politically stable and ethnic friction is
+minimal. The newly created East African Community and similar regional arrangements provide
+the basis for greater policy and economic coordination in the area. The HIPC debt relief will
+enable the country to free up substantial resources to enable an increase in spending for poverty
+focussed programs. For the Bank, the greatest risk is that of overestimating the Government's
+implementation capacity. Thus, we will have to pay great attention to project design, to undertake
+effective capacity-building initiatives, to be vigilant and disciplined in supervision, and to have a
+strong monitoring and evaluation feedback system. This will be vital to track programs, draw
+lessons and adjust learning in real time.
+8.
+
+The following issues are suggested for Board discussion:
+*
+
+*
+*
+
+Does the Board agree with the strategic priorities for Bank Group support? Given the
+success and strength of our dialogue on macroeconomic issues should we now pursue the
+broader range of initiatives suggested in this CAS?
+Is the proposed level of lending, and large share of program aid, consistent with the
+expected progress in budget management and governance? Are the conditions for shifting
+towards program support specific enough?
+Are CAS implementation, risks realistic and acceptable?
+
+ii
+
+MEMORANDUM
+OF THE PRESIDENTOF
+THE
+INTERNATIONAL
+DEVELOPMENT
+ASSOCIATION
+AND, THE INTERNATIONAL
+FINANCE CORPORATION
+TO THE EXECUTIVE DIRECTORS ON A
+COUNTRY ASSISTANCE STRATEGYOF THE WORLD BANK GROUP
+FOR THE UNITED REPUBLIC OF TANZANIA
+
+I. POLITICAL, SOCIAL AND ECONOMIC CONTEXT
+A. Political, econontic and private sector development issues
+
+1.
+Democracy is evolving peacefully. Tanzania is one of the few countries in Africa with a
+long record of political and civic stability, in which citizens share a strong sense of national
+identity. Nearly 15 years into its transition from a socialist to a free market economy, and five
+years since the adoption of multiparty elections, the United Republic of Tanzania' is steadily
+moving towards a fully democratic society. Besides the party which has ruled since
+Independence (the Cliama Cha Mapinduzi, CCM), there are five political parties which have been
+active in Parliament and will be contending the next elections, to be held in October 2000. The
+process of transformation has been slow - partly because of CCM's control of the political
+institutions inherited from the socialist one-party state - but peaceful and extensive. Civic
+organizations are developing, the media are becoming stronger and increasingly give voice to
+different opinions. However the political situation in Zanzibar has been tense, with accusations of
+electoral irregularities in 1995 not having been satisfactory resolved.
+2.
+Macroeconomic stability and growth have re-emerged. Since the last CAS the
+Government of Tanzania has continued its stabilization program and has introduced deep
+institutional and structural reforms. Growth has averaged about four percent during the last four
+years. This is a strong result considering the severe weather conditions and reflects strengthened
+macroeconomic and structural fundamentals as well as a greater flexibility of the economy in
+responding to shocks. A large number of the distortions that existed in the 90s have been dealt
+with - markets are fieer and the public sector is smaller. The foreign exchange market and the
+trade regime have been liberalized. Though slowly, privatization has proceeded and mnre than
+half of the 400 public enterprises have been privatized.
+3.
+Since the 1994-95 crisis, the fiscal situation has improved dramatically. But this has
+implied large cuts in government expenditure, under-funding of social sectors and deteriorating
+public services. Howvever, in the past two years the Government has identified a number of
+sectors with a large impact on poverty - education, health, water, rural roads and more recently
+agriculture and the judiciary. Funding for these sectors has been protected and monitored under
+participatory Public Expenditure Reviews (PERs). The process has been supported by donors
+through the creation of a Multilateral Debt Funcf (MDF) which has assisted in servicing debt to
+multilateral agencies. The related budgetary savings have been used to protect expenditures
+earmarked for these priority sectors.
+4.
+Private sector development remains limited. Tanzania has largely shifted from a socialist
+to a market econorny but significant obstacles to private sector development remain. The
+I Since April 26, 1964, the United Republicof Tanzaniaconsists of former Tanganyka(mainland)and the People's
+Republicof Zanzibaf.
+2 The MDF, supportedby bilateral donors, is aimed at assistingthe Governmentin meetingmultilateraldebt service
+obligations. The relief, tied to the budget, is conditionalto the Government's commitmentto sustain budgetary
+allocationsto the prioritysectors- education,health,water,ruralroads, agricultureand thejudicialsystem.
+1
+
+restructuring and privatization of public utilities and large parastatal monopolies is just starting
+and the poor quality of public services represent a high cost to the private sector. In 1999, only
+13 percent of the road network was in good condition. Electricity is available to only 7 percent of
+households and tariffs are high. Frequent power cuts makes it necessary for enterprises to invest
+in backup generators. Telephone service remains inadequate, with long waiting times for new
+telephone connections, though new private cellular services in urban areas are developing fast.
+Transport costs are high, and delays are common in ports and railways.
+5.
+The financial sector is now virtually under private sector management, while in 1995
+more than 70 percent of the banking system's assets were state owned. In 1997, the National
+Bank of Commerce (NBC), the largest bank, was split into the National Microfinance Bank
+(NMB) and the NBC. The NMB was put under private management in August 1999, with IFC
+assistance and the NBC was privatized in December 1999. A framework for micro-finance has
+been established with the aim of increasing access to financial services by the poor. Banking
+supervision has improved significantly in recent years and prudential regulations have been based
+on internationally accepted guidelines. In spite of recent transformations, the ratio of credit to
+GDP is low, 4.7 percent of GDP relative to an average of 14 percent in Sub-Saharan Africa.
+Financial penetration (the ratio of deposits to GDP) is also low, 15 percent. The large banks
+maintain relatively high lending and low deposit rates to enhance their profitability and are
+conservative in their expansion strategies. Non-bank financial institutions are insufficient to
+provide significant alternatives and competition to the banking sector. The rural population has
+limited access to financial services. Other problems remain, including the inaccuracy of financial
+data reporting, and weaknesses in accounting standards. Despite the creation of a regulatory
+framework for the securities market and the establishment of the Dar es Salaam Stock.Exchange,
+capital markets remain largely under-developed, and constrained by limitation on foreign
+participation.
+6.
+Improving the environment. Tanzania is recognized globally for its highly bio-diverse
+natural heritage. Nearly 40 percent of the land area is covered by wood and forests and. 23 percent
+has been established as protected areas. The main issues concerning the environment include: (i)
+threats to bio-diversity and loss of wildlife habitats stemming from overgrazing, illegal hunting,
+poaching, and overfishing; (ii) deforestation of high forests, the result of unregulated expansion
+of the timber industry and the agriculture sector; (iii) environmental pollution, particularly in
+urban areas, the result of inadequate waste collection and the lack of an effective regulatory
+framework to limit industrial pollution. The government adopted a National Environmental
+Policy in November 1997, widely recognized as inadequate for environmental protection and
+management. Since then studies and efforts have been carried out to improve the institutional and
+legal framework for environmental management. The process has relied on extensive
+consultations and involvement of communities. A new and encouraging Forest Policy was
+adopted in 1999. The Government is currently formulating a bio-diversity conservation policy
+and a national plan to combat desertification.
+B. Poverty, social and governance issues
+7.
+Poverty is widespread. Despite its potential and rich resource endowment, Tanzania is
+one of the poorest countries in the world with a per capita GNP of about US$240 in 1999.
+Official estimates suggest that over half of its 31 million population is poor and 36 percent is very
+poor. Poverty is essentially a rural phenomenon: almost 61 percent of the rural population is poor
+
+2
+
+Chart I3
+Tanzania: Social and Governance Indicators
+
+1
+
+GCu Prifary ThrollmentRatio
+(percent)
+
+HIVinfection rates amongblood
+donors (percent)
+30
+
+20 j1.
+
+100
+50
+
+,
+
+-
+
+19S5
+
+1980
+
+5.9
+
+I10 -
+
+j
+
+|
+
+1990 1995 1997
+
+Life expectancyat birth
+(years)
+
+1992
+
+199
+
+(rGovernance
+
+Indicatorsa
+
+~~~~~~~~~~~~~(-gez
+= 0 6,6 = Ies corrpt bema:mlc of la.v)
+ruleoflaw
+
+55
+50
+
+45
+
+female
+
+,male
+
+1
+L
+
+_
+
+12
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+__
+
+_
+
+_
+
+_
+
+_
+
+_
+
+2
+
+_
+
+1997
+1980
+
+-oruto
+1
+
+1994
+
+1995
+
+1996
+
+1997
+
+1998
+
+compared to 39 percent of the urban population. Income distribution is uneven. In the 1998 rural
+survey the lowest quintile accounted for only 7 percent of mean expenditures. Paucity of
+consistent and reliable data make it difficult to assess recent trends in both poverty and inequality.
+8.
+Lack of economic growth and of income opportunities for the poor,4 particularly in the
+rural areas, are at the root of the poverty problem. In turn, the ability of the poor to benefit from
+growth has been impaired by their low human development and lack of access to productive
+assets, inputs and credit. The rural poor are concentrated in subsistence agriculture and employed
+in crop production and livestock. In urban areas the poor are underemployed in the informal
+sector or are unemployed. This analysis reinforces the point that sustaining macroeconomic
+reforms and generating higher levels of economic growth remains critical to the policy agenda in
+Tanzania. While the solid performance of the past four years is an improvement on the mid-
+
+Data on gross enrollment ratio and life expectancy at birth are from 2000 World Development Indicators, World
+Bank. Enrollment data fi-om national sources differ and are generally higher. Govemance indicators are from the
+International Country RiskcGuide Index.
+4 See: Narayan D. (1997), "Voices of the Poor - Poverty and Social Capital in Tanzania", World Bank Working Paper;
+REPOA (1998), "Perspectives on rural poverty profiles: results from the rural survey of three regions of mainland
+Tanzania"; World Bank(11996),Tanzania: The Challenges of Reforms: Growth, Incomes and Welfare, World Bank,
+Washington D.C.
+3
+
+3
+
+1990s, even higher rates of growth will be required to have a significant impact on reducing
+poverty levels.
+9.
+Social indicators have deteriorated Many indicators of human development, which in
+the past were higher than in many low-income countries, have deteriorated. This trend is longstanding and can be traced back to the early 1980s, when the economic crisis showed that the
+sizable investments made by the Nyerere regime in education and health were not sustainable.
+Falling real expenditures on social programs throughout the late 1980s led to significant declines
+in service delivery which are only now beginning to be effectively addressed. Ensuring real
+expenditure increases on social sector services on a sustained basis is a key objective of the
+present Government. However, it will take time to achieve improvements in social indicators.
+10.
+Tanzania's ranking in the Human Development Index declined from 126 in 1992 to 156
+in 1997. The infant and under-five mortality rates, 85 and 136 per thousand respectively, are high
+and reportedly are much higher for the poor. Communicable diseases (malaria, diarrhea and
+AIDS) account for most of the deaths in Tanzania. Among the factors contributing to ill health of
+the poor, is the limited access to safe water (48.5 percent and 68 percent in rural and urban areas
+respectively). Forty percent of the rural water supply system is malfunctioning or completely
+inoperative. As regards sanitation, more than 90 percent of households in urban and. rural areas
+use traditional pit latrines. The sewerage infrastructure in Dar es Salaam has not been maintained
+over the last decade and is subject to frequent failures.
+11.
+The tragedy of HIVIAIDS. Life expectancy in Tanzania has declined to 48 years as a
+result of the AIDS epidemic. As of 1997, HIV prevalence among the population aged115-49 was
+estimated at 9.4 percent. About 50 percent of hospital beds are already occupied by patients with
+HIV/AIDS related illnesses. Chart 1 shows HIV infection rates among blood donors5 . They have
+increased significantly between 1992 and 1998 and are higher for women. Infection rates are four
+times higher among young girls compared to young boys. The Country Economic M:emorandum
+indicates that without policy actions, GDP in Tanzania could be 15-20 percent lower by 2015
+(with respect to a non AIDS scenario). The number of orphans as a consequence of AIDS could
+reach one million by 2015. On the positive side, data from a 1999 survey6 suggest that almost all
+Tanzanians have heard of AIDS. Moreover, 56 percent of women and 71 percent of mren(up from
+39 percent and 55 percent respectively in 1996) mention condom use as a means of preventing the
+spread of HIV.
+12.
+The crisis in education. Children's educational attainments are dismal, suggesting a
+crisis situation in the education sector. Primary school net enrollment rates are currently less than
+50 percent, down from more than 80 percent in the 1980s7 . Admission rates to grade 1 are
+reasonably high but survival rates to the end of the cycle (grade 7) are low (54 percent). Children
+enroll late, at around 9 years of age. The primary school examination pass rate is 26 percent for
+boys and 14 percent for girls. Entry rates to secondary education are only 15 percent. Parental
+confidence in the education system is low.
+13.
+Progress in the health sector. In health the Government has been more effective in
+establishing overall priorities, in working cooperatively with a broad range of health providers (in
+the religious and NGO communities in particular) and in beginning to produce some
+improvement in service delivery. The sector wide program developed by the Government has
+5 Datareferto patients'relatives(94 percent)andto institutional
+donors.Since1990all hospitalswhichprovideblood
+transfusion services in the country are screening blood for HIV antibodies prior to transfusion.
+6 Tanzania (1999): "Reproductive and Child Health Survey", Preliminary Report.
+7 These numbers are taken from World Bank databases. National sources indicate higher gross and net enrollment rates.
+
+4
+
+been firmly supported by the donor community. While many problems remain, there is an
+emerging and consistent view that the additional resources being provided to the health sector are
+being more productively managed and that this should lead, over time, to real improvements in
+the health status of the population.
+14.
+Gender issues. Women are often poorer than men, own less land and livestock and have
+fewer years of schooling. There is roughly gender equality in access to primary schools, though
+imbalances exist in c:ompletion rates and access to secondary schools. Gender imbalances are
+rooted and sustained by traditional and cultural values. In 1990 the Govemment established the
+Ministry of Women Affairs and Children with a view to promote gender equality. A Gender
+Budget committee has been created to ensure that sectoral investments respond to the priority
+needs of both men and women. The new land legislation has represented an encouraging step
+towards securing the r ight of women to own, dispose of and inherit land.
+15.
+Labor standards. Tanzania's labor laws and regulations have changed little in the past
+two decades. Forced labor is punished, and workers have the right to freely organize themselves
+and strike. In 1994 the Government and the ILO signed a Memorandum of Understanding to
+prohibit, restrict and regulate child labor progressively, under the International Program on the
+Elimination of Child Labor. Provisions in the labor laws include measures on minimum wages,
+maximum working arid overtime hours, housing, leave, medical and pension allowances. In the
+downsizing that has resulted from civil service reform and privatization, adequate separation
+packages have been given to redundant staff. Nevertheless, there is no efficient system to handle
+industrial relations and labor disputes can endure for months. While labor laws are often
+inadequate to support a modern private sector, the majority of workers in the informal and in the
+rural sector enjoy little protection. Children work in agriculture from a young age. In the urban
+informal sector children below 15 may represent up to 50 percent of the workforce.8
+16.
+Good governance remains an important goal. The fight for good governance is still to be
+won in Tanzania. The graph in Chart 1 shows the behavior of two components of the
+International Country Risk Guide (ICRG).9 The first measures the strength of the 'rule of law',
+the second measures the degree of corruption in business transactions.10 The rule of law index has
+improved in the late ].990s. By contrast, the corruption index has worsened during the late 1990s.
+1 Serious cases of corruption
+Other indices seem to confirm that corruption has been on the rise&
+were documented in the 1995 Report of the Presidential Commission of Inquiry Against
+Corruption-the Warioba Report. As in other developing and transition economies, corruption has
+increased where liberalization has occurred in a weak institutional context, offering opportunities
+to public officials to exploit their privileged access to information for private gain. But it is also
+possible that the process of liberalization has increased the perception of corruption, which is now
+reported more frequently.
+
+s See ILO (1999), "Findings Ways to Fight Child Labor in Tanzania", World of Work, February.
+9 The ICRG reflects the opinions of banks, multinational companies and other institutional investors.
+' Both range from I to 6 with higher scores indicating sounder institutions and less corruption respectively. The "rule
+of law" is defined as the degree to which the citizens of a country are willing 'to grant to the established institutions the
+authority to make and implement laws and adjudicate disputes'. The corruption index indicates that "high-ranking
+govemment officials are likely to demand special payments" and "illegal payments are generally expected throughout
+lower levels of government in the form of bribes connected with import and export licenses, exchange controls, tax
+assessment, policy protection or loans" (see S. Knack and P. Keefer (1995), "Institutions and Economic Performance:
+Cross Country tests using altemative institutional measures", Economics and Politics, 7).
+" Transparency International's 1998 and 1999 surveys give Tanzania a score of 1.9, within a range of 0 (highly
+corrupt) and 10 (highly clean).
+
+5
+
+17.
+There is, however, progress. President Mkapa has personally been leading efforts to
+improve governance and fight corruption. Earlier political inertia and apparent unwilllingness to
+prosecute corrupt high level civil servants is receding. Cases of corruption are increasingly being
+brought to the courts and institutional reforms are now being accelerated. In May 1999 the
+Government presented a new Plan to combat corruption with measures to improve the legal
+framework and restore transparency and accountability in public procurement of works, service
+and supplies.
+II. MACROECONOMIC PERFORMANCEAND PROSPECTS
+A. Recent Economic Performance
+18.
+Growth has increased. Over the last four years Tanzania has established a record of
+successful stabilization and structural adjustment. Real GDP growth has reached 4 percent in
+1996-99, driven by improved resource allocation and capacity utilization, and inflation has fallen
+from 28 percent in 1995 to 6.3 percent in early 2000, the lowest in 25 years. External reserves
+have strengthened to 18 weeks of merchandise imports. Performance under the arrangement
+supported by the IMF Poverty Reduction and Growth Facility (PRGF) has been satisfactory. The
+success in stabilization reflects a policy of monetary restraint, which has kept real interest rates
+positive, and a tight fiscal policy. The adoption of a cash budget system and of sector budget
+ceilings has allowed the Government to address the large fiscal imbalances of the mid 90s and to
+repay domestic debt.
+19.
+Private investment and agriculture have responded slowly to reforms. The share of
+private investment has remained at around 10-12 percent of GDP during the 1990s. Reasons
+include a poorly functioning legal framework, administrative and regulatory complexities and
+poor infrastructure. Average growth in the agricultural sector has barely reached 3 percent since
+the early 1990s, just above the population growth rate. Much of the poor performance during
+1995-98 can be attributed to adverse climatic conditions and to the overvaluation of the exchange
+rate, which has affected exports. But the implementation of reforms has also been partial. Input
+prices have increased substantially with price liberalization, due to the removal of sutbsidies and
+lack of competition. At the same time output liberalization has been incomplete and many
+distortions remain, thus limiting the benefits of the reforms.
+20.
+Tanzania is cautiously moving towards regional and global integration. The maximum
+tariff rate is 25 percent and the trade weighted average tariff is 14 percent. Tanzania is a member
+of the East Africa Community (EAC), The Southern African Development Community (SADEC)
+and the Cross-Border Initiative, but it has withdrawn from the Common Market for Eastern and
+Southern Africa (COMESA), in part due to opposition to its aggressive program of tariff
+reductions on intra-regional trade. Foreign direct investments have increased substantially, from
+$20 million four years ago to the current $183 million per annum. The Government is taking
+advantage of the 'Integrated Framework Initiative',' 2 to prepare for the next WTO round.
+Exchange rate stability has been achieved but during 1993-98 currency devaluation has failed to
+keep pace with the excess of domestic over world inflation. In 1999 however, the real exchange
+rate depreciated steeply, offsetting much of the increase it made in the past three years.
+12 The Integrated Framework for the provision of trade-related technical assistance for LDCs was crealed in 1996 by
+six multilateral agencies - IMF, ITC, UNCTAD, UNDP, World Bank and WTO. Tanzania prepared its own assessment
+of trade-related technical assistance needs in 1997 and was committed financial assistance equaling US$1.4 million. As
+provided in the Integrated Framework, the Government held a Consultation on Trade-Related Assistance in Dar es
+Salaam on October 1999. The support from donors will facilitate the development of export financing and guarantee
+schemes, measures to enhance competitiveness and institution building.
+
+6
+
+Chart 2: Tanzania:
+
+Selected Economic Indicators
+
+Inflationand Interest Rates
+(percent)
+
+Growth in Real GDP and RealGDP
+per Capita (percent)
+7
+6
+5-
+
+Real GDP
+
+30
+Inflation Rate
+
+2021
+
+/
+
+/
+
+0-0
+-1
+1995
+
+1997
+
+Real GDP Per Capita
+
+1999
+
+.2001
+
+10
+
+2003
+
+~~~~~~~~~~~~~~~~~Rea1
+Disb wit Rate
+1995 1996
+
+Cunent Account andFiscal Balances
+(after grants, in percent of GDP)
+2
+
+1997 1998 1999 2000
+
+2001 2002
+
+Real
+Exchange Rate Index
+(1992 = 100)
+
+-2
+
+140
+1995 1996 1997 1998 19992000 2001 2002 2003
+
+I~~~ncrease
+= Appreciation
+
+90
+
+*OCrrentAccount *FiscalBalance
+
+1995 1996
+
+1997 1998 1999 2000
+
+2001
+
+2000-2003: Projections
+
+B. Macroeconomic prospects, external environment and risks
+21.
+With macroeconomic stabilization substantially complete, the Government of Tanzania
+can now focus its attention on creating the conditions for accelerated growth and poverty
+reduction. The projections for 2000-2003 presented in Table 1 (our base case scenario) reflect the
+ongoing dialogue between the Government, the Bank and the IMF and are consistent with the
+scenario prepared in the context of the HIPC (Heavily Indebted Poor Countries) Initiative and the
+PRGF. A low case scenario is presented in Annex I.
+22.
+Annual GDP growth is projected to increase to 6 percent by 2002-03. Monetary policy
+will be geared to a decline of the inflation rate to about 4 percent, a rate compatible with that of
+Tanzania's main trading partners. Gross official reserves would cover at least 4 months of
+imports of goods and non-factor services. The Government will refocus public spending on
+poverty reduction priorities. Revenues will increase through a containment of tax evasion,
+
+7
+
+reduction of exemptions, and tax simplification. The cash budget system is expected to be phased
+out within the CAS period.
+The HIPC Initiative
+23.
+In April 2000 the IMF and World Bank agreed to support a comprehensive de'btreduction
+package for Tanzania under the enhanced HIPC Initiative. Total relief will translate into debt
+service relief over time of US$3 billion (or US$2.1 billion in NPV terms). This implies a 54.7
+percent reduction in the debt of multilateral and bilateral creditors outstanding at end-June 1999.13
+Paris Club creditors will provide their share of assistance with a reduction of about 90percent of
+eligible debt. The Government intends to target additional resources coming from debt relief to
+the sectors that have the largest impact on poverty and human development and to specific
+poverty initiatives. The Medium Term Expenditure Framework for 2000/2003 (currently being
+finalized), has added to the traditional priority sectors (health, education, water, agriculture and
+lands, roads and the judicial) energy and the Office of the Controller and Auditor General. The
+additional resources coming from debt relief would allow to meet about 60 percent of
+requirements in these sectors. Within each sector, poverty priorities are being specified in the
+context of the PRSP.
+External environment and risks
+24.
+Tanzania is vulnerable to external shocks, commodity price changes and droughts. For
+instance tourism revenues may be affected by the spillover effects from conflicts in neighboring
+countries. But the sources of foreign exchange earnings are becoming increasingly diversified,
+and the current level of international reserves offer sufficient cushion against external shocks.'4 In
+addition agricultural output is becoming more diversified. Domestically, revenue shortfalls or
+increased expenditures could endanger the adjustment efforts. Moreover, domestic support for the
+reforms including a backlash against privatization and foreign investment could be undercut if
+higher growth and poverty reduction are not achieved. Finally, worsening governance and
+increased corruption may alienate the support of key aid partners and lower investment.
+25.
+A number of positive circumstances facilitate the realization of the Government's
+economic objectives. Tanzania is politically stable and ethnic friction is minimal. Ihe EAC and
+similar regional arrangements provide the basis for greater policy and economic coordination in
+the area. The HIPC debt relief will enable the country to free up substantial resources from
+servicing multilateral debt and increase spending for poverty focussed programs. The economy's
+ability to cushion against exogenous shocks has improved, as shown by the resilience in growth
+performance despite the adverse weather over the past three years. Finally, the strcng record in
+stabilization has created the conditions for a revamping of private sector growth.
+
+At end-June1999,Tanzania'sexternalpublicdebtamountedto US$6.9billionin nominalterms(including
+US$1.6
+in arrears)andUS$5.1billionin presentvalueterms(as muchof it is on concessional
+terms),or 43Spercentof the
+three-year
+averageofexports.IMFassistance(US$152million)willbe deliveredovera 10-yearperiod.andwillcover
+on average58 percentof debt-service
+obligations
+to theFund.ThedebtreliefprovidedbyIDA(ofUS$1.2billion)will
+be spreadovera periodof20 years,covering69.1percentof Tanzania's
+debt-service
+obligations
+to IDA
+14 Twoscenarios
+havebeensimulatedfor2001.First,an 18percentdeclinein exportprices(equivale;at
+to the largest
+pricefall thathappenedduringthe last10years).Otherthingsbeingequal, the valueof the shortfallwouldbe around
+US$148million.Assumingthat no additionalgrantwouldbe available,the levelof foreignreserveswouldgo down
+from4.3to a stillsafelevelof 3.5monthsof imports.Second,tourismrevenuewouldgo downfrom8 percentof GDP
+13
+
+(the 1997 value) to zero. This would represent a shortfall of US$338 million, which, again, could be e2sily paid out of
+reserves (reserves would go down from 4.3 to 2.6 months of imports).
+
+8
+
+Table 1. Tanzania: Past Results and Macroeconomic Projections for 2000-03
+FY95
+
+FY96
+
+Actual
+FY97
+
+FY98
+
+FY99
+
+FY00
+
+2.6
+-0.4
+28.0
+
+4.3
+1.4
+21.0
+
+4.0
+1.2
+16.1
+
+3.8
+0.9
+12.8
+
+4.3
+1.5
+7.8
+
+5.0
+2.2
+5.2
+
+5.4
+2.6
+4.1
+
+6.0
+3.2
+4.0
+
+6.1
+3.3
+4.0
+
+Gross domestic saving
+Gross domestic fixed investment
+
+2.0
+21.9
+
+3.6
+18.0
+
+5.4
+15.7
+
+3.1
+14.9
+
+2.6
+14.3
+
+3.1
+17.1
+
+4.6
+19.2
+
+5.8
+20.8
+
+5.8
+20.0
+
+Current Account balance
+Before grants
+After grants
+
+-21.1
+-10.5
+
+-15.9
+-6.1
+
+-12.0
+-2.2
+
+-14.4
+-6.1
+
+-15.3
+-7.0
+
+-16.0
+-6.9
+
+-15.4
+-7.2
+
+-14.3
+-6.6
+
+-14.0
+-6.5
+
+12.5
+18.3
+-5.8
+-2.7
+
+13.2
+17.6
+-4.4
+-0.8
+
+13.5
+15.1
+-1.6
+1.0
+
+12.0
+15.2
+-2.8
+1.0
+
+12.4
+16.9
+-4.5
+-0.3
+
+12.6
+18.0
+-5.4
+-0.7
+
+12.8
+18.1
+-5.3
+-0.5
+
+13.0
+18.0
+-5.0
+-0.2
+
+13.1
+18.1
+-5.0
+-0.2
+
+Foreign Reserves (months of imports)
+
+1.4
+
+1.4
+
+2.8
+
+2.9
+
+4.0
+
+4.2
+
+4.3
+
+4.3
+
+4.3
+
+HIPC relief IDA and IMF 1% of GDP)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+0.2
+
+0.6
+
+0.5
+
+0.6
+
+HIPC relief IDA and IMF (US$ Mil)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+14.0
+
+57.7
+
+65.8
+
+67.5
+
+Real growth of GDP (%)
+Per capita real GDP growth (%)
+CPI (annual av.%)
+
+Projections
+FY01
+FY02
+
+FY03
+
+(% of GDP)
+
+Government Finance:
+Domestic Revenue
+Expenditure
+Fiscal balance (before grants)
+Fiscal balance (after grants)
+Memo Items:
+
+III. THEGOVERNMENT'S
+STRATEGY
+A. Overview
+26.
+The Government of Tanzania is currently working on the Tanzania Assistance Strategy
+(TAS) and the PRSP. The TAS breaks new grounds in the relationship between Tanzania and its
+donors. First, it provides a clear framework to organize donors assistance around the priorities
+decided by the Government. Second, it provides directions for increasing the percentage of aid
+going through the budget (currently estimated to be only around 40 percent). The PRSP, which is
+being prepared with the active involvement of civil society (recent consultations were held across
+Tanzania) will introcluce short and medium term targets on poverty reduction and human
+development, as well as the required budgetary allocations. Both the TAS and the PRSP work are
+firmly rooted in the "Development Vision 2025" which specifies the country's long term
+development goals and in the National Poverty Eradication Strategy (NPES), which discusses
+how far the Vision can be advanced in the period through 2010 (see Box I).
+
+9
+
+Box I: The Dee
+National oer
+
+m
+
+Vision 2025(199)andthe
+EradiationfSitraeg (i1997
+
+DevelopmentVision2025
+The paper envisagesthat Tanzaniain 2025will beaaiwt
+andeconomic
+, rle
+of law, peace,stbility and unity. Tihtieo
+w ha Yc seog,selfrlncpti
+and
+sustainableeconomywith an educatedpopulaton and a cutrlrenaissance. Speic targets for
+2025 are: universalprimary education n the eicatioo
+l iteac;access to primary healt
+care and qualiy reproductivices
+for all; unive accessto safewater; gender eui
+nd
+rates Sby0
+thelureso
+empowermenttoftwomen;reution o nat adl matinalmortt
+and fodscrt;
+and elmnto
+of co'rruptio.
+currentlevels; oo selfsufiec
+Specificgoalsfor 2010 in the PovertyErdication Strategy
+it by the ear
+e
+eicat
+reduce ot p
+ve
+Povery:
+*
+2025. Educai6n~ civ
+nvra
+rmr
+dcto,adices
+ucinlltrc
+o9
+percent;expand secondaryeducation(one secondaryschoolper ward. Water:increas ae
+to
+ncrease accesstoitary
+waterto 90 percent of the populationwitin adistace 400 me
+ition.
+sevIere
+servicesbiyat least 50 percent
+among childrenunder-5 fom tr ratetof 6 percentto 2tpecnt orless and moderate malnition
+from 44 percentto 22 percent;reduce ternal mortltrate byhalf 400 to 200'per100,000
+lessthan 10percent.
+reducethe rate ofunemploymentto 'mlent:
+live births.
+27.
+The strategic directions of the TAS and the PRSP are in line with commitments to key
+international development goals. They encompass three priorities: i) creating higher groswth and
+economic opportunities for the poor; ii) building capabilities; iii) increased empowerment and
+improved accountability. While not formally a pilot country for the Comprehensive Development
+Framework (CDF), Tanzania's development strategy is firmly in line with CDF objectives.
+B. Creating Higher Growth and Economic Opportunities for the Poor
+28.
+The Government's over-riding priority for reducing poverty is to attain a higher long
+term sustainable growth rate. Beside maintaining macroeconomic stability, the Government's
+strategy rests on three pillars: 1) developing and implementing a new environmentally sustainable
+rural strategy; 2) promoting private sector investments and participation; and 3) investing in
+infrastructure.
+29.
+Developing an environmentally sustainable rural strategy. This has highest priority as
+most of the poor are located in rural areas and are engaged in agriculture. The strategy will have
+three objectives: i) conserving the depletable natural resources on which the poor depend for their
+livelihood; ii) commercializing agriculture and making it more dynamic and productive; and iii)
+increasing linkages with urban areas to create income opportunities for youth and uneimployed
+migrants.'5 The Government will continue implementing policies aimed at the conservation and
+management of the environment and at raising awareness on sustainable use of natural resources.
+
+15These objectives will be pursued through: reducing trade barriers across regions; rationalizing taxes; privatizing the
+remaining parastatal farms; strengthening input and output markets; implementing the new Land Laws; improving
+agricultural service provision with a view of getting them closer to small farmers; and developing a framework for
+micro-finance and rural financial institutions to address lack of credit.
+10
+
+30.
+Increasing private investment and private sector participation. The Government intends
+to enhance the role of the private sector in order to accelerate growth, decrease unemployment,
+particularly in urban areas, and provide income opportunities for the poor through: (i)
+privatization. About 80 percent of the remaining public enterprise sector (in terms of
+employment and turnover) will be privatized by 2004, including all major utility and
+infrastructure public enterprises (ports, railways, electricity, telecommunications and mining); (ii)
+strengthening the regulatory framework in key markets to increase competition and enhance
+transparency. Privatization will be accompanied by the development of competitive regulatory
+frameworks and new institutional arrangements;'6 (iii) improving the business environment, to
+expand private and foreign investments; and (iv) increasing the efficiency of the financial sector
+andfinancial services for small businesses. Detailed measures in these areas are in Annex B9.
+31.
+Improving crucial infrastructure - energy and roads. In the energy sector, the
+Government's objectives are to improve the security of power supply and to increase access to
+electricity. The Tanzania Electric Supply Company (TANESCO) would be unbundled and
+privatized. A new regulatory framework for the petroleum sector will be approved in 2000
+making provisions frora liberalized market. In the gas sector, the Government will encourage the
+development of dornestic gas markets under private ownership. The Government is developing a
+long-term transport sector strategy. In the short and medium term the focus will be in improving
+maintenance and rehabilitation of existing trunk roads and rural feeder roads. Funding for
+recurrent road maintenance costs is to be ensured via a Roads Fund through targeting revenue
+from user charges.
+C. Building Capabilities
+32.
+A central objective of the Government's strategy is building up the assets of the poor
+through better health, education, and improved access to public services. In health, the
+Government will implement the ongoing Health Sector Reform Program, which started in 1994.
+A three year Program of Work and a one year Plan of Action have been prepared to implement
+the reform under a sector wide approach (SWAP).17 To address major causes of mortality, the
+Government will implement individual action plans for malaria, increase immunization coverage
+and contraceptive prevalence. An AIDS plan includes measures to change behavior and raise
+public awareness. To this end, the Government will establish a strong national body responsible
+for implementing the third Medium Term Plan for Prevention and Control of HIV/AIDS which
+has been supportedlby the UNAIDS and other donors.
+33.
+Education. Higher growth requires the accumulation of high level technical and
+entrepreneurial skills. Over the years, Tanzania's ability to mobilize the skills required by new
+businesses and reap the benefits from technological progress worldwide has been weakening. In
+the primary education sector, the Government will update the 1997 Basic Education Master
+Plan"8 , and develop district based plans for improving school and teaching conditions at the
+Two multi-sectoral regulatory institutions are being created - the Tanzania Public Utility Regulatory Authorijty
+(dealing with electricity, telecom, water, post and natural gas) and the Tanzania Transportation Regulatory Authority
+(dealing with maritime and ports, roads, railways and aviation). Each of the sectors will then re-examine and amend the
+relevant sectoral legislation to ensure a coherent and competitive legislative framework.
+17 Priority areas include: (i) strengthening the delivery of cost-effective primary health services, particularly at the
+district level, through decentralization and capacity building; (ii) development of national capacity and systems through
+program support and streamlined implementation arrangements; and (iii) improvement in health care financing through
+better targeting of government resources and diversifying financing mechanisms.
+is The Plan aims to secure an 85 percent gross enrollment rate for primary schooling and 80 percent completion rate; to
+reduce the salary/non salary ratio in the primary education sector from 93:7 to 80:20 and the completion of institutional
+reforms by 2002.
+16
+
+11
+
+primary level. The Government will articulate and implement theSecondary Education Master
+Plan (SEMP), with the objective of improving quality and raising enrolment rates in secondary
+education schools. A plan to rationalize a number of underutilized and inefficient tertiary
+education institutions will also be implemented.
+34.
+Water and sanitation. The Government's objective is to ensure accessible and adequate
+water supply and sanitation services to the majority of the population in both rural and urban
+areas. This will be achieved through: i) creation of decentralized financially autonomous water
+boards; ii) subcontracting of the Dar es Salaam Water and Sewerage Authority (DAWASA)
+management to a private operator and allowing community groups to assume ownership of water
+supply schemes; iii) introducing sound pricing; and iv) developing local planning and operational
+capacities. Removal of water subsidies in urban areas will free resources for the rehabilitation of
+supplies in rural areas. Emphasis in rural areas will be on rehabilitation and upgrading of existing
+schemes.
+D. Empowerment and Accountability
+35.
+Poverty reduction is likely to be achieved faster and to be sustainable if the poor are
+given a voice in the design and implementation of poverty alleviation measures. Good
+governance is also a necessary condition for sustainable private sector development.
+Empowerment, accountability and improved governance are key objectives of the Government, to
+be realized through (i) improved management of public resources; (ii) decentralization; (iii)
+implementation of anti-corruption and financial accountability measures.
+36.
+The Government is stepping up efforts to improve the management of public resources
+and put the process of institutional reform on solid ground. Important building blocks of the
+strategy are: i) the rationalization of the role and functions of the State; ii) the establishment of a
+credible and transparent budget process through the extension of the Integrated Financial
+Management System (now covering the central Government) to all ministries and regionasand the
+implementation of the performance management system; 9iii) restoring ethical conduct and
+standards of performance for all public servants; and iv) improving the structure and level of civil
+service salaries.
+37.
+Tanzania has recently embarked on a prqcess of political decentralization through a
+Local Government Reform Program (LGRP), with the aim of improving accountability and the
+2 started in 1999 with around one third of
+quality of public services. Implementation of the LGRP°
+the districts participating and will be phased in by 2004. With the reform, the city, municipal,
+town and district councils will be democratically elected. They will be fully responsible for: (i)
+service delivery in education, health, water, roads and agriculture; (ii) social development, and
+(iii) maintenance of law and order. Financial support to local governments is provided through
+block grants, based on the costs of delivering minimum standards of services that hiave to be
+attained by each local authority in the sectors of health, education, water, roads and agriculture.2 '
+Local authorities are accountable for their spending, and the central government plays t:he role of
+auditor. Local governments are empowered to collect "own revenues" from local taxes and fees.
+19 Implementation of the performance management system is carried out through two important tools piloted since
+
+1998 - Performance budgeting and the Medium Term Expenditure Framework.
+20 The LPRG is coordinated by the Ministry of Regional Administration and Local Government. The LGRP is
+supported by seven international assistance agencies (EU, Netherlands, Denmark, U.K., Ireland, Finland, and Norway)
+and by budgetary allocations from the government.
+2iThe principles for setting of national minimum service delivery standards are: being financially quantifiable,
+fundable, achievable, compatible with sector plans, and measurable.
+
+12
+
+38.
+Anti-corruption strategy andfinancial accountability. Success with institutional reforms
+holds out prospects for improved governance. However, it requires a fundamental change in the
+values and attitudes on the part of those who, in many cases, are benefiting from the status quo.
+Corruption in the public sector is still widespread and represents one of the main constraints for
+effective utilizatijon of domestic resources. In 1999 the Government developed a National AntiCorruption Straj'egy and Action Plan, and sectoral plans are now being prepared. Diagnostic
+surveys in a number of ministries and agencies will be undertaken to monitor the implementation
+of the Plan. In addition, the Government will: review procurement law and regulations, publicize
+all contracts and tender results, and amend the Public Leadership Code of Ethics Act. Second,
+the government will strengthen financial accountability. The Office of the Controller and Auditor
+General (OCAG), which monitors the proper use of public funds and investigates incidents of
+corruption, will be reinforced and adequately funded. Finally, the Government will implement
+the Legal Sector Reform Program to strengthen the judicial system, particularly the primary
+magistrate courts.
+39.
+Combating corruption requires a long and sustained fight. The Government has put in
+place a program of institutional reforms and specific measures that is adequate. But ultimately the
+outcome will delpend on political commitment, particularly at the top level, and a willingness to
+prosecute and convict alleged crimes. In addition, it is critical that citizens believe they can refuse
+to pay bribes, denounce corrupt practice, and not be penalized for this.
+IV. THE BANK GROUP ASSISTANCE STRATEGY
+
+40.
+This CAS has been informed by the strategic priorities defined in the TAS and in the
+PRSP, consultations with the Government, the donor community and civil society and the results
+from the last Client Feedback Survey (see Annex IV). Lessons from OEG and OED's Reviews
+have been largelly incorporated. There are no areas of disagreement between the Bank and the
+Government in the development agenda and in the major priority areas.
+A. Consultations
+41.
+This CAS mirrors and supports the Government's vision of a society free of poverty, and
+its development agenda, as discussed in the previous sections.2 2 At a very early stage (June-July
+1999) the Bank arranged consultations with a large cross section of Tanzania civil society. Key
+priorities such as accelerating growth and improving delivery of public services were largely
+shared. People also manifested a strong desire for 'law and order' in a society free of corruption
+(see Box II). Three rounds of consultations were undertaken in October 1999, January and April
+2000 to discuss with Government and various stakeholders the role of the CAS within the TAS
+and the PRSP.
+
+The Governmenl's ongoing reform program has been supported by the ESAF program of the IMF, the Structural
+Adjustment Credit of IDA, the SAL of the African Development Bank, the fifth rescheduling with the Paris Club and
+the Multilateral Debt Fund agreement.
+22
+
+13
+
+Box 11: CAS Consultations With Civil Society: Key Findings
+In June 1999,the World Bank helda seriesof consultativemeetingswith a largecross-sectionof Tanzania
+civil society23in the Dar es Salaam, Arusha, Kilimanjaro,Mtwara,Morogoroand Mwanza Regions (at
+regional,district,ward and villagelevels),and in Zanzibar.The objectiveof these discussionswas to learn
+about Tanzanians'perceptionsof the current economicsituation,public services,developmentalpriorities
+and constraintsto growth and povertyalleviation,relative to three to five years ago. The key findingsof
+these consultations are reported below.
+
+Economic situation - Most peoplebelieve that the economicsituationhas deterioratedand reforms have
+exacerbatedinequalitiesfurthermarginalizingthe rural poor. Perceivedprivate sector constraints include
+poor infrastructure,underdevelopedmarkets, lack of capital and creditand corruption.On the 'other hand,
+peoplebelievethat the reforms will eventuallybenefitthe economy.Somesmall-scalefarmersfeel positive,
+about the liberalizationmeasuresas they are free to sell their produceto'private buyers for cash.
+Governance - The President is widelyrespectedand trusted and seen to have made a determined ttempt
+to listen to people and promote greatertransparencyand economicaridadministrativereforms.People do
+not feel that enoughhas been done to nurture democracyand corruptionis seen as a corrosiveforce whose6`
+root causeshave not been adequatelyaddressed.Some feel thahe governmenthas failedto enorcmeclear
+'rules of the game' or otherwise provide the necessary enabling environment.
+Public service delivery - In the mainland, there is a general belief that educational standards have
+deteriorated and that the introductionof cost-sharmg imposes undue hardships on poor families. In
+Zanzibar, on the contrary, the sectors performance is viewed as generally satisfactory.
+ICth
+services are seen as satisfactory, although both the mainland and Zanzibar have numernus r-eprtso
+shortagesof qualified doctors,drugs and facilitiesin rural areas. Pu tension services fr agrC
+and livestock, on the other hand, are
+
+almostuniversally viewed as iadequate andneglected.'O'1.`
+
+Culture - One legacyof socialismis that most people cotinue to believe the Statehas a fnidme
+lo
+in promoting development and providing social services. To a certain extent this h ledito't-'e
+discouragement of private initiative and personal responsibility.
+The Outlook - The overwhelmingmajorityof people think that the country has the potilfor
+a
+e
+future becauseof its naturalresourceendowment,locationr,and politicaland social stabityToeaiehs
+potential,however,will take a long tie
+from 15 years to a geniertion.Some peSopethktha
+e prerequisitesfor this emerging bright future are: a changeof culture in which people tke responsibiliyfor
+their own destiny; and strong leadershipfrom a Govemmentwith vision and integrty. At thc top of
+everybody'swish list is a desire for "law and order" and for transparentand competentpolicymanagement.
+In Zanzibar,private sector representativessuggested the followingprorities: strengtheningthe business
+community and enhancing marketing capacity/potential.
+
+B. Lessons from past experience
+42.
+
+*
+
+What worked
+
+Since the last CAS there have been significant successes on the economic front. Government
+ownership of the program has increased significantly. Since 1998 the annual P'ublic
+Expenditure Review (PER) and the closely linked Medium Term Expenditure Framework
+(MTEF) have been carried out in a highly participatory manner - under government
+
+Including: small farmers and entrepreneurs in formal and informal sectors, industry and trade representatives, NGO
+representatives, journalists, academics, social service providers (teachers, health care workers, etc.), government
+officials and elected representatives (from village chairmen to Members of Parliament).
+23
+
+14
+
+leadership. The formulation of the TAS is the latest example of how seriously the
+Government is taking charge of its own development strategy.
+*
+
+There are new productive relationships with donors based on active cooperation. Since 199524
+the Government and donors have agreed on improved aid coordination and integration of aid
+within Tanzania's development priorities and budget (see Annex II). There is now greater
+transparency in aid delivery and accountability for its use. Donors participate in regular
+macro and sector-wide meetings under government leadership.
+
+*
+
+Implementation of Bank projects has improved dramatically. About 90 percent of the Bank
+portfolio is now rated satisfactory (see Annex III).
+
+*
+
+IFC has made important contributions to private sector development through financing. IFC
+support for privatization has been critical for key transactions, such as NBC. Other
+investments in the financial sector have helped introduce new products and services, and
+increase competition. IFC has also supported small and medium enterprises (SMEs) across a
+range of sectors, with financing and capacity building.
+
+*
+
+Our country dialogue has been strengthened, in the last couple of years, by the BankGovernment collaborative production of analytical reports. Joint Economic and Sector Work
+(ESW) ensures that the analysis and the recommendations are shared and internalized
+
+43.
+
+What did not work
+
+-
+
+As discussed in previous sections, the benefits of growth have not reached the poor and social
+indicators anc access to social services have deteriorated. Our macroeconomic dialogue has
+not been fully extended to adequately engage the Government and other stakeholders on the
+social consequences of adjustment and to provide sufficient support for measures to sustain
+social indicators.
+
+-
+
+The Bank has not managed to address the lack of good, reliable infonnation, particularly in
+the social sectors, and their importance for constructing a welfare monitoring system.
+
+*
+
+The Bank has over-estimated implementation capacity, particularly in sector ministries.
+Equally, it has over-estimated the pace of institutional reforms and capacity building.
+
+*
+
+Collaboration between Bank and IFC staff has been effective at the project level but has not
+extended strategically to address private sector development (PSD) constraints.
+
+OED and OEG reviews
+44.
+In 1999 both the OEG and the OED prepared evaluations of the Bank group
+operations in Tanzania (see Box III). This CAS fully shares the recommendations made
+by OED. The formulation of the CAS program has benefited from the insights of these
+analyses. Many of the recommendations of the OEG review have also shaped the
+preparation of the CAS, which is a joint exercise with IFC. Collaboration between Bank
+24 In
+
+1995 a report prepared by an independent group of consultants (the 'Helleiner Report') found that in the absence
+of a national framework donors had assumed, over-time, a greater role in defining and designing policies, thus creating
+little institutional capacity within Tanzania. Since resources were directly managed and controlled by donors, this gave
+rise to the creation of parallel financial systems.
+
+15
+
+and IFC staff will be facilitated by joint work in PSAC I and F'SAC II; and by the
+creation of Joint Bank/IFC Global Practice Groups in Telecommunications, Mining, and
+Oil and Gas, all important sectors for Bank Group activity in Tanzania.
+
+Box III: OED's and OEG's Findings and Recommendations
+OED
+The Bank's Operations EvaluationDepartnent (OED) prepared a Country AssistanceEvaluation(CAE) in 1999.It indicatedthat four decadesof Bank assistanceto Tanzaniahave had only limited`l
+impact on growth and poverty reduction. However, initial results from the new Bank str;ategy,
+initiatedin 1996,were consideredencouraging.The reviewsuggeststhe need to intensify effortson a:
+range of issues.Two are summarizedbelow:
+* Promoting balanced, long-term growth requires the development and implementation of
+strategies directed at a broad number of components- growth, social policy and the budget,`
+structural reform and gender issues. For instance, supporting a strategy for private secto
+developmentwill help to create a broad constituencyfor reform,and developinga rural strat
+focussingon constraintsto agriculturalproduction,will provide significantpotential for poverty
+reduction.Addressingdistortionsin socialpolicy and improvingthe poverty focus of projectsin
+other sectors is also a key objective that can be helped along by leveraging World :Bankt
+assistance. And by being aware of the linkages betweendifferentreforms - public enteprise, ;
+financial,judicial,regulatory- Bank strategyshould guard againstthe possiblyperverse impact
+of foreignassistanceon domesticcapacity building. Finally,with appropriatelydesignedcreditsthereare good opportunitiesfor improvingthe Bank's projects'gender impact.
+*Improving aid coordination.In line with the TAS objective,the Bank can help in renioving
+inefficienciesof fragmentedand parallel aid delivery systemsby encouraging other donors to"
+assistthe Governmentin its effort to increaseselectivity,coherenceand harmonizationiof donor
+resources.
+OEG
+In 1999 QEG prepared a Country Impact Review of its activitiesin Tanzania during I1986-9$.The
+Review concludedthat althoughmuch progress has been made, the country is not yet an atactive
+location for pnvate investment. The review describes the principal
+to ivatetors ;tbarriers
+developmentas, i) slow privatization- between 1993 and 1998 only about halfthe parsta
+enterpriseshave been privatized;ii) incompletefinancial sector reform- begun in 1991, it has beeng
+"disappointinglyslow'; iii) strong aid dependence;there is evidenceof projectsthat could have bee
+financedprivatelybut that havebeen displacedby aid; iv) poor infrastructureand human resources-;
+even comparedto other Sub-SaharanAfrican countries.This penalizesinvestorswith unreliableand
+high-costelectricity,high transportationcosts,poor communicationsand a labor force lackingmodem
+skills; v) social and governmentalambivalenceabout private sector development.The deep-seated
+reluctanceto open the economyto private ownershipand marketforces manifests itself in complex
+and unpredictableregulatoryregimesrelatedto investment,property,taxes and employment.Irntermsi
+of developmentimpact, of the 20 investmentsevaluated by OEG (representingabout 70 percent of
+total projects approved since 1986), 60 percent had a satisfactorydevelopmentoutcome. In eight
+cases the developmentimpact could have been improvedthroughpolicy and administrativereforms.
+In addition,only 45 percent of the investmentsevaluatedhad a satisfactoryinvestmentperformance.
+The review recommendsimprovingthe enabling environment;establishingexpectationsat approval
+and monitoringresults while identifyingconstraints;establishingstandardsfor service by providing
+training for staff and managersand monitoringcompliance;and improvingcoordinationbetweenIFC
+and Bankstaff.
+
+16
+
+C. The Strategy
+45.
+Our mission in Tanzania is to help the Government reduce poverty through the promotion
+of higher growth, and interventions that build the assets of the poor, reduce their vulnerability and
+promote better governance and accountability. The CAS fully recognizes the leadership of the
+Government in defining the development agenda. It supports the Government's desire to enter
+into more productive relationships with partners, based on the adoption of sector wide strategic
+approaches, on the phased switching from projects to programs and on greater control of
+budgetary and procurement functions. This new direction was explicit in recent speeches by
+President Mkapa and is fully supported by donors.25
+46.
+Besides clialogue on macroeconomic and public expenditure management, the CAS
+proposes to focus lending and non-lending interventions in four areas of strategic importance. The
+choice has been informed by Government's preferences, a consideration of both the Bank and
+IFC comparative advantages, relative to that of other donors, and by the potentially large impact
+of these interventions in the economy. They include:
+*
+*
+*
+*
+
+Private sector and infrastructure development, to support the Government's objective of
+making privale sector the engine of growth;
+Sustainable rural development, to improve the livelihood of the majority of the poor who live
+in rural areas;
+Improved social infrastructure, to improve social indicators and enhance access for the poor
+to essential public services; and
+Public sector reform and institution building to increase the effectiveness of public service
+delivery and improve governance.
+
+47.
+This program does involve a broadening of our effort from the macroeconomic focus of
+the last CAS. This reflects judgment that such a broader effort is now essential to ensure that the
+benefits of the reforms are realized by the population, particularly the poor in the rural areas.
+However, considerable selectivity will be exercised in the choice of Bank interventions across
+these areas. The framework for this decision making will be based on Government preferences
+(ensuring that their ownership role is being enhanced through the process), the comparative
+advantage of the Bank, the relative areas of strength of the donor community, and, finally, on
+those areas where we feel impact on poverty will be greatest. In exercising this selectivity there
+are some areas of past activity where the Bank will not be involved. For example, the IDA
+program will involve virtually no parastatal investment except where necessary to support the
+entry of a private partner, such as in the Dar es Salaam Water Supply Project and in the Songo
+Songo Project. This directly reflects the movement to the private sector as the engine of growth
+and is a dramatic change from past programs where parastatal involvement was very broad.
+Second, we propose no multisectoral investment in district level projects - where we feel other
+members of the donor community have a comparative advantage. Third, there will be no IDA
+investment in the provision of credit - again reflecting the fact that this should be left to the
+private sector.
+48.
+In addition to excluding certain areas in the program, selectivity will be exercised in the
+activities pursued within these four priorities. First, there is increased Government ownership in
+many areas (for example in the preparation of the Public Sector Reform Project). Second, the
+Bank should be prepared to relinquish leadership to other donors in areas which they have a
+25 See President B.W. Mkapa (1999), "Tanzania's vision regarding partnership based co-operation", speech at the
+Workshop on Making Partnerships Work on The Ground, Stockholm.
+
+17
+
+specific interest to support. For example, the Bank did the initial study on corruption but the
+UNDP and the European Commission (EC) are now taking the lead in working with Government
+on its Action Program in that area. Third, there is increasingly joint execultion of analytic work for example in the case of the CEM. The UK and the EC have being leading the analytical work
+in the education sector, which is now an essential input into our proposed project work. Finally,
+the sector groups that are emerging are typically being led by bilateral conors but the Bank is
+playing an active role in supporting them. Overall we are confident that the proposed program
+both insures Bank involvement in key issues involving the poverty program but will be executed
+in a way that both ensures ownership and maximizes the efficient use of Bank and other partner
+resources.
+Table 2. A Framework for Development Partnership
+Creatin hiher Growth
+
+Buildi Capabilities
+
+Empowerentandaccountability
+
+Par-ty
+
+Activity
+
+N1_
+cn
+
+>
+
+LittieFocus
+
+>
+
+mSome
+
+E15
+
+~
+
+Z
+
+0
+
+>
+
+-0
+
+~
+
+a)
+
+=
+
+Focus El
+
+Significant
+Focus
+
+HighFocus
+
+49.
+The proposed lending program comprises (i) quick-disbursing, policy-based lending
+operations in support of overall and sector reforms; (ii) high-priority specific investments,
+particularly those focussed on critical infrastructure, social services and environmental protection
+and (iii) institutional development operations in support of capacity-building and governance
+efforts. In addition, assuming that sufficient progress is made on public expenditure management
+and governance, the Bank suggests moving toward budget support by the third year of the GAS
+cycle with an operation for poverty reduction and environmentally sustainable rural development
+through the instrument of a Public Expenditure Reform Credit (PERC). This would be justified
+on several grounds: first, the improvement in the macroeconomic environment and budget
+management would eliminate the need for Bank support in the form of traditional adjustment
+lending; second, the preparation and implementation of the PRSP would make possible to
+address issues of poverty reduction across sectors in a systematic way. F-inally,the PERC' would
+be a better instrument than other forms of lending to address implementation constraints that have
+arisen in sector ministries.
+
+18
+
+50.
+The last CAS presented to the Board in June 1997 presented a lending scenario of
+US$200 million, predicated on meeting ESAF targets and progress in various areas of the reform
+program. A low case scenario (US$90-100 million) as well as a high case scenario (US$300
+million or more) vere also included. The current CAS increases the Bank's lending assistance.
+Macroeconomic stabilization in Tanzania is largely completed and substantial progress has been
+made in reforming the economy. Consistent with the recent 'aid effectiveness' literature, this is
+the best time for stepping up financial assistance. In a good policy environment this would result
+in faster growth, h2igherprivate investment and rapid gains in social indicators. We propose the
+following scenarics.
+51.
+Base case scenario: US$260 million a year over the CAS period. Under this scenario
+macroeconomic arid policy conditions for the PRGF would be met consistent with the anticipated
+schedules. Equally, PSAC I conditions, which include measures in the areas of governance,
+financial management, tax reforms and improvement of the business environment would be met.
+In addition, the Government would achieve the commitments under the PRSP for social sector
+improvement, implemented through the MTEF.
+
+Table 3. TanzaniiaCAS- Lending Program FY01-03 (US$ millions)
+FY01
+
+FY02
+
+Primary Education A.PL
+TASAF
+Dar Water Supply
+Rural Water LIL
+Regional Trade
+
+Mill.
+100
+50
+45
+5
+10
+
+Total Base case
+
+210
+
+FY03
+Mill.
+170
+20
+40
+50
+20
+
+Songo Songo
+Soil Fertility
+Account./Governance
+Forest Conservat.
+HIV/AIDS
+
+Roads Rehabilitation
+Lake Victoria ll
+PSAC 11
+Local Gov. capacity
+Educat. Ration.
+
+Mill.
+80
+30
+100
+40
+30
+
+PERC-Poverty-rural
+
+280
+200
+
+300
+developm.-environment
+
+High case
+
+210
+
+300
+
+480
+
+52.
+Low case scerario: US$100 million a year over the CAS period - the low case scenario,
+would materialize if the Government is off-track with the PRGF and PRSP programs and if there
+is slippage in the expected timing for the HIPC completion point beyond the CAS horizon. The
+following high priority social sector projects would be retained under the low case scenario:
+Primary Education APL and Rural Water LIL for FYOI; Soil Fertility and Forest Conservation
+Projects for FY02; and Lake Victoria II, Local Government Capacity and Education
+Rationalization for FY03.
+53.
+
+High case scenario:
+
+Progress in all areas of the reform program (as specified in the
+
+matrix of actions, Annex B9) would make it possible to move, by the end of the CAS period,
+towards higher lending. Thus, for the last year of the CAS period, Bank lending would increase
+to the high scenario, about US$480 million. The triggers in Box IV would guide the move to the
+high case scenario. This would imply not just an addition of US$200 million to the base case
+lending scenario; more importantly, it would involve a move from traditional projects to budget
+support through a. PERC. The PERC would be the instrument through which the Bank would
+address the issues of poverty reduction identified in the PRSP across sectors in a systematic way.
+
+19
+
+Box IV: Triggers for High Case Scenario
+Triggers
+Macro
+*
+Maintain a stable macroeconomic
+environment and poverty focus of public
+expenditure
+Sector Performance
+*
+Preparation of sector wide programs in
+health, education, water, agriculture and
+environment; significant improvement in the
+implementation capacity of these ministries
+Governance
+*
+Carry out diagnostic surveys in the ministry
+of Works, Education, Health, Home Affairs,
+the Judiciary, Attorney General
+*
+Dissemination of the national and sector
+specific anti-corruption plans; implement
+sector specific action plans against
+corruption in the six areas surveyed
+*
+Adoption of the Public Audit Bill
+*
+Adoption of new procurement law that
+permits greater transparency and integrity
+*
+Timely issuing of the office of Controller
+and Auditor General's (CAG) reports and
+Treasury Minutes in response to audit
+queries
+*
+Publish Central Tender Board results
+* Full implementation of the IFMS, including
+all budgetary votes and tax and non tax
+revenues, and recording of all expenditure
+commitments, payments, and arrears. Roll
+out of IFMS to 28 local districts
+
+Means of verification
+*
+
+Satisfactory implementation of PRGF and PRSP; MTEF
+documents approved by Cabinet
+
+*
+
+Submission of programs and strategies for strengthening
+implementation capacity
+
+*
+
+Submissions of survey results
+
+*
+
+Submissions of approved anti-corruption plans and
+implementation progress reports for each sector
+
+*
+*
+
+Publication in the official gazette of relevant legislation
+Publication in the official gazette of relevant legislation
+
+*
+
+CAG reports and Treasury Minutes
+
+*
+*
+
+Copies of published tender results
+Public Expenditure Review Reports
+
+D. Description of the lending program
+54.
+Overall, our program underlies the contribution of various sectors to sustainable
+development. For example, the quality of social sector services is of vital concern to the rural
+population and progress there will be essential to the well-being of the rural poor. Physical
+infrastructure improvements both offer the prospect of opening up areas to the market economy
+(through improved roads) and providing services that simply don't reach rural areas at present.
+Finally, the quality and efficiency of the public service will be a key determinant of whether
+Government services are implemented and provided to many rural areas. Our work across all the
+areas below will be vital for reaching sustainable development and making progress towards
+poverty reduction.
+55.
+Private sector development(PSD) and infrastructure development The OED Country
+Assistance Review commented on the lack of an effective PSD strategy in Tanzania; OEG's
+evaluation criticized IFC for a lack of focus on an enabling environment for private sector. The
+current and planned operations will address PSD comprehensively.
+
+20
+
+*
+
+Enabling Environment. The first Programmatic Structural Adjustment Credit (PSAC 1), to
+address the persistent obstacles to private investment is being presented to the Bank's Board
+with this CAS; the second PSAC (PSAC II) is expected to be presented to the Board during
+FY03. In addi.tion, a proposed Regional Trade Facilitation Project will address issues of
+regional integration.
+
+*
+
+Financial SecLor. The Rural and Micro-Financial Services Project and the Second Financial
+Institutions Development Project (approved in FY00 will continue to address structural
+weaknesses in the financial sector including the design of a legal, regulatory and supervisory
+framework for micro-finance. IFC will focus on the establishment of new non-bank financial
+institutions arid on strengthening capital markets. It will help NMB's restructuring and
+privatization. Other activities include the potential development of a mortgage finance
+company, and a discount house in addition to advisory work and technical assistance.
+
+*
+
+Infrastructure. Inadequate infrastructure remains the most severe constraint to PSD. The
+Bank Group will address infrastructure shortcomings, with a focus on sector policy reform
+and increased private participation. In the power sector, the Bank Group will assist the
+Government in implementing the Power Sector Restructuring Program; and it will encourage
+the development of domestic gas markets and generate low cost power through the Songo
+Songo Gas Development and Power Generation Project.
+
+*
+
+In the roads sector, the Bank will contribute to the proposed Roads Rehabilitation Program,
+to help eliminate the backlog of rehabilitation works, assuming that progress is made in
+improving the institutional framework for financing and managing the road network. The
+Dar es Salaam Water Supply and Sanitation Project is aimed at achieving reliable and
+affordable water and sanitation services, initially through a private management agreement.
+In rural areas, development of projects, through local governments, private sector and
+community management will be tested through a Rural Water Supply and Sanitation LIL
+
+*
+
+Supporting SMEs, Mining and Tourism. IFC will expand its investments in SMEs, focussing
+on pioneering projects. After supporting tourism development with investments in hotels and
+tour operators, IFC is shifting its focus to supporting smaller eco-tourism facilities, and in
+financing privatization. In mining, IFC is seeking to support the construction of new
+production facilities as the sector moves from exploration to development and production and
+to provide teclnical assistance on sectoral development.
+
+*
+
+Privatization. The Privatization & Private Sector Development Project (approved in FY00)
+supports the Govemment's privatization and banking restructuring programs, and the
+establishment of an institutional framework for regulation of infrastructure and utilities. IFC
+will seek opportunities to facilitate privatization transactions across sectors, in addition to
+infrastructure.
+
+56.
+Sustainable rural development. The improvement of the rural lives in Tanzania is the
+most important challenge facing the Government. The sense that the benefits resulting from
+economic reform have not reached the rural poor is acutely perceived in Tanzania and it will be
+critical to develop a program addressing these concerns directly. In addition to the ongoing
+dialogue on the policy, incentive and regulatory framework of the agricultural sector the Bank is
+preparing the Soil Fertility and Agricultural Recapitalization Project, to help develop agricultural
+input availability for small holders. Support for communities, particularly in rural areas, will be
+provided through the Tanzania Social Assistance Fund. The project will provide self-targeting
+and low wage public works to the poorest. Support for the environment would be rendered
+
+21
+
+through two projects. The Forestry Conservation and Management Project, will assist the
+government in developing a framework for the sustainable management and conservation of
+forest resources and for the involvement of communities and private sector. The Lake Victoria II
+operation will assist in completing the rehabilitation of the lake ecosystem. In order to ensure
+that the various policy constraints identified in the analytical work on rural development are
+addressed through an integrated program, a Poverty/Rural Development Environmental/ PERC is
+proposed in the last year of the CAS period under the high case scenario.
+57.
+Improved social infrastructure. The Bank supports Government efforts to improve social
+indicators, particularly for the poor. A suggested Primary Education APL would address the
+critical situation of the primary education system in Tanzania including the budgetary, personnel
+and system management issues associated with achieving a more decentralized system of
+education. Support for policies to rationalize public expenditures on higher education will be
+given through the Education Rationalization Project. In health, the Bank and other donors are
+supporting a Health Sector Development Project, which is being presented for Board
+consideration with this CAS. Finally, a suggested project would support the Government's fight
+against AIDS. This would be the first of a series of HIV/AIDS Projects aimed at combating the
+epidemic and tackling the consequences of AIDS (see Box V). The size of the epidemic, as well
+as the growing number of AIDS orphans will put, in the near future, an unprecedented burden of
+care on families and the social welfare system, thus requiring special efforts from the
+Government and the donor community.
+58.
+Public sector reform and institution building. The recently approved Public Sector
+Reform Program is aimed at improving accountability, transparency and resource management
+for service delivery. An Accountability/Governance project would strengthen government efforts
+to fight corruption and improve governance. A Local Government Capacity Building/ Slums
+upgrading project would help building capacity in local councils to provide basic infrastructures
+and services. The project would include a component on urban community slums upgrading, i.e.
+targeted to infrastructure and service improvements in low income areas.
+E. Non Lending Services
+59.
+The Bank with Tanzanian collaboration and the International Food Policy Research
+Institute is concluding and will be disseminating two major pieces of analytical work - the
+Country Economic Memorandum entitled Tanzania at the Turn of the Century: From Reforms to
+Sustained Growth and Poverty Reduction and - Agriculture in Tanzania since 1986: Follower or
+Leader of Growth? Successful annual reviews of the Public Expenditure have been cornpleted
+since 1997, in a fully participatory manner, and will be continued. In the area of macroeconomics
+and trade, a proposed report for FYOI on "Tanzania's Integration in Global and Regional
+Markets" would analyze potential benefits from regional and global integration. This work,
+together with two additional ESWs, a Financial Sector Assessment and a Private Sector Profile
+would provide the analytical framework for the PSAC II in FY03. Sector work will be aimed at
+preparing sector wide strategies and improving the linkages between sectoral policies and the
+overall development strategy, essential steps for moving, by the end of the CAS period, to budget
+support.
+
+22
+
+Box V: The Need to Scale Up the Fight Against HIV/AIDS
+To date, efforts in Tanzania to fight HIV/AIDS have been slow and inadequate. However, the
+Govermmenthas prepared a strategic plan, the Third Medium-Term Plan on Aids and has put in
+place the basic institutional framework to combat this epidemic(a National HIV/AIDS Council
+charged with coordinating all the AIDS-related activities, a secretariat and a National HIV/AIDS
+Advisory Board). Leadership to tackle the HIV/AIDS problem as a development issue has been
+lacking and is now the key constraint. Moreover, there is limited capacity to manage and
+coordinate multi-sectoral responses involving both the public and private sector, and to encourage
+broader participation in the effort.
+The Bank has included a sub-component (US$4.3 million ) in the Health Sector Development
+Project to help strengthening the institutional framework and the capacity to coordinate responses
+to the epidemic. A National HIV/AIDS Fund will be set up to finance AIDS-related programs.
+Disbursement of this component is subject to submission of an implementation strategy and of the
+necessary institutional arrangements. The TASAF operation will help communities to tackle
+HIV/AIDS (through financing of supplies for non-prescription drugs, ointments ) and by funding
+training to commrunitybased care givers. The Bank is committed to addressing AIDS issues in its
+lending program, particularly in education, water supply, roads and rural development and in the
+economic and sector work. Moreover, the Bank is ready to accelerate the preparation of an
+HIV/AIDS project (US$20 million, presently envisaged for FY02) as soon as the Govemrnent
+finalizes an implementation strategy (nationwide, regional, district) of the interventions planned in
+the Mid-Termr Plan III. The strategy should include requirements for financial and technical
+assistance, the identification of different agents and tasks; and modalities for choosing priorities in
+districts and regions, scaling up successful interventions and contracting out services.
+60.
+The Bank recognizes the weakness of the information base and of analytical capacity in
+Tanzania. Consist:ent with the Government's objectives, this CAS supports the Government's
+intention to develop a National Information and Communications Strategy. The strategy would
+establish a framework for the use of information and communication technologies in the country.
+Within this context, the Government is preparing a Household Budget Survey, a Labor Force
+Survey (both ongoing), and a Population Census (scheduled for FY02).
+61.
+Jointly with other donors, the Bank will increase efforts to build in-country capacity to
+collect and analvze information, particularly in the poverty and social sectors domain; to
+strengthen the iniFormation base and institutional capacity for poverty analysis and to create a
+monitoring system:
+*
+
+The Bank will assist in the preparation and implementation of the PRSP providing assistance
+for poverty analysis as requested by the Government. On the basis of the new information
+from the Household Budget Survey, a Poverty Assessment Report for FY02 is proposed to
+analyze the nature of poverty, incidence and trends and to make recommendations on how to
+improve policies for poverty reduction.'
+
+*
+
+In 1996 the Elank developed a Gender Action Plan (GAP), which was updated in 1998.26 A
+Gender Report is being finalized and will be made available to the Government before the
+end of the fiscal year. In the future the Bank will continue to provide assistance to the
+
+Effortsto mainstreamgender concerns in Bank lendingare reflectedin the Girls SecondaryEducation Support
+(GSES)program,which offers scholarshipsto low-incomegirlsto attend day or boardingschools for up to four years.
+There are also two agriculturalprojects (NTational
+Extension Project II, FY97, and AgricultureResearch Project II,
+FY98)that explicitlyreflect genderconsiderationsin their objectives.
+26
+
+23
+
+Government during the preparation of the PRSP to ensure that it is fully inclusive of gender
+issues. Gender issues will be mainstreamed in all analytical work and in lending activities.
+*
+
+Preparing a "rural development strategy' to underpin the Government's intention to pursue a
+new strategy for higher rural growth and poverty reduction. Emphasis will be on creating the
+necessary linkages among the various sectors that contribute to rural development
+(agriculture, rural infrastructure, water, education etc.) and with the urban areas.
+
+*
+
+Support of activities for improving governance and accountability and fighting corruption. It
+will also provide for a study on fiscal decentralization to assess the policies and mechanisms
+of the fiscal transfer system.
+
+F. WBI and MIGA
+62.
+WBI. Over the CAS period, the World Bank Institute (WBI) plans to assist in the
+implementation of the Tanzanian anti-corruption action program. Planned activities iinclude:
+conducting training workshops to strengthen the oversight roles of the Public Accounts and
+Finance Committees of the Parliament of Tanzania; promotion of media accountability, e.g.,
+through strengthening of Media Council; providing support to the Prevention of Corruption
+Bureau (PCB) to develop a public outreach strategy and an ethics component in the school
+curriculum as well as assisting in developing a booklet on anti-corruption for secondary schools;
+supporting the PCB and the Media to start an anti-corruption column in daily newspapers as well
+as producing a daily bulletin highlighting the evils of corruption.
+63.
+MIGA. Tanzania has been a member of MIGA since 1992. MIGA's outstanding portfolio
+in the country consists of five contracts of guarantee in the infrastructure and telecommunications
+sector with a US$4.1 million Gross and Net Exposure. The total amount of Foreign Direct
+Investment facilitated to date is US$19.9 million. MIGA is finalizing the issuance of guarantees
+for coverage of a mining project with a total investment potential of US$400 million'. With
+coverage of this project, MIGA largest exposure in Africa will be in Tanzania. In addition,
+investors have expressed interest in MIGA's coverage for investments in the infrastructure,
+mining, power, and tourist sectors in Tanzania.
+G. Portfolio Issues
+64.
+Quality and implementation performance of the Bank's portfolio have been imiproving
+over the past couple of years as evidenced by the healthy disbursement ratio (at 29.4 - aniualized
+at April-end- for FY00 as compared with 15 percent in FY98) and the decline in the percentage of
+"at risk" projects (in terms of commitments - the "at risk" ratio has declined from 72 percent in
+FY97 to some 11 percent). Only about 10 percent of the portfolio is rated as unsatisfactory.
+These positive trends are indicative of the increased progress in addressing the constraints to the
+program, and should translate into a greater impact of Bank projects. Sustaining these
+improvements through comprehensive annual portfolio reviews is central to this CAS. The
+upcoming Country Portfolio Performance Review will seek to identify and define a program of
+action for addressing existing and emerging generic problems as well as project-specific issues.
+The gains made to date in significantly improved audit compliance (only one project had
+outstanding audit reports at the time of writing) are to be safeguarded through close follow-up.
+Beyond decentralization of some procurement and disbursement functions and overall portfolio
+management to its Tanzania office, the Bank will continue to facilitate client capacity building
+and strengthening institutions related to overall good governance.
+
+24
+
+H. Benchmark indicators for Government/Bank
+65.
+Country performance. Benchmarks for country performance are included in the matrix
+(Annex B9). Many of these benchmarks, which have been determined in a participatory way, are
+qualitative (or represent process indicators). Tanzania is now implementing difficult reforms for
+private sector development and for improving governance. This will require tackling complex
+institutional and legislative constraints, which implies that outcomes need to be measured over a
+longer time horizon. The small number of quantitative, measurable indicators is also a reflection
+of the inadequate statistical base, particularly for human development, that is available in
+Tanzania. Outcome indicators of country performance over the CAS period include:
+* Education: Increase gross primary enrolment rates by 2.5 percentage points each year;
+increase the transition rate to secondary schools from the current 15 percent to 20 percent by
+2003;
+* Health: Increase percent of children under 2 year receiving measles and DPT from 71 percent
+to 75 percent by 2003; increase percent of pregnant women delivering in a health facility from 50 percent to 55 percent by 2003;
+* HIVIAIDS: Reduce HIV/AIDS prevalence by 25 percent by 2002; enhance community
+mobilization on AIDS prevention and support; ensure that all hospitals are equipped to ensure
+a safe blood supply for transfusions;
+* Decentralization: Implement local fiscal transfers to local councils; transfer control of staff to
+local councils;
+* Roads: 50 percent increase (over current level) by 2002/03 of km of rural roads maintained
+per year;
+* Water: Provision of safe and clean water from 48.5 percent population coverage in 2000 to
+55 percent by the year 2003 in rural areas; and from 68 percent coverage in 2000 to 75
+percent by the year 2003 in urban areas; and
+* Justice: Harmonization of the legal and regulatory framework by 2002.
+66.
+Benchmarks for Bank performance. Our strategy is to support the Government in
+achieving the outcome indicators listed above. In terms of portfolio implementation (see Annex
+III), we will be aiming at i) decreasing risk projects from 14 percent to 10 percent of the
+portfolio; ii) sustaining a disbursement ratio at around 22 percent and respecting audit compliance
+(with 90 percent of on-time audits) and iii) shortening the time between board approval and
+effectiveness from the current 6-7 months to 4 months. The achievement of CAS objectives will
+be monitored according to two criteria: a) macroeconomic variables which affect growth,
+including fiscal performance and inflation targets; monitoring will be conducted during joint
+IMF/Bank missions and annual public expenditure reviews; b) progress benchmarks, as detailed
+in the CAS matrix. Benchmarks will be monitored during project preparation and supervision
+missions, annual consultations and jointly with IMF, IFC and donors. Decision making and
+increasingly a larger share of project preparation and supervision is now with the Country
+Director and the resident mission in the field, to ensure a can better response to emerging requests
+and issues.
+I. Risks
+67.
+External risks that might threaten Tanzania's ability to implement its development
+agenda have been outlined in previous sections. As already discussed, the most important risks
+are domestic. Tanzania has been politically stable and free from ethnic violence and the next
+general elections. (October 2000) are expected to take place peacefully. However, the current
+political situation in Zanzibar has some potential for instability. Political support and commitment
+
+25
+
+to reform remains fragile beyond Central Government and at the local level, the understanding of
+the reform process is limited. The improvement in the governance framework may take longer
+than anticipated. Implementation of the local government reforms may be delayed because
+districts lack capacity to generate appropriate policies and collect revenues and account for
+expenditures. The transfer of many responsibilities from central line Ministries to local
+Authorities may interfere with prospects for success of sector wide development strategies,
+particularly in education and agriculture.
+68.
+For the Bank Group, the greatest risk is that of overestimating the Governnent's
+implementation capacity. The keys to successfully implementing our strategy and portfolio
+include:
+attention to project design and robust quality at entry including inter alia consistency with
+CAS objectives, clarity and realism of objectives and appropriateness of project approach;
+adapting interventions to realities on the ground in Tanzania;
+a clear and realistic sequencing of actions and interventions;
+conducting good institutional assessments to establish whether there is adequate capacity and
+a sound incentive framework for facilitating implementation;
+effective capacity building measures aimed at Tanzanian counterparts as well as Bankcstaff
+and;
+. managing the threats to implementation and sustainability through avoiding excessive
+optimism about the capacity and readiness to implement; conducting more candid risk
+assessments to establish risks of borrower ownership, financial/procurement management as
+well as social and institutional risks, and by establishing a strong monitoring and evaluation
+feedback system.
+J. Concluding Remarks
+69.
+The overarching goal of the Tanzania Assistance Strategy, as well as the Bank Group
+Country Assistance Strategy is to increase growth for faster poverty reduction and to improve
+living conditions of the poor. We believe that the economic and sector work and lending
+operations proposed in this CAS, as well as IFC investments and the cooperation with IMIF and
+other stakeholders will make a long term difference to Tanzania's development prospects and its
+million of poor.
+
+James D. Wolfensohn
+President
+
+By:
+Shengman Zhang
+
+Peter L. Woicke
+
+Washington, D.C.
+May 22, 2000
+
+26
+
+TANZANIA
+COUNTRY ASSISTANCE STRATEGY
+ANNEXES
+
+Annexes:
+Annex I
+Annex II
+Annex III
+Annex IV
+Annex V
+
+The Low Case Scenario
+T'anzania: the Road To Ownership and Effective Partnership
+PFortfolioOverview & Performance Improvement Strategy
+Client Feedback Survey 1997
+Standard Annexes
+
+ANNEX I
+The Low Case Scenario
+1.
+Under the low case scenario,the Governmentwill maintainits current poliqrregime and
+the liberalizedinstitutionsalready established. The scenarioassumesthat PRGF targets will not
+be met, there will be no further progress in structural reforms and the conditions for the
+implementationof the HIPC initiativewill not be reached. Climate conditionswill reflect those
+during 1996-1999.Projections indicate that GDP growth will be around 4 percent and the
+inflation rate in the range of 12-11 percent. Over 2000-03 the Governmentwill need additional
+foreignfinancingiforBOP supportin order to maintainmacroeconomicstability.
+Indicator
+
+Real Growth of GDP (%)
+Per capita real GDP growth (%)
+Real Growth in Agriculture (%)
+Real Growth in Manufacturing (%)
+Gross domestic investment (% GDP)
+Gross domestic savings (% GDP)
+Consumer Price index (%/6)
+
+Actual
+
+Projections
+
+.
+
+FY96
+4.3
+1.4
+4.6
+3.1
+18.0
+3.6
+21.0
+
+FY97
+4.0
+1.2
+3.0
+4.6
+15.7
+5.4
+16.1
+
+FY98
+3.8
+0.9
+2.2
+6.5
+14.9
+3.1
+12.8
+
+FY99
+4.3
+1.5
+4.2
+5.3
+14.3
+2.6
+7.8
+
+FY00
+5.0
+2.2
+5.7
+4.4
+17.1
+3.1
+5.8
+
+FYOI
+3.9
+1.1
+3.9
+4.7
+16.1
+2.9
+12.1
+
+FY02
+4.2
+1.4
+3.3
+4.9
+15.9
+2.5
+11.5
+
+FY03
+4.0
+1.2
+4.2
+5.0
+16.0
+3.0
+10.5
+
+696
+1370
+-15.9
+
+794
+1388
+-12.0
+
+613
+1445
+-14.4
+
+541
+1631
+-15.3
+
+552
+1748
+-15.4
+
+521
+1811
+-17.4
+
+529
+2015
+-20.5
+
+658
+2186
+-19.5
+
+-6.1
+
+-2.2
+
+-6.1
+
+-7.0
+
+-7.2
+
+-8.3
+
+-9.8
+
+-9.0
+
+13.2
+17.6
+-4.4
+-0.8
+
+13.5
+15.1
+-1.6
+1.0
+0.1
+
+12.0
+14.8
+-2.8
+1.0
+-0.3
+
+12.4
+16.9
+-4.5
+-0.3
+-0.3
+
+12.6
+18.3
+-5.7
+-0.7
+0.8
+
+10.9
+18.5
+-7.6
+-4.0
+3.2
+
+'12.1
+19.0
+-6.9
+-3.5
+3.0
+
+12.2
+19.5
+-7.3
+-3.0
+2.5
+
+Trade
+
+Export (fob) (US $mil)
+Import (cif) (US $mil)
+Current Account Balance (before
+grants % of GDP)
+Current Account Balance (after
+grants
+
+% GDP)
+
+Government Finance ilall% of GDP)
+
+Domestic Revenue
+Expenditure
+Deficit (before grants)
+Deficit (after grants)
+Net Foreign Financing
+
+27
+
+ANNEX II
+Tanzania: The Road to Ownership and Effective Partnership
+
+1.
+Since 1961 Tanzania has developed cooperation programs with over 50 Governments,
+international financial/donor agencies and NGO's. In recent years, external assistance, averaging
+US$900 million a year, has contributed to 25-30 percent of the recurrent budget and 80 percent of
+the development budget.
+2.
+Tanzan[ia/donor relations were strained during the late 1980s and early 1990s due to
+deteriorating policy and fiscal performance, failure to collect counterpart funds for donor
+supported programs, and rising corruption. These relations were analyzed in 1994 by an
+independent group of advisers (The Helleiner Report, 1995). "Agreed Notes" were adopted in
+1997 and reviewed in 1999. The review found that issues still remain, including : i) weak
+Government capacity, ii) different donors requirements with regard to rules and procedures on
+procurement, disbursement, accounting and auditing; iii) parallel budgetary systems and over
+dependence on consultants to execute projects. However, Government-donors cooperation has
+improved significantly as a result of:
+* Changing dronorattitudes towards a new partnership approach, through active participation
+in regular sector-wide meetings under Government leadership; and contributions to "basket
+funds" in the health, education, roads and local government reform sectors, in support of
+mutually agreed common objectives.
+* Improved aid coordination. Government-donor joint working groups meet regularly under
+Governmerntchairmanship.
+* Greater transparency in aid delivery on the part of donors and accountability for its use on
+the part of the Government. The Ministry of Finance has significantly improved financial
+data storage and retrieval system using the latest software and equipment. Treasury budget
+management has been strengthened in the past two years.
+- Moving the CG meeting to Dar es Salaam has improved ownership.
+3.
+The Government has established a confident leadership in the preparation of its
+development sl:rategy and in enlarging the participation process. Starting with the Vision 2025
+document (initiated in 1995), a significant effort was made to consult with a broad range of
+stakeholders.. The Vision document was debated in Parliament and has been widely disseminated
+throughout the country. In 1997 the preparation of the National Poverty Eradication Strategy has
+involved a substantial consultation process with NGOS and civil society. The Government has led
+the preparation of various Policy Framework Papers (PFP), the annual PER and more recently the
+TAS. The TAS will promote partnership in designing and executing development programs. The
+Local Governrnent Reform, by decentralizing most Government functions to the local/district
+levels, is expected to facilitate the involvement of civil society in socio-economic issues with a
+direct bearing on their lives.
+
+28
+
+ANNEX III
+Portfolio Overview & Performance Improvement Strategy
+1.
+Portfolio Flows & Current Status. Improved implementation continues to be central
+under the present CAS. As of March 31, 2000, a total of 112 IDA credits and 27 IBRD loans,
+amounting to some US$3.5 billion (US$3.2 billion from IDA and US$356 million from IBRD)
+had been approved for Tanzania (original principal less cancellations). Of the 27 loans, 8 loans
+amounting to US$42.5 million were extended to Tanzania through the East African Community.
+Total disbursements amounted to nearly US$3,096 million (some US$2,741 million from IDA
+and US$356 million from IBRD). As of March 31, 2000, the active portfolio consisted of 22
+projects with total commitments of US$1.2 billion. Four projects have been approved thus far in
+FY00 for a total credit amount of about US$120 million. A Health Sector Development Program
+in the amount of $22 million and a Programmatic Structural Adjustment Credit (PSACI) in the
+amount of $190 million are being presented for Board approval in June 2000 along with this
+CAS. Four Credits (Roads I, Health and Nutrition Financial Institutions Development and
+Forestry Rehabilitation totaling some US$225 million in net credit terms) closed in FY99.
+2.
+Portfolio Performance Trends. The Tanzania portfolio performance trends are
+summarized below. The number of projects under implementation has remained fairly steady
+since FY93 -- at between 21 to 24, however, the average commitments have declined from $75
+million per project in FY94 to some $51 million per project in FY00, reflecting a trend towards
+smaller, more focused projects. The quality and performance of the portfolio has been improving
+over the past couple of years (see Annexes B2 and B8), as evidenced by the healthier
+disbursement rati'o and the decline in the percentage of "at risk" projects. These positive trends
+are indicative of progress in the implementation of the program, which should translate into a
+greater impact of Bank projects.
+3.
+The disbursement performance of IDA's investment projects has improved steadily since
+FY92 from $47.7 million to $166.9 million in FY96, and has maintained the momentum since:
+*
+*
+
+*
+
+The undisbursed balance which was around $800 million in 1996 now stands at
+about $480 million.
+Solid gains registered in disbursement, which increased by 21 percent between
+FY97 and FY99. In absolute terms FY99 disbursements were over $166 million
+while FY97 disbursements totaled $ 137 million.
+IDisbursements as a percent of the opening undisbursed balance increased from
+over 15 percent to some 20 percent between FY98 and FY99.
+
+4.
+In the first three quarters of FY00, total disbursements have amounted to some US$117.5
+million of which over US$95 million is accounted for by investment disbursements. The
+(annualized) disbursement ratio at April 30, 2000 stood at 29.4 percent (this is a significant
+increase from the 9.0 percent in FY92 and compares very favorably with both Africa Region and
+the Bank-wide averages).
+5.
+While thie implementation performance of Bank projects in Tanzania has been mixed, and
+portfolio quality as measured by "problem projects" has not been entirely satisfactory, this aspect
+now appears to be stabilizing. Since FY94 the share of problem projects in the portfolio increased
+steadily, largely due to an effort to improve the accuracy and realism in ratings. This
+downgrading leclto an increase in the problem projects in the portfolio from 14.3 percent in FY95
+to 22.7 percent in FY96, and balloon further to over 50 percent of the portfolio by FY97. The "at
+29
+
+risk" portfolio swelled to some 72 percent. However, as indicated above, conscious piortfolio
+strengthening and refining efforts over the past three years have resulted in improvements being
+registered in the overall number (and commitment level) of problem projects in the portfolio. As
+of March 31, 2000 compared with the end of FY97, the number of problem/potential problem
+projects in the portfolio has fallen dramatically with only 3 projects being rated unsatisfactory
+either in terms of Development Objectives or Implementation Progress. This compares with 11
+projects in this category some two and a half years back. Annex B2 indicates that Talizania's
+portfolio performance indicators compare quite favorably with Bank-wide as well as Africa
+Region averages:
+*
+
+Nearly 90 percent of the portfolio (in terms of commitments) is now rated satisfactory -up from 48 percent in FY97.
+* Projects at risk declined from 52 percent to 14 percent of the portfolio between FY97 and
+FY00. Commitments at risk declined from 72 percent to 11 percent during the same
+period.
+* FY00 pro-activity ratio is 100 percent -- specific actions were taken with respect to all
+five projects that were rated "U" at the beginning of FY99.
+* FY00 realism ratio indicating consistency in ratings between the problem and potential
+problem projects is at 100 percent.
+* Close attention and persistent focus on financial management is also paying off. The
+number of overdue audit reports declined from 35 percent to 16 percent by FY99. At
+present only one project has audit reports that are overdue by three months or more.
+
+6.
+Portfolio Improvement Efforts.
+Bank staff have been working closely wi.th their
+Government counterparts to iron out certain longstanding issues (e.g., resource constraints,
+governance etc.,) that have continued to impinge on the overall performance and impact of the
+Tanzania portfolio. The enhanced focus on macro issues, including the improved fiscal and
+public expenditure management effort launched by the Government and donors, will leaclto solid
+payoffs in this regard over the medium term. The Tanzania Country Team's concerted efforts to
+improve the quality of the portfolio have led to significant improvements. To address the generic
+portfolio management issues regular meetings of project coordinators have been held
+approximately every two months in the period since FY96; important actions were taken at the
+individual project level as well, especially for problem or potential problem operations. ranzania
+was one of 20 countries selected Bank-wide, for which a comprehensive Portfolio Improvement
+Plan (PIP) was prepared for FY97. The PIP which was selected as one of the two Bank-wide
+"Best Practices" identified a number of cross-cutting/ generic problems as well as projecl-specific
+ones. The main objectives of the PIP, which was shared with the Government, was to achieve
+major improvements in the performance of both problem projects and projects at risk, as well as
+to further strengthen Government ownership of projects. Good progress has been made since
+towards meeting the targets of the PIP including greater portfolio ownership by the Government.
+As a result of this significant improvement - reflected in aggregate performance indicators Tanzania has graduated from the Bank-wide portfolio "watch list". The continued emphasis on
+enhanced portfolio management is expected to sustain these positive results.
+7.
+As part of the Bank wide decentralization efforts, the Country Director is now based in
+the field. The Country Office has been focussing more on disbursement and procurement prescreening, financial management and task management responsibilities. Furthermore, efforts
+have been made (quite successfully) to establish a specialized Country Office Tanzanian staff in
+areas of financial management, disbursements, and procurement. This has made the regular
+exchanges with project coordinators more meaningful.
+
+30
+
+8.
+A CPPR to follow-up on remaining issues and to pre-empt potential pitfalls is planned for
+near future. Activities to address the generic portfolio management issues are being steered by
+recommendations f,rom the most recent CPPR held in 1998, which focused on areas such as:
+availability of counterpart funds; project management, staffing and incentives; and accounting
+and audit compliance. A detailed Action Plan was formulated and the Country Office held
+regular follow-up rmeetingswith project coordinators In order to institutionalize and sustain these
+measures, the next CPPR seeks to focus Government's attention on the actions agreed, such that
+the findings and recommendations of this exercise are put to good use. The Country Office is
+playing a key role in this exercise and will continue to take the lead on close follow-up of
+implementation issues.
+9.
+IDA's Fuiure Lending Program & Portfolio Improvement Strategy. The principles
+guiding the development of a sound lending pipeline for Tanzania continue to include: (a)
+operations designed to be fully consistent with the objectives of the Tanzania CAS -- which in
+turn mirrors the Government's goals of sustaining past progress in poverty reduction through
+measures aimed at improved economic growth performance and improved access to basic socioeconomic services; (b) superior quality of projects at entry, ensured through: greater ownership
+by the borrower and key stakeholders as well as rigorous preparatory work at the design stage,
+including particular attention to project implementation arrangements that would ensure
+medium/long-term institutional synergy/strengthening; and capacity building for improved
+performance over the life of the operation and enhanced sustainability thereafter; and (c)
+supervision on the Bank's part following project effectiveness, and particularly intensive
+supervision in the case of emerging implementation issues. Project design is being sharpened
+through upstream peer reviews and a focus on the development of clearly defined and
+monitorable project impact (including outputs and outcomes) indicators.
+10.
+Other efforts at reshaping the portfolio to enhance the quality, sustainability and impact
+of Bank operations are underway:
+*
+
+GOT is taking the lead in developing the Tanzania Assistance Strategy which would
+provide the framework within which the development partners are expected to provide
+support. The GOT has endorsed the Comprehensive Development Framework (CDF)
+and this has contributed to furthering Tanzania's adoption of the principles of ownership
+and partnership. With increased ownership, it is expected that the portfolio's emphasis
+will shift to areas with greater urgency of reform.
+
+*
+
+The Country Team is applying lessons of experience and utilizing new instruments. The
+recently effective Tax Administration Project (TAP) focuses on providing an overall
+framework for donor support, the Health Sector Development Program is an APL which
+adopts a sector-wide approach in line with GOT desires. The recently approved Rural
+and Micro-finance project is a LIL which used a participatory approach and is a "bestpractice" in the sub-sector. We envisage moving to the provision of broad based budget
+support via a rural development and environment Public Expenditure Reform Credit
+during the CAS period. All these actions point towards improved quality at entry and are
+expected to contribute to improved portfolio implementation.
+
+*
+
+The up coming Country Performance Portfolio Review will focus on issues identified by
+the project coordinators and Bank staff.
+
+II.
+Remaining challenges to be addressed. While the performance of the Tanzania Portfolio
+is now quite robust, there are a few remaining areas which merit closer follow-up:
+31
+
+*
+
+Pace of implementation: The average age of the portfolio at 4.6 years continues to be
+high as compared with both the Bank-wide average age of 3.6 years and the Africa
+Region average of 4 years. The number of projects with extended closing date increased
+from 2 to 12 between FY97 and FY99. Presently, the portfolio includes nine projects,
+which have had closing date extensions of one year or more. Ten projects, or some 45
+percent of the portfolio is over 5 years old. As newer projects continue to join the
+Tanzania cohort, it raises issues in terms of manageability of the overall portfolio size
+and issues emanating from some of the older projects. In this context, it would therefore
+be important to consider carefully any project extensions.
+
+*
+
+Five projects in infrastructure continue to dominate the portfolio accounting for nearly
+60 percent of total commitments and 65 percent of the undisbursed balance at the
+beginning of this fiscal year. The Roads program has been the weakest in terms of its
+implementation performance - plagued by weak management capacity and procurement
+problems. However, the Government of Tanzania recently embarked on a program to
+address governance issues in this subsector. For its part, the Bank reviewed its transport
+portfolio carefully; the non-performing Roads I has been closed and a balance of about $
+30 million cancelled; both the Roads II and Railways projects have been restructured to
+focus on ways to improve the quality of roads and rail services including by addressing
+issues arising from the el Nino damage to the road and rail network. The privatization of
+the Railways parastatal is central to the restructured project. The Roads II project will, in
+close coordination with other donors, support the development of a long-term
+comprehensive (ten year) Road Development Program.
+
+*
+
+Dwindling attention to social sectors in the lending portfolio over the past several years
+has resulted in the Bank not being able to respond adequately to the emerging challenges
+in Tanzania's human development performance, especially in the area of primary
+education where enrollment rates have declined. The Government with Bank support is
+now engaging other donors on the issue of a cohesive approach to primary education. A
+Primary Education APL is envisaged. Work in secondary education rationali2ation is
+also planned. The process of dialogue and donor coordination has led to what may be
+deemed as good results in basic health care provision. A Health Sector Devel[opment
+Program is being presented with this CAS. HIV/AIDS is a critical issue. A program to
+assist Government efforts at containing the HIV/AIDS pandemic is envisaged during the
+CAS lending cycle.
+
+*
+
+Decentralization from the center to the district councils is expected to be a major
+challenge in the medium-term, but is affecting the implementation of some of the projects
+(such as the ongoing National Agriculture Extension or the planned social sector
+interventions). Strengthening of local capacity and sound procedures for funding; district
+councils and accountability framework need to be established
+
+32
+
+ANNEX IV
+Client Feedback Survey 1997
+Summary of Qualitative Interview Results
+
+World Bank Staff
+*
+Excellent relationships with the Bank; good interaction at project level.
+*
+Staff sheuld spend more time in Tanzania, particularly rural areas, to understand better
+country end its needs.
+*
+Bank staff should have broader, more frequent contacts beyond government.
+*
+Need to be more receptive to local ideas. Bank needs to sell itself, provide more
+information on what it does.
+Resident Mission
+*
+Presence appreciated for facilitation, liaison, project monitoring, accessibility.
+*
+Mixed reactions on desirability of Tanzania-based Country Director.
+*
+Clients consider as more important increased decision-making authority of Resident
+Mission.
+*
+More local professional staff would increase understanding between Bank and Tanzania.
+Development Objectives
+Mixed views as to whether there is agreement on development objectives.
+-Many respondents not aware of or involved in CAS process.
+Those involved saw CAS consultations as a positive change, but Government needs to be
+better prepared.
+Products and Services
+*
+Strong views that local capacity building has not been a feature of technical assistance.
+*
+Positive effects of adjustment lending, but have lives of poor improved?
+*
+Positive impact of investment lending in industry, infrastructure and power sectors.
+Procedures
+*
+Lending conditionalities necessary, but some feel they are too harsh.
+*
+Mixed reactions as to Bank's flexibility with respect to lending conditionalities.
+*
+Bank procedures too slow: give more authority to Resident Mission and involve
+stakeholders in streamlining.
+*
+Procurement guidelines generally helpful.
+
+33
+
+ANNEX V
+
+TANZANIA
+CIDUNTRY ASSISTANCE STRATEGY
+Standard Annexes
+
+Annexes:
+AI
+B2
+B3
+B4
+B5
+B6
+B7
+B8
+
+Tanzania at a Glance
+Tanzania: Selected indicators of Bank Portfolio Performance and Management
+Tanzania: Bank Group Program Summary
+Tanzania: Summary of Nonlending Services
+Tanzania Social Indicators
+Tanzania: Key Economic Indicators
+Tanzania: Key Exposure Indicators
+Tanzania: Status of Bank Group Operations in Tanzania (Operations Portfolio)
+Tanzania: Statement of IFC's Held and Disbursed Portfolio
+B9 Tanzania: CAS Program Matrix
+B 10 Tanzania: CAS Summary of Development Priorities
+
+Annex B1
+
+page 1 of 2
+
+Tanzaniaat a glance
+SubPOVERTY and SOCIAL
+Tanzanla
+
+Saharan
+Africa
+
+LowIncome
+
+32
+240
+6.7
+
+627
+510
+323
+
+3,536
+520
+1,842
+
+2.9
+2.9
+
+2.9
+2.9
+
+1.7
+1.9
+
+1999
+Population, mid-year(millions)
+GNP per capita (Atlas method, US$)
+GNP (Atlas method, US$ billions)
+
+Development
+dlamond*
+Life expectancy
+
+Average annual growth, 1993-99
+Population (Y.)
+Labor force (°X)
+
+Mostrecentestimate
+(latestyearavailable,1993-99)
+
+GNP
+per
+
+Gross
+
+capita
+
+Poverty(%of populationbelownationalpovertyline)
+Urbanpopulation
+(%of totalpopulation)
+Lifeexpectancy
+at birth(years)
+Infantmortality(per1,000Wivebirths)
+Childmalnutriton(%o
+of childrenunder5)
+Accessto safewater(%of population)
+Illiteracy(%ofpopulationage 15+)
+Grossprimaryenrollment(%ofschool-agepopulation)
+Mafe
+Female
+
+27
+48
+85
+31
+52
+28
+66
+67
+66
+
+33
+50
+92
+33
+43
+40
+78
+85
+71
+
+30
+63
+68
+36
+73
+31
+107
+112
+102
+
+1989
+
+1998
+
+1999
+
+4.8
+17.4
+10.6
+-2.7
+17.5
+
+7.7
+15
+18.2
+3.1
+2.9
+
+8.2
+14
+21.8
+2.6
+3.1
+
+14.4
+
+-4.7
+1.0
+122.6
+32.5
+
+-14.4
+0.5
+100.5
+13.4
+
+-15.1
+0.4
+88.3
+11.8
+
+i
+
+primary
+enrollment
+
+.
+
+Accessto safewater
+-
+
+Tanzania
+Low-income
+group
+
+KEYECONOMIC
+RATIOSandLONG-TERM
+TRENDS
+1979
+GDP (US$ billions)
+Gross domestic investmentIGDP
+Exports of goods and servicea/GDP
+Gross domeshc savingslGDP
+Gross national savings/GDP
+
+..
+
+Current account balance/GDF
+Interest paymentslGDP
+Total debtVGDP
+Total debt servicelexports
+
+..
+..
+..
+
+.
+..
+..
+..
+
+197949
+
+1989-99
+
+1998
+
+1999
+
+1999-03
+
+(average annual growth)
+GDP
+GNP per capita
+
+..
+..
+
+3.1
+0.6
+
+3.8
+0.7
+
+4.3
+3.2
+
+Exports of goods and services
+
+..
+
+9.5
+
+5.4
+3.0
+5.9
+
+-10.0
+
+7.3
+
+Economic ratos
+Trade
+
+i
+Domesticn
+SavigsA
+
+Investment
+
+Indebtedness
+Tanzania
+Low-income group
+
+STRUCTUREof the ECONCOMY
+(% of GDP)
+Agriculture
+Industry
+Manufacturing
+Services
+Private consumption
+General govemment consumption
+Imports of goods and services
+
+1989
+
+1998
+
+1999
+
+..
+..
+..
+
+52.4
+14.4
+8.1
+33.1
+
+45.7
+14.9
+7.2
+39.4
+
+44.4
+15.3
+7.2
+40.3
+
+..
+..
+..
+
+86.4
+16.3
+30.7
+
+82.4
+8.2
+24.7
+
+81.9
+10.6
+30.9
+
+-10
+
+197949
+
+1989-99
+
+1998
+
+1999
+
+Growth of exports and Imports (%)
+
+3.5
+2.6
+2.1
+2.5
+
+2.2
+8.5
+6.5
+3.6
+
+4.2
+7.6
+5.3
+2.4
+
+40
+30
+20
+
+2.8
+-6.5
+-0.3
+-1.2
+3.6
+
+0.9
+-13.3
+4.3
+-16.6
+3.4
+
+2.5
+0.2
+4.5
+2.4
+5.8
+
+-10
+
+(average annual growth)
+Agriculture
+Industry
+Manufacturing
+Services
+Private consumption
+Generalgovernmentconsurption
+Gross domestic investment
+Imports of goods and servio3s
+Gross national product
+
+Growth of Investmentand GOP (%i
+is
+10
+
+1979
+
+..
+
+..
+..
+
+_
+
+'
+
+s
+
+GDI
+
+-
+
+04
+
+9s
+
+* a
+
+GDP
+
+se
+
+-20
+.30
+Exports
+
+Imports
+
+Note: 1999 data are preliminaryestimates.
+'The diamonds show four key indicators in the country (in bold) comparedwith its Income-groupaverage.If data are missing, the diamondwill
+be incomplete.
+
+AnnexBI
+page2 of 2
+
+Tanzania
+PRICESand GOVERNMENTFINANCE
+1979
+DomesticpHces
+(% change)
+Consumerprices
+Implicit GDP deflator
+Government finance
+(% of GDP, includescurrent grants)
+Current revenuLe
+Overallsurplus/deficit
+
+1998
+
+1989
+
+InflationI%)
+
+1999
+
+40
+
+129
+
+25.8
+31.3
+
+12.8
+17.8
+
+7.8
+137
+
+20
+10
+
+Q,
+64
+
+.
+
+1
+12CPI0
+
+.
+
+-19
+
+'
+
+1.0
+
+4
+-03
+
+95
+
+De
+
+97
+
+to
+
+oil
+
+GOP deflator
+_____________PI
+
+TRADE
+Export andimport levels (US$mill.)
+
+1979
+
+1989
+
+1998
+
+.
+..
+.
+.
+..
+
+613
+
+.
+
+415
+103
+70
+89
+1,211
+81
+150
+443
+
+91
+68
+1,445
+84
+138
+551
+
+541
+98
+90
+84
+1,631
+89
+134
+629
+
+.
+.
+
+93
+200
+46
+
+110
+56
+197
+
+113
+46
+247
+
+1979
+
+1989
+
+1998
+
+1999
+
+686
+118
+-513
+
+538
+156
+-1,027
+
+1132
+217
+-1,045
+
+1163
+244
+-1,291
+
+-9
+
+-179
+
+-140
+61
+
+-39
+66
+
+Current account balance
+
+-521
+
+-223
+
+-1,155
+
+-1,296
+
+-20
+
+Financingitems (net)
+Changesin net reserves
+
+464
+57
+
+223
+0
+
+1,1B5
+-30
+
+1410
+-114
+
+-2s
+
+..
+
+119.4
+
+503
+842.5
+
+776
+683.1
+
+1979
+
+1989
+
+1998
+
+1999
+
+4,269
+168
+208
+
+5,854
+252
+1,016
+
+8653
+21
+2,451
+
+7220
+18
+2,453
+
+100
+16
+2
+
+177
+42
+12
+
+158
+24
+32
+
+144
+11
+39
+
+139
+71
+
+97
+26
+
+189
+-15
+
+459
+0
+
+(USS millions)
+Total exports(fob)
+Commodity1
+Commodity2
+Manufactures
+Total imports(ci)
+Food
+Fuel and energy
+Capital goodjs
+Exportpnceindoex(1995=100)
+Importprce irldex (1995=-100)
+Terms of trade (1995=100)
+
+111
+
+1999
+
+1s.o8
+
+1900
+1,400
+
+--
+
+12,03
+(
+
+t03
+SW
+eoo
+400
+200_
+93
+
+_
+
+_|
+
+94
+
+95
+
+LF
+
+96
+
+a Expots
+
+t
+
+97
+
+99
+
+*Imports
+
+BALANCE of PAYMENTS
+(US$ millions)
+Exports of goodsand services
+Importsof goodsand services
+Resourcebalance
+Net income
+Netcurrent transfers
+
+Meno:
+Reservesincludinggold (US$ millions)
+Conversionrate (DEC bhcalWSS)
+
+..
+
+CurrentaccountbalancetoGDP(%J
+
+.
+
+45
+
+40
+
+EXTERNALDEBT and RESOURCEFLOWS
+(US$millions)
+Total debt outstandng and disbursed
+IBRD
+IDA
+Total debt service
+IBRD
+IDA
+Compositionof net resourceflows
+Official grants
+Official crediors
+Private creditors
+
+1
+
+I
+Compositfon
+of 1999debt(USSmill.)
+836
+
+2858
+
+Foreigndirect investment
+Portfolioequity
+World Bank program
+Commitments
+
+-
+
+279
+633
+
+143
+
+Disbursements
+
+72
+
+Prncipal repayments
+Net flows
+Interest payments
+Net transfers
+
+4
+68
+15
+54
+
+DevelopmentEconomics
+
+18
+
+73
+
+150
+
+115
+
+183
+
+..
+459
+
+28
+87
+26
+61
+
+36
+147
+20
+127
+
+30
+430
+20
+410
+
+A-IBRD
+B-IDA
+C - IMF
+
+D-Othermutilateral
+
+E-Bibterai
+F-Prhate
+G - ShoSt-terlm
+
+Annex B2'
+
+Tanzania: Selected Indicators of Bank Portfolio Performance and Management
+Indicator
+Porfolio Assessment
+Number of Projects Under Imnplementation
+a
+Average Implementation
+Period (years)b
+Percent of Problem Projects by Number 4 ¢
+Percent of Problem Projects by Amount
+4"
+Percent of Projects at Risk by Number 4 d
+Percent of Projects at Risk by Amount d
+Disbursement Ratio (%)e
+Portfolio Management
+CPPR during the year (yes/no)
+SupervisionResources (total US$ million)
+Average Supervision (US$/project)
+
+Memorandum
+Item
+Proj Eval by OED by Number
+Proj Evalby OED)by Amt (US$ millions)
+% of OED Projects Rated U or HUby Number
+% of OED Projects Rated U or HUby Amt
+
+1997
+
+1998
+
+1999
+
+2000
+
+21
+4.24
+23.81
+52.22
+52.38
+71.99
+17.85
+
+21
+4.46
+23.81
+49.07
+28.57
+54.81
+15.02
+
+18
+4.73
+2.92
+11.11
+9.9
+19.82
+
+22
+4.57
+13.64
+11.1
+13.64
+11.1
+29.4
+
+no
+3.78
+180,000
+
+yes
+4.5
+214,000
+
+no
+3.23
+181,000
+
+yes
+3.7
+170,000
+
+SinceFY 80
+
+Last Five FYs
+
+71
+1891.19
+50.7
+43.1
+
+7
+110.75
+14.29
+14.99
+
+a. As shown in the Annual Report on Portfolio Performance (except for current FY).
+b. Average age of projects in the Banks country potlfolio.
+c. Percent of projects; rated U or HU on development objectives (DO) and/or implementation
+
+progress (IP).
+
+d. As defined under the Portfolio Improvement Program.
+e. Ratio of disbursemnents during the year to the undisbursed balance of the Bank's portfolio at the
+beginning of the year: Investment projects only. Annualized as of April 2000.
+
+5.56
+
+Tanzania:
+
+Bank Group Program Summary
+
+Annex B3
+page 1 of 2
+
+Proposed IBRD/IDA Base-Case Lending Program
+Fiscal year
+2001
+
+2002
+
+2003
+
+a
+
+USS(fM)
+
+Strategic Rewards b
+(HIMIL)
+
+Implementation b
+Risks (HIfML)
+
+Primary Education APL
+
+100.0
+
+H
+
+H
+
+DAR WATER SUPPLY
+
+45.0
+
+M
+
+H
+
+Regional Trade Fac. Proj.
+
+10.0
+
+H
+
+H
+
+TASAF
+
+50.0
+
+H
+
+H
+
+Rural Water LIL
+
+5.0
+
+H
+
+M
+
+Project
+
+Sub-Total
+
+210.0
+
+Songo Songo
+
+170.0
+
+H
+
+H
+
+Account./Governance
+
+40.0
+
+H
+
+H
+
+Soil Fert. Recap.
+
+20.0
+
+H
+
+M
+
+Forest Conservat.
+
+50.0
+
+M
+
+M
+
+HIV/AIDS
+
+20.0
+
+H
+
+H
+
+Total
+
+300.0
+
+Roads Rehabilitatien
+
+80.0
+
+H
+
+H
+
+Education Ration.
+
+30.0
+
+M
+
+H
+
+Lake Victoria 11
+
+30.0
+
+M
+
+M
+
+PSAC II
+
+100.0
+
+H
+
+H
+
+Local Govt. Capac.
+
+40.0
+
+H
+
+H
+
+Total
+
+280.0
+
+Total Base Case (2001-2003)
+
+790.0
+
+H
+
+H
+
+High-case Lending Program (in addition to the Base-case)
+
+2003
+
+PERC - Poverty/RuiralDevelop/Environ
+
+Total High-case (2001-2003)
+
+200.0
+
+990
+
+a. This table presents the proposed program for the next three fiscal years.
+b. For each project, indicate whether the strategic rewards and implementationrisks are expected to be high (H), moderate
+(M), or low (L).
+
+Annex B3
+page 2 of 2
+Tanzania: IFC and MIGA Program, FY 1997-2000
+1997 1998 1999 2000
+IFC approvals (US$m)
+
+6.70
+
+20.30
+
+2.80
+
+40.27
+
+Sector (%/6)
+FINANCIALSERVICES
+
+I
+16
+
+FOOD& AGRO-BUSINESS
+
+84
+
+HOTELS & TOURISM
+INFRASTRUCTURE
+TEXTILES
+Total
+
+100
+
+41
+
+100
+
+59
+100
+
+101
+
+100
+
+100
+
+100
+
+75
+
+Investment instrument(%)
+Loans
+
+92
+
+Equity
+
+8
+
+100
+
+100
+
+100
+
+100
+
+100
+
+0.430
+
+0.430
+
+4.167
+
+4.167
+
+25
+
+Quasi-Equity
+Other
+Total
+MIGA guarantees (US5m)
+
+Annex B4
+
+Tanzania: Summary of Nonlending Services
+Product
+
+Underway
+
+Conpletion FY
+
+Cost (USS000)
+
+Audience'
+
+Objectiveb
+
+2001
+
+Activities for PRSP
+
+50
+
+PER
+
+175
+
+Donors, Gov't, Bank, Public
+Donors, Gov't, Bank, Public
+
+Knowledge generation, problem solving, public debate
+Knowledge generation, problem solving
+
+FinancialSector
+
+30
+
+Donors, Gov't, Bank
+
+Private Sector Profile
+
+75
+
+Donors, Gov't, Bank, Public
+
+Knowledge generation, problem solving
+Knowledge generation, problem solving
+
+Tanzania - Integration in Regional& Global Markets
+Poverty Monitoring and Analysis
+
+100
+175
+
+Donors, Gov't, Bank, Public
+Donors, Gov't, Bank, Public
+
+Knowledge generation, problem solving
+Knowledge generation, problem solving, public debate
+
+Consultative Group
+
+115
+
+Donors, Gov't, Bank, Public
+
+CPPR
+
+110
+
+Govt, Bank
+
+Knowledge generation, donor coordination
+Knowledge generation, problem solving
+
+Rural DevelopmentStrategy
+
+175
+
+Accountability/Transparency
+
+175
+
+Donors, Gov't, Bank, Public
+Donors, Gov't, Bank, Public
+
+Knowledge generation, problem solving
+Knowledge generation, donor coordination
+
+PER
+
+175
+
+ConsultativeGroup
+
+115
+
+Donors, Gov't, Bank, Public
+Donors, Gov't, Bank, Public
+
+Knowledge generation, problem solving
+Knowledge generation, donor coordination
+
+Fiscal Decentralization
+
+175
+
+PovertyAssessment
+
+200
+
+Donors, Gov't, Bank, Public
+Donors, Gov't, Bank, Public
+
+Knowledge generation, problem solving, public debate
+Knowledge generation, problem solving, public debate
+
+110
+
+Gov't, Bank
+
+PER
+
+200
+
+Knowledge generation, problem solving
+Knowledge generation, problem solving
+
+ConsultativeGroup
+
+125
+
+Donors, Gov't, Bank, Public
+Donors, Gov't, Bank, Public
+
+Planned
+
+Planned
+CPPR
+
+a. Government,donor, Bank, public dissemination.
+b. Knowledgegeneration, public debate, problem-solving.
+
+2002
+
+2003
+
+Knowledge generation, donor coordination
+
+Annex B5
+
+Tanzania Social Indicators
+Latest single year
+
+Same regionlincome group
+
+1970-75
+
+1980-85
+
+1993-98
+
+SubSaharan
+Africa
+
+15.9
+3.0
+10.1
+6.8
+
+21.8
+3.2
+17.6
+6.7
+
+32.1
+2.9
+30.5
+5.4
+
+627.3
+2.2
+33.3
+5.4
+
+3,536.4
+1.4
+30.5
+3.1
+
+510
+128
+
+520
+136
+
+1.5
+4.1
+
+1.3
+3.2
+
+..
+..
+
+86
+89
+82
+
+POPULATION
+Total population, mid-year (millions)
+Growth rate (% annual average)
+Urban population (% of population)
+Total fertility rate (births per woman)
+POVERTY
+(% ofpopulation)
+National headcount index
+INCOME
+GNP per capita (US$)
+Consumer price index (1995=100)
+Food price index (1995=100)
+INCOME/CONSUMPTION DISTRIBUTION
+Gini index
+Lowest quintile (% of income or consumption)
+Highest quintile (% of income or consumption)
+SOCIAL INDICATORS
+Public expenditure
+Health (% of GDP)
+Education (% of GNP)
+Net primary school enrollment rate
+(% of age group)
+
+Total
+Male
+Female
+Access to safe water
+(°%ofpopulation)
+Total
+Urban
+Rural
+Immunization rate
+(9l under 12 months)
+Measles
+DPT
+Child malnutrition (% under 5 years)
+Life expectancy at birth
+(vears)
+Total
+Male
+Female
+Mortality
+Infant (per thousand live births)
+Under 5 (per thousand live births)
+Adult (15-59)
+Male (per 1,000 population)
+Female (per 1,000 population)
+Matemal (per 100,000 live births)
+2000 World Development Indicators CD-ROM, World Bank
+
+..
+
+..
+
+..
+
+..
+
+1
+
+8
+10
+
+240
+158
+162
+
+..
+
+..
+
+38.2
+
+5.0
+53.0
+
+..
+
+6.8
+45.5
+
+..
+
+1.3
+
+Lowincome
+
+..
+
+.1
+
+..
+
+..
+
+..
+
+..
+
+56
+55
+56
+
+48
+48
+49
+
+..
+..
+
+52
+85
+47
+
+52
+68
+49
+
+..
+..
+
+66
+67
+
+58
+53
+
+80
+82
+
+..
+
+..
+
+69
+74
+31
+
+46
+45
+48
+
+51
+49
+53
+
+48
+47
+48
+
+50
+49
+52
+
+63
+62
+64
+
+125
+218
+
+102
+166
+
+85
+136
+
+92
+151
+
+68
+92
+
+513
+419
+
+451
+370
+
+521
+482
+530
+
+432
+383
+
+235
+208
+
+..
+..
+
+..
+
+..
+
+..
+
+AnnexB6
+pagel of 2
+
+Tanzania - Key Economic Indicators
+
+National accounts (as % of GDP) (Fiscal Year)
+Gross domestic product'
+Agriculture
+Industry
+Services
+
+100
+46
+15
+39
+
+100
+48
+14
+38
+
+100
+47
+14
+38
+
+100
+46
+15
+39
+
+100
+44
+15
+40
+
+100
+43
+16
+41
+
+100
+43
+16
+41
+
+100
+42
+16
+42
+
+Total Consumption
+Gross domestic fixed investment
+Govemment investment
+Private investment
+(includes increase in stocks)
+Exports (GNFS)b
+Imports (GNFS)
+
+98
+22
+3.2
+19
+
+96
+18
+3.6
+14
+
+95
+16
+2.6
+13
+
+91
+15
+3.6
+11
+
+93
+14
+3
+12
+
+94
+17
+4.1
+13
+
+95
+19
+4.3
+14
+
+95
+21
+4.4
+15
+
+23
+42
+
+22
+36
+
+18
+28
+
+18
+25
+
+22
+31
+
+25
+36
+
+27
+39
+
+28
+42
+
+Gross domestic savings
+Gross national savingsc
+
+2.0
+-0.3
+
+3.6
+2.0
+
+5.4
+4.3
+
+3.1
+2.9
+
+2.6
+3.1
+
+3.1
+3.3
+
+4.6
+5.0
+
+5.8
+6.1
+
+4627
+
+5852
+
+6920
+
+7775
+
+8228
+
+8816
+
+9732
+
+10642
+
+160
+
+160
+
+190
+
+210
+
+240
+
+270
+
+280
+
+300
+
+Real annual growth rates (%, calculated from 1992 prices)
+Gross domestic product at marketprices
+2.6
+3.2
+Gross Domestic Income
+
+4.3
+4.0
+
+4.0
+3.0
+
+3.8
+5.4
+
+4.3
+3.1
+
+5
+4.5
+
+5.4
+5.2
+
+6
+5.6
+
+Real annual per capita growtb rates (%, calculated from 1992 prices)
+1.4
+Gross domestic product at market prices
+-0.4
+-0.1
+-2.2
+Total consumption *
+-0.6
+2.4
+Private consumption
+
+1.2
+-2.1
+0.5
+
+0.9
+-3.1
+-1.6
+
+1.5
+-0.2
+0.0
+
+2.2
+2.4
+2.4
+
+2.6
+3.0
+2.9
+
+3.2
+3.5
+3.5
+
+Balance of Payments (US$ Mdil) (Fiscal Year)
+Exports (GNFS)b
+Merchandise FOB
+Imports (GNFS)b
+Merchandise FOB
+Resource balance
+Current account balance (before grants)
+Current account balance (after grants)
+
+1163 1213
+541
+552
+2454 2617
+1631 1748
+-1291 -1404
+-1296 -1400
+-559 -604
+
+1377
+652
+2850
+1907
+-1474
+-1463
+-685
+
+1602
+814
+3141
+2121
+-1539
+-1523
+-737
+
+Memorandum items
+Gross domestic product
+(US$ million at current prices)
+GNP per capita (US$, Atlas method)
+
+Net private foreign direct investment
+Change in reservesd
+Memorandum items
+Resource balance (% of GDP)
+
+1089
+593
+2029
+1510
+-940
+-1047
+-522
+
+1142
+696
+1986
+1370
+-844
+-942
+-361
+
+1274
+794
+2040
+1388
+-767
+-842
+-152
+
+1132
+613
+2177
+1445
+-1045
+-1155
+-486
+
+104
+-46
+
+134
+-81
+
+150
+-208
+
+165
+-30
+
+183
+-114
+
+201
+-49
+
+221
+-18
+
+244
+-73
+
+-20%
+
+-14%
+
+-11%
+
+-13%
+
+-12%
+
+-13%
+
+- 13%
+
+-12%
+
+Annex B6
+page2 of 2
+
+Tanzania - Key Economic Indicators
+(Continued)
+
+(Fiscal Year)
+Public finance (as % of GDP at market prices)e
+Total revenues
+12.5
+Current expenditures
+15.1
+Capital expenditure (includesnet lending)
+3.2
+Balance (before grants)
+-5.8
+Balance (after grants)
+-2.7
+
+13.2
+14.0
+3.6
+-4.4
+-0.8
+
+13.5
+12.5
+2.6
+-1.6
+1.0
+
+12.0
+11.0
+3.8
+-2.8
+1.0
+
+12.4
+13.1
+3.8
+-4.5
+-0.3
+
+12.6
+13.4
+4.6
+-5.4
+-0.7
+
+12.8
+13.5
+4.5
+-5.3
+-0.5
+
+13.0
+13.5
+4.5
+-5.0
+-0.2
+
+24.3
+37.7
+0.6
+
+24.1
+26.4
+-205.3
+
+21.9
+13.3
+224.9
+
+19.9
+10.8
+244.8
+
+19.9 18.7
+18.5 8.4
+155.4 271.1
+
+16.0
+9.2
+40.4
+
+16.4
+14.0
+180.1
+
+Price indices( YR92 =100)
+Merchandise export price index
+Merchandise import price index
+Merchandise terms of trade index
+
+110
+56
+197
+
+113
+46
+247
+
+116
+38
+310
+
+120
+31
+388
+
+124
+25
+486
+
+108
+107
+101
+
+110
+
+Real exchange rate (US$/LCU)f
+
+97.7
+
+118.3
+
+125.6
+
+135.5 135.5 120.6
+
+121.8
+
+121.8
+
+Consumer price index (%change)
+GDP deflator (% change)
+
+28.0
+28.9
+
+21.0
+22.3
+
+16.1
+20.0
+
+12.8
+17.8
+
+4.1
+6.6
+
+4.0
+5.1
+
+Monetary indicators
+M2/GDP
+Growth of M2 (%/6)
+Private sector credit growth/
+total credit growth (%)
+
+a.
+b.
+c.
+d.
+e.
+f.
+
+7.8
+13.7
+
+108
+106
+101
+
+5.2
+9.0
+
+[10
+100
+
+GDP at factor cost
+"GNFS" denotes "goods and nonfactor services."
+Includes net unrequitedtransfers excluding official capital grants.
+Includes use of IMF resources.
+Consolidated central govermnent.
+"LCU" denotes "local currency units." An increase in US$/LCU denotes appreciation.
+
+* Total Consumption(Govt+ Private) where the share of GovernmentConsumptionis about 10%-8%average.
+from 1995-2002.
+
+Annex B7
+
+Tanzania: Key Exposure Indicators
+
+7446
+
+7412
+
+7177
+
+8653
+
+7220
+
+6800
+
+6590
+
+6500
+
+Net disbursements(TJS$m)a
+
+95
+
+149
+
+239
+
+192
+
+439
+
+459
+
+471
+
+482
+
+Total debt service (TDS)
+
+232
+
+269
+
+158
+
+158
+
+144
+
+94.2
+
+91.1
+
+8l.0
+
+TDO/XGSb
+
+674.4
+
+634.6
+
+546.5
+
+663.9
+
+598.7
+
+599.0
+
+522.8
+
+446.2
+
+TDO/GDP
+
+160.9
+
+127.3
+
+104.3
+
+100.5
+
+88.3
+
+85.9
+
+76.9
+
+69.6
+
+TDS/XGS
+
+21.0
+
+23.0
+
+12.0
+
+13.4
+
+11.9
+
+18.6
+
+10.7
+
+8.5
+
+IBRDDS/public DS
+
+18.9
+
+12.4
+
+16.4
+
+16.4
+
+7.8
+
+0.0
+
+0.0
+
+0.0
+
+Preferred creditor DS/public
+
+69.9
+
+55.0
+
+87.9
+
+87.9
+
+97.7
+
+43.8
+
+39.7
+
+28.5
+
+IBRD DS/XGS
+
+3.8
+
+2.8
+
+1.8
+
+2.0
+
+0.9
+
+0.0
+
+0.0
+
+0.0
+
+IBRD TDO (TJS$m)d
+
+87
+
+56
+
+34
+
+21
+
+18
+
+11
+
+7
+
+5
+
+2182
+
+2242
+
+2306
+
+2451
+
+2453
+
+2864
+
+2836
+
+2813
+
+Total debt outstanding and
+disbursed (TDO) (US$m)a
+
+(US$m)a
+
+Debt and debt service indicators
+(M)
+
+IBRD exposure indicators (%)
+
+DS (%)
+
+IDATDO(US$m)d
+
+a. Includes public and publicly guaranteed debt, private nonguaranteed, use of IMF credits and net shortterm capital.
+b. "XGS" denotes exports of goods and services, including workers' remittances.
+d. Includes present value of guarantees.
+e. Includes equity and quasi-equity types of both loan and equityinstruments.
+
+AnnexB8
+Tanzania:
+Closed
+
+Projects
+
+Status of Bank Group Operations (Operations
+
+page 1 of 2
+
+Portfolio)
+
+117
+Difference Between
+Expected and Actual
+
+Last PSR
+
+Board Date
+Fiscal Year
+
+IDA
+
+Cancel.
+
+Undisb.
+
+Orig.
+
+0
+
+37
+
+0
+
+6.87
+
+2.41
+
+0
+
+0
+
+44
+
+0
+
+7.78
+
+4.33
+
+4.02
+
+0
+
+76
+
+11.26
+
+17.88
+
+24.24
+
+3.54
+
+0
+
+20
+
+0.71
+
+2.56
+
+1.3
+
+0.49
+
+11.53
+
+Active Projects
+
+1990
+
+P002184
+
+S
+
+1991
+
+P002786
+
+PORTS MODERNIZATION
+PETROLREHAB
+
+S
+
+S
+
+RAILWAYSRESTRUCTURI
+
+S
+
+S
+
+FIN.&LEGALMGTPROJ
+POWER VI
+PRIV. PUB. SECT. MGT
+
+S
+
+S
+
+S
+S
+
+S
+
+U
+
+P002157
+
+1993
+
+P002817
+
+1993
+1993
+
+P002756
+
+1993
+
+P002788
+P002780
+
+1994
+
+P002801
+
+TELECOM11
+AgricultureSectorManagement Project
+
+1994
+1995
+
+P002770
+P002812
+P002758
+
+1996
+1997
+1997
+
+P046837
+
+1997
+
+P002753
+P038570
+
+1997
+
+P002821
+
+1998
+199S
+
+P002804
+P002789
+
+S
+
+200
+34.9
+
+0
+
+S
+
+0
+0
+
+25.89
+
+0
+
+2.14
+
+0.47
+
+0
+0
+
+S
+
+0
+
+74.45
+
+0
+
+8.93
+
+7.26
+
+7.18
+
+4.22
+148.91
+
+5.85
+138.06
+
+0
+155.2
+
+ROADS n
+
+S
+s
+
+S
+s
+
+0
+0
+
+24.5
+170.2
+
+2.35
+0
+
+S
+
+12.5
+105
+
+3.39
+
+S
+
+0
+0
+
+0
+0
+
+54.11
+
+1.73
+5.76
+
+URBANSECTORREHAB
+LAKE VICTORIAENV.
+National AgricultureExtensionProjectn,(NAEP H)
+
+S
+S
+
+0
+
+MINERALSECTORDEV.
+
+S
+
+S
+
+0
+
+10.1
+
+0
+
+6.63
+
+1.79
+
+0
+
+U
+S
+
+U
+S
+
+0
+0
+
+31.1
+26.3
+
+0
+0
+
+16.46
+18.66
+
+8
+5.72
+
+0
+0
+
+S
+
+S
+
+0
+
+134.1
+
+0
+
+18.95
+
+13.59
+
+16.07
+
+StructuralAdjustmentCredit(SACI)
+National AgricultureResearch Project II (NARP II)
+Human Resources Development I
+
+S
+S
+
+S
+
+0
+
+21.8
+
+19.88
+
+1.3
+
+12.69
+
+1.99
+
+0
+0
+
+S
+
+RIVER BASINMGM.SMAL
+
+2000
+
+P047761
+P057187
+
+2000
+
+P049838
+
+Tax AdministrationProject(TAP)
+FIDPI
+Privatization &Private SectorReform Project (PPSR)
+
+2000
+
+P060833
+
+PublicSectorReform Program(PRSRP)
+
+2000
+
+P050441
+
+RURAL&MICROFIN SERVICEPROJECT
+
+1999
+
+S
+
+IBRD
+
+U
+
+0
+
+20.9
+
+S
+S
+
+0
+0
+
+40
+
+0
+0
+
+39.01
+28.7
+
+2.82
+5.5
+
+0
+
+27.5
+
+0
+
+0
+
+IDA
+
+TOTAL
+
+361,030,400
+5,477,943
+
+3,302,156,395
+141,463,032
+
+3,663,186,795
+146,940,975
+
+Disbursed:
+Undisbursed:
+
+355,552,457
+0
+
+2,740,559,746
+484,645,525
+
+3,096,112,203
+484,645,525
+
+Repaid:
+
+342,233,982
+
+154,616,532
+
+496,850,514
+
+13,228,474
+
+2,577,032,700
+
+441,526
+
+2,563,804,226
+0
+
+13,670,000
+
+2,563,804,226
+
+2,577,474,226
+
+90,000
+90,000
+
+6,200,000
+6,200,000
+
+6,290,000
+6,290,000
+
+Sold 3rd Party:
+Repaid 3rd Party:
+
+* Intended disbursements to date minus actual disbursements to date as projected at appraisal.
+
+441,526
+
+0
+
+0
+
+45.9
+
+0
+
+0
+
+0
+
+41.2
+
+0
+
+38.98
+
+0
+
+0
+
+2
+
+0
+
+2
+
+0.45
+
+0
+
+1199.45
+
+14.32
+
+484.64
+
+244.1
+
+186.5
+
+0
+
+Original Principal:
+Cancellations:
+
+Exchange Adjustment:
+Borrowers Obligation:
+
+0
+
+0
+0
+
+S
+
+S
+
+Grand Total
+
+Due:
+
+Frm Rev'd'
+
+IBRD
+Develooment
+Prnt,ress
+~~ObietctivesR
+~ Implementation
+~~~~~~~~~~~
+
+Active Projects
+
+1991
+
+Disbursements
+
+Ori2inal Amount in USS Millions
+
+Supervision Rating
+
+AnnexB8
+Tanzania: Statement of IFC's
+Held and Disbursed Portfolio
+As of 04/30/00
+(In US Dollars Millions)
+
+page 2 of 2
+
+Held
+FY Approval
+1996/99
+1997
+1998
+1996
+1998
+1997
+1995
+1998
+1996
+1994
+1999
+1994
+1997/99
+1994
+1995
+1993/96
+1996
+1997
+1994
+1996
+1991
+1989
+1993
+1991/97
+1994
+1998
+1994
+
+Company
+Loan
+AEF A&KTanzania
+AEF AquvaGinner
+AEF Blue Bay
+AEF Contiflora
+AEF Drop Zanziba
+AEF Hort. Farms
+AEFMIC Tanzania
+AEF Maji Masafi
+AEF Milcafe
+AEFMoshiLthr
+AEF MusomaFish
+AEF Nomad Safari
+AEF Pallsons
+AEF Raffia Bags
+AEF Tanbreed
+AEF Tanganyika
+AEF Zainab Grain
+DATEL
+EurafricanBank
+IHP
+Mufindi Tea
+TASCO
+TPS (Tanzania)
+TPS Zanzibar
+TanzaniaBrewery
+TanzaniaJubilee
+ULC Leasing
+
+Total Portfolio:
+
+Disbursed
+
+Equity
+Quasi Partic Loan Equity Quasi Partic
+0.3
+0
+0
+0
+0.3
+0
+0
+0
+0.68
+0
+0
+0 0.68
+0
+0
+0
+1.5
+0
+0
+0
+1.5
+0
+0
+0
+0.35
+0
+0
+0 0.35
+0
+0
+0
+0.32
+0
+0
+0 0.32
+0
+0
+0
+0.5
+0
+0
+0
+0.5
+0
+0
+a
+0.2
+0
+0
+0
+0.2
+0
+0
+C
+I
+0
+0
+0
+1
+0
+0
+a
+0.18
+0
+0
+0 0.18
+0
+0
+C
+0
+0.19
+0
+0
+0 0.19
+0
+C
+1.5
+0
+0
+0
+0
+0
+0
+0
+0.03
+0
+0
+0 0.03
+0
+0
+C
+0.73
+0
+0
+0 0.45
+0
+0
+0
+0.29
+0
+0
+0 0.29
+0
+0
+0
+0.7
+0
+0
+0
+0.7
+0
+0
+0
+0.13
+0
+0
+0 0.13
+0
+0
+0
+0.77
+0
+0
+0 0.77
+0
+0
+0
+2.25
+0.51
+0
+0
+1.35 0.48
+0
+0
+0
+0.73
+0
+0
+0 0.73
+0
+0
+1.3
+0.6
+0
+0
+1.3
+0.6
+0
+()
+0.43
+0
+0
+0 0.43
+0
+0
+0
+0.88
+0
+0
+0 0.88
+0
+0
+0
+7
+0.87 1.04
+0
+7 0.87 1.04
+0)
+0.93
+0.2 0.2
+0 0.93
+0.2
+0.1
+0
+0
+6
+0
+0
+0
+6
+0
+0)
+0
+0.29
+0
+0
+0 0.29
+0
+0
+1.13
+0.95
+0
+0
+1.5 0.76
+0
+0
+23.1
+
+10.34 1.24
+
+0 20.79 10.12 1.14
+
+Approvals Pending Commitment
+Loan
+1999
+2000
+1999
+1998
+1998
+2000
+2000
+2000
+
+AEF Arusha
+AEF Drop II
+AEF Moun Village
+AEF Neptune Flwr
+NBC
+AEFZan Safari
+IOH
+NBC
+Total Pending Commitment:
+
+Equity
+1.5
+0.2
+0.9
+0.4
+0
+0.7
+2.5
+30
+36.2
+
+Quasi Partic
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+20
+0
+0
+0
+0
+0
+0
+0
+0
+10.07
+0
+0
+30.07
+0
+0
+
+IT
+
+AnnexB9
+page 1 of 7
+
+Tanzania CAS: Framework for Country Program
+.
+
+Development
+Objectives/lssues
+|
+Focuson Poverty
+Alleviation& tirowth
+Makepoverty
+eradicationacentral
+focusof development
+strategy,
+
+Improve
+informationon
+povertyand
+improve
+statisticscapacity
+forbetter
+monitoringand
+analysisof
+developmentand
+povertydata
+
+Diagnosis
+Over50%of populationor
+i8 millionis poor;3' oot
+populationlive in abject
+poverty
+a Povertyis mainlya rural
+phenomenon(61%of rural
+populationis poor)
+
+Limitedand poorqualityof
+dataon poverty
+povertydata/
+a Comparadve
+trendsnot available
+.
+
+HouseholdBudgetSurvey&
+a Implement
+n
+
+a
+
+.
+
+Ensurecontinued
+
+* Progressin fiscalreform
+needsfurtherbroadening,
+especiallyin expenditure
+management
+
+a
+
+.
+a
+
+laborsurvey
+analysisofbasichousehold
+Preliminary
+data,includingpovertylines,povertyand
+sociaiindicators(bygender,regionand
+socioeconomiccharacteristics)
+Agreementon amonitoringsystemfor
+trackingchangesin: i) incomepoverty,ii)
+needs
+socialindicatorsandiii) community
+Defineinstitutionalrolesin collection,
+analysisandmonitoringofpoverty
+informadon
+of
+establishmnent
+MTEF2001/2-03104:
+budgetary
+inter-sectoralandintra-sectoral
+allocationsin the recurrentand
+budgetaccordingto poverty
+development
+priorides.
+Adoptanual budget,incorporating
+povertyprioritiesin the agriculture,
+education,health,ruralroadsand water
+supplysectors
+stance& reduce
+Maintainanti-inflation
+inflationaround4%
+Improveandstabilizefiscalperformance
+Prioritizedevelopmentexpenditues
+amongand withinsectorsandensue their
+consistencywiththeMTEF
+
+Allkeymuld-lateralsandbilateralsengagedin policydialogueand povertyeradicationinitiatives.
+UpgradingProject(FILMUP),2000
+PinancialInstitudonsandLegalManagement
+NationalAgricultureExtensionProject(NAEP11),1997
+NadonalAgricultureResearchProject(NARP11),1997
+PovertyReducdonStrategyPaper(PRSP),2000
+and PrvateSectorReformProgram(PPSR),2000
+Pdivadzadon
+StructuralAdjustmentCredit,I and 11(PSACI and 11),2000
+Programmatic
+PublicSectorReformProgram(PRSP),2000
+ServicesProject,2000
+Rual andMicrofinance
+Project(TAP),1999
+TaxAdministradon
+
+for the
+
+I
+* Policydialogue
+Allkeynulti-lateraland bilateral
+PSAC!
+I
+d.n.rgn.dNC-Os9.e i.lemtntino
+* Rural Development
+generation,
+income
+programs(e.g.
+Strategy
+capacity building,community
+* MediumTerm
+initiatives,infrastructureandsocial
+Expenditure
+sectorinterventions)to support
+Framework(MTEF)I
+Tan;ania'spovertyeradication
+PublicExpenditure
+objectives.Thelargerdonorsare also
+Review(PER)
+activelyengagedin policydialogue
+* PovertyMonitoring
+
+Poor
+Officialstatisticsand
+:e
+p.uci* PRSPcompleted
+includingdatabaseon
+povertyandbaseline
+povertyline and
+incidenceanalysis
+a Povertymonitoring
+indicators
+*Rural Develop.Strategy
+
+1*
+
+* ResultsofHouseholdBudgetSurveyby2001
+* Approvedoperationalpovertymonitoring
+indicatorsandsurveymethods
+. Pilot laborsurvey
+
+* Completionof
+HouseholdBudget
+Surveyandlaborsurvey
+of
+a Presentation
+preliminaryanalysison
+povertyandof
+monitoringsystem
+
+.
+.
+
+.
+
+AdoptionofMTEFFYOI-03 thatadheresto
+in line wilh thePSRP
+prioritization
+. Adoptionof budget2001/02in linewith
+MTEFprioridesandconductingannual
+publicexpenditurereviewsto confirm
+adherenceto set priorities
+
+a Publicexpenditure
+
+a Allkey donorsfullyengagedin
+
+MeetPovertyReduction& GrowthFacility
+(PRGF)/PRSPconditions,
+Replacecashmanagementsystemwith
+basedon
+efficientexpendituremanagement
+the budgetandspendingpriorities.
+oftheIntegrated
+a. Fullimplementation
+
+a PER& MTEF
+
+.
+
+T
+
+reviews& MTEF
+
+. IFMSrecords
+* PublicFinanceMgment
+& PublicAuditBills
+approved
+* TreasuryMinutes(in
+
+Bank Group
+2
+Instruments
+
+Partner Programs'
+
+MeasurementTools
+
+Adjustment/Benchmark
+
+1
+
+a
+
+SoundMacro
+Framework&
+ImprovedFiscal
+Performance
+
+|
+
+Creating Higher Growth and Economic Opportunities
+* Reductionin povertyincidence,especiallyin
+ofa PovertyReduction
+implementation
+jcs
+u-au sn- , 0,6S6twf. W h .it ob..,
+argess
+StrategyrPaper(fRSPj)iodessne
+. Increasein GDPpercapitagrowthrate from
+and measuresaimedat improving
+2002-03.
+1.3%(1997-99)to about3%in
+for the poor,build
+economicopportunities
+stabilityand
+of macroeconomic
+* Maintenance
+humancapitaland empowerthepoor.
+of
+of full complement
+implementation
+of a ruraldevelopment
+a Preparation
+structwralandsocialsectorreforms
+strategyto articulatea cohesiveprogram
+ofactionforaddressingpovertyin rural
+areas
+
+a
+
+Shiftbudget
+resourcestowards
+acdividesbenefiting
+thepoor
+
+,Z|
+Strategy/Actions
+
+1
+
+Activities for PRSP
+PERC
+
+/ EU
+UiK/UNDP
+Otherlargerbilaterals
+
+PER/MTEFprocess
+
+* IMFProgram
+* AfDB/EU:StructuralAdjustmsent
+a Key donorsengagedin regular
+dialogue
+
+* Policydialogue
+* HIPC
+* Activitiesfor PRSP
+a PovertyAssessment
+
+. Policydialogue
+* FILMUP
+* MTEF/PER
+a HIPC
+* Acdvidesfor PRSP
+* PERC
+
+. Policydialogue
+* TAP
+. MTEF/PER
+a PSACI
+
+//
+
+Annex B9
+page 2 of 7
+
+Development
+Objectives/ssues
+
+Diagnosis
+
+response to audits)
+
+Financial Management System (IFMS)
+
+macroeconomic
+stability.
+
+B ank Group
+Instruments'
+
+Partner Programs
+
+Measurement Tools
+
+Adjustment/Benchmark
+
+Strategy/Actions
+
+Improve expenditure
+mwangement
+* StrengthenRevenueAuthority andexpand
+tax base
+
+Improve tax regime:
+Modemize tax
+administration,
+rationalizetax regime
+andcontaintax evasion
+
+*
+*
+*
+*
+
+*
+
+Addressissuesof
+heavyexternaldebt
+burdenandhigh
+interestpaymentson
+domesdcdebt.
+Environmentally
+SustainableRural
+Development
+Promotesustainable
+rural growth and
+reducepoverty
+incidencein rural areas
+
+Improved smallholder
+productvity
+
+t
+
+Radonalizeimport taxes
+Simplify tariff structureandreduce
+protection
+* Harmonizetaxeswithin the EAC
+
+*
+
+Maintain multilateral debt fund
+Maintain macroeconomicstability and
+implementstructuraland social sector
+refonmswith a view to reachingthe
+completionpoint under the HIPC
+Initiative
+. Promoteprivatesectorinvestmentsin the
+ntral sector;greaterenvironmental
+protection;improved linkageswith urban
+areas;md strengtheningrelevant
+institutions.
+* Strengthenfanmer-driven researchand
+extension.
+. Implementland policy to enhanceaccess.
+* Strengthenagriculturalexports
+
+*
+
+.
+*
+
+Review tax policy to
+reducetrade taxesand
+removenuisancetaxes
+at various levels of
+government
+.
+
+Unsustainableexternaldebt
+burden
+
+Average3% agricultural
+growth in 1989-99below
+potential.
+* Subsistence,rainfed
+farming; low productivity;
+weak(input-market)links.
+
+.
+
+*
+
+80% (majority) of farmcrs
+are subsistence farmers with
+average holding size of less
+than I ha.
+
+*
+
+*
+
+Establisha Unified Taxappealsmechanism.
+Implementguidelineson the rationalizationof
+local taxesandfees
+Review remainingstatutoryexemptions(inel.
+NGOs & GOT) to reducethem.
+Introduceuniquetaxpayeridentification
+numbers(TIN) for administration/
+registration.
+Abolish withholdingtan on goodsand
+services& limit other taxesand leviesto
+import duty, product-specificexcises,the
+Energy Fund andthe RoadToll; reduce
+number of excisesto 6
+Reducetariff barriers& establishcustoms
+union in line with EastAfrican Cooperation
+guidelines
+Radonalizeother customs/export-import
+duties& establisha duty drawbacksystem
+
+*
+
+Public Notice of a
+Unified Tax Appeals
+Mechanismbeing
+operational
+* Publishedguidelines on
+rationalizing local taxes
+andfees
+* StrengthenRevenue
+Authority andexpand tax
+base.
+
+* IMF Program
+* EU/JNDP/USAID/Sweden/Finland/
+Demnark:Institutional strengthening
+of TanzaniaRevenueAuthority;
+Ministry of Finance;fiscal reform
+
+.
+
+Policies setout in CBI
+policy leter followed
+* Public Notice of a Duty
+drawbacksystembeing
+operational
+
+.
+*
+
+ReachCompletion Point underlIfPC
+Initiative by endFY2001
+
+* Bank of Tanzania(BOT)
+reportson external&
+domesticPublic debt
+stockand debt servicing
+
+* IMF Program
+* AfDB/Bilaterals: MDF; HIPC
+support
+
+Firm & Farmsurveys;
+supervisionreports
+* CropBoard Acts
+amended
+* Governmentorderson
+rationalizationof
+taxation
+* Point of salecashewnut
+processingplants, &
+remainingstateranches
+
+.
+*
+
+Finm & Farm surveys;
+supervision reports
+Level of budgetary
+expenditures for
+provision of
+decentralized agricultural
+
+*
+
+a
+
+Prioritize smallholder agriculture in
+development strategy
+* Develop/strengthen national and local
+institutions to facilitate farmer (support)
+srgxnirstionr.
+*
+
+_ _ _ _[ _ _ _ _ _ I
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+IMF Program
+EU/Other largerdonors
+
+*
+*
+*
+*
+
+Policy dialogue
+MTEF/PER
+PSAC I
+TAP
+
+*
+
+As above
+
+*
+.
+
+Policy Dialogue
+CommercialDebt
+Buyback
+Muldlateral Debt Fund
+(MDF)
+HIPC
+Policy dialogue
+Rural & Micro-Finance
+ServicesProject
+PSAC I; PSAC 11
+NARP If
+NAEP 11
+HIV/AIDS Project
+
+*
+.
+
+Rationalizelevies,feesamdtaxespaid by
+farmers/traders;avoid muldpletaxation;
+ensureuniform fiscal treatment.
+* Removetrade barriersacrossregions;
+eliminatetemporaryexport bans; Commodity
+BoardsandStrategic Review Scopefor Grain
+Reserve.
+. Divest cashewprocessingfactories,state
+farms
+. Publish rules andregulations,basedon work
+by Min. of Agric & Cooperatives
+* Involve export crop industryin research;
+apply uniformtaxeson crop expons across
+districts
+* Increase small-holders participatory farters
+groups establishedand visited/assisted by
+extension agents per cropping season * Improved smallholders' access to fertilizer,
+improved seeds, small implements
+.
+
+[
+
+I__
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+.
+
+*
+.
+
+_
+
+_
+
+_
+
+IMF Program
+EU/FRG/UK/ Netherlands/
+Finland/Denmark/AfDB: sector
+reforfmdialogue
+
+s
+
+.
+*
+*
+*
+
+.
+
+.
+
+EU/FRG/UK/ Netherlands/
+Finland/Demnark/ AfDB: Research
+and Extension
+UNDP/Den-mark/Finland: agroprocessing; irrigation
+
+X__
+
+_
+
+_
+
+_I
+
+* Policy dialogue
+* NAEP If
+. NARP 11
+* Lake Victoria 11
+. Soil Fertility Project
+
+I__
+
+Annex B9
+page 3 of 7
+
+Development
+Objectives/Issues
+
+Strategy/Actions
+
+Adjustment/Benchmark
+
+Improve rural
+infrastructure
+particularly tunk and
+feedet coads network
+
+* Inadequate irrigation; poorly
+maintained rural roads
+(trunk and feeder); limited
+access to ruraUurban areas &
+to power
+
+* Build roads to access urbamand rural
+markets.
+. Expand use of water for small and
+medium scale irrigation.
+* Electrify rural areas with growth potential.
+
+* 50% Increase by 2003/04 of kilometers of rural
+roads ( trunk and feeder) maintained per year,
+with a breakdown by level of Government
+and district
+
+*
+
+Improved micro/rural
+financial services
+
+* Rural and non-rural poor
+have limited access to credit
+
+n
+
+*
+
+Issue preliminary regulations for micro/ruralfinance institutions
+Recapitalize NMB and transforming it into a
+micro-finance institution
+
+a
+
+Improve Natural
+Resource Management
+
+* Proliferation of
+uncoordinated Donor
+intervenfions
+* Gaps in integrating sector
+policies with envirommental
+policies,
+* Lack of transparent policies
+on wild life and hunding.
+* Deficient property rights and
+disincentives for
+conservation.
+* Deficient urban water and
+sanitation management.
+a Inadequate public safety net
+mechanism
+
+Examine prudential banking regulations
+and provisions for bank supervision to
+ensure the integration of micro/rural
+finance sector
+* Revise Financial Institutions Act to
+stimulate coordinated growth in
+micro/rural finance
+* Conserve natural resources for sustainable
+growth
+
+Prepare a biodiversity conservation strategy
+and action plan
+Adopt a national action plan to combat
+desertification
+Present enviromnental framneworklegislation
+to Parliament
+Finalize Environmental Impact Assessment
+Guidelines
+.
+Adopt environmental standards
+Prepare a National Priority Enviromental
+Management Programme
+Rationalize donor program from current S 400
+million with 60% outside GOT budget
+Increase capacities of communidies to
+prioritize, implement and manage sustainable
+
+*
+
+Publish a biodiversity
+conservation strategy;
+Plan to Combat
+Desertification;
+Enviromnentl Impact
+Assessment Guidelines;
+National Priority
+Environmental
+Management Programme
+fmalized
+
+e
+
+Environmental
+
+a
+a
+
+Framework legislation
+passed by Parliament
+Supervision reports
+Reports from MOLG and
+
+Develop Social Safety
+Nets to assistthe rural
+
+poorandvuhlerable
+
+Improve food security
+
+.
+
+Lack of coherent policy
+frame work relatng to food
+security
+
+_ _ __ __
+
+_
+
+_ _
+
+_ _
+
+.
+a
+a
+
+*
+*
+*
+a
+
+*
+*
+
+Empower local communities
+Initiate preparation of District Action
+
+a
+
+*
+
+Legislate national ban on local tayation of
+food shipments across district boundaries
+Develop a transparent nadonal policy on
+food aid
+
+* Eliminate Regions prerogative to impose
+export/import bans on food trade
+
+_ _
+
+_ _
+
+_ _
+
+_
+
+_ _
+
+_ _
+
+_
+
+_ _
+
+_ _
+
+_
+
+_ _
+
+_ _
+
+_ _
+
+_
+
+_ __I_
+
+_ __I_
+
+Roads 11
+Roads Rehabilitation
+Power VI; Songo
+Songo
+
+Level of Road Fund
+resources directed to
+districts
+* Level of budgetary
+for
+s
+expenditures
+provision of
+
+* EU/FRG/IJS/
+* Finland/Norway/SwitzerlandlUNDP/
+AfDB: Roads Rehab; mainten.
+* Switzerland/
+Demark: rural roads
+a Switzerland./ UK/FRG: TA; Training
+
+services
+Copy of official gazette
+showing approved
+Microfinance Act
+a NMB operational as
+micro-finance institution
+
+* Canada/
+* Norway/Densarld Switzerland:
+Support to micro-finance; rural
+finance; pilot revolving funds;
+capacity building
+
+a
+
+.
+*
+.
+.
+
+Policy Dialogue
+Financial Sector
+FIDP 11
+PSAC 1; It
+IFC support for
+microfinance
+
+FRG/Norway/
+Finland/Denmark/EU/AfDB: Forest
+resources mgmt; wildlife/park areas
+mgmt
+a Norway/Finland/
+a Denmark/Sweden/UK/JNDP:
+land/soil mgmt; env./ ecosystem
+mgmt.
+* FinlandU Denmark: fisheries; marine
+env. protection
+
+*
+*
+*
+.
+
+Lake Victoria 11
+Forest Conservation
+Soil Fertility Project
+PERC
+
+.
+
+TASAF
+PERC
+
+*
+
+Policy dialogue on food
+security improvement
+and enhancement(food
+aid food import and
+export)
+intemal and
+aLiberalized
+extemualfood
+m arketstrade
+
+.
+.
+
+a
+a
+
+*
+
+Minof Cominunity
+development
+
+developmentiniatives to improvesocioPlansfor PovertyReductionwith
+economicservices opporettnities
+stakeholderpatticipation
+of
+* Createsafetynets for themost vulnerable, * Conductzonalworkshopsfor Development
+DistrictsActionPlansfor PovertyEradication
+AIDSvictims,orpbsas,widows.
+usingpardcipatorymethodologies
+* Increasepercentageof developmentprojects
+to combatAIDS
+
+a
+
+_
+
+*
+
+Bank Group2
+Instruments
+
+Partner Programs'
+
+Measurement Tools
+
+Diagnosis
+
+.
+
+Many key Bilaterals (EU/UNDP and
+NGOs involved: Community
+
+a
+
+development;genderawareness;
+
+.
+
+LocalGovt. Capacity
+Bldg.
+
+Bilaterals and NGOs involved
+
+a
+
+Rural Development
+Strategy
+NAEP 11& NARP 11
+PSAC I
+Soil Fertility Project
+Local Govt. Capacity
+Bldg.
+
+*
+a
+
+.
+a
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+Annex B9
+page 4 of 7
+
+Development .Bank
+Objectives/Issues
+Increase Private
+Investment and Private
+Sector Participants
+Improve business
+environment and
+enhance contestability
+of markets
+
+Cwnbersome processes and
+inadequate regulatory frame
+work for pfivate sector
+paridcipadon
+* Weak institutions that fail to
+support the private sector's
+needs
+. Low investment rates
+* Lack of capacity in
+Tanzanian fums
+* Ambivalent attitudes
+towards PSD
+
+*
+
+Approve proposed revision of company
+ordinance and submit to parliament
+a Revitalize Tanzania Investment Center
+(TIC)
+* Support development of a Credit
+Information Bureau (CIB)
+* Promote operation of the Comumercial
+Court
+* Issue regulations to make the new Land
+Act effective;
+* Arcane labor laws amended
+* Fomulate Transportation Masterplan
+*
+
+*
+*
+c
+
+.
+*
+*
+*
+*
+*
+*
+
+Reduced delays in investment sanctioning and
+simplified procedures for private sector entry
+company ordinance revised
+foreign participation in the stock market
+allowed
+Official gazeneC(amendinentsof Act
+governing TIC); TIC restructured.
+CIB established and operational
+Disseminate the new land law and regulations
+widely
+Implementation plan for the Land Acts.
+Revised labor laws
+National policy on transport & Transportation
+Masterplan
+Nat'l Power sector Strategy approved
+
+Regular implementation
+review & Supervision
+reports
+* Issuance of regulations
+for implementadon of
+Land Law
+* A 'New' TIC & CIB
+operational
+* Private sector surveys
+*
+
+Group2
+Instruments
+
+Partner Programs'
+
+Measurement Tools
+
+Adjustment/Benchmark
+
+Strategy/Actions
+
+Diagnosis
+
+*
+*
+*
+*
+
+UNDP/US/UiU/
+Denmark: Capacity Building; TA
+UNDP: Trade/ export development
+Germany: Power Sector
+
+Policy dialogue
+PPSR
+Private Sector Profile
+Study
+* PSAC I; PSAC 11
+* Roads Rehab I/
+* Songo Songo
+. Regional Trade Project
+.
+.
+
+IFC Activities
+* Financing and capacity
+building for SMEs
+.
+.
+
+Financing key sectors
+of mining and tourism
+Financing of key
+
+privatizations
+.
+
+FIAS advisory services
+
+on FDI
+Complete privatization
+of parastatals.
+Encourage privte
+sector participation in
+infnmtricture
+
+* Slow pace of privatization in
+the past.
+* Considerable fiscal drain
+fiom ineffective parastatals
+* Inefficient state owned
+
+utilitiesandinfrastructure
+* Highcostsandinadequate
+serviceconstraingrowth
+
+Establish an adequate
+andtransparent
+Nationalreguatoty
+frameworkfor key
+udlidesand
+infrutrtwture
+
+* Privatize
+* 80Noof parastatals (by total employment
+and tunover)
+* -20 strategic / large enterprises
+* IS0 smiall medium
+policyonPE
+* Adoptcomprehensive
+
+legal system for
+demonopolized industries
+
+s
+
+*
+
+Private sector surveys
+Supervision reports
+Issuance of required
+docutmentation, e.g.,
+MOU; POS; Options
+
+*
+*
+
+IMF Program
+UNDP/UK: Capacity Building; TA;
+private sector development
+
+study;concessioning
+Plans
+IssuanceofIM to
+investorsandCall for
+Bids.
+*Cabinet approvalof
+strategyfor
+reorganizilonof
+TANESCOand
+Electricitysector
+
+.
+
+compensadon
+retrenchment
+policyon PE debt
+* Adoptcomprehensive
+treatmentand resolveindebtednessof
+panastatals
+
+in
+a Strengthen the regulatory framework
+keysectorsto increasecompetitionand
+utilitiesandinfrastructue
+transparency
+enhance
+power,
+ports,
+(railway,
+water,telecommunications) * StrategyforreorganizadonofTANESCO
+and Electricitysector bymid-2001;
+* Inadequatesystemof
+commerciallaws;deficient
+* Inadequate regulation of key
+
+*
+
+Bring to point of sale/concessioning Tanzania
+Telecom Company Ltd; TRC, TANESCO
+distribution system, DAWASA, Port Services
+Review and decide on the future role of the
+State Mining Corporation (STAMICO)
+
+Creation of Regulatory Institution(s) covering
+
+Telecom,Rail, Ports& Shipping,Energy,
+Water
+fullystaffed
+* Regulatorylnstitudon(s)
+* Passedlawsgoverningthe regulatory
+frameworkforabove sectors
+*
+*
+
+Copies of official gazene
+
+participatingBanks.
+* Fualystaffed
+____
+___ ___
+___
+________
+.___ ___
+
+___
+
+___
+
+____
+
+___
+
+_ _
+
+*
+
+*
+
+IMF Program
+
+* AfDB/EU:CapacityBuilding;TA
+showingapproved
+Act(s);laws
+Copyof Commissioners
+appointment
+announcement
+* Copies of Sectoral
+Regulations
+* Sale of Credit reference
+company's Shares to
+
+Formation of credit reference company
+Establish Roads Agency TANROADS
+
+TANROADS
+
+a
+
+IFC Activities
+SongoSongo
+. TTCLprivatization
+* Financingforprivate
+telecomoperators
+. Financingfor other
+utilityand transport
+privatizations
+
+s
+
+.
+
+Policy dialogue
+PSAC l; PSAC 11
+* PPSR
+* FIDP 11
+* Dar Water Supply
+* SongoSongo
+.
+
+*
+
+Policy dialogue
+
+PSACl; PSAC11
+PPSR
+* FILMUP
+* Rural& Micro-finance
+ServicesProject
+.
+
+a
+
+*
+
+IFC Activities
+Advisory and technical
+assistance on regulation
+
+Annex B9
+page 5 of 7
+
+Bank Group
+Instruments'
+
+_
+
+Development
+Objectives/Issues
+
+Political interference in bank
+
+Enihancedperformnance
+by tne uinanciaisector
+
+acuviues,non-commercialending and bad loans.
+. Weak capacity to enforce
+prudential regulations noid
+supervise finnncial sector
+institutions
+iWeak financial institutions
+* Insufficient development of
+NBFIs
+s developed capital
+Poorly
+N
+markets
+
+Adjustmen t/Benchmark
+
+Measurement Tools
+
+bank licensing requirements,
+-nd
+r
+e
+......
+......
+capacity for both off-site and on-site
+supervision
+the Banking and Financial Institutions
+*Revise
+Act to institute legal franework for regulation
+and supervision of micro-finance institutons
+a Complete revision of prudential bankitng
+a
+regulations
+* Develop and evniuate options for
+restcturing /divestituareof PBn
+restructuring TPB and privatizing TIB
+m Complete study to strengdten the regulatory
+mechanism for insurance and pension sectors
+
+Issued, evised
+e
+d
+r
+pt
+-..
+revised Banking and
+Financial Institutions Act
+on options for
+nStudies
+FZ, TPe, TIP
+P
+
+Strategy/Actions
+
+Diagnosis
+
+sod regulation of
+_
+Improve supervision
+e-.
+ssia,csaasrc
+* Expanded financial intermediation
+n Improve efficiency of financial
+intermediation and stem losses
+iApprove proposal to allow foreign
+in the stock market with
+ricipation
+pa
+appropriate safeguards.
+a Grealer regional integration of capital
+markets
+Build capacity of banks
+s Encourage new NBFIs
+*
+
+*Revise
+
+Partner Programs
+IMF Prograns
+ITTSPI _91r.u-Id.
+* Denmark/Sweden/
+. Finland: Capacity Building; TA
+*EU/AfDSB/
+
+Policy Dialogue
+
+FILMUP
+*
+*
+
+Switzerland: Structural Adjustment
+*
+
+*
+a
+a
+
+Financial Sector
+Assessment
+Rural & Micro-Finance
+Services Project
+PPSR
+FIDPPS
+I; PSAC
+PSAC11
+IFC Activities
+of NMB
+A
+Privatotion
+Supprtn for new
+NBFIs
+Advisory work on
+capital markets
+Term resources to
+banks
+
+Building Capabilities
+Heilth
+
+.
+
+Improved Health and
+Population outcomes;
+reduced malnutrition
+and lowered infant,
+child and matemal
+motality rates
+Reduced HIV/AIDS
+infection rates
+
+.
+
+.
+.
+
+Inequities in access to health
+services
+1997 infant and child
+mortality rates are 85 and
+136 per Thousand
+respectively
+Severe stunting in 20% of
+children
+In 1997, HIV prevalence in
+15-49 age group was
+estimated at 9.4%
+
+* Improve health status through greater
+allocation of resources for basic health
+care
+* Broad-based campaign on HIV/AIDS
+
+.
+
+*
+
+*
+
+*
+
+*
+*
+*
+*
+
+Complete national health accounts & develop
+public resource envelope for health within
+MTEF
+Review/improve efficiency of revenue
+collection for hospitals
+Extend cost-sharing to dispensaries and health
+centers
+Set targets for intra-sector allocations of
+resources, with priority to basic health
+services and non-salary items
+Increase percentage of children under 2 years
+immunized - measles and DPT from 71%
+(1996) to 75% (2001)
+Increase % of pregnant women delivering in
+health facilities from 50% to 55% by 20003
+Implement malaria control plan
+Raise public awareness of HIV/AIDS
+epidemic;
+AIDS: reduce HIV/AIDS diseases by 25% by
+2002. Ensure that all hospital are equipped to
+ensure a safe blood supply for transfusions.
+
+.
+*
+
+a
+
+Reports from Ministry of
+Health
+Nationally spear-headed
+campaign on HIV/AIDSNational Advisory
+Committee: all regional
+centers; Other National
+Leadership.
+Visits to 75% of districts
+by 2001
+
+IMF Program
+AfDB/UNDP/
+UK/US/Netherlands/Norway:
+HIV/AIDS
+a AfDB/FRG/US/
+* Norway/Netherlands/Denmark/
+. Canada/
+Switzerland/Others: Preventive
+Health; nutrition; capacity building;
+TA
+.
+.
+
+.
+*
+*
+a
+
+.
+.
+*
+
+Policy Dialogue
+Decentralization
+PERIMTEF
+PSRP
+HIPC
+Activities for PRSP
+HIV/AIDS Project
+
+Annex B9
+page 6 of 7
+
+Development
+Objectives/Issues
+Clean Water
+Improve quality and
+availability of drinking
+water and sanitation
+services
+
+Strategy/Actions
+
+Diagnosis
+*
+
+* Access to safe water is
+around 50%/.and water bome
+diseases are common
+
+*
+
+Improved management of water
+distribution system and improved access
+to clean water
+Strengthen support to urban/mral
+decentralization, private sector
+participation, sound pricing, and
+development of local appraisal, financing,
+implementation and operation capacities.
+
+.
+
+*
+.
+
+.
+
+Primary &
+Secondary Education
+Improve access to
+quality and costeffective basic
+education
+Improve secondary
+education, including
+broadened publicprivate partnership
+
+* Ensure adequate resources to sector
+* Adopt action plan for education
+management and monitoring system
+* Implementation of BEMP and SEMP
+
+Primary school examination
+rates is 26% for boys and
+14%for girls
+* Entry ratesin secondary
+schools are about 6%
+* 1997 Illiteracy Rate was
+28.4%
+* 1997 School enrollment,
+primary (% gross): 66%
+*
+
+.
+
+*
+.
+
+a
+
+*
+
+In urban areas support to: decentralization for
+provision of WSS service; creation of
+finamcially autonomous Water Boards & their
+consolidation; sub-contracting of operations
+to professional (preferably private) operators;
+promoting sound pricing policy; developing
+local capacities.
+DAWASA management transferred to private
+sector
+Provision of safe and clean water from 48.5%
+population coverage in 2000 to 55% by the
+year 2003 in rural areas; and from 68%
+coverage in 2000 to 75% by the year 2003 in
+urban areas
+In nrral areas, develop demand driven
+community identification, preparation and
+implementation of WSS projects, through
+local govemments & private sector.
+Community management.
+Implement action plan for decentralization of
+education financing and management in 35
+phase I local authorities.
+Complete primary school mapping in 50
+percent of the districts
+Complete Secondary Education Master Plan
+(SEMP) and adopt a framework for cost
+sharing among govermment,private sector,
+and local communities
+Increase enrollment rate by 2.5% each year by
+2003/04
+Improve transition rate to secondary schools
+from 15%to 20% by 2003.
+
+* In urbanareas,MOW
+annual reports;
+* In Dar es Salaam, bi
+annual reports by
+independent regulator;
+* In rural areas, MOW
+annual reports.
+. Signed DAWASA
+concession agreement
+
+*
+
+*
+
+*
+
+*
+
+Action plan for
+management and
+monitoring system
+Mapping Report to
+provide infotmation
+covering: availability and
+condition of schools,
+quality and distribution
+of teachers, quality of
+school management,
+enrolbment rate, drop out
+rate and key problems in
+delivery of education
+Undertake annual joint
+government/donor
+review to monitor
+progress in sector
+development, including
+basic education
+SEMP Implementation
+
+Empowerment & Accountability
+
+qualityof
+Improved
+ratdarcc:stopub!:
+atlocallevels
+services
+
+*
+
+Major responsibilitiesand
+accountabilities are being
+devolved to local
+govemments, but their
+
+*
+
+financial,governance,
+M-Ifi.1 .. A
+to
+capacities
+administrative
+deliverinfrastructeanBuild
+areweak
+services
+
+I
+
+EU/FRG/lreland/Sweden/
+Denmark/UNICEF: regional water/
+sanitation projects; capacity building.
+
+.
+*
+*
+*
+*
+*
+
+Policy Dialogue
+PER/MTEF
+Dar WSS
+Rural WSS L
+HIPC
+Activities For PRSP
+PERC
+
+* IMF Program
+e UNICEF/EU/ UK/Ireland: Sector
+refom
+* FRG/UK/JUS/Ireland/Netherlands/Belgiuan/ Norway/Swedern/
+. Finland/Denmark/
+* UNICEF: Support to basic education;
+technical and vocational training;
+capacity building
+
+*
+*
+.
+*
+.
+
+Policy Dialogue
+PER/MTEF
+HIPC
+Educ. Ration.
+Primary Educ APL
+
+.
+
+Supenision
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.
+Implementatlon of
+Deecentrlization
+Program
+
+Bank Group
+Instruments 2
+
+Partner Programs'
+
+Measurement Tools
+
+Adjustment/Benchmark
+
+Local Govemment Refonm Program
+(LGRP) to be implemented in three main
+phases thsroughDecember 2003
+
+I~~~~~~
+
+n Adopt plan for strengthening capacity in the
+local Govt authorities (LGAs) under the three
+phases
+n Clarifying the framework for delivery of
+
+*
+
+LO financial
+performance; anainment
+of national affordable
+minimum standards
+
+with district
+through * Workshops
+on behalfof theGovenmnent
+services
+authoritiesandcivil
+sector
+reformof thegrantsystemandparallel
+societytoreview
+reforms.
+p ogress view__
+Buildcapacity
+progress
+for effectiveresouce
+reports
+* Supervision
+r
+management.
+
+T
+
+UK/Finland/ Denmark/ Netherlands:
+Local Govt. refom; capacity
+building in inter alia financial
+management
+
+j
+
+_
+
+_
+
+__
+
+_ __
+
+_ _
+
+__HIP___
+
+Policy Dialogue
+Fiscal Decentralization
+Study
+* PER/MTEF
+
+.
+*
+
+. TASAF
+* PSRP
+* lIPC
+_ __ _ __ _
+Capacity
+Local_Govt
+Bldg
+
+Annex B9
+page 7 of 7
+
+Development
+Objectives/Issues
+Improving
+Governance
+Improve accountability
+and teduce corruption
+
+.Transparency intemational
+Tanzania ranks 82 in a of 89
+(89 being most corrupt)
+* Lack of mechanism to
+enforce accountability.
+Lack of civic awareness
+
+Improve budget
+management to fumly
+root prudent fiscal
+operations, sectoral
+prionii2zation and
+improve public service
+delivery,
+
+*
+
+Establish efficient and
+motivated civil service
+amd improve quality
+and effcctiveness of
+delivery of public
+seriices
+
+*
+
+Imnproved
+Governance
+
+Strategy/Actions
+
+Diagnosis
+
+Weak local Govemrment
+capacity for delivery of
+public services
+
+.Official adoptioni publication mild
+dissemination of National Action Plan for
+use controt ot corrupnon
+IImplementation of Legal Sector Reform
+Program
+
+a
+
+.
+.
+
+Consensus for institutional
+reforming and next role of
+the state is still week
+* Civil servants are still poorly
+paid and unmotivated.
+
+.
+.
+
+Enhanced Financial Accountability &
+Public Financial Management
+Enforce hard budget constraint on
+parastatals
+Integrate Performance Budgeting and
+Medium Term Expenditure Framework
+
+Implenmentationof an effective Public
+Service Reform Program
+Reform civil service pay stnictsre
+Introduce output accountability in service
+delivery for the 5 priority sectors
+Operational plans for perfommance
+management implemented in key
+ministries
+
+Adjustment/Benchmark
+
+Measurement Tools
+
+.Dissemmiate to all districts the National AntiCorauption Strategy and Action Plan
+a Adopt sector specific ami-corrpiio- pias- ILw
+tax administration, nationai tender system,
+judiciary and public works
+. Cany out diagnostic surveys on Judiciary,
+Ministry of Works, Education, Health,
+RALG, and Home Affairs, A.G.'s, office,
+TRA, and CAG and develop and approve
+operational strategies for these areas
+. Amended Public Leadership and Code of
+Ethics Act
+. Approve/Pass new Procurement Law and
+Regulations
+. Publicize all contracts of significant
+implications
+. Make public tender results.
+e Strengthen the Office of the Controller and
+Auditor General
+. Full implementation of Integrated Finauicial
+Management System (IFMS)
+* Roll out IFMS to all Ministries, Regions and
+Districts and to at least 50% of disticts by
+2003
+. Performance budget developed and
+introduction of output accountability in
+service delivery for the Ministries of
+Agriculture, Education, Health, Water and the
+Civil Service department by FY02-04
+. At least 10% reduction in current public
+serice employment nwmbers by 2004.
+. Introduce performance management in
+Ministries, Departments and Ageiscies
+(MDA):75 percent of MDAs' to have
+developed strategic plans by 2002. 50% of
+MDAs' to show results by end-2004
+* Establish systems to improve performance,
+personnel management and compensation.
+. Launch at least 37 Executive Agencies by
+2003/04
+
+with district
+.Workshops
+authorities and civil
+-- ci-y
+. Dissemination of Annual
+Report of Pemaneit
+Commission of Enquiry
+. Sector-specific anticortuption plans
+. Sector-specific surveys
+completed
+. Public Leadership and
+Code of Ethics Act
+. Regular issue of quality
+CAG Reports
+
+Dialogue
+|.Policy
+.EU-/UJi(/Netherlands/Dernmark/
+Anti-Corruption Report
+|
+Sweden/Finland: anti-corruption
+- non SiTEF
+^
+. FILMUP
+strengthening;
+. Accountability/
+LTNDP/EUWSweden/Nether-lands:
+Govemance
+Strengthening human rights; refugees
+TAP
+assistance
+Activities for PRSP
+. Denmark/ Sweden/Finland: Support
+elections;
+processes;
+to democratic
+
+Record of all expenditure
+comnitments and arrears
+in the IFMS
+Public Finance
+Management Bill and
+Public Audit Bill
+approved
+Survey Results
+
+.
+
+Public service payroll
+and personnel data
+. Quarterly and annual
+M&E reports
+. Predictable resource
+flows to service delivery
+in priority sectors
+(PER/MTEF)
+* 100J of Ministries
+utilizing improved IFS
+and Performance
+Budgeting
+* Implementation of public
+service management &
+employment policy;
+public service pay
+policy; code of ethics
+and conduct
+a Public Service
+Commission operational
+
+.
+
+.
+
+.
+
+.
+
+.
+
+Bank Group
+Instruments
+
+Partner Programs'
+
+a
+
+.
+
+IMF Program
+AfDB/EU: structwraladjustment
+facility
+EU/Derunark/ US/Sweden/Finland:
+public financial management refonn
+
+.
+.
+.
+.
+*
+.
+
+Donor Programs noted above
+
+.
+*
+*
+.
+.
+.
+
+__
+
+Policy Dialogue
+PER/MTEF
+FILMUP
+Accountability/
+Governance
+TAP
+Activities for PRSP
+
+Policy dialoguc
+MTEF
+Local Govt. Capacity
+Bldg.;
+PSAC I
+PPRP
+Accountability/
+Govemance
+PSRP
+
+_
+
+Annex BIO
+
+Tanzania CAS Summary of Development Priorities
+
+Networkarea
+
+Poverty Reduction & Economic
+Management
+Povertyreduction
+
+Bank priority'
+
+Countrypriority'
+
+Major issueb
+
+Country
+
+of country and
+Bank prioritiesd
+
+performancea
+
+Poor
+
+Increasing Poverty
+
+High
+
+High
+
+Economic policy
+Public sector
+
+Good
+
+Success in Stabilization
+
+High
+
+High
+
+Fair
+
+Governance,Decentralization
+
+High
+
+High
+
+Gender
+
+Fair
+
+Tradition
+
+Moderate
+
+Moderate
+
+Poor
+
+Low and decliningenrollment
+
+Moderate
+
+High
+
+Fair
+
+Malaria,AIDS
+
+Moderate
+
+High
+
+Good
+
+Safety nets
+
+Moderate
+
+Moderate
+
+Poor
+Fair
+
+PoorPerformance
+Natural resourcedegradation
+
+High
+Moderate
+
+High
+High
+
+Fair
+
+Slow
+
+Moderate
+
+Moderate
+
+Good
+
+Extensivefinancial reform
+
+High
+
+Moderate
+
+Fair
+Fair
+Poor
+
+Low Competitiveness
+Low electrification,mining improved
+Poor quality and maintenance
+
+High
+Moderate
+
+High
+Moderate
+
+Moderate
+
+High
+
+Human Development
+Education
+Health,nutrition& population
+Social protection
+
+Environmentally & Socially Sustainable
+Development
+Rural development
+Environment
+Socialdevelopment
+Finance,PrivateSector& Infrastructure
+Financialsector
+Private sector
+Energy& mining
+Infrastructure
+
+Reconciliation
+
+a. Use "excellent," "good," "fair," or "poor."
+b. indicate principai couniry-specific probleriis (e.g., for pove;ty reduction,,"rural pove..y;" foreduca:ion, "fmalc
+
+sccondry
+
+complion;"
+
+forenvironnnen:, "u.b&a airpo!!u: on",.
+
+c. To indicatepriority,use "low," "moderate,"or "high."
+d. Give explanation,if prioritiesdo not agree; for example,another MDB mayhave the lead on the issue, or there may be ongoing dialogue.
+
+Dialogue
+
+Dialogue
+
+Dialogue
+
+Lake Victoria
+
+/ Jkobo
+a
+gi
+
+K
+
+RWANDA
+
+,
+
+M
+
+Musom
+
+KENYA
+
+AN2WMARA
+
+~~~AFRICA
+
+Kake
+
+~~~~~~~~~~~~~~~Arusha
+oho
+
+BURUNDI
+
+v 3 \,
+
+|
+
+1
+
+4
+
+0M\
+
+g
+
+(; 0)
+
+4 < V <9
+4
+
+)
+
+AA4EYEA
+4
+
+t%~~~~~~~~R,ukwe7
+
+<1
+
+'\5
+
+r
+
+S
+
+ff
+
+,/XX
+
+/
+
+~~~~~~~OCEAN
+
+}/
+
+ROGORO a
+
+296/
+
+N~~~~~~~~~~~~~~~~~~~~~~~
+
+TheWorhj~'
+fiokGrop
+=''\
+
+:btus of ony hrrior,I_
+
+=ef
+
+°°'oudre°
+
+MAINROADS
+
+(3REGION
+
+RAILPOADS
+
+iINATiONAL
+
+RIVERS
+
+i~~~~~~~~~~0
+
+Li
+
+CAPITALS
+
+o
+
+,
+
+_-
+
+WRS.r
+
+ao10
+
+s
+
+r
+
+BOUNDARIESr
+
+200
+
+sM
+
+,
+
+CAPITAL
+
+sS
+
+INTERNATIONAL
+BOUNDAPIESRUMAj
+o
+
+30-
+
+-REGION
+
+LiIlD
+
+8f
+
+TANZANIA
+
+uh
+
+eO
+'ar
+
+OAanyiM
+
+RIhE
+
+-t0%iS
+.notn
+
+i
+SINGIDAINDIN
+
+(tRVWYA
+
+Tang
+
+on iis mPo'
+
+~~~~~~~~ARUSHA\/
+
+~~~~~~~~~~~~~~~~~~
+
+<
+
+-
+
+t
+
+3w
+
+_
+i
+
+/
+
+e
+
+OBIQUE
+
+>
+
+

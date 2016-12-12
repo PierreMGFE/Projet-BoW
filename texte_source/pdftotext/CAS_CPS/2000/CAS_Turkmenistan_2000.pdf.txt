@@ -1,0 +1,6321 @@
+Public Disclosure Authorized
+Public Disclosure Authorized
+
+Document of
+
+The World Bank
+FOR OFFICIAL USE ONLY
+
+Report No. 21530 TM
+
+MEMORANDUMOF THE PRESIDENT
+OF THE
+INTERNATIONALBANKFOR RECONSTRUCTIONANDDEVELOPMENT
+TO THE
+EXECUTIVEDIRECTORS
+ONA
+COUNTRYASSISTANCESTRATEGY
+
+Public Disclosure Authorized
+
+Public Disclosure Authorized
+
+FOR
+TURKMENISTAN
+
+December22,2000
+
+CentralAsia CountryUnit
+EuropeandCentralAsiaRegion
+
+This document has a restricted distribution and may be used by recipients only in the
+performance of their officialduties. Its contents may not otherwisebe disclosedwithout
+World Bank authorization.
+
+CURRENCYEQUIVALENTS
+(as of November 1, 2000)
+Currency Unit
+US$1
+US$1
+
+=
+=
+=
+
+Manats
+5,200 Manats (official rate)
+19,000 Manats (black market rate)
+
+WEIGHTSANDMEASURES
+Metric System
+
+ACRONYMSANDABBREVIATIONS
+ASBP
+CAS
+CBT
+CIS
+DSR
+EBRD
+ECA
+FDI
+FERF
+GDP
+IBRD
+IBTA
+IDA
+IDF
+IFC
+IMF
+LSMS
+MIGA
+MOEF
+NEAP
+NGO
+PER
+SAFI
+TACIS
+USEXIM
+UNDP
+UNICEF
+WBI
+
+Aral Sea Basin Program
+Country Assistance Strategy
+Central Bank of Turkmenistan
+Commonwealth of Independent States
+Debt Service Ratio
+European Bank for Reconstruction and Development
+Europe and Central Asia Region
+Foreign Direct Investment
+Foreign Exchange Reserve Fund
+Gross Domestic Product
+International Bank for Reconstruction and Development
+Institution Building/Technical Assistance
+International Development Association
+Institutional Development Fund
+International Finance Corporation
+International Monetary Fund
+Living Standards Measurement Survey
+Multilateral Investment Guarantee Agency
+Ministry of Economics and Finance
+National Environmental Action Plan
+Non Governmental Organization
+Public Expenditure Review
+State Agency for Foreign Investment
+Technical Assistance to the Commonwealth of Independent States
+United States Export Import Bank
+United Nations Development Program
+United Nations International Children's Education Fund
+World Bank Institute
+
+TURKMENISTAN's
+FISCALYEAR
+January 1 - December 31
+
+Vice President:
+Director:
+IFC Director:
+CAS Team Leader
+CAS Team Members
+
+Johannes F. Linn
+Kiyoshi Kodera
+Khosrow Zamani
+Tony Cholst
+Guijahan Kurbanova
+Chandra Pant
+Michael Mills
+Gerhard Botha
+Mark Lundell
+Andriy Storozhuk
+Gorton De Mond, IFC
+Jim Anderson, IFC
+Jens Wandel, UNDP
+
+FOR OFFICIAL USE ONLY
+TURKMENISTAN
+COUNTRYASSISTANCESTRATEGY
+TABLEOF CONTENTS
+
+EXECUTIVESUMMARY........................................
+I.
+
+.
+
+i-iii
+
+INTRODUCTION
+.........................................
+
+1
+
+II. POLITICALANDECONOMICENVIRONMENT
+.........................................
+A. PoliticalDevelopmentsand Prospects.........................................
+B. EconomicDevelopments
+.........................................
+C. Near and MediumTerm EconomicProspects.........................................
+D. The Government's10YearNationalProgram.........................................
+E. Globaland RegionalLinkages.....
+
+,.1
+1
+I
+2
+4
+6...................................6
+
+III. KEY DEVELOPMENT
+CHALLENGES......
+...................................
+7
+A. The Foundation:ImprovingLivingStandardsin Turkmenistan................................................
+7
+B. StrengtheningPublicResourceManagement....................
+.................................. 9
+C. ImprovingHealthand SocialServices......................................................
+13
+D. Developingan EfficientRuralEconomy......................................................
+15
+16
+E. SupportingPrivateSectorDevelopment......................................................
+F. ProtectingThe EnvironmentandConservingWater ................................................ ...... 18
+IV. WORLDBANKSTRATEGY......................................................
+A. LessonsLearnedfrom Past BankExperience......................................................
+B. BankProgramfor FYO1-03
+......................................................
+C. IFCProgram......................................................
+D. OtherBank GroupActivities......................................................
+E. Partnershipswithother Donors......................................................
+F. ProgramPerformanceIndicators......................................................
+
+18
+18
+20
+25
+26
+27
+27
+
+V. MANAGINGRISKSAND UNCERTAINTIES
+......................................................
+
+28
+
+VI. CONCLUDING
+REMARKS ......................................................
+
+30
+
+LIST OF TABLESAND CHARTS
+2
+Table 1:Key EconomicStatistics......................................................
+Chart 1:Turkmenistan:ProjectedEconomicGrowthand Sourcesof Growth...............................................
+3
+Chart2: Distributionof Consumptionin Turkmenistan
+......................................................
+7
+Table2: ComparativeHealthIndicators .....................................................
+8
+.....................................................
+22
+Table3: ProposedTurkmenistanCountryProgram:FYO1-03
+28
+Table4: SelectedPerformanceIndicators.....................................................
+LIST OF BOXES
+
+Box 1: LongerTermGovernanceIssues.....................................................
+Box 2: ProposedNationalEconomicForum.............................................
+Box 3: Budgetand Debt ManagementTriggersfor NewLending....................
+Box 4: ProposedBaseCase Loans.............................................
+
+13
+20
+......................... 23
+24
+
+This documenthas a restricteddistribution and may be used by recipientsonly in the
+performanceof their official duties. Its contentsmay not be otherwisedisclosedwithout
+World Bank authorization.
+
+ANNEXES
+Annex 1:
+Annex 2:
+Annex 3:
+Annex 4:
+Annex 5:
+
+Letter from the Government on the CAS ..................................................
+Status of Projects Under Execution ..................................................
+Round-TableDiscussions with NGOs and the Private Sector..................................................
+.................................
+Key Reforms for Lending Beyond the Base Case .................
+Turkmenistan's Growing KnowledgeBase..................................................
+
+31
+34
+35
+38
+42
+
+CAS TABLES
+Table A2:
+Table B2:
+Table B3:
+
+Turkmenistan at a Glance.43
+Selected Indicators of Bank Portfolio Performance and Management.45
+Bank Group Program Summary.46
+IFC and MIGA Program Summary
+Table B4: Summary of Non-Lending Services ..........................
+Table B5: Turkmenistan Social Indicators.48
+Table B6: Key Economic Indicators.49
+Table B7: Key Exposure Indicators.51
+Table B8: OperationsPortfolio .52
+Table B9: CAS Program Matrix.53
+Table B 10: CAS Summaryof DevelopmentPriorities.......................................
+
+47
+
+56
+
+TURKMENISTAN
+COUNTRY ASSISTANCE STRATEGY
+Executive Summary
+i.
+Since independence in 1991, Turkmenistan has adopted a gradual approach to the transition to a
+market economy, so as to improve the living standards of its people. Extensive consultations with the
+Government, civil society and the private sector during the preparation of the Bank's Country
+Assistance Strategy (CAS) indicate that the prospects for a fundamental change in this policy stance
+during the next few years remain uncertain. Against this background, the Government and the Bank
+have agreed on a CAS program for the next three years that focuses on improving the efficiency and
+transparency of public resource management, including poverty monitoring and the targeting of social
+assistance.
+ii.
+Economic Performance: Turkmenistan has had a sharp economic upswing over the past few
+years and continued growth in the near term is likely in light of recent gas sale agreements. However,
+this growth is built atop an economic structure that may be unstable in the long term -- with a large
+degree of state involvement, dependence on energy sales prone to fluctuation, and water-intensive
+agriculture. Key reform goals to create a more solid foundation to achieve sustainable growth are
+outlined both in the 1997 CAS and the Government's 10 year National Program for 2000-2010 improved budget and debt management, trade and exchange rate liberalization, agricultural reform, and
+privatization. Yet there has been limited progress in identifying and taking near term actions to meet
+these goals. Public investments have been large (about 40% of GDP) and have been pursued in roads,
+construction, oil refining, textiles, electrification and food processing. However, most of this is
+financed through off-budget funds and external borrowings and does not appear to have been
+adequately reviewed and prioritized against economic returns, factoring in opportunity and recurrent
+costs and future debt service. There appears to be limited commitment to make far-reaching but
+necessary systemic changes in the near term. If stronger reform is not achieved, the economy is likely
+to face significant risk of economic disruption in coming years.
+iii. The Government has recently raised the possibility of moving forward on key economic issues
+such as liberalizing the exchange rate regime and improving public resource management - including
+stronger debt management, budget consolidation, and splitting the administrative and commercial
+activities of Ministries. The Bank agrees that these are priorities. A critical element in making these
+refortns work will be the more rational use of Turkmenistan's largest extra-budgetary fund, the Foreign
+Exchange Reserve Fund (FERF), which now serves several functions with limited transparency and
+unclear allocation criteria. Progress on rationalizing the FERF, including defining rational and
+transparent rules for a currency reserve to facilitate exchange rate management, an inter-generational
+savings fund to help offset future shocks, and public investments that are reviewed within the budget
+framework would be an important step in improving exchange rate and public resource management.
+iv. Living Standards: Absolute poverty in Turkmenistan appears low compared to other CIS
+countries, although this masks several important challenges. First, about half the population appeared
+to be living on less than the official minimum wage in 1998 (as measured by cash income), assisted by
+heavy subsidies on commodities and utilities. The Government is reluctant to eliminate subsidies out
+of concern that this would increase poverty. However, many of these subsidies do not target those who
+are worse off, they reduce incentives for conservation and maintenance of water and energy, and they
+create distortions in the economy. Reducing subsidies, combined with a more transparent and targeted
+
+i
+
+approach to social assistance for the most needy, needs careful consideration. Second, Turkmenistan's
+health statistics were among the worst in the CIS in 1997, although official statistics show recent
+improvement. A number of major health concerns exist, including limited access to potable water and
+sanitation. The need for deepening health system reformnin budgeting, staff training, and the
+availability of essential pharmaceuticals and equipment is also high on the agenda. Third, there is a
+wide disparity between the living standards of those in the capital city and those in rural areas. Most of
+the poor live in rural areas, and the lack of income opportunities and deteriorating irrigation
+infrastructurepose key risks to them.
+v.
+Bank Involvement: The 1997 CAS was designed around mixed signals from Turkmenistan,
+with an official gradual approach to reform and indications of the potential for stronger reform,
+particularly in agriculture, foreign exchange management, and price liberalization. However, since
+then reform progress has been weak. The Bank has sought to support reform through several pieces of
+Economic and Sector Work (ESW), but these appear to have had little visible impact on decision
+making. The Bank has also struggled with portfolio implementation. All three on-going loans have
+experienced difficulties. During 1998-99, disbursements were suspended, due to procurement
+problems. The suspension was lifted in June 1999, and the Bank has resumed implementation of
+ongoing loans and technical assistance. However, Turkmenistan is in violation of the Negative Pledge
+Clause contained in its loan agreements with the Bank and has not met minimum debt reporting
+obligations to the Bank; and therefore it does not currently have access to new Bank borrowing. Many
+international institutions and donors have pulled back their activities. These include the IMF, which
+could not get adequate basic macroeconomic data for Article IV consultation, the EBRD, which
+prepared a country strategy early this year which does not contain public sector lending, and bilateral
+agencies, which have reduced their assistance considerably. All of this suggests the need for a more
+cautious and limited approach in the current CAS.
+vi.
+.
+
+In light of the above, the role of the Bank over the next three years is sequenced in three phases.
+Initial Phase: During the first phase the Bank will help Turkmenistan build a more solid
+foundation of economic capacity and transparency, from which it can launch deeper reforms when
+it is ready. Without this foundation, more direct efforts to strengthen the economy and improve
+living standards are unlikely to prove successful. To this end, the initial limited role of the Bank
+will be primarily to engage in policy dialogue and extend non-lending analytic support to (i)
+strengthen economic management capacity within the Government, (ii) increase transparency
+of, and access to, economic and public resource information within Turkmenistan, and (iii)
+improve living standards monitoring and social assistance targeting mechanisms. The Bank
+will also support strategy design in key national and regional issues (water, energy,
+environment). During this phase, on the overall issue of fiduciary accountability, the Bank will
+continue to stress the importance of transparent accounting and procurement procedures.
+Supervisionof on-going projects will remain a top priority.
+
+* Second Phase: Given the loan clause violation and Turkmenistan's limited reform progress, it is
+likely to prove extremely difficult for the Bank to extend new lending in the near term. However,
+the Bank will go forward with a small 1-3 loan program over 3 years for urgent priorities if (i) the
+Negative Pledge Clause violation is resolved, (ii) performance of ongoing projects is improved,
+and (iii) progress is achieved on key budget and debt management areas, including the reform of
+the FERF. The envisaged lending will be on priority human needs (a health project) and disaster
+prevention and water management (a canal rehabilitation project). The improvement of services
+
+ii
+
+for the rural economy (a crop protection project) would also be supported, contingent on
+improving farmers ability to generate income, pay for the above services, and conserve water.
+Longer Term Agenda: If the Government shows strong commitment to moving resolutely forward
+on a deeper reform agenda, the Bank will consider additional support. Such support would be
+considered in light of progress in, and commitment to, reforms in key policy areas and
+achievements in near term CAS benchmarks including improvements in living standards
+monitoring and targeting. In this event, a CAS update will be prepared.
+vii.
+
+The Board may wish to address the following issues during its discussion:
+
+* Is the proposed strategy -- focusing initially on non-lending services until the Negative Pledge
+Clause violation is resolved, performance of ongoing projects is improved, and progress is
+achieved on key public resource management areas, including the FERF -- an appropriate one?
+* In the event that the lending triggeis are met for a small 1-3 loan program, are the areas for new
+borrowings identified herein - in health, canal rehabilitation, and crop protection - the right
+priorities?
+* How can the Bank do more to move the reform agenda forward in an environment where some of
+the basic conditions that would support systemic reform may not be apparent?
+
+..
+
+MEMORANDUM OF THE PRESIDENT OF THE
+INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT
+TO THE EXECUTIVE DIRECTORS ON A COUNTRY ASSISTANCE
+STRATEGY FOR TURKMENISTAN
+
+I.
+
+Introduction
+
+1. This is the second Country Assistance Strategy (CAS) documentof the World Bank for
+Turkmenistan. The first (R97-93/1)was discussedby the Boardon May 27, 1997.To preparethe
+CAS, the Bank conducted four missions to Turkmenistanduring the past year, and met with
+Governmentofficials,parliamentarians,donors,NGOs and representativesfrom the private sector.
+The Governmentof Turkmenistanhas addeda letterwithits commentson the CAS (Annex1).
+II.
+
+Political and Economic Environment
+
+PoliticalDevelopmentsandProspects
+2. The politicallandscapehas not changedsignificantlysincethe previousCAS was preparedin
+1997,and does not appearlikelyto changemuch over the currentCAS period. The Presidentand
+Prime Minister since independencein 1991, SaparmuratNiyazov, plays a dominantrole in the
+political,economicand sociallife of the nation. The constitutionwas amendedin December1999to
+permit the first President to remain in his post for life. Parliamentaryelections were held in
+December 1999, but these were criticized by internationalorganizationsfor the limited choice
+among candidatesor parties. Official Turkmenpolicy recognizesthe need for a gradual move
+towardsa multi-partysystem.
+3. Politicalstabilitythroughthe centralizationof power has a price. There are few checks and
+balanceswithinthe governmentand betweenthe governmentand otherinstitutions,a situationthat
+can result in sub-optimalpoliticaland economicchoices. Outside of the office of the President,
+governmentagenciesand officials have limited authorityto make key policy decisions.There is
+warinessof sharinginformationacrossinstitutionallines and with internationalorganizations.Most
+importantly,policiesand investmentdecisionswhich are not shapedthrougha participatoryprocess
+areoften less than optimalandlackthe broadownershipto makethem sustainablein the longrun.
+4. Turkmenistanmaintainsa foreignpolicy of "permanentneutrality"recognizedby the UN, is a
+signatory to several UN conventions,is a member of the Economic CooperationOrganization
+(ECO),and is a memberof the "six plus two" groupseekinga resolutionto the Afghanconflict.
+EconomicDevelopments
+5. Followingindependencein 1991,the economyof Turkmenistanexperienceda steep decline,
+caused by disruption in oil and gas exports, poor harvests, and weak economic management.
+Between1992-97,it is estimatedthat real GDPfell cumulativelyby about50 percent,comparableto
+that experiencedby otherCIS states. With the discontinuationof gas exportsto Ukrainein 1997the
+economyfell further,and the currentaccountdeficitrose to over 20 percentof GDP in 1997and to
+
+33 percent of GDP in 1998. Financing of such a sizeable external gap led to a 200 percent increase
+in external debt between 1996 and 1998. However, beginning in 1998 the economy started to grow,
+according to official statistics by 7 percent in 1998 and 17 percent in 1999, fueled in part by a
+recovery in agriculture output and (starting in 1999) energy exports. The prospects for 2000
+continue to be bright, and GDP is projected to
+rise by 18 percent, powered by oil and gas
+I. KeyEcoinomic
+Statistics
+production (particularly a resumption in gas
+19E 19
+19990*
+sales to Russia and Ukraine).
+0GblJphkat*offcia2.7'
+2.8
+3f3x 43
+itte)23
+metch
+tadAlias
+RealGDPgrowth,%
+
+6.
+Apart from energy sales and agricultural
+production, growth has also been spurred by a
+large public investment program (about 40
+percent of GDP) in roads, railways, oil
+refineries, textiles, construction, electrification
+and food processing. However, much of this
+has been carried out through extra-budgetary
+funds, and the financial and economic returns
+of many of these investments do not appear to
+have been adequately reviewed and prioritized,
+factoring in opportunity and recurrent costs, and
+future debt servicing. According to official
+statistics, inflation is in check and the official
+state budget is in balance.4.6
+7.
+
+28
+
+% 12
+
+kfl0o
+ttBU4t
+
+640
+
+Dalime
+
+660
+
+70
+
+7
+
+17
+
+18
+
+22
+
+20
+25
+
+20
+22
+
+14
+21
+
+25of S
+
+22
+
+21
+
+-3
+
+0
+
+0
+
+'xpC25
+
+tur
+
+*
+
+-11
+
+* fw2
+B
+
+550
+
+33
+
+0
+
+614 1,164DP37
+
+MR.
+$
+p1an
+N
+
+I
+In0outa,
+;ise
+
+g
+
+l0 4
+
+ma.S
+Ext
+bin.
+
+1e7a22l23
+
+I
+
+ran.$
+
+263
+
+313
+5,0
+
+While these are important achievements, ; ;
+
+there is need for caution in their interpretation.
+
+X5
+Suc:Vro*~W
+
+2.32
+
+i~aet
+
+M,G~
+
+480
+520
+
+374
+2G
+
+a~~~t~
+
+Fist, concerns remain about the reliability of
+national accounts and trade price/volume data.1 Limited access to full and reliable economic and
+fiscal data remains a major issue. Second, the deceleration in officially recorded inflation is to some
+extent due to the control of prices of utilities and some commodities, as well the availability of cheap
+imports from its neighbors due to an overvalued exchange rate. Underlying inflationary pressures are
+still likely to be high, as reflected in the parallel exchange rate (which is over three times the official
+rate) and growing money supply. Third, the balanced state budget represents only a small subset of
+public revenues and expenditures, due to large extra-budgetary activities (see para. 28-31).
+Near and Medium Term Economic Prospects
+8.
+Economic Projections: In the near term, the economy is likely to continue to grow
+significantly, even with limited policy reforms. The potential for this growth rests to a very large
+degree on Turkmenistan's tremendous hydro-carbon endowment 2 combined with below full
+utilization of currently available capacity in the gas sector. Turkmenistan's pre-independence
+production level of natural gas has been estimated at 80-90 bcm. The resumption of gas exports will
+l For example, while Turkmenistan's national accounts appear to be compiled in general accordance with international
+standards, significant revisions in past data are not uncommon. Also about half of gas exports is conducted in barter and
+agriculture production is considered by some to be overstated.
+
+Turkmenistan has the fourth largest gas reserves in the world, amounting to 2-3 trillion cm in known reserves (and
+potential reserves are estimated to be much larger). This could allow Turkmenistan to maintain a production capacity of
+100 billion cm per year for the next 20-30 years.
+2
+
+2
+
+raise Turkmenistan's gas production to about 45 bcm in 2000, and Turkmenistan has recently agreed
+to increase production levels further. Specifically, it has agreed to increase its supply of gas to
+Ukraine from 5 bcm in 2000 to 30 bcm in 2001 and is negotiating an agreement to supply Russia
+with 30-40 bcm in 2001 (up from 20-30 bcm in 2000). This, combined with smaller but rising levels
+of gas exports to Iran and domestic use, will enable it to reach full utilization of existing capacity
+over the CAS period, with most of the production growth taking place in 2001. Earnings related to
+Turkmen gas are more dependent on negotiations as regards supply routes rather than fluctuations in
+world energy prices (the price of Turkmen gas is estimated to remain at about $38-42 per 1,000 cm
+for the CAS period). The oil sector also continues to attract foreign investor interest and is expected
+to grow robustly, especially considering the relative transportabilityof oil compared to gas.
+9.
+Prospects beyond the energy sector seem less bright given the limited commitment to
+fundamental reform, particularly as regards implementing agriculture liberalization and reducing
+barriers to private sector development. Turkmenistan has planned for a significant growth in
+agriculture production, including cotton and wheat. However, such growth is unlikely to be
+achieved without giving farmers greater control over their production and creating incentives to
+conserve water. Growth in infrastructure and construction may continue, mostly supported by
+continued large public investments.
+10. In sum, GDP growth is expected to be on
+the order of 21 percent in 2001, after which it
+may level off to about 5 percent per year (see
+Chart 1). The source of this growth is expected
+to be concentratedin the energy sectors. It
+should be noted that the impact associated with
+this growth is moderated due to the fact that
+40-50 percent of gas exports to CIS countries is
+payable in kind. In addition, unless part of
+energy sector proceeds are plowed back to
+maintaining production facilities and pipelines,
+energy production may not be sustainable over
+the longer term. As noted, these projections
+assume little reform progress. On the other
+hand, if Turkumenistanwere to proceed with a
+
+Chart
+1hand
+Turkmeeistan:
+Projected
+Economic
+Growth
+Sourcesof Growth
+(1998
+= 100)
+--
+
+S
+160_
+
+_
+
+tn on
+
+OH
+
+5%
+
+|
+
+21*
+
+2000
+
+2001
+
+3*
+
+5
+
+_P
+
+160 JU
+
+14m
+207%
+100
+80
+
+60
+40
+
+20
+
+0
+199S
+
+199
+
+2002
+
+2003
+
+2004
+
+more systemic reform program, growth
+
+Source:Turknen authorities'historicaldata and WorldBank
+
+projections would be even higher.
+
+staffproiections
+
+11. The Risk of Economic Disruption: This economic growth projection is, however, subject to
+considerable risk, as the economy is highly dependent on (i) oil and gas exports which may
+fluctuate significantly due to price considerations, export route disruptions and payment difficulties3
+and (ii) water intensive agriculture which is both dependent on regional cooperation and over the
+long term contributes to the salinization of land and reduces yields. Turkmenistan's large public
+investment and construction program, which often appears to be pursued without feasibility
+studies or proven financial and economic rates of return, represents another source of concern. Not
+only is the current capital investment level (about 40% of GDP according to official statistics) high
+by international standards (South East Asia has averaged about 30%) but it locks Turkmenistan into
+high recurring costs to maintain these projects. Finally, Turkmenistan has relied heavily on public
+3 For
+
+example, due to payment problems, gas exports to Ukraine were discontinued in 1997, resulting in a sharp decline
+
+in GDP.The variouspipelineproposalsto Turkey,Pakistan,IranandChinawouldreduceeconomicrisk if realized.
+3
+
+and publicly guaranteed debt to finance public investments, and servicing this debt could be
+problematic if oil and gas revenues are ever disrupted.
+12. The risk of economic disruption can only be mitigated by (i) improving public resource
+management, (ii) accelerating market reforms which will permit more diversified private sector led
+growth and investment and (iii) improving national water management. However, Turkmenistan's
+efforts on these fronts have been limited. Budget and debt management are strongly in need of
+improvement (see paras 27-37), 'although the Government has recently indicated interest in moving
+forward in this area as well as in foreign exchange market liberalization. Barriers to private sector
+development, including limited access to foreign exchange and trade restrictions, are quite high (see
+paras 48-53). Agriculture policies are still predicated on the state order as well as excessive water
+usage and drainage (including the creation of a new large collector lake in the Karakum Desert)
+rather than conservation (see paras 42-47).
+13. Therefore, unless greater reform progress can be made, growth outside of the energy sector
+will be hard to sustain and the potential for a significant economic downturn caused by a disruption
+in gas supply routes will remain. Sensitivity analysis indicates that a suspension of natural gas
+exports to Russia and Ukraine would result in an immediate GDP drop of over 20 percent, and a
+marked slowdown in growth thereafter. Such a downturn could have a significant impact on the
+living standards of the people of Turkmenistan. In this event, the large external debt burden may
+also limit the availability of further external financing to help manage the impact of a downturn.
+Even if growth is maintained, Turkmenistan runs the risk of becoming an energy enclave, with
+limited benefits trickling down to the bulk of the people, especially those living in rural areas.
+The Government's 10-Year National Program
+14. The Government's goals are articulatedin the National Program "Strategy Of Socio-Economic
+Developments in Turkmenistan For The Period Up To 2010" (hereafter referred to as the National
+Program) published in December 1999. The National Program identifies four primary goals. These
+are: (i) Economic Independence (including increasing economic growth through private sector and
+foreign investment), (ii) Food Safety (including increasing domestic food production and
+promoting food exports), (iii) Social Security (including labor rights, employment opportunity, and
+a social safety net), and (iv) Ecological Safety (including preventing disaster in the Aral Sea
+region; providing high quality drinking water, and reducing soil salinity). The National Program
+devotes considerable attention to meeting these goals by establishing production targets. For
+example, by 2010, cotton and wheat production would both double to 3 million tons each, sugar beet
+would triple to 900 thousand tons, and the number of sheep and goats would double to 16 million.
+There are production targets for eggs, melons and berries as well. Gas production is targeted to triple
+to 120 bln cubic meters and oil production to rise five times by 2010. There are similar details about
+each branch of the economy.
+15. The National Program also describes in broad terms some of the public policies by which
+these objectives will be met, albeit without specificity of detail nor implementation time frame:
+(i) Fiscal and Monetary Policy: The budget should be expanded to cover all government
+transactions and to eliminate all extra-budgetary accounts. Tax policy will aim at reducing the
+burden on enterprises, and promoting import-substitution and exports. The budget deficit and
+
+4
+
+monetary policy will be tightly controlled to reduce inflation. Directed credits will be eliminated,
+and positive refinancing rates will be phased in, supported by a market for government securities.
+(Qi)Foreign Exchange and External Debt Management:A market based exchange rate will
+be introduced. External debt management is to be strengthened to ensure a reasonable volume of
+borrowing and its efficient utilization.
+(iii) Investment Policy: Investments will be maintained at a high level to achieve the
+government's ambitious growth objectives. State commercial banks will be encouraged to extend
+long term credits and new financial institutions are to be created as well. Remunerative yields will
+be offered to mobilize household savings. Foreign investment and joint ventures will be
+encouraged. With the strengthening of their financial positions, enterprises will begin to rely on
+their own funds for investmentpurposes.
+(iv) Private Sector and Financial Sector Development: Bureaucratic obstacles to private
+businesses and small enterprises will be reduced. Privatization through auctions or corporatization
+will be continued but in ways that ensure that living conditions are not worsened. In agriculture,the
+transfer of land ownership to private farmers will continue. In the financial sector, the development
+of a stock market and an insurance market will be encouraged.
+(v) Social Welfare: Efforts noted above to stimulate economic activity will help generate
+increased employment. In addition, the Government will continue to provide free gas, electricity,
+water and salt (up to a fixed limit) at least up to 2005, as well as free health and education services.
+Reform of the pension system and allowances is envisaged to make these more effective.
+16. Analysis of the Program: The National Program contains many of the goals related to a
+transition to a market economy, and the Bank can therefore in principle find a match between many
+of the government's stated goals and the policies it regards as necessary to build sustainable
+economic growth and poverty reduction. However, there are some serious concerns. A critical
+concern is that there is an inherent contradiction in the National Program between the aim of
+creating a market economy and conserving the environment on the one hand and on the other hand
+mandating large growth targets for output of various commodities up to year 2010 that is
+reminiscent of a centrally planned economy. For example, enforcement of targets for ever
+increasing cotton sales would reinforce the state-order system and undermine the ability of farmers
+to freely choose which types of crops to grow. Water conservation could also be undermined by the
+significantgrowth in land under irrigationneeded to meet projected agriculture production.
+17. Other general concerns exist. First, the National Program has a strong emphasis on import
+substitution.While understandable as a reaction to the narrow specialization of Turkmenistan during
+the Soviet era, state-sponsoredprotectionary policies ultimately can be very costly as experience in
+other countries has shown. Second, the government policy of providing free commodities and
+utilities up to set limits, including water, electricity, flour, and gas can undermine its own goals of
+promoting water and energy conservation and environmental protection. The provision of these free
+goods also undermines the potential for commercialization of providers of these goods. Finally
+there are some important issues that are likely to arise during the transition that have not been
+adequately addressed. These include, for example, the restructuring of state banks and state
+enterprises.
+
+5
+
+18. Beyond these general concerns, within each sector, the National Program does not spell out
+specific priority actions and time frames within which they should be implemented. In fact, there
+appears to be a disconnect between the government's stated goals in the 10 year National Program
+and activities being pursued in practice. Therefore, the Bank's CAS seeks to identify priority sectors
+on the basis of improving the living standards of the people of Turkmenistan, and then to help
+translate many of the Government's long term goals in these priority sectors into near term policy
+actions necessary to achieve these goals and enable Turkmenistanto transition to a well functioning
+market economy (see section III).
+Global and Regional Linkages
+19. Following independence, Turkmenistan has focused on building its national identity.
+However, Turkmenistan is a country of only about 5 million people and is geographically distant
+from many of the advanced economies. The speed at which it develops is likely to depend on how
+well it can (i) participate in global knowledge sharing and initiatives on key development issues and
+(ii) cooperate with its neighbors on key regional issues.
+20. Global Knowledge Sharing: The most important global public good that Turkmenistan needs
+access to is knowledge - particularly knowledge about best practices in areas such as taxation,
+debt management, budget reform, exchange rates, privatization, pensions, health reform, energy
+contracts, water conservation in agriculture, etc. There are many ways to do this including training,
+learning forums, and the internet. To maximize its ability to participate in global knowledge transfer,
+Turkmenistan needs to increase its support for training of officials and provide permission for
+private internet providers to operate. The benefit related to such knowledge transfers will likely be
+directly proportional to how widely it is made available within Turkmen society. Numerous global
+initiatives exist, such as the Consultative Group on International Agriculture Research (CGIAR), the
+Global Water Partnership, Distance Learning Networks, and the Global Gateway which can
+facilitate such knowledge transfer. Participation by Turkmenistan in such initiatives could yield
+positive results.
+21. Regional Cooperation: The most important regional issue is water. Turkmenistan is
+dependent for both drinking and agricultural water on the flow from the Amu Darya - which travels
+from Afghanistan and Tajikistan through Uzbekistan and Turkmenistan to the Aral Sea. There are
+limited rules governing how each country treats the water and there are few incentives to conserve
+water, reduce contaminants, or assist in infrastructure maintenance. As a consequence the overall
+water quality and flow of the river has deteriorated. To ensure long term viability of this regional
+lifeline, the first priority is for all states in the region to improve water management. Beyond this,
+the international community supports the Aral Sea Basin Initiative to improve regional water use.
+Turkmenistan currently holds the rotating Chair of the Executive Committee of the International
+Fund for Saving the Aral Sea (IFAS). At the same time, it has recently announced the development
+of a new drainage collector reservoir which falls outside the Aral Sea Basin Program parameters,
+and this needs to be carefully reviewed against financial, regional and environmental concerns.
+Beyond water, there are other critical areas in need of regional cooperation such as energy supply
+routes, the ecology of the Caspian Sea, and trade that would benefit from a regional approach.
+
+6
+
+III. Key Development Challenges
+22. The Bank andTurkmenistanhave agreedthat the prioritiesidentifiedwithinthe CASbe based
+on the extent to which they contribute to improving the living standards of the people of
+Turkmenistan. In light of this strategicfoundation,and taking into accountthe Government's10
+year NationalProgram,the CAS identifiesfive focusareasnotedbelow and specificactionsneeded
+within each in order to implementthe Government'sprogramand improvethe living standardsof
+the poorestparts of the population.
+*
+*
+*
+*
+*
+
+StrengtheningPublicResourceManagement
+ImprovingHealthandSocialServices
+Developingan EfficientRuralEconomy
+SupportingPrivateSectorDevelopment
+Protectingthe Environmentand ConservingWater
+
+TheFoundation:ImprovingLivingStandardsin Turkmenistan
+23. A growingliteratureexistson livingstandardsand povertyin Turkmenistan,includingthe UN
+Human DevelopmentReport, reviews of the education and health sectors, and a World Bank
+analysisof one of the poorestregions,Dashowitz. Most recently,a LivingsStandardsSurveywas
+conductedby the StatisticsAgencyin 1998andhas been furtheranalyzedby the Bank.4 Whilethe
+absoluteincidenceof povertyappearslow, about half the populationappearedto be living on less
+than the official minimumwage in 1998 (as measuredby cash income).3 Most of these are
+supported by heavy subsidies on
+rt 2: Distribution
+ofConsumption
+in Turkmenistan
+commoditiesandutilities.It alsoreveals
+(1998)
+a large level of inequality,with almost
+half the national consumption being
+IS
+_
+consumedby only 10 percent of the
+16
+90 percentof
+10 percent population consuming 44
+population
+population(see Chart 2). There is a ER 1412
+consuming56
+percentof nationaltotal consumption
+particularly stark difference between n to
+percent of
+those who live in Ashgabat, where
+
+almostno povertyis recorded,and the |
+rest of the country, particularly in the
+rural areas. Beyond geography, the
+
+most distinguishing features of the
+
+0
+
+total national
+
+8
+
+6
+
+-
+
+4
+2
+
+0
+
+poorest group are their high numbers of
+
+Manat (100) per capita per day, 1998
+
+children and their low access to some
+infrastructure(suchas pipedwater).
+4
+
+"A Profile of Living Standards in Turkmenistan" (World Bank, Jan. 2001)
+
+measurementof povertyhas proven difficult in Turkmenistan. The results of the 1998 Living Standards Survey
+indicated that 7% lived below the $2.15 poverty line using purchasing power parity. However, this data should be used
+with caution as it depends on calculations of purchasing power parity based on uncertain price indicies. As noted, the
+income of about half the population fell below the minimumwage in 1998, if only cash income is counted. However, it
+is uncertain what the impact of recent increases in wages and economic growth over the past few years has been on
+living standards. Turkmen authorities have recently suggested using another measure - the share of population with
+incomes below 50% of the median per capita income. According to government statistics, only 1% of the population
+currently falls below this level. Additional work on developing a common and appropriate poverty line is needed.
+5The
+
+7
+
+24. Key Areas in the Battle Against Poverty: The Profile of Living Standards identifies the
+following areas as being in urgent need of attention to improve the level and sustainability of living
+standards of the poorest segments of the population:
+* Improving the Effectiveness of Public Supportfor the Poor: While the policy of providing goods
+and services (eg. flour, salt, gas, oil, water, electricity) free or at very low prices has served to
+alleviate the conditions of those with limited incomes, it has also reduced incentives to conserve,
+maintain and improve services. Further, these subsidies are only partially paid for explicitly
+from the budget and farmers both have to sell their crops to the state-order and obtain subsidies
+in return, which makes it difficult to determine net benefits. Hidden subsidies distort the ability
+of enterprises supplying and receiving such commodities to operate on a market basis. Finally,
+there is evidence that such subsidies are not well targeted, and much of the benefit may be
+absorbed by those better off.6 To improve long term financial sustainability and the quality of
+service, increased charges for commodities and public utilities combined with a targeted
+benefits program transparently provided by the budget should be phased in. A reduction in
+subsidies without an approach to increasing income generating opportunities and a safety net for
+those left behind is likely to hurt living standards, at least in the short term. A holistic approach
+is therefore needed to address these issues together.7 A central element in such an approach
+ought to be transparency and accountability, to ensure adequate support is provided to those
+most in need.
+* Improving Health Care: In terms of human
+
+Table2: ComparativeHealth
+
+development indicators, health is a top priority.
+
+Turkmenistan has historically had some of the
+lowest life expectancy rates and highest infant
+mortality rates in the CIS (see Table 2), although
+official statistics suggest that there have been some
+improvement recently. These issues affect the poor
+in particular, as they tend to have more children
+and more limited access to piped water, and cannot
+afford unofficial payments to health care workers.
+There are three key components that impact health
+
+Indicators (1997/98)(1
+Life
+
+Expectancy
+(yrs)
+
+Infant
+Mortality
+(#/1000
+births)
+
+Turkmenistan
+
+66
+
+33 (2)
+
+KyrgyzRep
+
+Albania
+
+69
+71
+73
+
+24
+18
+33
+
+Kazakhstan
+
+68
+
+24
+
+Bulgaria
+
+indicators: (i) poor water quality and sanitation (1)
+Statistics are from the Bank's live data base or from
+the UNDP's "Human Development Report," 1999.
+which leads to infectious and parasitic diseases, (2) Recent government reports indicate this may have
+particularly in infants, (ii) life-style factors fallen to as low as 26/1000
+(including consumption of fat, smoking, drinking) which increases the incidence of heart disease
+and related ailments, and (iii) the quality of the health care system. On the last, Turkmenistan
+has initiated some improved policies including better family planning services, some staff
+retraining, and a stronger emphasis on primary care. It is critically important that these initial
+reforms be supported and deepened, including through changes in the budgetary and incentive
+systems.
+
+6 Although there are eligibility criteria for subsidized flour (children, elderly, veterans, disabled), in practice over 60% of
+
+the population receive this. Also, many of the poorest do not receive piped water and have few electric appliances.
+There are official limits to free utilities, but meters and taps are scarce and there are few incentives for conservation.
+7 In late
+
+1999 the Governmentintroduced a new system to provide one-time grants of assistance to the most needy. Local
+commissions are being formed at the etrap and town level to identify those that require assistance. The system is still in
+its infancy, and its effectiveness is not yet known, but it could be a foundation to build on.
+8
+
+* Supporting Education: While basic education continues to provide near universal literacy, there
+are worrying signs of deterioration, particularly as regards the time spent in primary and
+secondary grades, the content of the curriculum, and access to higher education. The link
+between education and employment also appears weak at present, and this will become more
+important as the move towards a market economy progresses. It is critical for the Ministry of
+Education to address these systemic issues facing the sector.
+* Strengthening the Rural Economy: The vast majority of those in the lowest income quartile live
+in the rural areas. In 1998 all of the surveyed residents of Ashgabat lived above the level of 50
+percent of mean consumption, and in each of the five regions, there is a higher incidence of
+poverty in the rural rather than urban areas.8 The best way to address income inequality and
+improve the living standards of the poorest is therefore to improve the efficiency and market
+orientation of the rural economy (including the elimination of the state order), providingthe poor
+with both increased income and greater employment opportunities. Preventing the breakdown of
+the poorly maintained irrigation infrastructure is equally important. But the two go hand-inhand. Providing farmers with greater income potential will enable them to pay for, and maintain,
+water and irrigation services.
+25. Poverty Monitoring: A key element in moving forward with poverty focused development is a
+strong poverty monitoring system and reliable statistics on key indicators. Turkmenistan has a
+statistics agency which takes the lead in most such efforts, including the preparation of the 1998
+Living Standards Survey, but there is a significant need to improve its capacity and train its staff to
+produce and analyze reliable statistics that meet international standards. A number of government
+and donor-sponsored reviews now exist on key social sectors (education, health, living standards,
+employment, human development etc) but continuing work on these is needed. The statistics agency
+has requested Bank support for improving its capacity to monitor living conditions.
+26. Gender Issues: Turkmen society involves both traditional roles for women as well as support
+for modern equality rights which are embedded in the constitution. Although available information
+on gender issues is limited, there do not appear to be large differences in women's and men's access
+to basic education or other social services. The UN's gender-related human development index and
+Gender Empowerment Measure (measuring participation in parliament, public administration) also
+do not indicate significant inequality, although there is some indication that women may be
+underrepresented in some key ministries and higher education opportunities. Maternal mortality
+figures are high but official statistics suggest they may be decreasing, as with the case of infant
+mortality. Looking towards the future, the Bank will emphasize the need to deepen Turkmenistan's
+knowledge base on gender issues, particularly in the context of its planned support for monitoring
+living standards statistics. In the Bank's round-table discussions with NGOs (see Annex 3), training
+for potential women entrepreneurs was suggested as an important development tool. It will also be
+important to factor in the role of women in agriculture reform, both in terms of land ownership and
+working conditions.
+StrengtheningPublic Resource Management
+27. The living standards profile highlights the importance of a transparent budget-based approach
+to transfers to the poor, and the weak connection currently between the extensive funds made
+The Living Standards Survey may, however, exaggerate somewhat the real difference in living standards between
+urban and rural areas, since rural residents may be able to grow some food for themselves, and have a stronger level of
+community support.
+8
+
+9
+
+available for public investments on the one hand, and critical unmet needs in basic health and
+education on the other. At the root of both of these concerns is a public resource management
+system that requires serious systemic improvements in investment review and allocations, in
+transparency, and accountability. In light of these considerations the top development priority of
+Turkmenistan is to put in place a transparent system of public resource management that can direct
+public resources to priority uses. With a better system in place, Turkmenistan could use its
+considerable natural resource wealth to address the large level of income inequality and improve
+basic living standards with its own resources. Without such a system, more direct assistance to
+strengthen particular sectors of the economy and reduce poverty are unlikely to have a lasting
+development impact.
+28. Budget Management and Transparency: At present the Ministry of Economy and Finance
+provides allocation management and oversight over only a small portion of government revenues
+and expenditures through the state budget. The rest is managed by autonomous extra-budgetary
+funds and ministries that follow their own sectoral priorities. There are five major extra-budgetary
+funds (the Oil and Gas Fund, the Transport Fund, the Agricultural Fund, the Health Fund and the
+Foreign Exchange Reserve Fund) as well as smaller funds and off-budget ministerial activities.9
+This makes it difficult to ensure that public spending as a whole reflects the government's priorities
+and is used effectively. Inclusion of many state enterprises within the Government also misdirects
+scarce budget funds for activities that ought to be done by the private sector. The non-transparency
+of key operations makes accurate measurement and analysis of investments across sectors difficult.
+For example, self-financing ministries appropriate after-tax surpluses from enterprises under their
+control to fund other operations (including capital expenditures and cross-subsidized services to the
+population) without considering investments elsewhere.
+29. In the 1997 CAS, the Bank indicated that fiscal discipline, including consolidating all fiscal
+funds into the budget, would be the linchpin of reform. The government's 10 Year National Program
+has also established strong goals in this area. All extra-budgetary accounts are to be eliminated, and
+all investments are to be included in an investment budget with an appropriate analysis of rates of
+return. Also selected government companies are to be separated from ministries to facilitate
+privatization. Very limited progress has been made since then, although some progress was made in
+FYOOby presenting planned revenues and expenditure outlays of most extra-budgetary funds in the
+state budget document.
+30. The World Bank has made a number of concrete suggestions to the government to promote a
+transparent, rational and efficient utilization of scarce public resources.1 0
+An important
+recommendationis that budget coverage must be made more complete by progressively eliminating
+the funds and integrating their activities in the budget. A transparent process should be put into
+place to evaluate and prioritize investments within a common framework, and with adequate
+review by sector specialists. The commercial activities of the self financing ministries must be
+separated from the non-commercial ones and the latter incorporated in the budget. Quasi-fiscal
+operations such as subsidized credit should also be included in the budget. Until such time as these
+measures are implemented, regular reporting to the MOEF of all expenditures and revenues of the
+funds and self-financing ministries, including the Foreign Exchange Reserve Fund, should be
+
+9 It has been estimated that the expenditures under the state budget which are allocated by the Ministry of finance
+
+representsonly about20 percentof all publicexpenditures.
+10Turkmenistan: Improving the Management of Public Expenditure, World Bank, October 1998.
+10
+
+enforced." Consolidated budget information should be widely available. These efforts should be
+supported by procurement reform, the introduction of international accounting standards, and a
+The Bank is supporting the
+reduction in netting (non-cash offsets between institutions).
+modernization of the budget process through its on-going IBTA loan (see Annex 2), although the
+effectiveness of this will depend on progress on the more fundamentalreforms noted above.
+31. The Bank has recently advised the Governmentof Turkmenistan that a central element in good
+budget management will be establishing improved and transparent rules for the largest extrabudgetary fund, the Foreign Exchange Reserve Fund (FERF). Only limited information is
+available on the size, rules, and transactions of the FERF. However, it is estimated to be on the
+order of about $1.7 billion (equal to about 14 months of imports) held abroad. A large percentage of
+foreign currency earnings (possibly on the order of 30% - 50%) on exports of energy, cotton, and
+possibly other transactions are transferred to this fund each year, and large public investment
+expenditures are made out of it. The FERF also may include elements of a foreign reserve
+management function (though the Central Bank has only limited control) and an inter-generational
+savings fund to cover future shocks. If public resources are to be managed transparently, it is
+therefore essential that the rules governing these FERF functions should be carefully considered in
+light of international experience. This will be a critical element in exchange rate management as
+well (see Annex 4). The Bank is prepared to provide advice to the government on the reform of the
+FERF based on international experience during the CAS period.
+32.
+Debt Management: Currently, there is no clear system to consolidate all external debt
+obligations, and ensure that debt service is monitored and paid when due. Part of the external debt is
+managed under the Central Bank and part under the State Bank for Foreign Economic Affairs.
+Further the process of making public investments and contracting foreign debt are often separated.
+Many investments appear to have been undertaken on an ad-hoc basis and without considering
+future debt service obligations, and recurrent costs of investments.12 This has resulted in large levels
+of external public debt and debt service payments which could limit Turkmenistan's
+creditworthiness and future access to external capital if poor debt management persists.'3 Faced
+with an increase in foreign debt, a Presidential decree was issued in 1999 seeking greater control on
+the project formulation and loan approval process. Accordingly, all investment projects must be
+evaluated by the State Agency for Foreign Investment (SAFI). The Deputy Chairman of the Cabinet
+of Ministers in charge of the national economy must personally sanction all new projects above a
+certain threshold. It is unclear, however, how effective these procedures are.
+33. The rising level of external debt was flagged as an important creditworthiness issue in the
+1997 CAS. The government's 10 Year National Program also establishes improved external debt
+management as a key goal, with the targets of increasing its credit rating, improving the efficient use
+of borrowed funds and establishing a reasonable level of total borrowing and government control. It
+also proposes a central process for external debt repayments under the government budget.
+11In the past, auditedaccountsof extra-budgetary
+fundswerenot madeavailableto the MOEF. It is reportedthat as of
+July 2000,MOEFhas hadaccessto suchaccounts.Suchaccesswill needto be carefullyverifiedandmonitored.
+The MOEF maintains an overall plan for "centralized investments" which are largely funded in domestic currency and
+implemented through ministries. However, foreign borrowing generally falls outside this framework.
+12
+
+Turkmenistan's stock of debt has increased from $1.7 billion at end 1997 (66% of GDP) to about $2.3 billion in March
+2000 (about 50% of GDP). Debt service payments are now about $400 million annually (about 15% of exports). Given
+the expected rise in exports and GDP, this level of debt, although large, is not unmanageable with appropriate review of
+new debt proposals and public investments, and greater economic diversification.
+13
+
+11
+
+34. The government needs to take a number of near term steps to meet its goal of strengthening its
+debt management. Appropriate limits should be placed on all new external borrowing (including
+publicly guaranteed debt) and borrowed resources should be used only for priority investment
+projects with high economic rates of return. Appropriate institutional arrangements to manage
+external debt need to be put in place. These include (i) a high level policy making body that sets
+strict borrowing ceilings for each year, approves external borrowing proposals of the government
+and specifies the responsibilities for debt service, etc; (ii) a debt management unit that is
+responsible for the daily management of all external debt, collecting information on foreign debt
+contracts, and preparing periodic status reports and projections on debt; and (iii) a debt law that
+clearly sets out debt management limits, procedures and responsibilities. In addition, international
+experience suggests that providing access to external debt information is an essential element in
+building relationships with external investors and donors. The Bank is supporting these efforts
+through an IDF grant for debt management, which has placed an international debt advisor with the
+Government.
+35. Good Governance and Transparency: There is a strong need to improve information
+transparency and information sharing in Turkmenistan. As noted, there is limited information on the
+bulk of government spending and on debt. Most enterprises do not operate using international
+accounting principles and there is a heavy use of non-cash transactions. During CAS consultations
+with civil society and the private sector, many participants indicated that the main issue is not
+the existence of good laws, but the transparentapplication of laws.14 The basis for good public
+management has to be access to appropriate information, both information generated within
+Turkmenistan and outside information (best practices etc). Limited transparency can also lead to a
+lack of accountability and is often a leading ingredient in rent seeking. Limited transparency is of
+course primarily an internal issue, but also prevents a more robust cooperation with foreign investors
+and international institutions15
+36. Inadequate and non-transparent accounts also hamper control over improper practices and
+corruption (bribes, kickbacks, favoritism, etc). Levels of corruption are hard to measure given the
+non-transparentnature of public investment activities, but are generally considered to be significant.
+In this light, it is essential to build a system of public financial accountability and control.
+Turkmenistan has taken initial steps in this regard by drafting a Public Procurement Law, which is
+expected to be submnittedto Parliament over the coming year with the support of the Bank.
+Turkmenistan is also beginning to introduce International Accounting Standards, also supported by
+the Bank, which should help improve accountability over expenditures. Looking towards the future,
+these specific activities need to be institutionalized in a way that facilitates implementation and
+makes them sustainable.
+37. Good governance involves many aspects besides information sharing and transparency. For
+example, it requires establishing rules and institutions that separate regulatory and business
+functions and other forms of checks and balances. Transparency in public resource management
+should therefore be considered as a first step, which will help to (i) reduce incentives for officials to
+14 Theone area where the civil society roundtable did, however, indicate a need for a new law was in the legal status and
+registration of NGOs themselves, without which they face restrictions in carrying out their activities. The enactment of
+an effective legal framework for NGOs would be an important step in enhancing the delivery of social services.
+15 For example, adequate information on the full budget, extra-budgetary funds, and debt will be an important element in
+determining the extent of Bank activities. A recent IMF Mission in November, 2000 was also unable to obtain the
+information it needs to prepare the ground for an Article IV Consultation.
+
+12
+
+engage in inefficient or corrupt activities in the absence of checks and balances and (ii) set a good
+foundation for future work in improving governance. However, a longer term governance agenda
+should be recognized and begin to be discussed as well (see Box 1).
+
+Box 1: LongerTermGovernanceIssues
+Giventhe largerole of the Governmentin the economy,andthe centralizeddecision-makingprocess,the level
+of checks and balances within the system will require considerableenhancement. Beyond increasing
+transparency,somelongertermchallengesinclude:
+*
+
+Separationof Governmentfrom CommercialActivities: In mostsectors,Ministriesact as both regulator
+of commercialactivities,and as the operatorof enterprises. This leads to a conflict of interest.The
+separationof commercialand non-commercialactivitieswithin ministrieswould both lead to greater
+financialdisciplinein enterprisesandpermitthe Governmentto concentrateon supervisionandregulation.
+
+*
+
+Reductionin GovernmentControlsOverNormalTransactions:Highlevels of Governmentcontrolover
+normaltransactions,such as trade and exchangeactivities,can providean opportunityfor rent seeking.
+Similarly,registrationrequirementsfor most businesstransactionswith the StateCommodityExchange
+providesscope for harassmentof the privatesector and for corruption. The liberalizationof trade and
+exchangeregimesw3uldthereforebe particularlyeffectivein eliminatingthe opportunityfor corruption.
+
+*
+
+Improvementin Procurement/Auditing
+Practices: Turkmenistanis readying itself for the adoptionof
+internationallyacceptableprocurementand accountingprinciples.Andyet, it needsto be recognizedthat
+much of the economycontinuesto operate on non-cashtransactionsand on informalarrangements.
+Strongbankingand auditinginstitutionsare neededif there is to be substancebehindthese procurement
+andaccountingpractices.
+
+*
+
+Public Accountabilityof Officials: Many countries are adopting disclosure laws and monitoring
+met,hanismsto preventnepotism,corruption,and conflict of interest.Giventhe small population,and
+tendencyfor individualsto handlemultiplepositions,it willbe importantfor Turkmenistanto consideran
+appropriateapproachto this importantissue.
+
+*
+
+IndependentLegalInstitutions:In discussionswiththe civilsocietyandthe privatesector,the singlemost
+importantissuementionedwas not the lack of good laws,but the transparentand objectiveapplicationof
+theselaws. Thereis alsoa needto developappropriateinstitutionsto enforceprivatecontracts.
+
+*
+
+GreaterLevel of Participationin InformingDecision-Makine:Experiencehas indicatedthat the greater
+the level of participationin the governmentdecisionmakingprocess,the more sustainablethosedecisions
+are, andthe morelikelythat theywillbe effective.
+
+ImprovingHealthandSocialServices
+38. Health Services: The Living Standards Survey indicates that there is a strong need to
+strengthen health services, and that the development of the health care system is a main priority for
+Turkmenistan. Turkmenistan's health indicators (such as life expectancy and infant mortality) were
+historically among the worst in the FSU countries. According to the official data, however, there
+have been improvements in recent years in the maternal and infant mortality rates. It will be
+important to test the accuracy of the official statistics after the results of the recent demographicand
+health survey have become available. In addition, there has been a reported decline in several types
+of infectious diseases (such as blood circulation diseases, respiratory diseases and genital-urinary
+diseases). Despite these improvements,life expectancy (at 66 years) and infant mortality (reported
+
+13
+
+by the government at 26/1000 in 1999) remain of major concern.
+39. The 1997 CAS recognized the critical priority of improving health indicators, and proposed an
+immediate pilot health reform project. The government's 10 year National Program establishes
+significant long term goals in the health services area. These include maintaining free medical
+services, raising the amount spent on health to 7% of GDP, vaccinating up to 99% of children, and
+the intensive development of the domestic pharmaceutical industry. It also recognizes the need to
+stimulate the development of private services in health care. The Government has recently
+introduced a system of medical insurance for employed citizens.
+40. There are many health challenges to address, including life styles and environment. However,
+two critical issues that should be tackled as a priority in the near term are the quality of drinking
+water and sanitation, and the health care system:
+Drinking Water and Sanitation: Many of the poor do not have a piped water supply, but rather
+have to obtain water from wells or canals (which are often polluted). Few have adequate
+sanitation. For those with piped water, there are additional concerns relating to the poor state of
+repair of the pipes aid pumps, as well as the quality of water, much of which comes from the
+Karakum Canal or downstream Amu Darya and also has contaminants. These problems have
+contributed to the still high incidence of infectious and parasitic diseases, particularly in infants.
+The Government, with donor support, is working on addressing these water supply issues.
+Participants in the NGO Roundtable agreed that the top sectoral priority is water supply.
+Introducing improved management of water supply systems, including charging for water, can
+assist in ensuring sustainability and improving service. Of course, such an approach also needs
+to ensure access to safe water by those most in need and unable to pay for services. The current
+Bank project in Water Supply and Sanitation is playing a critical role in helping to improve the
+provision of water supply in one of the poorest regions of Turkmenistan (see Annex 2).
+* The Health Care System: A critical element in need of reform is the manner in which the health
+care system is organized, funded, and staffed. Basic medicines and medical equipment (such as
+syringes) are in severe shortage, and patients often have to buy them themselves in order to get
+services, despite the newly introduced insurance policy. There is therefore a need to ensure that
+the poor have adequate access to care. A fundamental reason for the inefficiencies in the health
+care delivery system is the poor system of budgeting. The overall health budget may be
+adequate, but a high proportion of it goes to funding tertiary level facilities. Further, reforms are
+required in the continued reliance upon the use of outdated norms to determine service and
+resources, and more attention needs to be paid to the quality of care provided. Some
+institutional reform towards a more quality oriented primary care system, appears to be
+underway. It is critically important that these reforms be supported and deepened. The
+proposed Pilot Health Project would play a critical role in this regard (see Box 4).
+41. Other Social Services: On general social support, the Government's 10-year National Program
+provides for free access to water, gas, electricity and salt up to fixed limits. At the same time, the
+Living Standards Profile has identified the need to move away from general subsidies through a
+more targeted approach to social protection. A small program to provide one-time support payments
+through local communities has recently been initiated, and could provide a foundation for a larger
+effort. Beyond this, a deteriorating education system (including reduced time in secondary school, a
+sub-standard curriculum, and limited access to higher education) is a key concern, althougl. there
+
+14
+
+appears to be only limited commitmentto addressing these systemic issues at this time.
+
+Developing An Efficient Rural Economy
+42. The dynamic growth of the agriculture sector is especially important to address the income
+inequality between the urban and rural areas and reduce poverty. First, the sector accounts for a
+substantial share of GDP and is a source of livelihood for a major part of the population.
+Agriculture contributed 26 percent to GDP in 1999 and it employs more than 45 percent of the labor
+force. Agricultural growth will therefore have a significant impact on the overall economy and the
+living conditions of the population, both in rural and urban areas. Second, most of the poor, as
+earlier noted, live in rural areas. Growth in agriculture and the generation of employment
+opportunities in the rural areas is the most effective way to lift the living standards of the population,
+including those that are poor. According to the Living Standards Profile, the elasticity of poverty
+with respect to economic growth is about 1.75. That is, a 5% growth in income of the population
+close to the poverty line is likely to reduce poverty by about 9%.
+43. The 1997 CAS highlighted the substantial progress on changing the status of most farmers into
+"lease-holders" at that time, and reported on government intentions to give efficient lease-holders
+private title to their land (albeit with some restrictions) within a few years. It was in fact, envisaged
+that by 1999 half of the land would be privately owned. However, progress since then has been
+limited, and only a very small portion of lands has been transferred to private ownership. Further,
+both lease-holders and private farmers access to critical inputs, storage facilities, marketing facilities
+and credit is limited unless they fulfill state orders.
+44. The government's 10 year National Program envisions rapidly expanding agricultural
+production, including a doubling of wheat and cotton production. At the same time, it indicates that
+by 2010 57% of all agricultural production will be under private ownership. The programme also
+recognizes the importance of developing the agro-processing industry and the development of new
+hydro facilities and pumping stations.
+45. The near term challenge to increase rural income should be to stimulate market based growth
+in agriculture. An environment must be created in which agricultural activity is not discriminated
+against and private farmers are induced to increase their productivity and adopt best cultivation
+practices. About 75% of arable farmland is used for cotton and wheat. At present virtually all of
+cotton and wheat sales are carried out through the state order system. State procurement prices for
+cotton and wheat paid to farmers in local currency average about 50%-60% of world prices valued at
+official exchange rates, and less than 20% when valued at the parallel (street) rate. It has been
+estimated that these prices, net of subsidized water, fertilizers, and other inputs, resulted in a real
+transfer of resources from agriculture to the rest of the economy equal to as much as 15% of GDP.16
+A further significant burden is that farmers would likely be able to obtain even greater benefits if
+given the opportunity to grow and market alternativecrops.
+46. These restrictions on farmer income will have to be reversed if agricultural growth is to be
+stimulated. For this, the scope of the state order system should be progressively reduced and farmers
+should be able to sell their produce freely in the domestic market or export it. At the same time,
+input subsides should be phased out to prevent wasteful use, and in particular user charges for water
+16
+
+"Turkmenistan - The Burden of Current Agricultural Policies" (IMF Working Paper, June 2000)
+15
+
+must be gradually raised to recover costs (see Annex 4). Introducing payments would be
+particularly important in order to (i) help maintain rapidly deteriorating agriculture irrigation
+and other infrastructure, and (ii) help provide the incentives for water and other input
+conservation, vital to building a sustainable approach to water management. These are both
+urgent needs. On the first, there are increasing reports of the deterioration of the Karakum Canal,
+putting millions of people at risk of a serious health and environmental disaster. On the second, it is
+estimated that water loss on the Canal approaches 50% due to evaporation, over-use and poor
+management. The Bank's proposed Karakum Canal Rehabilitation project would seek to address
+these concerns (see box 4).
+47. Removing restrictions on farmers without giving farmers access to alternative input and sales
+opportunities is also not likely to produce significant improvements. To alleviate this problem, the
+government must encourage private sector investment in marketing, storage and cotton ginning
+facilities and accelerate the privatization of agro-industries. The government has already begun to
+improve its pest control services to farmers, and the Bank's proposed Crop Protection project would
+help to ensure that these were provided on a commercialservice-oriented basis (see box 4).
+Supporting Private Sector Development
+48. Private sector development is critical to stimulate the income and jobs necessary to provide
+opportunity to the population of Turkmenistan. A vibrant private sector is also essential to provide
+an alternative to public investment, to diversify the economy, and to create a favorable atmosphere
+for foreign investment, in and outside the energy sector. The roundtable with Civil Society in
+particular highlighted the importance of strengthening the private sector environment to both
+improve social services and generate additional income in poor communities, including among
+women entrepreneurs. Although estimates of the extent of the private sector in Turkmenistan
+differ'7 , there is general agreement that its contribution to the economy remains well below its
+potential.
+49. The government's 10 year National Program recognizes the importance of the private sector and
+seeks to raise the non-Government share in GDP to 67% by 2010. It also advocates the liquidation
+of bureaucratic obstacles to private businesses and continuation of the privatization process for
+selected governmental companies. The program also establishes the goal of moving to a market
+based exchange rate system.
+W0. The 1997 CAS notes the Government's emphasis on private sector growth (particularly
+through land reform - see previous section) and privatization, particularly of small scale enterprises.
+In 1996/97 the government had issued a decree on small enterprise privatization and was preparing
+regulations for the mass privatization of medium and large enterprises. However, after privatizing
+about 2000 small scale enterprises, mostly in the field of trade and catering, since the end of 1998
+the privatization process has essentially stalled.18 A key reason for this is the poor environment for
+private sector enterprises to flourish. Further progress on privatization, while important, is unlikely
+to be successful until the overall environment for private sector development and foreign investment
+is improved.
+
+The governmentclaims the private sector accounts for 30-40% of GDP. Other estimates are in the range of 20-25%.
+'M
+At the same time, the Governmenthas indicated its intention to draw up a list of larger enterprises for privatization.
+16
+
+51. Consultations with the private sector identified two key constraints that dampen private
+activity, particularly in the SME sector, and provide a breeding ground for rent seeking and
+corruption. These should be addressed with some urgency (see Annex 4 for a fuller discussion):
+* Limited Access to Foreign Exchange at a Single Exchange Rate: The foreign exchange regime of
+Turkmenistan is highly distorted, with a restrictive exchange rationing system and a wide
+difference between the black market and the official rate. Participation in foreign currency
+auctions is carefully screened, and the inter-bank market was closed in 1998. Since then the
+government has imposed significant additional restrictions. More recently the government has
+indicated its intention to unify its official rate and the black market rate, and is piloting a lowerthan-official rate in a few public enterprises. The Bank has indicated that the first steps towards
+sustainable currency reform should be to provide the Central Bank with adequate foreign
+exchange to support the exchange rate, to reduce restrictions on participation in auctions, and to
+re-open the inter-bank market.
+* Excessive Trade Restrictions: While import tariffs are at minimal levels, there remain
+significant trade barriers including rationing of foreign exchange (noted above), export licensing
+requirements, and a requirement that all exported goods be pre-paid (In the case of imports too
+there is a requirement that they be paid for only on delivery.) But by far the most egregious
+controls are implemented through the State Commodity Exchange (SCE), for which almost all
+trade must be registered. Such registration can be time-consumingand costly. Differences over
+"appropriate" prices have limited legitimate transactions, led producers to import inferior
+products, and provided opportunity for rent seeking.
+52. A well run financial sector is another essential element in creating a positive environment for
+private sector development. The financial sector in Turkmenistan has recently undergone some
+consolidation with the merger of several insolvent banks with other institutions in 1998, but there is
+need for further improvement. At present the banking sector operates largely as a conduit for
+channeling state funds for designated activities to large state owned enterprises rather than as an
+evaluator of risk and financial return on market-based investments. There are only two private
+commercial banks operating in the financial sector, and these are subject to continuing government
+interference. A wide range of interest rates and directed credits for different categories of customers
+exist. Finally, the central bank is developing an electronic inter-bank payment system, although
+there continues to be significant use of non-cash transactions between enterprises. The IFC has
+approved a small loan to a private bank to help provide a best practices model for the banking sector
+(see paras 71-73)
+53. Beyond these urgent issues, other factors dampen private sector activity including (i) the
+limited state of internet access, which is an essential business tool, (ii) continued non-transparency,
+conflict of interests, and bureaucracy in licensing and application of regulations, (iii) harassment of
+private sector enterprises by various government agencies, (iv) the required majority state
+participation in joint ventures, (v) limited vocational learning opportunities, and (vi) heavy
+restrictions on travel including leaving the country (eg requirement of an exit visa), travel within the
+country (eg checkpoints) and for foreign businessmen visiting Turkmenistan. All of the above
+issues are critical for foreign investors as well as local businessmen. If the investment climate is
+improved, MIGA's online information systems, IPAnet and PrivatizationLink, can help attract
+investment in key sectors such as mining, oil, and gas (see para 74).
+
+17
+
+Protecting the Environment and ConservingWater
+54. Turkmenistan faces serious environmental problems in both the industrial and the agricultural
+sectors which affect the living standards of the population. In industry, oil refineries are major
+sources of pollution. Pollution occurs also from the burning of associated gas from oil fields as well
+in the processing of gas to reduce its sulfur content. Industrial pollution is particularly a concern
+around the Caspian Sea area. In agriculture, groundwater and the soil are contaminated by
+pesticides and fertilizers. But perhaps the primary environmental issue facing the country is the
+overuse of water to irrigate cotton fields and a lack of incentives for individuals and businesses to
+conserve water. This overuse has increased the salinity of the soil with a resultant reduction in crop
+yields. The overuse of water is also a source of regional environmental concern. The recent plans to
+build a large reservoir from drainage water should be reviewed further against such concerns.
+55. The government's 10 year National Program identifies Ecological Safety as a key goal,
+including ensuring environmental considerations in industrial development, insuring a high quality
+of drinking water, the reduction in harmful chemicals in agriculture, and the prevention of ecological
+disaster in the Aral Sea region. The Government has signed important international conventions on
+bio-diversity and climate change, and currently holds the Chairmanship of the Executive Committee
+of the International Fund for Saving the Aral Sea (IFAS). It has also published a "Red Book" on
+flora and fauna, and is in the middle of preparing a National Environmental Action Plan (NEAP),
+supported by the Bank.
+56. While there are many environmental actions needed, the government's policy of providing
+free water and energy for domestic and agricultural uses requires priority attention as a large amount
+of water is being wasted. As mentioned, it is necessary to introduce user charges, and other
+measures (including taps and meters) to encourage wiser, economical use of water and energy. This
+would both promote conservation and help mobilize the necessary funds to maintain irrigation and
+water supply equipment. Of course, in implementingthis, care needs to be taken to ensure that those
+most in need are not adversely impacted by such charges. The institutional capacity for
+environmental management needs to be strengthened to prevent fragmentation of responsibilities,to
+develop appropriate strategies, and tighten enforcement.
+
+IV.
+
+World Bank Strategy
+
+Lessons Learned From Past Bank Experience
+57. Policy Reform: The 1997 CAS presented a program designed around mixed signals on the
+pace of reform. On the one hand it indicated that the Government preferred a more gradual pace of
+reform implementation than the Bank thought warranted. At the same time, it observed that there
+was agreement on overall development goals and that there was some indication that the
+Government might be willing to accelerate the reform effort, including the potential for
+implementing an IMF-supported program that would unify the exchange rate and reduce price
+controls. The government had indicated that a significant proportion of land would be privatized
+
+18
+
+within a few years and regulations for privatizing medium and large enterprises had been prepared.
+The results since 1997 indicate that this later view was too optimistic. The key priority goals
+outlined in the 1997 CAS - budget and debt management, rural development, trade and foreign
+exchange liberalization, and privatization of larger enterprises- remain outstanding issues.
+58. As a result of this experience, the current CAS scales back both the Bank's expectation of
+more rapid reform and the extent of Bank support, particularly as regards lending. For the FY01-03
+period, the Bank will concentrate on building a stronger foundation of shared approaches with the
+government, and providing practical, non-lending support to build the Government's capacity to
+move forward at its own pace.
+59. Lending: The Bank has extended three projects to Turkmenistan. These are the Institutional
+Building Technical Assistance (IBTA) Loan approved by the Board in FY95, and the Urban
+TransportationLoan and the Water Supply and SanitationLoan approved by the Board at the time of
+the 1997 CAS. No further lending was extended from FY98 to FY00 due to (i) a misprocurement
+issue which took more than a year to resolve and suspendedboth new lending and disbursements on
+existing loans (this suspension was lifted in June 1999) and (ii) a negative pledge clause violation
+which was identified in 1998 and continues to prevent new lending. All three ongoing projects have
+experienced problems due to (i) procurement and implementation difficulties and (ii) failure to
+achieve adequate institutional change. Annex 1 provides the specific status and plans for each
+project.
+60. On the overall issue of fiduciary accountability, the Bank must continue to heighten the
+awareness of the importance of good accounting and procurement, including helping the
+Government to bring the public procurement law into being and providing training in international
+accounting (both supported by IDF grants).'9 Continued use of PIUs will, however, be necessary for
+the near future. Supervision of on-going projects will remain a top priority. New loans will need to
+be stricter on confirming Government commitment to both technical activities and policy reforms,
+regularly monitoring progress and providing for more hands-on support for implementing reform
+measures. It is also recommended that the Government strengthen its own capacity to help review
+projects and resolve key issues.
+61. Loan Covenant Violation and Debt Reporting: Turkmenistan is in violation of the Bank's
+Negative Pledge loan covenant. It has also not met its debt reporting obligations to the Bank. Until
+these issues are resolved, the Bank can not extend any new loans. On the first, Turkmenistan has
+recognized the problem with collateralizingother lenders over the Bank and has issued a Presidential
+Decree prohibiting such practices. The Governmenthas indicated that since then, similar operations
+have not been entered into. However, it has been unable to renegotiate the pertinent clauses of the
+offending loan.20 In the absence of being able to address the issue directly, the Bank is ready to
+explore ways of meeting the loan clause provision through obtaining equal and ratable collateral. As
+regards debt reporting, Turkmenistan has not submitted any debt reports to the Bank's Debt
+Reporting System in over one year. However the Bank has supported the placement of a debt
+advisor with the Government and the Government has indicated that it would provide debt statistics
+by the end of the first quarter of 2001.
+
+19 These efforts will assist both on the immediate tasks of passing the public procurement law and providing training in
+accounting, as well as the development of longer term institutional structures to make these efforts sustainable
+The violation is related to a 1996 loan provided by a consortium of German banks, for the rehabilitation of the
+TurkmenbashyOil Refinery. Proceeds of oil sales are collected in an overseas collateral account to repay the loan.
+20
+
+19
+
+62. Non-Lending Experience: To date, the bulk of the Bank's non-lending work has been in the
+form of major policy papers. Other donors have also contributed to this knowledge base including
+various papers on private sector development by USAID, a 1997 Education Review by UNDP, and
+the annual UNDP Human Development Report (Annex 4 provides a list of major studies undertaken
+recently). More recently, the Bank has also begun to provide hands-on policy advice through the
+placement of a debt advisor in the Government, and a review of a draft tax code. It is, however, too
+soon to tell whether these hands-on efforts will yield better results. The Government has also
+expressed a strong interest in such hands-on support, most recently requesting a grant to help
+introduce international accountingprinciples. Ultimately, the effectiveness of ESW may depend less
+on how it is delivered, and more on whether there is continual follow-up by the Bank and the
+borrower, since change is likely to be a long term process.
+Bank Program for FY01-03
+63. Initial Phase: Over the next 1-3 years the Bank will largely limit its focus to strengthening the
+implementation of existing projects and helping Turkmenistan build a stronger foundation for
+pursuing reform through non-lending activities. Any such support would depend on adequate
+access to basic information necessary to complete individual tasks.
+64. Within this non-lending phase, primary
+emphasis will be placed on improving public
+resource management and governance.
+
+Box 2: Proposed National Economic Foru
+ep
+N
+Eo
+F
+would
+
+Specific support will be provided for (i) budget
+modernization (through the IBTA Loan), (ii)
+debt management (through the IDF Debt
+
+:
+-- Be prepared with the Government,Donors, civil
+society,and otherparties
+
+Management Grant) and (iii) helping to host a
+"National Economic Forum", which would
+fiate io Enformationsri
+whihi wuand
+facilitate information sharing both within and
+
+--
+
+outside the Government (see Box 2). The Bank
+
+e
+
+would also foster international standards of
+
+-- Have a public event whereparticipantscouldpresent
+key studies and activities,as well as pivate meet*i
+with decision-makers
+onkey topics.
+-- Identify how to continue such informationflows
+(annualevent,standingsecretariat,internetpageetc)
+
+financial accountability through (iv) support
+for bringing a public procurement law into
+
+operation and (v) an international accounting
+standards IDF grant. As noted in para 62, the
+
+Focus on bringing best practice information fromn
+
+outside of Turkmenistan as well as disseminaig
+existinginformationgeneratedwithinTuwk-eitan.00
+ita
+
+effectiveness of such efforts depends on I
+continuing follow-up. Thus, these efforts would support both specific immediate actions as well as
+building institutions to enable these efforts to be sustainable over the long term.
+65. The Bank will also engage Turkmenistan on poverty monitoring (through a Living Standards
+Monitoring and Targeting IDF grant), the environment (eg the NEAP, comprehensive water
+strategy), and private sector development (a downstream energy sector study). The Bank also
+stands ready to engage in shorter policy advice on various issues including the FERF and agriculture
+reform. Given the importance of fostering transparency (see paras 35-37), in all these efforts the
+Bank will seek to encourage and facilitate as wide disseminationof information as possible.
+66. Second Phase: Given the weak reform progress and the loan clause violation, it is likely to
+prove extremely difficult for the Bank to extend new loans in the near term. However, the Bank
+
+20
+
+would provide a small 1-3 loan program over three years of $10-20 million per year if (i) the loan
+covenant violation is resolved, (ii) performance of ongoing projects is improved, and (iii) substantial
+progress is achieved on budget/debt management and transparency, including improved
+management of the Foreign Exchange Reserve Fund. Possible lending operations fall into the area
+of priority human needs (e.g. a pilot Health project) and disaster prevention and water
+management (e.g. the Karakum Canal Rehabilitation). This latter project would be important in
+improving water management, from both a national and regional perspective. The Bank would also
+consider a project to support the improvement of environmentally friendly services for the rural
+economy (e.g. a Crop Protection and Animal Health Project), contingent on improving farmers'
+ability to generate income to pay for the proposed services as well as conserve water.2 ' The need for
+and commitment to these potential loans are described further in Box 4.
+67. Longer Term Agenda: There are many challenges to be addressed in Turkmenistan. The key
+element to moving forward on them is the commitment of the Government to take concrete
+actionable steps. The CAS lays out a longer term agenda in agriculture reform, foreign exchange
+and trade liberalization, and improving the environment for private sector development. Continued
+improvement in public resource management and governance beyond the measures taken in the
+initial stage would also be important. The Bank will consider additional loans and non-lending
+support in these areas in light of progress in, and commitment to, reforms in key policy areas -access to foreign exchange at a single exchange rate, substantial reduction in the state-order, and
+reform of the State Commodity Exchange -- and achievements in near term CAS benchmarks (see
+Table 4) including improvements in living standards monitoring and targeting. In this event, the
+Bank will prepare a CAS update outlining progress on reform programs and identifying specific
+Bank interventions.
+68. Field Presence: Given overall resource constraints and the limited reform progress by the
+Government, it would not be cost-effective to upgrade the Liaison Office to a Resident
+Representative Office at this time. Using the limited budget to support a more continuous ESW
+effort, with follow-through, might be more effective. However, implementation of agreed activities
+would be facilitated by a second national professional in the country office to help with operations
+supervision, collection of information, external affairs etc. It should also be noted that the
+Government has indicated an interest in having a Resident Representative. This issue will be
+monitored over the CAS period and could be reconsidered in light of Turkmenistan's reform
+progress and available resources.
+
+21
+
+concerns,the
+The primaryroleof the Bankin theseprojectswouldbe on projectdesign. Becauseof creditworthiness
+
+level of Bank lending would be kept limited and significant cofinancing from the Government and other donors would
+be sought. In this light, even if the conditions for Bank lending are not fully met, the Bank could consider the
+possibility of designing these projects for the Government and other donors, without direct Bank financing.
+21
+
+Table 3: Proposed Turkmenistan Country Program: FY01-FY03
+Non-LendingServices
+Oning
+--
+
+----
+
+!Oo2-03
+
+Debt Management
+Grant (IDF)
+Public Procurement
+Grant (IDF)
+Living Stand. Profile
+NEAP (PHRD)
+
+----
+
+FY01
+
+Downstream Energy Study
+Macro/Sector Reform Dialogue
+Int'l Accounting Principles (IDF)
+
+Water Strategy
+Living Standards
+Monitoring (IDF)
+Country Economic
+Memorandum
+National Econ. Forum
+
+---
+
+---
+
+On-Going Lending
+----
+
+IBTA Project ($9 million undisbursed - closing date 12/01)
+Urban Transport Project ($13 million undisbursed - closing date 12/01)
+Water Supply Project ($28 million undisbursed - closing date 2/04)
+New Lending
+.
+
+.
+
+7
+
+r--
+
+-7:
+
+77
+
+E
+
+S
+
+-
+
+:
+
+T--:----7777
+
+70.77}ij
+
+TriggersFY20
+Basic
+Needs
+
+---
+
+resolution of loan covenant violation
+significant improvement in the number of
+on-going loans rated satisfactory
+
+Base Case
+
+--
+
+Progress in budget/debt management and
+transparency (see Box 3 for details)
+
+--
+
+Satisfactory performance as above plus
+
+--
+
+Approve an acceptable time-bound action
+
+plan, with immediate first steps, to reduce
+the state order on cotton and wheat and
+increase the ability of farmers to process
+and export crops on a market basis.
+--
+
+Stronger Reform
+
+--
+
+Pilot Health Project
+($10 million)
+Karakum Canal
+Rehabilitation Project
+($20 million)
+Above loans plus
+Crop Protection
+Project
+($15 million)
+
+Institute at least 20% cost recovery on a
+
+cash basis for agriculture water supply
+Satisfactory performance as above plus
+
+--Progress on near term CAS benchmarks
+(table 4) including improved approach to
+poverty monitoring and targeting
+-- Reduction in foreign exchange and trade
+controls including: (i) substantially open
+access to foreign exchange at a single
+exchange rate, (ii) substantial reduction in
+the state-order, and (iii) significant reform
+of the State Commodity Exchange.
+
+22
+
+Additional Lending to
+be Determined
+(CAS Update Would be
+Prepared)
+
+...
+
+,...
+
+Box 3: Budget and Debt ManagementTriggers for New Lending
+Eachof the actionsdescribedbelowwouldneedto be acceptableto theBank:
+DebtManagement
+Obiective: to strengthenthe managementand transparencyof externalborrowingand to ensure timely
+repayment
+BasicActionsNecessara:
+(i) Submitan acceptableconsolidateddebtreportregularlyto the WorldBank DebtReportingSystem,as
+requiredby Bankregulations.
+(ii) Establishtightborrowingceilingsand monitoringmechanismsconsistentwiththe budgetand macroeconomicframework.
+(iii) Establishinstitutionalarrangementswith cleartermsof referenceand actionplansto:
+a) regularlyaffirmdebt statistics,decideon annualborrowingsin the contextof the budget,approve
+externalborrowingproposalsof the government(and other public organizations),specify the
+responsibilityfor debt service,and establishotherrulesfor sounddebtmanagement.
+b) haveday-to-dayresponsibilityfor the managementof externaldebt (suchas registeringall foreign
+debt contracts and loan information,preparing reports on debt and projected debt, issuing
+borrowingguidelines,and analyzingthe impactof borrowingson the budgetand debtstructure).
+(iv) Submita debtlaw to Parliamentprovidingthelegal processfor debtmanagement.
+BudgetManagement:
+Objective:to consolidaterevenuesand expendituresin a singleframeworkand makethis moretransparent
+so as to facilitateconformityof spendingdecisionswith nationalpriorities.
+BasicActionsNecessara:
+(i) Approvea time-boundactionplan,with inmmediate
+first steps,to separateand clarifythe functionsof
+the FERF- with the assignmentof adequateforeigncurrencyreservesand managementto the Central
+Bank, the establishmentof a contingencyand/or savingsfund operatingunder clearlydefinedand
+transparent rules, and the integrationof the public investmentfunction fully into the budget
+framework.
+(ii) Enforcedetailedquarterlyreports of revenueand expenditureof all extra-budgetaryfunds to the
+MOEF,includingthe FERF,and inclusionin the overallbudgetframework.
+(iii) Preparea plan for thedisseminationof the fullbudgeteachyearafterparliamentarypassage.
+(iv) Establishinstitutionalarrangementsto prepareand agree with Ministriesa list of enterprisesto be
+separatedfromMinistriesand time-tablefor implementation.In this context,establisha secretariatto
+be responsiblefor the day to day managementof this activity(suchas maintainingan updatedlist of
+enterprisesto be separated,preparingstatusreports on such enterprises,& establishing methodsof
+separatingsuch enterprises.)
+
+23
+
+Box 4: Proposed Base Case Loans
+In light of the overall weak commitment to reform and the poor experience to date in project
+implementation, it is essential that any new project have both a strong developmental impact and
+demonstrated commitment from the Borrower in working with the Bank to introduce change. In all three
+proposed loans, the Bank's financial contributionwould be quite small, and would be used to leverage both
+more systemic reform, and Government and other donor funding. Also, each would need to be prepared
+and supervised with careful financial diligence (see para. 66).
+
+PilotHealthProject
+Health has been identified as a top social development priority for Turkmenistan, and is one of the few
+areas where the Government has started to introduce some reform, with the assistance of the Bank (which
+prepared a Health Sector Report in 1997), WHO and UNICEF. The pilot project would help to deepen this
+effort by allowing the Government to test specific reforms in a single district including the consolidation of
+health services, tying budgets to performance, and introducingnew protocols of care. It would also support
+efforts to strengthen the training of health workers, rehabilitate peripheral facilities, and adequately fund
+basic supplies and equipment. The proposed project would include a monitoring component so that the
+lessons learned through this pilot effort could be later scaled up in a systemic manner. The Bank could
+play a critical role in ensuring that health reforms, now ongoing, are deepened and extended in line with
+international approaches.
+
+KarakumCanalRehabilitationProject
+International experts have indicated that the unstable canal alignment, rapid sedimentation, and
+deteriorating and under-sized control structures could take the Canal out of operation. This would seriously
+affect the living conditions within Turkmenistan,as close to half the population depend on it as their aor
+source for both drinking water and irrigation. But beyond this disaster concern, better water managementin
+the Amu Darya river basin is also a top regional priority, as the over-use of wateriin upnver structures like
+the Canal can lead to a worsening of conditions downriver. By repairing key structures, impring
+communication along the canal to better regulate flows, and piloting efforts to reduce water use in farms
+both of these concerns would be addressed. Turkmenistan has identified this as their top priority for Bank
+lending. Several other lenders such as the Kuwait Fund and the Islamic Development Bank have also
+indicated to the Government that they would be interested in cofinancing such a project. Bank involvement
+would ultimately be critical to ensuring that any rehabilitation and reform of Canal management isrit
+towards using less water rather than more.
+
+CropProtection and AnimalHealthProject
+The project will assist the Government in making a first step in reforming the agriculture service sector.
+Prior to independence, Turkmenistan had an extensive system of environmentally friendly crop protection
+using insects to combat bollworm, a major cotton pest. This system deteriorated on independence but
+improvement has begun. However, in the event that farmers are given more choice in inputs and sales (a
+cordition of this loan), there is concern that farmers might turn to more pesticide use without reform of this
+key service. This project would support the rehabilitation of insectories into fee-based and service-oriented
+commercial providers, improve pesticide detection, and help develop a pest management policy. It would
+also support the introduction of private veterinary services, and the provision of essential vaccines to
+enhance animal health, a key limiting factor. Since most livestock is now privately held, this would further
+support rural income. The Government has already begun rehabilitation efforts even without Bank
+involvement. Bank involvement would, however, be critical to ensuring that such efforts are sustainable,
+generate income for service providers, and provide cost-effective inputs to farmers.
+
+24
+
+69. Choice of Lending Instrument: Turkmenistan is currently an IBRD-only country.
+Turkmenistan's GNP per capita ($660 in 1999) has fallen below the IDA operational cut-off ($885
+in 1999) as calculated using World Bank Atlas methodology for the past four years. However, this
+drop below the cut-off appears temporary, resulting from disruptions in natural gas exports, poor
+harvests, and economic mismanagement. With the resumption of significant gas sales to Russia and
+Ukraine, Turkmenistan's Atlas GNP per capita is projected to rise over the IDA operational cut-off
+during the CAS period, even allowing for limited reform and some depreciation of the exchange
+rate. In view of this, it is appropriate for Turkmenistanto remain an IBRD-only country.
+70. IBRD lending to Turkmenistan is constrained by creditworthiness concerns related to their
+high debt and continuing weak economic management (see paras 80-84). As a result, the Bank will
+only extend new IBRD loans if there are improvementsin debt and budget management, and even in
+this case such lending would be tightly limited in size. At the same time, Turkmenistan's
+creditworthiness and economic growth - and hence its potential for IBRD lending - would rise if
+Turkmenistan pursued a stronger reform path. Both IBRD creditworthiness and IDA-eligibility
+indicators will be carefully monitored during the current CAS period.
+IFC Program
+71. The IFC has undertaken a number of initiatives over the past two years in order to develop an
+investment program. These initiatives have included: the hiring of a fulitime local field officer
+stationed in the IBRD Ashgabad Office; utilizing outside consultants on four extended missions to
+survey the market and identify potential projects and sponsors; technical assistance to project
+sponsors for business plan preparation; over 20 missions by IFC headquarters and regional staff to
+the country for both promotion and evaluation of potential projects; organizing training seminarsfor
+private businesspeople as well as trade finance seminars for staff of the only two local private banks
+in the country; and the preparation of a study by Petroconsultants-MAI, together with EBRD, to
+define market needs and a proposed strategy for development of the oil and gas support services
+sector. These initiatives, unfortunately, have produced little in the way of investment opportunities
+for IFC due to the difficult environment for private sector development as well as continuing
+governmentalbureaucracy and interference in private enterprises as described in paragraphs 48-53.
+72. IFC has approved a small loan to a private bank under its Extending IFC's Reach Initiative.
+This investment, while small, is the first foreign investment in a local financial institution and is
+designed to serve as a best practices model for the banking sector. As part of its investment in the
+bank, IFC is providing institution building technical assistance financed by Dutch Trust Funds.
+Another approved investment in the dairy industry was subsequentlycancelled.
+73. IFC can envisage a more active investment program in Turkmenistan once the business
+environmentbecomes more conducive to private sector development and foreign investment, though
+this is not expected in the near term. As a result, IFC' s role over the next three years covered by this
+CAS can be divided into two phases.
+* Initial Phase: During the current phase, IFC will continue to focus on institution building in the
+financial sector, including institutions to serve micro-enterprises, with an enhanced emphasis on
+technical assistance and institution building rather than direct project lending. It is anticipated that
+IFC will, when possible, work with private service providers which have the capacity to support the
+
+25
+
+oil and gas industry as the lynchpin in private sector development. As part of IFC's institution
+building role, it will also seek to support the development of the leasing industry. IFC believes that
+leasing is one of the most effective means of channeling capital investment funds to local SMEs. As
+part of this initiative, IFC will undertake a study of the market and regulatory environment for
+private sector leasing as well as identificationof a potential technical partner for establishment of the
+first private joint venture leasing company in the country IFC will also look into providing financial
+support for micro-enterprises through one or more intermediaries. Total lending under the first
+phase scenario is likely to remain below $3 million over the coming three years.
+* Second Phase: Should major reforms take place in the country, such as unification of exchange
+rates and free access to foreign exchange, removal of trade restrictions, a reduction in governmental
+controls and bureaucracy, and elimination of state orders in agriculture, then IFC would see a
+stronger investment program and move into the second phase. This scenario would therefore require
+deeper reform, particularly on issues affecting the private sector, than the IBRD's triggers for its
+second phase (basic lending) scenario. In its second phase, the IFC would play a more active role in
+the financing and development of larger financial intermediariesthat could play a significant part in
+financial intermediation of medium and long-term financing to SMEs. IFC could look at investment
+in larger projects as foreign investors become more attracted by a more liberal private sector regime,
+particularly those in construction materials, infrastructure as well as the oil and gas production
+sector. With the removal of state orders in agriculture and the privatization of the cotton and food
+processing industries, IFC could also play a role in the development of processing projects in this
+area, both in terms of technical assistance and investment.
+Other Bank Group Activities
+74. MIGA Activities: MIGA operations in Turkmenistan have been relatively modest. Not many
+investors have applied for MIGA coverage. However, in fiscal 1999, MIGA signed its first contract
+on Turkmenistan in the manufacturing sector for US$8 million, and this is operating successfully.
+Currently, MIGA has one active application and a number of preliminary applications targeting
+projects in mining, oil and gas, and manufacturing in Turkmenistan. MIGA's online informnation
+systems, IPAnet and PrivatizationLink, feature information on the investment climate and
+privatization investment opportunities. These programs cannot be accessed in Turkmenistan due to
+underdeveloped internet systems. However, information about Turkmenistan's developing
+businesses can be disseminated via these information services, which also serve as tools for outreach
+to attract investment in key sectors such as mining, oil, and gas.
+75. WBI Activities: WBI has prepared a number of regional seminars, but has not been very
+active in Turkmenistan to date. Part of this relates to the fact that the Government has thus far
+provided only limited funds for public officials to travel and attend regional seminars. Given the
+need for capacity building and training, WBI is exploring the possibility of providing increased
+training support, provided the Government also increases its support. Such WBI assistance, if it
+materializes, could support both in-country and external training.
+
+26
+
+Partnerships With Other Donors
+76. Selectivity and Partnership: In light of slower than anticipated reform progress, many
+international institutions and donors have pulled back their activities. These include the IMF which
+has withdrawn its Resident Representative, the EBRD which has recently prepared a country
+strategy which does not contain public sector lending, and USAID which has reduced its assistance
+considerably. Turkmenistan has just become a member of the Asian Development Bank, which will
+be considering its focus in the coming months. Given the current focus of the EBRD, TACIS, and
+the IFC on private sector development,there is arguably a greater role for the Bank to play in public
+resource management.
+77. Nevertheless, many of the activities that the Bank intends to focus on - improving capacity
+within the government, information transparency, and deepening poverty monitoring and analysis are generally considered to be high priorities for the donor community. Rather than splitting our
+assistance, it would be better to pool each institutions limited capacity and focus together on the top
+priorities. Specifically, we intend to work closely with the following partners:
+*
+*
+-
+
+IMF on budget, macro-economics, and tax codes
+USAID on budget improvement, and the water strategy
+UNDP on debt management, NEAP, and the water strategy
+UNICEF on health and the water strategy
+TACIS on tax codes, training, and internationalaccounting
+UK possibly on living standards and statistics
+Japan and Switzerland on the NEAP
+EBRD is collaborating closely with IFC on several private sector studies
+AsDB possibly on the water strategy and public procurement
+
+78. The proposed "National Economic Forum" would be developed in close collaboration with the
+Government and all other donors, providing them an opportunity to bring their expertise to the
+forefront. Since there is no Consultative Group for Turkmenistan,this would help to build a shared
+understanding between the Government and donors of the challenges ahead, and provide a
+mechanism to deepen coordination.
+Program Performance Indicators
+79. The Governmenthas developed a set of long term goals, as expressed in their 10 year National
+Program. Based on this, and an analysis of living standards, the Bank has compiled a set of five
+priority challenges outlined in Chapter III, and identified a number of near term performance
+benchmarks for each that are listed in Annex Table B9. Table 4 below extracts some of the key
+government goals and near term performance benchmarks to be monitored over the CAS period.
+Since there is limited data available, these benchmarks concentrate on the establishment of good
+information and plans as a first step. It should be noted that while the Bank can support
+Turkmenistan in achieving some of these near term goals, the Bank will have limited avenues of
+support over the CAS period; most of them will depend more on the commitment of the
+Government. For the Bank's own portfolio, new lending is conditioned on raising the number of
+projects rated satisfactory. The Bank will continue regular consultations with the Government,
+donors, and civil society, as was done as part of this CAS (see Annex 3), to gain further feedback.
+
+27
+
+Table4: SelectedPerformanceIndicator:
+Governent LongTermGoalsa/
+Eliminateall extra-budgetaccounts
+Publk
+-- Includeall investments
+in budgetwith
+Resource
+analysisof ratesof return
+Management -- Centralizedebtrepaymentunderbudget
+-- Introduceinternat'laccountingstandards
+--
+
+Bia Near TermBechmarks
+--
+
+----
+
+--
+
+Educationexpendituresto reach 10%of GDP
+Healthnd
+5
+-- Teachingto meetworldstandards
+sociai
+-- Healthcare expenditures
+to reach7% of GDP
+Sekes
+-- Vaccinateup to 99%of children
+-- Water,gas,electricityto be free up to a limit
+--
+
+--
+
+--
+
+Adoptionof an effectiveplanto rationalizethe
+FERF
+Widedisseminationof the fullbudget
+Submissionof debtreportsto DebtReporting
+Service
+Adoptionof a PublicProcurementLaw
+data
+Improveddisseminationof macroeconomic
+Improvedcountryapproachto poverty
+monitoringand targeting.
+Increasein % of populationwith accessto safe
+water. Builda frameworkfor introducing
+waterchargesfor conservation& maintenance.
+
+from 2000-2005
+
+An ffcient
+Rural
+
+--
+
+57%of landto be underprivateownership
+Doublecottonand wheatproduction
+Economy20 -- Constructnew hydro/pumpingstations
+-- Establishmarketbasedforeignexchange
+Private
+S
+system
+Sec
+0 : tor -- Liquidatebureaucraticobstaclesto private
+Development businesses.
+Non-government shareof GDPto rise to 67%
+-- Privatehousingshareto increaseto 90%
+Protectionof -- providequalitydrinkingwaterandreduce
+:Environment
+0
+harmfulchemicalsin agriculture
+-- Preventdisasterin Aral Sea region
+
+--
+
+--
+
+--
+
+Portfolio 0 0a
+Performane;rated
+
+--
+
+----
+
+--
+
+Gradualincreasein % of privatefarmers
+Gradualreductionin % soldvia stateorders.
+Costrecoveryfor agriculturewaterat least 20%
+Improvedaccessto foreignexchangeat a single
+rate
+Exemptionof mostprivate sectortransactions
+fromregistrationin the commodityexchange.
+Creation of a list of public companies to be
+
+--
+
+separatedfromministriesand commercialized
+Publicationof an effectiveNational
+EnvironmentalActionPlan (NEAP)
+Improvementin the number of on-going loans
+satisfactory
+
+a/ goalsfor 2010 as statedin the 10-YearNationalProgramme
+V. Managing Risks and Uncertainties
+80. Creditworthiness: Turkmenistan has an unusual position among developing countries as
+both a major debtor and a major creditor. In January 2000 Fitch IBCA confirmed Turkmenistan's
+long-term sovereign rating of B- . Moody's has given a rating of B2 to Turkmenistan's long term
+foreign currency bonds. These ratings both indicate significant risk and are below investment grade.
+They reflect on the one hand a rising debt service burden and limited debt management capacity but
+on the other hand large foreign exchange reserves. Reserves are estimated at $1.7 billion, equal to 14
+months of exports, although part of the reserves may not be freely available. However, while the
+short term outlook for oil and gas sales remains strong, Turkmenistan's failure to be transparent
+about public investments and its debt (about 50 percent of GDP) and debt service (about 15 percent
+of exports) could hurt its creditworthiness. At this level, debt is worrisome, but not unmanageable
+with appropriate borrowing controls, adequate reserves, and growing exports. However, in the
+absence of good debt and public investment management, payment difficulties to several
+international creditors have arisen in the past, and may continue to occur periodically. Turkmenistan
+also faces several investment disputes with foreign investors.
+
+28
+
+81. Turkmenistan contends that its debt situation should be considered in light of the fact that it is
+a large creditor of other CIS countries with claims of around $1.2 billion22 for gas deliveries as well
+as uncleared balances dating back to the collapse of the Soviet Union. However, much of this is not
+currently being serviced, or is being paid in-kind at inflated prices. Turkmenistan has thus far
+resisted participating in Paris Club relief efforts for countries where it has outstanding loans.
+82. Risk: Turkmenistan has large potential for exports of oil and gas which if properly managed
+can boost economic growth and generate sufficient foreign exchange resources to service debt. The
+high growth rates achieved in 1999 and projected for 2000 were in fact triggered by increased
+exports of gas. If agreement is reached and maintained between Russia and Turkmenistan on a long
+term gas delivery contract, if public resources are well managed, and if progress continues towards
+addressing the major constraints to private sector development, the prospects for growth and foreign
+exchange earnings appear to be good. The main risks to the economy are:
+(i) Heavy Reliance on Energy Exports: Oil and gas export earnings could fluctuate
+significantly because of price changes or because of demand changes, pipeline delivery
+disruption or payment difficulties in key markets (such as Russia, Iran and Ukraine). The
+potential for disruption can be mitigated by accelerating market reforms which will permit
+more diversified private sector led growth. Especially important in this regard are agricultural
+reforms, liberalization of the trade and exchange rate regime, and elimination of various
+registration/licensingrequirements that inhibit the private sector.
+(ii) Heavy Reliance on Water Intensive Agriculture: Beyond energy, the most important
+sector for Turkmenistanis agriculture, in which about half the population is employed. Since
+rainfall is limited, Turkmenistan relies on an extensive irrigation infrastructure inherited from
+the former Soviet Union. However, over time, water intensive agriculture will act to reduce
+yields by increasing salinization. It will be important for Turkmenistan to begin to reduce
+water usage, which should be feasible with appropriate incentives and support. Water
+intensive agriculture also increases the need for greater cooperation with other users of the
+Amu Darya (Tajikistan, Uzbekistan).
+(iii) Weak Public Resource Management: As already noted, public resource management is
+in need of significant improvement. The state budget managed by the Ministry of Economy
+and Finance covers only a small fraction of public resources. The rest is managed through
+extra-budget funds and ministries that follow their own sectoral priorities and often support
+uneconomic investments. There is still no effective system for external debt management and
+debt and debt service levels appear to have reached worrisome levels. Lack of reliable
+information on basic economic parameters such as the full budget and external debt further
+undermines efficient economic management and confidence. Measures to bring about
+transparency and rationality in the budget and debt management process are critical.
+(iv) Slow Transition to a Market Economy: Growth prospects also will depend on how
+quickly market oriented reforms are implemented. Price controls remain for many
+commodities, services, and utilities; trade and foreign exchange controls are still significant.
+Privatization beyond small companies has stalled, and the general business environment has
+not yet attracted significant foreign investment nor national private sector growth. In
+agriculture, there has been some transfer of land ownership to private farmers, but state orders
+for wheat and cotton are still prevalent. Many public enterprises continue to operate to a large
+22 Most of
+
+them on Ukraine, Georgia, and other CIS countries.
+
+29
+
+degree through non-cash transactions, and benefit from large scale subsidies, explicit and
+hidden. To obtain the benefit of private sector growth, the environment for private sector
+development must be improved, and the state needs to focus on non-commercial activities.
+83. As far as the Bank is concerned, notwithstanding periodic short term arrears due to poor debt
+management, risk is limited by the low level of debt. The Bank's share in total debt is currently
+extremely small (about $29 million outstanding) in comparison to Turkmenistan's total debt
+outstanding (estimated at about $2.3 billion), and is expected to remain below 3 percent even if
+lending is resumed. New lending is contingent on resolving the Negative Pledge Clause violation
+and agreed actions to better manage public resources and debt. In such a scenario, the debt service
+to export ratio is expected to level off at about 15%, which, while grounds for caution, is within
+limited creditworthinessparameters.
+84. Finally, Turkmenistan's economic development is closely linked to other Central Asian
+countries. Regional cooperation in water usage, in power generation, in trade, in pipeline
+development, in knowledge sharing, and in environment will have a large impact on development in
+Turkmenistan as well as other Central Asian countries. Bank supported activities will, therefore,
+need to be considered against regional issues and concerns, as well as national priorities.
+VI. Concluding Remarks
+85. With good near term growth prospects, but also an economy with substantial risks,
+Turkmenistan now has an important window of opportunity to accelerate reform while avoiding the
+social disruption that has plagued other CIS countries. The Government has a National Program
+which includes a number of important goals, but it has yet to translate these goals into appropriate
+concrete action plans. The Bank will therefore match its program of assistance to Turkmenistan's
+progress on reform, and assist Turkmenistan in the near term mainly by providing non-lending
+support for building economic capacity within the government, improving information flows, and
+deepening living standards monitoring and analysis mechanisms.
+86. Although moving beyond this role is likely to prove extremely difficult, the CAS sets out a
+road-map of first-step actions necessary to jump-start the reform process, and enable the Bank to
+resume lending. A central element of this is improved public resource management, including
+strengthenedbudget and debt management, and the rational reform of the Foreign Exchange Reserve
+Fund (FERF). If basic conditions for lending are met, the Bank would extend a small lending
+program aimed at priority human development needs, disaster prevention, and rural development.
+This approach should help establish a stronger foundation for a more ambitious Bank program of
+support in a few years, if the government decides to move forward at a faster pace.
+James D. Wolfensohn
+President
+By: Sven Sandstrom
+Washington, D.C.
+December 22, 2000
+
+30
+
+ANNEX 1:
+
+CABINET OF MINISTERS
+TURKMENISTAN
+Reference No. 13-2252
+December 19, 2000
+Mr. Kiyoshi Kodera
+Director
+Central Asia Country Unit
+The World Bank
+
+Dear Mr. Kodera:
+I would like to express my appreciation to you and to your team for your intensive work during the
+last few months to prepare a new Country Assistance Strategy for Turkmenistan that will determine
+the future direction of our mutually beneficial cooperation.
+We view the World Bank as a reliable partner that provides necessary technical assistance and
+finances priority areas in the development program of Turkmenistan. In the process of preparing
+the CAS we had the opportunity to discuss in a productive manner the main parameters of economic
+policy and challenges that we face in the period of transition to a market economy. Despite the fact
+that we pursue common development objectives - the rational use of public resources, the
+liberalization of exchange rate and trade regimes, speeding up the privatization process and
+agricultural reform - we do not always agree on the issue of how best to achieve these objectives.
+We think that a gradual approach in addressing these issues is the most reliable path in making the
+difficult transition from our recent past to the sustainable productive development of our state. We
+are very interested in continuing constructive cooperation with the World Bank; however,
+unfortunately, we should note that the World Bank's lending is small. I would also like to note that
+this CAS does not quite objectively reflect the current situation and the long term development
+strategy of the Government of Turkmenistan.
+Immediately after Turkmenistan became independent,the country declared and started to implement
+with the utmost priority a policy of social protection for its people and guarantees against poverty,
+which has allowed us to ensure social and political stability and build confidence in the reform
+policy being pursued. Turkmenistan, in addressing the challenges of transition, is taking significant
+steps to promote economic growth and to improve the well-being of its people. I would like to share
+with you several examples of the results of these efforts.
+a
+
+From January to October 2000 the growth of GDP was 17% over the same period a year ago.
+There was a significant improvement in performance in the main sectors of the economy.
+Industrial output increased by 23% in comparable prices, including the electric-power complex
+(by 11%), energy/fuel sector (by 71%), chemical industry (by 19%), and the textile industry
+(17%). Agriculture output rose by 18%.
+
+31
+
+* As a result of positive trends in the real sector of the Turkmen economy and an increase in the
+income of economic entities, the state budget of Turkmenistan for January-October 2000 had a
+surplus in the amount of over 205 billion Manats.
+•
+
+The income of domestic enterprises and organizationsduring 10 months amounted to 2.4 trillion
+Manats, 2.5 times higher than last year's figure for the same period.
+
+* From January to October 2000, capital investment in economic development was 8% higher than
+in the similar period last year. This increase in capital investment has been mostly brought about
+by relatively high growth rates of public investment (130%), foreign investments (111%) and
+other investments (175%).
+(We have provided additional comments regarding several indicators in the CAS tables:
+Turkmenistan at a Glance, Poverty and Social Indicators).
+With your permission I would like to focus your attention on the future development program of the
+Government of Turkmenistan. As stated in the CAS, the further development of social and
+economic policy is reflected in the National Program of the President of Turkmenistan "Strategy of
+Socio-economic Development of Turkmenistanfor the period up to 2010". It envisages continuing
+the priority policy of social programs, taking into consideration economic realities which have
+formed during the years of independence. In the next ten years economic reform will be directed at
+intensifying the structural reform process; further introduction of market relations; improvement of
+economic management mechanisms; development of progressive forms of ownership, modes of
+production and methods of administration; as well as the creation of a favorable environment for
+investments. Economic growth by itself cannot guarantee the well being of the people, it can only
+create the necessary conditions and prerequisites for this. Hence, significant attention is given to
+strong and systemic efforts to address social issues. The key objective of our social policy up to
+2010 is to increase living standards and improve health care, to increase the educational level of
+people, as well as to provide targeted social protection to the most vulnerable groups. In the course
+of reforms, the non-public sector of economy will be further developed. The number of private
+enterprises will significantly increase. These changes will be brought about by the development of
+private and mixed forms of ownership, speeding up of the privatization process and improvement of
+the environment for the efficient developmentof the private sector.
+I would like to cover several issues that impede new lending by the World Bank - the negative
+pledge clause and foreign debt reporting. As to the first issue, we have made numerous efforts to
+resolve this problem with the representativesof concerned banks. These efforts have not been quite
+effective; therefore we are in the process of identifying other mutually acceptable ways to solve this
+problem. We understand your concerns about delays in providing information on foreign debt. But
+this is related to purely technical problems and an inadequate system for collecting and analyzing
+data. As we have already discussed, we are taking steps to strengthen our foreign debt management
+system with the assistance of an adviser financed by the World Bank. I can assure you that a
+foreign debt report will be presented to you by the end of the first quarter in 2001.
+
+32
+
+I would like to assure you again that the goal of the Government of Turkmenistan is to make
+Turlnenistan a prosperous country, a secure home for everyone. All the government programs of
+independent Turkmenistan have been developed with the objective of achieving a continuous
+increase in the welfare of its people and the inviolability of their rights. In view of this, we welcome
+the preparation of new Country Assistance Strategy for Turkmenistan and hope that it will become a
+cornerstone for our further cooperation.
+
+Sincerely,
+Seitbay Kandymov
+Deputy Chairman
+Cabinet of Ministers
+
+cc: Mr. M. Meyer, Executive Director, the World Bank
+
+33
+
+ANNEX 2:
+
+STATUS OF PROJECTSUNDER EXECUTION
+InstitutionBuilding/Technical
+Assistance(L 3791).
+Loan Amount: US$25 million; Effectiveness Date: July 20, 1995; Closin' Date: December 31, 2001
+
+Status: Implementationunder this project was curtailed in March, 1998 due to the suspensionof
+disbursementsin Turkmenistan.Duringthis period,the bulk of the fundswere cancelled. The Bank lifted
+the suspensionon disbursementsfor this Loanin June, 1999. Subsequently,the Bank and the Government
+agreed to extend the closing date, to re-instatefunds and refocus these funds on improvementand
+computerizationof thebudget,tax and pensionsystems.
+Strategvfor Implementation:This project,as refocused,is consideredto be of vital importanceto improving
+publicresourcemanagement(a key goalof the currentCAS). USAIDassistedthe Governmentin submitted
+a detailedplanto refocusthe fundingon budgetconsolidationand computerizationin March,2000,as a result
+of which the Bank extendedthe closingdate to December31, 2001. After somemodestadjustmentsto the
+plan(includingthe inclusionof fundingfor a PIU Unit),in AugusttheBank agreedto re-instate$9.2 million
+of earliercancelledfunds for this purpose. The Governmenthas appointeda PIU Directorand is in the
+processof hiringa budget/treasuryexpertto help guidethe process. USAIDmay provideparalleltechnical
+support.
+WaterSupplyand SanitationProject(L4171)
+Loan Amount: US$30.30 million; Effectiveness Date: August 15, 1997: Closing Date: February 28, 2004
+
+Status: The Bank suspendeddisbursementon all Bank-financedprojectson March, 1998. The suspension
+wasliftedin June, 1999. Sincethen,theBank has agreedwith the Governmentto restructurethe civil works
+componentinto two parts:(i) urgentrehabilitationcarriedout throughgovernment'sforceaccount;and (ii) a
+largermaincivil workscontractto be redefinedwithmoreprecisedetailedengineering.Thefirst phaseof the
+urgentrehabilitationhas been completedand the governmentis preparingthe bidding documentsfor the
+secondphase. Consultantsfor the institutionaland policystudieshavebeenhired. The undisbursedbalance
+is currentlyaboutUS$28 million.
+Strategyfor Implementation:Theprojectis consideredto be of vitalimportancein addressinga key causeof
+Turkmenistan'sserioushealth problems(poor waterquality and supply). In the past, it has sufferedfrom
+both procurementdifficulties,as wellas limitedprogresstowardsincreasedwaterpricing. In August,2000
+the GovernmentchangedPIU staff as well as decentralizedsome decisionmakingto improveprocurement
+implementation. The project is also funding the preparationof a strategy to achieve improved water
+managementand pricing, necessaryto ensure that pumps are well maintained. This process should be
+facilitatedby a paralleleffort,the WaterStrategy.
+UrbanTransport(L 4170)
+Loan Amount: US$34.20 million; Effectiveness Date: August 19, 1997; Closing Date: December 31, 2001
+
+Status: Implementationof theinvestmentpartof theprojecthas madegoodprogresssincethe suspensionof
+disbursementson all Bank projectswas lifted in June 1999. Two major contractsfor the purchaseof 100
+urbanbusesand 46 trolley-buseswere signed. All the buseshavebeen deliverednow as wellas 16 trolleybuses with the completionof that contractexpectedsoon. In addition,aboutUS$1.0 millionof spareparts
+havebeen, or are being,procured. However,almostno progresshas takenplace regardingurban transport
+sector policies and institutions, and the financial frameworkunder which the sector operates. Most
+problematicare the poor cost recovery(about20%excludingdepreciation),the absenceof soundinstitution
+to managethe sector,and the lack of policyto involveprivate operatorsin the provisionof urban transport
+services.Theundisbursedbalanceis currentlyaboutUS$13million.
+Strategvfor Implementation:In July, the Bank communicatedto the Governmentthat in order to proceed
+with the project, an acceptableaction plan necessaryto addressthe above noted issues wouldneed to be
+providedto the Bank. WhileTurkmenistanhas respondedwith an actionplan,it is not clear at this timeif the
+Government'splan is sufficientand a mutuallyagreed approachis achievable. Disbursementshave been
+suspendedas of December31, 2000,pendingresolutionof outstandingissues.
+
+34
+
+ANNEX 3
+
+ROUND TABLE DISCUSSIONS WITH NGOS AND THE PRIVATE
+SECTOR
+
+Minutes of Round-TableDiscussion with NGOs
+(Held in Ashgabat on the 1 7 th of May, 2000)
+The Purpose of the Roundtable discussion was to hear the view of the civil society
+organizations on the issues they consider of priority in Turkmenistan, in order to take account of
+these issues in the World Banks new Country Assistance Strategy. The agenda focused on issues
+relevant to the field of each NGO as well as crosscutting issues such as constraints faced in their
+activities.
+Points Raised:
+-
+
+Private Sector Participants generally expressed a belief that the development of the private
+sector in Turkmenistan is key in improving the situation of ordinary people, but pointed to a
+number of issues which need to be addressed:
+1. The conditions for starting business are difficult, generally entrepreneurs need
+support to understand the legal requirements, and women in particular are illinformed about the opportunities and their right to engage in business. Inadequate
+application of existing legislation hampers private sector development
+2. The private Sector can supply services in the interest of the public which at present
+are not adequately provided by government, such as private medical care, but more
+needs to be done to support the development of enterprise in this sector
+3. Private sector development increases need for consumer protection
+
+Registration: Some participants emphasised the problems that arise from the absence of clear
+legislation on NGO activities, and the failure to obtain legal status as organisations.
+1. Many NGOs are functioning without registration, because though they have applied for
+licenses their cases have stalled within the relevant ministry.
+2. The government does not directly interfere with the activities of the NGOs but on the other
+hand does not register them, thus preventing them from engaging in a number of activities
+which would benefit people and enable the NGOs to raise funds.
+3. The absence of legal status makes it difficult for NGOs to lobby the legislative assembly and
+other government organs for their issues.
+*
+
+* Legislation:
+1. Many participants stressed that Turkmenistan has an adequate legal framework but the laws
+are not consistently applied.
+2. There are inconsistencies in the legal framework between regulations, laws, and decrees
+3. Civil Servants do not seem to know how to apply the legislation
+4. People are often not familiar with the law and therefore do not know their rights
+* Media Coverage:
+1. Participants raised the issue of problems in obtaining coveragefor NGO issues (ranging from
+ecology to consumer rights) in the media (which is state-controlled)
+35
+
+2. Getting material on relevant issues to the public in a language they can understand as much
+material distributed for public information is distributed in Russian (which is not perfectly
+understood by the whole population)
+* Suggestions of the participants:
+1. Consolidating the legal framework, removing the contradictions in the existing legal
+framework.
+2. Training civil servants and users of the law together to bring clarity into the application of the
+law.
+3. The establishment of a centre by the government to support entrepreneurs with legal advice
+4. The establishment of a clear law on NGO activity
+5. Pushing for the legal status which will enable NGOs to conduct activities for general and
+fundraising purposes
+6. As regards the problem of obtaining public coverage of NGOs special fields on participant
+suggested co-operation amongst NGOs themselvesmight overcome this issue, through taking
+advantage of economies of scale in publication and writing of materials.
+7. Greater consolidation among NGOs would boost their impact and fund-raising abilities.
+8. Greater attention should be paid to activitiestaking place outside Ashgabat
+9. Water quality and supply should be a top sectoral priority
+10. Income-generatingcommunity efforts should receive more attention
+11. It would be beneficial to have support from the international community through further
+conferences or roundtables for dissemination of information.
+All participants agreed that the meeting had been useful but suggested that perhaps in the
+future more would be gained by providing a more clearly defined agenda developed by NGOs
+themselves. Furthermore, it was suggested that in the future such consultations should be divided
+by area of interest/work to enable more NGOs to participate and provide more detail on their
+special areas.
+
+Round-Table Discussion with the Private Sector
+(Held in Ashgabat on the 19'* of May, 2000)
+The purpose of the Private Sector Round Table was to hear from different people, who work as
+entrepreneurs, what the environment is for the private sector activity in the country, what major
+obstacles they face from the state authorities, banking sector, how they are protected by
+legislation, and what they would like to change in future. This information would be used as part
+of the World Bank Country Assistance Strategy.
+Topics discussed:
+1. Financial issues (banking,finance, taxation)
+2. Trade (import, export, money investment)
+3. Legal issues (licensing, inspection, standards)
+
+*
+-
+
+Finance and Trade: In terms of financial issues there is a problem of conversion.
+Lack of hard currency and limited access to the currency auctions of the CBT;
+36
+
+Exchange rate;
+The procedures to obtain currency are too onerous
+Registration by State Commodity Exchange and Customs are time consuming and
+inconsistent with current laws;
+The State Commodity Exchange and the CBT limit the rights of investors to utilize the
+capital
+The Custom Agency requires a quality certificate, which is not easy to obtain from
+Gosstandards
+*
+-
+
+*
+-
+
+-
+
+Registration and Licensing: Some participants raised the problems faced in obtaining licenses
+and registration for a private company.
+The private sector needs to understand the legal issues.
+Many private companies are operating without registration. They have applied for
+licenses but still have not received appropriate response from relevant ministries;
+The absence of the necessary licenses hampers the commercial activities ( to
+as from obtaining credits for investments and restructuring their businesses.)
+Legislation:
+Many participants noted that Turkmenistan has an adequate legal framework, but the
+application of laws in practice is not clear either to state authorities nor entrepreneurs;
+Entrepreneurs expressed frustration at the lack of accountability of the civil servants
+making decisions.
+There are contradiction between newer legislation in support of private activity and older
+rules and regulations
+There is considerable duplication of documentation in the legal processes, placing a
+excessive burden on businesses.
+People do not seem to know the legislation therefore they do not know their rights;
+
+Suggestions from the participants:
+1. Consolidationof the legislation related to the private sector in one place;
+2. Timely publication of all new laws;
+3. Application of existing laws in a transparentmanner in legislation;
+4. Training of government officials on the new legislation and its practical application;
+5. Documentation:submission and registration processes to be reduced and simplified;
+6. Allocation and conversion of currency and obtaining licenses should be a more transparent
+process, including knowing why one is turned down
+7. Importers should be able to obtain and hold foreign currency to open up letters of credit
+8. Exporters would like grater knowledge of trade preferences provided to them by developed
+countries
+9. Trade registration should be with customs not the State Commodity Exchange
+10. Local governments should be authorized to make sure State bodies help entrepreneurs
+All participants agreed that the Roundtable was very useful. It was suggested that in the future
+representatives from the Cabinet of Ministers, Central Bank, and Customs should also be invited,
+to create a dialogue between the private sector and the State. The importance of creating a
+positive investment image for Turkmenistan also stressed. Furthermore, they thanked World
+Bank for organization of the Roundtable.
+
+37
+
+Annex 4
+
+KEY REFORMS NEEDED FOR LENDING BEYOND THE BASE CASE
+1.
+
+Exchange Rate Regime
+
+Background
+Turkmenistan has had convertibility restrictions since independence in 1991. Several attempts to
+eliminate the restrictions and unify rates ended in reversals. The latest attempt was in 1998. A
+devaluation of the official exchange rate from 4,165 to 5,200 Manat/$ on April 17 eliminated the
+gap between the official and market exchange rate, and was accompanied by the elimination of
+some controls. A reference exchange rate for the use by commercial banks, which was about 20%
+lower than the official rate, was replaced by a maximum percentage limit by which comnmercial
+banks could deviate from the official rate. Foreign exchange market stability was maintained for
+three months with the Central Bank intervening to keep the official exchange rate at 5,200
+Manat/$. However, following the Russian financial crisis in 1999, other CIS countries sharply
+devalued their currency and there was market pressure on Turkmenistan as well. Turkmenistan
+resisted this pressure, keeping the exchange rate fixed by tightening access to the official rate.
+This allowed Turkmenistan to keep inflation down, but also resulted in a large Manat
+depreciation in the curb market.
+Current Status of Constraints
+While Turkmenistan maintains a single official exchange rate, this has been accompanied by a
+large gap with the curb market and the imposition of severe foreign exchange access restrictions.
+In December 1998 currency trading between commercial banks was suspended. Domestic
+enterprises and individuals can now purchase foreign exchange only at weekly auctions at the
+Central Bank currency exchange (ICE).
+Enterprises regardless of their form of ownership are allowed to purchase foreign exchange at
+ICE auctions exclusively for the following purposes: (i) repayment of publicly-guaranteed loans,
+(ii) repatriation of foreign direct investments and related profits, (iii) import of medicines, raw
+materials, and other production inputs, (iv) purchases of machinery and inputs under foreign
+credit lines, and (v) import of consumer goods (except alcohol and tobacco products) provided
+the goods will be sold in Turkmenistan marked up no more than 30% over the official price
+converted into Manat at official rate. Individuals can purchase foreign exchange only for: (i)
+medical treatment abroad, (ii) studies abroad, and (iii) official travel abroad. The CBT and
+Foreign Currency Committee carefully screen bids submitted for the auctions to enforce the
+above regulations.
+In January 2000, in an attempt to stem capital flight, additional requirements were imposed..To
+have access to foreign exchange, enterprises and individuals should demonstrate that, in addition
+to meeting the above conditions, they: (i) have no tax arrears in Turkmenistan, (ii) are current on
+their loans received from Turkmen banks, (iii) have no wage arrears and arrears to extrabudgetary
+funds in Turkmenistan, (iv) comply with currency circulation regulations, including compliance
+with limits on cash in safe and daily reporting of cash flows, and (v) have a contract directly with
+the producer of goods to be imported.
+Exporters face additional restrictions. Currently most state enterprises except cotton and gas
+exporters are required to sell 50% of their export earnings in hard currency through commercial
+banks at ICE auctions at an official rate. Gas exporters are required to surrender 25% of their
+export earnings at Central Bank auctions, and also pay another 50% of their foreign exchange
+38
+
+earnings without conversion as a transfer to the Foreign Exchange Reserve Fund. Oil exporters
+also transfer a portion of their earnings to the Foreign Exchange Reserve Fund and the Oil and
+Gas Fund. Earnings of cotton exporters are taxed and/or sold at the auctions on an annual basis,
+normally resulting in about a 33% transfer to the Foreign Exchange Reserve Fund.
+Privately-owned enterprises are not subject to surrender requirements but they are at a
+disadvantage when trying to buy foreign exchange at the auctions. Enterprises can hold and use
+without restrictions foreign currency in their bank accounts after all the currency surrender
+requirements have been met. This acts to place importers at a disadvantage as compared to
+exporters. Without assured access to foreign exchange, importers are unable to open letters of
+credit. In addition, a Presidential Decree of March 29, 2000 states that preference must be given
+in allocation of foreign exchange to those involved in import substitution activities.
+Recently, Turkmenistan has indicated its intention to begin to unify the exchange rate, and has
+started to pilot the use of an exchange rate between the official and black market for a few state
+owned energy enterprises.
+Reform Program Suggzested
+The Foreign Exchange Reserve Fund is substantial, with an estimated level of about $1.7 billion,
+about 14 months of exports. However, while administratively under the Central Bank, it has
+traditionally been used as a tool for extra-budgetary public investments rather than as a tool for
+the Central Bank. To move towards a more market based exchange rate, a first step would be for
+the Central Bank (CBT) to have management control over an adequate level of foreign exchange
+reserves for use in exchange rate management.
+Second, the auctions conducted by the CBT needs to be liberalized by terminating the screening
+of bids (other than through a small negative list) and allowing universal access to the auctions. In
+parallel, the inter-bank market for foreign exchange should be re-opened and restrictions on
+commercial bank forex transactions with enterprises (both exporters and importers) and
+individuals be lifted to attract transactions that are currently carried out in the black market.
+Together with tight financial policies, the parallel rate and the adjusted official rate will move
+closer and stabilize the exchange market.
+
+2. State Order System in Agriculture
+Backg.round
+Following disastrous harvests in 1996, the authorities initiated a program of significant land
+reform. Under the reform, members of farners' associations (former kolkhoses) by the end of
+1998 physically received plots of land, normally between 2 and 20 hectares, on a 10-year lease.
+After the lease expiration, the land was to be transferred to private ownership of the leaseholders
+(although land transfers outside of the immediate family would still be restricted). During the
+leasing period the farmer officially has freedom to make crop decisions, but in practice most
+transactions continue through the state order which provides farmers with subsidized inputs such
+as fertilizer and bank credit, but buys crops from farmers at below-market prices.
+By 1999 over 80 % of arable land has been leased under the land reform program. Further, the
+leasing period after which a farmer could receive private ownership rights for the plot was
+shortened to 2 years provided the farm has performed satisfactorilyduring the leasing period and
+the farmer has demonstrated skills required to run a private farm. After getting private ownership
+rights for the land, farmers have been promised full independence to choose the crops to be
+grown and prices at which to sell them. However, private ownership does not include the right to
+39
+
+sell land outside of the family nor to use the land as collateral for bank loans.
+With the 2-year probation leasing period coming to an end for most farmers, only a limited
+number of leaseholds have been given private ownership certificates. Authorities have been
+reluctant to convert leaseholds, especially those growing cotton, into private property. The
+authorities cite reasons like failure to meet government production targets during the probation
+period or lack of experience in private farming in rejecting the applications for private ownership
+certificates. Lengthy procedures to obtain the required application clearances from a multi-layer
+hierarchy starting with management of the farmers' association and all the way to the State
+Commission for Land Reform has also been a deterrent.
+Current Status of Constraints
+Although private farms and leaseholdsthat produce their crops without government subsidies can
+formally sell their output outside the state order system at market prices, the government can
+affect their decisions through land reallocation (revoking of leases), input supplies (curtailing
+access to farm machinery), or limiting financing available through state banks. In practice,
+leaseholds producing cotton, grain, and sugar beets (which cover 75% of arable land) continue to
+operate almost exclusively within a state order system.
+Under the system, the government provides subsidized inputs, low-interest (0-2% per year) bank
+financing through the specialized state agricultural bank Daykhanbank, and virtually free water
+while purchasing harvested crops at procurement prices that are 50-60% of the world prices and
+less than 20% when valued at the black market rate. Some have estimated that these prices, net of
+subsidized water, fertilizers, and other inputs, resulted in a real transfer of resources from
+agriculture to the rest of the economy equal to 15% of GDP. The fact that state order system
+keeps farmers from growing and marketing alternative crops which have higher margins serves as
+an additional significant hidden burden on farmers and leaseholds.
+Reform P dgram
+Sugkested
+The reform agenda should include phasing out of state order system combined with the gradual
+elimination of input subsidies and admninistrativeinterference with production decisions. Prompt
+conversion of leaseholds into private farms with minimum red tape will also be critical. With the
+lifting of the state order, private traders, including international concerns, must be allowed into
+the market. Beyond this, an acceleration of the agro-industrial privatization and private sector
+investment in new marketing, storage and cotton ginning will ensure that the growth of private
+farming is not constrained by state-ownedagricultural infrastructure.
+
+3. State CommodityExchange
+BackRround
+The State Commodity Exchange (SCE) was established in 1994 to help match buyers and sellers
+in the economy. In 1995-1996 the powers of the State Commodity Exchange were substantially
+expanded to include the regulation of all the domestic and international trade transactions,
+including those that are not concluded at the exchange. Currently, almost all trade contracts, both
+domestic and international, including barter transactions but excluding oil and gas exports, that
+have a value in excess of Manat 30 mn. ($5,700 at the official exchange rate) must be registered
+with the SCE. The requirement applies both to state-owned and private enterprises. Contracts
+may not be approved if the terms are not considered to be favorable for Turkmenistan. An export
+contract should not be underinvoiced compared to an "average" world price and goods to be
+exported should be in sufficient supply in the domestic market. Some products, including certain
+foodstuffs are prohibited from being exported. As a world price reference, SCE uses a variety of
+databases, including searches on the Internet. Import and domestic contracts are also checked for
+40
+
+over or underinvoicing using the same reference methods. If there is a domestic producer of the
+product to be imported, imports contract may be prohibited or a surcharge required.
+Current Status of Constraints
+Experience has shown that the registration process is time-consuming, and costly for businesses.
+Enterprise surveys indicate that only around half of businesses manage to complete contract
+registration process in less than 2 weeks and it takes some enterprises several months to register a
+contract. Delays with import contracts registration mean that import shipments cannot be cleared
+through the Customs and have to be stored in the warehouses charging steep fees. Differences
+over "appropriate" prices have led producers to import inferior products. The requirement that
+the imported goods are resold in the domestic market at the registered price lead to a loss of
+flexibility by the businesses in case of a change in market conditions (discounting price in case of
+inventory accumulation or product aging). SCE assesses a fee of 0.4% of the contract value.
+Opportunities for rent-seeking at the SCE are not uncommon.
+Reforn Program Suggested
+The role of the SCE must be re-considered. Requirements for the registration and price review of
+arms-length commercial transactions between private entities should be stopped. Under-invoicing
+is best prevented by maintaining appropriate exchange rate policies and by strengtheningcustoms
+regulations and capabilities. The SCE should be restructured to fulfil its original objective facilitate trading in standardized cash commodities on a voluntary basis - with a possible
+addition of advisory services on a strictly voluntary basis on issues such as marketing, search for
+business partners, or risk reducing strategies.
+
+41
+
+ANNEX 5:
+
+TURKMENISTAN'S GROWING KNOWLEDGE BASE
+
+POViIRTYI '
+
+PUBLICSEeJ0ORMNGMT
+
+PFRVAT1WSE4~rOR
+DR.
+
+XAL SRUTO8R
+
+*
+
+EFFECTIVEFISCAL MNGMT *
+(IMF, 97)
+
+LIVING STANDARDSSURVEY *
+(WB,00)
+
+CAPITAL
+MARKETS *
+REVIEW(USAID, 99)
+
+*
+
+PUBLIC
+EXPENDITURE *
+REVIEW(WB, 98)
+
+EMPLOYMENT
+(GoV,00)
+
+ASSESSMENT
+OF *
+FOREIGNTRADE REGIME
+(USAID, 00)
+*
+
+*
+
+PROGRAM OF BUDGETARY *
+IMPROVEMENT (USAID,
+00)
+*
+COMMENTSON DRAFr TAX
+CODE (WB, 00)
+*
+
+EDUCATION
+(GOV,99)
+
+*
+
+REPORT *
+
+FOR
+
+ALL
+
+HuMAN DEVLPMT REPORT
+(GOVIUNDP, 99)
+
+*
+
+ADMINSTRATIVE AND
+REGULATORYENV. FOR *
+BUSINESS(USAID, 00)
+
+DASHKHOWVUZ:REGIONAL
+DEVELOPMENT PRIORITIES
+(WB, 98)
+
+*
+
+RATIONALIZINGTHE HEALTH
+SECTOR(WB, 97)
+
+*
+
+WATERSUPPLYAND
+SANITATION:NEEDS
+ASSESSMENT
+(WB 95)
+
+42
+
+AG. SECTORREVIEW
+(WB, 97)
+
+*
+
+ENERGY SECTOR STUDY
+(WB, 95)
+
+FARM SURVEY(WB,00)
+
+*
+
+ENERGYEXPORT
+PROSPECTS(WB,00)
+
+BURDEN
+OF
+POLICIES(IMF,00)
+
+*
+
+ENERGY SERVICES(EBRD,
+IFC, 00)
+
+*
+
+ENERGY TAXATION (WB,
+00)
+
+AGRIC
+
+STRATEGY FOR AGRIC
+INVESTMENTS
+(EU,99)
+
+*
+
+TURKMENISTAN
+DEV. (USAID, 98)
+
+*
+
+RED BOOK ON FLAURAAND
+FAUNA(UNDP, 00)
+
+EDUCATIONSECTOR REVIEW
+(UNDP, 97)
+
+*
+
+ENERGY
+
+RURLDEVJENV.
+
+AGRIC
+
+CAS TABLE A2
+
+Turkmenistanat a glance
+Turkmenbstan
+
+Euroos &
+Central
+Asia
+
+LowIncome
+
+4.8
+660
+3.2
+
+475
+2.150
+1.022
+
+2,417
+410
+988
+
+2.1
+2.5
+
+0.1
+0.6
+
+1.9
+2.3
+
+POVERTYaWnSOCIAL
+1999
+Population,mid-vear(millions)
+GNP Dercapita (Atlasmethod, US$)
+GNP (Atlasmethod. US$ billions)
+
+12/19/00
+
+Delpment
+
+diamond
+Ule expectancy
+
+Averaq annuat arowth. 1993-99
+Population(%l
+Laborforce f%l
+Moat recentetimate (latest vear available. 1993-99)
+Poverty (% of populationbelow nationalpovertv line)-Urbanpopulation(% of total opoulaton)
+Life expectancvat birth (vears)
+Infant mortalitv(per 1.000 lve births).Child malnutritlon(% of childrenunder5)
+Access to improvedwatersource (% of pooulation)
+Illiteracv (% of Populationace 15+)
+Gross Drlmaryenrollment /% of school-acepopulaton)
+Male
+Female
+
+GNP
+
+Gross
+
+per
+
+prImary
+
+capita
+58
+44
+66
+33
+
+67
+69
+22
+3
+100
+101
+99
+
+31
+60
+77
+43
+64
+39
+96
+102
+86
+
+1998
+
+1999
+
+2.9
+45.5
+29.7
+10.8
+12.8
+
+3.3
+46.3
+41.6
+26.0
+29.0
+
+-32.7
+2.3
+79.2
+32.0
+74.2
+217.1
+
+-17.3
+2.4
+70.0
+32.0
+B5.6
+145.0
+
+..
+
+61
+1
+93
+93
+93
+
+..
+
+enrollment
+
+Accessto safe water
+Turamenssn
+Low-incomegroup
+
+KEY ECONOMICRATIOSand LONG-TERMTRENDS
+1979
+
+199
+
+GDP (US$billions at officialexchanaerate)
+Gross domesticInvestmentVGDP
+ExDortsof moodsand services/GDP
+Gross domestc savina/sGDP
+Gross national savinqslGDP
+
+..
+
+..
+
+..
+..
+..
+..
+
+35.2
+
+Currentaccount balancelGDP
+Interest pavmentstGDP
+
+..
+..
+..
+..
+
+..
+..
+..
+..
+
+.
+
+..
+
+..
+
+..
+
+Total debVGDP
+Total debt service/exports
+Presentvaluieof debUtGDP
+Presentvalue of debtexDorts
+
+..
+
+26.1
+..
+
+Trade
+
+Domestic
+SavIngs
+
+Inveatma
+nt
+
+Indebtedness
+1979-8
+
+1989-99
+
+1996
+
+1999
+
+1999-03
+
+-8.8
+-10.1
+-15.1
+
+7.0
+3.6
+-18.6
+
+17.0
+13.3
+61.7
+
+11.9
+10.2
+32.7
+
+1979
+
+1989
+
+1998
+
+1999
+
+(averaceannualcr0wth)
+GDP
+GNPpercadta
+ExDortsot oods and seices
+
+..
+
+..
+..
+
+-
+
+Tudmenistan
+Low-incomegroup
+
+STRUCTUREof the ECONOMY
+(% of GOP)
+Aoriculture
+Industrvand constructon
+Industr
+Services
+
+..
+..
+..
+
+Private consumrtion
+Generalcovemment
+consumption
+ImDortsof aoods and services
+
+..
+..
+..
+
+(averaceannual cowth)
+Aariculture
+Industrvandconstruction
+
+28.9
+33.8
+
+25.2
+40.6
+30.8
+34.2
+
+24.7
+43.3
+33.6o
+32.0
+
+74.2
+15.0
+64.5
+
+62.4
+11.6
+61.9
+
+19
+
+1999
+25.5
+13.1
+12.6
+13.8
+
+..
+
+37.3
+
+Services
+
+..
+..
+..
+..
+
+Private consumption
+
+..
+
+Generalaovemmentconsumption
+Gross domesticinvestment
+Importsof aoodsand services
+Gross nabonalproduct
+
+..
+.
+
+Industry
+
+Growth of GDPandagricutture%)
+4
+
+.
+
+..
+
+51.4
+22.5
+..
+
+1989-99
+-7.7
+-5.9
+
+24.4
+4.7
+1.3
+6.3
+
+..
+
+-5.9
+..
+
+..
+
+9.4
+-1.5
+-7.2
+
+17.0
+9.9
+4.9
+
+..
+
+3.0
+10.9
+14.5
+
+20
+-20
+.
+
+9*
+
+9
+
+e arzP
+
+Growth of exportsandImport 1)
+G19
+80
+do 20
+20,
+1
+-20
+
+/_
+99
+
+40
+ENcf1
+
+a
+
+Imports
+
+Note: Due to restrictons on access to statisticaldata Imposedby Turkmen authorities,the numbersIn the tahle need to be treatedwith caution.
+* The diamondsshow four key IndicatorsInthe countrv(in bold) comDaredwith Its inconmroug averaae.If data are missina, the diamondwill
+be incomplete.
+- Accordingto the 1998 UvingStandardsMeasurementSurvey, 58%of populationhad Incomesbelowthe oicia minimumwage at the time.
+Turkmenauthorites suggestthat another, relativepovertymeasure- share of populationwfth incomesbelow 50%of medianpercapita inoome- mav be apDrooriate. Officialstatsics Indicatethat onlv1% o ooulaton falls below this level.
+Recent officialstatisticsindicatethat this may havefallen to as low as 26 per 1000 live births.
+
+43
+
+Turkmenistan
+PRICESand GOVERNMENTFINANCE
+(% chanpe)
+Consumer DNces
+Implicit GDP deflator
+Govwrnment finance
+t% of GDP, Includescurrent arants)
+Currentrevenue
+Currentbudoet balance
+Overallsurplus/deficit
+
+1979
+
+1989
+
+1998
+
+1999
+
+..
+..
+
+..
+
+19.8
+17.7
+
+20.1
+5.0
+
+10.7
+
+Inflation (%)
+.50
+1000
+500
+
+0
+..
+
+..
+
+..
+..
+
+..
+..
+
+1979
+
+1989
+
+..
+..
+..
+..
+
+..
+..
+..
+..
+
+.
+
+.
+
+.
+
+..
+
+.
+
+..
+
+..
+
+..
+
+..
+..
+
+..
+..
+
+18.5
+-6.0
+-2.6
+
+19.9
+-1.7
+0.0
+
+1998
+614
+70
+
+1999
+1,164
+390
+
+236
+
+352
+
+2 000
+
+116
+1,137
+91
+
+182
+1,374
+221
+
+.
+00
+
+46
+35
+
+60
+362
+
+So
+
+62
+
+53
+
+104
+60
+
+107
+49
+
+1998
+851
+1,845
+-994
+
+1999
+1,376
+2.046
+
+95
+
+-
+
+5
+
+907
+
+GDPdetlator
+
+98
+
+C CPl
+
+TRADE
+(US$millions)
+Total exports(lob)
+Naturalgas
+Oil and oil Products
+Manufactures
+TotalImports (fob)
+Food
+
+Fuelandenergy
+Capitalgoods
+Export rnceIndex(19940100)
+Import pricelndex (1994-100)
+Termsof trade (1994-100)
+
+Export and Importlevel (USSmill.)
+3,000
+2,500
+
+_.0
+
+0[
+
+,
+CExports
+
+1
+
+Wimports
+
+BALANCE of PAYMENTS
+(USSmillions)
+Exports of goodsand services
+Importsof goodsand services
+Resourcebalance
+
+1979
+..
+..
+
+1989
+..
+..
+
+Currant account balanceto GDP(%)
+20
+
+10
+
+-670
+0
+
+Netincome
+
+..
+
+..
+
+33
+
+-6
+
+Net current transfers
+
+..
+
+..
+
+27
+
+105
+
+Currentaccount balance
+
+..
+
+.e
+
+-935
+
+-571
+
+-20
+
+Financinaitems(net)
+Changesin net reserves
+
+..
+..
+
+..
+..
+
+1,029
+-94
+
+705
+-134
+
+-30
+
+Memo:
+ReservesIncludinggold (US$millions)
+Official exchanoerate (IocaI1US$.
+averagee
+
+..
+..
+
+..
+..
+
+1,379
+4.890
+
+1,513
+5.200
+
+1979
+
+1989
+
+1998
+
+1999
+
+..
+
+0
+0
+0
+
+2,265
+9
+0
+
+2,314
+9
+0
+
+0
+0
+0
+
+313
+0
+0
+
+479
+1
+0
+
+..
+..
+
+5
+124
+343
+62
+2
+
+4
+97
+166
+125
+0
+
+0
+0
+
+0
+
+0
+
+o
+
+o
+
+o
+
+o
+
+w
+
+5
+
+U
+
+97
+
+U
+
+U
+
+-10
+
+-40
+
+EXTERNALDEBT and RESOURCEFLOWS
+(US$ millions)
+
+Total debt outstandingand disbursed
+
+IBRD
+
+..
+
+IDA
+
+Total debt service
+
+IBRD
+
+..
+..
+
+IDA
+Compositionof net resourceflows
+Offkiialarants
+Official creditors
+Privatecreditors
+Foreigndirect Investment
+Port.olloeouitv
+World Bank program
+Commitments
+Disbursements
+
+PrincipalreDavments
+
+,,
+..
+..
+..
+..
+..
+
+*
+
+Net flows
+
+Interestpayments
+Nettransfers
+
+..
+..
+
+0
+0
+
+0
+
+0
+
+°
+0
+
+0
+
+0
+
+0
+
+0
+0
+
+0
+0
+
+1
+-1
+
+Includingshutte trade
+DevelopmentEconomics
+
+ComposItlon of 1999 debt (USS mll.)
+
+G:322 A: 9 D:33
+
+F: 1,594
+A - IBRD
+E -ENilatral
+- IDA D
+P -Othermiuttilteral F- Prtvate
+C- IMF
+a - Short-term
+
+12/19/00
+
+44
+
+CASTABLEB2
+
+Turkmenistan:SelectedIndicators*of BankPortfolio
+PerformanceandManagement
+As Of Date 12/07/2000
+
+1998
+
+1999
+
+2000
+
+2001
+
+Number of Projects Under Implementationa
+Average Implementation Period (years) b
+
+3
+1.6
+
+3
+2.6
+
+3
+3.6
+
+3
+3.1
+
+Percentof ProblemProjectsby Numbera,c
+Percentof ProblemProjectsby Amountas
+c
+Percentof Projectsat Riskby Numbera,d
+Percentof Projectsat Riskby Amounta,d
+DisbursementRatio(%) 9
+Portfolio Management
+
+33.3
+27.9
+33.3
+27.9
+5.3
+
+100
+100
+100
+100
+0
+
+100
+100
+100
+100
+23.3
+
+100
+100
+100
+100
+10.3
+
+Disbursement Suspension
+207
+70
+
+No
+225
+75
+
+220
+73
+
+Indicator
+
+PortfolioAssessment
+
+CPPR during the year (yes/no)
+Supervision Resources (total US$)
+Average Supervision (US$/project)
+
+Memorandum Item
+Proj Eval by OED by Number
+Proj Eval by OED by Amt (US$ millions)
+% of OED Projects Rated U or HU by Number
+% of OED Projects Rated U or HU by Amt
+
+a.
+b.
+c.
+d.
+e.
+*
+
+Since FY 80 Last
+FYs
+0
+0
+0
+0
+
+Five
+0
+0
+0
+0
+
+As shown in the Annual Report on Portfolio Performance(except for current FY).
+Average age of projects in the Bank's country portfolio.
+Percent of projects rated U or HU on development objectives (DO) and/or implementationprogress (IP).
+As defined under the Portfolio Improvement Program.
+Ratio of disbursements during the year to the undisbursed balance of the Bank's portfolio at the
+beginning of the year: Investmentprojects only.
+All indicators are for projects active in the Portfolio, with the exception of Disbursement Ratio,
+which includes all active projects as well as projects which exited during the fiscal year.
+
+45
+
+CAS TABLE B3
+
+BankGroupProgramSummaryfor Turkmenistan
+As Of Date12/07/2000
+
+ProposedIBRDBase-CaseLendingPrograma
+US$(M)
+
+Strategic
+Rewardsb
+(HIMIL)
+
+b
+Implementation
+Risks(HIMIL)
+
+HEALTH
+KARAKUMCANAL
+
+10
+20
+
+H
+H
+
+M
+H
+
+CROPPROTECTION
+& ANIMALHEALTH
+
+15
+
+M
+
+M
+
+Fiscalyear ProjID
+
+2001
+2002
+2003
+
+Turkmenistan - IFC and MIGA Program, FY 1998-2001
+
+IFC approvals (US$m)
+
+1998
+
+1999
+
+2000
+
+2.75
+
+13.70
+
+2.75
+
+2001
+
+IFC by Sector (%)
+FINANCIAL SERVICES
+FOOD AND AGRO-BUSINESS
+
+9
+91
+
+0
+
+Total
+
+0
+
+100
+
+0
+
+IFC by Investment Instrument(%)
+Loans
+Equity
+Quasi-Equity
+Other
+
+91
+9
+
+Total
+
+0
+
+0
+
+100
+
+0
+
+8
+
+MIGA
+MIGA guarantees (US$m)
+
+46
+
+0
+
+CAS TABLE B4
+
+Summaryof NonlendingServices- Turkmenistan
+As Of Date 12/07/2000
+
+Product
+
+----
+
+------
+
+------
+
+------
+
+CompletionFY
+
+Recent completions
+Agriculture Sector Review
+Rationalizing the Health Sector
+Turkmenistan: Improving the
+Management of Public Expenditure
+Dashkhovuz: Regional Priorities
+Energy Export Prospects
+Advice on Tax Code
+Farm Survey
+Living Standards Profile
+
+Cost (US$000) Audiencea
+
+Objectiveb
+
+1997
+1997
+1999
+
+120
+120
+115
+
+G, B
+G, B, D
+G, B
+
+PD, KG
+PD, KG
+PD, KG
+
+1999
+2000
+2000
+2001
+2001
+
+115
+50
+15
+100
+120
+
+G, B
+G
+G
+G, B
+G, B
+
+PD, KG
+PD, KG, PS
+PD, KG, PS
+PD,KG
+PD, KG
+
+Underway
+Country Assistance Strategy (CAS)
+Debt Management (IDF)
+Public Procurement (IDF)
+lnternat'l Accounting Principles (IDF)
+National Environmental Action Plan
+Energy Restructuring Study
+
+2001
+2002
+2001
+2002
+2002
+2001
+
+180
+40
+30
+56
+110
+32
+
+G, B
+G
+G
+G
+G, B
+
+PS, PS
+PS, PD
+PS, PD
+PS, PD
+KG, PD, PS
+KG, PD
+
+Planned
+National Economic Forum
+Living Standards and Statistics (IDF)
+Comprehensive Water Strategy
+Country Economic Memorandum
+Macro & Sector Reform Dialogue
+
+2002
+2003
+2002
+2003
+2001-3
+
+30
+40
+100
+200
+170
+
+G, D, B, PD
+G
+G
+B, D, PD
+G, B
+
+KG, PD
+KG, PS
+KG, PD, PS
+KG
+KG, PD, PS
+
+a. Government,donor, Bank, public dissemination.
+b. Knowledge generation, public debate, problemsolving.
+
+47
+
+G
+
+CAS TABLE B5
+
+Turkmenistan Social Indicators
+Latest single year
+
+Same region/income group
+Europe &
+
+1970-75
+
+1980485
+
+1993-99
+
+CentralAsia
+
+Low-
+
+Income
+
+POPULATION
+Totalpopulation,mid-year(millions)
+Growthrate(% annualaverage)
+Urbanpopulation(%of population)
+Totalfertility rate(birthsper woman)
+
+2.5
+2.9
+47.5
+5.7
+
+3.2
+2.4
+45.7
+4.7
+
+4.8
+1.2
+43.7
+2.2
+
+..
+
+..
+
+58.0
+
+..
+
+..
+
+..
+
+..
+
+..
+..
+..
+
+..
+..
+..
+
+660
+954
+1,058
+
+Gini index
+Lowest quintile (% of income or consumption)
+
+..
+
+..
+
+67
+
+..
+
+..
+
+Highestquintile(% of incomeor consumption)
+
+..
+
+..
+
+7
+49
+
+SOCIALINDICATORS
+Public expenditure
+Health(% of GDP)
+Education(% of GNP)
+
+..
+..
+
+..
+..
+
+..
+
+474.7
+0.2
+66.5
+1.6
+
+2,417.0
+1.9
+31.4
+3.8
+
+2,150
+183
+
+410
+137
+
+4.3
+5.1
+8.8
+
+1.1
+3.2
+
+..
+
+2.6
+5.4
+3.4
+
+..
+..
+
+..
+..
+
+..
+..
+
+..
+
+..
+
+..
+
+100
+100
+99
+
+76
+81
+71
+
+..
+
+..
+
+..
+..
+
+..
+..
+
+61
+85
+42
+
+..
+..
+..
+
+..
+..
+..
+
+99
+98
+
+91
+89
+
+77
+82
+
+Life expectancy at birth
+(years)
+Total
+Male
+Female
+Mortality
+Infant(per thousandlive births)**
+
+67
+63
+70
+
+65
+61
+68
+
+66
+63
+70
+
+69
+65
+74
+
+60
+59
+61
+
+57
+
+52
+
+33
+
+22
+
+77
+
+Under 5 (per thousand live births)
+
+..
+
+..
+
+46
+
+26
+
+108
+
+Adult (15-59)
+Male (per 1,000populafton)
+Female (per 1,000population)
+
+..
+..
+
+267
+268
+
+278
+283
+
+283
+120
+
+277
+248
+
+Matemal (per 100,000 live births)
+
+..
+
+..
+
+110
+
+POVERTY
+(% of population)
+National headcount index
+Urban headcount index
+Rural headcount Index
+
+INCOME
+GNP per capita (US$)
+Consumerprice index (1995=100)
+Food price index (1995=100)
+
+INCOMEICONSUMPTION
+DISTRIBUTION
+
+Social security and welfare (% of GDP)
+
+Net primary school enrollment rate
+(% of age group)
+Total
+Male
+Female
+
+Access to safe water
+(% of population)
+Total
+Urban
+
+Rural
+Immunization rate
+(% under 12months)
+Measles
+DPT
+Child malnutrition (% under 5 years)
+
+* According
+to the1998Lvng Standards
+Measurement
+Survey,
+58%of population
+hadincomesbelowtheofficialminimumwageat thetime.
+Turkmen authorites suggest that another, relativepovertymeasure-- share of populationwith Incomesbelow 50%of medianper capita income may be appropriate. Officialstatisticsindicatethat only 1%of populationfalls belowthis level.
+
+** RecentofficialstatisticsIndicate
+thatthismayhavefallento as lowas 26per 1000livebirths.
+2000 WorldDevelopmentIndicatorsCD-ROM,WoridBank
+
+48
+
+CASTABLEB6
+
+TURKMENISTAN: KEY ECONOMICINDICATORS*
+
+Indicator
+National accounts (as % of GDP)
+Gross domesticproducta
+Agriculture
+Industry and construction
+Services
+
+Actual
+1997
+1998
+
+1996
+100
+13
+65
+23
+
+Estimate
+2000
+
+1999
+
+2001
+
+Projected
+2002
+2003
+
+2004
+
+100
+20
+44
+36
+
+100
+25
+41
+34
+
+100
+25
+43
+32
+
+100
+22
+52
+26
+
+100
+16
+66
+18
+
+100
+15
+67
+18
+
+100
+15
+68
+17
+
+100
+15
+68
+17
+
+105
+18
+
+89
+44
+
+74
+45
+
+58
+36
+
+49
+33
+
+53
+33
+
+55
+32
+
+58
+32
+
+39
+63
+
+30
+64
+
+42
+62
+
+61
+56
+
+97
+79
+
+99
+86
+
+101
+89
+
+100
+91
+
+-5
+-3
+
+11
+13
+
+26
+29
+
+42
+42
+
+51
+50
+
+47
+46
+
+45
+45
+
+42
+42
+
+2,379
+
+2,682
+
+2,862
+
+3,305
+
+4,313
+
+4,117
+
+4,246
+
+4,458
+
+4,618
+
+790
+
+640
+
+550
+
+660
+
+870
+
+970
+
+930
+
+900
+
+900
+
+Real annual growth rates (%, at previous year prices)
+Grossdomesticproductatmarketprices
+-6.7
+Gross domesticinvestment
+..
+
+-11.4
+
+7.0
+17.0
+
+17.0
+3.0
+
+18.1
+-2.9
+
+20.5
+4.6
+
+4.5
+2.1
+
+5.0
+1.6
+
+2.7
+1.6
+
+5.6
+
+15.8
+
+..
+..
+
+..
+..
+
+16.6
+2.1
+-0.4
+
+18.8
+10.0
+7.2
+
+2.8
+5.3
+5.9
+
+3.2
+2.3
+2.1
+
+0.7
+1.4
+2.4
+
+Total Consumption
+Gross domesticfixed investment
+Exports(GNFS)b
+Imports (GNFS)
+
+75
+75
+
+Gross domesticsavings
+Gross national savings'
+Memorandumitems
+Gross domesticproduct
+(US$ millionat current prices)
+GNP per capita (US$, Atlas method)
+
+..
+
+Real annual per capita growth rates (%, at previous year prices)
+Gross domesde product at market prices
+-8.5
+-12.4
+Total consumption
+..
+..
+Private consumption
+..
+..
+Balance of Payments (US$millons)
+Exports (GNFS)b
+MerchandiseFOB
+Imports (GNFS)b
+MerchandiseFOB
+Resourcebalance
+Net current transfers
+Current accountbalance
+Net private foreign direct investment
+Long-term loans (net)
+Official
+Private
+Other capital (net,icl. euors& omiissions)
+Change in reservesd
+Memorandumitems
+Resourcebalance(%ofGDP)
+Annual value growth rates (%)
+Merchandise exports (FOB)
+Primary
+Manufactures
+Merchandiseimports (FOB)
+
+1,775
+1,692
+1,794
+1,388
+-20
+5
+2
+
+1,046
+774
+1,679
+1,005
+-634
+-31
+-580
+
+851
+614
+1,845
+1,137
+-994
+27
+-934
+
+1,376
+1,164
+2,046
+1,374
+-670
+105
+-571
+
+2,646
+2,437
+2,413
+1,578
+233
+34
+204
+
+3,975
+3,757
+3,271
+2,139
+704
+14
+641
+
+4,189
+3,963
+3,644
+2,392
+545
+4
+486
+
+4,504
+4,271
+3,966
+2,671
+538
+4
+494
+
+4,624
+4,386
+4,197
+2,871
+427
+4
+393
+
+108
+86
+-79
+165
+-2
+
+108
+791
+28
+762
+-206
+-113
+
+62
+467
+124
+343
+500
+-94
+
+125
+263
+96
+167
+318
+-134
+
+112
+-4
+53
+-57
+46
+-266
+
+100
+78
+3
+75
+-228
+-591
+
+104
+6
+-23
+29
+-302
+-293
+
+109
+-59
+-32
+-28
+-248
+-294
+
+114
+6
+-38
+45
+-240
+-274
+
+-0.8
+
+-23.6
+
+-34.7
+
+-20.3
+
+5.4
+
+17.1
+
+12.8
+
+12.1
+
+9.2
+
+-18.8
+-19.2
+-5.5
+-15.5
+
+-54.3
+-56.0
+-7.1
+-27.6
+
+-20.7
+-30.7
+107.7
+13.1
+
+89.5
+97.3
+56.4
+20.8
+
+109.3
+131.3
+-9.2
+14.9
+
+54.2
+56.0
+28.9
+35.6
+
+5.5
+5.3
+8.8
+11.8
+
+7.8
+7.9
+6.5
+11.7
+
+2.7
+2.6
+4.6
+7.5
+
+-194
+
+__...._..._....
+
+* National Economic and Debt Information are World Bank estimates using various
+different and incomplete sources. They should be considered with a degree of caution.
+
+49
+
+(Continued)
+
+Turkmenistan - Key Economic Indicators
+
+(Continued)
+Indicator
+
+1996
+
+Actual
+1997
+1998
+
+1999
+
+Estimate
+2000
+
+2001
+
+Projected
+2002
+2003
+
+2004
+
+Pssblic finance (as % of GDP at market prices)'
+Current revenues
+16.6
+Current expenditures
+16.3
+Cumrentaccount surplus (+) or deficit (-)
+0.3
+..
+Capital revenuesf
+-0.3
+Foreignfinancing
+
+23.1
+25.3
+-2.2
+2.2
+-0.5
+
+18.5
+24.5
+-6.0
+3.4
+-0.1
+
+19.9
+21.6
+-1.7
+1.7
+0.0
+
+20.0
+20.7
+-0.7
+0.7
+0.5
+
+20.7
+20.9
+-0.2
+0.5
+0.2
+
+20.8
+21.6
+-0.8
+0.4
+0.0
+
+21.0
+22.0
+-1.0
+0.3
+0.0
+
+21.2
+22.2
+-1.1
+0.3
+0.0
+
+Monetary indicators
+M3/GDP
+Growth of M3 (%)
+Private sector credit / GDP (%)5
+
+8.1
+411.7
+0.6
+
+10.2
+81.2
+1.4
+
+14.9
+65.3
+1.6
+
+14.9
+22.6
+1.5
+
+14.5
+27.0
+2.0
+
+9.2
+28.3
+0.8
+
+9.2
+28.7
+1.1
+
+9.6
+30.9
+1.9
+
+10.0
+29.5
+2.3
+
+Nominalexchange rate (LCUIUS$.
+annual averagep
+
+3,258
+
+4,143
+
+4,890
+
+5,200
+
+5,200
+
+11,015
+
+13,682
+
+16,426
+
+19,557
+
+Real exchangerate (US$1LCU,
+Jan 1996 =100t
+Consumerprice index (%change)
+GDPdeflator(%change)
+
+193.0
+
+225.0
+
+212.0
+
+233.0
+
+263.5
+
+201.5
+
+191.9
+
+186.5
+
+184.1
+
+445.8
+1174.3
+
+21.4
+61.6
+
+19.8
+17.7
+
+20.1
+5.9
+
+13.9
+10.5
+
+35.0
+67.8
+
+21.8
+22.6
+
+20.0
+20.1
+
+18.9
+20.1
+
+Price indices
+
+a. GDPat factor cost
+b. "GNFS"denotes "goods and nonfactor services."
+c. Includes net unrequitedtransfers excluding officialcapital grants.
+d. Includesuse of IMF resources.
+e. State budget only. Due to the lack of access to informationon activitiesof extrabudgetaryfunds, the funds, including Foreign
+Exchange ReserveFund, are included in the residualprivate sector. The funds service most of externaldebt and have independent
+sources of tax and non-tax income.
+f. Primarilyrepaymentson reschedulednatural gas debts
+g. Private sector proper, excluding extrabudgetaryfunds.
+h. "LCU" denotes "local currencyunits." An increasein real exchange rate indexdenotes appreciation.
+
+50
+
+CAS TABLE B7
+
+KEY EXPOSUREINDICATORS *
+Indicator
+
+1996
+
+Actual
+1997
+1998
+
+Estimate
+2000
+
+1999
+
+Projected
+2002
+2003
+
+2001
+
+2004
+
+Total debtoutstanding and
+disbursed (TDO) (US$m)a
+
+751
+
+1771
+
+2265
+
+2314
+
+2304
+
+2263
+
+2269
+
+2211
+
+2217
+
+Net disbursements(US$m)a
+
+86
+
+791
+
+467
+
+263
+
+-4
+
+78
+
+6
+
+-59
+
+6
+
+193
+
+263
+
+313
+
+480
+
+374
+
+501
+
+450
+
+451
+
+418
+
+(%)
+TDO/XGSb
+TDO/GDP
+TDS/XGS
+ConcessionaUTDO
+
+39.5
+31.6
+10.1
+2.6
+
+147.3
+66.1
+21.9
+2.2
+
+231.7
+79.2
+32.0
+5.2
+
+154.7
+70.0
+32.1
+9.8
+
+85.0
+53.4
+13.8
+11.7
+
+55.8
+55.0
+12.4
+12.3
+
+52.9
+53.4
+10.5
+11.9
+
+47.9
+49.6
+9.8
+11.3
+
+46.6
+48.0
+8.8
+10.0
+
+IBRD exposure indicators (%)
+IBRD DS/public DS
+Preferred creditor DS/public
+
+0.1
+32.6
+
+0.2
+0.5
+
+0.1
+0.6
+
+0.2
+0.9
+
+0.5
+2.8
+
+0.7
+2.3
+
+1.3
+3.2
+
+1.8
+3.8
+
+2.2
+4.3
+
+0.0
+3
+0.0
+0
+
+0.0
+7
+0.01
+0
+
+0.0
+9
+0.01
+0
+
+0.1
+9
+0.01
+0
+
+0.1
+29
+0.02
+0
+
+0.1
+37
+0.03
+0
+
+0.1
+39
+0.03
+0
+
+0.2
+41
+0.04
+0
+
+0.2
+43
+0.04
+0
+
+IFC (US$m)
+Loans
+Equity and quasi-equitye
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+0.3
+0.0
+
+0.5
+0.0
+
+1.0
+0.0
+
+1.5
+0.0
+
+MIGA
+MIGA guarantees (US$m)
+
+0
+
+0
+
+0
+
+8
+
+8
+
+8
+
+8
+
+8
+
+8
+
+Total debt service (TDS)
+(US$m)'
+Debt and debt service indicators
+
+DS (%)c
+
+IBRD DS/XGS
+IBRD TDO (US$m)
+Share of IBRD portfolio (%)
+IDATDO(US$m)
+
+a. Includes public and publicly guaranteed debt, private nonguaranteed, use of IMF credits and net shortterm capital.
+b. "XGS' denotes exports of goods and services, including factor services and workers' remittances.
+c. Preferred creditors are defined as IBRD, IDA, the regional multilateraldevelopment banks, the IMF, and the
+Bank for International Settlements.
+d. Includes equity and quasi-equity types of both loan and equity instruments.
+
+______.__._.___________.
+
+* National Economic and Debt Information are World Bank estimates using various
+different and incomplete sources. They should be considered with a degree of caution.
+
+51
+
+CAS TABLE B8
+
+STATUS OF BANK GROUP OPERATIONS IN TURKMENISTAN
+As of Date 12/07/2000
+ExpectedandActual
+
+LastPSR
+Project ID Project Name
+
+Disbursementsa'
+
+Original Amount in US$ Millions
+
+SupervisionRatingb/
+Develogment Imolementation Fiscal Year
+Progress
+Oblectives
+
+IBRD
+
+IDA
+
+34.2
+30.3
+25.0
+
+0
+0
+0
+
+89.5
+
+0
+
+Orig. Frm Rev'd
+
+GE Cancel.
+
+Undisb.
+
+0
+0
+0
+
+0
+0
+10.2
+
+13.2
+28.1
+8.9
+
+13.1
+20.2
+19.1
+
+-10.9
+0
+4.1
+
+0
+
+10.2
+
+50.3
+
+52.4
+
+-6.8
+
+Number of Closed Projects: 0
+Active Projects
+P034083 URBAN TRANSPORT
+P008867 WATER SUP/SAN
+P034092 IBTA
+
+1997
+1997
+1995
+
+S
+U
+U
+
+U
+U
+HU
+
+Total
+
+IFC's PORTFOLIO IN TURKMENISTAN
+Statement of IFC's
+Held and Disbursed Portfolio
+As of 06/30/00 in US Dollars Millions
+Disbursed
+
+Held
+FY Approval Company
+
+Loan
+
+Equity Quasi
+
+Partic
+
+Equity Quasi
+
+Partic Loan
+
+Approvals Pending Commitment
+2000 SEF Esret Dairy
+2000 SEF Garashsyzlyk
+
+2.5
+0
+
+0
+0
+
+0
+0.25
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+Total Pending Commitment:
+
+2.5
+
+0
+
+0.25
+
+0
+
+0
+
+0
+
+0
+
+0
+
+52
+
+CAS TABLE B9: TURKMENISTAN CAS MATRIX FY01-03
+
+{
+
+Government Strategy
+
+Goals
+
+l
+_______________
+
+________________L_
+
+|
+
+Key
+Bank Group Activities
+AAAh ESWITA |International
+Lending |
+
+agPartners
+
+Key
+Performance Benchmarks
+
+_ __________
+
+A. PUBLIC RESOURCE MANAGEMENT
+1. Strengthen Budget
+Management and
+Transparency
+
+2. Strengthen Debt
+Management and
+Transparency
+
+3. Increase
+Information Quality
+and Dissemination
+
+Government Budget to
+reflect all Govt funds and
+elimination of all extrabudget accounts (pages 2656 of National Program)
+
+Government to strengthen
+control over Debt and
+Payments (pages 268-9 of
+National Program)
+
+*
+
+Govt's participation in
+external forums and
+training is limited
+
+*
+
+Govt supports the
+introduction of Int'l
+Accounting Principles
+
+Dialogue on FERF
+
+Restructured IBTA
+Loan
+(on-going)
+
+IDF Debt Management
+Grant
+(on-going)
+
+*
+
+National Economic
+Forum (proposed)
+
+*
+
+Public Procurement
+Grant (IDF)
+
+*
+
+Int'l Acct Princ Grant
+(IDF)
+
+USAID
+
+UNDP
+
+Progressive elimination of ExtraBudgetary Funds
+
+*
+
+Adoption of an effective plan to
+rationalize the FERF
+
+*
+
+Wide dissemination of the full
+budget.
+Submission of a complete debt
+report to the Debt Reporting
+System
+
+*
+
+All Donors
+
+*
+
+Leveling off of the DSR to no
+more than 15% of exports.
+
+*
+
+Improvement in timely
+repayment of debt
+Improved dissemination of
+macro-economic and other
+information within
+Turkmenistan
+
+*
+
+I
+
+53
+
+*
+
+*
+
+Progressive increase in use of
+International Accounting
+Principles
+
+*
+
+Adoption of a Public
+Procurement Law
+
+Goals
+
+GovernmentStrategy
+A
+
+f
+
+BankGroupActivities
+AAA: ESWA
+
+XLnding
+0
+
+S
+
+-
+
+{
+
+Key
+Ineatiol
+;
+I:~~~~~~~~~~~~~~
+Partners
+
+Key
+Perfoman
+
+Benchmarks
+
+B. HEALTH AND SOCIAL SERVICES
+4. Improve Poverty
+Monitoringand
+Targeting
+5. EnhanceDelivery of
+Water to the Poor and
+improvesustainability
+
+6. EnhanceADocation
+of Health Resources
+
+Government Statistics
+Agency has prepared a
+Living Standards Survey
+Government has committed
+to expanding availability,
+but has yet to increase water
+tariffs
+
+Government is interested in
+exploring reform in the
+health care system
+
+TA for Living Standards
+Monitoring and Targeting
+(proposedIDF Grant)
+Water Supply Project Comprehensive Water
+(on-going)
+Strategy
+(proposed)
+
+Pilot Health Project
+(proposed loan)
+I_I_I
+
+8. Improve Water
+Conservationand
+Maintenance
+9. Rehabilitate
+AgricultureFacilities
+
+The Govt has transferred
+most land to lease-holders,
+but most continue to use the
+state order for lack of
+alternatives
+The stated position of the
+Govt is for free water, but
+some interest in water user
+charges emerging
+The Govt has put funding
+for crop protection. It has
+not put enough funding for
+Canal Rehabilitation
+
+*
+
+Improved country approach to
+poverty monitoring and targeting
+
+UNICEF,
+USAID
+
+*
+
+Increase % of populace with
+access to safe water
+
+*
+
+Build a framework for
+introducing water charges to
+promote maintenance and
+conservation
+Improvement in Life Expectancy
+and Infant Mortality Statistics
+
+WHO, UNICEF
+
+C . AN EFFICIENT
+7. Improve Financial
+Returns of Farmers
+
+UNDP, UK,
+UNICEF
+
+*
+
+RURAL ECONOMY
+Policy Dialogue
+
+*
+
+Reduce share of state order and
+increase freedom of farners to
+sell produce at market prices.
+
+Increase share of private farmers
+Increase in the percent of cost
+recovery on a cash basis for irrigation
+water supply to at least 20%.
+*
+
+Comprehensive Water
+Strategy (proposed)
+*
+*
+
+Crop Protection
+(proposed loan)
+Ka
+Canal
+(proposed loan)
+
+USAID, AsDB
+
+USAID
+Potential Cof.
+from the Kuwait
+Fund, IsDB
+
+54
+
+Rehabilitation of facilities, with
+sustainability through user charges
+
+Bank Group Activities
+Lending
+AAA: ESWtrA
+
+Government Strategy
+
+Goals
+l
+
+|
+
+______________________I
+D. PRIVATE
+
+10 Commercialize
+State Companies
+
+11 Liberalize Trade
+and FX controls
+
+SECTOR
+
+*
+
+The Govt maintains a
+single official exchange
+rate, but access is
+limited, and the curb
+rate is quite far apart
+
+a
+
+Create list of public companies
+to be separated from Ministries
+and commercialized
+
+*
+
+Some Energy Co's placed on a
+commercial basis (eg
+Turkmenbashy Oil Refinery)
+Improved access to FX via
+single exchange rate
+
+*
+
+a
+
+Exemption of the Private Sector
+from registration under the
+Comrnodity Exchange
+
+The State Commodity
+Exchange maintains
+extensive controls over
+normal trade
+
+a
+
+Govt is a member of several
+regional efforts
+
+PROTECTION
+Aral Sea Program
+(on going)
+
+UNDP/GEF
+
+m Caspian Sea Program
+(on-going)
+13. Develop a National
+Environment Strategy
+
+Key
+Performance Benchmarks
+
+DEVELOPMENT
+
+Policy Dialogue
+
+E. ENVIRONMENTAL
+12. Participate in
+Multi-Country
+Environmental Efforts
+
+|
+
+~~~~~~~Partners
+
+Downstream Study on
+Energy Sector
+Commercialization
+(FY01)
+
+Most large enterprises still
+operate largely under the
+control of the State
+
+*
+
+Key
+International
+
+Govt has made a
+commitment to preparing a
+NEAP
+
+Preparation of a
+NEAP
+(FY01)
+
+.
+
+55
+
+UNDP, Japan, Switz.
+
+w
+
+Improvement in living
+conditions in the Aral
+Basin
+
+a
+
+Reduction in Caspian
+based pollution
+Publication of an effective
+NEAP document
+
+*
+
+CAS TABLE B1O:
+TURKMENISTAN - CAS SUMMARY OF DEVELOPMENT PRIORITIES
+Network Aria
+
+Country
+Performance
+Poverty Reduction & Economic Management
+Poverty Reduction
+
+Economic Policy
+Public Sector
+Gender
+
+Major Issue
+
+Country
+Priority
+
+Bank Priority
+
+Priority Reconciliation
+
+Poor/Fair
+
+Allocation of Public Resources, Inequality
+
+Medium
+
+High
+
+Poor
+Poor
+Fair
+
+Currency Liberalization, FERF
+Budget and Debt Management
+Access to Higher Level Education
+
+High
+High
+Medium
+
+High
+High
+Medium
+
+Poor
+Fair
+Poor/Fair
+
+Curriculum, Time in School, Access to Higher Ed.
+Poor Water Quality, Health Care System
+Need for Targeting Assistance to Poor
+
+Medium
+High
+High
+
+Medium
+High
+Medium
+
+Eliminating State Order, Conservation of water and
+Maintenance of Irrigation System
+Realizing the NEAP
+Transparency in laws, NGO registration
+
+Medium
+
+High
+
+Medium
+Low
+
+Medium
+Medium
+
+Work with civil society
+
+Basic Functioning, Inter-bank transactions
+Access to FX, State Commodity Exchange, State Order
+Maintaining Access to Export Market,
+commercialize firms
+Maintenance of Existing Infrastructure
+
+High
+Medium
+High
+
+Medium
+High
+Medium
+
+Dialogue on Banking Sector
+Limited Dialogue
+Energy Sector Dialogue
+
+High
+
+Medium
+
+--
+
+Continued Dialogue and
+information sharing
+-- IDF Grant for Living
+Standards Monitoring
+
+Human Development
+Education
+Health, Nutrition, & Pop
+Social Protection
+
+Dialogue on Pov. Statistics
+
+Environment & Sustainable Development
+Rural Development
+Environment
+Social Development
+
+Poor
+Fair
+Fair
+
+---
+
+Dialogue on Agric. Reform
+Water Strategy
+
+Finance, Private Sector & Infreastructure
+Financial Sector
+Private Sector
+Energy and Mining
+
+Poor
+Poor
+Fair
+
+Infrastructure
+
+Fair
+
+---
+
+Dialogue on Water Supply
+Proposed Canal Rehab pro.
+
+MAP SECTION
+
+gAN
+
+KtEAKH
+
+J
+
+60
+1UZBEKISTANUZBEKISTAN
+KAZAKHSTAN~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AZKSA
+
++.'
+
+Saq.kamysh
+
+-
+
+<~55
+
+<
+
+"~.Koturdep£
+
+~RIVERS
+I RN
+-35
+~ OF
+'
+
+REPUBLIC
+\-(
+ISLAMIC
+AMINITRATVE
+OUNDRIES(VELYET)< Tism
+sc w n
+
+~
+
+0
+
+0~~~~~~~~~~~~~~~~~~~~0Nfoaoo
+
+NATtoNALcAPrAL
+
+TU
+KM
+R ENI3TjK4AjRN
+KoturN
+
+as~~~~~~~~~~~~~~~~~iy
+
+_I
+
+/h
+y te ,,
+ma doAFGHANISTAN
+
+~
+
+UZBEKISTAN
+
+@
+
+\
+
+<
+
+<
+
+KRR.
+
+T
+
+.T
+
+SELECTEDYCITIESGYZ_R.E-P-
+
+Dusk
+
+~
+
+50
+
+.Oserokh5
+
+C
+CHINA
+ni o Te odIRAN
+
+PKITA
+
+-
+
+10KLMTR
+
+~~~~~~~~~~~~~~~~~~~~~~
+
+_
+
+\ EPrnd
+R Tedrulocs
+
+L)
+
+INALCAPALAFGANITA
+
+AO'- z
+
+60
+5'
+
+K55y
+lar6ot~~~~~~~~~~~~~~~~~~Klio
+
+*--
+
+-0
+
+SANDYDESERT
+RIVERS
+
+ISLAMICREPUBLIC
+OF RAN
+
+-
+
+P,.
+enstroy~~~~~~~~~~edrsmnto
+
+~TUKENSA
+-a
+
+-
+
+55~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+60
+
+35~~~~~~~~~~~~~
+Thisnsapsons producedby sheMap Desgr Unit of TreWorldReno
+
+ccpacea
+
+uc
+
+ondre
+
+65~~~~~~~~~~~~~~~~~~rOsSny
+
+
