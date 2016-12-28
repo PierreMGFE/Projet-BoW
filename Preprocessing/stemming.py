@@ -20,5 +20,3 @@ stems3 = [stemmer.stem(word) for word in stems2]
 print(stems1)
 print(stems2)
 print(stems3)
-
-

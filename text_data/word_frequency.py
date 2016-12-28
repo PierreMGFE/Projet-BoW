@@ -11,6 +11,26 @@ Created on Wed Nov 23 23:51:46 2016
 import numpy as np
 import nltk
 
+from nltk.stem.snowball import SnowballStemmer
+from nltk.stem.wordnet import WordNetLemmatizer
+
+# Il faut retirer les stopwords avant de stemmer
+
+stemmer = SnowballStemmer("english", ignore_stopwords=True)
+lemmatizer = WordNetLemmatizer()
+
+#source = ["having", "have", "needs", "need", "inflation", "inflate", "developments", "developing", "aggregation",
+#          "aggregated", "population", "poverty", "poor", "poorer", "men", "man", "gases", "gas", "sues", "utilized",
+#          "damaged"]
+#
+#stems1 = [stemmer.stem(word) for word in source]
+#stems2 = [lemmatizer.lemmatize(word) for word in source]
+#stems3 = [stemmer.stem(word) for word in stems2]
+#
+#print(stems1)
+#print(stems2)
+#print(stems3)
+
 def list_file(name_file):
     with open(name_file, "r") as file:
         list_words = file.read().split()
@@ -42,6 +62,8 @@ def list_file(name_file):
 #pour les fichiers traduits avec la procédure PDFTOTEXT
 
 lw_2 = list_file("data/texte_source/pdftotext/SCD/2016/SCD_Afghanistan_2016.pdf.txt")
+#lw_2 = list_file("data/texte_source/pdftotext/SCD/2016/SCD_Pacific_2016.pdf.txt")
+#lw_2 = list_file("data/texte_source/pdftotext/SCD/2016/SCD_Brazil_2016.pdf.txt")
 #cette variable est une liste de string
 
 nltk_lw_2 = nltk.Text(lw_2)
@@ -51,12 +73,14 @@ nltk_lw_2 = nltk.Text(lw_2)
 nltk_lw_2_NotDigit = sorted([item for item in nltk_lw_2 if not item.isdigit()])
 nltk_lw_2_AlphaBet = sorted([item for item in nltk_lw_2 if item.isalpha()])
 nltk_lw_2_AlphaBet_lower = sorted([item.lower() for item in nltk_lw_2_AlphaBet])
+nltk_lw_2_AlphaBet_lower_stemmer = sorted([stemmer.stem(word) for word in nltk_lw_2_AlphaBet_lower])
 
 
 #definition des stopwords
 stop = set(nltk.corpus.stopwords.words('english'))
-nltk_lw_2_AB_WOstop = sorted([item.lower() for item in nltk_lw_2 if item.isalpha() and item not in stop])
+stop_econ = {'figure','percent','growth','public','also'}
+nltk_lw_2_AB_WOstop = sorted([item for item in nltk_lw_2_AlphaBet_lower_stemmer if item not in stop and item not in stop_econ and len(item)>1])
 
-fq_lw_2 = FreqDist(nltk_lw_2_AB_WOstop)
+fq_lw_2 = nltk.FreqDist(nltk_lw_2_AB_WOstop)#/len(nltk_lw_2_AB_WOstop)
 
-fq_lw_2.plot(50, cumulative=True)
+fq_lw_2.plot(50, cumulative=False)
