@@ -1,25 +1,7 @@
 import os
 
 import nltk
-from settings import ROOT_DIR
 
-
-def list_file(name_file):
-    """
-    Return a list of all words in a file
-    :param name_file : string -> path towards the file
-    :return: list -> contains all words in file
-    """
-    with open(name_file, "r") as file:
-        list_words = file.read().split()
-    return list_words
-
-
-dir_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-print(dir_path)
-
-country = "Afghanistan"
-path = os.path.join(ROOT_DIR, "/text_data/pdftotext/SCD/2016/SCD_{0}_2016.txt".format(country))
 lw_2 = list_file(path)
 nltk_lw_2 = nltk.Text(lw_2)
 
