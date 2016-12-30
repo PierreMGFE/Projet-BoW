@@ -1,7 +1,7 @@
 import os
 
 import nltk
-from Projet-BoW.settings import ROOT_DIR
+from settings import ROOT_DIR
 
 
 def list_file(name_file):
