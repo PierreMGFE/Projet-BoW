@@ -9,8 +9,8 @@ def load_file(name_file):
     :return: list -> contains all words in file
     """
     with open(name_file, "r") as file:
-        list_words = file.read().split()
-    return list_words
+        text = file.read()
+    return text
 
 
 def load_files(path):
