@@ -5,6 +5,8 @@ from re import sub
 stops = set(nltk.corpus.stopwords.words("english"))
 
 # Simple cleaning (cf Kaggle tutorial)
+# Stemming etc.
+# Voir la liste des mots après le preprcessing, que reste t-il à faire?
 
 clean_data = []
 for year in data.keys():
