@@ -18,7 +18,7 @@ def load_files(path):
      Return a dict representing reco result. This is used in admin interface
      :param path: a string which represents path towards directory containing all files
      :return: a dict named data with every report. data[n][c] contains the report regarding country c in year n.
-     For instance, data[2014][Myanmar] contains the 2014 report for Myanmar.
+     For instance, data[2014][Bhutan] contains the 2014 report for Myanmar.
      """
     data = dict()
     for dirpath, dirnames, filenames in os.walk(path):

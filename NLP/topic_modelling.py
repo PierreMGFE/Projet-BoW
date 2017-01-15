@@ -1,5 +1,5 @@
 import os
-import numpy as np  # a conventional alias
+import numpy as np
 import sklearn.feature_extraction.text as text
 from sklearn import decomposition
 
@@ -8,38 +8,21 @@ from sklearn import decomposition
 CORPUS_PATH = os.path.join('data/texte_source/pdftotext/SCD', '2016')
 
 filenames = sorted([os.path.join(CORPUS_PATH, fn) for fn in os.listdir(CORPUS_PATH)])
-
-# files are located in data/texte_source/pdftotext/SCD/2016
-len(filenames)
-
-filenames[:5]
-
 vectorizer = text.CountVectorizer(input='filename', stop_words='english', min_df=12)
-
 dtm = vectorizer.fit_transform(filenames).toarray()
-
 vocab = np.array(vectorizer.get_feature_names())
 
-dtm.shape
-
-len(vocab)
-
 num_topics = 5
-
 num_top_words = 15
-
 clf = decomposition.NMF(n_components=num_topics, random_state=1)
 
-# this next step may take some time
 doctopic = clf.fit_transform(dtm)
-# print words associated with topics
 topic_words = []
 
 for topic in clf.components_:
     word_idx = np.argsort(topic)[::-1][0:num_top_words]
     topic_words.append([vocab[i] for i in word_idx])
 
-#To make the analysis and visualization of NMF components similar to that of LDA’s topic proportions, we will scale the document-component matrix such that the component values associated with each document sum to one.
 doctopic = doctopic / np.sum(doctopic, axis=1, keepdims=True)
 
 novel_names = []
