@@ -101,7 +101,7 @@
      </rect>
     </property>
     <property name="text">
-     <string notr="true">Select the file type of your source files. If PDF is selected, corresponding files will be analysed, converted to TXT and saved to a subfolder.</string>
+     <string notr="true">Select the file type of your source files. If PDF is selected, corresponding files wil converted to TXT and saved to a subfolder before analysis.</string>
     </property>
     <property name="wordWrap">
      <bool>true</bool>

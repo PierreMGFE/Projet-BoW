@@ -1,0 +1,6 @@
+15-20 paramètres
+choix données économiques
+graphes en sortie
+clustering données économiques
+save as csv
+executer ligne de commande

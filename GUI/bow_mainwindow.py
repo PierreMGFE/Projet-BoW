@@ -44,7 +44,7 @@ class bow_mainwindow(QtWidgets.QMainWindow):
         self.Source_format_description = QtWidgets.QLabel(self.centralwidget)
         self.Source_format_description.setGeometry(QtCore.QRect(30, 140, 321, 41))
         self.Source_format_description.setText(
-            "Select the file type of your source files. If PDF is selected, corresponding files will be analysed, converted to TXT and saved to a subfolder.")
+            "Select the file type of your source files. If PDF is selected, corresponding files will converted to TXT and saved to a subfolder before analysis.")
         self.Source_format_description.setWordWrap(True)
         self.Source_format_description.setObjectName("Source_format_description")
         self.layoutWidget = QtWidgets.QWidget(self.centralwidget)
@@ -253,10 +253,13 @@ class bow_mainwindow(QtWidgets.QMainWindow):
         self.launch_analysis_button.clicked.connect(self.launch_analysis)
 
     def exit_program(self):
-        # if (qtimer.isActive()):
-        #     qtimer.stop();
-        # self.quit();
-        pass
+        exit_message = QtWidgets.QMessageBox()
+        exit_message.setWindowTitle("Exit program")
+        exit_message.setText("Any changes made will be discarded.\nDo you want to proceed ?")
+        exit_message.addButton(QtWidgets.QMessageBox.Yes)
+        exit_message.addButton(QtWidgets.QMessageBox.No)
+        if (exit_message.exec_() == QtWidgets.QMessageBox.Yes):
+            self.close()
 
     def launch_analysis(self):
         launch = False
@@ -286,7 +289,7 @@ class bow_mainwindow(QtWidgets.QMainWindow):
         # Launch or error message
         if launch :
             if self.format == "pdf":
-                os.mkdir(self.dir_path + "/converted")
+                os.mkdir(self.dir_path + "/Converted TXT files")
                 # converted_files = convert() # TODO : write conversion function
                 self.dir_path += "/converted"
                 self.input_files = [] # TODO : load files into this table
