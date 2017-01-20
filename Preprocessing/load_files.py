@@ -37,3 +37,5 @@ def load_files(path):
 
 path = os.path.join(ROOT_DIR, "text_data/pdftotext")
 data = load_files(path)
+
+# Problème éviter d'avoir à refaire ça tout le temps

@@ -3,8 +3,6 @@ import numpy as np
 import sklearn.feature_extraction.text as text
 from sklearn import decomposition
 
-
-
 CORPUS_PATH = os.path.join('data/texte_source/pdftotext/SCD', '2016')
 
 filenames = sorted([os.path.join(CORPUS_PATH, fn) for fn in os.listdir(CORPUS_PATH)])
@@ -32,7 +30,6 @@ for fn in filenames:
     name, ext = os.path.splitext(basename)
     name = name.rstrip('0123456789')
     novel_names.append(name)
-
 # turn this into an array so we can use NumPy functions
 novel_names = np.asarray(novel_names)
 

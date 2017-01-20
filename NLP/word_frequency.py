@@ -40,14 +40,11 @@ def list_file(name_file):
         
 #pour les fichiers traduits avec la procédure PDFTOTEXT
 
+# A changer
 lw_2 = list_file("data/texte_source/pdftotext/SCD/2016/SCD_Afghanistan_2016.pdf.txt")
-#lw_2 = list_file("data/texte_source/pdftotext/SCD/2016/SCD_Pacific_2016.pdf.txt")
-#lw_2 = list_file("data/texte_source/pdftotext/SCD/2016/SCD_Brazil_2016.pdf.txt")
-#cette variable est une liste de string
+
 
 nltk_lw_2 = nltk.Text(lw_2)
-#cette variable est une variable de nature nltk.text,
-#donc utilisable par le package nltk
 
 nltk_lw_2_NotDigit = sorted([item for item in nltk_lw_2 if not item.isdigit()])
 nltk_lw_2_AlphaBet = sorted([item for item in nltk_lw_2 if item.isalpha()])
@@ -63,3 +60,24 @@ nltk_lw_2_AB_WOstop = sorted([item for item in nltk_lw_2_AlphaBet_lower_stemmer 
 fq_lw_2 = nltk.FreqDist(nltk_lw_2_AB_WOstop)#/len(nltk_lw_2_AB_WOstop)
 
 fq_lw_2.plot(50, cumulative=False)
+
+
+#Voir paragraphe "3.6 Normalizing Text", page 107 de NLP with Python
+
+
+# from nltk.stem.snowball import SnowballStemmer
+# from nltk.stem.wordnet import WordNetLemmatizer
+#
+# # Il faut retirer les stopwords avant de stemmer
+#
+# stemmer = SnowballStemmer("english", ignore_stopwords=True)
+# lemmatizer = WordNetLemmatizer()
+#
+# source = ["having", "have", "needs", "need", "inflation", "inflate", "developments", "developing", "aggregation",
+#           "aggregated", "population", "poverty", "poor", "poorer", "men", "man", "gases", "gas", "sues", "utilized",
+#           "damaged"]
+#
+# stems1 = [stemmer.stem(word) for word in source]
+# stems2 = [lemmatizer.lemmatize(word) for word in source]
+# stems3 = [stemmer.stem(word) for word in stems2]
+#
