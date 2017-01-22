@@ -1,19 +1,7 @@
 import os
 from settings import ROOT_DIR
 
-
-def load_file(name_file):
-    """
-    Return a list of all words in a file
-    :param name_file : string -> path towards the file
-    :return: list -> contains all words in file
-    """
-    with open(name_file, "r") as file:
-        text = file.read()
-    return text
-
-
-def load_files(path):
+def load_files(path,delete=False):
     """
      Return a dict representing reco result. This is used in admin interface
      :param path: a string which represents path towards directory containing all files
@@ -21,21 +9,26 @@ def load_files(path):
      For instance, data[2014][Bhutan] contains the 2014 report for Myanmar.
      """
     data = dict()
+    names = dict()
     for dirpath, dirnames, filenames in os.walk(path):
         year = os.path.basename(dirpath)
-        if year not in data and filenames:
-            data[year]=dict()
-        for filename in filenames:
-            try:
-                country = filename.split('_')[1]
-                text = load_file(os.path.join(dirpath, filename))
-                data[year][country] = text
-            except UnicodeDecodeError:
-                pass
-    return data
+        if filenames:
+            year = year
+            if year not in data:
+                data[year] = []
+                names[year] = []
+            for filename in filenames:
+                cut = filename.split('_')
+                print(cut)
+                if len(cut)==3:
+                    names[year].append(cut[1])  
+                elif len(cut) > 3:
+                    names[year].append(cut[1]+'_'+cut[3][0])
+            data[year] += list(map(lambda filename: os.path.join(dirpath, filename), filenames))
+    return names, data
 
 
 path = os.path.join(ROOT_DIR, "text_data/pdftotext")
-data = load_files(path)
+names, fileList = load_files(path, delete=True)
 
-# Problème éviter d'avoir à refaire ça tout le temps
+
