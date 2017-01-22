@@ -4,11 +4,10 @@ import matplotlib.pyplot as plt
 from sklearn.feature_extraction.text import TfidfTransformer, CountVectorizer
 from sklearn.metrics.pairwise import euclidean_distances, cosine_distances
 from sklearn.manifold import MDS, TSNE
-from Preprocessing.load_files import fileList,names
+from preprocessing.load_files import fileList,names
 from sklearn.decomposition import NMF,LatentDirichletAllocation
 from sklearn.pipeline import Pipeline
 from sklearn.cluster import KMeans
-import time
 
 
 year = str(2013)
@@ -22,8 +21,6 @@ pipe = Pipeline([('vectorize', CountVectorizer(input='filename', stop_words='eng
                  ('topic', NMF(n_components=15)),
                  ('graphic', MDS(n_components=2))])
 
-# Changer la métrique dans le pipe?
-
 data = pipe.fit_transform(X)
 
 xs, ys = data[:, 0], data[:, 1]
@@ -31,4 +28,3 @@ for x, y, name in zip(xs, ys, names_year):
     plt.scatter(x, y, s=50)
     plt.text(x, y, name)
 plt.show()
-
