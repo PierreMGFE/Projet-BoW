@@ -1,10 +1,10 @@
-from sklearn.feature_extraction.text import CountVectorizer
-from Preprocessing.text_preprocessing import clean_data
-import numpy as np
-from sklearn.metrics.pairwise import euclidean_distances, cosine_distances
-from sklearn.manifold import MDS
 import matplotlib.pyplot as plt
+import numpy as np
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.manifold import MDS
+from sklearn.metrics.pairwise import cosine_distances
 
+from preprocessing.text_preprocessing import clean_data
 
 vectorizer = CountVectorizer()
 
