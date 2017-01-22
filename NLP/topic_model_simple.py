@@ -19,7 +19,10 @@ names_year = names[year]
 
 
 pipe = Pipeline([('vectorize', CountVectorizer(input='filename', stop_words='english', max_features=200)),
-                 ('topic', LatentDirichletAllocation(n_topics=15)), ('graphic', MDS(n_components=2))])
+                 ('topic', NMF(n_components=15)),
+                 ('graphic', MDS(n_components=2))])
+
+# Changer la métrique dans le pipe?
 
 data = pipe.fit_transform(X)
 
@@ -28,5 +31,4 @@ for x, y, name in zip(xs, ys, names_year):
     plt.scatter(x, y, s=50)
     plt.text(x, y, name)
 plt.show()
-
 
