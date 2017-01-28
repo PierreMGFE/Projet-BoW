@@ -5,6 +5,7 @@ from nltk.stem.snowball import SnowballStemmer
 from nltk.stem.wordnet import WordNetLemmatizer
 from nltk.stem.lancaster import LancasterStemmer
 from nltk.stem.porter import PorterStemmer
+import time
 
 stops = set(nltk.corpus.stopwords.words("english"))
 
@@ -13,12 +14,17 @@ lemmatizer = WordNetLemmatizer()
 porter = PorterStemmer()
 lancaster = LancasterStemmer()
 
+# TODO : virer toutes les mots qui n'ont que des majuscules
+clean_data = data
+
 for year in data.keys():
     for country, report in data[year].items():
         letters_only = sub("[^a-zA-Z]", " ", report)
         words = letters_only.lower().split()
         meaningful_words = [w for w in words if w not in stops]
-        stemmed_words = [porter.stem(w) for w in meaningful_words]
+        #stemmed_words = [porter.stem(w) for w in meaningful_words]
+        stemmed_words = meaningful_words
+        clean_data[year][country] = ' '.join(stemmed_words)
 
 
 
