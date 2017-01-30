@@ -1,6 +1,7 @@
 import os
 from settings import ROOT_DIR
 
+
 def load_files(path):
     """
      Return a dict representing reco result. This is used in admin interface
