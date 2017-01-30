@@ -8,6 +8,7 @@ Created on Fri Dec 30 23:49:24 2016
 
 import re
 import os, errno
+from settings import ROOT_DIR
 
 ## A function to get all of the filepaths
 def filepaths(top_path):
@@ -16,16 +17,19 @@ def filepaths(top_path):
             yield f, os.path.join(dirpath, f)
 
 #
-inpath = "/Users/florianmante/Documents/matieres/ponts/3A/TDLOG/projet/data/texte_source/pdftotext"
-outpath = "/Users/florianmante/Documents/matieres/ponts/3A/TDLOG/projet/table_ctry_freq/"
+#inpath = "/Users/florianmante/Documents/matieres/ponts/3A/TDLOG/projet/data/texte_source/pdftotext"
+inpath = ROOT_DIR+ "/projet-BoW/text_data/pdftotext"
+outpath = ROOT_DIR+"/projet-BOW/table_ctry_freq/"
 
 fp = filepaths(inpath)
+
+country_words = set()
 
 for files, path in fp:
         if files.find('.txt') != -1:
             new_files = files[:files.rfind('.pdf.txt')]
             f_str = new_files.split('_')
             ctry_yr = f_str[1]+"_"+f_str[2]
+            country_words.add(f_str[1].lower())
             print(ctry_yr)
-    
-
+            
