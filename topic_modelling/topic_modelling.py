@@ -9,6 +9,7 @@ import os
 import numpy as np  # a conventional alias
 import sklearn.feature_extraction.text as text
 from sklearn import decomposition
+from files_names_flo import country_words
 
 #%%
 from nltk.tokenize import wordpunct_tokenize
@@ -16,7 +17,8 @@ from nltk.stem.snowball import SnowballStemmer
 
 spec_words = [ "pdf", "imagebank", "servlet", "wdscontentserver"]
 econ_words = ["sector", "percent", "growth","figure", "country"]
-country_words = ["botswana", "lesotho", "sudan", "uganda", "mali", "côte", "ivoire", "chad", "brazil", "serbia", "haiti", "bolivia", "tunisia", "bangladesh", "panama", "colombia", "honduras", "costa", "rica", "sri", "lanka", "lebanon", "mauritius", "egypt", "uruguay", "maldives"]
+#country_words = ["botswana", "lesotho", "sudan", "uganda", "mali", "côte", "ivoire", "chad", "brazil", "serbia", "haiti", "bolivia", "tunisia", "bangladesh", "panama", "colombia", "honduras", "costa", "rica", "sri", "lanka", "lebanon", "mauritius", "egypt", "uruguay", "maldives"]
+country_words = list(country_words)+["sri", "lanka", "côte", "ivoire", "costa", "rica", "bosnia", "herzegovina"]
 banned_words = spec_words + econ_words + country_words
 class StemTokenizer(object):
  def __init__(self):
@@ -101,7 +103,7 @@ for i in range(len(doctopic)):
 #%%    
 # show the top 5 words
 for t in range(len(topic_words)):
-    print("Topic {}: {}".format(t, ' '.join(topic_words[t][:30])))
+    print("Topic {}: {}".format(t, ' '.join(topic_words[t][:num_top_words])))
     
 #austen_indices, cbronte_indices = [], []
 #
