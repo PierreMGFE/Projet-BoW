@@ -5,18 +5,22 @@ from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 from sklearn.metrics.pairwise import euclidean_distances, cosine_distances
 from sklearn.manifold import MDS
 from sklearn.decomposition import NMF, LatentDirichletAllocation
-from preprocessing.load_files import names, fileList
+from preprocessing.load_files import data
 
+from preprocessing.tokenizers import LemmaTokenizer, StemTokenizer
 
-year = str(2013)
-X = fileList[year]
-names_year = names[year]
+year = '2013'
+data_year = data[year]
+
+countries = [country for country in data_year.keys()]
+reports = [report for report in data_year.values()]
 
 
 # To remove
-n_samples = 2000
-n_features = 1000
-n_topics = 20
+n_features = 500
+n_topics = 5
+most_important = 20
+
 
 class TopicModelling():
     # TODO : update documentation
@@ -51,16 +55,18 @@ class TopicModelling():
         """
         # TODO : check if you must stock transformers
         if technique == 'count_vectorizer':
-            vectorizer = CountVectorizer(input='filename', stop_words='english', max_features=500)
+            self.vectorizer = CountVectorizer(input='content', stop_words='english', max_features=n_features,
+                                              tokenizer=LemmaTokenizer())
         elif technique == 'tf_idf':
-            vectorizer = TfidfVectorizer(input='filename', stop_words='english', max_features=500)
+            self.vectorizer = TfidfVectorizer(input='content', stop_words='english', max_features=n_features,
+                                              tokenizer=LemmaTokenizer())
         else:
             raise ValueError("technique must belong to {'count_vectorizer','tf-idf'} ")
         # Document-term matrix
-        self.dtm = vectorizer.fit_transform(fileList).toarray()
-        self.vocab = np.array(vectorizer.get_feature_names())
+        self.dtm = self.vectorizer.fit_transform(reports).toarray()
+        self.vocab = np.array(self.vectorizer.get_feature_names())
 
-    def factor(self, technique='NMF'):
+    def factor(self, technique='NMF', print_topic=True):
         """
         Parameters
         ----------
@@ -69,17 +75,31 @@ class TopicModelling():
         """
         if technique == 'NMF':
             # TODO : check if you must stock transformers
-           self.doctopic = NMF(n_components=n_topics,
-                               random_state=1,
-                               alpha=.1,
-                               l1_ratio=.5).fit_transform(self.dtm)
+           self.factorizer = NMF(n_components=n_topics,
+                                 random_state=1,
+                                 alpha=.1,
+                                 l1_ratio=.5)
         elif technique == 'LDA':
-            self.doctopic = LatentDirichletAllocation(n_topics=n_topics, max_iter=5,
-                                                      learning_method='online',
-                                                      learning_offset=50.,
-                                                      random_state=0).fit_transform(self.dtm)
+            self.factorizer = LatentDirichletAllocation(n_topics=n_topics, max_iter=5,
+                                                        learning_method='online',
+                                                        learning_offset=50.,
+                                                        random_state=0)
         else:
             raise ValueError("model must belong to {'LDA','NMF'}")
+        self.doctopic = self.factorizer.fit_transform(self.dtm)
+        if print_topic:
+            words_topic = self.factorizer.components_
+            sorted_words = np.argsort(words_topic, 0)
+            for i in np.arange(n_topics):
+                vocab_topic = [self.vocab[topic_word] for topic_word in sorted_words[i]]
+                print('Topic {0}'.format(i))
+                print(*vocab_topic[:most_important])
+                print('\n')
+
+            major_topics = np.argmax(self.doctopic, 1)
+            print(major_topics.size)
+            for i in np.arange(len(countries)):
+                print('Major topic for {0} : {1}'.format(countries[i], major_topics[i]))
 
     def distance(self, distance='cosine'):
         """
@@ -120,7 +140,7 @@ class TopicModelling():
 
         # Ajouter les noms des fichiers : names n'est pas défini. Version 1) voir si ça marche comme ça
         if dims == 2:
-            for x, y, name in zip(xs, ys, names_year):
+            for x, y, name in zip(xs, ys, countries):
                 plt.scatter(x, y, c=50)
                 plt.text(x,y,name)
         elif dims == 3:
@@ -132,34 +152,12 @@ class TopicModelling():
 
         plt.show()
 
-    def run(self):
-        """
-        Throws all methods at once
+params = dict()
 
-        :return: self
-        """
-        # TODO : complete documentation, complete method, find better names
-        vocab = self.vectorize(X)
-        self.factor('NMF')
-        self.distance()
-        self.plot(2)
+tm = TopicModelling(params)
+tm.vectorize(reports)
+tm.factor()
 
-
-params = {
-    'vectorize':
-        {'technique': 'count_vectorizer',
-         'params':
-             {
-
-
-             }
-
-        }
-
-}
-
-tm = TopicModelling()
-tm.vectorize(X)
 
 
 """ TO DO :

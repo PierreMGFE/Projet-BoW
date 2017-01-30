@@ -1,18 +1,6 @@
 import os
 from settings import ROOT_DIR
 
-
-def load_file(name_file):
-    """
-    Return a list of all words in a file
-    :param name_file : string -> path towards the file
-    :return: list -> contains all words in file
-    """
-    with open(name_file, "r") as file:
-        text = file.read()
-    return text
-
-
 def load_files(path):
     """
      Return a dict representing reco result. This is used in admin interface
@@ -34,11 +22,7 @@ def load_files(path):
                 elif len(cut) > 3:
                     country = cut[1]+'_'+cut[3][0]
                 file_path = os.path.join(dirpath, filename)
-                try:
-                    data[year][country] = load_file(file_path)
-                except UnicodeDecodeError:
-                    pass
-
+                data[year][country] = file_path
     return data
 
 path = os.path.join(ROOT_DIR, "text_data/pdftotext")

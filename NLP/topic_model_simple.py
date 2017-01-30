@@ -1,5 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
+from preprocessing.tokenizers import LemmaTokenizer,StemTokenizer
 
 from sklearn.feature_extraction.text import TfidfTransformer, CountVectorizer
 from sklearn.metrics.pairwise import euclidean_distances, cosine_distances
@@ -17,7 +18,7 @@ list_reports = clean_data[year].values()
 
 
 
-pipe = Pipeline([('vectorize', CountVectorizer(input='content', stop_words='english', max_features=200)),
+pipe = Pipeline([('vectorize', CountVectorizer(input='content', max_features=200, tokenizer=LemmaTokenizer())),
                  ('topic', NMF(n_components=15))])
 
-data = pipe.fit_transform(list_reports)
+doctopic = pipe.fit_transform(list_reports)
