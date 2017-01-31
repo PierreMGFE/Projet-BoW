@@ -12,6 +12,7 @@ import pandas
 import numpy as np
 
 from sklearn.decomposition import PCA
+from sklearn.preprocessing import normalize
 #from sklearn import metrics
 
 data = pandas.read_excel("Macroeconomic data/Macroeconomic-data.xls",skiprows=1)
@@ -24,6 +25,9 @@ data4 = data3[data3["GINI index (World Bank estimate)"] != ".."]
 
 
 reduced_data = np.asarray(data4[data4.columns[1:4]].values, dtype=np.float64)
+reduced_data = normalize(reduced_data, axis = 0)
+#reduced_data[:,0] = normalize(reduced_data[:,0])
+#reduced_data[:,1] = normalize(reduced_data[:,1])
 #reduced_data = PCA(n_components=2).fit_transform(reduced_data0)
 
 #%%
@@ -33,16 +37,19 @@ from sklearn.cluster import KMeans
 
 print(__doc__)
 
-kmeans = KMeans(init='k-means++', n_clusters=5, n_init=10)
+kmeans = KMeans(init='k-means++', n_clusters=3, n_init=10)
 kmeans.fit(reduced_data)
+
+#predict makes it possible to label the data through the cluster
+predict_label = kmeans.predict(reduced_data)
 
 #Step size of the mesh. Decrease to increase the quality of the VQ.
 h = .02     # point in the mesh [x_min, x_max]x[y_min, y_max].
 
 # Plot the decision boundary. For that, we will assign a color to each
-x_min, x_max = reduced_data[:, 0].min() - 1, reduced_data[:, 0].max() + 1
-y_min, y_max = reduced_data[:, 1].min() - 1, reduced_data[:, 1].max() + 1
-xx, yy = np.meshgrid(np.arange(x_min, x_max, 5), np.arange(y_min, y_max, 1))
+x_min, x_max = reduced_data[:, 0].min()-0.1, reduced_data[:, 0].max()+0.1
+y_min, y_max = reduced_data[:, 1].min()-0.1, reduced_data[:, 1].max()+0.1
+xx, yy = np.meshgrid(np.arange(x_min, x_max, h), np.arange(y_min, y_max, h))
 
 # Obtain labels for each point in mesh. Use last trained model.
 Z = kmeans.predict(np.c_[xx.ravel(), yy.ravel()])
