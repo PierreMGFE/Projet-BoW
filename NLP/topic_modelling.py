@@ -1,11 +1,11 @@
-import os
+import os.path
 import numpy as np  # a conventional alias
 import sklearn.feature_extraction.text as text
 from sklearn import decomposition
+from settings import ROOT_DIR
 
 
-
-CORPUS_PATH = os.path.join('data/texte_source/pdftotext/SCD', '2016')
+CORPUS_PATH = os.path.join(ROOT_DIR, 'text_data/pdftotext/SCD', '2016')
 
 filenames = sorted([os.path.join(CORPUS_PATH, fn) for fn in os.listdir(CORPUS_PATH)])
 
