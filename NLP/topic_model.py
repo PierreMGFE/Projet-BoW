@@ -5,6 +5,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 from sklearn.metrics.pairwise import euclidean_distances, cosine_distances
 from sklearn.manifold import MDS
 from sklearn.decomposition import NMF, LatentDirichletAllocation
+from sklearn.cluster import KMeans
 from preprocessing.load_files import data
 
 from preprocessing.tokenizers import LemmaTokenizer, StemTokenizer
@@ -17,8 +18,8 @@ reports = [report for report in data_year.values()]
 
 
 # To remove
-n_features = 500
-n_topics = 5
+n_features = 2000
+n_topics = 3
 most_important = 20
 
 
@@ -53,13 +54,13 @@ class TopicModelling():
         Returns
 
         """
-        # TODO : check if you must stock transformers
+        # TODO : change year
         if technique == 'count_vectorizer':
-            self.vectorizer = CountVectorizer(input='content', stop_words='english', max_features=n_features,
-                                              tokenizer=LemmaTokenizer())
+            self.vectorizer = CountVectorizer(input='filename', max_features=n_features,
+                                              tokenizer=StemTokenizer())
         elif technique == 'tf_idf':
-            self.vectorizer = TfidfVectorizer(input='content', stop_words='english', max_features=n_features,
-                                              tokenizer=LemmaTokenizer())
+            self.vectorizer = TfidfVectorizer(input='filename', max_features=n_features,
+                                              tokenizer=StemTokenizer())
         else:
             raise ValueError("technique must belong to {'count_vectorizer','tf-idf'} ")
         # Document-term matrix
@@ -115,15 +116,12 @@ class TopicModelling():
         else:
             raise ValueError("technique must belong to {'l2','cosine'} ")
 
-    def cluster(self, technique):
-        """
-        Parameters
-        ----------
-        technique : {'K-means','Ward'} (default='count_vectorizer')
-             Specifies
-        """
-        # TODO: Complete documentation, complete method
-        pass
+    def cluster(self):
+
+        kmeans = KMeans(init='k-means++', n_clusters=5, n_init=10)
+        kmeans.fit(self.doctopic)
+
+        predict_label = kmeans.predict(self.doctopic)
 
     def plot(self, dims=2):
         """
@@ -157,6 +155,7 @@ params = dict()
 tm = TopicModelling(params)
 tm.vectorize(reports)
 tm.factor()
+tm.cluster()
 
 
 

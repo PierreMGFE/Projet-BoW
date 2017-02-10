@@ -18,12 +18,10 @@ def load_files(path):
                 data[year] = dict()
             for filename in filenames:
                 cut = filename.split('_')
-                if len(cut) == 3:
-                    country = cut[1]
-                elif len(cut) > 3:
-                    country = cut[1]+'_'+cut[3][0]
+                country = cut[1]
                 file_path = os.path.join(dirpath, filename)
-                data[year][country] = file_path
+                if country not in data[year]:
+                    data[year][country] = file_path
     return data
 
 path = os.path.join(ROOT_DIR, "text_data/pdftotext")
