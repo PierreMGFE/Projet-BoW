@@ -66,6 +66,7 @@ class TopicModelling():
         # Document-term matrix
         self.dtm = self.vectorizer.fit_transform(reports).toarray()
         self.vocab = np.array(self.vectorizer.get_feature_names())
+        print(self.dtm)
 
     def factor(self, technique='NMF', print_topic=True):
         """
@@ -90,7 +91,7 @@ class TopicModelling():
         self.doctopic = self.factorizer.fit_transform(self.dtm)
         if print_topic:
             words_topic = self.factorizer.components_
-            sorted_words = np.argsort(words_topic, 0)
+            sorted_words = np.argsort(words_topic, 1)
             for i in np.arange(n_topics):
                 vocab_topic = [self.vocab[topic_word] for topic_word in sorted_words[i]]
                 print('Topic {0}'.format(i))
@@ -122,6 +123,7 @@ class TopicModelling():
         kmeans.fit(self.doctopic)
 
         predict_label = kmeans.predict(self.doctopic)
+        return predict_label
 
     def plot(self, dims=2):
         """
@@ -155,13 +157,4 @@ params = dict()
 tm = TopicModelling(params)
 tm.vectorize(reports)
 tm.factor()
-tm.cluster()
-
-
-
-""" TO DO :
-- commentaires
-- test pour vérifier qu'on a lancé les méthodes une à une
-- ajouter noms sur le graphe
-- clustering
-"""
+labels = tm.cluster()
