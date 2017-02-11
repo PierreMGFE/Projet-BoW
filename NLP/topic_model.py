@@ -7,8 +7,12 @@ from sklearn.manifold import MDS
 from sklearn.decomposition import NMF, LatentDirichletAllocation
 from sklearn.cluster import KMeans
 from preprocessing.load_files import data
+import preprocessing.tokenizers as tokens
 
-from preprocessing.tokenizers import LemmaTokenizer, StemTokenizer
+import importlib
+
+importlib.reload(tokens)
+
 
 year = '2013'
 data_year = data[year]
@@ -27,7 +31,8 @@ class TopicModelling():
     # TODO : update documentation
     """
     Attributes
-    ----------
+    ----------        print('Top {0} words for each topic'.format(most_important))
+
     dtm : TODO
 
     dist : array, shape = [n,n]
@@ -56,11 +61,11 @@ class TopicModelling():
         """
         # TODO : change year
         if technique == 'count_vectorizer':
-            self.vectorizer = CountVectorizer(input='filename', max_features=n_features,
-                                              tokenizer=StemTokenizer())
+            self.vectorizer = CountVectorizer(input='filename', max_features=n_features, stop_words='english',
+                                              tokenizer=tokens.StemTokenizer())
         elif technique == 'tf_idf':
             self.vectorizer = TfidfVectorizer(input='filename', max_features=n_features,
-                                              tokenizer=StemTokenizer())
+                                              tokenizer=tokens.StemTokenizer())
         else:
             raise ValueError("technique must belong to {'count_vectorizer','tf-idf'} ")
         # Document-term matrix
@@ -89,8 +94,11 @@ class TopicModelling():
         else:
             raise ValueError("model must belong to {'LDA','NMF'}")
         self.doctopic = self.factorizer.fit_transform(self.dtm)
+
         if print_topic:
+            print('Top {0} words for each topic'.format(most_important))
             words_topic = self.factorizer.components_
+            # TODO : utile de trier ici ?
             sorted_words = np.argsort(words_topic, 1)
             for i in np.arange(n_topics):
                 vocab_topic = [self.vocab[topic_word] for topic_word in sorted_words[i]]
@@ -99,7 +107,6 @@ class TopicModelling():
                 print('\n')
 
             major_topics = np.argmax(self.doctopic, 1)
-            print(major_topics.size)
             for i in np.arange(len(countries)):
                 print('Major topic for {0} : {1}'.format(countries[i], major_topics[i]))
 
@@ -155,6 +162,6 @@ class TopicModelling():
 params = dict()
 
 tm = TopicModelling(params)
-tm.vectorize(reports)
+tm.vectorize(reports, technique='count_vectorizer')
 tm.factor()
 labels = tm.cluster()
