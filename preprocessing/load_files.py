@@ -1,5 +1,6 @@
 import os
 from settings import ROOT_DIR
+from re import findall
 
 
 def load_files(path):
@@ -11,6 +12,7 @@ def load_files(path):
      """
     # TODO : change annotations
     data = dict()
+    country_words = []
     for dirpath, dirnames, filenames in os.walk(path):
         year = os.path.basename(dirpath)
         if filenames:
@@ -19,10 +21,13 @@ def load_files(path):
             for filename in filenames:
                 cut = filename.split('_')
                 country = cut[1]
+                split = '[a-zA-Z][^A-Z]*'
+                country_words += [word.lower() for word in findall(split, country)]
                 file_path = os.path.join(dirpath, filename)
                 if country not in data[year]:
                     data[year][country] = file_path
-    return data
+    return data, set(country_words)
 
 path = os.path.join(ROOT_DIR, "text_data/pdftotext")
-data = load_files(path)
+data, country_words = load_files(path)
+
