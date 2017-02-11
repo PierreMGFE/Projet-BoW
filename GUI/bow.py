@@ -295,17 +295,19 @@ class bow_mainwindow(QtWidgets.QMainWindow):
                     os.mkdir("converted")
                 pdfs = [file for file in os.listdir() if file.endswith(".pdf")]
 
-                if os.name == "posix":
-                    pass
+                # if os.name == "posix":
+                #     pass
 
-                if os.name == "nt":
-                    for file in pdfs:
-                        txt_name = "converted/"
-                        for i in range(len(file) - 4):
-                            txt_name += file[i]
-                        txt_name += ".txt"
-                        try:
-                            os.system("pdftotext " + file + " " + txt_name)
+                # if os.name == "nt":
+                for file in pdfs:
+                    txt_name = "converted/"
+                    for i in range(len(file) - 4):
+                        txt_name += file[i]
+                    txt_name += ".txt"
+                    try:
+                        os.system("pdftotext " + file + " " + txt_name)
+                    except:
+                        print("Conversion error")
 
 
                 self.dir_path += "/converted"
