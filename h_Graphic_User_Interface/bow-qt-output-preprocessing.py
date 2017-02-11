@@ -6,19 +6,22 @@
 #
 # WARNING! All changes made in this file will be lost!
 
+import sys, os, platform
 from PyQt5 import QtCore, QtGui, QtWidgets
 
-class Ui_bow(object):
-    def setupUi(self, bow):
-        bow.setObjectName("bow")
-        bow.setEnabled(True)
-        bow.resize(587, 640)
-        bow.setCursor(QtGui.QCursor(QtCore.Qt.ArrowCursor))
-        bow.setWindowTitle("Language Processing")
+
+class Bow(QtWidgets.QMainWindow):
+    def __init__(self):
+        super().__init__(None)
+        self.setObjectName("bow")
+        self.setEnabled(True)
+        self.resize(587, 640)
+        self.setCursor(QtGui.QCursor(QtCore.Qt.ArrowCursor))
+        self.setWindowTitle("Language Processing")
         icon = QtGui.QIcon()
         icon.addPixmap(QtGui.QPixmap("Images/BOW.png"), QtGui.QIcon.Normal, QtGui.QIcon.Off)
-        bow.setWindowIcon(icon)
-        self.centralwidget = QtWidgets.QWidget(bow)
+        self.setWindowIcon(icon)
+        self.centralwidget = QtWidgets.QWidget()
         self.centralwidget.setObjectName("centralwidget")
         self.gridLayout = QtWidgets.QGridLayout(self.centralwidget)
         self.gridLayout.setObjectName("gridLayout")
@@ -461,8 +464,8 @@ class Ui_bow(object):
         self.gridLayout_2.addWidget(self.source_folder, 0, 0, 1, 1)
         self.scrollArea.setWidget(self.scrollAreaWidgetContents)
         self.gridLayout.addWidget(self.scrollArea, 0, 0, 1, 1)
-        bow.setCentralWidget(self.centralwidget)
-        self.menubar = QtWidgets.QMenuBar(bow)
+        self.setCentralWidget(self.centralwidget)
+        self.menubar = QtWidgets.QMenuBar()
         self.menubar.setGeometry(QtCore.QRect(0, 0, 587, 21))
         self.menubar.setObjectName("menubar")
         self.menuFile = QtWidgets.QMenu(self.menubar)
@@ -482,11 +485,11 @@ class Ui_bow(object):
         self.menuHelp = QtWidgets.QMenu(self.menubar)
         self.menuHelp.setTitle("Help")
         self.menuHelp.setObjectName("menuHelp")
-        bow.setMenuBar(self.menubar)
-        self.statusbar = QtWidgets.QStatusBar(bow)
+        self.setMenuBar(self.menubar)
+        self.statusbar = QtWidgets.QStatusBar()
         self.statusbar.setObjectName("statusbar")
-        bow.setStatusBar(self.statusbar)
-        self.actionAbout = QtWidgets.QAction(bow)
+        self.setStatusBar(self.statusbar)
+        self.actionAbout = QtWidgets.QAction(self)
         self.actionAbout.setText("About")
         self.actionAbout.setIconText("About")
         self.actionAbout.setToolTip("About")
@@ -494,7 +497,7 @@ class Ui_bow(object):
         self.actionAbout.setWhatsThis("")
         self.actionAbout.setShortcut("")
         self.actionAbout.setObjectName("actionAbout")
-        self.actionNew = QtWidgets.QAction(bow)
+        self.actionNew = QtWidgets.QAction(self)
         self.actionNew.setText("New")
         self.actionNew.setIconText("New")
         self.actionNew.setToolTip("New")
@@ -502,7 +505,7 @@ class Ui_bow(object):
         self.actionNew.setWhatsThis("")
         self.actionNew.setShortcut("")
         self.actionNew.setObjectName("actionNew")
-        self.actionOpen = QtWidgets.QAction(bow)
+        self.actionOpen = QtWidgets.QAction(self)
         self.actionOpen.setText("Open")
         self.actionOpen.setIconText("Open")
         self.actionOpen.setToolTip("Open")
@@ -510,7 +513,7 @@ class Ui_bow(object):
         self.actionOpen.setWhatsThis("")
         self.actionOpen.setShortcut("")
         self.actionOpen.setObjectName("actionOpen")
-        self.actionSave_as = QtWidgets.QAction(bow)
+        self.actionSave_as = QtWidgets.QAction(self)
         self.actionSave_as.setText("Save as...")
         self.actionSave_as.setIconText("Save as")
         self.actionSave_as.setToolTip("Save as")
@@ -518,7 +521,7 @@ class Ui_bow(object):
         self.actionSave_as.setWhatsThis("")
         self.actionSave_as.setShortcut("")
         self.actionSave_as.setObjectName("actionSave_as")
-        self.actionSave = QtWidgets.QAction(bow)
+        self.actionSave = QtWidgets.QAction(self)
         self.actionSave.setText("Save")
         self.actionSave.setIconText("Save")
         self.actionSave.setToolTip("Save")
@@ -526,7 +529,7 @@ class Ui_bow(object):
         self.actionSave.setWhatsThis("")
         self.actionSave.setShortcut("")
         self.actionSave.setObjectName("actionSave")
-        self.actionExit = QtWidgets.QAction(bow)
+        self.actionExit = QtWidgets.QAction(self)
         self.actionExit.setText("Exit")
         self.actionExit.setIconText("Exit")
         self.actionExit.setToolTip("Exit")
@@ -547,10 +550,136 @@ class Ui_bow(object):
         self.menubar.addAction(self.menuOptions.menuAction())
         self.menubar.addAction(self.menuHelp.menuAction())
 
-        self.retranslateUi(bow)
         self.tabWidget.setCurrentIndex(0)
-        QtCore.QMetaObject.connectSlotsByName(bow)
 
-    def retranslateUi(self, bow):
-        pass
+        # Menus
+        self.actionExit.triggered.connect(self.exit_program)
+        self.actionSave_as.triggered.connect(self.save_as)
+        self.actionAbout.triggered.connect(self.open_about_dialog)
 
+        # Browse
+        self.dir_path = ""
+        self.browse_button.clicked.connect(self.open_directory_name_dialog)
+        self.input_files = []
+
+        # Format
+        self.format = ""
+        self.pdf_button.toggled['bool'].connect(self.set_format)
+
+        # Analysis outputs
+        self.parameters = []
+        self.output = []
+
+        # Launch Analysis
+        self.launch_analysis_button.clicked.connect(self.launch_analysis)
+
+
+    def exit_program(self):
+        exit_message = QtWidgets.QMessageBox()
+        exit_message.setWindowTitle("Exit program")
+        exit_message.setText("Any changes made will be discarded.\nDo you want to proceed ?")
+        exit_message.addButton(QtWidgets.QMessageBox.Yes)
+        exit_message.addButton(QtWidgets.QMessageBox.No)
+        if (exit_message.exec_() == QtWidgets.QMessageBox.Yes):
+            self.close()
+
+    def launch_analysis(self):
+        launch = False
+        error_message_text = ""
+        self.parameters = [box.isChecked() for box in self.choose_outputs.buttons()]
+        print(self.parameters)
+        # TODO : in save file, write what each item in self.parameters refers to ?
+
+        # Check if path is valid
+        if os.path.isdir(self.dir_path):
+            # Check if format is valid
+            if (self.format == "pdf" or self.format == "txt"):
+                # Check if there are valid files in directory
+                if len([file for file in os.listdir(self.dir_path) if file.endswith("." + self.format)]):
+                    # Check if parameters are valid
+                    if len([param for param in self.parameters if param]):
+                        launch = True
+                    else:
+                        error_message_text += "Select at least 1 output\n"
+                else:
+                    error_message_text += "No " + self.format.upper() + " files in directory\n"
+            else:
+                error_message_text += "Invalid format\n"
+        else:
+            error_message_text += "Invalid directory\n"
+
+        # Launch or error message
+        if launch :
+            if self.format == "pdf":
+                os.chdir(self.dir_path)
+                if not os.path.isdir("converted"):
+                    os.mkdir("converted")
+                pdfs = [file for file in os.listdir() if file.endswith(".pdf")]
+
+                for file in pdfs:
+                    txt_name = "converted/"
+                    for i in range(len(file) - 4):
+                        txt_name += file[i]
+                    txt_name += ".txt"
+                    try:
+                        os.system("pdftotext " + file + " " + txt_name)
+                    except:
+                        print("Conversion error")
+
+
+                self.dir_path += "/converted"
+
+            os.chdir(self.dir_path)
+            self.input_files = [file for file in os.listdir() if file.endswith(".txt")]
+
+            # TODO : access algorithm from here
+            # output = algorithm(self.parameters, self.files)
+
+
+        else :
+            error_message = QtWidgets.QMessageBox()
+            error_message.setWindowTitle("Error")
+            error_message.setText(error_message_text)
+            error_message.exec_()
+
+    def set_format(self):
+        self.format = ("pdf" if self.pdf_button.isChecked() else "txt")
+        # print(self.format)
+
+    def open_about_dialog(self):
+        # icon = QtGui.QIcon()
+        # icon.addPixmap(QtGui.QPixmap("BOW.png"), QtGui.QIcon.Normal, QtGui.QIcon.Off)
+        message = QtWidgets.QMessageBox()
+        # message.setIcon(icon)
+        message.setWindowTitle("About")
+        message.setText("ENPC 2016-2017\nProjet TDLOG\n"
+                        "\nFrançois DUPRÉ\nPierre GIACCOBI\nPierre LECUYER\nFlorian MANTE")
+        message.exec_()
+
+    def open_directory_name_dialog(self):
+        options = QtWidgets.QFileDialog.Options()
+        self.dir_path = QtWidgets.QFileDialog.getExistingDirectory(self, "Choose source folder", "", options=options)
+        self.source_folder_line.setText(str(self.dir_path))
+
+    def save_as(self):
+        file_path = os.getcwd() + "/save_test" + "/saved_file.txt"
+        with open(file_path, 'w') as f:
+            for data in self.output:
+                f.write(data)
+
+    def open_save_as_dialog(self):
+        options = QtWidgets.QFileDialog.Options()
+        # options |= QtWidgets.QFileDialog.DontUseNativeDialog
+        fileName, _ = QtWidgets.QFileDialog.getSaveFileName(self, "QFileDialog.getSaveFileName()", "",
+                                                            "All Files (*);;Text Files (*.txt)", options=options)
+        if fileName:
+            print(fileName)
+
+
+
+if __name__ == '__main__':
+    bow_gui = QtWidgets.QApplication(sys.argv)
+    mainWindow = Bow()
+    mainWindow.show()
+    mainWindow.raise_()
+    bow_gui.exec_()

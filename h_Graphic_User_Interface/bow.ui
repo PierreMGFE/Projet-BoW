@@ -21,7 +21,7 @@
   </property>
   <property name="windowIcon">
    <iconset>
-    <normaloff>BOW.png</normaloff>BOW.png</iconset>
+    <normaloff>Images/BOW.png</normaloff>Images/BOW.png</iconset>
   </property>
   <widget class="QWidget" name="centralwidget">
    <layout class="QGridLayout" name="gridLayout">
@@ -50,7 +50,7 @@
           </property>
           <widget class="QWidget" name="clustering">
            <attribute name="title">
-            <string>Clustering</string>
+            <string notr="true">Clustering</string>
            </attribute>
            <layout class="QVBoxLayout" name="verticalLayout_9">
             <item>
@@ -63,7 +63,7 @@
                </font>
               </property>
               <property name="title">
-               <string>Analysis parameters</string>
+               <string notr="true">Analysis parameters</string>
               </property>
               <layout class="QVBoxLayout" name="verticalLayout">
                <item>
@@ -74,7 +74,7 @@
                   </font>
                  </property>
                  <property name="title">
-                  <string>Word frequency</string>
+                  <string notr="true">Word frequency</string>
                  </property>
                  <layout class="QVBoxLayout" name="verticalLayout_8">
                   <item>
@@ -332,7 +332,7 @@
                   </font>
                  </property>
                  <property name="title">
-                  <string>Topic Modelling</string>
+                  <string notr="true">Topic Modelling</string>
                  </property>
                  <layout class="QVBoxLayout" name="verticalLayout_6">
                   <item>
@@ -406,7 +406,7 @@
                          <string notr="true">Non-negative Matrix Factorization</string>
                         </property>
                         <property name="text">
-                         <string>NMF</string>
+                         <string notr="true">NMF</string>
                         </property>
                        </widget>
                       </item>
@@ -423,7 +423,7 @@
                      </font>
                     </property>
                     <property name="text">
-                     <string>The features will be assembled into topics that link texts containing the same frequent features.</string>
+                     <string notr="true">The features will be assembled into topics that link texts containing the same frequent features.</string>
                     </property>
                    </widget>
                   </item>
@@ -458,7 +458,7 @@
                        </font>
                       </property>
                       <property name="text">
-                       <string>Choose the number of features used to describe the topics :</string>
+                       <string notr="true">Choose the number of features used to describe the topics :</string>
                       </property>
                      </widget>
                     </item>
@@ -491,7 +491,7 @@
                        </font>
                       </property>
                       <property name="text">
-                       <string>Choose the number of topics that will be created :</string>
+                       <string notr="true">Choose the number of topics that will be created :</string>
                       </property>
                      </widget>
                     </item>
@@ -510,7 +510,7 @@
                   </font>
                  </property>
                  <property name="title">
-                  <string>Clustering</string>
+                  <string notr="true">Clustering</string>
                  </property>
                  <layout class="QVBoxLayout" name="verticalLayout_7">
                   <item>
@@ -596,12 +596,12 @@
           </widget>
           <widget class="QWidget" name="text_to_text_distance">
            <attribute name="title">
-            <string>Text-to-text distance</string>
+            <string notr="true">Text-to-text distance</string>
            </attribute>
           </widget>
           <widget class="QWidget" name="top_features">
            <attribute name="title">
-            <string>Top features</string>
+            <string notr="true">Top features</string>
            </attribute>
           </widget>
          </widget>
