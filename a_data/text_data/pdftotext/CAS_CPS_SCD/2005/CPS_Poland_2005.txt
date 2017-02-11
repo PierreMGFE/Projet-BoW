@@ -1,0 +1,4636 @@
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+
+Document of
+The World Bank
+FOR OFFICIAL USE ONLY
+Report No. 31702 - PL
+
+INTERNATIONAL BANK FOR RECONSTRUCTIONAND DEVELOPMENT
+COUNTRY PARTNERSHIP STRATEGY
+WITH
+THE REPUBLIC OF POLAND
+
+Public Disclosure Authorized
+
+March 9,2005
+
+Central Europe and the Baltic States Country Unit
+Europe and Central Asia Region
+This document has restricted distribution and may be used by recipients only in the performance of
+their official duties. Its contents may not otherwise be disclosed without World Bank authorization.
+
+The last Country Assistance Strategy for Poland was discussed by the Board on December 10,2002.
+CURRENCY EQUIVALENTS
+(as o f February 28,2005)
+U S $ 1 = 2.95 Polish Zloty (PLN)
+GOVERNMENT’S FISCAL YEAR
+January 1 to December 31
+
+ABBREVIATIONS AND ACRONYMS
+AAA
+APL
+CAS
+CEDB
+
+Analytical and advisory activities
+Adaptable Program Loan
+Country Assistance Strategy
+Council o f Europe Development
+Bank
+Country Financial Accountability
+CFAA
+Assessment
+Computable general equilibrium
+CGE
+Country Partnership Strategy
+CPS
+Central Statistics Office
+cso
+European Bank for Reconstruction
+EBRD
+and Development
+European Commission
+EC
+Emergency Flood Recovery Project
+EFRP
+European Investment Bank
+EIB
+Exchange Rate Mechanism
+ERM2
+European System o f Accounts
+ESA95
+ESMAP Energy Sector Management
+Assistance Program
+Economic and sector work
+ESW
+European Union
+EU
+Euro
+EUR
+Czech Republic, Estonia, Hungary,
+EU8
+Latvia, Lithuania, Poland, Slovak
+Republic, and Slovenia
+Foreign direct investment
+FDI
+Foreign Investment Advisory
+FIAS
+Services
+FSAP
+Financial Sector Assessment Program
+Fiscal year
+FY
+GDDKiA General Directorate o f National
+Roads and Highways
+
+Vice President
+Country Director
+Task Team Leader
+
+Gross Domestic Product
+Harmonized Index o f Consumer Prices
+Investment Climate Assessment
+Institutional Development Fund
+Initial Public Offerings
+Farmers Social Insurance System
+Middle-income country
+Ministry o f Finance
+National Bank o f Poland
+National Development Plan
+National Health Fund
+Policy and Human Resources
+Development
+PKP S.A. Polish National Railway ComDanv
+PLN
+Polish Zloty
+PPP
+Public-private partnership
+PSL
+Polish Peasants Party
+R&D
+Research and development
+ROSC
+Reports o n Observance o f Standards and
+Codes
+SGP
+Stability and Growth Pact
+SLD
+Alliance o f the Democratic Left
+SME
+Small and medium enterprises
+SIDEM Social and Institutional Development and
+Economic Management Technical
+Assistance Program
+SWAP
+Sector-wide approach
+TA
+Technical assistance
+TIBS
+Training Initiative for Banking
+Supervision
+Labor Union Party
+UP
+
+GDP
+HICP
+ICA
+IDF
+IPOS
+KRUS
+MIC
+MOF
+NBP
+NDP
+NHF
+PHRD
+
+. -
+
+Shigeo Katsu
+Roger W. Grawe
+
+FOR OFFICIAL USE ONLY
+
+COUNTRY PARTNERSHIP STRATEGY
+THE REPUBLIC OF POLAND
+TABLE OF CONTENTS
+
+EXECUTIVE SUMMARY ..............................................................................................................
+
+i
+
+I.
+
+THE COUNTRY CONTEXT ................................................................................................
+
+I1.
+
+GOVERNMENT’S DEVELOPMENT PROGRAMAND CHALLENGES ........................
+5
+A . Development Priorities....................................................................................................
+5
+B. Development Challenges - Sectoral Aspects and Macroeconomic Linkages ................. 5
+
+I11.
+
+POLAND AND THE WORLD BANK: PAST RELATIONSHIP AND LESSONS.......... 10
+A . Past World Bank Assistance .......................................................................................... 10
+B. Implementationo f the Previous CAS ............................................................................
+11
+C. Rationale for Future Partnership....................................................................................
+13
+
+I V.
+
+WORLD BANK’S PROPOSED STRATEGY ....................................................................
+A . CPS - Principles for Engagement..................................................................................
+B. Operational Approaches ................................................................................................
+C. Guidelines for Engagement and Risk Management ......................................................
+D. Key Priorities for the CPS .............................................................................................
+E. Fiscal Consolidation......................................................................................................
+F. Convergence/Competitiveness......................................................................................
+G. Poverty and Employment ..............................................................................................
+H. Assistance from Other Development Partners ...............................................................
+
+13
+13
+13
+14
+15
+15
+15
+16
+17
+
+V.
+
+CREDITWORTHINESS AND RISK MANAGEMENT....................................................
+
+18
+
+V I.
+
+CPS CONSULTATIONS.....................................................................................................
+
+18
+
+VI1. CONCLUDINGREMARKS...............................................................................................
+
+1
+
+19
+
+T h i s document has a restricted distribution and may b e used by recipients only in
+the performance o f their official duties I t s contents may n o t b e otherwise disclosed
+w i t h o u t W o r l d Bank authorization.
+
+.
+
+TABLES:
+Table 1:
+Table 2:
+Table 3:
+Table 4:
+Table 5:
+
+Key Economic Indicators, 1998-2004 .............................................................................
+2
+Pension Fund Reform - Effect on General Government Deficit ..................................... 4
+Government Macroeconomic Strategy, M a i n Indicators.................................................
+5
+Proposed Nonlending Program......................................................................................
+17
+Indicative Lending Program ..........................................................................................
+17
+
+CAS ANNEXES:
+Annex 1
+Annex 2
+Annex A 2
+Annex B 2
+Annex B 3
+Annex B 4
+Annex B 5
+Annex B 6
+Annex B 7
+Annex B 8
+Annex B 9
+
+Brief Description o f Activities Proposed for 2005
+Summary o f Public Consultations on the World Bank’s CPS for Poland
+Country at a Glance
+Selected Indicators o f Bank Portfolio Performance and Management
+IBRD Program Summary
+Summary o f Nonlending Services
+Poverty and Social Development Indicators
+K e y Economic Indicators
+K e y Exposure Indicators
+Operations Portfolio (IBRD & Grants)
+CPS Results Matrix
+
+Map
+
+IBRD 33467
+
+EXECUTIVE SUMMARY
+1.
+This Country Partnership Strategy (CPS) has been developed in collaboration with the
+Government o f Poland. I t aims to align the World Bank’s program b o t h with the development
+challenges that Poland faces as a new member o f the European U n i o n (EU) and with the
+Government’s decision malung process. The CPS foresees the evolution o f the relationship towards a
+partnership for development in which the Bank continues to support the Government with a full set of
+instruments to tackle elements o f the remaining agenda and in which Poland increasingly contributes
+with the lessons o f its experience for broader dissemination by the Bank t o other member countries.
+
+ii.
+The strategy set out in this document takes as i t s starting point the country’s objective to
+reach two-thirds o f EU average per capita income by 2013. Achieving this objective will require the
+prudent management o f the economy and sustained structural reform efforts in order to increase
+employment and reduce poverty and meet the requirements for the adoption o f the Euro. The CPS
+sets out a program that will assist the Government in meeting these challenges in an environment
+where the need for external borrowing i s modest.
+
+iii.
+
+Partnership: The evolution from Country Assistance Strategy (CAS) to CPS entails: (a) a
+single lending case based on a macroeconomic framework consistent with Poland’s convergence
+program under the EU Stability and Growth Pact (SGP) described in para. 15; and (b) shifts fi-om a
+largely pre-determined program o f lending and non-lending activities t o a more flexible approach in
+which broad priorities are defined for the entire period and specific activities are agreed o n a yearly
+basis in a manner consistent with the Polish planning and budgeting cycle.
+
+iv.
+World Bank Analytic Work: Based o n previous work and the ongoing policy dialogue with
+Government counterparts, consultations were carried out with the relevant Government agencies for
+the 2005 analytic work program. W o r k will include studies and policy dialogue around issues related
+t o public finance reform, including financing o f health and higher education, railway privatization,
+public administration improvement, accounting and auditing, corporate governance, influence o f the
+legal system on the financial market, financial services, public environmental financing, energy
+policy dialogue, including energy efficiency and renewable energy, public-private partnerships
+(PPPs) for roads, labor markets, and computable general equilibrium (CGE) model building.
+v.
+World Bank Operations: The Government recognizes that Bank involvement in project
+preparation and supervision can transfer h o w l e d g e and skills in ways that pure analytic work cannot
+accomplish. Accordingly, the 2005 annual business plan includes three projects: road rehabilitation
+and maintenance, flood prevention, and support to improve social cohesion in rural municipalities
+(gminas) and strengthen the analytic and administrative capacity o f the Farmers Social Insurance
+System (KRUS). These projects are under preparation and expected to be approved in the coming 12
+months. Areas o f future project development include a follow-up road rehabilitation and maintenance
+project, which has been reconfinned by Government. The current Government views the financial as
+w e l l as transaction costs o f Bank financing as a disincentive for further borrowing; therefore other
+potential areas for future development will be discussed with the new Government in the context o f
+the 2006 annual business plan.
+Most projects will be in the form o f investment lending with embedded technical assistance
+(TA), using the sector-wide approach (SWAP) modality to pool funds with Government and other
+development partners. T o respond rapidly t o evolving demand, projects would be designed and
+delivered quickly, with preparation held t o under 12 months, whenever possible. Bank procedures
+
+vi,
+
+will continue to be simplified and aligned with PolisWEU practices in line with the Bank’s initiative
+o n “Use o f Country Systems.” Although no projects have been identified yet, lending for TA could
+also be provided under the Social and Institutional Development and Economic Management
+Technical Assistance Program (SIDEM) for Eligible Members o f the European Union, which was
+discussed by the Board on January 25,2005.
+vii.
+Guidelines for Engagement and Risk Management: The flexible nature o f the CPS creates
+the need for clear guidelines as to when and where the Bank should be engaged in Poland. The first
+basis for any engagement must be demand by Poland in consideration o f its development agenda and
+access to EU Cohesion and Structural Funds, funds from other development partners, and from the
+debt and capital markets at lower financial costs than those o f the Bank. On i t s side, the Bank needs
+to continue t o ensure that i t s work in Poland meets the institution’s standards and serves its broader
+goals. T o do this, Management will regularly monitor progress with reforms as well as the
+environment into which its resources are placed. The CPS includes a set o f indicators to monitor
+progress in i t s implementation.
+
+viii.
+The framework outlined in this Partnership Strategy i s designed t o remain in force until such
+time as i t i s no longer relevant. Relevance will be assessed against two criteria: the demand for the
+Bank’s services; and, the existence o f a conducive macroeconomic environment consistent with
+Poland’s convergence program under the SGP, as discussed in para. 15. To demonstrate the
+continued relevance o f the framework and priorities o f this Strategy, Management will provide a b r i e f
+progress report t o the Board by mid-2007 when the EU financing framework for 2007-2013 i s
+confirmed.
+
+Board Members may wish to discuss the following aspects:
+
+ix.
+0
+
+e
+
+Does the CPS adequately respond to the needs o f Poland, balancing flexibility with a
+framework to focus and guide the program?
+Are the suggested guidelines for engagement adequate?
+
+..
+
+11
+
+COUNTRY PARTNERSHIP STRATEGY
+THE REPUBLIC OF POLAND
+1.
+This Country Partnership Strategy (CPS) aims to align the World Bank’s program both with
+Poland’s development agenda as a new EU member and with the Government’s decision-making
+processes. The CPS has been developed in partnership with Poland, and on the basis o f a
+collaborative approach i s geared to provide the flexibility and capacity for rapid response that are
+required for the Bank to remain relevant in helping to meet the challenges that face Poland as an upper
+middle income country and a new member o f the EU.
+2.
+The last CAS for Poland was presented to the Board on December 10, 2002. I t was prepared
+in the period prior to Poland’s accession to the EU, and at a time o f economic slow-down and
+uncertainties in Poland’s policy framework. Since that time, Poland has become a member o f the EU,
+its overall economic performance has improved and there has been greater consistency in policy
+alignment with EU obligations. While most o f the priority activities identified in the last strategy are
+being implemented, their timing and modality have changed in response to actual country demand, the
+large amounts o f EU funds now available, and the obligations o f Poland as a new member o f the EU.
+At the same time, the perception o f country risk and, consequently, borrowing costs in international
+capital markets have significantly declined for Poland.
+
+I. The Country Context
+3.
+Poland joined the EU on May 1,2004. EU membership concluded a period o f four years o f
+negotiations, implementation o f a wide range o f reforms, and adoption o f the acquis communautaire,
+which saw the alignment o f Polish legislation, regulations and procedures with those o f the EU. As a
+result, Poland has access to approximately Euro (EUR) 13 billion o f EU Cohesion and Structural
+Funds to be committed by the end o f December 2006. For this period, Poland’s development priorities
+are largely defined in the National Development Plan (NDP) 2004-2006. The major challenges
+identified in this context are: implementingthe acquis communautaire, continuing the reform agenda,
+including areas not covered by the acquis, and ensuring efficient and effective utilization o f EU funds.
+Beyond 2006, the Govemment has prepared a draft N D P 2007-2013, which i s currently being
+discussed with local stakeholders and which will be approved in i t s final form by the next Government
+following elections later this year. While the time horizon o f this plan coincides with the next EU
+financing cycle, i t lays out a comprehensive development strategy which goes beyond the utilization
+o f future EU funds.
+4.
+Political dynamics are s t i l l dominated by the lack o f stable party structures, and polarized
+loyalties linked to the political heritage o f transition. Populist tendencies and unstable coalitions are
+likely to play a continuing role in Polish politics. Despite a decisive victory in parliamentary elections
+in September 2001, the governing coalition o f the Alliance o f the Democratic L e f t (SLD), the Labor
+Union (UP) and the Polish Peasants Party (PSL) headed by Prime Minister Leszek M i l l e r fell apart
+after 15 months leading, from February 2003, to a minority Govemment. After another year as a
+minority Govemment with limited political capital plagued by corruption scandals and little ability to
+push through needed reforms, M i l l e r and his Cabinet resigned on M a y 2, 2004, the day after EU
+membership took effect. A new Government headed by a respected economist and two-time Finance
+Minister, Marek Belka, and including several ministers from the previous Government took over; but
+only managed to secure the necessary parliamentary vote o f confidence in late June 2004 with the
+condition that i t would seek a second vote o f confidence in autumn 2004. That second vote o f
+confidence was also secured in October 2004, and the Government i s now set to remain in office until
+the upcoming elections later this year.
+
+5.
+As a result o f this unsettled political environment, a good deal o f time was lost in formulating
+and implementing a reform agenda; but the current Government, although clearly interim in nature,
+has reinvigorated the process particularly with respect to privatization and fiscal reforms. This has led
+to renewed progress in some o f the areas in which the World Bank i s involved, including the reform
+and privatization o f the hard coal mining and railways sectors, the modernization o f the roads agency
+and the initial attempts to tackle health financing issues.
+
+6.
+The overall economic situation and outlook have generally improved since the time o f the
+last CAS. Output growth has accelerated rapidly, inflation has remained low, and the external current
+account has remained sustainable. At the same time, however, the fiscal balance has weakened further
+and unemployment has remained stubbornly high. Table 1 below contains key economic indicators
+for the period.
+
+I
+
+Table 1: Key Economic Indi
+Annual data
+
+Real Economy
+GDP Growth (constant prices)
+Domestic Demand Growth (constant prices)
+Gross Domestic Fixed Investment Growth (constant prices)
+Social Indicators
+Inequality (Gini coeff. for equivalent consumption)
+Employment (end of period, millions)'
+
+-
+
+998-2004
+
+-!004e
+
+- ---
+
+1998
+
+1999
+
+2000
+
+2001
+
+2002
+
+4.8
+
+4.1
+
+4.0
+
+6.3
+14.2
+
+4.8
+6.8
+
+2.8
+2.7
+
+1.o
+-1.6
+-8.8
+
+0.9
+-5.8
+
+1.4
+
+2003
+3.8
+2.4
+-0.9
+
+5.4
+4.9
+5.1
+
+Unemployment, registered (end of period, %)
+
+0.260 1.265 0.271 0.271 1.278 0.281
+15.34 14.57 14.54 14.04 13.72 13.72 13.75
+10.7 13.8 16.3 19.4 20.0 20.0
+19.1
+
+Public Finances
+National methodologf
+General Government Revenues (% of GDP)
+General Government Expenditures (% of GDP)
+General Government Deficit (% of GDP)
+
+39.5
+41.9
+-2.4
+
+39.6
+42.7
+-3.1
+
+41.2
+
+Total Public Debt (% of GDP)
+ESA95'
+General Government Deficit (% of GDP)
+General Government Debt (% of GDP)
+Prices, Waaes. and Interest Rates
+Inflation HlCP (period average, y/y, % change)
+Commercial lending rate (period average, %)
+Real Effective Exchange Rate4 (end of period, y/y% change)
+Nominal Exchange Rate (PLN/Euro, end of period)
+
+37.5
+40.9
+
+37.9
+43.2
+
+37.9
+44.1
+
+43.9
+
+-3.4
+40.0
+
+-5.3
+40.9
+
+-6.3
+46.7
+
+-1.o
+34.8
+
+-0.3
+35.9
+
+-0.7
+36.8
+
+-3.8
+36.7
+
+11.8
+24.5
+
+7.2
+17.0
+
+10.1
+20.2
+
+5.3
+
+4.5
+4.09
+
+-1.0
+4.17
+
+13.0
+3.85
+
+18.7
+11.1
+3.52
+
+39.6
+45.3
+-5.8
+51.5
+
+-7.0
+51.8
+
+-3.6
+41.4
+
+-3.9
+45.4
+
+-5.4
+45.9
+
+1.9
+13.4
+-8.7
+4.02
+
+0.8
+7.5
+
+3.5
+7.7
+12.1
+
+-12.0
+4.72
+
+External Developments
+-9.2
+-2.9
+-4.1
+-7.4
+-3.8
+-7.6
+Trade Balance (goods) (% of GDP)
+-7.6
+-2.0
+-4.1
+-2.9
+-6.0
+-2.6
+Current Account Balance (% of GDP)
+4.4
+3.1
+5.7
+2.2
+2.1
+3.8
+FDI (inflow, % of GDP)
+35.2 41.6 39.8 37.7 41.5 47.6
+External Debt (% of GDP)
+Figures for 2004: World Bank Staff estimate
+I/ Based on Labor Force Data
+2/ Constant methodology, cash basis, includes below-the-line expenditures (e.g. transfers to pension funds)
+3/ source: Eurostat, MoF, excluding the effect of pension reform
+4/ IMFReeR, increase indicates appreciation
+Sources: CSO, NBP, OECD, IMF, Eurostat and Bank Staff estimates
+
+-
+
+-2-
+
+38.2
+45.2
+
+4.08
+
+-2.4
+-1.6
+2.3
+47.0
+
+- ---
+
+7.
+Output growth has accelerated rapidly. As a result o f accommodative macroeconomic
+policies and cyclical factors, Gross Domestic Product (GDP) growth rebounded to 5.4 percent in 2004
+(up from 1 percent in 2001, 1.4 percent in 2002, and 3.8 percent in 2003). This acceleration signals
+the end o f the first marked economic cycle in Poland since the beginning o f transition. Growth
+originated in a rapid expansion o f exports (linked partly to EU accession, but also to efficiency gains),
+and growing private consumption, while fixed investment only began recovering in 2004.
+
+8.
+Inflation has remained low and relatively stable. Inflation declined to less than 1 percent in
+2003, but increased in 2004 on the back o f EU-accession effects (adjustments o f indirect taxes etc.)
+and the surge in o i l and other commodity prices. However, second round effects appeared to be
+contained as monetary conditions were tightened both through a hike in interest rates and through
+appreciation o f the zloty. Further, wage pressures were held in check by the persisting slack in the
+labor market.
+9.
+The current account deficit has stayed at a very l o w and safe level, helped by a healthy
+increase in exports and muted investment demand. The impressive export performance reflected a
+combination o f EU accession, including full access to European markets for agricultural products, the
+mild recovery in Western Europe, and strong competitiveness arising from modest wage and rapid
+productivity growth. External debt at 47 percent o f GDP poses limited risks.
+10.
+The fiscal position has continued to deteriorate, but strong output growth and renewed fiscal
+reform efforts in 2004 arrested the negative dynamics. W h i l e the general government deficit i s
+estimated to have reached 7 percent o f GDP in 2004, this was lower than budgeted on the back o f
+strong revenue growth despite a lowering o f the corporate tax rate. Further, the expected rise in the
+public debt-to-GDP ratio was contained through appreciation o f the zloty, and the ratio at end-2004 o f
+less than 52 percent o f GDP was well below the 55 percent o f GDP limit specified in the Public
+Finance Act.’ In early 2004 the Government adopted a comprehensive fiscal reform plan (the Hausner
+Plan) aimed at both rationalizing social transfers and certain other spending programs, and broadening
+the revenue base. The measures included in the Plan, if fully implemented, would reduce the fiscal
+deficit by about 2 percentage points o f GDP (on an annual basis) by 2007. W h i l e about one-half o f the
+targeted savings have been assured, key measures relating to both farmer and disability pensions
+remain o n the agenda.
+11.
+Unemployment has increased rapidly as the economy continued to slow through 2002, and
+peaked in 2002 at 20 percent. Despite accelerated economic growth since mid-2003, unemployment
+has only started to decrease in the second half o f 2004 to i t s current level o f 19.1 percent. While the
+reasons for this slow decrease in unemployment are complex, there i s evidence to suggest that the
+structural nature o f Polish unemployment - related to regional, demographic and education
+characteristics o f the labor force, and estimated around 15 percent - i s an important factor.
+12.
+Poverty increased during the period o f economic slowdown from 14 percent to 17 percent o f
+households*, and i t remains high despite resumed economic growth owing to stubbomly high
+unemployment. Poverty in Poland is, in fact, found to be directly related to an individual’s ability to
+hold a job.
+13.
+The economic outlook for 2005 i s favorable, but looking further ahead, there i s naturally more
+uncertainty. Output growth should remain buoyant in 2005 at around 4% percent, inflation should
+
+’
+
+Once this threshold i s exceeded (in year t), which i s officially known in year t+l; the budget for the following
+year (t+2) must be consistent with containing the debt-to-GDP ratio to below the level prevailing in year t.
+The numbers refer to “moderate poverty” defined as US$6.33 a day (power purchase parity), “Growth,
+Employment and Living Standards in Poland”, March 22, 2004.
+
+*
+
+-3
+
+-
+
+decline to within the National Bank o f Poland’s (NBP) target range (2% +/- 1 percent) over the course
+o f the year as the impact o f the temporary price shocks fade, and the external current account deficit
+should remain low and fully financed by foreign direct investment (FDI). The budget for 2005 targets
+a reduction in the general government deficit o f almost 2 percentage points o f GDP through containing
+real expenditure growth in the state budget to 1 percent, although in part this results from shifting
+certain expenditures (notably pension indexation) to the following year. Further, revenue projections
+appear to be on the optimistic side. Nevertheless, public debt should remain well within the
+precautionary limit o f 55 percent o f GDP. Beyond 2005, sustaining these favorable trends will depend
+on renewed reform efforts, both o n the fiscal side and broader structural reforms aimed at improving
+the investment climate and efficiency in the economy.
+
+14.
+The general government deficit as reported by Poland treats public sector transfers to pension
+funds as public savings. This i s consistent with pension system reform in Poland and other countries,
+including Hungary and the Slovak Republic. However, Eurostat has ruled that such transfers should
+be excluded from public finance, thereby leading to a higher deficit (see Table 2 below).
+Table 2: Pension Fund Reform - Effect on General Government Deficit
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+General govemment deficit (% o f GDP)
+
+-3.9
+
+-5.4
+
+-3.9
+
+-3.2
+
+-2.2
+
+Effect o f pension reform (% o f GDP)
+
+-1.6
+
+-1.6
+
+-1.8
+
+-1.7
+
+-1.7
+
+General govemment deficit according to Eurostat pension
+ruling (% o f GDP)
+
+-5.5
+
+-7.0
+
+-5.7
+
+-4.9
+
+-3.9
+
+ESA95 methodology
+Source: staff calculations
+
+15.
+Macroeconomic Framework under the Stability and G r o w t h Pact (SGP).
+The
+Government’s medium-term macroeconomic plans are centered o n meeting the conditions for Euro
+adoption in 2009 as laid out in the convergence program required by the EU in the context o f the SGP.
+The main objective of the SGP i s t o enforce discipline in the Eurozone as a means to support price
+stability and sustainable growth. Budgetary discipline i s gauged with respect to t w o criteria: a general
+government deficit-to-GDP ratio below 3 percent; and a debt-to-GDP ratio below 60 percent.
+Functioning o f the SGP rests on t w o pillars: multilateral surveillance and corrective mechanisms. As
+regards surveillance, EU member states are required to prepare a convergence program and update it
+annually. The European Commission (EC) prepares an assessment o f the convergence program of
+individual member states on the basis o f which the Council o f the EU issues an opinion. As regards
+corrective mechanisms, the Excessive Deficit Procedure identifies and forces corrections o f excessive
+deficits, defined under non-exceptional circumstances as a deficit over 3 percent o f GDP. Whenever
+such deficit occurs, the EC prepares a report and recommendations for the EU Council, which then
+reaches a decision o n the existence o f excessive deficit and issues recommendations for corrective
+actions, which should be effected within a four month period. Poland submitted i t s convergence
+program to the EC in M a y 2004 (Poland, The Convergence Program, 2004) and last updated i t in
+December 2004 (2004-2005 Update). The program envisages a reduction o f the general government
+deficit to below 3 percent of GDP by 2007 as a result o f the implementation o f the Program for the
+Rationalization and Reduction of Public Expenditures (Hausner Plan, see para. 10). The main
+assumptions are presented in the table below:
+
+-4-
+
+Table 3: Government Macroeconomic Strategy, M a i n Indicators
+~~
+
+2003
+
+2004e
+
+2005
+
+2006
+
+2007
+
+GDP mowth. %V/Y
+Budget balance, YOo f GDP (1)
+
+3.8
+-3.9
+
+5.7
+-5.4
+
+5.0
+-3.9
+
+4.8
+-3.2
+
+5.6
+-2.2
+
+Public Debt, % o f GDP
+Inflation - Harmonized Index o f Consumer
+Prices (HICP)
+Current Account Balance, % of GDP
+
+45.4
+
+45.9
+
+47.6
+
+48
+
+47.3
+
+0.7
+
+3.5
+
+3.0
+
+2.7
+
+2.5
+
+-2.2
+
+-1.9
+
+-2.3
+
+-3.0
+
+-3.6
+
+(1) According to ESA95 but excluding the effect o f pensionrefom
+Source: EC
+
+11. Government’s Development Program and Challenges
+A. Development Priorities
+16.
+The Government’s development strategy i s contained in the NDP 2004-2006, and in the draft
+NDP 2007-2013. The overriding objective o f the strategy i s t o put the economy o n a path o f high and
+sustainable growth, through improved competitiveness o f f i r m s and regions, to contribute to the
+recovery o f employment, and promote strong social cohesion. The aim i s t o reach two-thirds o f EU
+average income per capita by 20 13.
+17.
+The Government’s strategy provides a good basis for support from Poland’s partners, most
+notably the EU through Cohesion and Structural Funds, the European Investment Bank (EIB), the
+Council o f Europe Development Bank (CEDB), the European Bank for Reconstruction and
+Development (EBRD), and the W o r l d Bank. The strategy recognizes the need to manage the economy
+prudently in order t o increase employment and reduce poverty, converge in the medium to long-term
+to average European income levels, and meet the requirements for the adoption o f the Euro. The
+following paragraphs highlight each o f these three challenges as Poland implements i t s NDP and, in
+key areas o f World Bank involvement, they review progress and identify remaining challenges.
+
+B. Development Challenges- Sectoral Aspects and MacroeconomicLinkages
+18.
+Poland aims to reduce i t s fiscal deficit to below 3 percent o f GDP in 2007, while maintaining
+public debt below 60 percent o f GDP in line with i t s convergence program as discussed in para. 15
+above. The Government acknowledges that further public expenditure reforms, beyond those
+measures o f the fiscal austerity plan which have already been approved, will be needed to make r o o m
+for needed infrastructure investments and to achieve i t s medium-term fiscal targets. These measures
+should be implemented as soon as possible, including to ensure that the budget target for 2005 i s met.
+Reforms o f those sectors which have been a burden t o the budget such as coal mining, railways and
+health should be pursued ambitiously, as well as further reforms o f social transfers (notably the
+farmers’ pension system and disability pensions), with the particular objective o f reducing disincentive
+effects in the labor market. Additionally, public expenditure management systems and tax
+administration require further improvement. Continued use over the medium-term o f the implicit rule
+in the 2005 budget for limiting spending growth t o 1 percent per annum in real terms would provide
+for the necessary restraint on the overall expenditure envelope.
+19.
+Health sector reforms have been introduced (including approval o f the Health Financing A c t
+in August 2004), but they address primarily health financing, and they still need t o be implemented.
+Beyond this process, the remaining reform agenda in the sector includes: (a) introduction o f
+appropriate incentives for cost-saving and efficiency improvements in the financing and delivery o f
+health services; (b) better performance o f the National Health Fund (NHF) and i t s regional branches;
+-5-
+
+(c) reduction and eventual elimination o f the high levels o f indebtedness which pervade the health
+system; (d) improvements in clinical quality o f health services; (e) rationalization o f hospital capacity
+across regions; (f) strengthening o f governance and management in hospitals; (g) introduction o f
+comprehensive and effective regulatory and oversight mechanisms; and (h) improvement in collection
+and redistribution o f health insurance premiums.
+
+20.
+Reform o f the coal sector has been under implementation for several years. While much has
+been achieved in terms o f reduced staff levels, increased productivity, reduced fiscal drain, and
+restructuring o f the industry, long-term sustainability o f the sector will require further progress o n all
+these fronts as w e l l as actions to address the industry’s environmental legacy. The key will be t o
+accelerate privatization, on which progress has been slow and inconsistent. The 2004-2006 Reform
+Program approved in April 2004 has renewed the emphasis o n further voluntary staffing reductions. I t
+also targets lower production capacity, elimination o f state subsidies, adherence to a hard budget
+constraint, and ultimately privatization o f the sector. The impetus o f the reform has slowed somewhat
+in recent months, largely because the coal companies see less need for employment and capacity
+downsizing due to buoyant coal prices, especially in the second h a l f o f 2004. Additionally, there i s
+labor union opposition to privatization. The four key challenges are: (a) overstaffing - the target for
+staff reductions i s unlikely to be met under the voluntary program, necessitating mandatory
+retrenchments t o ensure long term viability o f the sector; (b) capacity reduction - proceeding but with
+strong opposition from both workers and the (still state-owned) mining companies; (c) environmental
+legacy - mitigation o f past mining damages has not received sufficient attention; and (d) privatization delayed and proceeding slowly in spite o f the unique opportunity provided by a buoyant coal market.
+The reforms will not be completed without concerted Govemment action. If these issues are not
+addressed in a proactive manner, the risk i s that a downswing in coal prices could cause large parts o f
+the industry t o revert t o financial losses which would become a major obstacle to successful
+privatization.
+21.
+Convergence to European Income Levels. The Govemment recognizes that medium to
+long-term convergence t o European income levels will require sustained high growth averaging 4.5
+percent per year until 20 13 to achieve the stated a i m o f two-thirds o f EU average income per capita by
+2013, and strong competitiveness in European and world markets. This will entail continuing
+structural reforms to: (a) improve the business environment, including broadening and deepening
+financial intermediation, initiating judicial system reform and deepening public administration reform,
+including being able t o use the available resources from the EU effectively and efficiently; (b) improve
+the energy and transport infrastructure: (c) develop the knowledge economy, including initiating
+tertiary education reform.
+22.
+Business Environment. Poland has benefited from large investment flows over the last 15
+years, reflecting the many efforts that have helped improve the business environment. But this i s an
+area in which continuous improvement i s essential to stay competitive and attract new investors.
+Recent business environment surveys, as well as the Bank’s Investment Climate Assessment (ICA),
+Doing Business 2004 and 2005 reports, and the Foreign Investment Advisory Services (FIAS) w o r k
+on administrative barriers to investment indicate that the Polish authorities need to improve the
+mechanisms for contract enforcement and dispute resolution, including out o f court settlements. The
+quality of infrastructure services needs improvement, including developing mechanisms t o enhance
+participation o f the private sector in the provision o f these services. There i s also a need to enhance
+the predictability o f the tax regime to allow businesses t o plan for taxes, including ensuring
+consistency in interpretation o f tax decisions across regions. To ensure that investment i s
+employment-intensive, there i s a need to reduce the high tax wedge for social security premiums. The
+costs o f regulatory compliance are too high and administrative procedures could be streamlined.
+Overall, there should be a mechanism to monitor the business environment o n a regular basis, compare
+i t t o competitors and provide direct feedback t o policy formulation.
+-6-
+
+23.
+A competitive market economy depends on effective support from the judicial system. In
+Poland, the judicial system needs to improve its efficiency by enhancing case-load management and
+overall judicial administration. Policy makers need better court statistics and better access to such
+information. Better case-load management would help shorten the excessive time n o w required for the
+resolution o f contract and other disputes in Poland. There i s also a need t o undertake systematic
+impact assessments o f new laws and regulations on the overall business environment and o n the cost
+o f doing business.
+24.
+Poland has seen wide-ranging financial reforms with a private banking system n o w operating
+in a competitive environment. Financial sector growth, like competitiveness, requires, however, a
+continuous reform environment. Improvements in creditor rights, in the quality o f financial
+statements, and in credit information top the list for the banking sector. Non-bank sources o f
+financing need to be deepened, including leasing, factoring, venture capital, commercial paper and
+bond markets. Financial sector oversight needs to be strengthened and modemized, including
+preparations for Base1 2, development o f risk-based regulation and supervision o f pension funds, and
+creation o f an accounting standards board and a public oversight body for the audit profession.
+Mortgage finance, which remains an underdeveloped aspect o f the financial system, may also require
+the attention o f policy makers.
+
+25.
+
+The Energy Sector. This sector has undergone a major transformation in preparation for EU
+accession and integration into global markets. Poland’s recently adopted Energy Policy Framework
+until the Year 2025 emphasizes three key objectives: ensuring energy safety, increasing economic
+competitiveness, and protecting the environment. T h i s Framework recognizes the need to increase
+emphasis on energy efficiency, expand the use o f indigenous renewable energy sources, establish a 90day fuel reserve capacity, accelerate coal sector reform (discussed in para. 20 above), and increase the
+use o f natural gas, thereby reducing excessive levels o f coal-fired emissions. Balancing the cost and
+security advantages o f using indigenous coal against the environmental benefits o f using cleaner but
+increasingly imported natural gas will involve difficult policy tradeoffs. There i s progress o n most
+fronts; but major challenges remain in restructuring and privatizing the power, coal, and gas sectors.
+Power and gas markets, dominated by monopolies and contract-based market structures, will prove
+challenging to shift to a competitive pricing model. Poland’s aging power and gas infrastructure needs
+expansion and investment, and attracting large-scale private investment into the sector i s difficult
+given continuing uncertainties about market structure and slow progress in privatization. Integration
+into Europe and achieving economic competitiveness will require progress o n this agenda in the near
+term. Despite major gains in energy intensity, Poland s t i l l uses around 2.5 to 3 times more energy per
+unit o f GDP than the EU a ~ e r a g e . Over
+~
+time, this will undermine the competitiveness o f the Polish
+economy. The potential for energy savings i s very large in all sectors o f the economy, and many
+investments in energy efficiency will be feasible without direct subsidies. Activities to tap the
+efficiency potential, and the level and type o f Government intervention required to achieve these
+targets will need to be analyzed, and appropriate measures to scale up energy efficiency investments
+should be taken.
+
+26.
+Modernization and Reform of Transport Infrastructure. Three subsectors are included:
+railways, roads, and ports. The reform o f the railway sector has been under implementation since
+1999 with ambitious objectives, but mixed results. There has been progress in productivity growth
+due principally to a f i r s t round o f layoffs to reduce chronic overstaffing. There has also been progress
+in the financial and operational restructuring o f the industry, resulting in the reconfiguration o f the
+traditional monolithic monopoly structure into several independent operating companies. Despite
+these achievements, the sector i s far from sustainable; in addition t o the current levels o f compensation
+EuropeanEnergy and Transport Trends to 2030, European Commission, Brussels, 2003.
+
+-7-
+
+for public service obligations, the railways continue to require periodic debt relief, write-off o f other
+financial obligations to the State, and support for new capital expenditures. T h i s i s due mainly to
+underfunded, financially non-viable regional services. These constitute social obligations and result in
+large accounting losses and short-term liquidity constraints. Finally, progress on privatization has
+been slow and further complicated by repeated changes in strategy.
+27.
+The railway reform strategy was revised in December 2003. It called for a renewed push
+towards privatization and the devolution o f responsibilities for regional passenger services to local
+governments with appropriate budget funding. Unfortunately, little progress has been made in i t s
+implementation. Another strategy revision has been adopted by the Government in February 2005. I t
+reflects a policy change aimed at boosting the future role o f railways in the Polish transport sector
+while continuing with privatization. Access fees will be reduced by one-third in order to lower tariffs
+and encourage rail utilization. At the same time, to avoid burdening the state budget or taxpayers,
+one-third o f the least used network (7,000 km) will be closed. The Govemment will assume
+responsibility for most o f the maintenance and renewal o f the remaining network. This will be funded
+from a new National Railway Fund (beginning in 2006), a major source o f which will be 20 percent o f
+the receipts from fuel charges collected in the National Road Fund. Operating companies will be
+further strengthened by the transfer o f all operating assets currently owned by the holding company,
+Polish National Railway Company (PKP S.A.), and changes in their organizational and capital
+structure. A new major stations company will be created as a subsidiary o f the infrastructure company
+to exploit the real estate potential o f railway property. In terms o f privatization, while preparations
+continue for cargo services, the priority i s the trade sale o f intercity passenger services. The
+Government needs to play a more decisive role in pushing network rationalization, rapid privatization
+of cargo and intercity passenger services, and devolution o f regional passenger services to local
+governments.
+28.
+Changes in the roads sector have focused on institutional restructuring to improve planning
+and implementation capacity, measures to finance the large maintenance backlog and o n the
+substantial investments required to extend Poland’s minimal highway system. Some progress has
+been made with the creation o f a single roads agency, the General Directorate o f National Roads and
+Highways (GDDKiA), through the merger o f the General Directorate o f Public Roads and the Agency
+for Construction and Operation o f Motonvays, and with the creation o f the National Road Fund,
+financed by a fuel surcharge. A more ambitious plan for the introduction o f a user tax based on a
+vignette system was rejected by Parliament, partly because o f lack o f proper communication and
+information to the public. I t i s unlikely that the current Road Fund will generate sufficient resources
+to meet the full needs o f the sector, even with increased private sector involvement. Attempts to
+involve the private sector in the financing o f roads through concessions or public-private partnerships
+(PPPs) have as yet been quite limited, partly because o f the lack o f an adequate legal and regulatory
+framework. T h e four key challenges are to: (a) improve GDDKiA’s investment planning capacity to
+enhance the quality and pace o f project implementation; (b) build GDDKiA’s capacity for
+prioritization and selection o f investments on the basis o f economic criteria using modem
+programming tools; (c) eradicate the large road maintenance backlog; and (d) enhance the capacity to
+mobilize and coordinate private sector involvement in road infrastructure development.
+29.
+Reform and modernization o f the ports have been under implementation since the early 1990s,
+with approval in 1996 o f a new legal and regulatory framework which aimed to modernize the sector,
+increase its competitiveness and improve the quality o f services provided by the ports. State-owned
+enterprises were restructured to act as ‘landlords’ o f the facilities with commercial activities to be
+carried out by separate private operators independent o f the port authorities and regulated by the
+Ministry o f Infrastructure in line with best practice. Joint-stock companies were created for each o f
+the three main Polish ports with responsibility to manage the land and port infrastructure, including
+maintenance services, modernization, and investment planning. As a consequence o f these changes,
+-8-
+
+municipal authorities gained more responsibility to make efficient use o f port infrastructure.
+However, in the absence o f direct incentives, with the exception o f the port o f Gdynia which has been
+able to attract a private investor to develop and to operate i t s container terminal, this responsibility has
+not yet translated into better management o f port assets which therefore remains an urgent task.
+30.
+Knowledge Economy and Innovation. The Bank’s Knowledge Economy Assessment
+concluded that a key element in a successful competition strategy for Poland must be increases in the
+overall expenditure on research and development (R&D) and, most important, in the share o f R&D
+financed by the private sector. Currently, Poland spends only 0.7 percent o f GDP o n R&D and only
+one-third o f this i s spent by the private sector. Poland’s private sector will need t o increase i t s R&D
+spending substantially, and this will require a range o f R&D financing instruments f r o m grants for
+innovation at the very early stages to venture capital. There i s also a need t o improve the regime for
+intellectual property rights. The quality and relevance o f formal education needs t o be assessed
+critically, life-long learning systems need t o be improved, and the linkages between academia and the
+scientific and business communities need t o be strengthened. Lastly, there i s a need to complete the
+liberalization o f the telecommunication sector in order to reduce costs, increase access to services such
+as internet, and facilitate the introduction o f e-Government for businesses and citizens.
+While the Education Development Strategy has been approved within the framework o f the
+3 1,
+NDP 2007-2013, i t s implementation i s only just starting, and many improvements are needed t o
+contribute t o competitiveness and social inclusion. The report o n tertiary education produced jointly
+with EIB identifies the need t o strengthen the capacity o f the Ministry o f National Education and
+Sports for analytical work and for decision-making as an important requirement for dealing with some
+of the key remaining challenges in the sector, which include: (a) better orienting education t o labor
+market needs with emphasis o n greater flexibility; (b) improving access to high quality educational
+services; (c) developing a life-long learning system that takes into account the changing demographic
+profile o f learners in Poland; and (d) embedding the tertiary education system within a national
+innovation strategy.
+32.
+Increasing Employment and Reducing Poverty. Increasing employment and reducing
+poverty are two sides o f the same coin in Poland, given the strong correlation between family income
+levels and employment status o f heads o f household. Currently, however, employment creation
+remains sluggish, and it i s indeed lower than i t had been in the past when i t had offset the considerable
+j o b destruction associated with transition. A s a result, unemployment i s high, and long-term
+unemployment i s increasing, leading t o growing pockets o f long-term poverty and social exclusion.
+To stimulate new j o b creation, labor market reforms are needed, and small and medium enterprises
+(SME) development needs t o be revitalized. It may also be necessary to support the creation o f
+sustainable employment where markets are currently failing, both in rural areas and in depressed urban
+areas. Large inequalities in education and skills are a key barrier to citizens’ capacity to find and hold
+a j o b and, thus, to staying out o f poverty. There i s also a need to examine the system o f social
+transfers for better targeting, as evidence suggests that in some circumstances social transfers have
+created a disincentive to more active participation in the labor market. However, growing pockets o f
+long-term unemployment and poverty must also be dealt with, requiring actions t o increase the level o f
+social inclusion.
+33.
+The Bank’s Living Standards Assessment has shown unemployment to be closely linked t o
+large regional disparities and high inequality in educational outcomes across individuals and between
+regions. High non-wage labor costs also played important roles. Indeed, employment opportunities in
+Poland are highly correlated to individuals’ level o f education, and for low-skilled individuals, they
+appear to be impaired by a combination o f a binding minimum wage, high labor taxes, and a structure
+o f the social transfers that, while helping t o alleviate poverty in the earlier years o f transition, has also
+proved a disincentive to active participation in the j o b market in l o w wage, high unemployment areas.
+-9-
+
+There i s also evidence that uniform national minimum wages may be a barrier t o employing some
+people with l o w skills given the regional variations in price levels which translates into significantly
+higher real minimum wages in poorer regions.
+
+34.
+Polish legislation provides for equal treatment o f women and men in the labor market and
+ensures gender equality in access to professional training and promotion. Yet gender inequalities
+continue to prevail as shown in the report on Gender and Economic Opportunities in Poland prepared
+by the Bank in collaboration with the Govemment Plenipotentiary for Equal Status for M e n and
+Women and numerous Polish experts. The gross gender pay gap i s l o w by intemational standards (17
+percent in the 2002 Labor Force Survey) but, contrary t o other EU countries, it i s not linked to gender
+differences in productivity-related characteristics. Moreover, Poland i s unique among the Central
+European countries in experiencing an increasing female disadvantage in employment opportunities,
+with the rate o f unemployment growing much faster for women than for men. These findings suggest
+the need to go beyond legislation by focusing o n improved implementation and increased employers’
+accountability in the selection and promotion process and to eradicate the social and cultural
+stereotypes that lead t o the unequal treatment o f men and women in the labor market and social
+protection system and promote the disadvantage o f women in public and political life.
+
+35.
+
+In rural and depressed areas, efforts should be continued to support the creation o f
+employment but with a focus o n the creation o f sustainable employment where market responses have
+thus far been weak. This includes incentives for the creation o f off-farm sources o f employment, as
+well as enhancing the incentives and possibilities to seek urban employment. Reducing barriers to
+labor mobility (i.e., finance, transportation including commuting, housing, and income transfer
+mechanisms including KRUS) are key in this regard. These actions need to be supplemented in rural
+areas with efforts t o increase the productivity and value-added o f the agricultural sector in general. In
+the agriculture sector, while large farms are operating effectively and use modern production and
+marketing techniques, several challenges remain, in particular in supporting the development o f small
+and medium sized farms t o increase their productivity and value-added. Particular areas o f focus
+include sustainable mechanisms for supporting marketing efforts, as well as introducing production
+techniques that improve profitability, salability and environmental friendliness o f production for this
+group o f farms.
+
+111. Poland and the World Bank: Past Relationship and Lessons
+A. Past World Bank Assistance
+36.
+
+Poland rejoined the W o r l d Bank in 1986, but the first lending operation occurred only in 1990
+(after the end o f the communist period). Lending was substantial in the 1990s but decreased in the
+early years o f this decade before recovering in 2004, coincident with a pickup in reform
+implementation. Demand i s expected to remain at a level o f about US$350-400 m i l l i o n per year for
+the next two to three years. A sizeable amount o f technical assistance and capacity building was, and
+continues to be, embedded in lending in addition to the Bank’s analytical and advisory activities
+(AAA) and activities supported by Institutional Development Fund (IDF) grants. Policy advice and
+analytic work have been w e l l received by the authorities throughout the Bank’s involvement in
+Poland.
+
+37.
+Bank lending has responded with lower volumes and greater selectivity to the completion o f
+Poland’s transition to a market economy, i t s increased access to EU funds, and i t s achievement o f
+investment grade (BBB+) rating as a sovereign borrower. At the same time, TA financed from the
+Bank’s budget has become increasingly sophisticated. A total o f 66 loans have been approved since
+1990 for total lending (commitments less cancellations) o f US$4.7 billion. As o f the end o f calendar
+year 2004, US$2.8 billion have been repaid, and US$297 m i l l i o n remain undisbursed. Financing
+
+-
+
+10-
+
+under the last CAS has supported government-led reform and modernization efforts, for which the
+Bank lent modest amounts, but in which i t could add value in terms o f technical expertise,
+implementation and management skills for complex activities, and helping to leverage larger financial
+resources f r o m other partners such as EIB. The portfolio includes 11 loans, which support reform
+efforts, including privatization (coal and railways) and strengthening and modernization o f institutions
+(ports and the roads agency, GDDKiA), and programs for road maintenance, rural development,
+energy efficiency, geothermal energy, regional water supply, and flood reconstruction and prevention.
+All projects are rated satisfactory for implementation progress and development objectives.
+38.
+TA financed from the Bank budget has also changed in nature, responding to Poland’s
+growing capacity and increasingly specialized needs by moving into more sophisticated areas where
+the Bank’s global expertise has been particularly relevant and appreciated. Indeed, as Poland has
+progressed, there has been an opportunity to pilot initiatives with relevance for other countries
+confronting similar challenges and for Bank staff to learn from Poland’s experiences. Some examples
+include the work on banking supervision which led to the establishment, within the structures o f the
+NBP, o f TIBS (Training Initiative for Banking Supervision) through which Poland now supports the
+training o f bank supervisors not only from neighboring countries in transition in Eastern, Central and
+Southern Europe but also from Central Asia and from as far as Vietnam. Poland’s experience with
+decentralization and establishment o f local governments has been analyzed by the Bank and
+documented for use in other developing countries. Some ongoing work in the areas o f accounting and
+auditing as w e l l as corporate governance as part o f updating the Reports on Observance o f Standards
+and Codes (ROSCs) also have the potential for wider Bank use.
+
+B. Implementation o f the Previous CAS
+39.
+An evaluation o f the implementation o f the FY03 CAS must take into account that the
+changes in Poland’s circumstances which led to the preparation o f this CPS also affected the
+implementation o f the previous CAS.
+Two factors were particularly important in CAS
+implementation. The first was the delays and uncertainties associated with political instability through
+mid-2004, and the second was the momentous changes associated with EU accession. The latter, in
+particular, has led to a period o f redefining o f the relationship between the World Bank and the Polish
+authorities in which the role o f the World Bank inevitably accommodates the primacy o f Poland’s
+partnership with the EU and other European institutions, not least in improving access to resources at
+increasingly attractive terms. However, the basic priorities set in the FY03 CAS demonstrated their
+robustness and remained at the core o f dialogue with the Polish authorities during the intervening
+period. In particular, as reform efforts were re-initiated in late 2003 (roughly a year into CAS
+implementation), the Bank’s operational focus on the coal sector, road administration and
+maintenance, health financing and administration, higher education, and rural development was
+confirmed.
+40.
+Recognizing the changing nature o f the Bank’s operational relationship with Poland, the FY03
+CAS had anticipated that Poland would not be interested in traditional investment lending in these
+priority areas. I t anticipated instead a potential series o f sector adjustment operations related to
+specific sectoral benchmarks and a common single macroeconomic trigger. The authorities clearly
+gave first priority to Bank support to coal and roads, and progress on the related sector benchmarks
+was satisfactory by the end o f 2003. However, the sector adjustment instrument turned out to be illsuited to Poland’s evolving situation. In both prospective operations in coal and roads, the authorities
+wanted stronger linkages with the actual administration o f the reform and related expenditure
+programs than sector adjustment operations would normally entail. Furthermore, the conditionality
+itself was not so much a set o f policy changes as it was the implementation o f institutional changes
+linked to specific expenditures. Clearly, a more flexible and innovative approach than had been
+foreseen at the time of the CAS was necessary. As a result, the roads operation was successfully
+
+- 11 -
+
+designed as a SWAP which pooled World Bank resources with those o f the Government and other
+financial partners such as EIB, linked to the implementation o f specific budget lines. In the case o f
+coal, two operations evolved. One directly supported retrenchment packages in the budget, thereby
+linking disbursement to the actual implementation o f the reform program, and the second followed a
+modified SWAP for mine closure expenditures over a multi-year period. These innovative approaches
+were also implemented within a very short timeframe--less than six months once the appropriate
+instrument had been identified.
+
+41.
+The CAS contained a specific quantitative macroeconomic trigger defined as an increase in
+central government savings without a deterioration in general government recurrent balances.
+Although this trigger had been met in 2003, it became apparent in early 2004 that it would not be met
+in that year in spite o f the generally improved performance o f the economy and the implementation o f
+the Hausner Plan (see para. IO), which made real progress toward fiscal sustainability. Considering
+the direct links between the proposed operations and an improved composition o f public expenditure,
+this trigger was judged to be n o longer a critical indicator o f improved policy performance when the
+Government requested in early 2004 that the Bank proceed with support to the coal and roads sectors.
+42.
+The envisaged dialogue in other sectors and AAA were also broadly confirmed during the
+FY03 CAS implementation, but delays and some shifts in priorities linked to the process o f redefining
+the Bank-Poland partnership led to a consolidation o f some activities and, in some cases, a shift in
+focus to TA from economic and sector work (ESW) or lending. The rural development dialogue
+evolved based on initial experience with structural funds and has strengthened the focus on social
+inclusion at the community level. Health and education have primarily focused on TA, although the
+jointly-produced sector report on tertiary education with EIB was a notable output. Labor market
+issues were melded into the Living Standards Assessment which also builds more strongly than
+anticipated on regional differentials. Competition, SME and regulatory policy were considered in a
+comparative context with the ICA, FIAS work on administrative barriers to investment, and the
+Knowledge Economy Assessment rather than a free-standing competition policy review. A program
+o f financial issues has been agreed with the NBP including elements o f judicial reform that affect
+contract enforcement for banks. Finally, based on the request o f the Government, the Bank i s
+endeavoring to assist with the formulation o f the next N D P rather than undertake i t s own review o f
+development policy. In general, these changes reflect a greater attention to the specific requests o f the
+authorities and less emphasis on ESW outputs.
+43.
+The benchmarks for evaluating progress o f the Bank program were largely met, in spite o f the
+delays and shifts in priorities that affected Bank operations and AAA. Exceptions were policy
+dialogue and possible TA for raising productivity in the agriculture sector and TA and dialogue on
+strengthening regulatory capacity. On the other hand, policy dialogue on competition and labor
+market reforms and on the environment for SME development did occur in the context o f the ICA, the
+Living Standards Assessment and the Knowledge Economy Assessment.
+44.
+Overall, the lessons from the implementation o f the FY03 CAS are the following: (a) the
+underlying analysis and priorities in the CAS were sound and remained robust in light o f Poland’s
+improved performance and accession to the EU; (b) the instruments foreseen in the CAS were too
+rigid for Poland’s changing circumstances, but flexibility in implementation and support from the
+Region and Bankwide Middle-Income Country (MIC) and Simplification agendas helped keep the
+Bank program relevant; (c) in spite o f the Bank’s higher financial costs relative to Poland’s other
+sources o f funds, the Bank can provide sufficient value-added in selected areas in which i t brings
+technical expertise combined with rapid and flexible implementation to justify modest levels of
+lending.
+
+-
+
+12 -
+
+C. Rationale for Future Partnership
+45.
+Although Poland’s recent developments could soon lead the authorities t o initiate graduation
+from World B a n k borrower status, there i s s t i l l an agenda o f important reforms in areas in which the
+Bank has been, and continues to be, the key technical partner and where B a n k operational activity
+including, in some cases, modest financing can add value from the perspective o f the client. This
+includes activities supporting privatization in the coal and railway sectors, modernization o f roads and
+ports administration, public finance management, social inclusion, health, education, the development
+of the financial sector and o f systems for knowledge transfers to industry. Additionally, the capacity
+to design and implement reforms i s s t i l l constrained by the speed at which public administration and
+institutions can be reformed. W o r l d Bank support in the form o f analytic w o r k and TA embedded in
+modest lending has helped, and can continue to help, address this constraint. Furthermore, the Bank’s
+engagement in the form o f an operational program has been, and continues t o be, a significant factor to
+leverage and promote as well as endorse needed reforms. Consequently, there remains an opportunity
+for continued, selective Bank involvement, particularly in the form o f technical support, either free
+standing or embedded in lending and financial partnerships in Government programs.
+
+IV. World Bank’s Proposed Strategy
+A. CPS - Principles for Engagement
+
+46.
+W o r l d Bank’s activities in Poland under the partnership arrangement will need to be both
+strategic and demand driven, focusing o n areas that are consistent with the development priorities o f
+Poland as laid out in the NDP and where:
+(a)
+
+(b)
+(c)
+
+Significant policy or structural issues are involved;
+The Bank can add value, as perceived by the Polish authorities in terms o f technical
+excellence and comparative advantage, taking into account the cost o f financing; and
+Effective partnerships are continued both with Polish partners, including private sector,
+youth and c i v i l society organizations, and with external partners, including the EU, EIB,
+EBRD, CEDB, the International Monetary Fund, and the Organization for Economic
+Cooperation and Development.
+
+B. Operational Approaches
+
+47.
+Operational approaches consistent with the above criteria require the evolution o f the
+relationship towards a partnership for development in which the Bank continues to support the
+Government with a full set o f instruments to tackle elements o f the remaining agenda and in which
+Poland increasingly contributes with the lessons o f its experience for broader dissemination by the
+Bank to other member countries. T o fulfill its role in this partnership, the Bank will need to increase
+its flexibility and responsiveness in a manner consistent with the priorities and recommendations from
+the Bank’s Middle-Income Country Bankwide Working Group4 and those contained in the Framework
+for W o r l d Bank Support to the EU N e w Members Countries o f Central and Eastern Europe’.
+48.
+The evolution f r o m CAS to CPS entails: (a) a single lending case based o n a macroeconomic
+framework consistent with Poland’s convergence program under the SGP described in para. 15; and
+(b) shifts from a largely pre-determined program o f lending and nonlending activities to a more
+Enhancing World Bank Support to Middle-Income Countries (SecM2004-007Ul), April 20,2004; and
+February 26,2004.
+Management Action Plan (SecM2004-007I),
+Framework for World Bank Support to the European Union (EU) New Member Countries o f Central and
+Eastern Europe (SecM2004-0283), May 28,2004.
+-13-
+
+flexible approach in which broad priorities are defined for the entire period and specific activities are
+agreed o n a yearly basis in a manner consistent with the Polish planning and budgeting cycle.
+
+49.
+
+Increased responsiveness and flexibility entail: (a) quick design and delivery o f projects, with
+preparation held to less than 12 months and implementation timetables to three years whenever
+possible; and (b) continuation o f the work started under the Roads Rehabilitation and Maintenance,
+and the Coal M i n e Closure projects and the further simplification and alignment o f Bank procedures
+with PolisWEU practices in line with the Bank’s initiative o n “Use o f Country Systems” and the
+concept o f “entityhector accreditation” contained in the Framework for W o r l d Bank Support to the
+EU N e w Member Countries o f Central and Eastem Europe where possible.
+50.
+Lending and nonlending activities will be identified and agreed in annual business plans
+consistent with the above principles and linked to the Polish budget cycle; but this possibility would
+not preclude the flexibility to alter the agreed business plan in response to urgent demands. Tables 4
+and 5 at the end of this section include specific activities agreed for FY05 and FY06. Activities
+beyond the end of Polish fiscal year 2005 (December 2005) included in the table are indicative in
+nature and will be confirmed with the Govemment in the context o f the 2006 and subsequent budget
+cycles. Beyond FY06, the Bank would consider lending along the same lines as during F Y 0 5 and
+FY06 with final composition and levels based o n the evolution o f country demand. M o s t lending will
+be in the form o f investment lending with embedded TA, using the SWAP modality to pool funds with
+Govemment and other development partners. Only the two loans for Road Maintenance and
+Rehabilitation are expected to disburse more rapidly than average investment loans (i.e., within two
+years from approval). Lending for technical assistance could also avail the multi-country APL,
+SIDEM. S I D E M was discussed by the Board o n January 25, 2005; i t s f i r s t loan t o the Slovak
+Republic for a Human Capital Technical Assistance Project was approved o n the same date. AAA
+would be delivered using the Bank’s own resources with an increasing emphasis o n
+intemational/regional comparative analysis, but with clear country-specific elements and
+recommendations. M o r e specialized work or demands which exceed the available budget could be
+provided under reimbursable arrangements.
+
+C. Guidelines for Engagement and Risk Management
+5 1.
+The flexible nature o f the CPS creates the need for clear guidelines as to when and where the
+Bank should be engaged in Poland. The first basis for any engagement must be demand by Poland in
+consideration o f i t s development agenda and access to EU cohesion and structural funds, funds from
+other development partners, and from the debt and capital markets at lower financial costs than those
+o f the Bank. On i t s side, the Bank needs to ensure that its work in Poland meets the institution’s
+standards and serves its broader goals. T o do this, Management will regularly monitor progress with
+reforms as well as the environment into which i t s resources are placed. The CPS includes a set of
+indicators to monitor progress in i t s implementation.
+52.
+The framework outlined in this Partnership Strategy i s designed to remain in force until such a
+time as i t i s n o longer relevant. Relevance will be assessed against two criteria: the demand for the
+Bank’s services; and the existence o f a conducive macroeconomic environment consistent with
+Poland’s convergence program under the SGP, as discussed in para. 15. T o demonstrate the continued
+relevance o f the framework and priorities o f this strategy, Management will provide a b r i e f progress
+report to the Board by mid-2007 when the EU financing framework for 2007-20 13 i s confirmed.
+
+53.
+In the event that the debt-to-GDP ratio exceeds 60 percent, severe fiscal adjustment would be
+legally required. This would prohibit any further borrowing, including f r o m the Bank, suspend
+investment expenditures, and cut social transfers. Under such circumstances, this Strategy would n o
+longer be relevant and the Bank, in partnership with the Polish authorities, would prepare a new
+
+- 14-
+
+strategy and modify the annual business plans accordingly. Such a scenario would in effect constitute
+a “low case” in which new and more relevant AAA would be identified, and Bank operations reevaluated.
+
+D. K e y Priorities for the CPS
+54.
+The Government has signaled i t s interest that the World Bank remain engaged in the three
+broad priority areas listed below, which are consistent with the criteria for engagement discussed in
+the preceding paragraph and support the key priorities o f the NDP:
+(i)
+
+Promote fiscal adjustment and reverse negative debt dynamics through restructuring o f
+expenditures (Fiscal Consolidation);
+(ii) Promote convergence through an improved investment climate and enhanced
+competitiveness (Convergence/Competitiveness);
+(iii) Reduce poverty, encourage social inclusion and bring employment closer to the Lisbon
+targets (Employment and Poverty).
+
+E. Fiscal Consolidation
+55.
+Analytic work i s supporting the dialogue around various fiscal reform issues, including public
+finance management, expenditure reform, regional development, and corporate income taxes. This
+work builds on the Public Expenditure and Institutional Review conducted in 2003, as well as ongoing
+AAA in the form o f quarterly economic reports for the EU8 countries, a multi-year E U 8 cross-country
+fiscal study, and a public administration improvement program. The ongoing support to privatization
+and related reforms in coal mining, railways and health aims t o achieve economic and financial
+sustainability o f these sectors and eliminate the need for future state support. T w o loans currently
+under implementation support measures in the coal sector reform program t o reduce overstaffing and
+excess and uneconomic production capacity, promote adherence by all companies in the sector to a
+hard budget constraint, and accelerate progress in privatization to consolidate the objectives o f the
+reform. Another loan under implementation supports similar reforms in the railway sector. In the
+health sector, progress toward sustainable financing o f health insurance i s supported through analytic
+work and technical assistance. These are a l l areas o n which progress i s necessary for Poland t o meet
+i t s convergence objectives as laid out in the convergence program and NDP (see paras. 16, 18-20, 26
+and 27).
+56.
+For the future, Government has signaled that i t expects the Bank t o continue to provide AAA
+support on public finance issues, implementation o f health reform, improvement o f public
+administration, as well as reform and privatization o f railways. Details o f the proposed lending and
+nonlending programs are in Tables 4 and 5. A brief description o f the proposed nonlending and
+lending activities until the end o f 2005 i s included in Annex 1.
+
+F. Convergence/Competitiveness
+57.
+Ongoing activities support efforts to increase the competitiveness o f the economy, particularly
+the transport and energy sectors. In the transport sector, the objective i s t o increase efficiency and
+decrease costs through unbundling and privatization o f the railway sector and modernization o f the
+roads agency and ports administration. This i s supplemented by limited financing o f infrastructure
+maintenance, improvement and expansion, which has helped leverage more copious financing from
+the EU and EIB. In the energy sector, lending supports the ongoing restructuring o f the coal sector in
+order to make i t more efficient, financially viable, and attractive for privatization. An energy
+efficiency project for Krakow’s district heating aims to increase competitiveness by improving the
+efficient use o f energy and spur the development o f financing mechanisms for energy savings projects
+
+- 15 -
+
+in other cities. Bank AAA supports efforts to improve the overall business climate and identify the
+key requirements for the development o f a knowledge economy through assessments o f the investment
+climate and the knowledge economy, as well as tertiary education. In addition, a dialogue has begun
+on Poland’s Energy Policy Until 2025 that may contribute to setting priorities in the overall energy
+sector reform program in order to achieve greater energy market competitiveness within EU
+convergence. Finally, the Bank has been closely associated with the development o f Poland’s flood
+control and early warning system which i s designed to stem the losses incurred from the periodic
+floods which have ravaged Central Europe in the past decade. Poland’s system represents regional best
+practice.
+
+58.
+In 2005, the Government has signaled its interest in continued Bank support to increase the
+competitiveness o f the Polish economy through promoting, among others, improvements in the
+business climate, continued efficiency improvement in infrastructure and energy, and support for the
+development o f the knowledge economy. Potential activities include support to the continued
+modernization of the roads agency and road maintenance program, and financing, in partnership with
+European institutions, a key set o f flood control investments in the Odra river basin.
+59.
+The Government also endorses continued AAA to support the following: improvements in the
+overall business climate including regulatory, judicial and administrative aspects, developing
+infrastructure, developing the knowledge economy, complying with EU standards through support for
+the finalization o f the 2007-13 NDP, financing o f higher education, energy efficiency and renewable
+energy, improving financial intermediation including non-banking services, the role o f public
+environmental financing, and compliance with EU standards for the environment, particularly
+wastewater treatment. Details o f the proposed lending and nonlending programs are in Tables 4 and 5.
+These activities constitute the core o f the Bank’s partnership with the Polish authorities in helping to
+tackle the convergence challenges identified in Poland’s development agenda (see paras, 16 and 2131). A brief description o f the proposed nonlending and lending activities until the end o f 2005 i s
+included in Annex 1.
+
+G. Poverty and Employment
+60.
+Bank financial support to the ongoing Rural Development Program i s supporting off-farm
+rural employment efforts through focused training, labor redeployment, micro credit programs, rural
+infrastructure investments, including roads and schools, and capacity building for local governments.
+A World Bank Living Standards Assessment produced in close collaboration with Polish researchers
+and Government officials identified a very clear linkage between holding a j o b and staying out of
+poverty. The assessment also contributed to the debate on poverty levels by proposing a new
+methodology for measuring poverty based on regionally adjusted indices.
+61.
+For the future, the Government has signaled i t s interest in continued Bank engagement in the
+form of lending to support efforts to enhance social inclusion, in particular in smaller municipalities
+(gminas), through building capacity o f local partners in preparing strategic plans and managing social
+activities. The project would also support the reform o f farmers’ social insurance. Continued support
+i s also expected for analysis o f labor trends and issues and building o f a CGE model. Details o f the
+proposed 2005’06 lending and nonlending programs are in Tables 4 and 5. These activities are
+directly linked to key employment and poverty reduction goals o f Poland’s N b P (see paras. 16 and
+32-35). A brief description o f the proposed nonlending and lending activities until the end o f 2005 i s
+included in Annex 1.
+62.
+The following potential activities are under discussion for FY07: (a) final phase o f coal mine
+sector restructuring and privatization (Fiscal Consolidation); and (b) private sector R&D
+(Convergence/Competitiveness). These activities together with any additional future initiatives will be
+
+-
+
+16-
+
+discussed with the new Govemment in the context o f the 2006 annual business plan. The Govemment
+has indicated that important considerations in its future demand for lending from the W o r l d Bank
+include financial as well as transaction costs.
+Performance measures for the activities already defined for FY05 and FY06 are linked to the
+63.
+progress benchmarks set out in the CPS Results Matrix (Annex B9).
+Tal e 4: Proposed NonlendingProgram
+
+ACTIVITY FY05/FY06
+EU8 Cross-country Public Finance Reform (FY05-06)
+EU8 Quarterly Economic Reports
+Health Reform Implementation (FY05-06)
+Railway Reform Implementationpolicy dialogue (FY05-06)
+Public Administration Improvement Program (FY05-06)
+CONVERGENCE/COMPETITIVENESS IDF Grant for Accounting and Auditing Reform (FY05-06)
+ROSC Updates (Corporate Govemance and Accounting & Auditing Modules)
+(FY05)
+Influence o f the Legal System on the Financial Market in Poland (FY05)
+NDP 2007-13 policy dialogue (FY05-06)
+Financial Services Policy Notes (FY05)
+Public Environmental Financing (FY05-06)
+Energy Efficiency (FY05)
+Renewable Energy (FY06)
+Energy Policy Dialogue (FY05-06)
+PPPs for Roads (FY05-06)
+EU8 Cross-countryPublic Finance Reform, chapter on Financing o f Higher
+Education (FY05)
+EU8 Cross-country Labor Market (FY05-06)
+EMPLOYMENT AND POVERTY
+CGE Model Building (FY05-06)
+PRIORITY
+FISCAL CONSOLIDATION
+
+PRIORITY/ACTIVITY
+Fiscal Consolidation
+Hard Coal Mine Closure (*)
+Competitiveness
+Road Rehabilitation and Maintenance I1
+Road Rehabilitationand Maintenance HI(**)
+Odra River Basin Flood Prevention (**)
+Employment and Poverty
+Post Accession Rural Support
+TOTAL
+
+FY05
+
+FY06
+
+100
+
+131
+
+195
+130- 190
+65
+390-450
+
+23 1
+
+H. Assistance from Other Development Partners
+64.
+The EU i s the major development partner for Poland. Approximately EUR 13 billion in
+cohesion and structural funds will be available to Poland for commitment by the end o f 2006 in
+accordance with the country’s priorities as defined in i t s programming document. Substantial
+additional resources will be provided as part o f EU’s 2007-2013 financing cycle. EIB offers Poland
+substantial financial resources (EUR 1.2 billion in 2004), some o f which are in road infrastructure
+where the Bank i s playing a major role in the modemization o f the roads agency (GDDKiA) and
+supporting i t s ability to leverage large financial resources, including those from EIB. The C E D B i s
+also involved in Poland, including in areas in which i t has worked together with the Bank such as
+flood reconstruction and a development program for Silesia, which i s a companion program o f the
+Bank-supported social mitigation work linked to employment downsizing in the hard coal sector.
+EBRD i s also active, in particular in municipal infrastructure financing and railway sector reform.
+
+- 17-
+
+V. Creditworthiness and Risk Management
+65.
+Overall, Poland i s a strong creditworthy borrower and has good access t o sovereign credit with
+a rating o f BBB+. Constitutional debt restrictions in line with Maastricht criteria put an effective limit
+o n any economic policy irresponsibility. The Government continues efforts t o consolidate public
+finances and i s fully committed to meeting the requirements for the adoption o f the Euro. F r o m the
+external debt perspective the annual CPS envelope i s less than 0.1 percent o f GDP and less than ‘/4 o f
+one percent o f exports; thus, it does not pose any significant burden o n the country’s repayment
+capacity. Poland’s outstanding debt to the W o r l d Bank i s currently less than 1 percent o f GDP, less
+than 2 percent o f total external debt and less than 2 percent o f total public debt.
+
+66.
+
+The m a i n risk to the successful implementation o f this strategy would be a prolonged
+slowdown in growth which could result from stalling o f the reform agenda, combined with lack o f
+further fiscal reforms. This, in turn, could follow from adverse economic shocks or political
+instability. Under such circumstances, it would be difficult to comply with the Public Finance A c t and
+avoid triggering severe fiscal adjustment, not least if the Constitutional debt limit o f 60 percent o f
+GDP were to be breached: this would prohibit any further borrowing and force tax increases,
+suspension o f investment expenditures, and cuts in social transfers, which would affect the successful
+implementation of this partnership strategy and would require preparation o f a new strategy for
+discussion with the Board as discussed in para. 52. This risk can be managed through the regular
+surveillance and corrective mechanism o f the SGP discussed in para. 15, as w e l l as Poland’s own
+safeguards, including the intermediate debt-to-GDP threshold contained in the Public Finance Act as
+discussed in para. 10 and the 60 percent o f GDP Constitutional debt limit, which effectively imposes
+an upper bound limit on public debt. In this respect, Poland has better safeguards than most o f the
+current European Monetary U n i o n members. However, as discussed in para. 52, should such risks
+materialize, the Bank would reassess i t s strategy with a view to formulating and implementing
+appropriate mitigation measures in collaboration with the authorities.
+
+VI. CPS Consultations
+67.
+Consultations with the Government started in early November 2004 with a meeting with the
+Minister o f Finance and his team. This was followed by meetings with individual ministries and other
+Government stakeholders during November and early December.
+Outside o f Government,
+consultations also took place in late November and early December with some 150 representatives of
+the private sector, non-governmental organizations, research institutes, think tanks and local
+Governments in Gdansk, Warsaw and Katowice, as well as representatives o f the main political
+parties, and youth. Consultations were based o n a slide presentation o f the CPS. The same document
+was also posted in the Bank’s Poland website for on-line consultations with interested population at
+large. The draft final CPS was also sent to the Government and posted on the W o r l d Bank‘s Poland
+website for comments prior to final internal review by the Bank’s management. A summary o f the
+consultations with civil society i s included in Annex 2; this summary has been discussed with the
+individuals and entities that participated in the consultations for accuracy and completeness.
+
+- 18-
+
+VII. Concluding Remarks
+68.
+This Strategy i s intended to provide a framework for working with Poland in the immediate
+period after EU accession in anticipation o f important decisions prior to the 2007-2013 EU financing
+cycle. A brief progress report will be presented to the Board by mid-2007 when the EU financing
+framework for 2007-20 13 i s confirmed.
+
+James D. Wolfensohn
+President
+
+By:
+Shengman Zhang
+Washington, D.C.
+March 9,2005
+
+- 19-
+
+Annex 1
+Page 1 o f 5
+
+Brief Description o f Activities Proposed for 2005
+Nonlending
+
+Health Reform Implementation. W o r k started in the spring o f 2004 at the time o f discussion and
+preparation o f the A c t o f 27 August 2004 on Health Care Services Financed from Public Funds.
+Following approval o f the act and i t s entry into force on October 1, 2004, work was focused on
+providing technical assistance to support the implementation o f the Health Financing Act, including
+necessary regulations, with specific focus in the following areas: (i)
+development o f the algorithm for
+division o f resources o f the NHF between the headquarters and the 16 regional branches; (ii)
+development o f provider payment mechanisms and rules for contracting; (iii)
+development o f the
+execution instruments for the draft Act o n Public Assistance and Restructuring o f Public Health Care
+Establishments; (iv) development and implementation o f the information technology system in health
+care, including the necessary oversight mechanisms at the Ministry o f Health; and (v) information and
+discussion o f issues related to monitoring doctors’ consultations.
+
+EU8 Public Finance Reform Cross-Country Study. W o r k started in November 2004 following
+consultations with the Ministers o f Finance o f the E U 8 countries, including Poland. The study will be
+multi-year and will focus o n selected priority areas with yearly deliverables. W o r k in each o f the
+selected areas would focus on drawing lessons from reforms both within the region and outside.
+Studies will be o f a comparative analytical nature, with detailed country information and identification
+o f reforms and initiatives which could serve as lessons for countries in the region. Findings will be
+discussed in a series o f workshops/seminars with country counterparts. The overview chapter o f each
+study reviewing fiscal developments, the current structure o f revenues and expenditures, medium to
+long-term fiscal prospects, and reform initiatives will be compiled into one final volume for each year
+as Issues in Public Finance Reform in Central Europe and the Baltic Countries. The key areas, as well
+as the first deliverables per area are: (i)
+Health Care - deliverable: health care financing; (ii)
+Education
+- deliverable: tertiary education financing; (iii)
+Social Insurance - deliverable: pension reforms; (iv)
+Fiscal Risks - deliverables: public-private partnership arrangements; (v) Public Administration
+Reform - deliverable: decentralization; and (vi) Tax Reform - deliverable: None.
+Implementation o f Recommendations o f the Country Financial Accountability Assessment
+(CFAA). This work i s a follow-up o f the C F A A w o r k started in September 2003 and sent to the
+Government in draft f o r m in June 2004. I t will consist o f a workshop t o discuss the action plan
+presented in the draft C F A A report and agreement o n i t s implementation and timing.
+The CFAA aims at providing updated information o n the arrangements for public sector financial
+accountability, and helping to develop a program for reforms and capacity building to improve
+transparency and accountability with respect to the use o f public funds. The draft report was discussed
+with the Ministries o f Finance and Economy. It was prepared following internal W o r l d Bank C F A A
+guidelines and it also used the intemational standards, codes and laws as a benchmark for Public
+Financial Management since EU financial regulations are relevant to Poland.
+It provided
+recommendations on: (i)public sector budgeting, including budget preparation, coverage and
+presentation; (ii)
+cash management; (iii)
+accounting and financial reporting; (iv) intemal control and
+intemal external audit and parliamentary; (v) state-owned-enterprises and the major extra-budgetary
+funds; (vi) sub-national governments; and (vii) capacity development in public financial management.
+
+Annex 1
+Page 2 o f 5
+
+Public Administration Improvement Program. Preliminary discussions on the project concept
+started in November 2004. The project would be implemented on a pilot basis at the Ministry o f
+Finance (MOF) with the aim o f supporting i t s change from a process oriented institution into a
+knowledge-based organization that would focus on: (i)
+becoming a center o f excellence for Poland; (ii)
+cost efficiency from the perspective o f development; (iii)
+managing performance; and (iv) client
+orientation. W o r k started in early 2005 and initial results are expected in the second quarter o f 2005.
+Work in this initial phase would consist primarily o f providing support to MOF for the development o f
+a reform strategy and agenda that can be implemented in a way likely to ensure that its underlying
+objectives will be achieved and that those impacts will be sustained beyond the period o f the reforms
+themselves.
+Policy Dialogue on the NDP 2007-13. Work started in November 2004 with the Bank participating
+as an observer in coordination meetings at the Ministry o f Economy and Labor. The Bank has also
+been requested to review: (i)
+the draft NDP; (ii)
+sector and regional strategies that feed into the N D P
+on-demand o f line ministries and local Governments; (iii)
+national regional policy; and (iv) national
+and regional operational programs.
+Energy Efficiency. The project will be implemented within the framework o f an ongoing Energy
+Sector Management Assistance Program (ESMAP) project. The project will investigate mechanisms
+to scale up investments in energy efficiency through financial intermediation tools. The Bank will
+discuss the preliminary results o f this project with the Ministry o f Economy and Labor in mid-2005,
+and, if the results are positive, investigate the opportunities to prepare a follow-up activity to
+implement the study’s recommendations.
+Policy Notes on Development of Financial Services. This work started in November 2004 with
+preliminary discussions with the N B P and other potential stakeholders. This work i s a follow-up to
+earlier work done in Poland on the business climate in general and financing o f the corporate sector in
+particular, and i t i s also complementary to ongoing work in updating the Accounting & Auditing and
+Corporate Governance modules o f the ROSC (see below), and in contract enforcement and obstacles
+to secured lending.
+Five policy notes are proposed, respectively to: (i)
+analyze use of, and demand for finance at the
+corporate level; (ii)
+formulate concrete proposals for overcoming the obstacles to the development of
+factoring as a key source o f short t e r m working capital for SMEs identified in previous Bank work on
+factoring in Poland; (iii)analyze successful corporate traded debt market development examples
+around the world and seek to identify the specific reasons (beyond Government crowding out) why
+such markets have not developed in Poland, with an emphasis on the insolvency framework, corporate
+governance and accounting & disclosure issues; (iv) infrastructure financing by the private financial
+sector with a focus on what successful models exist around the world for private infrastructure
+financing by the financial markets, including investment bank-led models such as the Macquarie bank
+model in Australia, and how they could be applicable to Poland; and (v) further development of
+mortgage finance markets in Poland identifying the critical remaining constraints (if any) to the
+functioning o f the primary mortgage market and proposing mechanisms to develop the secondary
+mortgage market through securitization o f mortgage loans and, as necessary, mortgage credit
+insurance or guarantee schemes.
+
+Annex 1
+Page 3 o f 5
+
+Update o f ROSC Modules on Corporate Governance and Accounting and Auditing. W o r k
+started in November 2004 with a review in the areas o f Accounting & Auditing and Corporate
+Governance within the ROSC initiative, a joint initiative o f the W o r l d Bank and Intemational
+Monetary Fund (IMF). The original ROSC reports in these t w o areas were prepared in 2002.
+Updating the t w o reports i s considered necessary, given the numerous changes in the Polish legal and
+regulatory framework for the financial markets which took place in preparation for EU accession, and
+also talung into account the need to encourage further development o f these markets through adoption
+o f intemational regulatory and supervisory best practices which would allow Poland to bridge the gap
+with other EU member states in this area.
+The ROSC Accounting and Auditing module: (i)evaluates a country’s accounting and auditing
+standards/practices, based on internationally recognized benchmarks, and (ii)makes policy
+recommendations to help i t bridge the gaps between current practices and those considered adequate.
+In the context of Poland’s accession to the EU, the update o f the ROSC Accounting and Auditing
+module will specifically assess Poland’s implementation and enforcement o f the related acquis
+communautaire, and propose recommendations for the Polish Government and market institutions
+within their respective regulatory domains. An IDF Grant for Accounting and Auditing Reform in
+Poland (see below) will draw o n the detailed recommendations o f the ROSC Accounting and Auditing
+review. Draft reports are expected to be available in January/February 2005. After consultations with
+the counterparts the W o r l d Bank will post the reports on its website.
+
+-
+
+IDF Grant for Accounting and Auditing Reform in Poland
+A US$500,000 IDF Grant was
+approved for implementation o f recommendations included in the 2002 Accounting and Auditing
+ROSC as well as in the most recent update (see above) in order t o meet fully the requirements o f the
+EU. W o r k should start in early 2005 and will be implemented within three years; it will focus on: (i)
+adoption and implementation o f International Standards o n Audit though practical/technical training,
+(ii)strengthening the audit profession through provision o f technical assistance to design a legal
+framework and assisting in the implementation o f a public oversight mechanism, technical assistance
+to review the quality assurance system o f the National Chamber o f Statutory Auditors, training and
+workshops, and (iii)education and training for accountants, auditors and regulators in the
+implementation of International Financial Reporting Standards
+Influence of the Legal System on the Financial Market in Poland. This work originated at the
+request o f the NBP following the findings o f the W o r l d Bank’s reports o n D o i n g Business in 2004 and
+in 2005, which identified registration o f property and contract enforcement as some o f the key
+constraints to a more favorable business environment in Poland. The a i m o f the report i s to identify
+the interrelations between the legal environment and the financial market in Poland by reviewing some
+typical contracts concluded between financial institutions and enterprises in Poland, e.g. investment
+loans, which were triggered by entering into some other contracts, e.g. sale o f goods. The work i s
+being conducted in collaboration with the EBRD, which i s responsible for a study o n different types o f
+collaterals used in contracts, e.g. registered pledge, mortgage, etc. A qualitative assessment o f the
+situation will be conducted by experts supported by empirical evidence and data. Interviews will be
+conducted with institutions and professions that play various roles in the general enforcement o f
+contracts. I t will be supplemented by focus group interviews with each o f six target groups: SME
+managers, practicing lawyers, lawyers working for financial firms, bailiffs, judges, and notaries. In
+order to ensure that the study has some empirical support, data necessary f o r the analyses o f legal and
+institutional infrastructure for the enforcement o f contract and property rights will be collected in
+cooperation with the Statistics Department at the Ministry o f Justice, the NBP and the various relevant
+
+Annex 1
+Page 4 o f 5
+
+professional associations. Work started in December 2004 and a draft report with preliminary findings
+will be available in April 2005 for discussion with counterpart officials. A final report should be
+available in late June 2005.
+
+EU8 Cross-country Study on Labor Markets. Work started in November 2004 following
+consultations with the Ministers o f Finance o f the EU8 countries, including Poland. The study will be
+multi-year on the role o f labor market institutions and outcomes in promoting economic growth and
+reducing poverty and social exclusion in the EU8 countries. I t s main objective i s to support the new
+EU member states in formulating well-targeted, evidence-based strategies for employment creation
+and social inclusion, in accordance with the guidelines and requirements o f the EU Treaty o f Lisbon.
+It proposes to do so by: (i)
+identifying the bottlenecks and labor market imperfections in the labor
+markets o f the new member states; (ii)
+quantifying the relative importance o f these factors in the
+different countries; (iii)
+highlighting typologies o f countries that share similar characteristics and
+pointing to cross-country differences; (iv) identifying outliers and best practices; and (v) making both
+country-specific and regional recommendations on priority policy levers that may enhance the labor
+market performance and growth prospects o f the EU8 countries.
+Lending
+
+Road Rehabilitation and Maintenance 11. This project i s the continuation o f the Road Rehabilitation
+and Maintenance project implemented during calendar year 2004. L i k e i t s predecessor, this project
+will continue improving the effectiveness o f Poland’s national road rehabilitation and maintenance
+systems by further increasing the percentage o f national roads in good condition, establishing reliable
+and stable funding for the national road maintenance and rehabilitation network, and supporting the
+modernization o f GDDKiA, by improving its capacity to operate efficiently and effectively. The
+project w i l l provide financing under pooling arrangements for road maintenance for which there are no
+EU funds available, and only limited other sources o f financing: The EUR 100 million loan would: (i)
+finance part o f the 2005 road maintenance budget from GDDKiA by pooling Bank resources (62
+percent) with the Government (32 percent) and EIB (6 percent); and (ii)continue supporting the
+modernization of GDDKiA, including possibly financing the development o f a management
+information system to enable the better performance o f GDDKiA in road management and financing,
+including through enhanced accounting, planning, and contract management. I t i s scheduled to be
+presented to the Board together with the CPS.
+Odra River Basin Flood Prevention. Preparation o f this work started in early 2004 during
+implementation o f the on-going Emergency Flood Recovery Project (EFRP). The project aims to
+eliminate the r i s k o f flooding for a population o f more than 2.5 million people living in several towns
+and rural settlements in three provinces in the Lower Silesia region through the construction of
+infrastructure as well as institutional capacity strengthening. Construction o f civil works includes: (i)
+a dry polder in Racib6rz; and (ii)
+improvement o f the Wroclaw Water Way. The institutional capacity
+strengthening component will continue with the work undertaken under the current project and will
+support better preparedness for emergencies through improvements in flood forecasting and
+management. This i s a EUR 500 million traditional investment project, and although the financing
+package has not yet been finalized, several partners will participate, including the Government, the EU
+Cohesion Funds, and the CEDB.
+Post Accession Rural Support. T h i s project focuses on improving social cohesion in small rural
+low-income gminas and supporting the reform o f KRUS. The specific aims o f the project are to
+
+Annex 1
+Page 5 o f 5
+
+enhance the capacity o f local governments to identify, plan, and execute social inclusion strategies,
+including developing better education management systems, to strengthen the administrative and
+analytic capacity of the KRUS during i t s reform process, to assist the ongoing decentralization o f local
+self-government and regional development.
+The enabling policy framework for the social inclusion focus i s the new Social Assistance Act which
+went into effect in January 2004 and the National Action Plan for Social Inclusion (2004). The latter
+outlines the principal challenges in relation to tackling poverty and social exclusion in Poland, and the
+preparation studies focus on a number o f these challenges in rural areas. Project preparation started in
+mid-2004, with the support o f a Japan Policy and Human Resources Development Fund (PHRD)
+Grant, and all o f the main preparation assignments have been initiated or are currently being tendered.
+
+Annex 2
+Page 1 o f 4
+
+Summary o f Public Consultations on the World Bank’s
+Country Partnership Strategy for Poland
+Consultations took place over a period o f six weeks in November and December 2004. T w o channels
+were used: internet and public meetings. In the first case, the World Bank’s Country Office placed
+Polish and English versions o f the draft CPS o n i t s web site and encouraged public feedback.
+Comments were received in November and December from individuals and institutions, ranging from
+website comments and emails to official letters. Public meetings were convened in Gdansk, Warsaw
+and Katowice from December 6-8, 2004.
+Ninety-four persons participated in these events,
+representing local authorities, c i v i l society organizations, academia, local businesses and the media.
+T w o additional consultations were conducted in Warsaw with representatives o f the Polish business
+community and youth on December 9 and 13, respectively, and attracted more than 25 participants of
+each o f the two constituencies.
+Public consultation meetings followed a two-part structure. The first part focused o n the W o r l d
+Bank’s assessment o f the current socio-economic situation in Poland and the m a i n challenges the
+country will face over the next three years. The second part analyzed the Bank’s assessment o f i t s role
+in supporting Poland’s future development and the proposed set o f projects and non-lending services.
+The meetings were conducted by external facilitators and participants received, before the meetings,
+Polish copies o f the presentations. The process yielded many useful ideas and suggestions regarding
+the World Bank’s future role and operations in Poland. The scope o f this note does not allow
+reporting o f each and every comment made by feedback providers. The note attempts to cluster the
+comments in groups around sectoral issues and, when possible, formulate recommendations for
+inclusion or modification in the CPS.
+In general, the Bank’s assessment o f the main social and economic challenges currently faced by
+Poland was considered correct. However, participants highlighted a number o f issues that were
+missing or insufficiently recognized in the CPS. These included:
+0
+housing and housing construction (including support for communal dwellings)
+0
+the role o f c i v i l society in the country’s development
+0
+the problem o f curbing corruption and the ”gray zone” (unregistered employment)
+0
+protection o f the natural environment
+0
+strengthening o f the judicial system and improvement o f the effectiveness o f courts.
+
+A number o f participants felt that the CPS was overly general in regard to many issues and argued
+that, unless they were elaborated, i t was difficult to take a clear stance o n some o f the
+recommendations. Moreover, it was felt that a three-year strategy o f an international organization
+operating in Poland should be well-embedded in the country’s long-term development strategy and the
+National Development Plan for 2007-201 3 that i s currently being formulated by the Government.
+Questions were also raised as to whether the CPS gives due consideration to the Millennium
+Development Goals and what exactly that would mean in the Polish context. Bank support for c i v i l
+society development was mentioned in many contexts. I t was felt that a viable non-profit sector i s an
+underutilized yet important means and goal o f the country’s development. By exercising control over
+public sector officials, a vibrant c i v i l society strengthens the efficiency o f the public sector and
+heightens the quality o f the resource allocation process. Civil society can also play a more active role
+in delivering social services and curbing unemployment.
+
+Annex 2
+Page 2 o f 4
+
+In regard to Bank operations in Poland, it was argued that the country now enjoys relatively easy
+access to commercial lending and, hence, the role o f the World Bank should be carefully defined
+based on the institution’s select comparative advantages over commercial banks and other
+intergovernmental development agencies. In this context, the requirement o f a government guarantee
+for World Bank loans was considered a hurdle. Moreover, the quality o f foreign consultants hired
+under Bank-supported operations was questioned. There i s also scope for using local consultants and
+utilizing Polish expertise in other countries o f the region. There are s t i l l too many cookie-cutter
+solutions originating from the “Washington consensus” although the approach o f the Bank has
+improved in this regard. Bank procedures are bureaucratic and the processing time o f loans needs to be
+shortened. The issue o f loan currency denomination was raised as well and a recommendation was
+that Bank loans for Poland be made in zloty. The country’s successful entry in the EU should improve
+its creditworthiness and loan conditions.
+Inregard to particular sectors, the following suggestions were made:
+Reform of the health care sector. Disagreement was expressed concerning the operations to improve
+the National Health Fund. There were voices o f sharp criticism regarding the NHF, describing i t as:
+“waste o f funds”, “repairing something which i s irreparable”, “a return to the Soviet model” and so
+forth. A number o f remedies were postulated such as elimination o f a single insurer and the
+introduction o f competition among private insurers, World Bank support for rebuilding the system o f
+financing health care, linking the financing o f health care reform w i t h tax system reform, introducing
+public-private partnerships in the operation o f the health care system, placing emphasis on disease
+prevention, and more analytical studies o f the sector (investment needs, treatment profiles, financial
+mechanisms).
+Educational reform. Efforts should be made to decentralize management o f education. The current
+educational system stifles innovation and vocational education does not exist. I t i s necessary to
+educate teachers to raise the quality o f educational staff. Unequal access to education for social and
+financial reasons must be counteracted.
+Hard coal mining reform. Problems concerning mining gave rise to heated discussions and some
+extreme positions were presented, such as: enough o f mining support, now (with the existing world
+demand for coal) i s the best time for privatizing mining, the coal era i s changing into the gas era and
+there i s no point in reactivating mining, funds should be shifted from mining restructuring to e.g.
+telecommunications. However, there were also views in favor o f further development o f the hard coal
+mining sector, proposing to stop the process of mine closures and placing more emphasis on
+modemizing them, retaining hard coal resources in times o f lower demand as the primary energy
+carrier in the future, adjusting the country’s coal extraction capacity to predicted demand, ceasing
+further employment downsizing in mining as it poses a threat to energy security o f the country.
+Questions were raised as to why the World Bank i s not investing in the development o f the sector but
+in i t s liquidation and why mining liquidation programs are not adequately discussed with the trade
+unions. It was argued that in view o f the EU environmental directives, coal-fired thermal energy
+generating entities will need to undertake significant technical modernization in pollution emission
+control. The modernization will require World Bank assistance.
+Road sector reform. The diagnosis o f the situation o f public roads in Poland i s correct. The main
+problem i s the lack of state assistance for public roads other than national roads. An important goal i s
+modernization o f the national roads management and the revamping o f the national road agency. The
+
+Annex 2
+Page 3 o f 4
+
+elimination o f delays in maintaining roads should be considered a national priority. Other priorities
+raised by the participants included connecting Polish roads t o the Transeuropean Road Network as
+well as addressing urgently the need for rehabilitating local roads. There i s a shortage o f funds for the
+construction o f access roads t o ports in GdaIisk and Szczecin.
+Railway reform. It i s necessary to privatize railway passenger services. A negative factor i s
+discrimination of other railway carriers in access t o PKP (Polish State Railways) infrastructure.
+Efforts should be made t o combine railway reform with EU programs.
+Unemployment. In the CPS’s diagnostic part, the poverty level of working people i s rated too
+optimistically. Support should be provided for investments to create new jobs, particularly for youth.
+An important goal i s the protection o f existing jobs. Unemployment calls for greater regulation o n the
+part o f the State and stronger emphasis o n the development of the non-profit sector and social
+economy. The process of economic restructuring should not raise unemployment. I t i s important to
+implement comprehensive programs o f occupational activation. An important factor i s lowering offpayroll labor costs.
+Legal reform. The main problem i s protraction o f court procedures (3-4 years) in economic cases and
+inequality between private and state entities in courts. Action should be taken t o improve enforcement
+o f economic contracts by legal measures. It i s necessary to analyze the scope o f responsibilities o f
+courts and the management o f courts. Legislative proceedings must be made more efficient.
+Development o f knowledge-based economy. There i s a need for significant investments in this area
+and for expanding on-line services. This should also help equalize opportunities for people living in
+the urban and rural areas. Training the elderly in using the Internet i s needed. While young people are
+quickly acquiring computer s k i l l s and can access information and knowledge thought the Internet, the
+elderly lag behind.
+Agricultural reform. Material and non-material resources should be used to raise the attractiveness
+and competitiveness o f rural areas. Rural gminas (communes) without adequate own funds have
+difficulties accessing available EU funds. I t was postulated that the WB extends i t s assistance directly
+to the gminas. The issue o f young people leaving farming i s o f key significance and should also be
+addressed.
+Administrative reform. Public administration should be characterized by the following: transparency,
+efficiency, accountability, and client-orientation. Local governments at the gmina and solectwo
+(village administrative unit) levels should be supported in order to strengthen public administration
+and to define i t s new responsibilities. Long-term planning should be introduced. Measuring the
+effectiveness o f public expenditures i s o f great significance. I t i s important to promote ethics and
+transparency in management and administration. L i k e the central government, the recruitment and
+performance assessment of c i v i l servants at a local level should be conducted in a transparent and
+professional manner. The government should enhance mechanisms o f social control o n local
+governments at the gmina and solectwo levels. I t was suggested that the WB provide more support for
+c i v i l society development. The Bank should also support polycentric regional development and the
+development o f metropolitan regions. Departure from support for the weakest regions, where social
+assistance i s needed, was postulated, with support being steered t o regions auguring w e l l for
+development.
+
+Annex 2
+Page 4 o f 4
+
+Improving the business environment. I t i s necessary to strengthen structures engaged in R&D o n the
+basis o f existing material resources. For example, patents are currently underused. Greater
+transparency of action between business and public administration i s needed. The principles of
+corporate governance for small and medium sized firms should be developed. I t i s important t o create
+guarantee funds for private business. An important factor is stability o f the legal regulations
+governing the relationship between private business and the banlung sector.
+
+Annex A2
+Page 1 o f 2
+
+Poland at a dance
+Europe 8.
+Central
+Asia
+Poland
+
+POVERTY and SOCIAL
+2003
+Population, mid-year (millions)
+GNI per capita (Atlas method, US$)
+GNI (Atlas method, US$ billions)
+
+Uppermiddleincome
+
+38.2
+5,170
+199.7
+
+476
+2,160
+1,030
+
+331
+5,040
+1,668
+
+-0.1
+0.4
+
+0.1
+0.4
+
+1.2
+1.8
+
+3/4/05
+
+I
+
+1 Development diamond’
+Life expectancy
+~
+
+Average annual growth, 1997-03
+Population (%)
+Labor force (%)
+Most recent estimate (latest year available, 1997-03)
+Poverty (% of population below national poverty line)
+Urban population (% of total population)
+Life expectancy at birth (years)
+Infant mortality (per 1,000 live births)
+Child malnutrition (% of children under 5)
+Access to an improved water source (“A of population)
+Illiteracy (% ofpopulation age 15+)
+Gross primary enrollment (% of school-age population)
+Male
+Female
+
+~
+
+18
+63
+74
+8
+
+63
+69
+25
+
+75
+73
+19
+
+97
+0
+100
+100
+99
+
+91
+3
+102
+103
+101
+
+90
+7
+105
+106
+105
+
+Gross
+primary
+nrollment
+
+per
+capita
+
+I
+
+I
+
+1
+Access to improved water source
+-Poland
+Upper-middle-incomegroup
+
+~
+
+KEY ECONOMIC RATIOS and LONG-TERM TRENDS
+1993
+
+2002
+
+2003
+
+GDP (US$ billions)
+Gross domestic investmenffGDP
+Exports of goods and services/GDP
+Gross domestic savingslGDP
+Gross national savirigs/GDP
+
+85.9
+15.6
+22.9
+16.5
+15.6
+
+191.3
+18.9
+29.7
+15.5
+16.3
+
+209.6
+18.9
+33.9
+16.3
+16.9
+
+Current account balance/GDP
+Interest payments/GDP
+Total debffGDP
+Total debt service/exports
+Present value of debffGDP
+Present value of debffexports
+
+-5.8
+1.o
+52.6
+
+-2.6
+1.2
+36.3
+
+-2.0
+1.2
+32.6
+
+2002
+
+2003
+
+2003-07
+
+4.4
+4.4
+10.9
+
+1.4
+1.5
+4.8
+
+3.8
+3.9
+13.0
+
+4.1
+4.2
+7.7
+
+1983
+
+4993
+
+2002
+
+2003
+
+534
+
+300
+174
+669
+
+304
+176
+6
+
+63 0
+20 4
+22 0
+
+190
+330
+
+185
+364
+
+1983
+
+(average annual growth)
+GDP
+GDP per capita
+Exports of goods and services
+
+1983-93 1993-03
+
+..
+..
+
+Economic ratios.
+Trade
+
+-
+
+__
+
+Domestic
+savings
+
+-
+
+Investment
+
+Indebtedness
+
+Poland
+
+~
+
+Upper-middle-income group
+
+STRUCTURE of the ECONOMY
+
+(“A of GDP)
+Agriculture
+Industry
+Manufacturing
+Services
+Private consumption
+General government consumption
+Imports of goods and services
+
+66
+40 0
+
+Growth of Investment and GDP (x)
+
+-
+
+GDI
+
+‘O-GDP
+
+(average annual growth)
+
+The diamonds show four key indicators in the country (in bold) compared with its income-group average. If data are missing, the diamond will
+be incomplete.
+
+Annex A2
+Paee 2 o f 2
+
+Poland
+
+7
+IPRICES and GOVERNMENT FINANCE
+Domestic prices
+(% change)
+Consumer prices
+Implicit GDP deflator
+~
+
+~
+
+Government finance
+(% of GDP, includes current grants)
+Current revenue
+Current budget balance
+Overall surplusldeficit
+
+]TRADE
+(US$ millions)
+Total exports (fob)
+Food and Live Animals
+Machinery and Transport Equipment
+Manufactures
+Total imports (cif)
+Food
+Fuel and energy
+Capital goods
+Export price index (1995=100)
+'Import price index (1995=100)
+ITerms of trade (1995=100)
+BALANCE of PAYMENTS
+
+1 (US$ millions)
+
+Exports of goods and services
+Imports of goods and services
+1 Resource balance
+
+1983
+
+1993
+
+2002
+
+2003
+
+..
+..
+
+35.3
+30.6
+
+1.9
+1.2
+
+0.8
+0.7
+
+..
+..
+,.
+
+53.3
+0.6
+-5.0
+
+37.5
+-3.9
+-6.3
+
+39.2
+-3.4
+-5.8
+
+1983
+
+1993
+
+2002
+
+2003
+
+14,143
+
+41,019
+2,968
+
+53,728
+4,084
+
+20
+
+..
+
+18,834
+1.838
+2,346
+
+34,865
+55,109
+2,752
+5,038
+8,187
+
+39,043
+68,177
+3,155
+6,206
+10,056
+
+..
+..
+
+..
+
+157
+148
+106
+
+86
+a5
+101
+
+a7
+91
+95
+
+1983
+
+1993
+
+2002
+
+2003
+
+..
+
+15,455
+17,561
+-2,106
+
+56,777
+63,177
+-6,400
+
+72,173
+77,379
+-5,206
+
+..
+..
+
+..
+
+..
+
+Net income
+,Net current transfers
+
+..
+
+-3,394
+483
+
+-1,887
+3,280
+
+-3,112
+4,233
+
+Current account balance
+
+..
+..
+
+-5,017
+
+-5,007
+
+-4,085
+
+3,879
+1.138
+
+5,642
+-635
+
+5,280
+-1,195
+
+..
+
+..
+
+4,281
+1.8
+
+29,794
+4.1
+
+34,168
+3.9
+
+1983
+
+1993
+
+2002
+
+2003
+
+ITotal debt outstanding and disbursed
+IBRD
+IDA
+
+..
+
+45,176
+1,073
+0
+
+69,521
+2,385
+0
+
+68,275
+2,453
+
+'Total debt service
+IBRD
+IDA
+
+..
+
+1,695
+64
+0
+
+13,489
+312
+0
+
+912
+176
+44
+1,715
+400
+
+-1,068
+1,774
+0
+0
+
+1,046
+317
+0
+317
+64
+253
+
+15
+172
+206
+-33
+106
+-140
+
+1
+
+'Financing items (net)
+iChanges in net reserves
+Memo:
+Reserves including gold (US$ millions)
+Conversion rate (DEC, local/US$)
+
+'EXTERNAL DEBT and RESOURCE FLOWS
+
+i
+
+US$ m///ions)
+
+1
+
+1
+
+Composition of net resource flows
+Official grants
+Official creditors
+Private creditors
+Foreign direct investment
+Portfolio equity
+
+/World Bank program
+j Commitments
+Disbursements
+Principal repayments
+
+..
+
+..
+
+..
+
+..
+
+..
+.,
+
+..
+
+..
+..
+..
+..
+
+-
+
+I
+
+Inflation (%)
+
+-
+
+99
+
+98
+
+-GDP
+
+01
+
+00
+
+defiator
+
+02
+
+03
+
++CPI
+
+I
+
+Export and import levels (US$ mill.)
+
+-
+
+I80 000
+'70 000 -
+
+50 000 -
+
+,BO 000
+
+97
+
+98
+
+99
+
+00
+
+01
+
+02
+
+03
+
+I
+
+I
+
+Current account balance to GDP ( O h )
+
+-8 -
+
+' Composition of
+
+2003 debt (US$ mill.)
+
+0
+
+374
+0
+
+0
+
+112
+275
+-163
+99
+-262
+
+A - IBRD
+B - IDA
+C .IMF
+
+D Other multilateral
+~
+
+E - Bilateral
+F - Pnvate
+G -Short-term
+
+I
+
+1 Development Economics
+
+3/4/05
+
+Annex B2
+Page 1 o f 1
+
+Selected Indicators* o f Bank Portfolio Performance and Management
+As of March 1,2005
+
+Indicator
+
+2002
+
+2003
+
+2004
+
+2005
+
+Portfolio Assessment
+Number o f Projects Under Implementation a
+Average ImplementationPeriod (years) b
+Percent of Problem Projects by Number a, c
+Percent of Problem Projects by Amount a, c
+Percent o f Projects at Risk by Number a, d
+Percent of Projects at Risk by Amount a, d
+Disbursement Ratio (%) e
+
+12
+4.2
+8.3
+14.6
+8.3
+14.6
+29.8
+
+11
+5.3
+9. I
+15.6
+9.1
+15.6
+30.5
+
+10
+4.4
+20.0
+6.6
+20.0
+6.6
+40.4
+
+11
+3.8
+0.0
+0.0
+0.0
+0.0
+67.0
+
+no
+1,200
+100
+
+no
+852
+77
+
+no
+740
+74
+
+910
+78
+
+Portfolio Management
+CPPR during the year (yesho)
+Supervision Resources (total US$)
+Average Supervision (US$/project)
+
+Memorandum Item
+Proj Eval by OED by Number
+Proj Eval by OED by Amt (US$ millions)
+% o f OED Projects Rated U or HU by Number
+% of OED Projects Rated U or HU by Amt
+
+Since FY 80 Last Five FYs
+30
+10
+3,275.0
+742.8
+20.0
+10.0
+12.7
+0.5
+
+a.
+b.
+c.
+d.
+
+As shown in the Annual Report on Portfolio Performance (except for current FY).
+Average age of projects in the Bank's country portfolio.
+Percent of projects rated U or HU on development objectives (DO) and/or implementation progress (IP).
+As defined under the Portfolio ImprovementProgram.
+e. Ratio o f disbursements during the year to the undisbursed balance of the Bank's portfolio at the
+beginning of the year: Investment projects only.
+* All indicators are for projects active in the Portfolio, with the exception of Disbursement Ratio,
+which includes all active projects as well as projects which exited during the fiscal year.
+
+no
+
+Annex B3
+Page 1 o f 2
+
+IBRD Program Summary
+As of M a r c h 1,2005
+Proposed IBRD Lending Program
+Fiscal
+year
+
+Strategic
+P r o j ID
+
+2005
+
+Hard Coal Mine Closure 1/
+Road Maintenance and Rehabilitation I1
+Subtotal
+
+2006
+
+Road Maintenance and Rehabilitation I1121
+Post-Accession Rural Support
+Odra River Basin Flood Protection 2/
+Subtotal
+
+uS$(M)
+
+Rewards
+(H/M/L)
+
+Implementation ‘I
+Risks (HIM//)
+
+100.0
+130.5
+230.5
+
+H
+H
+
+H
+H
+
+195.0
+65.0
+130-190
+390-450
+
+H
+H
+H
+
+H
+M
+L
+
+a. For each project, indicate whether the strategic rewards and implementation risks are expected to be
+High (H), Moderate (M) or Low (L).
+l / Approved on July 1,2004. Operation was included in the previous CAS.
+2/ These projects are indicative and will be finalized during discussions for the 2006 annual business plan.
+
+Annex B3
+Page 2 o f 2
+
+IFC & MIGA Program, FY2002-2005
+
+IFC approvals (US$m)
+
+2002
+
+2003
+
+2004
+
+0.00
+
+45.82
+
+47.56
+
+2005
+
+Sector (YO)
+Pulp & Paper
+Wholesale and Retai
+Total
+
+100
+
+100
+
+100
+100
+
+100
+
+100
+
+0
+
+100
+
+100
+
+0.00
+
+0.00
+
+0.00
+
+0
+
+0
+
+Investment instrument(%)
+Loans
+Equity
+Quasi-Equity
+Other
+Total
+
+MIGA guarantees (US$m)
+
+0
+
+Annex B4
+Page 1 o f 1
+
+Summary of Nonlending Services
+As o f March 1,2005
+
+Product
+Recent completions
+Knowledge Economy Assessment
+Living Standards Assessment
+Cities o f Change
+Pensions in Multipillar System
+Factoring Conference
+Investment Climate Assessment
+Anticorruption Policy Dialogue (ESW)
+Country Financial Accountability Assessment
+Audit Review T A
+Regional Policy Review
+Underway and Planned
+EU8 Cross-countryPublic Finance Reform
+EU8 Quarterly Economic Reports
+Health Reform Implementation
+Railway Reform Implementation policy dial
+Public Administration ImprovementProgram
+IDF Accounting and Auditing Reform
+ROSC Updates (Corporate Governance and Accounting & Auditing Modules)
+Influence o f the Legal System on the Financial Market in Poland
+NDP 2007-13 policy dialogue
+Financial Savices Policy Notes
+Public Environmental Financing
+Energy Efficiency
+Renewable Energy
+Energy Policy Dialogue
+PPPs for Roads
+EU8 Cross-countryLabor Market
+CGE Model Building
+a. Government, donor, Bank, public dissemination.
+b. Knowledge generation, public debate, problem-solving.
+
+Completion FY
+
+Audience
+
+Objective
+
+K
+WPD
+
+04
+
+GIP
+GIP
+GiP
+G
+GIPD
+GIP
+GIP
+GIDIB
+G
+GIP
+
+05-06
+05-06
+05-06
+05-06
+05-06
+05-06
+05
+05
+05-06
+05
+05-06
+05
+06
+05-06
+05-06
+05-06
+05-06
+
+G,B
+GIDIB
+G,B
+G
+G,B
+GIDIB
+GIDIB
+GIDIB
+G,B
+G,B
+GP
+DIPD
+DIPD
+DPD
+GIDIB
+GIDIB
+G,B
+
+04
+04
+04
+04
+04
+
+04
+04
+04
+
+04
+
+KITS
+PS
+
+W PS
+W PSI PD
+WPD
+
+WPS
+
+PS
+WPD
+
+K, PS
+
+WPS
+K, PS
+K, PS
+K, PS
+WPS
+WPS
+WPS
+K, PS
+K, PS
+K, PS
+PS
+PS
+PS
+WPS
+WPS
+K, PS
+
+Annex B5
+Page 1 o f 1
+
+Poverty and Social Development Indicators
+Europe &
+Central
+Asia
+
+Poland
+POPULATION
+Total population, mid year (millions)
+Population growth (annual %)
+
+Urban population (% of total)
+Fertility rate, total (births per woman)
+
+Uppermiddleincome
+
+zoo0
+
+1975
+
+1985
+
+1995
+
+2000
+
+2002
+
+34.0
+0.98
+55.4
+2.3
+
+37.2
+0.78
+59.3
+2.3
+
+38.6
+0.11
+61.3
+1.6
+
+38.6
+-0.03
+61.7
+1.3
+
+38.2
+-0.04
+61.8
+1.3
+
+474.9
+0.06
+63.2
+1.6
+
+322.0
+1.22
+74.8
+2.5
+
+0.1
+
+0.3
+0.4
+
+2,890
+100.0
+100.0
+
+4,440
+182.1
+162.2
+
+4,670
+195.7
+168.9
+
+2,030
+
+5,190
+
+POVERTY
+(% ofpopulation)
+National headcount index
+Urban headcount index
+Rural headcount index
+INCOME
+
+GNI per capita, Atlas method (current US$)
+Consumer price index (1995 = 100)
+Food price index (1995 = 100)
+
+..
+
+INCOME/CONSUMPTIONDISTRIBUTION
+GIN1 index
+Income share held b y lowest quintile
+Income share held b y highest quintile
+SOCIAL INDICATORS
+Public expenditure
+Health (% o f GDP)
+Education (% o f GDP)
+Social security and welfare (% o f GDP)
+Net primary school enrollment rate
+(% of age group)
+Total
+Male
+Female
+Access to an improved water source
+(3‘3’ ofpopirlation with access)
+Total
+Urban
+Rural
+Immunizationrate
+(96 of children nges 12-23 months)
+Measles
+DPT
+Child malnutrition (% under 5 years)
+Life expectancy at birth
+(Years)
+
+Total
+Male
+Female
+Mortality
+Infant (per 1,000 live births)
+under-5 (per 1,000)
+Adult (15-59)
+Male (per 1,000 male adults)
+Female (per 1,000 female adults)
+
+Maternal mortality ratio (per 100,000 live binhs)
+Births attendedby skilled health staff ( X of total)
+
+*) 1999 data
+
+Source: SIMA on-line W D I Database
+
+31.6* ..
+7.3* ..
+42.5* ._
+
+4.70
+
+96.5
+96.5
+96.4
+
+71
+67
+74
+
+217
+101
+
+4.85
+19.91
+
+4.20 ..
+5.05 ..
+17.40 ..
+
+4.25
+4.29*
+
+97.7 ..
+97.6 ..
+97.8 ..
+
+99.4 ..
+99.7 ..
+99.0 ..
+
+3.53
+4.38
+
+93.2
+93.0
+93.5
+91 ._
+96 ..
+82
+
+77
+
+92
+94
+
+96
+96
+
+97
+98
+
+98
+99
+
+94
+93
+
+89
+91
+
+71
+67
+75
+
+72
+68
+76
+
+73
+69
+78
+
+74
+70
+78
+
+68
+64
+73
+
+73
+70
+16
+
+14
+15
+
+9
+9
+
+8
+9
+
+32
+38
+
+20
+23
+
+250
+94
+
+226
+88
+13
+
+317
+137
+58
+
+197
+103
+67
+
+254
+105
+
+..
+..
+..
+
+Annex B6
+Page 1 o f 2
+
+Key Economic Indicators
+
+Indicator
+National accounts (as YOof GDP)
+Gross domestic product”
+Agriculture
+Industry
+Services
+
+2000
+
+2001
+
+2002
+
+2003
+
+Estimate
+
+2004
+
+Projected
+
+2005
+
+2006
+
+2007
+
+100
+4
+33
+63
+
+100
+4
+31
+65
+
+100
+3
+30
+67
+
+100
+3
+30
+67
+
+100
+3
+30
+67
+
+100
+3
+30
+68
+
+100
+3
+29
+68
+
+100
+2
+29
+68
+
+Total Consumption
+Gross domestic fixed investment
+
+82
+24
+3
+21
+
+83
+21
+3
+18
+
+84
+19
+3
+16
+
+84
+18
+3
+15
+
+82
+18
+3
+15
+
+81
+19
+3
+15
+
+81
+19
+3
+15
+
+81
+19
+3
+16
+
+Exports (GNFS)b
+Imports (GNFS)
+
+28
+34
+
+28
+31
+
+30
+33
+
+34
+36
+
+39
+41
+
+40
+41
+
+40
+40
+
+40
+41
+
+Gross domestic savings
+Gross national savings‘
+
+18
+19
+
+17
+18
+
+16
+16
+
+16
+17
+
+18
+18
+
+19
+19
+
+19
+19
+
+19
+20
+
+166548
+
+185787
+
+191310
+
+209563
+
+242247
+
+294972
+
+321711
+
+349840
+
+Real annual growth rates (“A)
+Gross domestic product at market prices
+Gross Domestic Income
+
+4.0
+2.5
+
+1.o
+1.o
+
+1.4
+1.3
+
+3.7
+3.4
+
+5.4
+5.4
+
+5.0
+5.0
+
+4.8
+4.8
+
+5.6
+5.6
+
+Real annual per capita growth rates (“A)
+Gross domestic product at market prices
+Total consumption
+Private consumption
+
+3.9
+2.8
+3.1
+
+1.0
+1.7
+1.8
+
+2.5
+2.7
+3.3
+
+3.8
+2.4
+3.1
+
+5.5
+2.8
+3.2
+
+5.1
+3.3
+3.8
+
+4.9
+3.7
+4.2
+
+5.7
+4.3
+4.9
+
+46289
+35902
+57204
+482 10
+-10915
+2380
+-9998
+
+51419
+4 1664
+58275
+49324
+-6856
+2889
+-5357
+
+56777
+46742
+63 177
+53991
+-6400
+3280
+-5007
+
+72173
+6 1007
+77379
+66732
+-5206
+4233
+-4085
+
+92475
+80337
+96708
+84352
+-4233
+2300
+-362 1
+
+101169
+88486
+107757
+93761
+-6589
+2800
+-6784
+
+109550
+95935
+118234
+103467
+-8684
+3300
+-965 1
+
+121301
+107032
+133038
+117013
+-1 1738
+3300
+-12594
+
+9358
+1379
+-456
+1835
+-121
+-618
+
+5624
+2263
+-4130
+6393
+-2967
+437
+
+4361
+1218
+-1068
+2285
+63
+-635
+
+461 1
+307 1
+-1810
+4881
+-2402
+-1 195
+
+5633
+2014
+64
+1950
+3200
+-1208
+
+6000
+-5336
+-1210
+-4126
+2700
+-540
+
+7000
+-5964
+-2202
+-3762
+2200
+-34
+
+7500
+-4372
+-3128
+-1245
+2200
+2120
+
+-6.6
+
+-3.7
+
+-3.3
+
+-2.5
+
+-1.6
+
+-2.3
+
+-3.0
+
+-3.6
+
+Government investment
+Private investment
+
+Memorandum items
+Gross domestic product
+(US$ million at current prices)
+GNF’ per capita (US$, Atlas method)
+
+Balance o f Payments (US%millions)
+E X ~ O ~(GNFS)~
+~ S
+
+Merchandise F O B
+Imports (GNFS)~
+Merchandise F O B
+Resource balance
+Net current transfers
+Current account balance
+Net private foreign direct investment
+Long-term loans (net)
+Official
+Private
+Other capital (net, incl. errors & o d s s i o n s )
+Change in reservesd
+Memorandum items
+Resource balance (% of GDP)
+Real annual growth rates
+Merchandise exports (FOB)
+Primary
+Manufactures
+Merchandise imports (CIF)
+
+Annex B6
+Page 2 o f 2
+
+Key Economic Indicators
+(Continued)
+
+Indicator
+Public finance (as YOof GDP at market prices)e
+Current revenues
+Current expenditures
+Current account surplus (+) or deficit (-)
+Capital expenditure
+Foreign financing
+Monetary indicators
+M2/GDP
+Growth o f M2 ("7)
+Private sector credit growth /
+total credit growth ("7)
+Price indices( yR02 =loo)
+Merchandise export price index
+Merchandise import price index
+Merchandise terms oftrade index
+Real exchange rate (US$/LCVf
+Real interest rates
+Consumer price index (% change)
+GDP deflator (% change)
+
+2000
+
+2001
+
+2002
+
+2003
+
+Estimate
+2004
+
+Projected
+2005
+2006
+
+2007
+
+42.1
+40.3
+1.8
+2.9
+-1.2
+
+42.2
+43.3
+-1.1
+3.1
+-2.9
+
+42.3
+43.1
+-0.7
+3.2
+0.4
+
+43.3
+44.2
+-0.9
+3.4
+0.7
+
+42.8
+44.5
+-1.7
+4.1
+0.4
+
+44.1
+44.2
+-0.1
+4.2
+-0.3
+
+44.4
+43.7
+0.7
+4.3
+0.0
+
+43.6
+42.2
+1.4
+4.0
+-0.5
+
+41.5
+11.8
+73.2
+
+43.2
+9.2
+78.2
+
+41.0
+-2.4
+275.3
+
+41.4
+5.5
+
+42.1
+9.8
+
+42.9
+9.5
+
+43.6
+9.3
+
+44.4
+9.0
+
+121.3
+
+138.0
+
+133.6
+
+120.5
+
+130.0
+
+131.0
+
+132.0
+
+133.0
+
+10.1
+6.7
+
+5.5
+4.0
+
+1.9
+1.2
+
+0.8
+0.7
+
+3.5
+2.6
+
+3.0
+2.7
+
+2.7
+2.5
+
+2.5
+2.4
+
+a. GDP at factor cost
+b. "GNFS" denotes "goods and nonfactor services."
+c. Includes net unrequited transfers excluding official capital grants.
+d. Includes use o f IMF resources.
+e. Consolidated General Govemment, ESA95 methodology
+f. "LCU' denotes "local currency units." An increase in US$/LCU denotes appreciation
+
+Annex B7
+Page 1 o f 1
+
+Key Exposure Indicators
+
+Indicator
+Total debt outstanding and
+
+1999
+
+Actual
+2000
+2001
+
+60671 63259
+
+Estimate(
+2003
+2004
+
+2002
+
+63275
+
+69521
+
+68275
+
+Projected
+2005
+2006
+
+72260 73715
+
+2007
+
+68392
+
+63158
+
+disbursed (TDO) (US$m)a
+Net disbursements (US$m)a
+
+1741
+
+3522
+
+999
+
+2624
+
+2094
+
+2152
+
+1344
+
+949
+
+825
+
+Total debt service (TDS)
+
+8374
+
+10233
+
+15382
+
+13489
+
+9633
+
+9512
+
+9659
+
+10787
+
+11924
+
+150.7
+36.9
+20.8
+12.0
+
+130.3
+38.0
+
+118.4
+36.3
+23.0
+9.5
+
+91.6
+
+77.7
+
+72.9
+
+21.1
+10.7
+
+117.1
+34.1
+28.5
+9.8
+
+32.5
+13.0
+8.7
+
+31.0
+10.1
+7.2
+
+29.2
+9.4
+6.6
+
+68.1
+27.3
+10.6
+5.7
+
+63.5
+25.6
+12.0
+4.1
+
+14.9
+14.9
+
+9.4
+9.4
+
+5.2
+5.2
+
+8.4
+8.4
+
+11.1
+11.1
+
+9.3
+9.7
+
+8.8
+9.9
+
+7.3
+8.9
+
+7.4
+9.8
+
+(US$mIa
+Debt and debt service indicators
+
+(%I
+
+TDO~XGS~
+TDOiGDP
+TDSiXGS
+ConcessionaliTDO
+
+IBRD exposure indicators (%)
+IBRD DS/public DS
+Preferred creditor DSipublic
+
+DS (%)'
+IBRD DSiXGS
+IBRD TDO (US$mld
+
+0.8
+2185
+
+0.7
+2229
+
+0.6
+2211
+
+0.5
+2385
+
+0.5
+
+0.4
+
+0.4
+
+0.4
+
+0.4
+
+2453
+
+1912
+
+1992
+
+2134
+
+2300
+
+O f which present value o f
+guarantees (US$m)
+Share o f IBRD portfolio (%)
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+IDA TDO (USSmld
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+IFC (US$m)
+Loans
+Equity and quasi-equity i c
+MIGA
+MIGA guarantees (USSm)
+
+a. Includes public and publicly guaranteed debt, private nonguaranteed, use o f IMF credits and net short-
+
+term capital.
+b. "XGS" denotes exports o f goods and services, including workers' remittances.
+c. Preferred creditors are defined as IBRD, IDA, the regional multilateral development banks, the IMF, and the
+Bank for Intemational Settlements.
+d. Includes present value o f guarantees.
+e. Includes equity and quasi-equity types o f both loan and equity instruments.
+
+Annex B8
+Page 1 o f 2
+
+Operations Portfolio (IBRD & Grants)
+As of March 1,2005
+
+Closed Projects
+IBRD/IDA *
+Total Disbursed (Active)
+o f which has been repaid
+Total Disbursed (Closed)
+of which has been repaid
+Total Disbursed(Active + Closed)
+o f which has been repaid
+Total Undisbursed(Active)
+Total Undisbursed(Closed)
+Total Undisbursed(Active + Closed)
+
+32
+
+1,014.39
+108.70
+3,397.63
+2,670.13
+4,4 12.02
+2,778.84
+247.70
+28.99
+276.69
+
+Difference Between
+Expected and Actual
+
+Last PSR
+Supervision
+Rating
+
+Project Kame
+
+Prqiect ID
+
+Bielsko-Biala Water
+Flood Emergency
+Roads I1
+Rural Development
+Krakow Energy Efficiency
+Rail Restructuring
+Seaway Port Modemization
+Hard Coal Social Mitigation I
+Road Maintenance & Rehabilitation
+Coal Mine Closure
+Energy Efficiency (GEF)
+Overall Result
+
+PO08595
+PO53796
+PO08593
+PO58202
+PO65059
+PO40795
+PO086 15
+PO665 12
+PO78 170
+PO83093
+PO70246
+
+--
+
+Original Amount in
+US%Millions
+
+DO
+
+IP
+
+FY
+
+IBRD
+
+HS
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+
+HS
+
+1996
+1998
+1998
+2000
+2001
+2001
+200 1
+2004
+2004
+200s
+200s
+
+21.5
+200.0
+300.0
+120.0
+15.0
+101.0
+38.5
+200.0
+126.0
+100.0
+
+S
+
+S
+S
+S
+S
+S
+S
+
+S
+S
+S
+
+1,222.0
+
+Disbursements
+
+GRANT
+
+Undisb.
+
+11.0
+11.0
+
+2.5
+16.1
+17.2
+10.3
+12.8
+0.2
+17.0
+51.0
+9.0
+111.5
+11.0
+258.7
+
+Orig. Frm Rev'd
+
+4.54
+16.14
+9.61
+-1.05
+7.30
+-0.81
+8.88
+-133.43
+4.98
+0.29
+0.10
+-83.46
+
+1.58
+16.14
+9.61
+-8.45
+
+18.89
+
+Annex B8
+Page 2 o f 2
+
+Statement of IFC's Held and Disbursed Portfolio
+As of January 31,2005
+(In US Dollars Millions)
+
+Held
+FY Approval
+
+Company
+1996 Baltic Malt
+1997 CPF
+1999 ESCO Polska
+1998 Global Hotels
+1995/97/98/00/03/04Intercell
+1993 PEF-Poland
+1994/1996 Peters
+1993 Pilkington
+2004 Schwarz Group
+Total Portfolio:
+
+Loan
+Equity
+0.00
+0.00
+0.00
+1.60
+0.00
+0.21
+4.35
+0.00
+54.43
+3.69
+0.00
+1.50
+0.40
+0.00
+2.55
+0.00
+54.43
+0.00
+116.16
+7.01
+
+Disbursed
+
+Quasi
+1.96
+0.00
+0.00
+5.84
+0.00
+0.00
+0.00
+0.00
+0.00
+7.80
+
+Partic
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+
+ADDrovals Pending commitment
+
+Loan
+2003 Intercell-Expan.
+Total Pending Commitment:
+
+Equity
+
+Quasi
+
+Partic
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+Loan
+Equity
+0.00
+0.00
+0.00
+1.50
+0.00
+0.21
+0.00
+0.00
+0.00
+3.69
+1.50
+0.00
+0.40
+0.00
+2.55
+0.00
+54.43
+0.00
+57.38
+6.91
+
+Quasi
+1.87
+0.00
+0.00
+3.64
+0.00
+0.00
+0.00
+0.00
+0.00
+5.51
+
+Partic
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+
+E
+
+P
+
+e
+
+E
+
+_.
+
+w
+
+6z
+
+M
+E
+
+a
+B
+
+c;l
+
+e
+
+8
+e,
+
+s
+
+.-E
+
+e
+
+0
+.*
+
+5>
+
+k
+
+-0
+0
+0
+
+c:
+
+.E
+
+O
+
+L
+
+T> m
+m
+B?
+
+E 2
+
+3
+
+

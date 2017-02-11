@@ -1,0 +1,2546 @@
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+
+Document of 
+The World Bank 
+
+FOR OFFICIAL USE ONLY 
+
+Report No. 103098-CM 
+
+REPUBLIC OF CAMEROON 
+
+PRIORITIES FOR ENDING POVERTY AND BOOSTING 
+SHARED PROSPERITY 
+
+SYSTEMATIC COUNTRY DIAGNOSTIC 
+
+June 20, 2016 
+
+International Development Association 
+Country Department AFCW3 
+Africa Region 
+
+International Finance Corporation 
+Sub-Saharan Africa Department 
+
+Multilateral Investment Guarantee Agency 
+Sub-Saharan Africa Department 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Republic of Cameroon — Government Fiscal Year 
+January 1 – December 31 
+
+Currency Equivalents 
+(Exchange Rate Effective as of June 2016) 
+
+Currency Unit 
+US$1.00 
+
+= 
+= 
+
+CFA Franc 
+FCFA 581 
+
+ACLED 
+AICD 
+ARMP 
+
+BEAC 
+BIMA 
+BIR 
+CAMAIR-CO 
+CAMRAIL 
+CAMTEL 
+CAMWATER 
+CAR 
+CDE 
+CEM 
+CEMAC 
+
+CET 
+CNC 
+
+CONAC 
+
+CONFEMEN 
+
+CONSUPE 
+CPDM 
+CPIA 
+CSO 
+CTS 
+
+Abbreviations and Acronyms 
+
+Armed Conflict Location and Event Data Project 
+Africa Infrastructure Country Diagnostic 
+Agence de Régulation des Marchés Publics (Public Procurement 
+Agency) 
+Banque des Etats de l’Afrique Centrale (Bank of Central African States) 
+Brigade d'Infanterie de Marine (Infantry and Motorized Brigade) 
+Brigade des Interventions Rapides (Rapid Response Brigade) 
+Cameroon Airlines Corporation 
+Cameroon Railway Corporation  
+Cameroon Telecommunications Corporation 
+Cameroon Water Utilities Corporation 
+Central African Republic 
+Camerounaise des Eaux (Cameroon Water) 
+Country Economic Memorandum 
+Communauté Economique et Monétaire de l’Afrique Centrale (Central 
+African Economic and Monetary Community) 
+Common External Tariff 
+Commission Nationale de la Concurrence (National Competition 
+Committee) 
+Comité National Anti Corruption (National Anti-corruption 
+Commission) 
+Conférence des Ministres de l’Education des Etats et Gouvernements de 
+la Francophonie (Conference of Ministers of Education from 
+francophone States and Governments) 
+Contrôle supérieur de l'Etat (Ministry of State Oversight) 
+Cameroon People’s Democratic Movement 
+Country Policy and Institutional Assessment  
+Civil Society Organizations 
+Comité Technique de Suivi (Technical Monitoring Committee) 
+
+ii 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DHS 
+DSCE 
+
+ECAM 
+
+EEIS 
+
+FAO 
+FDI 
+FDPC 
+
+FY 
+GDP 
+GPI 
+HIPC 
+HIV/AIDS 
+IBRD 
+ICF International 
+ICG 
+ICT 
+IDA 
+IDPs 
+IITA 
+INS 
+
+Demographic and Health Survey 
+Document de Stratégie pour la Croissance et l’Emploi (Growth and 
+Employment Strategy Document) 
+Enquête Camerounaise Auprès des Ménages (Cameroon Household 
+Survey) 
+Enquête sur l'Emploi et le Secteur Informel Survey (Employment and 
+Informal Sector Survey) 
+Food and Agriculture Organization 
+Foreign Direct Investment 
+Front Démocratique du Peuple Centrafricain (Democratic Front of the 
+Central African People) 
+Fonds d'Equipement et d'Intervention Communale (Capital Development 
+and Communal Action Fund) 
+Fiscal Year 
+Gross Domestic Product 
+Gender Parity Index 
+Heavily Indebted Poor Countries 
+Human Immunodeficiency Virus/Acquired Immunodeficiency Syndrome 
+International Bank for Reconstruction and Development 
+Inner City Fund International 
+International Crisis Group 
+Information and Communications Technology 
+International Development Association 
+Internally Displaced Persons 
+International Institute of Tropical Agriculture 
+Institut National de la Statistique du Cameroun (National Statistical 
+Institute of Cameroon) 
+MDG 
+Millennium Development Goal 
+MFI 
+Micro Finance Institution 
+MICS 
+Multiple Indicator Cluster Surveys 
+MINCOMMERCE Ministry of Commerce 
+MINEDUB 
+Ministère de l'Education de Base (Ministry of Basic Education) 
+MINEE 
+Ministère de l'Eau et de l'Energie (Ministry of Water and Energy)  
+Ministère de l'Economie, de la Planification et de l'Aménagement du 
+MINEPAT 
+Territoire (Ministry of Economy, Planning and Regional Development) 
+Ministère des Finance (Ministry of Finance) 
+Ministère des Travaux Publics (Ministry of PublicWorks) 
+Memorandum of Understanding 
+Non-Governmental Organization 
+Organisation for Economic Co-operation and Development 
+Organisation pour l'Harmonisation en Afrique du Droit des Affaires 
+(Organization for the Harmonization of Business Law in Africa)  
+Organisation des Producteurs de Coton du Cameroun (Organization of 
+Cotton Producers in Cameroon) 
+Programme d’Analyse des Systèmes Educatifs de la CONFEMEN 
+(Analysis Program of the CONFEMEN Education Systems) 
+
+MINFI 
+MINTP 
+MOU 
+NGO 
+OECD 
+OHADA 
+
+FECOM 
+
+OPCC 
+
+PASEC 
+
+iii 
+
+ 
+PEFA 
+PBF 
+PFM 
+PIB 
+PPP 
+PPPs 
+PROBMIS 
+PRSP 
+SCD 
+SIC 
+SIF 
+SIGIPES 
+
+SMEs 
+SODECOTON 
+
+SOEs 
+SSA 
+TFP 
+TVET 
+UN 
+UNHCR 
+WACS 
+WDI  
+WDR 
+WTO 
+
+Public Expenditure and Financial Accountability  
+Performance Based Financing 
+Public Financial Management 
+Public Investment Budget 
+Purchasing Power Parity 
+Public-Private Partnerships 
+Program Budget Management Information System 
+Poverty Reduction Strategy Paper 
+Systematic Country Diagnostic 
+Société Immobilière du Cameroun (Real Estate Company of Cameroon) 
+Strategic Investment Fund 
+Système Informatique de Gestion Intégré des Personnels de l'Etat et de la 
+Solde (Integrated HR/Payroll system) 
+Small and Medium Enterprises 
+La Société de Développement du Coton (National Coton Development 
+Company) 
+State Owned Enterprises 
+Sub-Saharan Africa 
+Total Factor Productivity 
+Technical and Vocational Education and Training 
+United Nations 
+United Nations High Commissioner for Refugees 
+West Africa Cable System 
+World Development Indicators  
+World Development Report 
+World Trade Organization 
+
+Vice President 
+Director 
+Manager 
+Task Team Leader 
+
+IBRD 
+Makhtar Diop 
+Elisabeth Huybens 
+Pablo Fajnzylber 
+Johannes Hoogeveen 
+
+IFC 
+Nena Stoiljkovic 
+Vera Songwe 
+Mehita Sylla 
+Oliver Nour Noel and 
+Mehita Sylla 
+
+MIGA 
+Karin Finkelston 
+Yasser Mohamed 
+Ibrahim (Acting) 
+Conor Healy 
+
+iv 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This SCD was prepared by Johannes Hoogeveen (Lead Economist, GPVDR), in close collaboration with 
+Souleymane Coulibaly (Program Leader, AFCC1), Emanuela di Gropello (Program Leader, AFCC1), 
+Doina Petrescu (Program Leader, AFCC1), Elisabeth Huybens (Country Director), Pablo Fajnzylber 
+(Practice Manager, GPVDR), Cia Sjetnan (Senior Country Officer, EACVQ) and Olivier Godron (Country 
+Program Coordinator, AFCC1). Gina Kosmidou (Consultant) provided invaluable research assistance. 
+
+Members of the team included: Serge Menang and Joseph Akpokodje (Environment); Monique 
+Courchesne, Audrey Achonu, Etienne Zambo, Lydie Bodet, Mehita Sylla and Olivier Nour (IFC); Abel 
+Bove and Helene Grandvoinnet (Governance); Prospere Backiny-Yetna (Poverty); Rick Ibounde and 
+Chimene Fouthe (Macro and Fiscal); Nicolas Maistre (Mining); Ousmane Kolie (PFM); Shohei Nakamura 
+and Sylvie Debomy (Urban); Daniel Kirkwood (Gender); Kristyna Bishop and Nicolas Perrin (Social 
+Development); Paula Rossiasco and Alexandre Marc (Fragility); Atou Seck (Education); Jake Robyn 
+(Health); Carlo del Ninno and Victoria Monchuk (Social Protection); Stephan Garnier (Energy); Jerome 
+Bezzina and Charles Hurpy (ICT); Manievel Sene and Amadou Nchare (Agriculture); Alphonsus 
+Achomuma (Financial Sector); Peter Taniform and Marc Navelet (Transport); Véronique Verdeil (Water 
+and Sanitation); Brian Blankespoor (DECRG); Gina Bowen (Senior Operations Officer); Odilia Hebga 
+(Communications); Olivier Ngounga and Theophile Bougna (Consultants) and Kanny Diaby, Mamma 
+Ahmed, Asmaou Diallo, Sylvie Ndze and Martin Buchara (Program Assistants). 
+
+The task was peer reviewed by Gael Raballand (Senior Public Sector Specialist, GGODR) and Raju Singh 
+(Program Leader, LCC8C) and benefited from guidance from the Systematic Country Diagnostic (SCD) 
+advisory group. 
+
+v 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Table of Contents: 
+
+EXECUTIVE SUMMARY .............................................................................................................. ix 
+1. 
+CONTEXT ............................................................................................................................ 1 
+1.1 
+Introduction ............................................................................................................................ 1 
+1.2 
+Organization of the document ................................................................................................ 8 
+
+2. 
+2.1 
+2.2 
+2.3 
+2.4 
+2.5 
+
+3. 
+3.1 
+3.2 
+3.3 
+3.4 
+3.5 
+
+4. 
+4.1 
+4.2 
+4.3 
+4.4 
+
+5. 
+5.1 
+5.2 
+5.3 
+5.4 
+5.5 
+5.6 
+
+6. 
+6.1 
+
+6.2 
+6.3 
+
+POVERTY, EQUITY AND VULNERABILITY .............................................................. 9 
+Poverty and poverty trends .................................................................................................... 9 
+Poverty reduction and urbanization ..................................................................................... 12 
+A livelihoods perspective on growth and poverty reduction ............................................... 14 
+Poverty traps ........................................................................................................................ 17 
+Chronic poverty, vulnerability and safety nets .................................................................... 22 
+
+HUMAN CAPITAL DEVELOPMENT ........................................................................... 25 
+Human capital ...................................................................................................................... 25 
+Human capital inequalities ................................................................................................... 29 
+Quality and relevance of human capital for growth and poverty reduction ......................... 31 
+Benefits from investments in human capital ........................................................................ 34 
+Opportunities for poverty reduction through improved investments in human capital ....... 37 
+
+ECONOMIC GROWTH AND CROSS CUTTING ECONOMIC SERVICES .......... 42 
+Introduction .......................................................................................................................... 42 
+Structure of the economy ..................................................................................................... 45 
+Cross cutting economic services .......................................................................................... 50 
+Pathways to economic growth ............................................................................................. 59 
+
+GOVERNANCE AND INSTITUTIONAL ENVIRONMENT ...................................... 64 
+Governance .......................................................................................................................... 64 
+Political settlement and the business environment .............................................................. 66 
+A fragmented and inert bureaucracy .................................................................................... 69 
+Public financial management ............................................................................................... 71 
+Conflict and (in)stability ...................................................................................................... 73 
+Opportunities and constraints to improving governance ..................................................... 77 
+
+POVERTY REDUCTION OPPPORTUNITIES AND CONSTRAINTS .................... 80 
+Pathways to achieving the twin goals by 2030 .................................................................... 80 
+i. 
+Improving household production ................................................................................... 82 
+ii. 
+Creating (informal sector) jobs through urbanization and structural transformation . 88 
+iii.  Redistribution ............................................................................................................. 91 
+Binding constraints .............................................................................................................. 93 
+Additional research suggested ........................................................................................... 106 
+
+ANNEXES ...................................................................................................................................... 108 
+
+vi 
+
+ 
+List of Figures: 
+
+Figure 1.1: Population density and poverty incidence by region .................................................... 2 
+Figure 1.2: Trust in officials ........................................................................................................... 3 
+Figure 1.3: Per capita GDP, 1970-2015 .......................................................................................... 4 
+Figure 1.4: Business environment................................................................................................... 5 
+
+Figure 2.1: Poverty incidence, number of poor and poverty profile ............................................... 9 
+Figure 2.2: Changes in consumption, poverty and the depth of poverty, 2001-2014. .................. 10 
+Figure 2.3: Changes in inequality and consumption, 2001-2014. ................................................ 11 
+Figure 2.4: Urbanization and poverty ........................................................................................... 13 
+Figure 2.5: Poverty by agro-ecological zone ................................................................................ 15 
+Figure 2.6: Crop and livestock systems ........................................................................................ 17 
+Figure 2.7: Asset traps .................................................................................................................. 19 
+Figure 2.8:  Demographic traps .................................................................................................... 20 
+Figure 2.9: Social, cultural and intergenerational traps ................................................................ 21 
+
+Figure 3.1: Human development challenges ................................................................................. 26 
+Figure 3.2: Fertility, child mortality, household size and composition ........................................ 28 
+Figure 3.3: Educational attainment by region in 2014 .................................................................. 29 
+Figure 3. 4: Inequalities in human capital outcomes .................................................................... 31 
+Figure 3.5: Quality and relevance of education ............................................................................ 33 
+Figure 3.6: Statistically significant coefficients from regressions with individual income and 
+household expenditures as dependent variables – disaggregated results, 2014 ............................ 35 
+Figure 3.7: Statistically significant coefficients from regressions with individual income and 
+household expenditures as dependent variables – aggregate results, 2014 .................................. 36 
+Figure 3.8: Inefficient allocation of resources in health and education across regions ................ 37 
+Figure 3.9: Public spending and health/education outcomes ........................................................ 38 
+
+Figure 4.1: The challenge of economic transformation ................................................................ 43 
+Figure 4.2: Cameroon’s growth challenge .................................................................................... 44 
+Figure 4.3: Core economic indicators ........................................................................................... 45 
+Figure 4.4: Exports diversification ............................................................................................... 47 
+Figure 4.5: Resource curse limits the potential for economic diversification .............................. 48 
+Figure 4.6: Characteristics of the enterprise sector and spatial development patterns ................. 50 
+Figure 4.7: Quality of the road network and accessibility ............................................................ 52 
+Figure 4.8: Cost and quality of internet and telecommunications ................................................ 54 
+Figure 4.9: Cameroon’s business environment relative to comparators  ...................................... 60 
+Figure 4.10: Financial inclusion .................................................................................................... 61 
+Figure 4.11: Firm rankings of business environment constraints ................................................ . 62 
+Figure 4.12: The challenge of vision 2035  ................................................................................. . 63 
+
+Figure 5.1: Governance indicators ................................................................................................ 65 
+Figure 5.2: Public spending and political support ........................................................................ 66 
+Figure 5.3: The salary structure is distorted .................................................................................. 71 
+vii 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 5.4: Execution of investment budget and customs revenue .............................................. 73 
+Figure 5.5: Violence and fragility ................................................................................................. 75 
+Figure 5.6: Performance based financing (PBF) in the Cameroon’s health sector 2012-2015 .... 79 
+
+Figure 6.1: Analytical framework ................................................................................................. 81 
+Figure 6.2: Yield gaps and impact of fertilizer ............................................................................. 84 
+Figure 6. 3: Rainfall patterns in different agro-ecological zones .................................................. 85 
+Figure 6.4: Sources of income by wealth quintile and agro-ecological zone ............................... 87 
+Figure 6.5: Labor characteristics ................................................................................................... 89 
+Figure 6.6: Contribution of urbanization to poverty reduction ..................................................... 90 
+Figure 6.7: Food subsidies and its targeting ................................................................................. 91 
+Figure 6.8: Cost of a perfectly targeted redistribution program. .................................................. 92 
+Figure 6.9: Process of identification and prioritization of binding constraints ............................. 95 
+Figure 6.10: Most important problem that the Government should address .............................. 103 
+
+List of Tables: 
+
+Table 2.1: Socio-economic characteristics of different cotton farm types ................................... 14 
+Table 2.2: Population density, poverty and share of the poor ...................................................... 16 
+
+Table 3.1: Summary of indicators on health and education in Cameroon .................................... 27 
+
+Table 4.1: Characteristics of selected goods and services markets .............................................. 49 
+Table 4.2: Priority reforms and investments to improve economic service provision ................. 60 
+Table 4.3: Food balance sheet for Cameroon, 2015 ..................................................................... 61 
+
+List of Boxes: 
+
+Box 2.1: Gender based traps vary by location .............................................................................. 21 
+Box 2.2: Social exclusion ............................................................................................................. 23 
+
+Box 3.1: The demographic transition and demographic dividend in Cameroon .......................... 41 
+
+Box 5.1: Products subject to price and import controls. ............................................................... 67 
+Box 5.2: Patronage and public enterprises and entities ................................................................ 69 
+
+viii 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

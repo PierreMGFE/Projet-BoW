@@ -1,0 +1,417 @@
+d
+e
+
+z
+
+i
+
+r
+
+o
+h
+
+t
+
+u
+
+A
+
+e
+
+r
+
+u
+
+s
+
+o
+
+l
+
+c
+s
+
+i
+
+D
+
+c
+
+i
+l
+
+b
+u
+
+P
+
+d
+e
+
+z
+
+i
+
+r
+
+o
+h
+
+t
+
+u
+
+A
+
+e
+
+r
+
+u
+
+s
+
+o
+
+l
+
+c
+s
+
+i
+
+D
+
+c
+
+i
+l
+
+b
+u
+
+P
+
+d
+e
+
+z
+
+i
+
+r
+
+o
+h
+
+t
+
+u
+
+A
+
+e
+
+r
+
+u
+
+s
+
+o
+
+l
+
+c
+s
+
+i
+
+D
+
+c
+
+i
+l
+
+b
+u
+
+P
+
+d
+e
+
+z
+
+i
+
+r
+
+o
+h
+
+t
+
+u
+
+A
+
+e
+
+r
+
+u
+
+s
+
+o
+
+l
+
+c
+s
+
+i
+
+D
+
+c
+
+i
+l
+
+b
+u
+
+P
+
+AZERBAIJAN 
+SYSTEMATIC COUNTRY 
+DIAGNOSTIC 
+
+S o u t h C a u c a s u s C o u n t r y  
+M a n a g e m e n t U n i t ( E C C U 3 ) 
+
+E u r o p e a n d C e n t r a l A s i a  
+
+June 3, 2015 
+
+i 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DOCUMENT OF 
+THE WORLD BANK GROUP 
+
+FOR OFFICIAL USE ONLY 
+
+Azerbaijan Systematic Country Diagnostic 
+
+June 3, 2015 
+
+South Caucasus Country Management Unit (ECCU3) 
+Europe and Central Asia Region 
+
+This document has a restricted distribution and may be used by recipients only in the 
+performance of their official duties.  Its contents may not otherwise be disclosed without World 
+Bank authorization. 
+
+ii 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CURRENCY EQUIVALENTS 
+(Exchange Rate Effective January 12, 2015) 
+
+Currency Unit = AZN 
+
+AZN 0.78 = US$1 
+
+FISCAL YEAR 
+[January 1
+– December 31] 
+
+ABBREVIATIONS AND ACRONYMS 
+
+ACG 
+Azeri–Chirag–Guneshli  
+BEEPS Business Environment and Enterprise 
+Performance Surveys 
+CBAR Central Bank of the Republic of Azerbaijan 
+CSO 
+Civil society organization 
+
+CCC 
+Commission on Combating Corruption 
+CPF 
+Country Partnership Framework 
+ECA 
+Europe and Central Asia 
+EBRD European Bank for Reconstruction and 
+Development 
+European Free Trade Association 
+European Union 
+
+EFTA 
+EU 
+
+RAI 
+STEPS 
+
+PI 
+POS 
+
+PISA 
+PEFA 
+
+PFM 
+PIM 
+REER 
+R&D 
+
+Permanent Income 
+Points of Service 
+
+Program for International Student Assessment 
+Public expenditure and financial 
+accountability 
+Public financial management 
+Public investment management 
+Real Effective Exchange Rate  
+Research and development 
+
+EITI 
+HBS 
+IDP 
+IAB 
+LFS 
+
+LiTs 
+
+Rural Access Index 
+Skills Towards Employment and Productivity 
+Survey 
+Extractive Industries Transparency Initiative  SOFAZ State Oil Fund of Azerbaijan 
+Household Budget Survey 
+SOE 
+State-owned enterprise 
+Internally Displaced Person 
+SCD 
+Systematic Country Diagnostic 
+International Bank of Azerbaijan 
+TFP 
+Total factor productivity 
+Labor Force Survey 
+TIMSS 
+Trends in International Mathematics and 
+Science Study 
+UNECE United Nations Economic Commission for 
+Europe 
+UMIC 
+Upper-middle income country 
+WUA Water Users Association 
+WBG 
+World Bank Group  
+WDI 
+World Development Indicators 
+WGI 
+World Governance Indicators 
+
+LPI 
+Logistics Performance Indicator  
+MSME Micro Small and Medium Enterprises 
+NCD 
+Non-communicable disease 
+OBI 
+Open Budget Index 
+OGP 
+Open Government Partnership 
+
+Life in Transition Survey  
+
+Regional Vice President:
+Country Director:
+Senior Directors:
+Practice Managers:
+Task Team Leaders:
+
+ Laura Tuck 
+ Henry G. R. Kerali 
+Ana Revenga/Marcelo Giugale 
+ Carolina Sanchez-Paramo/ Ivailo Izvorski 
+ Luis F. Lopez-Calva/Rashmi Shankar  
+
+iii 
+
+ 
+ 
+ 
+ 
+Acknowledgements 
+
+The Azerbaijan SCD has been prepared by a team led by Luis F. Lopez-Calva and Rashmi Shankar, 
+under the guidance of Carolina Sanchez-Paramo (Practice Manager), Miria Pigato (current 
+Practice Manager), Larisa Leshchenko (Country Manager) and Ivailo V. Izvorski (former Practice 
+Manager). The core team included (in alphabetical order) Saida Bagirli, Kimberly Blair Bolch, 
+Dandan Chen, Ahmed A. R. Eiweida, Kimberly D. Johns, Samantha Lach, Moritz Meyer, 
+Georgiana Pop, Mona Prasad, Angela Prigozhina, Nadir Ramazanov, Nistha Sinha and Congyan 
+Tan. 
+
+The preparation of the SCD benefitted from discussions held in the country team SCD launch 
+workshop in Baku, country team consultations in December, and three rounds of consultations 
+with government, think-tanks, donors, and CSOs. 
+
+Inputs and comments from the country team  were prepared by Aly Zulficar Rahim, Mustapha 
+Benmaamar, Hadji Huseynov, Rufiz Chiraghzade, Elvira Anadolu, Eavan O’ Halloran, David 
+Meerbach, Sachiko Kataoka, Sandra Sargent, Gulana Enar Hajiyeva, Carla Pittalis, Adriana 
+Jordanova, Craig Meisner, Siddharth Sharma, Angela Prigozhina, Iuliia Mironova, Aliya 
+Azimova, Qahir Dhanani, Nijat Valiyev, and Sadig Aliyev. The team also benefitted from 
+comments received in a presentation to the SCD Advisory Group, and peer reviewers Donato De 
+Rosa, Marcelo Selowsky, Tara Vishwanath and Christos Kostopulos, as well as Ana Revenga, 
+Ambar Narayan, David Bernstein, and Jose Guilherme Reis.  
+
+iv 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

@@ -1,0 +1,7747 @@
+Public Disclosure Authorized
+
+Document of
+The World Bank
+
+FOR OFFICIAL USE ONLY
+
+Public Disclosure Authorized
+
+Report No. 55931-ET
+
+INTERNATIONAL DEVELOPMENT ASSOCIATION
+
+COUNTRY ASSISTANCE STRATEGY PROGRESS REPORT
+
+Public Disclosure Authorized
+
+Public Disclosure Authorized
+
+FOR THE
+FEDERAL DEMOCRATIC REPUBLIC OF ETHIOPIA
+
+September 28, 2010
+
+Ethiopia Country Management Unit
+Africa Region
+
+This document has a restricted distribution and may be used by recipients only in the performance of their
+official duties. Its contents may not otherwise be disclosed without World Bank authorization.
+
+The Country Assistance Strategy for Ethiopia was discussed on April 29, 2008
+CURRENCY EQUIVALENTS
+[US$1.00 = Ethiopian Birr 13.5 (July 2010)]
+FISCAL YEAR
+July 8 – July 7
+ABBREVIATIONS AND ACRONYMS
+AAA
+AfDB
+AGP
+APL
+CAS
+CASPR
+CIC
+CIDA
+COM
+CSO
+DAC
+DAG
+DCI
+DFID
+EC
+EFA
+EIB
+ETB
+FAO
+FDI
+FPEW
+FTI
+FY
+GDP
+GEF
+GEQIP
+
+Analytic and Advisory Activities
+African Development Bank
+Agricultural Growth Project
+Adaptable Program Loan
+Country Assistance Strategy
+Country Assistance Strategy Progress Report
+Credit Information Center
+Canadian International Development Agency
+Country Operations manager
+Civil Society Organization
+Development Assistance Committee
+Development Assistance Group
+Domestic Construction Industry
+Department for International Development
+European Commission
+Education For All
+European Investment Bank
+Ethiopian Birr
+Food and Agriculture Organization
+Foreign Direct Investment
+Flood Preparedness and Early Warning
+Fast Track Initiative
+Fiscal Year
+Gross Domestic Product
+Global Environment Facility
+General Education Quality Improvement
+Program
+GFRP Global Food Crisis Response Program
+GoE
+Government of Ethiopia
+GPOBA Global Partnership on Output-Based Aid
+GTP
+Growth and Transformation Plan (2010-2015)
+GTZ
+German Agency for Technical Cooperation
+ICA
+Investment Climate Assessment
+ICT
+Information and Communication Technologies
+IDA
+International Development Association
+IFAD
+International Fund for Agricultural Development
+IFC
+International Finance Corporation
+IFPRI
+International Food Policy Research Institute
+IFRS
+International Financial Reporting Standards
+IHP
+International Health Partnership
+IMF
+International Monetary Fund
+ISA
+International Standards of Auditing
+JICA
+Japan International Cooperation Agency
+Kebele Village level council
+LIG
+Local Investment Grant
+M&E
+Monitoring and Evaluation
+MAP
+Multi-sectoral HIV/AIDS Program
+
+Vice President:
+Country Director:
+Task Team Leader:
+Co-TTL
+
+MDGs Millennium Development Goals
+MEFF Macroeconomic and Fiscal Framework
+MoE
+Ministry of Education
+MoFED Ministry of Finance and Economic Development
+MoH
+Ministry of Health
+MOU
+Memorandum of Understanding
+MoWUD Ministry of Works and Urban Development
+NAFP National Adaptation Framework Program
+NAPA National Adaptation Plan of Action
+NBE
+National Bank of Ethiopia
+NBI
+Nile Basin Initiative
+NEPAD New Partnership for Africa’s Development
+OBA
+Output Based Aid
+OECD Organization for Economic Cooperation and
+Development
+OFAG Office of the Federal Auditor General
+PASDEP Plan for Accelerated and Sustained Development
+to End Poverty (2005-2010)
+PBS
+Protection of Basic Services
+PCDP Pastoral Community Development Program
+PPD
+Public-Private Dialogue
+PRSC
+Poverty Reduction Support Credit
+PSCAP Public Sector Capacity Building Program
+PSNP
+Productive Safety Nets Program
+PTA
+Parent-Teacher Association
+RCBP Rural Capacity Building Project
+REDFS Rural Economic Development and Food Security
+SIDA
+Swedish International Development Cooperation
+Agency
+SIL
+Specific Investment Loan
+SLMP Sustainable Land Management Project
+SNNPR Southern Nations, Nationalities, and Peoples’
+Region
+SWAp Sector-Wide Approach
+TA
+Technical Assistance
+TF
+Trust Fund
+UNDP United Nations Development Program
+UNFPA united Nations Population Fund
+UNICEF United Nations International Children’s Fund
+UNIDO United National Industrial Development
+Organization
+USAID United States Agency for International
+Development
+Woreda District with elected council
+WCBS Woreda-City Benchmarking Survey
+WFP
+World Food Program
+WHO
+World Health Organization
+
+Obiageli Ezekwesili
+Kenichi Ohashi
+Greg Toulmin
+Janet Entwistle
+
+FEDERAL DEMOCRATIC REPUBLIC OF ETHIOPIA
+COUNTRY ASSISTANCE STRATEGY PROGRESS REPORT
+Table of Contents
+I.
+
+INTRODUCTION ................................................................................................. 1
+
+II.
+
+ECONOMIC AND POLICY DEVELOPMENTS ................................................ 1
+
+III. CAS PROGRESS IMPLEMENTATION AND PROPOSED ADJUSTMENTS . 4
+a. Assessment of CAS Progress To-Date ............................................................... 4
+b. Portfolio Performance and Implementation ....................................................... 7
+c. Adjustments to the CAS Program .................................................................... 11
+IV. STRATEGY GOING FORWARD: FUTURE BANK ENGAGEMENT .......... 14
+V.
+
+RISKS AND MITIGATION ............................................................................... 17
+
+TABLES AND BOXES
+Table 1. Selected Macroeconomic Indicators, 2005-2013 ............................................. 2
+Table 2. Revised CAS Lending Program, FY08-12 ..................................................... 12
+Box 1. IDA Core Indicators ......................................................................................... 9
+ANNEXES
+Annex 1. CAS Results Matrix and Progress To-Date ................................................. 19
+Annex 2. Revised Core CAS Outcomes, Indicators and Milestones .......................... 31
+Annex 3: Summary of Revised Core CAS Outcomes ................................................. 33
+Annex 4. Progress Towards Achieving the MDGs ..................................................... 34
+Annex 5. Ethiopia at a Glance ..................................................................................... 35
+Annex 6. Selected Indicators of Bank Portfolio Performance .................................... 37
+Annex 7. Summary of Non-Lending Services ............................................................ 38
+Annex 8. Key Economic Indicators ............................................................................ 39
+Annex 9. Key Social Indicators................................................................................... 41
+Annex 10. Key Exposure Indicators............................................................................. 42
+Annex 11. Operations Portfolio ................................................................................... 43
+Annex 12. Trust Fund Portfolio ................................................................................... 44
+Annex 13. IFC Program and Portfolio ......................................................................... 45
+Map
+
+FEDERAL DEMOCRATIC REPUBLIC OF ETHIOPIA
+I. INTRODUCTION
+1.
+The Board of Executive Directors discussed the FY08-11 Country Assistance
+Strategy (CAS) for Ethiopia on April 29, 2008 (Report No. 43051-ET). The CAS, the first
+results-based strategy for Ethiopia, supports the Government of Ethiopia (GoE) to achieve many
+of the outcomes envisioned in its 2005-10 Plan for Accelerated and Sustained Development to
+End Poverty (PASDEP). This CAS Progress Report (CASPR) takes stock of the implementation
+progress made under the CAS, and presents a revised program. It extends the CAS to FY12 due
+to slower than expected progress toward CAS outcomes, and to allow sufficient time to
+undertake poverty diagnostics and prepare a full CAS program, in collaboration with the GoE, to
+support agreed priorities within its 2010-15 Growth and Transformation Plan (GTP). This
+extension will also ensure the new CAS can fully reflect the priorities specified under IDA 16,
+and in the Bank’s Africa Region forthcoming strategy.
+2.
+The key objectives of the CAS were designed to sustain a dual take-off process of
+rapid economic growth and a simultaneous improvement in service delivery, as well as to
+reinforce trends promoting societal change. These objectives, (i) fostering economic growth,
+(ii) improving access to and quality of basic services, (iii) reducing vulnerability, and (iv)
+fostering improved governance, remain broadly relevant, and in alignment with the country
+objectives in PASDEP. During CAS implementation, the program has emphasized, across these
+four objectives, help for Ethiopia to address the deeper and complex issue of encouraging
+bottom-up initiatives that are becoming increasingly necessary as a complement to traditionally
+strong top-down action.
+3.
+Some adjustments to the lending program have been instrumental in helping to
+mitigate shocks related to the food, fuel and finance crises of recent years. To help avoid a
+possible crisis due to drought and food shortages, the lending program was adapted in November
+2008 to include an emergency food crisis response program. This addition was facilitated by a
+larger International Development Association (IDA) 15 allocation than programmed in FY08,
+frontloading, and a portfolio restructuring which also helped to enhance portfolio performance.
+The significant differences of views between the government and the Bank on some
+longstanding, structural issues mean that the conditions for a possible Poverty Reduction Support
+Credit (PRSC) have not yet materialized and the program has comprised sector investments, a
+large part of which are programmatic in nature and supported by other donors, and analytical and
+advisory activities (AAA). Additional financing has proved an efficient lending instrument, and
+enabled some operations to be prepared more rapidly than originally programmed to help
+mitigate the effects of the global crises. The FY11 and FY12 programs will continue to support
+the dual take-off process through new lending, including through piloting results based
+investment lending, implementation support and AAA. In light of frontloading, new lending in
+FY11 will be lower than the earlier years of the CAS period and in FY12 will be subject to the
+IDA16 replenishment and allocation process.
+II. ECONOMIC AND POLICY DEVELOPMENTS
+4.
+Ethiopia has a long history of rich civilization that has coexisted with suffering from
+recurring disasters. In the last two decades, Ethiopia has achieved remarkable progress against
+social and economic indicators. The country is on track to achieve, or come close to, many of
+the Millennium Development Goals (MDGs). The economy has diversified significantly and
+1
+
+delivered sustained rapid growth for the past six years, even through the global financial crisis.
+Yet, there is a sense of imbalance in this progress. Successful economies bring together private
+sector initiative complemented by effective delivery by government. However, progress in
+decentralizing social sector service delivery has not yet been matched by equivalent progress in
+social accountability for services, and strong expansion of public investment has not been
+mirrored by vigorous growth in private investment. These divergent trends might stem from the
+many years of highly centralized rule, as well as the planned economy, that Ethiopia had
+experienced.
+5.
+Ethiopia macroeconomic situation deteriorated dramatically after the onset of the
+global economic crisis and despite a steady recovery in recent months, the situation
+remains fragile. Ethiopia’s end-of-period inflation rate, which generally hovers in single-digit
+number, increased to 64 percent in July 2008. Its foreign exchange reserves fell steadily over
+time to hit a bottom of less than $770 million (or less than 4 weeks of imports cover) by October
+2008. The government was forced to depreciate the local currency by nearly 30 percent between
+January 2009 and August 2009 to address the overvaluation of the real exchange rate. The
+situation started to turnaround as global economic recovery resumed and the GoE stabilization
+program, supported by the IMF’s Exogenous Shock Facility, started to bear fruit. The end of
+period inflation fell steadily and remains stable in the range of 6-8 percent in recent months.
+Foreign exchange reserves have been accumulated to provide more than two months of import
+cover. But problems remain. Major distortions and structural impediments to growth remain to
+be tackled. According to the IMF, monetary policy is dysfunctional and the exchange regime is
+heavily distorted with an active parallel market. Table 1 provides a summary of selected
+macroeconomic indicators.
+Table 1. Selected Macroeconomic Indicators, 2005-2013
+
+Source: IMF
+
+6.
+Although Ethiopia did overcome the food, fuel and finance crisis, the food crisis in
+2008 proved to be broader, deeper and more complex than in other countries. In 2008
+Ethiopia experienced the failure of the small (belg) season rains, high inflation for food, in
+particular, which peaked at 91.7 percent for the 12 months ending July 2008, as well as a high
+trade deficit and severe foreign exchange shortages. Towards the end of the year 6.4 million
+people were dependent on emergency food assistance, in addition to 7.3 million chronically food
+insecure people. The macro-economic situation threatened overall economic development,
+2
+
+including through the foreign exchange crunch that threatened the import of commodities such as
+fertilizers that are crucial for further development.
+7.
+Ethiopia’s external position has improved but remains fragile. Merchandise exports
+fell only 1.0 percent during FY09 compared to the global average decline of 14 percent. In the
+first 7 months of FY10, exports increased 11 percent and with the increase in imports, the current
+account deficit, excluding grants, worsened from 10 to 13 percent of GDP. Previously dwindling
+foreign exchange reserves have recovered to about 2 months on import coverage. The growth
+rates of exports, private transfers and foreign direct investment have yet to reach their pre-crisis
+levels. Despite an improved reserve situation, and 30 percent depreciation of the currency,
+persistent shortages of foreign exchange are a severe constraint on the private sector, and an
+active parallel market persists, reflecting a restrictive exchange regime.
+8.
+There remains a large divergence between the growth of overall demand and
+relative weakness in growth of supply. This shows up in the trade deficit and persistently high
+non-food inflation. To curb rapid growth of aggregate demand, the government has imposed
+limits on bank lending, which has reduced access to credit and compounded the worrisome
+demonetization trend since 2002.
+9.
+Significant macroeconomic challenges remain and key structural changes are
+needed to protect the high growth rate. A 14-month arrangement under the International
+Monetary Fund’s (IMF) High Access Component of the Exogenous Shocks Facility was
+approved in August 2009 for US$235 million and the first review was completed in June 2010.
+IMF forecasts indicate continued strong growth of 7 percent for 2009/10 and 7.7 percent for
+2010/11. But achieving this pace in the medium-term would require stepped up structural
+changes, including a reform of monetary policy, a liberalization of the exchange regime, more
+room for private sector development and a better investment climate, a more flexible industrial
+policy, modernization of the financial sector, creation of a competitive telecommunications
+sector and establishment of a transparent and effective system of land development and
+administration. Ethiopia’s continuing vulnerability, to both climatic and external economic or
+financial shocks, makes the need for a robust macroeconomic stance all the more compelling.
+10.
+Ethiopia is making significant progress on all the MDGs. It is projected to be one of
+the few African countries on track to meet goals relating to extreme poverty and hunger.
+However, a significant portion of the population is still chronically food insecure and food
+security remains a key challenge. Ethiopia is also on track to meet the goals on combating
+HIV/AIDS, malaria and other diseases (with the exception of TB), and developing a global
+partnership for development. Good progress is also being made towards universal primary
+education, reducing child mortality and ensuring environmental sustainability. Ethiopia is likely
+to fall short, as of 2015, on the targets for eliminating gender disparity in education and
+improving maternal health in spite of major efforts in these areas.
+11.
+Ethiopia has a mixed track record in improving governance. Regional and woreda
+administrations are becoming increasingly influential as their capacity strengthens. However, at
+the federal level, there have been continuing concerns that the space for debate has narrowed,
+particularly for civil society organizations (CSOs), the media, and the opposition groups. The
+May 2010 elections resulted in the ruling party winning a near complete sweep with it and its
+affiliate parties securing all but two of the parliamentary seats. The 2009 Proclamation for the
+Registration and Regulation of Charities and Societies, provided the first clear framework for
+such organizations, but also restricted the operations of CSOs, particularly excluding those
+receiving more than 10 percent of funding from external sources from some areas of activity,
+3
+
+such as advocacy on human rights, gender or ethnic equality, conflict resolution, the
+strengthening of judicial practices or law enforcement, which areas the GoE considers internal
+issues open only to Ethiopian citizens. Recently GoE revised the federal procurement law to
+improve the structures for procurement management. However, enforcement of the procurement
+law continues to be weak and largely ineffective, mainly due to inadequate remuneration and
+incentives. The procurement oversight bodies both at the federal and regional levels remain
+undermanned and cannot attract and retain qualified and experienced staff. Ethiopia’s recent bid
+to become a member of the Extractive Industries Transparency Initiative (EITI) is encouraging,
+though its membership status is pending.
+12.
+Policies and commitments related to gender are in place, but implementation is
+lagging due to poor institutional capacity. Several challenges still remain to strengthen the
+effectiveness of gender work at all levels of government. These include weak networking among
+institutions meant to ensure gender equality, inadequate mainstreaming of gender in all
+development programs and their implementation strategies, and absence of reporting system
+among government and non-government actors working on women thus weakening
+accountability for achievement of gender equitable results.
+13.
+Ethiopia confronts the challenge of being one of the countries in Africa potentially
+most vulnerable to future climatic changes. Existing climatic variability already hampers
+growth through extreme weather events such as droughts and floods. However, given its large
+potential in renewable energy, Ethiopia can lead the way - within Africa and the developing
+world - in promoting low or neutral carbon growth. At the global level, GoE has taken a
+leadership role among African countries in international negotiations on the future climate
+governance framework. Domestically, GoE has, as a first step, established institutional
+mechanisms to ensure the climate change agenda is pursued in a coordinated but decentralized
+manner. It has an approved National Adaptation Framework Program (NAFP), covering 20
+vulnerable sectors, and a National Adaptation Plan of Action (NAPA) including 83 concrete
+projects that have been registered with the UNFCCC Secretariat in line with the Copenhagen
+Accord. GoE has also begun development of a National Climate Change Strategy and Action
+Plan (NCCSAP), which will elaborate on the transfer of environmentally sound mitigation and
+adaptation technology needed for carbon resiliency. Key policies and regulatory frameworks
+related to environmental sustainability are in place, including the 2008 Ethiopian Sustainable
+Investment Framework (ESIF) for sustainable land management (SLM), a long-term strategy for
+SLM, which seeks to provide guidance in addressing the interlinked problems of poverty,
+ecological vulnerability, land degradation and deforestation at the rural community level.
+Enforcement has been weak as a result of institutional capacity constraints, including weak
+political will and lack of space for active citizenry involvement.
+III. CAS PROGRESS, IMPLEMENTATION AND PROPOSED ADJUSTMENTS
+A. Assessment of CAS Progress To-Date
+14.
+Progress in FY08-10 towards CAS outcomes has been mixed. Mixed progress is partly
+a reflection of the relatively ambitious selection of outcomes, many of which are drawn directly
+from the PASDEP given the programmatic nature of the Bank’s assistance, as well as portfolio
+implementation challenges and country realities. See Annex 1 for details including an update of
+progress where information is available.
+15.
+The Government has made remarkable strides in strengthening the essential
+building blocks for sustained development supported by the CAS. There has been relatively
+4
+
+strong progress in increasing access to basic services in an equitable manner. There has also
+been strong progress in overcoming food insecurity and building a transport, energy, and
+communication backbone that is a pre-condition for economic take-off. Progress has been
+particularly strong in increasing access to potable water, sanitation and health services, although
+access to services has taken priority over increasing their quality.
+16.
+The Government has also made progress toward other CAS objectives such as
+investments in infrastructure and decentralization initiatives that could facilitate a
+well-functioning market economy and improve governance. It has not been easy, however,
+for the Government to overcome the deep-rooted legacy of central control, tightly managed
+information, and constricted space for citizen engagement and private initiatives. In its economic
+policy, the Government has focused on creating good infrastructure and providing public support
+for strategic sectors but has done less to strengthen the private sector. In its decentralization
+program, the Government has emphasized greater transparency, accountability and citizen
+participation as the foundation for improved governance and better service delivery, but progress
+has been slow. As Ethiopia becomes a more complex society and economy, in an increasingly
+challenging global environment, it will be progressively more difficult to drive forward the
+economy largely through government interventions. The ability of Ethiopia’s citizens and
+businesses to access accurate information and organize to respond to developments will be an
+increasingly important determinant of the country’s resilience and competitiveness.
+A.1 Fostering Economic Growth
+17.
+Progress has been mixed toward a key objective of the CAS of supporting structural
+and macroeconomic policies that are conducive to sustain internal and external balance.
+The Bank supported the IMF’s lead in providing crucial policy advice on improving
+macroeconomic management that has contributed to reducing inflation and reducing imbalances.
+The tax policy and administration reforms, vital to reducing the demand on domestic monetary
+financing, are beginning to show some promising results with tax revenue to Gross Domestic
+Product (GDP) improving in 2009/10 – the only annual improvement in the last seven years.
+Domestic fuel subsidies were eliminated in October 2008. Monetary policy has been tightened,
+though a fundamental reform is needed to contain high powered liquidity and abolish the
+deleterious bank-by-bank credit ceilings. The Bank has, however, not yet been successful in
+reaching agreement with GoE on how to advance structural changes in such areas as creating
+competitive financial and telecommunications sectors and hence the progress on CAS outcomes
+in these areas remain less than satisfactory.
+18.
+Progress has been strong toward the CAS objective of sustainably accelerating the
+level and productivity of infrastructure. Strong government commitment and capacity
+building efforts supported by a series of Bank Adaptable Program Loans (APL) are leading to
+strengthened road sector institutions and increasing contracts for the domestic road construction
+industry. The level of investment in road infrastructure is high and road density and
+disbursements to domestic contractors as a percentage of the total are increasing. Regional
+power initiatives are proceeding well. With support from the Nile Basin Initiative-EthiopiaSudan Interconnection project, a transmission line link with Sudan is near completion.
+19.
+With Bank support, the government has put in place a number of factors that are
+expected to lead to increased agricultural productivity. GoE has strengthened the agricultural
+extension and research system. It has also increased the first of two phases of certification of
+cultivated land from 44 percent in 2007 to 66 percent in 2009. The development of irrigation has
+been further promoted. For instance, feasibility studies covering 104,000 ha. are in the pipeline
+5
+
+or have been drafted. Improvements have already led to increases in agriculture production and
+value in some areas. The Rural Capacity Building, Sustainable Land Management and Tana
+Beles Integrated Water Resources Development projects contributed to these achievements,
+including through the development of sustainable watershed management plans with strong
+community participation.
+20.
+There has been some progress supported by the Bank toward improving the
+environment for private sector development, but much remains to be done. Together with
+the International Finance Corporation (IFC), United Nations Industrial Development
+Organization (UNIDO), United Nations Development Program (UNDP) and the Ministry of
+Trade and Industry, the Bank supported the establishment of the Ethiopia Public-Private
+Dialogue Forum. This Forum brings together representatives of the private sector in a structured
+dialogue with the Government to improve the business environment. Already, Ethiopia’s Doing
+Business Rank has improved slightly to 107 out of 183 in 2010 from 111 out of 181 in 2009; it is
+anticipated that the Forum will provide a stimulus to accelerated reforms. There have been some
+other signs that GoE is opening space for expanded private sector involvement in economic
+growth. For instance, while not allowing private sector ownership in telecommunications, GoE
+awarded the management of the Ethiopian Telecommunication Corporation in April 2010
+through a competitive process to an international management company (France Telecom). GoE
+has provided incentives for private sector investment in select industries including floriculture.
+Foreign Direct Investment (FDI) has increased substantially, from US$365 million in 2005/06 to
+about US$880 million in 2008/09, largely due to GoE incentives tied to large scale commercial
+agriculture for export—however, GoE has not sought our support in the latter area, nor have we
+analyzed it in any detail. According to Investing Across Borders foreign equity ownership
+restrictions are above the average for other sub-Saharan African countries, and FDI is prohibited
+in 13 sectors, including telecommunications, financial services, transportation and retail.
+Progress over the next two years will be critical to the establishment of a flexible economic and
+industrial policy, including the implementation of National Payments Systems and the Credit
+Information Center (CIC), a Competition Law, and legislation allowing the private sector to
+participate in value-added telecommunications services.
+A.2. Improving Access to and Quality of Basic Services
+21.
+Access to primary education increased dramatically in the years prior to the CAS,
+but girls’ access to education continues to lag, and progress on quality improvements is
+mixed but promising. There has been some progress on equal access to primary education as
+measured by the ratio of girls to boys, but girls’ enrollment still lags. This continues to be an
+area of key Bank focus given the abundant research on the singular importance of a mother’s
+educational background in reducing infant and child mortality, reducing fertility and improving
+school attendance for girls. The Pastoral Community Development program is helping to address
+the special needs of pastoralist children, and is reaching an increasing number of woredas.
+Nonetheless, efforts need to be expanded, including through the use of block grants under the
+Protection of Basic Services Program (PBS), for the pace of girls’ enrollment to improve. With
+Bank support, GoE has embarked on the General Education Quality Improvement Program
+which is at an early stage of implementation. Quality of education is improving as measured by
+the Grade Five completion rates, and student-teacher ratios have slightly improved, although
+inadequate resource availability is hindering faster progress in this area.
+22.
+Organization of user groups to operate and maintain water points and promote
+hygiene is leading to an increase in access to potable water and sanitation. The Bankfinanced Water Supply and Sanitation Program has bolstered GoE commitment to a
+6
+
+decentralized capacity building system which has led to improvements in water and sanitation
+services. Communities participating in this program are organized to plan, manage and operate
+their water supply and sanitation schemes, and coordinate with health extension workers to
+promote good hygiene. Nonetheless, implementation pace is slower than expected and there is
+more to be done to strengthen capacity in the rural areas and public awareness about good
+sanitation practices.
+23.
+Access to health care is improving through a clear vision, sound strategy and strong
+leadership and there are some signs of quality improvements. But progress in some areas is
+falling short of targets, and data is not yet available in other areas. Through the PBS 2 program,
+the government has increased block grants to regions and woredas every year, enabling the
+purchase of medical equipment and supplies, an increase in the number of primary health
+extension workers, and strong progress in increasing immunizations. Ethiopia has been making
+an extensive effort to control malaria through implementation of a malaria control and
+elimination strategy, but data is not yet available to measure progress since the CAS baseline.
+The HIV/AIDS awareness program has supported woredas to carry out information campaigns to
+sensitize the target groups. Data is expected to be available to assess progress in FY11. Overall,
+access to maternal health services has not increased as much as expected, through the percentage
+of pregnant women receiving iron and folate supplementation is on track. Maternal mortality
+continues to be high, but there are signs that the quality of services in this area is improving,
+although probably not enough for Ethiopia to reach the MDG on improving maternal health.
+A.3. Reducing Vulnerability
+24.
+Ethiopia’s vulnerability to adverse weather remains significant, and possibly more
+so as the effects of climate change become more pronounced. The Bank has supported GoE
+to put in place a number of measures to help reduce Ethiopia’s vulnerability to shocks. Under
+the Productive Safety Net Program (PSNP), a long-term program for food security has been
+developed and a National Policy and Strategy on Disaster Risk Management, essential in light of
+the potential impacts of climate change, has been prepared and is pending ratification. PSNP
+also provides food and cash payments to food-insecure households in exchange for their efforts
+on community projects. The Bank has helped integrate this effort with a long-standing
+government-managed household asset building program designed to support food-insecure
+households by increasing their productive assets. And rural food security has improved with the
+introduction of alternative crops and financial support to expand non-farm income.
+Notwithstanding these important achievements in reducing rural food insecurity, urban food
+security has become a growing concern and inadequate benchmarks and follow-up data
+availability have delayed graduation of beneficiaries. Bank support has also helped the GoE
+address land degradation. Through the Sustainable Land Management and Tana Beles Integrated
+Water Resources Development projects, institutions for sustainable land management have been
+established and investment in community based flood management systems is rising. Information
+on progress toward Bank supported measures to address population growth, a main driver of land
+degradation, is pending the forthcoming Demographic Health Survey.
+A.4. Fostering Improved Governance
+25.
+Progress has been made toward improving the performance and integrity of the
+public sector. Business process reengineering has been adopted across GoE, including in the
+judicial sector, to eliminate excessive steps that added no value to the user and streamline work
+processes, though progress has been marred by allegations that political affiliation influenced
+which civil servants were retained or promoted. Public Financial Management is showing
+7
+
+improvement with the roll out of expenditure management and control reforms, and capacity
+building efforts underway to ensure continuous enhancement and sustainability. The most recent
+Public Expenditure and Financial Accountability (PEFA) study (2010) showed an improvement
+in 9 out of 30 indicators covered. The strengthening of the public procurement agencies,
+including the setting up of a procurement professional institution, is making slow progress, with
+Bank support available through the PBS 2 project and PSCAP Additional Financing. The GoE
+has put in place policies to support local transparency and citizen engagement at the
+woreda/kebele level, and there are indications of increased local government commitment to
+provide more information to citizens and solicit their opinions more frequently, although budget
+literacy among citizens needs greater attention. Balanced score cards are being rolled out as a
+tool to encourage a results focus in public sector management—but they remain a work in
+progress. There is some evidence of citizen engagement in budgeting at the woreda level. At the
+city level, there has been an increase in citizen involvement in planning, budgeting and
+monitoring.
+A.5. Increasing Donor Harmonization through IDA-supported Multi-donor Programs
+26.
+Donor support, including from IDA, has become largely programmatic. Both CAS
+targets in this area have been achieved. The target that 66 percent of donor support be channeled
+through program-based approaches was achieved in FY07 as reported through the Organization
+for Economic Cooperation and Development (OECD)/Development Assistance Committee
+(DAC)-coordinated survey on monitoring the Paris Declaration. At that time, the Bank’s
+programmatic assistance extended to five programs—roads, protection of basic services, public
+sector capacity building, water supply and sanitation and productive safety nets—which
+accounted for 58 percent of IDA disbursements. Since then the Bank has continued to increase
+its support for programmatic approaches through lending, and now includes three other areas:
+energy and education sector development programs, and the sustainable land management
+program. The agricultural growth program, awaiting approval, is designed on a similar basis.
+The target that 66 percent of IDA disbursements flow through program-based approaches was
+surpassed in FY10 when over 80 percent of IDA assistance flowed through the eight approved
+programs.
+B. Portfolio Performance and Implementation
+27.
+Portfolio restructuring and actions to address portfolio issues have led to improved
+performance. Portfolio performance has been strong following deterioration between end-FY08
+and mid-FY09. As of the end of FY10, US$2,530.1 million of the US$4,703.4 million in net
+investment lending commitments have been disbursed. Four out of 32 projects and 9.2 percent
+of net commitments are considered at risk. Disbursements for the US$833 million trust fund
+portfolio have been strong, with only US$222 million remaining undisbursed.
+
+8
+
+Box 1. IDA CORE SECTOR INDICATORS
+Core Sector Indicators of progress towards key results, linked to the MDGs, which were introduced under
+IDA15, have been rolled out across IDA’s portfolio in Ethiopia. The following figures provide a brief
+snapshot of preliminary results achieved through IDA programs that were active in the period of the
+current CAS.
+
+Sector
+Education:
+
+Health:
+
+Water Supply:
+
+Roads and
+Highways:
+
+Indicator
+Primary completion rate
+
+FY08-10
+From 65% in 2006/07 to 78.90% in 2008/09.
+
+Gender parity index
+
+Grades 1-4: 89% 2006/07 to 90% in 2008/09.
+Grades 5-8 73%; in 2006/07 to 89% in
+2008/09.
+
+Long-lasting insecticidetreated malaria nets
+(ITNs) were purchased
+and/or distributed
+
+1.7 million ITNs were purchased and
+distributed.
+
+Health facilities
+constructed, renovated
+and/or equipped
+
+7,000 health posts and 1,999 health centers
+were equipped (out of respective totals of
+15,022 and 3,200).
+
+People provided with
+access to improved water
+sources
+
+1.5 million people in rural areas and 150,000
+in urban areas have been provided with access
+to improved water sources from 2004 to 2010.
+
+Improved community
+water points constructed
+or rehabilitated
+
+138,873 improved community water points
+were constructed or rehabilitated 2008 to
+2010.
+
+Water utilities receiving
+support
+
+38 water utilities are receiving support.
+
+Roads in good and fair
+condition as a share of
+total classified roads
+
+Federal Paved: 71% to 88% between 2005/10.
+Federal Gravel: 61% to 72% between 2005/10.
+Rural/regional roads: 67 to 79% between
+2005/10.
+
+Rural Roads Rehabilitated 42,417 km of rural roads rehabilitated.
+
+ICT:
+
+Rural Roads Constructed
+
+23,736 km of rural roads were constructed.
+
+Retail price of internet
+services
+
+The monthly cost for an internet connection
+(incl 600 minutes) went from US$4.32 to
+US$2.88.
+
+28.
+A November 2008 portfolio restructuring not only freed up funds for the Global
+Food Crisis Response Program (GFRP), but also focused on addressing problem projects.
+This operation was by far the largest under GFRP—see paragraph 33 below—and covered 12
+projects, from which funds were redeployed based either on cost savings, revised financing plans
+or major restructurings. Seven of the 12 projects affected were among the slower disbursing
+projects in the portfolio, including all four projects that underwent a major restructuring. The
+combined result was a disbursement ratio of 49 percent in FY09 and 36 percent in FY10.
+
+9
+
+29.
+IDA core sector indicators were introduced as of the beginning of FY10, and adopted
+as relevant across the portfolio--into new lending and projects already under implementation.
+Box 1 above provides a sample of progress against these indicators.
+30.
+Efforts to improve the portfolio remain concentrated in four areas highlighted in the
+CAS. A portfolio review was undertaken in FY09 to take stock of progress in addressing these
+portfolio management issues: (1) transparency and accountability, (2) procurement and contract
+execution delays, (3) financial management weaknesses, and (4) weak monitoring and evaluation
+and results frameworks. A follow-up portfolio review is planned for FY11 to take stock of
+progress and agree on further action.
+
+
+On transparency and accountability, progress has been mixed. There has been concern
+about the possible, indirect impact of the federal Proclamation for Charities and Societies
+on social accountability initiatives. However, operationally the Bank has continued to
+ensure progress. For example, for PBS 2 accountability and fairness make up one of the
+four main principles against which progress is being reviewed. In addition, the Bank and
+other donors have ensured that programs have mechanisms to monitor for any systemic
+distortion of access to project benefits, for political gain, and are working with the GoE
+on ways further to strengthen these mechanisms.
+
+
+
+The Bank is concentrating its efforts on four key areas of procurement weakness that
+contribute to persistent procurement and contract execution delays: borrow readiness to
+begin project implementation following financing approval, capacity enhancement,
+communication and prior reviews. Progress is slow and has been compounded by
+difficulties in recruiting Procurement Officers, but overall communication with project
+executing agencies has improved as internet connectivity increases. A rise in the
+maximum prior review and International Competitive Bidding thresholds represents a
+shift of responsibility to GoE for processing most contracts.
+
+
+
+Already significant progress has been made in following up on some key
+recommendations to improve financial management, including a move from manual to
+computerized systems at the federal level for Bank-financed projects channeled through
+Ministry of Finance and Economic Development (MOFED), recruitment of roving
+accountants and intensive training of accountants to build project management capacity
+and of Office of the Federal Auditor General (OFAG) and Audit Services Corporation
+auditors, which audit about 90 percent of Bank financed projects. Internal audit training
+is planned for FY11. Very little progress has been made toward improving the timely
+submission of withdrawal applications.
+
+
+
+As a critical step in improving weak Monitoring and Evaluation (M&E) and results
+frameworks, an M&E workshop for Bank Task Team Leaders and government
+counterparts, followed by project clinics to address specific challenges in implementing
+and reporting on project M&E, is planned for FY11.
+
+31.
+Recently, the Bank has also begun enhanced and joint supervision of financial
+management under large multi-donor programmatic investments. Enhancements are
+designed to help prevent loss of project resources, including by providing a system for full
+supervision coverage at the federal, regional and woreda levels. This enhanced financial
+management supervision ensures better sharing of knowledge among donors on financial
+management issues and coherent and efficient dialogue with GoE.
+
+10
+
+C. Adjustments to the CAS Program
+32.
+The FY08-10 CAS program continued to be aligned with the PASDEP objectives
+which have remained unchanged through CAS implementation. Changes largely facilitated
+GoE’s progress toward its objectives, and larger than programmed resource availability. In
+addition, in FY10 the Bank began tracking relevant IDA core indicators for new lending
+approvals and projects under implementation.
+33.
+An IDA 15 allocation that was larger than foreseen, and also front loaded,
+supported a lending volume greater than that presented in the CAS. The CAS was prepared
+before IDA15 had been allocated and thus included only indicative future commitments, based
+on an IDA14 allocation of US$1.875 billion. However, the IDA15 replenishment, coupled with
+no changes in Ethiopia’s overall Country Policy and Institutional Assessment (CPIA), resulted in
+an allocation equivalent to about US$2.5 billion for FY09-11, some 80 percent of which has
+been committed in FY09 and FY10. The Government requested frontloading of the program to
+help meet its external financing needs and sustain overall macro-economic performance.
+34.
+The Bank also responded rapidly to GoE’s request to help mitigate a looming food
+crisis in FY09. To help Ethiopia avoid a crisis due to drought and food shortages, in November
+2008 the Bank added support for an emergency food crisis response program. Under this
+program, two IDA credits were approved:
+
+
+
+additional financing for the Productive Safety Net Program (PSNP), which supported
+food and cash assistance to food-insecure households, and
+a Fertilizer Support Project providing foreign exchange to support the import, distribution
+and sale of fertilizer.
+
+These credits were financed in part through portfolio restructuring, under the terms of the GFRP,
+which allowed the reallocation of US$137.5 million.
+35.
+The program has comprised sector investments most of which were planned in the
+CAS, with the exception noted above and a few other additions. In the absence of agreement
+with GoE on significant changes in structural policies, the economic conditions for a PRSC have
+not materialized. The program of investments anticipated in FY08 and FY09 went forward
+largely as planned, with some upward adjustments in program size to accommodate financing
+needs and the addition of a regional agriculture program reflecting the Africa Region’s growing
+commitment to regional initiatives. For FY10, additional financing has been favored as the most
+efficient lending instrument instead of the new operations that had been programmed for public
+sector capacity building, roads, and water supply and sanitation, and enabled expedited
+preparation to bring the latter forward from FY11. The prospective project for rural
+development was renamed the Agriculture Growth Program to reflect its emphasis on growth as
+an essential complement to ongoing efforts targeted directly at food insecure households, and has
+been postponed to FY11. Additional private sector development support has been delayed
+because the existing project has progressed more slowly than expected. Additional financing for
+the electricity access expansion project was added to better support distribution networks in
+urban areas. Table 2 provides a detailed comparison of the original CAS Program, actual
+commitments, and the indicative program for FY11.
+
+11
+
+Table 2: Revised CAS Lending Program, FY08-11 (Actual or Indicative)
+See Paragraph 45 for discussion of the proposed FY12 lending program.
+Original CAS Lending Program (US$ M)
+FY08
+Rural Electricity Access Expansion 2
+$133.5
+Protection of Basic Services Add. Financing
+215
+Ethiopia/NBI Power Export: Ethiopia/Sudan
+41
+Tana Beles Integrated Water Resources
+45
+Urban Local Government Development
+100
+Sustainable Land Management
+20
+Nutrition
+30
+Pastoral Community Development 2
+50
+
+CAS Progress Report Lending Program (US$ M)
+FY08 Actual
+Rural Electricity Access Expansion 2
+$133.5
+Protection of Basic Services Add. Financing
+215
+Ethiopia/NBI Power Export: Ethiopia/Sudan
+41
+Tana Beles Integrated Water Resources
+45
+Urban Local Government Development
+150
+Sustainable Land Management
+20
+Nutrition
+30
+Pastoral Community Development 2
+80
+
+Total FY08
+FY09
+Protection of Basic Services 2
+General Education Quality Improvement
+Sustainable Tourism
+Roads Adaptable Program Loan APL 4
+
+Total FY08
+FY09 Actual
+Protection of Basic Services 2
+General Education Quality Improvement
+Sustainable Tourism
+Roads APL 4
+East Africa Agriculture Program**
+Global Food Crisis Response Program:
+Fertilizer Support Project
+Productive Safety Net APL 2 AF
+Restructuring
+
+$634.5
+
+Total FY09
+FY10
+Productive Safety Net Program APL 3
+Rural Electricity Access Expansion 3
+Rural Development
+PSD Support
+Public Sector Capacity Building Program
+
+$635*
+
+Total FY10
+FY11
+Power/Ethiopia Kenya Interconnector
+Water Supply and Sanitation
+Sustainable Land Management 2
+Pastoral Community Development 3
+Roads APL 5
+Possible PRSC
+
+$635*
+
+Total FY11
+Total Lending FY08 – FY11
+
+Total FY09
+FY10 Actual
+Productive Safety Net Program APL 3
+Electricity Access Expansion Add. Financing
+Public Sector Capacity Building Program AF
+Water Supply and Sanitation Add. Financing
+Roads APL2 Additional Financing
+
+$714.5
+$540
+50
+35
+245
+30
+250
+25
+($137.5)
+$1,037.5
+$480
+180
+50
+80
+100
+
+Total FY10
+FY11 Indicative
+Agricultural Growth Program†
+Protection of Basic Services 2 Add. Financing
+
+$150
+$340
+
+$635*
+
+Total FY11
+
+$490
+
+$2,539.5
+
+Total Lending FY08 – FY11
+
+$3,132
+
+* Indicative IDA 15 amount based on FY08 IDA allocation. ** Regional program. † Includes $86.5 million allocated from the
+Crisis Response Window. “tbd” to be determined.
+
+12
+
+$890
+
+37.
+As anticipated in the CAS, the lending program is shifting towards investments that
+are programmatic in nature, results based and include multiple donors. All lending in
+FY10 supported one of the eight comprehensive government results-based, multi-donor
+programs described in paragraph 26. In comparison, about half of the investments approved in
+FY08 and FY09 were programmatic, results based and multi-donor in nature (PBS, General
+Education Quality Improvement Program (GEQIP), Roads, PSNP, Rural Electrification, and
+Sustainable Land Management). These programs help facilitate coherent dialogue that focuses
+on results on program implementation and important policy issues, including capacity
+development, and reduces transaction costs for GoE by providing an efficient platform for
+dialogue. They have served as models to other countries seeking to apply a results-based
+approach and have been important inputs into the discussions around the design of a new results
+based investment lending instrument. Ethiopia was the first country to endorse the new
+International Health Partnership, a multi-donor program inaugurated in 2009, through which
+development partners intend to channel programmatic support for health in the future through an
+intended pilot of the results based instrument.
+38.
+Much of the support to Ethiopia from other donors has continued to be channeled
+through a variety of Bank-administered trust funds which build on the results-based focus
+of Bank-financed programs. The trust fund portfolio continues to be one of the largest in the
+Africa Region and has disbursed US$787 million so far during the CAS period. Trust funds
+include multi-donor and single-donor funds set up exclusively for specific programs in Ethiopia,
+as well as grants under global and regional programs such as the Global Environment Facility
+(GEF), Education for All – Fast Track Initiative (EFA-FTI), the Nile Basin Initiative (NBI), and
+the Global Partnership for Output Based Aid (GPOBA).
+39.
+The Bank’s AAA program was carried forward largely as planned with some delays
+in timing. These delays arose partly because of our focus on frontloading the lending program to
+help GoE meet its external financing and macro-economic needs, particularly in the roads and
+energy sectors, and partly reflected longer than anticipated review processes by GoE. There was
+in addition a focus on growing areas of concern such as climate change. As anticipated, the
+Bank undertook jointly with the government investment climate assessments in urban and rural
+areas to help strengthen existing government mechanisms for data collection around country
+objectives, together with annual public finance reviews. The Bank and GoE also carried out
+studies on the growth corridors in Amhara and Addis Ababa to explore ways to manage their
+economic potential better, and derive maximum development benefits from economic activity.
+Findings of a study on unleashing the economic potential of women, looking at the linkages
+between gender and poverty may form the basis for a possible FY12 lending proposal.
+40.
+As anticipated in the CAS, IFC resumed investment activities in FY08, and in early
+FY09 posted a representative in Ethiopia after a hiatus of about eight years. Following its
+strategy to explore direct investments in high growth priority sectors, IFC committed a
+US$55 million loan to a cement manufacturing plant in FY08, and in FY10 committed an
+investment of US$11.3 million in the mining sector to help expand and diversify export
+revenues. In addition, US$10 million of a US$50 million regional investment in FY09 with a
+Saudi hospital operator will be used to establish a new hospital in Addis. However, GoE
+restrictions on foreign borrowing, foreign ownership, lending growth, and regulated tariff
+structures have held up a series of initiatives that could have deepened financial markets,
+improved access to financing, particularly for smaller firms that dominate the economy, and
+attracted private investments in the power generation sector. Despite these restrictions, IFC has
+continued to find innovative ways to support Ethiopian agribusiness and manufacturing
+corporates and Micro & Small/Medium Enterprises (MSMEs), using domestic banks as vehicles
+13
+
+when required. For example, IFC is working with TechnoServe and selected domestic banks to
+guarantee lending to coffee farmer cooperatives under the Ethiopian component of the East
+Africa Coffee Initiative, a US$50 million rural income improvement program funded by the
+Gates Foundation. In addition, IFC is working with the Ethiopia Commodity Exchange and
+domestic commercial banks to develop a warehouse receipts finance market. This market would
+help small- and medium-size firms, in the agricultural production and marketing value chain,
+access credit through standardized and affordable lending instruments (Warehouse Receipt
+Loans) to finance their operations and grow their businesses. In manufacturing, IFC is exploring
+support to industrial zones projects, and the companies which would eventually locate in them,
+with one project under active development. Finally, IFC was instrumental in the establishment
+of the Ethiopia Public-Private Dialogue Forum. Together with UNDP, IFC will fund the first
+years of operations, and it will expand its staffing to support the program.
+IV. STRATEGY GOING FORWARD: FUTURE BANK ENGAGEMENT
+41.
+The overall objectives set out in the original CAS remain valid, and are broadly
+consistent with the GTP—GoE’s new PRSP—which puts increased emphasis on private
+sector involvement in economic growth. Several adjustments in the CAS program are needed
+to respond to the changing environment and progress toward CAS outcomes, and to capitalize on
+potential post-election opportunities to move forward including on needed structural changes.
+Overall, this CASPR introduces the following two adjustments:
+a) The current CAS period will be extended by one year to cover FY12. This extension
+reflects the fact that the CAS’s main themes and pillars remain appropriate but also
+responds to three particular concerns. First, as discussed in section III.A above, progress
+toward the outcomes specified in the CAS has, overall, been slower than expected.
+Besides adapting some of the indicators where they were over-ambitious, overlapping or
+difficult to monitor, an additional year for implementation will better ensure achievement
+of the targeted outcomes. Second, it is important for the next CAS to be based on a
+strong understanding of poverty in Ethiopia. Current, detailed data on the incidence and
+distribution of poverty date from 2005, and the next household survey (due to begin in
+fall 2010) is unlikely to produce information until well into FY12, so a CAS written in
+FY12, to cover FY13 and beyond will be better able to ensure appropriate targeting of
+Bank activities. Third, it gives the Bank a year to better understand the GoE’s GTP, and
+design in collaboration with the GoE a program that reflects shared priorities.
+b) The CAS Results Matrix has been revised, updated, and streamlined to improve its
+quality and realism. The original matrix was rather long and ambitious with 26 core
+outcomes and 51 indicators. Baselines and targets were missing from some indicators,
+with data not readily available. The matrix has been revised and streamlined to 22 core
+outcomes and 38 indicators (7 of which are non-core). A CAS outcome to mainstream
+gender considerations in the project development objective of all lending, from FY11
+onwards, has been added. Three CAS outcomes have been dropped where either
+progress has been substantially slower than expected, reflecting shifts in GOE’s
+priorities, or there is an absence of an underlying Bank program, or data is not expected
+to become available during the CAS period. Two other outcomes have been consolidated
+to reduce overlap. The revised matrix also reflects the moderately slower pace of
+implementation in some cases; overambitious targets have been modified to more
+realistic levels and/or the timeframe extended. Most targets have been revised and
+adjusted to coincide with the extension of the CAS period through FY12. The revised
+14
+
+results matrix continues to include a mix of high-probability, but relatively, low-impact
+outcomes, as well as some lower-probability but higher-impact outcomes. As such,
+consistent with the CAS, satisfactory performance will have been achieved if 70-75
+percent of the entire set of outcomes are fully attained by the end of the revised CAS
+period. Annex 1 presents the revised matrix. Annex 2 explains the changes made to the
+core outcomes and related indicators, and Annex 3 summarizes the revised set of core
+CAS outcomes.
+42.
+The focus of lending and AAA activities will continue to support the CAS’s dual
+take-off strategy and strong partnerships with other donors. The emerging consensus
+among donors active in Ethiopia is that the conduct and outcome of the 2010 national elections
+need not imply major change in collective engagement with GoE, although they reinforce
+concerns about the space for the contestation of ideas. Within the framework of the GTP, the
+Bank will therefore continue to look for elements that can help promote more accurate and
+accessible information that expands the space for citizen engagement and private sector
+initiatives. Increasing support to development programs at the local levels will present
+opportunities for citizens to engage more actively in development-related decisions as well as to
+ensure greater transparency and accountability. More conscious support to programs that
+address needs at the community levels or of disadvantaged groups (especially, women) could be
+another way to build on the Government’s strong commitment to equity. Supporting GoE’s own
+new emphasis, the Bank will also promote new ways of supporting innovations by the private
+sector to improve the investment climate, including through a role in modernizing the financial
+sector. Finally, the Bank anticipates continuing with other donors its partnerships with the
+private sector and civil society, including academia, to help them play their important role in the
+development process.
+43.
+Decentralization has continued to gain prominence in the Bank’s lending program
+and policy dialogue, reflecting its importance in the GoE’s strategy. Decentralization is
+embodied in Ethiopia’s 1994 constitution. It has been progressively implemented, especially
+over the last ten years, as capacity at lower levels of government has developed, with support
+from the Bank, and other development partners, through a range of interventions, including both
+PSCAP and PBS. These programs both recognize the risks that weak decentralized capacity may
+pose, and have components specifically directed to address those risks. Reflecting this approach,
+Bank investments and AAA activities across the portfolio are carried out increasingly at the
+regional and woreda level, although the legal and financial structures on which these activities
+are based remain focused at the federal level. Looking forward, the Bank will explore with GoE
+how this decentralized focus should evolve and the case for streamlining the underlying legal and
+financial structures for Bank engagement.
+44.
+Based on extension of the CAS period, and country and portfolio developments,
+including progress toward CAS outcomes, the proposed lending program and AAA is
+different than that presented in FY08.
+
+
+The FY11 core lending program (Table 2) is expected to consist of the US$150 million
+Agricultural Growth Program, delayed from FY10, together with additional financing of
+US$ 340 million for PBS 2, which is needed as IDA funding for the PBS 2 block grant
+component has been exhausted, and PBS 2 underpins a large number of CAS outcomes
+on access to and quality of basic services, reducing vulnerability and fostering improved
+governance. The proposal under discussion with the GoE would provide up to two extra
+years of block grant support (leveraging new financing expected from other donors).
+15
+
+
+
+
+
+Besides continuing to support delivery at the local level in education, health, agriculture,
+water supply and sanitation, and rural roads, PBS 2 would also sustain improvements in
+public financial management systems to promote service delivery, and deepen
+transparency and local accountability.
+Of the original FY11 program, two operations are deferred to FY12—see below—while
+one was advanced to FY10 as additional financing (Water Supply and Sanitation). The
+remaining three operations have been delayed until at least FY13—the Ethiopia/Kenya
+interconnector depends on whether environmental issues regarding the Gibe III
+hydropower scheme are satisfactorily addressed; the Pastoral Community Development
+Program received more financing than expected in FY08, which, when coupled with
+slower than expected implementation, means there is no likely financing need in FY11 or
+FY12; the Roads APL 5 depends on completion of an ongoing piece of AAA and
+agreement with GoE on a program for universal roads access.
+The non-lending program for FY11 and FY12 will focus on key themes critical to
+implementing GoE’s strategy. It will revolve around a series of deliverables to explore
+innovations tailored to the Ethiopian context, and through which to improve decentralized
+service delivery, spur private sector led industrial growth and ensure food security.
+Dissemination will build on a successful seminar series hosted by the University of Addis
+Ababa (supported by the Bank and other donors), and will include inputs and
+commentary from cutting edge leaders and practitioners from within and outside of
+Ethiopia. Building on previous climate change AAA, the Bank is also producing a
+comprehensive analysis aimed at spelling out the economics of adaptation (EACC), from
+both a sectoral and macro perspective. The findings of this report will help inform the
+dialogue on how the Bank could support GoE’s efforts to promote a carbon neutral and
+climate resilient economy. This might include follow-up AAA work that would spell out
+the policy and operational implications of the EACC results in selected strategic sectors
+(such as transport, irrigation, energy) and underpin possible future lending in this area.
+
+45.
+For FY 12, the Bank is currently discussing the precise program with GoE. Subject
+to the resources available under IDA 16, it is expected to include some additional financing
+proposals to scale up existing operations (e.g. rural electricity, roads, private sector
+development). We are also discussing a new phase of the Sustainable Land Management
+Program, likely with a strengthened emphasis on land administration. Beyond that the Bank has
+identified for discussion an operation to build on ESW about women’s economic empowerment,
+and another to explore the potential of piloting results-based investment lending to support
+achievement of the health sector MDGs in Ethiopia, building on progress in the health sector
+supported by PBS 2, experience with results based approaches (e.g. under a GPOBA grant) and
+the IHP. The program will include a PRSC, if the Bank and GoE can agree on an agenda of
+structural changes, particularly those relating to private sector development, including industrial,
+financial sector, telecommunication and land policy.
+46.
+The IFC will continue to explore opportunities for deepening its engagement. Its
+strategy, which it has fine tuned based on about two years of renewed engagement, focuses on
+supporting private sector investment in agribusiness and the industrial sectors where there is
+strong market growth combined with a lack of supply response, and/or strong export potential.
+Where opportunities arise, it will seek to integrate its advisory services and investments building
+on the advanced partnerships forged with domestic banks, the Ethiopia Commodity Exchange
+and other partners. IFC will work through the financial sector, where possible, to improve access
+to finance, and in infrastructure to explore avenues for private participation that may emerge
+16
+
+through large-scale projects under consideration. It will continue to partner with the Bank and
+others on policy dialogue related to growth and private sector development, including through
+the recently established Ethiopia Public-Private Dialogue Forum, which may become a platform
+for more focused advisory assistance on various areas of investment climate reform.
+V.
+
+RISKS AND MITIGATION
+
+47.
+The four main risks identified in the CAS are still valid. Risk is relatively steady in
+two areas—governance-related risks and macroeconomic risks—and mitigation are the same as
+described in the CAS. It has increased in two others—vulnerability to external shocks and weak
+capacity.
+48.
+There is heightened vulnerability to external shocks due to a risk of food price
+shocks that could result from a rise in global commodity prices, uncertainty of the
+probability of major drought or extensive rains in the near future, and a risk of decreased
+availability of external finance.
+
+
+Ethiopia appears on course for a good domestic harvest in 2010. However, the country
+has a structural food deficit, making it reliant on food aid, and it is also experiencing
+changing consumption patterns, both of which make Ethiopia somewhat vulnerable to an
+increase in global wheat prices. Climatic conditions this year seem likely to depress
+wheat production, and prices are therefore likely to rise significantly.
+
+
+
+The CAS did note the prevalence of drought in Ethiopia and the potential for resulting
+impacts. In addition, as weather patterns become more erratic because of climate change,
+extreme events such as droughts or floods may become both more frequent and more
+intense. Quite conceivably, after six years without a severe drought, the next occurrence
+may have a major impact. To mitigate the risk of extreme weather events, the Bank has
+been supporting the government to prepare a disaster risk management strategy which is
+pending ratification and implementation. A drought could result not just in food
+shortages (to be mitigated through the Bank supported productive safety net program),
+but also have an impact on power generation as Ethiopia relies heavily on hydroelectric
+power. The government is mitigating this risk through increasing energy capacity,
+improving energy efficiency, and through interconnectivity with neighboring countries.
+Increased rains could have implications for flooding which the government is mitigating
+through the development of flood management systems with Bank support.
+
+
+
+There is some evidence that African countries continue to be vulnerable to the financial
+crisis in other parts of the world. The unfolding debt crisis in Europe may have
+reverberations that are more serious than the first wave of the financial crisis and
+Ethiopia’s access to external sources of financing may tighten, particularly if governance
+or environmental concerns are exacerbated. To mitigate this risk, the Bank will maintain
+our close dialogue with the government, private sector and civil society representatives,
+other donors and regional institutions. Potential options for responding include a further
+portfolio restructuring to accelerate disbursements for programs with broad agreement; or
+bringing forward a PRSC provided there were to be agreement on an appropriate program
+of structural changes.
+
+Effects of rain failure or a rise in global commodity prices likely will be more pronounced if
+energy shortages and currency issues are not addressed and credit to the private sector remains
+tight.
+17
+
+49.
+Risks related to weak capacity are increasing as the Bank’s program engages more
+and more at the local level. The Bank will continue to support improvements in financial
+management and procurement capacity as described in the CAS to mitigate this risk. In addition,
+the Bank’s move toward programmatic support, by supporting a comprehensive government
+sector program implemented by civil servants rather than isolated ring-fenced donor financed
+projects that operate in parallel to government programs, facilitates coherent policy
+recommendations and suggestions on institutional policies that could help the government find
+and adopt solutions to build capacity. However, this brings with it a subsidiary risk that if, for
+any reason, the development partnership underlying such programmatic approaches were to
+fragment, the implementation approaches used for most of the Bank’s program would need to be
+reviewed and revised.
+
+18
+
+ANNEX 1: CAS Results Framework
+Longer-Term Development Agenda for Ethiopia
+Strategic and LongerTerm Country
+Outcomes
+
+Issues/obstacles and Bank
+strategy
+
+Outcomes Influenced by the CAS Program by end Fiscal Year (FY) 2012
+CAS Outcomes that the Bank
+expects to influence and indicators
+(the 21 CAS core outcomes are
+bolded and shaded)
+
+Milestones
+
+Progress to date
+
+Bank Assistance and
+Partners1
+
+Strategic Objective 1: Fostering economic growth
+1.1 Support macrofiscal stability
+
+Rapid growth poses risks of macro
+imbalances (especially inflation
+and external balance). GoE is
+well aware of these risks and
+addressing them. The Bank, with
+IMF, to continue providing policy
+advice and look ahead for
+emerging issues.
+
+Revenue growth has fallen short of
+GDP growth recently and
+constrains the fiscal space. IMF
+and the Bank have worked closely
+with GoE in developing a plan for
+more effective domestic resource
+mobilization. The Bank to
+continue the effort.
+
+1.2. Accelerate the level
+and productivity of
+investment in
+infrastructure in a
+sustainable manner
+
+1
+2
+
+High costs due to lack of
+competition and slow contractor
+performance in implementation
+constrain the progress of
+ambitious road network expansion
+plan. To remedy this, GoE is keen
+to strengthen domestic
+construction industry. The Bank
+will support GoE in developing a
+program to foster domestic
+industry and robust competition.
+
+1.
+Structural and macroeconomic
+policies are conducive to sustain
+internal and external balance
+I1. Inflation rate declines from
+34% in 2007/08 to single digits by
+2010/11 and is sustained through
+2011/12.
+Progress to date: Inflation
+declined to 7.3% in June 2010.(
+The annual moving average
+inflation rate at June 2010 is 2.8%)
+Increase domestic resource
+mobilization
+I2. Revenue/GDP ratio increases
+from 12.1% in 2007/08 to 14.3% in
+2011/12.
+Progress to date: Revenue/GDP
+fell to 12.0% in 2008/09, but is
+expected to increase marginally to
+12.6% in 2009/10.
+
+M1. Prudent
+management of
+monetary policy to curb
+inflation.
+
+m1. Broad money growth has
+slowed down, but reserve
+money growth rate has
+increased.
+
+M2. Establishment of
+M & E system for
+investment and
+contingent liabilities in
+the public enterprises.
+
+m2. A Committee has been
+set up to monitor domestic
+borrowing of public
+enterprises, but not their
+investment programs.
+
+M3. Timely preparation
+of an integrated and
+consistent MacroEconomic and Fiscal
+Framework.
+
+m3. MEFF is prepared on
+time and its consistency has
+improved, though some of its
+macro assumptions need
+further improvements.
+
+M4. Full
+implementation of
+ongoing tax
+administrative reforms.
+
+2. Strengthen road sector
+institutions and domestic road
+construction industry
+I3. Volume of civil works contracts
+disbursed by Domestic Contractors
+increased from 35% of total in
+2007/08 to 54% by 2011/12.
+Progress to date: 43% showing
+steady progress from the base line
+in 2009/10.
+
+M5. Domestic
+Construction Industry
+(DCI) policy formulated
+and comprehensive
+capacity building
+program launched.
+
+m4. Tax administrative
+reforms are under
+implementation, though IMF
+has recently suggested more
+changes.
+m5. The DCI policy was
+drafted and distributed for
+feedback in early 2009. The
+comprehensive capacity
+building program has not yet
+been launched, pending
+finalization of the DCI policy
+and increased priority given to
+it within the Ministry of
+Works and Urban
+Development.
+
+List of partners is not intended to be exhaustive and any omissions are unintentional.
+PSCAP Partners include DFID, CIDA, and Irish Aid, with Italy and EU support planned.
+
+19
+
+AAA
+Macro Fiscal Issues Growth
+New Lending
+Possible PRSC
+Partners
+IMF
+
+AAA
+Public Finance Review
+(JBAR)
+Macro Fiscal Issues Growth
+Public Expenditure Review
+On-going Lending
+PSCAP
+New lending
+Possible PRSC
+Partners
+IMF, PSCAP Partners2
+AAA
+Strategic Review of Road
+Sector Development
+On-going Lending
+Road Sector APLs 2-4
+New lending
+Roads APL 3 AF
+Partners
+EC, DFID, AfDB
+
+ANNEX 1: CAS Results Framework
+Longer-Term Development Agenda for Ethiopia
+Strategic and LongerTerm Country
+Outcomes
+
+Issues/obstacles and Bank
+strategy
+
+1.2. Accelerate the level
+and productivity of
+investment in
+infrastructure in a
+sustainable manner
+(continued)
+
+1.3. Increase
+productivity of
+agriculture
+
+Ethiopia’s economic fortunes are
+closely linked with neighboring
+countries in a number of ways.
+The Bank will support regional
+investments that can not only
+bring economic benefits, but can
+also build greater
+interdependence, which could
+reduce the likelihood of intraregional conflict. In both respects,
+regional integration can be a key
+factor in helping to sustain
+Ethiopia’s recent economic
+growth.
+GoE is committed to expand
+generation capacity and access
+rapidly. Care needs to be taken to
+ensure efficient modalities of
+delivery (i.e., grid vs. off-grid) and
+implementation. Expansion of
+generation capacity requires
+careful phasing and financial
+planning. The Bank will focus on
+offering advice on efficient plans
+and providing or facilitating
+financing where needed.
+Raising agriculture productivity
+has been central to PASDEP.
+Extension services need further
+strengthening. There is some
+
+Outcomes Influenced by the CAS Program by end Fiscal Year (FY) 2012
+CAS Outcomes that the Bank
+expects to influence and indicators
+(the 21 CAS core outcomes are
+bolded and shaded)
+Improve road density
+I4. Road density per 1000 sq.km
+increases from 38.6 km in 2007 to
+45.7 km in 2011/12.
+Progress to date: 42.6 km in 2010.
+
+Milestones
+
+Progress to date
+
+Bank Assistance and
+Partners1
+
+M6. Ethiopian Road
+Authority reformed on
+commercial basis and
+operational departments
+spun off from ERA.
+
+m6. The government plans to
+unbundle the ERA into
+operational and regulatory
+institutions by end-2010. A
+regulation establishing the
+Ethiopian Roads Construction
+Corporation and a
+proclamation for the reestablishment of the ERA are
+being submitted as drafts to
+the Council of Ministers.
+
+M7. Transmission line
+from Ethiopian power
+grid to Sudanese border
+completed.
+
+m7. Transmission
+interconnector with Sudan is
+under construction. Power
+Purchase Agreement has been
+signed.
+
+M8. Eastern Nile
+strategic basin
+assessment and
+assistance strategy
+completed.
+
+m8. Eastern Nile Strategic
+Basin Assessment and
+assistance strategy underway;
+draft report anticipated in
+Nov. 2010.
+
+Increase access to electricity
+I7. Percent of towns with access
+through at least one connection to
+electricity increases from 16% in
+2004/05 to 50% in 2010/11.
+Progress to date:
+>50% in 2010.
+
+M9. Increase the pace
+of connections to the
+grid by 20% in
+electrified towns and
+villages, leveraging
+Output Based Aid
+(OBA) instruments.
+
+M9. The electrification
+program has progressed well,
+but there is a country wide
+moratorium on new
+connections, including
+GPOBA beneficiaries.
+Ethiopian Electric Power
+Corporation should resume
+connections in September
+2010.
+
+On-going Lending
+Energy Access SIL
+Rural Access Exp’n 1
+Rural Access Exp’n 2
+GEF Energy Access
+New lending
+Rural Access Exp’n 2 AF
+Partners
+EIB, EC, AfDB, Italy,
+China, India, Kuwait Fund,
+GPOBA
+
+4. Increase agricultural
+productivity in selected intervention
+areas
+I8. Average agriculture value
+
+M10. Increase in area
+with land certification.
+
+m10. Coverage of private
+rural land holdings with first
+level certificate estimated at
+44% in 2007 and 66% in
+
+AAA
+Rural Investment Climate
+Assessment
+Rural Access Development
+
+3.
+
+Enhance regional integration
+I5. Power traded between
+Ethiopia, Sudan, and/or Djibouti.
+Progress to date: Power is
+planned to be traded starting in
+2010.
+I6. Establishment of an East
+Africa Power Pool under the NBI
+framework by end-2011/12.
+Progress to date: Funds have been
+allocated to carry out studies to
+develop an East Africa Power Pool.
+
+20
+
+On-going Lending
+Ethiopia/Nile Basin
+Initiatives Power Export:
+Ethiopia/Sudan
+Partners
+AfDB, NBI Partners
+
+ANNEX 1: CAS Results Framework
+Longer-Term Development Agenda for Ethiopia
+Strategic and LongerTerm Country
+Outcomes
+
+Issues/obstacles and Bank
+strategy
+ambiguity on whether productivity
+has increased significantly. The
+Bank’s PBS and RCBP will
+continue to help improve access
+and quality of extension services.
+Some analytical work is likely to
+help ensure proper focus of
+resources on the right
+interventions for productivity
+enhancement.
+
+Outcomes Influenced by the CAS Program by end Fiscal Year (FY) 2012
+CAS Outcomes that the Bank
+expects to influence and indicators
+(the 21 CAS core outcomes are
+bolded and shaded)
+added to increase by 5% per annum
+Progress to date: Average
+agricultural value added increased
+7.5% in 2007/08 and 6.0% in
+2009/10.
+
+Milestones
+
+M11. Results-based
+M&E system developed
+for agricultural
+extension, vocational
+education, and research.
+
+M12. Sustainable Land
+Management Project
+(SLMP) and Tana Beles
+Project actively
+implemented in a
+minimum of 35
+woredas.
+
+1.4 Strengthen supply
+responsiveness of
+industry and services
+sector
+
+Inefficiency of the banking sector
+will hamper private sector growth.
+
+1.4 Strengthen supply
+responsiveness of
+industry and services
+sector
+(continued)
+
+The low penetration rate of
+telephone service and the high
+rate for international calls hinder
+private sector growth. Limited
+access to internet also hurt small
+
+5. Improve financial sector
+performance
+I9. Credit to the private sector as a
+ratio to GDP increases from 12%
+in 2005/06 to 16% in 2011.
+Progress to data: Credit to the
+private sector increased in absolute
+terms from ETB16.1 billion in
+2005/06 to ETB30.5 billion but in
+relative terms it decreased to 9% of
+GDP in 2009.
+6.
+Reduce cost of internet service
+I10. Cost of broadband and dial-up
+Internet services to decline by 40%
+and 20%, respectively, between
+2008 and 2011.
+
+Progress to date
+2009.
+m11. (a) Development of
+M&E system for the national
+agricultural research under
+way.
+(b) M&E for agricultural
+extension and vocational
+education under RCBP has
+made progress including
+through an impact assessment
+study (June 2010).
+m12. SLMP is under active
+implementation in 35 woredas
+and Tana Beles Project in 5
+woredas.
+
+M13. Feasibility studies
+completed for irrigation
+of 104,000 ha by end2011/12.
+M14. Conclude the
+implementation of
+National Payments
+Systems (NPS) and the
+Credit Information
+Center (CIC),
+
+m13. Feasibility studies for
+24,000 ha have been
+completed, and are underway
+for an additional 80,000 ha.
+m14. IDA has provided its no
+objection to the procurement
+process for both assignments
+and for the NBE to proceed to
+contract negotiations with the
+chosen firms for the NPS and
+CIC
+
+M15. At least 5 private
+retail Internet Service
+Providers operational.
+
+m15. While Ethiopian
+Telecommunication Agency
+has licensed 5 private ISPs,
+none are operational.
+
+Bank Assistance and
+Partners1
+Regional Growth Study
+On- going Lending
+PBS 2
+Pastoral Community
+Development Program 2
+(PCDP 2)
+Irrigation & Drainage SIL
+Sustainable Land
+Management1 Specific
+Investment Loan (SIL)
+Tana Beles
+Eastern African
+Agricultural Productivity
+Capacity Building for
+Agriculture Service
+New Lending
+PBS 2 AF
+Sustainable Land
+Management 2 SIL
+Agricultural Growth
+Program
+Partners
+REDFS group3
+AAA
+Financial Sector Review
+On-going Lending
+Financial Sec. Cap. Bldg.
+New Lending
+Possible PRSC
+Partners
+IMF
+
+AAA
+Telecom Reform Options
+New Lending
+Possible PRSC
+
+3
+Rural Economic Development and Food Security (REDFS) Group includes AfDB, Austrian Development Cooperation, CIDA, DFID, EC, FAO, German Development Cooperation, IFAD IFPRI, Irish Aid, Italian
+Cooperation, JICA, Norway, SIDA, The Netherlands, UNDP, USAID, WFP.
+
+21
+
+ANNEX 1: CAS Results Framework
+Longer-Term Development Agenda for Ethiopia
+Strategic and LongerTerm Country
+Outcomes
+
+Issues/obstacles and Bank
+strategy
+businesses. The focus on
+sustaining growth should open a
+space for further dialogue.
+
+GoE’s strategy has tended to pick
+a small number of ‘winners.’ To
+elicit much greater supply
+response from the economy,
+Ethiopia is likely to need a more
+open approach to promotion of
+investment. Focusing on the need
+to sustain rapid growth,
+encourage a strategic shift.
+
+The quality and standards of
+corporate financial reporting in
+Ethiopia need to be improved and
+brought in line with international
+good practices. The necessary
+legal framework and institutional
+infrastructure for this need to be
+put in place.
+
+Outcomes Influenced by the CAS Program by end Fiscal Year (FY) 2012
+CAS Outcomes that the Bank
+expects to influence and indicators
+(the 21 CAS core outcomes are
+bolded and shaded)
+Progress to date: Monthly cost of
+internet connection (incl. 600
+minutes) fell from ETB60 in 2008
+to ETB40 in 2010 (33% reduction).
+Broadband infrastructure is under
+development, but service is still
+limited. Monthly cost of a 2 Mbps
+ADSL connection has fallen from
+ETB47,479 in 2008 to ETB10,747
+in 2010 (77% decrease).
+7.
+Improved investment climate
+helps Ethiopia benefit from increased
+globalization
+I11. Cumulative increase in FDI
+of at least 40% by the end of the
+CAS period.
+Progress to date: FDI increased
+from about US $365 million to
+about US $880 million, about
+141% increase between 2005/06
+and 2008/09.
+
+Improve quality of corporate
+financial reporting
+I12. Ethiopia’s corporate sector
+follows accounting and auditing
+standards that are in line with
+International Financial Reporting
+Standards (IFRS) and International
+Standards of Auditing (ISA) as
+assessed by the 2012 ROSC.
+Progress to date: Financial
+reporting law and directive which
+require adherence to IFRS and ISA
+passed.
+
+Milestones
+
+Bank Assistance and
+Partners1
+
+Progress to date
+
+M16. Public-Private
+Dialogue (PPD) Forum
+reinstituted and
+considered effective by
+private sector.
+
+m16. MOU between the
+Ethiopia Chamber of
+Commerce and Sectoral
+Association, governing the
+PPD process signed.
+
+M17. Revised Trade
+Practices Proclamation
+adopted to address
+current deficiencies.
+
+m17. A revised Competition
+Law has been submitted and
+deliberated on by the Council
+of Ministers and is waiting to
+be lodged for Parliamentary
+approval.
+
+M18. Satisfactory
+national accounting and
+auditing standards
+issued, and legal
+framework established
+to ensure compliance
+with these standards.
+
+m18. (a) Proclamation
+submitted to OFAG to adopt
+Ethiopian standards for IFRS
+and ISA--next steps COM and
+Parliamentary approval.
+(b) Draft Constitution, by laws
+and Code of Conduct for
+Institute of CPAs of Ethiopia
+and draft organizational
+structure and scope of
+activities of the National
+Accounting and Auditing
+Board submitted to OFAG.
+
+AAA
+Investment Climate
+Assessment (ICA)
+Public Private Forum
+Tourism Competitiveness
+Service Trade and Growth
+Innovation for Devel’p’t
+On-going Lending
+PSD Cap. Building
+Tourism Dev. Project
+New Lending
+PSD Cap. Building AF
+Partners
+US, EC, DFID, ADB, IMF
+AAA
+ROSC Accounting and
+Auditing
+EITI MDTF
+
+Strategic Objective 2: Improving Access to and Quality of Basic Service Delivery
+2.1 Improve
+
+PASDEP commitment to universal
+
+8.
+
+Increase girls’ enrollment in
+
+22
+
+M19. Block grants to
+
+M19. GoE continues to
+
+AAA
+
+ANNEX 1: CAS Results Framework
+Longer-Term Development Agenda for Ethiopia
+Strategic and LongerTerm Country
+Outcomes
+access/coverage of basic
+services
+
+Issues/obstacles and Bank
+strategy
+education is strong, but continued
+improvement in decentralized
+service delivery is needed. The
+Bank to continue support for this
+process, with particular focus on
+creating more space for localized
+responses to address obstacles.
+
+While progress has been made,
+access to potable water and
+sanitation services remains low.
+Availability of resources remains a
+big challenge, and sustainability
+of the system deserves attention.
+The Bank has been well engaged
+in the sector. It will continue to
+scale up support in part by
+bringing other donors into the
+sector.
+
+2.1 Improve
+access/coverage of basic
+services
+(continued)
+
+4
+
+GoE’s commitment to improving
+access to health care is clear, but
+there is a scope for much greater
+harmonization. The Bank will
+focus on resource mobilization
+
+Outcomes Influenced by the CAS Program by end Fiscal Year (FY) 2012
+CAS Outcomes that the Bank
+expects to influence and indicators
+(the 21 CAS core outcomes are
+bolded and shaded)
+primary and secondary education
+I13. Ratio of girls to boys in
+primary school increases from 89%
+in 2006/07 to 93% in 2011/12 in
+grades 1-4 (1st cycle of primary),
+76% to 93% in grades 5-8 (2nd
+cycle of primary), from 63% to
+75% in grades 9-10 (1st cycle of
+secondary) from 50% to 50% in
+grades 11-12 (2nd cycle of
+secondary) (the 2011/12 target for
+grades 11-12 is the same as the
+2006/07 baseline due to decline in
+percentage in 2008/09)
+Progress to date: Ratio of girls to
+boys in 2008/09 in Grade 1-4 was
+90%, in Grade 5-8 89%, in Grade
+9-10 72%, and Grades 11-12 41%.
+9. Increase sustainable access to
+potable water and sanitation services
+I14. Total population with access
+to safe drinking water (rural and
+urban) increased from 52% in
+2007/08 to 74.5% in 2011/12.
+Progress to date: 66.2% in
+2009/10.
+I15. % of rural/urban households
+using latrines increased from 39%
+2007/08 to 60% 2011/12.
+Progress to date: 56% in 2009/10.
+I16. Proportion of malfunctioning
+rural water facilities reduced from
+25% in 2007/08 to 16% in 2011/12.
+Progress to date: 20% in 2009/10.
+10. Increase delivery of key health
+services: malaria control, HIV/AIDS
+prevention, vaccination, nutrition,
+contraception
+I17. Proportion of children
+
+PBS Partner Group includes World Bank, DFID, AfDB, EC, CIDA, KfW, Netherlands, Austria, Italy, Ireland, Spain.
+
+23
+
+Milestones
+
+Progress to date
+
+woredas continue to
+increase.
+
+increase block grants to
+regions & woredas every
+fiscal year. In 2006/07
+US$1.1 billion was
+distributed and increased to
+US$1.47 billion in 2009/10.
+
+M20. PCDP coverage
+increased to address
+special needs of
+pastoralist children.
+
+m20. In the first phase of
+the program, PCDP covered
+32 woredas (2003-2007),
+and in the second phase
+(2008-present) the coverage
+increased to 55 woredas.
+
+M21. User groups
+organized to operate and
+maintain water points
+and promote hygiene
+and sanitation practices.
+
+m21. 90% of participating
+communities are organized
+to plan, manage, and
+operate their WSS schemes
+and coordinate with the
+health extension workers in
+promoting health and
+sanitation practices.
+m22. 85% of the 87 small
+towns pop. <15,000; 50%
+of the 29 large towns pop.
+>15,000; and 100% of the
+six loan receiving towns
+have autonomous board
+management and most have
+completed business plan.
+m23. See M29 for block
+grants Distribution of
+Medical equipment and
+supplies was completed for
+976 health centers as of
+
+M22. Autonomous
+urban utilities
+strengthened to operate
+with business plans and
+with improved
+management.
+M23. Woreda
+governments receive
+increased funding for
+service delivery through
+block grants and
+
+Bank Assistance and
+Partners1
+Decentralized Service
+Delivery
+On-going Lending
+PBS 2
+Pastoral Comm. Devt. 2
+GEQIP
+New Lending
+PBS 2 AF
+Partners
+PBS Partners4
+
+AAA
+Decentralized Service
+Delivery
+Public Finance Review-Water
+On-going Lending
+Urban Water and Sanitation
+Water Supply & Sanitation
+SIL
+PBS 2
+Pastoral Comm. Devt. 2
+Urban Local Government
+Development
+New Lending
+PBS 2 AF
+Partners
+DFID
+AAA
+Decentralized Service
+Delivery
+Health Financing Policy Note
+Education and Nutrition
+
+ANNEX 1: CAS Results Framework
+Longer-Term Development Agenda for Ethiopia
+Strategic and LongerTerm Country
+Outcomes
+
+Issues/obstacles and Bank
+strategy
+and efficiency of resource use. It
+will support Ministry of Health
+(MoH) implement its road map for
+International Health Partnership
+(IHP).
+
+GoE’s commitment to improving
+access to health care is clear, but
+there is a scope for much greater
+harmonization. The Bank will
+focus on resource mobilization
+and efficiency of resource use. It
+will support Ministry of Health
+(MoH) implement its road map for
+International Health Partnership
+(IHP)(continued).
+
+2.2. Enhance quality of
+basic services
+
+With access significantly
+improved, GoE’s focus is shifting
+toward quality enhancement. The
+Bank to support the general
+direction with expansion of PBS
+
+Outcomes Influenced by the CAS Program by end Fiscal Year (FY) 2012
+CAS Outcomes that the Bank
+expects to influence and indicators
+(the 21 CAS core outcomes are
+bolded and shaded)
+vaccinated against DPT3 increases
+from 72.6% in 2006/07 to 83% by
+2009/10.
+Progress to date: 82% in 2008/09
+and it is expected to reach 85% by
+June 2010.
+I18. Number of new malaria cases
+decreases from 370,000 in 2006/07
+to 100,000 by 2011/12.
+Progress to date: Progress
+assessment pending Demographic
+Health Survey 2010.
+I19. Percentage of young people
+(age 15-24) with understanding of
+how to prevent HIV/AIDS
+transmission increases from 67%
+of women and 54% of men in
+2004/05 to 75% overall by
+2011/12.
+Progress to date: Progress
+Assessment pending the follow-up
+Demographic Health Survey 2010.
+I20. Percentage of pregnant
+women receiving iron and folate
+supplementation increases from
+10% in 2004/05 to 23% in 2011/12.
+Progress to date: 19% as of
+August 2009.
+
+11. Improve quality of education
+I21. Grade 5 completion rate
+increases from 65% in 2006/07 to
+above 87% in 2011/12.
+Progress to date: Primary school
+
+24
+
+Milestones
+
+Progress to date
+
+increased amounts of
+centrally procured health
+commodities with PBS
+support.
+
+2010.
+
+M24. 2.4 million
+replacement Insecticide
+Treated Nets distributed
+between beginning2009/10 and end2011/12.
+
+m24. 1.7 million
+Insecticide Treated Nets
+were distributed in 2009/10.
+
+M25. Donors and MoH
+make progress on
+implementation of IHP
+roadmap.
+
+m25. IHP+ roadmap
+finalized and the first round
+review of Health Sector
+Development ProgrammeIV zero draft using JANS
+tools conducted. Following
+the review a second draft
+was prepared and circulated
+in May 2010 for another
+review.
+m26. Woredas have been
+implementing action plans
+on prevention focusing on
+Most at Risk Population
+Groups. .
+
+M26. 95% of Multisectoral HIV/AIDS
+Program 2 (MAP 2)
+participating woredas
+implementing action
+plans on HIV/AIDS
+prevention targeting
+most-at-risk groups.
+
+M27. Primary grade 1-4
+student-teacher ratio
+declines from 65:1 in
+2006/07 to 54:1 in
+2011/12.
+
+m27. Pupil-teacher ratio in
+Grade 1-4 was 62:1 in
+2008/09.
+
+Bank Assistance and
+Partners1
+Linkages
+On-going Lending
+PBS 2
+Mulitsectoral HIV/AIDS 2
+Pastoral Comm. Devt. 2
+Nutrition SIL
+New Lending
+PBS 2 AF
+Health MDG Fund
+Partners
+PBS Partners, USAID, Global
+Fund for Malaria, TB and
+HIV-AIDS, Global Alliance
+for Vaccines and
+Immunization
+
+On-going Lending
+PBS 2
+GEQIP
+New Lending
+PBS 2 AF
+
+ANNEX 1: CAS Results Framework
+Longer-Term Development Agenda for Ethiopia
+Strategic and LongerTerm Country
+Outcomes
+
+Issues/obstacles and Bank
+strategy
+funding and funding for Ministry
+of Education’s own General
+Education Quality Enhancement
+Plan.
+Integrating essential healthcare
+services at the kebele level is key
+to harmonization of donor
+assistance. The Bank will help
+mobilize additional resources,
+achieve greater harmonization
+along the International Health
+Partnership (IHP) initiative, and
+strengthen results monitoring.
+
+2.3 Enhance citizens’
+voice to improve quality
+of basic services.
+
+Independent community radio
+service can help improve service
+delivery quality, if used as a
+vehicle for promoting awareness
+and social accountability. Support
+the development of a framework
+for operation of community radios.
+
+Outcomes Influenced by the CAS Program by end Fiscal Year (FY) 2012
+CAS Outcomes that the Bank
+expects to influence and indicators
+(the 21 CAS core outcomes are
+bolded and shaded)
+completion rate (grade 5) increased
+to 78.9% in 2008/09.
+
+Milestones
+
+Progress to date
+
+Bank Assistance and
+Partners1
+Partners
+PBS Partners, USAID
+
+12. Roll-out of kebele health
+extension package leads to improved
+services
+I22. Percentage of births attended
+by trained health personnel
+increases from 9% in 2004/05 to
+27% in 2011/12.
+Progress to date: Skilled health
+attendant delivery rose from 20.7%
+in 2007/08 to 24.9% in 2008/09.
+
+M28. Substantially all
+rural kebeles have two
+trained health extension
+workers (an increase to
+about 30,000 workers
+total from the 2006/07
+baseline of 17,600).
+
+m28. The GoE trained and
+deployed 31,831 health
+extension workers by
+2009/10. This translates to
+a 106% achievement.
+
+13. Greater use of community radios
+for improved service delivery
+I23. At least 10 woredas with
+community radio station in
+operation.
+Progress to date: Eight
+community radios have been set up
+and are operational.
+
+M29. Regulatory and
+institutional framework
+for community radios in
+place covering licensing,
+training of trainers, and
+content development
+training.
+
+m29. The Government has
+put in place the policy
+framework and regulations
+for licensing of both
+commercial and community
+radios.
+
+AAA
+Decentralized Service
+Delivery
+Health Financing Policy Note
+On-going Lending
+Nutrition SIL
+PBS 2
+New lending
+PBS 2 AF
+Health MDG Fund
+Partners
+PBS Partners, USAID, WHO,
+UNICEF
+Lending
+ICTAD project
+
+Strategic Objective 3: Reducing Vulnerability
+3.1 Reduce exposure to
+chronic food insecurity
+and shocks
+
+With PSNP, GoE’s focus has
+shifted toward a programmatic
+approach to food security. The key
+is to consolidate the other
+elements of the Program,
+particularly efforts to rebuild
+livelihoods of the poor, promote
+diversification and encourage
+innovation. Confirmation that
+households are beginning to move
+toward graduation is critical. The
+Bank to focus on ensuring PSNP
+will withstand the test of a real
+emergency.
+
+14. Reduce food insecurity
+I24. Reduce the average number
+of days chronically food insecure
+households participating in PSNP
+public works activities (comprising
+5.75 m people) report being food
+insecure from 110.6 days in 2006
+to 98.5 days by end-2010.
+Progress to date: PSNP public
+works participants that also
+received Household Asset Building
+Program reported being food
+insecure 97.1 days and PSNP
+public works participants for 98.6
+
+25
+
+M30. Proportion of
+PSNP program woredas
+completing 80% of
+transfer distributions by
+end-July annually
+increases from 12% in
+2007 to 75% in 2010.
+
+m30. 86% of Woredas
+completed in November
+2009.
+
+AAA
+Urban Safety Nets Note
+Rural Safety Nets Note
+Urban Poverty
+On-going Lending
+PSNP 3
+Partners
+PSNP Partners
+
+ANNEX 1: CAS Results Framework
+Longer-Term Development Agenda for Ethiopia
+Strategic and LongerTerm Country
+Outcomes
+
+Issues/obstacles and Bank
+strategy
+
+In moving to phase 3 of PSNP and
+designing effective interventions to
+ensure graduation, donors need
+clarity on GoE long term plan for
+food security and disaster risk
+management. Phase 3 of PSNP
+will be leveraged to engage GoE
+on this issue, which is central to
+PASDEP success.
+
+3.1 Reduce exposure to
+chronic food insecurity
+and shocks
+(continued)
+
+3.2 Address
+environmental
+degradation and
+population pressures
+
+Land degradation has become a
+major environmental threat. Both
+for environmental reasons and to
+improve food security, land
+degradation has gained attention.
+The Bank will help translate this
+concern into quick actions by
+GoE.
+
+GoE recognizes that SLM
+programs need to be implemented
+on a large scale and in a
+coordinated manner.
+Implementation of SLM project
+should occasion establishment of
+the necessary institutions.
+
+Outcomes Influenced by the CAS Program by end Fiscal Year (FY) 2012
+CAS Outcomes that the Bank
+expects to influence and indicators
+(the 21 CAS core outcomes are
+bolded and shaded)
+days in mid-2008.
+15. Develop long-term strategy for
+food security and vulnerability to
+natural disasters
+I25. A food security program and
+disaster risk management strategy
+that is coherent and consistent with
+macro outlook developed.
+Progress to date: Food Security
+Program (2010-2014) and Disaster
+Risk Management Strategy
+developed that are consistent with
+macro outlook. Disaster Risk
+Management Strategy pending
+ratification.
+16. Increase investment in
+community-based watershed
+management
+I26. 60,000 hectares watershed
+rehabilitated 2007/08 and 2011/12.
+Progress to date: 167,150 hectares
+of watershed rehabilitated end
+2009/10.
+I27. Investment in community
+based flood management rises from
+0 in 2007/08 to US$5m end
+2011/12.
+Progress to date: As of end
+2009/10 investments have been
+minimal.
+Establish institutions for sustainable
+land management
+I28. Federal and Regional SLM
+Platforms hold regular meetings to
+provide policy and technical
+guidance in the implementation of
+SLMP activities, including annual
+planning sessions to develop
+collaboratively annual work
+programs.
+Progress to date: Federal and
+Regional SLM Platforms have met
+
+26
+
+Milestones
+
+Progress to date
+
+Bank Assistance and
+Partners1
+
+M31. Impact
+assessment of PSNP
+completed.
+
+m31. 2008 Impact
+Assessment completed.
+Final report dated 30 June
+2009. 2010 Impact
+Assessment in progress.
+
+AAA
+Urban Poverty
+Rural Safety Nets Note
+Urban Safety Nets Note
+On-going Lending
+PSNP 3
+Partners
+PSNP Partners
+
+M32. SLM and Tana
+Beles projects launched.
+
+m32. SLMP and Tana
+Beles Project ware both
+launched in Oct 2008.
+m33. Flood preparedness
+& early warning Phase II
+(FPEW II) is a subcomponent of Tana Beles.
+Financing agreement signed
+June 2008; effectiveness
+declared Oct. 2008. A
+continuation of FPEW
+Phase I implemented by E.
+Nile Technical Regional
+Office and the Eastern Nile
+Countries since June 2007.
+m34. Federal and Regional
+SLM platforms to facilitate
+coordination across sectors
+have been established,
+including a Steering
+Committee and a Technical
+Committee at the national
+level and in each Region
+covered by the SLM
+Project.
+
+On-going Lending
+PSNP 3
+Sustainable Land Mgt SIL
+Tana Beles
+Partners
+RED&FS group
+IDA/GEF, KfW, GTZ
+
+M33. Flood
+preparedness and early
+warning system in Tana
+Basin launched.
+
+M34. Federal and
+Regional SLM
+Platforms established.
+
+AAA
+Climate Change
+Climate Change Adaptation
+Land Administration
+On-going Lending
+Sustainable Land Mgt 1
+New lending
+Sustainable Land Mgt 2
+Partners
+RED&FS group
+
+ANNEX 1: CAS Results Framework
+Longer-Term Development Agenda for Ethiopia
+Strategic and LongerTerm Country
+Outcomes
+
+Issues/obstacles and Bank
+strategy
+
+Continued rapid growth in
+population is an obstacle for
+Ethiopia to get out of a poverty
+trap. Use dialogue on long-term
+sustainability of rapid growth to
+highlight the importance of
+demographic issues.
+
+3.2 Address
+environmental
+degradation and
+population pressures
+(continued)
+
+With rapid growth, GoE is aware
+of social risks of leaving certain
+groups being left behind, including
+women and youth.
+
+Outcomes Influenced by the CAS Program by end Fiscal Year (FY) 2012
+CAS Outcomes that the Bank
+expects to influence and indicators
+(the 21 CAS core outcomes are
+bolded and shaded)
+regularly since Oct 2008, including
+annual work program meetings.
+17. Accelerate demographic
+transition
+I29. Contraceptive prevalence rate
+as measured by Demographic
+Health Survey (DHS) increases by
+2 percentage points p.a. from 15%
+in 2004/05 to 25% in 2011/12.
+Progress to date: Progress
+assessment pending the 2010 DHS.
+
+18. Increased voice of women
+within communities.
+I30. Participation of women in
+community meetings (social
+accountability interface meetings)
+related to PBS 2 increases by 30%
+between December 2010 and June
+2012.
+Progress to date:
+New indicator. Monitoring to
+begin in FY11.
+
+Milestones
+
+M35. Hormonal
+contraceptives
+distributed to cover 8.75
+million couple-years of
+protection in 2009/10,
+up from 6.1 million in
+2006/07.
+M36. Annual
+distribution of male and
+female condoms
+increases from 80 m in
+2006/07 to 140 m in
+2009/10.
+M37. PBS 2 social
+accountability interface
+meetings take place in
+172 woredas.
+
+Progress to date
+
+m35. No direct data
+available. However,
+contraceptive acceptance
+rate rose from 53.8% in
+2008/09 to 56.2% in
+2009/10.
+
+Bank Assistance and
+Partners1
+
+On-going Lending
+PBS 2
+MAP II
+New Lending
+PBS 2 AF
+Partners
+UNFPA, WHO,
+
+m36. 97 million condoms
+were distributed in the year
+2008/09.
+m37. Monitoring to begin
+in FY11.
+
+AAA
+Gender Study
+On-going Lending
+PBS 2
+Partners
+PBS partners
+50-60 CSOs
+
+m38. a) 18 out of 48
+Federal institutions and all
+Bureaus in Amhara,
+Oromiya, Tigray, SNNP,
+Addis Ababa and Harari
+Regional states are at full
+implementation stage.
+b). 8 out of 41(the number
+of institutions engaged in
+balanced scorecard)
+Federal institutions and all
+Bureaus in Dire Dawa City
+Administration are at the
+
+AAA
+ICA
+Public-Finance
+Review(JBAR)
+Procurement Reforms
+On-going Lending
+PSCAP
+PBS 2
+Urban Local Government
+Development
+New Lending
+PBS 2 AF
+Partners
+
+Strategic Objective 4: Fostering Improved Governance
+4.1 Improve
+government
+effectiveness and
+quality of public
+administration.
+
+Modern public service requires
+effective, rule and merit-based
+civil service. The Bank will
+continue to support GoE’s state
+transformation process through
+the public sector reform program,
+
+19. Improve performance of the
+public service
+I31. Woreda/City Bench-marking
+Surveys (WCBS) show improving
+perception of integrity and
+performance of public service:
+performance measured by
+percentages of people satisfied
+with Agriculture Extension
+Service, Solid-waste service, Water
+supply service and Health service,
+increasing from 82%, 69.9%, 60%
+and 34% in 2008 to 85%, 75%,
+
+27
+
+M38. Business process
+reengineering
+implemented in all
+federal and regional
+public institutions.
+
+ANNEX 1: CAS Results Framework
+Longer-Term Development Agenda for Ethiopia
+Strategic and LongerTerm Country
+Outcomes
+
+4.1 Improve
+government
+effectiveness and
+quality of public
+administration.
+(continued)
+
+4.2 Enhance the
+accountability and
+responsiveness of
+government.
+
+Issues/obstacles and Bank
+strategy
+
+Modern public service requires
+effective, rule and merit-based
+civil service. The Bank will
+continue to support GoE’s state
+transformation process through
+the public sector reform program.
+(continued)
+
+With greater decentralization of
+service delivery, effective citizen
+engagement at local levels has
+become critical. Sustained
+capacity building of local
+government is needed to engage
+citizens in shaping their own
+
+Outcomes Influenced by the CAS Program by end Fiscal Year (FY) 2012
+CAS Outcomes that the Bank
+expects to influence and indicators
+(the 21 CAS core outcomes are
+bolded and shaded)
+62% and 60% in 2012 respectively,
+and integrity measured by
+percentage of people who made
+extra payments for general service,
+decreasing from 4.3% in 2008 to
+4% in 2012.
+Progress to Date: The 2010
+WCBS reported 84%, 73.7%, 57%
+and 57% of people were satisfied
+with the services respectively, and
+4.1% made extra payments.
+
+I32. Improvement in public
+financial management performance
+evidenced by at least 25% of the
+Public Expenditure and Financial
+Accountability indicators showing
+improvement over corresponding
+2007 scores.
+Progress to date: Nine indicators,
+PI (performance indicator) -2, PI-6,
+PI-10, PI-14, PI-16, PI-17, PI-20,
+PI-24 and PI-27 out of 30
+indicators have improved reflecting
+a change in performance of the
+PFM areas covered by the
+indicators in 2010. Two (2)
+indicators PI-3 and PI-26 were
+overrated in 2007.
+
+20. Greater capacity of local
+government to engage with citizens
+for more responsive services
+I33. Participatory planning of
+basic services adopted by 2011/12
+in 30% of woredas that receive
+Local Investment Grants (from 0%
+
+28
+
+Milestones
+
+M39. Balanced scorecard performance
+management system
+rolled out to all federal
+and regional institutions.
+
+M40. Functional public
+procurement oversight
+with annual procurement
+audits for 50% of
+procuring entities.
+M41. Planning
+guidelines with
+procedures and formats
+for citizen engagement
+issued in woredas.
+M42. Capital
+
+Progress to date
+pilot testing stage.
+c) 16 of 48 Federal
+institutions and all Bureaus
+in Benshangul and Afar
+Regional States are under
+preparation for
+implementation.
+d) 6 of 48 Federal
+institutions as well as all
+Bureaus in Somali and
+Gambela Regional States
+are conducting process
+review (study) stage for the
+reengineering.
+m39. 5 Federal institutions
+are at full implementation.
+9 Federal institutions and
+all Bureaus in Tigray,
+almost in all Bureaus in
+Amhara and 41 Bureaus in
+Oromiya Regional States
+are at the stage of planning
+for implementation. 27
+Federal institutions as well
+as all Bureaus in SNNP,
+Addis Ababa, Dire Dawa
+and Harari Regional State
+are under the process of
+preparation (total no. of
+federal inst’ns approx. 48)
+m40. Procurement
+oversight is about 30%
+functional. 44 of 125
+Procuring Entities audited
+in FY10.
+m41. Planning guidelines
+expected to be issued in
+2010.
+
+m42. Eighteen cities have
+
+Bank Assistance and
+Partners1
+PSCAP Partners, CIDA DFID
+
+AAA:
+Country Fiduciary
+Assessment
+
+AAA
+Capacity Building TA
+On-going Lending
+PBS 2
+PSCAP
+Urban Local Government
+Development
+
+ANNEX 1: CAS Results Framework
+Longer-Term Development Agenda for Ethiopia
+Strategic and LongerTerm Country
+Outcomes
+
+Issues/obstacles and Bank
+strategy
+development. The Bank will
+continue engaging in dialogue and
+support this effort through a range
+of instruments.
+
+4.2 Enhance the
+accountability and
+responsiveness of
+government.
+(continued)
+
+While perceptions of corruption in
+Ethiopia differ considerably, there
+has been little systematic analysis
+of its nature, scope and incidence.
+The Bank will develop a new
+initiative with GoE and other
+donors to diagnose corruption and
+develop a targeted program of
+support.
+GoE is currently improving
+transparency around budgets and
+spending, but concerns about
+transparency and access to public
+information remain. The Bank will
+continue to support government to
+improve transparency around
+policy, planning, budgeting and
+performance at all levels.
+
+Outcomes Influenced by the CAS Program by end Fiscal Year (FY) 2012
+CAS Outcomes that the Bank
+expects to influence and indicators
+(the 21 CAS core outcomes are
+bolded and shaded)
+in 2008/09).
+Progress to date: 15% of woredas
+adopted participatory planning by
+the end of 2009/10.
+I34. 12 out of 19 selected cities
+will have reported a 75% increase
+(from the 2008 baselines reported
+by each city) in the number of
+citizen groups participating in the
+planning process for Capital
+Investment Plans by the end of
+2011/12.
+Progress to date: 6 cities out of 19
+achieved 75% increase in 2009/10.
+Better targeted anti-corruption
+strategies
+I35. Satisfactory implementation
+of targeted anti-corruption
+strategies to reduce corruption in
+key hotspots, as assessed at the end
+of FY2011/12.
+Progress to date: Strategies not
+yet formulated.
+Greater transparency and citizen
+access to public information
+I36. Layperson’s Budget and
+Service Facility Templates posted
+in +50% of woredas by the end of
+2011/12.
+Progress to date: Templates
+finalized and posting begun.
+I37. 19 selected cities disclose
+budget and expenditure
+information by the end of 2011/12
+from 0 in 2007/08.
+Progress to date: All 19 cities
+have disseminated key information
+to the public on budgets and
+expenditures for 2008/09 and
+2009/10.
+
+29
+
+Milestones
+
+Progress to date
+
+Bank Assistance and
+Partners1
+
+Investment Plans in 19
+selected cities prepared.
+
+prepared rolling 3 year
+Capital Investment Plans
+for 2008/09.
+
+New Lending
+PBS 2 AF
+Partners
+PBS, PSCAP partners, CSSP,
+CSF, JGAM partners
+
+M43. Knowledge and
+consensus developed
+over key corruption
+hotspots by end- 2010.
+
+m43. Diagnostics
+completed but consensus on
+hotspots pending.
+
+AAA
+Public Finance Review
+(JBAR)
+Partners
+DFID, Dutch, CIDA
+
+M44. Strategies
+developed in selected
+areas by mid-2011.
+
+m44. Strategies pending
+identification of hotspots.
+
+M45. All Regions
+encourage posting of
+Service Delivery
+Templates in service
+providers (schools,
+health clinics, etc.).
+
+m45. The use of
+Standardized Service
+Delivery Templates is
+behind the schedule as the
+Templates are under
+customization by regions.
+Training of trainers has
+been completed and posting
+of customized templates
+will start end of
+FY2009/10.
+
+AAA
+Decentralized Service
+Delivery
+On-going Lending
+PBS 2
+PSCAP
+Urban Local Government
+Development
+New Lending
+PBS 2 AF
+Partners
+PBS, PSCAP partners, JGAM
+partners
+
+ANNEX 1: CAS Results Framework
+Longer-Term Development Agenda for Ethiopia
+Strategic and LongerTerm Country
+Outcomes
+
+Issues/obstacles and Bank
+strategy
+
+Outcomes Influenced by the CAS Program by end Fiscal Year (FY) 2012
+CAS Outcomes that the Bank
+expects to influence and indicators
+(the 21 CAS core outcomes are
+bolded and shaded)
+
+Milestones
+
+Progress to date
+
+Bank Assistance and
+Partners1
+
+Other Outcomes
+5.1 Deepen
+partnerships
+
+Follow this approach to
+strengthen dialogue and results
+focus, as well as rationalize the
+Bank’s program.
+
+21. Increase donor partnership
+through IDA-supported multi-donor
+programs
+I38. Paris Declaration target for
+66% of donor support to be
+provided through program-based
+approaches is met by 2010, as
+measured by OECD (Baseline:
+53% in 2005).
+Progress to date: According to
+2008 survey on monitoring the
+Paris Declaration coordinated by
+OECD-DAC, 66% of donor
+support was provided through
+program-based approaches in 2007.
+
+M46. 66% of IDA
+support provided
+through programmatic
+approaches by 2010
+(Baseline: 59% in 2005).
+
+m46. In 2007, 83% of IDA
+support was provided
+through program-based
+approaches.
+
+5.2 Reinforce gender
+sensitivity in
+development activities.
+
+Importance of gender outcomes
+for development has been
+increasing, but implementing/
+monitoring gender sensitivity
+remains a challenge. With GoE
+and development partners, the
+Bank intends to mainstream
+gender considerations and help
+empower women through all
+operations.
+
+22. Mainstream gender in IDA
+supported programs.
+I39. All new lending in FY11-12
+includes gender considerations in
+the Project Development Objective
+(the baseline is 0 and target is
+100%).
+
+M47. All FY11 new
+lending includes gender
+considerations in the
+PDO.
+
+m47. Monitoring to begin
+in FY11.
+
+Progress to date: New Indicator.
+Monitoring to begin in FY11.
+
+30
+
+AAA
+Coordination through
+Development Assistance
+Group and Sector Working
+Groups
+Lending and new lending
+Especially PSNP, Roads,
+PBS, PSCAP, Water Supply
+and Sanitation, SLM, GEQIP,
+Energy Access, AGP
+Partners
+All development partners
+Regional initiatives including
+NEPAD/ Comprehensive
+Africa Agriculture
+Development Program
+AAA
+Gender Study
+Lending and new lending
+PBS 2, PBS 2 AF, AGP,
+FY12 program to be agreed.
+Partners
+All development partners
+
+Annex 2: Revised Core CAS Outcomes, Indicators and Milestones
+
+Original Core CAS Outcome
+1. Structural and macroeconomic policies are
+conducive to sustain internal and external
+balance.
+2. Strengthen road sector institutions and domestic
+road construction industry.
+3. Enhance regional integration.
+
+Key Changes
+
+
+Indicator target extended.
+
+
+
+Indicator revised to better reflect actual
+progress.
+Indictor on regional road network dropped
+because Bank financing is no longer needed.
+Indicator and milestone on Nile Basin
+Initiative revised to make them more
+concrete.
+Outcome and indicator dropped due to slower
+than expected implementation of the GOE
+strategy, and to reduce overlap with others.
+No change.
+Outcome and indicator dropped due to the
+absence of Bank support in this area.
+
+
+
+
+4. Creation of an enabling environment to make
+growth corridor concept a reality.
+
+
+
+5. Increased agricultural productivity.
+6. Small town development, rural and
+management and rural credit systems support
+rural diversification.
+7. Improve financial sector performance.
+8. Improve urban governance.
+
+
+
+
+9. Reduce cost of internet service.
+10. Improved investment climate helps Ethiopia
+benefit from increased globalization.
+11. Substantially achieve universal access to
+primary education and increase girls’
+enrollment.
+
+
+
+
+
+
+
+
+
+
+12. Increase sustainable access to potable water
+and sanitation services.
+13. Increase delivery of key health services:
+malaria and HIV/AIDS control, vaccination,
+contraception.
+14. Improve quality of education
+
+
+
+15. Roll-out of kebele health extension package
+leads to improved services.
+16. Greater use of community radios for improved
+service deliver.
+17. Increased PTA engagement in schools.
+
+
+
+18. Reduce food insecurity.
+
+
+
+
+
+
+
+
+
+No change.
+Outcome and indicator consolidated with the
+outcome on improving the performance of the
+public sector.
+No change.
+No change.
+Changed outcome to: “Increase girls’
+enrollment in primary and secondary
+education” to better reflect what is being
+monitored through the CAS Results Matrix.
+Indicator targets adjusted to more realistic
+levels.
+Indicator targets adjusted to more realistic
+levels.
+Some indicator and milestone targets adjusted
+to more realistic level.
+Indicator target adjusted to more realistic
+level.
+Indicator target adjusted to more realistic
+level.
+No change.
+Outcome and indicator dropped due to lack of
+data availability.
+No change.
+
+Continued………
+31
+
+Annex 2: Revised Core CAS Outcomes, Indicators and Milestones (continued)
+
+Original Core CAS Outcome
+19. Develop long-term strategy for food insecurity.
+20. Increase investment in community-based
+watershed management.
+21. Accelerate demographic transition.
+22. Improve access by women and youth to micro
+finance and technical support.
+
+Key Changes
+
+
+
+
+
+
+
+
+23. Improve performance of the public service.
+
+
+
+24. Greater capacity of local government to engage
+with citizens for more responsive services.
+
+
+
+
+
+
+25. Ethiopian citizens are empowered by and
+engage in development process.
+
+
+
+26. Increase donor harmonization through IDAsupported multi-donor programs.
+
+
+
+
+32
+
+No change.
+Indicators revised to clarify timeframe for
+measurement.
+Indicator target date extended.
+Changed outcome to “Increased voice women
+within communities” and indicator revised to
+clarify what is being measured and align to
+indicator in use in ongoing operation.
+Milestone revised to reflect ongoing
+operations.
+Indicator on perceptions of integrity of public
+service revised to integrate outcome on
+improving urban governance. 2008 baseline
+documented and target for 2011/12 added.
+Indicator derived from investment climate
+survey dropped to eliminate overlap with
+other indicators.
+Indicator on participatory planning, budgeting
+and monitoring in woredas narrowed to
+reflect the slow pace of implementation on
+the latter aspects. Baseline added.
+Milestone on procedures for citizen
+engagement revised to make it more concrete.
+Indicator on participatory planning, budgeting
+and monitoring in cities adjusted to reflect
+indicator in use in ongoing operations.
+Baseline added.
+Outcome and indicator consolidated with
+others that monitor community participation,
+including of women.
+Changed outcome to “Increase donor
+partnership through IDA-supported multidonor programs.”
+Added a new outcome (outcome 22),
+“Mainstream gender in IDA supported
+programs.”
+
+Annex 3: Summary of Revised Core CAS Outcomes
+Focus Areas
+
+Core CAS Outcomes
+
+Strategic Objective 1: Fostering Economic Growth
+1. Structural and macroeconomic policies are conducive
+1.1. Support macro-fiscal stability
+to sustain internal and external balance
+2. Strengthen road sector institutions and domestic road
+1.2. Accelerate the level and
+construction industry
+productivity of investment in
+3. Enhance regional integration
+infrastructure in a sustainable
+manner
+4. Increase agricultural productivity in selected
+1.3. Increase productivity of
+intervention areas
+agriculture
+5. Improve financial sector performance
+1.4. Strengthen supply
+6. Reduce cost of internet service
+responsiveness of industry and
+7. Improved investment climate helps Ethiopia benefit
+services sectors
+from increased globalization
+Strategic Objective 2: Improving Access to and Quality of Basic Service Delivery
+8. Increase girls’ enrollment in primary and secondary
+2.1 Improve access/coverage of
+education
+basic services
+9. Increase sustainable access to potable water and
+sanitation services
+10. Increase delivery of key health services: malaria and
+HIV/AIDS control, vaccination, contraception
+11.
+Improve quality of education
+2.2 Enhance quality of basic
+12. Roll-out of the kebele health extension package leads
+services
+to improved services
+13. Greater use of community radios for improved service
+2.3 Enhance citizens’ voice to
+delivery
+improve quality of basic services
+Strategic Objective 3: Reducing Vulnerability
+14. Reduce food insecurity
+3.1 Reduce exposure to chronic food
+15. Develop long-term strategy for food security
+insecurity and shocks
+16. Increase investment in community-based watershed
+3.2 Address environmental
+management
+degradation and population
+17. Accelerate demographic transition
+pressures
+18. Increased voice of women within communities
+3.3 Greater engagement of women.
+Strategic Objective 4: Fostering Improved Governance
+19. Improve performance of the public service
+4.1 Improve government
+effectiveness and quality of public
+administration
+20. Greater capacity of local government to engage with
+4.2 Enhance the accountability and
+citizens for more responsive services
+responsiveness of government
+Other Outcomes
+21. Increase donor partnership through IDA-supported
+5.1 Deepen partnerships
+multi-donor programs
+22. Mainstream gender in IDA supported programs
+5.2 Reinforce gender sensitivity in
+development activities.
+
+33
+
+Annex 4. Progress Towards Achieving the MDGs
+Millennium Development Goals
+
+Ethiopia
+
+With selected targets to achieve between 1990 and 2015
+(estimate closest to date shown, +/- 2 years)
+
+Ethiopia
+
+Goal 1: halve the rates for extreme poverty and malnutrition
+
+1990
+
+1995
+
+2000
+
+2008
+
+..
+..
+..
+..
+
+60.5
+45.5
+
+39.0
+
+7.2
+..
+
+55.6
+44.2
+9.2
+42.0
+
+22
+..
+13
+..
+
+..
+14
+10
+34
+
+38
+22
+13
+..
+
+71
+46
+30
+50
+
+68
+
+..
+..
+2
+
+65
+41
+
+83
+
+..
+..
+
+2
+
+22
+
+204
+122
+38
+
+179
+107
+38
+
+151
+92
+52
+
+119
+75
+65
+
+..
+..
+4
+
+..
+..
+..
+
+..
+6
+8
+
+720
+6
+15
+
+0.7
+159
+..
+
+2.4
+229
+15
+
+2.4
+331
+31
+
+2.1
+378
+28
+
+13
+4
+..
+..
+0.1
+1.8
+
+20
+5
+14.4
+..
+0.0
+1.7
+
+29
+7
+13.7
+..
+0.1
+1.8
+
+42
+11
+13.0
+18.6
+0.1
+2.3
+
+0.3
+0.0
+0.0
+..
+
+0.2
+0.0
+0.0
+..
+
+0.4
+0.0
+0.0
+0.1
+
+1.1
+3.9
+0.4
+0.7
+
+Poverty headcount ratio at $1.25 a day (PPP, % of population)
+Poverty headcount ratio at national poverty line (% of population)
+Share of income or consumption to the poorest qunitile (%)
+Prevalence of malnutrition (% of children under 5)
+
+..
+9.3
+34.6
+
+Goal 2: ensure that children are able to complete primary schooling
+Primary school enrollment (net, %)
+Primary completion rate (% of relevant age group)
+Secondary school enrollment (gross, %)
+Youth literacy rate (% of people ages 15-24)
+Goal 3: eliminate gender disparity in education and empower women
+Ratio of girls to boys in primary and secondary education (%)
+Women employed in the nonagricultural sector (% of nonagricultural employment)
+Proportion of seats held by women in national parliament (%)
+
+47
+
+Goal 4: reduce under-5 mortality by two-thirds
+Under-5 mortality rate (per 1,000)
+Infant mortality rate (per 1,000 live births)
+Measles immunization (proportion of one-year olds immunized, %)
+Goal 5: reduce maternal mortality by three-fourths
+Maternal mortality ratio (modeled estimate, per 100,000 live births)
+Births attended by skilled health staff (% of total)
+Contraceptive prevalence (% of women ages 15-49)
+Goal 6: halt and begin to reverse the spread of HIV/AIDS and other major diseases
+Prevalence of HIV (% of population ages 15-49)
+Incidence of tuberculosis (per 100,000 people)
+Tuberculosis cases detected under DOTS (%)
+Goal 7: halve the proportion of people without sustainable access to basic needs
+Access to an improved water source (% of population)
+Access to improved sanitation facilities (% of population)
+Forest area (% of total land area)
+Nationally protected areas (% of total land area)
+CO2 emissions (metric tons per capita)
+GDP per unit of energy use (constant 2005 PPP $ per kg of oil equivalent)
+Goal 8: develop a global partnership for development
+Telephone mainlines (per 100 people)
+Mobile phone subscribers (per 100 people)
+Internet users (per 100 people)
+Personal computers (per 100 people)
+
+Education indicators (%)
+
+Measles immunization (% of 1-year
+olds)
+
+ICT indicators (per 100 people)
+
+100
+
+100
+
+6
+
+75
+
+75
+
+4
+
+50
+50
+25
+
+2
+25
+
+0
+2000
+
+2002
+
+2004
+
+2006
+
+2008
+
+0
+
+0
+1990
+
+1995
+
+2000
+
+2007
+
+2000
+
+2002
+
+2004
+
+2006
+
+Primary net enrollment ratio
+Fixed + mobile subscribers
+Ratio of girls to boys in primary & secondary
+education
+
+Ethiopia
+
+Sub-Saharan Africa
+
+Note: Figures in italics are for years other than those specified. .. indicates data are not available
+Development Economics, Development Data Group (DECDG).
+
+Internet users
+2/25/10
+
+34
+
+2008
+
+Annex 5. Ethiopia at a Glance
+
+Ethiopia at a glance
+
+2/25/10
+
+SubSaharan
+Africa
+
+Low
+income
+
+80.7
+1,104
+
+818
+24,242
+
+973
+19,310
+
+2.6
+17
+
+2.5
+36
+
+2.1
+29
+
+GNI (Atlas method, US$ billions)
+GNI per capita (Atlas method, US$)
+GNI per capita (PPP, international $)
+
+22.4
+280
+870
+
+885
+1,082
+1,991
+
+510
+524
+1,407
+
+GDP growth (%)
+GDP per capita growth (%)
+
+11.3
+8.5
+
+5.0
+2.5
+
+6.4
+4.2
+
+Poverty headcount ratio at $1.25 a day (PPP, %)
+Poverty headcount ratio at $2.00 a day (PPP, %)
+
+39
+78
+
+51
+73
+
+..
+..
+
+Life expectancy at birth (years)
+Infant mortality (per 1,000 live births)
+Child malnutrition (% of children under 5)
+
+55
+75
+35
+
+52
+89
+27
+
+59
+78
+28
+
+Adult literacy, male (% of ages 15 and older)
+Adult literacy, female (% of ages 15 and older)
+Gross primary enrollment, male (% of age group)
+Gross primary enrollment, female (% of age group)
+
+50
+23
+97
+85
+
+71
+54
+103
+93
+
+72
+55
+102
+95
+
+Access to an improved water source (% of population)
+Access to improved sanitation facilities (% of population)
+
+42
+11
+
+58
+31
+
+67
+38
+
+Key Development Indicators
+Ethiopia
+(2008)
+Population, mid-year (millions)
+Surface area (thousand sq. km)
+Population growth (%)
+Urban population (% of total population)
+
+75-79
+60-64
+45-49
+30-34
+15-19
+0-4
+10
+
+5
+
+0
+
+5
+
+10
+
+percent of total population
+
+(most recent estimate, 2003–2008)
+
+Under-5 mortality rate (per 1,000)
+250
+200
+150
+100
+50
+0
+1990
+
+1995
+
+Ethiopia
+
+Net Aid Flows
+
+1980
+
+1990
+
+2000
+
+2008
+
+2000
+
+2007
+
+Sub-Saharan Africa
+
+a
+
+Growth of GDP and GDP per capita (%)
+(US$ millions)
+Net ODA and official aid
+Top 3 donors (in 2007):
+United States
+European Commission
+United Kingdom
+Aid (% of GNI)
+Aid per capita (US$)
+
+211
+
+1,009
+
+686
+
+2,422
+
+19
+32
+4
+
+50
+109
+35
+
+130
+69
+11
+
+372
+365
+292
+
+3.4
+6
+
+8.4
+21
+
+8.5
+10
+
+12.6
+31
+
+20
+10
+0
+-10
+-20
+95
+
+05
+
+Long-Term Economic Trends
+GDP
+
+Consumer prices (annual % change)
+GDP implicit deflator (annual % change)
+
+12.5
+4.3
+
+5.2
+3.3
+
+6.2
+6.9
+
+25.3
+28.4
+
+Exchange rate (annual average, local per US$)
+Terms of trade index (2000 = 100)
+
+2.1
+131
+
+2.1
+151
+
+8.1
+100
+
+9.6
+94
+1980–90
+
+Population, mid-year (millions)
+GDP (US$ millions)
+
+35.4
+7,269
+
+Agriculture
+Industry
+Manufacturing
+Services
+
+60.7
+10.6
+4.9
+28.8
+
+Household final consumption expenditure
+General gov't final consumption expenditure
+Gross capital formation
+
+80.0
+9.8
+14.5
+
+Exports of goods and services
+Imports of goods and services
+Gross savings
+
+7.6
+11.9
+10.8
+
+48.3
+12,083
+(% of GDP)
+54.3
+11.1
+4.8
+34.5
+
+65.5
+8,180
+
+80.7
+25,585
+
+GDP per capita
+
+1990–2000
+2000–08
+(average annual growth %)
+
+3.1
+2.2
+
+3.0
+3.8
+
+2.6
+8.2
+
+49.9
+12.4
+5.5
+37.8
+
+44.5
+13.2
+4.8
+42.4
+
+0.9
+3.7
+3.4
+3.9
+
+2.6
+4.1
+3.9
+5.2
+
+6.8
+9.2
+6.7
+9.5
+
+77.2
+13.2
+12.9
+
+73.8
+17.9
+20.3
+
+89.8
+9.8
+20.1
+
+1.3
+4.0
+4.9
+
+2.7
+9.0
+6.5
+
+11.2
+1.0
+10.0
+
+5.6
+8.8
+11.9
+
+12.0
+24.0
+16.2
+
+11.5
+31.2
+15.0
+
+3.2
+3.2
+
+7.1
+5.8
+
+11.2
+16.1
+
+Note: Figures in italics are for years other than those specified. 2008 data are preliminary. .. indicates data are not available.
+a. Aid data are for 2007. Development Economics, Development Data Group (DECDG).
+
+35
+
+Annex 5. Ethiopia at a Glance (Continued)
+Ethiopia
+Balance of Payments and Trade
+
+2000
+
+2008
+
+(US$ millions)
+Total merchandise exports (fob)
+Total merchandise imports (cif)
+Net trade in goods and services
+
+486
+1,611
+-976
+
+1,462
+6,811
+-5,223
+
+-335
+-4.1
+
+-1,491
+-5.8
+
+53
+
+358
+
+349
+
+1,239
+
+Governance indicators, 2000 and 2008
+
+Voice and accountability
+Political stability
+
+Current account balance
+as a % of GDP
+Workers' remittances and
+compensation of employees (receipts)
+
+Regulatory quality
+Rule of law
+Control of corruption
+
+Reserves, including gold
+
+0
+
+Central Government Finance
+(% of GDP)
+Current revenue (including grants)
+Tax revenue
+Current expenditure
+
+15.7
+9.5
+20.6
+
+14.5
+9.7
+9.3
+
+Overall surplus/deficit
+
+-9.4
+
+-4.2
+
+Highest marginal tax rate (%)
+Individual
+Corporate
+
+35
+30
+
+35
+30
+
+25
+
+50
+
+75
+
+2008
+
+Country's percentile rank (0-100)
+
+2000
+
+higher values imply better ratings
+
+100
+
+Source: Kaufmann-Kraay-Mastruzzi, World Bank
+
+Technology and Infrastructure
+
+2000
+
+2008
+
+Paved roads (% of total)
+Fixed line and mobile phone
+subscribers (per 100 people)
+High technology exports
+(% of manufactured exports)
+
+12.0
+
+12.8
+
+0
+
+5
+
+0.1
+
+2.5
+
+31
+13.7
+..
+
+34
+13.0
+18.6
+
+1,767
+5.6
+
+1,551
+
+0.09
+
+0.11
+
+GDP per unit of energy use
+(2005 PPP $ per kg of oil equivalent)
+
+1.8
+
+2.3
+
+Energy use per capita (kg of oil equivalent)
+
+286
+
+291
+
+2000
+
+2008
+
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+1,779
+137
+34
+
+859
+160
+10
+
+0
+0
+0
+
+0
+0
+0
+
+0
+
+0
+
+External Debt and Resource Flows
+Environment
+(US$ millions)
+Total debt outstanding and disbursed
+Total debt service
+Debt relief (HIPC, MDRI)
+
+5,495
+138
+2,575
+
+Total debt (% of GDP)
+Total debt service (% of exports)
+
+67.2
+13.1
+
+Foreign direct investment (net inflows)
+Portfolio equity (net inflows
+
+135
+0
+
+2,882
+111
+1,458
+
+Agricultural land (% of land area)
+Forest area (% of land area)
+Nationally protected areas (% of land area)
+
+11.3
+3.6
+
+Freshwater resources per capita (cu. meters)
+Freshwater withdrawal (billion cubic meters)
+
+109
+0
+
+CO2 emissions per capita (mt)
+
+..
+
+Short-term, 56
+Private, 239
+
+IBRD, 0
+
+World Bank Group portfolio
+IDA, 859
+
+(US$ millions)
+
+Bilateral, 985
+
+IBRD
+Total debt outstanding and disbursed
+Disbursements
+Principal repayments
+Interest payments
+
+IMF, 0
+
+Other multilateral, 743
+
+Private Sector Development
+Time required to start a business (days)
+Cost to start a business (% of GNI per capita)
+Time required to register property (days)
+
+2000
+
+Ranked as a major constraint to business
+(% of managers surveyed who agreed)
+Tax rates
+Tax administration
+Stock market capitalization (% of GDP)
+Bank capital to asset ratio (%)
+
+–
+–
+–
+
+2008
+16
+29.8
+43
+
+2000
+
+2008
+
+72.2
+59.2
+
+..
+..
+
+..
+..
+
+..
+..
+
+Note: Figures in italics are for years other than those specified. 2008 data are preliminary.
+.. indicates data are not available. – indicates observation is not applicable.
+
+IDA
+Total debt outstanding and disbursed
+Disbursements
+Total debt service
+IFC (fiscal year)
+Total disbursed and outstanding portfolio
+of which IFC own account
+Disbursements for IFC own account
+Portfolio sales, prepayments and
+repayments for IFC own account
+MIGA
+Gross exposure
+New guarantees
+
+–
+–
+2/25/10
+
+Development Economics, Development Data Group (DECDG).
+
+36
+
+–
+–
+
+Annex 6. Selected Indicators of Bank Portfolio Performance
+As of 5/5/2010
+
+Indicator
+
+2007
+
+2008
+
+2009
+
+2010
+
+Portfolio Assessment
+Number of Projects Under Implementation a
+
+21
+
+28
+
+29
+
+26
+
+Average Implementation Period (years) b
+
+2.5
+
+2.7
+
+2.9
+
+3.5
+
+Percent of Problem Projects by Number a, c
+
+4.8
+
+10.7
+
+10.3
+
+11.5
+
+a, c
+
+Percent of Problem Projects by Amount
+
+4.3
+
+6.1
+
+4.8
+
+5.6
+
+Percent of Projects at Risk by Number
+
+a, d
+
+9.5
+
+28.6
+
+17.2
+
+19.2
+
+Percent of Projects at Risk by Amount
+
+a, d
+
+5.8
+
+30.0
+
+7.5
+
+21.5
+
+27.6
+
+26.7
+
+49.3
+
+28.1
+
+No
+
+No
+
+Yes
+
+No
+
+3,231
+154
+
+3,421
+122
+
+3,894
+134
+
+2,994
+115
+
+Disbursement Ratio (%) e
+Portfolio Management
+CPPR during the year (yes/no)
+Supervision Resources (total US$)
+Average Supervision (US$/project)
+
+Memorandum Item
+
+Since FY 80
+
+Proj Eval by OED by Number
+
+Last Five FYs
+66
+
+13
+
+3,829.4
+
+1,003.5
+
+% of OED Projects Rated U or HU by Number
+
+33.3
+
+23.1
+
+% of OED Projects Rated U or HU by Amt
+
+22.1
+
+16.3
+
+Proj Eval by OED by Amt (US$ millions)
+
+Source: BW
+a. As shown in the Annual Report on Portfolio Performance (except for current FY).
+b. Average age of projects in the Bank's country portfolio.
+c. Percent of projects rated U or HU on development objectives (DO) and/or implementation progress (IP).
+d. As defined under the Portfolio Improvement Program.
+e. Ratio of disbursements during the year to the undisbursed balance of the Bank's portfolio at the
+beginning of the year: Investment projects only.
+* All indicators are for projects active in the Portfolio, with the exception of Disbursement Ratio,
+which includes all active projects as well as projects which exited during the fiscal year.
+
+37
+
+Annex 7. Summary of Nonlending Services
+As of 5/19/2010
+
+Product
+
+Completion FY
+
+Cost (US$000)
+
+Audiencea
+
+Objectiveb
+
+FY08
+FY08
+FY08
+FY08
+FY08
+FY08
+FY08
+FY08
+FY09
+FY09
+
+79
+50
+80
+502
+179
+243
+71
+255
+79
+90
+
+G, D, B, P
+G, D, B, P
+G, D, B, P
+G, D, B, P
+G, D, B, P
+G, D, B, P
+G, D, B
+G, D, B, P
+G, D, B, P
+G, D, B, P
+
+A, C
+A, B, C
+A, B, C
+A, C
+A, B, C
+A, B, C
+A, C
+A, C
+A, B, C
+A, B, C
+
+FY09
+FY09
+FY09
+FY09
+FY10
+FY10
+FY10
+FY10
+FY10
+FY10
+
+317
+43
+30
+60
+29
+69
+10
+60
+38
+51
+
+G, D, B, P
+
+A, B, C
+
+G, D, B, P
+G, D, B, P
+G, D, B, P
+G, D, B, P
+G, D, B, P
+G, D, B, P
+G, D, B, P
+G, D, B, P
+
+A, C
+A, C
+A, B, C
+A, B, C
+A, C
+A, B, C
+A, B, C
+A, C
+
+FY11
+FY11
+FY11
+FY11
+FY11
+FY12
+FY12
+FY12
+FY12
+FY12
+FY12
+
+75
+200
+21
+280
+141
+50
+38
+320
+50
+37
+22
+
+G, D, B, P
+G, D, B, P
+G, D, B
+G, D, B, P
+G, D, B, P
+G, D, B, P
+G, D, B, P
+G, D, B, P
+G, D, B
+G, D, B, P
+G, D, B
+
+A, B, C
+A, B, C
+A, C
+A, B, C
+A, C
+A, B, C
+A, B, C
+A, C
+A, C
+A, C
+A, C
+
+Recent completions
+ROSC Accounting &
+Auditing
+Gender Study
+Climate Change
+Regional Growth Study
+Public Finance Review (JBAR)
+Investment Climate
+Health Financing Policy Note
+Education & Nutrition Linkages
+Macro Fiscal Issues Growth
+Public Finance Review-Water
+Investment Climate Assessment
+(ICA)
+Telecom Reform Options
+Public Private Forum
+Rural (ICA)
+Capacity Building TA
+Urban Poverty
+Rural Safety Net
+Financial Sector Review
+Urban Safety Net
+Procurement Reforms
+
+Underway and Planned
+Public Expenditure Review 2011
+Innovation for Development
+Land Administration
+Climate Change Adaptation
+Roads Rural Access Development
+Public Expenditure Review 2012
+Tourism Sector Competitiveness
+Decentralized Service Delivery
+Country Fiduciary Assessment
+Regional Growth
+Service Trade & Growth
+
+a. Government, donor, Bank, public dissemination.
+b. Knowledge generation, public debate, problem-solving.
+
+38
+
+Annex 8. Key Economic Indicators
+
+Actual
+Indicator
+
+2005
+
+2006
+
+Projected
+
+Estimate
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+National accounts (as % of GDP)
+Gross domestic product
+
+a
+
+100
+
+100
+
+100
+
+100
+
+100
+
+100
+
+100
+
+100
+
+Agriculture
+
+47
+
+48
+
+47
+
+51
+
+51
+
+43
+
+43
+
+43
+
+43
+
+Industry
+
+13
+
+13
+
+13
+
+11
+
+11
+
+13
+
+14
+
+14
+
+14
+
+Services
+
+40
+
+39
+
+40
+
+38
+
+39
+
+44
+
+43
+
+43
+
+43
+
+Total Consumption
+
+97
+
+98
+
+94
+
+97
+
+96
+
+96
+
+97
+
+96
+
+95
+
+Gross domestic fixed investment
+
+24
+
+25
+
+26
+
+23
+
+22
+
+25
+
+25
+
+25
+
+25
+
+15
+
+17
+
+19
+
+16
+
+17
+
+17
+
+18
+
+18
+
+17
+
+9
+
+8
+
+7
+
+6
+
+6
+
+8
+
+7
+
+8
+
+8
+
+Government investment
+Private investment
+b
+
+100
+
+Exports (GNFS)
+
+15
+
+14
+
+13
+
+11
+
+11
+
+11
+
+13
+
+14
+
+16
+
+Imports (GNFS)
+
+35
+
+37
+
+32
+
+31
+
+29
+
+33
+
+35
+
+35
+
+36
+
+Gross domestic savings
+Gross national savings
+
+3
+
+2
+
+6
+
+3
+
+4
+
+4
+
+3
+
+4
+
+5
+
+18
+
+16
+
+21
+
+17
+
+17
+
+17
+
+16
+
+18
+
+18
+
+12307
+
+15164
+
+19553
+
+26675
+
+32033
+
+31012
+
+32370
+
+34506
+
+36504
+
+160
+
+190
+
+220
+
+280
+
+340
+
+380
+
+400
+
+400
+
+410
+
+c
+
+Memorandum items
+Gross domestic product
+(US$ million at current prices)
+GNI per capita (US$, Atlas method)
+Real annual growth rates (%, calculated from 00 prices)
+Gross domestic product at market prices
+
+11.8
+
+10.8
+
+11.5
+
+10.8
+
+8.7
+
+8.1
+
+7.9
+
+7.6
+
+7.6
+
+Gross Domestic Income
+
+13.4
+
+12.3
+
+11.6
+
+12.0
+
+9.9
+
+9.6
+
+7.8
+
+7.9
+
+8.1
+
+Real annual per capita growth rates (%, calculated from 00 prices)
+Gross domestic product at market prices
+
+9.0
+
+8.0
+
+8.6
+
+7.9
+
+5.9
+
+5.4
+
+5.3
+
+5.0
+
+5.0
+
+Total consumption
+
+17.9
+
+11.4
+
+4.6
+
+13.5
+
+6.4
+
+7.3
+
+5.4
+
+3.1
+
+4.5
+
+Private consumption
+
+19.9
+
+12.0
+
+5.7
+
+14.6
+
+8.8
+
+4.9
+
+5.3
+
+2.9
+
+4.5
+
+1858
+
+2105
+
+2489
+
+3060
+
+3381
+
+3535
+
+4128
+
+4905
+
+5863
+
+847
+
+1001
+
+1188
+
+1462
+
+1448
+
+1685
+
+1872
+
+2120
+
+2400
+
+4367
+
+5549
+
+6268
+
+8282
+
+9241
+
+10133
+
+11403
+
+12028
+
+13045
+
+Balance of Payments (US$ )
+b
+
+Exports (GNFS)
+
+Merchandise FOB
+b
+
+Imports (GNFS)
+
+Merchandise FOB
+
+3633
+
+4593
+
+5128
+
+6811
+
+7727
+
+8707
+
+9758
+
+10211
+
+11091
+
+-2509
+
+-3443
+
+-3779
+
+-5223
+
+-5859
+
+-6598
+
+-7275
+
+-7124
+
+-7181
+
+Net current transfers
+
+1807
+
+2095
+
+2895
+
+3699
+
+4281
+
+4310
+
+4393
+
+4693
+
+5086
+
+Current account balance
+
+-738
+
+-1386
+
+-871
+
+-1491
+
+-1620
+
+-2397
+
+-2991
+
+-2597
+
+-2290
+
+Net private foreign direct investment
+
+150
+
+365
+
+482
+
+815
+
+880
+
+1056
+
+1133
+
+1208
+
+1290
+
+Long-term loans (net)
+
+271
+
+80
+
+239
+
+704
+
+1533
+
+1469
+
+2064
+
+1514
+
+1220
+
+375
+
+303
+
+337
+
+341
+
+378
+
+435
+
+328
+
+231
+
+120
+
+-104
+
+-224
+
+-98
+
+364
+
+1155
+
+1034
+
+1737
+
+1283
+
+1100
+
+Resource balance
+
+Official
+Private
+Other capital (net, incl. errors & ommissions)
+Change in reserves
+
+d
+
+528
+
+545
+
+318
+
+-448
+
+-175
+
+249
+
+63
+
+0
+
+0
+
+-211
+
+397
+
+-168
+
+420
+
+-617
+
+-377
+
+-269
+
+-125
+
+-219
+
+-20.4
+
+-22.7
+
+-19.3
+
+-19.6
+
+-18.3
+
+-21.3
+
+-22.5
+
+-20.6
+
+-19.7
+
+17.6
+
+4.5
+
+10.7
+
+0.6
+
+-1.0
+
+2.8
+
+7.5
+
+10.4
+
+-10.3
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+15.6
+
+-1.5
+
+-3.4
+
+-1.5
+
+-36.7
+
+-57.6
+
+23.2
+
+7.6
+
+7.6
+
+26.6
+
+15.8
+
+2.8
+
+10.9
+
+22.1
+
+14.3
+
+7.6
+
+2.7
+
+7.3
+
+Memorandum items
+Resource balance (% of GDP)
+Real annual growth rates ( 2000 prices)
+Merchandise exports (FOB)
+Primary
+Manufactures
+Merchandise imports (CIF)
+
+39
+
+Annex 8. Key Economic Indicators
+(Continued)
+Actual
+Indicator
+
+2005
+
+2006
+
+Estimate
+2007
+
+2008
+
+2009
+
+Projected
+2010
+
+2011
+
+2012
+
+2013
+
+Indicator
+e
+
+Public finance (as % of GDP at market prices)
+Current revenues
+
+17.5
+
+16.8
+
+15.8
+
+14.3
+
+14.9
+
+16.0
+
+15.1
+
+15.3
+
+Current expenditures
+
+12.4
+
+11.6
+
+10.0
+
+9.2
+
+8.1
+
+9.1
+
+9.0
+
+9.0
+
+9.3
+
+5.1
+
+5.2
+
+5.8
+
+5.2
+
+6.8
+
+6.9
+
+6.1
+
+6.3
+
+6.4
+
+10.9
+
+10.7
+
+10.7
+
+9.7
+
+9.1
+
+10.4
+
+10.8
+
+10.9
+
+10.5
+
+3.7
+
+2.8
+
+2.9
+
+2.6
+
+2.3
+
+2.6
+
+3.1
+
+3.3
+
+3.0
+
+M2/GDP
+
+38.0
+
+36.1
+
+33.1
+
+28.1
+
+24.9
+
+25.5
+
+25.6
+
+26.4
+
+27.5
+
+Growth of M2 (%)
+
+19.6
+
+17.4
+
+19.7
+
+22.9
+
+19.9
+
+17.1
+
+18.3
+
+18.4
+
+19.0
+
+Private sector credit growth /
+
+30.1
+
+42.2
+
+38.0
+
+23.5
+
+62.9
+
+45.2
+
+23.6
+
+34.2
+
+35.9
+
+190.4
+
+Current account surplus (+) or deficit (-)
+Capital expenditure
+Foreign financing
+
+15.7
+
+Monetary indicators
+
+total credit growth (%)
+Price indices( 2000 =100)
+Merchandise export price index
+
+84.8
+
+95.8
+
+102.7
+
+125.7
+
+125.7
+
+142.4
+
+147.1
+
+150.9
+
+Merchandise import price index
+
+108.9
+
+119.0
+
+129.2
+
+154.8
+
+143.9
+
+141.8
+
+147.7
+
+150.5
+
+152.4
+
+77.8
+
+80.5
+
+79.5
+
+81.2
+
+87.4
+
+100.4
+
+99.6
+
+100.2
+
+124.9
+
+45.4
+
+48.1
+
+50.0
+
+62.0
+
+57.8
+
+..
+
+..
+
+..
+
+..
+
+Merchandise terms of trade index
+f
+
+Real exchange rate (US$/LCU)
+Real interest rates
+
+Consumer price index (% change)
+
+6.8
+
+12.3
+
+15.8
+
+25.3
+
+36.4
+
+5.6
+
+8.4
+
+6.6
+
+6.1
+
+GDP deflator (% change)
+
+9.9
+
+11.6
+
+17.2
+
+30.5
+
+24.4
+
+6.0
+
+9.0
+
+6.5
+
+6.2
+
+a. GDP at factor cost
+b. "GNFS" denotes "goods and nonfactor services."
+c. Includes net unrequited transfers excluding official capital grants.
+d. Includes use of IMF resources.
+e. Consolidated central government.
+f. "LCU" denotes "local currency units." An increase in US$/LCU denotes appreciation.
+
+40
+
+Annex 9. Key Social Indicators
+Latest single year
+
+Same region/income group
+
+1980-85
+
+1990-95
+
+2002-08
+
+SubSaharan
+Africa
+
+POPULATION
+Total population, mid-year (millions)
+Growth rate (% annual average for period)
+
+41.0
+3.0
+
+57.0
+3.3
+
+80.7
+2.6
+
+819.3
+2.5
+
+976.2
+2.1
+
+Urban population (% of population)
+Total fertility rate (births per woman)
+
+11.5
+7.0
+
+13.9
+6.8
+
+17.0
+5.3
+
+36.4
+5.1
+
+28.7
+4.0
+
+National headcount index
+
+..
+
+..
+
+..
+
+..
+
+..
+
+Urban headcount index
+
+..
+
+..
+
+..
+
+..
+
+..
+
+Rural headcount index
+
+..
+
+..
+
+..
+
+..
+
+..
+
+Lowincome
+
+POVERTY
+(% of population)
+
+INCOME
+GNI per capita (US$)
+
+190
+
+150
+
+280
+
+1,077
+
+523
+
+Consumer price index (2000=100)
+
+37
+
+73
+
+190
+
+127
+
+132
+
+Food price index (2000=100)
+
+49
+
+94
+
+92
+
+..
+
+..
+
+INCOME/CONSUMPTION DISTRIBUTION
+Gini index
+Lowest quintile (% of income or consumption)
+
+32.4
+8.6
+
+40.0
+7.2
+
+29.8
+9.3
+
+..
+..
+
+..
+..
+
+Highest quintile (% of income or consumption)
+
+41.3
+
+47.7
+
+39.4
+
+..
+
+..
+
+SOCIAL INDICATORS
+Public expenditure
+Health (% of GDP)
+Education (% of GDP)
+
+..
+
+..
+
+2.2
+
+2.6
+
+2.3
+
+2.4
+
+3.3
+
+5.5
+
+4.1
+
+3.4
+
+Net primary school enrollment rate
+(% of age group)
+Total
+
+..
+
+24
+
+78
+
+73
+
+80
+
+Male
+
+..
+
+27
+
+81
+
+75
+
+82
+
+Female
+
+..
+
+20
+
+75
+
+70
+
+78
+
+Access to an improved water source
+(% of population)
+Total
+
+..
+
+20
+
+42
+
+58
+
+67
+
+Urban
+
+..
+
+79
+
+96
+
+81
+
+86
+
+Rural
+
+..
+
+10
+
+31
+
+46
+
+60
+
+12
+
+38
+
+74
+
+72
+
+78
+
+6
+
+57
+
+81
+
+72
+
+80
+
+..
+
+..
+
+35
+
+25
+
+27
+
+Immunization rate
+(% of children ages 12-23 months)
+Measles
+DPT
+Child malnutrition (% under 5 years)
+Life expectancy at birth
+(years)
+Total
+
+44
+
+49
+
+55
+
+52
+
+59
+
+Male
+
+43
+
+48
+
+54
+
+51
+
+58
+
+Female
+
+46
+
+51
+
+57
+
+53
+
+60
+
+Infant (per 1,000 live births)
+
+126
+
+108
+
+69
+
+86
+
+76
+
+Under 5 (per 1,000)
+
+212
+
+180
+
+109
+
+144
+
+118
+
+Male (per 1,000 population)
+
+491
+
+448
+
+339
+
+395
+
+295
+
+Female (per 1,000 population)
+
+401
+
+358
+
+297
+
+362
+
+254
+
+..
+
+..
+
+720
+
+900
+
+790
+
+..
+
+..
+
+6
+
+46
+
+44
+
+Mortality
+
+Adult (15-59)
+
+Maternal (modeled, per 100,000 live births)
+Births attended by skilled health staff (%)
+
+Note: 0 or 0.0 means zero or less than half the unit shown. Net enrollment rate: break in series between 1997 and 1998 due to change from ISCED76 to ISCED97. Immunization: refers to children ages 12-23 months who received vaccinations before one year of age or
+at any time before the survey.
+World Development Indicators database, World Bank - 23 April 2010.
+
+41
+
+Annex 10. Key Exposure Indicators
+
+Actual
+Indicator
+
+2004
+
+Total debt outstanding and
+
+2005
+
+2006
+
+Estimated
+2007
+
+2008
+
+2009
+
+Projected
+2010
+
+2011
+
+2012
+
+2013
+
+6204
+
+2273
+
+2620
+
+2882
+
+3137
+
+3462
+
+3790
+
+4021
+
+4141
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+93
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+a
+
+disbursed (TDO) (US$m)
+
+a
+
+Net disbursements (US$m)
+Total debt service (TDS)
+a
+
+(US$m)
+
+Debt and debt service indicators
+(%)
+b
+
+TDO/XGS
+
+299.8
+
+98.9
+
+90.6
+
+82.4
+
+..
+
+..
+
+..
+
+..
+
+..
+
+TDO/GDP
+
+50.4
+
+15.0
+
+13.4
+
+10.8
+
+9.8
+
+11.2
+
+11.7
+
+11.7
+
+11.3
+
+TDS/XGS
+Concessional/TDO
+
+4.5
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+83.4
+
+66.7
+
+72.8
+
+76.8
+
+82.5
+
+87.6
+
+89.1
+
+90.2
+
+91.1
+
+IBRD exposure indicators (%)
+IBRD DS/public DS
+Preferred creditor DS/public
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+53.6
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+c
+
+DS (%)
+
+IBRD DS/XGS
+d
+
+IBRD TDO (US$m)
+
+Of which present value of
+guarantees (US$m)
+Share of IBRD portfolio (%)
+d
+
+IDA TDO (US$m)
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+3359
+
+553
+
+711
+
+859
+
+1028
+
+1296
+
+1534
+
+1742
+
+1888
+
+IFC (US$m)
+Loans
+Equity and quasi-equity /c
+MIGA
+MIGA guarantees (US$m)
+
+a. Includes public and publicly guaranteed debt, private nonguaranteed, use of IMF credits and net shortterm capital.
+b. "XGS" denotes exports of goods and services, including workers' remittances.
+c. Preferred creditors are defined as IBRD, IDA, the regional multilateral development banks, the IMF, and the
+Bank for International Settlements.
+d. Includes present value of guarantees.
+e. Includes equity and quasi-equity types of both loan and equity instruments.
+
+42
+
+Annex 11. Operations Portfolio
+As Of 9/13/2010
+
+Closed Projects
+
+96
+
+IBRD/IDA *
+Total Disbursed (Active)
+of w hich has been repaid
+Total Disbursed (Closed)
+of w hich has been repaid
+Total Disbursed (Active + Closed)
+of w hich has been repaid
+
+1,490.90
+0.00
+2,483.38
+161.74
+3,974.27
+161.74
+
+Total Undisbursed (Active)
+
+1,971.54
+
+Total Undisbursed (Closed)
+
+0.00
+
+Total Undisbursed (Active + Closed)
+
+1,971.54
+
+Active Projects
+
+Difference Between
+Last PSR
+
+Expected and Actual
+
+Supervision Rating
+Project ID
+
+Project Name
+
+P101556
+P113220
+P079275
+P106228
+P090789
+P091077
+P097271
+P049395
+P077380
+P106855
+P092353
+P098031
+P108932
+P103022
+P074020
+P106872
+P082998
+P107139
+P096323
+P098132
+P101474
+P101473
+P076735
+P074011
+P050272
+
+ET‐Elect. Access Rural II SIL (FY07)
+ET Productive Safety Nets (APL III)
+ET‐ Cap. Building for Agric. Serv (FY06)
+ET‐ Ethiopia Nutrition SIL (FY08)
+ET‐ Sustainable Land Management (FY08)
+ET‐APL3‐RSDP Stage III Proj (FY07)
+ET‐Electricity Access (Rural) Expansion
+ET‐Energy Access SIL (FY03)
+ET‐GEF Energy Access Prj (FY06)
+ET‐General Educ Quality Improv. (FY09)
+ET‐Irrigation & Drainage SIL (FY07)
+ET‐Multi‐Sectoral HIV/AIDS II (FY07)
+ET‐Pastoral Community Develpt II (FY08)
+ET‐Protect. Basic Serv. Phase II (FY09)
+ET‐Pub Sec Cap Bldg Prj (FY04)
+ET‐RSDP Stage IV APL (FY09)
+ET‐Road Sec Dev Prgm Ph 2 Supl 2 (FY05)
+ET‐Sustainable Land Mngt SIL (FY08)
+ET‐Tana &Beles Int. Wat Res Dev Project
+ET‐Tourism Develop. Project SIL
+ET‐Urban Local Govt Development (FY08)
+ET‐Urban WSS SIL FY07)
+ET‐Water Sply & Sanitation SIL (FY04)
+ET/Nile Basin Initiative:ET‐SU Interconn
+Priv Sec Dev CB
+
+Development
+Objectives
+
+MS
+S
+S
+MS
+MS
+S
+S
+S
+S
+S
+S
+MS
+S
+S
+S
+S
+S
+MS
+MS
+S
+S
+S
+S
+MS
+S
+
+Disbursements a/
+
+Original Amount in US$ Millions
+
+Implementation
+Progress
+
+Fiscal Year
+
+IDA
+
+MS
+S
+S
+MS
+S
+S
+S
+S
+S
+MS
+S
+MS
+MS
+S
+S
+S
+S
+S
+MU
+S
+S
+MU
+MS
+MS
+S
+
+2008
+2010
+2006
+2008
+2008
+2007
+2006
+2003
+2006
+2009
+2007
+2007
+2008
+2009
+2004
+2009
+2005
+2008
+2008
+2009
+2008
+2007
+2004
+2008
+2005
+
+130
+480
+54
+30
+
+Overall Result
+Source: BW
+
+Cancel.
+
+68.00 1,981.83
+
+284.27
+
+9.00
+
+4.93
+10.00
+5.00
+
+20.00
+
+13.00
+7.00
+13.93
+
+Orig. Frm Rev'd
+
+110.31
+
+13.00
+
+50
+100
+30
+80
+540
+150
+245
+348.2
+20
+45
+35
+150
+100
+180
+41.05
+24
+
+Undisb.
+
+124.93
+356.56
+5.66
+24.42
+7.11
+175.97
+68.73
+224.92
+3.18
+36.54
+69.75
+5.08
+49.60
+47.92
+47.22
+238.59
+135.01
+15.02
+36.42
+31.67
+86.08
+70.72
+100.19
+14.86
+5.67
+
+225
+133.4
+312.7
+
+3503.35
+
+43
+
+GRANT
+
+5.81
+16.62
+65.62
+60.89
+20.39
+3.18
+‐14.08
+68.47
+9.28
+12.03
+‐9.49
+18.50
+‐2.61
+‐59.65
+4.30
+13.64
+‐1.18
+‐13.31
+35.29
+31.09
+13.31
+11.92
+
+‐5.53
+
+0.20
+
+‐15.70
+
+7.19
+‐13.83
+
+Annex 12. Ethiopia Trust Fund (TF) Portfolio
+
+Proj. ID
+
+Project Name
+
+TF #
+
+Approved Amt
+
+Sign Date
+
+Closing
+Date
+
+Disbursed Amt
+FY08-10
+
+Undisbursed Amt
+
+P050383
+
+ET Food Security Cofinancing Project
+
+TF 51169
+
+5,146,637
+
+12-Mar-03
+
+30-Jun-10
+
+1,531,008
+
+2,161,921
+
+P050383
+
+Ethiopia Food Security Project
+
+TF 52696
+
+15,003,432
+
+6-Sep-04
+
+30-Jun-10
+
+1,650,699
+
+8,525,715
+
+P049395
+
+ET Women Fuelwood Carriers
+
+TF 54213
+
+1,860,650
+
+12-Aug-05
+
+31-Aug-10
+
+753,976
+
+906,674
+
+P077380
+
+GEF-ENERGY ACCESS PROJECT
+
+TF 56092
+
+4,930,000
+
+28-Apr-06
+
+30-Jun-11
+
+1,456,202
+
+3,223,798
+
+P074015
+
+Protection of Basic Services
+
+TF 56885
+
+177,453,647
+
+21-Jun-06
+
+30-Jun-09
+
+8,353,647
+
+0
+
+P101929
+
+Managing and Enforcing Intellectual Property Rights: Creating a Driver of
+Growth
+
+TF 57338
+
+496,000
+
+2-Oct-06
+
+1-Oct-10
+
+288,521
+
+157,479
+
+P074015
+
+Protection of Basic Services
+
+TF 56942
+
+87,847,500
+
+26-Oct-06
+
+31-Dec-10
+
+72,095,163
+
+5,769,462
+
+P098428
+
+Humbo and Soddo Community-Based Natural Regeneration Project
+
+TF 56939
+
+189,850
+
+28-Dec-06
+
+30-Jun-10
+
+123,858
+
+65,992
+
+P074015
+
+Protection of Basic Services
+
+TF 57683
+
+8,025,896
+
+2-May-07
+
+30-Jun-09
+
+8,025,896
+
+0
+
+P098093
+
+Productive Safety Nets APL II
+
+TF 58248
+
+113,846,332
+
+12-Jun-07
+
+30-Apr-10
+
+92,997,788
+
+20,848,544
+
+P079275
+
+Rural Capacity Building Project
+
+TF 90084
+
+9,547,921
+
+20-Jun-07
+
+30-Sep-10
+
+5,142,437
+
+4,405,483
+
+P074015
+
+Protection of Basic Services
+
+TF 90445
+
+390,314,870
+
+22-Jun-07
+
+30-Jun-09
+
+290,814,870
+
+0
+
+P091077
+
+ET-Road Sector Dev. Stage III Proj. (APL3) in support of Govt's RSDP
+
+TF 56516
+
+1,542,375
+
+31-Dec-07
+
+31-Dec-10
+
+325,704
+
+1,216,671
+
+P076735
+
+Ethiopia Water Supply and Sanitation Project
+
+TF 91704
+
+111,675,531
+
+9-Apr-08
+
+31-Dec-12
+
+25,709,666
+
+85,965,865
+
+509,269,437
+
+133,247,604
+
+A. Total grant signed before the CAS but active during the CAS Period
+P090789
+
+927,880,640
+
+ET-Sustainable Land Management Program
+
+TF 92320
+
+9,000,000
+
+16-Jul-08
+
+30-Sep-13
+
+1,523,426
+
+7,476,574
+
+P105651
+
+Ethiopia Electricity Access Rural Expansion, Phase II - GPOBA
+
+TF 92600
+
+6,200,000
+
+30-Oct-08
+
+31-Dec-11
+
+-
+
+6,200,000
+
+P105651
+
+Ethiopia Electricity Access Rural Expansion, Phase II - GPOBA
+
+TF 92601
+
+1,800,000
+
+30-Oct-08
+
+31-Dec-11
+
+-
+
+1,800,000
+
+P106855
+
+General Education Quality Improvement Project - APL 1 (GEQIP)
+
+TF 93227
+
+70,000,000
+
+21-Nov-08
+
+30-Jun-10
+
+36,500,000
+
+33,500,000
+
+P114843
+
+PHRD Ethiopia: Cluster Development Program
+
+TF 93486
+
+240,000
+
+16-Feb-09
+
+3-Nov-11
+
+106,790
+
+133,210
+
+P115788
+
+Development Marketplace for the African Diaspora in Europe Winning Project
+
+TF 93792
+
+53,982
+
+6-Apr-09
+
+31-Jan-11
+
+45,073
+
+P114913
+
+ET: Flood risks prevention in Ethiopia
+
+TF 93300
+
+315,000
+
+25-May-09
+
+30-Jun-12
+
+-
+
+P103022
+
+Ethiopia Protection of Basic Services Program Phase II
+
+TF 94641
+
+194,926,392
+
+19-Jun-09
+
+31-Dec-11
+
+194,926,392
+
+0
+
+P106855
+
+General Education Quality Improvement Project - APL 1 (GEQIP)
+
+TF 94224
+
+14,960,000
+
+24-Jul-09
+
+13-Jun-13
+
+14,960,000
+
+0
+
+P106228
+
+ET-Community-Based Management of Severe Acute Malnutrition
+
+TF 93946
+
+1,810,434
+
+14-Aug-09
+
+14-Aug-13
+
+-
+
+1,810,434
+
+P096323
+
+ET: Tana & Beles Integrated Water Resources Development
+
+TF 95045
+
+3,484,679
+
+31-Aug-09
+
+30-Sep-13
+
+1,000,000
+
+2,484,679
+
+P117216
+
+ET: Forest Carbon Partnership Facility Readiness Grant
+
+TF 94541
+
+200,000
+
+2-Sep-09
+
+31-Dec-10
+
+100,000
+
+100,000
+
+P103022
+
+Ethiopia Protection of Basic Services Program Phase II
+
+TF 95106
+
+14,449,440
+
+14-Sep-09
+
+30-Jun-12
+
+P098093
+
+ET: Productive Safety Nets APL II
+
+TF 95296
+
+28,261,351
+
+21-Oct-09
+
+30-Jun-10
+
+P115154
+
+Ethiopia Statistical Capacity Building: Data Systems and Economy
+
+TF 95746
+
+167,596
+
+8-Apr-10
+
+30-Apr-11
+
+B. Total grant signed during CAS period
+Total A+B
+NB
+
+345,868,874
+1,273,749,514
+
+In addition $21m were provided to cover the Bank -Executed activities during that period.
+
+44
+
+8,910
+315,000
+
+28,261,351
+277,423,032
+786,692,469
+
+14,449,440
+0
+167,596
+68,445,842
+201,693,446
+
+Annex 13. IFC Program and Portfolio
+Ethiopia: IFC Investm ent Operations Program
+
+2008
+
+2009
+
+2010
+
+2011*
+
+Com m itm ents (US$m )
+Gross
+
+55.00
+
+5.29
+
+Net**
+
+55.00
+
+5.29
+
+Net Com m itm ents by Sector (%)
+EQUITY
+
+100
+
+LOAN
+
+100
+
+Total
+
+100
+
+0
+
+100
+
+0
+
+Net Com m itm ents by Investm ent Instrum ent (%)
+Equity
+
+100
+
+Loan
+
+100
+
+Total
+
+100
+
+0
+
+100
+
+0
+
+* As of March 31, 2011
+** IFC's Ow n Account only
+
+Ethiopia
+Committed and Disbursed Outstanding Investment Portfolio
+As of 8/31/2010
+(In USD Millions)
+
+Com m itted
+FY
+Approval
+
+Com pany
+
+2008
+
+Dmc
+
+2010
+
+Nyota
+
+Total Portfolio:
+
+Disbursed Outstanding
+
+Loan
+
+Equity
+
+**Quasi
+Equity
+
+*GT/RM
+
+Participant
+
+Loan
+
+Equity
+
+**Quasi
+Equity
+
+*GT/RM
+
+Participant
+
+55
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+5.05
+
+0
+
+0
+
+0
+
+0
+
+5.04
+
+0
+
+0
+
+0
+
+55
+
+5.05
+
+0
+
+0
+
+0
+
+0
+
+5.04
+
+0
+
+0
+
+0
+
+* Denotes Guarantee and Risk Management Products.
+** Quasi Equity includes both loan and equity types.
+
+45
+
+

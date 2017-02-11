@@ -1,0 +1,6907 @@
+Public Disclosure Authorized
+
+Document of
+The World Bank
+FOR OFFICIAL USE ONLY
+
+Public Disclosure Authorized
+
+Public Disclosure Authorized
+
+Public Disclosure Authorized
+
+Report No. 23329-CH
+
+MEMORANDUM OF THE PRESIDENT
+OF THE
+INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT
+TO THE
+EXECUTIVE DIRECTORS
+ONA
+COUNTRY ASSISTANCE STRATEGY
+FOR THE
+REPUBLIC OF CHILE
+January 23, 2002
+
+Country Management Unit Argentina, Chile, Paraguay and Uruguay
+Poverty Reduction and Economic Management
+Latin America and Caribbean Regional Office
+
+This document has a restricted distribution and may be used by recipients only in the
+performance of their official duties. Its contents may not otherwise be disclosed without
+World Bank authorization
+
+CURRENCY EQUIVALENTS
+Us$1= 671 Chilean Pesos (as of December 5, 2001)
+FISCAL YEAR
+January 1-December 31
+ACRONYMS AND ABBREVIATIONS
+APL
+CAE
+CAS
+CEPI
+CODELCO
+CONADI
+CONAMA
+DDO
+EA
+ESW
+GDP
+GDLN
+GEF
+IBRD
+ICR
+ICT
+IDB
+IDF
+InfoDdev
+IFC
+IMF
+LIL
+MERCOSUR
+MIGA
+OECD
+OED
+PHRD
+R&D
+SERNAM
+SME
+S&P
+UTNDP
+WBI
+
+Adaptable Program Loan
+Country Assistance Evaluation
+Country Assistance Strategy
+Special Commission on Indigenous Peoples
+Copper Development Corporation
+National Corporation of Indigenous Development
+National Commission for the Environment
+Deferred Draw-Down Option
+Environmental Assessment
+Economic and Sector Work
+Gross Domestic Product
+Global Distance Learning Network
+Global Environmental Facility
+International Bank for Reconstruction and Development
+Implementation Completion Report
+Information and Communication Technologies
+Inter-American Development Bank
+Institutional Development Fund
+Information for Development Program
+International Financial Corporation
+International Monetary Fund
+Leaming and Innovation Loan
+Southern Cone Common Market
+Multilateral Investmnent Guarantee Agency
+Organization for Economic Cooperation and Development
+Operations Evaluation Department
+Policy and Human Resource Development Fund
+Research and Development
+National Women's Service
+Small and Medium-size Enterprise
+Standard and Poor's
+United Nations Development Program
+World Bank Institute
+Vice President:
+Country Director:
+Lead Economist:
+Task Manager:
+
+David de Ferranti
+Myrna Alexander
+Paul Levy
+Veronica Salatino
+
+FOR OFFICIAL USE ONLY
+THE REPUBLIC OF CHILE
+COUNTRY ASSISTANCE STRATEGY
+TABLE OF CONTENTS
+Executive Summary
+
+(i)
+
+A.
+
+INTRODUCTION
+
+I
+
+B.
+
+MACRO-ECONOMIC PERFORMANCE
+
+1
+
+Economic Performance
+Key Factors
+Rapid Recovery
+Vulnerability to Shocks
+C.
+
+SOCIAL DEVELOPMENT
+Poverty and Social Indicators
+Rejuvenation of Social Programs
+Impact on Poverty and Income-Distribution
+Vulnerable Groups
+Governance and Civil Society
+
+D.
+
+CHILE'S DEVELOPMENT CHALLENGES
+Poverty Reduction in the 21s' Century
+Growth Prospects
+The Challenges
+
+E.
+
+THE GOVERNMENT'S PROGRAM
+Expansion of Civil Liberties and National Unity
+Equal Opportunities and Inclusion
+Promotion of Growth in a Globalized and Competitive World
+
+F.
+
+I
+2
+4
+5
+5
+5
+6
+8
+9
+II
+12
+12
+12
+13
+19
+19
+20
+21
+
+THE WORLD BANK ASSISTANCE STRATEGY
+
+22
+
+An Evolving Relationship
+Lessons and Progress in Realizing Past CAS Objectives
+The FY02-06 Program
+Vehicles for Bank Group Assistance
+Country Program Monitoring
+
+22
+23
+28
+29
+35
+
+This document has a restricted distribution and may be used by recipients only in the
+performance of their official duties. Its contents may not otherwise be disclosed without
+World Bank authorization.
+
+ANNEXES
+
+Annex A2
+Annex B2
+Annex B3
+Annex B3
+Annex B4
+Annex B5
+Annex B6
+Annex B7
+Annex B8
+Annex B8
+Annex B9
+Annex B1O
+
+Country at a Glance
+Selected Indicators of Bank Portfolio Performance and
+Management
+Bank Group Program Summary
+Bank Group Fact Sheet - IFC and MIGA Program
+Summary of Nonlending Services
+Poverty and Social Development Indicators
+Key Economic Indicators
+Key Exposure Indicators
+Operations Portfolio
+Statement of IFC's Held and Disbursed Portfolio
+CAS Program Matrix (FY2002-FY2005)
+Development Priorities
+
+MAP
+
+IBRD 25555
+
+EXECUTIVE SUMMARY
+Introduction
+i.
+This CAS provides an update on the country's performance and its development
+strategy since the last CAS was prepared in 1995 and repositions the Bank Group for the
+future. Over time, the relationship between the Bank Group and the Republic of Chile
+has evolved. At the beginning of the 1990s, the agenda shifted from economic reforms to
+the social sectors, environment, rural poverty alleviation and institutional development.
+The focus changed again in the mid-1 990s when the Government decided to reduce its
+external borrowing from the international financial institutions. At the end of the 1990s,
+lending was renewed, adding technology and reinforcing support for education and local
+capacity building.
+ii.
+IFC's experience mirrored that of IBRD: as the Chilean private sector gained
+access to longer-term credit and sophisticated financial products, IFC became
+increasingly selective during the 1990s. This meant targeting activities where IFC would
+have a strong role and significant development impact, including greenfield projects,
+non-traditional industries, regional operations, second-tier companies and specialized
+financial transactions. IFC's involvement further narrowed so that there was no
+investment approval in FY98. In FY99, IFC resumed selective financing in response to
+the decline in growth and the Government's request for support in priority areas.
+iii.
+Today, faced with new challenges, Chile and the Bank Group are, once again,
+reevaluating needs and laying the basis for a changed relationship in the coming years.
+The relationship remains selective focusing on areas in which the Bank has a comparative
+advantage in drawing upon global knowledge, sustaining a policy dialogue, and
+exploiting synergies with other operations and past experiences. As outlined in the CAS,
+the program aims to support programs and activities which deepen and sustain Chile's
+efforts at poverty reduction with a mix of technical and financial support. Notably, in
+this time of heightened global and regional risks, slower growth, low commodity prices
+and reduced capital flows, the program includes the possibility to use the Bank's new
+DDO instrument for risk management. IFC will continue its selective engagement in
+high impact, government priority areas to help the private sector weather this period and
+play a role in higher, sustained growth.
+Recent Economic and Social Performance
+iv.
+Chile has had, by far, the most robust economic performance in Latin America
+and has social and economic indicators that are the envy of its neighbors. Its progress in
+reducing poverty, especially in the 1990s, has been notable. Chile averaged over 6.6
+percent economic growth per year during the 1990s despite an economic downturn in
+1999. Growth reached 5.4 percent in 2000 and 3.1 percent in 2001. Extreme poverty is
+now at about 4 percent of the population and overall poverty levels have been halved,
+dropping to between 17 and 21 percent of the population, depending on the poverty line
+
+i
+
+used. Even during 1999, preliminary data indicate that poverty reduction was
+maintained. This reflects past economic reforms, combined with strong public
+institutions and the maintenance of a solid macro-economic policy framework. There are
+many ingredients to Chile's economic success, notably, high investment and savings
+rates, an open economy, a strong financial sector with an autonomous central bank, stable
+fiscal management, and prudent monetary policy. Growth has been a powerful factor in
+explaining Chile's success in reducing poverty but another important factor has been the
+concerted effort by the past three democratic governments to put in place social programs
+and policies which address both opportunity and equity.
+Development Challenges
+v.
+Sustained and rapid growth has been at the heart of Chile's past success in
+reducing poverty, accounting for much of the decline in the proportion of poor and to the
+improvement in overall welfare. Thus, continuing to grow at a fast pace is of critical
+importance for the future, along with policies and programs aimed at making growth
+more inclusive. However, maintaining such rapid growth will likely be a more difficult
+challenge in the next 2-3 years, given that Chile, as a small open economy, is necessarily
+vulnerable to adverse global and regional developments. Thus, while long-term
+prospects for Chile's continued economic and social progress remain very positive, the
+risks that, in the short-run, Chile may not be able to sustain the growth and poverty
+reduction achieved in the 1990s are higher today than they might have been prior to
+September I1%h .
+vi
+Currently, Chile faces several points of vulnerability. The external environment
+today is much less hospitable for Chilean exports which are sensitive to developed
+country demand and continue to be dominated by primary products. Despite very
+substantial diversification since the 1970s, copper still accounts for about 40 percent of
+total exports and, with copper prices depressed, an important source of revenue and
+foreign exchange earnings is vulnerable. In addition, foreign direct investment and
+external financing, which have been important all through the 1990s, may not be as
+forthcoming because of heightened regional uncertainties, especially in neighboring
+Argentina, and risk aversion on the part of investors. This could lower overall investment
+rates. It could also increase the refinancing risks faced by the private sector whose
+indebtedness accounts for about 40 percent of GDP. Compounding these factors are
+changing trends in global markets, in turn leading to shifts in demand for Chile's
+products and introducing new requirements in terms of technology, skills, and
+knowledge.
+vii.
+Faced with these increased uncertainties, one of the challenges facing Chile is to
+expand and diversify its risk management mechanisms. Moreover, the combination of
+high unemployment (currently about 9%), relatively low levels of skills among the
+present adult labor force, and the difficulties associated with matching educational
+content to changing demands, make productivity and human capital development
+continued high priorities. At the same time, sustainable use of natural resources, on
+which Chile's success depends, is now even more important.
+
+ii
+
+viii. In addition, while there have been enormous advances across many social
+indicators, there are still many poor people facing increasing hurdles in achieving a
+satisfactory standard of living. Income inequality stands out as being relatively high in
+Chile and is reflected in continuing severe disparities among different demographic
+groups and between rural and urban populations. Especially vulnerable groups include
+Chile's indigenous populations, youths, female-headed households and those living in
+rural areas. Social policies and programs need to be refined and adapted to respond better
+to the needs of these groups. At the same time, local institutions, which carry the major
+responsibility for delivering social programs, can be strengthened. Underpinning these
+efforts, a key requirement is a modem, efficient state that is responsive to its citizenry,
+accountable and transparent.
+The Government's Program
+ix.
+Over the medium-term, Chile is aiming to take its substantial past
+accomplishments further, inter aliaby addressing social equity, inclusion and
+opportunity, while keeping pace with rapid global changes. The development agenda set
+by the present Chilean Government fully hones in on these concerns. Since taking over
+in early 2000, the Government has been pursuing a comprehensive program, involving a
+series of new initiatives within an overall policy framework and set of core goals which
+provide full continuity with the priorities established by predecessor governments. The
+overall framework emphasizes maintenance of a conducive, stable macro-economic
+framework, strong public institutions, high investment in human capital and social
+protection for the most vulnerable groups. The Government continues to see the private
+sector as the primary driver of employment creation and production, with the public
+sector facilitating and creating opportunities for private participation.
+x.
+In terms of new initiatives/areas of special focus, the global trend towards
+increased demand for knowledge- and skills-intensive products has led Chile to deepen
+its focus on education, which had already been a major part of the program of
+predecessor governments since 1990. The Government is also attaching high priority to
+addressing the increasingly important issues of global competitiveness linked to
+information technology, communications, research and innovation. It is expected that
+progress in these areas will help to diversify the economy and create new opportunities in
+the fast-growing knowledge economy. In parallel, Chile will continue to focus on sound
+management of its natural resource base through ensuring that appropriate and
+sustainable development takes place and, in keeping with its continued commitment to
+efficient poverty reduction, move forward with initiatives to refine social protection and
+services for the poor, the isolated and the vulnerable. Moreover, in part to help ensure
+the success of the preceding efforts, the country will press forward in its effort to put in
+place an accountable, responsive, "modern" state.
+xi.
+In addition to the above, and taking into account the uncertain external
+environment, Chile is seeking ways to manage risks pro-actively, especially in the event
+of unprecedented volatility in international financial and commodity markets beyond
+
+iii
+
+what could be cushioned by the country's present risk management tools. Chile has put
+in place a system of fiscal management that builds in automatic stabilizers and has for
+many years been able to rely on its Copper Stabilization Fund to smooth the impact of
+changes in copper prices on public revenues. Yet, prudent risk management under
+conditions of higher risk point to the need for additional measures to ensure funding
+sources in the event of simultaneous external shocks.
+The Bank Group Program
+xii.
+The Government priorities highlighted above constitute the core of the program of
+partnership between Chile and the World Bank Group over the next five years. The CAS
+sets three broad goals: (i) sustaining economic growth and social progress; (ii)
+heightening inclusion, especially of rural populations and vulnerable groups; and (iii)
+modernizing the state as the underpinning for the two previous objectives. The content of
+the program is selective, focusing on actions aimed at deepening and sustaining poverty
+reduction across the range of vulnerable groups. In addition, given the risks associated
+with the current global economic slowdown and heightened regional uncertainties, the
+Bank's assistance strategy includes the option of additional financing in support of
+structural reforms.
+xiii. It is anticipated that the FY 02-06 program could include up to six investment
+operations for total lending of $250-300 million. At the current time, these are expected
+to be as follows:
+*
+
+Public Expenditure Management: Modernizing Chile's public expenditure
+management, including integration of systems (accounting, treasury, human
+resources, etc) and real time availability of data from decentralized agencies.
+
+*
+
+Life Long Learning: Upgrading skills of adults, including giving a second chance
+to those who have dropped out, by facilitating access to technical and other
+education and labor mobility.
+
+*
+
+Watershed Management: Supporting the development of a framework,
+institutions, and capacity to manage Chile's environmentally sensitive watersheds
+with the goal of finding sustainable development paths.
+
+*
+
+Rural Infrastructure: Instituting programs of public-private, mixed service
+delivery to provide rural, typically poor populations with economically,
+environmetitally and socially sustainable services. The services could include
+electricity, renewable energy, communications, water, sanitation and others.
+
+*
+
+Technology and Innovation: Scaling up the ongoing LIL for the Millennium
+Institutes as the corner stone for promoting increased R&D, business-academic
+linkages, research networking and effective management of research programs.
+
+iv
+
+*
+
+Strengthening Local Service Delivery: Implementing service delivery
+improvements across an array of programs while designing new programs to fill
+gaps and improving the instruments for eligibility, monitoring and evaluation.
+
+xiv.
+As a risk management measure, mitigating against possible adverse external
+events (e.g., prolonged global recession, lower commodity prices and reduced capital
+inflows), this program of investment and technical assistance loans would be
+complemented by support for structural reforms in the arnount of $250-350 million.
+Although Chile is among the few emerging market economies that are relatively wellequipped to cope with such potential shocks, the Government is of the view that a
+persistent and prolonged, unsettled global environment could sap Chile's considerable
+risk management capacity. From available Bank instruments, the Government has
+selected the Deferred Draw-down Option (DDO) in order to provide maximum flexibility
+in managing risks in an uncertain global and regional environment. Chile fully meets the
+criteria set out for the use of this instrument: notably, (i) Chile has not used Bank
+resources to the fullest extent; (ii) exposure is low; (iii) Chile is in good standing with
+the international capital market; and (iv) it has a strong track record in pursuing
+consistent macro-economic policies and reforms.
+xv.
+Several areas of possible reform, consistent with the proposed CAS objectives and
+the Government's development agenda, have been identified and could form the basis of
+a structural adjustment program suitable for Bank support. One potential area of
+structural improvement is the health sector, based on the on-going deliberations of the
+Presidential Commission on Health and reflecting past Bank analytical work. Other
+possibilities include the regulatory framework for public services, the efficiency of public
+expenditures, particularly in infrastructure, and the social protection and delivery system.
+These are areas in which the Bank has accumulated both country and global knowledge
+and where this knowledge could strengthen the likelihood of successful and sustainable
+reforms being implemented. As always, an actual move to a Bank-supported adjustment
+program would be contingent on a satisfactory macro-framework and agreement on the
+specific content of the reforms.
+Non-lending Services
+xvi. A selective but active program of non-lending is planned. Activities range from
+new GEF operations to the Development Gateway, Infodev, Global Distance Learning,
+capacity building for indigenous municipal leaders, plus analytical work. On the latter,
+several topics have been identified including: (i) examining how to expand the capacity
+of SMEs to contribute to economic growth and employment generation; (ii) assessing
+Chile's capacity to face the challenge of a knowledge based economy; (iii) taking a
+systems approach to social risk management and social protection with an emphasis on
+coverage for vulnerable groups; and (iv) building up knowledge on the specific needs of
+the rural populations in terms of basic services. Another assessment of poverty would be
+undertaken, as would a review of Chile's fiduciary framework for public procurement
+and financial accountability. The Government has also indicated several areas in which it
+would continue to request technical advice from the Bank on a reimbursable basis.
+
+v
+
+Portfolio Management
+xvii. With only five operations under implementation, representing total loans of $280
+million and $117 million undisbursed, Chile's portfolio is small and generally problem
+and risk free. There is no major fiduciary concern with several actions agreed and/or
+underway to address the few areas where improvement is needed.
+IFC and MIGA
+xviii. As of December 31, 2001, IFC's portfolio in Chile stood at $131 million.
+Similarly, MIGA has been moderately active in Chile, supporting projects worth just over
+$30 million in each of FY98 and FY99. MIGA's current exposure is $22.2 million and
+there is one application received for a potential project in infrastructure. Looking ahead,
+IFC expects to help the private sector respond to the global economic uncertainties and
+the unsettled regional context. IFC remains focused on projects in high impact areas,
+including SMEs (through financial intermediaries), specialized financial market activity,
+infrastructure, and the social sector, guided by the Government's priorities and the private
+sector's demand for improving competitiveness.
+Risks and Creditworthiness
+xix. For the Bank Group, Chile represents low risks: exposure is low, development
+management capacities are strong, and the track record of achieving development impact
+is high. The country possesses strong institutions and has followed consistent and
+prudent policies. There is little doubt that, all other things being equal, Chile would be
+able to implement successfully its development agenda with minimal assistance from the
+international community. But Chile is not immune to the present global and regional
+uncertainties. It has a number of strengths on which it can draw, notably, its strong
+external position and solid fiscal position. It has undertaken preemptive financing and
+can draw upon its Copper Stabilization Fund. Nevertheless, prudence warrants that
+precautions be taken.
+Board Discussion
+xx.
+Chile is one of the best performers among the Bank's diverse middle-income
+borrowers. It has not yet reached the threshold for graduation but has performed
+exceedingly well over the past 15 years. Commensurately, the support from the Bank
+Group has declined sharply over time and has shifted focus in response to changing
+country needs. At the present time, the country faces new risks and challenges that the
+Bank Group is being asked to help address and mitigate. A continued engagement is
+being sought. The following issues are suggested for Board discussion:
+*
+
+Is the diagnosis underpinning the CAS sufficiently comprehensive
+and integrative?
+
+vi
+
+*
+
+Does the CAS strike the right balance between support for individual
+projects and support for broader policy and institutional changes?
+
+*
+
+Is the program of lending and non-lending instruments adequate and in
+line with the Bank's comparative advantage?
+
+*
+
+Among the various risk management instruments available from the
+Bank, is the DDO the best option?
+
+vii
+
+MEMORANDUM OF THE PRESIDENT
+OF THE INTERNATIONAL BANK FOR RECONSTRUCTION AND
+DEVELOPMENT
+TO THE EXECUTIVE DIRECTORS ON A
+COUNTRY ASSISTANCE STRATEGY
+FOR THE
+REPUBLIC OF CHILE
+A. INTRODUCTION
+1.
+The purpose of this Country Assistance Strategy (CAS) is to renew the
+collaboration between the Republic of Chile and the World Bank Group for FY02-06.
+The last CAS was presented in May 1995. Since then, the collaboration between the
+Bank and Chile has evolved. This CAS outlines that relationship and the main features of
+the program. A selective relationship remains the basis for the Bank Group's planned
+collaboration with Chile.
+2.
+As described subsequently, the program builds on Chile's success in reducing
+poverty. It aims to support activities that deepen and sustain that process, bringing
+together the Bank's global knowledge and financial support. The IBRD program
+provides a mix of technical support and advice with sustained financing to act as a
+catalyst and to provide a margin for additional financial support should circumstances
+warrant. As slower growth and external shocks affect Chile, IFC will continue selective
+engagement in high impact, government priority areas, to help the Chilean private sector
+weather this period and play a role in higher, sustained growth.
+B. MACRO-ECONOMIC PERFORMANCE
+Economic Performance
+3.
+Over the past two decades, Chile's growth rates have been among the highest in
+the world. This performance can be attributed to sustained implementation of economic
+reforms, including deregulation of factor markets, trade liberalization, control over fiscal
+balances, and steady macro-economic management. But this was not a smooth path, with
+significant economic and social hardship, particularly after the collapse of the exchange
+rate regime and the eruption of the debt crisis in 1982 which led to a decline in GDP of
+14 percent. At that point, unemployment peaked at some 20 percent of the labor force
+and remained in double digits for several years. Chile emerged from the debt crisis in
+1984 and since then has experienced sustained growth, averaging an unprecedented 6.8
+percent per year through to 1999 when the country was affected by the aftermath of the
+1997 East Asia crisis.
+
+Table 1: Macroeconomic Indicators - Chile
+
+1999
+
+2000
+
+Estimate
+2001
+
+7.4
+3.9
+-1.1
+Shares to GDP (%l)
+27.2
+27.4
+22.1
+22.3
+21.8
+21.8
+-5.0
+-5.7
+-0.3
+
+5.4
+
+3.2
+
+23.4
+21.9
+-1.6
+
+23.7
+21.6
+-2.1
+
+1995
+
+1996
+
+1997
+
+1998
+
+GDP at market prices
+
+10.6
+
+7.4
+
+Investment
+National Savings
+Current Account
+
+25.8
+23.7
+-2.1
+
+26.9
+21.8
+-5.1
+
+Central Govermment Balance (-deficit) \1
+
+2.6
+
+2.3
+
+1.9
+
+0.4
+
+-1.5
+
+0.1
+
+Non-financial public sector balance (- = deficit)\2
+
+2.6
+
+2.1
+
+1.0
+
+-1.2
+
+-2.5
+
+-1.7
+
+-1.2
+
+Central Bank Balance (- = deficit)
+Total Public Sector Balance (-=deficit)\3
+
+-0.6
+2.0
+
+-0.7
+1.4
+
+-1.1
+-0.1
+
+-1.1
+-2.3
+
+-1.1
+-3.6
+
+-0.9
+-2.6
+
+-0.9
+-2.1
+
+External DebtVGDP
+External Debt Service/GDP
+
+33.3
+7.2
+
+33.5
+9.8
+
+50.5
+8.2
+
+52.2
+8.6
+
+58.6
+10.0
+
+8.2
+
+6.6
+
+35.3
+43.4
+7.4
+5.5
+Percentage
+6.0
+4.7
+
+2.3
+
+4.5
+
+2.6
+
+Growth (%)
+
+Consumer Price Index
+\1 Ministry of Finance, Chile.
+\2 IMF definition. Includes Central Government and Public
+Enterprises.
+\3 IMF definition. Includes Central Bank balance
+
+Key Factors
+4.
+Investment and savings have been at the heart of Chile's growth: investment as a
+share of GDP averaged 23 percent from 1984 to 1999, while national saving rates
+averaged 20 percent. Investment was particularly strong in the latter part of the 1990s,
+reaching 27 percent of GDP. This compares to an average rate of investment of less than
+20 percent of GDP in the 1980s and a national savings rate of about 15 percent in the late
+1980s. More than one-third of Chile's growth since 1985 has been due to physical capital
+accumulation, followed by labor force expansion and human capital improvements, and
+increases in total factor productivity.'
+Table 2: Factors Accounting for Growth (1986-2000)
+Average Growth
+
+Physical Capital
+
+Labor and Human
+
+Total Factor
+
+Rate
+
+Accumulation
+
+Capital
+
+Productivity
+
+6.6 percent
+
+2.5 percent
+
+2.3 ercent
+
+1.9 percent
+
+Source: Gallego and Loayza
+
+'See Gallego and Loayza, "The Golden Period of Growth for Chile", November 2001.
+
+2
+
+5.
+A strong financial sector, with an autonomous central bank, has contributed to
+this. The size of the financial system is approximately four times as large as in the early
+1980s, reflecting the concerted effort after the banking crisis of 1982 to improve banking
+regulation and supervision. As a share of the economy, banking deposits represent close
+to 50 percent, one of the highest levels in Latin America. A strong financial sector
+conveys confidence to both investors and savers. The reform of the pay-as-you-go
+pension system in the mid-eighties was also important, contributing to the pool of savings
+to be accessed by domestic investors.
+6.
+There have been other ingredients to Chile's success. Chile is a small, open
+economy. Trade liberalization helped efficient resource allocation, ensuring a rapid and
+sustained growth in mining and natural resources. This growth has been export led:
+exports have averaged 9.6 percent growth per year since 1984 and trade now accounts for
+about 75 percent of GDP. Exports alone have climbed from 29 percent of GDP in the
+late 1980s to around 40 percent at the end of the 1990s. While copper remains a key part
+of Chile's exports (accounting for 37 percent of the total),2 there has been significant
+diversification into forestry, fishing, wines, fruits and other agro-based products. In the
+1970s, these products were negligible, accounting for only 3.7 percent of Chile's total
+exports. By 1998, they represented 33.9 percent of total exports.
+7.
+As noted above, total factor productivity has been important in explaining growth.
+Chile, along with Argentina, had the highest rate of productivity growth in Latin
+America, about 2 percent per year throughout the 1990s.3 This can be attributed to
+substantial investment in equipment and machinery, the increase in years of schooling,
+high levels of in-house training for workers, low levels of regulatory burden and taxes,
+access to financing, availability of basic infrastructure, and macro-economic stability,
+among others. International comparisons of competitiveness put Chile at the same level
+as many countries in South-East Asia, rating 27th among all countries included in the
+2001 review by the World Economic Forum.
+8.
+Solid fiscal management has been a mainstay of Chile's economic policies,
+coupled with a strong predilection for refraining from tax increases as the remedy for any
+fiscal problems. Prudence in handling copper revenues via the Copper Stabilization Fund
+has contributed to this fiscal restraint.' Current public revenue accounts for 22-24
+percent of GDP, a stable share since the early 1990s, even though net transfers from
+copper sales have fallen substantially as a share of total revenues. There have been
+consistent fiscal surpluses by the central government, averaging 1.4 percent of GDP up to
+1999. This fiscal performance has proven to be a key element to bring about
+predictability and contributes to the lengthening of the planning horizon for investment
+and economic development. At the same time, the financial performance of Chile's
+This is down from 46 percent of total exports in 1990 and 76 percent of exports in 1970.
+See Competitidad: El Motor del Crecimiento, BID, 2001.
+4 The Copper Stabilization Fund accumulates revenue when international prices are above a reference price
+(the average long-term price estimated by experts) for use when prices fall below that price. At present, the
+reference price is 90 cents per pound. Under current circumstances, the Fund would be expected to transfer
+about $290 million to the national treasury in 2002. It presently has a balance of about $500 million.
+2
+
+3
+
+3
+
+public enterprises 5 -dominated by CODELCO (the publicly owned copper mine)-has
+generally been positive, with net contributions to the central treasury in all years except
+1993. Transport, ports and water supply companies have tended to be the worst
+performers while copper mining and petroleum have been the best.
+9.
+Monetary management was another key ingredient. With the primary objective of
+reducing inflation, the Central Bank has conducted monetary policy with prudence,
+gradually reducing the rate of inflation from more than 20 percent at the end of the 1980s
+to around 3 percent by the late 1990s. The exchange rate regime has changed over time:
+a fixed exchange rate from 1985 to 1994 was replaced by a sliding band up until 1999.
+Since then, the Central Bank has a managed floating exchange rate with inflation
+targeting as the main policy objective.
+10.
+These factors have all played a role in attracting foreign direct investment (FDI)
+over the years. FDI has averaged 3.2 percent of GDP per year and accumulated to about
+$36 billion during the 1990s. Notably, this level of investment matched Chile's current
+account deficit, indicating that Chile was able to finance its external needs with a stable
+source of foreign savings. Chile also avoided some of the negative effects of the large
+capital flows to emerging markets in the 1990s by limiting transitory inflows.
+Rapid Recovery
+11.
+In 1999, the economy faltered and experienced a drop in GDP of 1 percent as a
+result of the world slow-down triggered by the crisis in East Asia in 1997. This was
+aggravated by low commodity prices, particularly copper. Gross investment fell by 25
+percent, associated with a rise in unemployment, from 6.1 percent in 1997 to 9.7 percent
+in 1999. The central government's fiscal stance shifted to counter-cyclical spending,
+including temporary municipal employment programs, showing a deficit of 1.5 percent of
+GDP. This deficit was financed by using the Copper Stabilization Fund. Also, low levels
+of public debt gave the Government ready access to financial markets.
+12.
+The economic decline was short lived and appropriate macro-economic responses
+quickly reversed the situation. Growth was restored in 2000, reaching 5.4 percent, the
+highest in all of Latin America. In 2001, growth continued, albeit at a slower pace
+because of an increasingly difficult external environment. Growth is estimated at about
+3.2 percent for the year, with a trade surplus of about $1.5 billion, and a current account
+deficit of about 2.1 percent of GDP. Growth has been aided by counter-cyclical public
+spending, based on a structural surplus of 1 percent. This concept consists of managing
+expenditures to keep public sector finances in equilibrium relative to the estimated
+permanent (or long-term) component of public revenues: in other words, the structural
+balance measures the fiscal surplus after removing transitory components of both
+revenues and expenditures. 6
+See Aspectos Macro-econ6micos del Proyecto de Ley de Presupuestos del Sector Publico del Ano 2002,
+October 200 1.
+5
+
+The methodology is based on the IMF's recommendations and is similar to systems used in the United
+Kingdom, Switzerland and New Zealand.
+6
+
+4
+
+Vulnerability to Shocks
+13.
+Other factors have been important in Chile's recovery from the 1999 slowdown
+and its relatively low level of vulnerability. These include its high level of international
+reserves in relation to short-term debt, the strength of the banking system, and the low
+level of public debt, only 15 percent of GDP in 2000. These factors are consistent with
+Chile's external position. The Government continues to access international financial
+markets with a strong showing in terms of country risk (S&P rating A-). It rates
+favorably on market based assessments of external vulnerability (such as credit ratings,
+bond spreads, and indicators of fiscal solvency and liquidity) and has recently engaged in
+precautionary international financing: with the highest investment grade rating in Latin
+America, the Government secured $650 million in October 2001, with a 10-year bond at
+7.2 percent interest.
+14.
+Yet, there are points of vulnerability. The major vulnerability is the country's
+continued dependence on copper which still constitutes close to 40 percent of exports,
+and 10 percent of GDP. Copper prices have been highly volatile: prices reached a fortyyear low in early 1999 and continued to fall in the early part of 2001, albeit recovering
+slightly at the end of 2001. Other natural resources based exports-wine, fruits, fishing,
+timber-also tend to be sensitive to developed country demand now affected by the post
+September 11 th decline in economic activity. As an energy importer, Chile can also be
+vulnerable to higher oil prices: energy imports constitute about 2 percent of GDP. In
+addition, the private sector-in contrast to the public sector-has been relatively
+dependent on both foreign direct investment and debt financing. The private sector's
+external indebtedness, about 40 percent of GDP, could expose it to refinancing risks in
+the event of a reduced access to the international capital market. Thus, a prolonged
+global recession, depressed commodity prices and reduced capital flows-all occurring
+simultaneously-could constitute a significant shock for the Chilean economy.
+C. SOCIAL DEVELOPMENT
+Poverty and Social Indicators
+15.
+Chile's sustained economic growth during the 1990s has been accompanied by a
+dramatic reduction in poverty: income poverty dropped from about 40 percent of the
+population in 1987 to 17 percent in 1998, using the lower poverty line, or from 47 percent
+in 1987 to 21 percent in 1998 using the upper line.7 Preliminary data for 1999 and 2000
+show that the economic slowdown in 1999 did not deter poverty reduction and a
+continuing decline was observed in the last two years. Remarkably, only about 4 percent
+of the total population was below the indigence line in 1998, down from 13 percent in
+1987. This reduction was more accelerated in the early 1990s but has been consistent
+7 See the two Poverty Assessments prepared for Chile: Poverty and Income Distribution in a High Growth
+Economy, 1987-1995, report number 16377-CH, dated November 25, 1997, and its update, covering 19871998, report number 22037-CH, dated August 30, 2001.
+
+5
+
+throughout the period. Importantly, the reduction in poverty has been a function of the
+rapid growth in per capita income: between 1987 and 1998, real per capita income
+increased at an annual rate of 5.7 percent. The Bank's 1997 Poverty Assessment
+estimated that growth contributed to 73 percent of the observed reduction in poverty in
+the period.
+Table 3: Key Social Indicators
+
+1990
+
+1998
+
+13.1
+
+14.8
+
+9.0
+33.1
+38.9
+
+39
+17 0
+21.2
+
+Primary education coverage (%)
+Secondary education coverage (%)
+Illiteracy (%, older than 15 years)
+
+94.0
+77.0
+6.2
+
+97.0
+83.0
+4.6
+
+Housing
+Dwellings meeting local standards (%)
+
+79.0
+
+87.7
+
+74.4
+77.4
+
+75.4
+78.2
+
+Population (millions)
+Poverty
+IndiPence (headcount, %)
+Lower bound (headcount, %)
+Upper bound (headcount, %)
+
+Education
+
+Health
+Life Expectancy (years)
+Life Expectancy-female (years)
+
+Infant mortality (per '000)
+Mortality under 5 years (per '000)
+
+16.0
+
+10.3
+
+20.0
+1.1
+3.3
+182.0
+
+12.5
+1.2
+289.0
+
+Participation in labor force-women (%)
+
+75.5
+30.9
+
+6.2
+74.6
+35.0
+
+Average years of schooling for workers (years)
+
+9.8
+
+10.5
+
+Increase in Employment (base year 1990)
+Increase in Mean labor income (base year 1990)
+
+100.0
+100.0
+
+115.5
+
+Physicians (per '000)
+Hospital beds (per '000)
+Health expenditures per capita (1998 $)
+
+2.8
+
+Labor Market
+Unemployment rate %)7.8
+
+Participation in labor force-men (%
+
+16.
+Not only has income
+poverty been reduced but a wide
+variety of social indicators
+continue to improve as shown in
+Table 3. Chile is ranked 38 out
+of 174 countries included in the
+UNDP's Human Development
+Index; the country stand outs in
+terms of life expectancy and
+infant mortality rates which are
+
+similar to those of OECD
+countries, and is advancing well
+in indicators of education
+coverage. As shown in Annex
+B5, Chile is well ahead of
+comparators in the Latin
+merca Region with regard to
+many social indicators.
+Rejuvenation of Social
+Programs
+17.
+
+155.0
+
+Improvements in social
+
+iniaoshvcmeadin
+
+indicators have come hand-inhand with rejuvenation of public
+programs. During the 1980s,
+reforms were undertaken to
+education, health, and social
+security services, with the goal
+
+Source:
+Bank
+and Govemment
+World
+of Chile
+
+of creating an incentive
+framework for their efficient delivery. This entailed the transformation of the pay-asyou-go pension system to a private system based on individual contributions now being
+replicated in other countries. In the case of education, the public education system was
+decentralized in the early 1980s and converted into a quasi-voucher system, based on
+school attendance, in which students could attend private or municipal schools free of
+tuition. In 1981, higher education was opened to private sector institutions and fees were
+introduced at public universities. In health, starting in 1979, the Government reorganized
+the health service into 26 autonomous units, decentralized public health services to
+municipalities and promoted private sector participation in the delivery and financing of
+6
+
+health services. This latter move was accomplished by allowing pre-paid private health
+insurers and by establishing a public health financing agency, while targeting public
+spending to low income groups. Both public and private financing agencies depend on
+deductions from wages, supplemented by premiums and co-payments for private insurers.
+18.
+The renewed attention to social services in the 1990s did not entail reversal of the
+reforms enacted earlier, nor alter the mix of public-private provision of services. What
+has changed is the diversity and funding of public social programs while the privately run
+programs continue to flourish. Public expenditures in education, health, housing, social
+security and other social services have all increased. These areas accounted for 67
+percent of total government spending (less interest on public debt) in 1991. By 1999,
+they reached 71 percent of total government spending. This increase in public
+expenditures was not accompanied by increases in taxes, since the tax reform introduced
+in 1990, and the share of public revenue in the economy has stayed relatively constant.
+Nor was the expansion of social programs financed by an increase in fiscal deficits, as
+Chile continued to maintain a fiscal surplus, with the exception of 1999. Thus, the shift
+in expenditures was accomplished through reallocations. 8
+19.
+The largest share of funding goes to support the public pension system: this
+represents 44 percent of total social spending or about 6.2 percent of GDP. But the
+increase in public spending has been most evident in education. By 1990, public
+spending on education had dropped to about 2.5 percent of GDP, from a high of 5.1
+percent in 1982, and enrollment in primary education was declining, as was coverage of
+the relevant age group. This trend has been reversed (see Box 1) and public spending on
+education is currently the equivalent of 4.3 percent of GDP. Meanwhile private spending
+on education has also increased, now accounting for 3.3 percent of GDP, bringing the
+country's total educational spending to 7.6 percent. This increase in spending was part of
+a broad-based program of educational reform supported by Bank loans. Not only has
+spending increased, new targeted social prograns have been added. In total, the central
+government spends about 1.5 percent of GDP on diverse social subsidies and programs,
+50 percent more than the level as in 1991. One such program is a subsidy for water and
+sewerage services introduced in 1990, aimed at ensuring that no family pays more than
+five percent of income for water and sewerage services. Another example is Chile Joven,
+begun in 1994, to provide job training for youths, using an innovative mix of publicprivate delivery.
+20.
+There is still a long way to go to satisfy fully the welfare needs of the population.
+The Bank's Poverty Assessment included an analysis of the existing deficits in social
+welfare -as measured by attainment of education, access to health services, and quality
+of housing-using appropriate standards of service. This analysis shows that few
+Chileans have deficits along all dimensions but about half of the population is lacking
+along at least one dimension. The most critical deficiency exists in education, followed
+by housing. Among the poor these deficits are more pronounced, with twice as many
+poor persons having a deficit in educational attainment, as compared to the non-poor.
+s The main areas in which expenditures declined proportionately include defense and interest on public
+debt. The savings on interest alone amounted to 1.3 percent of GDP between 1991 and 2000.
+
+7
+
+Box 1: Improving Education
+There has been considerable progress in improving Chile's education system as a result of a concerted
+effort during the 1990s. A number of quantitative indicators support this conclusion. In the case of
+primary schooling, these are as follows: (i) enrollment of 5 year olds has increased from 28 percent (1991)
+to 82 percent (1996); (ii) repetition rate for 6-13 year olds has fallen from 12 percent (average for entire
+primary cycle in 1991) to 6 percent (1996); (iii) average years to graduate from primary school has fallen
+from 12.4 years (1991) to 9.7 years (1996); (iv) cognitive achievements in municipal schools in Spanish
+and mathematics have increased at a faster rate than those in private paid schools and private subsidized
+schools; and (v) rural schools participating in improvement programs have significantly improved their
+scores outpacing the average. The gap in scores among municipal schools has been reduced, as has the
+standard deviation of their scores. In the case of secondary education, accomplishments during the 1990s
+are the following: (i) secondary coverage has increased from 78 percent (1995) to 84 percent (2000); (ii)
+the average number of years to completion has dropped from 5.4 years (1993) to 5.0 (2000); (iii) the dropout rate has decreased by about 10 percent meaning that there were about one-third fewer drop-outs by the
+end of the 1990s; and (iv) the completion rate has increased from 68 percent (1985-90 cohort) to 73 percent
+(1995-2000 cohort). One of the particular accomplishments during the 1990s has been the expanded
+coverage of rural populations from only 50 percent (1990) to 77 percent (2000). Similarly, coverage for the
+poorest students has increased from 73 percent (1990) to 82 percent (2000). In the case of eighth grade test
+scores, performance in municipal schools has increased significantly in natural sciences and history, with
+negligible differences in mathematics and Spanish, in the period 1997 to 2000. Nevertheless, it remains the
+case that education scores for private-paid schools-unadjusted for socio-economic factors-remain higher
+than scores for municipality-run schools, indicating that there is still room for improvement.
+
+Impact on Poverty and Income Distribution
+21.
+Much of the renewed attention to social programs has served to reduce poverty:
+the Bank's 1997 Poverty Assessment estimated that the increase in social spending was
+responsible for 27 percent of the reduction in poverty seen in the early 1990s. The most
+recent Poverty Assessment demonstrates the important impact of social spending on
+income dispersion. Income inequality in Chile is a long-standing concern and is an area
+in which Chile is most similar to its Latin American neighbors. As of 1998, Chile's Gini
+coefficient stood at 0.547 showing no significant change since 1988. This distribution of
+income is more equal than that in Brazil, comparable to that in Mexico, less equal than in
+Argentina, and considerably worse than that in Uruguay and Costa Rica. But, while
+many countries have seen a deterioration in income distribution during the 1990s, Chile's
+Gini coefficient has remained stable. The rural areas tend to show more inequality than
+the urban areas because of the faster rate of income increase among the urban population
+than the rural population. The latest preliminary data for 1999 and 2000 show that this
+situation continues to prevail.
+22.
+The Bank's analysis of social programs in Chile demonstrates that social
+programs can go a long way to transfer income to those less well off. 9 Income data in
+Chile include incomes plus cash transfers but do not explicitly include the equivalent
+monetary value of in-kind public services which are delivered free to beneficiaries.
+Many of these programs are intended for the poor and reduce constraints within
+household budgets. Thus, the more programs benefit the less well off, the more they
+9 For more details, see Chile: Poverty and Income Distribution in a High-Growth Country, 1987-1998,
+report number 22037-CH, dated August 30, 2001.
+
+8
+
+contribute to income equality. Chile's Gini coefficient falls from 0.56 to 0.50 when
+social programs are included.' 0 This impact was most notable in the latter years of the
+1990s. Subsidies for education were the main contributor to improved equality, followed
+by health, monetary transfers, and housing. For the poor, social programs make a
+material difference in their welfare, almost as much as earned income. Importantly, the
+analysis shows that these benefits accrue most in the urban centers, dominated by the
+Santiago metropolitan area because of its size, and less to the rural populations which are
+more prevalent in the poorest regions of the country, indicating that a better distribution
+of benefits between rural and urban populations would be desirable.
+Vulnerable Groups
+
+23.
+Despite the improvements seen throughout the 1990s, poverty remains a problem.
+Some of the key factors to explain the occurrence of poverty are laid out below:
+*
+
+Education has been the single largest factor in explaining the differences between
+the poor and the non-poor. Those who have had the least success in leaving
+poverty tended to be young workers with low education, female heads of
+households with low education, workers in the agriculture sector, those outside of
+the labor force or unemployed persons with low education, and the elderly with
+low levels of education. As of 1994, the most extreme cases are voung
+agricultural workers in the south (Regions VI to X) (58 percent poor) aiid
+unemployed heads of households with low education in the rural areas (80 percent
+poor). Nevertheless, the highest concentration was among young workers, even
+those with post-primary education, especially in the non-tradable sectors.
+
+*
+
+Geography also makes a difference, second in importance to education. The
+Bank's analysis showed that location (the district or comuna level) was important
+
+in explaining poverty, even after controlling for other factors. Thus, there is a
+physical dimension to the problem, with pockets of hard core poverty that are
+more pronounced in rural areas than in urban ones. There has also been less
+progress in reducing poverty in Regions other than Metropolitan Santiago, which
+halved its poverty rate from 1987 to 1994. Those Regions less successful in
+reducing poverty-and which continue to have high poverty rates and
+concentrations of rural populations-are in the south (Regions VI through X).
+*
+
+Another way to examine poverty and vulnerability is by ethnicity. Estimates of
+the size of the indigenous population in Chile vary but range from 5 to 10 percent
+of the total population. Regardless, these peoples remain among the poorest and
+most vulnerable groups. The incidence of poverty is 36 percent for the
+indigenous as compared to 23 percent for the non-indigenous (1996 data) and 65
+percent of indigenous families are in the lowest two quintiles of income
+distribution. They encounter difficulties in securing employment because of
+discrimination and low levels of technical skills (Box 2).
+
+10 The Gini coefficient used in this analysis has not been adjusted for adult equivalency while the figure
+cited in paragraph 21 was adjusted for adult equivalency.
+
+9
+
+Box 2: Indigenous Peoples
+Indigenous issues in Chile have become increasingly relevant to policy makers. While there is no current
+nation-wide estimate of the size of the indigenous population, according to the 1992 population census, this
+segment of the population represented about 7 percent of the total. Other estimates range up to 10 percent.
+Alnost 80 percent live in urban areas belying the traditional image of indigenous peoples. By ethnic
+group, the Mapuche are the largest-just over 80 percent--followed by the Aymara. Geographically,
+Region IX (south) has the largest share, followed by Region I (far north) and Region X (far south). There
+are differing estimates on the concentration in Metropolitan Santiago.
+Indigenous people have poverty rates about 60 percent higher than the rest of the population, have about
+one-half the incomes of the non-indigenous, and are more likely to be in unskilled jobs or agriculture.
+Schooling is about 2.2 years below the average years for the non-indigenous. The indigenous are twice as
+likely to rely on the public health system and are more likely to suffer from diseases such as diarrhea,
+tuberculosis, and parasitosis. Only 65 percent of indigenous households have electricity, 58 percent
+running water, and 41 percent sanitation connections, while the level of service for non-indigenous
+households would typically be 50 percent higher. For the rural indigenous people, mainly Mapuche, the
+issues of access to land, conflicts with the forestry industry, disputes over damn construction, and water
+rights have created social tensions. For many indigenous people, discrimination based on their physical
+appearance, behaviors and beliefs, and the lack of social and economic mobility are constants in their lives.
+At the beginning of the 1990s, the situation faced by Chile's indigenous peoples was critical. An accord
+was signed with the new government, establishing CEPI, the special commission for indigenous peoples, a
+new law was passed in October 1993, changing the legal framework, and a new institution, CONADI, was
+set up to implement the law through special programs. As a result there have been some significant
+improvements. Nevertheless, there are many remaining challenges concerning the status and recognition of
+Chile's indigenous peoples and increasing their welfare and inclusion. A task force established in May
+1999 led to a new development plan -Pacto de Respeto Ciudadano-inAugust 1999. But differences
+remain, particularly over access to land and water. A new IDB-financed project is to provide direct
+assistance to indigenous organizations to develop their self-management and institutional capacities.
+
+*
+
+Age and gender can be factors explaining poverty but are not significant ones.
+These two factors only explain a small share of the differences in poverty and
+income levels with the gender dimension losing relevance in the l990s while age
+has become slightly more important. The program of guaranteeing basic pensions
+for the elderly has helped in reducing poverty among that group. For specific,
+small sub-groups, however, these dimensions can be critical: this is the case of
+non-working female heads of households who had a poverty rate of 35 percent
+(1994). Younger women (less than 35 years of age) were considerably worse off
+(45 percent poverty rate) even if they were working. At the same time, family
+size for such households has been decreasing over time, accompanying a general
+decline in fertility in the country, with the exception of adolescents (Box 3).
+
+10
+
+Box 3: Gender Dimensions
+Many indicators suggest that women's status has increased and that women have reached parity with men.
+School enrollment is almost equal; fertility rates are the lowest of the Region; and maternal mortality rates
+are comparable to those in high-income countries. But a closer look at social indicators reveal important
+gender differences. This is most noticeable in the area of labor force participation where labor force
+participation by women, at 35 percent, is the lowest among Latin American countries. In particular, poor
+women are less likely to be employed in Chile than in other countries: lacking child care, some 65 percent
+of poor women are not economically active, as compared to only about 45 percent among the non-poor.
+At the other extreme, women with university degrees only earn 47 percent of comparable men's earnings.
+Gender differences have emerged in education with boys having higher drop-out and repetition rates than
+girls. Also, it is notable that contraceptive coverage in public hospitals only reaches 20 percent of women
+in childbearing years and this service is only available after the first pregnancy. Teenage pregnancy is a
+growing concern, especially in the rural areas where 64 percent of such pregnancies occur.
+This situation points to the need for tailored interventions aimed especially at gender-related problems. To
+this end, the Government, working with the National Women's Service (SERNAM), plans to institute a
+new system of gender analysis and assessment, called Gender Equity, to ensure that all public programs
+promote and incorporate gender equality in the delivery of their programs. SERNAM, the agency
+responsible for promoting gender equality, benefited from an earlier IDF grant to strengthen its capacity: it
+has been quite effective in putting gender on the public agenda and specific activities have been
+incorporated in the Municipal Development II project with support of a Japanese PHRD grant.
+
+Governance and Civil Society
+
+24.
+Chile's progress during the 1990s has been accompanied by changes in societal
+relations and relations with the state. No doubt the most significant change has been the
+return to democracy following a long transition from military rule. This was successfully
+accomplished and the country has progressed in deepening democratic institutions.
+Members of Congress are freely elected, following active public debate by the candidates
+and with a low level of absenteeism by the voting population. Since the return to
+democracy, Chile has been led by three successive governments of a coalition, called the
+Concertaci6npor la Democracia, of left-of-center parties. The process of
+democratization is continuing at the local level, first, with municipalities (direct popular
+elections were held in 1991) and then with regional governments (elections in 1996).
+25.
+There are residual social and political issues that take time to be resolved (see
+paragraph 49). UJNDP's 2000 Report, entitled Human Development in Chile: More
+Society For Governing in the Future, examines this phenomenon: 50 percent of the
+interview sample thought that talking about the past would negatively affect the ability of
+Chileans to maintain positive relations between them. This report shows that Chile is a
+country in which differences of interests and opinions are seen more as obstacles to
+national unity, rather than a positive expression of social diversity. Compared to other
+countries in which similar surveys have been conducted, social capital within Chilean
+society is weak and mutual trust is lacking: only 32 percent of respondents had
+confidence in others. This is also reflected in the rather low level of participation in civil
+society organizations as compared to other countries. According to UNDP study, only 34
+percent of the adult population participate in any form of organization, religious or
+otherwise. Despite the fact that there are numerous civil society organizations in Chile,
+
+they suffer from a shortage of experience, technical know-how and financial
+vulnerability.
+26.
+The slow development of civil society in Chile contrasts with the strengths of its
+central public sector. According to assessments by the Bank and other international
+groups, Chile is rated high on law and order and the quality of its bureaucracy, and low
+on levels of corruption. Central public sector institutions score high in economic
+management, structural policies, and overall public sector management, out-ranking
+regional counterparts and income-group comparators. Probity and ethical standards are
+expected among public officials and politicians. According to the results of the UNDP
+study, more than fifty percent of the population had trust in their government, police
+force, and universities. An exception was the legal system: a large majority did not
+consider the legal system and the way in which the "rules of the game' are played as fair.
+In addition, a majority felt that they are discriminated against in access to public services
+because of their economic standing. Political parties and unions rank much further down
+than the public sector in terms of trust while religious institutions rank the highest of all.
+D. CHILE'S DEVELOPMENT CHALLENGES
+Poverty Reduction in the 21't Century
+27.
+As the preceding analysis indicates, Chile is well positioned as it enters the 215'
+century. Its per capita income, currently estimated at $4,630 I, is comparable to that in
+Mexico and Brazil. Importantly, levels of income inequality remain high, despite public
+policies and programs to offset the effects, and there continue to be significant
+differences among demographic groups, notably urban- versus rural-dwellers. The share
+of the population that has not attained all of the basic social goals in terms of education
+attainment, access to health services, and adequate housing stands at close to half. Thus,
+there is the continuing challenge to increase welfare for a large share of the population.
+In addition, concerted efforts are needed to reach the poor who are less able to benefit
+from growth.
+Growth Prospects
+28.
+Chile is not imnmune to global events. It is a small, open economy, integrated into
+the world market with exports sensitive to the perforrnance of industrialized economies.
+The immediate impact of the events of September 11, 2001, is that short term growth
+prospects for Chile will remain below their historical levels. For 2002, growth is
+expected to be about 3.3 percent in real terms, reflecting the Government's present
+counter-cyclical fiscal stance and a moderate expansion of exports as growth among the
+industrialized countries recovers. The main factors affecting Chile's short-term growth
+rate include: (i) global demand for exports, most notably copper; (ii) potential risk
+aversion among investors; and (iii) prevailing regional uncertainties, particularly in
+neighboring Argentina. Although Argentina only accounts for 3.2 percent of Chile's total
+"GNI per capita, World Bank Atlas, 2001
+12
+
+exports, developments in Argentina could affect particular Chilean industries, such as
+tourism, and the posture of Chilean companies that have invested in Argentina. Slower
+growth could have consequences for employment.
+29.
+Beyond 2003, there is reason to be optimistic. The country should continue to
+reap the benefits of the persistency and consistency of its macro-economic policies and
+investments in human capital. The Government expects that Chile could grow in the
+range of 4.5 to 5.9 percent annually, with average growth about 5 percent or greater over
+the decade. These rates are well within Chile's historical levels and its potential. 12
+Realistically, they also reflect: (i) the likelihood that traditional sources of growth in the
+natural resource sector may not grow as fast as they have in the past; (ii) the aftermath of
+global events that may take some time to be overcome; and (iii) the lag in the impact of
+human capital improvements on new potential sources of growth. These projections,
+moreover, are subject to global and regional risks beyond Chile's control. On the down
+side, if the global economy is very slow to recover, Chile's medium term growth rates
+might be several percentage points lower. The consequences of this would be: (i)
+increased need to be selective in any new public spending initiative; (ii) activation of
+public resources to support temporary public employment programs to compensate for
+persisting high unemployment rates; and (iii) continuing prudence in fiscal management
+to stay within the one percent structural surplus policy. On the upside, higher growth
+could create more fiscal space. Thus, precautionary measures, continuing close attention
+and flexibility are needed as long as present global uncertainties prevail.
+The Challenges
+30.
+Chileans policy-makers are aware of, and ready to face, the short-term challenges
+created by the more uncertain global environment and they are prepared to continue the
+path of sustainable growth and social equity. In looking to the future, there are three
+broad challenges-sustaining growth and social progress, making that process more
+inclusive, and modernizing the state. These are summarized below.
+1.
+
+Economic Growth and Social Progress
+
+31.
+The main challenge for Chile will be to sustain rapid growth. There may, indeed,
+be a downward shift in foreign direct investment and it may be necessary to move from
+growth primarily based on factor accumulation to growth increasingly based on increases
+in productivity. This shift will require greater focus on the quality of human resources
+and knowledge.
+32.
+In the past, Chile has benefited from high rates of investment which have had the
+dual impact of generating output and labor intensive employment, largely in construction.
+The 1999 recession put a sharp brake on investment, and commensurately employment:
+sectors leading Chile's economic performance in the recent past were mining,
+telecommunications, water, electricity and gas, while construction, commerce,
+manufacturing, and agro-based activities declined. Even though the long-term prospects
+12
+
+Past studies by Chilean academics estimate Chile's growth potential to be about 6.5 percent per year.
+
+13
+
+for Chile's growth sectors-- mining, forestry and fishing--continue to be encouraging,
+they are not likely to grow as fast as in the past. On the other hand, Chile's industrial
+sector is small, heterogeneous, and dominated by small and medium scale enterprises
+which could be a much more dynamic part of the economy.
+33.
+Part of the challenge will be to enhance further the country's investment climate.
+This is aided by the Government's on-going efforts at improving the regulatory
+framework and corporate governance, and deepening financial and capital market
+reforms. The Government is advancing rapidly in these areas, with the recent approval of
+the new law of Public Offerings that provides protection for minority shareholders and
+other reforms in the area of capital markets. Pending issues in judicial administration are
+being addressed; these changes should positively affect investors and citizens. The
+Government's emphasis on infrastructure in support of growth, largely through the ongoing concession program, has been validated in several recent regional studies. One of
+these predicts that a reduction in logistics costs would result in the highest welfare gain
+for Chile due to the importance of trade in the economy.' 3 Other studies highlight the
+importance of infrastructure, showing that each dollar spent on infrastructure can return
+$1.18 in benefits. Thus, for the economy to restore a fast pace of growth, infrastructure
+will have to grow commensurately. There is also room for efficiency gains: for example,
+port efficiency could be improved, as reforms enacted in 1997 are slowly coming into
+effect; there are ways in which competition in the electricity sector could be strengthened
+as industrial electricity prices are considerably higher in Chile than in neighboring
+Argentina;14 and in the case of telecommunications, privatization has not yet led to
+significant tariff reductions especially for local service while the introduction of
+competition for long distance calls in 1995 has led to lower rates for consumers (see
+Table 4). From the point of view of enterprise development, there seems to be
+considerable opportunity for local linkages and formation of competitive clusters,
+especially for smaller firms.
+34.
+The agenda should also further address issues of productivity and human
+capital. The present focus on education - including adult education - is essential, as is
+support for innovation and technology. On information and communications technology,
+Chile displays some encouraging features (see Table 4). The number of computers per
+person is quite high but behind Costa Rica and Uruguay. Chile stands out in terms of use
+of e-mail, relative to other Latin American countries. On the side of R&D, Chile has
+demonstrated a consistent increase throughout the 1990s, bringing such investment to
+about 0.65 percent of GDP. While far less than what is spent in OECD countries, this
+level is among the highest in Latin America. Similarly, the number of researchers
+relative to the size of the population is high in Chile as compared to its neighbors but low
+in comparison to OECD countries. (However, the export of goods with a high
+technology content is nascent and is substantially overshadowed by the export of basic
+raw materials.) Finally, the arrival of the Internet during the last five years has
+See Eric Bond, "Trade Structure and Development: The Role of Logistic Costs in Latin American
+Countries", Background Paper for the Regional Flagship Report, 2001.
+14 See "Productivity, Competitiveness and Economic Reform in Argentina: Was It Enough?", FIEL,
+August 1999.
+13
+
+14
+
+introduced a new dimension to the problem of universal access and goes beyond the
+proximity to a public telephone. In Chile, availability of Internet infrastructure is
+confined and the take-up of Internet sites is less than that in Uruguay, Mexico, and
+Argentina. Internet use tends to be concentrated among a narrow social base, consisting
+primarily of university students and self-employed professionals. Hence, the expansion
+of access to the Internet will require programs to make service financially and culturally
+accessible to SMEs and other segments of the population.
+Table 4: Selected Information and Communications Technology Indicators
+Country
+
+Telephone
+Mainlines
+(% population)
+
+LAC
+Chile
+Argentina
+Uruguay
+Mexico
+Brazil
+USA
+Australia
+UK
+
+13
+21
+20
+27
+11
+15
+66
+52
+57
+
+Cost of Local
+Call
+(US$ per 3
+minutes)
+.09
+.12
+.09
+.18
+.14
+.03
+.09
+.16
+.19
+
+Mobile
+Telephones
+(% population)
+
+Personal
+Computers
+(% population)
+
+Internet
+Users
+(per 10,000)
+
+8
+15
+12
+10
+8
+9
+31
+34
+46
+
+4
+7
+5
+10
+4
+4
+51
+47
+30
+
+191
+467
+243
+1,000
+188
+208
+2,665
+3,158
+2,083
+
+35.
+Education has been a top priority all through the 1990s. Evidence shows that the
+increase in public spending and accompanying reforms to the basic and secondary
+education systems are paying off (Box 1). Nevertheless, privately paid schooling
+continues to show gains in student attainment so that the gap between public and private
+schooling is closing only slowly. As a result, institutionalization and deepening of the
+current education agenda remain a high priority. Moreover, improvements to quality and
+equity are only beginning in post-secondary streams where it is expected that most of the
+new entrants to the labor force will be trained. Thus, it is very important that the
+Government continue the process of reform begun in the 1990s with the support of two
+now completed Bank-financed projects for primary and secondary education and the ongoing Higher Education project.
+36.
+Added to this is a growing concern about the "stock" of Chile's labor force.
+International studies show that the average level of functional education of the labor force
+is relatively low: only 39 percent of the adult population in Chile has completed eight
+years of schooling and almost 50 percent of the literate labor force does not meet the
+minimum standards of reading and writing necessary for a modem employment sector.
+Thus, the agenda on human capital development has been expanded to include adult
+education, training and skill development, and mobility in the labor force.
+37.
+Such initiatives will have bearing on Chile's ability to generate jobs. The 1999
+economic downturn evoked a sharp rise in unemployment which was not reversed during
+the 2000 recovery. Meanwhile, among Chile's poor, the chances of having one
+household member unemployed rose to 1-in- I0, 60 percent greater than for the average.
+
+15
+
+Unemployment data show that this rise has been generalized, by age, education, and
+region, indicating an upward shift across the board. Statistics for 1998-2000 indicate the
+employment creation was more likely for those with superior levels of education than for
+those with only basic education. Those with the most difficulties were youth, and those
+in agriculture, mining and industry and in the center and south (Regions IV, V, vm and
+IX). The lack ofjob creation was notable by smaller firms (with less than 50
+employees).' 5
+
+38.
+Performance in 1998-2000 has raised some concerns about Chile's long-term
+capacity to create jobs and generated an on-going debate in the country on the causes of
+the relatively slow recovery of employment since the 1999 downturn. Some of the
+factors being discussed include slack domestic demand and spare capacity, the lasting
+impacts of the recent adjustments made by firms, and relatively rigid labor market
+regulations. Chile is among Latin Arnerican countries with relatively high and binding
+minimum wages16 and, while the costs of terminating employment are close to the
+average for the region, these costs are higher than that in Brazil, Argentina and
+Uruguay. 17 Also, Chile's present unemployment insurance program reaches a fraction of
+the unemployed-only 8 percent of all unemployed workers in 1998 received benefits-highlighting the need for more attention to employment fluctuations in the design of
+social protection programs especially for those in the informal sector. Recently adopted
+reforms to the system of unemployment insurance, based on individual accounts, have yet
+to make a significant difference in coverage or benefits.
+2.
+
+Making Growth More Inclusive
+
+39.
+The benefits of growth can be better shared among Chileans. All Regions but one
+experience poverty rates at least 50 percent higher than that of Metropolitan Santiago,
+reflecting the differences in the composition of their respective populations, with the
+Regions outside of Santiago possessing a larger share of rural populations. Even though
+only 14 percent of the total population is rural, this is swayed by the dominance of
+Metropolitan Santiago accounting for half of the total population. Thus, excluding
+Santiago, the share of rural populations is likely to be some 30-40 percent.
+40.
+As highlighted below, rural populations are more likely to be poor and
+indigenous, lack basic services and show significant differences in social indicators. In
+the case of education, for example, Region VII in the south, one of the poorest, had a net
+secondary enrollment rate of 70 percent as compared to 84 percent nationally. Overall,
+net enrollment in the rural areas for secondary education is only 77 percent as compared
+to 92 percent in the urban areas (even though the gap has been closing since 1990).
+Another example is that only 75 percent of rural households have electricity, and 65
+percent access to safe water. In the case of electricity, there has been considerable
+improvement in the last five years, as a result of the Government's efforts to expand
+service, up from 50 percent in 1994. The new goal is to have 90 percent of the rural
+'S See PanoramaLaboral2000, ILO, dated February 2001.
+16
+
+17
+
+Ibid. However, this conclusion contrasts with that of the recent IDB study on competitiveness.
+See Competitvidad: El Motor del Crecimiento, BID, 2001, citing data from Heckman and Pages, 2000.
+
+16
+
+population served by 2005 with an increased role for isolated, renewable energy systems
+to reach remote areas.
+41.
+There may be environmental benefits from decongestion of the major center,
+Santiago, which suffers from pollution and urban congestion problems. On the other
+hand, many of the Regions - particularly those where mining, forestry, and fishing
+dominate-encounter their own environmental problems due to the fragility of these ecosystems. Given Chile's geography-a narrow country, divided by mountain ranges-and
+its wide variations in rainfall, combined with its dependence on hydro-electricity and
+irrigation for more than 35 percent of agricultural production, appropriate watershed
+management is critical. Sustainable, equitable development at the regional level is a
+complex agenda that combines infrastructure, services, capacity building, and sustainable
+management of natural resources. It also entails the equitable allocation of public
+resources taking into account both need and implementation capacity. Given the nature
+of Chile's remaining poverty, local actions will play an increasingly important role to
+stimulate income-earning activities and to target and improve social services.
+42.
+While growth has gone a long way in reducing poverty during the 1990s, growth
+can be more inclusive, not only across Regions but across groups. Importantly, inequity
+in the access of the poor to higher education-the bottom 20 percent of the income
+distribution received only 6 percent of the resources in the late 1980s-are now being
+reversed, with support of the on-going Higher Education Quality Project. Many of the
+poor-who either drop out of secondary school or not do progress to a quality postsecondary education-do not fare well in the labor market. 18 Moreover, a large number
+of youths - about 24 percent-continue not to graduate from the secondary system,
+resulting in youth unemployment problems.' 9 Particular groups which tend to have high
+poverty and unemployment rates, and low levels of education warrant attention: dropouts of secondary school, youths at risk, young women, female heads of households,
+indigenous peoples and rural workers.
+43.
+Thus, vulnerability remains a concern even though extreme deprivation has by
+and large been eliminated and Chile has relatively developed, universal systems of
+education, health insurance and social security, plus a wide variety of targeted social
+programs. Two programs deserve mention: Chile Joven and Capacitaci6nparaMujeres
+Jefes de Hogar (Training for Female Heads-of-Households). Both of these programs
+provide training and support in securing employment for the groups with the lowest
+chances of finding jobs.
+44.
+The 2001 Poverty Assessment shows that coverage of some targeted programs
+could be expanded, especially those with a high distributive impact: notable ones are
+subsidies for child care which should be important for poor women to be able to work
+outside the home and family allowances which can offset the low wages that most poor
+women earn in the domestic service industry. These transfers are highly positive in terms
+of income distribution and their expansion need not be at the expense of increased overall
+18
+
+For both boys and girls, the drop-out rate is highest in the first year of secondary education,
+
+19
+
+The main reason for dropping out is reported to be the need for extra family income.
+
+17
+
+spending as some targeted programs show considerable leakage, so that some tightening
+of criteria could generate savings. This is most pronounced in the case of housing
+programs and water subsidies. Finally, changes in Chile's successful scoring system of
+beneficiary eligibility could make social programs more responsive. Combined with the
+results of the regular household living standard surveys, 20 the two-page form (called the
+ficha CAS or social stratification form) constitutes a cost-effective way for determining
+eligibility for many social programs at once and is used by local governments to
+administer programs. But the form itself and the scoring mechanism may be rigid and
+not take into sufficient account variations in income. 21 linprovements to this system and
+how it is used are important at the local level because of the decentralized administration
+of many social programs.
+45.
+The present framnework of social protection can be further refined. One area of
+concern is participation in the pension system: a substantial share of workers are in the
+informal sector - 38 percent as of 1998-and 33 percent of all workers do not contribute
+to social security, up from 20 percent in 1990.22 This could create an additional financial
+burden on the pension system as these workers reach retirement age. Already the public
+pension for non-contributors, benefiting 350,000 persons, has increased four-fold in the
+past twenty years, now accounting for 1.2 percent of GDP. Another concern is how to
+provide Chile's aging population with health care coverage and to insure the restespecially families with young children-against catastrophic health care costs. The
+changing health profile-away from infectious diseases and toward chronic and life-style
+diseases-needs to be taken into account. Equity considerations in the health system
+deserve attention. At present, there is no consensus on how health care reform in Chile
+should take place but the dual insurance system leads many to consider the system as
+inequitable. This is aggravated by slow progress in changing management and incentives
+within the public health system (see paragraph 52).
+3.
+
+Modernization of the State
+
+46.
+Underpinning Chile's ability to meet the above challenges is the capacity of the
+state. As discussed earlier, the central public service stands out when compared to other
+developing countries. One indicator of improving budget processes is the halving of
+"reserved" funds, that is, funds whose spending purpose is not disclosed, to no more than
+0.1 percent of the total. There have also been a series of innovations in public budgeting,
+including a Competitive Fund which provides flexibility and can fumd programs, mainly
+in the social sectors, which might not otherwise have been adequately fimded or at all,
+and incentive bonuses of up to 3 percent of their wages to public employees working in
+agencies which have accomplished their institutional goals. At present, 109 public
+services are subject to performance monitoring and 120 programs have been evaluated.
+20
+
+As explained in the Poverty Assessments, Chile has a two-year cycle of household surveys that provide a
+rich data set on living standards.
+For a fuller discussion of thefiche CAS and the issues of targeting and coverage, see Chile: Poverty and
+Income Distribution in a High Growth Economy, 1987-98, report number 22037-CH, dated August 31,
+2001.
+22 See PanoramaLaboral2000, ILO, dated February, 2001.
+21
+
+18
+
+Decentralization is also part of the program as local institutions take on more
+responsibility for managing investments.
+47.
+This performance can be strengthened even further by: (i) implementing a system
+of integrated public expenditure management to provide real time information to
+decision-makers and provide more standardization in reporting across agencies, thus
+facilitating monitoring and evaluation; and (ii) addressing some of the rigidities which
+exist in the resource management system, notably over human resources. At the same
+time, relaxing such controls especially over hiring and staffing transfers- without the
+attendant systems to instill accountability and measure performance-runs the risk of
+undermining fiscal stability. As the country moves to even more decentralization of
+services, changes should be done cautiously, adding flexibility with performance and
+accountability, including to society at large as being proposed under Government's State
+Reform and Modernization Program (see paragraph 56). There is opportunity for more
+partnerships with the private sector to accelerate investment in non-traditional areas, such
+as hospitals.
+E. THE GOVERNMENT'S PROGRAM
+48.
+The above challenges have shaped the Government's program. During President
+Lagos'six-year mandate, which began in March 2000, new initiatives are planned while
+continuing the main thrust of the on-going economic and social program. The agenda set
+out by the Lagos Administration is comprehensive and follows closely on those of its
+predecessor administrations of the Concertaci6ncoalition, providing continuity in the
+overall policy framework. The essential priorities remain sustainable and equitable
+growth and poverty reduction, via a conducive macro-economic policy framework, strong
+public institutions, investment in human capital and social protection. The Government
+continues to see the private sector as the driver of employment creation and production,
+with the public sector facilitating that process and creating opportunities for private
+participation. New initiatives under the Lagos Administration lie in three primary areas.
+Expansion of Civil Liberties and National Unity
+49.
+These initiatives acknowledge that the transformation to democracy has been
+incomplete. Plans include eliminating outdated laws, carried over from the military
+regime, on matters such as censorship, and deepening democratic processes. The
+Government has proposed to Congress a number of Constitutional reforms that, among
+other things, relate to the Armed Forces, the National Security Council, the Constitutional
+Tribunal, the electoral system and non-elected senators. The Government has already
+begun the process of modernizing family law, providing more rights to children and
+wives and introducing family courts, and dealing with the emerging societal concerns
+about security, personal liberties and crime, including the implementation of a new
+criminal justice system. Finally, it plans to build on Chile's strong sense of national
+identity and promote the expression of Chilean culture, sports and social organizations.
+
+19
+
+Equal Opportunities and Inclusion
+50.
+The second set of initiatives focuses on employment and assurance that all
+Chileans have equal access. To aid in the transition to full employment, the Government
+will continue to provide temporary municipal-run employment relief, in programs such as
+reforestation and housing. The present plan is to generate a total of about 150,000 such
+temporary jobs in 2002, the same level as in 2001, triggered into action if the
+unemployment rate surpasses 9 percent. The Government also plans to end
+discrimination against indigenous and women, much of which is felt in the labor force. 23
+51.
+The Government will continue to deepen efforts to improve the quality and
+relevance of education (Box 1). Part of this will reduce inequality in education, by
+expanding full day schooling, adding information technology to schools, and providing
+more student loans and scholarships. To this will be added a new emphasis on adult
+education and life long leaming, addressing the needs of adults, especially poor youths
+who need a second chance at attaining secondary education. Access to information
+technology will be expanded through info-centers, providing a solid legal basis for ecommerce and use of ICT and facilitating interaction with the state by Internet.
+52.
+A major effort will be directed to improve health services, building on the
+recommendations of the on-going Presidential Commission on Health. Some of the
+features of the reforms which are presently being debated include options for a solidarity
+fund, risk-adjusted universal insurance, and the definition of a mandatory universal
+benefit package with individuals in the publicly run system gradually being able to have
+the choice to move to private insurers and providers. New impetus would be given to
+health care management, budgeting, and incentives for performance. Such reforms at the
+hospital level could be accompanied by private concessions and/or management
+contracts. Attendant elements of this initiative include greater attention to primary health
+care and prevention. Pensions would be increased and the problems of non-contribution
+to the social security system addressed.
+53.
+Reducing tax evasion is a key part of the Government's program to increase
+equity. A new law on tax evasion has been passed and its implementation is expected to
+add about 0.8 percent of GDP to tax collections even though Chile already has a
+relatively low level of tax evasion. Other dimensions of the program include:
+(i) addressing the deficiencies in housing, targeting the lowest 20 percent of the income
+distribution, with accompanying urban renewal; and (ii) upgrading public mass transport
+services in the Santiago area, thus addressing many environmental concerns in the urban
+areas. Similarly, the Government intends to continue its focus on sound natural resource
+management in the rural areas, watershed management, protected areas management, the
+use of mercury bromide in the agricultural sector, and adoption of environmentally sound
+practices in the forestry sector.
+
+Women and youths have the highest unemployment rates in the country. Data are not available on
+unemploymnent rates among indigenous peoples. Anecdotal evidence suggests that under-and unemployment among indigenous is also very high.
+23
+
+20
+
+Box 4: Integrating Environmental Concerns
+Chile's success is founded on a market-based growth policy based on its comparative advantage in natural
+resources. At the start of the 1990s, mining, fishing, forestry and industrial pollution were largely
+unregulated. Visibly poor air quality in Santiago and the mounting destruction of forests highlighted the
+need for action. Thus, the Government made protection of the environment and sensible management of
+Chile's rich natural resources an important part of its progran. The strategy took into account that part of
+the cost of past growth was being borne by the population and the country's resource base while, at the
+same time, recognizing that over-regulation and too much control could be counter-productive. Thus, the
+search was for an approach that combined use of economic incentives and regulations explicitly taking
+envirornmental factors into account.
+This led to the creation of the national environmental comrnission, CONAMA, in 1992. Chile's cautious
+and practical approach resulted in a small, decentralized agency, beginning with the basic steps, addressing
+priority areas in a gradual manner. The goal was to create a capacity for information management, analysis,
+and debate. Part of CONAMA's work, with the support of the Bank-financed Environmental Institutions
+Development Project, was to update legal regulations, develop procedures and guidelines for environmental
+assessments, sponsor educational campaigns, and develop information systems. CONAMA has made
+remarkable advances. The number of staff working on environmental concerns in the government grew
+from six to 350. There are environmental units in ten ministries and there is a solid track record in impact
+assessment, policy analysis and information systems. By 1999, norms were approved for 14 different
+sectors of activity. Sector by sector, advances have been opportunistic; that is, authorities have seized
+opportunities as they arose so that progress has been faster in some areas than others. This is particularly
+the case of mining and fisheries (including the aquaculture industry) that lag, as compared to forestry where
+progress is taking place. Perhaps the best accomplishment has been the creation of a space for informned
+debate.
+
+Promotion of Growth in a Globalized and Competitive World
+54.
+The third set of initiatives covers enhancing Chile's ability to compete. While
+many of the actions to be pursued in the other two areas-most notably in the area of
+education and information technology-will contribute to this endeavor, actions are
+envisaged to address some of the recognized bottlenecks. This entails capital market
+reforms: improving self-regulation of banks, incentives for risk capital formation,
+creating new stock markets, expanding the range of mutual funds which can be managed
+by financial institutions, improving regulation of investment funds and financial
+intermediation, and modifying credit rating mechanisms especially for SMEs. In a
+competitive environment, it is important for Chile to improve efficiency in the provision
+of electricity, telecommunications, water, and transport. As these markets evolve, Chile
+intends to reassess its regulatory environment and ways to stimulate both new
+investments and competition to ensure efficient resource allocation and pricing. Private
+sector investment, especially in infrastructure, subways, and housing, will be promoted,
+along with partnerships in other public services such as hospitals. This program will
+include a multi-actor dialogue on improving competitiveness. Finally, the Government's
+program entails measures to stimulate innovation via adoption of "clean" technologies,
+quality control, information and communications technology, and bio-technology.
+55.
+On international trade, Chile is collaborating with its MERCOSUR neighbors and
+is currently advancing in trade discussions with the USA for a possible bi-lateral trade
+
+21
+
+agreement. It expects the on-going trade talks with the European Union to be completed
+as early as mid-2002. These efforts continue the path that Chile has followed for the past
+two decades, in liberalizing its trade relations on a bilateral basis, making Chile the most
+open economy in Latin America. In all of these discussions, a positive investment
+climate enhanced by Chile's track record, respect for the law, and environmental and
+other regulations will be beneficial.
+56.
+Modernization of the state remains a continuing feature of the Government's
+program. This process is being deepened as part of the State Reform and Modernization
+Program, instituted by the Lagos Administration. State-of-the-art information systems
+are an important feature, notably in public procurement-via chilecompra.cl-and in
+electronic transaction processing including tax payments-via tramitefacil.gob.cl. In this
+context, an integrated financial management system for public expenditure management
+is pivotal, along with efforts to improve the overall control environment. Issues of
+transparency also include improved management of Chile's contingent liabilities,
+especially those that arise because of concession contracts, guarantees of public debts,
+minimum pensions, insurance schemes, etc. Concern about transparency and
+accountability is further reflected in the Government's plans to strengthen the Auditor
+General's Office, with IDB assistance, and to put in place an Office of the Public
+Defender. There are plans to embark on an ambitious program of institutional reform
+that proposes merging several ministries along functional lines. Decentralization and
+deconcentration are key features, with the goal of increasing the share of public
+investments at the regional level.
+F.
+
+THE WORLD BANK ASSISTANCE STRATEGY
+
+An Evolving Relationship
+57.
+The World Bank Group has been a major partner in Chile's development effort.
+Chile was, in fact, the first developing country to borrow from the World Bank in 1948.
+This long relationship has, by and large, been a successful one: the recently completed
+Country Assistance Evaluation carried out by OED of the IBRD program from FY81 to
+FY00 considers the results of this joint effort to have been highly satisfactory (see Box
+5), highlighting progress in institutional development as particularly encouraging. The
+new strategy laid out in the following section builds on this successful past, helping to
+address the challenges of the future. A more detailed review of the accomplishments
+under the previous CAS follows.
+
+22
+
+Box 5: OED's Country Assistance Evaluation
+OED's Country Assistance Evaluation rated the outcome of the Bank's program in Chile for 1981-2000 as
+highly satisfactory. Bank assistance supported substantial institutional development and time has shown
+that achievements have a high likelihood of being sustained. One of the highlights has been institutional
+development: OED's CAE states that: " [the Bank's] assistance helped to shape new institutions and
+organizations to make public expenditures more efficient and to produce better social development". On
+efficacy, OED rated the program as achieving substantial effectiveness. Overall, outcomes were rated as
+being more successful in the early period, before 1991, as compared to more recent experience, reflecting
+the changing and complex nature of these operations such as the Small Farmers Services, Housing Sector
+II, and Valparaiso Water Supply Projects. Operations in Chile rank among the most cost effective per loan
+approved.
+Five lessons stand out: (1) programs can be effective if the countiy is committed to stable macro-economic
+policies; (2) the Bank may be more effective in promoting reforms with a succession of structural
+adjustment loans, an early feature of the Bank's program with Chile; (3) changes in incentives and
+institutions in the way social services are delivered and natural resources managed can bring in the private
+sector; (4) when there is insufficient information, the better route may be to pilot programs: test results can
+be a powerful tool to convince stakeholders of the benefits of reforms; and (5) even in a country with as
+sophisticated as Chile, the Bank should abstain from insisting on reforms if ownership is weak.
+Source: Chile-Country Assistance Evaluation, OED, dated September 26, 2001
+
+Lessons and Progress in Realizing Past CAS Objectives
+1.
+
+IBRD Lending
+
+58.
+The 1995 CAS, covering FY96-98, set out four areas for support: (i) upgrading
+human capital necessary for international competitiveness; (ii) addressing pockets of rural
+poverty through sustainable natural resource management; (iii) leveraging resources for
+Chile's outdated and overloaded infrastructure; and (iv) mitigating damage caused by
+urbanization and strengthening environmental management. 2 4 This program was
+selective, with about one operation planned per year, including one guarantee, in the
+areas of highways, water and sewerage, education, rural poverty and environmental
+pollution. The planned level of lending, totaling $155 million, was significantly less than
+that of the previous periods (see Table 5). In the end, the Bank approved five loans in
+FY96-99 for $210 million. There was no new lending in FY00 and FY01 as the
+transition to the Lagos Administration took place. IFC's experience during this period
+mirrored that of IBRD and both institutions saw their level of support decline in the
+1990s, to resume during the economic decline of 1999.
+59.
+Implementation ofthel995 CAS reflected the Government's decision in 1996 to
+curtail new borrowing and to reduce exposure under on-going operations that led to
+cancellation of $160 million of the portfolio and prepayment of $515 million. This shift
+was accompanied by a new program of reimbursable advisory services (Box 6). The
+portfolio, which consisted of 14 projects under implementation in FY95, shrank to 5
+projects by the end of FY01. Following approval of the Secano Agricultural
+24
+
+See Report No. 143 70-CH, dated Aprl 17, 1995.
+
+23
+
+Development Project in FY96, no new loan was approved until three loans--the Higher
+Education Project, the Second Municipal Development Project, and the LIL for
+Millennium Institutes--were approved in FY99, reflecting Chile's heightened emphasis
+on the quality of human capital and institutional development as prerequisites for
+benefiting from the emerging knowledge economy.
+Table 5: IBRD Commitments by Sector: FY85-99 (US$ million)
+Sector
+Adjustment
+Infrastructure
+Education and Health
+Industry and Finance
+Housing and Urban Development
+
+1985-89
+
+1990-94
+
+750
+
+0
+
+332
+
+Agriculture
+
+56
+
+Water and Sanitation
+Public Sector Management
+Total
+Average per year
+
+66
+1
+1,710
+342
+
+295
+287
+130
+0
+140
+50
+39
+941
+188
+
+0
+215
+280
+
+1995-99
+0
+120
+185
+0
+0
+
+15
+0
+15
+335
+67
+
+Total
+
+750
+7T47
+472
+345
+280
+211
+116
+65
+2,986
+199
+
+60.
+As the portfolio
+matured and a number of
+rtoswr
+
+operations were
+completed during the
+latter part of the 1990s, a
+rich set of lessons
+
+emerged from the
+respective
+Implementation
+Completion Reports (ICRs). The following summarizes the key results of the operations
+completed during the latter part of the 1990s:
+*
+
+Human Capital: The shift in lending towards the social sectors in the early 1990s
+has born fruit. In primary education, under the Basic Education Loan (Ln. 3410-CH,
+approved October 1992 and completed June 1998), results include: the introduction
+of special education for disabled children, school-based health screening, and the
+computer-internet based communications network called Enlaces; improved
+pedagogy and learning materials, including libraries; upgrading of rural schools and
+expansion of pre-school education including the training of mothers; and institutional
+strengthening of the Ministry of Education including the introduction of standardized
+testing. In the case of secondary education, under and the Secondary Education Loan
+(Ln. 38836-CH, approved May 1995 and completed June 2001), the main
+achievements were: upgrading learning materials and learning resource centers;
+mobilizing teachers and students to be proactive in the change process including
+cultural and voluntary activities; updating the curriculum; and improving teacher
+methods. While still at a relatively early stage of implementation, the Higher
+Education Project (Ln. 4404-CH, approved in FY99) is beginning the process of
+improving quality, equity and efficiency at that level. Equally, in the case of health,
+the two completed operations-Health Technical Assistance and Rehabilitation (Ln.
+3427-CH, approved in December 1991 and completed in December 1997) and the
+Health Sector Reform Loan (Ln. 3527-CH, approved in November 1992 and
+completed in August 1999)-were successful in meeting their objectives. There were
+a number of accomplishments, notably in the area of decentralization and laying the
+basis for institutional and policy reforms.
+
+*
+
+Rural Poverty: Success was mixed under the two Bank-financed projects. In the
+case of the Small Farmer Services Project (Ln. 3473-CH), the ICR shows that the
+initial hypothesis that small, poor farmers could graduate from state-subsidized
+extension services and credit to privately run, non-subsidized services was not
+24
+
+feasible and the project failed to meet its objectives. As a result, how to assist best
+this group of rural poor had to be rethought. A new approach was devised relying on
+private-sector delivery of extension and financial services, with only partial cost
+recovery. The Secano Agricultural Development project (Ln. 3974-CH), in its ICR,
+shows that this new approach could work and some small, poor farmers can break out
+of being marginal producers. However, the potential for replicability and
+sustainability is not considered high because of the fiscal costs involved in providing
+the subsidized services. One of the more general lessons derived from past work in
+the rural sector is that poverty reduction also depends on non-farm income generating
+activities, along with infrastructure and social services to integrate better these
+populations. This lesson will be applied in the proposed Rural Infrastructure Services
+and Watershed Management Projects. Continuing Bank technical advice is being
+sought on how to evaluate the efficiency and effectiveness of agricultural programs.
+Infrastructure: Bank support for infrastructure dropped during the latter part of the
+1990s, prompted by the private sector's successful access to financing combined with
+the Government's progress in concessioning new investments. In part, this is a
+consequence of the Bank's past support, including the completed First and Second
+Transport Projects which were rated best practice by OED. These loans supported a
+program of investment and institutional development with far-reaching results,
+including: (i) the transformation of the highway agency into an efficient organization;
+(ii) construction, upgrading, and rehabilitation of some 79,000 km. of roads; (iii)
+ensuring that economic criteria were used for decisions on road investments; and (iv)
+private participation which increased the efficiency of these expenditures and induced
+the Government to spend more on maintenance. On-going support under the Third
+Road Sector Loan (Ln 3833-CH) is accompanying the Government in furthering
+institutional reforms.
+Urban and Environmental Management: There have been clear advances on the
+institutional side: the Bank's support for establishing a new environmental institution
+under the CONAMA Loan (Ln. 3529-CH, approved November 1992 and completed
+December 1999) was successful in establishing an environmental management
+capacity, particularly on urban pollution issues. It contributed to generating
+awareness of environmental issues and helped foster informed debate. Nevertheless,
+CONAMA still faces major challenges in promoting enforcement and improving
+natural resources management in key sectors closely linked to important extractive
+industries (Box 4). As for global environmental issues, the experience shows useful
+ways to mobilize grant resources for innovative programs (e.g., Montreal Protocol)
+and their full potential is yet to be tapped. The earlier attempts at pursuing reforms
+under the Second Housing Loan (Ln. 3331 -CH) were unsuccessful and the planned
+financial support for urban development did not materialize because of changing
+government priorities. Even though a potential project for addressing air quality in
+the greater Santiago area also did not materialize, because of the decline in overall
+borrowing, Santiago has been an active participant in the Regional Clean Air
+Initiative and is now working on a climate change GEF operation integrating
+transport and urban growth issues.
+
+25
+
+*
+
+Public Sector Management: Efforts under the Second Public Sector Management
+Technical Assistance Project (Ln. 3411 -CH, approved October 1991 and completed
+June 1997) have had lasting impacts. This project advanced institutional
+improvements, focusing on the needs of the newly restored democracy. It aided
+building in-house analytic, information processing, and administrative capacities in
+core agencies. Support continues at the municipal level, under the First and Second
+Municipal Development Projects, strengthening the core capacities of this level of
+govermnent in a sample of municipalities as well as introducing innovations in the
+areas of gender and indigenous peoples.
+
+Box 6: Fee-based Advisory Services
+In mid- 1996, the Bank and Chile signed an accord for providing, at short notice, technical advice on a
+partially reimbursable basis. The rationale was to enable Chile to access global experience and advice that
+would have been less readily available in view of the reduced level of Bank activity. It was also to serve as
+a catalyst for bringing together government agencies to focus on specific issues. Among the features of the
+Bank's involvement desired by the Government was objectivity that the authorities did not think was
+always possible by engaging private sector consultants. The Bank saw the benefit of continuing to work
+with a member that was tackling state-of-the-art or frontier development issues.
+From July 1996 to May 1998, when the program was replaced by the Bank-wide fee-based advisory
+services program, the Bank provided assistance in five areas: (i) airport concessions; (ii) toll roads;
+(iii) higher education; (iv) regulatory institutions; and (v) hydrocarbons. In total, the Bank was reimbursed
+about $220,000 for staff time, consultants and travel. Most of this advice was of short duration without
+follow-up; an exception was the work on higher education which ultimately led to a new loan being
+prepared and approved in FY99.
+As a precursor to the Bank-wide program adopted in 1998, the program with Chile provides several
+lessons. The first is that, being demand-driven, success depended on the local capacity to identify and
+articulate needs. The second is that the advice being sought from Bank staff was usually cutting edge and a
+challenge; thus, Bank staff welcomed the opportunity. Third, there were many demands and coordination
+by the Ministry of Finance was critical. Recipient agencies were asked to cost-share. And finally, since the
+program was designed to provide short-term advice, it was not always the best instrument to address areas
+which demanded longer term support. On the side of the Bank, isolated provision of advice was not always
+followed up or integrated into broader country strategy nor was this knowledge available to others.
+Since the program of advisory services with Chile was subsumed under the Bank-wide program in 1998,
+Chile has called upon the new program three times. The first case was support for the continuation of the
+Bank's involvement in education. The second case was specific assistance in the area of health, building
+on the conclusions of the ESW completed by the Bank. The third case involves the evaluation of the
+contingent liabilities that the Government has under various concession agreements in infrastructure. Other
+possible assigmnents are being discussed, including the identification of public-private partnerships in nontraditional areas such as hospitals.
+
+2.
+
+Portfolio Management
+
+61.
+With five projects under implementation, representing total loans of $280 million,
+with $117 million undisbursed, Chile's portfolio is small and problem and risk free at
+
+26
+
+present.25 The Third Road project is moving into its final stages, as is the Millennium
+Institutes LIL, closing in FY03. All on-going projects remain relevant to Chile's
+development agenda and are consistent with the Country Assistance Strategy.
+62.
+There is no major concern on the fiduciary side reflecting that: (i) project audits
+are up-to-date and do not reveal any systemic issues; (ii) Chile has been working with the
+IMF on upgrading its public accounts and transparency; (iii) there has been no recent
+mis-procurement under Bank-financed projects and complaints from bidders are rare; (iv)
+Chile's public procurement system, considered relatively good, is being improved under
+the 1999 Public Procurement Law; (v) IDB is providing assistance in strengthening the
+Office of the Auditor General; and (vi) corruption is perceived to be low and the
+standards of probity high. A combined Country Financial Accountability and
+Procurement Assessment is planned to validate this assessment (see Table 7). In the
+meantime, the proposed Public Expenditure Management Project, which accompanies
+this CAS, will address areas identified for improvement.
+3.
+
+Economic and Sector Work
+
+63.
+In addition to fee-based advisory services (Box 6), a steady program of ESW was
+carried out, consisting of one major piece per year on topics usually suggested by the
+Government. Among the most recent ones was analysis of catastrophic health costs that
+showed that these costs were not concentrated with the elderly, rather with young
+families with children. The study further brought to light other problems in the
+functioning of Chile's health insurance system. Two other studies were the Poverty
+Assessments in FY98 and FYOO-O1.26 These reports have advanced techniques in
+measuring poverty and understanding the impact of social services on poverty and
+income distribution. They have provided the underpinning for preparing this CAS. The
+Policy Notes, a series of papers commissioned by the Bank from two local universities in
+FY00, provided an overview of concerns within the Chilean academic community and
+provided insights into ongoing debates in Chile, notably on public spending in education.
+4.
+
+IFC and MIGA
+
+64.
+During the 1980s, the private sector in Chile received broad IFC support. In the
+1990s, as the Chilean private sector improved its access to longer-term credit and
+sophisticated financial products, IFC became increasingly selective. This meant in the
+latter part of the 1990s targeting activities in which IFC would have a strong role and
+significant development impact, including greenfield projects, non-traditional industries,
+regional operations, second-tiered companies that lack market access and specialized
+transactions in the financial sector, such as fund management and venture capital. The
+Corporation's involvement further narrowed in FY98 when there were no investment
+The operations currently under implementation are: Road Sector III, Municipal Development II, Higher
+Education, Millennium Institutes LIL, and the Montreal Protocol.
+26 See Chile: Poverty and Income Distribution in a High Growth Economy, 1987-1995, Report Number
+16377-CH, dated November 25, 1997, and its update, covering 1987-98, Report Number 22037-CH, dated
+August 30, 2001.
+25
+
+27
+
+approvals. In FY99, IFC resumed selective financing in response to the decline in
+economic growth and the Government's requests for support in priority areas: a total of
+$37 million was approved for a rail transportation project and a continuing investment in
+a copper producer in FY99, followed by a $104 million investment (including
+syndications) in a port project in FY00. As of December 31, 2001, IFC's portfolio for
+Chile stood at $131 million (including syndications).
+65.
+Since FY95, MIGA has been moderately active, supporting projects worth $31.3
+million in FY98 and $31.4 million in FY99 in the mining and oil and gas sectors,
+respectively. As a result of reductions of guarantee coverage, MIGA's current exposure
+in Chile is only $22.2 million. While no new contracts were signed in FY00 and FY0 1,
+MIGA has received an application for a potential project in the infrastructure sector.
+The FY02-06 Program
+66.
+This Country Assistance Strategy builds on Chile's success in reducing poverty
+and aims to support activities to sustain and deepen that process. In light of Chile's
+progress during the past decade, the proposed program for FY02-06 focuses selectively
+on areas in which the comparative advantage of the World Bank Group can come into
+play, bringing together global knowledge, past experience and the ability to sustain
+dialogue and to exploit synergies with other activities.
+Box 7: Consultation in Preparing the CAS
+The consultations carried out for preparing this CAS focused on the linkage with the Bank's Poverty
+Assessment. The Poverty Assessment laid out four main themes: (i) the importance of sustainable growth,
+since growth has been the driver of poverty reduction since 1988. Productivity improvements,
+enhancements of human capital and labor mobility, technology, and employment creation, especially by
+SMEs, were considered key. Moreover, for growth to be sustained, natural resources, such as watersheds,
+sensitive lands, and air quality, have to be managed; (ii) the need to target those less likely to benefit
+readily from economic growth, such as youths, women heads of households, the elderly living in the rural
+areas, and indigenous groups. Many of these have limited education and may benefit from a second
+chance. Opportunities for them might arise in small firms and in small centers. Others may require more
+responsive social programs; (iii) the disparities that exist among Regions and groups, especially between
+those living in the rural areas versus urban centers. Thus, access to services and local capacities to provide
+services and administer programs could be reinforced; and (iv) the continuing challenge of meeting the
+basic needs of the population, notably in education, health and housing. While absolute deprivation is low,
+the needs of the population with deficiencies remained high-almost 50 percent of the total.
+This diagnosis and the accompanying proposals for the CAS were presented to two civil society groups in
+November 2001. The first consisted of about 200 academics, students, and policy makers, sponsored by
+the University of Chile. The second was a group of 20 leaders of non-governmental organizations. This
+meeting was facilitated by the Secretariat-General of the Presidency. The NGO leaders are part of the
+Commission on Participation formed by President Lagos to add new mechanisms for involving civil society
+in public programs. Both audiences responded favorably to the poverty analysis and to the Bank's
+
+proposals, endorsing the main thrusts of the proposed program. Feedback from the group of NGOs
+highlighted the weakness of local administrations in implementing social programs and the need for
+
+increasing public sector accountability. This group also noted potential areas to improve future
+assessments of poverty. Equally, feedback from the academic group included comments on measuring
+
+poverty inthe future, and the need for more exhaustive and systematic evaluation of social programs.
+
+28
+
+67.
+There are three broad objectives for the program corresponding to the main
+development challenges facing the country, namely: (i) sustaining overall economic
+growth and social progress; (ii) heightening inclusion, especially of rural populations and
+vulnerable groups, with an emphasis on opportunity and social services; and (iii)
+modernizing the state as the underpinning for development. In each area, the proposed
+program provides technical support and advice with sustained financing as a catalyst. It
+also includes support for structural reforms with the option of deferring actual use of the
+funds.
+Vehicles for Bank Group Assistance
+2.
+
+IBRD Lending Services
+
+68.
+The proposed lending program for FY02 to 06 would be approximately $500 to
+$650 million. The average amount of lending-about $100 million per year - is
+comparable to past lending during the 1990s and represents a significant decline from the
+1980 and early 1990s. 2 7 The first part would consist of up to six investment loans,
+roughly one each year, for a total of about $250 to $300 million. This program would
+consist of traditional investment and technical assistance loans, with perhaps one APL.
+Table 6 lays out the expected operations, the links with CAS objectives and the rationale
+for Bank involvement. There is no specific lending trigger with the understanding that
+projects would only be prepared and presented for Board consideration if specific project
+goals are agreed and the overall implementation of Chile's economic program remains
+satisfactory.
+69.
+The second part of the Bank's program would consist of one or two SALs,
+depending on the scope and timing of the agreed program, with the Deferred Draw-Down
+option (DDO), for a total of about $250 to $350 million. The choice of the DDO by the
+Government reflects the heightened risks facing Chile in the current global and regional
+economic environment, long with many other countries, and represents a precautionary
+move by Chile to manage potential risks in the future. This approach is consistent with
+the objectives of the proposed strategy and responds to the recommendations made by
+OED in its Country Assistance Evaluation. It meets the criteria laid out for the possible
+use of the DDO instrument (Box 8).
+
+Because of the electoral cycle and the transition to the next administration in 2006, no lending is
+anticipated in FY06 with the goal of consolidating activities in anticipation of the change and preparing the
+basis for reviewing the Bank's collaboration at that time.
+
+27
+
+29
+
+Box 8: Rationale for a DDO
+The Board paper for the DDO, R2001-0174, dated September 26, 2001, provides the criteria for its
+use. Applying those criteria to a possible DDO operation in Chile, it is apparent that:
+. Chile, an upper-middle income IBRD borrower, has made much less use of the Bank's
+financial resources than it might have: in the 1990s, average lending fell to only about 20
+percent of that in the 1980s.
+* Chile is in good standing with the international fnancial markets, accessing those markets
+with the lowest spread of all Latin American countries.
+* Prudent risk management under conditions of higher risk both globally and regionally point to
+the need for additional measures to ensure funding sources in the event of simultaneous
+external shocks.
+* Chile's external financing requirements-comparable to that in the economic downturn faced
+in 1999-could be in the range of 1-1.5 percent of GDP, or US$700-1,000 million.
+. A strong reform package could be expected from Chile: it is a country with a solid track
+record in designing and implementing reforms and maintaining sound macro-policies.
+* The Bank's exposure in Chile is extremely low, reflecting both the level of past lending and
+prepayments in the mid-1990s.
+
+70.
+The goal would be to support a series of reforms, still at an early stage of
+definition in terms of content, structure, and timing, to enhance Chile's long-term
+structural performance. Several areas of reform have been identified, consistent with
+
+CAS objectives. First, it is anticipated that the reform agenda could cover measures to
+improve the health system, a priority for the Lagos Administration. Second, the reform
+agenda could include other reforms emanating from the proposed ESW on social services
+aiming to reinforce social service design and delivery. Other reforms could address the
+present system of public works financing and the current regulatory framework and other
+areas related to improving public expenditures. The Bank's ability to act as a catalyst for
+change and to monitor performance would be important criteria in formulating the
+content of the proposed operation or operations. In all of the possible areas identified
+above, the Bank has already undertaken, or has planned, the required ESW and related
+analytical work. Support through the DDO would only materialize if there is agreement
+on a strong refonn package and a satisfactory macro-economic framework in place.
+
+30
+
+Table 6: Possible Investment Lending Services
+Possible
+Proposed
+Projects
+
+Project Objectives
+_________________
+
+Country
+Assistance
+Strategy
+
+Rationale for Bank
+Involvement
+
+Opportunity for
+Partnership
+
+~~~~Obiective
+
+Public
+Expenditure
+Management
+
+Modernizing Chile's system
+of public expenditure
+management to integrate core
+financial systems, install real
+time processing and
+standardize reporting and
+monitoring_
+
+Modernization
+of the State
+
+The Bank brings to the project
+global experience combined
+with its ability to work across
+agencies.
+
+IDB addresses public
+auditing and
+participation. The IMF
+provides advice on
+accounting structures and
+transparency
+
+Life Long
+Learning
+
+Upgrading skills of adults, by
+facilitating access to
+technical and adult
+education, giving many a
+second chance, as well as
+new opportunities for skills,
+and increased labor mobility
+
+Sustainable
+Growth
+
+The Bank has more than ten
+years experience in the sector,
+and can integrate adult
+education with parallel actions
+in higher education and
+secondary education.
+
+IDB would assist dropouts and youths at risk
+and has assisted in
+technical education. It
+also aims to promote
+female labor
+participation.
+
+Demonstrating sustainable,
+multiple use of water
+resources in watersheds that
+involve environmental
+concerns, indigenous
+populations and competing
+interests plus multiple actors
+
+Sustainable
+Growth
+
+Rural
+Electrification
+-Infrastructure
+(with GEF)
+
+Improving access to basic
+rural services, especially in
+isolated, poor areas, by
+exploiting altemative sources
+of energy, and alternative
+mixes of supply and delivery
+mechanisms.
+
+Sustainable
+Growth
+
+Technology and
+Innovation
+
+Modeling best practices and
+building capacities and
+processes for effective
+research and innovation by
+networks of institutions with
+greater linkages to
+businesses.
+
+Social Service
+Delivery and
+Social
+Protection
+
+Strengthening capacity to
+identify beneficiaries and
+deliver social services to at
+risk and vulnerable groups,
+including rural populations,
+while improving targeting,
+monitoring and evaluation.
+
+Watershed
+Management
+(with GEF)
+
+Inclusion
+
+The Bank can build on pilots
+under GEF and on the
+extensive global knowledge in
+natural resources management.
+The ability to work with
+diverse groups is important.
+
+Inclusion
+
+The Bank has already piloted
+similar programs and can
+mobilize GEF resources for
+non-traditional energy sources.
+The Bank can also work with
+private concessionaires to
+mobilize their participation.
+
+IDB has worked in
+expanding electricity
+services as part of the
+national grid.
+
+Sustainable
+Growth
+
+The Bank-financed
+Millennium Institutes LIL is
+being successfully
+implemented. The Bank's
+participation in scaling up
+would bring global knowledge
+and intemational linkages.
+
+IDB is providing support
+for physical facilities, the
+non-traditional sectors
+and applied research by
+firms.
+
+Inclusion
+
+Synergies with other Bankfinanced operations aimed at
+municipalities combined with
+core knowledge of health and
+education as well as best
+practices in social risk
+management.
+
+IDB support is aimed at
+social investment funds,
+and various at risk groups
+(disabled, indigenous,
+youths, elderly) and
+social problems such as
+domestic violence.
+
+Inclusion
+
+Modemization
+of the State
+
+31
+
+3.
+
+IFC and MIGA
+
+71.
+The role that IFC and MIGA can play in Chile complements that of the Bank.
+Like the Bank, IFC would continue to be selective and respond to changing country
+conditions. Currently, the private sector is coping with slower growth coupled by the
+adverse effects of the global economic uncertainties and difficulties in Argentina. IFC
+will help the private sector respond to these conditions in support of the Government's
+priorities, particularly growth and competitiveness. Looking forward, IFC's strategy
+remains focused on high impact areas, including wholesale support for SMEs, specialized
+financial market activity including housing finance, infrastructure, and the social sectors.
+IFC's focus will be guided by the Government's priorities and the private sector's
+demand for improving its competitiveness. There are presently three projects in the
+pipeline for power and infrastructure.
+72.
+MIGA's strategy is to continue to facilitate foreign direct investment in Chile and
+to counteract the adverse effects of the global and regional crises. The relative decline in
+MIGA activities in Chile has been partially due to the improvement in Chile's investment
+climate and the perception of decreased political risks in the country. MIGA's
+involvement will focus on risks that are not adequately covered by the private insurance
+market. In addition, MIGA is looking to support Chilean firms investing in other
+countries by providing them with political risk coverage.
+4.
+
+Non-Lending Services
+
+73.
+GEF and other grants: Chile has been an innovative user of mid-size GEF
+grants (Santiago Foothills and Valdivian Forestry Management) and the Montreal
+Protocol. Two GEF grants integrated into investments are being developed: one
+accompanying a Bank loan to support the proposed Watershed Management project and
+another complementing government investments in Sustainable Transport and Air
+Quality Management. Further opportunities will be explored including the proposed
+Rural Electrification/Infrastructure project. Chile also will be one of the first participants
+in the Carbon Prototype Fund with an investment in a flow-of-the-river hydroelectric
+generating plant. Equally, there are opportunities to employ trust funds for small
+innovative activities. An example is the Norwegian Trust Fund for a tri-country
+program-Chile, Peru, and Bolivia-to support the south-south capacity building of
+indigenous-led municipalities, linked to the Bank's ongoing Second Municipal
+Development project.
+74.
+Economic and Sector Work: The planned program of Bank-sponsored ESW
+would be selective, consisting of one major analysis per year with cost sharing as
+appropriate by assignment of officials to work with Bank teams. While it is not
+anticipated that every analysis would be done this way, such joint products would lead to
+more opportunities for internalization within the Government and greater efficiency and
+impact of the studies. The topics which have been identified as of high interest to the
+Government and the Bank and the rationale for Bank involvement are laid out in the
+Table 7. In addition to formal ESW, the Bank and Chile will continue to pursue
+
+32
+
+opportunities for fee-based advice (Box 6) and to collaborate with staff exchanges as was
+done in the case of education.
+Table 7: Proposed Economic and Sector Work
+Proposed
+Study
+
+Study Objective
+
+CAS
+Objective
+
+Assessing Chile's capacity
+to face the challenges of a
+knowledge-based
+economy, examining the
+broad country position
+with more detailed look at
+e-government, ecommerce (especially for
+SMEs) and e-education
+
+Sustainable
+Growth
+
+Social Risks
+and Social
+Protection
+
+Taking a systems
+approach to managing
+social risks and social
+protection of vulnerable
+groups, examining longterm needs and delivery,
+building on the initial
+diagnosis in the Poverty
+Assessment
+
+Inclusion
+
+Smnall and
+Medium Scale
+Enterprses
+
+Assessing the capacity of
+SMEs to contribute to
+growth and employment,
+along with the
+concomitant role of the
+State.
+
+Sustainable
+Growth
+
+Determining the needs of
+rural populations for basic
+services in the areas of
+water. electiicity,
+communications. and
+access, along with
+institutional and policies
+to support greater access.
+
+Sustainable
+Growth
+
+Fiduciary
+Assessment
+
+Validating the status of
+financial accountability
+and public procurement as
+well as measures currently
+planned or underway to
+address areas of
+improvement.
+
+Modernization
+of the State
+
+Poverty
+Assessment
+Update
+
+Continuing to examine
+poverty in order to
+contribute to sustainability
+and enhance
+understanding of the ways
+in which poverty reduction
+can be effective
+
+Sustainable
+Growth
+
+The New
+Economy
+
+Rural
+Infrastructure
+
+Modemization
+of the State
+
+Modemization
+of the State
+
+Inclusion
+Modemization
+of the State
+
+Inclusion
+Modernization
+of the State
+
+Inclusion
+Modemization
+of the State
+
+Rational for Bank Involvement
+
+Partnerships
+&Complementarities
+
+This tri-country study (Chile,
+Argentina, and Uruguay)
+positions the Bank to understand
+policy and program implications
+of the knowledge economy. By
+using methodologies developed
+by WBI and already applied in
+Korea and Brazil, the Bank can
+accumuiate global knowledge
+and international benchmarking.
+
+1DB has investment programs
+supporting research and is
+facilitating access by firms to
+technology. Participation of
+local businesses, academic
+institutions in the consultative
+process.
+
+This study would provide a
+system wide view of social
+protection, as the basis for
+identifying gaps and designing
+new programs and policies. It
+would employ the conceptual
+frameworks established by
+recent regional studies and the
+Social Protection Network.
+
+IDB is active in delivery of
+social programs and has
+concentrated on specific
+groups. Consultation with
+NGOs and academic groups.
+
+An under-developed sector,
+SMEs are not well understood.
+A systematic assessment is
+needed to guide reforms and
+policies. There are synergies
+with other Bank-financed
+programs, notably Life-Long
+Leaming, Rural Infrastructure,
+and Technology and Innovation,
+
+IDB has provided considerable
+financial support for SMEs
+and has an active interest in
+the sector. Consultation with
+diverse business organizations,
+think-tanks and local
+organizations.
+
+This assessment would provide
+the baseline needed to determine
+the nature and scope of a
+potential operation, along with
+the complementarities with other
+actors,
+
+IDB has provided funding for
+the Regional Development
+Fund that may be a funding
+source for future investments.
+Also, many services are
+presently provided by private
+sector concessionaires.
+
+Assurances that fiduciary
+responsibilities are being
+addressed by the borrower is an
+underlying feature of the Bank's
+work. In the case of Chile, the
+aim is validating and monitoring
+improvements.
+
+Potential exists for IDB and
+the Bank to cooperate in a
+joint undertaking as they are in
+Argentina and Paraguay.
+
+Poverty reduction remains the
+reason for Bank involvement in
+the country. Continued poverty
+assessments are needed to
+update and refine the ensuing
+strategies.
+.
+I
+
+33
+
+Continued collaboration with
+academic groups, as well as
+stakeholders.
+
+5.
+
+Global Programs and Connectivity
+
+75.
+Chile is an active partner in the Bank's global initiatives that were not featured in
+the last CAS. An example is global distance learning: a GDLN center, connected to nine
+other sites, was established with the University of Chile in April 2001. The Enlaces
+program under World-links is another example: Enlaces initially began under the Bankfinanced Primary Education Project and is being expanded to cover almost the entire
+public system, with 30 universities participating. The Bank is also continuing earlier
+work in Chile, under the WBI's Alliances for Poverty Reduction, supporting the
+identification of best practice cases of public-private-civil society partnerships to reduce
+poverty. This program was extended in collaboration with the Ministry of Planning to
+encourage participation. InfoDev has financed an innovative trial program to establish
+telecommunication centers with Internet connections in poor neighborhoods, especially in
+small towns and remote areas. And, finally, civil society organizations are actively
+considering joining the Development Gateway.
+6.
+
+Partnerships
+
+76.
+Collaboration with the other IFIs remains important. The IMF's macro-economic
+monitoring provides a valuable source of information for the Bank. Should the proposed
+DDO operation materialize, it is expected that the Fund would provide active input into
+assessing the macro-economic program. The IMF also periodically provides Chile with
+technical advice: for example, the IMF's analysis of issues in public expenditure
+management in July 1999 contributed to the formulation of a request for financial support
+from the World Bank.
+77.
+In the case of the IDB, there are complementarities between the two institutions
+with the IDB having a more diverse program. The level of lending anticipated by the
+IDB for CYOO to CY02 is about $600 million with the program to be reassessed at the
+end of this calendar year. Examples of collaboration include:
+*
+
+*
+
+*
+
+IDB is providing financial assistance to the Office of the Auditor General, which
+is responsible for Chile's public auditing. This will constitute a key linkage with
+the Bank's proposed support for Public Expenditure Management.
+Another critical area is the IDB's support for indigenous peoples. The agreed
+division of labor is that the Bank would integrate ethnicity-as well as genderinto programs rather than deal with them on a stand-alone basis and that the IDB
+provides direct assistance under its Indigenous Communities Project.
+The third area of collaboration is technology where, by agreement, the Bank's
+focus is on research and innovation processes with the IDB emphasizing support
+for institutional and physical capacities, such as technology parks.
+
+34
+
+Country Program Monitoring
+1.
+
+Performance Indicators
+
+78.
+Chile sets a high standard for development performance. It aims to restore high
+levels of growth, averaging at least 5 percent per year, and to maintain the downward
+trend of poverty reduction, reducing the present rate of 17 percent (lower bound) or 21
+percent (upper bound), while lowering unemployment below the 10 percent mark. While
+continuing to reduce poverty overall, a goal would be to reduce differences across
+Regions and groups. At present, the difference between the national average and the
+rural and indigenous populations ranges from 50 to 60 percent depending on the location;
+that gap would be reduced overall to less than 50 percent. At the same time, a goal would
+be to show improvements in social services and coverage in programs, along with
+implementation of the state modernization program. The following table summarizes
+indicators of performance over the medium-term (see Annex B9 for more details).
+Table 8: Performance Indicators
+
+Program Development Goals
+
+Sustaining growth and social progress
+(i)
+increasing R&D investment
+(ii)
+(iii)
+
+increasing female labor market
+participation
+increasing grade 8 scores in municipal
+schools
+(a) Spanish
+(b)
+
+Mathematics
+
+Modemizing the state
+(i)
+integrated financial management
+system in place
+(ii)
+increasing e-govemment and virtual
+information centers
+(iii)
+expanding non-traditional private
+provision of services
+(iv)
+increasing share of public investment
+resources managed at regional level
+
+Baseline
+Indicators
+(1998)
+
+Medium Term
+Targets
+(2005-07)
+
+Corresponding Bank Performance
+Indicator
+
+.65% GDP
+
+1% GDP
+
+LIL scaled up
+
+38%
+
+42%
+
+Life Long Leaming Project's target
+for female participation met
+
+238
+(1999)
+238
+(1999)
+
+250
+
+N/A
+
+Accomplished
+
+N/A
+
+Public records/
+tax
+
+Local improvement programs in place
+in target municipalities
+
+250
+
+Processing time delays reduced
+
+N/A
+46%
+(2000)
+
+Pilots
+
+Pilot in hospitals functioning
+
+50%
+
+Criteria adopted on the distribution of
+public investment funds by Region
+
+Promoting Inclusion
+increasing rural coverage in
+(i)
+infrastructure services
+(a) water
+(b) electricity
+(ii)
+reducing poverty gap between regions
+and groups
+(iii)
+increasing coverage by poor of social
+programs
+(a) family allowances and subsidies
+(b) child-care
+
+65%
+75%
+60-50%
+
+>75%
+>90%
+<50%
+
+Targets met within project
+population.
+Poverty Analysis demonstrates targets
+met.
+
+32%
+3%
+
+>50%
+>5%
+
+Agreement reached on expanding
+coverage and reducing leakage.
+Improvements toficha CAS. Program
+for target municipalities in place.
+
+35
+
+2.
+
+Risk Management and Creditworthiness
+
+79.
+Chile has an excellent track record of servicing debt to the Bank Group and Bank
+exposure in Chile is limited. As of December 31, 2001, Chile had IBRD debt outstanding
+and disbursed of $734 million, amounting to 0.6 percent of the IBRD portfolio. Chile's
+total public sector debt is very low at $10.1 billion, representing only about 15 percent of
+GDP; of this, $3 billion is external.
+80.
+Chile's strong creditworthiness reflects its excellent track record of development
+management and macroeconomic performance over the past decade. However, the
+country remains vulnerable to global and regional events that are largely beyond its
+control or ability to influence. Particular risks are arising from the present pronounced
+and widespread global economic downturn that will reduce demand for Chile's exports at
+the same time as lower copper prices to which Chile remains sensitive due to the high
+share of copper exports. In addition, the present international climate could adversely
+affect investor confidence and could dampen interest in new investments by both
+domestic and external investors. While contagion has so far been limited, the recent
+events in Argentina creates additional uncertainties for the overall investment climate in
+the region, and specifically for Chilean corporations operating in Argentina and those
+vulnerable to exchange rate pressures following several years of growing private external
+indebtedness.
+81.
+These conditions present a challenge for Chile even though the country has a
+good track record of dealing with shocks and it has a number of strengths to help
+withstand those shocks. Chile is one of the few emerging market economies which can
+afford to undertake counter-cyclical fiscal and monetary policies. On the monetary side,
+a flexible exchange rate, healthy reserve levels and moderate inflation have been able to
+counteract recent external shocks. On the fiscal side, its automatic stabilization
+mechanisms including the Copper Stabilization Fund and a strong fiscal position have
+placed Chile in a good position. It has already taken precautionary measures to access
+the international capital markets. It also can rely on strong public institutions to carry
+forward a solid policy regime. Nevertheless, the prolonged persistence of a negative
+international and regional environment could ultimately sap Chile's capacity to withstand
+such adverse conditions. Thus, prudence in the time of high uncertainty warrants that the
+Country Assistance Strategy include instruments that provide optional access to external
+financing in support of structural reforms.
+3.
+
+Future Evolution
+
+82.
+Even though Chile is one of the best performers among the Bank's diverse
+middle-income borrowers, graduation is not foreseen as an immediate prospect: while
+performance has been excellent over the past fifteen years, income levels are still below
+the threshold for triggering a review of the country's situation. Present projections
+indicate that reaching that level could take several more years reflecting the changing
+
+36
+
+economic conditions and prospects. In the meantime, the challenges to be faced have
+been made more acute by recent global events.
+One of the lessons from the past is that there should be flexibility in responding to
+83.
+changing country needs. The Bank's partnership with Chile is an example of that
+flexibility: over the past fifteen years the level and content of the financial and technical
+support sought from the Bank has changed several times and Chile is now seeking a
+sustained Bank involvement, at least for the foreseeable future, aiming to deploy the
+support of the Bank Group selectively to high priority areas. Thus, the CAS reflects the
+continuing engagement between the Bank and Chile for the period FY02 to 06.
+
+James D. Wolfensohn
+President
+By
+Shengman Zhang
+
+Washington, DC
+January 23, 2002
+Attachments
+
+37
+
+Chile at a glance
+Chile
+
+LaUn
+America
+& Carib.
+
+UppermiddleIncome
+
+15.2
+4,610
+70.1
+
+516
+3,680
+1,895
+
+647
+4,620
+2,986
+
+1.4
+2.0
+
+1.6
+2.3
+
+1.3
+2.0
+
+POVERTY and SOCIAL
+2000
+Population, mid-year (millions)
+GNI per capita (Atlas method, US$)
+GNI (Atlas method, US$ billions)
+
+1/24/02
+
+Development dlamond'
+Life expectancy
+
+Average annual growth, 1994-0
+Population (%)
+Labor force (%)
+
+G
+GNI
+
+G
+pGross
+
+per
+
+Most recent estimate (latest year available, 199440)
+
+,pnimary
+
+capita
+21
+86
+76
+10
+1
+94
+4
+101
+103
+
+Poverty (%of population below national poverty line)
+Urban population (%of total population)
+Life expectancy at birth (years)
+Infant mortality (per 1,000 live births)
+Child malnutrition (%of children under 5)
+Access to an improved water source (%of population)
+Illiteracy (6 of population age 15+)
+Gross pnmary enrollment (%ofschool-age population)
+Male
+Female
+
+75
+70
+30
+9
+85
+12
+113
+..
+
+100
+
+76
+69
+28
+,,
+87
+10
+107
+106
+
+enrollment
+
+Access to improved water source
+
+-
+
+Chil
+Upper-middle-income group
+
+105
+
+KEY ECONOMIC RATIOS and LONG-TERM TRENDS
+
+GDP (US$ billions)
+Gross domestic investment/GDP
+Exports of goods and services/GDP
+Gross domestic savings/GDP
+Gross nabonal savings/GDP
+Current account balanceJGDP
+Interest payments/GDP
+Total debtVGDP
+Total debt service/exports
+Present value of debtGDP
+Present value of debWexports
+
+1980
+
+1990
+
+1999
+
+2000
+
+27.6
+21.0
+22.8
+16.9
+13.5
+
+30.3
+25.1
+34.6
+28.4
+23.2
+
+67.7
+22.1
+29.0
+23.9
+21.8
+
+70.5
+23.4
+31.8
+24.5
+21.9
+
+-1.6
+4.5
+57.5
+27.1
+
+-0.3
+3.5
+50.5
+28.6
+53.1
+179.1
+
+-1.6
+4.1
+52.2
+27.5
+
+..
+
+3.3
+43.8
+..
+..
+..
+
+..
+..
+
+Economic ratuoS
+
+Trade
+
+Domestic
+savings
+
+Investment
+
+Indebtedness
+1980-90
+
+1990-00
+
+1999
+
+2000
+
+2000.04
+
+4.2
+2.5
+6.9
+
+6.8
+5.2
+9.4
+
+-1.1
+-2.4
+6.9
+
+5.4
+4.0
+7.5
+
+4.1
+2.9
+6.1
+
+(average annual growth)
+GDP
+GDP per capita
+Exports of goods and services
+
+-
+
+Chile
+Upper-middle-income group
+
+STRUCTURE of the ECONOMY
+1980
+
+1990
+
+1999
+
+2000
+
+(%of GDP)
+Agnculture
+Industry
+Manufacturing
+Services
+
+7.3
+37.4
+21.5
+55.3
+
+8.7
+41.5
+19.6
+49.8
+
+10.3
+33.9
+16.1
+55.8
+
+10.5
+33.5
+15.9
+56.0
+
+Privateconsumpton
+General government consumption
+Imports of goods and services
+
+70.7
+12.5
+27.0
+
+61.9
+9.8
+31.4
+
+64.1
+12.0
+27.2
+
+63.1
+12.4
+30.8
+
+198090
+
+199040
+
+1999
+
+2000
+
+Agnculture
+Industry
+Manufacturing
+Services
+
+5.9
+3.5
+3.4
+2.9
+
+4.2
+6.0
+4.6
+5.2
+
+-0.7
+2.7
+-0.7
+-0.7
+
+7.6
+4.5
+4.3
+5.0
+
+Private consumption
+General govemment consumption
+Gross domestic investment
+Imports of goods and services
+
+2.0
+0.4
+6.4
+1.8
+
+7.4
+3.9
+8.9
+11.0
+
+-3.1
+2.5
+-25.5
+-14.3
+
+4.1
+3.5
+13.7
+10.1
+
+Growth ofinvestment and GOP (%)
+4
+20
+o'
+95
+
+97o
+
+o
+
+GDI
+
+-
+
+0
+
+GDP
+
+Growth of exports and Imports (%)
+
+(average annual grow th)
+30
+20
+
+10
+oi
+-IC
+
+as
+
+go
+
+97
+
+go N
+
+-20
+
+Exports
+
+Im,ports
+
+Note: 2000 data are preliminary estimates.
+The diamonds show four key indicators in the country (in bold) compared with its income-group average. If data are missing, the diamond will
+be incomplete.
+
+oo
+
+Chile
+PRICES and GOVERNMENT FINANCE
+1980
+
+1990
+
+1999
+
+2000
+
+35.1
+28.8
+
+26.0
+21.2
+
+2.3
+3.5
+
+4.5
+4.1
+
+20.6
+2.5
+0.8
+
+22.5
+2.5
+-1.5
+
+23.7
+3.7
+0.1
+
+1980
+
+1990
+
+1999
+
+2000
+
+4,706
+2,125
+340
+1,751
+.
+
+8,373
+3,810
+757
+2,739
+7,742
+
+15,616
+5,889
+1,212
+7,152
+15,137
+
+18,158
+7,347
+1,122
+8,172
+18,089
+
+1,799
+3,270
+
+2,890
+3,702
+
+Domestic prices
+
+|Into b
+Inflation I%)
+
+(%change)
+Consumer pnces
+Implicit GDP deflator
+
+10
+
+Government finance
+
+(%of GDP, includes current grants)
+Current revenue
+Current budget balance
+Overall surplus/deficit
+
+o
+..
+..
+..
+
+95
+
+-
+
+97
+
+90
+
+98
+
+GDP deflator
+
+99
+
+°0
+
+OCPI
+
+TRADE
+Export and Import levels (USSmill.)
+
+(US$ millions)
+
+Total exports (fob)
+Copper
+Fruits
+Manufactures
+Total imports (cif)
+
+Food
+Fuel and energy
+Capital goods
+
+Export price index (1995=100)
+Import price index (1995=100)
+Terms of trade (1995= 100)
+
+~
+
+..
+
+1,208
+2,137
+
+..
+
+77
+
+67
+
+73
+
+111
+
+.
+
+88
+88
+
+60
+
+122
+60
+
+1980
+
+1990
+
+1999
+
+2000
+
+25,0N9
+
+200
+
+i l
+
+20009
+
+1000
+
+10o0.
+5.000
+l
+94 95
+
+97
+
+96
+
+U Exports
+
+98
+
+00
+
+go
+
+U Imports
+
+BALANCE of PAYMENTS
+Current account balance to GDP (%)
+
+(US$ millions)
+
+Exports of goods and services
+Imports of goods and services
+Resource balance
+
+.
+.
+..
+
+10,222
+9,173
+1,049
+
+19,406
+18,056
+1,350
+
+22,087
+21,209
+878
+
+Net income
+Net current transfers
+
+..
+
+-1,731
+197
+
+-1,881
+453
+
+-2,404
+538
+
+-3
+
+Current account balance
+
+.
+
+-485
+
+-78
+
+-989
+
+4-
+
+Financing items (net)
+Changes in net reserves
+
+...
+
+2,853
+-2,368
+
+-605
+683
+
+1,186
+-198
+
+-3
+
+39.0
+
+5,358
+305.1
+
+15,013
+508.8
+
+15,211
+535.5
+
+1980
+
+1990
+
+1999
+
+2000
+
+12,081
+163
+21
+
+17,425
+1,860
+14
+
+34,167
+877
+8
+
+36,849
+808
+7
+
+Total debt service
+IBRD
+IDA
+
+2,706
+25
+0
+
+2,772
+249
+1
+
+5,548
+181
+1
+
+6,067
+187
+0
+
+Composition of net resource flows
+Official grants
+Official creditors
+Private creditors
+Foreign direct investment
+Portfolio equity
+
+9
+-145
+2,234
+213
+0
+
+73
+294
+1,187
+590
+320
+
+14
+-83
+-3,666
+4,366
+130
+
+0
+-106
+2,261
+-1,103
+-261
+
+74
+14
+9
+
+130
+251
+120
+
+161
+43
+111
+
+0
+48
+116
+
+5
+
+132
+
+-68
+
+-67
+
+16
+-11
+
+130
+1
+
+71
+-139
+
+70
+-138
+
+Memo:
+Reserves including gold (USS millions)
+Conversion rate (DEC, /ocal/US$)
+
+..
+
+0
+1
+
+s
+
+EXTERNAL DEBT and RESOURCE FLOWS
+E
+
+(US$ miltions)
+Total debt outstanding and disbursed
+IBRD
+IDA
+
+World Bank program
+Commitments
+Disbursements
+Principal repayments
+Net flows
+
+Interest payments
+Net transfers
+Development Economics
+
+Compositlon of 2000 debt (USS mill.)
+
+A ST
+A
+
+|
+
+:9,921 _
+
+|
+
+_
+
+L 6770
+
+|
+
+E
+
+|F:
+
+18549
+
+E-Bilateral
+
+A -16RD
+B -IDA
+C-IMF
+
+494
+
+D -Other multilateral
+
+F -Private
+G-Short-term
+
+1/24/02
+
+Annex B2
+Page 1of 1
+
+CAS Annex B2 -
+
+Selected Indicators* of Bank Portfolio Performance and Management
+As Of Date 12/11/2001
+
+Indicator
+Porffolio Assessment
+Number of Projects Under Implementation a
+Average Implementation Period (years) b
+Percent of Problem Projects by Number a c
+Percent of Problem Projects by Amount a,c
+Percent of Projects at Risk by Number a, d
+Percent of Projects at Risk by Amount a,d
+Disbursement Ratio (%)e
+Portfolio Management
+CPPR during the year (yes/no)
+Supervision Resources (total US$ '000)
+Average Supervision (US$ '000/project)
+Memorandum Item
+Proj Eval by OED by Number
+Proj Eval by OED by Amt (US$ millions)
+% of OED Projects Rated U or HU by Number
+% of OED Projects Rated U or HU by Amt
+a.
+b.
+c.
+d.
+e.
+*
+
+1999
+
+2000
+
+2001
+
+2002
+
+7
+2.9
+0
+0
+0
+0
+44.6
+
+8
+3.8
+0
+0
+0
+0
+21.2
+
+5
+4.4
+20
+3.5
+20
+3.5
+22.2
+
+5
+4.8
+0
+0
+0
+0
+12.3
+
+no
+647.62
+49.82
+
+yes
+643.75
+58.52
+
+yes
+302.06
+50.34
+
+yes
+244.39
+48.88
+
+Since FY 80 Last Five FYs
+36
+11
+2776
+413.8
+11.1
+18.2
+11
+22.2
+
+As shown in the Annual Report on Portfolio Performance (except for current FY).
+Average age of projects in the Bank's country portfolio.
+Percent of projects rated U or HU on development objectives (DO) and/or implementation progress (IP).
+As defined under the Portfolio Improvement Program.
+Ratio of disbursements during the year to the undisbursed balance of the Bank's portfolio at the
+beginning of the year: Investment projects only.
+All indicators are for projects active in the Portfolio, with the exception of Disbursement Ratio,
+which includes all active projects as well as projects which exited during the fiscal year.
+
+CAS Annex B3 - Bank Group Program Summary
+
+Annex B3
+Page I of 2
+[IBRD]
+
+Chile
+
+As of Date 01124/02
+
+Proposed IBRD/IDA Base-Case Lending Program
+
+a
+
+Fiscal year
+
+Proj ID
+
+US$(M)
+
+2002
+
+CL Pub Expenditure Management
+CL-Lifelong Learning and Training
+
+23.2
+
+H
+
+H
+
+75.7
+
+H
+
+M
+
+Result
+
+98.9
+
+CL-Watershed Management APL/total
+
+150.0
+
+H
+
+H
+
+CL - SAUDDO
+
+H
+
+M
+
+Result
+
+300.0
+450.0
+
+CL-Rural Electricification/Infrastructure
+
+30.0
+
+H
+
+M
+
+CL-Technology-Innovation
+Result
+
+20.0
+50.0
+
+H
+
+M
+
+CL-Local Service Delivery
+
+20.0
+
+M
+
+M
+
+Result
+
+20.0
+
+2003
+
+2004
+
+2005
+
+2006
+Tot FY02-06
+
+Strategic Rewards b
+(HIMIL)
+
+Implementation b
+Risks (HIMIL)
+
+0.0
+Result
+
+618.0
+
+a. This table presents the proposed program for the next three fiscal years.
+b. For each project, indicate whether the strategic rewards and implementation risks are expected to be high (H), moderate
+(M), or low (L).
+Template created on 1/24/2002.
+
+Annex B3
+Page 2 of 2
+[IFC/MIGAI
+
+CAS Annex B3 (IFC & MIGA) for Chile
+Chile - IFC and MIGA Program, FY 1999-2001
+1999 2000 2001
+IFC approvals (US$m)*
+
+36.88 38.70 0.00
+
+Sector (%)
+OIL, GAS AND MINING
+TRANSPORTATION & WAREHOUSING
+
+Total
+
+68
+32
+
+100
+
+0
+100
+
+100 (n/a)
+
+Investment instrument(%)
+Loans
+Equity
+Quasi-Equity**
+
+Total
+MIGA guarantees (US$m)
+* IFC's
+
+account only (not reflecting Participants').
+** Includes both Loan-type and Equity-type.
+
+0
+27
+73
+
+100
+
+90
+10
+
+0
+100 (n/a)
+
+62.67 62.67
+
+Annex B4
+
+CAS Annex B4 - Summary of Nonlending Services As of January 23, 2002
+
+Product
+
+Completion FY
+
+Cost (US$000)
+
+Audiencea
+
+Objective b
+
+Recent completions/Underway
+Health Insurance Issues - Old Age and
+Catastrophic Health Costs
+
+FY00
+
+147
+
+Government,
+Bank, Public
+dissemination
+
+Problem
+solving,
+Knowledge
+Generation
+
+Policy Options, including Poverty
+
+FY01
+
+265
+
+Government,
+Bank
+
+Knowledge
+Generation
+
+Social Risks and Protection
+
+FY02
+
+147
+
+Govemment,
+Bank
+
+Problem
+solving,
+Knowledge
+Generation
+
+New Economy
+[joint task Argentina, Chile & Uruguay]
+
+FY03
+
+214
+
+Government,
+Bank, Public
+dissemination
+
+Knowledge
+Generation
+
+SMEs
+
+FY03
+
+175
+
+Government,
+Bank
+
+Knowledge
+Generation
+
+Fiduciary Assessment
+
+FY03
+
+100
+
+Government,
+Bank
+
+Problem
+solving,
+Knowledge
+Generation
+
+Rural Services
+
+FY04
+
+175
+
+Government,
+Bank
+
+Problem
+solving,
+Knowledge
+Generation
+
+Poverty Assessment
+
+FY05
+
+175
+
+Government,
+Bank, Public
+dissemination
+
+Problem
+solving,
+Knowledge
+Generation
+
+Planned
+
+a. Government, donor, Bank, public dissemination.
+b. Knowledge generation, public debate, problem-solving.
+
+Annex B5
+Page I of I
+
+Chile Social Indicators
+Latest single year
+
+1970-75
+
+1980456
+
+1993-99
+
+Latin
+America
+&Carib.
+
+10.3
+1.7
+78.4
+3.2
+
+12.0
+1.6
+82.6
+2.7
+
+15.0
+1.4
+85.4
+2.2
+
+508.2
+1.6
+74.9
+2.6
+
+571.5
+1.4
+75.4
+2.4
+
+3,800
+140
+
+4,870
+131
+
+POPULATION
+Total population, mid-year (millions)
+Growth rate (%annual average for period)
+Urban population (%of population)
+Total fertility rate (births per woman)
+POVERTY
+(%of population)
+National headcount index
+Urban headcount index
+Rural headcount index
+INCOME
+GNI per capita (US$)
+Consumer price index (1995=100)
+Food price index (1995=100)
+
+Same region/income group
+
+..
+
+..
+
+UppermiddleIncome
+
+20.5
+
+..
+..
+
+1,110
+1
+
+INCOMEICONSUMPTION DISTRiBUTION
+Gini index
+Lowest quintile (%of income or consumption)
+Highest quintile (%of income or consumption)
+SOCIAL INDICATORS
+Public expenditure
+Health (%of GDP)
+Education (%of GNI)
+Social security and welfare (%of GDP)
+Net primary school enrollment rate
+(%of age group)
+Total
+Male
+Female
+Access to an Improved water source
+(%of population)
+Total
+Urban
+Rural
+ImmunizaUon rate
+(%under 12 months)
+Measles
+DPT
+Child malnutrition (%under 5 years)
+Life expectancy at birth
+(years)
+Total
+Male
+Female
+Mortality
+Infant (per 1,000 live births)
+Under 5 (per 1,000 live births)
+Adult (1I-59)
+Male (per 1,000 population)
+Female (per 1,000 population)
+Matemal (per 100,000 live births)
+Births attended by skilled health staff (%)
+
+..
+
+..
+
+1,420
+21
+19
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+4,630
+124
+118
+57.5
+3.4
+62.0
+
+4.1
+8.2
+
+4.4
+11.8
+
+2.7
+3.6
+8.3
+
+3.3
+3.6
+7.4
+
+3.3
+5.0
+7.9
+
+94
+94
+95
+
+89
+90
+90
+
+89
+91
+88
+
+91
+
+94
+
+86
+97
+22
+
+94
+99
+66
+
+85
+93
+62
+
+87
+94
+68
+
+92
+91
+2
+
+95
+94
+1
+
+90
+87
+9
+
+90
+88
+
+66
+63
+69
+
+72
+69
+75
+
+76
+73
+79
+
+70
+67
+73
+
+69
+66
+73
+
+55
+96
+
+20
+35
+
+10
+12
+
+30
+38
+
+27
+34
+
+301
+177
+
+218
+120
+
+140
+72
+20
+100
+
+207
+122
+
+233
+143
+
+..
+
+..
+..
+..
+
+..
+..
+..
+
+..
+..
+
+..
+
+..
+
+95
+
+Note: 0 or 0.0 means zero or less than half the unit shown. Net enrollment ratios exceeding 100 indicate discrepancies
+between the estimates of school-age population and reported enrollment data. Latest year for access to improved water
+source data is 2000.
+2001 World Development Indicators CD-ROM, Worid Bank
+
+CAS Annex B6 - Key Economic Indicators - Chile
+
+Annex B6
+Page I of 3
+
+1995
+
+1996
+
+Acrual
+1997
+
+1998
+
+1999
+
+2o00
+
+EFtiinate
+2(101
+
+Gross domestic product
+
+100,0
+
+100.0
+
+100.0
+
+100.0
+
+100.0
+
+10O
+
+100.0
+
+Agriculturea
+Industrya
+Servicesa
+
+9.2
+35.3
+55.5
+
+9.0
+35.2
+55.8
+
+8.4
+35.1
+56.5
+
+10.4
+33.1
+56.5
+
+10.3
+33.9
+55.8
+
+10.5
+33.5
+56.0
+
+10.5
+33.5
+56.0
+
+10.5
+33.5
+56.0
+
+10.5
+33.5
+56.0
+
+Total Consumption
+Gross domestic fixed
+investment
+Government investment
+Private investment
+(includes increase in
+stocks)
+Exports (GNFS)b
+Imports (GNFS)
+
+72.4
+23.9
+
+75.3
+24.9
+
+75.5
+25.5
+
+77.4
+26.0
+
+76.1
+21.9
+
+75.5
+22.3
+
+74.7
+22.6
+
+74.1
+23.4
+
+74.9
+23.5
+
+3.9
+19.9
+
+5.2
+19.7
+
+4.9
+20.6
+
+6.2
+19.8
+
+5.8
+16.0
+
+5.5
+16.8
+
+5.6
+17.0
+
+5.8
+17.6
+
+5.8
+17.7
+
+30.5
+28.7
+
+28.7
+30.9
+
+28.1
+30.9
+
+26.7
+30.9
+
+29.0
+27.2
+
+31.8
+30.8
+
+34.3
+32.7
+
+34.6
+33.2
+
+34.3
+33.9
+
+Gross domestic savings
+Gross national savingsc
+
+27.6
+23.7
+
+24.7
+21.8
+
+24.5
+22.3
+
+22.6
+21.8
+
+23.9
+21.8
+
+24.5
+21.9
+
+25.3
+21.6
+
+25.9
+22.4
+
+25.1
+22.2
+
+65215.9
+
+68567.6
+
+75285.7
+
+73063.4
+
+67657.5
+
+70545.0
+
+64041.5
+
+65272.8
+
+67231.0
+
+3880.0
+
+4370.0
+
+4740.0
+
+4860.0
+
+4610.0
+
+4670.0
+
+4489.5
+
+4397.7
+
+4370.3
+
+10.6
+
+7.4
+
+7.4
+
+3.9
+
+-1.1
+
+:5.4
+
+3.2
+
+3.3
+
+5.0
+
+16.7
+
+2.7
+
+9.3
+
+-6.2
+
+-3.0
+
+8.5
+
+3.2
+
+3.3
+
+5.0
+
+9.1
+
+6.0
+
+6.0
+
+2.6
+
+-2.5
+
+4.1
+
+2.0
+
+22
+
+3.9
+
+7.6
+8.3
+
+6.7
+7.3
+
+7.2
+7.5
+
+2.9
+3.0
+
+-3.9
+-4.4
+
+2.8
+2.9
+
+1.2
+1.1
+
+1.2
+1.]
+(Continued)
+
+Indicator
+
+2012
+
+20(163
+
+1
+
+100.0
+
+National accounts
+(as %GDP at current
+
+market prices)
+
+Memorandum items
+Gross domestic product
+(US$ million at current
+prices)
+Gross national product per
+capita (US$, Atlas method)
+Real annual growth rates
+(%, calculated from 1995
+prices)
+Gross domestic product at
+market prices
+Gross Domestic Income
+Real annual per capita
+growth rates (%, calculated
+from 1995 prices)
+Gross domestic product at
+market prices
+Total consumption
+Private consumption
+
+5.8
+6.0
+
+COUNTRY - Key Economic Indicators
+
+Annex BO
+Page 2 of 3
+
+(Continued)
+
+Actual
+Indicator
+
+1995
+
+1996
+
+1997
+
+1998
+
+1999
+
+2Otn
+
+19359
+16024
+18299
+14643
+1060
+306
+
+19066
+15405
+20418
+16496
+-1352
+508
+
+20772
+16663
+22281
+18220
+-1509
+519
+
+18949
+14830
+21580
+17346
+-2631
+463
+
+19406
+15616
+18056
+13951
+1350
+453
+
+22087
+18158
+21209
+16722
+878
+538
+
+-1346
+
+-3511
+
+-3728
+
+-4143
+
+-78
+
+2205
+
+3445
+
+3353
+
+1842
+
+1596
+
+2037
+
+3561
+
+3402
+
+Esiimate
+200
+
+20J2
+
+2003
+
+21939
+18050
+20957
+16790
+982
+165
+
+22584
+18772
+21687
+17468
+897
+165
+
+23047
+19617
+22779
+1834'3
+268
+624
+
+-989
+
+-1345
+
+-1436
+
+-1681
+
+4366
+
+-1103
+
+44
+
+1528
+
+158S
+
+1430
+
+1482
+
+740
+
+790
+
+924
+
+Balance of Payments
+(US$n.)
+Exports (GNFS)b
+Merchandise FOB
+Imports (GNFS)b
+Merchandise FOB
+Resource balance
+Netcurrenttrrnsfers
+(including official current
+transfers)
+Current accormt balance
+(after official capital grants)
+Net private foreign direct
+investinent
+Long-term loans (net)
+Official
+
+Private
+Other capital inet, including
+errors and omissions)
+Change in reserves (-=increase)
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+-790
+
+23
+
+-3167
+
+-6401
+
+808
+
+1682
+
+283
+
+379
+
+-3209
+
+2066
+
+683
+
+-198
+
+-1120
+
+-It65
+
+-12t1
+
+-1181
+
+..
+
+..
+
+-1394
+-1061
+
+..
+
+..
+
+..
+
+Memorandum i.'ems
+Resourcebalance(%of
+GDP at current market
+prices)
+Annual growth rates
+Merchandise exports (FOB)
+Primary
+Manufactmres
+Merchandise imports
+(CIF)
+Public finance
+(as %of GDP at current
+market prices)e
+Current revenues
+Current expenditures
+
+1.8
+
+-2.2
+
+-2.7
+
+-4.2
+
+1.8
+
+1.1
+
+1.5
+
+1.4
+
+0.4
+
+38.1
+45.1
+29.2
+34.5
+
+-3.9
+-5.3
+-1.8
+12.1
+
+8.2
+9.4
+6.4
+10.3
+
+-11.0
+-17.2
+-2.2
+-4.5
+
+5.3
+4.7
+6.0
+-19.4
+
+16.3
+18.0
+14.3
+19.5
+
+-0.6
+-0.6
+-0.6
+0.5
+
+4.0
+4.0
+4.0
+4.0
+
+4.5
+4.5
+4.5
+5.0
+
+22.2
+16.7
+
+23.4
+17.6
+
+23.2
+17.7
+
+22.9
+18.8
+
+22.5
+20.0
+
+23.7
+20.0
+
+22.0
+19.6
+
+22.0
+19.2
+(Continued)
+
+22.0
+18.8
+
+COUNTRY - Key Economic Indicators
+
+Annex B6
+Page 3 of 3
+
+(Continued)
+
+.ActuaJ
+Intdicuior
+
+Current account surplus(+)
+or deficit (-)
+Capital expenditure
+Foreign financing
+Monetary indicators
+M2/GDP(atcurrentmarket
+prices)
+Growth of M2 (%)
+Private sector credit growth
+total credit growth (%)
+Price indices( 1987 =100)
+Merchandise exportprice
+index
+Merchandise import price
+index
+Merchandise terms oftrade
+index
+Realexchangerate
+(US$/LCU)f
+Real interest rates
+Consumer price index
+(% growth rate)
+GDP deflator
+(% growth rate)
+
+Fiimati,
+201W'
+
+1995
+
+1996
+
+1997
+
+1998
+
+1999
+
+20)1)
+
+5.4
+
+5.8
+
+5.6
+
+4.1
+
+2.5
+
+3.7
+
+2.4
+
+2.8
+
+3.2
+
+3.6
+-3.0
+
+4.1
+-2.9
+
+4.2
+-0.4
+
+4.3
+0.8
+
+4.4
+0.9
+
+4.0
+0.1
+
+3.9
+-1.1
+
+3.9
+-0.7
+
+3.9
+-0.3
+
+39.0
+
+42.7
+
+44.5
+
+45.8
+
+51.3
+
+49.6
+
+49.6
+
+50.1
+
+50.1
+
+25.8
+124.2
+
+19.6
+119.0
+
+16.3
+122.8
+
+9.6
+76.3
+
+14.8
+103.7
+
+6.2
+113.0
+
+7.1
+100.0
+
+8.1
+100.0
+
+8.2
+100.0
+
+162.8
+
+136.3
+
+135.5
+
+110.6
+
+108.4
+
+118.7
+
+106.3
+
+105.9
+
+106.4
+
+133.5
+
+149.0
+
+150.7
+
+149.0
+
+148.4
+
+162.8
+
+149.2
+
+147.9
+
+145.1
+
+122.0
+
+91.5
+
+89.9
+
+74.3
+
+73.1
+
+72.9
+
+71,2
+
+71.6
+
+73.4
+
+119.4
+
+123.8
+
+135.3
+
+132.8
+
+126.0
+
+126.7
+
+127.0
+
+127.5
+
+128.8
+
+8.2
+
+6.6
+
+6.0
+
+4.7
+
+2.3
+
+4.5
+
+2.6
+
+3.6
+
+3.0
+
+9.3
+
+1.7
+
+4.0
+
+2.5
+
+3.5
+
+4.1
+
+3.8
+
+3.6
+
+3.0
+
+a. If GDP components are estimated at factor cost, a footnoote indicating this fact should be added.
+b. "GNFS" denotes "goods and nonfactor services "
+c. Includes net unrequited transfers excluding official capital grants.
+d Includes use of IMF resources
+e. Should indicate the level of the government to which the data refer.
+f "LCU" denotes "local currency units." An increase inUS$/LCU denotes appreciation.
+
+2'jti
+
+21i1'G
+
+CAS Annex B7 - Key Exposure Indicators - Chile
+
+IridiLailcr
+
+Irkd,-5201
+
+Total debt outstanding and
+disbursed (TOD)) (US$m)a
+Net disbarsements (US$m)a
+
+Total debt service (TDS)
+(USSm)a
+
+.t; j995
+19,9j-,,,, 4",
+
+.
+
+;-
+
+Annex B7
+Page 1 of I
+
+1.o~
+-l
+
+2002
+
+'2003
+
+21736
+
+22979
+
+26701
+
+31691
+
+34167
+
+36849
+
+37499
+
+38410
+
+39527
+
+258
+
+1243
+
+3722
+
+4990
+
+2476
+
+2682
+
+650
+
+911
+
+1117
+
+4696
+
+6720
+
+5571
+
+4018
+
+5548
+
+6067
+
+6404
+
+5624
+
+5C17
+
+112
+33
+24
+
+121
+34
+35
+
+129
+35
+27
+
+167
+43
+21
+
+176
+50
+29
+
+167
+52
+27
+
+171
+59
+29
+
+170
+59
+25
+
+172
+59
+22
+
+Debt and debt service indicators
+TDO/XGSb
+TDO/GDP
+TDS/XGS
+ConcessionaL/TDO
+
+IBRD exposure indicators (%)
+IBRD DS/public DS
+Preferred creditor DS/public
+DS (%)c
+IBRD DS/XCS
+IBRD TDO (US$n)d
+Of which present value of
+guarantees (US$m)
+Of which DDO (US$m)f
+
+Share of IBRI) portfolio (%)
+IDA TDO (US$m)d
+IFC IUS$;m) \c .g
+Loans \h
+Equity and quasi-equity \i
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+28.7
+81.6
+
+10.1
+30.7
+
+13.8
+54.5
+
+15.4
+33.4
+
+23.2
+48.6
+
+22.5
+55.7
+
+9.3
+21.8
+
+19.3
+
+33.0
+
+4.3
+1372
+
+1.8
+1047
+
+0.9
+980
+
+0.9
+945
+
+0.9
+877
+
+0.8
+808
+
+0.8
+730
+
+0.8
+953
+
+0.8
+901
+
+..
+
+..
+
+300.0
+
+1.3
+10.7
+
+1.0
+L0
+
+0.9
+9.3
+
+0.8
+8.6
+
+0.7
+7.9
+
+0.7
+7.2
+
+0.6
+6.5
+
+0.7
+5.8
+
+0.7
+5.1
+
+243.0
+51.0
+
+185.5
+61.9
+
+128.0
+59.9
+
+130.7
+50.4
+
+94.4
+58.7
+
+62.4
+58.7
+
+44.5
+58.3
+
+..
+
+62.7
+
+62.7
+
+0
+
+0
+
+0
+
+..
+
+..
+
+..
+
+..
+
+..
+
+MIGA
+MIGA guaranlees (US$m)
+
+..
+
+..
+
+..
+
+a Includes public and publicly guaranteed debt, private nonguaranteed, use of IMF credits and net short.
+term copital
+b. 'XGS' denotes exports of goods and services, including workers' remittances.
+c. Preferred creditors are defined as IBRD, IDA, IFC, the regional multilateral development banks, the IMF, and the
+Bank for International Settlements.
+d. Includes present value of guarantees.
+e. Includes equit) and quasi-equity types of both loan and equity instruments.
+f. "DDO" denotes Deferned Drawdown Option. It is not expected to be disbursed.
+g. Includes IFC's account only (not reflecting Participants'). Values do not reflect off-balance sheet items such
+as guarantee and risk management products.
+h. Includes (i) Loan and (ii) Quasi-Equity (Loan-type).
+l Includes (i) Equity and (ii) Quasi-Equity (Equity-type).
+
+Annex B8 [IBRD]
+Page 1 of 2
+
+CAS Annex BB- Chile
+Operations Portfolio (IBRDIIDA and Grants)
+As OfDate1211112001
+Closed Projects
+
+57
+
+IBRDIIDA'
+ofwhoch
+hasbeenrepaid
+To.alD,sbrr-sd (Closed)
+ofch,chrhas beerrepa,d
+TotalDlsbursed
+(Acve
+- Closed)
+ofch hasbeenrepaid
+
+156.20
+1772
+2,935.60
+2.786.90
+3.091.84
+2.B04.83
+
+TotalUnrisborsed
+(At,ve)
+Tore UJdisb!rsed
+(Clos-d)
+TotalJvdisb-rsed (Active Closed)
+
+11727
+c 20
+11727
+
+Total Disb,rsed (AcO-e)
+
+Active Proiects
+
+Difference Between
+Last PSR
+
+Expected and Actual
+
+Supervision Rating
+Project ID
+
+Project Name
+
+P055480
+P055481
+P063386
+P006576
+P006661
+Overall result
+
+CL MUNIC DEVT It
+CL-HIGHER EDUCATION
+CL-MILLENNIUM INSTITUT
+MONTREAL PROTOCOL
+THIRD RD SCTR
+
+OrIional Amount In USSMillions
+
+Development
+Oblectives
+
+ImMlementatlon
+Proaress
+
+Fiscal Year
+
+IBRD
+
+S
+HS
+HS
+S
+S
+
+S
+S
+HS
+S
+S
+
+1999
+1999
+1999
+1993
+1995
+Result
+
+10.1
+145.4
+5
+
+a Intended disbursements to date minus actual disbursements to date as projected at appraisal.
+
+IDA
+
+GRANT
+
+6.5
+120
+280.6
+
+6.5
+
+Cancel.
+
+Disbursements "
+Undisb.
+8.5
+101.1
+0.5
+2.6
+7.1
+119.8
+
+Orig. Frm Reved
+7.4
+47 6
+0.5
+-2.7
+7.1
+60
+
+-2.7
+7.1
+4 5
+
+Annex B8 [IFC]
+Page 2 of 2
+
+CAS Annex B8 (IFC) for Chile
+Chile
+Statement of IFC's
+Held and Disbursed Portfolio
+As of 12/31/2001
+(In US Dollars Millions)
+Held
+FY Approval
+1991/93
+1991/94/96
+1999/02
+1999
+1989/91/99
+1996
+1990
+1994/96/97
+1993/94
+1994
+1996
+2000
+2002
+
+Disbursed
+
+Company
+Loan Equity Quasi Partic
+Aconcagua
+0.00
+6.45 0.00 0.00
+BOMASA
+0.86
+4.80 0.00 0.94
+CBT
+0.00
+8.66 0.00 0.00
+CBTI
+0.00
+0.00 1.70 0.00
+Escondida
+0.00
+7.48 17.90 0.00
+FEPASA
+13.78
+0.00 0.00 5.70
+ING-MLF-Nature F 1.20
+0.00 0.00 1.80
+Moneda Mgt
+0.00
+0.46 0.00 0.00
+Pangue
+0.00
+2.82 0.00 0.00
+Pionero Fondo
+0.00
+9.33 0.00 0.00
+Proa Fund
+0.00
+7.34 0.00 0.00
+San Antonio
+35.00
+3.70 0.00 65.00
+TFSA
+0.00
+4.44 0.00 0.00
+Total Portfolio
+
+50.83
+
+55.50 19.60 73.44
+
+Approvals Pending Commitment
+Loan Eauitv Ouasi Partic
+Total Pending:
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+Loan Equity Quasi Partic
+0.00
+6.45 0.00 0.00
+0.86 4.80 0.00 0.94
+0.00
+8.66 0.00 0.00
+0.00
+0.00 1.70 0.00
+0.00
+7.48 14.15 0.00
+13.78
+0.00 0.00 5.70
+1.20
+0.00 0.00 1.80
+0.00
+0.46 0.00 0.00
+0.00
+2.82 0.00 0.00
+0.00
+9.33 0.00 0.00
+0.00
+7.34 0.00 0.00
+12.25
+3.70 0.00 22.75
+0.00
+4.44 0.00 0.00
+28.08
+
+55.50 15.85 31.19
+
+Annex B9
+Page I of 3
+Chile CAS Program Matrix (FY2002-FY2005)
+The program supports three main objectives: (i) sustaining Chile's economic growth and social progress; (ii) inclusion, especially across groups and regions; and (iii) modemization of the state to underpin the
+previous two objectives. Complementary actions in these three areas are expected to generate improvements to the well-being of the Chileans population as a whole, with increased equity in terms of access to
+opportunity and public services for the poor and vulnerable.
+Country Goals:
+
+Growth rates > 5 % per year
+Unemployment<10%
+Poverty <17 %
+1.
+
+Diagnosis
+
+Strategy/Actions
+
+Sustaining Economic Growth and Social Progress
+Specific
+Country Performance
+Indicators
+
+Self-Evaluation Indicators
+
+Instruments
+World Bank Group
+._____________________
+ESWOther
+
+Chile's track record of sustained
+economic growth has led to
+dramatic reductions in poverty
+levels. However, the first
+downturn in 11 years and a rise in
+unemployment in 1999 show that
+Chile cannot be complacent.
+Efforts are needed to continue to
+diversify the economy, adopt new
+technologies, and sustain
+productivity growth,
+competitiveness, human capacity
+and employment creation.
+This growth strategy should further
+take into consideration equity,
+environmental sustainability, and
+regional disparities, within a sound
+macro-framework.
+By and large the policy framework
+and institutional capacity exist for
+this. Bank Group assistance aims
+at helping Chile facc new
+challenges and frontiers,
+
+Growth
+Position Chile to take advantage of
+new opportunities for growth while
+preserving this capacity as conditions
+warrant.
+Leverage investments in infrastructure
+with private participation.
+Eouity
+Improve stock of human capital and
+support those with low levels of
+productivity.
+Sustainabilith
+Develop sustainable approaches for
+natural resources management,
+especially watershed and forestry, and
+for pollution reduction,
+
+Investment in R&D increased
+to 1% of GDP
+Quality of labor
+force/international education
+scores
+Participation by women in
+the labor force increased
+from 38% to 43%
+Increased Private investment
+in "superior" infrastructure
+and non-traditional public
+services
+Sound management of
+liabilities to private sector
+
+A coherent approach to the
+New Economy has been
+adopted.
+A new system for assessing
+skills of labor force in place.
+Resources for higher
+Education more equitably
+distributed, especially to
+private technical schools and
+to students from poor
+families.
+Innovations in R&D
+management acknowledged
+and generalized.
+Successful cases of multiactor collaboration on
+sensitive environmental
+issues which can be
+replicated publicized.
+
+ESW
+Policy Notes (01)
+New Economy (03)
+SMEs (03)
+Other non-lending/TA
+Assessment of Contingent
+Liabilities
+Private Participation in Nontraditional public services
+Air Quality
+Regulatory Issues
+Agricultural Policies and
+Programs
+Lending
+SAL/DDO (03)
+Life Long Learning (02)
+Watershed Management (03)
+Technology -Innovation (04)
+Supervision
+Third Highway ((95)
+Higher Education (99)
+Millennium Institutes (99)
+IFC
+Possible investment in the
+financial, SMEs, infrastructure
+and social sectors.
+Global Programs
+GEF mid-size grant for
+Valdiva Foresty Management,
+Santiago Foothills. Air Quality.
+Montreal Protocol
+Carbon Fund Prototype
+
+Note: Other nonlending services include fee-based advice, technical assistance, policy advice and trust funds.
+
+Major Related Activities of
+_
+
+Donors
+
+IDB is engaged in supporting
+technology innovations, S&T,
+and funding of regional
+infrastructure. It is also
+providing TA for the
+preparation of new highway
+concessions, SMEs, local
+fishing plans and forestry
+systems.
+
+Annex B9
+Page 2 of 3
+
+2.
+Diagnosis
+
+Strategy/Actions
+
+Inclusion
+
+Country Performance
+Indicators
+
+Self-Evaluation Indicators
+
+Instruments
+World Bank Group
+
+Major Related Activities of
+Other Donors
+
+Chile has done a solid record in the
+1990s of expanding access to
+social services and to improve the
+quality and relevance of education
+in particular. These services go a
+significant way in reducing income
+inequalities.
+Yet, coverage of targeted programs
+is low and there is high leakage in
+some. Moreover, the health system
+has considerable inequities and
+inefficiencies. Non-contributors to
+the private pension system creates a
+future risk.
+Finally, there continue to be areas
+in which are isolated and lack basic
+services. The main deficiencies are
+in housing and education. Rural
+areas have special needs in
+infrastructure
+
+Service Delivery
+Improvement to the responsiveness
+and capacity of local agents to provide
+targeted social programs and improve
+management of universal education
+and basic health
+Oualitv
+Reform of the health care system
+providing protection against critical
+health crisis, within a financially
+sustainable framework
+Continued implementation and
+consolidation of improvements in
+education system
+
+Coverage of targeted program
+increases from 32 %to 50 %
+for family allowances and
+from 3 %to greater than 5 %
+for child-care.
+Participation in private
+pension plans increases from
+62% to 75%
+Health care reform which
+addressed quality, equity and
+solidarity adopted.
+Standard test score for 8h
+grade in mathematics and
+Spanish in municipal schools
+increased respectively by 5
+percent.
+
+Coveraee
+Rationale framework for social
+programs focusing on managing risks,
+especially for the aged and those
+unemployed or with very low
+incomes, and youth at risk
+Increase participation in private
+pension funds
+Extend services in rural areas for
+electricity and telecommunications
+
+Regional disparities reduce in
+terms of access to basic
+services for rural populations
+-
+
+water from 65% to
+75%
+
+-
+
+electricity from
+
+75% to 90%
+Reduce gap in poverty levels
+between regions and groups
+from >50% to <50%
+Further empowerment of
+schools and local
+administration in education.
+Expand access by poor
+women to reproductive health
+services
+
+Ficha CAS system improved
+for targeting social
+programs.
+Systemic approach adopted
+for managing social risks.
+Advice reflected in the
+recommendations of the
+Health Reform Commission.
+Explicit programs for social
+programs included in
+municipal agenda with pilots
+in place in target
+municipalities
+Rural services - electricity,
+water and
+telecommunicationsexpanded according to plan
+in target areas
+
+ESW
+Catastrophic Health Care (00)
+Policy Notes/Poverty
+Assessment (01)
+Social Risks and Protection
+(02)
+Rural Infra. Services (04)
+Poverty Update (05)
+Other nonlending/TA
+Health Reformn
+Lending
+SAUDDO (03)
+Rural
+Electrification/Infrastructure
+(with GEF) (04)
+Strengthening Local
+Institutions (05)
+Sunervision
+Second Municipal
+Development
+Global Programs
+Info-Dev (Tele-centers)
+Distance Leaming
+Carbon Fund Prototype
+
+IDB is planning to provide
+assistance for housing,
+community development for
+indigenous groups,
+
+Annex B9
+Page 3 of 3
+
+3.
+Diagnosis
+
+Chile ranks very high in public
+sector institutional capacity and in
+other indicators of govemance,
+probity and judicial security.
+However, there are vestiges of the
+former military rule which still
+have not been overcome, many
+functions remain highly
+centralized, and the relative
+strengthens and roles of local and
+regional levels of govemment are
+evolving towards more
+decentralization.
+Like many countries, Chile too can
+take advantage of technology to
+make public services more
+responsive, transparent and
+efficient. Finally, discrepancies in
+the quality and access to services
+can vary widely depending on
+location and population
+characteristics (especially for
+indigenous groups).
+
+Strategy/Actions
+
+Modernization of the State
+
+Country Performance
+Indicators
+
+Self-Evaluation Indicators
+
+Real time integrated financial
+information available
+
+Real time information
+available and performance
+measures publicly available.
+
+World Bank Group
+
+Core Manaaement Functions
+Develop modem, integrated
+management system able to cope with
+decentralized agencies
+Public-Private Participation
+Expand the array of opportunities for
+private participation in non-traditional
+areas, such as hospitals and jails.
+
+Performance based
+management system in place
+with access by public.
+More flexible, performance
+based regimes in place to
+manage HR function in public
+sector.
+
+Decentralization
+
+Equity-need based criteria
+adopted for allocation of
+central funds to
+municipalities.
+Gender and indigenous
+concems introduced in
+municipal prograns.
+
+Redefine role for regional
+govemments
+
+Increase in share of public
+funding managed by regions
+following explicit criteria.
+
+Municipalities connected to
+distance learning.
+
+Strengthen capacity of municipalities
+to carry out their functions,
+particularly social services
+
+Private participation in nontraditional services
+introduced.
+
+Pilot program of private
+hospital management in
+place.
+
+Transparency and Accountability
+
+E-govemment
+established/number of virtual
+information centers; core
+public records available
+electronically
+
+Facilitate information access, across
+segments of society and civil society
+participation.
+
+Instruments
+
+ESW
+Policy Options/Poverty
+Assessment (01)
+Social Risks and Protection
+(02)
+Fiduciary Assessment (03)
+Poverty Update (05)
+Other nonlendinglTA
+Support for association of
+municipalities in indigenous
+areas.
+Support to incorporate gender
+in municipal programs.
+Private participation in
+Public services
+Lending
+Public Expenditure
+Management (02)
+SAL/DDO (03)
+Strengthening l.ocal
+Institutions (05)
+Supervision
+Second Municipal
+Development (99)
+Global Proerams
+Distance Lann
+
+Major Related Activities of
+Other Donors
+
+IDB is providing support to
+strengthen the Accounting
+General's Office. It is also
+providing assistance to
+improve understanding by
+public services of the needs of
+indigenous groups and
+partnerships between civil
+society and the public service.
+The IMF is advising on
+transparency of public
+accounts.
+
+Annex B10
+Page I of I
+
+CAS Annex B10 - Chile
+CAS Summary of Development Priorities
+As of Date 12/12/01
+Country
+Network area
+
+Major issue b
+
+performance a
+
+Country
+
+Bank
+
+Reconciliation
+
+Prioirty
+
+priorityc
+
+of country and
+Bank priorities d
+
+Poverty Reduction & Economic
+Management
+Poverty reduction
+Economic policy
+Public sector
+Gender
+
+excellent
+excellent
+good
+good
+
+sustaining rapid growth
+sustaining rapid growth
+HR mgt, local capacity
+participation
+
+high
+high
+high
+high
+
+high
+moderate ongoing dialog, advisory services
+high
+high
+
+Human Development Department
+Education
+Health, nutrition & population
+Social protection
+
+excellent
+good
+good
+
+adult skills
+equity and efficiency
+coverage
+
+high
+high
+high
+
+high
+high
+high
+
+Environmentally & Socially
+Sustainable Development
+Rural development
+Environment
+Social development
+
+good
+good
+fair
+
+regional disparties
+natural resource mgt
+indigenous, participation
+
+high
+high
+high
+
+high
+high
+moderate
+
+SMEs
+sustainability
+private participation
+
+high
+high
+high
+high
+
+low
+FSAP, ICF selective
+moderate advisory services, IFC selective
+moderate ongoing dialog, IFC selective
+moderate advisory services, IFC selective, ongoing dialog
+
+Finance, Private Sector & Infrastructure
+Financial sector
+excellent
+Private sector
+excellent
+Energy & mining
+good
+Infrastructure
+good
+
+IDB
+
+a. Use "excellent," "good," "fair," or "poor."
+b. Indicate principal country-specific problems (e.g., for poverty reduction, "rural poverty;" for education, "female secondary completion;" for environment, "urban air pollution").
+c. To indicate priority, use "low," "moderate," or "high."
+d. Give explanation, if priorities do not agree; for example, another MDB may have the lead on the issue, or there may be ongoing dialogue.
+
+P
+
+I
+
+F
+
+i
+
+1
+-;@ -2
+
+sI .,
+
+1'
+
+1
+
+v
+
+b.;4
+__ > - --
+
+i - -
+
+jlf
+
+l;
+
+/
+
+_
+
+,.1,1
+
+0
+
+.
+
+J
+
+r-
+
+w
+
+.
+
+|
+
+_
+
+i
+
+/
+
+,,,,
+
+Z
+
+J
+
+-
+
+[X 1 ! /
+
+l
+*>H.~h;R,__,rt
+
+,
+
+s
+
+v
+
+lOIJldeJe
+
+',I...
+- 1-\
+
+t
+|
+
+rC
+tJ t; j 1 -. .4, ;11 1 1 Yr Wi kiF - 5 ( iprc. -~~~~~~~~~~~~~~
+
+^0L~~2>:
+t
+
+-fJjAjA,T,
+
+F
+
+X
+
+{>:
+
+WO
+
+K 1\fi^SA
+
+5t
+^'J'''
+
+E
+
+br-,:l
+
+SS
+l,l~~~L
+l E r.,>, t stS
+
+...............
+
+C
+
+HIL E;
+
+rLlh | _
+
+l
+
+'
+
+~~~~~~
+
+;nl
+sPr.
+or.41:f
+joNilrsC
+;_
+>I
+enXIaF:
+(,
+
+

@@ -1,0 +1,5469 @@
+Public Disclosure Authorized
+
+Document o f
+the World Bank
+
+FOR OFFICIAL USE ONLY
+
+INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT
+AND INTERNATIONAL FINANCE CORPORATION
+
+COUNTRY PARTNERSHIP STRATEGY
+FOR
+
+Public Disclosure Authorized
+
+Public Disclosure Authorized
+
+Public Disclosure Authorized
+
+Report No. 29412-KZ
+
+THE REPUBLIC OF KAZAKHSTAN
+
+August 10,2004
+
+Central Asia Country Unit
+Europe and Central Asia Region
+
+This document has restricted distribution and may be used by recipients only in the performance
+of their official duties. I t s contents may not otherwise be disclosed without World Bank
+
+authorization.
+
+The date of the last Country Assistance Strategy was February 8,2001
+
+CURRENCY EQUIVALENTS
+(As of July 15,2004)
+
+Currency Unit = Tenge
+US$1= 135.37 Tenge
+
+FISCAL YEAR
+
+(January 1 to December 31)
+
+ABBREVIATIONS AND ACRONYMS
+ABP
+ADB
+CAS
+CEB
+CEM
+CIS
+CPI
+CPS
+CY
+EBRD
+ECA
+ESW
+FDI
+GDP
+GEF
+GOK
+HBS
+IDF
+IFC
+IBRD
+
+Annual Business Plan
+Asian Development Bank
+Country Assistance Strategy
+Eastern Europe and Baltics
+Country Economic Memorandum
+Commonwealth o f Independent
+States
+Consumer Price Index
+Country Partnership Strategy
+Calendar Year
+European Bank for
+Reconstruction and Development.
+Europe and Central Asia
+Economic and Sector Work
+Foreign Direct Investment
+Gross Domestic Product
+Global Environment Facility
+Government o f Kazakhstan
+Household Budget Survey
+Institutional Development Fund
+International Finance Corporation
+International Bank for
+Reconstruction and Development
+
+Vice President
+Country Director
+Country Manager
+Team Leader(s)
+
+IPSED
+IsDB
+JEW
+MEBP
+
+MIGA
+MOF
+MTFF
+NFRK
+
+NGOs
+OSCE
+PEIR
+PEP
+R&D
+SEE
+SOE
+TCA
+VAT
+WBG
+WTO
+
+IBRD
+Shigeo Katsu
+Dennis de Tray
+Loup Brefort
+Pedro Rodriguez/Anthony Cholst
+
+Indicative Plan o f Social and
+Economic Development
+Islamic Development Bank
+Joint Economic Research Program
+Ministry o f Economy and Budget
+Planning
+Multilateral Investment Guarantee
+Agency
+Ministry o f Finance
+Medium-Term Fiscal Framework
+National Fund o f the Republic o f
+Kazakhstan
+Non-governmental Organizations
+Organization for Security and
+Cooperation in Europe
+Public Expenditure and
+Institutional Review
+Private Enterprise Partnership/IFC
+Research and Development
+Southern Europe
+State-owned Enterprise
+Technical Cooperation Agreement
+Value Added Tax
+World Bank Group
+World Trade Organization
+
+IFC
+
+Asaad Jabre
+
+Khosrow Zamani
+Gorton de Mond
+
+FOR OFFICIAL USE ONLY
+COUNTRY PARTNERSHIP STRATEGY
+TABLE OF CONTENTS
+EXECUTIVE
+SUMMARY .............................................................................
+
+i
+
+I.
+
+THE COUNTRY CONTEXT.........................................................................................
+
+1
+
+I1. THEGOVERNMENT’S
+DEVELOPMENT
+PROGRAM......................................................
+
+4
+4
+6
+
+I11.
+LESSONS
+FROM PASTWORLDBANKEXPERIENCE
+...............................................
+The Last CAS...............................................................................................................
+
+6
+6
+7
+
+THECOUNTRY PARTNERSHIP STRATEGY.............................................................
+
+8
+8
+9
+10
+11
+12
+12
+
+Meeting These Objectives: The Four Pillars ..............................................................
+Assessment ..................................................................................................................
+
+Lessons Learned ..........................................................................................................
+
+I V.
+
+Overall Approach ....................................
+...................................................................
+Areas ofEngagement ..................................................................................................
+Guidelines for Bank Involvement ..............................................................................
+Partner Institutions ...................................................................................................
+Central Asia Regional Strategy ................................................................................
+Consultation Process ................................................................................................
+~
+
+V.
+
+Risks ...........................................................................................................................
+erenitworthiness .......................................................................................................
+
+RISKS
+AND CREDITWORTHINESS ............................................................................
+
+13
+13
+14
+
+CONCLUDING REMARKS
+....................................................................................
+
+15
+
+V I.
+
+Annexes
+
+Annex 1: Kazakhstan Country Partnership Strategy .
+Bank Engagement .......................
+Annex 2: Selected Indicators o f Government’s Program Effectiveness ...........................
+Annex 3: Millennium Development Goals in Kazakhstan ...............................................
+Annex 4: Consultations with C i v i l Society.......................................................................
+
+16
+21
+22
+24
+
+CPS Annex Tables
+CPS Annex Table 1: Key Economic & Program Indicators .Change from Last CAS .... 28
+CPS Annex Table 2: Kazakhstan at a Glance ................................................................... 29
+CPS Annex Table 3: Selected Indicators o f Portfolio Performance .................................
+31
+CPS Annex Table 4: Kazakhstan Social Indicators .......................................................... 32
+CPS Annex Table 5: Kazakhstan .Key Economic Indicators.......................................... 33
+CPS Annex Table 6: Kazakhstan .K e y Exposure Indicators........................................... 36
+38
+CPS Annex Table 7: Status o f Bank Group Operations in Kazakhstan ...........................
+CPS Annex Table 8: (IFC) for Kazakhstan ...................................................................... 38
+
+This document has a restricted distribution and may be used by recipients only in
+the performance o f t h e i r official duties I t s contents may n o t be otherwise disclosed
+without W o r l d B a n k authorization .
+
+.
+
+_-
+
+Text Tables, Figures, and Boxes
+Table 1: Kazakhstan Selected Economic Indicators, 1999-2004 ........................................
+Table 2: Kazakhstan: Poverty Rates in 2002 ......................................................................
+
+2
+3
+
+..
+
+Figure 1:Progress in Transition. ..................................................................
+2
+Figure 2:Kazakhstan's Public Debt, Gross Reserves, and Assets in the National Fund.. .14
+B o x 1: A Project Relationship - The Syr-Darya Project.. ....................................
+7
+
+ACKNOWLEDGEMENTS
+The W o r l d Bank Group greatly appreciates the collaboration and contributions o f the
+Kazakhstan government in the preparation o f this Country Partnership Strategy (CPS),
+particularly during the brainstorming session held last February in Geneva, Switzerland.
+The contributions o f those consulted during t h i s process, which included academicians,
+policy practitioners, and experts from the United States, Ireland, Poland, and the
+Netherlands are acknowledged and appreciated. In Kazakhstan, the W o r l d Bank Group
+consulted with representatives o f academic institutions, business associations, nongovernment organizations, the private sector and development partners.
+Other contributors to the preparation o f this CPS include MessrsMmes: Ainoura
+Alzhanova, Benoit Blarel, L i l i a Burunciuc, Gorton D e Mond, Is& Froumin, Irina
+Galimova, Natalya Gosteva, Maurizio Guadagni, Elena Karaban, Johnathan Kamwala,
+Henry Kerali, Motoo Konishi, Piotr Krzyzanowski, Valerian Khagay, Aitolkyn
+Kourmanova, James Christopher Lovelace, A k i k o Maeda, Jessica Mott, Helga Muller,
+Samuel Otoo, Aslan Sarinzhipov, Ilyas Sarsenov, Sarosh Sattar, M a d i Umbetaliyev, Tunc
+Tahsin Uyanik, Nancy L. Vandycke, Katelijn Van den Berg, and Alfred J. Watkins who,
+together with the Country Director, Country Manager, and CPS TTLs, comprise the core
+team.
+
+EXECUTIVE SUMMARY
+This Country Partnership Strategy (CPS) has been developed in close
+collaboration with the Government o f Kazakhstan to ensure that it responds to the
+country’s emerging development objectives and to i t s rapidly changing economic and
+social conditions. Financing will not be the primary relationship driver for this CPS.
+Rather, the Bank will use i t s international knowledge and experience to help Kazakhstan
+build a modern, rapidly growing and diverse economy that improves the welfare o f all i t s
+citizens and especially the poor. This CPS builds o n and extends the flexible approaches
+recently developed elsewhere in the Bank for other Middle-Income Countries.
+1.
+
+..
+
+The strategy set out in the CPS takes as i t s starting point the country’s large and
+growing energy income. Utilizing these funds effectively will challenge the country’s
+macroeconomic management as w e l l as its implementation capacity. The CPS sets out a
+program that will assist the Government in meeting these challenges in an environment
+where the need for external financing is minimal.
+11.
+
+iii. The next phase o f the relationship between the Government and the Bank will
+build o n the Joint Economic Research Program (JEW), an innovative approach to nonlending services under implementation for the past two years. The J E W i s cofinanced by
+
+the Government and i t s content is agreed to annually in parallel with the Government’s
+regular planning and budget cycle. This has ensured that the analytic and advisory
+services provided are relevant to the country’s needs, enhance country ownership, and
+give greater visibility to the Bank throughout the government.
+
+The Government’s Program: Kazakhstan has set the following m a i n goals:
+iv.
+achieving international standards for public services and enterprises over the next decade
+and a half, and increasing the competitiveness o f i t s tradable non-oil sectors. The
+Government plans to accomplish these goals through four pillars: (I)managing the oil
+windfall and improving public institutions and policies, (2) developing an appropriate
+role for the government to foster competitiveness and facilitate business, (3) investing in
+human capital and infrastructure, and (4) safeguarding the environment.
+v.
+The Partnership:The CPS i s grounded in the Bank’s recognition that it needs to
+adapt its business model to Kazakhstan’s development agenda, and the Government’s
+recognition that the Bank brings much more than financial resources to the table. The
+CPS takes as i t s starting point the four pillars o f the Government’s strategy, outlines in
+broad terms the Bank’s analytical and operational areas o f interest for the next year and
+suggests areas o f possible future interventions. Details o f the Bank Group program in
+Kazakhstan will be set out each year in an Annual Business Plan (ABP). The ABP will be
+developed in parallel with the Government’s annual planning and budget processes to
+ensure that the Bank is fully in step with Kazakhstan’s development agenda.
+vi,.
+World Bank Group Analytic Work: Based o n the positive experience o f the
+past two years, Kazakhstan has requested that the JEW be extended for another three
+years. For 2005, consultations carried out by the Ministry o f Economy and Budget
+Planning with government agencies l e d to a request for studies o n poverty,
+competitiveness, WTO accession, public expenditures and institutions, health, education,
+transport, and environmental programs, as w e l l as work o n regional water-energy
+arrangements. To supplement this program, The World Bank Institute (WBI) has been
+
+Pane i i
+
+Kazakhstan Country Partnership Stratem
+
+providing support through workshops o n local government and competitiveness. The
+International Finance Corporation (IFC)will continue to provide technical assistance o n
+the development o f leasing and mortgage markets.
+
+World Bank Group Operations: The Government recognizes that IBRD’s
+involvement in project preparation and supervision can transfer knowledge and skills in
+ways that a research program alone cannot accomplish. Accordingly, the F Y 0 5 ABP
+includes four projects in agriculture, water management and environment that are
+expected t o b e approved in the coming 18 months. Kazakhstan will also benefit from the
+Central Asia regional program in HIV/AIDS. Areas o f fbture project development will be
+discussed in the context o f the 2006 ABP.
+
+vii.
+
+...
+
+viii.
+Given the country’s resource position, substantial Government cofinancing will
+be the rule for most projects. In keeping with the need for quick response, projects would
+be designed for delivery within twelve months whenever possible. T o this end,
+Kazakhstan has committed to simplify internal processes. As the Government’s fiduciary
+systems are not yet consistent with international standards, the Bank’s procurement and
+financial guidelines will continue to apply.
+
+IFC will complement this program through ongoing support to the financial sector
+xix.
+for institution building and, when possible, with investments to promote the development
+o f micro and small business enterprises, and larger investments in manufacturing,
+construction materials, infrastructure, and the service sector. Technical assistance and
+financing to support local suppliers o f goods and services to the rapidly growing o i l and
+gas sector will be also considered.
+x.
+Guidelines for Engagement and Risk Management:The flexible nature o f the
+CPS creates a need for clear guidelines as to when and where the Bank should be
+engaged in Kazakhstan. Based o n Kazakhstan’s financial circumstances and its
+defensible development agenda, the first basis for any engagement must be demand by
+Kazakhstan. However, o n i t s side the Bank must ensure that i t s work in Kazakhstan
+serves the institution’s broader goals and meets institutional standards. For this purpose,
+management will regularly monitor both reforms and the environment into which Bank
+resources are placed. The CPS includes a set o f indicators that will be used to assess
+progress in k e y policy areas. The Bank will also regularly assess the extent t o which its
+policy recommendations inform Government policy and whether Bank-financed projects
+are being effectively implemented.
+
+The CPS framework i s designed to remain in force until such time as i t is no
+xi.
+longer relevant. “Relevance” will be assessed against three criteria: the demand for the
+Bank’s services; the Bank’s value-added to the development process; and, Kazakhstan’s
+overall policy environment. Were the program to fall short in one or more o f these areas,
+a new strategy would be prepared and presented t o the Board. To demonstrate the
+fiamework’s continued relevance, Management will provide the Board with a brief
+progress report every 2-3 years.
+xii.
+
+Board Members m a y wish to discuss the following aspects:
+0
+
+0
+
+Does the CPS - including the JEW and the ABP - appropriately respond to
+Kazakhstan’s needs, balancing flexibility with accountability?
+
+A r e the suggested guidelines for engagement adequate?
+
+Page 1
+
+Kazakhstan Country Partnership Strategy
+
+Republic of Kazakhstan
+Country Partnership Strategy
+1.
+The last Country Strategy for Kazakhstan was presented to the Board o n February
+8,2001. Prepared in the aftermath o f the regional financial crisis, the strategy rapidly
+became outdated as o i l output and prices rose, growth took off, fiscal performance
+improved, and foreign borrowing dramatically declined. A s a result, o f the twelve
+envisaged operations, only three were processed. This Partnership Strategy is designed to
+avoid the problems o f the last CAS by ensuring that the Bank’s program i s aligned with
+the Government’s development agenda and also with its decision making process.
+I.
+
+THECOUNTRYCONTEXT
+
+2.
+Kazakhstan has made significant progress since the break-up of the Soviet
+Union in i t s nation building efforts. I t has developed an active legislature, albeit with
+limited political diversity, and an emerging judiciary system. At the same time, its
+political institutions are still developing. Power rests mainly in the executive, and towards
+the end o f the 1990s some c i v i l and political liberties were curtailed. These
+developments, and a widespread perception o f corruption, have tarnished the country’s
+strong economic reform record. Nevertheless, dialogue t o improve voice and
+participation is ongoing, and the Government has indicated its intention to continue the
+process o f democratization, decentralization, and the development o f c i v i l society
+institutions. The upcoming Parliamentary elections in October will be a test o f this
+1
+process.
+
+The Country’s recent economic performance has been impressive and i t s
+3.
+reform record i s among the best in the CIS. Growth has been buoyant at about 11
+percent o n average since 2000, with income per capita expected to be above $2000 this
+year, 65 percent higher than in 2000. Growth has been driven mainly-but not
+exclusively-by o i l production and o i l prices. M a n y industries, including electricity,
+food, construction, and banking, have rebounded strongly thanks to structural reforms,
+economic stability and demand generated by o i l revenues. The country’s public and
+private savings levels have increased steadily since 1998, providing the base for a
+sovereign investment grade rating by two international rating agencies. Commercial bank
+deposits have grown steadily, signaling public confidence in the financial sector and the
+supervision authorities. Public debt i s low, and the bulk o f private debt is tied to FDI in
+the o i l sector. FDI flows since 1999 have been significant (amounting t o 9 percent o f
+GDP o n average), mostly to the o i l and other extractive sectors (Table 1).
+
+4.
+Kazakhstan has also achieved a great deal in terms of structural policy
+reform in privatization, the financial sector, pensions, public resource management,
+and the energy sector. The country’s economic activity over the past few years has been
+driven almost exclusively by the private sector, with nearly three-quarters o f all
+investment carried out by private companies. In 2001 the authorities established the
+OSCE felt that the January and October 1999 elections fell short o f commitments. Since then, OSCE has
+initiated a series of round tables to offer assistance in improving the electoral legislation in Kazakhstan, a
+process that i s s t i l l under way. OSCE i s also actively contributing to the process o f improving media
+legislation in Kazakhstan. (See: www,osce.org/almaty.)
+
+Kazakhstan Countw Partnership Stratem
+
+Pane 2
+
+National Fund o f the Republic o f Kazakhstan, which has now accumulated nearly $4
+billion in oil revenue savings. The fund has facilitated monetary and fiscal policy, and
+represents an important step towards revenue transparency.2 The fund i s independently
+audited and managed, and no expenditures out o f it have taken place to date.
+
+(see Figure 1). Most o f the countries
+that rank ahead o f Kazakhstan are to
+
+1
+
+3,50.
+
+CEB
+
+2
+
+6.
+Prospects f o r t h e f u t u r e a r e bright, but they depend on h o w w e l l t h e
+Government manages o i l revenues. O i l production i s expected to double from 1 to 2
+million barrels per day by the end o f this decade, and to continue to increase through
+
+Kazakhstan participated in the June 2003 conference which issued the statement o f principles for the
+Extractive Industries Transparency Initiative, but has not yet developed a specific plan to follow up o n this.
+
+2020.3 As history has shown, managing these flows presents the Government with a
+number o f challenges. While real exchange rate appreciation will be unavoidable over the
+medium term, appreciation would be accelerated if public and private spending out o f o i l
+revenues creates excessive demand pressures, undermining the competitiveness o f nono i l tradable sectors. Exchange rate volatility driven by fluctuations in o i l prices and
+public investments would be a further blow to development o f tradable sectors. In
+addition to managing these macroeconomic pressures, the Government must balance
+pressing development needs against limited implementation and absorptive capacities.
+
+7.
+Moreover, the time has come to spread the benefits of growth and oil
+revenues throughout the population. A recent living standards survey indicates that for
+a $4.30 purchasing power parity (PPP) poverty line, the 2002 poverty headcount was
+about 35 percent (15.4 percent for a basic needs consumption basket), although many
+people are at income levels just above these poverty lines. Pension and social protection
+reforms, combined with continued growth in non-oil sectors and a fall in unemployment,
+have reduced income poverty over the last few years, although at a slower pace than
+might have been expected o n the basis o f international experience. However, non-income
+dimensions o f poverty -- for example, overcrowded living conditions and educational
+attainment -- affect an additional 28 percent o f the population.
+Table 2: Kazakhstan: Poverty Rates in 2002
+Poverty line
+
+Basic needs
+
+Poverty rate (YO)
+Kazakhstan
+
+15.4
+
+$l.O75PPP/dayIcap.
+
+0.2
+
+$2.15PPPlday/cap.
+
+3.5
+
+$4.30PPPldaylcap.
+35.1
+Source: 2004 Poverty Assessments for Kazakhstan, W o r l d Bank.
+
+Social indicators such as infant and maternal mortality are generally below
+8.
+those in other ECA countries, and vary greatly by oblast and income. H a l f o f the
+young adults (25-29 year olds) have a secondary degree o r less, and 11 percent have
+incomplete primary schooling. The quality o f social services and infrastructure (piped
+water, sewerage, and primary medical services) i s w e l l below the country’s o w n
+aspirations, especially in rural areas. Even in urban areas, the poorest households are
+much less likely to be connected to central services and, when connected, to have less
+reliable service than the better off. The country’s HIV/AIDS prevalence rate (less than
+0.2 percent) is l o w in international terms but i s increasing. Kazakhstan also bears a TB
+burden, with 50,000 cases o f active TB registered in 2001.
+9.
+Regional disparities within Kazakhstan in social outcomes are of great
+concern and are not easily addressed. The challenge is one o f supplying services to a
+relatively small population o f 15 m i l l i o n people dispersed over a territory roughly the size
+o f India. The authorities must also deal with a legacy o f environmental liabilities,
+Many factors can affect the amount of revenues accruing to the govemment, including projected profiles o f o i l output,
+extraction and transportation costs, world prices, discount rates, and retums on altemative investments. Kazakhstan’s
+output profile is determined mainly by three fields: Kashagan (operated by ENI), Tengiz (operated by ChevronTexaco), and Karachaganak (operated by British Gas and ENI).
+
+Page
+4
+
+Kazakhstan County Partnership Stratem
+
+including water contamination, radioactive materials, and desertification, many o f which
+are located in the poorest areas o f the country.
+
+10.
+Kazakhstan’s prospects for meeting the Millennium Development Goals are
+not encouraging. According to work done by the UNDP, overall poverty i s likely to
+halve by 2015, but the targets for child mortality, maternal health, H I V / A I D S and access
+to improved water sources are not likely to be reached by 2015, in part because o f
+regional disparities and the challenge o f supplying services over such a vast territory (see
+Annex 3).
+11.
+
+THEGOVERNMENT’S
+DEVELOPMENT
+PROGRAM
+
+Over the past several years the Government of Kazakhstan has created a
+11.
+vision for i t s future built around two key goals: to become a full member o f the global
+economy through the adoption o f international standards for its productive, financial and
+public sectors and to diversify the economy away from o i l and minerals.
+
+12.
+The elements of a program to achieve these goals were outlined and
+reinforced in the President’s Address to the Nation in M a r c h 2004 and can be traced
+back to earlier indicative plans.4 While early statements equated competitiveness and
+diversification with “industrialization,” more recently the roles o f competition,
+investment climate, institutions, human capital, basic infrastructure, and environment
+have received increased emphasis.
+Meeting These Objectives: The Four Pillars
+T o reach these objectives, a four-pronged policy agenda i s being designed and
+13.
+implemented:
+
+Pillar 1:Reducing losses in competitiveness
+
+through prudent management of the o i l
+windfall and increasedpublic sector efficiency.
+
+The Government’s Medium-Term Fiscal Framework (MTFF), the three-year
+14.
+rolling plan approved with each annual budget, has focused o n the optimal size o f the
+NFRK, the level of public spending and non-oil deficit, and ways to increase government
+spending efficiency. One aspect o f this agenda i s the Government’s commitment to
+increase transparency in o i l revenue management. The first step in this process was taken
+in 2001 with the establishment o f the NFRK, whose parameters are currently being
+reviewed. A s highlighted in the President’s address to the nation, there i s a strong
+commitment to improve the professionalism o f government officials (building o n reforms
+supported by the IBRD earlier), reduce corruption opportunities, and improve service
+delivery.
+
+See the address o f the President to the Kazak Nation: To a CompetitiveKazakhstan, a Competitive
+Economy, and a CompetitiveNation, Astana, March 19, 2004; the Prime Minister’s main formal statement
+last year (the Indicative Plan o f Social and Economic Development for 2004-2006); and earlier 10- and 20year indicative programs.
+
+Kazakhstan Country Partnership Stratem
+
+Paae 5
+
+Pillar 2: Promoting competitiveness by strengthening the government's
+
+identifi and reduce barriers to businesses and private investors.
+
+capacity to
+
+15.
+T o ensure sustainable economic diversification, the Government i s committed to
+maintaining its liberal trade stance and to measuring the success o f its non-oil companies
+against their presence in world markets and their competitiveness relative t o imports.
+WTO accession and greater regional cooperation, particularly in areas such as
+infrastructure, customs and trade facilitation, are seen as vehicles to help Kazakhstan
+firms link into global value chains.
+
+A 2003-2015 Industrial Innovation Program, approved last summer, has been
+16.
+reinforced by a Small and Medium Enterprise Development Program. These programs
+encourage investments in non-oil sectors by reducing licensing and inspections, fostering
+greater linkages between the o i l and non-oil sectors, and providing assistance to meet
+international standards and increase R&D. State institutions have been created to support
+these objectives, including Innovation and Investment Funds, Marketing and Research
+and Technology Transfer Centers, and the Kazakhstan Development Bank. In addition,
+Rural Development and Food Security Programs focus o n enhancing rural productivity in
+agricultural and non-agricultural activities, and o n helping farmers to introduce improved
+food standards.
+
+Pillar 3: Building thefoundation for future
+capital and basic infrastructure.
+
+competitiveness by investing in human
+
+17.
+Recently, consensus has been reached in the Government that t o achieve its longterm vision capital and labor productivity must be enhanced. The agenda i s ambitious. I t
+aims first to maximize the transit potential in Kazakhstan and lower the cost o f moving
+goods and services through the reform o f railways, road management, customs
+administration, telecommunications and electricity markets. The agenda also includes the
+modernization o f the health, water and sanitation, and education systems. A
+comprehensive reform program for education has been prepared, and a similar program
+for health i s expected in the near future.
+
+Pillar 4: Ensuring future
+mitigated
+
+growth w i l l not harm the environment and past liabilities are
+
+18.
+Kazakhstan inherited significant environmental liabilities related to past military,
+industrial and mining activities, land degradation and desertification, and water scarcity.
+The National Environmental Action Plan for Sustainable Development prepared in 1999
+sets out some remedial investments that are n o w being undertaken by the Government.
+The authorities are reassessing and updating the environmental agenda t o prevent
+additional environmental damage resulting f r o m the economic exploitation o f the
+country's vast natural resources, continue to ameliorate past environmental damage, and
+putting in place systems t o monitor the environmental impact o f f i t u r e investment and
+growth (e.g. recasting national accounts). This will include introducing international
+practices in establishing cost-effective and sustainable environmental remediation
+
+strategies in k e y sectors and regions in Kazakhstan, addressing both technical as well as
+institutional aspects.
+
+Assessment
+The Government has established an agenda for transitioning to a modern
+19.
+economy that deserves the support of the internationalcommunity. There i s a risk,
+however, that the country’s o i l wealth will reduce incentives for reform and undermine
+the sense o f urgency and political commitment needed to carry out this difficult agenda.
+This risk i s underscored by an ongoing debate over the role o f the Government in a new
+Kazakhstan between those who support free-market approaches and those who favor
+various forms o f state intervention supported by growing budget resources.
+T o mitigate these dangers and to increase the likelihood o f achieving its goals, the
+20.
+Government i s focusing on:
+0
+
+0
+
+Institutional Implementation Capacity. The quality o f human resources at the
+highest levels o f government, the central bank, and public enterprises is good.
+However, capacity below these upper echelons, and in the line ministries and
+local governments, essential ‘transmission belts’ for government policy, i s
+generally recognized as weak. Moreover, competition from a thriving private
+sector is draining the best skills away from the public sector.
+Public Credibility. The Government’s ability t o implement policies has been
+undermined by a perception o f widespread public sector corruption. This is
+evidenced by the recent World Bank Client Survey and Bank ESW,’ which
+identified corruption as among the most serious challenges facing the country.
+Concerns are growing over the capacity to spend for good results, particularly in
+areas where the policy framework is unclear and institutional capacity weak.
+
+2 1.
+An important element o f this agenda i s the devolution o f responsibilities to local
+governments in a way that increases checks and balances and accountability. Also
+important i s the strengthening o f public procurement, financial management, and public
+investment preparation, management and evaluation. Further reforms are needed as well
+in c i v i l service administration and in the legal framework and judiciary.
+
+111.
+
+LESSONS
+FROM PAST WORLD BANKEXPERIENCE
+
+The Last CAS
+The last country strategy (FYO1-03) sought to extend gains made under
+22.
+previous strategies, but circumstances changed quickly after 2001. Rapid growth,
+significant foreign investment, new o i l finds, rising o i l prices, and the resulting increases
+in domestic savings and fiscal resources led the Government to reduce foreign borrowing.
+The Bank’s traditional three-year CAS with its predetermined program o f Bank lending
+could not keep pace with the speed o f change in Kazakhstan. As a result, only 3 o f the 12
+’See World Bank Government and Service Delivery Survey, 2001 (Report No. 23257-KZ).
+
+Page 7
+
+Kazakhstan Countw Partnership Stratem
+
+planned projects were implemented. Inaddition, three critical projects under
+implementation - in health, judicial reform, and pensions - were closed early by the
+Government due to weak ownership in the line ministries involved.
+As a result, the Bank’s project portfolio fell from 13 projects at the beginning
+23.
+of the last CAS to 8 projects now, 5 of which are expected to close within the next 12
+months (see CPS Annex Table 7). The Bank’s analytic work was also prepared with little
+Government engagement, meaning that important studies on governance, growth and
+mining had limited impact. Inan era in which the client’s own resources gave it a choice,
+the Bank needed a new model o f engagement.
+Lessons Learned
+This CPS incorporates lessons from a wide range of reviews of the Bank’s
+24.
+Kazakhstan program, including Country Portfolio Performance Reviews (CPPRs), an
+OED Country Assistance Evaluation, a Client Survey, and, most recently, a QAG review
+of AAA.6The main findings o f these reviews are summarized below:
+0
+
+0
+
+0
+
+The Client Survey found that the Bank’s greatest value to Kazakhstan i s as a
+knowledge provider and facilitator o f reform. But the recent QAG review o f ESW
+indicated that long reports and lengthy
+preparation periods did not work well. The
+Box 1: A Project Relationship - The SyrDarya Project
+technical quality o f recent reports was rated as
+The investments in the Syr-Darya and
+Satisfactory, but Impact as only Marginally
+Northern Aral Sea project are complex, and
+Satisfactory. The QAG review confirms that
+World Bank involvement has clearly
+unless the Bank can deliver first-quality
+strengthened Kazakhstan’s ability to tap into
+analytic work quickly, i t will be unable to
+international best practices on construction
+techniques.
+engage the Government.
+The CPPRs showed that project design and
+implementationhave been significantly
+delayed by the complex environment in
+which government decisions are made. A
+key constraint in moving forward o n the
+CPPR agenda has been weak government
+ownership o f Bank-financed projects, a
+condition this partnership strategy should help
+alleviate.
+
+Discussions with the Government at the
+highest levels, most recently at a two-day
+brainstorming workshop in February 2004,
+indicate that there remains a strong demand
+for Bank support. W h i l e this demand relates
+mainly to the Bank’s ability to provide advice,
+
+However, the value-added
+o f Bank
+involvement lies not just with the financing,
+design, and construction o f facilities. Rather,
+the involvement o f the Bank Task Team and
+international experts with the Government on
+a regular and sustained basis over several
+years has provided real time hydrology
+analysis, strategic advice and international
+perspectives o n a wide range o f age-old
+problems: for example, on how to optimize
+the operations o f dams or how to better
+regulate the timing and storage o f water
+flows to reduce flooding.
+In addition, the non-financial contribution of
+the World Bank has proven significant in
+terms
+of
+implementation
+capacity,
+particularly in issues such as project
+management, procurement, and evaluation.
+
+See the 2001 CAS Evaluation Report (No. 21 862) and the 2002 Borrower’s Point o f View commissioned b y OED. A
+recent QAG Country AAA assessment found that non-lending activities undertaken from 2000 to mid-2003 were
+overall Marginally Satisfactory.
+
+Pare 8
+
+Kazakhstan Countrv Partnership Stratem
+
+the Government also recognizes that, when buy-in has been strong, Bank projects
+have provided knowledge transfer that goes well beyond what i s possible through
+analytic work alone (see B o x 1).
+
+IV.
+
+THECOUNTRYPARTNERSHIPSTRATEGY
+
+Overall Approach
+Building on these lessons and in line with recommendationsfrom the Bank’s
+25.
+Middle Income Country Task Force, this CPS sets out a new approach for the
+Bank’s engagement in Kazakhstan. This strategic framework accepts the Government’s
+development agenda, focuses o n a flexible business model that is synchronized with the
+Government’s o w n budget and decision making processes, outlines the broad areas in
+which the Government has asked the Bank to provide support, and indicates the
+instruments through which that support will be provided. An Annual.Business Plan will
+be prepared each year with the Government detailing the Bank’s analytic and lending
+operations for that year and identifying areas o f prospective engagement for future years.
+A key driver of the approach will be the Joint Economic Research Program
+26.
+(JERP), an innovative mechanism for planning and financing AAA work. Begun two
+years ago, the J E W i s an effort o n the part o f the Bank and the Government to strengthen
+the impact o f Bank analytical work. Under the JERP, the Government and the Bank agree
+to a program of AAA work to be co-financed by the Government and the Bank. Over the
+first three years of the program, the Government’s financing share is programmed to rise
+from 30 percent to 50 percent.
+
+This formal co-financing arrangement, unique in the ECA Region and possibly in
+27.
+the Bank, brings benefits that go w e l l beyond funding. The JERP ensures that Bank
+analytic work is aligned each year with Government priorities. Since the Government
+approves and co-finances each piece o f analytical work, client ownership i s not an issue.
+The JERP has also been effective in increasing the visibility o f the Bank beyond
+individual line ministries and in ensuring that the Bank delivers quality products in a
+timely manner. In an endorsement o f its value, the Government has requested that the
+JERP be extended for three years beyond FY05 and possibly increased in size.
+28.
+While the J E W i s a key driver of the CPS, the Government recognizes
+increasingly that the Bank’s involvement in project preparation and supervision can
+transfer knowledge and skills in ways that the J E W alone cannot accomplish.
+Accordingly, the Government and the Bank have agreed to include 4 projects in the FY05
+business plan (see Annex 1). Future lending will depend o n developing a consensus
+among the economic authorities, the line ministries and Parliament with respect to the
+value-added o f implementing investments in partnership with the Bank.
+
+29.
+
+In line with the Government’s demands, projects in Kazakhstan will need t o be
+designed for quick delivery, with preparation held to 12 months and implementation
+timetables to three years whenever possible. For its part, Kazakhstan has made a
+commitment to simplify intemal processes to speed up project approval and
+implementation. Given the Government’s healthy fiscal and foreign reserve positions, w e
+
+Page 9
+
+Kazakhstan Country Partnershiu Strategy
+
+anticipate significant Government co-financing for most projects. A s Kazakhstan’s
+fiduciary systems are not yet consistent with intemational standards, the Bank’s
+procurement and financial guidelines will continue to apply. Capacity building o n these
+k e y areas o f public resource management will be provided through the J E W ’ S first pillar
+and, if appropriate, through grants and lending.
+
+The strategy’s success will need to be measured not in terms o f loans but in
+30.
+terms of the value-added that Bank interventionsbring to Kazakhstan’s
+development agenda. A s the program i s demand driven, the Bank’s effectiveness will, in
+the first instance, be measured by whether or not the Government remains interested in
+continued involvement in the JERP and lending.
+Areas o f Engagement
+The authorities have requested that the World Bank remain engaged in each o f the
+3 1.
+four pillars o f the Government’s development strategy outlined in Section 11. I t has
+signaled that i t expects the Bank to provide global knowledge and intemational
+experience, t o give policy advice o n k e y strategic issues, to organize consensus building
+activities and debates, and to provide implementation support and capacity building.
+Details o f the FY05 program are in Annex 1, which also lists areas o f possible
+engagement beyond FY05. Instruments and areas o f focus are outlined below.
+Pillar 1 - Preventing loss o f competitiveness through appropriate macro and fiscal
+management.
+Instruments: M a i n l y analytic work, some lending possible, WBI involvement.
+Areas of fucus: Management of the o i l windfalls (including transparency in o i l
+revenues), and the Government’s MTFF, local and central governments capacity to
+absorb public spending, and addressing various levels o f corruption.
+FY05 ABP: Programmatic CEM, Programmatic PElR (JERP), Second Agricultural
+post-privatization project, and Agricultural competitiveness project (lending).
+Pillar 2 - Enhancing competitiveness and private business by building a supportive
+role for the state.
+Instruments: Analytic work, possibly some IBRD lending, main focus o f I F C
+activities.
+Areas of fucus: WTO accession and bilateral trade agreements, technology transfer
+and commercialization o f research and development, S M E development and linkages,
+and agricultural support policies (including quality and safety standards).
+FY05 ABP: WTO Accession TA (JERP).
+Pillar 3 - Building a foundation for competitiveness through strengthening human
+resources and infrastructure.
+Instruments: Analytic work and lending, some potential IFC involvement.
+Areas of focus: Health (including HIV/ALDS), education, basic services (water, heat,
+power), transport (including roads, and railway modernization).
+FY05 ABP: Education sector strategy, Health sector strategy, Transport sector
+strategy, Poverty Assessment Follow-up (JERP); Irrigation and drainage (lending)
+
+Page I O
+0
+
+Kazakhstan County Partnership Stratem
+
+Pillar 4 - Ensuring sustainable w o w t h through a focus o n the environment.
+
+Instruments: Analytic work and lending.
+Areas offocus: Consequences o f growth o n the environment, regional environmental
+
+issues.
+
+FY05 ABP: Environmental Strategy (JEW), Forestry and dry-land management.
+These activities are expected to have a significant impact on the development
+of Kazakhstan. Given the broad scope o f issues covered under the four pillars and the
+fact that activities beyond FY05 cannot be detailed, a list o f very specific expected
+outcomes i s not feasible. Rather, in a broad way, the impact o f the CPS o n the
+development o f Kazakhstan will be measured in terms o f the priorities the authorities set
+for their development agenda and the pace with which they increase government
+implementation capacity. Within each o f the four pillars, the impact will be measured by
+the degree to which the Bank promotes dialogue and debate around specific policy issues
+(e.g. WTO accession, intergovernmental finance, education and health systems,
+infrastructure maintenance, environmental management, etc.), addresses questions raised
+by the Government in real time, provides advice based o n the most relevant international
+experience and Bank’s understanding o f Kazakhstan’s circumstances, and provides handso n institutional support that i s embodied in our projects. The potential contribution o f the
+WBG t o each specific pillar is outlined further in Annex 1.
+
+32.
+
+33.
+Delivering this strategy will require the full participation of the W o r l d Bank
+Group. In particular, WBI will help deliver the knowledge transfer agenda in support o f
+the J E W . The International Finance Corporation (IFC) will contribute to the
+Government’s second and third pillars, especially in support o f the growth o f financial
+instruments for leasing and mortgages, technical assistance in corporate governance, and
+the development o f micro and small business enterprises. I F C will also consider a project
+to provide technical assistance and financing to local SMEs serving the rapidly growing
+o i l and gas sector. The Multilateral Investment Guarantee Agency (MIGA), whose
+outstanding portfolio in Kazakhstan consists o f three guarantee contracts (a US$8.3 net
+exposure), will look for possible new operations in non-oil sectors.
+
+Guidelines for Bank Involvement
+34.
+The flexible nature of the CPS creates a need for clear guidelines as to when
+and where - and for how long - the Bank should be engaged in Kazakhstan. Based
+o n Kazakhstan’s financial circumstances and its defensible development agenda, the first
+basis for any engagement must be demand by Kazakhstan. However, o n its side, the Bank
+must ensure that its work in Kazakhstan serves the institution’s broader goals and meets
+institutional standards. For this purpose, management will regularly monitor both reforms
+and the environment into which Bank resources are placed.
+35.
+The Bank will ensure that the environment into which Bank resources are
+placed meets reasonable standards o f policy direction and governance. This will
+require regular monitoring o f Kazakhstan’s overall reform efforts, particularly in areas
+such as macroeconomic and fiscal management, and the various aspects that could
+contribute to greater competitiveness, transparency, and governance. Outcomes (for
+
+Page 11
+
+Kazakhstan C o u n t q Partnership Strategv
+
+example, in diversification, competitiveness, and poverty reduction) will also need to be
+monitored. Annex 2 includes a set o f indicators, several generated by institutions other
+than the W o r l d Bank, which will be used to assess progress in these areas. The number o f
+these indicators has been intentionally kept small but their assessments will be checked
+against other evidence to ensure robustness. CPS Annex Table 4 provides a benchmark
+for social indicators.
+36.
+I n addition to monitoring performance indicators, the Bank will regularly
+review the Government's follow-up to the recommendations made through analytic
+work and in project preparation. The FY05 J E W i s expected to yield examples o f
+h o w the Bank and the Government can monitor and benchmark Kazakhstan's progress
+against other middle-income economies and EU countries, especially in areas such as
+social services delivery and the environment. The implementation o f Bank projects will
+also be closely monitored.
+
+37.
+
+The CPS framework i s designed to remain in force until such time as it i s n o
+longer relevant. "Relevance" will be assessed against three criteria: the demand for the
+Bank's services; the Bank's value-added t o the development process (as evidenced
+through contributions set out in Para 32 and Annex 1); and, Kazakhstan's overall policy
+environment (as evidenced by indicators noted in Para 35 and detailed in Annex 2). Were
+the program to fall short in one or more o f these areas, a new strategy would be prepared
+and presented t o the Board. T o demonstrate the framework's continued relevance,
+Management will provide the Board with a brief progress report every 2-3 years.
+
+Partner Institutions
+38.
+The W o r l d Bank i s working closely with other partner institutions, both
+multilateral and bilateral. Many o f these institutions are struggling with the same
+engagement issues that this CPS i s designed to address.
+
+The IMF has no program in Kazakhstan given the country's strong
+macroeconomic position. W e expect continued collaboration o n selected issues
+including oil-revenue management and the financial sector.
+The EBRD expects to remain engaged in the financial sector, oil, and
+infrastructure, including supporting reform and privatization in k e y state-owned
+enterprises through non-sovereign guarantee financing.
+The Bank has collaborated with, and will continue to collaborate with ADB,
+particularly in poverty monitoring, and in the health, education, and transport
+sectors.
+The Bank is also working with the UNDP, whose expertise o n the ground,
+particularly in the areas o f poverty, environment, health and education, i s highly
+relevant as i s evidenced by its recent assessment o f progress towards the
+Millennium Development Goals (see Annex 3).
+The EU has been working with the Bank o n such issues as WTO accession and
+agriculture, and this relationship i s expected to continue.
+DFID, USAID, CIDA, and the Netherlands have all begun t o phase out their
+development assistance to Kazakhstan, except for that provided through regional
+
+Pane 12
+
+Kazakhstan Countw Partnership Stratem
+
+programs. The United States still maintains a significant presence in support o f
+k e y institutions (the Chamber o f Accounts, the Central Bank, and Parliament),
+and the private sector (SMEs, standards). DFID i s engaged in efforts t o strengthen
+revenue transparency in the extractive industries and will be supporting the
+Bank’s regional program through the secondment o f a senior staff member to the
+A l m a t y regional office.
+
+Central Asia Regional Strategy
+
+39.
+Kazakhstan plays an important and positive role in many regional
+cooperation bodies and fora. I t has taken a number o f concrete steps towards regional
+cooperation, for example, applying the same railway tariffs to Kazakhstan and Kyrgyz
+Republic enterprises, facilitating road transport o n the Bishkek-Almaty corridor,
+compensating the Kyrgyz Republic for water service costs o n the transboundary Chui
+River, supporting the creation o f a regional Water-Energy Consortium for the Syr-Darya
+River.
+40.
+In support o f the regional agenda, the Bank has developed a Central Asia
+Regional Framework that was circulated to the Board in March 2004.7 This Framework
+discusses the constraints to and opportunities for greater regional cooperation and sets out
+an agenda for the Bank’s work o n regional issues over the next three to four years. The
+Government o f Kazakhstan’s request for the Bank to take a leadership role in regional
+water and energy issues demonstrates the reinforcing roles o f the Bank’s regional agenda
+and the Kazakhstan CPS.
+Consultation Process
+
+The consultation process with the Government began with a high-level
+41.
+meeting on Kazakhstan’s Development Agenda in Geneva in February 2004. The
+meeting brought together key Kazakhstan counterparts and a group o f ex-practitioners
+
+and academicians with experience relevant to Kazakhstan. The focus was o n
+Kazakhstan’s challenges, but was also o n the role that the Bank could play in meeting
+these challenges. This meeting was an essential step in building a partnership o f trust and
+a shared vision of goals to be pursued.
+
+42.
+Outside of the Government, more than 70 representatives of NGOs, research
+institutes, think tanks, and private sector companies from Almaty, Astana,
+Shimkent, Taraz, Kzyl Orda, Atyrau, Karaganda, Ust-Kamenogorsk, and Kostanai
+participated in discussions o f the Bank’s emerging strategy. These discussions were
+supplemented by a web-based consultation process which yielded 400 responses. These
+consultations indicated broad support for the proposed activities, and, in particular, for
+those focused o n the environment, human development, and rural poverty. However, the
+Bank’s record o n communication and NGO involvement were singled out as areas in
+need o f improvement. In this regard, participants stressed the importance o f greater
+
+’The World Bank Group in Central Asia
+0130
+
+- Regional Framework Paper, February
+
+20,2004. SECM2004-
+
+Pane 13
+
+Kazakhstan County Partnership Strategy
+
+involvement o f NGOs in all aspects o f our work. They also stressed the importance o f
+creating simple ways o f monitoring the government’s performance in Bank-supported
+activities and, more generally, the need to facilitate the flow o f information o n Bank and
+government activities in Kazakhstan (see Annex 4).
+
+v.
+
+R I S K S AND CREDITWORTHINESS
+
+Risks
+
+43.
+
+--
+
+The strategy outlined in this document faces two broad sets of risks the
+first associated with Kazakhstan’s dependence on oil revenues and the second
+associated with the nature of the CPS. Risks associated with o i l dependency fall into
+two groups: those having to do with macroeconomic management and those having to do
+with behaviors and incentives. Risks associated with the strategy stem from the fact that it
+represents a new business approach for the Bank in Kazakhstan.
+
+With regard to macroeconomic risks, Kazakhstan i s better positioned than in
+44.
+the past to weather external shocks. Although the o i l industry i s at an early stage,
+
+revenues are expected to continue to grow substantially for the next two decades, driven
+mainly by increased production, which is set to double by 2012. Notwithstanding the
+inherent volatility in world o i l prices, i t would take a substantial decline in w o r l d energy
+prices from current and projected levels to fall below Kazakhstan’s marginal cost o f
+production (about US$10 - 12 per barrel) and put serious pressure o n Kazakhstan’s
+external and fiscal balances.* This assessment assumes that the record o f prudent
+macroeconomic management, including management o f the National Fund and public
+expenditures, continues into the future. Exchange rate appreciation will be difficult to
+avoid giving the magnitude o f o i l revenues, posing a continuing challenge for the
+authorities in their quest to achieve broad-based growth.
+
+45.
+Kazakhstan is also vulnerable to other external shocks beyond those associated
+with the o i l sector. These include non-oil commodity shocks, climatic shocks affecting
+the agricultural sector, and the risk o f major earthquakes to which the region as a whole i s
+
+prone.
+
+46.
+The second major risk associated with Kazakhstan’s oil wealth i s the
+temptation that wealth brings to substitute money for needed policy reform.
+Experience in other resource rich countries demonstrates that too often their governments
+try to circumvent difficult policy changes by direct, government-driven actions - for
+example, subsidizing import-substitution industries rather than creating a competitive
+business environment. History has demonstrated that these alternatives to good policies
+are never sustainable and, as well, lead to destructive rent seeking and corruption. A k e y
+to mitigating these risks is the Bank’s continued engagement in Kazakhstan, particularly
+in helping to foster greater transparency and government effectiveness, and in improving
+the business environment.
+The pace of o i l revenue growth hinges crucially also on the o i l sector investment climate, the extent to
+which technical challenges are overcome, and addressing transportation barriers as oil production increases.
+
+The CPS represents a new approach for the Bank in Kazakhstan and as
+such, it will challenge the institution to modify and adapt existing business
+processes. Delivering o n the strategy’s main driver, the JEW, will require continued
+adaptation o f standard AAA processes and products. This will mean continuing to
+strengthen ties with the best international experts in and outside the Bank. It will mean
+
+47.
+
+delivering products that meet the Government’s needs and can be readily absorbed by the
+Government. Based on the JEW’Spilot phase, there is good evidence that these risks can
+be managed. For lending; the annual identification o f projects supported by Government
+will be the best protection for ensuring ownership and moving these loans quickly
+through the Government’s system. To deliver loans in step with Government needs will
+require preparation times that can only come with simpler, more focused projects.
+
+A final risk i s the reputation risk that the Bank may face in Kazakhstan. This
+48.
+program is predicated on the assumption that Kazakhstan continues to make progress in
+areas critical to sustainable growth and poverty reduction - macro and fiscal
+management, the business environment, governance, corruption, transparency. A
+deterioration in government policies or performance in these areas would bring into
+question the effectiveness o f Bank activities in Kazakhstan. To manage this risk, the
+Bank will regularly monitor performance indicators in these areas and, in the event o f a
+systemic deterioration o f the indicators, a CPS update with a revised program would be
+prepared and discussed with the Board.
+Creditworthiness
+
+49.
+Kazakhstan i s creditworthy for IBRD lending, and i s rated investment grade
+by two out o f the three major commercial rating agencies. In terms o f public debt, the
+country i s a net creditor to the rest o f the world (see Figure 2). Although the country’s
+total external debt i s relatively high
+Figure 2: Kazakhstan’s Public Debt, Gross Reserves, and
+(77 percent o f GDP), h a l f o f that
+Assets in the National Fund
+_______
+debt, and the bulk o f private debt,
+i s accounted for by inter-company
+30
+~
+
+“.i.r-
+
+credits related to FDI in large o i l
+field investments. International
+% 2
+0
+7
+of
+debt held by the 12 national public
+GD
+enterprises, which include
+telecommunications, railways, and
+electricity transmission, as well as
+the state o i l and gas company, is
+1°i
+0
+moderate and i s mainly from
+multilateral sources. Since the end
+1999 2000
+2001
+2002
+o f 2002, the Government has
+observed a policy o f no explicit
+Source: CPS Table Annex 5 and 6.
+sovereign guarantees to state-owned
+enterprises.
+~
+
+50.
+
+-
+
+NFRK &
+Gross
+ReseN es
+
+-NFRK
+assets
+
+2003
+
+20041
+
+-External
+Public
+Debt
+
+I n contrast to public debt, private sector external borrowing, while s t i l l
+relatively low, i s on the rise. At 12 percent o f GDP, commercial banks’ external debt is
+l o w but is growing rapidly. Although the capital adequacy ratio o f the banking system
+seems comfortable, and new stricter loan classification and loan loss provision were
+
+I
+~
+
+Pane I 5
+
+Kazakhstan County Partnership Strategy
+
+introduced in 2003, rapid credit growth and some banks’ unbalanced wholesale funding
+warrants continued due diligence by both the monetary and banking supervision
+authorities. To date, large private enterprises (for example, in copper, steel, grain, and
+electricity generation) have financed investment through equity, retained eamings and
+local borrowing and are, therefore, not significantly exposed t o extemal debt.
+International borrowing by banks and enterprises will be monitored as part o f the annual
+Debt Reporting System exercise.
+
+The CPS does not propose a detailed lending program beyond FY05, but for
+5 1.
+purposes o f the Bank’s internal risk exposure analysis, a notional Bank lending
+program in the range o f $100-150 million annually i s projected. At this level, total
+extemal government debt i s expected to remain below 10 percent o f GDP over the
+medium term and debt service to the World Bank i s expected to represent less than 1
+percent o f export earnings. If there i s a demand for higher levels o f funding, the loan
+package would include a creditworthiness review confirming that funding levels remain
+within prudent levels.
+
+VI.
+
+CONCLUDINGREMARKS
+
+52.
+This CPS is designed to ensure strong Government ownership o f the Bank’s
+program, to allow the Government and the Bank to adjust that program to changing
+Government priorities and country circumstances, and thereby to maximize the Bank’s
+contribution to Kazakhstan’s development. As w o u l d be the case for any new
+relationship, the strategy will challenge both the Bank and the Government, but if it is
+successful, it will create a real partnership in service to the people o f Kazakhstan.
+James D. Wolfensohn
+President
+
+By:
+Shengman Zhang
+Washington, D.C.
+August 10,2004
+
+Peter L. Woicke
+
+Paze I 6
+
+Kazakhstan Country Partnership Stratew
+
+Annex 1:Kazakhstan Country Partnership Strategy - Bank Engagement
+Ongoing Activities
+(FY04)
+
+nstrument
+
+FY05 Business Plan 1/
+
+Pillar 1. Managing the Oil-Windfall!
+
+I
+
+Program Areas in Future
+Expected Direct Contribution to Development in
+Years
+Kazakhstan
+id Improving Public Sector Institutions
+Management o f oil-windfalls
+-oca1 governments
+3ustoms
+
+. CEM (continued)
+
+. Programmatic CEM (Management of
+oil windfalls and competitiveness)
+
+ERP
+
+I
+
+'
+
+1. Second agricultural post-
+
+IBRD: none
+
+. IFC: (1) SME facility (with EBRD);
+
+.:
+
+.............
+
+~
+
+.............
+
+Ise.'v'"g.o".Sompanies .........
+
+....................
+
+"
+
+.IBRD: WTO Accession TA
+
+. WTO Accession
+
+ERP
+
+privatization support
+(APPAP-2) -- FY05
+Agricultural competitiveness
+project
+FY05
+. IFC: Possible fund for SME
+
+--
+
+(2) Ispat-Kmet
+SME Facility; (3)
+Small Equity Fund (with ISDB)
+
+.........
+
+(continued)
+IFC: (1)TA on mortgage; (2)
+TA on leasing
+
+Agriculture Competitiveness
+(Fisheries and Livestock)
+
+'
+
+I
+
+I
+
+Pillar 3. Investing i n Hur
+
+Control; (3) Road Transporf; (4)
+
+........"............ .......
+"
+
+.......
+
+"
+
+Education sector study
+Health sector strategy
+Territorial development
+(incl. Transport Sector Strategy
+Programmatic Poverty
+assessment(continued)
+
+. Health Issues
+
+'Pension Policy
+' Programmatic Poverty Assessment
+
+Pillar 4. Safegua
+
+. IFC: none
+
+............
+Environment: Monitoring and
+strategic assessment
+. Regional watedenergy
+consortium
+'
+
+I
+
+le Government to Promote Competitiveness
+4gricultural policies and
+nstitutions
+X&D, innovation, and
+. Promote dialogue on productive vehicles to support
+:ecbnology
+economic diversification and promote R&D
+:ommercialization
+' Directly support the introduction o f innovative pilots to
+support non-oil sectors, especially for the agricultural
+3MEs development
+relecommunications
+sector
+.Improve food standards and, with this, the potential of
+Linkages for oil and non-oil
+iectors (IFC and EBRD)
+higher exports of agricultural products
+. Facilitate WTO accession process
+Financial sector deepening
+easing, morgage, insurance,
+:nsions)
+1 Capital and Infrastructure
+
+Imgation & Drainage 2 -- FYOl
+
+. IFC: none
+
+ERP
+
+rransparency and corruption
+
+I
+
+'
+
+ending
+
+institutions, including local governments, procurement,
+
+Programmatic PEIR
+
+Pillar 2. Building an Appropriate Role o
+
+t
+
+' Promote dialogue on (1) efficient use o f oil revenues; (2)
+optimal public spending paths; (3) prioritization ofpublic
+
+See next page for a briefdescription.
+
+Poverty assessments
+Territorial development
+Health system development
+Education reform
+Water supply
+Railway reform
+Road management
+Irrigation and drainage 2
+
+' Assist GOK in laying out strategic directions and
+improvements to improve health and education systems
+' Increase the level of understandingabout poverty
+vulnerabilities, particularly across regions
+' Assist GOK in defining best strategy to maximize the
+Country's transit potential
+' Assist with the creation o f mechanisms that can be used
+for a steady improvement o f drinking water
+
+ing the Environment
+' Greater understanding o f the environmental impact of
+future growth, and introduction o f key measurement
+Forestry, dryland management
+systems
+Environment policy, and
+Support remedialactions in selected areas (e.g., d q
+institutions
+lands/forestry) or regions (e.& Ust-Kamenogorsk)
+Remediation
+. Increase the value and sustainability o f environmental
+resources such as forests, bodies o f water and rangelands
+
+I
+
+IERP -Joint Economic Research Program
+CEM - Country Economic Memorandum (focused on competitiveness and management of oil sectors)
+PEIR - Public Expenditure and Institutional Review
+GEF -Global Environment Facility
+ISDB - Islamic DevelopmentBank
+
+.
+
+Page
+17
+
+Kazakhstan Countiy Partnership StrateD
+
+Brief Description o f Activities
+1.
+
+The FY05 Joint Economic and Research Program
+
+Programmatic Public Expenditure and Institutional Review (PEIR): This will be a modular
+(multi essay-style) work in areas to be selected from: (1) local governments capacity, and
+intergovernmental fiscal relations; (2) hands-on advice and short assessment for procurement and
+financial management; (3) second generation civil service reforms (e.g., non-wage
+compensation); (4) targeted assessments o f efficiency o f some types o f spending or sub-spending;
+(5) short and strategic analysis of government spending policies and priorities @e., by function
+and by economic items); and (6) review o f the institutions o f public investment. Since the issues
+are vast, a key objective of the PEIR will be to promote (and inform) domestic debate around
+these issues.
+Programmatic Country Economic Memorandum (CEM):The C E M began in FY04 and has
+focused on: (1) overall preconditions to improve the competitiveness o f non-oil sectors; (2)
+optimal management o f o i l windfalls; and (3) win-win ways to promote greater linkages between
+o i l and non-oil sectors. The C E M has aimed at promoting domestic debate about issues o f
+diversification and competitiveness, and at providing answers to specific queries from the
+Government based on best international experience. To achieve these goals, i t has followed a
+multi-output approach including organizing seminars (with WBI support) and training sessions,
+preparing short-policy notes and in-depthpolicy reports, and providing comments to government
+programs.
+Technical Assistance on WTO Accession: This work began in FY04 and has focused on three
+areas: (1) assessment o f the overall strategy; (2) telecommunications sector offer; and (3)
+transport sector offer. The approach followed has been similar to that o f the Country Economic
+Memorandum.
+Health Sector Reform: will build o n a narrow activity that started in FY04, and aims at providing
+direct support to the formulation o f the health reform program in areas such as: (1) an initial
+evaluation o f the productivity and cost-effectiveness o f the existing health care system by main
+functions (preventive and primary care, public health, hospitals, pharmaceuticals) and selected
+programs (e.g., HIV/AIDS control, management o f chronic diseases); and (2) an outline o f the
+applicability o f the principles o f the pooling o f resources and the oblast-level Single Payer
+System for Kazakhstan, and the key institutional steps to be taken at the Republican and Oblast
+levels for this implementation.
+Education Sector Reform: will aim at assisting the Ministry o f Education to elaborate key
+implementation issues o f their Education Strategy: (1) financing mechanisms for the school sector
+(e.g., capitation principle and equality considerations); (2) elements for costing key educational
+inputs (teachers, textbooks); and (3) an outline o f institutional mechanisms to support equal
+access to education, particularly in rural areas.
+Territorial Development Program: will produce (on the basis o f twinning local and foreign
+expertise) background Reports for the Territorial Development Program that would outline ways
+to maximize the transit potential o f Kazakhstan (for transport and energy corridors) and to ensure
+appropriate multimode linkages between the various producing centers in the north, south, east
+and west parts o f the country. The work will start with a Transport Sector Note focusing o n road,
+rail, and air.
+
+Page I 8
+
+Kazakhstan County Partnership Strategy
+
+Poverty Assessment: This i s a follow up o f a larger piece prepared in FY04 (and distributed to the
+Board jointly with the CPS), focusing on: (1) a closer look at the relationship between growth,
+income-inequality and poverty; (2) continued capacity building efforts on poverty monitoring;
+and (3) follow-up assessments as may be appropriate (e.g., labor market issues).
+Water and Energy Issues: will aim to assess the impact on Kazakhstan o f the various options for
+improving regional cooperation in the Syr-Darya Basin. This activity will also provide support to
+the creation o f a Water-Energy consortium.
+Environmental Control and Strategic Assessment: will cover mainly “industrial” pollution, but
+will possibly extend to “green” landwater degradation issues. The ”industrial” or ”brown” part
+could cover: (1) assistance in the reevaluation o f GDP and GDP growth figures to take into
+account environmental liabilities created by industrial growth; (2) policy measures and incentives
+to address new contamination; and (3) an assessment o f key industries or hotspots and a
+suggested set o f remedial and preventive measures.
+
+2. Projects Agreed for FY05 and FY06
+i.
+Agricultural Post-Privatization Assistance Program 2 (APPAP-2) (FY05). This i s the
+second phase o f a three-phase, 10-year Adaptable Program Lending program. The objectives are
+to: (1) maintain the policy framework for the development o f private rural enterprises and the
+strengthening o f the market economy; (2) improve the f l o w o f information, advice and training to
+newly emerging rural enterprises; (3) support the development o f rural financial markets and
+improve the access o f rural enterprises to commercial financial services; and (4) introduce further
+legal and institutional reforms to improve the rural financial system and strengthen bankruptcy
+procedures.
+ii.
+Agriculture Competitiveness (FY05). The project’s objective i s to increase the
+competitiveness o f the agricultural sector in Kazakhstan by: (1) facilitating access to markets by
+improving the quality and safety o f agricultural products, facilitating access to information, and
+improving market efficiency; and (2) increasing the quality, quantity, and relevance o f public and
+private investments in applied agricultural research and knowledge transfer. The Project will
+consist o f four components: (1) Quality and Safety Management o f Agricultural Products; (2)
+agricultural marketing; (3) applied agricultural research and extension, and (4) institutional
+development.
+
+iii.
+
+Forest Protection and Reforestation Project (FYO6). The project objective i s to develop
+cost effective and sustainable environmental rehabilitation and management o f forestlands and
+associated rangelands, with a focus on the Irtysh pine forest, the dry Aral seabed, and saxaul
+rangelands. The objective i s both local and global in nature. The project would include: (a)
+rehabilitation and effective management o f 650,000 ha o f damaged Irtyshpine forest in the
+northeast (Pavlodar and East-Kazakhstan Oblasts), including replanting o f some 48,000 ha; and
+(b) planting o f 59,000 ha o f dry Aral seabed and rehabilitation o f 6,000 ha o f saxaul rangelands
+(Kyzyl-Orda Oblast); and (c) capacity building o f the Forest and Hunting Committee and
+associated organizations (e.g., mapping, planning, monitoring, policy analysis, human resource
+development, and financial management). The project i s intended to reduce or prevent land
+degradation from wind erosion, wind-blown pollution, and loss o f tree cover. Benefits will
+include improved air quality and associated health enhancement, increased recreational and
+amenity values, as well as the wood and fodder products themselves. The project will not only
+address land degradation, but also establish revised arrangements for flexible, performance based
+budgeting and contracting.
+
+Pane 19
+
+Kazakhstan Country Partnershiu Strategy
+
+iv.
+Irrigation and Drainage Improvements 2 (FY06). The project’s main objectives
+would be to: (1) promote sustainable irrigated agricultural production and increase employment
+and incomes by improving irrigation and drainage systems, water management, and operations
+and maintenance with the enhanced participation o f users through water users’ associations; (2)
+introduce improved agricultural practices and farmers’ information services; and (3) strengthen
+irrigation, drainage, agriculture and environmental services. The project would cover the
+rehabilitation o f irrigation and drainage systems over an area o f about 150,000 ha. The preference
+would be given to covering more areas in the southern Oblasts where the cultivation o f h g h value
+crops such as cotton i s possible, the investment would benefit a large population and the
+rehabilitation costs are relatively lower At this stage i t i s estimated that about 100,000 to 130,000
+ha would be in South Kazakhstan, covering the rehabilitation o f the Kzylkum Massif, remaining
+un-rehabilitated areas in the Maktaral district, and Kzylorda Oblasts. The rehabilitation o f
+Kzylkum Massif, considered a high priority investment by the Government, would be included as
+the f i r s t large investment under the project. The rehabilitation o f both traditional surface irrigation
+and drainage systems, as well as modem irrigation systems such as sprinklers would be included
+in the project. The estimated cost o f the project i s more than US$300 million.
+
+3. Selected Sample of Projects under Discussion9
+Ust-KamenogorstEnvironment Remediation Project (FY06). The development
+objectives o f the Project are: (i)
+improve the quality o f water supply for population and industry
+in Ust-Kamenogorsk area; (ii)
+safeguard the Irtysh River Basin from toxic metal waste pollution;
+(iii)
+involve large industrial enterprises in the resolution o f the priority environmental problems in
+this region; and (iv) strengthen the capacity o f environmental authorities to manage pollution
+issues.
+
+V.
+
+Municipal Water Supply Project. This project suggests creation o f a special “Fund” for
+water and wastewater sector development. Given the magnitude o f the problems o f providing safe
+and good quality water supply in urban areas in Kazakhstan, a project-by-project (i.e. vodokanalby-vodokanal) approach may not address deficiencies in service provision in a rapid manner.
+Creation f a “Fund” would be a good solution for Kazakhstan to implement a sector-wide longt e r m rehabilitation and development approach.
+
+vi.
+
+Custom Modernization: Carrying out a systematic reform and modernization o f the
+vii.
+customs administration o f Kazakhstan, with a view to: (a) promote internationally acceptable
+practices for processing o f international trade flows by Customs, so as to further integrate
+Kazakhstan into the world trading community, improve the investment climate, and secure the
+benefits from foreign and domestic investments in the economy; and (b) increase taxpayer
+compliance with the Customs Code and ensure uniformity in i t s application, to support macroeconomic stability and increase transparency, timely transfer o f collected revenues to the Federal
+budget, and equity and predictability in customs operations.
+Economic Diversification and Technology Commercialization: the objective o f the
+vii.
+project are to (1) Promote small and medium scale enterprises through supply chains around the
+o i l sector and other means; (2) Develop the national capacity in metrology, standards, testing and
+quality to ensure facilitate Kazakh f i r m s exporting o f manufactured goods to (OECD) countries
+and the revamping o f metrology services; and (3) Promote the commercialization o f Research and
+
+Decision expected in the next 6 to 12 months to proceed or not with their inclusion in an amended FY05
+business plan or in the FY06 business plan. Follow up projects (e.g., agriculture and electricity) would also
+be considered, as would projects following up on J E W funded activities (Health, Education).
+
+Page 20
+
+Kazakhstan Countw Partnership Strategy
+
+Development, which i s needed to convert scientific research into wealth and increase the number
+o f “bankable deals.”
+
+viii.
+
+Modernization of Government Institutions: The project will build on past and ongoing
+efforts to modernize the state apparatus by supporting: (1) elimination o f unnecessary
+bureaucratic procedures (e.g., licensing, inspections), and the development o f monitoring systems
+to assess red tape and corruption; (2) improve a selected set o f government services (including
+through the design and implementation o f appropriate e-government pilots, and the facilitation o f
+international accreditation for institutions servicing households or SMEs); and (3) programs to
+strengthen local government’s capacity to undertake greater responsibilities in key service
+delivery.
+Railways Program Implementation Support: The project would support the Government
+xix.
+to achieve: (1) the remaining elements o f the restructuring plan for KTZ, particularly divestiture
+o f the remaining social and non-core railway assets, and the creation o f competitive railway
+supply markets, local railway services, and passenger services, and (2) improvements in the
+condition o f the railway infrastructure and rolling stock, and thereby improve the efficiency and
+quality o f service offered by KTZ and its subsidiaries.
+Road Management Modernization: Supporting the Committee for Roads and
+xx.
+Infrastructure Development within the Ministry o f Transport and Communications to: (i)
+improve
+i t s capacity and modernize i t s system o f road management; (ii)
+prepare a prioritized road
+rehabilitation program, (iii)
+rehabilitate selected main roads that form parts o f major transit
+corridors for regional trade; and (i)
+develop local capacity for road construction and maintenance.
+The main outcomes would be improvement in the capacity and efficiency o f road management,
+improvement o f the road network condition through rehabilitation and better maintenance, and
+increase in local capacity for execution o f road works.
+
+Kazakhstan Countv Partnership Stratem
+
+Pane 21
+
+Annex 2: Selected Indicators of the Government's Program Effectiveness
+Indicator
+1. Economic Management
+Non-oil exports ($ growth)
+Government savings rate a
+Investment Rating:
+Moody's
+S&P
+Fitch
+2. Poverty
+Headcount ($4.3 PPPIday)
+($2.14 PPPIday)
+Basic needs WB meth.
+3. Competitiveness
+EBRD Transition index
+
+Kazakhstan
+
+Regional
+Benchmark
+
+World
+Benchmark
+
+6.2% avg 2001-03
+5% o f GDP in 2002
+
+9.5% (Russia)
+4% (Avg. Rus & Aze.)
+
+n.a.
+4.1%
+
+Baa3 (2004)
+BBB- (2004)
+BB+
+
+Baa3 (Russia)
+BB+ (Russia)
+BB+ (Russia)
+
+n.a.
+n.a.
+n.a.
+
+35.0% in 2002
+3.5% in 2002
+
+33.0% (Russia)
+6.3% (Russia)
+19.6% (Russia)
+
+n.a.
+
+2.9 (2003)
+
+2.5 (CIS), 2.8 (SEE),
+3.6 (CEB)
+
+2.4 (ECA)
+
+7.0%
+57.2%
+4.0%
+
+8.2%(CIS)
+43.9%(CIS)
+2.2% (CIS)
+
+11.8 (ECA)
+47.5 (ECA)
+1.4 (ECA)
+
+2.4
+21.6
+24.2
+10.8
+
+2.4 (CIS)
+21.7 (CIS)
+25.4 (CIS)
+16.8 (CIS)
+
+3.8 (L-MICs)
+41.5 (MICs)
+40.5 (MICs)
+39.9 (MICs)
+
+;
+Business environment ':
+o Regulation '
+o Perception '
+o Competition '
+4. Governance
+Corruption perception
+Government Efficiency e
+Regulatory Quality e
+Control o f Corruption e
+
+SEE: Southem Europe; CEB: Central and Eastem Europe and Baltics.
+From World Bank, FY04 Unified Survey. See CPS Annex Table 5 (B6-4) for key parameters o f fiscal policy in an oil
+rich economy, such as the non-oil fiscal deficit (as a share o f non-oil GDP), and the real growth o f public spending.
+Source: EBRD Transition Reports. The index ranges from 1 (worse) to 4 + (best), and reflects the assessments made
+by EBRD's Office o f the Chief Economist based on a large set o f numerical and qualitative indicators.
+Source: BEEPS I 1 (EBRD and World Bank). T h e indicators are calculated based on the results o f the Business
+Environment and Enterprise Performance Survey (BEEPS) 11. BEEPS is a survey o f managers and owners o f firms
+across the countries o f Eastem Europe, the former Soviet Union, and Turkey designed to generate comparative
+measurements o f the quality o f govemance, the investment climate and the competitive environment, which can then be
+related to different characteristics o f the firm and to firm performance. T h e indicator on business regulation shows the
+average percentage o f those business respondents, who strongly agree that information on the laws and regulations
+affecting their firms is easy to obtain, and that interpretations o f the laws and regulations affecting their f i r m s are
+consistent and predictable. The indicator on perceptions o f business environment shows the average percentage o f those
+business respondents, who do not consider, to any extent, the following factors as an obstacle to their firms' operation
+and growth: access to financing, cost o f financing, telecommunications, electricity, transportation, tax administration,
+customs and trade regulation, skills and education o f workers. The competition and concentration indicator shows the
+percentage o f those respondents, who face n o competitors in the domestic market.
+These indicators w i l l not be available annually and, thus, may be omitted some years.
+Source: Transparency International (10 - highly clean and 0 highly corrupt)
+e Govemance Research Country Indicator Snapshot 2002: World Bank Govemance Indicators: 1996-2002 (Percentile
+Rank 0-100). These indicators will not be available annually and, thus, may be omitted some years.
+Average savings rates for a sample o f resource abundant countries (Venezuela, Mexico, Azerbaijan, Russia, Iran,
+Malaysia, Indonesia, Nig, and Botswana.
+a
+
+-
+
+Pane 24
+
+Kazakhstan CountT Partnership Stratep
+
+Annex 4: Consultationswith Civil Society
+The Bank h e l d three workshops t o obtain feedback o n the Bank's proposed program in
+Kazakhstan, in Almaty and Astana during the first week o f June 2004, with about 70
+participants in total from NGOs, think tanks and private sector representatives.
+Participants were broadly supportive o f the four pillars within which the Bank and the
+Government proposed to operate, and encouraged the Bank to deepen its activities in
+Kazakhstan. At the same time, they stressed that the Bank should take environmental
+concerns into account in all pillars, that social concerns should be given as much
+attention as commercial ones, and that increasing the f l o w o f information and working
+more closely with NGOs and business representatives, should be made a top priority.
+Some o f the particular issues discussed are as follows:
+
+'
+
+Involve C i v i l Society and Business Groups. Participants stressed the need to build a tripartite partnership in development (government, c i v i l society, and the private sector), and
+to involve the public more in decision-making. They particularly encouraged the Bank to
+involve c i v i l society, business groups and project beneficiaries in all parts o f the project
+cycle - design, implementation, and monitoring/evaluation - as well as in its economic
+and sector work. The Bank and Participants agreed that the CPS consultations provided a
+good foundation to build o n through more regular interaction. Participants also
+suggested that the Bank increase the level o f its direct support t o NGOs through a larger
+Small Grants Program.
+Monitor Results Closely. Participants felt that although the Government has increased
+hnding in many areas, the impact o f this i s not clear, and in some cases indicators
+continue to worsen. Therefore, the Bank should be more involved in monitoring country
+progress in different sectors, so that programs can be held accountable for delivering
+results. Participants particularly encouraged the Bank to continue its efforts to strengthen
+monitoring in the areas o f poverty and corruption. The Bank should also ensure that its
+o w n interventions are w e l l monitored, with the participation o f N G O s and stakeholders.
+This can be done by documenting performance target indicators for Bank-supported
+activities, so that progress and deliverables can be measured against expected results.
+Provide Greater Access t o Information. Participants noted that public access to
+government and other information was quite low, and the quality o f information that was
+available was quite poor. Without improvements in these areas, i t would be difficult to
+determine h o w efficiently public hnds are used. They therefore encouraged the Bank to
+make improving public access to information and legal rights a central part o f all o f i t s
+activities. Business representatives also noted the need to provide businesses with more
+information on innovation, research, marketing or production possibilities (for example,
+through a cofinanced grant scheme) and to generate better information o n the
+employment potential o f different industries. The Bank should also disclose as much
+information as possible o n i t s o w n activities and should actively seek feedback from the
+public. The Bank noted that information o n most o f its activities is publicly available,
+but that it would consider additional outreach vehicles.
+
+Pane 25
+
+Kazakhstan Country Partnership Stratem
+
+Build Human Capacity. Participants felt that Kazakhstan needed a more highly trained
+work force if it was to be a truly competitive country. The Bank should therefore make
+training and technology transfer a high priority for all o f its activities. In many cases this
+would mean increasing the use o f local experts, although the value o f international
+experts in transferring knowledge was also recognized. Participants also noted that, in
+education and health, f i n d s would be better spent o n training and developing better
+delivery systems than on building facilities. They also encouraged the Bank to continue
+to work in the area o f social protection.
+Focus o n Rural Development and the Environment. Participants supported the Bank’s
+focus o n agriculture and the rural areas, where poverty i s the greatest, and o n the
+environment. In particular, they encouraged the Bank to increase micro-lending, to
+improve services such as education, health, and water supply in the rural areas, and to
+look into h o w to rehabilitate o r grow new light industries related t o agriculture products,
+leather and wool. T o facilitate this, participants suggested that the Bank help support
+rural roads and the development o f mini-power plants to support industries o f f the main
+power grid. Some participants also suggested that the Bank work with N G O s and the
+private sector to support the development plans o f small towns. As regards the
+environment, participants asked the Bank to help ensure that o i l income growth did not
+come at the expense o f the environment, and to help the Government use n e w
+technologies in areas such as gas flaring and o i l spills. In this regard, improved
+environmental monitoring was needed. Some participants voiced support for the Bank’s
+efforts at improving rangelands and protecting forests. One participant suggested that the
+Bank could consider assisting in the management o f radioactive tailings.
+Strengthen Public Governance and the Private Sector. Participants agreed with the Bank’s
+focus o n establishing an appropriate role for the public sector, and noted four areas in
+particular for the Bank to focus on. First, they supported the Bank’s efforts to help the
+Government manage o i l and non-oil extractive revenues in a more transparent manner,
+and to use excess revenues for social and environmental purposes in a sustainable
+manner. Second, they encouraged the Bank to help improve inter-governmental finance
+to enable local governments to have the means t o finance urgent services. Third, they
+suggested that the Bank work with the Government o n drafting legislation that is probusiness and innovation (particularly in the areas o f taxes, licensing, public procurement
+and customs). They noted that the banking sector needs to provide more loans, insurance
+and leasing to small enterprises. The Bank and the Government also need t o help
+businesses meet international standards in advance o f WTO accession. Fourth, the Bank
+should help deepen public sector reform to improve training for and reduce corruption o n
+the part o f public servants.
+These discussions were supplemented by a web-based consultation process, which
+received 399 hits. Most respondents supported the overall focus o f the CPS o n
+diversification. Many NGOs and academicians identified the second highest priority as
+access to and quality o f education. The third priority identified, particularly important for
+local government officials, was access to and quality o f infrastructure.
+
+Pane 26
+
+Kazakhstan Countv Partnership Strategy
+
+E-Survey o f stakeholders"
+
+Q1: WHAT ARE THE MOST URGENT DEVELOPMENT CHALLENGES I N KAZAKHSTAN ?
+Most Urgent Development Challenges in Kazakhstan
+Percent of Respondents (total and by affiliation)
+100%
+
+...............
+
+........... ..... ..... ...................................................................................................
+
+......... .... ....................................................................
+
+"
+
+..
+
+. .. . .
+
+"
+
+'i
+
+90%
+80%
+70%
+60%
+
+50%
+40%
+
+30%
+20%
+10%
+0%
+
+All (399
+responses)
+
+NGO's (79
+responses)
+
+Research
+Institutes (22
+responses)
+
+I3Diversification o f economy
+Quality and access to education
+
+0 Social assistance
+
+Academic
+Istitutes (58
+responses)
+
+Central
+Government
+(4 responses)
+
+International
+Local
+Parliament (8 Private sector
+donors (33
+Government
+responses) (70 responses)
+responses) (81 responses)
+
+Other (41
+responses)
+
+HAgricultural competitiveness and rural development
+0 Improvement in the quality o f infiastructure
+Environment and natural resource management
+
+Note: the choices included:
+1. Diversification o f economy (development o f non-oil economy, small and medium enterprises
+development, investment climate improvement, innovative industrial development, etc.)
+2. Trade policy developmentiWT0 accession
+3. Financial sector development (banking sector, insurance market, mortgage market
+development, etc.)
+4. Governance
+5. Civil service r e f o d T r a i n i n g o f government officials
+6. DecentralizatiodSupport to local governments
+7. Agricultural competitiveness and rural development
+8. Environment and natural resource management (forestry, drylands, fisheries, water resources,
+etc.)
+9. Urban & Rural Water supply & Sanitation
+10. Improvement in the quality o f infrastructure (roads, railway, electricity, telecommunications,
+gas distribution, etc.)
+11. Quality o f educationiaccess to education
+12. Quality o f health services /availability o f health services
+13. Social assistance (pension, health insurance, social contributions, poverty monitoring, targeted
+social assistance, etc.)
+14. Other (please, specify)
+
+lo
+Includes 399 responses from non-government organizations, academic and research institutes, private
+sector, local governments, central government, and international organizations.
+
+Pane 27
+
+Kazakhstan Countw Partnershiv Straten
+
+CAS ANNEX TABLES
+
+v1
+
+L
+
+0
+
+c,
+
+m
+0
+
+a
+
+.
+I
+
+fi
+
+H
+
+E
+m
+
+kl
+E
+
+a
+
+I s
+I s
+I I
+
+Page 29
+
+Kazakhstan Countw Partnershiu Stratem
+-
+
+CPS Annex Table 2: Kazakhstan at a Glance
+Europe 8
+Central
+Kazakhstan
+Asia
+2002
+2003
+
+POVERTY and SOCIAL
+
+Population, mid-vear (millions)
+GNI per capita (Atlas method, US$)
+GNI (Atlas method. US$ billions)
+
+14.9
+1.780
+26.5
+
+476
+2.160
+1,030
+
+2.41 1
+1,390
+3,352
+
+-0.5
+0.5
+
+0.1
+0.4
+
+1.o
+1.2
+
+Averaae annual growth. 1997-03
+Population (%)
+Labor force f%)
+
+Lowermiddleincome
+2002
+
+Most recent estimate flatest veal available. 1997 3)
+~
+
+Poverty (% of population below nationalpovertv line)
+Urban population I%of total Population)
+Life expectancv at birth (wan)
+Infant mortalitv (per 1.000 live births) **
+Child malnutrition f% of children under 5)
+Access to an improved water source 1% of population)
+llliteracv (% of population age 75+J
+Gross primaw enrollment I%of school-age population)
+Male
+Female
+
+24
+57
+66
+81
+4
+53
+1
+93
+
+91
+3
+102
+103
+101
+
+49
+69
+30
+11
+81
+13
+111
+111
+110
+
+63
+69
+25
+
+Development diamond'
+
+-
+
+Life expectancy
+
+-
+
+GNI
+per
+capita
+
+~
+
+I/'
+
+Gross
+pnmary
+
+enmIIment
+
+Access to improved water source
+Kazakhstan
+~
+
+Lower-middle-incomegroup
+
+KEY ECONOMIC RATIOS and LONG-TERM TRENDS
+1983
+
+1993
+
+2002
+
+2003
+
+GDP (US$ billions)
+Gross domestic investmenffGDP
+Exports of goods and services/GDP
+Gross domestic savinaslGDP
+Gross national savingsfGDP
+
+23.4
+20.0
+37.9
+11.2
+12.1
+
+24.6
+27.3
+47.2
+28.2
+27.3
+
+29.7
+26.6
+50.4
+32.8
+26.6
+
+Current account balancdGDP
+interest PavmentdGDP
+Total debffGDP ***
+Total debt servicelexports
+Present value of debffGDP
+Present value of debffexwrts
+
+-4.6
+0.0
+2.2
+0.2
+
+-3.5
+0.9
+73.9
+34.3
+
+-0.2
+0.9
+76.8
+33.9
+
+2002
+
+2003
+
+2003-07
+
+2.8
+3.9
+4.8
+
+9.8
+9.8
+22.6
+
+9.2
+8.8
+5.9
+
+6.8
+4.0
+
+1983
+
+1993
+
+2002
+
+2003
+
+..
+..
+
+17.5
+40.0
+
+..
+
+42.5
+
+8.6
+38.6
+15.6
+52.8
+
+7.8
+38.3
+15.5
+53.9
+
+..
+
+74.9
+13.9
+46.7
+
+61.1
+10.7
+46.3
+
+56.4
+10.8
+44.2
+
+1983-93 1993-03
+
+2o02
+
+-2 6
+54
+60
+31
+
+32
+118
+76
+90
+
+14
+
+-1 0
+07
+1.6
+0.9
+
+12 2
+-4 3
+11.3
+4.3
+
+74
+58
+6.0
+-6.3
+
+(average annual arowth)
+GDP
+GDP per capita
+Exports of aocds and services
+
+1983-93 1993-03
+
+STRUCTURE of the ECONOMY
+(% of GDP)
+Aaricuiture
+lndustrv
+Manufacturina
+Services
+Private consumption
+General aovernment consumption
+Imports of aoods and services
+(average annual clmwthf
+Aqnculture
+Industw
+Manufactunna
+Services
+Private consumption
+General aovernment COnSUmPtlOn
+Gross domestic investment
+Imports of goods and services
+
+..
+..
+..
+
+..
+
+..
+
+..
+
+..
+
+Economic ratios'
+Trade
+
+Domestic
+savings
+
+-
+
+' I
+
+_ _ Investment
+
+i
+_
+
+Indebtedness
+Kazakhstan
+Lower-middle-incomeamun
+
+Growth of investment and GDP (%)
+
+GDI
+
++GDP
+
+Growth of exports and imports (%)
+
+ZOL
+
+Exports
+
+*Imports
+
+Note: 2003 data are preliminaryestimates.
+
+'The diamonds show four kev indicators in the country (in bold) compared with its income-qroup averaqe. If data are missina. the diamond will
+
+be incomplete.
+*' Infant mortality is from the independent 2001 household survey. The oftical coefficient of infant mortalitv is 17 (per 1.000 live birth) in 2002.
+*** Total debt indudes intra-companv loans.
+
+I
+I
+
+Page 30
+
+Kazakhstan County Partnership Strategy
+
+(continued)
+PRICES and GOVERNMENT FINANCE
+Domestic Drices
+I%chanoeJ
+Consumer Dnces
+Implicit GDP deflator
+
+1983
+
+Government finance ****
+f% of GDP, rncludes current wants1
+Current revenue
+Current budget balance
+Overall surDlus/deficit
+TRADE
+
+IUS$ millions)
+Total exDorts (fob)
+Fuel and oil products
+Ferrous metals
+Manufactures
+Total imDorts (an
+Food
+Fuel and enemv
+Capital aoods
+
+1983
+
+1993
+
+2002
+
+2003
+
+2.165.0
+1,243.5
+
+6.6
+5.8
+
+6.8
+7.9
+
+19.8
+-0.7
+4.0
+
+22.4
+5.2
+1.3
+
+25.2
+7.9
+2.1
+
+1993
+
+2002
+
+2003
+
+3.586
+
+10.027
+5.641
+1.139
+1.299
+7.726
+280
+760
+2,806
+
+13.233
+7.912
+1.538
+1.441
+9.144
+360
+916
+3,565
+
+5.127
+
+Emort Dnce index 11995=100J
+lmwrt Dnce index f1995=1001
+Terms of trade (1995=1001
+BALANCE of PAYMENTS
+
+IUS$ milhons)
+Ex~ortsof aoods and services
+ImDorts of aoods and services
+Resource balance
+Net income
+Net current transfers
+
+1993
+
+2002
+
+2003
+
+4.396
+5.555
+-1.159
+
+11.611
+11,463
+148
+
+15.006
+13.169
+1.837
+
+45
+129
+
+-1.127
+114
+
+-1,741
+-165
+
+Current amount balance
+
+-1.075
+
+-866
+
+-69
+
+Financina items (net)
+Changes in net reserves
+
+1.441
+-366
+
+1.401
+-535
+
+1.602
+-1.534
+
+711
+1.3
+
+3.141
+153.3
+
+4.962
+149.6
+
+1993
+
+2002
+
+2003
+
+518
+0
+0
+
+18.201
+1.232
+0
+
+22.859
+1.226
+0
+
+11
+0
+0
+
+4.096
+120
+0
+
+5.180
+134
+
+Memo:
+Reserves including gold /US$ millions1 ***'*
+Conversion rate (DEC. localNSSf
+EXTERNAL DEBT and RESOURCE FLOWS
+(US$ milliond
+Total debt outstanding and disbursed
+IBRD
+IDA
+Total debt service
+IBRD
+IDA
+
+1983
+
+Composition of net resource flows
+Official grants
+Official creditors
+Private creditors
+Foreian direct investment
+Portfolio eauitv
+
+11
+170
+171
+474
+0
+
+20
+1,809
+2.583
+
+World Bank Droaram
+Commitments
+Disbursements
+PrinciDal reDavments
+Net flows
+Interest Davments
+Net transfers
+
+218
+0
+0
+0
+0
+0
+
+0
+92
+63
+29
+57
+-28
+
+Development Economics
+
+98
+
+W
+
+99
+
+01
+
+GDP deflator
+
+02
+
+03
+
++CPI
+
+I Export and import levels (US$ mill.)
+114.000
+112.000
+
+i
+
+I
+
+97
+
+98
+
+99
+
+W
+
+BExports
+
+i
+
+1983
+
+I
+
+Inflation (YO)
+
+01
+
+03
+
+02
+
+mlmports
+
+Current account balance to GDP (%)
+4-
+
+-6
+-7
+
+-
+
+I
+
+Composition of 2003 debt (US$ mill.)
+1226
+01
+/
+
+\
+1
+
+\
+
+'u'
+
+I
+40
+71
+76
+-6
+
+17900
+
+A - IBRD
+B IDA
+
+-
+
+C-IMF
+
+D Other multilateral
+~
+
+E . Bilateral
+F - Private
+G Short-ten
+~
+
+4/14/04
+
+***+ Government finance data includes revenue of the National Fund of the Republic of Kazakhstan (NFRK). an extra-budaetarv oil fund.
+***** Central Bank's reserves do not include the NFRK assets (US$3.663 million in 2003).
+
+Pane
+31
+
+Kazakhstan County Partnership Strategy
+
+CPS Annex Table 3: Selected Indicators of Portfolio Performance
+As Of Date 04/06/2004
+
+Indicator
+Portfolio Assessment
+Number of Projects Under Implementationa
+Average Implementation Period (years)
+Percent of Problem Projects by Number
+Percent of Problem Projects by Amount a,
+Percent of Projects at Risk by Number a,
+Percent of Projects at Risk by Amount a,
+Disbursement Ratio (YO)e
+Portfolio Management
+CPPR during the year (yedno)
+Supervision Resources (total US$)
+Average Supervision (US$/project)
+Memorandum item
+Proj Eva1 by OED by Number
+Proj Eva1 by OED by Amt (US$ millions)
+% of OED Projects Rated U or HU by Number
+% of OED Projects Rated U or HU by Amt
+a.
+b.
+c.
+d.
+e.
+
+2001
+
+2002
+
+2003
+
+2004
+
+13
+3.5
+23.1
+12.3
+23.1
+12.3
+13.4
+
+9
+3.9
+22.2
+18.7
+22.2
+18.7
+20.8
+
+9
+3.7
+0.0
+0.0
+0.0
+0.0
+27.9
+
+8
+4.3
+0.0
+0.0
+0.0
+0.0
+17.0
+
+Since FY 80 Last Five FYs
+16
+12
+1,I
+57.6
+578.6
+18.8
+25.0
+2.6
+5.1
+
+As shown in the Annual Report on Portfolio Performance (except for current FY).
+Average age of projects in the Bank's country portfolio.
+Percent of projects rated U or HU on development objectives (DO) and/or implementation progress (IP).
+As defined under the Portfolio Improvement Program.
+Ratio of disbursements during the year to the undisbursed balance of the Bank's portfolio at the
+beginning of the year: Investment projects only.
+* All indicators are for projects active in the Portfolio, with the exception of Disbursement Ratio,
+which includes all active projects as well as projects which exited during the fiscal year.
+
+Kazakhstan Countrv Partnership Stratem
+
+Pane 32
+
+CPS Annex Table 4: Kazakhstan Social Indicators
+Same regionlincome group
+
+2003
+
+Kazakhstan
+
+Europe &
+Central
+Asia
+
+Lowermiddleincome
+
+POPULATION
+Total population, mid-year (millions)
+Growth rate (% annual average for period)
+Urban population (% of population)
+Total fertility rate (births per woman)
+
+14.9
+0.4
+56.9
+1.9
+
+472.9
+0.0
+63.6
+1.6
+
+2,408.5
+0.9
+49.4
+2.1
+
+POVERTY
+(% of population)
+National headcount index
+Urban headcount index
+Rural headcount index
+
+24.2
+15.6
+34.7
+2,160
+
+1,400
+
+4.3
+4.3
+
+2.7
+4.0
+
+INCOME
+GNI per capita (US$)
+Consumer price index (1995=100)
+Food price index (19 9 5 4 00)
+INCOMWCONSUMPTION DISTRIBUTION
+Gini index I /
+Lowest quintile (% of income or consumption)
+Highest quintile (% of income or consumption)
+SOCIAL INDICATORS
+Public expenditure
+Health (% of GDP)
+Education (% of GDP)
+Social security and welfare (% of GDP)
+Net primary school enrollment rate
+(% of age group)
+Total
+Male
+Female
+Access to an improved water source
+(% of population)
+Total
+Urban
+Rural
+Immunization rate
+(% of children ages 12-23 months)
+Measles
+DPT
+Child malnutrition (% under 5 years)
+Life expectancy at birth
+(years)
+Total
+Male
+Female
+Mortality
+Infant (per 1,000 live births) 2/
+Under 5 (per 1,000 live births)
+Adult (15-59)
+Male (per 1,000 population)
+Female (per 1,000 population)
+Maternal (modeled, per 100,000 live births)
+Births attended by skilled health staff (%)
+
+1,780
+262
+238
+31.2
+7.0
+39.6
+
+2.0
+3.3
+5.4
+
+90
+90
+89
+
+91
+92
+92
+
+53
+
+91
+96
+83
+
+81
+95
+70
+
+95
+95
+4
+
+93
+92
+
+78
+84
+9
+
+66
+61
+71
+
+69
+64
+73
+
+69
+67
+72
+
+81
+99
+
+31
+37
+
+32
+40
+
+366
+201
+210
+99
+
+317
+137
+
+212
+131
+
+Note: 0 or 0.0 means zero or less than half the unit shown. Net enrollment rate: break in series
+between 1997 and 1998 due to change from ISCED76 to ISCED97. Immunization: refers to
+children ages 12-23 months who received vaccinations before one year of age.
+Sources: Poverty Monitoring Indicators in Kazakhstan. UNDP/Kazakhstan Statistical Agency, 2003;
+2004 World Development Indicators CD-ROM, World Bank.
+1/ WB staff calculation based on HBS is 36 in 2002 (see Dimensions of Poverty in Kazakhstan).
+Z WB staff estimate.
+
+Pane 33
+
+Kazakhstan Countw Partnership Stratem
+
+CAS Annex Table 5: Kazakhstan - Key Economic Indicators
+
+Indicator
+National accounts(as % o f GDP)
+Gross domstic p r o d d
+Oil and gasb
+Industry'
+senices
+Non-oil-and-gas
+Agricdhre
+Indushy'
+
+1999
+
+Actual
+2000
+2001
+
+prelim
+2003
+
+2002
+
+25
+52
+
+67
+11
+56
+24
+4
+20
+15
+5
+3
+14
+
+67
+12
+55
+25
+5
+20
+14
+5
+3
+15
+
+71
+12
+60
+24
+4
+20
+14
+7
+3
+15
+
+47
+41
+22
+5
+5
+2
+46
+31
+
+50
+5
+5
+3
+44
+31
+
+49
+44
+24
+5
+5
+3
+43
+32
+
+28
+23
+27
+
+33
+8
+25
+27
+
+22
+3
+19
+1491
+1350
+0.9
+24.4
+
+25
+4
+21
+1659
+1520
+1.o
+24.9
+
+13.5
+23.2
+11.9
+9.6
+19.2
+7.8
+
+9.8
+12.9
+9.3
+9.1
+-4.3
+12.2
+
+100
+15
+14
+2
+85
+9
+25
+51
+
+100
+16
+14
+
+Consumptiond
+G o v e m n t administration
+Rest o f the economy
+Gross domestic fixed i n v e s m t
+G o v e m t administration
+Rest o f the economy
+Oil and gasb
+Non-oil-and-gas
+Change in stocks
+Non-oil-and-gase(as % o f n o n 4 l GDP)
+
+80
+12
+68
+16
+2
+15
+9
+6
+2
+IO
+
+73
+12
+61
+17
+1
+16
+13
+3
+1
+11
+
+74
+13
+61
+24
+1
+22
+16
+6
+3
+12
+
+72
+12
+60
+24
+3
+21
+16
+6
+3
+14
+
+Exports (GNFS)'
+Merchandise FOB
+Oil and gas
+Ferrous metals
+Manufactures
+Agnculture
+
+42
+35
+14
+5
+8
+3
+40
+33
+
+57
+51
+24
+6
+7
+4
+48
+37
+
+46
+40
+20
+5
+6
+2
+47
+34
+
+20
+-2
+23
+18
+
+27
+1
+25
+18
+
+26
+5
+21
+27
+
+Memorandum items
+Gross domestic product (US$ billion)
+Oil and gas
+Non-oil-and-gas
+GDP per capita (US$, at average exchange rate)
+GNI per capita (US,Atlas method)
+Oil production(million barrels per day)
+Oil price (US$ per barrel)
+
+17
+2
+15
+1130
+1290
+0.6
+18.1
+
+18
+3
+16
+1229
+1270
+08
+28.2
+
+Real annual growth rates (%)
+Gross domestic product at market prices
+Oil and gas
+Non-oil-and-gas
+Total Consumption
+G o v e m t administration
+Rest of the economy
+
+2.7
+18.6
+1.5
+1.4
+7.6
+0.5
+
+9.8
+26.5
+8.0
+3.1
+15.0
+1.2
+
+Gross domestic saving
+G o v e m n t administration
+Rest of the economy
+Gross national savings'
+
+2010
+
+100
+9
+7
+2
+91
+
+100
+14
+13
+1
+86
+9
+26
+50
+
+(GNW
+
+100
+16
+14
+
+Projected*
+2006
+2008
+100
+10
+8
+2
+90
+7
+28
+55
+
+100
+15
+14
+1
+85
+9
+27
+49
+
+Merchandise FOB
+
+2005
+100
+11
+IO
+2
+89
+7
+27
+54
+
+100
+10
+9
+1
+90
+10
+26
+54
+
+seniCeS
+
+2004
+
+(B6-1)
+
+5
+
+2012
+
+29
+56
+
+100
+10
+8
+2
+90
+6
+28
+56
+
+100
+12
+IO
+2
+88
+6
+27
+55
+
+74
+11
+62
+24
+4
+20
+13
+7
+3
+15
+
+73
+12
+61
+22
+3
+19
+12
+7
+2
+15
+
+74
+11
+62
+19
+3
+16
+8
+7
+2
+14
+
+72
+11
+60
+18
+3
+15
+8
+7
+2
+14
+
+42
+37
+17
+4
+4
+3
+40
+31
+
+41
+37
+16
+5
+5
+3
+41
+32
+
+40
+36
+15
+6
+5
+3
+37
+34
+
+41
+37
+17
+6
+6
+4
+36
+34
+
+46
+41
+21
+6
+6
+4
+38
+35
+
+33
+9
+24
+27
+
+29
+5
+23
+27
+
+26
+6
+21
+26
+
+27
+5
+22
+25
+
+26
+6
+21
+21
+
+28
+6
+23
+20
+
+30
+4
+25
+1996
+1780
+1.1
+28.9
+
+37
+5
+31
+2448
+2090
+1.2
+32.3
+
+40
+4
+36
+2637
+2450
+1.3
+23.0
+
+43
+4
+39
+2848
+2780
+1.5
+20.0
+
+49
+4
+45
+3221
+3 120
+1.7
+18.5
+
+56
+5
+50
+3587
+3470
+1.9
+19.5
+
+63
+7
+56
+4054
+3890
+2.5
+20.3
+
+9.2
+10.5
+9.0
+
+8.1
+15.0
+6.9
+8.6
+12.1
+7.8
+
+5.8
+4.2
+6.0
+11.3
+4.4
+12.8
+
+6.3
+11.1
+5.8
+9.6
+3.1
+10.9
+
+4.4
+9.4
+3.9
+0.5
+4.4
+4.2
+
+3.7
+6.7
+3.4
+2.5
+3.3
+2.3
+
+4.1
+9.6
+3.4
+2.7
+3.8
+2.5
+
+2
+84
+8
+24
+52
+
+44
+25
+
+7.1
+5.8
+7.4
+
+2
+84
+
+7
+
+7
+
+~~~
+
+Source: Ministry of Finance, National Bank ofthe Republic of Kazakhstan,Agency on Statistics and World Bank staff estimates.
+Projections for the 2004-12 periodare made by the World Bank and m y be slightly different 60m the Government's Mediurn-Tenn Fiscal F m w r k
+(e.g., 2004 growth rate is slightly lower than the one currently used by the Government). The definitions usedby the G o v e m t and the World Bank
+also differ (e.g.. since the WE3 consolidatesthe State Budget with the National Fmd and adjust i t e m to comply with internationalstandards).
+a GDP at factor cost (Gross Value Added).
+b. Oil and gas exbadon and exbadon-related services, processingand
+an estimate for oil-relatedconstruction, transportation, and oil field services (geological exploration).
+c. Includes construction.
+d Includes statistical discrepancy.
+e. Includes g o v e m t adminisiration and change in stocks.
+f. "GNFS denotes "goods and nonfactor services."
+g. Includes net unrequitedtransfersexcludingofficial capital grants.
+
+*
+
+CONTINUED(B6-2)
+
+Indicator
+
+Balance of Payments (US%millions)
+*&
+(WS)
+MerchandiseFOB
+Oil and gas
+
+m*(-)
+
+h4erchanclise FOB
+Trade balance
+Resource balance
+In”
+balance
+Net current transfers
+C m t t“
+balance
+Net private foreign direct investnmt
+
+Long-termloans (net?
+othercapital(net,incl.~&omissiorS)
+Changeinreserves
+Memr&
+items
+Resource balance (%of GDP)
+Annual growth ram (“A)
+
+( m s ) (real growth)
+
+Non-oil e
+
+m (dollar value grad)
+
+Non-extmdve exprts (dollarvdue p W h
+
+ma(WWrealg r o 4
+
+Tems oftrade (2000=100)
+Nomoi1tans of trade (2000=100)
+Labor market indicatols
+Labor force (million people)
+Participationrate (labor force as %of
+population at the age 15+)
+Unerrqloqment rate (%of labor force)
+
+Actual
+2000
+2001
+
+1999
+
+prelim
+2003
+
+2002
+
+2004
+
+2005
+
+Projected*
+2006
+2008
+
+2010
+
+2012
+
+6916
+5989
+2392
+6740
+5648
+340
+176
+-569
+157
+-236
+
+10420
+9288
+4387
+8852
+6848
+2440
+1568
+-1254
+249
+563
+
+10228
+8928
+4464
+10433
+7607
+1320
+-204
+-1237
+238
+-1203
+
+11611
+10027
+5363
+11463
+7726
+2301
+148
+-1127
+114
+-866 ’
+
+15006
+13233
+7501
+13169
+9144
+4088
+1837
+-1741
+-165
+-69
+
+18391
+16261
+9072
+16115
+11809
+4452
+2276
+-1312
+-177
+787
+
+16848
+14895
+6920
+16038
+12430
+2465
+809
+-1176
+-259
+-625
+
+17691
+15774
+7069
+17806
+13922
+1853
+-115
+-1038
+-340
+-1493
+
+19585
+17518
+7459
+18337
+16692
+826
+1248
+-968
+-297
+-16
+
+22958
+20569
+9254
+20155
+18932
+1637
+2802
+-1015
+-343
+1445
+
+29059
+25732
+13027
+23734
+21873
+3859
+5325
+-1450
+-414
+3460
+
+1468
+216
+
+1278
+-58
+
+2861
+463
+
+2163
+763
+
+2188
+2128
+
+2779
+1054
+
+2847
+752
+
+3040
+-27
+
+3197
+-1227
+
+2920
+-2456
+
+3082
+-3693
+
+-1194
+-254
+
+-1198
+-585
+
+-1736
+-385
+
+-1526
+-535
+
+-2713
+-1534
+
+-3214
+-1406
+
+-1751
+-1222
+
+-1055
+-464
+
+-1593
+-361
+
+-1351
+-557
+
+-2164
+-685
+
+1.0
+
+8.6
+
+-0.9
+
+0.6
+
+6.2
+
+6.2
+
+2.0
+
+-0.3
+
+2.5
+
+5.0
+
+8.4
+
+3.0
+-14.0
+
+28.7
+36.3
+
+-1.8
+-8.9
+
+22.6
+4.5
+
+5.9
+22.9
+
+11.2
+
+-7.9
+
+5.6
+
+5.9
+
+10.8
+
+9.2
+
+2.4
+0.6
+80.0
+94.3
+
+59.6
+26.1
+100.0
+100.0
+
+-2.0
+0.3
+94.0
+97.0
+
+13.8
+4.3
+95.7
+97.9
+
+32.7
+-6.3
+100.4
+101.0
+
+11.2
+107.5
+109.1
+
+0.0
+93.1
+106.3
+
+11.6
+87.1
+102.9
+
+4.8
+85.1
+103.0
+
+2.4
+86.1
+102.8
+
+9.4
+86.8
+102.6
+
+7
+
+7
+
+7
+
+7
+
+8
+
+66
+13
+
+66
+13
+
+70
+10
+
+70
+9
+
+69
+9
+
+* See Table B6-1
+h. Include interampany loans related to FDI inoil sector.
+i. Exclude “Is,
+fuel and oil products, base metals and base metals products other than f
+
+m &.
+
+’
+
+Page 35
+
+Kazakhstan Countw Partnership Strategy
+
+CONTINUED(B6-3)
+
+1999
+
+Actual
+2000
+2001
+
+2002
+
+Prelim
+2003
+
+2004
+
+2005
+
+17.9
+1.0
+1.0
+0.0
+16.9
+16.9
+0.0
+0.0
+23.1
+20.3
+1.9
+0.3
+0.9
+-5.2
+-5.2
+-6.1
+-6.8
+-2.5
+2.4
+
+21.9
+4.6
+4.6
+0.0
+17.3
+17.3
+0.1
+0.0
+22.8
+20.3
+1.8
+0.5
+0.7
+-1.0
+-1.0
+-5.6
+-6.5
+1.4
+1.2
+
+24.9
+6.8
+4.4
+2.3
+18.1
+17.6
+0.3
+0.5
+23.0
+19.5
+2.8
+1.0
+0.6
+1.9
+-0.9
+-4.9
+-5.6
+5.1
+0.3
+
+22.7
+5.1
+3.8
+1.3
+17.5
+17.2
+0.3
+0.3
+21.4
+17.2
+3.6
+0.3
+0.5
+1.3
+-0.3
+-3.9
+-4.5
+5.2
+-1.4
+
+25.4
+6.8
+4.0
+2.8
+18.6
+18.3
+0.3
+0.3
+23.3
+17.2
+5.6
+1.2
+0.5
+2.1
+-1.0
+-4.7
+-5.5
+7.9
+0.2
+
+27.2
+8.9
+5.5
+3.4
+18.3
+18.1
+0.3
+0.2
+25.4
+17.9
+6.9
+0.9
+0.6
+1.8
+-1.8
+-7.1
+-8.3
+8.9
+-1.1
+
+23.7
+4.7
+3.5
+1.2
+19.1
+18.8
+0.2
+0.3
+22.8
+18.0
+4.5
+
+23.1
+3.8
+3.3
+0.4
+19.3
+19.0
+0.2
+0.3
+22.1
+17.3
+4.5
+
+0.3
+0.9
+-0.5
+-3.8
+-4.2
+5.5
+0.2
+
+0.0
+0.0
+31.6
+24.8
+6.8
+
+0.0
+0.0
+25.5
+21.8
+3.6
+
+5.7
+1.3
+20.4
+17.6
+2.8
+
+7.9
+0.7
+17.7
+14.3
+3.3
+
+11.9
+1.5
+15.5
+11.7
+3.8
+
+14.3
+1.6
+14.8
+8.8
+6.0
+
+13.6
+84.4
+3.2
+
+15.3
+45.0
+4.3
+
+17.7
+45.1
+5.6
+
+20.3
+32.8
+7.1
+
+21.8
+26.8
+8.3
+
+Prices and foreign exchange rates
+8.3
+Consmr price index (YOchange)
+13.3
+GDP deflator (YOchange)
+~ e aexchange
+l
+rate (LCU/US$, ~~97=100)' 141.7
+0.0
+Real effective exchange rad (YR97=100)'
+
+13.2
+17.4
+154.0
+0.0
+
+8.4
+10.2
+150.8
+0.0
+
+5.8
+5.8
+151.2
+0.0
+
+6.4
+7.9
+141.8
+0.0
+
+Indicator
+finance (as % of GDP at market pricesj
+Total revenue
+Oil revenue
+Revenue kept by the State Wget
+R e m e accdated inthe NFRK
+Non-oil revenw
+Revenue kept by the State Budget
+of which Capital revenue
+m u e accumulatedinthe NFRK
+Total e&ture
+and net lending
+Current expaditures
+Cap~tale t u r e , of which
+o f which Capital transfers
+Net l d g
+overall balance
+State budget balance
+Norroil balance
+bbn-oilbalance (as % o f n o n d GDP)
+Current savings (Current account balance)
+Foreignfinancing
+
+PUMC
+
+Assets o f the National Fund of RK (NFRK)
+hkrm NFRK accdation (US$ billion)
+
+Govemtl~ntand govt-guar;inteed debt
+E k t d
+DorrestC
+
+Monetary indicators
+M?/GDP
+Growth o f h9 (Yo)
+Assets inpensionh d s (%of GDP)
+
+* See Table B6-1
+j. Consolidatedgeneral g o v e m n t ( i n c l w NFRK accutmlation).
+k An increase inthe index denotes depreciation
+1. S@le average of real exchange rates o f LCU(tenge) to USD, EUR and RUR
+
+Projected*
+2006 2008
+
+2010
+
+2012
+
+22.1
+3.0
+2.8
+0.1
+19.1
+18.8
+0.2
+0.3
+21.3
+16.8
+4.3
+
+22.1
+3.2
+2.8
+0.3
+18.9
+18.7
+0.2
+0.3
+20.8
+16.3
+4.3
+
+21.8
+3.2
+2.8
+0.4
+18.6
+18.3
+0.2
+0.3
+20.2
+15.8
+4.3
+
+0.3
+1.0
+0.3
+-2.8
+-3.1
+5.6
+-0.1
+
+0.2
+0.8
+0.3
+-2.2
+-2.4
+5.1
+
+0.2
+1.3
+0.7
+-1.9
+-2.0
+5.6
+
+0.1
+1.6
+0.9
+-1.6
+-1.8
+5.8
+
+15.2
+0.8
+14.2
+8.3
+5.9
+
+15.3
+0.6
+12.8
+7.6
+5.2
+
+14.2
+0.2
+10.8
+
+13.6
+0.3
+8.3
+
+13.3
+0.4
+5.6
+
+26.1
+36.6
+9.9
+
+28.8
+22.5
+11.3
+
+31.5
+21.4
+12.3
+
+37.6
+19.3
+13.2
+
+44.2
+17.4
+13.0
+
+48.6
+14.1
+12.4
+
+6.0
+7.2
+126.2
+
+5.0
+3.3
+125.7
+
+5.0
+4.5
+125.2
+
+5.0
+5.0
+124.2
+
+5.0
+5.0
+123.2
+
+5.0
+5.0
+122.2
+
+..
+
+._
+..
+
+Pane 36
+
+Kazakhstan C o u n t y Partnership Stratem
+
+Continued (B6-4)
+
+Sensitivity to Oil Price
+
+1999
+
+Actual
+2000
+2001
+
+2002
+
+Prelim.
+2003
+
+2004
+
+2005
+
+Projected*
+2006
+2008
+
+2010
+
+2012
+
+Oil price (US$ per barrel)
+Overall fiscal balance (%of GDP)
+Non-oil fiscal balance (as YOofnon-oil GDP)
+Public spending (% of GDP)
+Real growth o f public spending (%)
+Government and govt-guaranteeddebt (%of GDP)
+Stock o f assets in the NFRK (% of GDP)
+Real exchange rate (LCU/uS$, YR97=100)
+Real GDP growth (%)
+Oil and gas
+Non-oil-and-gas
+
+18.1
+-5.2
+-6.8
+23.1
+4.8
+31.6
+0.0
+141.7
+2.7
+18.6
+1.5
+
+28.2
+-1.0
+-6.5
+22.8
+12.7
+25.5
+0.0
+154.0
+9.8
+26.5
+8.0
+
+24.4
+1.9
+-5.6
+23.0
+16.1
+20.4
+5.7
+150.8
+13.5
+23.2
+11.9
+
+24.9
+1.3
+-4.5
+21.4
+2.2
+17.7
+7.9
+151.2
+9.8
+12.9
+9.3
+
+28.9
+2.1
+-5.5
+23.3
+20.8
+15.5
+11.9
+141.8
+9.2
+10.5
+9.0
+
+32.3
+1.8
+-8.3
+25.4
+17.5
+14.8
+14.3
+126.9
+8.1
+15.0
+6.9
+
+23.0
+0.9
+-4.2
+22.8
+-4.8
+14.2
+15.2
+126.4
+5.8
+4.2
+6.0
+
+20.0
+1.0
+-3.1
+22.1
+2.9
+12.8
+15.3
+125.9
+6.3
+11.1
+5.8
+
+18.5
+0.8
+-2.4
+21.3
+2.9
+10.8
+14.2
+124.9
+4.4
+9.4
+3.9
+
+19.5
+1.3
+-2.0
+20.8
+2.4
+8.3
+13.6
+123.9
+3.7
+6.7
+3.4
+
+20.3
+1.6
+-1.8
+20.2
+2.9
+5.6
+13.3
+122.9
+4.1
+9.6
+3.4
+
+Memorandum item:
+GDP per capita (US$)
+
+1130
+
+1229
+
+1491
+
+1659
+
+1996
+
+2448
+
+2637
+
+2848
+
+3221
+
+3587
+
+4054
+
+18.1
+-5.2
+-6.8
+23.1
+-4.8
+31.6
+0.0
+141.7
+2.7
+18.6
+1.5
+
+28.2
+-1.0
+-6.5
+22.8
+12.7
+25.5
+0.0
+154.0
+9.8
+26.5
+8.0
+
+24.4
+1.9
+-5.6
+23.0
+16.1
+20.4
+5.7
+150.8
+13.5
+23.2
+11.9
+
+24.9
+1.3
+-4.5
+21.4
+2.2
+17.7
+7.9
+151.2
+9.8
+12.9
+9.3
+
+28.9
+2.1
+-5.5
+23.3
+20.8
+15.5
+11.9
+141.8
+9.2
+10.5
+9.0
+
+32.3
+1.8
+-8.3
+25.4
+17.5
+14.8
+14.3
+126.9
+8.1
+15.0
+6.9
+
+30.0
+2.2
+-6.6
+24.1
+0.2
+13.9
+16.2
+126.1
+5.5
+-2.9
+7.0
+
+30.0
+3.0
+-6.3
+23.8
+5.6
+12.1
+17.8
+125.3
+7.0
+8.2
+6.8
+
+30.0
+3.4
+-5.3
+22.8
+3.1
+8.0
+19.7
+123.7
+4.3
+0.6
+4.9
+
+30.0
+3.3
+4.7
+22.2
+3.4
+5.0
+21.6
+122.1
+4.9
+8.1
+4.4
+
+30.0
+2.8
+-4.4
+21.6
+3.7
+4.0
+23.8
+120.5
+4.6
+5.8
+4.4
+
+1130
+
+1229
+
+1491
+
+1659
+
+1996
+
+2448
+
+2638
+
+2873
+
+3307
+
+3765
+
+4381
+
+18.1
+-5.2
+-6.8
+23.1
+-4.8
+31.6
+0.0
+141.7
+2.7
+18.6
+1.5
+
+28.2
+-1.0
+-6.5
+22.8
+12.7
+25.5
+0.0
+154.0
+9.8
+26.5
+8.0
+
+24.4
+1.9
+-5.6
+23.0
+16.1
+20.4
+5.7
+150.8
+13.5
+23.2
+11.9
+
+24.9
+1.3
+4.5
+21.4
+2.2
+17.7
+7.9
+151.2
+9.8
+12.9
+9.3
+
+28.9
+2.1
+-5.5
+23.3
+20.8
+15.5
+11.9
+141.8
+9.2
+10.5
+9.0
+
+32.3
+1.8
+-8.3
+25.4
+17.5
+14.8
+14.3
+126.9
+8.1
+15.0
+6.9
+
+15.0
+-1.5
+-2.8
+22.3
+-14.9
+16.9
+15.5
+126.7
+-3.4
+-51.2
+5.0
+
+15.0
+-0.8
+-2.6
+22.0
+3.8
+16.9
+15.6
+126.5
+5.1
+8.7
+4.8
+
+15.0
+-0.5
+-2.3
+21.4
+1.9
+17.1
+14.9
+126.1
+2.8
+1.1
+2.9
+
+15.0
+-0.4
+-2.1
+21.1
+2.1
+17.4
+14.4
+125.7
+2.9
+8.7
+2.4
+
+15.0
+-0.4
+-2.0
+20.7
+2.2
+17.3
+13.7
+125.3
+2.8
+6.3
+2.4
+
+1130
+
+1229
+
+1491
+
+1659
+
+1996
+
+2448
+
+2404
+
+2559
+
+2823
+
+3073
+
+3397
+
+Indicator
+Baseline scenario"
+
+Higher oil price scenariom
+Oil price (US$ per barrel)
+Overall fiscal balance (% of GDP)
+Non-oil fiscal balance (as % o f non-oil GDP)
+Public spending (YOo f GDP)
+Real growth o f public spending (%)
+
+Governmentand govt-guaranteeddebt (%of GDP)
+Stock o f assets in the NFRK (% o f GDP)
+Real exchangerate (LCUiUS$, YR97=100)
+Real GDP growth (%)
+Oil and gas
+Non-oil-and-gas
+Memorandum item:
+
+GDP per capita (US$)
+Lower oil price scenario"
+Oil price (US$ per barrel)
+Overall fiscal balance (% of GDP)
+
+Non-oil fiscal balance (as % o f non-oil GDP)
+Public spending (% o f GDP)
+Real growth o f public spending(%)
+Government and govt-guaranteed debt (%of GDP)
+Stock o f assets in the NFRK (% o f GDP)
+Real exchange rate @CU/US$, YR97=100)
+Real GDP growth (?h)
+Oil and gas
+Non-oil-and-gas
+Memorandum item:
+
+GDP per capita (US$)
+
+* See Table B6- 1
+m The three different paths of oil prices are chosen arbitrarily to illustrate the possible impact o f these changes on the economy.
+n. An increase in the index denotes depreciation.
+
+Kazakhstan Countrv Partnershiu Strategv
+
+Page 37
+
+CPS Annex Table 6: Kazakhstan -- Key Exposure Indicators
+
+Indicator
+
+Actual
+2000
+2001
+
+1999
+
+Prelim.
+2003
+
+2002
+
+Projected
+2005
+2006
+
+2004
+
+12081
+3619
+436
+8025
+6163
+
+12684
+3929
+0
+8755
+693 1
+
+15157
+3800
+0
+1I358
+8879
+
+18201
+348 1
+0
+14720
+10709
+1352
+2659
+327
+
+22859
+3623
+0
+19236
+12029
+3465
+3742
+493
+
+26394
+3219
+0
+23176
+13419
+
+30697
+3293
+0
+27404
+14842
+
+34756
+3269
+0
+3 1487
+16364
+
+Net disbursements (US$m)a
+
+-103
+
+84
+
+1071
+
+448
+
+2386
+
+1522
+
+1667
+
+1646
+
+Total debt service (TDS) (US$m)a
+
+1890
+
+3278
+
+3834
+
+4096
+
+5180
+
+5973
+
+6832
+
+1643
+
+171.7
+71.6
+26.9
+3.2
+
+119.4
+69.3
+30.9
+3.2
+
+143.9
+68.4
+36.4
+2.6
+
+152.3
+73.9
+34.3
+
+149.4
+76.8
+33.9
+
+156.2
+72.5
+35.3
+
+181.9
+76.5
+40.5
+
+199.8
+78.0
+43.9
+
+8.8
+35.6
+1.O
+1116
+0
+
+9.4
+62.6
+0.8
+1143
+0
+
+21.6
+29.7
+1.o
+1203
+0
+
+18.9
+28.6
+1.O
+1232
+0
+
+26.4
+39.7
+0.9
+1226
+
+28.8
+43.5
+0.9
+1204
+0
+
+28.7
+43.6
+0.9
+1142
+
+0
+
+25.4
+38.2
+0.9
+1211
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+129.80
+87.30
+42.50
+
+133.77
+89.88
+43.89
+
+140.78
+89.38
+51.40
+
+145.66
+86.36
+59.30
+
+266.18
+165.16
+101.02
+
+265.90
+163.16
+102.74
+
+IFC (US$m)- disbursement balance
+Loans
+Equity and quasi-equity /c
+
+64.00
+42.20
+21.80
+
+92.49
+70.68
+21.81
+
+101.49
+74.68
+26.81
+
+115.42
+86.11
+29.31
+
+202.69
+133.11
+69.58
+
+235.46
+164.1 1
+71.35
+
+IFC (US$m)- outstanding balance
+Loans
+Equity and quasi-equity /c
+
+62.22
+40.43
+21.79
+
+89.18
+65.98
+23.20
+
+84.32
+63.61
+20.71
+
+92.63
+61.53
+31.10
+
+157.07
+90.84
+66.23
+
+175.52
+110.85
+64.67
+
+24
+
+11
+
+Total debt outstanding and disbursed (TDO) (US$m)"
+Government and govt-guaranteed private debt
+IMF credit
+Private non-guaranteed debt
+Intra-companyliabilities (FDI related)
+Commercial banks
+Other, o f which
+State-owned enterprises (12 National Companies)
+
+Debt and debt service indicators (%)
+TDO~XGS~
+TDO/GDP
+TDSKGS
+Concessional/TDO
+IBRD exposure indicators (%)
+IBRD DS/public DS
+Preferred creditor DSipublic DS (%)'
+IBRD DSKGS
+IBRD TDO (US$m)d
+
+Of which present value o f guarantees (US$m)
+
+0
+
+Share of IBRD portfolio ("A)
+
+IDA TDO (US$mld
+IFC (US$m)-net commitment balance
+Loans
+Equity and quasi-equity i c
+
+MIGA
+MIGA guarantees (USSm)
+
+A
+
+1 .
+
+a. Includes govemment and govemment-guaranteeddebt, private non-guaranteed, use of IMF credits and net shortterm capital. Does not include domestic debt.
+b. "XGS" denotes exports o f goods and services, including workers' remittances.
+c. Preferredcreditors are defined as IBRD, IDA, the regional multilateraldevelopment banks, the IMF, and the
+Bank for InternationalSettlements.
+d. Includes present value of guarantees.
+e. Includes equity and quasiequity types o f both loan and equity instruments.
+
+x
+
+v)
+
+t
+
+6
+
+U
+4
+
+'c
+
+0
+
+m
+
+b
+
+.
+m
+m
+
+m
+
+b
+
+.-c
+
+

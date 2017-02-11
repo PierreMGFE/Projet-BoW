@@ -1,0 +1,6024 @@
+Public Disclosure Authorized
+
+Document of
+The World Bank
+
+FOR OFFICIAL USE ONLY
+
+Public Disclosure Authorized
+
+Public Disclosure Authorized
+
+Report No. 61307 - ML
+
+INTERNATIONAL DEVELOPMENT ASSOCIATION
+AND
+INTERNATIONAL FINANCE CORPORATION
+
+COUNTRY ASSISTANCE STRATEGY PROGRESS REPORT
+FOR
+THE REPUBLIC OF MALI
+FOR THE PERIOD FY08-FY11
+
+Public Disclosure Authorized
+
+April 28, 2011
+
+Country Department for Mali
+AFCW3
+Africa Region
+The International Finance Corporation
+Sub-Saharan Africa Department
+
+This document has a restricted distribution and may be used by recipients only in the performance of
+their official duties. Its contents may not otherwise be disclosed without World Bank authorization.
+
+The last Country Assistance Strategy for Mali (report No.41746 - ML) was discussed by the
+Board on February 5, 2008.
+CURRENCY EQUIVALENTS
+Exchange rate effective on April 21, 2011
+Currency Unit = CFA Franc (CFAF)
+$1 = CFAF 449
+GOVERNMENT FISCAL YEAR
+January 1 – December 31
+WEIGHTS AND MEASURES
+Metric System
+
+ACRONYMS AND ABBREVIATIONS
+
+AAA
+AFD
+AfBD
+AMADER
+
+API- Mali
+
+ARV
+BHM
+BIM
+BoA
+CAADP
+CAS
+CASPR
+CC
+CD
+CENA
+CFAF
+CMDT
+
+CPAR
+CSIF
+DPL
+DPT
+DRM
+DSA
+
+Analytical and Advisory Activities
+Agence Française de Développement
+(French Agency for Development)
+African Development Bank
+Agence Malienne pour le
+développement de l’énergie (Malian
+Agency for Energy Development)
+Agence de Promotion des
+Investissements (Malian Investment
+Promotion Agency)
+Antiretroviral
+Banque de l’Habitat du Mali (Malian
+Housing Bank)
+Banque d’Investissement du Mali
+(Malian Investment Bank)
+Bank of Africa
+Comprehensive Africa Agriculture
+Country Assistance Strategy
+Country Assistance Strategy Progress
+Report
+Climate Change
+Capacity Development
+Capacity Enhancement Needs
+Assessments
+CFA Franc
+Compagnie Malienne pour le
+Développement des Textiles (Malian
+Ginning Company)
+Country Procurement Assessment
+Report
+Country Strategic Investment
+Framework
+Development Policy Loan
+Diptheria, Pertussis and Tetanus
+Disaster Risk Management
+Debt Sustainability Analysis
+
+DTIS
+ECF
+ECOWAS
+EDM
+EFA-FTI
+ESSD TF
+EU
+EITI
+ESW
+EU
+FIAS
+FSAP
+FY
+GAC
+GBD TA
+GDP
+GEF
+GoM
+GPRSF
+GSP
+ha
+HIV/AIDS
+
+ICA
+ICT
+IDA
+IDF
+
+Diagnostic Trade Integration Study
+Extended Credit Facility
+Economic Community of West
+African States
+Electricité du Mali (Electricity of
+Mali)
+Education For All – Fast-Track
+Initiative
+Trust Fund for Environmentally and
+Socially Sustainable Development
+European Union
+Extractive Industries Transparency
+Initiative
+Economic and Sector Work
+European Union
+Foreign Investment Advisory Service
+Financial Sector Assessment Program
+Fiscal Year
+Governance and Anti-Corruption
+Governance and Budget
+Decentralization TA operation
+Gross Domestic Product
+Global Environment Fund
+Government of Mali
+Growth and Poverty Reduction
+Framework
+Growth Support Project
+Hectare
+Human Immunodeficiency
+Virus/Acquired Immunodeficiency
+Syndrome
+Investment Climate Assessment
+Information and Communication
+Technologies
+International Development Agency
+Institutional Development Fund
+
+IFC
+IMF
+Kg
+JAS
+JSAN
+M&E
+MDG
+MIGA
+MoU
+MSME
+MTEF
+MW
+NRM
+OHADA
+
+ON
+PAGAM
+- GFP
+
+PAPAM
+
+PEFA
+PEMFAR
+PER
+PETS
+PFM
+
+International Finance Corporation
+International Monetary Fund
+Kilogram
+Joint Assistance Strategy
+Joint Staff Advisory Note
+Monitoring and evaluation
+Millennium Development Goal
+Multilateral Investment Guarantee
+Agency
+Memorandum of Understanding
+Micro, Small and Medium Enterprises
+Mid-Term Expenditure Framework
+Mega Watt
+Natural Resource Management
+Organisation pour l’Harmonisation
+du Droit des Affaires en Afrique
+(Organization for the Harmonization
+of Business Law in Africa)
+Office du Niger
+Plan d’Action Gouvernemental pour la
+Modernisation et le Renforcement de la
+Gestion des Finances Publiques (Action
+Plan for Modernizing and Strengthening
+Public Financial Management)
+Projet d’appui à la productivité
+agricole au Mali (Agriculture
+Productivity Project)
+Public Expenditure and Financial
+Accountability
+Public Expenditure Management and
+Financial Accountability Review
+Public Expenditure Review
+Public Expenditure Tracking Survey
+Public Financial Management
+
+IDA
+Vice President: Obiageli K. Ezekwesili (AFRVP)
+Acting Country Director: Ousmane Diagana (AFCW3)
+Task Team Leader: Sybille Crystal (AFCML)
+
+PHRD
+
+Japan Policy and Human Resources
+Development Fund
+PIU
+Project Implementation Unit
+PRODEC
+Programme de Développement
+Décennal de l’Education (Ten Year
+Edcuation Development Program)
+PRSC
+Poverty Reduction Support Credit
+PRSP
+Poverty Reduction Strategy Paper
+PSD
+Private sector development
+RH
+Reproductive health
+SDR
+Special Drawing Rights
+SHA
+Secrétariat à l’Harmonisation de
+l’Aide (Aid Harmonization
+Secretariat)
+SLM
+Sustainable Land Management
+SME
+Small and Medium Enterprise
+SREP
+Scaling Up Renewable Energy in Low
+Income Countries Program
+SOTELMA Société des Télécommunications du
+Mali (Malian Telecommunication
+company)
+SSN
+Social Safety Net
+STEP
+Support and Training for
+Entrepreneurship Program
+SWAp
+Sector-Wide Approach
+T/ha
+Ton per hectare
+TA
+Technical Assistance
+UN
+United Nations
+UNDP
+United Nations Development Program
+WAEMU
+West African Economic and
+Monetary Union
+WAPP
+West Africa Power Pool
+WBG
+World Bank Group
+WBI
+World Bank Institute
+
+IFC
+Vice President: Thierry Tanoh (CXAVP)
+Director:Yolande Duhem (CAFWO)
+Senior Country Officer: Jérôme Cretegny (CAFW3)
+
+The following World Bank Group Staff contributed to the preparation of the CAS Progress Report: Sybille Crystal
+(TTL), Christian Eghoff, Fily Bouaré Sissoko, Clara Ana Coutinho de Sousa, Cheick Diop, Simon Davies, Tawfik
+Ramlootah, Fabio Galli, Fabrice Bertholet, Olivier Durand, Abdoulaye Touré, Yeyande Sangho, Agadiou Dama,
+Taoufiq Bennouna, Pierre Kamano, Aissatou Diack, John May, Setareh Razmara, Zié Coulibaly, Michel Noel, André
+Ryba, Fadwa Bennani, Leonardo Iacovone, Maiko Miayke, Michel Rogy, Brigitte Bocoum, Amadou Dem, Jérôme
+Crétegny, Deo Ndikumana, Conor Healy, Karima Laouali Ladjo, Mohamed Touré, Ronke Ogunsulire, and Frank
+Douamba. The team benefited from advice and guidance from Ousmane Diagana.
+
+MALI
+COUNTRY ASSITANCE STRATEGY
+TABLE OF CONTENTS
+I.
+II.
+
+III.
+
+IV.
+V.
+
+Page
+INTRODUCTION ...................................................................................................................... 1
+COUNTRY CONTEXT .............................................................................................................. 1
+A. Political and Security Context ............................................................................................... 1
+B. Economic Context ................................................................................................................ 2
+C. Social and Poverty context .................................................................................................... 3
+CAS IMPLEMENTATION PROGRESS .................................................................................... 4
+A. Progress on CAS Strategic Objective I: Promote rapid and broad-Based Growth ................. 4
+B. Progress on CAS Strategic Objective II: Strengthen Public Sector Performance................... 6
+C. Implementation Progress ...................................................................................................... 7
+D. Partnership and the Aid Effectiveness Agenda...................................................................... 9
+STRENGTHENED AND EXTENDED CAS PROGRAM ....................................................... 10
+MANAGING RISKS ................................................................................................................ 12
+
+List of Appendixes
+Country Specific appendixes
+Appendix 1:
+Mali CAS Updated Results Matrix
+Appendix 2:
+IDA Lending and Analytical Program
+Appendix 3:
+Status of MDGs
+Appendix 4:
+IFC and MIGA Programs
+Appendix 5:
+Partnership and Aid Effectiveness
+Appendix 6:
+Climate Change Effects on Malian Main Development Sectors
+Appendix 7:
+Mali Country At-A-Glance
+Standard CAS Annexes
+CAS Annex B2:
+Selected Indicators of Bank Portfolio Performance and Management
+CAS Annex B3:
+IDA Program Summary
+CAS Annex B6:
+Key Economic Indicators
+CAS Annex B7:
+Key Exposure Indicators
+CAS Annex B8:
+Operations Portfolio (IDA and Grants)
+CAS Annex B8:
+Statements of IFC‟s Held and Disbursed Portfolio
+Map No. IBRD 33443
+
+I.
+
+INTRODUCTION
+
+1.
+The Country Assistance Strategy Progress Report (CASPR) reviews the relevance of the
+Bank’s FY08-11 Country Assistance Strategy (CAS) for Mali. The CAS supports Mali‟s second
+poverty reduction strategy, the Growth and Poverty Reduction Strategy Framework (GPRSF),
+designed as the first phase of the 10-year action plan to achieve the Millennium Development Goals
+(MDGs). The 2007-2011 GPRSF promotes strong growth of average 7 percent per year and targets a
+reduction in poverty incidence from 56 percent in 2007 to 51.2 percent in 2011 through wealth
+generation, employment creation and strengthened public sector performance. The GPRSF is
+articulated around three strategic pillars: (1) developing infrastructure and strengthening productive
+sectors; (2) consolidating the public sector structural reform agenda; and (3) strengthening the social
+sector. The CAS selectively assists the Government of Mali (GoM) in achieving its key GPRSF
+objectives. This CASPR provides an update on the country context, progress toward achieving the
+CAS objectives and outcomes, evolution of key risks, and introduces areas of emphasis in the
+framework going forward.
+2.
+The CASPR confirms that the strategic priorities of the CAS remain relevant and well aligned
+with national priorities and the Africa Strategy, and that progress toward CAS outcomes is broadly
+on track. The Bank‟s interventions, through its two strategic objectives to promote rapid and broadbased growth and to strengthen public sector performance, remain valid. Given Mali landlocked status,
+vulnerability to external shocks, low level of human development, and administrative capacity
+constraints, the new Africa Strategy endorsed by the Board of Director on March 1, 2011 provides a
+solid framework for moving towards achieving the CAS strategic goals. In that context, the CASPR
+emphasizes the need for attention in the key areas of competitiveness and employment, vulnerability
+and resilience, as well as governance and public sector capacity while deploying our partnership for
+more inclusive growth and social cohesion. Therefore, during the proposed CAS extension period, the
+Bank program will be a continuation of activities undertaken to support the GoM to enhance the
+regulatory and institutional framework for infrastructure and private investment to improve the
+provision of critical production factors as well as economic productivity and diversification, and to
+strengthen public sector efficiency for improved access to and delivery of basic social services. In
+addition, in order to take into account emerging challenges related to the volatility of commodity
+prices and the national and regional security situation and to respond to GoM‟s new priorities, special
+emphasis will be devoted to supporting the human development agenda and helping the GoM to
+address the population, education, youth, social protection, and urban and peri-urban challenges.
+II.
+
+COUNTRY CONTEXT
+
+A. POLITICAL AND SECURITY C ONTEXT
+3.
+Mali continues to enjoy political stability and is deepening its democratic process in the run
+up to the 2012 elections. Presidential and parliamentary elections will take place in April and July
+2012 respectively under a democratic system reinforced by the proposed constitutional reform package
+that includes the creation of an upper house of Parliament, strengthening of independent media and
+election watchdogs, and a new code of conduct for politicians. A referendum on the proposed changes
+is scheduled for 2011.
+4.
+Insecurity in Northern Mali persists. The current situation results from a confluence of illicit
+trafficking, global and regional terror networks, and armed groups connected indirectly or directly to
+the legacy of armed insurgencies in the region. The area historically depends on trans-border flows of
+goods and people, in particular with Algeria, Mauritania and Niger. Mali‟s geographic position
+explains al-Qaida in the Islamic Maghreb‟s presence in Northern Mali, a lightly populated area with
+few development solutions and hence susceptible to illicit economic activity. To overcome this
+-1-
+
+challenge, Mali emphasizes the need for a regional “Sahelo-Saharan” solution combined with well
+targeted development programs tailored to the specific needs of the North of Mali.
+5.
+Ongoing political crisis in Libya and Côte d’Ivoire makes Mali even more vulnerable to
+conflict and insecurity. Libya has a strong presence in Mali and plays a prominent role in the
+economy with major investments in several sectors, including banking, tourism, and agriculture.
+Furthermore, in the past, Libya‟s mediating role has been key in resolving conflict between Mali‟s
+central Government and the Tuareg communities in the northern part of the country. Libya is also
+home to thousands of Malian immigrants. In addition to their common membership in WAEMU, Côte
+d‟Ivoire and Mali maintain strong economic, social and cultural relationships. Côte d‟Ivoire remains
+Mali‟s biggest partner in the sub-region and its corridor still represents the channel for about 40
+percent of Mali‟s trade. In addition, there is a significant number of Malians citizens living in Côte
+d‟Ivoire.
+B. E CONOMIC C ONTEXT
+6.
+Despite a difficult international environment, Mali’s macroeconomic performance has been
+broadly favorable. The very limited integration of Mali with international capital markets insulated its
+economy from the direct effects of the global economic slowdown. Remittances dropped somewhat as
+labor markets weakened in Europe, but budget support by development partners was maintained. Real
+gross domestic product (GDP) growth averaged 5.1 percent a year in the 2008-2010 period driven by a
+strong performance of agriculture boosted by good climatic conditions, supportive policies ( including
+GoM‟s input subsidies) and robust prices for gold (75 percent of exports) that more than offset the
+decline in gold production. This contributed to the return of average inflation to 2.2 percent and 1.4
+percent in 2009 and 2010 respectively, after reaching 9.1 percent in 2008 due to the o il and food crisis.
+Year-on-year inflation reached 3.6 percent in January 2011 due to the rise in international commodity
+prices and to trade disruptions linked to the turmoil in Côte d‟Ivoire. Favorable terms of trade helped
+the external current account deficit (excluding official transfers) decrease from 13.9 percent of GDP in
+2008 to 9.0 percent of GDP in 2010.
+7.
+Fiscal performance in the 2008-2010 period was in line with the GoM’s program supported
+under the IMF ECF arrangement. Despite the food and fuel crisis of 2008, the basic fiscal deficit
+was maintained at the sustainable level of 1.0 percent of GDP. With the implementation of an
+extraordinary program of investments financed with resources from the privatization of the telecom
+parastatal, SOTELMA, the basic deficit is temporarily unsustainable but the GoM is implementing a
+credible plan to return the deficit to sustainable levels by 2013.
+8.
+While the medium-term macroeconomic outlook is favorable, Mali remains very vulnerable to
+exogenous shocks that may hamper its growth. Given the critical importance of agriculture in growth
+performance and consumer price trends, the Malian economy is particularly vulnerable to climatic
+shocks. The economy is also vulnerable to terms of trade shocks. Uncertainties increased in recent
+months with the political crisis in Cote d‟Ivoire and the political turmoil in Libya. Based on the above,
+real GDP growth is expected to be 5.3 percent in 2011 and to remain at that level during the 2012-14
+period driven by high gold, cotton and grain prices. Agriculture is projected to grow at 8.3 percent in
+2011 and 6.3 percent in the medium term. Average growth rate for gold is projected at 10 percent in
+2012 and 2013 before gold production starts declining moderately starting in 2014. The recent surge in
+commodity prices is expected to cause a moderate increase in inflation to about 4.5 percent in 2011,
+returning to below 3 percent from 2012. Buoyant gold and cotton prices are expected to more than
+offset high oil and food prices thus helping strengthen the external current account balance in 2011
+and beyond. The 2011 Budget Law targets a budget deficit of 2 percent of GDP, which could be
+revised to 2.5 percent to account for measures to mitigate the impact of the fuel and oil price increases
+on poverty. These could include reducing import taxes on some food items.
+-2-
+
+9.
+To increase its ability to respond to shocks, Mali needs to accelerate actions to increase
+productivity and diversify its economy. This is rendered more urgent by the projected decline of
+existing gold production, Mali‟s main source of foreign exchange and an important source of fiscal
+revenues, which has already increased debt vulnerabilities. While the effects of rising commodity
+prices have been rather positive on Mali on the supply side, with high gold prices mitigating the
+decline of production in 2010 and the reinvigoration of cotton production as a result of rising
+international cotton prices, there is concern on the demand side with oil prices affecting the balance of
+payments and the budget deficit as the GoM is reluctant to pass the increase in international prices to
+domestic consumers. In addition, caution should be exercised given the uncertainty of commodity
+prices over the medium and long term. In line with the new Africa Strategy, the Bank program is
+strengthening Mali‟s efforts to raise agricultural productivity, better link farmers to markets and
+increase resilience on the agriculture side through its support to Office du Niger (ON) designed to
+improve the management of irrigated agriculture, ongoing analytical work on growth, and policy
+dialogue on the need for selectivity in the agriculture subsidy policy. The Bank is also supporting the
+establishment of a transparent tariff adjustment mechanism for energy products. In addition, the 2010
+Debt Sustainability Analysis upgraded the risk of debt distress from low to moderate due to increased
+vulnerabilities related to higher volatility of gold exports.
+
+C. SOCIAL AND P OVERTY CONTEXT
+10. Rapid population growth and high levels of fertility pose challenges to economic growth,
+poverty reduction, and achievement of MDGs. Preliminary results of the 2009 population census
+highlight the urgency in tackling demographic issues. At current net growth rate of 3.6 percent per
+year, the population (14.5 million) will double in 23 years. With a total fertility rate of 6.6 children,
+unchanged for the last two decades, and a mortality rate for children under five declining steadily,
+population in Mali is bound to continue to increase for a long time, given its age structure. With such
+population growth, GDP per capita growth is only about 1.5 percent. Mali‟s high population growth
+puts excessive pressure on public resources for service delivery. Only 3 MDGs are likely to be
+achieved (see Appendix 3).
+11. Progress in expanding access to potable water has been made during the last decade, but the
+challenge remains to achieve the MDG targets. Access rate to safe drinking water is estimated at 73
+percent in 2009 (78 percent of the population served in rural areas and 91 percent in urban areas).
+While progress in water supply is remarkable, sanitation remains confronted with major challenges.
+Only 32 percent of households have access to improved sanitation services in rural areas and 45
+percent in urban areas. To sustain progress toward the MDG achievements, it would be necessary to
+provide water services to over 400,000 additional people each year and sanitation services to 720,000
+people. This would cost about US$110 million a year for water supply (excluding large water
+production investments) and US$30 million a year for sanitation.
+12. To reduce poverty, Mali needs to reach a higher level of GDP growth and better target propoor expenditures. GDP growth has not achieved the 7 percent required for rapid poverty reduction.
+Projections in the 2009 GPRSF Progress Report estimate poverty at 43.7 percent in 2009 (53.5 percent
+in rural areas from 57.6 percent in 2006 against 23.5 percent in urban areas from 25.5 percent in
+2006). Actual poverty rates are expected in the coming months based on data from the 2010 household
+survey. The positive economic indicators have not translated into much improved human development
+outcomes. The country ranks 160 out of 169 countries in UNDP‟s 2010 Human Development Index.
+13. Mali’s high vulnerability to a variety of shocks has increased the demand for social safety
+nets (SSN) programs. The scope and coverage of the existing SSN system is too limited and most
+interventions (mainly food transfers) are small in scale, designed as temporary programs, and financed
+-3-
+
+by external and ad hoc resources. Spending on SSN programs only corresponds to 0.5 percent of GDP,
+while over 25 percent of the population is food insecure. Given the needs of the chronic poor and the
+limited fiscal space available for SSN programs, an expansion of the SSN programs and an allocation
+of scarce resources to well targeted and cost-efficient programs are necessary.
+III.
+
+CAS IMPLEMENTATION PROGRESS
+
+14. Good progress toward CAS milestones and outcomes has been achieved and the CAS program
+is generally on track. Notable advances have been made in relation to improved agricultural
+productivity, irrigation capacities, competitiveness of selected supply chains, business environment,
+efficiency of public expenditure management, immunization coverage, and access to rural
+transportation, electricity, and education (in particular primary education). Progress has been
+particularly slow in the health sector. Also, further progress will be required during the remainder of
+the CAS period, especially on key institutional reforms which have faced delays due to the time
+needed to reach a consensual approach rather than a lack of GoM‟s commitment to the reform agenda.
+With regard to infrastructure, the key challenges that Mali needs to tackle are in the area of the
+institutional and regulatory framework in the energy sector as well as electricity tariff issues, and the
+restructuring of the TRANSRAIL concession. Mali needs to further promote private investment with a
+regulatory framework for industrial zones and the implementation of the next phase of the investment
+climate reform program. Mali also needs to improve fiduciary oversight (especially external control).
+Special emphasis should be placed on improving equity and relevance of the education system, the
+management of the health sector, and addressing the demand for and use of population and
+reproductive health services given the high rate of demographic growth. AAA has been an important
+component of the CAS, both in addressing knowledge gaps in emerging country challenges and in
+supporting reforms at the sector level. IFC‟s strategy complemented IDA‟s efforts in the development
+of the private sector and the private delivery of health services. Details of progress to date and updated
+outcome indicators are reflected in the CAS results matrix (see Appendix 1).
+A. PROGRESS ON CAS S TRATEGIC OBJECTIVE I: PROMOTE RAPID AND BROAD-B ASED GROWTH
+15. Agricultural productivity, irrigation capacities, and competitiveness of selected supply chains
+improved. The Bank has supported institutional reforms, investments in irrigable lands, and the rice
+initiative launched by the GoM as a response to the 2008 food price crisis. Mali adopted a new price
+mechanism linking domestic cotton prices to world market prices. The privatization of the four
+Compagnie Malienne pour le Développement des Textiles (CMDT) subsidiaries was launched and is
+expected to be finalized by mid 2011. The PRSC series has supported the privatization process and the
+adoption of the legislative framework establishing the regulatory structure for the cotton sector after
+the privatization of CMDT. The development of newly irrigated land developed led to a rice
+production increase of 26,000 tons in 2010. Going forward, Mali needs to further exploit its irrigation
+and commercial agriculture potential and to diversify its agricultural production beyond cott on and
+rice at ON. The Bank will strengthen its support to increase irrigation capacities, facilitate technology
+transfer to increase productivity with a particular focus on rice, cowpea and milk yields, and improve
+competitiveness of selected supply chains by promoting value addition for agricultural and livestock
+products.
+16. Work is ongoing to improve natural resources management (NRM) and resilience to climate
+change (CC). To help Mali‟s agriculture and natural resource-based economy to adapt to uncertain
+climate, the Bank has provided analytical, TA and investment support (cost benefit analysis, public
+expenditure review for NRM and sustainable land management - SLM, and a Country Strategic
+Framework for Sustainable Land Management) (see Appendix 6). The Bank is helping to strengthen
+the disaster risk management (DRM) institutional framework, reinforce key institutions‟ technical
+capacities, and implement a pilot project for vulnerable communities‟ protection, given that nearly 30
+-4-
+
+percent of Mali‟s population lives in areas at risk. The Agriculture Productivity Project is developing
+and disseminating land management tools and good practices for agriculture investments. Mali also
+benefits from the Integrated Land and Water Management for Adaptation to Climate Variability and
+Change trust fund which supports the establishment of an operational information system for DRM,
+CC and SLM. Going forward, the Bank will help strengthen the resilience of agricultural and natural
+resources sectors with the preparation of a regional Bank/GEF project in support of the Great Green
+Wall initiative. The Urban Environment Analysis could help identify areas of collaboration for
+sustainable urban development.
+17. There has been good progress on several transport outcomes to increase access. With the
+Bank‟s contribution through the Second Transport Project and Transport Corridor Improvement
+Project, about 1,450 km of key unpaved rural roads have been either periodically maintained or
+rehabilitated and 220 km of key paved roads have been improved. The percentage of main roads in
+good condition increased to about 64.8 percent in 2011. Sustainability of road transport infrastructure
+has been enhanced by supporting the institutional development of Road Fund and Authority. Also,
+Bamako‟s airport safety has improved as a result of the investment in security and safety equipment
+financed through the West and Central Africa Aviation Security Project as well as the strengthening of
+the regulatory oversight of the airport operations by the Civil Aviation Authority. The restructuring of
+the TRANSRAIL concession is still underway but is suffering from a lack of decision making of the
+two governments overseeing the concession. TRANSRAIL legal protection from liquidation will
+expire before June 2011 and the only credible rescue package would involve an immediate joint
+contribution of CFA10 billion from Senegal and Mali ahead of reaching any agreement with the
+current or a new primary shareholder on the revised terms of the concession contract. Going forward,
+the Bank will focus on increasing all weather rural access, making rural and urban transport
+infrastructure more resilient to climate change by focusing on the provision of better drainage, small
+structures and culverts, improving the quality and efficiency of urban transport systems, supporting
+transport facilitation and road transport infrastructure on key regional corridors, and working with the
+governments of Mali and Senegal to ensure the effective restructuring of the TRANSRAIL concession
+through direct financial support to TRANSRAIL‟s 2020 investment plan.
+18. Access to electricity improved but challenges remain in the sector’s institutional reform and
+its sustainability. Bank support to rural electrification contributed to increase access to electricity to
+22 percent in 2010 (11 percent in rural areas). Mali is on track regarding the expansion of generation
+with the completion of two thermal generation plants. In addition, progress has been made on the
+regional power integration side with the 60MW Félou hydropower project expected to be
+commissioned by end 2012. The restructuring of EDM-SA has been initiated and the legal unbundling
+of the water and electricity sectors is ongoing. However, the implementation of EDM-SA recovery
+plan is slow and the company‟s financial viability deteriorated, impairing efforts to improve its
+operational performance. In a context of rising oil prices, the financial sustainability of the sector is a
+major issue. Following the July 2009 adjustment of electricity tariffs, progress has been slow vis-à-vis
+the adoption of the electricity tariff adjustment mechanism. An interim tariff mechanism, which
+defines guiding principles and the methodology for tariff adjustments, was adopted in February
+2011.The technical work to calibrate the tariff formula should be completed in June 2011. Going
+forward, the Bank will support the GoM‟s emphasis on increasing access and pursue technical work
+and dialogue on institutional, regulatory and tariff issues, and on enhancing energy efficiency and
+demand-side management. In addition, as part of the Scaling Up Renewable Energy in Low Income
+Countries Program (SREP), AfDB, IFC and IDA will support the GoM to develop an investment
+strategy for renewable rural electrification with private sector involvement.
+19. Mali has achieved considerable progress in improving the investment climate. SOTELMA, the
+national telecom company, has been privatized. An investment promotion agency has been established
+in 2006, and a one-stop shop for investors in 2009. It now takes 72 hours to register a new business in
+-5-
+
+Mali. Documentation requirements for trade logistics have been cut, the property transfer tax rate has
+been reduced, and tax filing has been consolidated. As a result of the implementation of a joint TA and
+partial credit facility by IFC and IDA, the share of short and medium-term small and medium
+enterprise (SME) credit in total bank credit has increased significantly. In addition, the IFC and the
+Bank implemented several programs to improve SME productivity and skills, including the Support
+and Training for Entrepreneurship Program (STEP), the Trickle Up Program and the Grassroots
+Business Initiative. Finally, IFC trained more than 250 entrepreneurs in the advantages of leasing, in
+partnership with 10 professional associations. Despite this progress, several challenges remain. The
+new industrial zone law, approved by the Cabinet, has not been submitted to Parliament. There is no
+equipped industrial zone in the country. As a result, access to equipped agro-industrial land is severely
+limited. Access to long-term credit remains a severe constraint for enterprises, in particular SMEs. To
+address these challenges, the Bank will support: (i) preparation of the regulatory framework for
+industrial zones following the adoption of the new law by Parliament; (ii) initial infrastructure
+investments in the industrial zone of Bamako-Sénou; and (iii) feasibility studies for agro-processing
+zones of Sikasso and Mopti. The Bank will also support phase 2 of the investment climate reform
+program and the new wave of reforms in the information and communication technology sector.
+B. PROGRESS ON CAS S TRATEGIC OBJECTIVE II: S TRENGTHEN P UBLIC SECTOR PERFORMANCE
+20. Reforms are improving public expenditure management. Important steps were taken by the
+Government since 2007 in the context of the implementation of the PAGAM-GFP, supported by the
+second PRSC series. The budget is prepared with increasing regard to Government policy, reflecting a
+larger number of Ministries with rolling MTEFs. Competitiveness, value for money and controls in
+procurement has also improved. Procurement controls and regulatory bodies have been established
+and in 2010, open bidding procedure corresponded to about 77 percent of the total recorded
+Government contracts. The effectiveness of internal controls has also improved, helped by concerted
+efforts to increase capacity. Finally, good progress was made in budget reporting practices, as
+evidenced by the regular publication of intra-year budget reports and the submission of annual
+financial statements to the National Assembly on time for the discussion of the following year budget.
+Areas in which progress was unsatisfactory include external audit and intergovernmental fiscal
+relations. The framework for scrutiny of public finances and follow up by the executive is weak.
+Similarly, the framework for inter-governmental relations is inadequate, resulting in lower than
+planned transfers of resources from the central government to the decentralized level. To advance
+public finance management (PFM) reform, the Government approved in 2010 the 5-year PAGAM II,
+which will benefit from Bank support though PRSCs and the Governance and Budget Decentralization
+(GBD) TA operation. Priorities will include strengthening procurement practices, including through
+increased transparency and participation, strengthened quality of budget reports and financial
+statements, strengthened capacity for fiscal operations in a context of decentralization and enhanced
+fiduciary oversight.
+21. Mali has made significant progress in expanding access to education, especially basic
+education. The Bank has continued its support to the GoM‟s ten-year education program (PRODEC).
+Implementation of the PRODEC resulted in increased gross enrollment rates for primary and lower
+secondary education. Communities, Medersas and private schools contributed to this increase. Primary
+completion rates improved going from 43.5 to 56.5 percent over the past five years and the gap in
+completion rates between boys and girls declined from 15 to 8 percent. The GoM performed well in
+terms of financing basic education with the share to primary education going from 35 to 40 percent
+and the share of non-teaching staff declining thereby improving the quality of education expenditures.
+However, there are serious regional and gender disparities, particularly in No rthern Mali. Efforts to
+improve quality have been made but equity and relevance of the education system remain problematic.
+Training goals were surpassed but only 300 schools have the necessary books. Secondary and post
+secondary, including vocational education and training, are particularly affected by the weak quality of
+-6-
+
+the system. This translates into low literacy and skill levels, scarce qualified labor, and almost non existent and costly business support services resulting in low labor productivity. Going forward, the
+Bank will support the GoM to better define and implement an education program to increase the
+output and quality of the education system to improve the overall qualification of the labor force and
+to link the sector to the job market.
+22. Except for immunization coverage, progress in the health sector is too slow. Immunization
+coverage has greatly progressed. The percentage of children under 1 year of age immunized with
+DPT3 progressed from 68 percent in 2006 to close to 100 percent in 2009. However, infant mortality
+at 103 per 1,000 live births and maternal mortality at 830 per 100,000 live births remain very high.
+Reproductive health (RH) indicators are poor with only 57 percent of deliveries attended by skilled
+personnel, and 8.2 percent of 15-49 year old women using contraceptives. So far, only 2.9 percent of
+Malians have access to health mutuals. Quality of care remains a problem. Human resource reforms
+have been implemented but they are limited to the creation of a new directorate that has not yet
+achieved its objective to post midwifes and nurses in the rural areas, thus resulting in large inequities
+in access to quality health services. Going forward, interventions have to be reinforced in the areas of
+RH, family planning, and financial protection of people requiring access to health services. IFC
+supports the private delivery of health services through the Health in Africa initiative and is providing
+TA to establish a public private dialogue committee and to create a private health sector alliance,
+improve the regulatory framework governing the private health sector, and increase access to
+financing for the private sector.
+23. The national response to the HIV/AIDS and access to HIV/AIDS related services have
+improved. Sustained financial contribution to fight HIV/AIDS has enabled the provision of voluntary
+counseling and testing to more than 12,000 persons. Out of about 35,000 persons eligible for
+antiretroviral treatment, 70 percent have access to the treatment. Twenty-two private centers now offer
+testing services and more than 70 enterprises and business associations have implemented an action
+plan to fight HIV/AIDS. The GoM allocates about US$4 million every year to fight HIV/AIDS and is
+planning to set up a dedicated fund to try to address the unpredictability of development partner
+funding. The study to set up this fund is ongoing. The Bank plans to support GoM by strengthening
+the system in place to distribute antiretroviral drugs and provide screening services. The proposed
+Reproductive Health Project will continue the dialogue on strategic issues related to HIV/AIDS,
+including its mainstreaming in the GoM‟s program.
+C. IMPLEMENTATION P ROGRESS
+24. Delivery of the planned IDA lending program has been on track and lending commitments
+exceed the indicative CAS program. Only the Governance and Budget Decentralization TA operation
+slipped in order to fully align its design with the 2010 action plan for modernizing and strengthening
+PFM. Mali has benefited from increased IDA amount thanks to the pilot crisis response window and
+reallocations. The Urban Local Governments Support Project will be delivered as planned. The
+grant/loan mix of IDA allocation in FY12 will be determined in June 2011 based on the risk of debt
+distress now assessed as moderate. Appendix 2 presents planned and actual deliveries of the CAS
+program.
+25. While portfolio quality is overall satisfactory, challenges remain especially in procurement,
+and monitoring and evaluation (M&E). The current IDA portfolio comprises 10 operations, including
+one IDA-GEF blended operation, with net commitments of US$568.5 million and an undisbursed
+balance of US$334.2 million. The portfolio focuses on agriculture, energy, and institutional reforms.
+The Bank relies on annual development policy loans to assist the GoM with key structural reforms.
+Weak procurement capacity at project level, procurement delays, and deficiencies in planning
+projects‟ activities persist. Efforts are underway to ensure that all projects have a formal M&E
+-7-
+
+framework and an operational monitoring system. The weak statistical capacity is a main challenge in
+terms of results monitoring. The GoM and the Bank are working closely to address these issues
+through joint annual Country Portfolio Performance Reviews, regular project implementation reviews,
+and fiduciary trainings. In addition, the decentralization of the management of the Mali program is
+progressing steadily, thus providing enhanced and just-in-time support.
+26. The Bank has developed sector-based and cross-cutting support in the area of governance.
+The Bank is supporting the GoM in strengthening the management capacity of the mining sector and
+improving its governance. A governance structure for EITI implementation was established which led
+to the designation of Mali as an EITI candidate country that is „close to compliant” in December 2010.
+International validation of Mali‟s EITI process is expected to take place during 2011 when the country
+achieves Compliant Status. The Bank carried out a governance assessment of the energy and transport
+sectors. Identified measures to deal with significant losses at the electricity company, EDM, were
+integrated in the design of the Energy Support Project, and discussions took place notably with regards
+to tackling the pervasive controls faced by the transport sector. The Bank is also focusing its
+governance work on streamlining the bidding process for greater transparency, enhancing the budget
+process. Two Public Expenditure Tracking Survey (PETS) in education and health uncovered
+significant leakages in delivery of key services. Following the suspension of some grants by the
+Global Fund to fight AIDS, Tuberculosis and Malaria after confirmation that US$4 million (36 percent
+of the funds) were embezzled or unjustified, the GoM prepared and shared a report of procurem ent and
+internal control breached in the management of these funds. The Bank is conducting a comprehensive
+financial management and procurement assessment which will result in the design of a fiduciary
+capacity building plan that will cover central, district and local levels, and of a governance
+strengthening plan. The Bank‟s work has also started emphasizing the demand side of accountability.
+27. Challenges remain to better mainstream governance and anti-corruption actions in Bank’s
+operations, implement them at the sector level, and build social accountability. The PRSC series and
+the GBD TA operation will emphasize transparency, accountability and governance in public
+expenditure management and will build capacity to carry out PETS. The proposed Urban Local
+Governments Support Project operation will aim to support strengthened institutional capacity of five
+targeted urban local governments for improved service delivery and enhanced governance and
+accountability at the local level built around an effective fiscal framework designed to enable
+predictable resource transfers to urban local governments. A comprehensive analysis of the
+governance agenda is under preparation to review the legal, regulatory, institutional, and policy
+frameworks in place and their adequacy. To tackle the emerging challenges and slow implementation
+of key structural reforms, strengthened social accountability mechanisms could play a strong part to
+improve good governance and service delivery. The slow progress in EDM restructuring, its recovery
+plan and the electricity tariff adjustment mechanism is linked to sector governance challenges.
+Building political support for the reform by better showing the positive results the reform would bring
+would be key in the resolution of the current challenges. A proposal under the demand for good
+governance window of the Social Development Civil Society Fund has been accepted in order to carry
+out a study on instruments and tools for accountability for civil society representatives.
+28. The Bank committed to strengthen capacity development (CD). Using the Capacity
+Enhancement Needs Assessment (CENA) approach sponsored by WBI in a few countries, four CD
+action forms were prepared on M&E, public procurement, regulatory framework in the energy sector,
+and public revenue administration. The financial and human capacity to implement the approach
+proved to be an obstacle to implement the approach. It was therefore only implemented through the
+IDF to strengthen the GPRSF results framework while the findings of the other CD action forms were
+used for procurement training sessions and embedded in the Energy Sector Support Project and two
+successfully completed IDFs on PFM. Statistical capacity development was provided through
+household survey analysis under the Belgian trust fund. CD needs are now being identified and
+-8-
+
+addressed through project preparation and implementation and under various non-lending and trust
+fund activities.
+29. The Bank has strengthened its interventions to address gender-specific constraints. As a result
+of the 2006 gender assessment, gender specific measures are incorporated in Bank‟s operations and
+non-lending activities and the Bank is advocating incorporating gender-responsive actions into country
+strategy documents. Donors have supported the GoM design a gender and equity strategy. Through the
+Household Energy and Universal Access (HEURA) Project, women‟s associations manage some of
+the multifunctional platforms installed in 64 communities resulting in 7, 200 connections. Under the
+Gender and Energy Program of the Africa Renewable Energy Access Program, the HEURA Project
+strengthened the capacity of the national agency on household energy and rural electrification,
+AMADER, to integrate gender activities. The Bank will now carry out a full gender and energy needs
+assessment in selected villages to develop an action plan for training, knowledge sharing and CD
+activities for women in rural communities. Gender-specific measures were also incorporated in all
+agriculture, NRM and CC activities. The main issues tackled relate to the vulnerability of women and
+female-headed households, capacity building for social institutions and women‟s groups, and
+promotion of specific adaptation strategies under the leadership of women‟s organizations. An ESSD
+TF on gender helped design an operations manual which addressed access to financial resources and
+training for female producer groups, and female participation in agricultural policy decision making.
+Under the GSP, two women associations are participating in the managing association of the matching
+grant fund under the Enterprise Support Services component. In the context of the analytical work on
+SSN, the Bank prepared a report on welfare effects of widowhood in Mali. Going forward, the
+upcoming RH constraints assessment will include social norms analyses that affect women‟ RH
+choices and inform new social marketing campaigns to increase uptake in family planning use. The
+preparation of the RH Project will address gender issues as they are related to RH outcomes. In
+addition, work has begun on a series of poverty and gender notes using the 2010 Household and Firm
+Enterprise surveys to inform the preparation of the new GPRSF.
+D. PARTNERSHIP AND THE A ID E FFECTIVENESS A GENDA
+30. The GoM and donors have made some progress on harmonization and alignment, but room
+for progress remains. A first joint donor assistance strategy (JAS) for the 2009-2011 period was
+signed by 14 donors and focuses on results and linkages to the GPRSF with the view to improving
+complementarities and joint policy matrices, funding mechanisms, and reviews. Key achievements
+include: improved disbursement predictability; reduction in the total number of budget support
+triggers; increase in number of donors using direct budget support; and progress towards more
+programmatic approaches in some sectors (water, decentralization and transport, and to some extent
+agriculture). Country-led aid management is being strengthened through the gradual operationalization
+of the GoM‟s Aid Harmonization Secretariat (SHA). The JAS II process will build on the challenges
+faced in many countries to move forward with joint programming and division of labor. On its side,
+the Bank is advocating an incremental process with up-front focus on measurable measures. The
+development of a National Aid Policy should provide increased visibility and traction to aid
+effectiveness issues.
+31. Donor assistance is better coordinated at sector level but remains fragmented overall, and the
+capacity of Mali’s institutions and financial management mechanisms remain weak. Three sectors
+are covered by sector budget support (education, health, and decentralization) and two other s are in
+process (irrigation and water). During the CAS period, two new donors have started using budget
+support, but the share of budget support to total disbursements has gone down from 33 percent in 2006
+to 23 percent in 2010. The Bank chairs the donor working group on macro-economic issues, and
+progress has been made in terms of quality of the joint budget review. Efforts to harmonize the
+conditionality framework have reduced the joint trigger matrix to 39 triggers. The CAS period has
+-9-
+
+seen progress on a number of harmonization indicators (especially the JAS, framework for budget
+support and program-based approaches). However, reducing the use of project implementation units
+has proved to be challenging. The Bank is carrying out a PIU study to gain deeper understanding of
+the drivers behind the creation of PIUs, and the impact on portfolio quality (see Appendix 5).
+IV.
+
+STRENGTHENED AND EXTENDED CAS PROGRAM
+
+32. Drawing on the lessons from the implementation of its first two GPRSFs, the GoM launched
+in December 2010 the preparation of its GPRSF III. The 2009 Progress Report of the GPRSF II
+indicates that priority measures for 2011 will focus on six areas: education, health, food security and
+rural development, development of SMEs, reforms in the business environment, and the promotion of
+democratic governance. It further lays out key challenges to ensuring stronger growth, namely (a) the
+high population growth with growing and unsustainable pressure on production resources and
+increased demands in terms of nutrition, water supply, health, education an d training, (b) youth
+employment, (c) environmental degradation and CC, and (d) MDG achievement. These challenges
+were reconfirmed during the launching workshop for the new GPRSF that will cover the period 201217 to coincide with the electoral cycle. The GoM also launched the process to update the JAS in
+February 2011.
+33. In light of these considerations, the Bank proposes to extend the CAS period by one fiscal
+year. The extension will allow the Bank to fully align the preparation of its next CAS with the new
+GPRSF and the updated JAS. During the CAS extension period, the Bank‟s approach will be to: (a)
+maintain a continuous engagement on its activities to consolidate gains to promote rapid and broadbased growth and to help address critical structural and governance related weaknesses in key
+productive sectors; and (b) increase its engagement to support the GoM‟s renewed strategic priorities
+in human development and service delivery (population growth, education sector, youth, and urban
+water supply and sanitation) in order to place greater emphasis on inclusive growth. To that effect, the
+lending program for the remainder of FY11 (Urban Local Governments Support Project) will be
+delivered as planned and the Bank will deliver Reproductive Health and Higher Education Projects
+and prepare Youth Employment, and Water and Sanitation Projects in FY12. The third PRSC series
+will start in FY12. It will be integrative and focus on reforms to strengthen governance foundations
+(including PFM), reduce poverty, and protect the vulnerable. The IFC will continue to complement
+IDA activities to explore opportunities to support the private sector.
+34. The Bank will complement its lending support with targeted analytical work and TA to tackle
+emerging challenges. Consistent with the GoM‟s commitment to building its social protection base
+and the findings of the Bank‟s FY11 Social Safety Nets review, and in a context of high volatility of
+commodity price, the Bank will continue to provide TA for policy dialogue on social protection,
+including support to reforms in contributive and non contributive schemes. Ongoing analytical work
+on growth, gender (including a poverty profile) to support the GoM‟s medium term policy formulation
+on growth, and poverty and gender challenges will be completed in FY12. In addition, the Bank is
+providing TA for the preparation of the PEFA update, which will inform revisions to be made to
+PAGAM II. The analytical work program will also encompass TA for the information and
+communication technologies (ICT) sector, PRSP dialogue and the preparation of a PRSP-JSAN. The
+Bank will also continue to support GoM activities to better engage its Diaspora in the transfer of
+knowledge and use of remittances for community development through the implementation of an
+Institutional Development Grant and a Japanese Social Development Fund to conduct need
+assessments at the community level in the Kayes region.
+35. The Bank is responding favorably to the request for addressing the rapid population growth
+and higher education challenges. The Bank will prepare a RH operation that takes into account the
+multi-sectoral dimension of RH and family planning. The operation will aim at increasing the demand
+- 10 -
+
+for and use of reproductive health services with a clear focus on family planning, nutrition and high
+impact interventions proven to contribute to the reduction of maternal, neonatal and child mortality. In
+addition, the Bank will pay special attention to improving girls‟ education and will use the
+Demography and Economics Study as basis for public debate and policy formulation to strengthen
+incentives for addressing demographic challenges. The GoM has renewed its focus on the importance
+of higher education and skills development as a way to address shortcomings in the governance
+system, weak linkages between public financial management, sector strategy and decentralization, the
+low level of labor productivity on account of insufficient and low quality of education. The Bank is
+expanding its support to higher education and skills development with the aim to build a solid
+foundation for growth and to create new opportunities for youth to access the labor market. The FY12
+Higher Education Project aimed at improving the sector‟s relevance, management and efficiency will
+be complemented by an EFA-FTI Grant Development Policy Support (currently under preparation)
+which focuses on policy and institutional reforms and the preparation of a Youth Skills Development
+operation (delivery in FY13) aimed at improving productivity, leadership, and competitiveness.
+36. To better mitigate the consequences of exogenous shocks, the GoM has asked the Bank to
+help develop a comprehensive social protection strategy, including more efficient and relevant SSN
+programs. The priority actions toward the development of a more efficient and cost-effective SSN
+system would include: (i) strengthening the strategic, institutional, and financial framework for
+designing, implementing, managing, monitoring, and evaluating SSN programs; and (ii) developing a
+plan for improving the effectiveness of the SSN system by reforming existing programs and designing
+new ones aiming to reduce small or ineffective programs while strengthening other viable programs
+with better targeting and outcomes. Going forward, the Bank will consider an operation to help
+develop a permanent SSN system that addresses the needs of the chronic poor and that can readily be
+scaled up during periods of adverse natural hazards and exogenous shocks.
+37. A key priority for the GoM is to mobilize the financing for Water Supply Project (Kabala
+Project) to ensure adequate water supply for Bamako and eradicate the recurrent water shortages in
+most neighborhoods of the capital city. While major investments have been made to rehabilitate and
+expand water and sanitation infrastructure, investment sustainability remains an important challenge
+for the sector. Lack of maintenance and underinvestment put at risk the gains made in the expansion of
+the service. This is evidenced by the large number of rural water systems that are not operational and
+the insufficient water production and distribution capacity in Mali, and notably Bamako. As the urban
+population continues to grow, especially the peri-urban areas of Bamako, the Bank will complement
+donor efforts by supporting the Kabala program with a targeted Water and Sanitation Project in early
+FY13.
+38. The Bank stands ready to help weather the impact of the insecurity in Northern Mali as well
+as the regional instability. While the GoM has a special investment program for the Northern part of
+Mali and is taking the lead in responding to the regional uncertainty, if needed, the Bank could scale
+up development activities currently implemented in the Northern part of the country through its
+operations, and further adapt its ongoing projects. Following the preparation of an internal note on the
+potential impact of the Libya crisis, the Mali and the Post Conflict and Social Development Unit teams
+have started working together to prepare a follow through of the 2011 World Development Report on
+conflict, security and development for which Mali was a focus country. The analysis will deepen the
+understanding of the underlying factors behind insecurity and how our operations can best mitigate
+security risks. Associated to this, the Bank is partnering with the UN agencies, other multi-laterals,
+and bilaterals to help the GoM deal with the conflict and insecurity.
+39. The extended CAS period approach is fully consistent with the new Africa Strategy’s
+Governance foundations, in addition to its pillars designed to address competitiveness and
+employment, and vulnerability and resilience challenges. It also enables the Bank to target IDA 16
+- 11 -
+
+priority themes and results expectations. The Bank will (a) implement its portfolio of operations
+supporting infrastructure, agriculture productivity, and growth-oriented sectors, (b) launch the urban
+and GBD TA Projects to tackle urbanization challenges and the provision of basic service delivery at
+the decentralized level, and (c) build on TA, analytical work and trust funded activities carried out to
+help tackle vulnerability to commodity price fluctuations, better promote climate change resilient
+development, improve resilience to exogenous and natural shocks, and foster greater transparency,
+accountability and governance. In addition, the Bank will engage more directly to help Mali address
+the low level of human capital and generate jobs, especially for the young population. The Bank will
+also seek to renew the momentum of economic reforms with a new PRSC series that will focus on a
+limited set of multi-sectoral issues to catalyze policies for faster growth, a more competitive economy
+with employment opportunities, and better delivery of basic services. Finally, the Bank team will pay
+special attention to further scaling-up gender mainstreaming and efforts on gender-related MDGs. The
+development of the new CAS will fully integrate gender and climate resilient development issues and
+strengthen its results framework accordingly.
+V.
+
+MANAGING RISKS
+
+40. Overall, the risks assessed in the CAS remain valid but the challenging international and
+regional environment of recent months has somewhat raised the risk level. While Mali‟s political
+environment still represents a limited risk to the program, the 2012 electoral process is more than
+likely to maintain stable political arrangements based on democratic rule. Mali is, however, highly
+exposed to the political uncertainties of its neighbors. Persistence of the crisis in Côte d‟Ivoire and
+Libya could have significant negative effects, through various transmission mechanisms, on the
+Malian economy and society at large. The Bank is preparing an analysis to better understand the
+underlying factors behind the insecurity and how we can best respond through our development
+program. To minimize the risk of trade disruptions due to the political crisis in Côte d‟Ivoire, Mali has
+strengthened alternative trade routes and the Malian council of shippers has reached a customs
+agreement with the Benin authorities to use the port of Cotonou as an import/export gateway which
+includes preferential arrangements for customs clearance and other services. The potential increase in
+transportation costs as a result of the diversion of exports and import to more distant ports, fall in
+livestock exports and decline in remittances may be mitigated by the rising demand for domestic
+products, resulting from higher domestic supply, higher international prices and transaction costs. The
+turmoil in Libya, could affect foreign direct investments as Libya is a major investor in ON and
+tourism and is financing a number of public projects, as well as remittances and aid flows.
+41. Mali remains highly vulnerable to fluctuations in commodity prices, external shocks and to
+CC. Continued upward pressures in food and fuel prices in global markets could affect Mali‟s
+inflation, lead to an increase in poverty, further burden the budget, and have significant fiscal impact
+depending on the GoM‟s response to weather the price increases. Mitigation factors include Mali‟s
+strong record of prudent macroeconomic management, in addition to Bank support to (a) enhance
+productivity and competitiveness of the cotton sector, diversify agricultural production and further
+develop commercial agriculture, and improve management of natural resources to reduce vulnerability
+and enhance resilience to climatic shocks, (b) lower energy costs through connecting with lower-cost
+regional producers; (c) reform the investment climate, (d) strengthen PFM, and (e) monitor closely
+parastatal companies‟ financial and cash positions and restructuring efforts.
+42. The upcoming presidential election might be a period of delay in reform implementation. In
+the wake of the 2012 presidential elections, internal vested interests may slow further reforms and
+commitment to finalize key structural reforms in energy, service delivery at decentralized level, and
+investment climate may fade away. The Bank will continue to engage through its operations and in
+dialogue on the benefits of timely implementation of the reform agenda.
+
+- 12 -
+
+APPENDIX 1. MALI UPDATED CAS RESULTS MATRIX FY08–12
+Revised CAS Outcomes
+and Indicators
+(If applicable)
+CAS Strategic Objective 1. Promote rapid and broad-based growth
+Agriculture productivity
+increases for specific crops in
+targeted areas:
+ Cotton yield increases by 15%
+from its 2005/06 level (950t/ha)
+by 2011.
+ Cowpeas yield increases from
+400 kg/ha (2004) to 600 kg/ha
+(2011).
+Original CAS Outcomes
+and Indictors
+
+Competitiveness for selected
+supply chains improves in
+targeted areas
+ Mango exports progress from
+5,500t (2007) to 8,000t (2011).
+ Local potato seed production
+covers 60% of national needs
+by 2011 from ~ 0% in 2007.
+
+Availability of credit for
+agriculture improved:
+ Credit granted by BNDA and
+MFIs to agriculture increases
+from CFA 70.3 billion (2003) to
+72 billion by 2011.
+
+Progress Towards CAS Outcomes
+
+ Indicator met. Cotton yield at
+1,020 t/ha.
+ Indicator met. Dissemination of
+selected cowpea seeds raised
+yields from 250 to 750 kg/ha.
+
+ Indicator met. Mangoes export
+increase on the international
+market. Estimation: 10,000 t.
+ Indicator on track. The volume
+of potatoes marketed on the
+national and regional markets
+reached 29,000 tons.
+
+ Indicator met. Loans granted by
+MFIs and BNDA totaled 161.1
+billion CFA in 2009 (most recent
+data available)
+
+- 13 -
+
+Progress Towards CAS
+Milestones
+
+Grower networks are in place
+for potatoes/cowpeas seed
+multiplication, and more and
+more farmers have adopted
+new post-harvest & irrigation
+technologies.
+Work has started on
+technology dissemination
+mechanisms and on
+improvement of researchextension linkages.
+Coordination mechanisms
+along specific supply chains
+are in place: Two interprofessional entities created
+for cotton and mangoes have
+been established; private
+operators and producers for
+fruit and vegetables filières
+are organized; and a fruit and
+vegetable packaging facility
+is functioning.
+New financing instruments
+(warehouse receipt, weatherindex-based insurance) have
+not been developed. The
+study on weather index
+insurance and the regulatory
+framework for the warehouse
+were not done. Also, the
+microfinance institutions
+were not consolidated into
+networks. Focus was put on
+restructuring existing
+networks rather that bringing
+in the independent MFI into
+
+WBG and Development
+Partners’ Support
+Ongoing lending:
+ Ag Competitiveness and
+Diversification Project
+ Rural Community
+Development Project +
+AF from the global food
+crisis response window
+ GEF Gourma Biodiversity
+Conservation Project
+ Growth support Project
+ Agricultural Productivity
+project
+ GEF Agricultural
+Productivity
+ PRSC 5
+ West Africa Agriculture
+Productivity Program
+ West Africa Biodiversity
+Project
+ IFC – Agribusiness:
+GRIMAS, Grand Moulin
+du Mali
+Planned lending:
+ PRSC-6
+AAA and TFs:
+ Rural Finance Study completed
+ Urban Environmental
+Analysis – to be
+completed by end FY11
+ Sustainable Land
+Management PER/CBA –
+completed
+ TA dialogue on SLM –
+
+Revised CAS Outcomes
+and Indicators
+(If applicable)
+
+Original CAS Outcomes
+and Indictors
+
+Progress Towards CAS Outcomes
+
+Progress Towards CAS
+Milestones
+networks.
+
+Agricultural pressure on natural
+resources reduced in Office de
+Niger and cotton zones:
+ By 2011, cotton producing
+areas remain at 2006 level
+(500,000 ha).
+
+ By 2011, soil salinity remains at
+its 2006 level in Office du
+Niger (20% of irrigated ha)
+zone.
+Improved donor coordination
+and country leadership:
+ GOM has set up a national
+pooled financing mechanism
+for agricultural development.
+
+Integration of Mali with regional
+and global markets by increased
+efficiency of transport operators
+(roads, railway, and air) :
+ Transport costs between
+unloading imported containers
+(20-foot TEV) from ship to
+final destination are reduced by
+at least 10%. Baseline: $1300 in
+2006.
+ Rail freight has increased
+
+
+
+Indicator revised. Cotton
+producing areas remains at
+maximum of 2006 level.
+Revision to clarify that
+objective is to reduce land
+extension for cotton
+production to increase
+intensification of cotton
+production areas.
+
+ Indicator met. Cotton
+production intensified without
+increased land extension. Cotton
+producing areas currently at
+250,000 ha.
+
+Work to disseminate
+sustainable land management
+tools & good practices
+integrated in agricultural
+investments to producers has
+started.
+
+WBG and Development
+Partners’ Support
+ongoing
+ CSIF – ongoing
+ DRM grant – ongoing
+ Integrated Land and
+Water Mgt. for
+Adaptation to Clmate
+Variability and Change
+TF - ongoing
+Partners:
+ AfDB, MCC, USAID,
+Denmark, Dutch, France,
+Canada, EU , IFAD,
+Swiss.
+
+ Indicator dropped since the
+evolution of salinity is difficult
+to assess and monitor on such a
+large scale area.
+ Indicator on track. FNDA
+created but not yet operational.
+PAPAM operation now effective
+is supporting such instrument.
+
+ Indicator on track. Indicator
+linked with ongoing progress
+from activities from the regional
+project. Outcome by end of CAS
+period will be conditioned by
+external context – crisis in Côte
+d‟Ivoire, and spike in oil prices.
+ Achievement of indicator is
+- 14 -
+
+With the set up of the FNDA
+mechanism and PAPAM
+implementation, work has
+started to move toward
+pooled financing mechanism
+for agricultural services comanaged by producers and
+the GoM, as well as to
+formulate sector MTEF and
+its use for programming.
+Decrees and legislation to
+reduce security checkpoints
+and safety checkpoints to an
+agreed minimum on internal
+routes adopted. Sustained
+political commitment and
+capacity of GoM to enforce
+rules is needed.
+
+Ongoing lending:
+ Transport Sector 2 + AF
+ WA Transit and Transport
+Facilitation Project
+ West and Central Africa
+Security Project
+ Growth Support Project
+ IFC – US$25 million
+investment in Aga Khan
+Foundation for Celeste
+Air which includes Air
+
+Original CAS Outcomes
+and Indictors
+
+Revised CAS Outcomes
+and Indicators
+(If applicable)
+
+Baseline: 423,000 t in 2005.
+Target: 50% increase by 2011.
+
+More rural localities have yearround transport access:
+ Less than 20% of rural
+population lives more than 2
+km from a year-round passable
+road. Baseline 2006: 41%.
+
+ % of main roads in good
+condition increases from 35%
+(2005) to 65% (2011).
+Improved air safety and security
+in Mali as measured by:
+ 70% compliance rate with
+ICAO safety standards.
+
+Progress Towards CAS
+Milestones
+
+contingent on concession being
+restructured and political
+commitment or lack of from
+Malian and Senegalese Govt.
+
+GOM ensures effective
+leadership and coordination in
+transport sector:
+ Bi-annual joint evaluation and
+review missions conducted.
+
+ Joint evaluation matrix
+prepared and used as
+monitoring tool.
+
+Progress Towards CAS Outcomes
+
+ Indicator dropped. The sector
+has a coordinated approach
+between development partners
+and partners and the
+Government but in a less
+structured manner than through
+the monitoring of a formal joint
+evaluation matrix.
+ Indicator revised. Percentage
+of people who have access to all
+weather roads has increased in
+the project impact areas.
+Indicator reformulated since
+baseline data is only collected
+for project impact area.
+Baseline 2007:32%; target for
+end 2011:42%.
+
+ Indicator on track. Extensive
+consultations between donors
+and development partners are
+meeting on a regular basis with
+the Government to ensure
+coherence with the Govt.
+strategic objectives.
+
+ Indicator on track. 40% of
+people who have access to all
+weather roads in the project
+impact areas at end 2010.
+
+Mali, Air Burkina and Air
+Uganda
+National transport sector
+strategy study was completed
+jointly by GOM and other
+donors and national transport
+sector strategy adopted by the
+Authorities.
+
+1,450 km of rural/secondary
+roads rehabilitated by 2009.
+
+ Indicator met. 64.8% of main
+roads are currently in good
+condition.
+ Indicator on track but
+implementation delays of IDA
+funded project and delays in
+- 15 -
+
+WBG and Development
+Partners’ Support
+
+Funding mechanisms have
+been strengthened to ensure
+adequate resources for annual
+road maintenance overseen
+by the Road Authority
+
+AAA and TFs:
+ Governance diagnostic
+note - completed
+Partners:
+ AfDB, EU, MCC, BOAD,
+KfW
+
+Original CAS Outcomes
+and Indictors
+
+ 40% compliance rate with
+ICAO security standards.
+
+ Fewer than 10 serious airport
+security problems per year.
+ Time to clear arriving
+passengers reduced from 70
+minutes (2006) to 30 minutes
+(2011).
+Availability of critical
+production factors increased.
+Additional 30-45 MW of thermal
+capacity installed by 2011 to
+increase power system reliability.
+EDM SA achieves financial
+viability and operational
+efficiency through improved
+sector governance as measured
+by:
+ EDM maintains technical and
+non-technical losses below
+20%.
+ Electricity access rates have
+increased from 2% in 2005 to at
+least 6% in 2011 in rural and
+peri-urban areas.
+ Significant physical progress is
+made on electricity
+interconnection with
+neighboring countries:
+85% of planned transmission
+lines constructed.
+
+Revised CAS Outcomes
+and Indicators
+(If applicable)
+
+Progress Towards CAS Outcomes
+refurbishment of Bamako airport
+under MCA funded project.
+ Indicator on track but
+implementation delays of IDA
+funded project and delays in
+refurbishment of Bamako airport
+under MCA funded project.
+ Indicator met. 5 airport security
+problems in 2010.
+ Indicator met. About 30
+minutes to clear arriving
+passengers.
+
+ Indicator on track. +80 MW of
+thermal capacity confirmed for
+2012.
+
+ Investments to reduce technical
+losses only expected to have full
+effect in 2013.
+ Indicator met.
+
+
+
+Indicator on track. Current rate
+of construction of the
+interconnection is 47.9%.
+However, ongoing crisis in Côte
+d‟Ivoire and lack of political
+commitment on the Ivorian side
+for the interconnection could
+compromise progress.
+- 16 -
+
+Progress Towards CAS
+Milestones
+
+WBG and Development
+Partners’ Support
+
+through the creation of a
+combined road agency and
+road fund and increased levy
+on fuel to fund road
+maintenance.
+Work is ongoing on the new
+regulatory framework for
+operation of road, air, and
+river transport agencies, and
+the concession contract
+between the GoM and a
+private operator.
++80 MW of thermal capacity
+delivered first quarter 2011 to
+reduce power outages; Rural
+electricity access rates are
+increased to 11% today.
+EDM SA technical and
+nontechnical losses remain
+stable at 23%; tariff
+adjustment took place in July
+2009. Awaiting regulator
+decision on tariff indexing
+formula.
+Ongoing work on
+construction of transmission
+lines. Satisfactory progress
+on the Malian side. No
+progress on the Ivorian
+network.
+
+Ongoing lending:
+ Household Energy and
+Universal Access + AF
+ Energy Support Project
+ WAPP APL 2 Felou
+Hydropower Project + AF
+ PRSC-5
+Planned lending:
+ PRSC-6
+AAA and TFs:
+ AF with trust funds from
+Russia and The
+Netherlands – ongoing
+ Scaling Up Renewable
+Energy in Low Income
+Countries program
+(AfDB, IFC and IDA) –
+ongoing
+ IFC Kenie Hydro Project
+– ongoing
+ Governance diagnostic
+note - completed
+Partners:
+ AfDB, France, Aga Khan,
+
+Original CAS Outcomes
+and Indictors
+
+Efficiency of commercial banks
+improved for better financial
+intermediation:
+ Spread between lending and
+deposit rates reduced from
+average of 9.1% in 2005 to 8%
+by 2009.
+ Ratio of gross NPL to total
+loans decreased from 29% in
+June 2005 to 10% by 2011.
+
+ Share of total credit to private
+sector to increase from 51.7%
+in Dec 2005 to 60% in 2009.
+
+Increase in private sector
+investment (domestic and
+foreign):
+ Number of formal
+manufacturing enterprises
+increased by 10% by 2011.
+Baseline: 350 firms in the
+manufacturing sector.
+ Access time to land by firms is
+reduced from 180 days to 30
+days.
+
+Revised CAS Outcomes
+and Indicators
+(If applicable)
+
+ Revised indicator. Ratio of
+gross NPL to total loans
+decreased from 29% in June
+2005 to 17% by 2011. Target
+revised to 17 % (10%
+unrealistic)
+ Revised indicator. Bank credit
+to SMEs increase from 25.6%
+in 2006 to 30% of total loans
+and advances by 2011. Original
+indicator no longer tracked
+following restructuring of the
+project. Data for this indicator
+is collected through GSP
+Project. A proxy is being used
+to measure credit to SMEs.
+
+ Revised indicator. Time taken
+to approve new investments is
+reduced from 45 days in 2006
+to 15 days in 2011. Original
+indicator dropped following
+restructuring of the GSP
+Project.
+ Revised indicator. Number of
+days for property registration
+reduced from 44 days in 2005
+to 30 days by end 2011.
+Original indicator dropped
+
+Progress Towards CAS Outcomes
+
+ Indicator met. Spread between
+lending and deposit rates of 7.9%
+in 2009 (more recent data
+available)
+ 2009 ratio is 22.6%.
+
+Progress Towards CAS
+Milestones
+
+GoM share in BIM reduced
+from 61.5 % in 2007 to
+10.5%.
+A strategy to reduce number
+of NPLs is not yet in place.
+
+ The value for 2009 is 52.6%
+(latest data available).
+
+ Indicator on track. Time taken
+to approve new investments is
+currently 26 days.
+
+ Indicator on track. Current
+value: 29 days.
+
+- 17 -
+
+New civil and commercial
+procedures adopted.
+Investment promotion agency
+operational. Business
+licensing has been
+streamlined with the creation
+and operationalization of the
+one stop shop.
+Partial credit guarantee
+facility established and
+operating with 2 banks; trade
+finance guarantee launched
+with one bank.
+
+WBG and Development
+Partners’ Support
+BOAD, ECOWAS, EU,
+India, KfW, Sweden,
+Dutch
+Ongoing lending:
+ Growth Support Project
+ PRSC-5
+ IFC – financial markets
+(BoA Mali, Ecobank
+Mali)
+ IFC - tourism (Hotel
+Salam) ; food processing
+and packaging (GRIMAS
+– supports industries that
+supply to hotels;
+manufacturing of printed
+products (Graphique
+Industries – prints posters
+and brochures for tourism
+industry)
+Planned lending:
+ PRSC-6
+ Urban Local Governments
+Support Project
+ Water Supply and
+Sanitation Project
+AAA and TFs:
+ Rural Finance Study –
+completed
+ ICA update – ongoing
+ Programmatic TA: ICT
+policy dialogue - ongoing
+ IFC PEP-Africa
+/FIAS:TA in investment
+climate – ongoing
+ IFC support to microentrepreneurs program
+(STEP) – ongoing
+ IFC Africa leasing
+
+Original CAS Outcomes
+and Indictors
+
+ Total corporate tax burden
+reduced from 50% to 47% to be
+closer to level of best
+performers within WAEMU
+zone.
+Improved performance of
+nonagricultural sectors by 2011 :
+ Number of tourists increased by
+at least 30%.
+Baseline: 100,000 tourists in
+2005.
+
+Revised CAS Outcomes
+and Indicators
+(If applicable)
+following restructuring of the
+GSP.
+ Indicator dropped following
+restructuring of GSP and
+indicator not being measurable.
+
+Progress Towards CAS Outcomes
+
+Draft of PSD strategy
+prepared but not yet
+approved. Land tenure code
+not revised yet.
+
+ Indicator to drop as it may
+not be relevant by end CAS due
+to international factors and
+instability in the North of Mali.
+
+
+
+ At least 3 new investments
+undertaken in small-scale
+mining activities.
+
+ Indicator revised. At least 10
+new investments undertaken in
+small-scale mining activities.
+
+ Number of people with access
+to information and
+communication technology
+doubled.
+Baseline: 23.5/10,000
+inhabitants in 2005.
+
+ Indicator revised: Teledensity
+increased from 2.5% (2005) to
+30% by end 2011.
+
+ Indicator on track. Several
+investments in small-scale
+mining sector already
+undertaken.
+ Indicator met.
+
+Increased productivity of
+targeted MSME
+ Increased sales.
+ Increased output.
+ Baselines and targets to be set
+once enterprises identified.
+
+ Indicator revised. Average
+revenue increase of beneficiary
+firms of STEP will increase
+from 25% in 2005 to 80% in
+2011. Indicator is collected
+through GSP.
+
+Progress Towards CAS
+Milestones
+
+Indicator on track. In 2009,
+115,500 tourists arrived by air in
+Mali.
+
+ Indicator on track. 2009 value
+is 78%.
+
+Privatization of SOTELMA
+completed in July 2009 and
+sector regulator‟s new staff
+trained; “One-stop-shop”
+focused on service to new
+entrepreneurs created;
+property registration eased by
+halving the transfer tax to
+7%; Tourism sector strategy
+completed and action plan
+adopted.
+Ongoing inventory of
+regulations completed and
+reform proposals designed by
+2009.
+Mining Code revised in 2011
+with a focus on incentive
+framework for improving the
+sustainable development
+impact of extractive
+industries activities.
+At least 50 MSMEs nationwide have managerial
+training every year; Number
+of college graduates trained
+to provide support to MSMEs
+increased from 15 to 50 in
+2009.
+STEP provided TA support
+to 1,200 MSMEs since 2005
+and PCG with BoA helped
+
+- 18 -
+
+WBG and Development
+Partners’ Support
+program - ongoing
+ Doing Business reviews
+(annual)
+ IFC Trickle up program –
+completed
+ IFC Grassroots Business
+initiative - completed
+AAA and TFs:
+ Mali – FSAP - completed
+ Regional FSAP completed
+ ICA update – ongoing
+ Support to EITI
+implementation TF
+Partners:
+ AfDB, Denmark, France,
+EU, IMF, MCC
+
+Original CAS Outcomes
+and Indictors
+
+Revised CAS Outcomes
+and Indicators
+(If applicable)
+
+Progress Towards CAS Outcomes
+
+Progress Towards CAS
+Milestones
+
+WBG and Development
+Partners’ Support
+
+extend term finance to SMEs.
+Assistance to BoA led to an
+increase in Bank‟s lending to
+SMEs from $4 m in 2007 to
+$37 m by end 2009.
+Implementing association
+established for the matching
+grants and institutional
+framework being finalized.
+Strategic Objective 2. Strengthen public sector performance
+More transparent budget
+practices as measured by:
+ PEFA indicators on quality and  Indicator revised. Timeliness
+timeliness of in-year budget
+of in-year budget reports from
+reports and annual financial
+D+ (2007) to at least C by 2011.
+statements improved from D+
+(2007) to at least C+ by 2011
+ New indicator: Timeliness of
+annual financial statements
+improved from D+ (2007) to at
+least C+ by 2011.
+
+Improvement in procurement
+practices as measured by:
+ PEFA indicator on procurement
+will have increased from C
+(2007) to at least B by 2011.
+
+Quality of internal and external
+budget control will have
+improved as measured by:
+ PEFA grades on internal and
+external audit have risen from
+D+ and D (2007) to at least C
+
+
+
+Indicator on track. Timeliness
+improved and quarterly budget
+execution reports are published 6
+weeks after the end of the quarter
+since Q3 2009. Quality also
+improved.
+ Indicator on track. Timeliness
+of financial statements and
+quality is now assessed with a
+rating of C.
+
+ 2010 PEFA rates procurement as
+C. Limited progress reflects
+delays in the implementation of
+reforms.
+
+ Indicator revised. PEFA
+grades on internal and external
+audit have risen from D+
+
+
+
+Indicator on track. Achieved
+for internal controls; ongoing
+work on external controls with
+- 19 -
+
+PAGAM-GFP was revised to
+include intra-year reporting
+following the 2006 PEFA;
+The interconnection of MEF
+with finance departments
+(DAFs) of all ministries and
+the regional budget
+departments (DRBs) is
+complete. Additional work
+ongoing to ensure the
+interface between PRED and
+the Treasury software.
+
+New laws and regulations for
+procurement adopted and key
+institutions put in place.
+Revisions of the laws made
+in 2011 to better align the
+laws with WAEMU
+guidelines. TA is planned
+from FY12 and this will help
+accelerate progress.
+PAGAM-GFP revised to
+incorporate actions to
+strengthen internal controls.
+PAGAM II adopted in 2010
+includes actions to strengthen
+external controls. Cabinet
+
+Ongoing lending:
+ PRSC 5
+Planned lending:
+ PRSC 6
+ Governance and Budget
+Decentralization TA
+operation
+ Urban Local Governments
+Support Project
+ Water Supply and
+Sanitation Project
+AAA and TFs:
+ CPAR – completed
+ PAGAM - completed
+ PEFA - completed
+ PEMFAR – completed
+ ROSC accounting completed
+ Policy notes on growthongoing
+ PEFA update – ongoing
+ TA poverty monitoring –
+ongoing
+ TA action plan for ROSC
+– ongoing
+ TA poverty and PRSP
+brief – completed
+
+Original CAS Outcomes
+and Indictors
+(2011).
+
+Link between budget and sector
+strategies has improved as
+measured by:
+ Annual MTEF update to
+include sector operational plans
+(education and health).
+
+ Resources transferred from
+center to municipalities have
+doubled from 2007 level of 1
+billion FCFA.
+
+ Service delivery has improved,
+as evidenced by beneficiary
+surveys.
+Improve access to and quality of
+basic education, including
+strengthening of institutional
+management capacities as
+
+Revised CAS Outcomes
+and Indicators
+(If applicable)
+(2007) to at least B (2011).
+ PEFA grades on external audit
+have risen from D (2007) to at
+least C (2011).
+
+ Indicators dropped. A more
+objective indicator is proposed
+to measure policy-based
+budgeting. Similarly, a new
+indicator is introduced to
+measure PFM capacity at
+decentralized level focusing on
+the creation of systems rather
+than flow of funds.
+ New indicator. Share of
+primary expenditure of sectors
+for which statements of sector
+strategies exist and are fully
+costed, broadly consistent with
+fiscal forecasts. Baseline
+(2006): 48.2%; Target (2013):
+75%
+ New indicator. PEFA indicator
+on timeliness of reliable
+information to sub-national
+entities on their allocations.
+Baseline (2006): D; Target
+(2011): C
+
+Progress Towards CAS Outcomes
+delays in the reform.
+ The PEFA grade on external
+audit remains at D but actions
+planned in 2011 may help
+improve the situation to D+.
+
+ Indicator on track. Much
+progress was made since 2008 in
+this area, with the expansion of
+the number of Ministries with
+MTEF.
+
+Progress Towards CAS
+Milestones
+adopted an action plan to
+clear audit backlogs and to
+prepare the creation of an
+Audit Court in December
+2010.
+Mechanism in place that
+links transfer of resources to
+municipalities (2009).
+
+WBG and Development
+Partners’ Support
+ Governance note ongoing
+Partners:
+ AfDB, EU, France,
+Canada, IMF,
+Netherlands, PAGAM,
+Sweden
+
+Ministries have at least 6
+weeks from time of budget
+circular to incorporate
+operational plans (2009).
+
+ Indicator achieved. Much
+progress made since 2008 with
+the expansion of the number of
+ministries with MTEF.
+
+ Indicator on track. Progress
+was made regarding the
+timeliness of information
+regarding the current budget but
+more needs to be done regarding
+information of the investment
+budget. 2010 rating: D. Work
+ongoing to improve the situation.
+ Indicator on track. Beneficiary
+survey to be undertaken in 2010
+under TA operation.
+1,400 classrooms
+constructed; 6, 000 teachers
+trained; 3,000 community
+teachers trained and paid by
+- 20 -
+
+Ongoing lending:
+ Devt. Learning Center
+ PRSC 5
+ IFC - US$11 million loan
+
+Original CAS Outcomes
+and Indictors
+measured by:
+ 67% primary completion rate
+by 2011 (disparities reduced
+between urban/rural and
+between girls/boys) Baseline:
+2005–06: girls 38%, boys 59%,
+total 49%).
+
+Revised CAS Outcomes
+and Indicators
+(If applicable)
+Basis has changed based on the
+census with higher population
+growth from 2.6 to 3.6% annual
+population growth rate.
+
+ 70 % of primary students
+reaching average score in
+language, reading, and
+mathematics in grades 2 and 5.
+ Girls represent 50% of total
+primary students (2011)
+(Baseline 44.1% in 2005–06).
+
+Improve access to and quality of
+HIV/AIDS-related services as
+measured by:
+ At least 60% of adult people
+know 2 ways of HIV/AIDS
+transmission by 2011 (Baseline:
+36.5 % in 2002).
+ Condom use among men who
+have had sex with more than 1
+partner in last 12 months has
+increased from 33% to 45% by
+
+Progress Towards CAS Outcomes
+
+
+
+Indicator on track. Gross
+primary education enrollment
+rate in 2009/2010 is 76% (girls at
+67% and boys at 81%). Primary
+completion rate at 51% in 2009.
+New target for 2012: 70%
+primary completion rate and girls
+at 49% and boys at 51%.
+ Indicator on track. 58% of
+primary students reached
+average score in language,
+reading, and mathematics in
+grades 2 and 5 in 2009/2010
+period.
+
+Progress Towards CAS
+Milestones
+GoM; 100 % of community
+schools fully subsidized to
+reduce out of pocket
+expenses for poor families;
+National strategy for girls‟
+education prepared and
+currently being implemented;
+Study completed to identify
+skill requirements to support
+economic growth.
+Only 74.1% Grade 1
+admission rate in 2009
+(target: 85%)
+
+to Graphique Industries
+which produces
+approximately 48% of the
+textbooks and 100% of
+the notebooks for the
+PRODEC program
+Planned lending:
+ Higher Education Project
+ PRSC 6
+ EFA/FTI Grant
+Development Policy
+Support
+AAA and TFs:
+ Skills development study
+– completed
+ TA youth initiative –
+completed
+ TA non formal education
+– completed
+ Education country status
+report – ongoing
+
+ Indicator on track. Girls
+represent 45% of total primary
+students in 2009/2011. 2012
+target: 49%.
+
+More than 4,000 people
+living with HIV/AIDS have
+access to treatment and care;
+2225 non public testing
+facilities were operational as
+of end 2008.
+
+ Indicator dropped. Project
+results matrix revised following
+restructuring of project in May
+2009 to align indicators with
+the new WB HIV/AIDS
+scorecard.
+ Indicator dropped. Same as
+above.
+
+WBG and Development
+Partners’ Support
+
+Partners:
+ AfDB, France, Canada,
+Germany, Netherlands,
+USAID, Denmark
+Ongoing lending:
+ HIV/AIDS MAP
+ PRSC 5
+Planned lending:
+ Reproductive Health
+Project
+ PRSC 6
+AAA and TFs:
+
+- 21 -
+
+Original CAS Outcomes
+and Indictors
+2011.
+ Testing services offered in at
+least 40 nonpublic facilities (up
+from 2) and all reference
+hospitals comply with national
+standards.
+ At least 10,000 persons living
+with HIV/AIDS eligible for
+treatment are under
+antiretroviral drugs and
+monitoring by 2010 (from
+3,000 in 2005).
+
+Use of health services increased
+as measured by:
+ 70% of births assisted by
+qualified health personnel
+(Baseline: 51%, 2006).
+ 4% of population covered by a
+health mutual (Baseline: 1.4%,
+2005).
+ 90% immunization rates for
+DTCP3 (Baseline: 68% in
+2006).
+ Use of modern contraception
+increased to 500,000 coupleyears of protection (Baseline:
+256,000 in 2006).
+
+Aid harmonization increased
+and transaction costs reduced:
+ Joint framework for general
+budget support in place and
+followed.
+
+Revised CAS Outcomes
+and Indicators
+(If applicable)
+
+Progress Towards CAS Outcomes
+
+Progress Towards CAS
+Milestones
+
+WBG and Development
+Partners’ Support
+ Demography and
+economics – completed
+ TA Social safety nets –
+completed
+ TA Follow-up social
+safety nets – ongoing
+ Health country status
+report – ongoing
+ IFC – Health in Africa
+initiative
+
+ Indicator revised: number of
+non public health centers to be
+25 by end 2011. Original target
+overambitious given available
+funds
+ Indicator revised: At least
+9,000 persons living with
+HIV/AIDS eligible for
+treatment are under
+antiretroviral drugs and
+monitoring by end 2011.
+ New indicator: 55,000 persons
+aged 55+ receiving counseling
+and testing for HIV and
+received their test results.
+
+Partners:
+ AfDB, EU, Belgium,
+Canada, France, Global
+Fund, Netherlands,
+Unicef, USAID
+ Currently 57% of births assisted
+by qualified health personnel
+ 2.1% of population covered by a
+health mutual in 2009 and 2.9%
+in 2010.
+
+Road map for reducing
+maternal mortality approved
+in 2009; Contracting of
+NGOs to increase coverage
+was implemented by 2009.
+Work ongoing to establish a
+system for rewarding
+performance of health
+district.
+
+ Indicator met. Immunization
+rates for DTCP3 at 101%
+currently.
+ Indicator on track. Use of
+modern contraception currently
+at 490,542 couple-years of
+protection.
+
+ Indicator met.
+
+- 22 -
+
+GoM Harmonization
+Secretariat strengthened;
+Joint framework for general
+budget support prepared and
+MoU to apply framework
+signed; Program based
+
+ TA and ESW/AAA from
+WB, EC, and other budget
+support donors
+
+Original CAS Outcomes
+and Indictors
+ Reduced number of parallel
+PIUs in Bank operations:
+maximum 4.
+ Program-based approaches: at
+least 66% of Bank portfolio.
+ Coordinated ESW/AAA: at
+least 66% of all Bank
+ESW/AAA.
+ Collaborative sections of next
+Country Assistance Strategy
+drafted and MoU signed by
+GOM and its main donors
+(including WB).
+
+Revised CAS Outcomes
+and Indicators
+(If applicable)
+
+Progress Towards CAS Outcomes
+ Only PAPAM and PRSC series
+with no parallel PIU.
+ Indicator met. 65% based on
+disbursements.
+ Indicator on track. Good
+coordination with the Govt.
+ Indicator on track. Joint CAS
+prepared in 2009 and signed by
+main donors; new CAS
+preparation not yet started.
+
+- 23 -
+
+Progress Towards CAS
+Milestones
+approaches represented at
+least 42% of WB portfolio
+end 2009 and 50% of
+ESW/AAA with strengthened
+coordination during
+preparation.
+GoM H&A action plan not
+executed as planned;
+Reducing parallel PIUs to 8
+was not achieved.
+
+WBG and Development
+Partners’ Support
+
+APPENDIX 2. IDA LENDING AND ANALYTICAL PROGRAM
+A. Planned Lending Program and Actual Deliveries (FY08-12)
+
+CAS Planned Lending
+
+US$ m
+
+PRSC II
+
+42
+
+Total
+GEF WA Biosafety Project
+
+42
+25
+
+PRSC III
+Energy Support Project
+TA for Service Delivery
+Regional operation
+
+40
+75
+15
+8
+
+Total
+GEF Sustainable Land Mgmt. *
+
+138
+6.3
+
+PRSC IV
+
+50-60
+
+Agriculture Productivity Project
+Regional Operation
+Total
+
+70
+8-18
+138
+
+PRSC V
+Urban Operation
+Regional Operation
+
+50-60
+70
+8-18
+
+Actual Lending
+FY08
+PRSC II
+Total
+WA Biosafety Project
+FY09
+PRSC III
+Energy support Project
+Postponed to FY11
+HEURA Additional Financing
+HIV/AIDS Additional Financing
+Total
+FY10 with IDA operation
+PRSC II Additional Financing (Global Food
+Crisis Response Program)
+FY10
+PRSC IV (including $15.5 m from Global
+Food Crisis Response Program)
+Agricultural Productivity Project
+Felou Additional Financing
+Total
+GEF Agricultural Productivity
+FY11
+PRSC V
+Urban Local Governments Support Project
+
+US$ m
+42
+42
+3.9
+65
+120
+35
+6
+226
+5
+
+70.5
+70
+14.2
+154.7
+6.2
+70
+70
+
+Governance and Budget Decentralization TA
+12
+Transport Sector 2 Additional Financing
+23
+Total
+138
+Total
+175
+Rural Community Devt. Additional
+11.2
+Financing (Global Food Crisis Response
+Program)
+FY12
+PRSC VI
+70 **
+Higher Education and Skills Devt.
+50 **
+No indicative lending for FY12
+Strengthening Reproductive Health
+30 **
+Total
+150**
+*: Fully blended with IDA Agricultural Productivity Project.
+**: These estimates for FY12 are indicative only and can change. Actual allocation in FY12 will depend on: (i) total IDA
+resources available, (ii) the country‟s performance rating; (iii) the performance and assistance terms of other IDA borrowers;
+(iv) the terms of IDA's assistance to Mali (grants or credits); and (v) the number of IDA-eligible countries. IDA allocations
+are made in SDRs based on performance, and the US$ equivalent is dependent upon the prevailing exchange rate.
+
+- 24 -
+
+B. Planned AAA Program and Actual Deliveries
+CAS Planned AAA
+Rural Finance Study
+Demography and Economics
+PEMFAR
+Governance Diagnostic Study
+Poverty and PRSP brief (TA)
+
+Growth note on mining
+Skills Development Study
+Country Environmental Assessment
+ICA Update
+SLM Advisory Services
+
+Growth note on tourism
+Social Protection
+PEFA Update
+Poverty and PRSP brief (TA)
+
+Actual AAA
+FY08
+Delivered to client postponed to FY08
+Delivery to client postponed to FY08
+Delivery to client postponed to FY10
+Delivery to client postponed to FY08
+Delivery to client postponed to FY09
+ICT Policy Dialogue - Programmatic TA
+FY09
+Converted to policy notes on growth
+Delivery to client postponed to FY10
+Delivery to client postponed to FY11
+Converted to a pilot of a new generation of investment and
+private sector growth diagnostic
+Work started in 2008
+Rural Finance Study
+Population and Development
+Governance Diagnostic Study
+Poverty and PRSP brief (TA)
+ICT Policy Dialogue - Programmatic TA
+FY10
+Converted to policy notes on growth
+Converted to Social Safety Nets TA
+Slipped to FY11
+Mali FSAP
+Skills Development Study
+PEMFAR
+ROSC Accounting
+ICT Policy Dialogue - Programmatic TA
+FY11
+
+Growth note on light manufacturing
+Governance Follow-up
+TBD
+TBD
+
+Follow-up on Social Safety Nets TA
+Youth Initiative TA
+Non formal Education TA
+SME Growth and Diversification ICA
+Urban Environmental Analysis
+Policy notes on growth
+PEFA Update
+Education Country Status Report Update
+Health Country Status Report
+Poverty Monitoring TA
+Dialogue on SLM (TA)
+Deepening Telecom Policy Dialogue - Programmatic TA
+Action plan for ROSC (TA)
+
+- 25 -
+
+APPENDIX 3. STATUS OF MDGs
+
+Three MDGs are likely to be achieved: (a) combating HIV/AIDS prevalence at 1.3 percent in 2008 is
+projected to decline further; (b) reaching universal primary education: gross enrollment rates in 2009
+reached 80 percent but the girls/boys parity index remained at 79.4 percent; (c) cutting by half by 2015
+the proportion of people without sustainable access to safe drinking water: population with access to
+drinking water increased from 63.4 percent in 2007 to 73 percent in 2009. However, progress in
+sanitation is lagging. While progress was made towards health related targets, Mali is unlikely to
+achieve the goals of reducing child mortality and improving maternal health. Actions to eliminate
+gender disparities show progress but results are far from the MDGs: women in parliament level stands
+at 10.2 percent.
+Mali – Progress toward the Millennium Development Goals
+Goal
+Eradicate
+extreme
+poverty and
+hunger
+Achieve
+universal
+primary
+education
+Promote
+gender equality
+and empower
+women
+
+Current Status
+Unlikely
+
+Reduce child
+mortality
+
+Off track
+
+Improve
+maternal health
+
+Off track
+
+Combat
+HIV/AIDS,
+malaria and
+other diseases
+
+Possible to
+achieve if some
+changes are
+made
+
+Ensure
+environmental
+sustainability
+(including
+sustainable
+access to safe
+drinking water
+& sanitation)
+Develop a
+global
+partnership for
+development
+
+Insufficient
+information
+
+Possible to
+achieve if some
+changes are
+made
+Possible to
+achieve if some
+changes are
+made
+
+Insufficient
+information
+
+GoM Actions to Accelerate Progress
+The GoM is implementing inclusive policy actions to increase
+productivity and reduce vulnerability in the agricultural sector, from
+which most of the poor derive their incomes. Actions are also ongoing
+to improve basic infrastructure and the overall business environment.
+The GoM plans to improve access, quality and equity by focusing on
+improved HR management, improved systems for the distribution of
+textbooks, enhanced monitoring of investments and through effective
+decentralization and greater participation at local level.
+The GoM has defined priority areas of intervention to promote gender
+equity but specific actions still need to be defined. Areas selected
+include equal access to education and employment, framework to
+protect women from domestic and other forms of violence, and steps to
+ensure that women participate in decision making.
+The GoM plans to increase the availability of skilled health personnel,
+extend access to immunization, improve sanitation and livelihoods of
+households, increase access to information on health care issues and
+reduce costs of child health care services.
+The GoM action plan which includes free access to cesarean sections
+for poor women, inclusion of sexual education in the education
+curriculum, increase access to family planning, enhance decentralized
+provision of health services and community participation.
+The GoM plans to enhance monitoring and evaluation efforts, intensify
+actions to change behavior, continue research activities to better
+provide health care to those affected by the virus. A program is in
+place to improve diagnostic and effectiveness of tuberculo sis
+treatment. Actions to combat malaria focus on prevention measures,
+including through sanitation and wide distribution of mosquito nets.
+Actions will be undertaken to improve the collection and treatment of
+data on environmental issues, strengthen the role of institutions in
+charge of environmental issues, take into account environmental issues
+in the design of strategies and actions plans, disseminate information
+on international agreements ratified by Mali and ensure adequate
+resources for decentralized environmental management.
+
+Actions planned by the GoM include improved aid management
+though the adoption of computerized systems, enhanced monitoring of
+the PRSP and tightened linkages with the budget, to facilitate donor
+support aligned with PRSP priorities, and improved governance.
+
+Source: Gouvernement of Mali (2009), Deuxième Rapport de Mise en œuvre des Objectifs du Millénaire pour le Développement au Mali.
+
+- 26 -
+
+APPENDIX 4. IFC AND MIGA PROGRAM
+1.
+IFC‟s investment portfolio in Mali stands at US$53.3 million. Over the period under review,
+IFC invested in the financial sector, agribusiness, services and infrastructure.
+Company
+
+Sector
+
+GRIMAS
+Grand Moulin du Mali
+Graphique Industries
+Ecobank Mali
+BoA Mali
+Hotel Salam
+SIECO
+Total
+
+Agribusiness
+Agribusiness
+Services
+Financial Markets
+Financial Markets
+Tourism
+Services
+
+Amount
+($m)
+19.0
+9.8
+9.2
+8.5
+5.2
+1.3
+0.3
+53.3
+
+2.
+Fostering private sector access to finance: IFC, jointly with the WB, implemented the
+IDA/IFC MSME program that aims to boost finance for the development of this underserved market
+segment. The assistance consists of a risk sharing facility on a new portfolio of loans to SMEs to 2
+selected banks, Bank of Africa (BoA) and Ecobank, and an SME banking TA program to support their
+activity in a secure and profitable manner. Assistance to BoA led to an increase in the bank‟s total
+lending to SMEs from about US$4 million in October 2007 to US$37 million in March 2011 with 231
+SMEs reached, while Ecobank SMEs loans portfolio is expected to reach $12.5 million.
+3.
+IFC provided to Ecobank a trade guarantee under its Global Trade Finance Program, and is
+discussing with several other banks to boost Mali‟s international trade activity.
+4.
+IFC, through its Capitalization Fund and African, Latin American & Caribbean Fund, in June
+2010, provided Ecobank Transnational Incorporated (ETI) with a capitalization package of up to
+US$150.14 million, including US$7.2 million to Mali‟s subsidiary.
+5.
+Following IFC benchmark bond issue in FCFA in 2006, IFC has plans for new issuances
+(possibly in the form of a program) in the short term in order to boost on lending to projects in local
+currency. Other products are also at work in order to lend in FCFA to projects otherwise exposed to
+currency risk.
+6.
+Agribusiness: In October 2008, a €8 million (approximately US$11 million) loan was
+committed for Groupe AMI, the largest private agribusiness group in Mali which produces flour,
+animal feed and bottled water. The purpose of the loan is to help finance the company‟s US$25
+million expansion and product diversification plans. SMEs reached were 102 in 2010, versus a target
+of 40. Other development impact targets reached local suppliers and $3.5 million tax receipts increases
+by 2012.
+7.
+In June 2010, IFC committed a €14 million (approximately US$19 million) loan to Groupe
+Industriel Madiou Simpara (GRIMAS) which produces carbonated soft drinks, bottled water, performs
+and caps for plastic bottles, and carbon dioxide for beverages. The purpose of the loan is to help
+finance the company‟s €33 million expansion program in Mali, Senegal and Cote d‟Ivoire.
+
+- 27 -
+
+Development impact targets include the creation of 100 new jobs, 30 percent female employment, and
+creating linkages with local SMEs by 2014.
+8.
+Global Manufacturing and Services: In June 2009, a €7.5 million (approximately US$9
+million) loan was committed for Graphique Industries, the largest printed products company in Mali
+supplying textbooks and notebooks to the education sector. The loan is being used to upgrade the
+company‟s machines and increase its overall capacity, quality and efficiency, which will allow it to
+expand its market to surrounding countries.
+9.
+Infrastructure: A US$25.0 million loan was committed in March 2010 to the Aga Khan Fund
+for Economic Development (AKFED), for on-lending to its three African airlines including i.e. Air
+Mali, Air Burkina and Air Uganda. The purpose of the loan is to support the turnaround and expansion
+of the airlines, and help strengthen their competitive position especially in West Africa.
+10. IFC is also unleashing key sectors‟ potential with advisory services and expanding private sector
+base with investment products. Advisory services include:
+
+
+Improving investment climate: IFC, through FIAS and PEP Africa, has been engaged, along
+with the Bank, in providing support to improve the investment climate. Phase 2 of the
+Investment Climate Reform program was launched in January 2010. The aim of the 3-year
+program is to improve the Doing Business ranking, encouraging agribusiness investment, and
+improving the regulatory framework for industrial zone development. Phase 2 focuses on: (i)
+the investment code, tax regimes, and investment promotion; (ii) special economic zones; and
+(iii) areas covered by Doing Business - dealing with construction permits, trading across
+borders, and enforcing contracts. A regional investment climate team (FIAS/PEP Africa) was
+hired in Dakar and one Operating Officer in Bamako to ensure support to the day-to-day
+implementation of the program, including in Mali (Phase 2, FY09 and beyond). IFC is
+supporting regional integration through the regional OHADA-level reforms, implementation
+of new collateral registries in the OHADA region, and implementation of a regional credit
+bureau within the UEMOA zone.
+
+
+
+Capacity building program: IFC has completed during the current CAS period several
+advisory programs targeting SMEs, including the Support and Training Entrepreneurship
+Program (STEP) focusing on micro enterprises, TUP (Trickle Up Program-IFC funded), and
+IFC-GBI (Grassroots Business Initiative. These programs were not renewed as a result of the
+refocus of IFC‟s advisory services (focus is now to provide standardized products such as
+Business Edge, via intermediaries, such as trainers, financial institutions or corporates with
+reach to SMEs).
+
+
+
+IFC, through its Africa Leasing Program (ALF), is promoting leasing as an innovative
+alternative financial mechanism to SMEs. Since June 2009, ALF in partnership with 10
+professional associations trained more than 250 entrepreneurs on the advantages of leasing.
+Further training/advisory services will target firms (leasing companies, commercial and
+development banks, microfinance, equipment providers), business professionals (lawyers and
+accountants) as well as local authorities. ALF will assist the tax authorities to implement tax
+breaks. IFC is also contemplating making investments in leasing providers.
+
+
+
+Health in Africa initiative: IFC supports the private delivery of health services through the
+Health in Africa initiative, in collaboration with the Gates Foundation, which aims to increase
+the capacity of private sector health providers and improve the quality of their services
+through investment and technical assistance. A country assessment of the private health care
+sector in Mali was carried out during the CAS period. IFC committed to providing technical
+- 28 -
+
+assistance in three major reform areas: (1) establishing a Public Private Dialogue Committee
+and structuring the private health sector through the creation of a Private Health Sector
+Alliance, (2) improving the regulatory framework governing the private health sector; and (3)
+increasing access to financing for the private sector. Work has started in all three areas and a
+market study of the private health sector will be carried out soon.
+11. Future Support: IFC plans to continue its focus on (i) improving the investment climate, (ii)
+providing enhanced support to SMEs and micro-enterprises through financial intermediaries; (iii)
+proactive project development, especially in infrastructure and agribusiness. In particular, IFC is
+looking at investments in banks, agribusiness and clean energy projects, through direct investments
+and the SREP facility in conjunction with IDA and AfDB.
+12. MIGA remains open in Mali, and is very keen to support new projects. Currently, MIGA‟s
+portfolio consists of one contract in the telecommunications sector, with a gross exposure of US$16.2
+million and a net exposure of US$14.6 million. MIGA‟s political risk product may alleviate concerns
+for private sector investors who are keen to invest in Mali, but who remain apprehensive because of
+political risks or governance issues. With regard to MIGA‟s product offerings, while MIGA supports
+projects of all sizes, its more streamlined Small Investment Product has proven useful for smaller sized
+investors into a country. MIGA has recently extended its product line, and is now offering insurance
+cover for the Non-Honoring of a Sovereign Guarantee, as well as its traditional Transfer Restriction,
+Expropriation, Breach of Contract and War and Civil Disturbance covers.
+
+- 29 -
+
+APPENDIX 5. PARTNERSHIP AND AID EFFECTIVENESS
+Evolution in context
+1.
+The government and donors have made some progress on harmonization and alignment, but
+room for progress remains. A first joint donor assistance strategy (JAS) for the 2009-2011 period
+was signed by 14 donors and focuses on results and the link to the GPRSF to improve
+complementarities and joint policy matrices, funding mechanisms and reviews. Some results have
+been achieved, such as improved disbursement predictability, reduction in the total number of budget
+support triggers, increase in number of donors using direct budget support, and move towards more
+programmatic approach in some sectors (especially water, decentralization and transport, to some
+extent agriculture). The Bank has played a key role in achieving these results, although other donors
+(the EU) have been more active in the decentralization and water sectors.
+2.
+GoM’s technical capacities to work on aid effectiveness have increased. The government‟s Aid
+Harmonization Secretariat is gradually becoming operational, and is co-chairing the GoM-donor
+working group to update the JAS. It has led studies on the evaluation of Phase 2 of the Paris
+Declaration. It is also operationalizing the calendar to harmonize sector reviews with the annual
+GPRSF review and leading work on aid predictability. The government‟s 2007-2009 Harmonization
+and Alignment Action Plan will be updated when the JASII is more clearly defined. A National Aid
+Policy is being considered to provide increased visibility and traction to aid effectiveness issues.
+3.
+Some evolution is seen in donor positioning and priority sectors, especially in macroeconomic
+management, the social sectors, and water. The donor positioning table below was updated in 2010
+based on 2009 commitments and positioning in 2010. As the table 1 shows, the EU, Canada, Denmark,
+and Germany have all increased their engagement in macroeconomic management. The education
+sector has seen increased participation of USAID, France, and Canada, while the African
+Development Bank and Germany have reduced their engagement. In health, EU, USAID, Canada, and
+the Netherlands have increased focus but the AfDB, France and Germany have accorded lesser priority
+to this sector. The prioritization of the water sector has increased for the AfDB, EU, Denmark, and
+Germany, while the rest of the donor group has maintained their engagement in the sector. Civil
+society has received increased attention from France, Denmark, Canada and USAID.
+Actual sector and harmonization strategies
+4.
+Challenges remain in strengthening the capacity of permanent country institutions and the
+country’s financial management mechanisms. The CAS period has seen the creation of new PIUs for
+the agriculture (not completely parallel), energy and urban operations in spite of the effort to move
+away from PIUs and specific procedures. There is a need for the GoM to incentivize civil servants to
+manage donor-funded projects, mainstreamed into existing structures. There is also no progress on
+integrating of the transport PIU into the Ministry of Transport as foreseen in the CAS. This outcome
+indicator has proven to be too optimistic. The Bank is carrying out a PIU study in collaboration with
+the Ministry of Economy and Finance to better understand the incentives driving the use of PIUs and
+the impact of PIUs on portfolio quality. The Bank is also supporting strengthened country systems
+with gradual use of country systems for financial management, with a treasury accountant being
+assigned specifically to each new Bank-funded operation. This should contribute to reduce the need
+for external fiduciary support through PIU-type arrangements. Over the remaining CAS period, the
+Bank will promote a coordinated donor approach to reduce PIUs, including through increased use of
+programmatic sector approaches.
+
+1
+
+The table does not necessarily reflect changes in levels of funding to a given sector, but rather priorities
+reported in the context of the 2010 sector mapping exercise.
+- 30 -
+
+5.
+Fragmented donor assistance is still a problem, in spite of progress on joint funding
+mechanisms. Three sectors are covered by sector budget support (education, health, and
+decentralization) and two other sectors are in the process (irrigation and water). During the CAS
+period, two new donors have started using budget support, but the share of budget support to tota l
+disbursements has gone down from 33 percent in 2006 to 23 percent in 2010, while it has increased for
+the Bank from 31 to 46 percent. The Bank chairs the donor sector working group (SWG) on macroeconomic issues and progress has been made in terms of quality of the joint budget review. Efforts are
+undertaken to harmonize the conditionality framework with the indicators developed by the
+government, and overall donors have reduced the joint trigger matrix to 39 triggers, under Bank
+leadership, with a target of 30 triggers by end 2011. Use of national systems by donors remains fairly
+low (32 percent for financial management, 37 percent for procurement), reflecting the remaining
+challenges related to strengthening country systems.
+6.
+In order to continue to strengthen the capacity of permanent country institutions and the
+country's financial management mechanisms, the Bank will continue to support sector ministries to
+develop program-based approaches. In spite of the creation of PIUs, the Bank has stimulated
+program-based approaches in the agriculture and urban development sectors, both being sectors where
+the Bank has comparative advantages in terms of staffing and level of funding. Fragmentation remains
+visible in the agriculture sector, for example, with 33 donors, implementing over 248 projects through
+63 PIUs to deliver a total portfolio of US$2.3 billion. The specific challenge for the agriculture sector
+is to gradually transfer implementation responsibility to the public and private actors in the sector, and
+to the newly created investment fund. The Fostering Agricultural Productivity Project (US$70 million
+IDA credit) has leveraged substantial co-financing from the Borrower, local farmer organizations, the
+EU Food Crisis Rapid Response Facility Trust Fund and GEF Grant, in addition to parallel financing
+from IFAD and UNDP-GEF.
+7.
+Operations in education, transport, agriculture, and water are relying increasingly on joint
+sector reviews and paving the way for increased harmonization where it is less advanced (energy,
+urban development). The transport sector has accomplished some harmonization, through the signing
+of a MoU between the key development partners (EU, KFW, AfDB, IBD and BOAD) and the G oM
+defining the harmonization framework in terms of: (a) joint supervision missions, (b) use of same
+coordination unit, (c) use of same procurement procedures, and (d) use of a single M&E framework.
+The Bank has been involved in the energy sector, which together with the water sector, has supported
+the process of moving the electricity and water utility company (EDM) towards more efficient private
+sector management. The Bank has also signed a MoU in the health sector (International health
+Partnership+ Compact), defining collaboration modalities for donor alignment and aid coordination, in
+line with the Paris Declaration. The education sector MoU was renewed in 2010 to provide a
+framework for a multi-donor approach to support in the education sector. The last joint donor mission
+took place in June 2010 and resulted in the endorsement of the third phase of the government
+education sector program, on which to base the programs supported by the participating institutions.
+The roadmap for the water sector continues to constitute a key tool in the sector harmonization
+process, creating conditions for the gradual implementation of a true program approach in the sector.
+Donor coordination on the Kabala water project and the urban water sector reform is being
+coordinated with the dozen of partners involved in the program.
+Challenges for the remaining CAS period
+8.
+The JAS expires in 2011 and the process to update the strategy was launched in February
+2011 in order to align donor support with the GPRSFIII. At this stage, the GoM has not yet decided
+on which approach it will follow. Based on the lack of substantial evidence of the benefits of JAS
+processes (division of labor and joint programming), the Bank is advocating for an incremental
+approach with up-front focus on measurable results of the chosen process. In parallel, the UN is in the
+process of moving towards “delivering as one” and Mali is a focus country for the EU fast track
+- 31 -
+
+initiative for division of labor among member states. All donors are more or less inclined to
+harmonize, but the JAS II process will shed more light on the direction, with a determining factor
+being the level of leadership of the government in the process going forward. The Bank is poised to
+play a central role in this process, bringing to the table the experiences learned elsewhere from similar
+experiences and a strong focus on results management. The CAS extension period will allow to better
+align with the JAS and PRSP updates.
+9.
+The Bank will continue to play a leading role in aid effectiveness issues. The remaining CAS
+period will provide the opportunity to analyze internal and external constraints to deepening aid
+effectiveness reforms and coordination in key sectors. The Bank is well positioned to participate in
+potential division of labor exercise with the CAS focus on agricultural production and basic
+infrastructure services (in energy, water, transport, agriculture, and urban development) being aligned
+with the Bank‟s sectors of comparative advantage. Going forward, it will be necessary to find ways to
+deepen donor coordination with strong focus on process contribution to actual results achieved in term
+of contribution to the GPRSP III objectives. The CAS is fully in line with the new Africa Strategy‟s
+principle to focus on a limited number of sectors. Extension of the CAS by one year will allow the
+Bank to approach the JAS II process with more flexibility and to contribute to setting new objectives
+for aid effectiveness in the context of the JAS II, GPRSP III, and the 4 th High Level Forum on Aid
+Effectiveness scheduled for November 2011.
+D ONOR FUNDING REPORTED FOR 2010
+Rank
+
+Donor
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+USA (USAID + MCC)
+World Bank
+United Nations, total
+European Union
+AfDB
+Canada
+Germany
+Netherlands
+France
+Denmark
+
+Amount
+Rank
+(US$ million)
+213.0
+11
+153.3
+12
+103.0
+13
+98.5
+14
+95.8
+15
+87.3
+16
+67.3
+17
+56.7
+18
+53.4
+19
+29.7
+20
+Total: 1,092.9
+
+Donor
+Japan
+Sweden
+Belgium
+Switzerland
+Spain
+Global Fund
+Luxembourg
+IFAD
+GAVI
+Italy
+
+Source: 2011 Paris Declaration Survey, Mali Aid Harmonization Secretariat, March 2011
+
+- 32 -
+
+Amount
+(US$ million)
+29.5
+26.6
+16.5
+13.8
+13.2
+10.8
+9.4
+7.9
+5.4
+1.9
+
+EVOLUTION OF DONOR PROGRAMS IN MALI AND OF BANK POSITIONING
+Sector/ Donors
+
+Rural Development
+Energy
+Transport
+Environment
+SME/MSME
+Communications
+Public Adm. Reform
+Macroecon. Mgmt.
+Decentralization
+Governance
+Financial Sector
+Civil Society
+Education
+Health/Social Dev.
+HIV/AIDS
+Water & Sanitation
+Employment
+Urban
+
+The World
+Bank
+(a)
+
+(b)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The World
+African
+European
+Bank as of Development
+MCC
+USAID
+France
+Canada
+Union
+end of CAS
+Bank
+(a)
+(b)
+(a)
+(b)
+(a)
+(b)
+(a)
+(b)
+(a)
+(b)
+(a)
+(b)
+(a)
+(b)
+GPRSP Pillar 1: Infrastructure Development and Strengthening the Productive Sector
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GPRSP Pillar 2: Strengthening the Structural Reform Agenda
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GPRSP Pillar 3: Improve Delivery of Social Service
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c)
+
+Denmark
+
+Germany
+
+(a)
+
+(b)
+
+(a)
+
+(b)
+
+(a)
+
+(b)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Netherlands
+
+Cross Cutting Themes
+Gender
+Culture
+Regional Integration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sector priority:  : High  : Medium : Low
+(a) As in the CAS; (b) Situation as of CASPR; (c) Urban Project in CAS lending program, but not included in CAS Annex 7 table. Highlighted cells signify change
+from 2007 to 2011.
+Note: The donors in the original CAS Annex 7 constitute the largest donors in 2010. Together, they account for about 88 percent of official ODA. The table reflects
+donor priority to a given sector, as per the 2010 division of labor exercise in Mali and not levels of funding to a given sector.
+
+- 33 -
+
+APPENDIX 6. CLIMATE CHANGE EFECTS ON MALIAN MAIN DEVELOPMENT
+SECTORS
+1.
+The persistent drought has led to fairly significant rainfall deficits, so that the migration of
+people and animals became a main strategy to tackle these new precarious environmental and climate
+conditions. The decrease in rainfall is going to entail land conflicts because of the reduction in arable
+lands and rangelands, the migration of populations towards urban centers, with as consequences the
+increase in unemployment, insecurity, and in communities‟ life, livelihoods and health.
+2.
+Agriculture and water resources: The increase in temperatures, combined with a decrease in
+precipitations and in the length of the rainy season, impacts on the agriculture production and
+consequently on food security. By the year 2050, it could become difficult to contemplate rice farming
+through controlled water submersion as currently in the Rice Offices of Ségou and Mopti as well as in
+San, without hydraulic structures. Concerning the full control of parameters, the available volumes of
+water for off-season farming could become limited given the weakness of the inputs of rivers, mainly
+during the period of low water in rivers (report on the Adaptation Strategy, 2007).
+3.
+Through the fostering agricultural productivity project, several Sustainable Land and Water
+Management (SLWM) technologies for the agricultural sector that are more resistant to the impact of
+climate shocks will be introduced. The project will help end users to adopt SLWM practices which
+mitigate CC and sequester atmospheric carbon (inter alia conservation tillage or conservation
+agriculture, agro-forestry, sustainable grazing management, sylvo-pastoral systems and improved
+forest management). It will also support SLWM practices that improve the ecosystem services
+provided by the soil – leading to increased biomass production and more reliable crop yields – and
+strengthen resilience in agricultural livelihoods.
+4.
+Water resources: Water constitutes the engine for the socio-economic development of the
+country. Though theoretically abundant, surface and underground water resources are seriously
+threatened by wastage and non-rational management of networks, sedimentation and sand silting of
+water-courses, lakes, and ponds, various pollutions, etc. This situation will be exacerbated by the
+effects of CC. The frequency of floods, following an increase in rainfalls, will cause economic losses
+with current occupancy of its main water courses. Owing to the decrease in rainfall, the safe drinking
+water supply for the population and livestock will be very difficult following the drying up of some
+wells or increase in their in-depth. Due to the decrease in rainfall, the supplying of deep aquifers
+through infiltration has become very weak. In some regions, as in the Bani-Niger sub-basin, aquifers
+have experienced the lowest level since 1987 (National Directorate for Energy, 2006).
+5.
+The Bank is preparing the Bamako water supply project. Several studies addressing the impact
+of CC on the sector will be achieved. The project should ensure the resilience of water and sanitation
+infrastructure to CC as a major CC adaptation measure. The creation of safe water sources and
+effective sanitation systems should guarantee protection from contamination and destruction from
+natural disasters. Synergy with the Global Facility for Disaster Reduction and Recovery throughout
+the national flood early warning system should be encouraged.
+6.
+Forest resources: The forest sector plays a decisive role in the socio-economic and cultural life
+of Malian populations. It provides capital goods that no other sector can provide (93 percent of energy
+requirements, food products, and pharmaceuticals, ecotourism, biodiversity conservation, improving
+the living environment, etc. Natural formations underwent great changes, due especially to the aridity
+of the climate, successive droughts, and anthropic activities. In case of shortages or disruption of rural
+production systems, some activities traditionally considered secondary will become very important.
+For example, for some small basins such as Diola, Bougouni, and Selingué, wood-cutting will be
+favored and will temporarily be a source of income but only for a short period because th e forest
+- 34 -
+
+plateau of these zones will not withstand for long. The degradation of land cover will increase soil
+erosion and favor a blocking up of the water courses of water retention lakes.
+7.
+The Bank supported the elaboration of a Country Strategic Framework for Sustainable Land
+Management (CSIF). Also a grant for DRM was approved to strengthen the DRM institutional
+framework, reinforce key institutions‟ technical capacities and implement a pilot project for vulnerable
+communities‟ protection. Mali also benefits from the Integrated Land and Water Management for
+Adaptation to Climate Variability and Change Trust Fund to set up an operational information system
+for DRM, CC and SLM. Going forward, the Bank will help Mali strengthen the resilience of its
+agricultural and natural resources sectors.
+8.
+Biodiversity: The loss of biodiversity is mainly attributable to the loss and degradation of natural
+habitats and, for some species, direct over-exploitation. The loss and degradation of natural habitats
+through activities such as wood cutting, over-grazing, and cultivation of marginal lands are further
+exacerbated by recurrent droughts.
+9.
+Through the Gourma project, the Bank supported the elaboration of several community
+development action plan taking into account the CC and biodiversity issues. The project is supporting
+protection of natural habitats in key conservation areas in and around the Gourma Elephant Reserve.
+10. Energy sector: CC affects mainly two very vulnerable sectors, namely: the hydro-electricity subsector and woody fuels. The growth rate of electricity amounts, on average by year is 12 percent, of
+which 15 percent for localities supplied by the interconnected network and 10 percent for isolated
+centers. This demand is essentially met for more than 80 percent from hydro-electricity which are
+water retention structures depending mainly on rainfall. Decrease in rainfall entails production
+shortages that influence negatively the continuity of electric energy supply service.
+11. Mali is a pilot country of the SREP, a targeted program under the Strategic Climate F und (SCF).
+The aim of the SREP in Mali is to pilot and demonstrate, as a response to the challenges of CC, the
+economic, social and environmental viability of low carbon development pathways in the energy
+sector by creating new economic opportunities and increasing energy access through the use of
+renewable energy. Multilateral development banks will assist the GoM in initiating a process leading
+towards transformational change to low carbon energy pathways by exploiting the national renewable
+energy potential in place of fossil-based energy supply and inefficient use of biomass. The specific
+objective of the Malian investment plan is to develop an integrated approach to development policies,
+strategies and investment programs based on a coherent and efficient public-private dynamic.
+12. Health: The relationships between health and the environment dealt with two diseases: malaria
+and meningitis. For malaria, an increase in temperatures will reduce the time of development of the
+parasite in its vector, which will increase the virtual capacity of the anopheles mosquito. As for
+meningitis, its expansion could be amplified in the future, following the modification of the extent of
+eco-climatic zones. Although, in situations of flooding, due to poor hygiene and sanitation and lack of
+clean drinking water, there are far more cases of cholera. It is also worth noting that the outdoor air
+pollution associated with greenhouse gas emissions from smokestacks, vehicles, and burning of waste
+can cause respiratory diseases, especially in urban centers.
+13. Through its new Reproductive Health Project (under preparation), the Bank is considering CC
+issues and efforts are targeted at increasing the demand for and use of reproductive health services
+with a clear focus on family planning and other high impact interventions contributing to the reduction
+of maternal, neonatal and child mortality, and at reinforcing of community health service delivery
+capacity.
+
+- 35 -
+
+14. Infrastructures: In transport, the national road network comprises 89,024 km of roads of which
+only 3,387 km are paved. This makes roads very vulnerable to meteorological and hydrological
+phenomena such as wind, flooding, and surface water runoff resulting in erosion and siltation
+processes. The national river network will be seriously handicapped by an overall reduction in rainfall,
+disturbance in the distribution of precipitation, and the siltation of river courses. The lowering of the
+average rainfall led to poor planning such as construction of houses and infrastructure in the beds of
+rivers and weaknesses in the dimensioning of some hydraulic structures such as bridges, dams, drains
+and dykes. This situation results in increasing human and material losses in relation with flooding,
+often attributed to CC.
+15. Through its ongoing projects and also the urban operation under preparation, CC issues should
+be considered and tackled. These projects should help the GoM revise its infrastructure norms and
+help make them resilient to climate variability and change.
+16. Crosscutting considerations: With regards to each sector‟s high influence on others, adapting to
+CC would require strong coordination mechanisms, with an integrated systemic vision and approach.
+In this regards, Mali is highly committed towards the development of its Climate Change National
+Policy and Strategy, with inputs from numerous international stakeholders, including the Bank.
+17. In addition, CC combined with the demographic growth and little planning capacities are
+altogether contributing to increase disaster risks. A number of activities are being supported by the
+Global Facility for Disaster Reduction and Recovery (managed by the Bank) to support coordination
+(institutional, political, legal and technical capacities) with regards to CC adaptation and disaster risk
+management. These activities will, among other objectives, assist Mali in the development of a multihazard early warning system (food security, flooding, drought and locust), preparedness and crisis
+management capacities as well as multi-sectoral planning capacities overall.
+
+- 36 -
+
+APPENDIX 7
+
+Mali at a glance
+
+4/5/11
+
+M ali
+
+SubSaharan
+A frica
+
+Lo w
+inco me
+
+14.5
+1,240
+3.6
+33
+
+819
+24,242
+2.5
+36
+
+828
+17,838
+2.2
+28
+
+8.9
+680
+1,190
+
+887
+1,082
+1,973
+
+379
+457
+1,137
+
+4.5
+0.9
+
+5.2
+2.7
+
+6.2
+3.9
+
+P o verty headco unt ratio at $ 1.25 a day (P P P , %)
+P o verty headco unt ratio at $ 2.00 a day (P P P , %)
+Life expectancy at birth (years)
+Infant mo rtality (per 1,000 live births)
+Child malnutritio n (% o f children under 5)
+
+51
+77
+48
+101
+28
+
+51
+73
+52
+83
+25
+
+..
+..
+57
+77
+28
+
+A dult literacy, male (% o f ages 15 and o lder)
+A dult literacy, female (% o f ages 15 and o lder)
+Gro ss primary enro llment, male (% o f age gro up)
+Gro ss primary enro llment, female (% o f age gro up)
+
+35
+18
+100
+83
+
+72
+54
+105
+95
+
+73
+59
+107
+100
+
+56
+36
+
+60
+31
+
+64
+35
+
+Ke y D e v e lo pm e nt Indic a t o rs
+
+Age distribution, 2008
+
+(2009)
+
+Male
+
+P o pulatio n, mid-year (millio ns)
+Surface area (tho usand sq. km)
+P o pulatio n gro wth (%)
+Urban po pulatio n (% o f to tal po pulatio n)
+
+Female
+
+75-79
+60-64
+45-49
+30-34
+
+GNI (A tlas metho d, US$ billio ns)
+GNI per capita (A tlas metho d, US$ )
+GNI per capita (P P P , internatio nal $ )
+
+15-19
+0-4
+10
+
+GDP gro wth (%)
+GDP per capita gro wth (%)
+
+5
+
+0
+
+5
+
+10
+
+percent of total population
+
+( m o s t re c e nt e s t im a t e , 2 0 0 3 – 2 0 0 9 )
+
+Under-5 mortality rate (per 1,000)
+300
+250
+
+200
+
+A ccess to an impro ved water so urce (% o f po pulatio n)
+A ccess to impro ved sanitatio n facilities (% o f po pulatio n)
+
+150
+
+100
+50
+
+0
+1990
+
+1995
+
+Mali
+
+N e t A id F lo ws
+(US$ millio ns)
+Net ODA and o fficial aid
+To p 3 do no rs (in 2008):
+Euro pean Co mmissio n
+Canada
+France
+A id (% o f GNI)
+A id per capita (US$ )
+
+Sub-Saharan Africa
+
+a
+
+19 9 0
+
+2000
+
+2009
+
+262
+
+479
+
+288
+
+964
+
+Growth of GDP and GDP per capita (%)
+
+42
+13
+45
+
+42
+21
+129
+
+10
+13
+98
+
+149
+99
+82
+
+14.8
+37
+
+19.9
+55
+
+12.0
+27
+
+11.0
+76
+
+14
+12
+10
+8
+6
+4
+2
+0
+-2
+-4
+-6
+
+..
+16.3
+
+0.6
+4.9
+
+-0.7
+5.6
+
+2.2
+3.6
+
+211.3
+102
+
+272.3
+144
+
+712.0
+100
+
+472.2
+114
+
+95
+
+Exchange rate (annual average, lo cal per US$ )
+Terms o f trade index (2000 = 100)
+
+2007
+
+19 8 0
+
+Lo ng- T e rm E c o no m ic T re nds
+Co nsumer prices (annual % change)
+GDP implicit deflato r (annual % change)
+
+2000
+
+05
+
+GDP
+
+GDP per capita
+
+19 8 0 – 9 0 19 9 0 – 2 0 0 0 2 0 0 0 – 0 9
+(average annual gro wth %)
+P o pulatio n, mid-year (millio ns)
+GDP (US$ millio ns)
+
+7.2
+1,787
+
+8.7
+2,421
+
+10.5
+2,422
+
+14.5
+8,996
+
+1.9
+0.8
+
+2.0
+4.1
+
+A griculture
+Industry
+M anufacturing
+Services
+
+48.3
+13.2
+6.5
+38.5
+
+Ho useho ld final co nsumptio n expenditure
+General go v't final co nsumptio n expenditure
+Gro ss capital fo rmatio n
+Expo rts o f go o ds and services
+Impo rts o f go o ds and services
+Gro ss savings
+
+2.4
+5.3
+
+45.5
+15.9
+8.5
+38.6
+
+41.6
+20.6
+3.8
+37.9
+
+36.5
+24.2
+3.1
+39.1
+
+3.3
+4.3
+6.8
+1.9
+
+2.6
+6.4
+-1.4
+3.0
+
+4.8
+4.5
+5.1
+6.5
+
+87.4
+11.6
+15.5
+
+79.8
+13.8
+23.0
+
+79.4
+8.6
+24.6
+
+76.8
+10.3
+22.4
+
+0.6
+7.9
+3.6
+
+3.2
+3.2
+0.4
+
+0.7
+22.2
+6.2
+
+14.7
+29.1
+..
+
+17.1
+33.7
+..
+
+26.8
+39.4
+..
+
+4.8
+6.6
+
+9.9
+3.5
+
+6.3
+3.9
+
+(% o f GDP )
+
+26.2
+33.8
+..
+
+No te: Figures in italics are fo r years o ther than tho se specified. 2009 data are preliminary. .. indicates data are no t available.
+a. A id data are fo r 2008.
+Develo pment Eco no mics, Develo pment Data Gro up (DECDG).
+
+- 37 -
+
+Mali
+B a la nc e o f P a ym e nt s a nd T ra de
+
+2000
+
+2009
+
+(US$ millio ns)
+To tal merchandise expo rts (fo b)
+To tal merchandise impo rts (fo b)
+Net trade in go o ds and services
+
+547
+595
+-324
+
+2,082
+2,295
+-711
+
+Current acco unt balance
+as a % o f GDP
+
+-227
+-9.4
+
+Governance indicators, 2000 and 2009
+
+Voice and accountability
+
+Political stability
+
+-876
+-9.3
+
+Regulatory quality
+Rule of law
+
+Wo rkers' remittances and
+co mpensatio n o f emplo yees (receipts)
+
+73
+
+Reserves, including go ld
+
+381
+
+Control of corruption
+
+308.2
+
+0
+
+1,528
+2009
+
+C e nt ra l G o v e rnm e nt F ina nc e
+
+25
+
+2000
+
+(% o f GDP )
+Current revenue (including grants)
+Tax revenue
+Current expenditure
+
+15.7
+13.1
+11.6
+
+21.7
+14.7
+13.0
+
+Overall surplus/deficit
+
+-6.6
+
+-4.2
+
+50
+
+75
+
+100
+
+Country's percentile rank (0-100)
+higher values imply better ratings
+
+Source: Kaufmann-Kraay-Mastruzzi, World Bank
+
+T e c hno lo gy a nd Inf ra s t ruc t ure
+
+Highest marginal tax rate (%)
+Individual
+Co rpo rate
+
+..
+..
+
+P aved ro ads (% o f to tal)
+Fixed line and mo bile pho ne
+subscribers (per 100 peo ple)
+High techno lo gy expo rts
+(% o f manufactured expo rts)
+
+..
+..
+
+2000
+12.1
+
+2008
+18.0
+
+0
+
+28
+
+14.8
+
+2.7
+
+32
+10.7
+..
+
+32
+10.1
+2.1
+
+5,449
+6.5
+
+4,722
+..
+
+E xt e rna l D e bt a nd R e s o urc e F lo ws
+E nv iro nm e nt
+(US$ millio ns)
+To tal debt o utstanding and disbursed
+To tal debt service
+Debt relief (HIP C, M DRI)
+
+2,960
+93
+797
+
+1,904
+97.5
+27.6
+
+A gricultural land (% o f land area)
+Fo rest area (% o f land area)
+Terrestrial pro tected areas (% o f surface area)
+
+To tal debt (% o f GDP )
+To tal debt service (% o f expo rts)
+
+122.2
+12.9
+
+21.2
+2.5
+
+Freshwater reso urces per capita (cu. meters)
+Freshwater withdrawal (billio n cubic meters)
+
+82
+0
+
+427.6
+9.3
+
+Fo reign direct investment (net inflo ws)
+P o rtfo lio equity (net inflo ws)
+
+CO2 emissio ns per capita (mt)
+
+Composition of total external debt, 2008
+Short-term, 7
+Private, 5
+IBRD, 0
+IDA, 534
+
+0.05
+
+0.05
+
+GDP per unit o f energy use
+(2005 P P P $ per kg o f o il equivalent)
+
+..
+
+..
+
+Energy use per capita (kg o f o il equivalent)
+
+..
+
+..
+
+2000
+
+2009
+
+IB RD
+To tal debt o utstanding and disbursed
+Disbursements
+P rincipal repayments
+Interest payments
+
+–
+–
+–
+–
+
+–
+–
+–
+–
+
+IDA
+To tal debt o utstanding and disbursed
+Disbursements
+To tal debt service
+
+957
+49
+14
+
+698
+160
+5
+
+78
+57
+0
+
+9
+9
+0
+
+9
+
+0
+
+0
+0
+
+16
+0
+
+Wo rld B a nk G ro up po rt f o lio
+(US$ millio ns)
+
+Bilateral, 983
+
+IMF, 40
+
+Other multilateral, 556
+
+US$ millions
+
+P riv a t e S e c t o r D e v e lo pm e nt
+Time required to start a business (days)
+Co st to start a business (% o f GNI per capita)
+Time required to register pro perty (days)
+Ranked as a majo r co nstraint to business
+(% o f managers surveyed who agreed)
+A ccess to /co st o f financing
+Co rruptio n
+Sto ck market capitalizatio n (% o f GDP )
+B ank capital to asset ratio (%)
+
+2000
+
+2009
+
+–
+–
+–
+
+15
+89.2
+29
+
+2000
+
+2009
+
+..
+..
+
+IFC (fiscal year)
+To tal disbursed and o utstanding po rtfo lio
+o f which IFC o wn acco unt
+Disbursements fo r IFC o wn acco unt
+P o rtfo lio sales, prepayments and
+repayments fo r IFC o wn acco unt
+
+63.6
+48.7
+
+..
+..
+
+M IGA
+Gro ss expo sure
+New guarantees
+
+..
+..
+
+No te: Figures in italics are fo r years o ther than tho se specified. 2009 data are preliminary.
+.. indicates data are no t available. – indicates o bservatio n is no t applicable.
+Develo pment Eco no mics, Develo pment Data Gro up (DECDG).
+
+- 38 -
+
+4/5/11
+
+CAS Annex B2 - Mali
+Selected Indicators* of Bank Portfolio Performance and Management
+As Of Date 4/6/2011
+
+Indicator
+Portfolio Assessment
+Number of Projects Under Implementation a
+Average Implementation Period (years) b
+Percent of Problem Projects by Number a, c
+Percent of Problem Projects by Amount a, c
+Percent of Projects at Risk by Number a, d
+Percent of Projects at Risk by Amount a, d
+Disbursement Ratio (%) e
+Portfolio Management
+CPPR during the year (yes/no)
+
+Memorandum Item
+Proj Eval by OED by Number
+Proj Eval by OED by Amt (US$ millions)
+% of OED Projects Rated U or HU by Number
+% of OED Projects Rated U or HU by Amt
+
+a.
+b.
+c.
+d.
+e.
+
+2008
+
+2009
+
+2010
+
+2011
+
+11
+4.0
+18.2
+11.8
+18.2
+11.8
+22.9
+
+13
+3.9
+15.4
+1.1
+15.4
+1.1
+20.7
+
+12
+4.0
+8.3
+0.8
+16.7
+1.2
+21.3
+
+10
+5.2
+0.0
+0.0
+10.0
+0.4
+14.4
+
+yes
+
+yes
+
+yes
+
+yes
+
+Since FY 80 Last Five FYs
+64
+8
+1,741.0
+429.9
+40.6
+50.0
+32.5
+40.6
+
+As shown in the Annual Report on Portfolio Performance (except for current FY).
+Average age of projects in the Bank's country portfolio.
+Percent of projects rated U or HU on development objectives (DO) and/or implementation progress (IP).
+As defined under the Portfolio Improvement Program.
+Ratio of disbursements during the year to the undisbursed balance of the Bank's portfolio at the
+
+beginning of the year: Investment projects only.
+* All indicators are for projects active in the Portfolio, with the exception of Disbursement Ratio,
+which includes all active projects as well as projects which exited during the fiscal year.
+
+- 39 -
+
+CAS Annex B3 (IFC) for Mali
+IFC Program, FY2008-2011
+
+Commitments (US$m)
+Gross
+Net**
+Net Commitments by Sector (%)
+Food & Beverages
+Finance & Insurance
+Pulp & Paper
+Net Commitments by Investment Instrument (%)
+Guarantee
+Loan
+* As of March 31, 2011
+** IFC's Own Account only
+
+- 40 -
+
+2008
+
+2009
+
+2010
+
+2011*
+
+0
+0
+
+33.8
+33.8
+
+17.0
+17.0
+
+5.3
+5.3
+
+0
+0
+0
+
+34.5
+34.2
+31.3
+
+33.5
+66.5
+0
+
+0.0
+100.0
+0
+
+0
+0
+
+34.2
+65.8
+
+66.5
+33.5
+
+100.0
+0
+
+CAS Appendix B6
+Mali – Key Economic Indicators
+
+Indicator
+
+Actual
+2006
+2007
+
+2005
+
+Estimate
+2009
+2010
+
+2008
+
+Projected
+2012
+2013
+
+2011
+
+2014
+
+National accounts (as % of GDP)
+Gross domestic product a
+Agriculture
+
+100
+
+100
+
+100
+
+100
+
+100
+
+100
+
+100
+
+100
+
+100
+
+100
+
+37
+
+37
+
+36
+
+40
+
+39
+
+40
+
+39
+
+39
+
+40
+
+40
+
+Industry
+
+24
+
+24
+
+23
+
+20
+
+21
+
+21
+
+23
+
+23
+
+23
+
+23
+
+Services
+
+39
+
+39
+
+41
+
+40
+
+40
+
+39
+
+38
+
+38
+
+37
+
+37
+
+Total Consumption
+Gross domestic fixed investment
+Government investment
+Private investment
+
+89
+23
+8
+15
+
+85
+23
+9
+14
+
+87
+22
+8
+14
+
+97
+19
+8
+12
+
+91
+20
+11
+10
+
+92
+18
+8
+11
+
+88
+21
+9
+12
+
+87
+21
+8
+13
+
+85
+21
+8
+14
+
+85
+22
+8
+15
+
+Exports (GNFS)b
+Imports (GNFS)
+
+26
+37
+
+32
+40
+
+26
+36
+
+29
+43
+
+26
+34
+
+25
+33
+
+27
+35
+
+27
+33
+
+27
+31
+
+26
+31
+
+Gross domestic savings
+
+11
+
+15
+
+13
+
+5
+
+13
+
+11
+
+12
+
+14
+
+16
+
+17
+
+Gross national savings c
+
+11
+
+13
+
+13
+
+6
+
+13
+
+11
+
+14
+
+15
+
+15
+
+16
+
+5305
+
+5866
+
+7146
+
+8722
+
+8996
+
+..
+
+..
+
+..
+
+..
+
+..
+
+440
+
+460
+
+530
+
+610
+
+680
+
+..
+
+..
+
+..
+
+..
+
+..
+
+6.1
+
+5.3
+
+4.3
+
+5.0
+
+4.5
+
+5.8
+
+5.3
+
+5.5
+
+5.5
+
+5.1
+
+Exports (GNFS)b
+Merchandise FOB
+
+26
+
+32
+
+26
+21
+
+29
+24
+
+26
+22
+
+25
+21
+
+27
+23
+
+27
+24
+
+27
+24
+
+26
+23
+
+Imports (GNFS)b
+Merchandise FOB
+Net current transfers
+Official (net)
+Private (net)
+
+37
+
+40
+
+36
+25
+6
+3
+2
+
+43
+31
+5
+2
+6
+
+34
+24
+5
+2
+3
+
+33
+24
+5
+2
+3
+
+35
+25
+4
+1
+3
+
+33
+24
+4
+1
+3
+
+31
+23
+4
+1
+2
+
+31
+22
+4
+1
+2
+
+-8
+0
+
+-12.7
+0.0
+
+-9.3
+5.0
+
+-9.0
+-1.9
+
+-9.7
+-1.7
+
+-8.3
+-0.4
+
+-6.5
+1.1
+
+-6.7
+0.9
+
+Memorandum items
+Gross domestic product
+(US$ million at current prices)
+GNI per capita (US$, Atlas method)
+Real annual growth rates (%, calculated
+from 87 prices)
+Gross domestic product at market prices
+Real annual per capita growth rates (%,
+calculated from 87 prices)
+Balance of Payments (as % of GDP)
+
+Current account balance (including
+official transfers)
+Overall balance
+
+(Continued)
+
+- 41 -
+
+CAS Appendix B6
+Mali – Key Economic Indicators
+(continued)
+
+Indicator
+
+Actual
+2006
+2007
+
+2005
+
+Estimate
+2009
+2010
+
+2008
+
+Projected
+2012
+2013
+
+2011
+
+2014
+
+Public finance (as % of GDP at market
+prices)d
+Current revenues
+Current expenditures
+Current account surplus (+) or deficit (-)
+Capital expenditure
+Foreign financing
+Monetary indicators
+M2/GDP
+Growth of M2 (%)
+Private sector credit growth (%)
+Government credit growth (net, %)
+Price indices( YR87 =100)
+Merchandise export price index
+Merchandise import price index
+Merchandise terms of trade annual %
+change (deterioration - )
+Real exchange rate
+Consumer price index (% change)
+GDP deflator (% change)
+
+17.9
+13.5
+4.5
+10.4
+6.6
+
+51.8
+13.4
+38.4
+9.2
+-26.6
+
+16.9
+13.6
+3.3
+9.7
+6.6
+
+16.0
+12.9
+3.1
+9.8
+5.5
+
+17.1
+13.0
+4.1
+10.8
+7.2
+
+17.4
+13.0
+4.4
+7.9
+4.0
+
+16.3
+14.2
+2.1
+9.2
+4.7
+
+16.5
+13.4
+3.1
+8.3
+4.5
+
+16.9
+13.4
+3.5
+7.5
+4.3
+
+17.1
+13.5
+3.6
+8
+4.3
+
+30.0
+9.5
+
+30.4
+10.9
+
+29.4
+8.0
+4.6
+0.5
+
+27.9
+8.4
+5.2
+-3.2
+
+28.1
+16.0
+7.2
+-13.9
+
+27.9
+8.9
+8.4
+2.5
+
+27.7
+9.3
+8.3
+8.5
+
+29.0
+11.8
+9.0
+4.5
+
+29.9
+11.5
+8.3
+-1.0
+
+30.8
+10.8
+8.7
+-1.2
+
+..
+..
+
+..
+..
+
+3.4
+3.4
+
+..
+..
+
+..
+..
+
+..
+..
+
+..
+..
+
+..
+..
+
+..
+..
+
+..
+..
+
+..
+..
+
+..
+..
+
+0.0
+0.5
+
+36.7
+8.0
+
+27.7
+0.3
+
+-1.3
+-6.3
+
+12.8
+..
+
+-8.1
+..
+
+4.9
+..
+
+0.8
+..
+
+6.4
+2.4
+
+1.5
+4.1
+
+2.0
+7.1
+
+9.1
+8.7
+
+2.2
+3.6
+
+1.4
+3.6
+
+2.0
+4.4
+
+2.1
+1.3
+
+2.3
+2.4
+
+2.8
+2.4
+
+a. GDP at factor cost
+b. "GNFS" denotes "goods and nonfactor
+services."
+c. Includes net unrequited transfers
+excluding official capital grants.
+d. Consolidated central government.
+
+- 42 -
+
+CAS Appendix B7
+
+Indicator
+
+2005
+
+Total debt outstanding and
+
+Actual
+2006
+2007
+
+Estimated
+2009
+
+2008
+
+2010
+
+Projected
+2012
+
+2011
+
+2013
+
+3260
+
+1656
+
+1992
+
+2125
+
+2667
+
+2803
+
+2989
+
+3094
+
+3130
+
+Net disbursements (US$m)a
+
+..
+
+..
+
+101
+
+-9
+
+234
+
+428
+
+88
+
+64
+
+68
+
+Total debt service (TDS)
+
+..
+
+..
+
+20
+
+25
+
+26
+
+29
+
+31
+
+31
+
+31
+
+TDO/XGSb
+
+241.8
+
+90.2
+
+104.8
+
+84.5
+
+108.0
+
+121.3
+
+108.7
+
+104.5
+
+101.1
+
+TDO/GDP
+
+59.3
+
+27.0
+
+27.8
+
+24.2
+
+28.3
+
+30.0
+
+29.1
+
+28.1
+
+27.7
+
+a
+
+disbursed (TDO) (US$m)
+
+(US$m)a
+Debt and debt service indicators
+(%)
+
+TDS/XGS
+
+..
+
+..
+
+1.0
+
+1.0
+
+1.0
+
+1.2
+
+1.1
+
+1.1
+
+1.0
+
+93.7
+
+95.1
+
+96.8
+
+95.9
+
+94.1
+
+93.9
+
+94.1
+
+94.5
+
+94.8
+
+IBRD DS/public DS
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+Preferred creditor DS/public
+
+..
+
+..
+
+48.5
+
+55.2
+
+57.6
+
+48.6
+
+49.9
+
+49.1
+
+50.2
+
+IBRD DS/XGS
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+IBRD TDO (US$m)d
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+1424
+
+297
+
+452
+
+534
+
+698
+
+775
+
+839
+
+888
+
+920
+
+16.2
+
+16.2
+
+16.2
+
+16.2
+
+16.2
+
+16.2
+
+16.2
+
+16.2
+
+16.2
+
+Concessional/TDO
+IBRD exposure indicators (%)
+
+DS (%)c
+
+Of which present value of
+guarantees (US$m)
+Share of IBRD portfolio (%)
+d
+
+IDA TDO (US$m)
+IFC (US$m)
+Loans
+
+Equity and quasi-equity /c
+MIGA
+MIGA guarantees (US$m)
+
+a. Includes public and publicly guaranteed debt, private nonguaranteed, use of IMF credits and net shortterm capital.
+b. "XGS" denotes exports of goods and services, including workers' remittances.
+c. Preferred creditors are defined as IBRD, IDA, the regional multilateral development banks, the IMF, and the
+Bank for International Settlements.
+d. Includes present value of guarantees.
+e. Includes equity and quasi-equity types of both loan and equity instruments.
+
+- 43 -
+
+CAS Annex B8 (IFC) - Mali
+Committed and Disbursed Outstanding Investment Portfolio
+As of 3/31/2011
+(In USD Millions)
+
+Committed
+
+FY Approval
+
+Company
+
+2009
+2009/ 2010/ 2011
+2009
+2010
+1994/ 1998/ 2003
+2001/ 2002/ 2009
+
+BoA Mali
+Ecobank Mali
+GMM
+GRIMAS
+Hotel Bamako
+PAL-Graphique
+Id
+SEF SIECO
+SIKA
+
+1999/ 2004
+1982/ 1983/ 1990/ 1993
+Total Portfolio
+
+Loan
+
+Equity
+
+Quasi
+Equity*
+
+Disbursed Outstanding
+
+GT/RM**
+
+Participant
+
+GT/RM
+
+Participant
+
+0
+0
+0
+0
+0
+0
+
+0
+0
+0
+0
+0
+0
+
+6.0
+12.2
+0
+0
+0
+0
+
+0
+0
+0
+0
+0
+0
+
+0
+0
+10.8
+4.7
+1.5
+8.5
+
+0
+0
+0
+0
+0
+0
+
+0
+0
+0
+0
+0
+0
+
+2.8
+5.4
+0
+0
+0
+0
+
+0
+0
+0
+0
+0
+0
+
+0.3
+0
+29.8
+
+0
+0
+0
+
+0
+0
+0
+
+0
+0
+18.2
+
+0
+0
+0
+
+0.3
+0.0
+25.8
+
+0
+0
+0
+
+0
+0
+0
+
+0
+0
+8.2
+
+0
+0
+0
+
+** Denotes Guarantee and Risk Management Products.
+
+- 44 -
+
+Equity
+
+Quasi
+Equity
+
+0
+0
+10.8
+6.5
+1.5
+10.7
+
+* Quasi Equity includes both loan and equity types.
+
+Loan
+
+CAS Annex B8 - Mali
+Operations Portfolio (IBRD/IDA and Grants)
+As Of Date 4/6/2011
+Closed Projects
+
+76
+
+IBRD/IDA *
+Total Disbursed (Active)
+of w hich has been repaid
+Total Disbursed (Closed)
+of w hich has been repaid
+Total Disbursed (Active + Closed)
+of w hich has been repaid
+
+239.97
+0.00
+762.07
+79.35
+1,002.04
+79.35
+
+Total Undisbursed (Active)
+
+328.05
+
+Total Undisbursed (Closed)
+
+10.63
+
+Total Undisbursed (Active + Closed)
+
+338.68
+
+Active Projects
+
+Difference Between
+Expected and Actual
+
+Last PSR
+Supervision Rating
+Project ID
+
+Project Name
+
+P052402
+P082187
+P080935
+P082957
+P073036
+P040653
+P090075
+P081704
+P095091
+P108440
+P099709
+Overall Result
+
+GEF Gourma Biodiv Conserv SIL (FY05)
+Dev Learning Ct LIL (FY04) - (PCFD)
+Growth Support SIL (FY05)
+HIV/AIDS MAP (FY04)
+Household Energy & Univ Access (FY04)
+Rural Com. Dev. (PACR)
+Transp Sec SIL 2 (FY07)
+Agr Compet & Diversif (FY06) - (PCDA)
+Agricultural Productivity (IDA)
+Energy Support Project SIL (FY09)
+Agricultural Productivity GEF (SIP)
+
+Development
+Objectives
+
+Implementation
+Progress
+
+Fiscal Year
+
+S
+MS
+MS
+S
+S
+S
+S
+S
+S
+S
+S
+
+MS
+MS
+MS
+MS
+S
+S
+MS
+S
+MS
+S
+MS
+
+2005
+2004
+2005
+2004
+2004
+2006
+2007
+2006
+2010
+2009
+2010
+
+IBRD
+
+IDA GRANT Cancel.
+5.5
+2.5
+55
+31.5
+70.65
+71.2
+90
+46.4
+70
+120
+557.25
+
+a/. Intended disbursements to date minus actual disbursements to date as projected at appraisal
+
+- 45 -
+
+Disbursements a/
+
+Original Amount in US$ Millions
+
+6.2
+11.7
+
+Undisb.
+
+Orig.
+
+0.80
+0.36
+33.90
+1.34
+16.09
+25.05
+38.42
+18.58
+68.72
+125.59
+6.20
+335.05
+
+0.80
+0.27
+27.30
+-6.26
+-19.91
+10.57
+29.14
+17.21
+8.09
+49.39
+0.50
+117.09
+
+Frm
+Rev'd
+
+16.77
+-0.76
+8.50
+
+24.51
+
+IBRD 33443R
+
+MALI
+SELECTED CITIES AND TOWNS
+
+MAIN ROADS
+
+PROVINCE CAPITALS
+
+RAILROADS
+
+NATIONAL CAPITAL
+
+REGION BOUNDARIES
+
+RIVERS
+
+INTERNATIONAL BOUNDARIES
+
+5°W
+
+0°
+0
+
+To
+Chenachane
+
+100
+
+0
+
+50
+
+200
+
+100
+
+300 Kilometers
+
+150
+
+300 Miles
+25°N
+
+MALI
+
+To
+El Mreîti
+
+S a h a r a
+To
+El Mreîti
+
+ALGERIA
+
+D e s e r t
+
+Taoudenni
+To
+Poste Maurice
+Cortier
+
+TOMBOUCTOU
+
+To
+Abalessa
+
+20°N
+
+20°N
+
+Tessalit
+
+KIDAL
+Va
+llée
+du Tilem
+si
+
+M A U R I TA N I A
+Araouane
+
+Nara
+
+O
+
+Nioro
+du Sahel
+
+15°N
+
+To
+Kédougou
+
+Kéniéba
+Kéni
+niéba
+ba
+
+Kolokani
+
+O
+
+g
+
+lé
+Baou
+
+Kita
+
+BAMAKO
+
+MOPTI
+
+Mopti
+Niono
+
+San
+
+Koulikoro
+
+To
+Nouna
+
+Koutiala
+To
+Siguiri
+
+GUINEA
+
+DISTRICT
+DE BAMAKO
+
+Bougouni
+
+SIKASSO
+
+Menaka
+Ansongo
+
+Douentza
+
+To Niamey
+
+BURKINA
+FASO
+
+To
+Bobo
+Dioulasso
+
+BENIN
+10°N
+
+TOGO
+
+GHANA
+
+CÔTE D’IVOIRE
+10°W
+
+15°N
+
+Sikasso
+
+To
+Korhogo
+
+SIERRA
+LEONE
+
+To
+Abala
+
+NIGER
+
+To
+Kankan
+
+10°N
+
+k
+ua
+
+To
+Ouahigouya
+
+Ségou Bani
+
+r
+ge
+Ni
+
+GAO
+
+Gao
+
+Bandiagara
+
+SÉGOU
+
+UL
+
+K AY E S
+
+K
+
+Ba
+fin
+
+IK
+
+Kayes
+To
+Goudiry
+
+Hombori
+Tondo
+(1,155 m)
+
+Lac
+Débo
+
+Nampala
+
+Bourem
+
+r
+
+Lac Niangay
+
+Niafounke
+
+To Néma
+
+RO
+
+To
+Kifa
+
+Nige
+
+de
+L’A
+za
+o
+
+To
+Ayun
+el ’Atrous
+
+Gourma
+Rharous
+
+Vallée
+
+Tombouctou
+(Timbuktu)
+
+Kidal
+
+5°W
+
+0°
+
+This map was produced by
+the Map Design Unit of The
+World Bank. The boundaries,
+colors, denominations and
+any other information shown
+on this map do not imply, on
+the part of The World Bank
+Group, any judgment on the
+legal status of any territory,
+or any endorsement or
+acceptance of such
+boundaries.
+
+MAY 2009
+
+

@@ -1,0 +1,10320 @@
+d
+e
+
+z
+
+i
+
+r
+
+o
+h
+
+t
+
+u
+
+A
+
+e
+
+r
+
+u
+
+s
+
+o
+
+l
+
+c
+s
+
+i
+
+D
+
+c
+
+i
+l
+
+b
+u
+
+P
+
+d
+e
+
+z
+
+i
+
+r
+
+o
+h
+
+t
+
+u
+
+A
+
+e
+
+r
+
+u
+
+s
+
+o
+
+l
+
+c
+s
+
+i
+
+D
+
+c
+
+i
+l
+
+b
+u
+
+P
+
+d
+e
+
+z
+
+i
+
+r
+
+o
+h
+
+t
+
+u
+
+A
+
+e
+
+r
+
+u
+
+s
+
+o
+
+l
+
+c
+s
+
+i
+
+D
+
+c
+
+i
+l
+
+b
+u
+
+P
+
+d
+e
+
+z
+
+i
+
+r
+
+o
+h
+
+t
+
+u
+
+A
+
+e
+
+r
+
+u
+
+s
+
+o
+
+l
+
+c
+s
+
+i
+
+D
+
+c
+
+i
+l
+
+b
+u
+
+P
+
+Document of
+
+The World Bank
+
+FOR OFFICIAL USE ONLY
+
+Report No. 20370 - EAP
+
+PACIFIC
+
+REGIONAL STRATEGY
+
+May 2000
+
+Papua New Guinea and Pacific Islands Country Unit
+East Asia and Pacific Regional Office
+
+This document has a restricted distribution and may be used by recipients only in the
+perfornance of their official duties. Its contents may not otherwise be disclosed without
+World Bank authorization
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GLOSSARY OF ACRONYMS AND ABBREVIATIONS
+
+ADB 
+Asian Development Bank
+AusAID Australia Agency for International Development
+APL 
+Adaptable Program Loan
+CDF 
+Comprehensive Development Framework
+CRP 
+Comprehensive Reforn Program
+DWFN 
+Distant Water Fishing Nations
+ESW 
+Economic and Sector Work
+EU 
+European Union
+FEMM 
+Forum Economic Ministers Meeting
+FDI 
+Foreign Direct Investment
+FFA 
+Foreign Fisheries Agency
+FIAS 
+Foreign Investment Advisory Service
+FSM 
+Federated States of Micronesia
+FTMM 
+Foreign Trade Ministers Meeting
+GDP 
+Gross Domestic Product
+GSP 
+General System of Preferences
+GEF 
+Global Environment Facility
+HPI 
+Human Poverty Index
+IBRD 
+International Bank for Reconstruction and Development
+IAMP 
+Infrastructure Management Project
+IDA 
+International Development Association
+IFC 
+International Finance Corporation
+LIL 
+Learning and Innovation Loan
+MHLC Multilateral High Level Commission
+ODA 
+Official Development Assistance
+OED 
+Operations Evaluation Department
+OECD 
+Organization of Economic Cooperation and Development
+PFTAC 
+Pacific Financial Technical Assistance Center
+Pacific Island Country
+Pacific Member Countries
+Policy and Structural Reform Program
+Research and Development
+Regional Economic Report
+Secretariat of the Pacific Community
+Statement of Economic Strategy
+State Owned Enterprise
+South Pacific Applied Geoscience Commission
+South Pacific Project Facility
+South Pacific Regional Environment Program
+United Nations Development Program
+World Trade Organization
+
+PMCs 
+PSRP 
+R&D 
+RER 
+SPC 
+SES 
+SOE 
+SOPAC 
+SPPF 
+SPREP 
+UNDP 
+WTO 
+
+PIC 
+
+Vice President 
+Country Director 
+Task Team Leader 
+
+Mr. Jemal-ud-din Kassum, EAPVP
+Mr. Klaus Rohland, EACNI
+Mr. Laurence Dunn, EACNI
+
+CONTENTS
+
+FOR OFFICIAL USE ONLY
+
+Executive Summary...............
+
+1. BACKGROUND AND RATIONALE ....................................................................
+
+2. THE PACIFIC SETTING ....................................................................
+
+1
+
+2
+
+A. Characterizing Pacific Economies 
+.2
+B. Geographic, Political & Social Diversity .................................................. 
+C. Governance ............................................................. 
+D. Basic Human Indicators ............................................................. 
+E. Poverty in the Pacific ............................................................. 
+
+........... 10
+12
+12
+14
+
+3. REFORM AND DEVELOPMENT IN THE PACIFIC ....................................................... 17
+
+A. National Reforn Programs ................................................................... 
+B. The Regional Dimension to Reform ................................................................... 
+C. The Role of Development Partners ................................................................... 
+
+4. PARTNERSHIP & STRATEGIC SELECTIVITY - IDENTIFYING THE BANK'S
+ROLE ................................................................... 
+
+17
+19
+20
+
+24
+
+A. The Banks' Experience in the Pacific ................................................................... 
+24
+B. Lessons Learned ................................................................... 
+26
+C. The Comprehensive Development Framework (CDF) in the Pacific ........................... 27
+D. The World Bank Group's Pacific Strategy ................................................................... 29
+E. Risks To Implementation Of The Strategy ....................
+3 7
+7........... 
+
+5. CONCLUDING COMMENTS ..................................... 
+
+Annex 1: The Bank's Pacific Experience ..................................... 
+Annex 2: Pacific - Countries at a Glance ..................................... 
+
+FIGURES IN TEXT
+
+38
+
+39
+43
+
+Figure 1: GNP per Capita (US$, 1998) .....
+2................................2
+Figure 2: Population (Thousands, 1998) ......................................
+2
+Figure 3: GDP Growth (%)-High, Low, and average (1990-98) .................................................3
+Figure 4: Government Expenditure 1996-98 (% GDP) ............................................................. 5
+Figure 5: Current Account Balance Before and After Official Transfers .......................................6
+Figure 6: Suicide Rates in Selected Pacific Island Countries, by Sex and for Youth ................... 16
+
+This dociment has a restricted distibution and may be used by recipients only in the
+performance of their official duties. Its contents may not otherwise be disclosed without
+World Bank amthorization.
+
+TABLES IN TEXT
+
+Table 1: Main Merchandise Exports and Tourism Receipts ........................................................... 7
+Table 2: Overall Fiscal Balance, 1994-98 ................................................................ 
+8
+Table 3: Debt Stocks and Aid Flows (Average, 1996-98) .............................................................. 9
+Table 4: Basic Human Resource Profile ................................................................ 
+13
+Table 5: Human Poverty Index for the Pacific ................................................................ 
+15
+Table 6: The Pacific Reform Agenda ................................................................ 
+18
+Table 7: Bilateral Official Development Assistance (ODA) to the Nine Pacific Member
+
+Countries - 1994-1998 ................................................................ 
+
+Table 8: Multilateral Official Development Assistance (ODA) to Pacific Member
+Countries 1994 -1998 ................................................................ 
+Table 9: Current Lending Activities ................................................................ 
+
+20
+
+22
+31
+
+BOXES IN TEXT
+
+Box A: The Case of Kiribati .................................................................
+11
+Box B: The Solomon Islands' Reform Program .......................................... 
+...................... 17
+Box C: World Bank Approaches to Poverty, 1990 and 2000 ....................................................... 28
+Box D: The World Bank's Approach to Private Sector Development in the Pacific .................... 32
+Box E: The Biennial Regional Economic Report ................................................................ 
+34
+
+MAP: IBRD 29631
+
+PACIFIC REGIONAL STRATEGY
+
+EXECUTIVE SUMMARY
+
+CHARACTERIZING THE PACIFIC
+
+i. 
+The Bank's Pacific Regional Strategy will provide the framework for the re-engagement
+of the Bank with the Pacific region and the nine Pacific countries that are Bank members'. It
+follows the recent work of the Joint Commonwealth Secretariat-World Bank Task Force on
+Small States and places the issues raised through that process in a Pacific context. A regional
+strategy was considered appropriate given the size of the Bank's operations in the Pacific and the
+shared nature of many of the problems facing countries of the region. The Regional Strategy
+does, however, lay the foundation for future individual Country Assistance Strategies for Pacific
+Bank members if required.
+
+ii. 
+The Bank's Pacific Member Countries (PMCs) share many characteristic with other
+small states. They are all relatively small, open economies with limited diversification and
+limited institutional capacity. They are vulnerable to external economic and environmental
+shocks and have limited or nonexistent access to global capital markets. Size and remoteness are
+strong defining characteristic of the nine Pacific Bank members with the total land area of only
+some 64,000 square kilometers (equivalent to twice the size of Belgium), while the exclusive
+economic zones they control exceeds the land area of the USA. The population of all members
+totals some 2 million (of which Fiji accounts for over 40 percent).
+
+iii. 
+Unlike the Caribbean and Indian Ocean countries to which they are sometimes compared,
+indigenous cultures and traditions have remained strong in the Pacific Islands and continue to
+play a large role in political, economic and cultural life. The existence of these strong cultural
+and social systems continues to ameliorate the incidence of absolute or abject poverty, but there
+are clear indications that the systems and the values that underpin them are under strain.
+
+iv. 
+The challenges facing the PMCs are to overcome the constraints they share with other
+small states, including economic and environmental vulnerability, changing global trade regimes,
+lack of institutional and human capacity and identifying practical options in response to the
+continuing process of globalization. A major challenge specifically confronting all PMCs is to
+provide sustainable and meaningful economic and social opportunities and services for growing
+populations and within a context fast paced social, cultural and economic change.
+
+v. 
+Most PMCs have broad based economic reform programs under development or in place
+which have at their core macroeconomic and fiscal policy stability and recognition of the private
+sector as the engine of sustainable economic development. Many also focus on promoting
+development in rural and regional areas and improving access to health, education and training
+
+' The Pacific Member Countries (PMCs) comprise Solomon Islands, Vanuatu, Fiji, Samoa, Tonga, Kiribati, Palau,
+Federated States of Micronesia and Republic of Marshal Islands. A separate CAS (19590-PNG) has been prepared
+that covers Papua New Guinea; for East Timor a Transition Strategy will be submitted to the Board shortly.
+
+ii -
+
+-
+
+services. The degree and extent of broader civil society involvement in and ownership of reform
+programs varies.
+
+vi. 
+There is a strong history of dialogue in the region on how to respond to shared
+vulnerabilities and opportunities and a number of regional institutions have been developed.
+Prospects for continued regional and subregional cooperation loom strong in the areas of trade,
+banking, transport, telecommunications, management of marine resources and bulk purchasing
+of supplies and products; but the immense size of the region and the variety of cultures and
+political systems limits regional cooperation.
+
+THE ROLE FOR DEVELOPMENT PARTNERS
+
+vii. 
+PMCs have all depended heavily on external assistance to help finance their development
+expenditures. In line with both colonial history and national interests, some 20 developed
+countries provide bilateral assistance to the PMCs, though the top four (Australia, Japan, New
+Zealand and, in the case of compact countries, the USA) accounted for over 95 percent bilateral
+Official Development Assistance (ODA) in 1998. Multilateral partners include the Asian
+Development Bank (ADB), the European Union (EU) and specialized agencies of the United
+Nations family. The ADB and EU accounted for 82 percent of multilateral ODA provided to
+PMCs in 1998. The scale of involvement by development partners, and the lack of institutional
+capacity of PMCs to manage and drive it renders importance to the issue of aid coordination.
+
+THE BANK'S PACIFIC EXPERIENCE
+
+viii. The Bank has extended 38 loans and credits to PMC since 1971, comprising 13 IBRD
+loans ($US152.8m) to Fiji and 25 IDA credits to Samoa, Solomon Islands, Vanuatu and Tonga.
+The success of the Bank's lending to PMCs can only be described at best as mixed. The Bank
+has maintained an expanded program of economic and sector work since the beginning of the
+1990s, with the cornerstone of that program being the biennial Regional Economic Report
+(RER). The main lessons drawn from assessing the Bank's Pacific program have been:
+
+* The Bank's role in the transfer of resources to the PMCs has been and is likely to remain
+limited, with the bulk of resources to be provided by bilateral donors, the ADB and the EU.
+
+* 
+
+In view of its limited lending, the Bank needs to carefully define its strategic objectives and
+tailor its lending and non-lending activities to achieve those objectives.
+
+* The absence of a long term strategy for assistance to PMCs has circumscribed the
+effectiveness of the assistance that the Bank has been able to provide.
+
+* A long-term strategy for development in the region has to include active collaboration with
+other principal development partners in the region.
+
+-
+
+iii -
+
+THE BANK'S PACIFIC STRATEGY
+
+ix. 
+The Comprehensive Development Framework, the Bank's evolving understanding of the
+root causes of poverty and the shared work with the Commonwealth Secretariat on the
+challenges facing small states all provide the basis of a long term strategy for assistance to the
+Bank's Pacific members. This strategy has at its core the fight against poverty as manifested in
+the Pacific, will be supportive of reform programs that are owned and driven by the PMCs
+themselves, will acknowledge the central importance of the sustainable utilization of natural
+resources in meeting the development aspirations of the Pacific peoples, will identify country-led
+coordination with other development partners as a key element for success and will stress the
+role that Pacific institutions, traditions and customs play in making sustained progress against
+poverty.
+
+x. 
+The Bank's mission in the Pacific is based on partnership with the nine members and
+their development partners. The Bank will provide a targeted and focused mix of project
+financing, and a program of economic and sector work that brings global experience to the
+development problems faced by PMCs.
+
+i) The Bank's Lending Program
+
+xi. 
+The Bank's lending program will be largely IDA-based, focused in sectors that match the
+Bank's overarching mission of poverty reduction and in which the Bank's has a proven track
+record, will involve direct policy and strategic reform and will only involve financial assistance
+where there are no other sources of financing available. This will entail a sectoral focus on
+education and health, measures to address the remoteness and isolation faced by the Pacific
+including in the transport infrastructure and telecommunications sectors and a focus on
+strengthening the private sector's capacity to play a greater role in these areas. In the area of
+environment and natural resources, the Bank will continue to address country priorities through
+GEF medium-sized grants and by mainstreaming it into lending, policy and advisory activities.
+Support for broad based economic reform and restructuring will be considered where PMCs can
+articulate a coherent reform program and demonstrate commitment to carrying it through.
+
+xii. 
+In terms of overall scale, an indicative benchmark of 2-3 new lending activities per fiscal
+year will see a portfolio under supervision of some 7-10 projects and will entail a call on IDA
+resources of up to $US30-$40 million over the next three years.
+
+xiii. 
+In recognition of the circumstances that apply in the Pacific, including the capacity of
+small states and the cost of doing business with International Financial Institutions, continued
+efforts will be made to use existing instruments more flexibly and develop new instruments that
+match the scale and capacity of Pacific countries. This will include fine tuning and more
+extensive use of Adaptable Program Loans (APLs) and Leaming and Innovation Loans (LILs),
+as well as development of sector and program lending and possibly regional based lending
+operations.
+
+ii) Economic and Sector Work
+
+- iv -
+
+xiv. The Bank's role as a global knowledge provider is the key strength that it can bring to the
+Pacific. The Bank's biennial Regional Economic Report (RER) will continue to be the main
+vehicle for bringing the Bank's global perspective to the Pacific. It will be supplemented and
+supported by a more focused program of regional and sector based analysis developed and
+undertaken in conjunction with PMCs and other regional and bilateral development partners. The
+Bank will maintain its capacity to undertake country-specific economic and sector work.
+
+xv. 
+In the medium term, the main focus of the Bank's economic and sector work will focus
+on the agenda identified through the joint World Bank-Commonwealth Secretariat Task Force on
+Small States and on developing specific strategies that are relevant to the Pacific. This will
+include:
+
+i) 
+
+ii) 
+
+iii) 
+
+iv) 
+
+v) 
+
+helping identify scope for cooperation at the regional level to share infrastructure and
+institutional resources to overcome the lack of economies of scale that some individual
+PMC face;
+
+working with PMCs, regional organizations and bilateral development partners to see
+what relevance the Bank's work on catastrophe risk management in Caribbean can have
+for the Pacific;
+
+analyzing and identifying adaptation strategies open to PMCs to respond to global
+climate change, environmental degradation associated with the growth of towns and
+population growth;
+
+drawing on the Bank's involvement with trade liberalization experiences in other
+countries to identify roadblocks to liberalization in the Pacific that could increase the cost
+of adjustment; and
+
+working with PMCs and other development partners to identify how the forces of
+globalization, particularly technological and communication advances, can provide new
+opportunities for reducing physical isolation and remoteness from markets.
+
+ISSUES PROPOSED FOR BOARD CONSIDERATION
+
+xvi. Issues that the Board may wish to provide guidance on include:
+
+* 
+
+the balance between lending and non-lending services in the Banks Pacific operations;
+
+* strategic selectivity in terms of sectors identified and activities proposed; and
+
+* how the issue of partnership is best handled in the Pacific context.
+
+PACIFIC REGIONAL STRATEGY
+
+1. BACKGROUND AND RATIONALE
+
+1. 
+The Bank's Pacific Regional Strategy will provide a framework for the re-engagement of
+the Bank with the Pacific region and nine Pacific Bank members2 . It follows the recent work of
+the Joint Commonwealth Secretariat-World Bank Task Force on Small States and places the
+issues raised through that process in a Pacific context. A regional strategy was considered
+appropriate given the size of the Bank's operations in the Pacific and the shared nature of many
+of the problems facing countries of the region. The Regional Strategy does, however, lay the
+foundation for future individual Country Assistance Strategies for Pacific Bank members if
+required.
+
+2. 
+
+A broad Bank Strategy for the Pacific will:
+
+* build on and refine the work of the Small States Task Force;
+
+* provide member countries with a clear statement of the World Bank's ongoing commitment
+to the Pacific region;
+
+* articulate a set of principles on which World Bank activities in the region would be based and
+on which their effectiveness could be judged;
+
+* 
+
+identify those areas and sectors in which the World Bank would focus its involvement in the
+region; and
+
+* provide an indication of the likely scale and composition of the support that could be
+mobilized by the World Bank in the region.
+
+2 The Pacific Member Countries (PMCs) comprise Solomon Islands, Vanuatu, Fiji, Samoa, Tonga, Kiribati, Palau,
+Federated States of Micronesia and Republic of Marshal Islands. A separate CAS (19590-PNG) has been prepared
+that covers Papua New Guinea; for East Timor a Transition Strategy will be submitted to the Board shortly.
+
+- 2 -
+
+2. THE PACIFIC SETTING
+
+A. CHARACTERIZING PACIFIC ECONOMIES
+
+3. 
+The total land area of the PMCs, dispersed among hundreds of small islands and atolls, is
+only 88 800 square kilometers - equivalent to about twice the size of Belgium. However, the sea
+area controlled through exclusive economic zones (EEZs) exceeds the land area of the USA. The
+total population of the PMCs is about 2 million, with Fiji accounting for about 42 percent and
+Palau less than 1 percent (Figure 2). In terms of GNP per capita PMCs range from low income
+countries (Solomon Islands, US$750) to upper middle income (Palau, over US$7,000). All other
+PMCs belong to the lower-middle-income group with GNPs per capita ranging from US$1,020
+(Samoa) to US$2,110 (Fiji).
+
+Figure 1: GNP per Capita (US$, 1998) 
+
+Figure 2: Population (Thousands, 1998)
+
+8000 
+
+70002 
+6000- 
+
+3000 
+
+2000 
+
+'°700
+6000~~~~~~~~~~~~~~~~~0
+4000 ] 
+5000~~~~~~~~~~~~~~~~0
+
+4000~~~~~~~~~~~~~~
+
+900
+
+800
+
+~~~~~~~~~~~~~~500
+
+0
+
+-
+
+4~ 00-
+
+200J
+
+2NO ' W S . N 0 zzEt 
+, ,Et 
+t & 
+
+tO 
+
+-
+
+Growth and Vulnerability
+
+4. 
+Gross Domestic Product (GDP) growth in the PMCs has been modest ranging from -1.4
+percent to 2.9 percent per annum between 1990 and 1998 (Figure 3). Growth however has not
+been smooth and most countries' growth rate had a coefficient of variation of 2 or greater. The
+volatility of incomes is to be expected given the nature of these economies-highly open,
+commodity exporting with low levels of diversification, and prone to natural disasters. Despite
+their relatively higher levels of income within the subset of developing countries PMCs are more
+vulnerable than their larger counterparts. Here, vulnerability means exposure to exogenous
+shocks over which they have no control, and have relatively low resilience to withstand and
+recover from these shocks. According to a vulnerability index designed by the Commonwealth
+Secretariat for 111 developing countries all PMCs rank amongst the 28 'most vulnerable'
+countries.
+
+-3 -
+
+Figure 3: GDP Growth (%)-High, Low, and average (1990-98)
+
+15%l
+
+10%
+
+5%L I 
+
+-5%-
+
+-1S% i~- 
+
+-20% l
+
+1~~~~~~
+
+T 
+
+-T
+
+-
+
+* Average
+
+Structure of PMC Economies
+
+5. 
+The small size of the domestic market interacts with a narrow resource base to make
+PMC economies relatively undiversified and highly open on the trade account, with openness
+being expressed through a high share of exports to GDP or a high share of imports to GDP or
+both. The remoteness and isolation of these countries from major centers of trade and commerce
+makes it more difficult to compensate for the limited domestic markets by turning to world
+markets. Transport costs are high because of small cargo volumes. The ratio of freight and
+insurance debits to import costs (an indicator of transport costs) is 20 percent or higher for PMCs
+compared with the median value of 14 percent for all developing countries.
+
+6. 
+The constraints of a narrow resource base and small size are most apparent in 'advanced'
+manufacturing activities such as capital goods, metal working, and intermediates. These
+activities are characterized by economies of scale in production, product development and R&D.
+The share of manufacturing in GDP in PMCs is generally under 10 percent. Manufacturing is
+thus limited to basic small scale 'low technology' activities like food processing and breweries
+which are not greatly impacted by market size. The exception is Fiji where the share is 15
+percent because of the sugar and garment industries.
+
+7. 
+In the absence of a large manufacturing sector PMCs are dependent on the primary and
+tertiary sectors of the economy as a source of output, employment, and foreign exchange. In the
+agricultural sector a large share of production is in the form of smallholder operated,
+semisubsistence, household enterprises growing chiefly root crops and garden vegetables. In Fiji
+agriculture is organized more along commercial lines, although the subsistence sector remains
+important. Large scale agriculture comprises oil palm, coconut, cocoa, and coffee plantations,
+and beef cattle in Vanuatu with the bigger and more capital intensive operations wholly or
+
+-4 -
+
+partially foreign owned. The sharp fall in prices of traditional PMC export crops has stimulated
+producers to move into nontraditional crops to exploit niche markets in squash pumpkin, vanilla,
+melons, and coconut cream.
+
+8. 
+The contribution of the tertiary sector ranges from 55 to 60 percent in Fiji, Samoa, Tonga,
+and Vanuatu, while in FSM, Marshall Islands, and Kiribati it is greater than 75 percent. In the
+tertiary sector the two important activities are public services and tourism related services.
+
+9. 
+The economic contribution of the fisheries sector comes from subsistence activities
+employing traditional methods, commercial fishing, and downstream industrial processing.
+National accounts statistics show a contribution ranging from about 2 percent in Fiji to about 9
+percent in Marshall Islands, but these are greatly understated as they fail to take full account of
+artisanal and subsistence production. For example, in Kiribati where commercial fishing
+contributes about 3.5 percent to GDP, the share of subsistence fisheries is estimated at nearly 9
+percent. Trade data show that fish exports figure prominently in most countries (Table 1), but
+especially in Micronesian countries where they range from 50 percent to nearly 90 percent of
+commodity exports. All PMCs also receive access fees from licensing of Distant Water Fishing
+Nations (DWFNs) vessels. Total revenues from access fees varies significantly across countries
+reflecting the great variation in the distribution of offshore fish resources. For the Micronesian
+countries, fishing fees have in the recent past contributed amounts equivalent to 50 percent to
+100 percent of revenues raised from taxes.
+
+Public Sector
+
+10. 
+The size of the public sector in most PMCs is larger than virtually all countries at similar
+levels of per capita income (Figure 4). Small but widely dispersed island nations cannot exploit
+economies of scale in the provision of public services. The role of the private sector has been
+small. Lack of private initiative stemming from social, cultural, and land tenure reasons partially
+account for this, but it has been further aggravated by policies that inhibited private sector
+development. The generous inflows of foreign aid which have been used mainly for public sector
+projects have also contributed to this. PMC governments are engaged in a wide range of
+economic activities such as utilities, development finance, commercial credit, overseas trade,
+marketing of agricultural goods, operating fishing fleets, mines, plantations, aviation services,
+and hotels. As government has grown it has failed to create many new opportunities in the
+private sector and has become the 'default' employer of skilled and educated workers.
+Government employment accounts for nearly 30 percent of total formal employment in Fiji and
+Solomon Islands and about 50 percent in Kiribati. The wage bill amounts to about 45 percent of
+total recurrent expenditure in Fiji and Solomon Islands.
+
+11. 
+The range of activities carried out by the governments is wide but is not matched by
+requisite technical and managerial resources. As a result limited skills are spread thinly.
+Governments have responded to this situation by over staffing agencies with partially qualified
+personnel, spending heavily on overseas training, and relying on overseas technical assistance to
+fill gaps. In some services technical assistance has become an almost permanent feature.
+
+-5 -
+
+Figure 4: Government Expenditure 1996-98 (% GDP)
+
+i
+
+120 
+
+100
+
+80 -
+
+60
+
+40
+
+20
+
+0~
+
+Investment and Saving
+
+12. During the 1990s, investment rates in the PMCs have been of the order of 25-35 percent
+(save Fiji where it has been 10-15 percent), with the public sector playing an equal if not
+dominant role in most. However, the growth rates achieved from this level of investment have
+been relatively low. The low level of productivity of investment can partly be explained by
+natural constraints imposed by size, spread and remoteness of PMCs which raise the unit cost of
+economic activities. The volatility of output and incomes generated by external shocks to the
+economy poses a tremendous challenge to the efficient utilization of capital stocks. However,
+there is evidence that even after controlling for these factors there has been inefficient allocation
+(poor choice of projects) and utilization of capital (weakness in implementation). A large part of
+public investment in the PICs has been in low return areas such as public buildings. The
+investments of public enterprises in loss-making commercial activities have also contributed to
+this outcome. The policy environment, including distortions in trade, tax, and tariff regimes have
+tended to support high-cost uncompetitive investment.
+
+13. 
+Public investment has had a crowding out effect on the private sector. Government
+controlled enterprises operate in many sectors of the economy that could readily be undertaken
+by the private sector and the involvement of the public sector in these commercial areas has
+tended to discourage entry of the private sector. Crowding-out has also occurred through factor
+market effects wherein public sector activities resulted in pushing up wages and interest rates and
+the pre-empting of credit.
+
+14. Domestic savings rates are low, reflecting a high propensity to consume, shallow
+financial systems and the narrowness of the monetized portion of the economy. High rates of
+investment have been sustained primarily through aid and remittances.
+
+-6 -
+
+External Sector
+
+15. Because of their structural and resource characteristics PMCs produce a relatively narrow
+range of goods and services but they consume a wide range. For some PMCs merchandise
+imports are a multiple of exports, implying large merchandise deficits. Invisible earnings reduce
+the gap in most countries except Solomon Islands, Marshall Islands, and FSM. Tourism earnings
+are important for Fiji, Vanuatu, Tonga, and Samoa (Table 1); investment income for Kiribati,.
+and remittances from nationals working abroad in the case of Kiribati, Tonga, Vanuatu and
+Samoa. Despite these flows a large gap remains that is met through aid (Figure 5).
+
+Figure 5: Current Account Balance Before and After Official Transfers
+(% GDP, Average 1996-98)
+
+40
+
+30
+
+20 
+
+1 0
+
+-10 
+
+-20
+
+-30
+
+-40 A
+
+-50J
+
+i
+
+0 Before Transfers
+* After Transfers
+
+cZo
+
+16. 
+Exports have been mainly confined to primary commodities with a high degree of
+concentration on a single commodity (Table 1). Over the last few years, however, changes have
+occurred in the export structure as countries begin to diversify by moving towards higher value
+added products by finding niche markets. Fiji moved in to the manufacturing sector by exporting
+garments others diversified within primary commodities - squash in Tonga; logging in Solomon
+Islands, seaweed in Kiribati, and sashimi in FSM. Imports consist mainly of machinery and
+capital goods and petroleum products.
+
+17. 
+The PMCs have benefited from preferential trade arrangements which convey duty free
+or low duty access for their exports into the markets of major industrial countries. All of the
+PMCs receive GSP treatment which accords them the lowest duties on offer for products
+exported to OECD countries. FSM, Marshall Islands, and Palau have special trade access
+agreements with the USA. The others are signatories to the Lome Convention that, in addition to
+development assistance, extends them duty free access for most products to European Union
+
+-7-
+
+markets. Fiji, as a founding signatory to the Commonwealth Sugar agreement has an export
+quota of 200,000 tons for its chief commodity export in the EU. In the last decade about 70
+percent of Fiji's total sugar exports have been at preferential prices which were 2 to 4 times the
+world market price. The tuna fish processing industries of Fiji and Solomon Islands have also
+relied heavily on Lome preferences. Within the Southern Pacific, PMCs are provided duty-free
+access to the markets of Australia and New Zealand. This preferential market arrangement has
+been very important for the development of garments and footwear in Fiji and automotive wire
+harnesses in Samoa. The preferential trading arrangements are, however, eroding under the new
+World Trade Organization (WTO) rules, posing a stiff challenge to PMCs. It will not be possible
+to sustain domestic industries built on preferential market access once it is eroded. The PMCs are
+gearing up to face this challenge by forming a regional trading area and by proposing to become
+a signatory to the successor of the Lome Convention - the Suva Convention.
+
+Table 1: Main Merchandise Exports and Tourism Receipts
+Main Merchandise Exports 
+Tourism Receipts
+(% total merchandise exports) 
+(% exports of goods & services)
+
+Fiji 
+
+FSM 
+
+Kiribati 
+
+Marshall Is 
+
+Solomon Is 
+
+Samoa 
+
+Tonga 
+
+Vanuatu 
+
+Sugar 
+
+Garments 
+
+Fish 
+Garments/buttons 
+
+Copra 
+Seaweed 
+
+Chilled fish 
+
+Coconut oil 
+
+Logs 
+Palm oil 
+
+Coconut oil 
+Copra 
+
+Squash 
+Fish 
+
+Copra 
+Beef 
+
+26.4 
+
+22.3
+
+87.7 
+5.7
+
+51.6 
+7.2
+
+67.4 
+13.4
+
+51.1
+11.0
+
+27.6 
+15.9
+
+44.4 
+19.6
+
+40.2 
+12.1
+
+25.1
+
+7.6
+
+15.7
+
+8.3
+
+51.3
+
+29.1
+
+41.7
+
+* Average for latest three years for which data are available. Figures not available for Palau.
+
+Macroeconomic Policy
+
+18. 
+Five of the nine PMCs have their own central banks and currency while the other four do
+not have central monetary authorities-Kiribati 
+uses the Australian Dollar and FSM, Marshall
+Islands, and Palau use the US Dollar. In the countries with independent monetary authorities the
+
+-8 -
+
+use of monetary policies is limited owing to their small size and the openness of capital accounts.
+The use of monetary policy is also restricted by structural and institutional constraints. These
+include the existence of a large nonmonetary sector, the rudimentary stage of capital markets
+which hinders smooth financial intermediation, a shortage of monetary instruments to implement
+policy, and high consumption propensities that limit the savings flowing into the financial
+system.
+
+19. 
+Fiscal policy is the main instrument of macroeconomic management for all PMCs
+because of the limited role of monetary policy and the large share of public expenditures in GDP.
+During the 1980s, even in the face of a large and growing government, PMCs record of fiscal
+management was generally positive. In the face of budgetary imbalances most countries took
+corrective action without undue delay so as to avoid major inflationary pressures or the build up
+of debt. In recent years, however, several of the PMCs have faced fiscal stress (Table 2). In many
+PMCs, weakness in public expenditure management has lead to a recurrence of unbudgeted
+spending and arrears to government employees, to suppliers, or to holders of government paper.
+More generally, budget management has been weak, with loose procedures for supplementary
+appropriations, and an inadequate monitoring and review system.
+
+Table 2: Overall Fiscal Balance, 1994-98
+(in percent of GDP)
+
+Fiji 
+FSM 
+Kiribati 
+Marshall Islands 
+Palau 
+Samoa 
+Solomon Islands 
+Tonga 
+Vanuatu 
+
+1995 
+-0.5 
+1.6 
+-10.1 
+-14.1 
+95.8 
+-7.4 
+-5.3 
+-3.5 
+-2.7 
+
+1996 
+-4.9 
+6.9 
+-35.6 
+20.3 
+-7.4 
+1.6 
+-4.4 
+0.8 
+-1.8 
+
+1997 
+-6.6 
+1.4 
+6.3 
+3.9 
+0.2 
+2.4 
+-4.8 
+-1.2 
+-0.7 
+
+1998
+3.8
+0.4
+24.0
+4.2
+6.0
+2.1
+0.1
+-4.4
+-13.3
+
+20. 
+On the revenue side, the tax base is narrow, relying largely on indirect taxes such as trade
+and excise taxes. Trade taxes provide over 60 percent of tax revenues in Kiribati, Tonga and
+Vanuatu and about 40 percent in Marshall and Solomon Islands. The tax base is made narrower
+by numerous discretionary fiscal incentives in the forn of income tax holidays or import tax
+exemptions, which often benefit multinational corporations. Fiji and Samoa have a broader based
+tax system. Large external grants (ranging from 10 to 15 percent of GDP in Solomon Islands,
+Samoa, and Tonga to over 40 percent in FSM, Kiribati, and Marshall Islands) have, in part,
+permitted the fiscal profile to remain weak. These grants, while financing an enlarged
+government sector did not compel the PMCs to prioritize its needs or generate more of their own
+revenue.
+
+21. 
+In recognition of the fundamentally weak fiscal positions several PMCs have undertaken
+comprehensive adjustment programs. The governments have made efforts towards downsizing
+
+- 9 -
+
+the public sector and reducing budgetary outlays, improving revenue streams with revised
+taxation and tariff systems, and initiating privatization of state owned enterprises (SOEs) that are
+a drain on the budget and can be sold. Efforts also have focused on improving the enabling
+environment for the private sector.
+
+Access to External Capital
+
+22. 
+PMCs depend heavily on external development assistance and official aid to help finance
+their development expenditures (Table 3). Their access to external commercial borrowing is
+either non existent or very limited. Information costs and country risk issues (especially for those
+who suffer repeatedly from natural disasters) are perceived as making spreads very high or
+prohibitive. Gathering information about the country's capacity to repay the loan has significant
+fixed costs and the small absolute size of the loan amount makes it less attractive to the lender.
+The cost of enforcing contracts are also perceived to be higher on account of differences in legal
+and administrative systems. PMCs are also at a disadvantage in attracting foreign direct
+investment (FDI) relative to larger developing countries. A recent study (Collier and Dollar,
+1999) showed that small states are rated as being almost 30 percent more risky for FDI even
+when they had good policies and human resource development indicators. To some extent this
+may reflect the underlying riskiness of very small economies, but, importantly, it could also
+reflect the weaker incentives that risk rating agencies and investors have to do their homework
+and learn about opportunities in small states.
+
+Table 3: Debt Stocks and Aid Flows (Average, 1996-98)
+
+External 
+Debt/GDP 
+
+Concessional 
+Debt/Total 
+Debt
+
+Aid/GNP 
+
+Aid per capita
+(US$)
+
+Fiji 
+FSM 
+Kiribati 
+Marshall Islands 
+Samoa 
+Solomon Islands 
+Tonga 
+Vanuatu 
+Palau 
+Low & middle income 
+Low income 
+Lower middle income 
+
+11.7 
+
+.. 
+.. 
+.. 
+
+92.7 
+43.3 
+36.0 
+23.0 
+
+.. 
+
+38.0 
+37.7 
+
+Aid Effectiveness
+
+9.7 
+
+.. 
+.. 
+.. 
+
+89.7 
+61.3 
+80.3 
+84.0 
+
+.. 
+
+16.3 
+34.0 
+
+2.2 
+44.5 
+17.6 
+60.5 
+17.7 
+12.5 
+15.7 
+14.4 
+45.9 
+0.7 
+1.4 
+0.9 
+
+53
+868
+182
+1039
+190
+104
+290
+185
+3492
+9
+7
+17
+
+23. 
+Like other small states, PMCs receive significantly larger inflows of aid than larger low
+and middle income developing countries. However, aid has not always been effective in
+generating a good growth performance in PMCs, in part because of inadequate policy settings.
+This is generally consistent with a recent study by the Bank on the effectiveness of aid to
+
+- 10-
+
+developing countries which has shown that financial assistance leads to faster growth and
+poverty reduction in countries with sound economic management. This finding applies to small
+states and larger ones alike. The combination of good policies and significant financial aid
+decreases perceived riskiness of countries and leads to larger private capital flows. In other
+words, aid "crowds in" private investment in a good policy environment. The presence of aid
+increases investor confidence that good policies will be maintained. Aid also helps governments
+finance investments such as schools and roads that are complementary to private investment. The
+reform programs (discussed below) currently underway in the PMCs are likely to lead to more
+effective utilization of aid, but the extent of success would depend on the strength of ownership
+of reforms by the countries.
+
+24. Donors too need to play a critical role in improving aid effectiveness in the PMCs. Aid
+should be targeted to modernize the economy and aid allocations should reflect the country's
+overall policies and entire public spending program rather than flows to individual projects.
+Donors should also make major efforts to coordinate their activities in a country-led framework
+as is already happening in some PMCs (discussed below). In the longer tern the combination of
+good policies and aid should lead to decline in the aid needs of the PMCs. The larger and more
+resource rich PMCs should be able to achieve a faster decline in aid requirements and eventually
+'graduate' to a situation where aid is needed only in emergencies arising out of external shocks.
+
+B. GEOGRAPHIC, POLITICAL & SOCIAL DIVERSITY
+
+25. Geography continues to play a major role in shaping opportunity in the Pacific. The
+region is remote from major world centers and the 2,700 islands that make up the region are
+relatively small and dispersed, with the total land area being only 88,800 square kilometers.
+Isolation, remoteness and internal dispersion have an impact on the economies and social fabric
+of most Pacific Island countries (see Box A).
+
+26. 
+Strong identification with village and kin networks often supercedes affinity to any
+national or regional groupings and diversity and differences within countries can be pronounced
+as those between countries. For example, the 417, 800 citizens of the Solomon Islands live on a
+scattered archipelago of mountainous islands and coral atolls with a land area of 27,556 square
+kilometers and speak over 85 different languages.
+
+27. 
+The formal political systems that prevail in the region today reflect the interaction of
+strong and vibrant traditional political systems, varied colonial histories and relatively recent
+independence experiences. Colonial history in the Pacific, stretching back over 200 years, has
+involved the USA, France, Spain, Britain, Australia, New Zealand, Germany and Japan. The
+move to political independence in the Pacific is a relatively recent phenomenon, beginning in
+1962, when Samoa gained independence.
+
+28. This history has left behind a patchwork of different political systems and allegiances that
+include strong US-styled republic models in Palau and the Marshall Islands; a federal system in
+FSM; Westminster-based parliamentary democracies underpinned with varying degrees of
+provincial and state structures in Samoa, Vanuatu and the Solomon Islands; and a strong
+monarchy in Tonga where the King both reigns and rules. All political systems allow and support
+
+- 11 -
+
+formal political oppositions and all involve, to varying degrees, the regular exercise of popular
+elections.
+
+Box A: The Case of Kiribati
+
+Kiribati has a population similar in size to that of Andorra, but spread over an area roughly equal to that of
+Europe. Most of the area is ocean: its land mass amounts to 810 square kin, compared to an Exclusive Economic
+Zone of 3.55 million square km. The vast geographic spread of the 33 islands reaches from 4,000 km from east to
+west and roughly 2,000 km from north to south. Transport within Kiribati is extremely limited and is primarily by
+boat. The nearest large markets are 4,000 km away, in Honolulu and Brisbane. There are only six flight in and out
+of the country per week, all by small plane. Hence distance from and access to markets not just externally but
+internally presents challenges of a magnitude faced by few other countries.
+
+The resource base is very narrow. The arid climate and poor soil offer little potential for agricultural
+development. Ocean resources are the mainstay of the economy - about 80 percent of households make a living
+or survive through fishing. The public sector dominates all spheres of economic activity. Fishing licensing are the
+major source of foreign exchange and government revenue while import duties and remittances from I-Kiribati
+employed in foreign shipping fleets provide significant additional government revenue, respectively.
+
+The population of 88,500 is concentrated in the Gilbert Islands Group, which includes Tarawa, the capital. One-
+third of the population live in the urban center on South Tarawa, where density reaches 1,610 persons per square
+kin, while the Phoenix group is largely uninhabited. If present trends continue, population will double in 20
+years; such an outcome will present even greater challenges to efforts to overcome environmental and health
+problems, particularly in Tarawa where sanitation and water problems are already pressing. The demographic
+profile of Kiribati is skewed to the young which is placing significant strain on the Government to provide basic
+health and education services.
+
+In addition to these constraints, Kiribati's potential to benefit form globalization is hampered by its limited
+institutional and human capacity. The society has strong 'traditional' practices and values based on family
+relationships, the sharing of resources and a co-operative approach to economic activity. The private sector is
+very small and fragmented and the privatization program has not progressed very far. These factors present
+challenges to the government in determining the most appropriate pace and sequencing of policy changes in areas
+such as privatization, downsizing and improving the performance of the public sector, tax and duty reforms
+(which would initially have negative revenue consequences), and the installation of modern technologies. And
+while embracing the global trading regime will deliver certain benefits, commodity exports will continue to be
+harnpered by Kiribati's remote location and irregular supply routes.
+
+29. 
+Shared throughout much of the region is the importance placed on land. Although
+demographic shifts and population growth are changing the rural and urban balance in the Pacific
+Islands, land ownership and use still forms an integral part of everyday life. Though systems of
+ownership and use vary greatly, shared ownership is often based on common descent, residence
+and participation in social and economic activities. Land helps identify family, clan and lineage
+and is valued for what it symbolizes as well as the subsistence and livelihood it provides.
+
+30. Unlike the Indian Islands and Caribbean countries, to which they are sometimes
+compared, indigenous cultures have remained strong in the Pacific Islands. They continue to play
+a large part in national life, and although continually modified and adapted, their influence
+remains strong, retaining control over significant national resources and exerting influence on
+national policies and decision making.
+
+- 12 -
+
+C. GOVERNANCE
+
+31. A number of stresses are influencing patterns of governance and organization throughout
+the Pacific. Traditional fonns of authority and organization are being modified by a variety of
+largely imported substitutes and by the globalization of trade, investment and economic
+governance. The first is primarily a social phenomenon with local roots, and the second primarily
+economic and driven internationally, but they are connected, and each has reached beyond its
+origins to shape social and economic structures and performance.
+
+32. 
+In some areas of the Pacific traditional governance systems that provided robust
+accountability and participation are eroding and the introduced western structures erected
+alongside or in place of them are seen to be costly and ineffective, not responsive to local needs
+and priorities, and prone to capture by domestic and foreign interests. This is not to suggest that
+'traditional' and introduced systems of governance are mutually exclusive, or that one is
+necessarily better than the other, rather that changing patterns of governance are having a
+significant impact on community access to decision making and levels of accountability. The
+success of the PMCs in integrating the respective strengths of traditional and introduced
+structures, institutions and practices will have a significant bearing on their ability to successfully
+adapt to the internal and external challenges they face.
+
+33. 
+In the PMCs that are well endowed with natural resources such as fisheries and forests,
+governance arrangements relating to the rewarding of contracts for their use assume great
+importance. In the past, however, nontransparent negotiations between government officials and
+politicians and resource users have resulted in resources being undervalued and large economic
+rents have been appropriated by, mainly foreign logging and fishing companies. In some
+instances negotiations over the granting of fishing rights have been linked to bilateral aid
+negotiations. This has tended to weaken the negotiating position of PMCs and has reduced the
+transparency of the actual levels of access fees.
+
+34. 
+The role of the kinship ties and 'wantok' type systems of support in providing for basic
+human needs is one of the underlying strengths of many Pacific societies; however it can also
+hamper transparent and clear governance and contribute to corruption. The small size of many
+PMCs has some community leaders performing a number of different roles, ranging from a
+church leader, to businessman or high level government minister. These competing roles can
+lead to conflicts of interest and influence decision making processes.
+
+D. BASIC HUMAN INDICATORS
+
+35. Despite the diversity of population dynamics in the Pacific there are some common
+trends. Over the past few decades fertility has declined or remained stable, life expectancy has
+increased and urban population growth has outpaced rural population growth. Growth rates are
+highest in the Micronesian countries at an average of 2.7 percent and lowest in the Polynesian
+countries where growth averages 1.3 percent. The Melanesian countries average 2.2 percent
+(Table 4). One of the most pressing concerns for many Pacific Island countries is growing
+frustration and alienation among youth. About 40 percent of the Region's population is under 15
+years of age and about 20 percent is between 15 and 24 years of age.
+
+- 13 -
+
+COUNTRY 
+
+Table 4: Basic Human Resource Profile
+Annual pop. Adult Life 
+Human 
+Global
+Growth 
+Literacy Expect Dev Index HDI
+(1990-98) 
+at birth 
+(HDI)* 
+rank
+
+Federated States of Micronesia 
+Fiji 
+Kiribati 
+Marshall Islands 
+Palau 
+Tonga 
+Samoa 
+Solomon Islands 
+Vanuatu 
+
+2.1 
+0.9 
+2.1 
+3.6 
+2.4 
+0.3 
+1.2 
+3.3 
+2.7 
+
+71.3 
+92.9 
+92.2 
+74.4 
+91.4 
+99.0 
+95.7 
+30.3 
+33.5 
+
+65.7 
+66.5 
+61.6 
+65 
+69 
+68 
+66.6 
+64.7 
+65.8 
+
+0.569 
+0.667 
+0.515 
+0.563 
+0.861 
+0.647 
+0.590 
+0.371 
+0.425 
+
+120
+101
+129
+121
+46
+107
+117
+147
+140
+
+* The Human Development Index is derived from the combination of average life expectancy at birth, adult literacy,
+gross school enrollments, and adjusted GDP per capita.
+
+Sources: 
+
+Secretariat of the Pacific Community, UNDP, various national censuses.
+
+36. Although still far from satisfactory, with the exception of the Melanesian countries of the
+Solomon Islands and Vanuatu, access to basic educational opportunities is no longer the
+overriding priority in many of the PMCs. It has been replaced by a focus on the quality of
+education services and continued financing of schools and teachers salaries. A recent regional
+education survey identified a number of issues that were commonly shared throughout the
+PMCs. These included concern about: teacher shortages; how to ensure that education assisted
+national economic growth; increased efficiency in the public and private education sectors;
+promotion of national identity and culture; and resolving the growing mismatch between skills
+and livelihood opportunities.
+
+37. 
+Life expectancy is generally high in the region but there has been an increase in mid-
+adult mortality, especially of males.3 This is associated with an upsurge in so called "life-style
+diseases", accidental deaths, and the resurgence and emergence of infectious and vector-borne
+diseases. There has been an increase in communicable diseases in the Pacific, and many
+communicable diseases that health officials had thought were almost eradicated, such as leprosy,
+TB, malaria and measles have reappeared, while new types of communicable diseases have
+emerged, including HIV/AIDS, and hepatitis C.
+
+38. 
+The shortage of financial resources in the social sectors is pervasive. The predicted
+growth in future school enrollments, the demographic profile of the population (mainly the
+vulnerable population-children and the elderly) and the growing burden of noncommunicable
+diseases while communicable diseases continue to persist will continue to outstrip the ability of
+governments to finance quality health and education services.
+
+3IJNDP. Pacific Human Development Report. 1999. Pg. xi
+
+- 14 -
+
+39. 
+The status of women in the Pacific varies considerably, often dependent on the systems
+of land ownership and access to education. Matrilineal and patrilineal systems give women
+different access to resources and power and are influenced by development changes including:
+outer island and oversea migration; access to education and training, monetization of the
+economy, reforms to the public sector that affect the terms of distribution of men's and women's
+roles, and status in society. In general terms, women in Polynesian societies have traditionally
+enjoyed high social status and more access to power in government and the commercial sector
+than women in Melanesia, but this can also vary greatly within communities depending on
+access to education and family position.
+
+40. 
+In most countries of the region the colonial experience resulted in a deterioration of
+women's public position as the representatives of the patriarchal colonial countries preferred to
+deal with men in public or business transactions and tended to marginalize women. Today
+women's economic role is becoming more diversified. In many cases, this is making women's
+lives more difficult in the context of serving as the head of households, persistence of the sexual
+division of labor, a growing informal sector, low or nonexistent legal recognition of their rights,
+and gender based violence. Women still lag behind men in many countries in the region across a
+range of social and economic indicators, including school enrollment ratios, literacy rates and
+access to the formal labor market.
+
+E. POVERTY IN THE PACIFIC
+
+41. 
+Pacific Islanders are proud of the unique networks of support and sharing that sustain
+many of their communities. Yet, while these networks of sharing food and resources still operate,
+increasing economic strains and changing cultural patterns imply that Pacific Island societies are
+not as egalitarian as they are sometimes portrayed. In many ways the gaps in income, access to
+services, well-being and opportunities are widening.
+
+42. 
+Poverty in the Pacific is rarely as visible or as extreme as it is in some of the harshest
+parts of the world. Yet recent surveys have shown big differences in income and well-being in
+several countries, even after traditional forms of redistribution have been accounted for. There
+are people who are truly disadvantaged or deprived compared to other people in their country.
+
+43. 
+The Human Poverty Index (HPI) rankings reflect quite marked differences between
+Pacific countries, especially between Melanesian and Polynesian countries (Table 5). For
+example, the Solomon Islands and Vanuatu rankings put them on a par with countries such as
+Guinea, Burundi, Senegal and Bangladesh in sharp contrast with Tonga and Fiji with rankings
+similar to Costa Rica and Singapore.
+
+- 15 -
+
+COUNTRY 
+
+Federated States of 
+
+Micronesia
+
+Fiji 
+Kiribati 
+Marshall 
+
+Islands
+
+Palau 
+Samoa 
+Solomon Islands 
+Tonga 
+Vanuatu 
+
+Table 5: Human Poverty Index for the Pacific
+
+Percentage 
+of people 
+not 
+expected to 
+reach 40 yrs 
+
+Percentage Percentage Percentage Human
+of adults 
+of people 
+of children Poverty
+who are 
+without 
+>5 yrs who 
+Index*
+illiterate 
+access to 
+are under-
+safe water 
+weight
+
+10.5 
+
+7.4 
+16.3 
+13.2 
+
+7.3 
+10.3 
+13.7 
+8.4 
+12.2 
+
+28.7 
+
+7.1 
+7.8 
+25.6 
+
+8.6 
+4.3 
+69.7 
+1 
+66.5 
+
+56 
+
+23 
+20 
+23.5 
+
+14 
+10 
+36 
+5 
+13 
+
+15 
+
+7.9 
+12.9 
+17 
+
+8 
+17 
+21 
+2 
+23 
+
+26.7
+
+8.5
+12.6
+19.5
+
+10.8
+8.6
+49.1
+5.9
+46.6
+
+*The Human Poverty Index reflects deprivation in three essential elements of human life: longevity, knowledge and
+a decent standard of living. Sources: Secretariat of the Pacific Community, UNDP, various national censuses
+
+44. While instructive on a regional and national level, the HPI does not reflect growing
+inequalities within Pacific Island communities. A series of surveys in Solomon Islands revealed
+big differences in household incomes, even after subsistence production and traditional gifts
+were accounted for. This was especially so in Honiara, the national capital and main urban
+center, where 1 percent of households shared more than 50 percent of total earnings. Many urban
+and rural households have very poor living conditions and lack safe water or sanitation, problems
+in towns are compounded by contaminated groundwater and growing waste disposal problems.
+Recent and continuing unrest between Guadalcanal landholders and settlers from Malaita has
+disrupted schooling, access to facilities and the delivery of services and is likely to have
+exacerbated existing poor living conditions.
+
+45. 
+The United Nations Development Program's (IJNDP) 1997 Fiji Poverty Report found that
+poverty was an undercurrent in both urban and rural areas and in all ethnic communities. One in
+four households could not afford a basic standard of living and these households often included
+people who have little formal education or skills and had difficulty getting paid employment.4
+The 1998 Samoa Household Income and Expenditure Survey found that one in three households
+could not properly meet their basic needs and were poor relative to national standards of living.
+
+46. A 1996 survey of Tarawa, the capital of Kiribati, found many aspects of the urban
+poverty that is common in the Pacific. Many households live in badly overcrowded conditions.
+
+4 Fiji Government and UNDP, 1997
+
+- 16-
+
+Most households depend on cash incomes, yet only few adults have paid jobs. Most of this cash
+is spent on food, mainly rice, fish, frozen meat and sugar
+
+5
+
+47. Approximately 20 percent of the labor force of the PMCs is employed in the formal
+sector. Rapid population growth, shifts in the age structure towards the working age group, the
+diminishing capacity of the semisubsistence sector to absorb labor, and a growing need for cash
+incomes means that the number of people seeking employment in the formal sector is fast
+increasing. This, however, is not being matched by growth in formal sector jobs. Youth
+unemployment is in excess of 10 percent in most countries, and higher than 20 percent in FSM
+and Marshall Islands. To date, the issues of labor standards, including child and forced labor,
+have not been identified as major concerns in the PMCs. In the rural informal sector people
+mainly depend on semisubsistence agriculture and fishing. The few small-scale enterprises that
+exist employ mainly family labor. In the urban areas, small-scale informal enterprises employ the
+urban poor who often seek multiple sources of income. Many children, particularly those who
+leave school early are also employed here. The informal sector is the main source of employment
+for women, often because they lack the education and skills to join the formal sector.
+
+48. A broader concept of poverty of opportunity is to include 'lack of education and health,
+lack of economic assets, social exclusion and political marginalization', is a better description of
+poverty for many people in the Pacific6 . Poverty of opportunity in the Pacific is evident in many
+ways including rapid emigration from some countries, high but disguised unemployment, and an
+emerging subculture of youth crime and high youth suicide rates (Figure 6). Overcoming poverty
+of opportunity is a major challenge facing many Pacific economies so that people's talents, skills
+and aspirations are not frustrated but utilized to benefit the domestic economy and improve
+human development. Economic growth in most of the PMCs has been far less than that needed to
+open up such opportunities.
+
+Figure 6: Suicide Rates in Selected Pacific Island Countries, by Sex and for Youth
+
+Samoa 
+
+I _=1S a m o a
+
+d 
+
+FSM 
+
+F S M 
+
+F iji 
+
+In dFians 
+
+i 
+
+~~~~~~~~~~~~~M 
+
+Fem ale
+
+r-1 F~~~~~~~~~Eje 
+
+m ale Youth
+
+M Male
+
+iMale 
+
+Youth
+
+F iji
+
+0 
+
+20 
+
+40 
+60 
+rate per 100,000 people
+
+80 
+
+100
+
+Source: UNDP, Pacific Human Development Report 1999, pg. 64.
+
+5 Govemment of Kiribati, Bureau of Statistics, 1996
+6 ul Huq, M. 1997. Human Development in South Asia, Oxford University Press, Karachi
+
+- 17 -
+
+3. REFORM AND DEVELOPMENT IN THE PACIFIC
+
+49. 
+There are a number of public sector reforms underway throughout most of the Pacific
+region and much is being done through national reform programs, supported by regionally
+focussed institutions and action programs. The quality of the design and implementation of
+programs has been mixed but the engagement of development partners in these reforms is
+significant both in terms of sheer numbers and in terms of the resources they bring to the
+development table.
+
+A. NATIONAL REFORM PROGRAMS
+
+50. Most PMCs have reform programs in place or under development (Table 6). In
+Melanesia, Vanuatu's Comprehensive Reform Program (CRP), first endorsed in 1997, has
+provided one extreme in terms of the breadth, scope and timing of reform approaches in the
+region. The Solomon Islands' Policy and Structural Reform Program (PSRP), initially focussed
+on the macroeconomic environment, public finances and the public sector, has broadened to
+include a medium term development strategy and private sector development (Box B). In
+Polynesia, the Samoan Statement of Economic Strategy (SES) has provided perhaps the most
+successful example of reform, with the SES providing the overall macroeconomic framework for
+the development of separate strategies focusing on health, education and rural development. In
+Micronesia, explicit reform programs have been developed in Kiribati and the Federated States
+of Micronesia.
+
+Box B: The Solomon Islands' Reform Program
+
+The Solomon Islands Government developed the Policy and Structural Reform Program (PSRP) in 1997 in response to a nexus
+of critical issues in the fiscal, financial and forestry sectors. The program, supported by the World Bank through a Structural
+Adjustment Credit and other partners including Australia, ADB and New Zealand, focuses on a three-pronged approach:
+restoring and maintaining a sound macroeconomic environment; reform of public finances, including wider public sector reform;
+and review and reform of the public service. The process is designed to achieve a number of major objectives:
+
+* 
+
+* 
+
+* 
+* 
+
+* 
+
+* 
+
+Restoration and maintenance of a sounds macroeconomic environment.
+Improving governance, accountability and productivity across the public sector, especially in the quality and quantity of
+
+service provision in core areas (primary education, preventative health, agricultural support services, and infrastructure
+support to private sector led growth)
+
+Establishing conditions for the private sector to become the engine of economic growth in a competitive environment.
+Creating the basis for sustainable and equitable development of renewable resources, including through and effective and
+
+sustainable forestry policy.
+Liberalizing the financial sector, particularly with respect to nonbank financial institutions and especially those that are
+government owned and influenced, but with an accompanying enhancement of regulation and supervision.
+Achieving greater self-reliance in rural areas by emphasizing projects in core activities which will support development of
+economic activity in these communities and ensure a more equitable allocation of public funds between the rural and urban
+areas and across provinces.
+
+Progress on the PSRP reforms has been significant but recent ethnic tensions will have an impact on implementation. The
+rehabilitation of public finances, the core of the PSRP, is threatened by the loss of revenues because of the closure of enterprises,
+reduction in employment and lower levels of taxable activities. At the same time expenditure is rising to cover increased security
+operations. Public service reforms and collaboration with the private sector are less effected, but privatization of state owned
+enterprises may be more difficult because of the shock to investor confidence.
+
+Table 6: The Pacific Reform Agenda
+
+Prerequisites for 
+Solomon Island -
+Samoa - Statement Vanuatu -
+Sustainable Growth Policy and 
+of Economic 
+Comprehensive 
+and Development Structural Reform Strategy 
+Reform Program 
+Program 
+Good and Clean Major focus 
+Government 
+Justice System 
+
+No explicit focus 
+
+No explicit focus 
+
+No explicit focus 
+
+Major focus 
+
+Major focus 
+
+Kiribati -
+Development 
+Strategy 
+
+Major focus 
+
+Federated States of Regional 
+Micronesia - Public Organizations 
+Sector Reform 
+Program 
+Major focus 
+
+No explicit focus 
+
+No explicit focus 
+
+South Pacific Forum, Major Focus 
+SPC, FEMM, PlDP 
+
+Non-Government & Multilateral and
+Volunteer 
+Bilateral
+Organizations 
+Engagement (past
+& present)
+ADB, Australia, New
+Zealand, UN, UK
+New Zealand,
+Australia
+ADB, Australia, WB
+
+Focus 
+
+Financial System Major focus 
+
+Major focus 
+
+Major Focus 
+
+Major Focus 
+
+Major Focus 
+
+Social Safety Net No explicit focus 
+and Social 
+Programs 
+Education 
+
+Focus 
+
+Health 
+
+Focus 
+
+Water and 
+Sewerage 
+
+No explicit focus 
+
+Energy 
+
+No explicit focus 
+
+No explicit focus 
+
+Roads, 
+Transportation & 
+Telecommunication
+
+s
+
+Focus 
+
+Focus 
+
+Focus 
+
+Focus 
+
+Focus 
+
+Focus 
+
+Central role played Focus 
+by village, churches 
+and NGOs.
+Separate strategy 
+developed and linked 
+to SES 
+Separate strategy 
+developed and linked 
+to SES 
+Separate water and No explicit focus 
+waste management 
+national policies 
+Identified as a 
+priority
+Identified as a 
+priority 
+
+No explicit focus 
+
+Focus 
+
+No explicit focus 
+
+No explicit focus 
+
+No explicit focus 
+
+No explicit focus 
+
+Environment and Major focus 
+Natural Resources 
+(forestry) 
+
+Identified as a 
+priority 
+
+No explicit focus 
+
+Focus 
+
+No explicit focus 
+
+Rural Strategy 
+
+Major focus 
+
+Urban Strategy 
+
+No explicit focus 
+
+Separate strategy Major focus 
+developed and linked 
+to SES
+Not an explicit focus Major focus 
+
+Focus 
+
+Focus 
+
+No explicit focus 
+
+No explicit focus 
+
+No explicit focus 
+
+South Pacific Forum, Focus 
+FEMM
+South Pacific Forum, Major Focus 
+SPC 
+
+Focus (retraining of South Pacific Forum, Major Focus 
+civil servants) 
+SPC, USP 
+
+No explicit focus 
+
+South Pacific Forum, Major Focus 
+SPC 
+
+No explicit focus 
+
+South Pacific Forum, Major Focus 
+SPC, SPREP, 
+SOPAC
+South Pacific Forum Focus 
+
+Australia, New
+Zealand, UN
+
+Australia, New
+Zealand, WB, EC,
+UN, UK, Japan
+Australia, New
+Zealand, Japan, WB,
+UN, EC, Japan
+ADB, Australia, EC,
+UN, Japan
+
+ADB
+
+South Pacific Forum, Focus 
+FEMM 
+
+ADB, Australia, New
+Zealand, EC, WB
+
+South Pacific Forum, Major Focus 
+SPC, FFA, SPREP, 
+SOPAC, CROP 
+South Pacific Forum, Major Focus 
+SPC, CROP, SPREP 
+
+South Pacific Forum, Major Focus 
+SPC, FEMM
+South Pacific Forum, Major Focus 
+FEMM 
+
+New Zealand,
+Australia, ABD, WB,
+UN, EC, Japan
+Australia, New
+Zealand, EC, UN
+
+ADB, WB, UN
+
+ADB, Australia. NZ,
+UN, EC, WB.
+
+Private Sector 
+Strategy 
+
+Major focus 
+
+Major focus 
+
+Major focus 
+
+Major focus 
+
+Major focus 
+
+Secretariat of the Pacific Community (SPC), Forum Economic Ministers Meeting (FEMM), Forum Fisheries Agency (FFA), South Pacific Regional
+Environment Program (SPREP), South Pacific Applied Geoscience CommissionD(SOPAC), The University of the South Pacific (USP), Council of Regional
+Organizations in the Pacific (CROP), Pacific Islands Development Program (PIDP).
+
+-19-
+
+51. 
+In general, there are a number of similarities between many of these reform programs.
+Most have at their core macroeconomic and fiscal policy stability and the importance of
+stimulating the private sector as the engine of sustainable economic development. Many of the
+reforms also focus on promoting development in rural and regional areas and improving access
+to quality health, education and training services. While all reform programs have acknowledged
+its importance, the degree and extent of broad civil society involvement in and ownership of the
+reform programs has varied.
+
+B. THE REGIONAL DIMENSION TO REFORM
+
+52. 
+There is a considerable history of dialogue in the region about how to respond to shared
+vulnerabilities and opportunities. Coordinated action has led to the creation of the University of
+the South Pacific, the Forum Fisheries Agency (FFA), the South Pacific Regional Environment
+Program (SPREP), the South Pacific Applied Geoscience Commission (SOPAC), the Tourism
+Council of the South Pacific and the Pacific Islands Development Program.
+
+53. 
+Pacific Island governments are developing a shared policy agenda for change in areas
+including government accountability, environmental policy, trade and investment policy,
+government involvement in business enterprises, and private sector development. The Pacific
+Islands Forum focuses on economic and trade issues and has been a major force in regional
+economic cooperation but moves cautiously and on the basis of consensus among its diverse
+membership. The Forum Economic Ministers Meeting (FEMM) process has been one of the
+main vehicles driving the reform agenda in the region and is particularly concerned with issues
+such as government reform and private sector development. The Secretariat of the Pacific
+Community (SPC), the oldest regional organization, has a wide range of programs including
+demography, agriculture, fisheries research and development, education, health, gender and
+community development.
+
+54. 
+Prospects for regional and subregional cooperation loom strong in the areas of trade,
+banking, transport, telecommunications, management of marine resources and bulk purchasing
+of supplies and products. The Forum Secretariat, Forum Economic Ministers Meeting, the Forum
+Trade Ministers Meeting (FTMM) and the Melanesian Spearhead Group are working on
+cooperation on regional trade, telecommunications and bulk purchasing of pharmaceuticals. The
+June 1999 meeting of the FTMM endorsed a free trade area among Forum members to be
+implemented in stages. There are a number of other ongoing initiatives such as work on the
+Environmental Vulnerability Index for the Pacific, and the work of SPREP and SOPAC on
+climate change. The Multilateral High Level Commission (MHLC) is currently looking at the
+management regime for highly regulatory fish stocks. Underpinning this is an acceptance that
+regional and subregional collaboration holds the best prospect of overcoming some of the
+constraints that that the countries of the region face, such as lack of capacity and scale of
+operation, and of maximizing the returns that the region as a whole can obtain from the
+exploitable resources available.
+
+55. 
+There are limits to regional cooperation. The immense size of the region itself and the
+variety of cultures and political systems it contains constrains efforts for regional cooperation.
+Pacific Island countries are keen to maintain bilateral relationships with each other and with
+
+- 20 -
+
+donor countries and multilateral agencies. Importantly, some countries from outside the region
+and which have direct interests in the region see value in maintaining the focus on bilateral
+relationships. Increased regional cooperation is both possible and desirable, but must be seen in
+the context of differences in domestic political agendas and constraints posed by existing
+bilateral and other relationships.
+
+C. THE ROLE OF DEVELOPMENT PARTNERS
+
+56. Upward of twenty bilateral and multilateral development partners maintain programs in
+the Pacific. Most larger bilateral donors are present locally, with Australia having by far the
+largest number or regional offices. The ADB has a regional office in Vanuatu and is in the
+process of reviewing its regional representation to move to a subregional office structure. Fiji is
+the main center for regional representation from the UN system and the EU.
+
+57. 
+The largest aid flows to the Pacific come from bilateral donors with significant economic,
+geographic or political interest in the region including Australia, New Zealand, the United States
+and Japan (Table 7). The majority of multilateral assistance stems from the European
+Community, the Asian Development Bank and the United Nations system.
+
+Table 7: Bilateral Official Development Assistance (ODA) to the Nine Pacific Member
+Countries - 1994-1998
+
+Amount of Official Development Assistance ($US)
+
+1994 
+
+1995 
+
+1996 
+
+1997 
+
+1998
+
+61.2 
+0.1 
+
+13.7 
+4.3 
+101.1 
+0.4 
+18.4 
+
+12.7 
+
+320 
+
+51.6 
+0.1
+
+11.7 
+1.5 
+110.4 
+0.9 
+27.1 
+
+8.6
+
+216 
+
+531.9 
+
+427.9 
+
+50.4 
+
+0.2 
+11 
+1.8 
+95.7 
+0.6 
+29.1 
+
+49 
+
+0.3 
+9.2 
+0.5 
+97.6 
+0.6 
+29.7 
+
+219 
+
+407.8 
+
+144 
+
+330.9 
+
+44.1
+
+-0.2
+9.9
+0.9
+89.4
+0.4
+25.5
+
+179
+
+349
+
+Bilateral
+Donors
+
+Australia 
+Belgium 
+Denmark 
+France 
+Germany 
+Japan 
+Netherlands 
+New 
+Zealand
+United 
+Kingdom
+United 
+States
+TOTAL 
+
+Source: Geographical Distribution of Financial Flows to Aid Recipients. OECD. 2000
+
+Bilateral Partners
+
+- 21 -
+
+58. 
+Australia has significant economic and political interests in the region and is one of the
+largest bilateral contributors to the PMCs. Australia's aid is largely directed to Fiji, Solomon
+Islands, Vanuatu, Samoa, Tonga and Kiribati and is concentrated in education and training,
+economic reform and governance, health, environment and private sector development. Australia
+maintains a large network of AusAID offices throughout the region.
+
+59. 
+The overall goal of the Australian aid program is to assist developing countries reduce
+poverty. In the Pacific this goal is expressed through a long term objective of helping Pacific
+Island countries achieve the maximum possible degree of self reliance. Self reliance is defined
+differently for the larger Pacific economies where it is taken to mean eventual graduation from
+aid, than for the smaller less economically viable atoll states where it is taken to mean the
+maximum degree of self reliance within an ongoing need for external support.7
+
+60. As with Australia, New Zealand has a wide range of bilateral and regional economic and
+political interests in the region. Its development cooperation with the Pacific Islands countries is
+based on the key areas of health, education, the environment, human resource development and
+the encouragement of private sector growth. New Zealand maintains a significant network of
+offices throughout the region and a large and increasingly influential Polynesian Diaspora living
+in New Zealand has helped ensure an active interest by New Zealand in these countries.
+
+61. 
+The guiding principals of the New Zealand program in the Pacific are a recognition that
+development will be achieved primarily though the efforts of the countries themselves; capacity
+building; sustainability; a primary focus on poverty reduction; greater participation of all people,
+especially the disadvantaged in economic, political and social life and involvement of the New
+Zealand community in development.8
+
+62. 
+Japan's engagement in the region is very significant and has focused on the development
+and promotion of agriculture, forestry and fisheries industries, and the upgrading of basic
+infrastructure including hospitals, schools and water supply facilities. The United Kingdom's
+links with the Pacific region rest mainly on historical and commonwealth ties. In 1995 a decision
+was made to move away from individual country programs and focus instead on a single regional
+program. Key sectors are education and rights and good governance.
+
+63. 
+The United States remains the most significant bilateral development partner in the
+compact of free association countries of Palau, the Marshall Islands and the Federated States of
+Micronesia. The relationship and access to resources extended to these countries through the
+compact of free association has a major impact on development prospects for them. The USA, as
+it renegotiates the compact with individual countries, is seeking ways of moving from what has
+essentially been united budget support to more focused program approaches that maximize
+development outcomes.
+
+7Australia & Pacific Island Countries: Partners in Development Australia's Overseas Aid Program December 1998.
+8 New Zealand Official development assistance; Program Profiles 1998-99, Ministry of Foreign Affairs and Trade.
+
+Multilateral
+
+- 22 -
+
+64. Of the multilateral agencies, the Asian Development Bank and European Community have
+the largest programs, while the various UN agencies have established significant and high quality
+programs, especially in the social sectors (Table 8).
+
+Table 8: Multilateral Official Development Assistance (ODA) to Pacific Member Countries
+1994 -1998
+
+Multilateral Donors
+
+Asian Development Bank 
+European Community 
+International Development Association 
+United Nations Regular Program of Technical Assistance 
+Intemational Fund for Agricultural Development 
+United Nations Development Program 
+Other Multilateral 
+
+Total 
+
+Amount of Official Development Assistance ($US)
+1994 
+1995 
+1996 
+1997 
+1998
+
+18.8 
+13.8 
+4.6 
+3.8 
+2 
+3.7 
+2.5 
+
+49.2 
+
+24 
+12.9 
+4.2 
+10.7 
+0.6 
+3.6 
+2.9 
+
+58.9 
+
+5.8 
+12.2 
+4.2 
+3.5 
+1.4 
+2.1 
+1.9 
+
+22.7 
+8.9 
+3.4 
+6 
+0.2 
+1.7 
+1.6 
+
+31.3 
+
+44.5 
+
+47.1
+7.4
+4.5
+4.2
+0.5
+1.7
+0.3
+
+65.7
+
+Source: Geographical Distribution of Financial Flows to Aid Recipients. OECD. 2000.
+
+65. 
+The Asian Development Bank has a major presence in the region. The ADB has
+supported major public sector reforn programs in the Cook Islands, the Federated States of
+Micronesia, Marshall Islands, Samoa, Solomon Islands and Vanuatu. Regional activities
+supported by the ADB have been in the areas of fisheries, aviation, air transportation, financial
+and investment advisory services and the provision of venture capital.
+
+66. 
+
+The ADB program has been guided by its 1996 Strategy for the Pacific: Policies and
+
+Programs for Sustainable Growth. This strategy had as an overall objective the improvement of
+living standards through sustainable economic development. The ADB is now in the process of
+developing a new Pacific regional strategy that will specifically address poverty in line with the
+ADB's overarching objective of poverty reduction.
+
+67. 
+The pattern of commitments by the European Community has been influenced by
+STABEX transfers which has accounted for over 30 percent of all aid. Project aid constitutes
+approximately 62 percent of assistance to the Pacific Islands and the main sectors supported
+included; transport and communications, industry, mining and construction and the energy
+sectors.
+
+68. Various United Nations agencies work throughout the Pacific region and have well
+established programs. The UNDP takes a coordinating role for most UN operations which are
+particularly active in the social sectors. The UNDP's assistance focuses primarily on the creation
+of employment and sustainable livelihoods, the advancement of women, empowerment of
+disadvantaged groups, protection and regeneration of the environment, and improved
+governance.
+
+- 23 -
+
+69. 
+The International Monetary Fund is engaged in the Pacific Islands countries on a number
+of levels. As well as its regular Article IV consultation meetings and reports, it jointly
+established with the United Nations Development Program the Pacific Financial Technical
+Assistance Center in Suva, Fiji. The Center is also funded by ADB, AusAID, the New Zealand
+ODA and the Forum Secretariat, and its primary aim is to build the skills and institutional
+capacity in PMC for effective and sustainable economic and financial management.
+
+Partnerships and coordination
+
+70. 
+The sheer number of development partners operating in the Pacific, combined with the
+limited absorptive capacity of most Pacific Island states and the characteristic limited
+institutional capacity that they share with other small states, represents a major challenge for
+PMCs as they seek to coordinate, direct and manage external support.
+
+71. All donors in the region accord coordination and cooperation a high priority and there are
+a number of mechanisms in place that support these efforts. The ADB convenes consultative
+group meetings, while the main region-wide vehicle for donor coordination is the donors'
+consultation meeting that is held following the annual FEMM. This meeting, convened on a
+rotating basis, provides a forum in which issues and respective donors' programs can be
+discussed. There are a range of other bilateral and multilateral coordination measures in place,
+including bilateral high level consultations between the major donors and regional organizations.
+
+72. 
+The Bank takes an active role in coordination and was instrumental, for example, in
+establishing annual trilateral consultations between AusAID, the ADB and the Bank. The Bank's
+relations with the ADB in the Pacific are guided by the broader Memorandum of Understanding
+(MOU) between the Bank and the ADB in the East Asia and Pacific region. This MOU places a
+premium on close cooperation between the two institutions, to ensure complementarity at the
+regional, country and sectoral levels. The forthcoming relocation of the Pacific Country
+Management Unit to Sydney will further enhance the close working relationship between the
+World Bank, the ADB and other regional development partners. Dialogue with the ADB and
+other donors will continue with a view toward establishing and maintaining clear understandings
+of each agency's focus.
+
+73. While a solid basis of cooperation between development partners exists, there is a need to
+move beyond general discussion of cooperation and into more substantial measures. These
+include the articulation of donor programs within broader PMC driven sectoral and reform
+programs, alignment of program cycles, rationalization of reporting requirements and the
+development of more flexible work programming and targeting within projects. The Bank, in
+line with the Comprehensive Development Framework (CDF), has actively sought out such
+approaches. Early experience has been positive. In Samoa the Government has developed an
+MOU that sets out the respective roles of the Bank and AusAID and ways of operating within the
+broader context of the Government's health sector reform program. A similar approach is being
+developed in the Solomon Islands, again in the health sector but which builds on the positive
+experience of targeting donor assistance under the Solomon Islands reform program.
+
+- 24 -
+
+4. PARTNERSHIP & STRATEGIC SELECTIVITY -
+IDENTIFYING THE BANK'S ROLE
+
+A. THE BANKS' EXPERIENCE IN THE PACIFIC
+
+74. 
+The Bank Group's involvement in the Pacific Region effectively started in the 1970s. Fiji
+became the first Pacific member country when it joined the Bank in 1971, with Palau being the
+most recent, achieving membership in 1998. Throughout the 1970s and 1980s Bank assistance
+tended to focus on lending operations, with a more substantial program of economic and sector
+work only beginning in the 1990s.
+
+75. 
+Since 1971 the World Bank has extended 38 loans and credits, totally some $US284.2
+million to Pacific Island members. Of these, 13 have been IBRD loans ($US152.9m) extended to
+Fiji, while the remaining 25 IDA credits ($US131.3m) have been shared between Samoa (11)
+Solomon Islands (8), Vanuatu (4) and Tonga (2). Half of the Bank's lending operations have
+been cofinanced (5 with AusAID and 14 with the ADB). In terms of any qualitative assessment
+of the effectiveness of the Bank's lending portfolio, three key phases can be distinguished.
+
+A beginning in 1970s
+
+76. 
+In the nine years up to and including 1980, the Bank extended eight IBRD loans to Fiji
+(including one supplemental loan) totaling $US83.7 million and three IDA credits to Samoa
+($US14.4 million). In Fiji, the bulk of the loans were focussed in the infrastructure sector, with
+one in agriculture. Project completion reviews found that the bulk of the projects were successful
+in meeting their objectives. In the case of Samoa, however, where three IDA credits were
+provided (one in infrastructure and two in agriculture) the results were far less satisfactory with
+the first agriculture project rated as a failure, in part because the project's development objective
+reflected Bank rather than the Samoan Government's priorities, and the second as suffering from
+poorly defined project objectives.
+
+Expansion in the 1980s
+
+77. 
+The period up to and including 1990 saw an expansion in the number, country coverage
+and sectoral focus of the Bank's lending activities in the region. In addition to continued lending
+in Samoa and Fiji, lending was also undertaken in Solomon Islands (1981), Vanuatu (1984) and
+Tonga (1987). The expansion in country coverage was a reflection of a relatively rapid process
+of independence in the region and growing Pacific membership of the Bank. It was based on a
+formal cooperative arrangement with the Asian Development Bank (ADB) that saw the World
+Bank participating as a cofinancier and the ADB playing the lead role in project processing and
+implementation.
+
+78. 
+This arrangement, agreed in October 1980, had two main objectives: to minimize the
+burden on the limited staff and institutional capacities of Pacific Island members; and to achieve
+efficiencies through saving costs and avoiding duplication of effort. Of the 18 loans approved in
+the 1980s some 11 were cofinanced with the ADB($US69.2 million) and a further 4 cofinanced
+with AusAID ($US25.6 million). The 1980s also saw an expansion in the sectoral focus of the
+
+- 25 -
+
+lending portfolio, with lending activities undertaken in the following sectors: agriculture,
+finance, education, transport, power, telecommunications and urban development.
+
+79. An assessment of the Bank's operation undertaken by OED in 1991 and 1992 concluded
+that "the Bank was generally unable to make an effective contribution to the development of the
+Pacific member countries during most of the 1980s"9 Other conclusions reached by the OED
+study were:
+
+* 
+
+* 
+
+* 
+
+* 
+
+the Bank's direct contribution to resource transfers to the Pacific Island member states had
+been very limited;
+
+the Bank's lending had not been guided by any well conceived strategy to contribute to long
+term sustainable development in the Pacific Island member countries;
+
+the Bank had not been able to make effective use of project lending as an instrument of
+policy dialogue; and
+
+the Bank's past experience did not clearly establish areas of comparative advantage for Bank
+assistance to Pacific Island members.
+
+80. 
+In terms of the arrangement with the ADB, the OED Report noted that "while the ADB
+arrangement has provided administrative savings to the Bank, the benefits to the PMCs (Pacific
+Island Member Countries) are less clear. The selection and design of projects has generally not
+been underpinned by appropriate country strategies and ESW. It has been time consuming and,
+in some cases, difficult to harmonize policies and procedures. The Bank, in practice, could not
+give up fully its responsibility for cofinanced projects. Yet the limited contact with PMCs
+appears to have weakened the country relations".
+
+Refocusing in the 1990s
+
+81. 
+In response to the experience with the cofinancing arrangement, and discussions with
+member countries and key donors, the Bank reassessed its strategy and made two major
+adjustments. First, the Bank moved to take a more direct role in project lending. Second, the
+Bank reassessed its approach to economic and sector work. A number of donors also felt that the
+Bank could contribute more effectively to the Pacific in a leadership role through the provision
+of advice on development strategy and policies in the region. A special South Pacific Facility,
+supported by Australia, became operational in 1989 to support an expanded program of
+economic and sector work, the center piece of which was a series of regional economic and
+sector reports. (See Section 4D)
+
+IFC and FIAS
+
+82. 
+IFC investment activities have concentrated on those industries in the PMCs that hold a
+competitive advantage such as tourism and fishing. In the 1998/1999 financial year alone the
+
+9 The World Bank and Pacific Island Countries: An OED Review, May 5 1992
+
+- 26 -
+
+South Pacific Project Facility (SPPF), helped secured financing for fifteen small businesses,
+seven of them in the service sector.
+
+83. Although the SPPF does not provide project financing, it finances part of the cost of
+market, technical and feasibility studies and helps entrepreneurs secure financing from banks and
+other sources of capital. It also assists companies during project implementation and startup,
+reviews joint venture agreements and assists governments privatizing public sector enterprises.
+The SPPF has agents in seven member countries and has carried out 43 assignments since it
+began operations in 1990.
+
+84. 
+The Foreign Investment Advisory Service (FIAS) supports PMC governments design
+initiatives to attract foreign direct investment and has been active in a number of countries
+including the FSM, Samoa, Fiji, Palau and the Solomon Islands as well as working on regional
+projects such as oceanic fisheries with the FFA and the SPC. FIAS advises on laws, policies,
+incentives, institutions, and strategies
+
+B. LESSONS LEARNED
+
+85. 
+The same OED report cited earlier also identified a number of lessons to be incorporated
+in the Bank's future program. These lessons remain relevant today:
+
+* Poor definition of strategic objectives made it difficult to tailor lending to achieve these
+objectives and had an adverse impact on project quality and sustainability;
+
+* The absence of long-term strategy contributed to inadequate sector and economic work;
+
+* Long-term strategy development needs to include active collaboration from the other
+development partners in the region; and
+
+• 
+
+Future lending activities in member countries and with development partners need to be
+based on shared strategy and policy goals.
+
+86. 
+The continuing validity of these lessons has been reinforced through the recently
+published Asian Development Bank's (ADB) Assessment of its Assistance for Reform Programs
+in the Pacific, which found that:
+
+* Reform programs have to have broad political ownership and be open to and driven by wide
+participation if they are to have any chance of success.
+
+* 
+
+In designing and supporting reform programs the issues of scope, phasing and pragmatism in
+the design of interventions needs to be considered explicitly.
+
+* Reform is a long term process and longer term perspectives, by both countries themselves
+and development partners, are essential.
+
+- 27 -
+
+* There is a need to clearly establish the link between inputs, processes, outputs and impacts.
+To be able to do this timely and reliable information is required.
+
+* Culture plays a crucial role and needs to be accepted as a legitimate consideration in
+designing reform programs.
+
+C. THE COMPREHENSIVE DEVELOPMENT FRAMEWORK (CDF) IN THE PACIFIC
+
+87. 
+The Comprehensive Development Framework (CDF) establishes a balance in
+policymaking by highlighting the interdependence of all elements of development-social,
+structural, human, governance, environmental, economic, and financial. The CDF seeks to move
+beyond discrete indicators of economic performance and human capacity to address, in concert,
+the 'fundamental, long-term issues of the structure, scope, and substance of societal
+development". It highlights four major areas of development-structural, human, physical, and
+sectoral:
+
+* Structural elements include honest, competent governments committed to the fight against
+corruption; strong property and personal rights laws supported by efficient legal and judicial
+processes; a well-supervised financial system promoting transparency; and a reliable social
+safety net.
+
+* Human development requires universal primary education along with a sound secondary and
+tertiary system; and a health system that focuses on family planning and child care.
+
+- Physical concerns center around the efficient provision of water and sewerage; expanded
+access to reliable electric power; access to road, rail and air transport along with
+telecommunications; and preservation of the physical environment and cultural heritage.
+
+- Sectoral elements include an integrated rural development strategy; sensible urban
+management; and an enabling environment for the private sector.
+
+88. 
+Fighting poverty is the central mission of the Bank and is at the core of the CDF. Poverty
+in the Pacific varies both in terms of its incidence and its defining characteristics. The existence
+of strong cultural and social systems in the Pacific continues to ameliorate and mask the
+incidence of absolute or abject poverty, but there are clear indications that these systems, and the
+values that underpin them, are under strain. Rates of youth suicide throughout the region are
+some of the highest recorded in the world. Towns and informal settlements continue to grow at a
+rate that see young people and their families removed from traditional support structures and the
+incidence of urban poverty growing at an increasing rate. The demographic profile of the Pacific,
+with some 40 percent of the population under 15 years and a further 20 percent between 15 and
+24 years, points to continuing and sustained pressure on Governments' capacity to establish and
+maintain health and education systems capable of providing even a basic level service. The
+impact of poverty also varies within the region with the larger Melanesian countries of the
+Solomon Islands and Vanuatu sharing some features, such as adult illiteracy rates and levels of
+access to safe water, that place them on a par with experience in Sub-Saharan Africa.
+
+- 28 -
+
+89. 
+Sustainable progress against poverty is conditioned on the development agenda pursued
+by Pacific countries being broad based, owned and driven by the country itself and realistic in
+terms of the timing and resources available. Only such an agenda can lead to broad based
+economic growth and employment creation. While not uniform, there is an ongoing reform
+process in the region. It is one owned and driven, to a greater or lesser extent, by the individual
+countries concerned and which finds expression in both domestic reform programs and shared
+regional action. The World Bank's engagement in the region supports such reform programs,
+both at a country and regional level, and the scale and type of assistance to individual countries
+in the region will reflect this (see also Box C).
+
+Box C: World Bank Approaches to Poverty, 1990 and 2000
+
+The definition of poverty has evolved over the past decade together with international knowledge about the nature of poverty
+and its determinants. In 1990, the World Development Report expanded the traditional income-based definition of poverty to
+further include capabilities - such as health, education and nutrition. This framework explicitly recognized the interaction
+and causal relationship among these dimensions. It recommended a strategy for poverty reduction based on broad-based
+growth in incomes and on investment in basic education and health care, together with safety nets for those unable to
+participate in growth.
+
+In light of the voices of the poor study and the evolution of events and ideas in the 1990s, the 2000 World Development
+Report proposes to further extend the concept of poverty to include the dimension of vulnerability and that of voicelessness
+and powerlessness. These added dimensions broaden the causal framework for analysis and expand the range of policies and
+actions that can be considered to tackle poverty.
+
+The key elements of an effective poverty reduction strategy are:
+* A comprehensive understanding of poverty and its determinants. It will be necessary to identify who and where the poor
+are and what prevents them from moving out of poverty, and to consider the various dimensions of poverty, including
+low income, capabilities, security and empowerment.
+* Choosing public actions that have the highest poverty impact.
+* 
+Policies that lead to more rapid economic growth-including macroeconomic stability, freer and more open markets and
+a stable and predictable environment for private sector activity-will need to be outlined. Prioritization of public actions
+in the poverty reduction strategy should, in general, be based on the expected impact on poverty in the short- and long-
+run. It will also depend on specific national, regional and group priorities that are expressed during the participatory
+processes. Social sector programs will generally be significant components of the effort, but actions with a more direct
+effect on the incomes of the poor -based on actions in areas like rural development, local infrastructure, and to enable
+private sector development - will usually be of equal importance. Strengthening capacity to implement is likely to be of
+general importance. The availability of non-inflationary financing for the program will need to be assessed.
+Transparency. The process of setting budget and policy priorities, and monitoring progress toward achieving poverty
+reduction goals, should, in general, rely upon transparent processes for public dialogue and disclosure of information.
+Greater transparency and accountability in fiscal management will help to boost the efficiency of public spending.
+* Outcome indicators which are set and monitored using participatory processes. The identification and measurement of
+poverty outcome targets, and assessment of the impact of priority interventions on the poor, are crucial mechanisms for
+regular assessment of policy and program design and implementation. Broad participation is needed to ensure that the
+most relevant targets are selected and that the results of regular monitoring of outcome indicators feed back to refine
+policy and programs to improve their effectiveness.
+
+* 
+
+90. 
+The sustainable utilization of natural resources, especially forests and fisheries, is crucial
+for meeting the development aspirations of Pacific Island populations. In some countries,
+however, economic growth has been at the expense of an overexploitation of natural resources,
+and is, therefore, unsustainable. Expanding economic activity has also been accompanied by
+rapid growth of towns. However, inadequate management of this process has resulted in
+considerable stress being placed on the urban environment, especially in the areas of sewerage
+
+- 29 -
+
+and waste disposal. The emerging scenario thus calls for a greater integration of environmental
+policy with economic policy both at the macroeconomic and sector levels. This is an area the
+Bank has begun work in other regions which it could draw upon in assisting Pacific member
+countries in ensuring that economic growth occurs in harmony with the natural environment.
+
+91. A wide range of development partners are involved in the region, including both bilateral
+and multilateral donors. Importantly, a significant element of the response of Pacific countries to
+the development challenges they face has been to seek partnership with other Pacific countries,
+both at regional and subregional levels and through development of a range of regional
+organizations. Fundamental to the success or failure of development in the Pacific must be
+notion of partnership that encompasses not only governments, bilateral agencies, multilateral and
+regional organizations, but which extends to broader civil society. Examples of donor
+coordination in the Pacific, such as the annual meeting between Pacific countries and their
+development partners, the annual meeting of all Pacific donors, the annual tripartite meeting
+between the Bank, AusAID and the ADB, and a range of regular high level consultations
+between the major bilateral donors, all point to a solid foundation. Development partners must
+now seek practical ways to build on this foundation and demonstrate an increasing willingness to
+work cooperatively within broad sectoral and policy parameters set by Governments.
+
+92. 
+Part of the uniqueness of the region stems from the way in which Pacific traditions and
+institutions have evolved and interacted with more recent modes of operation to form unique
+contemporary systems. These Pacific institutions, traditions and customs need to be
+acknowledged as important and legitimate elements of the broader governance process that
+applies in the Pacific. They need to be explicitly taken into account in structuring the assistance
+that the Bank and other development partners can provide. The consultation process followed
+and role identified for villages in the management of coastal protection in the Samoan
+Infrastructure Management Project (IAMP) is one practical example of how this is being done by
+the Bank. At the same time it needs to be understood that such institutions, traditions and
+customs continue to evolve and change and are subject to legitimate scrutiny and debate about
+their inclusiveness, effectiveness and fairness.
+
+D. THE WORLD BANK GROUP'S PACIFIC STRATEGY
+
+93. 
+The Bank works in partnership with the nine Pacific members of the World Bank and
+their development partners to achieve sustainable social and economic development. The Bank
+brings its global knowledge to help address the development problems faced by Pacific members
+particularly at a regional level, and provides a targeted and focused mix of development
+
+financing.
+
+The Bank's Lending Program - toward a targeted and innovative portfolio
+
+94. 
+In terms of overall resource transfers to the Pacific region the Bank's role has been
+modest. In 1998, for example, the Bank accounted for less than 1 percent of the total net
+disbursements of ODA to the broad Pacific region (excluding the French Territories). The major
+sources of development financing in the region remain Australia, New Zealand, Japan, the
+European Union and the ADB (see Section 2C).
+
+- 30 -
+
+95. 
+The ready availability of other sources of development financing, particularly grants-
+based support from bilateral donors, has enabled the Bank to take a more targeted and strategic
+approach to the provision of lending in the last 2-3 years. The Bank has only accepted a role in
+lending where it has a proven track record in the sector concerned or where the program of
+economic and sector work has provided a sound basis for Bank involvement, where the proposed
+activity has a strong link to an explicit policy reform agenda, is in keeping with the Bank's
+mission of poverty alleviation and where there are no other sources of finance readily available.
+Clearly, as a lending institution the Bank's role in the Pacific is secondary to the ADB and is
+designed to complement ADB's activities. This is reflected in the current portfolio where the
+four projects currently under supervision, along with the four at advanced stages of preparation,
+are all in high priority sectors in which the Bank has a proven track record and which all involve
+large policy reform components (Table 9).
+
+Lending in the Medium Term
+
+96. 
+Lending operations would be open to all member countries. It is expected, however, that
+lending will continue to concentrate on the larger Pacific economies in line with the economies
+of scale associated with doing business with the Bank and given availability of grant based
+financing opportunities for the smaller Pacific economies.
+
+97. As the majority of the Bank's Pacific members are eligible for IDA, in principle,
+(Kiribati, Samoa, Solomon Islands, Tonga and Vanuatu) the lending portfolio will continue to be
+largely IDA-based, though access to IBRD support remains an option, particularly for Fiji. The
+Bank's lending portfolio will stay within the current level of up to two new lending operations
+per fiscal year. This would see over time a portfolio under supervision of some 6-8 projects and
+could involve a commitment of IDA resources to the region over the next three years of $US30-
+40 million.
+
+98. 
+The mission of IDA is to support efficient and effective programs to reduce poverty and
+improve the quality of life in its poorest member countries. IDA helps build the human capital,
+policies, institutions, and physical infrastructure needed to bring about equitable and sustainable
+growth and its goal is to reduce the disparities across and within countries, to bring more people
+into the economic mainstream, and to promote equitable access to the benefits of development.
+The lending program in PMCs will maintain a strong focus on the social sector, particularly
+health and education, and will complement ongoing Bank and other donor programs. In the
+Melanesian countries of the Solomon Islands and Vanuatu a key focus will be on girls education.
+In the health sector maternal and reproductive health would continue to have a high priority.
+Gender issues will continue to be mainstreamed in all Bank lending activities. The transport
+infrastructure and telecommunications sectors have also been identified as priorities given the
+challenges posed by remoteness and isolation to the countries of the Pacific.
+
+- 31 -
+
+Table 9: Current Lending Activities
+
+Country 
+
+Project 
+
+Solomon Islands Education III 
+(Approved FY 93) 
+
+Solomon Islands Structural Adjustment 
+Credit 
+(Approved FY 99) 
+
+Solomon Islands Health Sector 
+Development 
+(Approved FY 2000) 
+Infrastructure Asset 
+Management 
+(Approved FY 99) 
+
+Samoa 
+
+Samoa 
+
+Health 
+
+Vanuatu 
+
+Education It 
+
+Solomon Islands Education IV 
+
+Tonga 
+
+Telecom Sector 
+reform 
+
+Amount 
+$USm 
+
+|
+
+Description and main focus
+
+4.0 
+
+14.4 
+
+12.0 
+
+16.9 
+
+Under Supervision
+The project has supported improved access to secondary education,
+especially senior secondary Forms 4 and 5 and expanded female
+participation; establishment of pilot lower unit-cost day schools (Day
+Junior Secondary Schools (DJSS); enhanced educational quality including
+teacher upgrading and curriculum improvements; expanded supply and
+improved training of nurses; and improved management of the education
+sector, including strengthening of budgeting and financial planning. Due to
+close in December 2000. IDA financed.
+The first Bank structural adjustment operation in the Pacific, the operation
+supports the Govemment's broad Policy and Structural reform Program.
+Other development partners supporting the reform program are the Asian
+Development Bank, AusAID, the Government of New Zealand, and the
+European Union. The IMF has provided advice on macroeconomic issues.
+Due to close in December 2000. IDA financed.
+The project supports improvements in reproductive health, malaria
+prevention and capacity building in the national department of health and
+provincial health services. Due to close in June 2005. IDA financed.
+In line with the Government's Statement of Economic Strategy, the project
+is helping change the role of government in the delivery and management
+of infrastructure services in the three priority subsectors of air transport,
+road transport and coastal protection Phase I and will help alleviate the
+constraints imposed by remoteness and isolation. Due to close in
+December 2002. IDA financed and cofinanced with AusAID
+Under Development
+5.0 (est) Within the framework of the Government's Health Sector Strategic Plan,
+the project will provide support for the strengthening of policy
+development and health care legislation and regulation; improvement of
+health facilities planning; improving the quality of key infrastructure;
+improvement of maintenance of health infrastructure and equipment; and
+developing a health care waste management system. IDA financed.
+10.0(est) Within the context of the Bank sponsored Vanuatu Education Master Plan
+the project will support system wide reform, including the introduction of
+mother-tongue instruction in community school grades K-2 and English or
+French language instruction in primary school grades 3-8. IDA financed.
+8.0 (est) The project will improve the quality of basic education and strengthen
+institutional capacity with a particular focus on community based schools.
+In particular, it will support the implementation of policy reforms in the
+areas of education financing, textbook provision and management, and
+preservice teacher training. It will also support increased female
+participation in basic education.
+2.0 (est) The project will support the implementation of the Government's sector
+reform programn, focusing on: regulatory reform, institutional reform, in
+particular, corporatization of TTC; and pilot IT Applications (e.g. tele-
+medicine, tele-education, etc.). IDA financed.
+
+99. 
+Strengthening the private sector's capacity to play a greater role in the development of
+these areas will be a key concern. The work of the IFC's South Pacific Project Facility (SPPF) on
+accelerating the development of a productive private sector in the PMCs through supporting the
+entry of private sector projects will continue (see also Box D). In the area of environment and
+natural resources, the Bank would continue to address country priorities through GEF medium-
+sized grants, and by mainstreaming it into its lending, policy and advisory activities. Support for
+broad based economic restructuring and reform will remain an option where counties can
+
+- 32 -
+
+articulate a coherent reform agenda and demonstrate strong commitment to carry through with
+that agenda.
+
+Box D: The World Bank's Approach to Private Sector Development in the Pacific
+
+The role played by the private sector in Pacific economies varies greatly but there is a general trend toward private sector
+development and privatization or corporatization of State Owned Enterprises (SOEs). Given the dominance of the Pacific private
+sector by small business, the Bank's approach to private sector development is strongly integrated with strategies in Small and
+Medium Enterprise (SME) development and Microfinance.
+
+SOE Reform and Privatization
+
+Effort in this area is varied but in general there is a stated intention on the part of PMCs to privatize or corporatize state owned
+enterprises. Some countries have embarked on programs but others are still grappling with what such programs can mean. There
+is a general lack of community understanding of the processes and benefits associated with privatization and corporatization and
+legislators and officials are not clear on the process involved or, in many cases, the governance and regulatory framework
+required to manage the sale process in a transparent manner and create the environment for the successful operation of the
+privatized or corporatized businesses. The Bank has a role to play in offering advisory support and technical assistance for the
+process of privatization and corporatization. This support needs to be at all levels of the community but particularly targeted to
+legislators and officials. Care swill continue to be exercised so that efforts are coordinated with other agencies, particularly the
+ADB and the Pacific Forum.
+
+Small and Medium Enterprise Development (SME) and Microfinance
+
+Small and medium business is the dominant private sector activity in virtually all Pacific countries. Many development partners
+are involved in the sector, particularly in training and education. There is a need for equity venture capital in the region and also
+for stronger post-financing technical support for funded projects. There is also a developing focus in village based microfinance
+largely through the NGO community which is in keeping with the Pacific environment. The Bank will continue to support
+project development through IFC's South Pacific Project Facility (SPPF) with support from regional donors such as Japan,
+Australia and New Zealand and will examine ways to offer stronger post-financing technical support. As the private sector grows
+there will be a developing need for capital markets advisory and investment support, equity funds, leasing and other
+mechanisms. Evaluation of capacity building in the region and identification of training gaps will also be considered. The Bank's
+expertise and experience in the area of microfinance can also add value to the work of other development partners in the region.
+
+Private Participation in Social Service and Infrastructure Development
+
+The provision of social services and infrastructure in the Pacific is largely in public hands in all of the PMCs. There is a desire to
+look at a role for the private provision of many of the these services, particularly as part of the SOE reform that is occurring in
+the region. There are a number of development partners already working with the PMCs in this area. By drawing on its global
+experience in this area, the Bank can add value to this work. This is likely to include advisory and credit/investment services but
+in the context of careful targeting and coordination with other development partners.
+
+Matching lending instruments with capacity and need
+
+100. 
+In recognition of the specific circumstances that apply in the Pacific, including issues
+associated with vulnerability of small states and the cost of doing business with the Bank,
+continued efforts will be made to both use existing instruments more flexibly and develop new
+instruments so that they match the scale and capacity of member countries involved.
+
+101. The development of Adaptable Program Loans (APLs), Learning and Innovation Loans
+(LILs) has provided a greater range of lending instruments that more closely match the scale of
+operation necessary in the Pacific. The lending program in the Pacific will seek to make more
+extensive use of such instruments as well as fine tune their application in light of the experience
+with the first Pacific APL in Samoa and broader Bank experience with APLs and LILs.
+
+- 33 -
+
+102. A number of Pacific member countries have expressed interest in the further development
+of program and sector lending instruments, as opposed to project based lending. This will be
+done by building on broader Bank experience and on experience with the bank's first structural
+adjustment operation in the Pacific. Sector or program approaches will only be feasible,
+however, in those countries where there are clearly articulated sector reform programs. Such
+approaches will also be dependent on a willingness, flexibility and capacity of development
+partners to work cooperatively within a broader country articulated sector program.
+
+103. The countries of the Pacific have long recognized that shared action has a role to play in
+addressing the development challenges they face. The Bank has started to develop lending
+mechanisms that can provide resources to support such regional action and this early experience,
+particularly in the Caribbean and Africa, may provide a model for the development of regionally
+focused lending in the Pacific. This could involve rolling programs targeting a number of
+countries or ones based on partnership arrangements with regional organizations. Discussions
+with PMCs to further explore this option have only just begun.
+
+The Bank's Nonlending Program-A Global Knowledge Bank for the Pacific Region
+
+104. Unlike many other regions in which the Bank operates, its role as a knowledge bank is
+perhaps the key strength that it brings to the Pacific. To date, the Bank's main means of
+contributing knowledge at the overall regional level has been through the Regional Economic
+Reports (RER) (see also Box E). The first of the Bank's RERs was produced in 1991 and the
+fourth in 1998. The fifth is currently under preparation and due to be presented to Pacific
+member countries in mid 2000. The role of the RER has been supported and extended by a
+number of regionally based sector studies, including in the health, post-secondary education,
+transport and energy sectors. In contrast, the Bank's country-focused economic and sector work
+has provided a means of bringing the Bank's global experience to bear on development issues
+specific to individual member countries. The Bank's economic and sector work has been
+disseminated widely, including through the Pacific Islands Discussion Paper Series, as
+standalone publication and through country and regional presentations.
+
+105. The RER will continue to be the main vehicle for bringing the Bank's global knowledge
+to the Pacific region but will be supplemented by a more focused program of regional and sector
+based economic and sector work developed in conjunction with members countries and other
+development partners, including sectoral studies undertaken on a partnership basis with regional
+and other organizations. The country-specific economic and sector work undertaken by the Bank
+has covered a broad range of sectors including health, fisheries, finance and forestry.
+Importantly, it has been the means by which all member countries have been able to see tangible
+returns for their membership. The Bank will maintain this capacity to respond flexibly to
+individual members country requests for short term technical and analytical assistance.
+
+106. Pacific members have indicated that they would like to see a significantly expanded level
+of service provision by the Bank in terms of economic and sector work and in the provision of
+short term technical assistance. There are resource constraints on the Bank's ability to increase
+its capacity in this regard. One option that will be explored is whether it might be possible to
+develop, in conjunction with other development partners, a grants based facility to support the
+
+- 34 -
+
+provision of technical assistance by the Bank ideally based on grant contributions by
+development partners. The existing South Pacific Facility currently financed by AusAID and the
+arrangements underpinning the very successful operations of PFTAC and FIAS provide some
+possible models in this regard.
+
+Box E: The Biennial Regional Economic Report
+
+The Regional Economic Report (RER), prepared biennially, is a key piece of economic and sector work undertaken by the Bank
+in the Pacific region. RER 2000, the fifth prepared by the Bank, is due to be presented to member governments in mid-2000 and
+aims to help the people and governments of PMCs deal with some of the challenges and opportunities that will confront them in
+the first part of the new centuly. Three aspects of managing unavoidable change are examined in detail in RER 2000: they are
+the growth of towns, the effects of global climate change, and the management of the ocean and its interaction with its island
+peoples.
+
+These three themes were identified after consultations in the region and because of their region-wide relevance. They were also
+chosen because of the immediacy of the challenges and opportunities they raise, the ability of the Bank to contribute to the
+ongoing work on the issues, and because within each of the themes lie substantial opportunities to effect lasting improvements
+to social and economic conditions. The growth of towns is handicapped by lack of understanding of the social and economic
+nature of the process, poor physical management of the towns themselves, and failure of govemments to grasp the strongly
+positive development potential of urban settlement. The effects of climate change and the scope for human response to it is a
+vast and rapidly evolving subject, very difficult for communities and governments to grasp but of immense and immediate
+impact on the Pacific Islands. The Pacific Ocean is by far the most important physical influence on social and economic activity
+in the PMCs.
+
+Woven through those three areas of concern, and strongly conditioning the way PMCs react to them, RER 2000 also identifies
+two widespread sources of stress and assesses their significance: these are the changing forms of institutions and organization,
+and the globalization of trade, investment and economic governance.
+
+RER 2000 draws on the advice and experience of Pacific Island countries, regional and international institutions and individuals
+to suggest what needs to be done, where and how to equip communities and governments in PMCs, and their regional
+organizations, to meet and manage these inescapable challenges and their accompanying opportunities.
+
+Economic and Sector Work in the Short & Medium Term-the Small States Agenda in the
+
+Pacific
+
+107. The recent joint work of the Commonwealth Secretariat and World Bank on identifying
+the characteristics of small states has brought a new focus and shared perspective on the specific
+problems that small vulnerable states face. A general focus on small states will be maintained in
+the Bank's operations on an ongoing basis through the establishment of a Small States Network
+and the holding of an annual Small States Seminar. The next step is to identify specific strategies
+that are relevant to the Pacific. The Bank's global coverage, combined with the fact that forty
+one World Bank developing country members have populations of less than 1.5 million and three
+out of four of these are island countries, means it well placed to help identify world best-practice
+approaches and solutions to the development problems that its nine Pacific member countries
+face.
+
+108. Managing the vulnerabilities that Pacific Island countries face requires innovative, sound
+and focused thinking on the part of national governments. Sound macroeconomic policies must
+be at the core of these efforts and scope of national reform programns currently being
+implemented in the Pacific is testament to the commitment of many Pacific Island governments
+to implement sound macroeconomic and fiscal policies. Diversification of the domestic
+
+- 35 -
+
+economic base will reduce the impact of specific trade or financial shocks and the small size of
+many of the national economies and the associated lack of economies of scale could be offset by
+giving more attention to cooperation at the regional level to share infrastructure and
+institutional resources. The Bank will seek ways to support and foster such regional level
+cooperation and will focus a significant part of its economic and sector at the regional and
+subregional levels.
+
+Managing natural disasters
+
+109. Natural disasters, like cyclones, frequently exact a large toll on PMCs in the form of
+human suffering, damage to infrastructure and loss of export earnings. The cost of such disasters
+can be considerably reduced through comprehensive disaster management programs. This would
+include ex ante mitigation measures such as appropriate zoning and hazard mapping,
+establishment and enforcement of building codes, and disaster information mechanisms. A
+second component would be the strengthening the capacity of national emergency management
+agencies. Local communities could be involved by organizing, training and equipping
+community disaster committees in disaster preparedness and mitigation. Third, the program
+could include investment in protection of key infrastructure facilities. Such work needs to be
+informed by the approaches already developed that are uniquely integrated with the social and
+cultural institutions and understandings in the region. The Bank is undertaking work on the
+development of catastrophe risk management in the Caribbean. This includes both catastrophe
+insurance and the incorporation of catastrophe exposure into macroeconomic policy making. The
+Bank will work with PMCs and other development partners to see what relevance such work
+could have for the Pacific.
+
+Tackling commodity price risks
+
+110. The PMCs being largely dependent on export of primary commodities are vulnerable to
+fluctuations in their prices. It would therefore be useful if the International Task Force ° on
+commodity price risk management pay attention to issues and commodities of relevance to the
+Pacific. The risks that the Pacific are faced with, however, including fluctuations in volumes and
+tourism earnings and different land tenure systems are likely to require a combination of
+different approaches.
+
+Managing environmental vulnerability
+
+111. Pacific Island countries are among the most vulnerable in the world to global climate
+change. Most of the population, economic activities and infrastructure are located near the coast
+and the combination of inherent small island vulnerability to environmental degradation and
+population growth entails high costs during extreme climatic conditions such as cyclones or El
+Nifo events. The region has been active on climate change issues, especially through regional
+organizations such as SPREP and SOPAC. However, despite the progress that has been
+achieved, knowledge gaps persist in regional impact assessment, economic valuation and
+adaptation to climate change. Changing population dynamics and increasing numbers of people
+
+10 This Task Force was convened by the World Bank in 1998 and includes participation from all stakeholders in
+international commodity markets. See http://www.worldbank.org/commrisk.
+
+- 36 -
+
+moving to urban and peri-urban areas located near the coast or at sea level are also having an
+impact on urban environmental services, including water supply, drainage, sanitation/sewerage
+and solid water disposal and on urban infrastructure such as roads, power and telecommunication
+services. The Bank's forthcoming Regional Economic Report will analyze ways for PMCs to
+develop adaptation strategies and improve their access to international funding for adaptation.
+
+Responding to worldwide trade liberalization
+
+112. Recent years have seen the progressive liberalization of world trade following the
+implementation of Uruguay Round agreements, the establishment of the WTO, and the
+proliferation of regional trade agreements. As a result, the trade preferences once afforded to
+PMCs are likely to be eroded. Both time and resources will be needed as PMCs adjust to this
+new trading environment. Successful adjustment will require both policy change and external
+support.
+
+113. There is a recognition among the PMCs that they need to participate more fully in the
+worldwide trend toward freer trade. The benefits of freer trade are not achieved without costs. It
+takes time for efficient industries to respond to the new opportunities opened by freer trade. The
+uncompetitive or less efficient industries may have to be scaled down or forced to exit, resulting
+in reduced profitability and job losses. These 'adjustment costs' are inevitable and the movement
+towards freer trade must be carefully managed so as to minimize them. The Bank's past and
+continuing economic and sector work in the region places it on strong analytical base to help
+PMCs manage this adjustment in their specific context. In addition, the Bank can draw upon its
+involvement with liberalization experiences in other countries to identify roadblocks which could
+increase the costs of adjustment. The Bank could examine whether policies that have been used
+to successfully tackle the roadblocks in other regions could be adapted for the PMCs.
+
+114. The Lome convention which had accorded preferential treatment to exports from
+participating PMCs to the EU expired in February 2000. A successor convention is to be signed
+later this year in Suva, Fiji. The new agreement would require the PMCs to conclude with the
+EU a WTO-compatible arrangement by 2008. Current market access arrangements would,
+however, be maintained over these eight years. The new WTO-compatible relationship will
+likely involve a reciprocal trading arrangement of the PMCs with the EU. PMCs have already
+begun negotiations for forming a regional free trade area amongst themselves which will greatly
+facilitate a regional economic partnership arrangement (REPA) between the relevant PMCs and
+the EU. The Bank could support the PMCs in accomplishing such agreements. It is likely that the
+REPA with the EU would confer greater benefits to the PMCs than would a free trade area
+among themselves.
+
+Globalization
+
+115. Economic policies and strategies need to be considered in terms of national priorities and
+social circumstances, but national level decisions have to be informed by international events and
+pressures. The fast pace of globalization accentuates the economic vulnerability of the region,
+especially as most countries produce mainly primary commodities that have fluctuating and often
+low value on world markets. National governments can find their policies superceded by larger
+global forces over which they have limited or no control. Growing export markets for natural
+
+- 37 -
+
+resources can weaken traditional management systems, particularly when local leaders sacrifice
+long-term sustainability to short-term gains. Conversely, the forces of globalization can also
+stimulate an environment where innovative policies and incentives help remove some of the
+traditional barriers of remoteness from markets. Technological and communications advances
+can, if managed properly, provide new opportunities by reducing liabilities of physical isolation.
+The Bank will work with PMC s and development partners to help identify how such advances
+can be realized in the Pacific.
+
+E. RISKS TO IMPLEMENTATION OF THE STRATEGY
+
+116. The major risks to the Bank's Pacific Regional Strategy stem from the nature and
+characteristics of Pacific states themselves and the region in which they are located. Major risks
+include:
+
+* A lack of political and institutional capacity in PMCs to follow through with reform
+programs, to manage the resources available to them and to respond effectively to the
+changing global economic environment. This risk is significant, particularly for those PMCs
+whose reform programs are not yet far advanced. The measures set out in this strategy will
+help build the institutional capacity of PMCs and the risk will decrease over time as progress
+is achieved. The Bank's continued involvement in the region, along with the decentralization
+of the Bank's PNG and Pacific Country Management Unit, will enable more sustained
+dialogue with PMCs to help maintain the commitment to reform.
+
+* Susceptibility of the region and countries in it to external economic and natural shocks. The
+measures outlined in paragraphs 107-115, including in disaster mitigation and management,
+environmental vulnerability and trade liberalization, will increase the resilience of PMCs. It
+has to be acknowledged, however, that this risk will remain on an on-going basis as a part of
+the Pacific operating environment.
+
+* A failure on the part of development partners that are active in the region to follow through
+with their stated commitment and willingness to work cooperatively within country-driven
+reform and sector programs. This risk is rated as low as all development partners have clearly
+stated their desire and commitment to work on the basis of partnership. The decentralization
+of the Bank's Pacific operations will also enable enhanced dialogue with other development
+partners to help ensure the realization of this commitment.
+
+- 38 -
+
+5. CONCLUDING COMMENTS
+
+117. The Bank has a role to play in the Pacific. It involves working in partnership with the
+nine Pacific Bank members and their development partners to identify solutions to the
+development challenges they face. That role must be targeted and focused, playing to the Bank's
+strengths and avoiding generating expectations that the Bank has neither the resources or clear
+comparative advantage to satisfy. The Pacific Regional Strategy outlined plays to the Bank's
+strengths, highlighting its global access to knowledge and combining it with a strategic and
+targeted lending portfolio. The strategy provides a yardstick by which the Bank's involvement
+can be predicted, measured and assessed; but perhaps the real value of the regional strategy lies
+in the commitment it makes to its Pacific members and to the other development partners who
+share that commitment.
+
+James D. Wolfensohn
+President
+
+By: Sven Sandstrom
+
+Washington, D.C.
+May 4, 2000
+
+- 39 -
+
+Annex 1
+
+ANNEX 1: THE BANK'S PACIFIC EXPERIENCE
+
+Table 1: The World Bank's Lending Program 1971 - 2000
+
+Financier 
+
+Project 
+
+Principal 
+
+Amount In Millions (USD) 
+Undisbursed 
+Disbursed
+FIJI
+
+Approval Date 
+
+Closing Date
+
+IBRD 
+IBRD 
+IBRD 
+IBRD 
+IBRD 
+IBRD 
+IBRD 
+IBRD 
+IBRD 
+IBRD 
+IBRD 
+IBRD 
+IBRD 
+
+IDA 
+IDA 
+IDA 
+IDA 
+IDA 
+IDA 
+IDA 
+IDA 
+IDA 
+IDA 
+IDA 
+
+IDA 
+IDA 
+IDA 
+
+IDA 
+
+IDA 
+IDA 
+IDA 
+IDA 
+
+IDA 
+IDA 
+
+IDA 
+IDA 
+IDA 
+IDA 
+
+Highway - Suva - Nandi 
+Highway - Suva - Nandi 
+Telecommunication 
+Telecommll 
+Sugar Development 
+Power 
+Power II 
+Cyclone Reconstruction 
+Development Bank 
+Road Upgrading 
+Third Telecommunication 
+Housing Project 
+Roads Upgrading 
+
+Highways I 
+Agriculture Development 
+Second Agr. Development 
+Development Bank 
+Multi-Project Loan 
+Power 
+Power 
+Telecom 
+Emergency Road Rehab 
+Emergency Road Rehab 
+Infrastructure Management 
+
+DevelopmentBank 
+1Primary Education 
+
+1Agriculture Development 
+
+|Guadalcanal Road 
+Education 1; 
+Education 
+III 
+SAC 
+Health Sector Development 
+
+Development Bank 
+Development Bank I 
+
+_______ 
+____________________ 
+
+Agriculture Research & Extension 
+Multiproject 
+Education 
+Housing 
+
+11.8 
+4.2 
+2.2 
+5.0 
+12.0 
+15.0 
+15.5 
+18.0 
+6.5 
+23.4 
+8.1 
+16.2 
+15.0 
+
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+
+SAMOA
+
+4.4 
+0 
+8.0 
+0 
+2.0 
+0 
+2.0 
+0 
+2.5 
+0 
+3.0 
+0 
+1.0 
+0 
+4.6 
+0 
+14.0 
+0 
+5.1 
+0 
+14.4 
+0 
+SOLOMON ISLANDS
+1.5 
+0 
+5.0 
+0 
+3.5 
+0 
+
+2.0 
+
+5.0 
+16.9 
+12.0 
+4.0 
+
+2.0 
+3.0 
+
+_ 
+
+1 
+
+1 2.0 
+2.0 
+8.0 
+3.4 
+
+0 
+
+0 
+1.3 
+5.0 
+3.9 
+
+TONGA
+
+1 
+
+0 
+0 
+VANUATU
+
+-
+
+0 
+0| 
+0 
+0 
+
+11.8 
+4.2 
+2.2 
+5.0 
+11.7 
+15.0 
+15.5 
+18.0 
+1.2 
+23.4 
+7.6 
+12.9 
+14.9 
+
+4.4 
+6.5 
+1.0 
+2.4 
+3.1 
+3.4 
+0.4 
+5.0 
+15.3 
+5.1 
+0.4 
+
+0.8 
+4.7 
+2.6 
+
+2.2 
+
+6.1 
+16.0 
+7.0 
+0.1 
+
+2.1 
+2.3 
+
+1.4 
+2.5 
+8.6 
+1.6 
+
+29 June 1971 
+30 Jan 1973 
+15 Jun 1972 
+8Jul 1975 
+23 Mar 1976 
+15 Jun 1978 
+29 May 1980 
+25 Nov 1980 
+2Jul 1985 
+3 Sep 1987 
+25 May 1989 
+17 Apr 1990 
+18 Jun 1992 
+
+4 Mar 1975 
+18 Sep 1979 
+9 Dec 1980 
+23 Apr 1985 
+4 Feb 1986 
+21 Apr 1987 
+22 Apr 1993 
+8 Jun 1989 
+17 May 1990 
+9 Mar 1993 
+15 Apr 1999 
+
+17Mar 1981 
+2 Mar 1982 
+20 Dec 1983 
+
+22Jan 1985 
+
+29 Apr 1986 
+25 May 1993 
+17 Jun 1999 
+6 Jan 2000 
+
+31 Dec 1977
+31 Mar 1978
+30 Nov 1978
+31 Mar 1981
+31 Dec 1983
+30 Sep 1982
+31 Dec 1983
+30 Jun 1984
+31 Dec 1989
+31 Dec 1991
+31 Dec 1996
+30 Sep 1998
+30 Jun 1999
+
+30 Jun 1980
+30 Jun 1988
+31 Dec 1987
+30 Sep 1990
+31 Dec 1993
+31 Aug 1994
+31 Aug 1994
+31 Dec 1994
+31 Dec 1994
+31 Dec 1997
+31 Dec 2002
+
+31 Dec 1987
+31 Dec 1989
+31 Dec 1990
+
+30 Jun 1989
+
+31 Dec 1992
+30 Jun 2000
+31 Dec 2000
+30 Jun 2005
+
+12 Jun 1987 
+14Jan 1990 
+
+131 Dec 1990
+131 Dec 1995
+
+2 Aug 1983 
+20 Mar 1986 
+15 Nov 1988 
+|11 Jun 1991 
+
+30 Jun 1989
+30 Jun 1993
+31 Dec 1998
+30 Sep 1998
+
+- 40 -
+
+Annex 1
+
+Table 2: SECTORAL COMPOSITION OF BANK LENDING, 1971-2000
+
+Sector 
+
+Education 
+Health 
+Agriculture/Rural 
+Banking 
+Housing/Informal Settlements 
+Roads/Transport 
+Asset/Infrastructure Management 
+Cyclone Reconstruction 
+Telecoms 
+Structural Adjustmnent Credit 
+Sugar Industry 
+Multiprojects 
+Power 
+TOTAL 
+
+Fiji 
+
+USsm 
+
+% 
+
+Samoa 
+US$m 
+
+% 
+
+6.5 
+16.2 
+54.4 
+
+18.0 
+15.3 
+
+12 
+
+30.5 
+152.9 
+
+4 
+
+10 
+
+36 
+
+12
+10 
+
+8 
+
+20 
+100 
+
+10 
+2 
+
+_ 
+
+23.5 
+14.4 
+
+4.6 
+
+2.5 
+4 
+61 
+
+_ 
+
+16 
+3 
+
+39 
+24
+
+7.5 
+
+1 
+1
+
+4 
+6.5 
+100 
+
+Analytical and Advisory Work
+
+Solomon Islands 
+Vanuatu 
+USsm 
+%N USm 
+% 
+26.9 
+54 
+
+52
+
+8 
+
+Tonga
+US$m 
+
+%
+
+4 
+
+3.5 
+1.5 
+
+8
+
+7 
+3 
+
+2 
+
+3.4 
+
+13
+
+22
+
+5 
+
+100
+
+2 
+
+4
+
+_
+
+12 
+
+12 
+
+24
+24
+
+2 
+
+13 
+
+_
+
+49.9 
+
+100 
+
+15.4 
+
+100 
+
+5 
+
+100
+
+The Bank's analytical and advisory work in the Pacific has been substantial and included
+regionally based work such as the biennial Regional Economic Reports and individual country
+work. Regionally based advisory work has covered a wide range of areas including governance,
+fisheries, education, health, transport, energy, agriculture, coastal management, inforrnation
+technology, telecommunications, private sector investment and energy.
+
+B) Analytical and Advisory Work-Listing of Substantial Pieces
+
+Working Apart or Together
+Pacific Islands Discussion Paper Series, Number 10, 2000
+
+Voices from the Village: A Comparative Study of Coastal Resource Management in the
+Pacific Islands
+Pacific Islands Discussion Series, Number 9, 1999
+
+Pacific Islands Stakeholder Participation in Development: Vanuatu
+Pacific Islands Discussion Series, Number 8, 1998
+
+Pacific Islands Stakeholder Participation in Development: Fiji
+Pacific Islands Discussion Series, Number 7, 1998
+
+Samoa: Meeting the Challenges of Development.
+Health Sector Review, 19998
+
+Pacific Islands Stakeholder Participation in Development: Solomon Islands
+Pacific Islands Discussion Series, Number 6, 1998
+
+Enhancing the Role of Governance in the Pacific Island Economies
+Regional Economic Report, 1998
+
+- 41 -
+
+Annex 1
+
+Pacific Islands Stakeholder Participation in Development: Kiribati
+Pacific Islands Discussion Series, Number 5, 1998
+
+Pacific Islands Stakeholder Participation in Development: Tonga
+Pacific Islands Discussion Series, Number 4, 1998
+
+Pacific Islands Stakeholder Participation in Development: Samoa
+Pacific Islands Discussion Series, Number 3, 1998
+
+Aspects of the Industry, Trade and Marketing of Pacific Islands Trochus
+Pacific Islands Discussion Series, Number 2, 1997
+
+The Use of First and Second Languages in Education
+Pacific Islands Discussion Series, Number 1, 1997
+
+Pacific Islands, Building a Resilient Economic Base for the Twenty-First Century
+Regional Economic Report, 1995
+
+Pacific Island Economies: Sustainable Development of Fisheries
+Regional Report, 1995
+
+Pacific Island Economies: Sustainable Development of Forestry
+Regional Report, 1995
+
+Pacific Islands Education Study
+Regional Report, 1995
+
+Fiji: Restoring Growth in a Changing Global Environment
+Country Report, 1995
+
+Managing Urban Environmental Sanitation Services in Pacific Island Countries, Annotate
+Bibliography
+Regional Report, 1995
+
+Health Priorities and Options in the World Bank's Pacific Member Countries
+Regional Report, 1994
+
+Managing Urban Environmental Sanitation Services in Selected pacific Island Countries
+Regional report, 1994
+
+Pacific Island Economies: The Role of the Private Sector
+Regional Report, 1993
+
+Post Secondary Education Study
+Regional Report, 1993
+
+- 42 -
+
+Annex 1
+
+Transport Sector Study
+Regional Report, 1993
+
+Pacific Island Economies: Towards Efficient and Sustainable Growth
+Regional Economic Report, 1993
+Pacific Regional Energy Assessment
+Regional Report, 1992
+
+Pacific Island Economies: Towards Higher Growth in the 1990s
+Regional Economic Report, 1991
+
+Fiji: Incentive Policies for Growth
+Country report, 1991
+
+Western Samoa: Agricultural Strategy Review
+Country Report, 1991
+
+Role of Remittances in Polynesian Economies
+Regional, 1991
+
+Tonga: Agricultural Sector Strategy Review
+Country Report, 1990
+
+Fiji: Performance and Prospects of Education Training and Health Services
+Country Report, 1990
+
+Fiji: Challenges for Development
+Country Report, 1990
+
+- 43 -
+
+Annex 2
+
+ANNEX 2: PACIFIC - COUNTRIES AT A GLANCE
+
+- 44 -
+
+Annex 2
+
+Fiji at a glance 
+
+911 
+
+7199
+
+East Lower-
+Asia & middle-. 
+Pacific 
+Intcome 
+
+POVERTY and SOCIAL 
+
+---
+
+____ 
+
+__ 
+
+--
+
+riji 
+
+Development diamond'
+
+Population. mid-year (millions) 
+GNP per capita (Atlas methocd, US$) 
+GNP (At/as methodf, US$ billins) 
+
+0.83 
+2,110 
+1 7 
+
+1,817 
+990 
+1.802 
+
+908 
+1,710
+1,557
+
+Life expectancy
+
+Average annual growth, 1992-95
+
+Population (%5) 
+Labor force (I/) 
+Most recent estimatte (latest year available, ISS2-08~ 
+Poverty (% of poPulation below national poverty line)
+Urban population (l% of total population) 
+Life expectncy at birth (years) 
+Infant mortaliy (pe 1, 000 live births) 
+Child malnutritionl (% of children under 5) 
+Access to safe water (%/ of population) 
+Illiteracy ('A of population age 15.) 
+Gross primary enrollment (l% of school-age popuflaion) 
+Male 
+Female 
+
+1~5 
+2.8 
+
+1.~2 
+1.6 
+
+1.
+1.5 
+
+GNP 
+per 
+aiaerlmn
+
+Gross
+primary
+
+42 
+73 
+
+3511 
+58
+37 ~ 38
+
+69 
+
+688
+
+18 
+
+8 
+90 
+8 
+128 
+128 
+128 
+
+20 
+77 
+is 
+117 
+
+., 
+
+Accesa to safe water
+
+1 75
+14
+103 
+105 
+100
+
+"~~"F/ij
+Lower-mtiddle-rncome group
+
+1A9 
+
+116 
+
+KEY ECONOMIC RATIOS and LONG-TERM TRENDS
+1977 
+
+1987 
+
+4997 
+
+1998 
+
+--
+
+GOP (U.S$ billions) 
+Gross domestic investment/GDP 
+Exports ot goods andi services/GOP 
+Gross domestic savIngs/GOP 
+Gross national savings/GOP 
+
+0.7~I 
+
+1.2 
+15.9 
+45.0 
+19.2 
+15.2 
+
+2,1 
+124 
+57.3 
+10.7 
+11,0 
+
+1.8 
+12. 
+66.0Trd
+13.-3
+9.7
+-2. 
+06 
+13,5 
+1.8
+
+Eonmcrais
+
+23,2 
+43.9 
+20,4 
+19~0 
+
+Tad
+
+Current account balanoe/GOP 
+Interest payments/GOP 
+Total debt/GOP 
+i16,5 
+Total debt service/exports 
+Present value of debt/GOP 
+Present value of debt/exports 
+
+-3.5 
+0,7 
+
+-1.1 
+2.2 
+39.5 
+11,8 
+
+0.2 
+0$~ 
+10,2 
+3.1 
+9.5
+15.4
+
+Doesi
+DoetcInvestment
+Svig
+
+3.4 
+
+.. 
+
+.
+
+.
+
+, 
+
+1977-87 1988498 
+
+1997 
+
+1998~ 1999-03 
+
+Idbens
+
+(average annual growth)
+GOP 
+GNP per capita 
+Exports of goods and services 
+
+1.1 
+
+2.4 
+0.9 
+
+-1.5 
+-3.2 
+
+-7 
+-5 
+
+Fj
+Lower-middle-income group
+
+-1.1 
+
+____ 
+
+2.2 
+
+STRUCTURE of the ECONOMVY
+
+(56 of GDP) 
+
+~ ~~~~~1977 
+
+1987 
+
+1997 
+
+1998 
+
+Gr~owthrates of -otput 
+
+and -Investmenit l%lA
+
+Agriculture 
+Industry 
+Manufacturing 
+Services 
+
+23.3 
+20.7 
+11.5 
+58.0 
+
+22.9 
+21.1 
+11.7 
+56.1 
+
+17.8 
+28.2 
+13.6 
+56.1 
+
+19.5 
+31.0 
+15.1
+49.5 
+
+20
+151- 
+
+-15 
+
+Private consumption 
+General govemment consumption 
+Imports of goods and services 
+
+64.1 
+15.5 
+46.7 
+
+83.6 
+17.3 
+41.7 
+
+72.9 
+16.4 
+59.0 
+
+70.7 
+16.0
+64.7 
+
+-3D
+
+-'_.GDI 
+
+-- *-GDP
+
+1977-87 1988-98 
+
+1997 
+
+1998
+
+(average annual growth)
+Agricuiture 
+Industry 
+Manufacturing 
+Services 
+
+2.0 
+-0.1 
+1.6 
+2.3 
+
+0.5 
+4.7 
+4.1 
+1.1 
+
+-12.5 
+-1.3 
+-3.4 
+1.9 
+
+-10.0
+3.2
+-5.0
+-7.4
+
+Private consumption 
+General govemment consumption 
+Gross domestic investment 
+Imports of goods and services 
+Gross national product 
+
+-0.2
+4.3
+-3.0
+-0.7
+0.8 
+
+2.3 
+
+-1.8 
+
+-4.2
+
+Note: 1998 data are preliminary estimates.
+The diamonds show four key indicators in the country (in bold) compared with its income-group average. If data are missing, the diamond will
+be incomplete.
+
+- 45 -
+
+Annex 2
+
+Fiii
+
+PRICES and GOVERNMENT FINANCE
+
+1977 
+
+1987 
+
+1997 
+
+1998 
+
+Inflation
+
+Domestic prices
+(% change) 
+Consumer prices 
+Implicit GDP deflator 
+
+1
+
+7.0 
+0.0 
+
+5.7 
+8.2 
+
+3.4 
+3.8 
+
+5.7 
+7.3 
+
+8
+
+4
+
+4
+
+Govemment finance 
+(% of GDP, includes current grants) 
+
+2
+
+o
+
+Current revenue 
+
+.. 
+
+23.2 
+
+26.5 
+
+27.0 
+
+93 
+
+94 
+95 
+' GDP deflator 
+
+96 
+
+97 
+
+98
+
+Current budget balance 
+Overall surplus/deficit 
+
+.. 
+
+-0.9 
+-5.0 
+
+2.1 
+-6.5 
+
+1.5 
+-2.4
+
+CPI
+
+.. 
+
+TRADE
+
+(US$ millions) 
+
+1977 
+
+1987 
+
+1997 
+
+1998 
+
+Export and import levels (US$ millions)
+soo-
+
+Total exports (fob) 
+Sugar 
+Gold 
+Manufactures 
+Total imports (cii 
+
+.. 
+.. 
+
+329 
+150 
+41 
+
+511 
+148 
+51 
+155 
+829 
+
+505 
+60
+40
+152
+768 
+
+* 
+
+.. 
+
+374 
+
+3 
+
+idiilud
+
+Food 
+
+.. 
+
+~~~ ~~~~ ~~~~~ ~~70 
+
+133 
+225 
+
+114 
+152 
+
+30
+
+Fuel and energy 
+
+.. 
+
+61 
+
+114 
+
+76
+
+Capital goods 
+
+.. 
+
+73 
+
+92 
+
+93 
+
+94 
+
+90 
+
+6 
+
+97 
+
+9
+
+Exoort Dnce index (1995=100) 
+ImDort orice index (1995= 1001 
+Terms of trade (1995=100)
+
+92 
+
+93 
+94 
+Exports 
+
+.
+
+9
+*Imports
+
+.. 
+
+.. 
+
+.. 
+
+BALANCE of PAYMENTS
+
+(US$ millions) 
+
+1977 
+
+1987 
+530 
+521 
+8 
+
+1997 
+1,240 
+1,241 
+-2 
+
+1998 
+1,139 
+1,117
+22
+
+Current account balance to GDP ratio (%)
+
+Exports of goods and services 
+Imports of goods and services 
+Resource balance 
+
+318 
+334 
+-16 
+
+6T
+
+Net income 
+Net current transfers 
+
+-9 
+-1 
+
+-11 
+-11 
+
+-68 
+74 
+
+-86
+25 
+
+Current account balance 
+
+-26 
+
+-13 
+
+4 
+
+-39 
+
+T 
+
+-
+
+Financing 
+items (net) 
+Changes in net reserves 
+
+43 
+-17 
+
+-50 
+63 
+
+-33 
+29 
+
+22
+17 
+
+-
+
+Memo:
+Reserves 
+includina cold (US$ millions) 
+Conversion 
+rate (DEC. localVUS$) 
+
+147 
+0.9 
+
+132 
+1.2 
+
+360 
+1.4 
+
+385
+2.0
+
+EXTERNAL DEBT and RESOURCE FLOWS
+
+1977 
+
+1987 
+
+1997 
+
+1998
+
+(USS millions) 
+Total debt outstanding and disbursed 
+IBRD 
+IDA 
+
+Composition of total debt, 1998 (US$ millions)
+
+121 
+23 
+° 
+
+468 
+80 
+° 
+
+213 
+30 
+° 
+
+218
+32
+a 
+
+G. 48 
+
+A: 32
+
+Total debt service 
+IBRD 
+
+11 
+2 
+
+67 
+13 
+
+39 
+6 
+
+21
+7
+
+IDA 
+
+0 
+
+0 
+
+0 
+
+0
+
+Composition of net resource flows
+
+Official grants 
+
+8 
+
+17 
+
+14
+
+Official creditors 
+Private creditors 
+Foreign direct investment 
+Portfolio equity 
+
+11 
+8 
+0 
+0 
+
+-1 
+-16 
+11 
+0 
+
+-8 
+-12 
+12
+0 
+
+-6
+0 
+
+F 41
+
+E:11
+
+World Bank program
+Commitments 
+Disbursements 
+Principal repayments 
+Net flows 
+Interest payments 
+Net transfers 
+
+0 
+5 
+0 
+4 
+2 
+3 
+
+0 
+1 
+7 
+-6 
+6 
+-13 
+
+0 
+4 
+4 
+0 
+2 
+-2 
+
+0 
+4 
+5 
+-1
+2
+-3
+
+A- IBRD 
+B- IDA 
+C - IMF 
+
+E - Bilateral
+F - Private
+G - Short-term
+
+D- Other multilateral 
+
+Development Economics 
+
+9/17199
+
+°
+- 46 -
+
+Micronesia, Fed. Sts. at a glance 
+
+Annex 2
+
+9/23/99
+
+East 
+Micronesia. Asia & 
+Fed. Sts. 
+Pacific~ income 
+
+rmiddle- 
+
+;Low.r
+
+~990 
+
+0.11 
+I.0 zo 
+0.20 
+
+1.817 
+
+1 02 
+
+90 
+1710
+1.557 
+
+--- 
+
+Development diamond'
+
+Life expectancy
+
+POVERTY and SOCIAL 
+
+(minilions) 
+
+1998
+Pooulatio6, ~mid-vear 
+GNP cer caoita (Atlas4methC4, US$) 
+GNP (Alas method, US$ biflions)~ 
+Avers annual arowth. 19912-98
+
+Pooulation (96) 
+Labor force (%l 
+
+Most rvoentesthnate flatestvesr avaiwable. 199281 
+Poverty (3 of ooolatiorr below national coverifv line)
+Urban co6tulatioft (9% of total ooouLet/on) 
+Life exoectancv at 1With (vears) 
+infant mortalitvADoe 1.000 live births) 
+Child malnutrition PA6 of childmen un,der 87. 
+Access to safe water 1% pfOoculalion) 
+illiteracy (% of oooulatidniao0 
+Gross orimarv enroliment( Ofl soolft 
+Male 
+Female: 
+
+ooq aioq 
+
+KEY ECONOMIC RATIOS and LONG-TERM TRENS
+1977 
+
+GDP (US$ billions) 
+
+Gross domesticJnvestrnnflarGP 
+Exowrts af coods and services/GOPTrd
+Gross domestic savinos/GDP
+Gross national savi-nos/GOP
+
+20 
+
+29 
+87 
+30 
+
+22 
+
+.
+
+1.2 
+1,6 
+
+1.1
+1~ 
+
+GNP 
+per 
+caiaerlmn
+
+Grs
+primary
+
+35 
+69 
+37 
+20 
+77 
+is). 15 
+117 
+i 11 
+116 
+
+Ss6
+66
+38
+
+..
+
+75
+1
+10iroes,Fd.Ss
+10.5 
+:100
+
+Access to safe water
+
+Lowe r-middle4nrrome group
+
+1967 
+
+1997 
+
+1998-
+
+021 
+
+0.21
+
+Economic ratioe
+
+Trd
+
+.. 
+
+30.& 
+
+31.4 
+
+Domestic 
+
+/ 
+
+SvnsIvsmn
+
+nvsmn
+
+C,urrenteccount balance/GOP 
+Interest oavments/GbP1.Saig 
+Total debtIGDP 
+Total debt service/exoorts
+Present value of debtlGDP;
+Present value of debt/exoorts
+
+(everaca annual oroWthl
+GOP 
+GNP oer caoita 
+Exoorta of ogods end services
+
+STRUCTURE of the ECONOMY
+
+(Y. of GOP) 
+
+AoricultLure 
+lndustrv4
+Manurfactufino 
+
+Services 
+
+Private consumotion 
+General covemment consumotion 
+lmoorts of ooods and services 
+
+(averaae annual aomwthl
+Acriculture
+Industrv
+Manufacturino 
+Services
+
+Private c-onsumoton
+General aovemment consumnotion
+Gross domestic investment
+I mDorts of aoods and servies
+Gross national Droduct 
+
+1977497 1966-98g 1997 
+
+1998 199-03
+
+Indebtedness
+
+.. 
+
+03 
+-3 
+
+-4 0 
+-6 
+
+-3.1 
+-4. 
+
+i~ 
+
+"Micronesia, Fed. Sts.
+Lower-middle-/ncome group
+
+~ ~~~~1977 
+
+1987 
+
+1997 
+
+1998 
+
+Growth rates of output and investment (%1)
+
+93 
+
+'r 
+
+93 
+
+93
+
+OU3/
+
+.4 
+
+-e
+
+''GOl 
+
+-- GDP
+
+1977-87 1988-98 
+
+1997 
+
+1998
+
+.
+
+-0.2 
+
+-4.0 
+
+-3.1
+
+Note:, 1996 data are preliminary estimates.
+The diamonds show tour key indicatora in the country (in bold) comoared with its inicome-aroUD averaae. If data are missina, the diamond will
+be incomolete.
+
+- 47 -
+
+Annex 2
+
+Micronesia, Fed. Sts.
+
+PRICES and GOVERNMENT FINANCE
+
+1977 
+
+1987 
+
+1997 
+
+1998 
+
+Inflation (/.)
+
+Domestic prices
+(6 change) 
+Consumer prices 
+Implicit GDP deflator 
+Government finance 
+(% of GDP, includes current grants) 
+Current revenue 
+Current budget balance 
+Overall surplus/deficit 
+
+8 T
+
+.
+
+.
+
+3.0 
+3.0 
+
+3.0 
+3.0 
+
+6
+4
+
+.. 
+
+.. 
+
+2
+
+o
+
+.. 
+
+.. 
+
+73.8 
+
+75.7 
+
+93 
+
+94 
+
+95 
+
+95 
+
+97 
+
+98
+
+.. 
+.. 
+
+.. 
+.. 
+
+15.0 
+
+23.5 
+0.3
+
+- GDP deflator C
+
+1.5 
+
+TRADE
+
+(US$ millions) 
+Total exports (fob) 
+
+1977 
+
+1987 
+
+1997 
+
+1998 
+
+Export and Import levels (USS millions)
+
+.
+
+.. 
+
+33 
+
+32 
+
+300
+
+n.a.
+
+n.a. 
+
+DD
+
+Manufactures 
+Total imports (cif) 
+
+..
+
+109 
+
+107
+
+Food 
+
+.
+
+J.L
+
+Fuel and energy 
+Capital goods 
+
+..
+
+.. 
+
+.
+
+.
+
+.
+
+o- 
+
+, 
+
+;_ 
+
+_ 
+
+_
+
+92 
+
+93 
+
+94 
+
+95 
+
+99 
+
+97 
+
+99
+
+Exoort orice index (1995=100)
+Imoort oice index (1995=100) 
+Terms of trade (1995=100) 
+
+.. 
+..
+
+.. 
+
+.. 
+
+.. 
+
+flExports 
+
+*lmporls
+
+BALANCE of PAYMENTS
+
+(US$ millions) 
+
+1977 
+
+1987 
+
+1997 
+64 
+
+1998 
+62 
+
+Current account balance to GDP ratio(%)
+
+Exports of goods and services 
+Imports of goods and services 
+
+.. 
+
+.. 
+
+40
+
+.. 
+
+.. 
+
+118 
+
+115
+-53 
+1 
+
+Resource balance 
+Net income 
+
+.. 
+
+.. 
+
+-54 
+1 
+
+130
+
+.
+
+20
+
+Net current transfers 
+
+t 
+
+t 
+67 0. _, 
+
+116 
+
+118 
+
+E h lE 
+
+i
+
+Current account balance 
+
+64 
+
+al 
+
+Financing items (net) 
+
+.. 
+
+-56 
+
+-51 
+
+92 
+
+93 
+
+94 
+
+95 
+
+96 
+
+97 
+
+98
+
+Changes in net reserves 
+
+.. 
+
+-8 
+
+-16 
+
+-1
+
+Memo:
+Reserves includina oold (US$ millions) 
+Conversion rate (DEC. local/IUSS) 
+
+.. 
+
+.. 
+1.0 
+
+46 
+
+62
+
+.. 
+
+1.0 
+
+1.0
+
+EXTERNAL DEBT and RESOURCE FLOWS
+
+1977 
+
+1987 
+
+1997 
+
+1998
+
+(US$ millions)
+Total debt outstanding and disbursed 
+IBRD 
+IDA
+
+..
+..
+
+Total debt service 
+IBRD 
+IDA
+
+..
+..
+
+Composition of net resource flows
+Official grants 
+Official creditors 
+Private creditors 
+Foreign direct investment 
+Portfolio equity 
+
+..
+..
+..
+..
+..
+
+World Bank program
+Commitments 
+Disbursements 
+Principal repayments
+Net flows
+Interest payments 
+Net transfers
+
+..
+..
+
+..
+
+Development Economics 
+
+9123/99
+
+-48 -
+
+Annex 2
+
+Kiribati at a.glance 
+
+92J9
+
+East Lower.
+Asais& middle--- 
+Kiribati Pacific 
+income 
+
+POVERTY and SOCIAL 
+
+-.
+
+Development diarrond'
+
+1998
+Pooulation. mid-year (milhionsl 
+GNP oer caoita (Atlas method. USSI 
+GNP (Atlas method. US$ billions) 
+Averacs annual orovAh. 1992-98
+
+0.09 
+1.180 
+0 10 
+
+1.817 
+990 
+1 802 
+
+908 
+1.710
+1.~557
+
+Life expectancy
+
+PoDulation (%l) 
+Labor force (VP). 
+
+71 
+
+1.2 
+1.8 
+
+1 1 
+1.5 
+
+/
+
+GNP 
+per 
+capita 
+
+-Gross
+
+.. 
+
+primary
+enrollment
+
+Most recent estimate (latestveer available. 1992-981 
+Povervt!y.( of Dooouaton below natinal ooverty' line)
+Urban oooulation t% of total oooulatlonl 
+Life exoethancv at birth (veers) 
+lrrfantroratlity (oarl, 000 live births) 
+Child malnutrition (%6 of cVidren under 51 
+Accessato We water (%/ofoowatdaionl 
+Illiteracy (% of Doooulation ace 15+1 
+Gross orimary enrollment (1,1 ofschool-aeoenoou/atonl 
+Male 
+Femriale 
+
+/ 
+
+37 
+60 
+Ei0 
+
+35 
+89 
+37 
+20 
+77 
+1 
+117 
+119 
+11e 
+
+58
+68
+38
+
+.Access 
+
+to safe water
+
+100 
+
+75
+14
+103 
+105 
+100
+
+.
+
+-P'qKirbatf
+Lower-middle-income group
+
+.. 
+
+KEY ECONOMIC RATIOS and LONG-TERM TREN4DS
+1977 
+
+1987 
+
+1997 
+
+1998 
+
+-
+
+_ 
+
+Economic ratios'
+
+GOP (USS bill/ansI 
+Gross domestic investment/GOP 
+ExDorts of aoods and services/GOP 
+Gross domestic savinosGDP 
+Gross nationl savinos/GOP 
+
+0.04 
+8 4 
+55,8 
+24.0 
+
+0,02 
+70.2 
+!.3
+-35.0
+
+0.05 
+
+0.05
+-Trade
+
+.
+
+Current account balancelGOP 
+Intwrest oavmertstaGDP 
+Total debt/GDP 
+Total debt service/exrcorts 
+Present value of debt/GDP 
+Present vailue of debt/excorts
+
+.. 
+
+.
+
+7.4 
+0 0 
+
+25.9 
+00 
+
+Dometic
+
+0.0 
+0.0 
+
+4.0 
+6881 
+57 
+
+nvsrnn
+Ivsmn
+
+Savins 
+
+.
+
+.
+
+.
+
+I
+
+Indebtedness
+
+1977-87 1988-98~ 1997 
+
+1998 11999-03
+
+(averece annual cr0wth)
+GDP 
+GNP cer caoita 
+ExDorts of coods and services
+
+-8.3 
+0.5 
+
+24 
+-02Q 
+
+3.3 
+
+8.1 
+
+Klrtibati
+Lower-middle-rincomegru
+
+.
+
+STRUCTURE of the ECONOMY
+
+1977 
+
+1987 
+
+1997 
+
+1998 
+
+Growth rates of output and investment(%
+
+1%/ of GDP)
+Aariculture 
+Industrv 
+Manufacturina 
+Services 
+
+-. 
+
+25.1 
+10.5 
+2.2 
+84.4 
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+-. 
+
+.. 
+
+.
+
+Private consumDtion 
+General covemment conSUMDtion 
+Imoorts of noods and services 
+
+49.0 
+27.0 
+38.2 
+
+86.4 
+48.6 
+114.5GD 
+
+.
+
+..
+
+93 
+
+94 
+
+95 
+
+94 
+
+97 
+
+98
+
+~Gl 
+
+~ 
+
+D
+GP
+
+-' 
+
+1977-87 1988-98 
+
+1997 
+
+1998
+
+(averaoe annual orowthl
+Aoriculture 
+Industrv 
+Manufacturina 
+Services 
+
+-1.3 
+3.2 
+-0.4 
+-3.1 
+
+-0.8
+-2.5
+1.0
+2.6
+
+Private consumotion
+General aovemment consumotion
+Gross domestic investment
+(moorts of 3ooods and services
+Gross national Droduct 
+
+2.9 
+
+1.8
+
+Note: 1998 data are preliminary estimates.
+The diamonds show tour key indicators in the countrv (in bold/ comoared with its income-orouD averaeo. If data are missino. the diamond will
+be incomolete.
+
+- 49 -
+
+Annex 2
+
+Kiribati
+
+PRICES and GOVERNMENT FINANCE
+
+1977 
+
+1987 
+
+1997 
+
+1998 
+
+Inflation (/)
+
+Domestic prices
+
+(% change) 
+
+15
+10
+s
+
+Consumer pnces 
+lmplicitGDPdeflator 
+
+.. 
+
+2.2 
+-1.5 
+
+4.7 
+3.5 
+
+8.9 
+
+4.8 
+
+Government finance 
+(% of GDP, includes current grants) 
+Current revenue 
+Current budget balance 
+Overall surplusldefict 
+
+o
+
+93 
+
+94 
+
+95 
+
+98 
+
+97
+
+.. 
+
+.. 
+
+122.8 
+47.2 
+6.3 
+
+137.0 
+64.5 
+24.0
+
+.-5
+
+[ 
+
+_GDP 
+
+deflator 
+
+*CPI
+
+.. 
+
+.. 
+
+TRADE
+
+(US$ millions) 
+
+1977 
+
+1987 
+
+1997 
+
+1998 
+
+Export and import levels (US$ millions)
+
+Total exports (fob) 
+
+.. 
+
+.. 
+
+7 
+
+6 
+
+40
+
+Copra 
+
+3.
+0
+
+Fish 
+Manufactures 
+Total imports (cif) 
+Food 
+
+.. 
+
+.
+
+,. 
+
+..
+.. 
+.. 
+
+.. 
+.. 
+
+37
+.
+
+29 
+
+0
+
+Fuel and energy 
+Capital goods 
+
+.
+
+o 
+
+.
+
+.
+
+..
+
+Exoort owce index (1995=100) 
+Imoort once index (1995=100) 
+
+92 
+
+93 
+
+.
+
+..
+
+a Exports 
+
+lnrlports
+
+Terms of trade (1995=1 001
+
+BALANCE of PAYMENTS
+
+(US$ millionsl 
+
+1977 
+
+1987 
+
+1997 
+
+1998 
+
+Current account balance to GDP ratio (°)
+
+Exports of goods and services 
+Imports of goods and services 
+Resource balance 
+
+32 
+58 
+-26 
+
+44 
+60
+-16 
+
+40 T
+
+.. 
+.. 
+
+.. 
+.. 
+
+3
+
+Net income 
+
+.. 
+
+.. 
+
+13 
+17 
+
+13 
+
+20
+
+Net current transfers 
+
+.
+
+.. 
+
+1 5
+
+Current account balance 
+
+17 
+
+54 
+
+12
+
+Financing items (net) 
+Changes in net reserves 
+
+., 
+
+.. 
+
+4 
+-7 
+
+12 
+-24 
+
+92 
+
+93 
+
+94 
+
+97 
+
+98
+
+.
+
+-1 
+
+-o
+
+Memo:
+Reserves incdudina oold (USs millions) 
+Conversion rate (DEC. locaLWUS$) 
+
+.. 
+
+.
+
+323 
+1.3 
+
+370
+1.6
+
+0.9 
+
+1.4 
+
+EXTERNAL DEBT and RESOURCE FLOWS
+
+1977 
+
+1987 
+
+1997 
+
+1998
+
+(US$ millions)
+
+Total debt outstanding and disbursed 
+IBRD 
+IDA 
+
+0 
+0 
+0 
+
+17
+0 
+0 
+
+0 
+0 
+
+0
+0
+
+Total debt service 
+IBRD 
+IDA 
+
+0 
+0 
+0 
+
+1
+0 
+0 
+
+0 
+0 
+
+0
+0
+
+Compositon of net resource flows
+Official grants 
+Olfidal creditors 
+Private creditors 
+Foreign direct investment 
+Portfolio equity 
+
+4 
+0 
+0 
+0 
+0 
+
+10
+0
+0
+0
+0
+
+World Bank program
+Commitments 
+Disbursements 
+Principal repayments 
+Net flows 
+Interest payments 
+Net transfers 
+
+0 
+0 
+0 
+0 
+0 
+0 
+
+0 
+
+0 
+0 
+0 
+0 
+0 
+0 
+
+0
+0
+0
+0
+0
+0
+
+0 
+
+0 
+0 
+0 
+0 
+
+Development Economics 
+
+9/22/99
+
+- 50 -
+
+Annex 2
+
+Marshall Islands at a glance9229
+
+East Lower-
+Marshall; Asia & mtddle. 
+Islands PacifIc Income 
+
+POVERTY and SOCIAL 
+
+---
+
+Development diamond'
+
+¶998
+Populalion, mid-year 1'milllons) 
+GNP per capta (Adeasmethod, US$) 
+
+0.06 
+
+1.817 
+990 
+
+908 
+1,710
+
+Life expectancy
+
+I1.540 
+
+GNP (Atias method, US bm* 
+
+1 
+
+1,802 
+
+57
+
+Average annual growfth 1992.98
+
+Population (5)1.2 
+Labor force (%6) 
+most recent estimate (latest year available, 1992.98)caiaerlmn
+
+1.1 
+1.5 
+
+GN
+GPGross
+per 
+
+6 
+
+primary
+
+Poverty (56OA ouainblwntoa 
+
+oef 
+
+line)
+
+Urban population (56 of lotal population) 
+Life expectancy at birth (years) 
+Infant mortality per 1,000o 
+Ch IlId mnalnutrition ('A of children) under 8) 
+Access to safe water (56 of populatioN) 
+Illiteracy (56 of populafion.age 15+) 
+Grossprimry enrollmient (% of schoo-ae pultn)17 
+Male 
+Female 
+
+35 
+
+58
+68W
+38
+
+69 
+37 
+20; 
+71 
+15 
+
+live bult hs) 
+
+Access to safe water
+
+75
+103 ~ 
+14
+105 
+¶00-
+
+.. 
+
+"-~Marshall Islands
+Lower-middle-income 
+group
+
+.. 
+
+119 
+1is 
+
+KEY ECONOMIC RATIOS and'LONG-TERM TRENDS
+
+1977 
+
+19871 
+
+1997' 
+
+1998 
+
+------ 
+
+-- 
+
+-
+
+Economic ratios'
+
+GOP (UJS$ billions) 
+
+00 
+
+0 
+
+01
+
+Gross domestic investment/GOPTrd
+Fxports of goods and servicesIGOPTrd
+Gross domestiasavings/GDP
+Gross national savingelGDP
+Current account balance/GOP 
+Interest payments/GOP 
+Total debt/GDPSaig
+Total deot serviceexports
+Present value of debt/GOP
+Preset value of debtlexports
+
+16.9 
+
+22.2 
+
+Domestic
+
+Investment
+
+Indebtedness
+
+1977417 188611-9811 1997 
+
+1998 1.999-03
+
+(average annual growth)
+
+GOP 
+GNP per capita 
+Exports of goods and services
+
+.
+
+09 
+
+-
+
+5,0 
+-9 5 
+
+~MrhlIsads
+
+..
+
+Lower-middle-income 
+group
+
+STRUCTURE of the ECONOMY
+
+1977 
+
+1987 
+
+1997 
+
+1998 
+
+Growth rates of output and investment (%)
+
+(5/6 of GDP) 
+Agriculture 
+Industry 
+Manufacturing 
+Services 
+
+10
+
+.
+
+.. 
+
+14.8 
+11.9 
+2.3 
+73.3 
+
+T.
+
+.
+
+.
+
+..
+
+.
+
+.
+
+..
+
+93 
+
+94 
+
+95 
+
+5
+
+.
+
+.. 
+
+-. 
+
+-
+
+Pr'ivate consumption 
+General govemment consumption 
+Imports oyf goods and services 
+
+.
+
+.
+
+.
+
+.. 
+
+-20
+
+-. 
+
+GDI 
+
+-4OGDP
+
+.
+
+1977-87 1988-98 
+
+1997 
+
+1998
+
+(average annual growth)
+
+Agricufture
+Industry
+Manurfacturing
+Services
+
+Private consumption
+General govemment consumption. 
+Gross domestic investment 
+Imports of goods and services
+Gross national product 
+
+-
+
+-- 
+
+.
+
+.. 
+
+-3.1 
+
+-5.3 
+
+-5.0
+
+Note: 1998 data are preliminary estimnates.
+The diamonds show four key indicators in the country (in bold) compared with its income-group average. If data are missing, the diamond will
+be incomplete.
+
+- 51 -
+
+Annex 2
+
+Marshall Islands
+
+PRICES and GOVERNMENT FINANCE
+
+1977 
+
+1987 
+
+1997 
+
+1998 
+
+I lnfladon ()
+
+Domestic prices
+
+(% change)
+Consumer prices 
+Implicit GDP deflator 
+
+4.8 
+4.8 
+
+4.0 
+4.0
+
+Government finance
+(% of GDP, includes current grants) o
+
+Current revenue 
+
+66.8 
+
+66.5 
+
+93 
+
+94 
+
+95 
+
+99 
+
+97 
+
+99
+
+Current budget balance 
+Overall surplus/deficit 
+
+18.4 
+3.9 
+
+16.2 
+5.2
+
+-GDP 
+
+deflator 
+
+¢ CPJ
+
+.. 
+
+.. 
+
+TRADE
+
+(US$ millions) 
+
+1977 
+
+1987 
+
+1997 
+26 
+25
+3 
+
+1998 
+22 
+
+Export and Import levels (US$ millIons)
+
+Total exports (fob) 
+Fish 
+Coconut oil 
+Manufactures 
+Total imports (cif) 
+Food 
+Fuel and energy 
+Capital goods 
+Exmort Doce index (1995=100) 
+ImDort orice index (1995=100) 
+Terms of trade (1995= 100)
+
+IDO
+
+.. 
+
+75
+
+.. 
+
+..
+
+62 
+15 
+14
+6 
+
+56 
+
+s 
+
+2.
+
+ol
+
+92 
+
+93 
+
+94 
+aExprt 
+
+95 
+
+9s 
+
+97 
+
+98
+
+.. 
+
+.. 
+
+*Imports
+
+BALANCE of PAYMENTS
+
+(USS millions) a 
+
+v77 
+
+1987 
+
+1997 
+
+1998 
+
+Current account balance to GDP ratio (%)
+
+Exports of goods and services 
+Imports of goods and services 
+Resource balance 
+
+.. 
+
+.. 
+
+42 
+91 
+-50 
+
+36 
+82 
+-46
+
+25T
+
+.. 
+
+.. 
+
+20
+
+Net income 
+Net current transfers 
+
+20 
+47 
+
+20
+47 
+
+10
+
+Current account balance 
+
+16 
+
+21
+-24 
+
+Financing items (net) 
+
+-18 
+
+9 
+
+9
+
+Changes in net reserves 
+
+.
+
+.. 
+
+1 
+
+3 
+
+l5 92 
+
+93 
+
+94 
+
+95 
+
+9s 
+
+97 
+
+03
+
+Memo:
+Reserves includino cold (USS millions) 
+Conversion rate (DEC. localMUSS) 
+
+.. 
+.. 
+
+.. 
+
+7 
+1.0 
+
+4
+1.0
+
+1.0 
+
+EXTERNAL DEBT and RESOURCE FLOWS
+
+1977 
+
+1987 
+
+1997 
+
+1998
+
+(USS millions)
+Total debt outstanding and disbursed
+IBRD
+IDA
+
+Total debt service
+IBRD
+IDA
+
+Compositon of net resource flows
+Official grants 
+Official creditors 
+Private creditors 
+Foreign direct investment 
+Portfolio equity 
+
+..
+..
+.. 
+.
+..
+
+.. 
+
+.
+
+.
+
+World Bank program
+Commitments
+Disbursements
+Principal repayments
+Net flows
+
+lnterestpayments
+
+Net transfers
+
+Development Economics 
+
+9122/99
+
+- 52 -
+
+Palau at a glance 
+
+Annex 2
+
+9/22/99
+
+POVERTY and SOCIAL 
+
+.Asia 
+
+1998
+Population. mid-year (millions) 
+GNP per capita (A1as metfod, USS)i 
+GNP (Atlas method, U/S$ billions) 
+Average anniual growth,119$2-98
+Populatin ()2.5 
+Labor force( 
+Most recant estimiate (latest year avaHlable, 1992-98) 
+
+.
+
+Poverty (% of population be/ow national povery line)
+Urban population (% of ltotarpopul at/on). 
+Life expectancy at birth (years) 
+Wnant mortality (per 1,1.000fivye births) 
+Child malnutriton (% ofchildren undfe,r ) 
+Access to safe water (56 of population) 
+Illlitracy (% ofpopulation age; 15+) 
+Gross primary enrollment (% of schoo/-age population) 
+male 
+
+East Upper-
+& middle~---
+Palsot PacIfI 
+inicome 
+
+.0 
+
+1.817 
+990 
+1,~802 
+
+588~ 
+
+4,860
+
+2,862
+
+Development dlamond'
+
+Life expectancy
+
+1.2 
+
+1.4:
+
+2,6 
+
+.
+
+GNP 
+per 
+capita 
+
+Gross
+primary
+erlmn
+
+7 
+25 
+
+.. 
+
+100 
+
+.. 
+
+.
+
+35 
+6 9 
+37 
+20 
+77 
+is 1 
+117 
+110 
+
+77
+70
+27
+
+.,Access 
+
+70
+11
+108 
+
+to safe water
+
+-Palau
+Upper-middle-income group
+
+KEY ECONOMIC RATIOS and LONG-TERM"TRENDS
+
+1977 197 
+
+,, 
+
+.
+
+1907 
+
+0 3 
+
+1998 
+
+0,13'-
+
+Economic ratios'
+
+-__
+
+Trade
+
+16.6 
+
+13.2 
+
+Dmsi
+
+.SvnsInvestment
+
+197747 1963-98 
+
+1997 
+
+1998 1999-03
+
+Indebtedness
+
+.
+
+-Palau
+Upper-middle-income group
+
+,
+
+1977 
+
+1987 
+
+1997 
+
+1998
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+-
+
+1977-87 1988-98 
+
+1997 
+
+1998
+
+.
+
+.
+
+.
+
+.
+
+-
+
+.
+
+.
+
+.
+
+0.8
+
+GOP (US$ billions) 
+Gross domestic investment/GOP 
+Exports of goods and services/GOP
+Gross domestic savings/GOP
+Gross national savings/GDP 
+Currnt account batince/GQP 
+inerest payments/GOP 
+Total debt/GOP
+Total debt service/exports]
+Present value of debt/GDP
+Present value. of debt/exports
+
+.
+
+(average annua/ grawth)
+GOP 
+GNP per capita 
+Eixports of goods and services 
+
+STRUCTURE ot the ECONOMY
+
+(96 of GDP)
+Agriculture 
+Industry 
+Manufacturing 
+Services 
+Private consumption 
+General govemment consumption 
+Imports of goods and services 
+
+(average annual growth)
+Agriculture 
+Industry 
+Manufacturing 
+Services 
+Private consumption 
+General govemment consumption 
+Gross domestic investment 
+Imports ot goods and services 
+Gross national product 
+
+Note: 1998 data are preliminary estimates.
+The diamonds show four key indicators in the country (in bold) compared with its income-group average. If data are missing, the diamond will
+be incomplete.
+
+- 53 -
+
+Annex 2
+
+Palau
+
+PRICES and GOVERNMENT FINANCE
+
+1977 
+
+1987 
+
+1997 
+
+1998
+
+Domestic prices
+(% change)
+Consumer prices 
+Implicit GDP deflator
+
+..
+
+Government finance
+(% of GDP, includes current grants)
+Current revenue 
+Current budget balance 
+Overall surplus/deficit 
+
+.. 
+.. 
+.. 
+
+.. 
+.. 
+.. 
+
+55.1 
+10.7 
+0.2 
+
+56.8
+14.4
+5.9
+
+TRADE
+
+(US$ millions) 
+
+1977 
+
+1987 
+
+1997 
+
+1998 
+
+Export and import levels (USS millions)
+1o
+
+Total exports (fob) 
+n.a.
+
+.. 
+
+.. 
+
+12 
+
+11 
+
+n.a. 
+
+7
+
+Manufactures 
+Total imports (cif) 
+
+.
+
+7|
+
+91 
+
+79 
+
+j j
+
+Fuel and energy 
+
+..
+
+Capital goods 
+
+.. 
+
+.. 
+
+.. 
+
+..
+
+92 
+
+93 
+
+94 
+
+95 
+
+9S 
+
+97 
+
+98
+
+Export price index (1995=100) 
+
+..
+
+Import price index (1995=100) 
+
+.. 
+
+.. 
+
+., 
+
+,. 
+
+GExports 
+
+RsImports
+
+Terms of trade (1995=100) 
+
+..
+
+BALANCE of PAYMENTS
+
+(US$ millions) 
+
+1977 
+
+1987 
+
+1997 
+73 
+
+1998 
+69 
+
+Current account balance to GDP ratio
+
+Exports of goods and services 
+
+.. 
+
+.. 
+
+30
+
+Imports of goods and services 
+
+.. 
+
+.. 
+
+93 
+
+81
+
+Resource balance 
+
+.. 
+
+.
+
+-20 
+
+-12 
+
+20
+
+Net income 
+
+.. 
+.. 
+
+.
+.. 
+
+18 
+24 
+
+7 
+
+10
+
+Net current transfers 
+
+22 
+
+o.i
+
+Current account balance 
+
+.. 
+
+.. 
+
+22 
+
+17 
+
+92 
+
+93 
+
+94 
+
+96 
+
+97 
+
+9g
+
+-10 
+
+Financing items (net) 
+
+.
+
+.
+
+-25 
+
+-13
+-4 
+
+Changes in net reserves 
+
+.. 
+
+.. 
+
+3 
+
+-201
+
+Memo:
+Reserves including gold (US$ millions)
+Conversion rate (DEC, locatWUS$) 
+
+1.0 
+
+1.0 
+
+1.0 
+
+1.0
+
+EXTERNAL DEBT and RESOURCE FLOWS
+
+1977 
+
+1987 
+
+1997 
+
+1998
+
+(US$ millions)
+Total debt outstanding and disbursed 
+lBRD
+IDA
+
+..
+
+Total debt service
+IBRD
+IDA
+
+Composition of net resource flows
+Offidial grants 
+Official creditors 
+Private creditors 
+Foreign direct investment 
+Portfolio equity 
+
+..
+..
+..
+..
+..
+
+World Bank program
+
+Commitments 
+
+..
+
+Disbursements 
+Principal repayments 
+
+..
+..
+
+Net flows 
+Interest payments 
+Net transfers 
+
+..
+.. 
+.. 
+
+..
+..
+
+Development Economics 
+
+9/22/99
+
+- 54 -
+
+Annex 2
+
+Samoa at a glance9129
+
+Eat Lower-
+Asia & middle- 
+pacit 
+incom 
+
+POVERTY and SOCIAL 
+
+-
+
+---
+
+__
+
+iSamoa 
+
+Dvlopment diamond*
+
+Pooutation. mid-year (millions) 
+
+al 18 
+
+1.1 
+990 
+
+988 
+1,710
+
+Life expectancy
+
+GNP oer caalta (Atlas method. USS) 
+GNP (Atlas method. US$ tbilions) 
+
+1 020 
+
+0.18 
+
+1 ~802 1.557
+
+Averace annu al orwftI 1992-98
+
+PoDulation M%l 
+Labrfore (%o) 
+
+1.2 
+
+1.2 ~1.1
+
+1,6 
+
+1.5 
+
+GNP 
+per 
+
+Gross
+primary
+
+most recent estimat (latestyear wavalable. 1992981 
+Poverty 1% of oDoUlation below national oovettv line)
+Urban Docvlation (% of totatbooOuation) 
+
+capita 
+
+enrollment
+
+21 
+60 
+22 
+
+35 
+69 
+37 
+20 
+77 
+I15 
+117 
+119 
+118 
+
+58
+68,
+38
+
+Life exoectanwv at birth (vears) 
+Infantn-mortality (oer 1,000lle,birth 
+ChOdrmalnutrtion 1Y.of childre-nunder 5) 
+Accesstosofa waterf% of Dooufaffon)l 
+llliterav (% of oDoulation ace 15+) 
+Gross orminav enrollment PA ot'school-aoe ooulatidn) 
+Male 
+Female 
+
+.. 
+
+Access to safe water
+
+68 
+
+75
+14
+
+.. 
+
+103 
+106 
+100 
+
+- Sa 
+
+a
+
+11005 
+100
+
+Loawmeor-middle-income 
+group
+
+KEY ECONOMIC RATIOS and LONG-TERM TRENDS
+1977 
+
+198? 
+
+1997 
+
+199 
+
+-
+
+.
+
+-
+
+Economic ratios'
+
+GDPWS(WSt/lr)~ 
+
+, 
+
+0.1 
+35.2Trd
+18,2 
+-15.3
+33.3
+
+0.19 
+
+0,18
+
+Gross domesticinvestment/GOP, 
+
+Exoorts of aoods and services/GOP 
+Gross domestic savinca/GDP 
+Gross nationa sawirroaGDP 
+
+.
+
+32,6 
+
+36.3
+
+,. 
+
+.. 
+
+current account balancelGDP 
+Interest oavmnwts/GDP 
+Total debt(GDP 
+Total debt serice/exoorts 
+Present value of debtIGOP 
+Present value orf cdebtlexoorts 
+
+.. 
+
+7.2 
+1,3 
+78.8 
+¶1,7 
+
+4.7 
+0. 
+815 
+5.9 
+40.7 
+91.7
+
+11.4 
+0A,8 
+171I 
+5.6
+
+lomstic 
+SvnsIvsmn
+ai
+
+ivsmn
+
+.
+.. 
+
+13.0 
+
+.
+
+.. 
+
+.
+
+.
+
+.
+
+Inrdebtedness
+
+1977-87 11988-98 1997 
+
+1998 
+
+999-03
+
+(avew,e annual aomwth)
+GOP 
+GNP oe caoita 
+Exoorts of ocods and services 
+
+401 
+1.6 
+1,7 
+
+1.1 
+0.0 
+
+1.6 
+0.4 
+-7.1
+
+1.3 
+0.1 
+
+Samoa
+
+.Lower-middle-income 
+
+group
+
+.. 
+
+STRUCTURE of the ECONOMY
+
+1977 
+
+1987 
+
+1997 
+
+1998 
+
+Growth rates of output and investment (%/)
+
+1% of GDP) 
+Aariculture 
+Industrv 
+Manufacturino 
+Services 
+
+1
+
+.. 
+
+.
+
+17.3 
+2.8 
+
+16.6
+2.
+
+..
+
+.
+
+.. 
+
+.
+
+6095. 
+
+se 
+
+97 
+
+98
+
+Private consumDtion 
+General covemmrent consunmDtion 
+Imoorts of coods and services 
+
+.. 
+
+95.5 
+19.9 
+68.8 
+
+.
+
+.. 
+
+-10
+
+.. 
+
+-GD 
+
+-'O'GDP
+
+.. 
+
+54.3 
+
+52.8
+
+1977-87 1988-98 
+
+19197 
+
+1998
+
+(averace annual orowthl
+Aoriculture 
+
+.. 
+
+.
+
+-8.2
+-3.6
+-5 5
+7.5
+
+Industrv 
+
+.. 
+
+.
+
+Manufactudna 
+Services 
+
+.
+
+.
+
+.. 
+
+Private consumotion 
+General aovernment consumnotion 
+Gross domestic investmient 
+Imoorts of aoods and services 
+Gross national oroduct 
+
+1.2
+-5.8
+-7.3
+-2.6 
+1.7 
+
+.
+
+-6.2
+1.6 
+
+1.2 
+
+1.3
+
+Note: 1998 data are preliminary estimates.
+The diamonds show four key indicators in the countrv (in bold) comoared with its income-orouo averaae. If data are tossina, the diamond wvill
+be incomrnlete.
+
+- 55 -
+
+Annex 2
+
+Samoa
+
+PRICES and GOVERNMENT FINANCE
+
+Domestic prices 
+
+(% change) 
+Consumer prices 
+Implicit GDP deflator 
+
+1977 
+
+1987 
+
+1997 
+
+1998 
+
+.. 
+
+.
+
+4.6 
+4.6 
+
+6.9 
+11.8 
+
+2.2 
+4.0 
+
+Inflation
+Inltn(%
+125 T
+
+2o
+
+- 56 -
+
+Annex 2
+
+Solomon Islands at a glance 
+
+9117/99
+
+East
+Asia & 
+PacIfic 
+
+POVERTY anid SOCIAL 
+
+Solomon 
+islands 
+
+Low- 
+income 
+
+-
+
+-- 
+
+-
+
+D-evelo-pme-nt di_am~o nd'
+
+Pooulation. mnid-vear (mnill jons1 
+GNP Der caoita (Atlas methocd. US$) 
+
+0.42 
+750 
+0.31 
+
+1.817 
+990 
+1.802 
+
+3.5115 
+520
+1.844
+
+Life expectancy
+
+GNP (Atlas method. U13$ billions) 
+
+Ave ace annual orowth. 1992.98
+
+Pooulation (% 
+3.1 
+Labor force (%) 
+3.1 
+Most recent estimate (latest vesr available. 19%2-98)catanrlmt
+Poverty (% of ocoulation below national ooverfv linel
+Urban ooou lation (% of total Doculationi) 
+Life exoectancv at birth (vesrsl 
+Infant mortalitv (Loer 1 .000 live births) 
+Child malnutrition (% of chIldre? tinder 51 
+Access to safe water (% of aotaulation) 
+
+1.2 
+1.8 
+
+1.7 
+1.9 
+
+GNP 
+per 
+
+Gross
+primary
+
+19 
+70 
+23 
+
+35 
+31
+e9 
+63
+37 ~ 69
+20 
+77 
+74
+15 
+32
+117 
+1 08 
+119 
+113Loinmegop
+¶18 
+-03
+
+.
+
+..
+
+Access to safe water
+
+64 
+
+Illiteracv (%/ of OODulatiOn aCo 154~. 
+
+Gross orimarv enrollment f% of schodl-ace 000 letlarnl 
+Male 
+Female 
+
+97 
+103 
+89 
+
+-Solomon 
+
+Islands
+
+KEY ECONOMIC RATIOS and LONG-TERM TRrENDS
+
+1977 
+
+1987f 
+
+1907 
+
+199$ 8- 
+
+--
+
+_____ 
+
+.
+
+Economic ratios*
+
+GDP (US$ billions) 
+Gross domestic investment/GDP 
+Exoorts of coods arnd services/GOP 
+Gross domestic savinosIGOP 
+Gross national savinos)GDP 
+Current account balance/GOP 
+Interest osyvments/GOP 
+Total debt/GDP 
+Toltl debt servicetexiaorts 
+Present value of debt/GOP 
+Present valve of debt/exoorts 
+
+0.06 
+
+0,16 
+34.0 
+52.8
+22.3
+44.6
+-2.8 
+1.3 
+S9.4 
+5.1 
+
+0. 7 
+
+0.30
+
+.. 
+
+.Trade
+
+.
+
+.. 
+
+.
+
+9.0 
+0.0 
+13.3 
+0,0 
+
+-10.2 
+0.3 
+36.3: 
+2.4 
+23.5
+374
+
+5.5 
+1.2 
+50.9 
+356
+
+Doetc 
+Savingsvestmen
+Saig
+
+neamt
+
+, 
+
+., 
+
+.
+
+.. 
+
+(averaae annual crowithI 
+
+978 
+7.4 
+3.1 
+8.8 
+
+989 
+3.9 
+0A4 
+
+97IIdbens
+-0 5 
+-3 5 
+
+GOP 
+GNP Der caoita 
+Exoorts of ocoods and services 
+
+-70O 
+-9.7 
+
+4,0 
+
+-~Solomon Islands
+-Low-income group
+
+1.0 
+
+.
+
+.
+
+STRUCTURE of the ECONOMY
+
+11977 
+
+1987 
+
+1997 
+
+1998 
+
+Growth rates of output end investment I%)
+
+(% of GDP) 
+Aoriculture 
+Industrv
+Manufacturina 
+Services 
+
+5
+
+.
+
+..
+
+9
+
+Private consumotion 
+General aovemment consumDtion 
+Imoorts of aoods and services 
+
+.. 
+
+47.9 
+29.8 
+64.5
+
+..-
+
+10 
+
+3 
+
+94 
+
+5 
+
+9
+
+.. 
+
+_GDI 
+
+-- *'-OP
+
+.
+
+1977-87 1988-98 
+
+1997 
+
+1998
+
+(averaae annual arowthl
+Acriculture
+Industrv
+Manufacturina
+Services
+Private consumDtion 
+General covermment consumtotion 
+Gross domestic investment 
+Imoorts of aoods and services 
+Gross national Droduct 
+
+2.2
+5.4
+2.2
+2.7
+5.8 
+
+3.7 
+
+-0.5 
+
+-7.0
+
+Note: 1998 data are preliminary estimates.
+-The diamonds show four key indicators in the country (in bold comoared with its income-arouc) aversae. If data are missino. the diamond will
+be incomnDlete.
+
+- 57 -
+
+Annex 2
+
+Solomon Islands
+
+PRICES and GOVERNMENT FINANCE
+
+1977 
+
+1987 
+
+1997 
+
+1998 
+
+Inflation (%)
+
+Domestic prices
+
+(% change) 
+
+15
+
+Consumer prices 
+Implicit GDP deflator 
+Government finance
+(% of GDP, includes current grants) 
+Current revenue 
+Current budget balance 
+Overall surplus/deficit 
+
+.. 
+
+11.0 
+
+8.1 
+9.7 
+
+12.0 
+12.3
+
+1
+
+8.6 
+
+.. 
+
+|
+
+23.0 
+-3.3 
+-4.9 
+
+24.5 
+1.7 
+0.1
+
+93 
+
+94 
+
+95 
+
+96 
+deflator -O-CPI
+
+97 
+
+98
+
+-1GDP 
+
+.
+
+.. 
+
+TRADE
+
+(US$ millions) 
+Total exports (fob) 
+Logs 
+Fish (frozen) 
+Manufactures 
+Total imports (cif) 
+
+1987 
+
+1997 
+174 
+80 
+17 
+20 
+209 
+
+1998 
+141 
+41
+
+Export and Import levels (USS millions)
+
+.. 
+
+.. 
+
+25D _
+
+200
+150
+
+147
+
+Foodmii
+
+Fuel and energy 
+Capital goods0
+
+l1
+
+Exportprice index (1995=100) 
+Import price index (1995=100) 
+Terms of trade (1995=100) 
+
+11392 
+92 
+123 
+
+93 
+94 
+rExports 
+
+96 
+97 
+u Imports
+
+98
+
+|. 
+
+.. 
+
+.. 
+
+122
+
+BALANCE of PAYMENTS
+(UJS$ millions) 
+Exports of goods and services 
+Imports of goods and services 
+Resource balance 
+Net income 
+Net current transfers 
+
+1977 
+36 
+39 
+-3 
+
+1987 
+84 
+119 
+-35 
+
+1997 
+231 
+302 
+-71 
+
+1998 
+191 
+206
+-15 
+
+Current account balance to GDP ratio (%)
+
+97
+
+4
+
+-4 
+13 
+
+T8 
+
+-
+
+7
+40 
+
+38 
+
+38 
+
+4 
+
+95 
+
+96 
+
+Current account balance 
+
+6 
+
+-5 
+
+-38 
+
+17 
+
+l4
+
+Financing items (net) 
+Changes in net reserves 
+
+1 
+-7 
+
+11 
+-6 
+
+32 
+6 
+
+4 
+-21 
+
+-8
+-12
+
+M-emo:
+Reserves including gold (US$ millions) 
+Conversion rate (DEC, local/USS) 
+
+.. 
+
+37 
+2.0 
+
+32 
+3.7 
+
+49
+4.8
+
+0.9 
+
+EXTERNAL DEBT and RESOURCE FLOWS
+
+1977 
+
+1987 
+
+1997 
+
+1998
+
+(US$ millions) 
+Total debt outstanding and disbursed 
+IBRD 
+IDA 
+
+Composition of total debt, 1998 (USS millions)
+
+9 
+0 
+0 
+
+98 
+0 
+10 
+
+135 
+0 
+30 
+
+153
+03
+33 
+
+1
+
+Total debt service 
+IBRD 
+O 
+IDA 
+
+0 
+
+5 
+
+6 
+
+7
+
+° 
+
+F: 45
+
+0 
+
+0 
+
+0 
+
+0
+
+Composition of net resource flows
+Official grants 
+Official creditors 
+Private creditors 
+Foreign direct investment 
+Portfolio equity 
+World Bank program 
+Commitments 
+Disbursements 
+Principal repayments 
+Net flows 
+Interest payments 
+Net transfers 
+
+10 
+0 
+0 
+4 
+0 
+
+34 
+14 
+0 
+11 
+° 
+
+16
+2 
+-4 
+22 
+° 
+
+14
+0
+
+E
+
+D: 9
+
+i
+
+0 
+0 
+0 
+0 
+0 
+0 
+
+0 
+1 
+0 
+1 
+0 
+1 
+
+0 
+3 
+0 
+2 
+0 
+2 
+
+0 
+2 
+0 
+2
+0
+1
+
+A IROE 
+B - IDA 
+C - IMF 
+
+- Bilateral
+D - Other mrltilateral F - Private
+G - Short-term
+
+Development Economics 
+
+9/17/99
+
+-9- 
+
+Annex 2
+
+Tonga at a glance 
+
+9/17/99
+
+East 
+Lowver-
+Asia & middle-- 
+Toncoa Pacific 
+Income 
+
+POVElRTYandSOCIAL 
+
+-
+
+Development diamond*
+
+PODUlaton. mid-vear (rnIllioSl 
+GNP oer cacita (Allas method, USSI 
+
+0,10 
+1.690 
+0.17 
+
+1,817 
+990 
+.1,802 
+
+90 
+1.710
+
+Life expectancy
+
+GNP (Atl.-S methoot US$ billions) 
+
+.
+
+-1,557
+
+Averace annual orowth, 1992-09
+Poculation I(%) 
+Labor force (%) 
+
+.
+
+03 
+
+1.2 
+1.8 
+
+11
+1.5~ 
+
+GNP 
+per 
+
+Gross
+primary
+nolmn
+
+most recent estimate tlatest vear available 199241caia. 
+
+Povertv (%/ of oooulaifon below national Dovertv ie
+
+Urban ocoulatiori (% of total coouletion) 
+Life exoectancv at birth (vears) 
+Infant mortalitv (ber 1.000 live b/rt/rsl 
+Child nialnutrition (% of children under 51 
+Access to safe water (% of Dooulat,on) 
+lltiterac (16. ofoooutaliein acre 15+1 
+Gross. onmarv enrollment i'6 of school-aoe ooua"tion) 
+Male 
+
+44 
+70 
+22 
+
+35 
+69 
+37 
+20 
+77 
+75
+1 5 
+14
+1 
+103~ 
+119~~~~~~~~~~~~~~~i 
+105 
+118 
+100
+
+58
+68
+38
+
+..
+
+Access to safe water
+
+100 
+
+.
+
+[ 
+
+-Tonga
+
+.
+
+Lower-middle-income 
+group
+
+Female 
+
+KEY ECONOMIC RATIOS and LONG-TERM TRENDS
+19177 
+
+1987 
+
+1997 
+
+1998 
+
+--- 
+
+-- 
+
+-.
+
+Economic ratios/
+
+GOP (USS b/ikons) 
+
+0.04 
+20.1 
+33,8 
+-32 
+
+0.08 
+22.2Trd
+31,0 
+-1 1.,5
+26:0
+
+0,1 
+
+.0.1f
+
+Gross domestic investment/GOP 
+Exoorts of ooods and services/GOP 
+Gross domestic savinos/GDP 
+Gross national savinos/GOP 
+
+Tad
+
+Current account balance/GOP 
+Interest oavmehts/GOP 
+Total debt/GOP 
+Total debt service/exoorts 
+Present value of debt/GOP 
+Present value of debtVexoorts75
+
+7.51 
+0.4 
+46,8 
+24 
+
+-0.8 
+0 7 
+33.5, 
+12.3 
+20.2
+
+-12.3.
+0,7 
+41,6
+11.8
+
+.
+
+Savings 
+
+Investment
+
+.
+
+, 
+
+.
+
+, 
+
+Indebtedness
+
+(averaoe annual 
+orowtl,l1977-87 
+
+1988-96 
+
+1997 
+
+1998 1999-03
+
+GOP 
+GNP oer caota 
+ExroortS of coods and services. 
+
+3,3 
+32 
+
+1 4 
+
+-A 
+
+-1 
+
+Ti15
+
+0~5 
+
+.4,6 
+
+-23 
+
+L 
+
+Lower-middle-incomegru
+
+.
+
+STRUCTURE of the ECONOMY
+
+(% of GDPI 
+
+~~~~~ ~~~~1977 
+
+1987 
+38.9 
+12.8 
+4.9 
+
+1997 
+36.9 
+11.5 
+4.2 
+
+1998 
+38.3
+11.5 
+3.9 
+
+Growth rates of output and investment (6
+
+(9/6 of GDP) 
+
+~~~~~~~~~~~~~~~~~~~~~~~~6
+
+Acriculture 
+Industrv 
+Manufacturina 
+Services 
+
+43.8 
+11.2 
+6.7 
+
+[3
+
+44.9 
+
+48.3 
+
+51.6 
+
+50.2 
+
+1-3 
+
+4 
+
+959
+
+Private consumotion 
+General aovemment consumoition 
+I moorts of ocods and services 
+
+88.1) 
+15.3 
+57.1 
+
+94.9 
+16.6 
+64.7 
+
+.
+
+.
+
+-
+
+I0 
+
+-0GE)P
+
+G
+
+1977-87 1988-98 
+
+1997 
+
+1998
+
+(averaae annual aomwfhl
+Aariculture 
+Industrv 
+Manufacturina 
+Services 
+
+0.5 
+4.8 
+11.0 
+3.8 
+
+2.4 
+-1.7 
+-0.4 
+1.8 
+
+-3.0 
+-28.1 
+0.6 
+-2.4 
+
+-3.8
+1.8
+-3.0
+1.6
+
+Private consumoton 
+General covemment consurnotion 
+Gross domestic investment 
+Imoorts of aoods and services 
+Gross national oroduct 
+
+.
+
+.
+
+.
+
+.
+
+3.2 
+
+0.8 
+
+-4.4 
+
+-1.5
+
+Note: 1998 data are preliminary estimates.
+The diamonds show tour key indicators in the countrv (in bold) comoared wiith its income-arouo averaae. If data are missina, the diamond will
+be incomolete.
+
+- 59 -
+
+Annex 2
+
+Ton-ea
+
+PRICES and GOVERNMENT FINANCE
+
+1977 
+
+1987 
+
+1997 
+
+1998 
+
+Inflation (%)
+
+Domest?k prices
+(% change) 
+Consumer prices 
+Implicit GDP deflator 
+
+12
+
+.. 
+.. 
+
+4.7 
+11.0 
+
+2.1 
+2.9 
+
+3.3 
+5.6 
+
+s
+
+4
+
+Government finance 
+(%/6 of GDP, includes current grants) 
+Current revenue 
+Current budget balance 
+Overall surplus/deficit 
+
+o
+
+93 
+
+94 
+
+95 
+
+96 
+
+97 
+
+98
+
+.. 
+.. 
+.. 
+
+.. 
+.. 
+.. 
+
+40.4 
+14.0 
+-1.2 
+
+38.4 
+10.7 
+-4.4
+
+-4
+
+GDP deflator 
+
+w CPI
+
+TRADE
+
+1977 
+
+1987 
+
+1997 
+
+1998 
+
+Export and import levels (USS millions)
+
+(US$ millions)
+
+Total exports (fob) 
+
+.. 
+
+.. 
+
+13 
+
+12 
+
+150
+
+Squash 
+Fish 
+Manufactures 
+
+5
+2 
+1 
+
+.. 
+.. 
+
+.. 
+.. 
+
+-
+2
+
+oo
+
+Total imports (cif) 
+Food 
+Fuel and energy 
+
+73 
+24 
+
+97
+
+.
+
+.. 
+
+s
+
+.. 
+.. 
+
+.. 
+.. 
+
+11 
+
+.
+
+1 .JJ 
+
+IJ
+
+Capital goods 
+
+6 
+
+92 
+
+93 
+
+94 
+
+as 
+
+so 
+
+97 
+
+98
+
+ExDort Doce index (1995=100) 
+
+.. 
+
+93 
+
+94 
+
+..
+
+Imoort Drice index (1995=100) 
+Terms of trade (1995=100) 
+
+., 
+..
+
+.. 
+
+.. 
+
+.. 
+
+Exports 
+
+* Imports
+
+BALANCE of PAYMENTS
+
+(UJS$ millions) 
+
+1977 
+
+1987 
+
+1997 
+
+1998 
+
+Current account balance to GDP ratio (°/.)
+
+Exports of goods and services 
+Imports of goods and services 
+Resource balance 
+
+1)0 
+19 
+-9 
+
+25 
+52 
+-27 
+
+44 
+85 
+-40 
+
+40
+100
+-61 
+
+o 
+
+-wa
+
+Netincome 
+Net current transfers 
+
+0 
+
+4 
+29 
+
+2 
+37 
+
+3 
+38 
+
+92 
+
+93
+
+.. 
+
+I5iwf
+
+Currentaccount balance 
+
+.. 
+
+6 
+
+-2 
+
+-19
+
+Financing items (net) 
+Changes in net reserves 
+
+.. 
+
+-5 
+-1 
+
+4 
+-2 
+
+7
+12 
+
+-2 
+
+_
+
+Memo:
+Reserves includina aold (USS millions) 
+Conversion rate (DEC. localWUSS) 
+
+.. 
+0.9 
+
+29 
+1.5 
+
+28 
+1.2 
+
+29
+1.5
+
+EXTERNAL DEST and RESOURCE FLOWS
+
+(USS millions) 
+
+1977 
+
+1987 
+36 
+0 
+
+1997 
+61 
+0 
+
+1998 
+65
+
+Composition of total debt, 1998 (USS millions)
+
+Total debt outstanding and disbursed 
+IBRD 
+
+.. 
+
+0 
+4 
+
+G: 
+
+B: 4
+
+IDA 
+
+.. 
+
+0 
+
+4 
+
+F 
+
+Total debt service 
+IBRD 
+IDA 
+
+1 
+
+4 
+
+4
+
+0 
+
+0 
+
+0 
+
+E. 11
+
+.
+
+0 
+
+0 
+
+0
+
+Composition of net resource flows
+Official grants 
+
+12 
+
+8
+
+Official creditors 
+
+.. 
+
+2 
+
+1 
+
+3
+
+Private creditors 
+Foreign direct investment 
+Portfolio equity 
+
+.. 
+.. 
+
+0 
+0 
+0 
+
+-3 
+3
+0
+
+-2
+
+.
+
+World Bank program
+Commitments 
+Disbursements 
+Principal repayments 
+Net flows 
+Interest payments 
+Net transfers 
+
+2 
+
+0 
+0 
+0 
+0 
+0 
+0 
+
+0 
+
+A - IBRD 
+| B - IDA 
+C - IMF 
+
+E - Bilateral
+F - Prvate
+G - Short-term
+
+D - Other multilateral 
+
+.. 
+
+0 
+
+0 
+0
+0
+0
+
+.
+.. 
+., 
+
+0 
+
+0 
+0 
+
+Development Economics 
+
+9/17/99
+
+- 60 -
+
+Annex 2
+
+Vanuatu at a glance9229
+
+POVERTY and SOCIAL 
+
+Asia & middle-. 
+Vanuatu Pacific Ancomne 
+
+---- 
+
+___
+
+Development dlarnond'
+
+PoDulation. mid-vear (millions) 
+GNP ner caDlta (Atlas method. US$) 
+GNP (Atlas mefthd U.SS billions) 
+
+018 
+1,270 
+0.2$ 
+
+90 
+1 710,
+1,557
+
+Life expectancy
+
+990 
+I .02 
+
+Averace annual orowth. 1992-98
+Pooutaton W% 
+Laborforme f%) 
+Most recent estimate tiatest year available. 1992481Iaiaennmn
+Povetyv (16 of oouldation below national covertv fine) 
+Urban Doculation (%o of total oooulationt 
+Life exoectancv at birth (gears) 
+Infant mortality Doar 1.000 live birthsl 
+Child malnutrition t% of children under5) 
+Acc-ess to sale water (% of DoDulation) 
+Illiteac'y0 f% ofDnoDulation aae 15+1 
+Gross onimarv enrollment 1% of schtp~oilac Dooulafionl 
+Male 
+Female 
+
+26 
+
+12 
+1 
+
+.1/
+15 
+
+GNP 
+per 
+
+//Goss
+
+-
+
+`prmary
+
+20 
+35 
+65 
+69; 
+7 
+37 
+20 
+87 ~ 77 
+is 
+.117 
+
+58
+68
+3
+
+.Accesa 
+
+to safe water
+
+75
+1514
+103 
+105o 
+100
+
+98 
+101 
+94 
+
+Vanulatu
+
+119 
+118 
+
+Lower-midce-income group
+
+.
+
+KEY ECONOMIC RATIOS and LONG-TERM TRENDS
+'1977 
+
+1987 
+
+1997 
+0.25 
+
+1998
+i~0.24
+
+I Economiic ratloe
+
+GDP fUS$ billions) 
+Gross domestic investmerlVGD)P 
+Exoocts of ooods and servicesIGOP 
+Gross domestic savinas/GDP 
+Gross national savinos/GDP 
+
+.0,12 
+
+35.3..
+384Trade
+5,9
+42 ~
+-20.0 
+OA 
+
+Current account basnoelG0P 
+Ineetovents/GDP 
+Inter" oavm 
+Total debtGDP 
+Tots debt service/exoorts 
+present value of debtIGDP. 
+Presengt valiue of debtlexoorts 
+
+-.8.1 
+0.2 
+
+-15.7
+02 
+
+.
+
+Domestic 
+Sa19.ings
+
+Ivsmn
+Investment~~~~~~Svins 
+
+.. 
+
+39 
+
+i's
+13
+200
+
+, 
+
+Indebtedness
+
+1977.87 1988-98 
+
+1997 
+
+1998 11909-3
+
+(averace annual aorwthl
+GDP 
+GNP cer caoita 
+Exoorts of ooods and services
+
+3.2 
+
+16A 
+-2.5 
+
+27; 
+1~ 
+
+2,1 
+-04.4 
+
+Vanuiatu
+Lower-middle-income group
+
+.
+
+STRUCTURE of the ECONOMY
+
+1977 
+
+1987 
+
+1997 
+
+im 
+
+Growth rates of output and Investment(%
+
+1% of GDP)
+Aariculture 
+Industryv. 
+Manufacturinoa. 
+Services 
+
+.. 
+
+21.5 
+11.2 
+4.6 
+67.3 
+
+24.7 
+12.2 
+4.9 
+63.2 
+
+.
+
+A
+
+.
+
+.. 
+
+.
+
+Private consumotion 
+General oovemment consumotion 
+I MDorts of cioods and services 
+
+.. 
+
+60.2 
+33.9 
+67.8
+
+.
+
+..
+
+93 
+
+54 
+
+95 
+
+96 
+-0GDP
+
+97 
+
+98
+
+.
+
+.. 
+
+.
+
+GDI 
+
+.. 
+
+1977-97 1988-98 
+
+1997 
+
+1998
+
+(averaae annual aoewhl
+Aoriculture 
+Industrv 
+Manufacturino 
+Services 
+
+4.0 
+-2.8 
+
+4.7 
+2.5 
+
+6.2
+1.0
+
+.
+
+4.1 
+
+0.0 
+
+1.6
+
+Private consumrotion 
+General aovemment consumotion 
+Gross domestic investment 
+I moorts of aoods and services 
+Gross national oroduct 
+
+.
+
+.
+
+.
+
+.
+
+.. 
+
+0.2 
+
+3.7 
+
+2.1
+
+Note: 1998 data are preliminary estimates.
+The diamonds show four kev indicators in the countrv (in bold) comoared with its income-orouo averace. If data are mriasina, the diamond will
+be incomoILete.
+
+- 61- 
+
+Annex 2
+
+Vanuatu
+
+PRICES and GOVERNMENT FINANCE
+
+Domestic prices 
+
+1977 
+
+1987 
+
+1997 
+
+1998 
+
+Inflation (%)
+6
+
+(X change) 
+Consumer prices 
+Implicit GDP deflator 
+
+.. 
+.. 
+
+16.1 
+9.6 
+
+2.8 
+1.0 
+
+5.0 
+3.1
+
+4 
+
+Government finance
+(% of GDP, includes current grants)
+
+Current revenue 
+
+.. 
+
+.. 
+
+23.3 
+
+27.8 
+
+93 
+
+94 
+
+95 
+deflator 
+
+96 
+97 
+-- *-CPI
+
+98
+
+Current budget balance 
+
+.. 
+
+.. 
+
+1.5 
+
+4.0 
+
+-GDP 
+
+Overall surplus/deficit 
+
+.. 
+
+.. 
+
+-0.7 
+
+-13.3
+
+TRADE
+
+1977 
+
+1987 
+
+1997 
+
+1998 
+
+Export and import levels (USS millions)
+
+(us$ mnillions)
+
+Total exports (fob) 
+Copra 
+
+.. 
+.. 
+
+.. 
+.. 
+
+35 
+
+30 
+13
+
+150
+
+17 
+2 
+2l-
+94 
+
+Cocoa 
+Manufactures 
+Total imports (ct) 
+
+.
+
+.. 
+
+~
+
+.. 
+.. 
+
+.. 
+
+109
+
+Food 
+
+.. 
+
+22 
+
+.. 
+
+so
+
+Fuel and energy 
+
+.. 
+.. 
+
+10 
+
+J_iJIW
+
+Capital goods 
+
+.. 
+
+24 
+
+.. 
+
+.
+
+92 93 
+
+94 
+
+95 
+
+96 
+
+97 
+
+8
+
+Export price index (1995=100) 
+
+..
+.. 
+
+Import price index (1995=100) 
+
+.. 
+
+.. 
+
+.. 
+
+F Exports 
+
+*imports
+
+Terms of trade (1995=100)
+
+BALANCE of PAYMENTS
+
+1977 
+
+1987 
+
+1997 
+
+1998 
+
+Current account balance to GDP ratio (%)
+
+(US$ millions)
+Exports of goods and services 
+Imports of goods and services 
+
+.. 
+
+50 
+273 
+
+129 
+122 
+
+1il 
+131 
+
+0
+
+-20 E l
+3
+
+Resource balance 
+
+.. 
+
+-23 
+
+7 
+
+Net income 
+Net current transfers 
+
+.. 
+
+-21 
+9 
+
+-31 
+4 
+
+-31
+13
+
+.. 
+
+Current account balance 
+
+.. 
+
+-24 
+
+-21 
+
+-38
+
+Financing items (net) 
+
+.. 
+.. 
+
+37 
+-13 
+
+14 
+7 
+
+37 
+
+i5
+
+Changes in net reserves 
+
+1 
+
+t,8
+
+Memo:
+Reserves including gold (US$ millions) 
+Conversion rate (DEC, local/US$) 
+
+.. 
+
+40 
+109.8 
+
+37 
+115.9 
+
+45
+127.5
+
+79.4 
+
+EXTERNAL DEBT and RESOURCE FLOWS
+
+1977 
+
+1987 
+
+1997 
+
+1998
+
+(US$ millions) 
+Total debt outstanding and disbursed 
+IBRD 
+
+Composition of total debt, 1997 (USS millions)
+
+5 
+0 
+
+24 
+0 
+
+48
+0
+
+IDA 
+
+0 
+
+2 
+
+13 
+
+G:9
+
+Total debt service 
+IBRD 
+
+0 
+0 
+
+3 
+0 
+
+2 
+0
+
+3
+
+IDA 
+
+0 
+
+0 
+
+0
+
+Composition of net resource flows
+Official grants 
+Official creditors 
+Private crediors 
+Foreign direct investment 
+Portfolio equity 
+
+12 
+0 
+0 
+0 
+0 
+
+32 
+4 
+0 
+13 
+0 
+
+7 
+0
+0
+30
+0 
+
+E: 
+
+.. 
+
+0:17
+
+World Bank program
+
+Commitments 
+Disbursements 
+
+0 
+0 
+0 
+0 
+0 
+0 
+
+0 
+
+0 
+
+A - IBRD 
+B -IDA 
+C - IMF 
+
+E - Bilateral
+F. Private
+G - Short-term
+
+1 
+
+1 
+
+D- Other multilateral 
+
+Principal repayments 
+Netflows 
+Interest payments 
+Net transfers 
+
+0 
+1 
+0 
+1 
+
+0 
+1
+0
+1
+
+.. 
+
+Development Economics 
+
+9/22/99
+
+IBRD 29631
+
+140r 
+
+f N-orira 
+
+O 
+
+17. 
+
+1 
+
+rso 
+
+170r 'a0s
+
+Isiland (US)
+
+Gouna (US) 
+
+MARSHALL
+----....
+ISLANDS
+
+-- 
+
+-
+
+NORTH PACIOfC OCEAN
+
+-10' 
+
+1 
+
+Is',- '
+
+PALAU.;' 
+
+,
+
+G + 
+
+' ' ~' 
+' 
+
+l 
+l 
+
+' 
+
+i 
+
+,> 
+
+4 
+
+g 
+
+Atoll (US)
+
+FEDERATED STATES OF 
+MICRONESIA
+
+...
+
+> 
+
+.
+
+H~~~~~'obe,rn 
+(US)Jas(S0
+
+xi <, 
+.
+
+. sc 
+
+,:, 
+
+p,NAURU
+
+K 
+
+INDONESIA 
+
+KIRIBATI
+
+PAPUAt 
+NEW
+GUINEA 
+
+4'd 4t- 
+
+'.
+
+SOLOMON 
+
+TUVALU, 
+
+TU-IEW 
+
+I
+
+'4'~~~~"~~-~~ 
+
+t~~~.. 
+
+-. ~~~ISLANDS 
+
+TUAUTIEAJ(H)Mlnorl
+
+-4' Cs ) ;/ 
+
+t 
+
+m ~ ~ ~ ~ ~- ~ ~ ' 
+
+^ 
+
+[ 
+
+WoP r nd; 
+
+SAMOA 5A oencrisSnAMOA
+v' ~~ Samoa (US)
+Wollo ood~~~~~~~~~~~~~~~~~~~ 
+FnIons In. (Er)
+
+P..J"-' 
+
+'>~~~~~~~~~t 
+
+--....--
+
+c.'" 
+
+VANUATU 
+
+'; 
+
+Cook
+(NZ)
+
+Vi< 7 
+
+,... 
+
+t 
+
+-; 
+
+S 
+
+>,, TONGA
+
+'-.4' 
+
+.. 
+
+o 
+
+; 
+
+Nine(NZ,7 
+
+FPrenchfi Plynesia (f
+
+-2n 
+
+t 
+
+X 
+
+cal~~ewfPi 
+
+-x 
+
+.
+
+:J 
+
+,,.; 
+
+20r 
+
+20' 
+
+' 
+
+Cldja£ 
+
+.FIJI
+
+50001c CiT C0'l'K!COIN 
+
++ 
+
+_ 
+
+1 
+
+n, 
+
+.. 
+
+__._._ 
+
+... 
+
+_ 
+
+.
+
+_ 
+
+.,=.,, 
+
+,, 
+
+TROPIC OF CAP'5fCOR
+
+AUSTRALIA
+
+as' / 
+
+'Lord blows 
+
+Norfolk (As) 
+
+Is-lands(HZ) 
+
+THE PACIFIC
+
+g 
+
+. C~~~Avs)
+
+LINES OF DEMARCATION
+
+-1 , % 
+
+aSOUTH 
+
+PACIFIC OCEAN 
+
+ITERNATIONAL BOUNDARY
+
+' 
+
+r.-i' J{>3NEW
+
+is rinpoinpsosFre 
+
+nd by lbn. Mop Dtsign nitOr of The WUorld Book. 
+
+I7ZAIAND
+
+sboonos sIlls nimapdo not istnpl on ^7;^o 
+or nceptoocs af so boond77i5n. 
+nlb ss 
+itsofsynrlos 
+
+tWirlSosSiQ Csoo0'2i 
+2 
+Q,~~~~~~~~~~~~~~~~~~~~~~ayopsn 
+osny .od-,ossoo
+
+00s (cid:1) 
+
+\ 
+
+L
+
+40' 
+
+s4o 
+
+156' 
+
+Iso' 
+
+170' 
+
+1 
+
+b 
+
+iOn' 
+
+150'
+
+JUNE 1998
+
+

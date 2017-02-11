@@ -1,0 +1,5520 @@
+Public Disclosure Authorized
+
+Document of
+The World Bank Group
+FOR OFFICIAL USE ONLY
+
+Public Disclosure Authorized
+
+Report No. 24073-GUA
+
+MEMORANDUM OF THE PRESIDENT
+OF THE
+INTERNATIONAL DEVELOPMENT ASSOCIATION
+TO THE
+
+Public Disclosure Authorized
+
+Public Disclosure Authorized
+
+EXECUTIVE DIRECTORS
+ONA
+COUNTRY ASSISTANCE STRATEGY
+OF THE WORLD BANK GROUP
+FOR
+THE COOPERATIVE REPUBLIC OF GUYANA
+
+May 17, 2002
+
+Caribbean Country Management Unit
+Latin America and the Caribbean Region
+
+This document has a restricted distribution and may be used by recipients only in the performance of their
+official duties. Its contents may not otherwise be disclosed without World Bank authorization.
+
+CURRENCY EQUIVALENTS
+Guyanese Dollar (G$), US$1.00 = G$180.50, April 30, 2002.
+FISCAL YEAR
+January 1 - December 31
+
+AAA
+APL
+CARICOM
+CAS
+CDB
+CDC
+CFAA
+CIDA
+CLF
+CPAR
+CPPR
+DFID
+EU
+GDP
+GEMP
+GNCB
+GNP
+GOG
+GTZ
+GUYSUCO
+HIPC
+IDA
+IDB
+IDF
+IMF
+I-PRSP
+M&E
+MDG
+MTEF
+NPAS
+PAHO
+PRGF
+PRSC
+PRSP
+PSTAC
+SDR
+UNDP
+USAID
+Vice President
+Director
+Lead Economist
+Task Managers
+
+ABBREVIATIONS AND ACRONYMS
+Analytical and Advisory Activities
+Adaptable Program Loan
+Caribbean Community
+Country Assistance Strategy
+Caribbean Development Bank
+Commonwealth Development Corporation
+Country Financial Accountability Assessment
+Canadian International Development Agency
+Caribbean Loan Facility
+Country Procurement Assessment Report
+Country Portfolio Performance Review
+UK Department for International Development
+European Union
+Gross Domestic Product
+Guyana Economic Management Project
+Guyana National Commercial Bank
+Gross National Product
+Government of Guyana
+German Technical Cooperation
+Guyana Sugar Corporation
+Heavily Indebted Poor Countries
+International Development Association
+Inter-American Development Bank
+Institutional Development Fund
+International Monetary Fund
+Interim Poverty Reduction Strategy Paper
+Monitoring and Evaluation
+Millennium Development Goal
+Medium Term Economic Framework
+National Protected Areas System Project
+Pan American Health Organization
+Poverty Reduction and Growth Facility
+Poverty Reduction Support Credit
+Poverty Reduction Strategy Paper
+Public Sector Technical Assistance Credit
+Special Drawing Rights
+United Nations Development Programme
+United States Agency for International Development
+David de Ferranti
+Orsalia Kalantzopoulos
+Ali Khadr
+James Droop, Camille Nuamah
+
+FOR OFFICIAL USE ONLY
+FOR OFFICIAL USE ONLY
+GUYANA
+COUNTRY ASSISTANCE STRATEGY
+TABLE OF CONTENTS
+EXECUTIVE SUMMARY ...................
+
+I.
+
+i
+
+.
+
+POLITICAL, ECONOMIC AND SOCIAL CONTEXT
+A. Country background ........................................
+B. Economic performance and recent developments
+
+I
+
+.
+
+6
+
+.3
+
+C. The challenge of poverty reduction
+II.
+
+.
+
+:.1
+.5
+
+GUYANA'S POVERTY REDUCTION STRATEGY
+A. Stimulating growth
+
+.
+.8
+
+B. Strengthening governance and increasing public sector capacity and accountability .12
+C. Improving the delivery and quality of basic services and safety nets .14
+III.
+
+THE BANK GROUP'S ASSISTANCE STRATEGY
+
+A.
+B.
+C.
+D.
+
+.
+
+.16
+
+Objectives of the Bank Assistance Strategy and the CAS Development Process .16
+Progress since the last Bank Assistance Strategy .16
+Coordination with other development partners .19
+Bank Assistance to Guyana in FY03-05 .20
+
+IV. PROGRAM IMPLEMENTATION, MONITORING AND RISKS .23
+A. Program Implementation .23
+B. Performance Indicators .24
+C. Program Risks.24
+
+V.
+
+CONCLUDING REMARKS
+
+..
+
+26
+
+BOXES
+Box 1. Human Development in Guyana.
+Box 2. PRSP Policy Reform Agenda to be supported by the CAS.
+TABLES
+Table 1. PRSP Targets and the Millennium Development Goals.
+Table 2. IDA Portfolio Performance FY93-02.
+Table 3. Guyana's Development Partners and the PRSP.
+FIGURES
+Figure 1. Guyana: Structure of the Economy, 1989, 2001.
+Figure 2. Guyana: Real GDP Growth, 1966-2001.
+Figure 3. Guyana: Inflation, 1990-2001.
+Figure 4. Guyana: External Trade, 1993-2000.
+Figure 5. Distribution of Official Assistance Flows to Guyana (disbursements), 2000.
+ANNEXES
+
+This document has a restricted distribution and may be used by recipients only in the
+performance of their official duties. Its contents may not otherwise be disclosed without
+World Bank authorization.
+
+GUYANA
+COUNTRY ASSISTANCE STRATEGY
+EXECUTIVE SUMMARY
+Country Context
+1. The last CAS for Guyana was discussed at the Board in November 1993. An overview of the last
+decade shows significant gains in economic performance. Up until 1997, the economy continued on the
+path of strong growth that followed stabilization and structural adjustment measures undertaken in the late
+1980s and early 1990s. The gross domestic product (GDP) grew by over 7 percent per year between
+1991-97. Gross national income per capita rose from US$340 in 1989 to US$870 by 2000. Poverty rates
+declined from 42 percent of the population in 1992 to 35 percent in 1999, although rural poverty remained
+high. Inflation fell to low single digits and the fiscal situation improved significantly since the early
+l990s when the overall deficit had reached 23 percent of GDP. Supported by the Heavily Indebted Poor
+Countries (HIPC) initiative, Guyana's debt ratios have been falling towards sustainability.
+2. However, by the late 1990s, the initial gains from economic stabilization and the first generation of
+structural reforms had been exhausted. At the same time, a series of domestic and external shocks,
+including political uncertainty, social unrest, adverse weather conditions and declining commodity prices,
+impacted Guyana. The economy adjusted poorly to these shocks and, since 1998, GDP growth has
+averaged less than half a percent per year. At present, there is a risk that this slow growth and the policy
+drift of recent years will begin to reverse progress on poverty reduction. Further deterioration could, in
+turn, put Guyana's fragile democracy and social stability under renewed threat.
+3. Emerging opportunities. With its natural resource endowments, English-speaking population,
+proximity to North America, benign climate and areas of natural beauty, the potential for Guyana to enjoy
+growth and investment in a range of sectors is widely recognized. However, the country has yet to realize
+this potential. At present, with the uncertainties of recent elections over, debt relief resources starting to
+flow, and the Poverty Reduction Strategy Paper (PRSP) completed, political, economic and social factors
+have come together to present Guyana with a unique opportunity to achieve the growth rates of the early
+1990s and to lay the foundations for measurable and sustainable progress on poverty reduction.
+4. Challenges ahead. Notwithstanding these opportunities, the challenges facing Guyana remain
+considerable. The weakness of democratic institutions, combined with the ethnic-based patterns of voting
+that characterize Guyanese politics, leave the country vulnerable to an escalation in political and social
+instability. A range of recent reforms and initiatives, including the PRSP, promises to contribute to the
+complex process of building national consensus around governance and development issues. Sustained
+progress in this area demands strong and enlightened leadership from politicians and civil society.
+Decades of poor economic performance have led trained Guyanese to emigrate in search of opportunities
+abroad. This outflow of skills continues. As a result, the human resources available to the country, and
+particularly to the public sector, where wages are low, are severely limited. Moreover, weaknesses in
+systems, procedures and principles also undermine efficiency, transparency and accountability in the
+functioning of the public sector.
+5. In addition, Guyana is a small state vulnerable to terms of trade shocks. The structure of its economy
+remains similar to that inherited at independence - dominated by the production and export of primary
+products like sugar, rice, bauxite, gold and timber. The PRSP has public investment making the major
+contribution to raising the growth rate in the short-to-medium term. However, decades of poor economic
+performance under the socialist model have shown the limitations of this approach on its own. Of equal
+importance is the accompanying, and pressing, agenda of structural measures required to lift the rate of
+
+i
+
+return on public spending and to improve the institutional, legislative and regulatory environment for the
+private sector, so that it can lead growth and transform the economy over the medium term.
+6. The PRSP. The Government has recently completed a full PRSP which sets out a coherent agenda
+for poverty reduction. The PRSP builds on the National Development Strategy, a comprehensive multiand cross-sectoral process led by civil society, that has been in place since 1993. The PRSP sets out a
+wide-ranging, seven-pillar approach that can be grouped into three broad thematic objectives: (i)
+stimulating economic growth; (ii) strengthening govemance and public sector capacity and
+accountability; and (iii) enhancing the delivery of basic services and safety nets. Reflecting the
+dependence of the economy on natural resources, as well as the country's unique biodiversity and natural
+habitats endowment, the PRSP also recognizes the need to ensure sustainable development. The Strategy
+Paper reflects inputs received through the extensive consultative process which involved discussions at
+the local, regional and national levels. As a result, it emphasizes such fundamental concerns as
+employment, governance, the need for stronger local govetnment and improved provision of basic
+services. These priorities emerged with surprising consistency across the different ethnic and regional
+groups who participated in the consultations, including Amerindians in the rural interior.
+7. This CAS draws on the PRSP consultations and preparation process, and is guided by the Bank's core
+mandate of poverty reduction, the principles of the Comprehensive Development Framework (CDF) and
+IDA's comparative advantage in policy dialogue. It incorporates the lessons learned through previous
+interventions in Guyana. These considerations have combined to yield a strategy whose main approach is
+to focus Bank support on the implementation of the policy reform agenda set out in the PRSP and on
+helping the authorities bring increased coherence to the overall donor effort. This will involve a
+fundamental shift from investment lending to a program of Poverty Reduction Support Credits (PRSCs)
+as the principal lending vehicle.
+Bank Program
+8. Base case assistance program. The CAS covers a three-year period and has a series of PRSCs at its
+core, supported by a technical assistance project to help implement the PRSC reforms, and core Economic
+and Sector Work to help refine the policy agenda and monitor and evaluate the impact of the PRSP. The
+base case envisages new commitments of up to US$25 million (SDR 20 million) over three years, of
+which about US$4 million would be allocated for a Public Sector Technical Assistance Credit (PSTAC),
+with the remaining amount provided through single tranche, programmatic PRSCs. The pace of policy
+reforms and the extent of Guyana's financing needs will determine the size of the individual PRSCs. This
+overall program will be supplemented by three focused interventions: an HIV/AIDS project under the
+Caribbean Region HIV/AIDS Adaptable Program Loan framework discussed at the Board in June 2001; a
+recently approved Institutional Development Fund (IDF) grant for building capacity in the Ministry of
+Amerindian Affairs; and a proposed National Protected Areas System (NPAS) project under the Global
+Environmental Facility (GEF).
+9. Low case assistance program. A core set of policy reforms, in the areas of financial management,
+procurement, sugar, water, mining and forestry, comprise a sine qua non for going ahead with each
+PRSC. In the event that the reform agenda falters, i.e. the core policy reforms are not implemented,
+individual PRSC loans would be deferred, and the IDA lending program would be limited to the PSTAC
+and the regional HIV/AIDS project.
+10. Partnerships. In terms of resource transfers, the Bank has a limited role in Guyana, accounting for
+only 7 percent of annual disbursements of official assistance. However, the Bank has maximized its
+impact by coordinating its policy work with financing and implementation support from other donors to
+effect important reforms in Guyana. Expanding and intensifying this effort will be a critical feature of the
+new assistance strategy.
+
+11. Millennium Development Goals (MDGs). Guyana's PRSP sets out 27 quantitative targets in such
+areas as income poverty, access to, and quality of education, health, and basic services. These targets
+include all the seven Millennium Development Goals, except for gender equality. Four of these MDGs
+could be met in Guyana, if the progress envisaged in the PRSP is achieved and maintained through 2015.
+The CAS includes support, through the PSTAC and the PRSCs, to help strengthen Guyana's capacity to
+monitor and evaluate its progress on PRSP implementation and, by extension, the Millennium
+Development Goals.
+Managing Risks
+12. Given the scale of the challenges outlined above, the risks to the PRSP and to the Bank program are
+high. The key risks and mitigation strategies are highlighted below.
+*: Political instability and policy commitment. Guyana continues to be in a transition
+from the current politically divisive atmosphere towards one of greater national
+consensus on development issues. The possibility of escalating political instability
+therefore remains high, and with it, a loss of momentum and focus on the reform agenda.
+In the event of a serious reversal in policy ownership and commitment, the Bank would
+defer new lending, as outlined in the low case scenario, while continuing its dialogue
+with the Government aimed at strengthening the reform program.
+*: Fiduciary risks. Both the Country Procurement Assessment Report (CPAR) and the
+Country Financial Accountability Assessment (CFAA) identify substantial weaknesses in
+the fiduciary and accountability framework within the public sector. These weaknesses
+not only reduce the impact of public spending but also grant a high level of discretion to
+top officials and policy-makers that becomes a key source of political friction. Failure to
+address these issues raises not only social and economnic risks, but also political ones.
+The Bank is currently working with the authorities to identify appropriate reforms, and
+will make these a major focus of the PRSCs and the PSTAC. The base case lending
+program is predicated, inter alia, on satisfactory implementation of the agreed CFAA and
+CPAR action plans. The Bank is also coordinating extensively with other donors who are
+providing key institutional development support on governance and accountability issues.
+*: Implementation capacity. Decades of outward migration, limited budgetary resources
+and outdated government processes and systems have left the public sector ill-equipped
+to deliver against its key objectives. The approach of this CAS is to focus the Bank's
+limited capacity-building support on a set of key government-wide reforms that can
+influence the performance of the public sector as a whole, in synergy with the assistance
+being provided by other development partners.
+*: Partnership risks. As such, the CAS relies heavily on an enhanced division of labor
+among Guyana's development partners. There is a significant risk that the success of this
+strategy could be adversely affected by implementation delays on the part of other
+donors. To manage this risk, the Bank will have to channel adequate resources into
+donor coordination and establish a system for frequent communication with other
+development partners at the project level.
+*: Fiscal discipline. The fiscal accounts have deteriorated steadily over the past few years,
+with public sector wage increases, weaknesses in tax collection and ongoing subsidies to
+public enterprises being the main contributors. The PRSP calls for macroeconomic and
+budgetary stability, but also envisages a shift from unproductive public expenditure
+
+iii
+
+towards the social and growth-oriented sectors. The Bank will work to mitigate the risks
+of fiscal deterioration by supporting measures to raise the productivity of public
+expenditure and to reduce subsidies to state enterprises.
+The macroeconomic
+management trigger for the low case scenario will also ensure that IDA resources are not
+directed to increasing government current consumption.
+Issues for Board Discussion
+13. In its discussions, the Board may wish to consider the following:
+*
+
+Given the Bank's limited role in Guyana, does the proposed lending program represent the most
+appropriate role the Bank can perform to support the Poverty Reduction Strategy?
+
+*
+
+Does the assistance strategy adequately identify the risks to the Bank program and to
+implementation of the PRSP? Are the proposed measures to address these risks appropriate? Do
+the triggers for the low case adequately capture the CAS emphasis on the governance and
+fiduciary agenda?
+
+*
+
+Given the capacity constraints in Guyana and the Bank's limited role, is the focus of the nonlending services on core economic and sector work and safeguard issues appropriate?
+
+iv
+
+MEMORANDUM OF THE PRESIDENT OF THE
+INTERNATIONAL DEVELOPMENT ASSOCIATION
+TO THE EXECUTIVE DIRECTORS
+ON A COUNTRY ASSISTANCE STRATEGY OF THE WORLD BANK GROUP
+FOR THE COOPERATIVE REPUBLIC OF GUYANA
+1. The last Bank Group Assistance Strategy (CAS) for Guyana was discussed by the Board in November
+1993 as part of the documentation for the Water Supply Technical Assistance and Rehabilitation Project.
+Since then, the Board has discussed Guyana's overall policy and development framework in the context
+of the decision point and the completion point for the original Heavily Indebted Poor Countries (HIPC)
+initiative in December 1997 and May 1999, respectively. Most recently, Guyana's Interim Poverty
+Reduction Strategy Paper (I-PRSP) was discussed at the Board when further debt relief was approved
+under the Enhanced HIPC (E-HIPC) in November 2000.
+2. The authorities have now completed a full Poverty Reduction Strategy Paper (PRSP) based on
+consultations held at community, regional and national levels in mid 2001. At present, with the
+uncertainties of the recent elections over, debt relief resources starting to flow and the PRSP providing a
+nationally-owned framework for development, political, economic and social factors have come together
+to present Guyana with a unique opportunity to achieve the growth rates of the early and mid 1990s and
+to lay the foundations for measurable and sustainable progress on poverty reduction.
+3. Nevertheless, the agenda for poverty reduction is challenging. Successful outcomes will require
+further progress on prioritization, policy design, institutional arrangements for implementation and
+stronger links between policy, targets and expenditures. This CAS incorporates the lessons learned
+through previous interventions in Guyana, while drawing on the PRSP, Comprehensive Development
+Framework (CDF) principles, and the Bank's comparative advantage in policy dialogue. These factors
+have been combined to deliver a strategy that takes into account the limited International Development
+Association (IDA) resources available for Guyana, and proposes the Poverty Reduction Support Credit
+(PRSC) as the principal instrument with which the Bank will help the authorities achieve the fundamental
+policy and institutional changes necessary to implement the PRSP and bring increased coherence to the
+overall donor effort. At the same time, the CAS provides a framework for managing risks associated with
+Bank interventions in Guyana through the triggers for a low case lending program, and through a
+capacity-building operation that will address some of the key systemic weaknesses that could undermine
+the impact of IDA lending and the implementation of the PRSP.
+I.
+
+POLITICAL, ECONOMIC AND SOCIAL CONTEXT
+A. Country background
+
+4. Situated on the northern coast of South America, Guyana is the only English-speaking country on the
+continent. It covers an area nearly the size of the United Kingdom, but has a small population of less than
+one million. Around 90 percent of the population live along the coastal belt. The interior of the country,
+which contains pristine tropical forests and extensive mineral deposits, is very sparsely populated. The
+country has a multi-racial population of which the Indo-Guyanese are the largest ethnic group with
+around 48 percent of the population. Afro-Guyanese account for about 28 percent of the population, and
+indigenous peoples or "Amerindians", who live mostly in the interior, make up another 8 percent. The
+incidence of poverty, at 35 percent of the population (with much higher rates in rural and Amerindian
+areas), is among the highest in the Western hemisphere.
+
+1
+
+Box 1: Human Development in Guyana
+Guyana remains among the Caribbean countries with the lowest indicators of health
+status. Maternal mortality is 190 per 100,000 live births; infant mortality is 54 per 1000.
+Malaria is highly endemic and HIV/AIDS is in the stage of a generalized epidemic, with a
+prevalence in adults of three to five percent, the highest in the Caribbean region after Haiti. The
+1999 Living Conditions Survey found that 60 percent of the population had piped water into
+their yards or building and that 64 percent had electricity. Reported literacy rates are high at 98
+percent in 1997. However, anecdotal evidence suggests that this is misleading and that
+functional illiteracy is widespread. Net enrollment levels are high at the primary school level
+(97 percent), but lower for secondary education (60 percent)*. Of most concern, in terms of
+educational quality, is the alarmingly high percentage of untrained teachers in the system.
+During 1998/1999, untrained teachers represented 43 percent of all primary teachers and 40
+percent of all general secondary teachers.
+* Edstats, World Bank.
+
+5. With its natural resource endowments, English-speaking population, proximity to North America,
+benign climate and areas of natural beauty, the potential for Guyana to enjoy growth and investment in a
+range of sectors is widely recognized. However, the country has so far not been able to realize this
+potential. Following independence from the United Kingdom in 1966, Guyana pursued a policy of
+"cooperative socialism" with increasing state intervention in the economy. The results were dire. Real
+GDP growth averaged less than half a percent per year from 1966 to 1988 - less than the population
+growth rate at that time. By the late 1980s, income per head had fallen to US$350 and the Government
+controlled over 80 percent of recorded trade and investment. Against this backdrop, a steady flow of
+skilled Guyanese emigrated to North America, the United Kingdom and the rest of the Caribbean
+weakening the human resource capacity of both public and private sectors. Following the initiation of an
+Economic Recovery Program in 1989, focusing on stabilization and structural adjustment, the economy
+recovered during much of the 1990s. In the last few years, however, growth has come to a standstill.
+Despite encouraging progress on macroeconomic management during the reform period, the structure of
+the economy remains similar to that at the end of the 1980s - dominated by the production and export of
+primary products like sugar, rice, gold, timber and bauxite (see Figure 1).
+Figure 1: Guyana: Structure of the Economy, 1989, 2001
+89
+
+32%
+
+SSugarS
+13%
+Rice
+
+u
+Other
+
+L./
+
+Uvsock
+lF
+3%
+_i
+
+Services
+evie
+40%
+|
+111
+
+Rice
+6%
+
+Other
+r Crops
+
+2
+Uvestock
+Rshing
+7%
+
+Construc
+!on
+5%
+Manufact.
+13% 1g 3%
+
+FDrestry
+
+F
+1%2
+Frsr
+ining &
+2%
+qurynConsMtruuat
+11rryi%g
+1%15%
+11%
+
+on
+
+~~~
+
+6. Political context. At the same time as the economy
+political system also began to open up. After over 25 years
+Congress (PNC), the People's Progressive Party (PPP) was
+for two decades. Since then, there have been two more
+
+2
+
+Manufact.
+~~~5%
+8%
+
+Mining &
+quarrying
+a5
+
+was being liberalized in the late 1980s, the
+of authoritarian rule by the People's National
+elected in 1992 in the first free and fair vote
+free and fair general elections, but Guyana
+
+remains a fragile democracy where political parties remain divided largely along ethnic lines. This has
+periodically resulted in civil unrest and violence. The PPP is closely identified with the Indo-Guyanese
+community, which make up most of the agricultural workers in the key sugar and rice sectors, while the
+PNC historically draws its core support from the largely urban Afro-Guyanese population, mainly
+employed in the civil service and the bauxite sector.
+7. Following the death of the PPP founder, Cheddi Jagan, in March 1997, his widow, Janet Jagan, was
+elected as President in December 1997. The electoral process was endorsed by international observers
+but was challenged by the opposition PNC, alleging widespread fraud. Civil unrest and violence broke
+out and persisted until the CARICOM-brokered January 1998 Herdmanston Accord, in which the parties
+agreed to Constitutional Reform and to elections in early 2001. Nevertheless, tensions remained high and
+a three-month public sector strike from April-June 1999 strained social relations and severely complicated
+economic management.
+8. The PPP was returned to power for a third successive term in March 2001, under the leadership of the
+former Finance Minister, Bharrat Jagdeo, who had assumed the Presidency earlier following Mrs. Jagan's
+resignation due to ill health. The elections, which were deemed free and fair by international observers,
+largely repeated the pattern of ethnic-based voting, and were again marred by civil unrest. The tensions
+subsided somewhat following a post-election agreement between the two parties to a process of dialogue.
+In addition, the parties agreed to implement Constitutional Reforms, passed in May 2001, to make the
+Executive more accountable through the establishment of parliamentary committees in key sectors to
+oversee policy and financial management, and independent Commissions to safeguard fundamental
+human rights and oversee public procurement.
+9. The Constitutional Reforms and dialogue have created an opening for the political parties to take up
+the challenge of deepening and strengthening the roots of Guyana's fledgling democracy. Up to now,
+progress on implementing the agenda of the party leaders' dialogue has been sporadic and the key
+provisions of the Constitutional Reforms have yet to be operationalized. Implementation of the
+legislative agenda has been handicapped by, among other things, disputes over parliamentary
+management, which restricted the National Assembly to sitting on only 20 occasions in the year after the
+March 2001 elections. Most recently, the opposition have been refusing to participate in parliamentary
+debate.
+
+B. Economic performance and recent developments
+10. The challenge for the Government is to return the economy to the impressive rates of growth which
+followed the 1989 Economic Recovery Program (ERP). Backed by substantial external technical and
+financial support, the ERP eliminated virtually all price controls, abolished import prohibitions, unified
+and floated the exchange rate, simplified the tariff structure, and established market-based interest rates.
+The outcomes were remarkable - GDP grew by over 7 percent annually from 1991 to 1997 (see Figure 2).
+Gross National Income per capita rose to US$870 by 2000 from US$340 in 1989. Inflation was brought
+under control, reaching low single digits by 2001 as compared to 80 percent at the end of 1991. Fiscal
+imbalances have improved significantly since the early 1990s when the overall deficit was 23 percent of
+GDP. Poverty rates - as measured by the 1992 and 1999 household income and expenditure surveys declined substantially, although rural poverty remained high. Moreover, key sectors of the real economy
+recovered. The sugar sector now produces around 300,000 tonnes a year up from a low of 130,000 tonnes
+in 1990. Rice production recovered from 150,000 tonnes in 1991 to nearly 300,000 tonnes in 2000.
+Furthermore, despite persistent rural poverty, economic growth did help to reduce inequality - the share
+of income going to the poorest quintile increased from 3.9 percent in 1992 to 4.6 percent in 1999.
+
+3
+
+Figure 2: Guyana: Real GDP Growth, 1966-2001
+10%
+
+v.w
+
+5% .
+0w
+
+0)
+
+0)
+
+c)
+
+0F7
+
+0
+
+0)
+
+0)
+
+,n
+
+0)
+
+07Z
+)
+
+0)
+
+0)}
+
+0)
+
+0
+
+-10%
+
+11. However, by the late 1990s, the initial output gains from economic stabilization and first generation
+structural reforms had been exhausted. Since 1998, Guyana's economic performance has been dampened
+by a combination of domestic and exogenous factors. The domestic factors include political and social
+unrest and policy drift. At the same time, the external environment worsened as the El Ninio weather
+phenomenon hit and key commodities (sugar, rice, gold, bauxite) experienced a cyclical decline in prices.
+Despite significant and continued flows of external assistance, economic growth averaged a mere 0.4
+percent during 1998-2001. Inflation remained low, averaging 5.2 percent 1998-2001 (see Figure 3),
+partly because a large share of the financing for public sector deficits came from external resource flows,
+thus limiting the amount of monetary expansion, and partly because the lackluster private sector had a
+low demand for credit. Similarly, the trade deficit averaged about 8 percent of GDP during 1998-2000,
+lower than the level for 1991-97(see Figure 4). However, this was achieved at the cost of a contraction in
+trade in real terms.
+Figure 3: Guyana: Inflation, 1990-2001
+70% -
+
+Figure 4: Guyana: External Trade, 1993-2000
+700 -
+
+60%
+
+650
+
+t- -/-----------
+
+50% --
+
+-- - - - - - - - - - - - -
+
+40%--
+
+--
+
+600 --- - - - - -
+
+---- -- --300/~~~~~~~
+-- -- -- -- -- -- -- -- -----20%- ----t- -- -- -- -- -- -- -- -- -- -- -- --0%
+*
+
+-- - - -
+
+__550 --____----_
+
+30%1/
+
+10%
+
+-- - -~~-~--------~
+
+500
+450
+
+----
+
+_-|-+
+
+0importscif
+
+- - Exports fob
+
+-400
+..
+
+-
+
+.350
+
+1993 1994 1995 1996 1997 1998 1999 2000
+
+1990-92 1993 1994 1995 1996 1997 1998 1999 2000 2001
+
+12. The authorities have expressed a strong commitment to ensuring that the enormous fiscal imbalances
+of the early 1990s are a thing of the past. At first, substantial progress was made in improving fiscal
+performance, but this has been eroded over the past few years. Public sector wages doubled between
+1998 and 2001 as the result of a two-month strike in mid 1999, which ended with a damaging arbitration
+award - 31 percent salary increase to most civil servants in 1999 and an additional 27 percent in 2000.
+This award, nevertheless, achieved the goal of bringing the public sector wages in line with private sector
+levels. The public sector wage bill rose from 8.5 percent of GDP in 1998 to 11.3 percent in 2001. The
+Government has subsequently maintained a 5 percent increase in public sector wages for the 2001, as had
+been agreed under a Fund-supported program. Nevertheless, slow growth, weak tax collection and low
+
+4
+
+production outtums in several state-owned companies have contributed to the public sector deficit rising
+to 6.8 percent of GDP in 2001. The key concerns are, on the revenue side, the rise in discretionary tax
+concessions on imports and, on the expenditure side, the maintenance of large subsidies to state-owned
+enterprises. Despite these deficits, inflation remains modest, only 2.7 percent in 2001 for the same
+reasons outlined above.
+13. External Financing. Future flows of concessional funds will also continue to play an important role
+in Guyana. For example, in 2001, foreign grants to the budget came to 8 percent of GDP and net
+concessional lending stood at 7 percent of GDP. Nearly half of the 2001 public sector investment
+program was financed by foreign grants and concessional loans and the ratio is projected to rise further
+during 2002-05.
+14. HEPC. Guyana became eligible for debt relief under the original HlPC initiative, paving the way for
+a cumulative US$440 million debt relief in nominal terms (of which US$59.9 million would come from
+IDA). Although not all program targets were met, donors agreed to provide debt relief because the
+factors that prevented achievement of program targets were largely beyond government control. As a
+result, the debt service to export ratio fell from 19 percent in 1998 to 11 percent in 1999. In October
+2000, Guyana became eligible for debt relief under the E-HIPC initiative, paving the way for an
+additional US$590 million of debt relief in nominal terms (of which US$70.6 million would come from
+IDA). Pending the completion point of the E-HIPC, the Bank and other creditors are providing interim
+debt relief to Guyana, amounting to about US$15 million per year. When Guyana does achieve E-HIPC
+completion, the two HIPC initiatives together will have eliminated more than half of the country's future
+debt service, and its outstanding debt in net present value terms will have been reduced by 54 percent.
+
+C. The challenge of poverty reduction
+15. The 1992 and 1999 living conditions surveys have shown that the overall incidence of poverty in
+Guyana fell from 43 percent in 1992 to 35 percent in 1999. Over the same period, the share of the
+population in absolute poverty fell from 29 percent to 21 percent.' However, against the backdrop of
+faltering growth in recent years, it is unclear whether these impressive gains were sustained throughout
+the period, or if poverty rates have begun to rise again in later years. The ultimate medium-term goal for
+Guyana's poverty reduction strategy is to reduce the poverty headcount ratio to 31 percent by 2005.
+16. Poverty is unevenly distributed in Guyana. Around 60 percent of the population live in the rural
+coastal areas where the incidence of poverty is just above the national average, at 37 percent. However,
+in the rural interior, which includes around 9 percent of the population and is mostly populated by
+Amerindians, the incidence of poverty is nearly universal at 93 percent, with 88 percent of the population
+living in extreme poverty. These rates are higher than they were in 1993 when the poverty headcount
+ratio was 79 percent. Therefore, the impressive growth of the 1990s had no real impact on poverty in the
+rural interior. By contrast, poverty rates in urban areas, where around 30 percent of the population
+resides, are not only much lower at 16 percent in 1999, but also fell considerably from around 28 percent
+in 1992. Most of the rural poor are self-employed in agriculture or work as manual laborers. Levels of
+education are lower for the poor population than for the population as a whole. Less than 15 percent of
+the heads of poor households have completed a secondary or higher level of education.
+17. Given the broad distribution of poverty in Guyana, the main challenge of poverty reduction will be
+to raise economic growth rates and to improve the delivery of services to the rural areas. It is important to
+note that, given Guyana's negligible population growth due mainly to continued strong emigration, even
+modest economic growth rates could have a significant impact on household incomes. However, higher
+' In 1999, the national poverty line stood at G$251 per day (equivalent to US$1.40 at market exchange rates). The
+national line for extreme poverty was G$180 per day (equivalent to about US$1.00 at market exchange rates).
+5
+
+growth rates and improved social service delivery need to be accompanied by targeted interventions to
+address the pockets of particularly high and persistent poverty in the rural interior and to ensure that the
+benefits of renewed growth reach these more isolated populations.
+18. With the uncertainties of the election period over and the PRSP complete, the conditions are in place
+for the authorities to focus their attention on steering the economy back to pre-1998 growth rates. The
+PRSP focuses on a program of public investment to stimulate demand in the short run. However, the
+inefficiencies of public expenditure mean that this alone will be insufficient. Public sector capital
+spending over the past few years, on average 12 percent of GDP, has had limited impact on economic
+growth. Furthermore, weaknesses in the financial sector and in the institutional and legislative framework
+for private investment mean that the prospects of the private sector leading growth in the short term are
+limited. Therefore, the accompanying, and pressing, agenda of structural measures required to raise the
+return on public spending, and to improve the institutional, legislative and regulatory environment for
+private sector-led growth will be equally important.
+
+II. GUYANA'S POVERTY REDUCTION STRATEGY
+19. The Government has recently completed a full Poverty Reduction Strategy Paper which sets out a
+coherent agenda for poverty reduction. The PRSP builds on the National Development Strategy (NDS), a
+comprehensive multi- and cross-sectoral process led by civil society that has been in place since 1993,
+and an Interim PRSP which was discussed by the Bank's Board in November 2000.
+20. Participatory processes. The NDS preparation included an initial round of consultations, and
+formed the basis for the I-PRSP. The I-PRSP was then followed by an extensive participatory process
+with discussions at the local, regional and national levels. These discussions were open to all groups in
+society, and included youth and indigenous people. In all, over 200 consultations were held involving
+over 8,000 people. However, there was limited participation by the main opposition party, the largest
+organization of private companies, and labor unions. The findings from the consultations were
+incorporated into a draft PRSP, which was further discussed at a national level consultation in October
+2001. As a result of the inputs received through the consultation process, the PRSP gives greater
+emphasis to such fundamental concerns as employment, governance, the need for stronger local
+government and better provision of basic services. These priorities emerged with surprising consistency
+across the different ethnic and regional groups who participated in the consultations, including
+Amerindians in the rural interior.
+21. PRSP targets. The PRSP sets out 27 quantitative targets in areas such as income poverty, access to,
+and quality of, education, health and basic services. The PRSP targets correspond to all of the seven
+Millennium Development Goals (MDGs) apart from gender equality (see Table 1). In Guyana, as in a
+number of other Caribbean countries, gender does not appear to be a critical factor in the incidence of
+poverty. The 1999 Living Conditions Survey indicates that the proportion of poor households headed by
+women is similar to that of non poor households. This pattern was also observed in the earlier 1992
+survey results. As such, the PRSP did not establish specific targets related to gender equality. In terms
+of broader public policy, the Government has undertaken to establish a special parliamentary committee
+to examine the status of women in Guyanese society.
+22. The PRSP envisages reducing poverty from the estimated 35 percent of the population to 31 percent
+in 2005. The PRSP does not provide projections through 2015, making it difficult to judge performance
+against the MDGs. However, an extrapolation of the targeted gains through 2005 to 2015 reveals that, of
+the seven MDG indicators contained in the PRSP, four would be met if progress envisaged in the PRSP
+was achieved and sustained up until 2015. The Government has argued that this extrapolation may be
+pessimistic since the rate of progress on MDG indicators will accelerate after 2005 as the growth rate
+rises and the long-term benefits of structural adjustment are reaped. Nevertheless, it should be noted that,
+
+6
+
+in light of the weak economic performance of the last few years and given the past relationship between
+poverty and growth in Guyana, even the targets up to 2005 are quite ambitious. Since the links between
+the PRSP targets and expenditure and policy plans are not established, it is not clear that the targets could
+be met even if the underlying assumptions on growth, the quality of public spending and the availability
+of concessional finance are realized. Finally, information gaps suggest that some revision of baselines
+may be required.
+Table 1: PRSP targets and the Millennium Development Goals 2
+Millennium
+Development Goal
+(MDG)
+1. Halve poverty and
+
+Indicators shared
+between
+MDG and PRSP
+Poverty
+
+malnutrition
+2. Achieve universal
+primary education
+3. Promote gender
+
+headcount rate*
+Primary school net
+enrollment ratio
+
+2005
+2015
+PRSP
+Staff
+projections estimates*
+31.4
+26.1
+
+Likely to
+achieve
+MDG?
+No
+
+1990
+Actual
+
+1999
+Actual
+
+(1992)
+
+35.1
+
+43.2
+92.8
+
+96.6
+
+100
+
+100
+
+Yes
+
+63.8
+
+58
+
+42
+
+25
+
+No
+
+77
+
+83
+
+92
+
+100
+
+Yes
+
+190
+
+130
+
+69
+
+No
+
+74
+
+88
+
+64
+
+Yes
+
+100
+1
+
+Yes
+
+equality
+
+Infant mortality rate
+4. Reduce child mortality (per 1,000 live births)
+by two-thirds
+Measles: % of one-year
+olds immunized
+maternal
+Maternal mortality
+5. Reduce
+mortality by three(per 100,000 live births)
+quarters
+
+6. Combat HIV/AIDS,
+malaria and other
+major diseases
+
+Reported cases of
+HIV/AIDS among
+women aged 15-45 t
+
+% of population with
+81
+92
+98
+7. Environmental
+8
+9
+9
+sustainability
+access to safe water §
+* Based on simple straight-line extrapolations of the PRSP expected trends for 1999-2005.
+
+* MDG goal relates to population living with less than US$1 per day, whereas Guyana's 1999 national poverty line was
+equivalent to US$1.40 at market exchange rates.
+4 MDG goal relates to 15-24 year old pregnant women.
+§ MDG goal relates to % of urban population with access to an improved water source.
+
+23. PRSP monitoring and evaluation. The authorities recognize the need to strengthen Guyana's
+ability to monitor and evaluate implementation of the PRSP. A new Policy Coordination and Program
+Management Unit (PCPMU) is being established in the Office of the President, with IDA support, to
+
+track key PRSP reforms, build capacity for monitoring and evaluating (M&E) implementation in key
+ministries and agencies, and coordinate M&E activities across the Government. The Government will
+also pilot an innovative community-based M&E program focusing on local level PRSP activities and
+impacts of policy reform. The M&E approach to the PRSP will build on systems already developed to
+track HIPC spending. In addition, also with support from IDA and other donors, the Government is
+working to strengthen the capacity of the Bureau of Statistics to improve data collection, analysis,
+management and dissemination, with particular emphasis on the social sectors.
+24. Overview of the strategy. The PRSP contains a comprehensive seven-prong agenda designed to
+achieve these poverty reduction targets. They are:
+(i)
+(ii)
+(iii)
+2The
+
+Broad-based, job-generating economic growth;
+Stronger institutions and better governance;
+Investment in human capital, with emphasis on basic education and health;
+
+Millennium Development Goals are a set of international development goals unanimously adopted by the
+
+member states of the United Nations in Millennium Declaration in September 2000.
+7
+
+(iv)
+(v)
+(vi)
+(vii)
+
+Investment in infrastructure to support better services in water, sanitation and housing;
+Improved safety nets;
+Investment in infrastructure to support growth, including sea defenses, road and river
+Itransport, drainage and irrigation and rural electrification; and
+Special intervention programs to address regional pockets of poverty.
+
+25. These seven pillars can be grouped into three broad thematic objectives. Driven by evidence of
+strong links between growth and poverty reduction, the PRSP states that policies to stimulate economic
+growth are the most important elements of the strategy. Pillars (i) and (v), together with reforms aimed at
+improving the business environment, contained in pillar (ii), contribute directly to the economic growth
+objective. Reflecting the dependence of the economy on natural resources, as well as the country's
+unique biodiversity and natural habitats endowment, the PRSP also recognizes that improved
+environmental management are essential for sustainable growth and development.
+26. Secondly, the need for stronger governance and public sector capacity and accountability, at all levels
+of government in promoting economic and social development, is recognized through commitments under
+pillar (ii) to reform public procurement, revise land administration policies, decentralize public services,
+reform local government, improve the administration of justice and enhance public accountability.
+27. Further, the strategy calls for strengthening the delivery of basic services, including primary health
+care, primary and secondary education (pillar (iii)), water and sanitation and housing (pillar (iv)) and
+safety nets (pillar (vi)). The PRSP also contains strategies (pillar (vii)) to address areas where poverty
+and unemployment are well above average.
+28. As described in the Joint Staff Assessment (JSA), Guyana's PRSP provides a basis for supporting the
+implementation of effective poverty reduction policies. Nevertheless, successful outcomes will require
+ongoing improvements in priority setting, policy design, institutional arrangements for implementation
+and links between policy, expenditure and targets. The Bank will work with the authorities on all these
+elements.
+
+A. Stimulating growth
+29. Economic policies to stimulate growth. The Government aims to maintain a growth rate of about
+2.7 percent per year over the 2002-05 period, on the basis of: (i) public investment averaging
+approximately 17 percent per year; (ii) export expansion averaging 1.2 percent per year; and (iii)
+increasing private investment from its current 8 percent of GDP to 11 percent of GDP. After 2006,
+growth is anticipated to rise to around 5 percent a year.
+30. Fiscal policy. Growth in the short term will be led principally by an ambitious public sector
+investment program averaging nearly 17 percent of GDP per year during 2002-05, of which about 70
+percent is allocated to priority programs for poverty alleviation. A notable principle of the PRSP
+medium-term economic framework is the authorities' commitment to limit budget deficits to what can be
+externally financed by concessional funds. This is crucial to ensuring that the authorities' public
+expenditure-led strategy is consistent with sustainable debt dynamics and does not crowd out private
+sector investment, which is already low at 8 percent of GDP. A key source of the additional financing to
+meet these commitments is expected to come from HIPC resources. The series of PRSCs in this CAS
+represent IDA's contribution to the financing required for PRSP implementation. The Fund is planning to
+support the PRSP through a new 3-year Poverty Reduction and Growth Facility (PRGF) arrangement to
+be discussed at the Fund's Board in June 2002.
+31. The overall public sector deficit (after grants) will continue its steady rise of recent years reaching
+9.4 percent of GDP in 2003 and 12 percent of GDP in 2004, when planned investments in the sugar sector
+
+8
+
+(described in more detail below) are expected to peak. However, current savings of the public sector are
+expected to be positive from 2003 supported by tax reforms, improvements in tax administration, and a
+new wage policy. The Government will undertake a comprehensive tax review aimed at simplifying the
+revenue system and broadening the tax base, and institutional strengthening of the Guyana Revenue
+Authority. On the expenditure side, the Government is committed to the introduction of a multi-year
+public sector wage policy, based on expected inflation and productivity, in order to avoid the pattern of
+uncertainty and conflict associated with previous wage settlements and which have contributed to
+deterioration in the fiscal accounts.
+32. External sector. Up to 2005, growth in exports of goods and services is expected to be on average
+flat. Steady increases in sugar, rice and non-traditional exports are likely to be offset by steep declines in
+export earnings from gold. Led by the capital goods required for sugar sector investment, imports will
+show moderate growth over the CAS period. As a result, the current account deficit will rise to around 20
+percent of GDP. External financing is expected to be sufficient to keep reserve levels at around
+3.8 months of imports.
+33. Monetary policy and the financial sector. The PRSP proposes a gradual easing of monetary policy
+during 2002-05 in support of growth objectives, which should allow inflation to remain below 5 percent
+throughout the period. Further strengthening of prudential regulations and supervision of the financial
+sector will be required to address the high rates of non-performing loans that currently burden the banking
+system. IDA is providing ongoing support for capacity building and for the divestiture of the remaining
+state-owned bank, Guyana National Cooperative Bank (GNCB). Other donors, including the IDB, the
+IMF and DFID are also providing support in this sector, for example, for institutional strengthening of the
+central bank and a review of key financial legislation.
+34. Restructuring and modernization of the traditional sector. Primary products like sugar, rice,
+bauxite, gold and timber continue to dominate production and exports in Guyana. However, against a
+backdrop of weak commodity prices and eroding access to preferential markets, these sectors will require
+extensive restructuring in order to maintain and maximize their positive contribution to the economy.
+35. Sugar. Contributing 16 percent of GDP and 23 percent of export earnings, sugar, is the most
+important of these sectors. This sector, which remains in state hands, directly or indirectly supports the
+livelihoods of over 75,000 people in Guyana. The Guyana Sugar Corporation (GUYSUCO), which is
+managed by a private contractor, produces about 300,000 tonnes of sugar annually of which 90 percent is
+exported. The recent production record has been impressive. Since the early 1990s, decades of decline
+have been halted and output has been restored to levels last seen in the 1960s. This recovery has ensured
+that Guyana is able to fill its preferential import quotas in European and US markets.
+36. Improvements in field and factory performance have been consistent with average world
+productivity gains giving Guyana a comparative advantage in sugar production within the Caribbean
+region. A recent Bank-sponsored study on the sugar sector argued that this advantage, combined with the
+preferential, albeit declining, price and quotas, makes it economically and financially viable to invest in
+the sector. Lack of investment would lead either to the demise of the sector in the medium term, or else
+the need for ever-increasing subsidies. Furthermore, the report confirmed that, given current excess
+capacity in the global sugar industry, and the depreciated state of GUYSUCO assets, privatization would
+not be feasible at this time. At present, there is considerable cross-subsidization between efficient and
+inefficient GUYSUCO estates, which absorbs over two percent of GDP. Because the company is stateowned, these transfers significantly reduce public resources available for physical and social investments
+elsewhere in the economy. As such, the GOG is pursuing a modernization strategy aimed at eliminating
+these subsidies, and positioning the sector for growth and future private investment.
+
+9
+
+37. The key elements of the GOG strategy are: (a) investment in a new modem processing factory to be
+financed by the GOG, GUYSUCO retained earnings and land sales; (b) a shift in production away from
+higher cost estates, and eventually closing estates which cannot be brought to profitability; (c)
+reorientation of management incentives away from current production targets to profitability and cost
+benchmarks, and providing management with the appropriate level of authority to meet these targets; (d)
+stronger control of the wage bill, while reorienting employee remuneration toward production and
+profitability targets; (e) development of new export markets; and (f) improvements in drainage and
+irrigation systems. The Bank will continue to provide policy advice and technical assistance to the sugar
+sector reform process through the proposed PRSCs, together with the IMF, UK Department for
+Intemational Development (DFID) and the Caribbean Development Bank (CDB).
+38. Mining. Guyana has excellent potential for the discovery of significant additional mineral deposits,
+especially in gold. Despite this, the outlook for production in the two main mining industries currently
+under extraction, gold and bauxite, is weak. The privately-owned Omai mine, which accounts for 75
+percent of the gold now produced in Guyana, will run out of reserves in 2005. The bauxite sector is stateowned and, despite large mineral reserves, depends on govemment subsidies equivalent to about 1.5
+percent of GDP. The Govemment has been negotiating the sale of these assets with a prospective buyer
+with due consideration to the issue of social and environmental liabilities. If mining is to maximize its
+potential contribution to economic growth, the state must also redefine its role in the sector to encourage
+new exploration and deliver improved management of the resource base and regulation of the extractive
+process. This implies a range of regulatory, fiscal, institutional and structural reforms. The Bank will
+support the authorities in further defining this agenda through policy advice and technical assistance in
+the context of the proposed PRSCs, and in partnership with other donors active in the sector, namely the
+Inter-American Development Bank (IDB) and the Canadian Intemational Development Association
+(CIDA).
+39. Forestry. The PRSP points to the further development of Guyana's forestry resources as a key
+potential source of growth in the economy, while committing to the principle of sustainable natural
+resource use. However, existing legislation does not provide a clear or robust regulatory and institutional
+environment. The GOG has prepared revised forestry legislation, with support from DFID, which it plans
+to submit to the National Assembly shortly. DFID is also providing support to strengthen the Guyana
+Forestry Commission. The Bank will support the development of an appropriate regulatory framework
+through the PRSCs.
+40. Protecting the environment The PRSP recognizes the special importance of environmental issues
+in Guyana and the country's vulnerability to environmental pressures. Over 75 percent of the land area is
+forested and much of the coastal area is below sea level and vulnerable to flooding. The PRSP also
+envisages expansions in forestry, mining and agriculture as future sources of growth, but commits to the
+principles of sustainable natural resource use and the protection of unique habitats and biodiversity.
+Additional environmental pressures are expected to come from growth in informal small scale mining and
+agriculture, as displaced workers seek altemative livelihoods. In the PRSP, the Govemment undertakes
+to strengthen enforcement of the Environmental Protection Act, raise public awareness on the
+environment and involve local communities in management of vulnerable eco-systems and protected
+areas. Among the priority areas for sustainable development are: reform of the current land use policy
+(being supported by German Technical Cooperation (GTZ)); establishment of a functional protected areas
+system; modemization of forestry and mining legislation; ongoing strengthening of institutions including
+the Environmental Protection Agency and the Guyana Geology and Mines Commission, assisted by IDB
+and CIDA respectively; and improved maintenance of sea defenses, transport networks, and drainage and
+irrigation infrastructure. The Bank will support the development of environmentally sustainable
+investment frameworks for mining and forestry through the upcoming PRSCs, and will help the GOG to
+address biodiversity issues through an upcoming National Protected Areas System (NPAS) project to be
+financed by the Global Environmental Facility (GEF) .
+
+10
+
+41. Developing new sectors to support growth.
+With its natural resource endowments, Englishspeaking population, proximity to North America, benign climate and natural beauty, the potential for
+Guyana to enjoy growth and investment in non-traditional sectors, including agro-processing, tourism and
+transshipment has long been recognized. The PRSP proposes to strengthen Guyana's investment
+promotion agency; build capacity at the National Bureau of Standards and provide technical assistance to
+companies in order to raise quality; simplify business registration processes and expand micro-credit to
+promote development of small business and cottage industries; establish manufacturing and agroindustrial parks to take advantage of preferences under the Enhanced Caribbean Basin Initiative; and put
+in place a National Tourism Board and environmental regulations to support eco-tourism. The majority
+of Guyana's development partners, including IDB, CIDA, DFID, the United Nations Development
+Programme (UNDP), the European Union (EU) and the United States Agency for International
+Development (USAID), are engaged in this effort through a variety of initiatives.
+42. However, concrete actions on governance-related priorities, raised by both domestic and international
+investors and recognized in the PRSP, will be even more important. These include, inter alia, the
+simplifying, and reducing discretion in the administration of the tax system; and improving the
+mechanisms for the allocation of land which is almost all publicly-owned and must be leased from the
+state for private investment. The recent Country Financial Accountability Assessment (CFAA) also
+recommends curtailment of discretionary powers in a number of public resource management agencies,
+including the Commission on Natural Resources, the National Frequency Management Unit, the Guyana
+Energy Agency as well as the Privatization Unit, as a means of improving governance in the business
+environment. 3 In general, the Government is committed to reducing further its role in economic decisionmaking to allow the private sector to flourish, although the PRSP still reflects a tendency to turn to
+budgetary reallocations and government intervention, rather than to restructuring incentives, policies and
+institutions, as a means of promoting the private sector. Through ongoing policy dialogue, including with
+a Development Policy Review (FY03) which will focus on growth and competitiveness, IDA will work
+with the authorities to refine its private sector development agenda.
+43. Core labor standards. Sound labor market policies are equally important for ensuring that the
+benefits of economic growth are broadly distributed and reach the poor. Guyana has ratified all eight
+International Labor Organizations conventions on the core labor standards relating to the elimination of
+forced and child labor; equal opportunity and non-discrimination in employment; and the freedom of
+association and the right to collective bargaining. Since ratification, a number of laws have been enacted
+to implement these standards. As recommended by Constitutional Reform in May 2001, the Government
+is in the process of establishing five independent commissions to focus on the protection of basic rights.
+44. Infrastructure to support growth. The PRSP recognizes that adequate infrastructure is a vital
+corollary to an improved regulatory framework for private investment in Guyana. Although the country
+made significant gains in this area over the last decade, many shortcomings remain. The road network is
+not adequately maintained; frequent breaches of sea defenses pose major risks to coastal settlements and
+economic activities; and flooding continues to threaten some of the most productive regions of the
+country. The PRSP sets out an agenda to improve the coverage, quality and maintenance of
+infrastructure, in part, by increasing private sector participation, introducing cost recovery mechanisms
+and capacity building for local contractors. More importantly, Guyana will need to address the critical
+governance and institutional weaknesses which have undermined the transparency and efficiency of
+infrastructure spending in the past. The PRSP proposes strengthening tendering, monitoring and
+supervision procedures, and modernizing legal and institutional structures related to infrastructure
+spending. Several donors are providing substantial financial and technical resources to support
+
+3 Recent work by the Bank's Foreign Investment Advisory Service also identified costly and unreliable electricity
+
+and telecom services, poor infrastructure, shortage of skilled workers due to emigration, and socio-political tensions
+as other key constraints to private investment
+
+improvements. in sea defenses, roads and river transport, drainage and irrigation and rural electrification.
+IDA will complement these efforts through support for the reform of the public procurement and public
+financial management systems.
+45. Water. In the water sector, authorities are implementing a comprehensive reform and investment
+program aimed at increasing the share of the population with access to safe water from 92 percent to 98
+percent by 2005, while ensuring the financial viability of the water utility. The Government has made
+steady progress in implementing a gradual transition to full cost pricing for water services, with
+provisions for a clear and transparent need-based subsidy. New legislation is under preparation which
+will permit the merger of the two existing utilities to achieve economies of scale, and the introduction of
+private management. The PRSP outlines an extensive sectoral investment program which is being
+supported by IDB, EU, DFID and CDB. IDA will continue to support this agenda through policy
+dialogue under the proposed PRSCs, in collaboration with the other donors in this sector.
+46. Telecoms. Guyana currently has adequate telecommunication infrastructure to support further
+development of information and communication technologies. However, the most important challenge
+facing the Government is to successfully conclude ongoing negotiations to end the existing private
+monopoly on telecommunications and related services. IDB has a substantial program in this sector
+aimed at increasing connectivity and access.
+B. Strengthening governance and increasing public sector capacity and accountability
+47. Delivery of the higher economic growth and improved public services envisaged in the PRSP will not
+be achieved without fundamental improvements in governance and public sector institutional capacity.
+Weaknesses in these areas are the key constraints to private sector development and the major factor
+explaining the low social and economic return on public spending.
+48. Public Accountability. External accountability mechanisms acting on the Executive remain weak in
+Guyana in spite of recent progress. One fundamental problem is that the persistent pattern of ethnicbased voting has limited the role of the electorate in holding governments accountable on the basis of
+performance. Despite steady progress in recent years, both civil society and the media remain underdeveloped. Moreover, their role in oversight is constrained by the poor quality and availability of
+information. In turn, perceived and alleged irregularities in the allocation of public resources exacerbate
+the considerable social and political tensions. Furthermore, the current framework for legislative
+oversight yields a concentration of power and discretion in the hands of the Executive, key appointed
+officials and advisers. Weaknesses in procedures, principles, systems and institutional capacity
+undermine key areas of public sector financial management, such as the budget process and internal
+control, with negative implications for transparency and accountability. Aside from the efficiency costs
+these entail, they also create incentives for corruption. A recent survey of public sector officials 4 found
+that ninety-three percent of all officials who responded believe that corruption is significant in the public
+sector, while only 9 percent of officials reported having known of another official being disciplined for
+embezzlement.
+49. The May 2001 Constitutional Reform lays the foundations for addressing some of these weaknesses.
+It provided for a new Public Procurement Commission to have oversight of public procurement in place
+of the Ministry of Finance, the independent status of the Auditor General's Department, and the
+establishment of four sectoral Parliamentary committees to oversee policy and the budget, and five
+independent commissions to protect basic rights. The authorities are planning to submit to Parliament a
+new Procurement and Tenders Act which will strengthen the transparency and effectiveness of procedures
+4InstitutionalEnvironment and Public Official's Performance in
+
+May 2001.
+12
+
+Guyana, World Bank Technical Paper No. 506,
+
+for the awarding of public contracts, and a new Audit Act will, inter alia, make the Auditor General's
+Department independent. The participatory nature of the PRSP also marked a potential turning point in
+the involvement of civil society in the development of public policy. The Government has committed
+itself to establishing a participatory mechanism for PRSP monitoring and evaluation which should
+enhance the oversight role of civil society.
+50. The recent Country Procurement Assessment Report (CPAR), Country Financial Accountability
+Assessment (CFAA) and Public Expenditure Review (PER) for Guyana all concur on the need to
+strengthen oversight as a means for improving accountability. The CPAR, completed in FY01,
+recommended the new procurement legislation mentioned above, and a proposed action plan for the
+implementation of a new legal framework. The CFAA and PER underscore the need to transform the
+budget process into a genuine signal of Government's policy intentions to Parliament, the public, and to
+its own civil service, and against which its performance can be judged. In particular, the Government
+needs to achieve the timely presentation each fiscal year of a consolidated budget, integrating capital and
+recurrent spending and based on a medium-term expenditure framework that relates sectoral plans with
+explicit output targets. In addition, the authorities need to reduce the amount of supplemental and
+contingency ("off-budget") expenditures, which currently average around 27% of the annual budget, and
+ensure that policy proposals with spending implications are not made outside of the budget process. The
+internal audit function also needs to be strengthened by clarifying the role and enhancing the capacity of
+the Accountant General's Department, improving the programmatic classification for the budget; and
+integrating the budget with expenditure control and reporting processes. The next stage of the CIDAsupported Guyana Economic Management Project (GEMP) will focus on modernizing accounting and
+control systems. The Bank is working with the GEMP team, and with the IDB (which is supporting the
+institutional development of the Auditor General's Office) to ensure the CFAA agenda is fully integrated
+into ongoing reform efforts. The Bank is also collaborating with the IDB on procurement reforr, which
+is being guided by the CPAR.
+51. The benefits of these reforms go beyond simply raising the efficiency of public spending. The
+mechanisms to allow Parliament and civil society a role in ensuring transparency and accountability in
+how resources are allocated would represent an important step towards improving the political climate in
+Guyana.
+52. Public sector reform. Recent outcomes of public sector reform in Guyana have been mixed.
+During the 1990s, the Government successfully privatized a number of public corporations and
+introduced private management into others, such as GUYSUCO. However, slow progress in establishing
+appropriate institutional and regulatory frameworks for privatized industries has limited the welfare gains
+to society, particularly in telecommunications, electricity and air transport. Since 1993, employment in
+the civilian government (including regional administrations, police, statutory bodies, and ministries) has
+fallen from approximately 56,000 people to about 31,000, but still remains high as a share of the
+population. Complicated by the stagnant economy and difficult ethnic relations, progress on reform of
+core public service management has been limited in recent years. As a result, key issues affecting the
+public sector efficiency, including weak financial management, over-centralization of decision making,
+overlapping and contradictory jurisdictions, persist. Moreover, there has been a continued deterioration in
+the quality and composition of the public service, particularly at the management and technical levels,
+due to inadequate compensation levels and emigration of skilled personnel. Supported by technical
+assistance from IDB, the Government is set to embark on a reexamination of institutional roles and
+human resource needs, as well as a process to build consensus for public sector and civil service reform.
+IDA will support the financial management and procurement components of this reform agenda through
+the PRSCs. In addition, the PSTAC will include some assistance for strengthening human resource
+management systems and for improving policy analysis and decision making by building capacity in the
+Office of the President.
+
+13
+
+53. Local govermnent reform. One of the major messages from the PRSP consultations, which was
+also raised during the 2001 election campaign, was the public's general discontent with the functioning of
+local government institutions and their failure to deliver basic services to the poor. At present, local
+government laws accord a tremendous amount of power and discretion to the central government to
+intervene in local administrations, which operate essentially as agents of central government with
+delegated functions. This is compounded by the fact that the current party-list system for regional
+elections diminishes the accountability of elected officials, because they do not require identifiable local
+constituencies. The intergovernmental fiscal framework is weak and has no clear formula for allocating
+resources among local governments. Furthermore, elections for some levels of local government have not
+been held since 1994. Following the PRSP consultations, a Joint Task Force on Local Government was
+formed, and is charged with proposing ways to implement the Constitutional Reform Commission's
+recommendations on local democracy; leading the review and revision of outdated local government
+laws; and formulating and implementing objective criteria for allocating resources to local governments.
+IDA will support this priority agenda through the PRSCs.
+
+C. Improving the delivery and quality of basic services and safety nets
+54. Education. Guyana's education system, once one of the finest in the Caribbean, has suffered from
+insufficient investment over the past 25 years. As a result, it now ranks among the weakest. In recent
+years, with support from donors (mainly IDB, DFID and CIDA) and the HIPC initiatives, inputs to the
+education system have increased significantly. However, the main issues relate to quality of education,
+wide variations in quality and enrollment across regions, and the low efficiency of system in general.
+Regarding efficiency, high levels of student and teacher absenteeism are critical factors contributing to
+the under-performance of the basic education cycle. In some regions, absenteeism results in a loss of up
+to one-half of total instructional time. In terms of quality, the percentage of untrained teachers in the
+system is alarmingly high, estimated at around 40 percent of primary teachers and over 43 percent of
+general secondary teachers in 1999/2000. This problem is further exacerbated by the exodus of about 14
+percent of Guyana's trained teachers each year through migration. Moreover, it contributes to the
+inequities in the system because of the difficulty of stationing and retaining qualified teachers in interior
+schools.
+55. The PRSP sets out ambitious goals to increase secondary school enrollments, reduce repetition and
+dropouts, minimize overcrowding through better use of existing classroom space, and raise the percentage
+of qualified teachers in the system. The strategy proposes curricula reform, construction of more
+secondary schools, increased resources for school maintenance, expansion of in-service teacher training,
+improvements in human and financial resource management, and better incentives for performance and
+accountability. The Government has already initiated an Education Financial Reform program, which
+will implement a formula-based mechanism for allocating resources across schools and permit school
+boards with local community participation to be accountable for the governance of financial resources.
+IDA has supported these reforms through the Secondary School Reform Project and will continue to do
+so through this project and the PRSCs.
+56. Health. Guyana has some of the worst health indicators in the hemisphere. The PRSP recognizes
+that although expenditures have increased in recent years - in part due to the HIPC initiatives - important
+reforms are needed to improve the health status of the population and to create greater equity in access to
+health care services. The PRSP focuses on maternal and child health, mental health, nutrition and the
+management of chronic and communicable diseases, including HIV/AIDS. Among other things, the
+PRSP proposes upgrading of health centers and posts, particularly in hinterland areas, while streamlining
+drugs and medical supply procurement and distribution. However, prevailing institutional weaknesses
+will need to be addressed if they are not to compromise the benefits of new facilities and programs
+throughout the regional network. These weaknesses include excessive centralization and discretion over
+resource allocation, weak information systems and inadequate and overlapping legislation. The
+
+14
+
+authorities are currently considering reform options for the health sector that would build on the
+corporatization of the Georgetown Public Hospital, and further decentralize authority and resources to the
+regional health authorities. This program is supported by a number of donors including IDB, CIDA, and
+the Pan American Health Organization (PAHO).
+57. HIV/AIDS. The level of HIV/AIDS infection is growing rapidly, and already affects 3-5 percent of
+the population. The Government estimates that providing universal care and treatment for all diagnosed
+HIV/AIDS cases would cost about US$11 million per year, compared with the total Ministry of Health
+budget of US$20 million. The authorities are currently putting in place policies and institutional
+structures aimed at curbing the spread of the HIV epidemic by scaling up programs and activities targeted
+to high-risk groups, expanding awareness about HIV/AIDS among the general population, and
+strengthening institutional capacity to ensure the effectiveness and sustainability of the effort. A key role
+of the forthcoming IDA project will be to work with the authorities and other donors to bring greater
+coherence and coordination to the HIV/AIDS reduction effort.
+58. Safety nets and Special Intervention Strategies. Formal social safety nets in Guyana are weak.
+Benefit levels are very low and there is significant under-coverage, even of the limited target populations.
+The Ministry of Human Services, Labor and Social Security, which manages several assistance programs,
+is constrained by limited financial and human resources. These are supplemented by the donor-supported
+Social Impact Amelioration Program (SIMAP) and the Basic Needs Trust Fund (BNTF), which are
+targeted to the poor and finance mainly small-scale infrastructure at the community level. Although these
+programs play a very important role in improving living standards in poor communities, it is debatable if
+they constitute a bona fide safety net. Rather significant flows of remittances from the large number of
+Guyanese emigrants overseas provide a crucial safety net function for many households. The PRSP
+proposes steps to improve the focus of SIMAP and BNTF, as well as introduce a number of additional
+programs.
+59. The PRSP also sets out special interventions in Region5 1 in the north east of the country and Regions
+8, 9 and 10, in the interior. These regions have poverty levels that are much higher than the national
+average, significant Amerindian populations, and poor communications and transport links. In Region
+10, an additional driver of poverty has been the decline in performance of the Linden bauxite industry.
+The PRSP sets out a range of measures to boost income generation, upgrade transport networks and
+access to markets, strengthen the provision of basic services, like health, education and water. These
+priority actions emerged from consultations in these regions during the PRSP preparation. Indeed, a
+striking feature of the PRSP consultations was the large extent to which priorities raised in the interior
+Regions 1, 8, 9 and 10 correspond to those raised by communities in the coastal regions. This suggests
+that progress at the national policy and institutional level on local government reform, decentralization of
+basic services and infrastructure, as well as improvements in the framework for private sector
+development, will bring important benefits to communities in these regions. Under the PSTAC, the Bank
+will provide technical and analytical support toward improving the design, focus and administration of the
+Guyana's social assistance programs, including those directed at households which are affected by
+structural reforms.
+60. Amerindians. Guyana has nine distinct indigenous groups comprising seven percent of the
+population, who live mainly in remote communities in the interior which mainly rely on subsistence
+farming, hunting and forestry. This isolation has helped to preserve many indigenous traditions, but has
+also placed these groups at the margin of Guyana's growth and development - approximately 85 percent
+of the Amerindians are poor. One issue of primary concern among Amerindian communities is land
+rights. Only around half of the communities hold clear title to their land, despite a land titling program in
+place since 1969. The existing 1976 Amerindian Act, which was the vehicle for transferring land titles to
+
+5
+
+Guyana is divided into ten administrative regions.
+15
+
+communities, leaves considerable discretion in the hands of the Government. Since the 2001 election,
+and following strong Amerindian participation in the PRSP consultations, there has been renewed
+attention to Amerindian issues resulting in the newly-established Ministry of Amerindian Affairs. An
+Amerindian Development Fund has been set up and agreement has been reached on a process to revise
+the Amerindian Act and resolve land demarcation issues. IDA will continue its involvement in this area
+through capacity building for the Ministry of Amerindian Affairs and, more indirectly, through work on
+protected areas, and on the regulatory framework in the forestry and mining sectors.
+III. THE BANK GROUP'S ASSISTANCE STRATEGY
+A. Objectives of the Bank Assistance Strategy and the CAS Development Process
+61. Development objectives. The development objective of the Bank's Assistance Strategy for Guyana
+is to help create the conditions for a sustained reduction of poverty levels in the country. To this end, the
+Bank will support the key priorities of Guyana's Poverty Reduction Strategy Paper, namely: (i)
+stimulating economic growth through sound macroeconomic management, more efficient implementation
+of the public sector investment program, in particular in the sugar sector, and improving the environment
+for private investment; (ii) improving public sector governance and accountability by strengthening
+oversight systems and building capacity; and (iii) enhancing provision of, and access to, basic services
+and safety nets.
+62. Process for developing the CAS. The CAS is based on the rich material which emerged from
+consultations held at the community, regional and national levels during the preparation of the PRSP. In
+addition, the Bank held a joint programming mission to Guyana in June 2001 during which the basic
+approach for supporting the PRSP through PRSCs was agreed with senior government officials. On the
+basis of recent core economic and sector work including a PER and a CPAR both completed in FY01 and
+updated in FY02, and a new CFAA, the Bank has worked with the Government to identify the specific
+priorities within the PRSP for support through the CAS. Further consultations on the draft CAS were
+held in-country with government officials, civil society and private sector representatives, and other
+donors in May 2002.
+
+B. Progress since the last Bank Assistance Strategy
+63. The objectives of the 1993 Assistance Strategy were to assist the Government of Guyana to: (i)
+redefine the roles of the public and private sectors to best sustain growth and reduce poverty; (ii) maintain
+macroeconomic stability and increase private investment flows; (iii) refocus and strengthen the public
+sector to address infrastructure constraints and improve the delivery of public services, especially for
+human development and poverty alleviation; (iv) mobilize and coordinate external assistance; and (v)
+elaborate and implement a sound environmental strategy.
+64. What worked wel.
+Macroeconomic management and economic performance in Guyana have
+improved significantly since 1993. In particular, a second debt reduction operation (FY99), an IDF grant
+for debt management (FY96) and the original (FY98) and Enhanced HIPC (FY01) initiatives, have been
+critical in addressing fiscal sustainability. A series of operations aimed at strengthening the financial
+sector and the framework for private investment were instrumental in the substantial progress made on the
+privatization program - the Government completed the sale/ liquidation of 60 percent of its total net asset
+holdings at that time - as well as on banking supervision. Good progress was made on reforming the tax
+system culminating in the establishment of the Guyana Revenue Authority in 2000. At the sectoral level,
+sustained policy dialogue over many years is underpinning major reforms in the water sector and in
+secondary education, and a similar process is now underway in the sugar sector.
+
+16
+
+65. Donor coordination. A successful model of partnership between the Bank and other donors - whose
+resources are often greater than those of the Bank - was developed in the water sector, with the Bank and
+DFID spearheading the policy dialogue and other donors providing financial and implementation support.
+This was later built upon during the PRSP process in which the Bank played the lead donor-coordinating
+role.
+66. What worked less well. In implementing the strategy, the lending program shifted progressively
+away from the policy-based lending that had supported the Economic Recovery Program (ERP) to a
+phased approach with very selective sector investment projects. Progress in sectoral policy reform and
+implementation of IDA-financed investments has nevertheless been costly and painstaking, in part
+because of the poor design of some Bank operations. Between 1993 and 1997, the performance of the
+portfolio was generally unsatisfactory, including incidents of misprocurement 6 , and contributed to the
+joint Bank-GOG decision to withdraw two proposed operations, in health and for upgrading secondary
+towns. Meanwhile, weaknesses in Govemment systems and procedures adversely affected project
+implementation. These involved, inter alia: (i) weak implementation capacity due to lack of technical
+and managerial staff; (ii) cumbersome procurement processes, including low thresholds that called for
+frequent Cabinet involvement; (iii) limited capacity in the local construction industry; and (iv) difficulties
+in attracting reputed intemational contractors to bid on projects in Guyana.
+Table 2: IDA Portfolio Performance FY93-FY02
+Approval
+Devt. Obj.
+
+Percentage
+
+FY
+
+Rating/a
+
+undisbursed/b
+
+1990
+1995
+
+S
+S
+
+---
+
+Technical Assistance Credit
+Health Nutrition and Sanitation
+
+1990
+1992
+
+S
+S
+
+10
+5
+
+Public Administration
+Infrastructure Rehabilitation
+
+1993
+1993
+
+S
+U
+
+30
+25
+
+Sugar Rehab. & Privatization
+
+1994
+
+U
+
+99
+
+Fin. Sector & Business Environment.
+
+1995
+
+S
+
+0
+
+El Nio Emergency
+Average
+
+1999
+
+S
+
+10
+34
+
+1994
+1996
+2000
+
+S
+S
+S
+
+46
+36
+8
+37
+
+Closed operations
+Fast-disbursing assistance
+Second Structural Adj Credit
+Private Sector Devt. Adj. Credit
+Investment/TA projects
+
+Active portfolio
+Water Supply TA & Rehab.
+Secondary Education Reform
+Finance & Private Sector
+Average
+
+at For closed operations, outcome rating. For active portfolio, Implementation Progress rating.
+b/ For active portfolio, amount undisbursed as of May 6, 2002.
+
+67. Since 1997, the performance of the portfolio has improved significantly on the basis of frequent and
+
+intense supervision missions, and the establishment of a Bank Country Office in Guyana in early 2001
+with assistance from DFID. However, the rate of project implementation remains somewhat slow, with
+37 percent of the net commitments undisbursed. In addition, preparation of the proposed GEF-financed
+National Protected Areas System project has been stalled since 1997 when it was appraised. Recent
+progress on a mechanism for resolving land use and management issues that had arisen between the
+authorities and some Amerindians groups have raised hopes that the project can move forward again.
+
+Under the Infrastructure Rehabilitation Project which closed with an unsatisfactory outcome in 1999, the
+Government committed to repaying about US$1 million of ineligible expenditures carried out under the project.
+6
+
+17
+
+68. Economic and sector work (ESW). Since the last Assistance Strategy, good progress was made on
+core diagnostic ESW for Guyana. A CPAR was completed in FY99, and a PER in FY01. Both are
+currently being updated. In addition, the Bank produced a technical paper on "Institutional Environment
+and Public Officials' Performance in Guyana" (May 2001) that included a survey of public officials. A
+CFAA is under preparation and will be delivered this fiscal year. A Policy Note was produced in June
+2001 addressing the fiscal implications associated with the GOG's stated goal of universal secondary
+education, and an informal review of the mining sector was completed in early 2002. The sugar sector
+has been thoroughly examined with a major study, under the now closed Sugar Rehabilitation and
+Privatization operation. This analysis has guided current reform efforts in that sector.
+69. The general message from the core ESW is that the frameworks for public sector procurement,
+financial management and expenditure management are generally very weak in Guyana. In fact, Guyana
+is rated as a high risk country by the CFAA. Although the issue of inadequate personnel capacity is an
+important one given Guyana's size and history of steady emigration of qualified people, the reports
+identify an ineffective oversight framework as the critical deficiency, and in some cases, point to
+outdated or inadequate systems as key constraints. For example, archaic procurement legislation does not
+provide the basic elements for promoting competition, economy and efficiency. Meanwhile, financial
+accountability suffers from weaknesses in the framework for Parliamentary oversight, which have led to
+excessive centralization and discretion over public financial decisions vested in the top levels of the
+Executive.
+70. Several development partners have been supporting capacity building and institutional development
+and, in fact, there have been a number of successes in these areas, but these efforts remain constrained by
+the need for change at the policy level. For example, supported by GEMP, progress has been made
+towards the integration of the recurrent and capital budgets in the Ministries of Health and Education.
+However, full implementation across the public sector will require institutional and legal reforms to the
+budgetary process. Likewise, SIMAP, which operates as an autonomous agency, has established a sound,
+well-functioning procurement system for its purchases, but these cannot be replicated across the public
+sector without the requisite regulatory and institutional reform.
+71. Moreover, building enclaves of solid capacity is not a sustainable solution for issues which affect not
+only the efficiency of public expenditure, but also impede the development of a competitive private sector
+and pose serious questions about governance in Guyana. The PRSP proposes reform measures in several
+areas related to governance, accountability and expenditure management. However, Bank experiences,
+both in Guyana on other key policy reforms, and elsewhere, have shown that reaching successful
+outcomes on these issues requires a programmatic approach. The combined recommendations and action
+plans from the reports have informed a policy agenda that will be the primary focus of this CAS.
+72. Lessons learned since the 1993 Assistance Strategy have guided the formulation of this CAS.
+*
+
+The implementation of Bank investment projects is particularly challenging in Guyana.
+The relative cost of project expenditure oversight versus policy dialogue and technical
+assistance is high, given the small project size and severe capacity constraints. Moreover,
+other donors with larger portfolios and, in some cases, significant local/regional presence,
+are much better positioned to undertake the intensive supervision necessary for smooth
+implementation of investments.
+
+*
+
+Although not one of the major donors, the Bank has demonstrated a comparative advantage
+and track record in policy reform. Building social consensus and political commitment on
+difficult issues requires the Bank to stay engaged in the policy dialogue with both
+government and civil society over the medium term.
+
+18
+
+*
+
+Although there are significant risks attached to supporting homegrown reform initiatives in
+Guyana - both momentum and consistency on the Government side are often hard to
+sustain in the divisive political environment - the potential rewards are high in terms of
+deeper local ownership and long term development impact.
+
+*
+
+Incorporating the active participation of all stakeholders including local groups and relevant
+Ministries (e.g. NPAS, road infrastructure project) from the earliest stage of interventions is
+critical to assure sustainability.
+
+*
+
+Systemic bottlenecks in the public sector, such as weak capacity and ineffective
+procurement and financial management practices, mitigate more profoundly against
+effective public investment and service delivery than even the shortage of resources in key
+development sectors. In the current environment, even ring-fencing Bank projects may not
+ensure that they achieve their development objectives. However, it is important to note
+that successful strengthening of governance and accountability will require a programmatic
+approach.
+
+*
+
+Recent experiences, both in the water sector and with preparation of the PRSP have
+revealed that intensive donor coordination is an effective, and feasible, way to scale up the
+impact of the Bank's relatively small program, and improve the outcomes of the donor
+effort as a whole.
+
+C. Coordination with other development partners
+73. Bank lending to Guyana represents only about 7 percent of annual disbursements of official
+assistance. Table 3 shows how the main development partners are engaged in supporting the PRSP
+priority areas. The IDB is by far Guyana's largest donor. With annual disbursements averaging US$4050 million over the past few years, the IDB outranks the next largest donor, the EU, by a factor of nearly
+five. In addition, the IMF and USAID also have larger programs than the Bank.
+
+Figure 3: Guyana: Distribution of Official Assistance Flows (disbursements) 2000.
+IMF
+
+1_
+IDB
+
+~~CANADA
+
+.
+
+~~~~~~~UK
+
+49
+
+6%
+USA
+
+-______
+
+~~
+IDA_7
+
+; 10%
+
+~~~ ~CDB
+S%
+~~EU
+11%
+
+7%
+
+74. Within this context, the Bank has had some success in coordinating its policy work with financing
+and implementation support from other donors to effect important reforms in Guyana. More recently, the
+Bank built on this experience during the PRSP process, when it assumed a lead coordinating role among
+the donors. Expanding and intensifying this effort will be a critical feature of the new CAS.
+
+19
+
+Table 3: Guyana's Development Partners and the PRSP
+Specific Interventions
+Budget and fiscal policy
+Monetary policy and financial
+Economic
+sector
+policies to Private sector development
+stimulate
+Sugar
+growth
+Forestry/Mining
+Developing new growth sectors
+Environmental protection
+Public sector institutional and
+Good
+regulatory reforms
+governance & Improving public accountability
+the business Justice and crime reduction
+environment Local government reform
+Land administration
+Investment in Education
+human
+Health
+capital
+HIV/AIDS
+
+Major Devt Partners
+IMF, CIDA, USAID
+IDB, IMF, DFID
+USAID, CIDA, EU, IDB
+CDB, DFID, IMF
+CIDA, DFID, GTZ
+IDB, EU, USAID
+IDB, UNDP, CIDA, DFID, EU
+
+DFID, CDB, IDB, EU
+
+Infrastructure Sea defenses
+to support Roads and river transport
+growth
+Drainage and irrigation
+Rural electrification
+
+EU
+EU, IDB, CDB
+CDB
+IDB
+
+Special
+Intervention
+Strategies
+
+PRSCs/PSTAC
+PRSCs
+PRSCs
+
+Devt Policy
+Review (FY04)
+
+NPAS-GEF
+
+UNDP, CIDA, IDB
+UNDP, CIDA, IDB
+USAID, DFID
+USAID
+DFID, GTZ, IDB
+IDB, DFID, CIDA
+IDB, CIDA, PAHO
+UNAIDS, CIDA, USAID, PAHO, CDC
+
+Infrastructure Water & sanitation
+to support
+services
+Housing
+
+Safety nets
+
+Proposed Bank instruments
+Lending
+Non-lending
+PRSCs/PSTAC
+
+PRSCs,
+PSTAC
+
+Governance
+Review (FY05)
+
+PRSCs
+PRSCs
+HIV/AIDS
+
+Devt Policy
+Review (FY04)
+Revew(F04
+
+PRSCs
+
+EU, IDB
+
+IDB, CDB, EU, DFID, UNDP
+Bariina-Waini (Region 1)
+E-HIPC
+Region 8 Development
+E-HIPC
+Rupununi Development (Reg. 9) UNICEF, DFID, E-HIPC
+Linden Economic Adv. (Reg 10) EU
+
+PRSCs,
+
+Poverty Assmt
+
+IDF Amerindian
+Affairs
+
+D. Bank Assistance to Guyana in FY03-05.
+75. The main approach of the CAS is to focus Bank support on the implementation of the policy reform
+agenda set out in Guyana's PRSP. This will involve a fundamental shift away from individual sectoral
+investment projects to a program of policy-based lending through a series of planned Poverty Reduction
+Support Credits (PRSCs). The PRSCs will contribute to addressing Guyana's financing requirements
+under the PRSP, and will supplement resources from the HIPC and Enhanced HIPC initiatives already
+targeted to the social sectors. Within this framework, the Bank will further increase the selectivity of this
+program by concentrating on a few critical policy areas for growth and poverty reduction. Given the risks
+identified by the recent fiduciary reviews, the assistance strategy includes a low case lending scenario that
+will be triggered by, inter alia, insufficient progress on improving the fiduciary environment for the
+public sector. Recognizing that the implementation of even this selective agenda will be constrained by
+serious capacity weaknesses in the Guyanese public sector, the Bank will rely heavily on the institutional
+development and capacity building projects of other development partners, to provide further support for
+the implementation of the reform program. The Bank is also planning a small Public Sector Technical
+Assistance Credit (PSTAC), to be implemented over the CAS period, to help address some of those key
+capacity constraints for which there are either gaps in external assistance or in which technical assistance
+will help the Bank to strengthen the policy dialogue. In general, the success of this selective approach in
+supporting Guyana's overall Poverty Reduction Strategy will depend heavily on effective coordination
+and support for the PRSP among all of Guyana's development partners.
+
+20
+
+76. The policy reform agenda. The first planned PRSC, to be presented to the Board in early FY03, will
+focus on reforms aimed at improving governance and increasing the efficiency of public investments and
+key policies necessary for improving the delivery of some basic services. It will also support the
+establishment of better arrangements for monitoring and evaluating the outcomes of PRSP
+implementation, including the framework for public outreach and participation. Subsequent PRSCs will
+continue to focus on governance-related reforms and also increase the emphasis on growth-enabling
+reforms, including in the critical forestry and mining sectors (see Box 2 and Annex A2). The PSTAC will
+support the implementation of the policy reform agenda, by helping to build capacities in the key areas of
+procurement, financial management, decentralization, safety nets and statistics.
+Box 2: PRSP Policy Reform Agenda to be supported by the CAS
+A. STIMULATING GROWTH
+
+1. Adeguate macroeconomic performance under the agreed medium-term economic framework.
+2. Fiscal reform, including introduction of consolidated, program budgeting with a medium term
+framework, implementation of a multi-year formulaic mechanism for determining public
+sector wage increases, and initiation of a comprehensive tax reform program.
+3.
+
+Strengthen framework for private investment, including the enactment of a new investment
+law.
+
+4. Implement the agreed modernization and investment strategy for the sugar sector including
+the eventual restructuring of the Guyana Sugar Corporation (GUTYSUCO) to achieve
+profitability targets within the agreed financing plan.
+5. Introduce a new regulatory framework for the mining and forestry sectors.
+6. Introduce new legal and institutional framework in the water sector, including passage of a
+new water bill and the introduction of private sector management of the newly-consolidated
+water utility.
+B.
+
+IMPROVING GOVERNANCE & INCREASING PUB. SECTOR EFFICIENCY & ACCOUNTABILITY
+
+7. Public procurement reform, including new legislation and regulations, and implementation
+of the agreed CPAR Action Plan.
+8. Improve public sector financial management, including the enactment of a new audit law,
+strengthening the Auditor General function, and implementation of agreed CFAA Action
+Plan aimed at improving oversight of public expenditures.
+9. Implement local government reform, including improvements in fiscal framework for
+transfers, and building the capacity for revenue mobilization at local levels.
+10. Establish the framework for effective monitoring and evaluation of PRSP implementation,
+including broad public participation, and improvements in statistical measurement of outputs
+and outcomes.
+C. IMPROVING DELIVERY AND QUALrrY OF BASIC SERVICES AND SAFETY NETS
+
+11. Increase access by the poor to qualitv education, reduce dropouts, absenteeism and
+overcrowding, improve teacher training, in part through the implementation of a formulabased system for allocating resources to schools.
+12. Improve the efficiency of social assistance programs, in part through a review of their
+design and administration.
+13. Address the spread of HIV/AIDS by formulating and implementing a national strategic plan
+that is consistent with the Caribbean Regional HIV/AIDS program.
+
+21
+
+77. Lending Program FY03-05. The size of the base case IDA lending program corresponds to
+Guyana's IDA-13 allocation of up to SDR 20 million (US$25 million), over a 3-year period. The planned
+lending program will consist of the Public Sector Technical Assistance Credit (PSTAC) of
+approximately US$4 million and a series of Poverty Reduction Support Credits (PRSCs) for the
+remaining amount. In addition, the Bank will commit around US$5 million through the upcoming
+Guyana operation under the ongoing Caribbean Region HIV/AIDS Adaptable Program Loan (APL).
+78. The low case scenario. Within the broad policy reform agenda outlined above, the Bank will focus
+on a package of core reforms. The shift to a low case lending program would be triggered by the failure
+of the authorities to achieve ay of the following:
+(a) make satisfactory progress on key policy, governance and institutional reforms in the
+water, sugar, mining and forestry sectors and on the procurement and financial
+management action plans, identified by Nos. 4,5,6,7 & 8 in Box 2 above;
+(b) follow prudent macroeconomic policy demonstrated, for example, by satisfactory
+performance under the IMF Poverty Reduction and Growth Facility (PRGF);
+(c) achieve satisfactory performance on the portfolio, including all credits and grants;
+and
+(d) allocate debt relief resources in accordance with the HIPC and E-HIPC agreements
+and with the PRSP.
+79. Under this scenario, the Bank would delay the preparation of the PRSCs until such time as the
+conditions have been satisfied, in effect limiting the lending program to the PSTAC and the HIV/AIDS
+operation. The Bank would continue to provide the non-lending services (outlined below) to help the
+authorities strengthen and implement the appropriate reform program.
+80. Debt Relief. Guyana is expected to continue to receive debt relief under the original HIPC initiative,
+and interim debt relief associated with the Enhanced HIPC pending completion. The E-HIPC completion
+point will be when the agenda of structural reforms is implemented and following the establishment of a
+track record of sound macroeconomic management under the RMF's new PRGF arrangement.
+81. Non-Lending Services. Non-lending services will focus on the following objectives:
+*
+
+Strengthening the capacity of the authorities to deliver the PRSP reform agenda. In addition to
+working through the lending program to address key capacity building needs, the Bank will support
+the strengthening of macroeconomic policy management in Guyana through the recently established
+Caribbean Technical Assistance Center, jointly funded by the IMF, UNDP and the Bank. The
+Bank will also provide up to US$6 million from GEF resources for developing a National Protected
+Areas System. Although the strategy is to focus capacity-building interventions on areas that affect
+the public sector effectiveness broadly, the Bank will stand ready to explore various sources of
+assistance for those key capacity needs that other donors may not cover, such as the recently approved
+Institutional Development Fund (IDF) grant for Capacity Building in Amerindian Affairs, and
+through the new Poverty Reduction Strategy Trust Fund.
+
+*
+
+Greater understanding of the necessary conditions for re-igniting and sustaining economic growth
+over the medium-term. The overall success of Guyana's poverty reduction strategy hinges critically
+on the country's ability to restart economic growth. Upfront attention to the constraints facing private
+investors, both domestic and foreign, will be critical in this regard. To this end, the Bank will
+undertake a Development Policy Review (DPR) in FY03 aimed at providing analytical basis for
+refining the growth strategy within the PRSP. As such, this work will focus on identifying traditional
+and non-traditional sources of growth and ways to enhance Guyana's competitiveness in the global
+economy.
+
+22
+
+*
+
+Deeper understanding of the causes and consequences of poverty, as well as appropriate policy
+responses for poverty reduction in Guyana, through a Poverty Assessment in FY04.
+
+*
+
+Assessment of progress on governance. One of the key objectives of the PRSP and the CAS is to
+improve the effectiveness and efficiency of public spending. In order to evaluate the progress made
+on governance issues and public accountability, and set the agenda for future support, the Bank and
+the GOG will jointly undertake a Governance Review in FY05. This piece will also serve to update
+core fiduciary economic and sector work.
+
+82. The Caribbean Regional Program. In addition to the regional HIV/AIDS APL, Guyana will also
+benefit from a regional program of lending and non-lending services for the Caribbean over the CAS
+period. In particular, the Bank is continuing its support for the region's efforts to address the impact of
+global climate change on the Caribbean countries, through a second regional climate change project
+(FY03). On the environmental front, preliminary work is underway, by the Global Environmental
+Facility, toward a strategy for conservation for the Guiana Shield7 that includes part of Guyana's
+territory. Guyana will also benefit from ongoing regional analytical work on Youth Development,
+Natural Hazard Risk Management, and Catastrophic Insurance, and a future program which could
+include work on Health Financing, Tertiary Education and Pension Reform.
+83. International Finance Corporation (EFC). Given the difficult macroeconomic conditions and
+constraints on private investment during the past several years, IFC's activity in Guyana has been limited.
+Since FY98, IFC has invested a total of US$2.9 million in three small projects in the manufacturing,
+financial and tourism sectors. IFC's experience in directly investing in these small companies has not
+been as expected, due, in part, to the difficult business environment in Guyana. IFC's focus in the near
+term will be on the management of its portfolio, while being very selective in project financing. Given its
+past experience in small projects, IFC will place greater emphasis on the use of regional partners/facilities
+such as the credit lines to Royal Merchant Bank Limited and Republic Bank Limited (both Trinidadian
+banks with operations in Guyana) and the Caribbean Loan Facility (CLF), a joint IFC-Scotiabank US$50
+million facility for small and medium-sized enterprises. IFC is currently reviewing a food-processing
+project as a possible investment through the CLF. Additional opportunities for IFC to support the private
+sector could arise in the mining and other sectors. Given the importance of these sectors in the Guyanese
+economy, such EFC support could have a relatively significant impact. However, IFC's ability to support
+these sectors depends on the establishment of the appropriate regulatory and investment framework.
+84. Multilateral Guarantee Agency (MIGA). As of February 28, 2002, MIGA's gross exposure in
+Guyana was $18.4 million, comprising a single guarantee issued in 1995 for a mining operation. The
+agency is currently preparing to underwrite a telecom project in Guyana. However, given the particular
+turbulence in the global telecom sector, it is not yet certain when the deal will proceed to financial
+closure.
+
+IV. PROGRAM IMPLEMENTATION, MONITORING AND RISKS
+A. Program Implementation
+85. Program implementation. The approach to focusing on policy reform, will require the Bank to
+remain engaged in dialogue with the Government and other stakeholders in Guyana throughout the CAS
+period. This will require continuous staffing by a multi-sectoral team. The program will provide support
+Guiana Shield is one of the oldest geological formations in the world on which a unique and diverse ecological
+complex has evolved. The area designated by the geological formations is located in North East Brazil, French
+Guiana, Suriname, Guyana, Venezuela and Colombia - up to the Andes. It is currently the focus of strong
+conservationist efforts.
+7The
+
+23
+
+for follow-up work on the CPAR and the CFAA in support of the governance agenda. Additionally,
+because the assistance program relies heavily on projects and programs supported by other development
+partners, the CAS will require intensive donor coordination. Finally, the Bank will continue to operate a
+small office in Georgetown in partnership with DFID, which is providing financial support.
+B. Performance Indicators
+86. The ultimate success of the Bank's assistance to Guyana will be measured against key PRSP
+benchmarks in the following areas: (a) macroeconomic management and performance; (b) governance, in
+particular, sustained progress on addressing key systemic weaknesses in public financial management like
+procurement, public expenditure management, audit and tax administration; (c) social sector reforms and
+the continued allocation of HLPC resources to social sectors, as set out in the E-HIPC document and
+confirmed in the PRSP; and (d) improvements in the arrangements for monitoring and evaluating the
+PRSP implementation.
+CAS Performance Indicators
+Macroeconomic management and performance.
+*: Overall public sector deficit as a percentage of GDP consistent with the medium term
+macroeconomic framework for the PRSP and the PRGF.
+Governance.
+*: Timely presentation of the consolidated budget to Parliament, fully integrating capital
+and recurrent expenditures over a medium term time frame.
+* Completion of procurement reforms, with new systems and procedures operational.
+* Completion of the program to strengthen the independent Auditor General's Office
+and initiation of regular full Parliamentary discussions of timely Audit Reports.
+*: At the end of this CAS period, the Bank will undertake a Governance Review
+(described above) to update the PER, CFAA and CPAR. An important measure of
+progress would be a rating of lower than High Risk on such an independent
+assessment.
+Social sectors and safety nets.
+*: Increases in social sector expenditures in line with E-HLPC targets, and adequate
+balance between recurrent and capital expenditures.
+*: Implementation of a transparent method for allocating public resources across
+schools.
+*: Containment of the increase in prevalence rates of HIV/AIDS.
+Monitoring and evaluation for poverty reduction
+*: Regular public progress reports and consultations on the implementation of PRSP,
+with civil society and local government participation.
+87. Development Outcome Indicators. The CAS will also monitor progress on the key PRSP targets
+and MDG goals included in Table 1 as the measures of the development outcome.
+C. Program Risks
+88. Overall, this assistance strategy is a high risk one for the Bank, with a significant probability that the
+low case scenario would be triggered during the CAS period. The most critical risks facing the strategy
+and, by extension, the implementation of the PRSP are: (i) political instability; (ii) loss of momentum and
+
+24
+
+focus on policy changes; (iii) worse-than-expected capacity constraints that hinder the implementation of
+the reform agenda, (iv) governance and fiduciary risks; and (iv) deterioration in fiscal performance.
+89. Political instability. Guyana continues to be in a political transition from the recent divisive
+atmosphere toward one of greater national consensus on development issues. The PRSP consultations
+have created some momentum for reform, but institutional weaknesses and entrenched historical rivalries
+mean that every effort will be needed to maintain this momentum. As such, the risk of escalating political
+instability remains high, especially as the country embarks on politically controversial measures, e.g.
+restructuring key sectors and public sector reform. The main challenge for the Government will be to
+maintain the open dialogue with the opposition and civil society as a means of building consensus and
+broadening national ownership of the policy agenda. As part of the support for building capacity to
+monitor and evaluate the PRSP, the Bank will work with the authorities to broaden and deepen the
+framework for public consultation and feedback on key development issues, both at the central and local
+government levels.
+90. Policy ownership and commitment. An additional, but related, risk is that of loss of momentum
+and focus on the reform agenda. Most recently, the implementation of agreed policy reform has been
+somewhat slow. Earlier expectations that the President, at the beginning of a new term and supported by
+a popular mandate, would be in a position to drive forward critical policy changes have not yet been
+realized. Some residual suspicion of market mechanisms within the PPP could impede specific policy
+reforms. In the event that a serious reversal in policy ownership and commitment materializes, the Bank
+would continue to engage the authorities in dialogue and to support capacity building initiatives, but
+would defer new adjustment lending, as outlined in the low case scenario.
+91. Fiduciary risks. Both the CPAR and the CFAA identify substantial weaknesses in the fiduciary and
+accountability framework under which the public sector operates in Guyana. The PRSP consultations
+demonstrated that concerns about irregularities and inefficiencies in the allocation of public resources are
+a key priority among the population. Furthermore, the intense political friction that surrounds alleged
+irregularities in public financial management stirs up ethnic tensions and adds to the risk of social and
+political instability. The PRSP recognizes the importance of the fiduciary framework and commits to the
+reform of procurement rules and processes and to strengthening the audit function. The Bank has worked
+with the authorities, in particular through the CPAR and CFAA, to develop these commitments into a
+comprehensive agenda for a public financial management framework supportive of poverty reduction and
+growth. This fiduciary agenda is a major focus of the PRSCs and the PSTAC. As such, the base case
+lending program is predicated, inter alia, on satisfactory implementation of the agreed CFAA and CPAR
+action plans. At the same time, the Bank is coordinating extensively with other donors who are providing
+key institutional development and capacity building support in this area.
+92. Implementation capacity. Decades of outward migration, limited budgetary resources and outdated
+government processes and systems have left the public sector ill-equipped to deliver against its key
+objectives. Moreover, the PRSP sets out a wide-ranging set of reforms that imply fundamental changes in
+the way the public sector does business. The PRSP agenda addresses this risk with a set of public sector
+institutional reforms and investments in human capital. This CAS focuses the Bank's limited capacitybuilding support on a set of key government-wide reforms that can influence the performance of the
+public sector as a whole, in synergy with the assistance being provided by other development partners.
+93. Partnership risks. The CAS relies heavily on an enhanced division of labor among Guyana's
+development partners. The success of the Bank's inputs will therefore depend on key complementary
+support from other donors. There is a risk that quality of outputs and outcomes could be adversely
+affected by implementation delays related to other donor-funded interventions. To manage this risk, the
+Bank has fully consulted with each of the donors involved in the various sectors. In addition, the Bank
+
+25
+
+will channel adequate resources into future donor coordination, in particular, at the project and program
+level.
+94. Fiscal management. The fiscal accounts have deteriorated steadily over the past few years, with
+public sector wage increases, weaknesses in tax collection, and ongoing subsidies to public enterprises
+being the main contributors. The PRSP not only calls for macroeconomic and budgetary stability, but
+also envisages a shift from unproductive and inefficient public expenditure towards the social and growthoriented sectors. The Bank will work to mitigate these risks through the support of measures to raise the
+productivity and efficiency of public expenditure and to reduce subsidies to state enterprises. The
+inclusion of a macroeconomic management trigger for the low case scenario will also ensure that IDA
+resources are not directed to government current consumption.
+95. External shocks. Guyana is a small, commodity-dependent, economy, vulnerable to terms of trade
+shocks. Adequate international reserves offer a degree of resilience to external shocks, though previous
+failures to make adequate structural and exchange rate adjustments to external shocks have raised
+vulnerability. Private capital flows account for a small share of Guyana's external financing so the
+economy is not very vulnerable to adverse developments in global financial market. The PRSP sets out
+core medium-term external financing needs which can be covered by available concessional resources.
+However, in the event of further unanticipated deterioration in the external environment, the Bank would
+work, together with the 1MF, to help the GOG strengthen the macroeconomic framework and social
+safety nets. Under this scenario, and in the context of strong adjustment measures, the authorities would
+likely seek additional resources from IFIs and other funding agencies.
+
+V.
+
+CONCLUDING REMARKS
+
+96. The Bank Group program proposes a very selective package of interventions that would maximize
+the impact of the small lending program available for Guyana by relying on the Bank's comparative
+advantage in policy dialogue, strong coordination with the programs and projects of other development
+partners, and synergies with the Enhanced HIPC program. These interventions will focus on reforms in
+governance and a few key economic sectors that are critical for the implementation of Guyana's Poverty
+Reduction Strategy. The Bank is cognizant of the major risks inherent is this approach, but also
+recognizes the potential, and likely, rewards from helping Guyana to tackle key constraints to faster
+growth and poverty reduction.
+
+May 17, 2002
+Washington, DC
+
+James D. Wolfensohn
+President
+By:
+Shengman Zhang
+
+26
+
+GUYANA
+Country Assistance Strategy
+ANNEXES
+ANNEX Al.
+ANNEX A2.
+ANNEX B 1.
+ANNEX B2.
+ANNEX B3.
+ANNEX B4.
+ANNEX B5.
+ANNEX B6.
+ANNEX B7.
+ANNEX B8.
+ANNEX B9.
+ANNEX B 10.
+
+Guyana at a glance
+Country Program Matrix, FY03-05
+Selected Indicators of Bank Portfolio Performance and Management
+IDA Program Summary
+IFC and MIGA Programs
+Summary of Non-Lending Services
+Social Indicators
+Selected Economic Indicators
+Key Exposure Indicators
+Status of Bank Group Operations Portfolio
+Statement of IFC's Held and Disbursed Portfolio
+Summary of Development Priorities
+
+27
+
+Annex Al.
+
+Guyana at a glance
+Guyana
+
+Latin
+America
+&Carib.
+
+LowermiddleIncome
+
+0.77
+840
+0.64
+
+516
+3.680
+1,895
+
+2,046
+1,140
+2.327
+
+0.5
+1.5
+
+1.6
+2.3
+
+1.0
+1.3
+
+POVERTY and SOCIAL
+2001
+Population, mid-year (millions)
+GNI per capita (Atlas method. US$)
+GNI (Atlas method, US$ billions)
+
+5/2/02
+
+Development diamond'
+Life expectancy
+
+Average annual growth, 1995-01
+Population (%)
+Labor force (#)
+Most recent estimate flatest year available, 199501)
+35
+38
+63
+54
+12
+92
+1
+102
+103
+101
+
+Poverty (%of population below national poverty line)
+Urban population (%of total population)
+Life expectancy at birth (years)
+Infant mortality (per 1.000 live births)
+Child malnutrition (%of children under 5)
+Access to an improved water source (%of population)
+Illiteracy (%of population aqe 15+)
+Grossprimaryenrollment (%6ofschool-agepopulation)
+Male
+Female
+
+..
+
+75
+70
+30
+9
+85
+12
+113
+..
+..
+
+GNI
+per
+capita
+
+F--A-
+
+\i/
+
+Gross
+primary
+enrollment
+
+7-
+
+..
+
+42
+69
+32
+11
+80
+15
+114
+116
+114
+
+Access to Improved water source
+Guyana
+Lower-middle-income group
+
+KEY ECONOMIC RATIOS and LONG-TERM TRENDS
+
+GDP (US$ billions)
+Gross domestic InvestmentVGDP
+Exports of goods and servicestGDP
+Gross domestic savings/GDP
+Gross national savings/GDP
+
+1981
+
+1991
+
+2000
+
+2001
+
+0.57
+31.4
+68.9
+8.0
+
+0.34
+42.2
+116.5
+17.9
+-5.3
+
+0.71
+22.6
+96.1
+8.0
+7.3
+
+0.70
+21.9
+94.9
+5.6
+3.1
+
+-45.3
+14.0
+589.2
+26.5
+
+-15.3
+6.3
+205.8
+15.9
+118.3
+115.6
+
+-18.8
+6.5
+209.3
+15.0
+
+..
+
+-32.4
+6.3
+159.5
+
+Current account balance/GDP
+Interest payments/GOP
+Total debt/GDP
+Total debt servicelexports
+Present value of debVGDP
+Present value of debtexports
+
+..
+..
+..
+
+..
+..
+
+Economic ratios'
+
+Trade
+
+Investment
+
+Domestic
+savints
+savings
+
+Indebtedness
+1981-91
+
+1991-01
+
+2000
+
+2001
+
+2001-05
+
+-2.5
+-2.0
+-1.0
+
+4.5
+4.1
+1.7
+
+-1.4
+-2.0
+-1.9
+
+1.5
+0.8
+0.2
+
+2.7
+1.8
+1.3
+
+1981
+
+1991
+
+2000
+
+2001
+
+Growth of investment and GDP (%)
+
+Agriculture
+IndustrV
+ManufacturingJ
+Services
+
+22.2
+30.5
+14.9
+47.3
+
+38.4
+32.0
+12.9
+29.6
+
+31.1
+29.0
+8.2
+39.9
+
+31.3
+28.3
+8.2
+40.4
+
+30
+20
+
+Private consumption
+General govemment consumption
+Imports of goods and services
+
+63.0
+29.1
+92.3
+
+60.9
+21.2
+140.9
+
+67.3
+24.7
+110.7
+
+69.0
+25.4
+111.3
+
+-20
+
+1981-91
+
+1991-01
+
+2000
+
+2001
+
+Growth of exports and Imports (%)
+
+Agriculture
+Industry
+Manufacturing
+Services
+
+-0.5
+-5.2
+-8.6
+-1.1
+
+3.9
+6.6
+7.4
+3.7
+
+-9.1
+-1.6
+-13.8
+5.1
+
+3.4
+0.2
+2.5
+1.0
+
+Private consumption
+General govemment consumption
+Gross domestc investment
+Imports ot goods and services
+
+-4.7
+4.1
+-2.8
+-2.2
+
+5.5
+6.8
+-2.3
+12
+
+1.1
+28.2
+-4.6
+4.4
+
+4.1
+4.4
+-1.9
+2.0
+
+(average annual growth)
+GDP
+GDP per capita
+Exports of goods and services
+
+-Guyana
+Lower-middle-Income group
+
+STRUCTURE of the ECONOMY
+
+(%of GDP)
+10
+
+-10
+
+95
+
+97
+GDI
+
+(averaqe annual growth)
+'°
+
+-
+
+-GDP
+
+IT
+
+5
+
+0
+.5
+-10i
+
+9s
+
+97
+
+99
+
+co
+
+Exports
+
+e
+
+Imports
+
+Note: 2001 data are preliminary estimates.
+The diamonds show four kev Indicators In the country (in bold) compared with Its income-group average. If data are missing, the diamond will
+be incomplete.
+
+28
+
+01
+
+Annex Al. continued
+Guyana
+PRICES and GOVERNMENT FINANCE
+1981
+
+1991
+
+2000
+
+101.5
+157.1
+
+6.1
+6.6
+
+2001
+
+Inflation (%)
+
+Domestic pricesIS
+(%change)
+Consumer prices
+ImplcitGDPdeflator
+Central Government finance
+(%of GDP, includes current grants)
+Current revenue (including current grants)
+Current budget balance
+Overall surplus/deficit
+
+'S T
+
+..
+..
+
+2.7
+40.8
+
+I: -
+
+r
+
+0
+..
+..
+..
+
+49.2
+14.3
+0.6
+
+39.5
+4.7
+-7.5
+
+..
+
+254
+
+2000
+505
+
+39.8
+4.00CPI
+-8.6
+
+o
+s-
+
+.
+
+97
+
+9
+
+00
+
+9
+
+-G
+
+DPdetator
+
+TRADE
+(US$ millions)
+Total exports (fob)
+
+Rice
+Sugar
+Manufactures
+Total Imports (cdf)
+
+.
+
+2001
+490
+
+18
+
+52
+
+90
+
+119
+
+109
+
+20
+
+78
+
+77
+
+307
+
+585
+
+584
+
+Export and import levels (USS mill.)
+
+50
+soo
+
+..
+..
+..
+
+Food
+
+..
+
+23
+
+69
+
+69
+
+20o"
+
+Fuel and energy
+
+..
+
+67
+
+121
+
+132
+
+Capitalgoods
+
+..
+
+139
+
+132
+
+115
+
+1o
+o
+
+..
+..
+
+108
+
+81
+
+84
+
+83
+131
+
+100
+81
+
+95
+88
+
+t981
+369
+499
+-129
+
+1991
+357
+431
+-75
+
+2000
+685
+789
+-104
+
+2001
+662
+776
+-114
+
+-55
+
+-107
+29
+
+-52
+47
+
+-61
+44
+
+-153
+
+-109
+
+-131
+
+14
+
+..
+..
+
+193
+-41
+
+171
+-62
+
+147
+-16
+
+.1e
+20
+
+..
+
+2.8
+
+123
+111.8
+
+297
+182.6
+
+285
+187.6
+
+1981
+
+1991
+
+2000
+
+2001
+
+910
+42
+26
+
+1,984
+55
+134
+
+1,465
+8
+180
+
+1,460
+6
+188
+105
+
+Export price index (1995=100)
+Import price index (1995=100)
+Terms of trade (1995=100)
+
+..
+
+_
+
+"
+
+_
+9
+
+Ii'
+_9
+
+f7
+
+9
+
+nExports
+
+NImports
+
+BALANCE of PAYMENTS
+(US$ millions)
+Exports of goods and services
+Imports of goods and services
+Resource balance
+Net income
+Net current transfers
+Current account balance
+Financing items (net)
+Changes in net reserves
+Memo:
+Reserves Including gold (US$ millions)
+Conversion rate (DEC, locaU1US$)
+
+..
+
+-185
+
+Current account balance to GDP (%)
+0
+2
+
+4
+40
+
+*
+
+" 'liii
+
+16
+
+EXTERNAL DEBT and RESOURCE FLOWS
+(US$ millions)
+Total debt outstanding and disbursed
+IBRD
+IDA
+Total debt service
+
+Composition of 2001 debt (USS mill.)
+
+97
+
+102
+
+116
+
+IBRD
+
+3
+
+11
+
+4
+
+4
+
+IDA
+
+0
+
+1
+
+2
+
+3
+
+9
+111
+-15
+-2
+0
+
+158
+67
+-13
+0
+0
+
+39
+23
+0
+67
+0
+
+..
+
+23
+15
+1
+14
+2
+12
+
+18
+40
+6
+34
+6
+28
+
+0
+6
+4
+2
+2
+0
+
+0
+10
+5
+5
+2
+3
+
+Compositon of net resource flows
+Official grants
+Official creditors
+Private creditors
+Foreign direct investment
+Portfolio equity
+Word Bank program
+Commitments
+DIsbursements
+Principal repaVments
+Net flows
+Interest payments
+Net transfers
+Development Economics
+
+c 1C1
+
+E: 552
+0
+..
+
+D: 443
+
+A -IBRD
+B-IDA
+C - IMF
+
+D-Othermuitilateral
+
+E -Bilateral
+F-Private
+G -Short-term
+
+5/15/02
+
+29
+
+Annex A2. Guyana: Country Program Matrix, FY03-05
+PRSP
+Objective
+Poverty
+reduction
+
+PRSP Diagnosis
+Poverty headcount ratio
+estimated at 35% for 2001
+
+Strategic Direction
+
+Devt Partners
+
+Develop and implement
+Poverty & PRSP M&E
+system
+
+UNDP, IDB, CIDA
+
+PRSP Benchmarks
+*CAS Performance.
+Indicators (underlined)
+Reduce poverty
+headcount ratio to 31%
+by 2005
+
+World Bank Group
+Woruments
+Instruments
+Lending: PRSC I and II
+PSTAC (FY03)
+AAA: Poverty Assessment
+(FY04)
+
+STIMULATING GROWTH
+I: Enhancing
+Economic
+Growth.
+
+The PRSP recognizes that
+sound monetary and fiscal
+policies are required, if the
+unsustainable debt and deficit
+dynamics of the past are not to
+re-emerge, and to ensure the
+economy has the capacity to
+withstand external shocks. The
+financial system must be
+strengthened to intermediate
+effectively between savers and
+investors. The traditional
+sectors must increase
+competitiveness to boost
+growth and new areas of
+growth need to be developed to
+diversify the economy.
+The framework for economic
+growth must ensure
+environmental sustainability.
+
+* Strengthen fiscal
+
+policy and budget
+management
+
+* Strengthen financial
+
+sector
+
+* Private sector
+development
+
+* IMF, CIDA,
+
+IDA, USAID
+
+* IDB, IMF,
+
+DFID, IDA
+
+I
+IDB,
+USAID,
+CIDA, EU
+
+* Introduce MTEF &
+
+program budgeting
+* Comprehensive tax
+reform underway
+* Multi-year public
+sector wage policy
+Wreed
+* GNCB privatized or
+
+liquidated
+* Review of Fin.
+Institutions Act & Bank
+of Guyana Act
+* Introduce new
+Investment Code and
+new Small Business
+
+legislation
+
+* Restructuring sugar
+
+sector
+Restructuring
+forestry and mining
+sectors
+
+* CDB, IDA,
+
+DFID
+* CIDA, DFID,
+
+GTZ
+
+30
+
+* Implement
+
+Lending
+PRSC I and II
+PSTAC (FY03)
+AAA
+Development Policy
+Review (FY03)
+Fin & Priv Sec Devt.
+(ongoing)
+
+IFC Possible IFC
+investments (direct or
+through regional facilities).
+PRSC I and II
+
+modernization and
+restructuring strategy
+* Introduce new mining
+
+and forestry legislation
+
+PRSC II
+
+PRSP
+Objective
+
+PRSP Diagnosis
+
+Strategic Direction
+
+Devt Partners
+
+PRSP Benchmarks
+*CAS Performance.
+
+Woruments
+
+Indicators (underlined)
+
+* Environmental
+protection
+
+VI:
+Infrastructu
+re to support
+growth
+
+Frequent breaches of sea
+defenses pose a major risk to
+settlements and economic
+activities. The road network is
+not maintained adequately.
+Flooding threatens the economic
+development of some of the
+most productive regions of the
+country. Access to electricity is
+inadequate.
+
+Better maintenance,
+quality and coverage
+of:
+* Sea Defenses
+* Roads and river
+transport
+* Drainage and
+irrigation
+* Rural electrification
+
+* IDB, UNDP,
+
+CIDA, DFID,
+IDA, EU
+
+* Introduce Protected
+
+NPAS (FY03)
+
+Areas System
+* Strengthen mining
+and forestry
+environmental
+regulations.
+* Maintenance, quality
+
+and coverage of
+infrastructure improved
+* EU
+* EU, IDB, CDB
+* CDB
+* IDB
+
+IMPROVING GOVERNANCE AND INCREASING PUBLIC SECTOR EFFICIENCY AND ACCOUNTABILITY
+II: Good
+governance
+and the
+business
+environment
+
+Delivery of improved public
+services and infrastructure as
+envisaged in the PRSP depends
+on public sector effectiveness.
+At present the social and
+economic return on public
+spending is low. Problems
+include weak financial
+management, lack of effective
+control, over-centralization of
+decision-making,
+overlapping/contradictory
+jurisdictions and responsibilities
+
+* Public sector
+
+* CIDA, IDB,
+
+*Institutional and
+
+institutional and
+regulatory reforms in
+place
+
+UNDP,
+
+organizational reform
+under the Public Sector
+Modernization Program
+
+* Improved public
+
+* CIDA, IDA,
+
+accountability
+
+IDB, UNDP
+
+*New Procurement and
+Tenders Act gassed &
+operational
+*New Audit Act passed
+& operational
+
+* Justice and crime
+reduction programs
+
+* USAID, DFID
+
+31
+
+Lending
+PRSC I and II
+PSTAC (FY03)
+AAA
+Governance Review (FY05)
+
+PRSP
+Objective
+
+PRSP Diagnosis
+
+Strategic Direction
+
+and a deterioration in the quality
+and composition of public
+employment.
+
+* Implement local
+
+Devt Partners
+* IDA, USAID
+
+*Legislative and
+institutional reforms to
+strengthen and ensure
+viability of local
+governments institutions
+
+* IDB, DFID,
+
+*Revise Land Use
+policy
+
+government reform
+
+Stronger land
+administration
+
+PS
+ecmrsWrdBn
+PRSP Benchrarks
+Indicators (underlined)
+
+GTZ
+
+ru
+World Bank Group
+Instruments
+
+IMPROVING DELIVERY OF SOCIAL SERVICES AND STRENGTHENING SAFETY NETS
+III:
+Investment
+in human
+capital
+
+Both the health and education
+systems provide poor quality
+service, with a wide variation in
+quality and accessibility.
+The HIV/AIDS infection rate is
+between 3-5% of the population
+and rising.
+
+IV:
+Infrastructu
+re to support
+services
+
+Poor water quality and
+insufficient access have led to
+water-borne diseases in most
+parts of the country. Squatter
+settlements on governmentowned land, spurred by
+
+* Reforms to increase
+enrollments, reduce
+overcrowding and
+absenteeism, and
+improve trained
+teacher ratio
+
+* IDB, DFID, IDA
+
+* Reforms to improve
+
+* IDB, CIDA,
+
+* PRSP goals for health
+
+the health status of the
+population and
+provide equitable
+access to health care
+
+PAHO
+
+attained
+* Implement model for
+improved primary health
+care system
+
+* Implement strategy
+to prevent and treat
+HIV/AIDS infection
+
+* UNAIDS, IDA,
+
+* National strategic plan
+
+CIDA, USAID,
+PAHO, CDC
+
+for HIV/AIDS approved
+and implemented
+
+* Improved water &
+sanitation
+
+* DFID, CDB,
+IDB, IDA, EU
+
+* PRSP Water &
+
+* PRSP goals for
+
+education attained
+* Establish a formulabased system for
+allocation of financial
+resources to schools
+
+32
+
+Housing goals attained
+* New water bill passed.
+and utilities merzed
+* Private management
+contractor appointed
+
+Secondary Sch. Reform
+Project (ongoing)
+PRSC I and II
+
+HIV/AIDS proj (FY03)
+
+PRSC I and II
+Water Supply Project
+(ongoing)
+
+PRSP
+Objective
+
+PRSP Diagnosis
+
+Strategic Direction
+
+Devt Partners
+
+PRSP Benchmarks
+*CAS Performance.
+Indicators
+(underlined)
+
+______________________
+
+inadequate land allocation
+procedures and access to lowincome housing have become a
+major problem.
+V: Safety
+nets
+
+VII: Special
+intervention
+strategies
+
+Coverage and benefit levels are
+low and relevant institutions
+have weak financial and human
+resource capacities. PRSP
+reforms may have employment
+implications in several economic
+sectors.
+
+The PRSP identifies certain
+regions with poverty levels
+significantly above the national
+average. In Region 10, the
+decline in performance of the
+Linden Bauxite mine has been
+an additional driver of poverty.
+
+* Improved access to
+
+Instruments
+Instru ments
+
+* EU, IDB
+
+adequate housing
+
+* Cash support
+
+mechanisms for
+displaced workers
+seeking employment
+* Targeted subsidies
+for electricity and
+water tariffs
+* Support for pregnant
+and new mothers
+
+* IDB, CDB, EU,
+DFID, IDA, UNDP
+
+Programs to boost income generation, access to
+markets and access to basic services in:
+* Barima-Waini &
+
+* E-HIPC, DFID
+
+Region I
+* Region 8 Devt
+* Rupununi
+* Linden (Region 10)
+
+UNICEF, EU
+
+33
+
+* Improve efficiency of
+
+social safety nets
+programs, including
+targeting
+* Institutional
+strengthening of benefit
+administration
+
+Special Intervention
+Strategies in place and
+under implementation
+
+Lending
+PRSC I and II
+PSTAC (FY03)
+AAA
+Poverty Assessment (FY04)
+
+AAA
+Poverty Assessment (FY04)
+
+Annex B1. Selected Indicators* of Bank Portfolio Performance and Management
+As of May 6,2002
+1999
+
+2000
+
+2001
+
+2002
+
+Number of Projects Under Implementation
+Average Implementation Period (years) b
+Percent of Problem Projects by Number a
+
+4
+3.9
+25
+
+4
+3.2
+0
+
+4
+4.2
+0
+
+3
+5.6
+0
+
+Percent of Problem Projects by Amount a
+
+31.4
+
+0
+
+0
+
+0
+
+25.0
+31.4
+20.1
+
+0
+0
+18.2
+
+0
+0
+25.8
+
+0
+0
+28.4
+
+CPPR during the year (yes/no)
+Supervision Resources (total US$'000s),
+Average Supervision (US$'000s/project)
+
+Yes
+338
+84.5
+
+No
+370
+92.5
+
+No
+239
+59.75
+
+No
+178
+44.5
+
+Memorandum Item
+
+Since FY 80
+
+Indicator
+PortfolioAssessment
+
+c
+
+Percent of Projects at Risk by Number a,d
+Percent of Projects at Risk by Amount a d
+Disbursement Ratio (%) e
+
+Portfolio Management
+
+Projects Evaluated by OED by Number
+Projects Evaluated by OED by Amt (US$ millions)
+% of OED Projects Rated U or HU by Number
+% of OED Projects Rated U or HU by Amt
+
+Last Five FYs
+
+17
+265.0
+37.5
+30.2
+
+5
+66.3
+20.0
+30.7
+
+a. As shown in the Annual Report on Portfolio Perfornance (except for current FY).
+b. Average age of projects in the Bank's country portfolio.
+c. Percent of projects rated U or HU on development objectives (DO) and/or implementation progress (IP).
+d. As defined under the Portfolio Improvement Program.
+e. Ratio of disbursements during the year to the undisbursed balance of the Bank's portfolio at the beginning of the year:
+Investment projects only.
+* All indicators are for projects active in the Portfolio, with the exception of Disbursement Ratio, which includes all active
+projects as well as projects which exited during the fiscal year.
+
+Annex B2. IDA Program Summary (as of May 6,2002)
+IDA Base-Case Lending Programa
+Fiscal
+Strategic Rewards Implementation
+year Projects
+US$(m)
+(H/M/L)
+Risks (OWM/L)
+2003 Public Sector Technical Assistance Credit
+4.0
+H
+H
+Poverty Reduction Support Credit I
+12.0
+H
+H
+
+Subtotal FY03
+2004
+2005
+
+HIV/AIDS Prevention and Control
+
+16.0
+5.0
+
+b
+
+Subtotal FY04
+
+5.0
+
+Poverty Reduction Support Credit II
+
+9.0
+
+Subtotal FY05
+TOTAL
+
+H
+
+H
+
+H
+
+H
+
+9.0
+30.0
+
+a. This table presents the proposed program for the next three fiscal years.
+b. This project is not included in the Guyana's FY03-05 IDA allocation, because it is part of the Caribbean Region
+HIV/AIDs APL approved by the Board in June 2001.
+
+34
+
+Annex B3. IFC & MIGA Programs, FY 1998-2001 in Guyanaa
+1998
+
+1999
+
+2001
+
+2000
+
+0.00
+0.00
+0.00
+2.91
+IFC approvals (US$m)
+0.00
+0.00
+0.00
+0.00
+MIGA guarantees (US$m)
+including
+countries
+Caribbean
+sectors
+in
+private
+of
+the
+benefit
+for
+the
+facilities
+regional
+a. IFC has approved
+Guyana. They include:
+- Caribbean Loan Facility, US$50m (including a $25m B loan), FY97.
+- Credit line for Royal Merchant Bank, Trinidad and Tobago,US$40m, FY01.
+- Credit line for Republic Bank, Trinidad and Tobago, US$40m, FY01.
+
+Annex B4. Summary of Non-Lending Servicesa (as of May 6,2002)
+Completion
+Recent completions
+FY99
+Country Procurement Assessment Report (CPAR)
+FY01
+Public Expenditure Review (PER)
+Institutional environment & public officials'
+FY01
+performance in Guyana (Working Paper)
+Fiscal implications of achieving the proposed
+universal secondary education in Guyana (Policy
+FY01
+Note)
+FY01
+Capacity Building Plan (informal)
+Underway
+FY02
+Country Fin. Accountability Assessment (CFAA)
+FY02
+Public Expenditure Review Update
+FY02
+CPAR Action Plan Update
+FY02
+Mining Sector Review (informal)
+FY02
+Foreign Investment Advisory Service report
+FY02
+(informal)
+Review
+Information & Comm. Tech.
+FY02
+Small and Medium-sized Enterprises Review
+Planned
+FY03
+Development Policy Review
+Subtotal FY03
+FY04
+Poverty Assessment
+Subtotal FY04
+FY05
+Governance Review
+Subtotal FY05
+a. Does not include various regional studies.
+b. Govemment (G), donor (D), Bank (B), public dissemination (P).
+c. Knowledge generation (KG), public debate (PD), problem-solving (PS).
+Product
+
+35
+
+Cost ($000)
+
+Audienceb
+
+Objectivec
+
+150
+119
+
+G/B
+G/B/D
+
+KG/PS
+KG/PS
+
+40
+
+G/B/D/P
+
+KG
+
+12
+15
+
+GIB/D/P
+G/B/D
+
+KG
+PS
+
+100
+30
+25
+31
+20
+10
+IFC
+
+G/B
+G/B/D
+G/B
+G/B
+G/B
+B
+GIB/D
+
+KG/PS
+KG/PS
+KG/PS
+KG/PS
+KG/PS
+KG
+KG
+
+160
+160
+160
+160
+175
+175
+
+G/B/D/P
+
+KG/PD/PS
+
+G/B
+
+KG/PD
+
+G/B/D/P
+
+KG/PD
+
+Annex B5. Guyana: Social Indicators
+Latest single year
+POPULATION
+Total population, mid-year (millions)
+Growth rate (% annualaveragefor period)
+Urban population (% of population)
+Total fertility rate (birthsper woman)
+
+1970-75
+
+1980-85
+
+1994-00
+
+0.7
+0.7
+30.0
+4.3
+
+0.8
+-0.2
+31.6
+2.9
+
+0.8
+0.5
+38.2
+2.4
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+35.0
+16.3
+92.5
+36.7
+
+690
+..
+
+510
+48
+
+870
+132
+
+..
+
+..
+
+POVERTY (% of population)*
+National headcount index
+Urban headcount index
+Rural interior headcount index
+Rural coastal headcount index
+INCOME
+GNI per capita (US$)
+Consumer price index (1995=100)
+Food price index (1995=100)
+
+Same region/income group
+Lat. Am & Lower-middleCaribbean
+income
+515.6
+1.6
+75.3
+2.6
+
+2,046.0
+1.0
+42.4
+2.1
+
+3,680
+152
+
+1,140
+149
+
+2.7
+4.7
+
+..
+
+3.4
+3.6
+7.4
+
+..
+
+97
+
+91
+
+..
+..
+
+..
+..
+
+..
+..
+
+99
+100
+99
+
+..
+..
+..
+
+94
+98
+
+91
+
+85
+93
+62
+
+80
+95
+69
+
+40
+75
+22
+
+87
+83
+12
+
+90
+87
+9
+
+87
+87
+11
+
+INCOME/CONSUMPTION DISTRIBUTION
+Gini index
+SOCIAL INDICATORS
+Public expenditure
+Health (% of GDP)
+..
+Education (% of GNI)
+4.9
+Social security and welfare (% of GDP)
+1.5
+Net primary school enrollment rate (%of age group)
+Total
+88
+Male
+88
+Female
+88
+Access to an improved water source (% of population)
+Total
+..
+Urban
+..
+Rural
+..
+Immunization rate (% under 12 months)
+Measles
+..
+
+DPT
+
+..
+
+..
+
+9.8
+4.4
+
+2.4 §
+5.0
+
+Child malnutrition (% under 5 years)
+25
+Life expectancy at birth (years)
+Total
+60
+62
+63
+70
+Male
+58
+59
+59
+67
+Female
+63
+65
+67
+73
+Mortality
+Infant (per thousand live births)
+72
+66
+54
+30
+Under 5 (per thousand live births)
+101
+90
+73
+38
+Adult (15-59)
+Male (per 1,000 population)
+274
+294
+260
+207
+Female (per 1,000 population)
+217
+210
+144
+122
+Maternal (per 100,000 live births)
+..
+..
+190
+Births attended by skilled health staff (%)
+..
+93
+Note: 0 or 0.0 means zero or less than half of the unit shown. Net enrollment ratios exceeding 100 indicate
+discrepancies between the estimates of school-age population and reported enrollment data.
+* Guyana PRSP 2001
+§ 2001 Central government social spending, only.
+
+36
+
+69
+67
+72
+32
+40
+192
+133
+
+Annex B6. Guyana: Selected Economic Indicators
+
+National accounts (as % of GDP)
+Gross domestic producta
+Agriculture
+Industry
+Services
+
+100
+35.4
+33.7
+30.8
+
+100
+34.6
+30.8
+34.6
+
+100
+34.6
+30.0
+35.4
+
+100
+31.1
+29.0
+39.9
+
+100
+31.3
+28.3
+40.4
+
+100
+31.9
+26.7
+41.4
+
+100
+32.2
+26.0
+41.8
+
+100
+32.6
+25.4
+42.0
+
+100
+32.8
+25.0
+42.2
+
+100
+33.5
+24.7
+41.8
+
+Total Consumption
+Gross domestic fixed investment
+Government investment
+Private investment
+
+79.4
+30.3
+18.1
+12.3
+
+83.1
+28.8
+15.4
+13.4
+
+84.7
+23.4
+11.6
+11.8
+
+92.0
+22.6
+13.8
+8.8
+
+94.4
+21.9
+14.0
+7.9
+
+96.9
+22.0
+14.0
+8.0
+
+97.5
+25.0
+15.9
+9.1
+
+94.7
+31.5
+20.6
+10.9
+
+95.5
+27.5
+16.1
+11.4
+
+94.3
+26.2
+14.5
+11.7
+
+98.8
+108.5
+
+96.0
+108.0
+
+96.5
+104.6
+
+96.1
+110.7
+
+94.9
+111.3
+
+91.8
+110.7
+
+92.3
+114.8
+
+92.1
+118.3
+
+88.4
+111.4
+
+86.9
+107.5
+
+20.6
+16.2
+
+16.9
+15.0
+
+15.3
+12.6
+
+8.0
+7.3
+
+5.6
+3.1
+
+3.1
+1.8
+
+2.5
+4.7
+
+5.3
+8.1
+
+4.5
+8.3
+
+5.7
+9.7
+
+749.2
+
+717.6
+
+696.3
+
+712.0
+
+697.5
+
+715.7
+
+724.6
+
+753.2
+
+787.1
+
+833.8
+
+900
+
+880
+
+890
+
+870
+
+840
+
+845
+
+854
+
+847
+
+878
+
+879
+
+6.2
+6.2
+
+-1.7
+-1.7
+
+3.0
+3.0
+
+-1.4
+-1.4
+
+1.5
+1.5
+
+1.8
+1.8
+
+2.7
+2.7
+
+3.0
+3.0
+
+3.4
+3.4
+
+4.2
+4.2
+
+Real annual per capita growth rates (%, calculated from 1988 prices)
+Gross domestic product at market
+prices
+5.8
+-2.2
+2.4
+-2.0
+10.4
+2.5
+4.3
+6.5
+Total consumption
+Private consumption
+9.3
+2.4
+4.0
+0.4
+
+0.8
+3.5
+3.4
+
+1.0
+3.2
+3.6
+
+1.9
+2.2
+-0.9
+
+2.0
+-1.5
+-1.6
+
+2.2
+2.8
+2.4
+
+3.5
+1.9
+1.8
+
+Exports (GNFS)b
+Imports (GNFS)
+Gross domestic savings
+Gross national savingsc
+Memorandum items
+Gross domestic product
+(US$ million at current prices)
+GNP per capita (US$, Atlas method)
+Real annual growth rates (%,
+calculated from 1988 prices)
+Gross domestic product at market
+prices
+Gross Domestic Income
+
+Balance of Payments (US$ millions)
+Exports (GNFS)b
+Merchandise FOB
+Imports (GNFS)b
+Merchandise FOB
+Resource balance
+Net current private transfers
+Current account balance
+
+740
+592
+813
+578
+-73
+40
+-107
+
+689
+547
+775
+541
+-86
+44
+-98
+
+665
+518
+728
+495
+-63
+39
+-79
+
+685
+505
+789
+527
+-104
+47
+-109
+
+662
+490
+776
+526
+-114
+44
+-131
+
+657
+482
+792
+534
+-135
+46
+-144
+
+669
+490
+832
+567
+-163
+47
+-154
+
+694
+511
+891
+615
+-197
+48
+-183
+
+696
+507
+877
+598
+-181
+51
+-158
+
+725
+532
+896
+610
+-171
+54
+-143
+
+Net private foreign direct investment
+Long-termloans(net)
+Official
+Private
+Othercapitald
+Change in reservese
+
+52
+38
+18
+20
+14
+3
+
+44
+13
+10
+4
+24
+17
+
+48
+-111
+14
+-125
+151
+-9
+
+67
+43
+23
+20
+61
+-62
+
+56
+40
+13
+27
+51
+-16
+
+56
+32
+27
+5
+66
+-10
+
+58
+43
+52
+-9
+63
+-11
+
+60
+41
+32
+9
+62
+21
+
+61
+41
+28
+13
+63
+-7
+
+62
+14
+26
+-12
+88
+-21
+
+-9.8
+
+-12.0
+
+-9.1
+
+-14.6
+
+-16.4
+
+-18.8
+
+-22.5
+
+-26.2
+
+-23.0
+
+-20.5
+
+13.8
+13.8
+13.8
+12.7
+
+-1.6
+-1.6
+-1.6
+4.2
+
+-5.4
+-5.4
+-5.4
+4.8
+
+-2.5
+-2.5
+-2.5
+0.9
+
+0.4
+0.4
+0.4
+6.1
+
+0.6
+0.6
+0.6
+8.6
+
+-2.5
+-2.5
+-2.5
+-3.5
+
+3.5
+3.5
+3.5
+1.2
+
+Memorandum items
+Resource balance (% of GDP)
+Real annual growth rates (1988 prices)
+Merchandise exports (FOB)
+Primary
+Manufactures
+Merchandise imports (CIF)
+
+-1.9
+-1.9
+-1.9
+-13.2
+continued
+
+37
+
+-0.3
+-0.3
+-0.3
+-1.0
+
+Annex B6. Guyana: Selected Economic Indicators (continued).
+
+Public finance (as %of GDP at market prices)'
+36.7
+Current revenues
+26.5
+Current expenditures
+10.2
+Current account surplus (+)l deficit(-)
+15.4
+Capital expenditure
+1.9
+Foreign financing
+
+37.4
+27.3
+10.1
+11.8
+5.2
+
+41.4
+33.9
+7.5
+13.8
+5.3
+
+41.4
+34.3
+7.1
+14.0
+6.1
+
+40.6
+34.1
+6.5
+14.0
+4.5
+
+41.2
+34.8
+6.4
+15.9
+8.7
+
+42.1
+33.8
+8.3
+20.6
+8.2
+
+42.1
+34.4
+7.7
+16.1
+8.0
+
+42.3
+33.4
+8.9
+14.5
+4.6
+
+36.7
+26.5
+10.2
+15.4
+1.9
+
+Monetary indicators
+M2/GDP
+Growth ofM2(%)
+Private sector credit growth /
+total creditgrowth (%)
+
+60.3
+11.7
+
+63.6
+6.8
+
+62.3
+12.1
+
+65.7
+10.9
+
+71.1
+8.9
+
+72.8
+8.8
+
+73.4
+6.7
+
+73.7
+6.0
+
+74.3
+5.9
+
+74.6
+6.7
+
+-65.3
+
+-367.2
+
+-119.4
+
+-103.2
+
+31.7
+
+96.7
+
+-137.9
+
+161.0
+
+212.5
+
+168.7
+
+Price indices( YR88 =100)
+Merchandise export price index
+Merchandise import price index
+Merchandise terms of trade index
+Real exchange rate (US$/LCU)g
+
+96.7
+108.2
+89.3
+117.4
+
+90.7
+97.3
+93.2
+102.7
+
+87.5
+102.6
+85.3
+104.8
+
+85.6
+110.2
+77.6
+112.9
+
+87.8
+104.9
+83.7
+108.2
+
+88.5
+105.7
+83.7
+108.2
+
+89.5
+105.6
+84.8
+108.2
+
+92.8
+105.6
+87.9
+108.2
+
+94.5
+106.5
+88.8
+108.2
+
+95.8
+107.3
+89.2
+108.2
+
+3.6
+1.4
+
+4.6
+3.0
+
+7.5
+11.2
+
+6.1
+6.6
+
+2.7
+-0.8
+
+4.3
+4.4
+
+4.5
+3.1
+
+3.5
+2.4
+
+2.8
+1.7
+
+2.5
+1.9
+
+Real interest rates
+Consumer price index (p.a.% change)
+GDP deflator (% change)
+
+a. GDP at factor cost
+b. "GNFS" denotes "goods and nonfactor services."
+c. Excluding grants.
+d. Net. Including errors & ornissions, exceptional financing. Exceptional financing consists of debt relief provided under o-HIPC for
+years before 2003, o-HIPC debt relief provided through flow rescheduling and total e-HIPC relief since 2003, but excludes debt relief
+from CMCF on repayment which are accounted for as stock of debt reduction in the BOG liabilities
+e. Includes use of IMF resources.
+f. Non-financial public service. Current Revenue includes HIPC assistance grants and other current grants
+g. "LCU" denotes "local currency units." An increase in US$/LCU denotes appreciation.
+
+38
+
+Annex B7. Guyana: Key Exposure Indicators
+
+Total debt outstanding and
+disbursed (TDO) (US$m)a
+
+1635
+
+1686
+
+1524
+
+1465
+
+1460
+
+1474
+
+1451
+
+1500
+
+1524
+
+1531
+
+12
+
+27
+
+18
+
+-7
+
+-7
+
+18
+
+52
+
+50
+
+25
+
+10
+
+132
+
+136
+
+103
+
+116
+
+116
+
+112
+
+108
+
+111
+
+105
+
+123
+
+Debt & debt service indicators (%)
+TDO/XGSb
+208.4
+TDOMGDP
+218.3
+TDS/XGS
+16.8
+Concessional/TDO
+55.6
+
+224.5
+234.9
+18.1
+56.5
+
+209.0
+218.9
+14.1
+71.0
+
+199.4
+205.8
+15.7
+74.3
+
+206.4
+209.3
+16.4
+
+209.3
+206.0
+15.9
+
+202.6
+200.2
+15.2
+
+201.8
+199.1
+15.0
+
+204.1
+193.6
+14.1
+
+196.7
+183.6
+15.8
+
+..
+
+..
+
+..
+
+5.1
+
+4.5
+
+4.5
+
+3.7
+
+3.4
+
+1.8
+
+1.9
+
+0.9
+
+0.0
+
+0.0
+
+54.1
+0.9
+19
+
+57.5
+0.8
+16
+
+56.5
+0.6
+12
+
+49.1
+0.6
+8
+
+45.3
+0.6
+6
+
+42.1
+0.3
+3
+
+44.8
+0.3
+1
+
+46.3
+0.1
+0
+
+48.6
+0.0
+0
+
+43.3
+0.0
+0
+
+211
+
+213
+
+214
+
+Net disbursements (US$m)a
+Total debt service (TDS) (US$m)'
+
+IBRD exposure indicators (%)
+IBRD DS/public DS
+Preferred creditor DS/public DS
+(%)'
+
+IBRD DS/XGS
+IBRD TDO (US$m)d
+Of which present value of
+guarantees (US$m)
+Share of IBRD portfolio (%)
+IDA TDO (US$m)d
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+218
+
+235
+
+184
+
+180
+
+188
+
+199
+
+206
+
+IFC (US$m)
+Loans
+Equity and quasi-equity /c
+MIGA
+MIGA guarantees (US$m)
+a. Includes public and publicly guaranteed debt, private nonguaranteed, use of IMF credits and net short- term capital.
+Reflects the stock-write-off of the original and E-HIPC. E-HIPC completion point is assumed to take place in early 2003.
+b. "XGS" denotes exports of goods and services, including workers' remittances.
+c. Preferred creditors are defined as IBRD, IDA, the regional multilateral development banks, the IMF, and the Bank for
+International Settlements.
+d. Includes present value of guarantees.
+e. Includes equity and quasi-equity types of both loan and equity instruments.
+
+39
+
+Annex B8. Status of Bank Group Operations Portfolio (IDA and Grants)
+as of May 6, 2002
+Closed Projects 26
+
+Difference bet.
+Expected and
+Active Projects
+Last PSR
+Actual
+Supervision Rating
+Original Amount in US$ Millions Disbursements
+Project Project Name
+Devt
+Implement'n Fiscal IBRD IDA Grant Canc. Undis. Orig.
+Frm
+ProD c
+Prjc aeObjectives
+Progress
+YearRed
+P057272 Financial & Private Sector
+S
+S
+2000
+4.8
+0.4
+0
+P007257 Water Supply TA & Rehab
+S
+S
+1994
+17.5
+8.0
+9.0
+8.9
+P007269 Secondary School Reform
+HS
+S
+1996
+17.3
+6.5
+7.5
+4.0
+Overall Result
+39.6
+14.8
+16.4
+12.9
+a. Intended disbursements to date minus actual disbursements to date as projected at appraisal.
+Loans/Credits Summary in USD
+Principal:
+Cancellations:
+Disbursed:
+Undisbursed:
+Repaid:
+Due:
+Exchange Adjustment:
+Borrower's Obligation:
+Sold 3rd Party:
+Repaid 3rd Party:
+Due 3rd Party:
+
+IBRD
+79,950,000
+3,738,478
+76,211,522
+0
+71,394,827
+4,049,295
+1,259,930
+5,309,225
+767,400
+767,400
+0
+
+IDA
+307,724,655
+37,964,007
+257,910,207
+15,704,776
+62,287,175
+180,684,382
+0
+180,684,382
+0
+0
+0
+
+40
+
+TOTAL
+387,674,655
+41,702,485
+334,121,729
+15,704,776
+133,682,002
+184,733,677
+1,259,930
+185,993,607
+767,400
+767,400
+0
+
+Annex B9. Guyana: Statement of IFC's Held aiMu Disbursed Portfolio
+as of May 6,2002.
+(in US Dollars millions)
+Held
+FY Approval
+1998
+1998
+1998
+
+Company
+Guyam Bank
+SEF Cara Lodge
+SEF IDS
+
+Total Portfolio:
+
+Disbursed
+
+Loan Equity Quasi Partic Loan Equity Quasi Partic
+0.0
+0.7
+1.2
+
+1.0
+0.0
+0.0
+
+0.0
+0.0
+0.0
+
+0.0
+0.0
+0.0
+
+0.0
+0.5
+1.2
+
+0.5
+0.0
+0.0
+
+0.0
+0.0
+0.0
+
+0.0
+0.0
+0.0
+
+1.9
+
+1.0
+
+0.0
+
+0.0
+
+1.7
+
+0.5
+
+0.0
+
+0.0
+
+Annex B10. Guyana: Summary of Development Priorities
+Network area
+
+Country
+performance
+
+Major Issues
+
+Poverty Reduction and Economic Management
+Rural and indigenous poverty
+Poverty reduction
+Economic policy
+Fair
+Fiscal management
+Public sector
+Poor
+Public expenditure management
+Fiduciary reform
+Decentralization
+Fair
+Political empowerment
+Gender
+Human Development
+Education
+Good
+Quality and equity
+Health, nutrition and
+Fair
+Quality and equity
+population
+HIV/AIDS
+Social protection
+Fair
+Social impact of upcoming
+structural reforms
+Strength of safety nets
+Environmentally and Socially Sustainable Development
+Rural development
+Delivery of basic services,
+Special Intervention Strategies
+Local government strengthening
+Sugar sector reform,
+Amerindian affairs
+Environment
+Fair
+Natural resource conservation
+Social development
+Amerindian affairs
+Finance, Private Sector and Infrastructure
+Financial sector
+Fair
+Strengthening supervision
+Private sector
+Poor
+Completing privatization
+Strengthening investment
+climate
+Energy and mining
+Poor
+Regulatory environment
+Infrastructure
+Fair
+Water sector reforn
+Planning & procurement
+practices
+
+41
+
+Country
+priority
+
+Bank
+priority
+
+H
+H
+H
+
+H
+H
+H
+
+M
+
+M
+
+H
+H
+
+H
+M
+
+M
+
+M
+
+H
+
+H
+
+H
+M
+
+H
+M
+
+M
+H
+
+H
+H
+
+H
+H
+
+H
+H
+
+Reconciliation
+of Country and
+Bank priorities
+
+HIV/AIDS proj
+
+IDF grant
+Fin. Sec proj.
+
+IBRD 25723
+
+AVX
+
+t
+JWa?SU!E
+Xtsw
+
+<(/+
+
+<~~RIdgew/0f<t
+
+REIO
+
+lRt ItRGO
+
+7
+1
+
+/
+Zl
+
+@~~~~~~~~~~~~RGO
+CAIAM
+
+s | || | |
+
+)
+
+/
+
+NAIOA
+r¢rnmoS
+
+4
+(
+
+\.
+
+11
+
+S
+
+U
+
+f~~~~~~~~~~~~IN
+
+5
+
+onais
+
+RIVERS ~~~~~~~~~
+5(~
+
+~
+
+REGION
+J
+
+R I N A ME3
+
+~~\ol|ors,1l
+~ ~~ ~ ~ ~ ~ ~ ~ ~ ~ ~~~~h
+
+PRMARYROAS
+
+R I N A M EA
+
+boundaries,
+
+onAA thi
+
+TAKIOEES
+
+status
+
+mo
+
+of
+
+any
+
+do
+
+notIF
+
+tJerr/itory,
+
+. 10 TOWNSf t
+
+~
+
+~ ~ ~~ ION94
+~ ~ ~ ~ ~ ~ ~ ~ ~~AC
+
+WICHABAI
+
+Report No.:
+Type:
+
+24073
+S
+
+GUA
+
+

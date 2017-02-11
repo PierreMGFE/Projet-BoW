@@ -1,0 +1,413 @@
+d
+e
+
+z
+
+i
+
+r
+
+o
+h
+
+t
+
+u
+
+A
+
+e
+
+r
+
+u
+
+s
+
+o
+
+l
+
+c
+s
+
+i
+
+D
+
+c
+
+i
+l
+
+b
+u
+
+P
+
+d
+e
+
+z
+
+i
+
+r
+
+o
+h
+
+t
+
+u
+
+A
+
+e
+
+r
+
+u
+
+s
+
+o
+
+l
+
+c
+s
+
+i
+
+D
+
+c
+
+i
+l
+
+b
+u
+
+P
+
+d
+e
+
+z
+
+i
+
+r
+
+o
+h
+
+t
+
+u
+
+A
+
+e
+
+r
+
+u
+
+s
+
+o
+
+l
+
+c
+s
+
+i
+
+D
+
+c
+
+i
+l
+
+b
+u
+
+P
+
+d
+e
+
+z
+
+i
+
+r
+
+o
+h
+
+t
+
+u
+
+A
+
+e
+
+r
+
+u
+
+s
+
+o
+
+l
+
+c
+s
+
+i
+
+D
+
+c
+
+i
+l
+
+b
+u
+
+P
+
+COLOMBIA 
+
+Systematic Country Diagnostic 
+
+June 22, 2015 
+
+___________________________________________________________________________________
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Acknowledgements 
+
+This Colombia Strategic Country Diagnostic was produced by Carter J. Brandon (Lead Economist, 
+GENDR), Barbara Cunha (Senior Country Economist, GMFDR), Samuel Freije-Rodríguez (Lead 
+Economist, GPVDR) and Luciana Marchesini (Strategy Officer, CGEDR); with the research 
+assistance of Domoina Rambeloarison (Junior Professional Associate, LCC1A), Christopher Sall 
+(Consultant, GMFDR), and Daniel Valderrama (Junior Professional Associate, GPVDR). Overall 
+supervision was provided by Gerardo Corrochano (Country Director for Colombia and Mexico), 
+Issam Abousleiman (Country Manager for Colombia), Eduardo Wallentin (Senior Manager, 
+CGECF), Dan Biller (Sector Manager, MIGEC), Louise J. Cord (Manager, GPVDR) and Pablo 
+Saavedra (Manager, GFMDR). 
+
+In addition, the following people provided overall guidance and substantive inputs through comments 
+to early drafts, as well as participation in several internal and external seminars: Jose Luis Acero 
+(GSURR), Pedro Arizti (GGODR), Marcelo Becerra (GEDDR), Harold Bedoya (LCC1C), Jairo 
+Bedoya (LCCCO), Patricia Caraballo (GFMDR), Gianfilippo Carboni (Consultant, MIGEC), Wendy 
+Cunningham (Program Leader, LCC1C), Jozef Draaisma (GMFDR), Marcelo Fabre (GSURR), 
+Antonio Giuffrida (GHNDR), Eva M. Gutiérrez (Program Leader, LCC1C), Leonardo Iacovone 
+(GTCDR), Jutta Kern (LCC1A), Daniele La Porta (GEEDR), Carlos A. Molina Prieto (GSURR), 
+Michael Morris (GFADR), Angélica Nuñez (GSURR), Ana María Oviedo (GSPDR), Camila 
+Rodríguez (GTIDR), Carlos Rodríguez Castelán (GPVDR), Daniel Sellen (Program Leader, 
+LCC1C), Jorge Luís Silva (GGODR), Claudia Lorena Trejos (GSURR), and María Clara Ucrós 
+(LCREC). 
+
+Peer reviewers to the concept note and the final SCD are: Marianne Fay (Chief Economist , GCCCE), 
+Luís Felipe López-Calva (Lead Economist, GPVDR) and David Rosenblatt (Principal Advisor, 
+DECOS). 
+
+Administrative support was provided by Beatriz Elena Franco (LCC1A), Elsa Coy (LCCCO) and 
+Lorena Bustos (LCCCO).  
+
+1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abbreviations and Acronyms 
+
+CAGR 
+CERAC 
+CREG 
+
+Compounded Annual Growth Rate 
+Conflict Analysis Resource Center  
+Gas Regulation Commission 
+
+CSA 
+
+DNP 
+
+ELN 
+
+EPS 
+FARC  
+
+FDI 
+GDP 
+
+Climate-smart Agriculture 
+
+Departamento Nacional de 
+Planeación - National Planning 
+Department 
+Ejército de Liberación Nacional – 
+National Army for Liberation  
+Entidad Promotora de Salud 
+Fuerzas Armadas Revolucionarias 
+de Colombia - Revolutionary 
+Armed Forces of Colombia 
+Foreign Direct Investment 
+Gross Domestic Product 
+
+GHG 
+
+Greenhouse Gas 
+
+GOC 
+IDP 
+
+Government of Colombia 
+Internally Displaced Person 
+
+MIC 
+MILA 
+
+LAC 
+MHCP 
+
+Latin America and the Caribbean 
+Ministerio de Hacienda y Crédito 
+Público – Ministry of Finance and 
+Public Credit 
+Middle Income Country 
+Mercado Integrado 
+Latinoamericano-Integrated Latin 
+American Market 
+MINSALUD Ministerio de Salud y Protección 
+Social-Ministry of Health and 
+Social Protection 
+
+ MTFF Medium Term Fiscal Framework 
+ NGO 
+Non-governmental Organization 
+ OCYT Observatorio de Ciencia y Tecnología - 
+Observatory for Science and Technology 
+ OECD Organization for Economic Cooperation 
+and Development 
+Programme for International Student 
+Assessment 
+
+ PISA 
+
+ POS 
+
+ R&D 
+ RS 
+
+Plan Obligatorio de Salud - Mandatory 
+Health Plan 
+ PPP 
+Purchasing Power Parity 
+ PPSAM Programa de Protección Social para el 
+Adulto Mayor-Social Protection Program 
+for the Elderly 
+Research and Development 
+Régimen Subsidiado en Salud – Health 
+Subsidized Regime 
+Registro Unido –Unified Registry of 
+Beneficiaries 
+Systematic Country Diagnostic  
+Servicio Nacional de Aprendizaje-
+National Service of Prentice 
+Shared Prosperity Indicator 
+Total Factor productivity 
+
+ SCD 
+ SENA 
+
+ RUAF 
+
+ SIP 
+ TFP 
+
+ VAT 
+ VLR 
+
+Value Added Tax 
+Victims and Land Restitution 
+
+ WDI 
+
+World Development Indicator 
+
+IBRD 
+Regional Vice President: Jorge Familiar 
+Country Director: Gerardo M. Corrochano 
+Country Manager: Issam Abousleiman 
+Task Managers: Samuel Freije-Rodriguez, 
+Barbara Cunha and Carter J. Brandon 
+
+IFC 
+Vice President: Karin Finkelston 
+Regional Director: Irene Arias 
+Country Head: Carlos Pinto 
+Task Managers: Eduardo Wallentin 
+and Luciana Marchesini 
+
+MIGA 
+Vice President and CFO: Keiko Honda 
+Director Economics and  
+Sustainability: Ravi Vish 
+Task Manager: Dan Biller 
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

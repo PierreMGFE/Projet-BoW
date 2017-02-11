@@ -1,0 +1,6876 @@
+Public Disclosure Authorized
+Public Disclosure Authorized
+
+Document of
+The World Bank
+
+FOR OFFICIAL USE ONLY
+
+Report No. 28556-MD
+
+INTERNATIONAL DEVELOPMENT ASSOCIATION
+
+Public Disclosure Authorized
+
+Public Disclosure Authorized
+
+COUNTRY ASSISTANCE STRATEGY
+FOR
+THE REPUBLIC OF MOLDOVA
+
+November 12,2004
+
+ECCU2 Country Unit
+Europe and Central Asia Region
+This document has a restricted distribution and may be used by recipients only in the performance o f their official
+duties. I t s contents m a y not otherwise be disclosed without W o r l d B a n k authorization.
+
+The date o f the last Country Assistance Strategy Progress Report was M a y 2002
+CURRENCY EQUIVALENTS
+(Exchange Rate Effective June 30,2004)
+
+Currency Unit = L e i
+Lei11.95 = US$l.O
+US$1 = Lei0.08
+FISCAL YEAR
+January 1- December 3 1
+
+Vice President:
+Country Director:
+Team Leader:
+Core Team:
+
+Shigeo Katsu
+Paul Berrningham
+Edward K. B r o w n
+Lawrence Bouton, Kazuko Ogawa, Sergiy
+Kulyk, Luis Alvaro Sanchez, M a y a Sandu,
+Elena Nikulina, h u s h Bezhanyan, Elena
+Chesheva
+
+ABBREVIATIONS AND ACRONYMS
+AAA
+AML
+BEEP
+CAE
+CAS
+CDCF
+CDD
+CFAA
+CFT
+CEM
+CDD
+CIS
+COA
+CODBS
+CPAR
+CPM
+CPPR
+EBRD
+DFID
+DPL
+ECA
+EGPRSP
+EU
+FDI
+FSAP
+GDP
+GEF
+HIF
+IBRD
+ICA
+IDA
+IDF
+IFC
+IF1
+IMF
+IOM
+JSAN
+JSDF
+MDG
+MTEF
+NGO
+NPV
+OED
+OECD
+PCB
+PCF
+PFM
+POPS
+PPG
+PPP
+PRSC
+PRGF
+PRSP
+PSD
+QAG
+RISP
+ROSC
+SAC
+SDR
+SIF
+
+Analytical and Advisory Services
+Anti-Money Laundering
+Business Environment and Enterprise Performance Survey
+Country Assistance Evaluation
+Country Assistance Strategy
+Community Development Carbon Fund
+Country Driven Development
+Country Financial Accountability Assessment
+Combating the Financing of Terrorism
+Country Economic Memorandum
+Community Driven Development
+Commonwealth o f Independent States
+Court o f Accounts
+Cost o f Doing Business Studies
+Country Procurement Assessment Review
+Communist Party o f Moldova
+Country Portfolio Performance Review
+European Bank for Reconstruction and Development
+Department for Intemational Development
+Development Policy Lending
+Europe and Central Asia
+Economic Growth and Poverty Reduction Strategy Paper
+European Union
+Foreign Direct Investment
+Financial Sector Assessment Program
+Gross Domestic Product
+Global Environment Facility
+Health Investment Fund
+Intemational Bank for Reconstruction and Development
+Investment Climate Assessment
+Intemational Development Association
+Institutional Development Fund
+..
+International Finance Corporation
+International Financial Institution
+International Monetary Fund
+International Organization o f Migration
+Joint Staff Advisory Note
+Japanese Social Development Fund
+Millennium Development Goals
+Medium Term Expenditure Framework
+Non-Govemmental Organization
+Net Present Value
+Operations and Evaluations Department
+Organization for Economic Cooperation and Development
+Polychlorinated Biphenyls
+Prototype Carbon Fund
+Public Financial Management
+Persistent Organic Pollutants
+Public and Publicly Guaranteed (debt)
+Purchasing Power Parity
+Poverty Reduction Support Credit
+Poverty Reduction and Growth Facility
+Poverty Reduction Strategy Paper
+Private Sector Development
+Quality Assurance Group
+Rural Investment and Services Project
+Reports on the Observation o f Standards and Codes
+Structural Adjustment Credit
+Special Drawing Right
+Social Investment Fund
+
+SIDA
+SME
+SPA
+SPM
+STI
+TB
+TTFSE
+UNDP
+UNICEF
+UNFPA
+USAID
+VAT
+WTO
+
+Swedish Intemational Development Agency
+Small and Medium Enterprises
+Social and Political Analysis
+Social Protection Management
+Sexually Transmitted Infection
+Tuberculosis
+Trade and Transport Facilitation in Southeast Europe
+United Nations Development Program
+United Nations Children Fund
+United Nations Fund for Population Activities
+United States Agency for Intemational Development
+Value Added Tax
+World Trade Organization
+
+COUNTRY ASSISTANCE STRATEGY
+FOR THE REPUBLIC OF MOLDOVA
+Table of Contents
+EXECUTIVE SUMMARY ............................................................................................................
+INTRODUCTION ...........................................................................................................
+I
+
+.
+I1.
+
+COUNTRY CONTEXT .................................................................................................. 1
+A Political Economy and Social Context ......................................................................... 1
+B Moldova’s Transition Experience ................................................................................
+2
+
+.
+.
+C. Poverty in Moldova......................................................................................................
+D. Macro Economic Performance. Prospects. and R i s k s..................................................
+
+.
+.
+
+i
+Recent Economic Performance .......................................................................
+ii
+Extemal Environment ......................................................................................
+iii
+Medium-Term Prospects and Risks ................................................................
+E Structural and Sectoral Developments .........................................................................
+i
+Private Sector Development ............................................................................
+ii
+Infrastructure .................................................................................................
+iii
+Human Development and Social Protection..................................................
+Governance
+and Corruption .......................................................................................
+F
+G Cross-Cutting Issues ...................................................................................................
+
+.
+
+.
+
+.
+
+.
+.
+.
+
+.
+COUNTRY DEVELOPMENT PROGRAM AND ISSUES .......................................
+I11.
+A. Country Priorities and Agenda ...................................................................................
+B. Feasibility o f EGPRSP Implementation .....................................................................
+BANK GROUP ASSISTANCE STRATEGY .............................................................
+I V.
+A . Implementation o f the Last C A S ................................................................................
+.
+.
+.
+
+Lessons from OED Evaluations and Other Reports.....................................
+i
+IDA Portfolio Management and Performance .............................................
+ii
+IFC and MIGA Portfolio Management and Performance ............................
+iii
+C A S Preparation: Participatory Process Followed ....................................
+iv
+B Proposed Assistance Strategy .....................................................................................
+Strategic Context ...........................................................................................
+i
+Scenarios and Triggers ..................................................................................
+ii
+iii
+Monitoring and Evaluation............................................................................
+Partnership and Coordination ........................................................................
+iv
+Managing Risks.............................................................................................
+v
+CONCLUDING REMARKS ........................................................................................
+
+.
+
+V
+
+.
+
+i
+1
+
+.
+
+.
+.
+.
+.
+
+.
+
+3
+
+5
+5
+6
+7
+9
+9
+10
+11
+13
+15
+16
+16
+17
+17
+17
+17
+18
+18
+19
+20
+20
+20
+27
+27
+28
+29
+
+BOX
+B o x 1:
+
+HIV/AIDS - A Growing Concern
+
+................................................................
+
+12
+
+FIGURES
+Figure 1:
+Figure 2:
+
+Moldova GDP Changes and Poverty Rates (1997-2002) ................................
+Structure o f Scheduled PPG Service, 2004-2015 ............................................
+
+4
+8
+
+TABLES
+Table 1:
+Table 2:
+Table 3:
+Table 4:
+
+Moldova: Absolute Poverty and Inequality Statistics, 1997-2002 ................. 3
+Moldova: Selected Macroeconomic Indicators, 2000-2004 ........................... 5
+Indicative IDA Lending and Non-Lending Services FY05-08 .................... .24
+High Case Triggers ........................................................................................ 25
+
+ANNEXES
+K e y Economic and Program Indicators - Change from Last CAS
+Country at a Glance
+Selected Indicators o f IDA Portfolio Performance & Management
+Bank Group Program Summary
+Bank Group Fact Sheet - IBRD/IDA Lending Program
+Bank Group Fact Sheet - IFC & MIGA Program
+Annex B4: Summary o f Non-Lending Services
+Annex B5: Poverty and Social Development Indicators
+Annex B6: K e y Economic Indicators
+Annex B7: K e y Exposure Indicators
+Annex B8: Operations Portfolio
+Annex B9: CAS Program Matrix
+Annex B10: CAS Summary o f Development Priorities
+
+Annex A l :
+Annex A2:
+Annex B2:
+Annex B3:
+
+ATTACHMENTS
+Attachment 1: Debt Sustainability Analysis
+Attachment 2: Portfolio Status
+Attachment 3: Link to MDGs and Country Status vis-&vis MDGs
+Attachment 4: CAS Consultations Process
+
+EXECUTIVE SUMMARY
+
+1.
+Moldova’s last full Country Assistance Strategy (CAS) for FY99-01 was presented to the
+Board o f Directors in M a y 1999. IDA had initially planned to prepare a full CAS for Board
+discussion in FY02, but decided to wait until Moldova’s full Poverty Reduction Strategy Paper
+(PRSP) was ready. Instead, an interim Progress Report, discussed by the Board in M a y 2002, was
+prepared to provide the basis for continued lending and analytical work during FY02-03. The
+Government completed and approved i t s Economic Growth and Poverty Reduction Strategy Paper
+(EGPRSP - Moldova’s version o f the PRSP) in June 2004. The EGPRSP and JSAN were discussed
+at the Board on November 11, 2004. This C A S sets out the lending and non-lending support to
+Moldova for the period FY05-FY08. It has been prepared in consultation with the Government o f
+Moldova, representatives o f c i v i l society, the private sector, and development partners active in
+Moldova.
+2.
+Moldova’s transition to a market economy has been difficult, with high vulnerability to
+external shocks, a volatile internal political environment, and mixed reform implementation. After
+declining by more than 60 percent since independence, the Moldovan economy has finally rebounded,
+with growth averaging 6.7 percent over the last three years. While impressive, Moldova’s growth
+performance remains largely consumption-led, driven mainly by remittances from abroad. With a per
+capita GDP o f only US$542 and a poverty headcount o f 48 percent, Moldova i s the poorest country in
+Europe. The Government considers poverty reduction, and in particular achieving the Millennium
+Development Goals (MDGs), i t s major challenge and has undertaken extensive consultations in
+developing i t s poverty reduction strategy, the EGPRSP. The EGPRSP aims to achieve over the
+medium-term (2004-06): (a) sustainable and inclusive economic growth; (b) reduction o f poverty and
+inequality and increased participation by the poor in economic development; and (c) human
+development.
+Meeting the MDGs will require sustained long-term economic growth that
+disproportionately favors the poor. This calls for policies to maintain macroeconomic stability and
+improve the rural economy.
+
+3.
+This C A S i s set against the backdrop o f a difficult policy environment. The policies and
+actions proposed in the EGPRSP reflect a significant departure from past unfulfilled policy
+commitments and policy reversals. I t will take some time, however, to ascertain the level o f the
+Government’s commitment to the reforms articulated in the EGPRSP. As a result, the C A S takes a
+cautious approach. It will mainly support interventions at the local/community levels in rural areas
+and small cities-the two areas with the highest concentration o f poverty-employing a Community
+Driven Development (CDD) approach. These interventions will focus directly o n helping Moldova
+achieve i t s MDGs, and will consist o f selected interventions to improve the quality o f and access to
+social services-ducation,
+health, social protection, and community infrastructure. I t will also
+support the Government’s effort to implement reforms to eliminate the bottlenecks to growth
+identified in the EGPRSP-improvements in the business environment and public sector governance.
+The CAS recognizes that these are areas where the perception gap has been the widest and past efforts
+at reforms have been less successful. Active dialogue with the Bank and development partners in
+these areas i s ongoing and successful policy actions will allow the Government to demonstrate i t s
+sincere commitment to reform. Success also would lead to greater donor support.
+
+4.
+
+Over the period FY05-08, planned new lending under the base case will total US$90 million.
+Progress in implementing the benchmarks outlined in the EGPRSP, including a solid track record in
+achieving improvements in the business environment and public sector governance, sustained over a
+period o f 12 to 18 months, would trigger a high-case lending scenario. Under the High Case, IDA
+will be in a position to resume support o f structural reforms, possibly through development policy
+lending and complementary investment credits, with an additional US$47 m i l l i o n in lending. The
+
+- 11 ..
+
+Bank’s non-lending program i s tailored t o provide the analytical underpinnings for lending, and
+would include studies to improve pro-poor targeting o f IDA resources.
+
+5.
+0
+0
+
+0
+
+0
+
+0
+
+A number o f measurable improvements are expected by the end o f the CAS period, including:
+An increase in social assistance targeted at the poor from 60 percent to 85 percent;
+Improvements in the quality o f basic (primary and lower secondary) education, and an
+increase in primary school net enrollment in rural areas from 96 percent to 98 percent and
+upper secondary from 28 percent t o 35 percent;
+Greater involvement o f c i v i l society in public policy, increase in civil society participation in
+delivery o f social services, and monitoring o f government programs;
+Lowering o f the cost o f doing business to South Eastern Europe standards in the area o f
+customs clearance, time and cost o f registering a new business, and obtaining licenses and
+permits; and
+Lowering o f perception o f corruption in government, by a reduction in single source
+procurement from 45 percent to 20 percent o f the total number o f contracts, and from 51
+percent to 15 percent o f the total value o f contracts.
+
+6.
+The current portfolio will contribute t o attaining the CAS outcomes. N e w IDA lending i s
+designed to complement ongoing operations in achieving these results, with an emphasis o n providing
+assistance t o the poorest segments o f the population, and on supporting greater transparency in the
+handling o f public funds and a better business environment. In addition, a number o f new GEF
+operations will support the Government’s actions to address environmental MDGs.
+
+7.
+
+IDA’Snon-lending program, which aims at providing the analytical underpinnings for the
+investment operations, will focus on: (a) an in-depth assessment o f the economy, through a Country
+Economic Memorandum (CEM), and updates on a number o f fiduciary assessments - FSAP
+(Financial Sector Assessment Program), ROSC (Reports on the Observation o f Standards and Codes:
+Accounting and Auditing), CPAR (Country Procurement Assessment Review), C F A A (Country
+Financial Accountability Assessment); (b) sectoral policy notes to inform and guide lending in
+agriculture, social assistance, health, education, disaster management, private sector development,
+local government and community development, and legal empowerment as well as a People’s Voice
+initiative to enhance civic engagement; and (c) PRSP and poverty assessment updates.
+8.
+The implementation of this C A S faces a wide range o f uncertainties, derived from the
+Government’s capacity and commitment t o implement the EGPRSP, fiscal pressures, a volatile
+situation in Transnistria, the forthcoming elections, and changes in the external economic and
+political environment. Thus, it i s possible that the country might not be able to achieve the reform
+track record necessary to advance to the High Case scenario. The design o f the C A S deals with these
+eventualities insofar as direct budget support from IDA only would be considered if the country meets
+the high-case triggers, including satisfactory implementation o f the EGPRSP. In addition, a C A S
+Progress Report (mid-term review) would be undertaken after 24 months o f implementation t o
+evaluate progress, to assess the continuing relevance o f the strategic thrust o f the program, and, if
+necessary, to adjust the program to new and emerging realities in the country. The indicative lending
+and AAA programs will be subject to periodic reviews with the authorities t o ensure continued
+relevance and alignment with the EGPRSP.
+Proposed Agenda f o r Discussion by the Executive Directors
+The Executive Directors may wish to discuss whether the base case provides adequate
+support for the EGPRSP and the MDGs.
+The Executive Directors also may wish to discuss whether the focus on governance and
+improving the business environment as the triggers for the High Case i s appropriate.
+
+COUNTRY ASSISTANCE STRATEGY FOR THE REPUBLIC OF MOLDOVA
+
+I.
+
+INTRODUCTION
+
+1.
+This Country Assistance Strategy (CAS) sets out the W o r l d Bank Group’s planned
+lending and non-lending support to the Republic o f Moldova over the period FY05-FY08. It i s
+aligned with the priorities detailed in the country’s Economic Growth and Poverty Reduction
+Strategy Paper (EGPRSP - Moldova’s version o f the PRSP). The CAS has been prepared in
+consultation with the Government o f Moldova, representatives o f c i v i l society, the private sector,
+and development partners active in Moldova.
+2.
+The key challenge for Moldova i s to sustain and improve upon the recent gains in
+economic growth and poverty reduction by committing to and sustaining a consistent policy
+reform and governance improvement agenda. The overall objective o f this CAS, therefore, i s to
+assist Moldova in reducing i t s high level o f poverty, the highest in Europe, by: (a) promoting
+conditions for sustaining growth and employment creation; (b) improving access to social
+capital and services, and community infrastructure; and (c) improving public sector governance
+and combating corruption.
+3.
+Planned new lending over the period FY05-08 will total US$90 m i l l i o n for the base case,
+and will consist o f selected interventions to improve the quality o f and access to social services
+and community infrastructure, foster a good investment climate, and address public sector
+governance issues. Progress in implementing the benchmarks outlined in the EGPRSP, including
+a solid track record o n improvements in the business environment and public sector governance,
+would trigger a high-case lending scenario. Under the High Case, IDA would be in a position to
+resume support o f structural reforms, possibly through development policy lending and
+complementary investment credits, with an additional US$47 m i l l i o n in lending. The Bank’s
+non-lending program i s tailored to provide the analytical underpinnings for lending, and would
+include studies to improve pro-poor targeting o f IDA resources.
+
+4.
+A CAS Progress Report (mid-term review) will be undertaken after around 24 months o f
+implementation to evaluate the continuing relevance o f the strategic thrust o f the program and, if
+necessary, to adjust the program to new and emerging realities. In addition, the indicative lending
+and analytic programs will be subject to periodic reviews with the authorities to ensure continued
+relevance and alignment with the EGPRSP.
+11.
+
+A.
+
+COUNTRY CONTEXT
+
+PoliticalEconomy and Social Context
+
+5.
+Background. The Republic o f Moldova, geographically situated between Ukraine and
+Romania, has a population o f about 4.2 million (of which 601,700 reside in Transnistria) and a
+territory o f 33,800 km2. Moldova has few natural resources and i t i s almost entirely dependent
+upon imports for i t s primary energy requirements. Given i t s endowment in r i c h agricultural land
+and a temperate climate, the country has relied heavily on agriculture throughout i t s history.
+Currently, agriculture and ago-processing activities account for roughly 30 percent o f Moldova’s
+GDP and a significant part o f the population i s s t i l l directly engaged in the sector. Ethnic
+Romanians account for approximately 64 percent o f the population, the rest being o f Ukrainian,
+Russian, Gagauzian (Turkish), Bulgarian, and other origins.
+
+-2B.
+
+Moldova’s Transition Experience
+
+6.
+
+Difficult Initial Conditions. Moldova’s transition to a market economy has been
+difficult. Following the collapse o f the Soviet Union, Moldova faced one o f the deepest and most
+prolonged recessions among the transition economies. As with many o f these economies,
+independence brought an end to the system o f subsidies and transfers from which Moldova
+benefited. This large systemic terms o f trade shock was exacerbated by the effects o f a number o f
+other initial conditions. Among these were an obsolete industrial sector integrated into the Soviet
+economy, inadequate institutional development and capacity, and a dependence o n agriculture
+that, with the demise o f i t s energy intensive irrigation system, left the economy exposed to
+adverse weather-related conditions. These conditions were compounded by a mixed record o f
+structural reform implementation and exposure t o a number o f external shocks. As a
+consequence, in the 13 years since independence, per capita GDP has dropped by more than 55
+percent and poverty has grown significantly, accompanied by an increase in inequality. Indeed,
+the incidence o f poverty in Moldova i s n o w the highest in Europe.
+
+7.
+
+Transnistria. Independence also generated internal political conflict. The c i v i l war that
+erupted in 1992 l e f t a separatist government in control o f the eastern territory o f Moldova known
+as Transnistria. Transnistria contained a significant part o f Moldova’s industrial base, making
+Moldova even more dependent o n agricultural production and imported energy and creating a
+fractured customs space with important implications for smuggling and tax revenue mobilization.
+8.
+Mixed Reform Implementation. Moldova was viewed as an early and successful
+reformer. Macroeconomic stabilization was achieved relatively quickly and a number o f
+important first generation reforms were undertaken, such as trade, price, and exchange rate
+liberalization. The momentum behind these initial reform efforts, nevertheless, was n o t
+maintained and Moldova’s reform experience has since followed a decidedly stop-and-go pattern.
+For a brief period following the 1998 Russian financial crisis, a weak coalition o f pro-reform
+parties succeeded in implementing a number o f important, reform measures, including
+rationalization o f the energy sector, pension reform, land privatization, and WTO membership.
+The political consensus backing the reformers, however, was fragile and the government failed t o
+develop broad pro-reform constituencies. Political infighting among coalition partners, popular
+discontent at falling living standards, and the slow and unsatisfactory outcomes o f the reforms,
+combined with the growing and pervasive level o f poverty, l e d t o the decisive victory by the
+Communist Party o f Moldova (CPM) in the 200 1 elections.
+9.
+The current CPM Government blames the sharp rise in poverty o n the structural reforms
+undertaken by previous governments and accuses these administrations o f being highly corrupt.
+The electoral p l a t f o m o f the current government promised, among other things, t o increase
+salaries and pensions, halt corruption associated with the privatization o f state-owned enterprises,
+and control the price o f basic commodities and utilities. The economic recovery that began in
+2000 has allowed the govemment t o partly deliver o n many o f i t s election promises, thereby
+bolstering the support o f i t s base constituencies. The Government has followed a more dirigiste
+approach, creating barriers for business and rent-seeking opportunities that have exacerbated
+corruption. I t also has reversed some earlier-completed privatization deals, as w e l l as some
+accomplishments o f past programs o f reform. These actions have created a difficult environment
+for policy dialogue, b o t h internally and with the IFIs.
+10.
+Several additional factors have contributed t o this difficult policy environment. M o s t
+important, the resumption o f growth has convinced the Government o f the effectiveness o f i t s
+interventionist policies. However, the suspension o f both the IMF program and IDA’Sadjustment
+
+-3credit (SAC3) point to a significant perception gap. The collapse o f these programs has also had
+an effect o n the attitude o f other donors and there i s a significant risk that Moldova, with i t s
+hesitant efforts at reform, will end up isolated from the international community. The
+forthcoming elections in early 2005 are likely to inhibit any immediate progress o n the reform
+agenda. However, the actions proposed in the EGPRSP and the announced interest in a closer
+relationship with the EU, represent a change in policy direction and open a window o f
+opportunity for productive dialogue, possibly closing the perception gap. T h i s window o f
+opportunity may widen following the 2005 elections.
+
+C.
+
+Poverty in Moldova
+
+11.
+Moldova i s the poorest country in Europe. Per capita GDP (2003) was US$542, and
+US$2,428 in purchasing power party (PPP) terms (2002). Depending o n the measure o f absolute
+poverty used, between 40 and 50 percent o f Moldovans are poor and the majority can b e
+considered extremely poor (see Table 1). Furthermore the depth o f poverty remains quite
+substantial. The poverty gap, reflecting the total resources needed t o eliminate poverty by
+bringing the consumption o f the poor up to the poverty line, amounted to about 7 percent o f GDP
+in 2002, or o n average about 16.5 percent o f the poverty line for each poor person.
+Table 1. Moldova: Absolute Poverty and Inequality Statistics, 1997-2002
+Poverty Measures
+Incidence
+
+1997
+
+1998
+
+47.4
+16.5
+
+61.6
+25.1
+
+Gap
+Extreme Poverty Measure
+37.5
+51.7
+Incidence
+International Poverty Line ($2.15 PPP per day)
+Incidence
+43.4
+57.7
+Inequality Measures
+Gini coefficient
+0.35
+0.37
+9.9
+11.1
+90/10 decile ratio
+
+12.
+
+1999
+
+2000
+
+200 1
+
+2002
+
+71.2
+29.7
+
+70.6
+28.9
+
+62.4
+24.0
+
+48.5
+16.5
+
+61.3
+
+60.9
+
+52.0
+
+37.8
+
+67.6
+
+67.1
+
+58.4
+
+44.6
+
+0.35
+9.6
+
+0.34
+9.3
+
+0.36
+10.0
+
+0.34
+9.0
+
+Who Are the Poor? There are sharp divergences in poverty by location and
+demographic characteristics. As elsewhere in the CIS, poverty rates in large cities have been
+lower than rates in small towns and among the rural population. Unique t o Moldova, however, i s
+the fact that even in large cities, over one-quarter o f the population i s poor and one-fifth i s living
+in extreme poverty. As in many other transition economies, large households are more likely t o
+be in poverty than small households. Similarly, households with many children and elderly
+persons are more likely to be poor. Households headed by people over 50 years o f age are less
+l i k e l y to be poor than those headed by people o f 30-49 years o f age, a reflection o f several cofactors, such as returns t o experience in employment and pension income as w e l l as household
+size. Poverty rates are lowest for people in households in which the head has some higher
+education, but one-quarter o f these households are poor. Consistent with patterns for households
+with more children, poverty rates are higher among children than among adults. Across
+economic activities, households in which the head i s engaged in agricultural activities (mainly
+hired agricultural workers) are at higher risk o f poverty. In fact, two-thirds o f households headed
+by hired agricultural workers are poor. Where household heads are self-employed, household
+poverty i s less likely. This latter category, however, i s relatively scarce throughout Moldova.
+
+-4-
+
+13.
+Poverty I s Strongly Linked to Economic Growth. One o f the key features o f poverty
+in Moldova i s i t s strong link t o economic growth (see Figure 1). Following the regional financial
+crisis in 1998 and the severe
+contraction in the Moldovan
+Figure 1: Moldova GDP Changes and
+economy, poverty rates increased
+Poverty Rates (1997-2002)
+dramatically, reaching 7 1 percent
+20
+i 80
+of
+households
+in
+1999.
+Conversely, between 2000 and
+2002, with the turnaround in
+economic growth, poverty f e l l
+f r o m 71 percent to under 49
+percent o f the population. The
+strong link to economic growth
+--10 I
+‘ 0
+highlights the vulnerability o f the
+population t o poverty. Inthe event
+o f another sharp economic downturn, a substantial fraction o f the population i s vulnerable and
+will likely fall into poverty. Sustaining economic growth, therefore, will b e k e y t o reducing
+poverty over time.
+1
+
+14.
+Coping with Poverty. W h i l e growth has been the driving factor in reducing poverty,
+social insurance programs also have contributed t o poverty reduction. Social insurance programs
+reduced poverty by between 5 and 11 percentage points, owing t o their high coverage. In
+contrast, social assistance programs, which are meant to be direct instruments o f poverty
+alleviation, failed t o make significant gains because o f lower coverage, poor targeting, and a
+mismatch o f benefit levels with needs. Besides government assistance, international migration
+has been a central coping strategy, even though it has high social costs and poses significant
+personal risks for many. With more than a quarter o f the Moldova’s working age population
+abroad, there has been considerable disruption in personal lives and family relationships, as more
+and more Moldovan children, especially in rural areas and small towns, l i v e without their parents.
+Inequalities in Access to Social Services Are Acute. While economic growth in
+15.
+Moldova has been pro-poor, reducing poverty rates across a l l locations and demographic
+characteristics, the emerging inequalities in access t o health care and education are changing the
+distribution o f economic opportunities and will lead to increased future welfare differences
+between the r i c h and the poor. While the utilization o f health care services by the r i c h has
+increased, the poor simply forego health care unless i t i s absolutely critical. The continued bias
+o f public spending in favor o f hospital care results in regressive public expenditures o n health
+care. These changing utilization rates across income categories also reflect the increasing
+importance o f informal payments needed t o obtain health care services, payments that the poor
+cannot afford. The l o w utilization rates by the poor are likely t o lead t o poorer health outcomes,
+affecting productivity and placing future welfare at risk.
+
+16.
+In education, participation in the compulsory level o f schooling has been remarkably
+resilient, the main exception being pre-school enrollment. However, the poor are less likely to
+seek post-compulsory education. The persistent disparities in enrollments starting from the final
+years o f compulsory schooling and continuing into university education mean that attainment
+gaps - between r i c h and poor, and rural and urban populations - are n o t closing. Given that
+households with higher education are increasingly more likely t o b e better off, and since they are
+better able to invest in the education o f their children, the persistent disparities at higher levels
+reinforce a process which transmits poverty from one generation t o the next.
+
+-5Pathway out of Poverty. Well-paid employment i s a strong pathway out o f poverty in
+17.
+Moldova, but j o b creation has been much lower than j o b destruction. High rates o f j o b
+destruction are typical in transition countries; but new jobs need to be created at a faster rate. The
+services sector in Moldova has yet to emerge as a significant provider o f formal sector jobs, and
+i t s share in employment has fallen steadily - a sharp contrast with other transition countries.
+Those who fail t o avail themselves o f the opportunities typically turn back to subsistence farming
+for their livelihoods, or migrate to other countries in search o f employment. The new private
+sector i s the only source o f employment growth in Moldova, increasing i t s employment by 4
+percent per year. These firms account for only a small share o f non-agricultural employment.
+The primary factor behind the l o w j o b creation i s the high cost o f doing business.
+
+D.
+
+Macroeconomic Performance, Prospects, and R i s k s
+
+i.
+
+Recent Economic Performance
+
+18.
+Turnaround in Growth. Moldova was the last country in the CIS to see a return t o
+positive growth. After falling by more than 60 percent between independence and 1999,
+cumulative growth o f more than 20 percent has been recorded since 2000. Inthe last three years,
+growth has averaged more than 6.7 percent. A number o f factors have contributed t o Moldova’s
+improved economic fortunes: (a) as a result o f the prolonged economic recession, capacity
+utilization in f i r m s that continued to operate was very l o w thus allowing production to expand
+with little additional investment; (b) important structural reforms, including pension reform and
+the privatization o f two-thirds o f Table 2. Moldova: Selected Macroeconomic Indicators, 2000-2004
+the electricity distribution system,
+---2000 2001 2002 2003
+that were carried out at the end o f
+1,288 1,481 1,662 1,958 2,594
+Nominal GDP ($ million)
+the 1990s began to have positive
+Real GDP growth rate (percent)
+2.1 6.1 7.8
+6.3
+7.0
+impacts o n the economy; (c) the CPI Inflation
+31.3 9.8 5.3 11.7 10.8
+recovery o f demand in Moldova’s (annual average, percent)
+main CIS trading partners has Primary Fiscal Balance (cash)
+3.2 4.1 0.4
+2.7
+2.9
+allowed Moldova to slowly (percent o f GDP)
+-3.1 -0.1 -1.8 0.6
+-0.7
+r e c a p b e export markets lost Overall Fiscal h l a n c e (cash)
+(percent o f GDP)
+following the 1998 regional
+Current Account Balance
+-9.8 -4.6 -3.1 -7.3 -7.2
+financial crisis; and (d) a marked ( ercent ofGDp)
+increase in real wages and ;projected
+pensions, combined with a sizable Source: IMF Article I V staff report, December 2003, National Bank c
+inflow of workers’ remittances, Moldova and World Bank Staff Projections.
+~~
+
+19.
+Fiscal and Monetary Policy. The recovery in growth has also benefited the fiscal
+accounts. A robust increase in value added tax (VAT) collections and lower interest expenditures
+(reflecting both lower interest rates and the accumulation o f interest payment arrears o n external
+debt) resulted in a fiscal policy that has remained relatively tight over the last three years, with a
+primary surplus (cash) averaging 2.6 percent o f GDP since 2000. The key fiscal challenge
+continues to be external debt service. In 2003, scheduled public debt service amounted t o
+US$136 million - about 45 percent o f central government revenues. With external budgetary
+financing scarce following the expiration o f Structural Adjustment Credit 3 (SAC3) and with the
+suspension o f the IMF’s Poverty Reduction and Growth Facility (PRGF ), debt service payments
+to bilateral and commercial creditors (with the exception o f the Eurobond) were halted in August
+
+-62003.’ After declining to single digit levels in 2001-2002, inflation increased noticeably in 2003,
+reaching 15.7 percent by year-end, partly as a result o f unusually large increases in food prices
+(related to the poor harvest) and a sharp increase in public utility prices.
+20.
+Remittances and the Balance o f Payments. While exports have grown rapidly, the
+growth in imports has been faster and has accelerated rapidly in recent years. As a result, already
+massive trade deficits have deteriorated further, exceeding 30 percent o f GDP in 2003. These
+large trade deficits have been only partially offset by growing inflows o f workers’ remittances,
+leading to a widening current account deficit.2 Remittances have thus become a major source o f
+domestic financing, contributing about 25-30 percent o f GDP and fueling the domestic demand
+and the rapid growth in imports. Despite central bank intervention, the l e i appreciated by 5
+percent against the U S dollar in nominal terms, and by considerably more in real terms, over the
+course o f 2003 and 2004.
+
+ii.
+
+ExternalEnvironment
+
+2 1.
+The disintegration o f the Soviet Union had a profound impact o n the Moldovan economy
+and i t s external trade relations. Yet, unlike many o f the other transition economies, Moldova has
+not significantly diversified i t s trade patterns. Exports are s t i l l concentrated in a few commodities
+and are s t i l l predominantly destined for the CIS market. The high dependence o n the Russian
+market exposed Moldova’s vulnerability to regional trade shocks. When the regional financial
+crisis hit in 1998, Moldova’s exports fell by half. With the strong regional recovery, particularly
+in the Russian market, Moldova’s export performance rebounded. While EU import restrictions
+on key Moldovan exports (i.e., wine) hinder market access, a number o f domestic policies
+negatively influence the ability o f exports to penetrate overseas markets. Removal o f these
+barriers will be a prerequisite for the successful expansion o f exports to the EU.
+22.
+Moldova’s economic vulnerability to the external environment also extends to the fiscal
+sphere where it has become increasingly dependent on the taxation o f imports for fiscal revenue.
+The taxation o f imports provides almost half o f total tax revenues, primarily via the VAT and the
+excise tax on imports. Since the massive growth in imports has been driven largely by
+consumption, any slowdown in consumption that also curbs imports will have significant fiscal
+implications.
+23.
+The EGPRSP highlights European integration as a fundamental focus o f Moldova’s longterm development objectives. The EU has also stepped up i t s interest in Moldova - with the
+concept o f the “new neighborhood” policy Eramework - as Moldova will constitute the EU’s n e w
+border with the accession o f Romania in 2007. Deeper integration into Europe, however, has a
+number o f important policy implications, such as the harmonization o f legislation on standards,
+customs, and banking, as w e l l as the willingness to accept political reforms demanded by the EU.
+
+’
+
+With Moldova’s suspension o f debt service payments to Gazprom at the end-2001, and to bilateral creditors in August 2003,
+external payments arrears reached US$69.9 million at end-2003. During 2004 arrears were reduced to USs25.2 million as a result o f
+the Gazprom and Hewlett Packard debt buy-back.
+
+The large unrecorded inflow o f workers’ remittances creates uncertainties regarding the actual size o f the current account deficit.
+Recent data revisions have resulted in an improvement in the 2003 current account deficit from 11.2 to 7.3 percent o f GDP. This
+correction, however, still leaves some US$] 30 million in net errors and omissions, most likely reflecting further unrecorded inflows o f
+remittances.
+
+-7-
+
+iii.
+
+Medium-TermProspects and R i s k s
+
+24.
+Medium-Term Growth Prospects. A number o f the factors that have contributed t o
+economic growth in Moldova are likely to persist over the C A S period but are unlikely to sustain
+the current growth momentum over the medium term. Indeed, the EGPRSP i s quick to recognize
+that Moldova’s consumption-led growth experience does not provide the basis for the sustainable
+growth needed to rapidly reduce poverty. While large inflows o f workers’ remittances can be
+expected to continue, i t i s unlikely that the past rate o f growth o f these inflows will be sustained.
+The growth impetus from past structural reform efforts has not been reinforced by new structural
+reform efforts and the business and investment environment has remained poor and unstable.
+Foreign investment in Moldova has declined from over 10 percent o f GDP in 2000 to around 3
+percent o f GDP in 2003. At less than 16 percent o f GDP, gross investment remains l o w even by
+regional standards. The limited extent o f domestic savings implies that Moldova will continue to
+depend on external financial resources. Under the assumption that efforts to implement the
+economic development program articulated in the EGPRSP fall short in the near term, that n o
+new external budgetary financing from the development partners i s forthcoming, but there i s n o
+further deterioration in the policy environment, GDP growth in the base case i s expected to fall t o
+6 percent in 2004 and then average 3 percent over the medium term. In the event, however, that
+the policy or business environment further deteriorates or that Moldova i s confronted by a
+contraction in remittances or export demand, then a further decline in economic growth can be
+expected.
+25.
+Debt Sustainability. Moldova’s external debt has grown from almost zero in the early
+1990s to an estimated US$1.7 billion (89 percent o f GDP) at the end o f 2003. T h i s indebtedness
+was driven by large and growing external current account deficits in the second h a l f o f the 1990s
+(which averaged 9.7 percent o f GDP) and the sharp nominal depreciation o f the l e i in the
+aftermath o f the Russian crisis. Public and publicly guaranteed (PPG) debt at the end o f 2003
+was about 52 percent o f GDP. Domestic public debt (all short-term) was about 15 percent o f
+GDP. The net present value (NPV) o f PPG debt i s composed mostly o f claims by multilateral
+institutions (56 percent) - including the World Bank (30 percent), the IMF (15 percent) and the
+EBRD (8 percent) - and by Paris Club creditors (24 percent), other official bilateral creditors (2.4
+percent) and commercial creditors (18.7 percent). According to the indicative policy-dependent
+debt and debt-service thresholds, Moldova’s NPV o f debt and debt service could be considered as
+sustainable in a range o f 200-250 percent and 25-35 percent o f revenues, respectively. As shown
+in Attachment 1, the NPV o f debt to revenues, however, i s projected to fall below the indicative
+range only in 2007 while the debt service-to-revenue ratio i s projected to remain below the
+threshold only from 201 1. I t i s estimated, however, that with the application o f traditional debt
+relief mechanisms, such as a stock o f debt operation on Naples terms from Paris Club creditors
+and comparable action by other official and commercial creditors, Moldova’s NPV debt ratios
+will fall below the required cutoff thresholds for consideration in global debt relief initiatives,
+such as HIPC.3
+26.
+With i t s large public debt service burden and the absence o f external budgetary support,
+Moldova has not remained current on i t s external debt service obligations. In 2003, Moldova
+closed i t s fiscal financing gap by accumulating additional interest and principal arrears (US$3 8.9
+million or 2.0 percent o f 2003 GDP) on i t s extemal debt t o Gazprom and bilateral and
+commercial creditors. These arrears constituted nearly one-third o f the total interest and principal
+due (US$136 million) in 2003. In June 2004, Moldova bought back the US$115 m i l l i o n
+To be eligible for HIPC debt relief, the ratio o f the NPV o f public and publicly guaranteed debt to exports of goods and services
+must exceed 150 percent (see Attachment 1).
+
+-8Gazprom promissory notes and accumulated arrears at a discount, with funding obtained from the
+National B a n k o f Moldova. A number o f other debt buy-backs and restructuring have also taken
+place. These operations significantly reduce the debt servicing profile, o n a commitment basis,
+over the next three years.
+Figure 2: Strudure of scheduled PFG Debt Service, 2004-2015
+27.
+As
+Attachment
+1
+(Debt
+(us6mllam)
+Sustainability Analysis) shows, under the
+.
+.
+- - . __ - -. .__
+base case scenario the NPV o f PPG external
+debt i s expected t o fall below the
+sustainability threshold (200-250 percent o f
+Government revenues) in 2007 while debt
+servicing will remain above this threshold
+(25-35 percent o f Government revenues)
+until 201 1. The analysis points t o problems
+with liquidity and not solvency. As shown
+in Figure 2, over the CAS period scheduled
+debt service for the public sector remains
+heavy (between US$lOO m i l l i o n and
+2W 2035 2006 2037 2008 2004 2010 2011 2012 2013 2014 2015
+US$120 m i l l i o n until 2007). Given this debt
+servicing profile and the expected absence o f significant donor financing, the Government will
+need t o r e l y o n sizable primary fiscal surpluses and domestic sources o f financing t o cover i t s
+external debt obligations. Given the expected slowdown in the economy, as w e l l as planned
+reductions in personal and corporate income tax rates over the 2005-2007 period, the Government
+risks not meeting i t s ambitious revenue targets. With elections scheduled f o r early 2005, i t also
+will be difficult for the Government t o satisfy both i t s domestic expenditure commitments,
+including those needed t o meet the MDG targets, and i t s external debt-service obligations.
+Without significant external debt restructuring, it i s likely that the government will be required to
+issue more state securities, obtain inflationary financing f r o m the National Bank, and accumulate
+additional external payment arrears to bilateral and commercial creditors. A credible strategy t o
+address the debt problem, however, would involve securing traditional debt relief f r o m the Paris
+Club (which would require an IMF program), sustainable growth and prudent fiscal management,
+and demonstrated track record o f reform as a basis t o seek additional donor resources, including
+budget support.
+
+28.
+The EGPRSP and Improved Growth Prospects. Implementation o f the EGPRSP,
+including policies to improve the business and investment climate, reduce corruption and further
+structural reforms, could improve Moldova’s medium-term economic prospects. An improved
+business environment should encourage an increase in foreign and domestic investment and a
+channeling o f workers’ remittances away f r o m consumption towards productive investment. The
+established reform track record would also unleash financial support from the donor community.
+The financing needed to implement the EGPRSP could be met by a combination o f Paris Club
+rescheduling and external budgetary support from donors, including IDA development policy
+lending. As indicated in the EGPRSP, under this High Case scenario, growth will b e higher, in
+the order o f 5 percent per annum over the C A S period.
+29.
+Economic Vulnerabilities. The Moldovan economy remains vulnerable t o external
+shocks. The main driver o f the economy will continue t o be consumptiodworker remittances.
+However, the large trade and current account deficits that accompany such a growth strategy will
+not b e sustainable unless economic policies trigger a larger domestic supply response. In
+addition, the dependence o f the economy o n the agricultural sector leaves i t exposed t o a number
+o f weather-related shocks. Moldova also suffers from excessive dependence o n a limited number
+
+-9o f trading partners and commodities. This leaves Moldova vulnerable t o adverse economic
+developments in its main trading partners, particularly Russia.
+
+E.
+
+Structural and Sectoral Developments
+
+i.
+
+Private Sector Development
+
+30.
+Weak Business Environment. The poor business and investment climate in Moldova
+constrains private sector development and i s a major impediment t o sustainable growth and
+poverty reduction. The Moldova Investment Climate Assessment (ICA) confirms that although
+in recent years some positive changes were observed, particularly in the areas o f business
+registration and licensing where substantial legislative and administrative changes were
+introduced, the existing regulatory environment and i t s implementation remain inadequate and are
+at the core o f the poor investment climate and limited foreign direct investment (FDI) inflows!
+Firms consider themselves t o be constrained by the heavy and costly regulatory burden, such as
+business licensing, permits, registration, inspection, certification, and standardization. Moreover,
+the regulatory burden in Moldova tends t o b e comparably greater than in other CIS countries o f
+similar income levels.
+
+3 1.
+Limited Trade and Transport Facilitation. The total logistics costs in Moldova,
+estimated at 22 percent o f GDP, are the highest in Europe and significantly impede the country’s
+participation in international trade.’ The main issues related to the high logistics costs are the
+poor shape o f the transportation infrastructure, corruption at the border, l a c k o f transparency o f
+custom procedures, and overly complicated and numerous documentary requirements - a l l o f
+which reduce the competitiveness o f export and make the country less attractive t o foreign
+investment.
+32.
+Constrained Agricultural Sector. In addition t o the poor business climate and limited
+access t o finance, the agricultural sector i s confronted by a number o f other k e y constraints. The
+slow restructuring o f the ago-processing sector, continued state control o f key agri-business
+industries and ad hoc government interventions in domestic and export markets perpetuate
+marketing inefficiencies and limit competition that depresses farmgate prices. Without further
+reforms in agro-processing, returns t o investments at the farm level will remain weak, farm
+productivity and agricultural wages will remain low, and farmers will continue to pursue a
+subsistence-oriented coping strategy. At the farm level, despite substantial progress in land
+reform and despite legal and institutional impediments to the development o f the land market, the
+continued threat o f reversals in land privatization prevent the emergence o f genuinely restructured
+and consolidated farms, which would f o r m the basis for recovery and growth. The combination
+o f l o w returns and weak growth performance in agnculture hampers the development o f the nonfarm economy and the creation o f viable off-farm employment opportunities that could pull rural
+dwellers out o f poverty. The vulnerability o f the agncultural sector t o natural disasters, including
+floods, droughts, ice storms and landslides, further complicates the agncultural recovery process.
+33.
+Degrading Environment. Inappropriate agricultural practices, unsustainable logging for
+fuel wood and building timber, and unsustainable hunting and harvesting, contribute t o the
+In 2004, Moldova passed a new Law on Investment providing equal treatment to foreign investors and guaranteeing protection
+against expropriation.
+Total logistics costs in EU countries are 10-16 percent o f GDP.
+
+-10degradation o f soil and biodiversity resources and increases the vulnerability o f the poor to these
+natural disasters. The l o w level o f forest cover (10.3 percent o f the land area) i s recognized as a
+contributor t o erosion, floods and landslides. Limited access t o insurance mechanisms, savings
+and credit services, or drought-proofing agricultural technologies inhibits the ability o f the rural
+population t o manage and mitigate the respective risks. Agricultural pollution and Persistent
+Organic Pollutants (POP) stockpiles, in particular obsolete pesticides and Polychlorinated
+Biphenyls (PCBs) in the energy sector contribute to significant pollution o f land and water
+resources, including ground waters. Lack o f access t o clean, affordable heating services o n the
+part o f most rural households contributes t o indoor pollution, while a dilapidated energy
+infrastructure produces outdoor pollution through excess carbon emissions.
+34.
+A Healthy Financial Sector with Emerging Risks. The banking sector i s comprised o f
+16 banks and represents the overwhelming portion o f the financial sector. Non-bank financial
+institutions, capital markets and the insurance sector remain largely underdeveloped, if n o t
+embryonic. Overall, the banking sector i s reasonably w e l l regulated by the National B a n k o f
+Moldova, w h i c h has a comprehensive prudential framework in place. Competition among banks
+for loans and deposits has intensified considerably in the past five years, pushing down interest
+spreads as banks have increased their total assets threefold t o nearly 40 percent o f GDP in 2003.
+Dollarization o f the banking system remains high, with nearly h a l f o f total assets and liabilities in
+foreign exchange. The banking system i s concentrated in the largest 6 banks. K e y vulnerabilities
+include the growing role o f the Government in the banking system and the relatively large
+number o f banks with controlling ownership stakes offshore. The private sector remains
+confronted by high borrowing and transaction costs with bank lending based o n collateral rather
+than the cash generation capacity o f businesses.
+35.
+Anti-Money Laundering (AML) and Combating the Financing of Terrorism (CFT).
+Although Moldova enacted i t s first anti-money laundering l a w in 2001, it i s s t i l l struggling to
+effectively operationalize i t s Financial Intelligence Unit. In many respects, Moldova s t i l l lacks
+appropriate legal tools that would enable officials to identify, investigate, prosecute, and prevent
+money laundering or terrorist financing, while sufficient capacity does not yet exist in the court
+systems, prosecutors office, among l a w enforcement/police officials, or financial sector
+supervisors t o implement a coordinated and effective AML/CFT regime. The recent FSAP
+indicates there i s s t i l l a significant need for implementation o f fundamental legal tools t o address
+ML/FT as w e l l as training and capacity building.
+
+ii.
+
+Infrastructure
+
+36.
+One o f the main risks for sustainable economic growth and reduction o f poverty stems
+from the continued deterioration o f the basic infrastructure (roads, water, sewerage, and the
+housing stock) and the poor financial situation o f the energy sector. The lack o f investment in
+and deferred maintenance to an agmg infrastructure will continue t o limit access t o safe water and
+sanitation, contribute t o unhealthy living conditions, degrade the environment, and reduce
+Moldova’s competitiveness. Attracting quality foreign investments, creating jobs and increasing
+productivity will be more difficult without improvements t o the basic infrastructure and the
+reliability o f the energy supply. The main issues in infrastructure are the following:
+
+Energy-need for consolidation of reforms. A slow adjustment t o the post-independence
+realities left the energy sector with large accumulated debts and deteriorating infrastructure
+due t o a lack o f maintenance and investment. W h i l e significant reforms were undertaken
+under previous governments, including the establishment o f an independent energy regulatory
+
+- 11 agency (ANRE), the unbundling o f the vertically integrated power utility and the
+privatization o f three out o f five electricity distribution companies, under the current
+government reform efforts have stalled. The m a i n risks include the institutional weakness o f
+ANRE, the incomplete regulatory framework (particularly related t o the cross-border
+electricity trade) and the unfinished privatization agenda. Access t o an affordable energy
+supply i s increasingly difficult in many rural and small urban communities where district
+heating either does not exist or where the centralized heating systems collapsed when i t
+became clear that they were not economically viable.
+
+Water and Sanitation-in perpetual financial crisis. The infrastructure o f the A p a Canal
+(the water and sanitation utilities) has deteriorated and the majority o f these utilities are in
+perpetual financial crisis due t o l o w collections, l o w tariffs, and high water losses. Moreover,
+about 40 percent o f the water in these systems fails t o meet sanitary, chemical, or biological
+criteria. Purchase o f safe water represents a disproportionate level o f household expenditure,
+which increases the burden o n the poor.
+Transport-extensive but deteriorating. The existing road network, albeit extensive, has
+been poorly maintained and n o concerted effort has been made t o address the needs in line
+with the changing trade patterns. Moreover, reform o f the management and financing o f the
+sector has been slow. The state road administration s t i l l operates o n the o l d model, with n o
+segregation o f the planning, contract awards and supervision functions f r o m the
+implementation o f c i v i l works, thus impeding the development o f a strong private road
+construction industry and the efficient use o f the scarce state resources for road maintenance
+and rehabilitation.
+Degrading Housing and Communal Services. The housing stock was privatized after
+independence; today i t i s deteriorating rapidly owing t o lack o f maintenance. The inexistence
+o f organizational capacities for homeowners to undertake collective action, combined with
+lack o f funding and an unclear legal framework, constrains the abilities o f households t o take
+action t o improve their immediate living conditions.
+Telecommunications-emerging
+but weak institutional framework.
+W h i l e certain
+progress has been made in developing the information and communications network
+infrastructure and services, their reliability, security, and sustainability remain weak o w i n g t o
+a lack o f competitive safeguards and limited private sector investment. Service bottlenecks
+created by the s t i l l state-owned MoldTelecom, and weak institutional capacity are responsible
+for the continued l o w levels o f access and connectivity.
+
+iii.
+
+Human Development and Social Protection
+
+37.
+The health, education, and social protection systems in Moldova have suffered f r o m the
+economic decline and stalled policy reforms. In general, the quality o f services has declined and
+the system has been unable t o address emerging needs. Despite some reforms undertaken before
+2000, the provision o f health care, education, and social protection continues t o face daunting
+challenges.
+
+.
+
+.
+
+.
+
+- 12 Health-incomplete reforms. Moldova has succeeded in reversing the population’s
+deteriorating hkalth status, but health
+indicators continue t o lag far behind
+Box 1: HIV/AIDS - A GrowinP Concern
+those in other European countries.
+Considerable progress has been made The H I V / A I D S epidemic i s escalating after a period o f
+in
+reducing
+excess
+health l o w prevalence. A s in other CIS countries, H I V / A I D S
+infrastructure, shifting resources into in Moldova was at a l o w level (prevalence less than
+0.001 percent) during the first ten years o f the epidemic
+primary health care, and restructuring
+(1987-1996). However, f r o m the mid-1990s onward,
+service delivery. The reform program,
+HIV infections have surged. As o f January 1, 2003,
+however, remains incomplete with a 1,688 HIV-positive persons were registered, and 3 6
+need to further reduce excess capacity people had died o f AIDS. Since 1987, H I V / A I D S
+in the hospital sector, shift to a prevalence has increased more than 25 times to reach
+financing mechanism that provides 0.2 percent among adults o f the 15-49 age group,
+incentives to improve the efficiency ranking fourth in the CIS. Injecting drug use (IDU) i s
+and quality o f care, and introduce currently the m a i n mode o f HIV transmission,
+measures that improve access t o accounting for 82 percent o f a l l reported cases. Yet,
+essential care. Today, access barriers t o transmission through unsafe sexual behaviours i s also
+health care remain significant and are o n the rise, especially among young people,
+constituting about 14 percent o f the reported cases.
+strongly correlated with poverty levels,
+Coupled with high levels o f STIs, this presents a
+as public expenditures remain skewed significant potential for change in the dynamics o f HIV
+in favor o f inefficient and expensive
+infection.
+hospital
+care.
+The
+growing
+dependence o n out-of-pocket expendi&es has l e d t o an increasingly skewed distribution of
+health care utilization in favor o f upper income groups.
+Education-emerging inequalities. Although access t o compulsory schooling (grades 1-9) i s
+high across income groups, disparities begin to emerge towards the end o f compulsory
+schooling as poor and rural children are more likely t o drop out before completing the cycle,
+and thus less l i k e l y t o continue to upper secondary and university. Although Moldova
+compares favorably with other CIS countries in basic education enrollments, upper secondary
+enrollments are substantially lower and reflect to a large extent the much lower continuation
+rate onto this level by rural and poor children. The fiscal adjustment in the aftermath o f the
+Russian crisis was accompanied by increased out-of-pocket financing including through
+informal private contributions. L o w perceived benefits relative t o the costs (including the
+opportunity costs) o f continuing with education appears to b e the primary reason why poor
+and rural families do not continue with schooling. Secondary education i s expensive for poor
+households, and even at the compulsory level out-of-pocket costs are n o t negligible, yet
+public expenditures o n education do not especially favor the poor. There i s some evidence o f
+improvements in the quality o f education (as measured by student performance), but
+challenges remain and inequities persist: many children s t i l l do not perform w e l l o n tests o f
+basic literacy and numeracy slulls; resources in schools are s t i l l lacking, and the gaps in
+performance between urban and rural students are widening.
+Social Protection-need for better targeting. Pensions. The 1999 reform o f the pay-asyou-go pension system has met some o f i t s short-term objectives, such as making pension
+payments on time, in-cash (as opposed to in-kind), and without the need for budget transfers.
+Pension reform, however, remains incomplete and the general pension l a w i s n o t being fully
+implemented. There are a number o f outstanding policy issues t o be addressed, including
+inter alia: (i)
+the pensions o f farmers and the self-employed; (ii)
+the reform o f disability and
+pension privileges for certain categories o f the population and
+survivors insurance; and (iii)
+certain sectors. Although the administration o f the social insurance system has improved in
+
+- 13 the last three years, outstanding issues s t i l l need t o be addressed. These include: (i)
+moving
+fkom a system o f awarding pension benefits based o n stated wages t o one based o n
+contributions actually paid; (ii)significant delays in the introduction o f the individual
+development o f financial management and the IT system.
+accounts system; and (iii)
+Social Assistance. Some success in improving the targeting o f nominal compensations for
+the increased energy costs was achieved in 2000 during the energy reform, but existing
+programs s t i l l rely heavily o n categorical and discretionary targeting approaches, and as a
+result 43.6 percent o f benefits go t o the non-poor. The targeting o f social assistance benefits
+needs significant improvement to effectively target the poor population.
+Social Care Services. The quality o f the social care services has deteriorated, owing t o lack
+o f resources and poor management practices. The system in Moldova i s s t i l l dominated by
+expensive institutionalhesidential care, concentrating o n providing living conditions and
+medical care, rather than social integration and social care. I t i s not flexible enough t o
+quickly adapt to newly emerging and changing needs (street children, drug users, trafficked
+women, etc.) nor does i t allow disadvantaged groups t o receive services within their families
+and community.
+
+F.
+
+Governance and Corruption
+
+38.
+Moldova inherited weak institutions and has not yet succeeded in building a modem state.
+As a consequence, ample opportunities for corruption abound. The c i v i l service i s politicized, the
+management o f public funds has improved but s t i l l lacks transparency and efficiency, local
+governments have limited capacity t o carry out their extensive mandates, the judicial system i s
+not trusted, and c i v i l society has yet to emerge as a significant voice in the country. Not
+surprisingly, corruption in Moldova i s perceived as being very high. The Business Environment
+and Enterprise Performance Survey I1 (BEEPS) reports that nearly 60 percent o f respondents
+consider corruption t o be a “moderate” or “major” constraint t o business, the highest in the
+region. Excessive regulations, bureaucratic discretion, and associated corruption affect the
+competitiveness o f the economy, put downward pressure o n wage rates, and drive people either t o
+emigrate or to j o i n the shadow economy, unofficially estimated at between 30 and 50 percent o f
+GDP.
+
+39.
+
+Weak Civil Service. Although new c i v i l service r u l e s were introduced officially in
+1995, Moldova has yet t o internalize the notion o f a politically independent, merit-based c i v i l
+service. Instead, the current public administration represents a mixture o f o l d bureaucratic
+structures, rules and procedures with some new institutions developed under earlier but currently
+stalled reforms. Chronic political instability and volatility have worsened the initial lack o f
+institutional capital, while the politicization o f the c i v i l service has l e d to a high turnover o f staff,
+chronic policy discontinuity, a deterioration in operational efficiency, the erosion o f institutional
+memory, and very l o w staff morale.
+40.
+Improving Public Finance Management. In the last few years, the basis for improved
+public expenditure management has begun to emerge. The EGPRSP process and efforts at
+developing a Medium-Term Expenditure Framework (MTEF) have brought attention t o policy
+prioritization, strategic planning, and the allocative efficiency o f public resource management.
+Also, public finance management has been strengthened, with real progress achieved in
+developing the treasury system and improving debt management. This progress serves as a good
+basis upon which to continue improving the financial accountability fkamework in Moldova. The
+budget formulation process needs t o be consolidated t o provide a comprehensive view o f public
+
+-14revenues and expenditures, and greater coordination i s needed within the Ministry o f Finance, the
+revenue authorities, and the spending agencies t o improve cash management. The internal and
+external control frameworks are weak and the existing internal audit organizations need t o move
+f r o m ex-post control and inspection activities t o an audit model that i s supportive o f improving
+the overall control environment.
+
+41.
+
+Wavering Local Government Reform. Moldova’s local governments share many o f
+the same financial management capacity constraints as the central government. T w o attempts t o
+reform local governments have n o t produced significant success. In 1998 a n e w territorial
+administrative system aligned Moldova with the European Charter o f Local Self-Government,
+creating 11 judets, plus the city o f Chisinau. The current government reinstated the previous
+system o f 36 rayons. Central t o both designs i s the preponderant problem o f the imbalance
+between the responsibilities and resources assigned t o local governments. This, plus weak local
+administrations and negligible c i v i l society involvement, further reduces the ability o f local
+governments t o effectively deliver o n existing mandates. As a first step at redressing this flaw, a
+fiscal cadastre has been introduced that allows local governments to increase revenues and reduce
+dependence o n the central government.
+
+42.
+
+Judicial Reform-Restarting Stalled Reforms. An effective judiciary can play an
+important role in reducing corruption, improving the business environment, and contributing to
+growth. The Government has introduced several reforms in the legal and judicial sector; the tiers
+o f the court system were reduced f r o m four to three and new C i v i l and Civil Procedural Codes
+were introduced. The continuing agenda includes: improvement in the legislative drafting o f
+economic matters; development o f the legal education system; restarting o f the reform o f the
+court system; promoting o f the development o f the market for legal services, including access t o
+justice through pro bono services; and strengthening o f the enforcement o f court rulings. Given
+the dispersed understanding o f justice (Ministry o f Justice, judges, prosecutors, attorneys-at-law,
+notaries, bailiffs, the legal academic community, NGOs), there i s a need t o engage stakeholder
+participation to reach common understandings. In addition, for any real positive improvements,
+the independence o f judges and entire judicial system from the undue influence o f political,
+business, and corporate interests should be at the core o f the reform agenda.
+
+43.
+Emerging but Weak Civil Society. The last two years have witnessed a major surge in
+c i v i l society activity, and today close t o 3,000 c i v i l society groups/ NGOs exist in the country,
+many o f them established with the support o f external assistance. The relationship between the
+c i v i l society/NGOs and the Government has been guarded in the recent past, o w i n g in part t o
+mutual suspicion. Recently, however, under the aegis o f the EGPRSP process, there has been a
+rapprochement, engendered first by the creation o f Participation Council6 and second, by the
+extensive consultations with the stakeholders. In addition, the monitoring and evaluation
+arrangements being proposed under the EGPRSP include c i v i l society groups. Thus, the
+leadership i s beginning to involve c i v i l society groups in the local, regional, and national
+discourse.
+
+The Participation Council was created in October 2001 with the aim o f ensuring the inclusive participation o f all stakeholders in the
+process o f EGPRSP development and implementation. It includes representatives o f the civil society, academia, and the private
+sector, as well as representatives o f central and local public administration.
+
+- 15 G.
+
+Cross-Cutting Issues
+
+44.
+Key Gender Issues. Economic hardships accentuated gender bias in health, education,
+and employment. Deterioration in health conditions and increasing mortality among men,
+attributed to suicide, alcoholism, drug use, cardiovascular disease, and other stress-related
+illnesses, led to a widening o f the gap in l i f e expectancy to 8 years between men and women.
+Between 1990 and 2000, primary school enrollment rates for both sexes rose at all levels. At the
+higher education level, however, female enrollment significantly outpaced male enrollment,
+increasing fkom a female to male ratio o f 0.92 in 1990 to 1.29 in 2000. However, during the same
+period female employment took a down turn. While currently high at 50 percent o f total
+employment, i t dropped from 60 percent at the beginning o f the 1990s. Moreover, transition has
+deepened gender-based j o b segregation, with women heavily concentrated in lower-pay and
+lower-skilled sectors o f the economy.’ Also, regardless o f education, women are found in lower
+level jobs andor lower paying jobs.*
+45.
+The erosion o f state subsidized services, such as childcare, left women with the double
+burden o f both professional work and increasing household responsibilities, leaving them with
+less time for training, andor work, and thus leading to lower paying jobs.’
+Women’s
+reproductive health has also deteriorated. The proportion o f pregnant women with anemia i s at an
+all time high o f 45 percent since the beginning o f the transition, and it i s the highest in the region.
+Inadequate nutrition, along with poor living conditions and lack o f financial resources for
+personal hygiene, has contributed to a high maternal mortality ratio o f 28 per 100,000 live births.
+46.
+Moldova i s a major country o f origin and transit for the trafficking o f women and girls to
+the Middle East, the Balkans, and other European countries. The International Organization for
+Migration (IOM) estimates that at least 10,000 women a year go abroad with hopes o f finding
+employment and the local Moldovan news media estimate at least 100,000 young women are held
+as sex slaves abroad. Moldova i s also a leading supplier o f underage girls to Russia for sexual
+exploitation: the Government estimates that 5,000 girls are trafficked to Russia annually.”
+47.
+Youth Issues. Youth (16-30 years o f age) make up about one-fourth o f the population,
+and are leaving Moldova in massive numbers, due to poverty and exclusion. The youth in
+Moldova lack assets in three interrelated dimensions: (i)economic-assets leading to income
+generation; (ii)
+social-access to information; associative l i f e activities, social capital activities,
+and free-time activities; care and guidance; and (iii)
+participation in decision-making. Youth
+poverty also covers other dimensions related to the transition age o f youthhood: isolation,
+vulnerability, powerlessness, and idleness-due to lack o f free-time activities and safe spaces - all
+o f which encourages r i s k y behaviors such as drug addiction or engagement in illegal activities.
+These phenomena tend to be particularly acute in rural areas and small towns, where spaces for
+youth activities and services disappeared during transition.
+
+“Women 2000, An Investigation into the Status o f Women’s Rights in Central and South-Eastem Europe and the Newly
+Independent States,” Intemational Helsinki Federation for Human Rights, 2000.
+“Human Trafficking in Southeastem Europe: The Case o f Moldova,” World Bank, 2004.
+“Women 2000, An Investigation into the Status of Women’s Rights in Central and South-Eastem Europe and the Newly
+Independent States,” Intemational Helsinki Federation for Human Rights, 2000.
+lo
+
+For all figures on trafficking see “Human Trafficking in Southeastem Europe: The Case o f Moldova,” World Bank, 2004
+
+-16-
+
+In.
+
+COUNTRY DEVELOPMENT PROGRAM AND ISSUES
+
+A.
+
+Country Priorities and Agenda
+
+48.
+Key Characteristics of the EGPRSP. The Joint Staff Advisory Note (JSAN)" identifies
+four characteristics o f the EGPRSP, namely: an inclusive participatory process, an adequate
+poverty diagnostic, a three-pillar strategy, and an alignment with the MTEF. The EGPRSP
+process, endorsed by the government, was inclusive as it involved stakeholders and c i v i l society
+at the national, regional, and local levels. It provided for a wider participation within the
+government and contributed to better coordination among donors. The poverty diagnostic, based
+o n the recent household budget survey, provided an adequate basis for formulating an antipoverty strategy. The three-pillar strategy o f the EGPRSP called for sustainable and inclusive
+economic growth, reduction o f poverty and inequality and increased participation in the economic
+development o f the poor, especially the most vulnerable groups, and improved human resource
+development. Finally, the MTEF sector strategies in education, health, and social protection
+reflect the priorities identified in the EGPRSP.
+49.
+Three-Pillar Strategy. The f i r s t pillar underscores the importance o f maintaining
+macroeconomic stability, improving the business environment, and accelerating privatization and
+structural reforms. A high priority i s attached t o improving the business environment and
+investment climate t o reverse a decline in investment while continuing reforms in agriculture and
+infrastructure and improving governance. The second pillar seeks to strengthen human resource
+development through improving the quality o f and access o f the poor to education and health.
+The third pillar underlines the need t o strengthen social protection and inclusion through
+continuation o f pension reform, improving targeting o f social assistance, and improving labor
+market flexibility. The links o f the EGPRSP t o the MDGs and Moldova's status v i s - h i s the
+MDGs are presented in Attachment 3.
+50.
+Board Recommendations for Strengthening the EGPRSP and Addressing the
+Implementation Risks. The EGPRSP and the J S A N were discussed at the Board o n November
+11, 2004. The Board noted that the EGPRSP i s comprehensive and contains critical actions that
+over time could help foster sustainable economic growth and poverty reduction. They noted a
+number o f priority areas for strengthening the EGPRSP during implementation. These areas
+include: (a) improving the macroeconomic and fiscal framework by aligning spending plans more
+closely with realistic projections o f fiscal revenues and i d e n t i f j m g a l l sources o f financing
+necessary for their implementation; (b) improving prioritization through strengthening the
+poverty impact analysis o f proposed EGPRSP measures; (c) improving monitoring and evaluation
+by strengthening domestic capacity, and focusing o n outcome indicators in priority areas; and (d)
+addressing external vulnerabilities through effective implementation o f structural reforms and
+broadening o f the economic base.
+
+51.
+The Board noted with concern several critical areas where current policies do not match
+those articulated in the EGPRSP. These include slow progress in implementing structural
+reforms, increased government interventions in economic activity, and the unsustainable mediumterm fiscal framework. The Executive Directors noted that these actions m a y limit the scope for
+IDA concessional assistance, and urged the authorities to rectify these policy actions, especially
+" Republic o f Moldova: Poverty Reduction Strategy Paper and Joint IDA-IMF Staff Advisory Note, October 18, 2004 (Report No.
+29648).
+
+-17in the areas o f state monopolies, licensing and regulation, land consolidation and agriculture
+subsidies, targeting o f social assistance and privatization. They underscored the need for the
+authorities to demonstrate a good track record o f implementation. They look forward to clearer
+signs o f govemment ownership o f proposed reforms, and encourage the authorities to engage
+stakeholders and citizens in monitoring and providing feedback and evaluation o f the EGPRSP
+implementation.
+
+B.
+
+Feasibility of EGPRSP Implementation
+
+52.
+The EGPRSP presented by the Government provides a basis for IDA assistance. The
+extensive consultation process followed during preparation and the readiness o f the Govemment
+to accept comments and suggestions signals a significant improvement in the capacity and
+willingness o f the Government to engage a broad range o f stakeholders in frank and open
+dialogue. The results also show that a significant constituency supports the EGPRSP.
+53.
+Despite these important developments, however, it i s necessary to stress that
+implementation o f the EGPRSP could prove difficult. The EGPRSP implies a significant
+departure from the policy actions undertaken during the last three years, with a continuing wide
+gap between declared intentions as set out in the EGPRSP and actions o n the ground. The
+political environment i s fragmented, with strong special interests that resist moves to reform and
+greater transparency. I t i s therefore possible that some o f the actual policies adopted and
+implemented by the Government and Parliament may deviate from the intent and content o f the
+EGPRSP.
+54.
+The international community has an important role to play in supporting Moldova's
+advance towards an open market economy and alignment o f i t s institutions with European
+practices. Since sustaining such support would be difficult in an environment o f mixed policy
+implementation, IDA will work with other donors to monitor progress in implementing the
+EGPRSP. The planned CAS Progress Report would provide an opportunity to review
+implementation performance and to consider possible changes to enhance the program.
+
+BANK GROUP ASSISTANCE STRATEGY
+
+IV.
+A.
+1.
+
+Implementationof the Last CAS
+
+Lessons from OED Evaluations and Other Reports
+
+55.
+The Bank's program in Moldova has benefited from several evaluations and analyses
+over the last two years. The Operations Evaluation Department (OED) undertook a Country
+Assistance Evaluation (CAE) in mid-2003, reviewing the outcome o f 1993-2002 programs.'2 The
+Quality Assurance Group (QAG) reviewed the Analytical and Advisory Services (AAA)
+program. In addition, an analysis o f the political economy and i t s implications for IDA lending,
+including a series o f private sector and business environment studies, has been undertaken.
+Reviews o f the business environment include the Cost o f Doing Business (2001 and 2003), an
+Investment Climate Assessment (2003), and ECA-wide Business Environment and Enterprise
+Performance studies (200 1 and 2003).
+
+Committee on Development Effectiveness: Moldova Country Assistance Evaluation, May 14, 2004 (Report No. CODE 20040036).
+
+-1856.
+The CAE report identified a gap between, on the one hand, the goals o f the various
+programs, which were considered relatively consistent and appropriate, and, on the other, the
+unsatisfactory development outcome. It noted that past strategies underestimated the difficulty o f
+the transition and made less than candid assessments o f the emerging political and social risks.
+B o t h OED and QAG pointed out the importance o f internalizing evolving political realities in the
+Bank’s work. This suggests a need to test reform commitment and ownership before h r t h e r
+development support lending can be considered.
+57.
+B o t h OED and Q A G noted that the AAA program would have benefited from a core
+integrative macroeconomic piece-such as a Country Economic Memorandum or a Development
+Policy Review-that included an analysis o f the implications o f the Government’s approach to
+economic management and a presentation o f policy options. QAG rated individual pieces o f the
+AAA work satisfactory, but found that the overall AAA program was implemented in an ad hoc
+manner.
+
+58.
+In preparation for a new CAS, an internal Country Portfolio Review found that
+investment operations have performed well, but have had limited impact in securing broader
+sectoral improvements. The review recommended: (a) a more frank evaluation o f political risk,
+and greater flexibility in project design to adapt to these risks; (b) to focus the CAS o n k e y
+thematic bottlenecks (e.g., poor business environment and governance issues) that inhibit project
+performance, with benchmarks to determine government commitment; (c) n o further adjustment
+lending in the absence o f proven reform track record; and (d) better integration o f analytic w o r k
+with the lending program, and fuller participation by affected communities.
+
+ii.
+
+IDA Portfolio Management and Performance
+
+59.
+As o f mid-October 2004, the Moldova portfolio comprised 11 ongoing investment
+operations with net commitments totaling US$146.2 million (including one GEF-funded grant o f
+US$5 million), of which US$106.2 million i s undisbursed. The average age o f the portfolio i s 2.9
+ye&, with 2 projects more than 6 years old. Infrastructure accounts for about half o f the
+portfolio, with operations in human development, private sector development, and rural and
+agricultural development constituting the other half. The portfolio generally i s performing w e l l
+with only one problem project (Social Protection Management). A summary o f the status o f the
+portfolio can be found in Attachment 2.
+
+60.
+Annual Country Portfolio Performance Reviews (CPPR), chaired jointly by the Bank and
+the Government, have been held regularly over the last 3 years. The last CPPR in January 2004
+broadened participation to include NGOs and development partners and most o f the agreed
+actions have been implemented. Highlights include the establishment o f an inter-ministerial
+Technical Committee to monitor project execution; workshops o n disbursements and
+procurement; and plans for monitoring and evaluation training for project and government staff.
+iii.
+
+IFC and MIGA Portfolio Management and Performance
+
+61.
+Since Moldova became a member in 1995, IFC has committed US$72 m i l l i o n o f i t s o w n
+funds and arranged US$25 million in syndications in the power, telecommunications,
+agribusiness, SME, and financial sectors. In addition, IFC also has supported technical assistance
+projects in banking, tourism, wineries, food processing, and leather industries. I t continued to
+provide additional long-term financial resources to commercial banks for on-lending to local
+corporations, SMEs, and individuals. The country’s difficult business climate has had a
+
+-19dampening effect o n foreign and domestic investment, making it difficult for IFC t o develop and
+support n e w projects. Going forward, I F C will maintain i t s support in helping develop private
+enterprises, for example by providing long-term funding through local banks, and through
+assistance with attracting foreign strategic investors. I t will also pursue opportunities to support
+infrastructure development.
+Recognizing that investment projects in Moldova require
+comprehensive technical assistance, IFC will continue to combine investment operations in
+strategically targeted areas with various non-investment and technical assistance operations.
+62.
+Moldova has been a member o f MIGA since 1993. MIGA guarantees have facilitated
+approximately US$63.7 m i l l i o n o f FDI, in the power, financial and real estate sectors. It has also
+been involved in mediating disputes (in the power sector) and provided technical assistance t o
+formulate and implement strategies for attracting FDI, with advice and tailored assistance t o
+public and private organizations in image-building, sector-targeting, outreach and information
+dissemination. MIGA’s online information service has 153 documents for Moldova pertaining t o
+investment opportunities and other related legal and regulatory issues.
+
+iv.
+
+CAS Preparation: Participatory Process Followed
+
+63.
+Stakeholder consultations were undertaken during the preparation o f this CAS. Those
+consulted include the Presidency, the Govemment (central and local levels), the Parliament, the
+business and financial community, c i v i l society/NGOs, the media, think-tanks, academia, trade
+unions, opposition parties not represented in Parliament, and donors (bilateral and multilateral).
+The consultation process helped t o create stakeholder contact groups t o enlarge the sphere o f
+Bank cooperation and civic engagement, which should help facilitate C A S implementation.
+Three different large stakeholder groups were engaged in a series o f 8 roundtables and meetings:
+(a) the Govemment; (b) the business community; and (c) selected c i v i l society groups and
+organizations from various parts o f the country (NGOs, academia, think tanks and research
+institutes). A CAS website, with an electronic discussion forum, was launched t o provide added
+scope for dialogue with stakeholders, and most consultation events were taped and transcribed.
+Summaries o f the events were posted o n the CAS website in two languages, English and
+Romanian. The electronic discussion forum i s ongoing, with suggestions and questions posted o n
+the site. Attachment 4 summarizes the feedback obtained during the consultations.
+64.
+Suggestions from stakeholders complemented feedback f r o m the EGPRSP process and
+shaped this CAS. Stakeholders welcomed the consultation process initiated by the Bank,
+commenting that this was long overdue. They expressed concerns about the limited involvement
+o f c i v i l society groups/NGOs in development discourse, repeatedly mentioning the important role
+they can play. Other issues raised were: (a) the need for a better business environment; (b)
+corruption; (c) direct financing o f beneficiaries to circumvent state bureaucracy; (d) infrastructure
+development, education, health, and a legal framework; and ( f ) the need for greater transparency
+in Govemment/IFI relations. A follow-up phase o f CAS consultation will involve validation and
+continuing dialogue o n the development challenges facing Moldova. This will be initiated
+following Board discussion o f the CAS.
+
+-20
+
+B.
+
+-
+
+Proposed Assistance Strategy
+
+The overall objective of this CAS is to assist Moldova in promoting sustainable
+growth and reducing its high level ofpoverty by:
+
+..
+.
+
+Promoting conditions for sustaining growth and employment creation
+Improving access to social capital and services, and community
+infrastructure, and
+Improving public sector governance and combating corruption.
+
+i.
+
+Strategic Context
+
+65.
+This C A S reflects the current country context, the EGPRSP framework, and the country’s
+EU aspirations. I t also draws heavily o n the 2002 CAS Progress Report, the lessons learned f r o m
+the OED Country Assistance Evaluation, the Country Portfolio Performance Review, the Poverty
+Assessment, and a recent analysis o f the political economy and i t s implications for IDA lending.
+It takes a long-term view o f the Bank’s assistance to Moldova. Meeting the MDGs, as stated in
+the EGPRSP, will require sustained long-term economic growth that disproportionately favors the
+poor. This calls for policies to maintain macroeconomic stability, improve the rural economy and
+better target social assistance. Under the current constraining financial and institutional
+environment, the challenges facing Moldova are daunting and will require long-term commitment
+f r o m IDA and other development partners.
+66.
+This strategy i s set against the backdrop o f a difficult policy environment. The policies
+and actions proposed in the EGPRSP reflect a significant departure from past unfulfilled policy
+commitments. It will take some time t o ascertain the level o f the Government’s commitment t o
+the reforms needed t o support the EGPRSP. Against this background, the C A S mainly will
+support interventions at the local and community levels, employing a CDD approach that relies
+o n the strong involvement o f communities and local government authorities. In addition, i t will
+support the Government’s efforts t o eliminate the key bottlenecks t o growth that were identified
+in the EGPRSP - improvements in the business environment and public sector governance. The
+strategy recognizes, however, that these are areas where the perception gap has been the widest
+and past efforts at reforms have been less successful.
+67.
+Each operation supported under this C A S will be based o n sound stakeholder analysis,
+and in collaboration with the authorities and local institutions. The Bank will also involve, as
+appropriate, c i v i l society in the design and implementation o f lending and non-lending services.
+I t i s hoped that this approach will help broaden the constituency for reform and help monitor
+implementation o f both the EGPRSP and the CAS. Lastly, the CAS moves away fkom the
+input/output based program o f the past t o a more results-based strategy, designed o n the
+principles o f effective Government ownership, anchored in the EGPRSP, and based o n true
+partnership with the Bank and other development partners. The results-oriented framework for
+this C A S and i t s linkage with the EGPRSP i s presented in Annex B9.
+
+ii.
+
+Scenarios and Triggers
+
+68.
+This CAS defines two scenarios: a Base Case and a High Case. The Base Case reflects
+the current country context and Moldova’s Performance-Based IDA Allocation. Over the fouryear C A S period (FY05-08), the Base Case lending envelope will be SDR63 m i l l i o n (US$90
+m i l l i o n equivalent). The High Case provides about 50% more resources, for a total envelope o f
+
+-21 SDR96 m i l l i o n (US$137 m i l l i o n equivalent). The lending and analytic programs described
+below represent current intentions. Within the overall Base and High Case parameters, and
+consistent with the overall goals o f the strategy, both may be adapted t o take advantage o f
+emerging opportunities or unforeseen constraints. A full review o f implementation progress will
+be conducted after a period o f around 2 years.
+69.
+The Base Case focuses o n three pillars, which are aligned with the medium- t o long-term
+poverty reduction priorities detailed in the EGPRSP. These are: (i)
+promoting conditions for
+improving access t o social services,
+economic stability, growth and employment creation; (ii)
+capital and community infrastructure, as w e l l as minimizing environmental risks; and (iii)
+improving public sector governance and combating corruption.
+70.
+Added emphasis will be placed o n learning through j o i n t consultative processes
+(involving the Government, the Bank, development partners, and stakeholders) t o improve policy
+dialogue, build consensus, and give greater voice t o the citizenry t o foster heightened public
+accountability. The indicative lending and AAA programs (Table 3) will be subject t o periodic
+reviews with the authorities, t o ensure continued relevance and alignment with the EGPRSP.
+Additionally, a mid-term review (CAS Progress Report) will take stock o f advances in the
+implementation o f the EGPRSP and evaluate the track record in policy reforms, including
+fulfillment o f triggers for the High Case. Based o n these assessments, the review could suggest
+necessary modifications to the Base Case.
+
+Pillar 1.
+
+Promoting Conditions for
+Employment Creation
+
+Economic
+
+Stability,
+
+Growth,
+
+and
+
+71.
+The CAS consultations with the business community, the Trade Diagnostic Study, and
+the Investment Climate Assessment Study all point t o the high cost o f doing business as a binding
+constraint to the development and expansion o f the private sector (in particular SMEs) and j o b
+creation. T o this end, the CAS will target actions t o reduce the cost o f doing business by assisting
+the Government in simplifying bureaucratic controls and time-consuming approval procedures,
+and streamlining enforcement t o reduce business harassment. Complementary attention w o u l d be
+given t o actions to improve corporate governance, broaden financial intermediation, and improve
+the maintenance o f basic infrastructure t o facilitate investment and economic activity. In
+addition, the C A S will support the development o f the rural economy, where most o f the poor
+live, and will place emphasis o n removing internal barriers that limit the export capacity o f the
+country.
+
+72.
+Lending and Non-Lending Support. The Bank will seek to improve the understanding
+o f the sources o f and impediments t o growth in Moldova. A Country Economic Memorandum,
+currently under preparation will build on previous and current analytical w o r k (Trade Diagnostic
+Study, the Investment Climate Assessment, Poverty Assessment, and Sector Strategy Notes). I t
+will explore policy options for sustainable growth, as w e l l as measures needed t o mitigate
+underlying social and economic risks. In addition, the Bank will support dialogue o n financial
+and private sector reforms, including the development o f measurement instruments (surveys,
+focus groups) to gauge improvements in the business environment. In FY04, a Financial Sector
+Assessment Program (FSAP), an Accounting and Auditing Assessment (ROSC), and a Country
+Financial Accountability Assessment (CFAA) were completed. Follow-up technical assistance
+will be provided to support improvement in the financial accountability framework in the country,
+including the need t o refine the AMLEFT regime. If requested by the Government, the Bank
+would provide technical assistance for restructuring and management o f public debt.
+
+-2273.
+IDA will support efforts to improve Moldova’s competitiveness and employment
+creation. Assistance will be provided to establish an institutional framework that reduces the high
+cost o f doing business, particularly deregulation, and limit arbitrary practices in the use o f state
+power. It will build o n the successful efforts t o regenerate the rural economy through pro-poor
+growth investment mechanisms, an agricultural advisory network and business development
+(under the Rural Investment and Services Project (RISP I))
+by supporting the next phase o f the
+adaptable program lending o n rural investment-RISP 11. Support for the next phase will b e
+contingent o n continuing the implementation of reforms in the agriculture sector.
+Pillar 2.
+
+Improving Access to Social Services, Capital and Community
+Infrastructure, and Minimizing Environmental Risks
+
+74.
+
+Critical for sustainable growth and poverty reduction, the C A S supports actions t o
+strengthen human, social, and physical capital. IDA assistance will focus o n the targeting o f
+social assistance t o better reach the poor and to facilitate their access to quality health, education,
+and social protection services. Similarly, IDA assistance will seek to address the deterioration in
+critical infrastructure, such as housing, public utilities, and transportation. IDA also will assist
+the government in mitigating significant health risks derived from ground water pollution.
+Lastly, assistance will be provided to address the serious risks posed t o rural communities f r o m
+weather-related events.
+
+Lending Program and Non-Lending Support. Achieving the MDGs will require
+75.
+targeted attention t o selected population groups and t o specific factors that foster poverty.
+Following up o n the recently completed Poverty Assessment, the Bank will continue i t s efforts t o
+help the Government improve i t s knowledge o f the characteristics and causes o f poverty. In
+addition t o improving existing household surveys and creating a poverty map for Moldova, this
+effort will better enable IDA to support the implementation o f the EGPRSP and provide needed
+inputs for other IDA-financed operations.
+
+76.
+While primary education coverage i s broad in Moldova, quality i s poor and resources are
+particularly scarce in rural areas. Further analytical work and investment in rural education will
+be undertaken. IDA i s already helping Moldova address its health MDGs through the ongoing
+Health Investment Fund project. In collaboration with the Global Fund t o Fight Aids
+Tuberculosis and Malaria, IDA i s providing funding for an HIV/AIDS project. Building upon
+past reforms, IDA will support the Government t o improve access by the poor t o health services,
+to better integrate support at the community level, and t o identify those areas where a greater
+effort i s needed t o achieve the health MDGs. IDA will assist the Government in evaluating the
+current social assistance system and developing a strategy to improve targeting, particularly cash
+benefits and nominal targeted compensation. The development o f the institutional basis
+necessary to target social assistance to the truly poor will be an important element o f IDA
+assistance.
+
+77.
+
+One o f the greatest challenges Moldova faces in reaching the MDGs i s in the provision o f
+adequate water and sanitation services to the population. IDA i s already supporting this effort
+through a Water Supply and Sanitation Pilot Project, and a GEF Agricultural Pollution Control
+Project, which pilots support to agricultural, livestock and land management techniques t o reduce
+nitrate contamination o f groundwater. IDA will increase its support in this area by assisting the
+Government with the implementation o f i t s National Water Plan. IDA assistance will focus o n
+medium-size towns and villages where the problem with potable drinking water and inadequate
+sanitation i s most acute.
+
+- 23 78.
+The CAS supports the EGPRSP effort to improve the environment. IDA will seek
+support for additional GEF resources, focusing o n improved wetland and flood management,
+ecological restoration and forestation activities, capacity building for management o f protected
+areas, biodiversity monitoring and enforcement. Since the poor have increasingly turned t o the
+use o f “dirty” fuels under the impact o f the energy adjustment, IDA will utilize GEF resources t o
+help adapt technologies for energy conversion and conservation. IDA has taken a leading role in
+the early implementation o f the K y o t o Protocol and can be an important partner in efforts t o
+develop Moldova’s carbon trading market through new project development, capacity building
+and the replication o f best practices. Among the environmental issues supported under this C A S
+i s strengthening the capacity for Persistent Organic Pollutants (POPS) management, public
+awareness, and improved pest management for crops.
+79.
+The C A S attaches particular importance to building a culture o f local community
+involvement in public issues by strengthening community capacities t o make decisions, and
+organize and manage funds t o improve the quality o f basic social and economic services in the
+participating communities. IDA, through the two social investment funds (SIF Iand S I F II)
+has
+,
+already had notable success in this area. T o build upon this success, IDA will seek t o develop
+institutional mechanisms to enable c i v i l society t o interact with public officials t o improve the
+delivery o f public services and enhance the overall quality o f governance. It will support the
+strengthening o f local government capacity t o undertake the new responsibilities placed o n these
+governments under the decentralization reform program and t o position them t o better involve
+local communities.
+
+Pillar 3.
+
+Improving Public Sector Governance and Combating Corruption
+
+80.
+Improving public sector governance and combating corruption are o f paramount
+importance for the implementation o f the EGPRSP. Within the broad agenda o f issues covered
+under this topic, IDA will place emphasis o n improving transparency and accountability in the
+management o f public funds, expenditure programming, and evaluation practices. I t will support
+greater involvement o f c i v i l society in exercising accountability over public action and the
+delivery o f public services, focusing attention in particular o n community-driven development
+and stronger local government ownership and leadership.
+81.
+Lending and non-lending support. IDA’S assistance will focus o n strengthening the
+programming and management o f public resources. This will include assistance t o the
+Government to: (a) institutionalize the Medium-Term Expenditure Framework (MTEF) by
+building the capacity t o develop sector programs based o n realistic and prioritized resource
+allocation; (b) strengthen budget management through a modernized treasury system; (c)
+strengthen the public finance control fkamework; and (d) introduce a system o f Continuous
+training to assure sustainability. IDA will maintain analytical underpinnings in this area through
+updates o f the C F A A and the CPAR. and will review advances in procurement reform.
+82.
+The recently completed Justice Sector Assessment will enable the Bank t o engage the
+Government, as w e l l as other stakeholders, in a dialogue o n legal and judicial reforms in
+Moldova. In a context where justice i s delayed and/or denied either by a lack o f political will or
+by financial constraints, community-driven demand for greater access t o justice needs t o be
+promoted and strengthened. The CAS will seek to help the poor advance their legal interests,
+take actions to secure or enforce their rights, and improve their well-being. Ultimately, legal
+empowerment o f the poor will increase consciousness o n legal and judicial reform issues in
+Moldova, and increase the demand for the rule o f law, as w e l l as placing pressure o n formal
+institutions to reform.
+
+-24
+
+-
+
+Table 3. Indicative IDA Lending and Non-Lending Services
+FYOS-OS (Base Case US$90 million)
+
+FY05
+
+FY06
+US$ m
+
+Operations
+Public Finance
+Management
+
+10
+
+I
+Total
+
+10
+
+CEM
+Agriculture note
+Education Note
+Reconciliation
+through Education
+Local Gov’t. /CDD
+Public Procurement
+
+(IW
+
+Operations
+RISP I1
+
+US$ m
+15
+
+Rural Education
+
+10
+
+I Competitiveness I 5
+
+I I
+I
+
+FY07
+
+(PSD)
+
+I Total
+
+1
+
+Operations
+Social Assist.
+Primary Health
+Care
+
+Hazard
+Mitigation Rural
+areas
+
+FYOS
+US%m Operations
+10
+Water &
+Sanitation
+10
+Local Gov’t.
+10
+Community
+Infrastructure
+
+I 30
+30
+Total
+Non-lending (AAAIGEFI
+CASProgressReport
+Poverty Assmt Update
+PRSPUpdate
+PRSPUpdate
+Housing
+RehabilitationNote
+Disaster Mgt Note
+FSPPSD
+Social Assistance Note
+PER
+FSAP Follow-up TA
+HealthNote
+CFAAUpdate
+
+Total
+
+US$m
+10
+10
+
+20
+
+CAS
+Poverty Assmt
+Update
+PRSPUpdate
+Legal
+Empowerment TA
+(JSDF)
+
+FSAF’ Follow up TA
+CFAA Follow up
+CPAR Follow up
+Macro Monitoring
+Policy Notes
+
+83.
+The High Case would be triggered by the benchmarks presented in Table 4, which have
+been discussed and agreed with the Government. The intent o f these benchmarks i s t o provide a
+basis for IDA t o evaluate the progress made in critical areas that w o u l d justify a High-Case
+scenario. Progress o n these triggers would be reviewed regularly, and the C A S Progress Report
+would evaluate readiness to move t o the High Case. Under the High Case, IDA will consider
+development policy lending (DPL). A m o n g the areas o n which such an operation might focus are
+the critical actions needed to create modern market institutions, with emphasis o n policy
+measures to strengthen the business environment and corporate governance, foster the
+development o f SMEs and the agricultural sector, increase exports, attract foreign investment,
+and secure the adoption o f n e w technologies. Consistent with the EGPRSP, the DPL would
+advance the anti-poverty program from a policy perspective and also through the budgetary
+resources it would provide. The DPL might also focus o n public administration and c i v i l service
+reform, particularly o n policy decisions that are needed to advance the modernization o f the
+government apparatus. This might include policy development capacity, pay reforms, staffing
+rules, code o f conduct behavior, assignment o f responsibility and accountability, anti-comption,
+and the functional reorganization o f the Government, as well as the framework for dialogue
+between the Government and c i v i l society, procurement practices, and access o f the poor to
+judicial and legal services. Based o n the Progress Report conclusions and satisfactory attainment
+o f the High Case triggers, IDA would consider funding additional investment operations
+consistent with the priority actions under the EGPRSP.
+
+- 25 Table 4. High Case Triggers
+
+I
+Benchmark
+
+Current value
+(indicate time)
+
+2004l2005 Priority actions.
+
+spelled out in the
+EGPRSP’s annual
+implementation plan.
+
+2. Maintaining a stable
+macroeconomic framework
+and fiscal discipline.
+
+3. Public Sector reform
+and Governance.
+(a) Civil Service Reform
+The Govemment enforces
+the Regulationon open,
+competitive, based on
+professional merit,
+recruitment of civil servants.
+
+All civil service institutions
+comply with Regulation#
+192 (March 1,2004) and fill
+vacant civil service position
+are filled through an open
+competitive selection.
+(b) Strengthen public
+Financial Management.
+TreasuryMoF provides
+budget-executing agencies
+with a short-term cash
+availability forecasts (2
+weeks or 1 month) to prevent
+undertaking unfunded
+commitments.
+(c) Public Procurement
+
+I Increased competitionfor
+
+Target value
+
+How and when
+:he indicator
+w i l l be
+measured
+ieport from
+3ovemment and
+.eview with
+jtakeholders:
+clivi1 society, and
+ievelopment
+>artners,
+including IFIs.
+The annual
+3udget and
+nonthly treasury
+m the execution
+>fthe budget will
+measure
+achievement of
+the budget
+targets.
+
+Primary fiscal surplus
+(commitments basis) o f
+general government in
+2003 o f 2.3 percent o f
+GDP.
+
+The 2004 budget targets a
+primary fiscal surplus of the
+general govemment of
+(commitments basis) of 2.4
+percent of GDP. The 2005
+budget should target a primary
+fiscal surplus o f the general
+govemment (commitments basis)
+o f at least 2.5 percent of GDP.
+
+Accumulation of new
+external interest and
+payment arrears o f $44.5
+million in 2003. Stock of
+domestic expenditure
+arrears stands at 1.2
+percent of GDP.
+Currently there i s no
+control o f procedure for
+appointment of civil
+servants to vacant
+positions.
+
+The Government should develop
+a satisfactory plan to deal with the
+accumulation o f external arrears
+and the stock o f domestic arrears
+by end-2005.
+
+The plan to deal
+with external and
+domestic arrears
+should be
+incorporated into
+the MTEF.
+
+(a) All govemment entities apply
+the provisions o f the Regulation
+#192 for filling vacancies for
+civil service positionsbelow
+deputy minister and submit
+quarterly reports on the
+recruitment decisions to the State
+Chancellery.
+(b) All CS vacancies are publicly
+announced and filled through an
+open competitive selection
+process.
+(c) The govemment establishes
+an appeal system, allowing to
+review individual complaints
+related to observation of the new
+recruitment procedures.
+
+The State
+Chancellery will
+
+Cash availability statements are
+issued by the Treasury on a biweekly basis.
+
+MoF and line
+ministries will
+
+By June-2005, to 40% of the total
+number of contracts and to 45%
+o f the total value o f contracts,
+
+Monthly reports
+publishedby the
+National Agency
+
+Currently budgetexecuting agencies receive
+information on cash
+availability from the
+Treasury only through
+individual inquiry. The
+lack of predictability o f
+cash availability reduces
+effectiveness of
+operational management.
+In 2003, SSP accounted
+for 45% of the total
+number o f contracts
+
+collect
+
+information on
+
+recruitment
+
+procedures from
+ministries and
+govemment
+agencies prepare
+and make public
+consolidated
+reports on
+recruitments o f
+civil servants
+according to the
+new rules. On
+quarterly basis.
+
+provide
+information
+regardingthe
+cash availability
+reports.
+
+-26iublic procurement contracts
+IS evidenced by:
+A decline in the use o f
+Single Source
+Procurement (SSP).
+
+An increase in the use
+of Open Tendering.
+
+1. Improving the business
+environment:
+fa) Facilitate the entry of
+new firms, functions
+and exit.
+i) Reduce licensing and
+inspection costs.
+
+ii) Reducing the number
+o f inspections per
+enterprise per year.
+
+(b) Reduce interference of
+state agents in the activities
+ofprivate andpublic
+companies.
+
+Reduce import clearance
+time at TTFSE pilot inland
+terminal of Chisinau
+5. Improving Social
+Protection
+Pension reform
+
+awarded and 5 1% of the
+total L e i value of contracts
+awarded, including
+contracts for utilities
+services, representing
+about 30% of the total,
+where SSP i s enforced due
+to the supplier's monopoly
+position.
+
+including utilities.
+
+or Govemment
+'rocurement
+NAGP) on
+mblic
+rocurement
+Ierformance.
+
+In 2003, Open Tendering
+accounted for 19% of the
+total number of contracts
+awarded and 28% o f the
+total L e i value o f contracts
+awarded.
+
+By June-2005, to at least 30% o f
+the number o f contracts and 40%
+o f the value o f contracts.
+
+vionthly reports
+jublished by the
+Vational Agency
+'or Govemment
+'rocurement
+NAGP) on
+Jublic
+xocurement
+Jerformance.
+
+Licensing costs (2002) =
+$683; Inspection costs
+(2002) = $1893.
+Number o f inspections
+(2002) per yeadfirm = 20.
+
+Licensing costs = $550
+Inspection costs = $1,000
+Number of inspections (ECA avg.
+level) per year/per firm = 12.
+
+Early Waming
+System (every 6
+month) + Cost o f
+Doing Business
+Survey (annual).
+
+Time between entrance of
+truck into the inland
+terminal and its exit from
+the terminal after the
+releases o f goods was
+benchmarked at 500
+minutes in 2002.
+
+Consistent with the target values
+agreed under the TTFSE project
+import clearance time at the
+terminal will be reduced to 200
+minutes by the end of 2004.
+
+Monitoring
+system
+implemented
+under the TTFSE
+Project.
+
+Some new privileges were
+reintroduced recently,
+including reduction in the
+age o f illegibility for
+mothers with many
+children, and workers in
+hazardous conditions.
+
+Gradual elimination o f the old
+privileges as per 1998 reform
+agreement. Any new privileges
+should be financed from the state
+budget.
+
+Monitoring
+through
+continued policy
+dialogue and
+SPM project
+supervision
+
+Pension benefits are not
+linked to individual
+contribution.
+6. Agriculture
+
+Implementationo f individual
+account system. Award o f
+pension benefits based on
+contributions actually paid and
+recorded in the individual
+accounts.
+Continued adherence to the
+Memorandum o f Understanding
+on Agriculture.
+
+Calculation o f
+pension benefits
+based on actual
+contribution paid
+as of January
+2005.
+Monitoring
+through policy
+dialogue and
+RISP I& 11.
+
+-27
+
+iii.
+
+-
+
+Monitoring and Evaluation
+
+84.
+IDA’S proposed lending program includes continued support for improvements in
+Moldova’s monitoring and evaluation capacity through the Public Financial Management project,
+IDF grants, AAA and cross-cutting elements o f various investment elements.
+85.
+While not formally based o n a results framework, the C A S program matrix (Annex B9)
+articulates a results chain for IDA’Sprogram and augments the traditional monitoring o f progress
+o n inputs and deliveries with a focus o n outputs and outcomes that are linked t o longer-term
+country outcomes. It identifies a set o f outcome and output indicators t o measure progress. An
+attempt has been made t o quantify these indicators with expected target ranges. In some cases,
+more qualitative information needs to be derived. Where there are gaps in information, IDA will
+work with the Govemment during the first year o f implementation t o identify specific
+measurements o f outcomes.
+86.
+While specific operations have been proposed that will address the higher order outcomes
+defined in the matrix, the C A S will remain dynamic, responding to changes in the country and the
+need to redirect resources, particularly if the country should succeed in moving to the High Case.
+At mid-term, the C A S Progress Report will draw o n an in-depth examination o f the C A S
+
+outcomes and assess whether they remain relevant to the longer-term objectives given changing
+country conditions.
+87.
+Annex B9 shows the links between the main areas o f the PRSP and the C A S program
+matrix. Where possible, IDA will use data collection mechanisms that will be used in monitoring
+the PRSP, mainly the longer-term outcomes. For other indicators, the PRSP does n o t provide a l l
+the necessary information. This information will be obtained either through line ministries or via
+the execution of proposed or ongoing projects.
+
+iv.
+
+Partnership and Coordination
+
+88.
+
+Coordination among the k e y donors-IDA, IMF, EBRD, EU, UNDP, and USAID-has
+been very close, with several joint/parallel operations. The EGPRSP sets the basis for enhanced
+cooperation with many donors, including the EBRD, DFID, and EU, n o w planning their next
+rounds o f support.
+89.
+The Bank and the IMF have operated under a clear delineation o f responsibilities. As the
+IMF PRGF program expired in December 2003, discussion o f the program renewal i s likely to be
+lengthy and difficult. This uncertainty will have direct implications for other donors’ assistance,
+especially for the availability o f funds for budget.
+90.
+USAID has been one o f the main providers o f technical assistance, but the current
+program i s set to expire in 2005. Current U S A I D activities that are likely to continue include
+post-privatization support for the agricultural sector, strengthening o f local governments, and
+support for the development o f c i v i l society organizations and NGOs. Prospects for
+continuationhesumption o f activities in other areas are less certain. The EU Moldova program i s
+framed in the context o f the new neighborhood policy, which envisages development o f a specific
+Action Plan setting out overarching strategic policy targets and benchmarks. The Action Plan
+covers economic integration, emigration, international crime, energy, transport, and
+telecommunications and support for c i v i l society. The EU Food Security Program has emerged
+as the main source o f targeted policy-based budget support. W o r k o n social protection,
+
+’
+
+- 28 agricultural policies, public financial management, and statistics will be areas o f cooperation with
+the Bank. Grant-funded budget support has been put o n h o l d following the suspension o f the
+IMF program. EBRD’s recently approved strategy for Moldova supports private sector
+development in finance, infrastructure, and SMEs. Emphasis o n improving the investment
+climate defines an area o f mutual cooperation with the Bank. The government of Japan has been
+among the active donors in Moldova. Japan has provided support for promoting SMEs through i t s
+capacity development program to the Agency for Restructuring and Enterprise Assistance
+Competitiveness and Productivity Center, which served as the Project Implementation Unit for
+the PSD-I and PSD-I1 projects. T h e Japanese P H R D Fund has provided a number o f grants t o
+prepare projects in several areas, most recently in public finance management. DFID provided
+support in the preparation o f the PRSP and will play an important role in monitoring
+implementation. I t has also been providing technical assistance for building institutional capacity
+in developing the MTEF. In addition, ongoing IDA-financed projects in agriculture (RISP) and
+social protection (SIF and SPM) have benefited from DFID contributions. The new DFID
+country assistance strategy (2004-2007) will focus o n improving governance and the institutional
+environment for poverty reduction, promoting pro-poor sustainable growth, and strengthening
+conflict resolution efforts.
+
+91.
+SIDA (Swedish International Development Agency) i s an active IDA partner in a number
+o f ongoing projects in several sectors, including AIDS, Energy 11, HIF, RISP, and SIF. The m a i n
+directions o f SIDA’s country assistance strategy, which currently i s under preparation, are l i k e l y
+t o remain governance, social inclusion, and economic growth. Their small grant program for
+NGOs i s also likely t o continue. The government o f the Netherlands has been a stable provider
+o f budget support, co-financing US$20 m i l l i o n for the SAC (2001) and the Health Investment
+Fund (USSlO million). There i s current interest for cooperation in supporting public financial
+management reforms through technical assistance. UNDP has supported the preparation o f the
+EGPRSP and i s playing an important role in i t s monitoring. I t also has taken the lead in helping
+the government elaborate the MDGs and in placing them in the Moldovan context. In addition,
+UNDP i s actively supporting interventions at the central and local levels in capacity building, as
+w e l l as providing support for c i v i l society groups and NGOs. It will continue t o be a major IDA
+partner in helping Moldova reach the country-specific MDGs. UNICEF’s agenda includes
+support in addressing the health needs o f mothers and children and the expansion o f development
+practices for early childcare. It i s also IDA’Smajor partner in a number o f projects in the social
+sector areas, such as HIVIAIDS, health reform, youth inclusion, and child protection through the
+SIF. The U N I C E F N B partnership in Moldova i s o f value, and in some cases collaboration i s
+reflected formally in specific agreements. WHO i s partnering with IDA in supporting healthfinancing reforms, including the implementation o f the health insurance scheme and in supporting
+immunization programs.
+V.
+
+Managing Risks
+
+92.
+C A S implementation faces a wide range o f uncertainties, deriving from the Government’s
+capacity and commitment to implement the EGPRSP, increasing fiscal pressures, a volatile
+situation in Transnistria, and changes in the external economic and political environment. I t i s
+therefore possible that the program will not advance t o the High Case scenario. Critical risks
+include:
+0
+
+Macroeconomic instability. Fiscal management will continue t o be a source o f considerable
+uncertainty. The Government may not be able t o contain the fiscal pressures stemming from
+i t s own promises, especially given the approaching 2005 elections, and additional fiscal
+
+-29
+
+-
+
+pressures may arise from developments regarding Transnistria. A fall in remittances m a y
+lead t o an economic slowdown and lower tax revenues (now heavily dependent o n imports),
+provoking further fiscal difficulties.
+
+Loss o f Budgetary Discipline and Further Accumulation of Arrears. The absence o f an
+IMF program and IDA program support may preclude a Paris Club agreement o n bilateral
+debt. Under these circumstances, and with lower levels o f support from other donors, the
+Govemment will struggle to avoid further accumulation o f foreign and domestic arrears.
+
+Reform Stagnation. The current policy environment i s difficult. The Govemment has
+demonstrated uneven commitment to policy reform making i t uncertain that i t can implement
+the EGPRSP. I t i s possible that this uncertainty will remain after the next election, as clear
+national consensus for reform has yet to emerge. The most likely scenario appears t o be a
+stop-and-go cycle o f reform.
+External Environment. The transition experience to date has demonstrated the high
+vulnerability o f Moldova’s economy t o extemal factors. The concentration o f exports in a
+few commodities primarily destined for CIS markets, particularly i t s high dependence o n the
+Russian market, increases significantly i t s exposure to regional trade shocks. Further,
+Moldova’s increasing dependence o n the taxation o f imports for fiscal revenue presents a
+fiscal risk, as any slowdown in consumption that also curbs imports will have significant
+fiscal implications.
+Transnistria. While the crisis with Transnistria can be described as l o w intensity strife,
+occasional escalations, particularly during election years, have been destabilizing. Despite
+ongoing efforts t o resolve the crisis, analysts believe that i t may continue at a l o w level o f
+intensity over the CAS period, but with unpredictable occasional periods o f escalation.
+
+93.
+Mitigating Measures. The structure o f this CAS i s designed t o address these risks by
+providing incentives to reform. Specifically, higher levels o f IDA and other donor support
+(including development policy lending) only would be available if the High Case triggers,
+including satisfactory implementation o f the EGPRSP, are met. The Progress Report review
+around 24 months into implementation, will enable the Bank to re-evaluate the strategic thrust o f
+the program and to determine an appropriate line o f action. Moreover, the Bank will continue t o
+support broad-based dialogue with a l l stakeholders in the country and explore ways t o facilitate
+the creation o f pro-reform constituencies. While these efforts may take time t o achieve results,
+they are perhaps the only sure way t o help Moldova realign incentives toward achieving
+sustainable economic growth and poverty reduction.
+V.
+
+CONCLUDING REMARKS
+
+94.
+The next four years i s a critical period. Moldova has prepared a poverty reduction
+strategy with laudable intentions, which n o w needs t o be implemented to promote pro-poor
+growth and improve the quality o f l i f e o f i t s people. Under the current constraining financial and
+institutional environment, the challenges are daunting, and require long-term commitment f r o m
+the Bank and other development partners. This C A S sets out the support the B a n k plans t o
+provide to Moldova over the next four years in i t s effort t o achieve this objective.
+
+x
+
+" 9
+
+? 2
+
+h1.9
+?1:
+
+2
+
+l o !
+
+" Y
+
+Y
+
+"09
+
+9 9
+
+2
+
+h1.Y
+
+"\9
+
+H
+3
+
+3
+
+Y 2
+
+Y 2
+
+7 %
+
+41:
+
+0 3
+
+41:
+
+Annex A2
+Page 1 of 2
+
+Moldova at a glance
+Europe 8
+Central
+Moldova
+Asia
+
+POVERTY and SOCIAL
+2003
+Population,mid-year (millions)
+GNI per capita (Atlas method, US$)
+GNI (Atlas method, US$ billions)
+
+11/I
+6/04
+
+Lowincome
+
+3.6
+590
+2.1
+
+473
+2,570
+1,217
+
+2,310
+450
+1,038
+
+-0.2
+0.2
+
+0.0
+0.2
+
+1.9
+2.3
+
+63
+69
+31
+
+Development dlamond'
+Life expectancy
+
+Average annual growth, 1997-03
+Population (%)
+Labor force (%)
+
+GNI
+per
+capita
+
+Most recent estimate (latest year available, 1997-03)
+Poverty (% of population below national poverty line)
+Urban population (% of total population)
+Life expectancy at birth (years)
+Infant mortality (per 1,000live births)
+Child malnutrition (% of children under 5)
+Access to an improved water source (% of population)
+Illiteracy (% of population age 15+)
+Gross primary enrollment (% of school-age population)
+Male
+Female
+
+48
+46
+67
+27
+3
+92
+1
+85
+86
+85
+
+91
+3
+103
+104
+102
+
+30
+58
+82
+44
+75
+39
+92
+99
+85
+
+Access to improved water source
+-Moldova
+
+__ Low-income group
+
+KEY ECONOMIC RATIOS and LONG-TERM TRENDS
+1993
+
+2002
+
+2003
+
+GDP (US$ billions)
+Gross domestic investmenffGDP
+Exports of goods and serviceslGDP
+Gross domestic savingslGDP
+Gross national savings/GDP
+
+1983
+
+2.4
+55.8
+39.3
+39.8
+40.7
+
+1.7
+21.7
+52.3
+-3.2
+15.7
+
+2.0
+21.7
+53.7
+-12.3
+12.5
+
+Current account balancelGDP
+Interest paymentslGDP
+Total debffGDP
+Total debt servicelexports
+Present value of debffGDP
+Present value of debffexports
+
+-7.7
+0.1
+11.7
+0.4
+
+-6.0
+2.7
+98.7
+20.7
+101.6
+152.3
+
+-9.2
+1.7
+88.8
+9.8
+82.3
+111.7
+
+(average annual growth)
+GDP
+GDP per capita
+Exports of goods and services
+
+1983-93
+
+1993-03
+
+2002
+
+2003
+
+2003-07
+
+-3.3
+-3.0
+
+-1.8
+-1.7
+5.9
+
+7.8
+8.0
+19.8
+
+6.3
+6.5
+20.6
+
+4.5
+4.9
+7.5
+
+1983
+
+1993
+
+2002
+
+2003
+
+STRUCTURE of the ECONOMY
+
+(% of GDP)
+Agriculture
+Industry
+Manufacturing
+Services
+Private consumption
+General government consumption
+Imports of goods and services
+
+(average annual growth)
+Agriculture
+Industry
+Manufacturing
+Services
+Private consumption
+General government consumption
+Gross domestic investment
+Imports of goods and services
+
+..
+..
+..
+..
+
+32.5
+44.0
+36.0
+23.5
+
+24.1
+23.2
+17.0
+52.7
+
+22.5
+24.7
+18.4
+52.8
+
+..
+
+..
+..
+
+44.3
+15.9
+55.4
+
+87.1
+16.1
+77.2
+
+94.6
+17.7
+87.6
+
+1983-93
+
+1993-03
+
+2002
+
+2003
+
+-2.6
+-6.1
+0.5
+1.5
+
+3.7
+3.9
+2.6
+7.4
+
+-9.9
+13.4
+12.8
+9.5
+
+7.5
+-7.5
+-6.8
+9.0
+
+5.2
+21.0
+19.0
+17.1
+
+19.4
+20.4
+5.8
+31.2
+
+Economic ratloo"
+Trade
+
+1
+
+Indebtedness
+1
+
+Moldova
+
+~
+
+Low-incomegroup
+
+~
+
+1
+
+Growth of Investment and GDP (%)
+~
+
+11
+
+30 T
+20
+10
+
+~.,:
+.20
+
+-GDI
+
+-GDP
+
+1
+
+Growth of exports and imports (%)
+
+00
+
+01
+
+02
+
+03
+
+Note: 2003 data are preliminary estimates.
+*The diamonds show four key indicators in the country (in bold) compared with its income-groupaverage. If data are missing, the diamond will
+be incomplete.
+
+Annex A2
+Page 2 o f 2
+
+Moldova
+PRICES and GOVERNMENT FINANCE
+
+Domestic prices
+(% change)
+Consumer prices
+Implicit GDP deflator
+
+1983
+
+(US$ millions)
+Total exports (fob)
+Live animals and animal products
+Vegetable products
+Manufactures
+Total imports (cif)
+Food
+Fuel and energy
+Capital goods
+
+2002
+
+2003
+
+788.5
+860.5
+
+5.3
+10.0
+
+11.7
+13.9
+
+28.8
+-4.1
+-9.0
+
+29.5
+0.7
+-1.8
+
+31.1
+1.4
+0.4
+
+1993
+
+2002
+
+2003
+
+451
+26
+22
+100
+631
+39
+279
+33
+
+666
+39
+106
+135
+1,052
+44
+218
+147
+
+790
+29
+120
+197
+1,403
+82
+233
+214
+
+91
+103
+88
+
+93
+109
+85
+
+1983
+
+1993
+
+2002
+
+2003
+
+501
+705
+-204
+
+870
+1,283
+-414
+
+1,054
+1,720
+-666
+
+0
+
+159
+155
+
+323
+162
+
+Export price index (1995=100)
+Import price index (19951100)
+Terms of trade (1995=100)
+BALANCE of PAYMENTS
+
+(US$ millions)
+Exports of goods and services
+Imports of goods and services
+Resource balance
+
+1983
+
+Net inwme
+Net current transfers
+
+22
+
+Current account balance
+
+-182
+
+-99
+
+-181
+
+Financing items (net)
+Changes in net reserves
+
+169
+13
+
+121
+-22
+
+214
+-33
+
+Memo:
+Reserves including goid (US$ millions)
+Conversion rate (DEC, /ocal/US$)
+
+0.8
+
+269
+13.6
+
+302
+13.9
+
+1993
+
+2002
+
+2003
+
+278
+28
+
+0
+
+1,641
+186
+145
+
+1,744
+190
+175
+
+2
+0
+
+230
+17
+
+1
+
+142
+18
+1
+
+Composition of net resource flows
+Official grants
+Official creditors
+Private creditors
+Foreign direct investment
+Portfolio equity
+
+0
+65
+0
+14
+0
+
+155
+-5
+-35
+117
+-27
+
+162
+-16
+24
+50
+-20
+
+World Bank program
+Commitments
+Disbursements
+Principal repayments
+Net flows
+Interest payments
+Net transfers
+
+86
+29
+0
+29
+0
+28
+
+30
+26
+9
+17
+9
+8
+
+63
+18
+11
+7
+8
+
+EXTERNAL DEBT and RESOURCE FLOWS
+
+(US$ millions)
+Total debt outstanding and disbursed
+IBRD
+IDA
+Total debt service
+IBRD
+IDA
+
+1 infiation
+50 -
+
+Government finance
+(% of GDP, includes cumnt grants)
+Current revenue
+Current budget balance
+Overall surpiusldeficit
+TRADE
+
+1993
+
+1983
+
+0
+
+98
+
+1
+
+99
+
+-GDP
+
+00
+
+deflator
+
+03
+
+02
+
+01
+
++CPi
+
+I
+
+Export and import levels (US$ mill.)
+1,600
+
+-
+
+97
+
+98
+
+99
+
+00
+
+01
+
+Exports
+
+02
+
+Imports
+
+O3
+
+1 Current account balance to GDP (%)
+
+I
+I
+
+1 Composition of 2003 debt (US$ mlll.)
+B: 175
+
+:: 143
+: 83
+
+I
+
+E: 438
+
+-
+
+A IBRD
+B - IDA
+C - IMF
+
+D - Other multilateral
+
+E -Bilateral
+F Private
+G - Short-term
+
+-
+
+-1
+
+~~
+
+Development Economics
+
+11/16/04
+
+Annex B 2
+Page 1 of 1
+
+Moldova:
+
+Selected Indicators* of IDA Portfolio Performance and Management
+As of 10/18/2004
+
+Indicator
+Portfolio Assessment
+Number of Projects Under Implementationa
+Average Implementation Period (years)
+Percent of Problem Projects by Number a , c
+Percent of Problem Projects by Amount
+Percent of Projects at Risk by Number a , d
+Percent of Projects at Risk by Amount a,
+Disbursement Ratio (%) e
+Portfolio Management
+CPPR during the year (yedno)
+Supervision Resources (total US$)
+Average Supervision (US$/project)
+Memorandum Item
+Proj Eva1 by OED by Number
+Proj Eva1 by OED by Amt (US$ millions)
+% of OED Projects Rated U or HU by Number
+% of OED Projects Rated U or HU by Amt
+
+a.
+b.
+c.
+d.
+e.
+
+2002
+
+2003
+
+8
+2.8
+0.0
+0.0
+25.0
+21.I
+22.6
+
+11
+2.8
+9.1
+21.I
+9.1
+21 .I
+35.8
+
+Yes
+856
+71
+
+no
+899
+82
+
+2004
+
+2005
+
+13
+2.8
+7.7
+6.7
+7.7
+6.7
+31.6
+
+12
+2.8
+8.3
+7.4
+8.3
+7.4
+3.6
+
+Yes
+91I
+70
+
+Since FY 80 Last Five FYs
+11
+6
+327.1
+111.1
+36.4
+33.3
+24.6
+18.4
+
+As shown in the Annual Report on Portfolio Performance (except for current FY).
+Average age of projects in the Bank's country portfolio.
+Percent of projects rated U or HU on development objectives (DO) andlor implementation progress (IP).
+As defined under the Portfolio Improvement Program.
+Ratio of disbursements during the year to the undisbursed balance of the Bank's portfolio at the
+beginning of the year: Investment projects only.
+All indicators are for projects active in the Portfolio, with the exception of Disbursement Ratio,
+which includes all active projects as well as projects which exited during the fiscal year.
+
+Annex B3
+Page 1 of 2
+
+Moldova: World Bank Group Program Summary
+Proposed IDA Base-Case Lending Program a/
+As of 10/18/2004
+Proposed IDA Base-Case Lending Program a
+Fiscal year
+
+Proj ID
+
+2005
+
+PUB FIN MGMT TA
+
+10.0
+
+Result
+
+10.0
+
+RURAL INVESTMENT SERVICES 2
+RURAL EDUCATION
+COMPETITIVENESS
+Result
+
+15.0
+10.0
+
+2006
+
+2007
+
+2008
+
+Overall Result
+
+SOCIAL ASSISTANCE PROJECT
+PRIMARY HEALTH CARE PROJECT
+HAZARD MITIGATION IN RURAL AREAS
+Result
+LOC GOVTAND COMMUNITY INFRASTRUCTUI
+WATER AND SANITATION PROJECT
+Result
+
+5.0
+
+H
+
+H
+
+H
+M
+H
+
+H
+M
+H
+
+H
+M
+M
+
+H
+M
+H
+
+H
+M
+
+H
+H
+
+30.0
+
+10.0
+10.0
+10.0
+30.0
+10.0
+
+10.0
+20.0
+90.0
+
+‘1 This table presents the proposed program for the next four fiscal years
+b/
+
+For each project, indicate whether the strategic rewards and implementation risks are expected to be moderate (M), high (H). or low (L)
+
+Annex B3
+Page 2 of 2
+
+Moldova: IFC and MIGA Program, FY 2001-2005
+As of 10/25/2004
+
+2001 2002 2003 2004
+IFC approvals (US$m)
+
+30.3
+
+1.5
+
+0.0
+
+10.5
+
+2005
+0.0
+
+Sector (%)
+Finance & Insurance
+Information
+Utilities
+
+Total
+
+16.5 100.0
+1.o
+82.5
+100.0 100.0
+
+100.0
+
+0.0 100.0
+
+0.0
+
+Investment instrument(%)
+Loans
+Equity
+Quasi-Equity
+Other
+
+Total
+MIGA guarantees (USSm)
+
+99.0
+0.4 100.0
+0.6
+0.0
+100.0 100.0
+
+100.0
+
+0.0 100.0
+
+63.8 61.1 61.1 62.0
+
+0.0
+
+Moldova: Summary o f Non-Lending Services
+
+Annex B4
+Page 1 of 1
+
+As of 10/18/2004
+
+Product
+
+Recent completions
+
+Cost (US%OOO)
+
+Completion FY
+
+Audience a
+
+Objective
+
+ADMlPROP RIGHTS REF
+CFAA
+CPAR
+WATER SECTOR NOTE
+POPS EA (GEF)
+BUS ENV TA
+YOUTH INCLUSION TA
+ICA (MOLDOVA-REGION)
+POVERTY ASSESSMENT
+TRADE DIAGN STUDY
+SOCIAL ASST
+SOCIAL PROT DIALOGUE
+PSlA
+LEG & JUD SECT ASSMT
+ROSC ACCT & AUDIT
+CICCG: MOLDOVA CNTRY ASSMT
+
+2003
+2003
+2003
+2003
+2003
+2003
+2003
+2004
+2004
+2004
+2004
+ongoing
+2004
+2004
+2004
+2004
+
+109
+98
+131
+22
+31
+69
+20
+110
+290
+227
+94
+200
+145
+100
+50
+80
+
+KG, PD
+KG, PS
+KG, PS
+KG, PS
+KG, PS
+KG, PS, PD
+KG, PS
+KG, PS, PD
+KG, PS
+KG, PS
+KG, PS
+KG, PS, PD
+KG, PS
+KG, PS
+KG, PS
+KG, PS
+
+GROWTH STUDY (CEM)
+EDUCATION NOTE
+AGRl CULTURE NOTE
+RECONCILIATION THROUGH EDUCATlOl
+PSD/FSD TNDIALOG
+POLICY NOTES
+CFAA FOLLOW UP
+CPAR FOLLOW UP
+COMO-MACRO MONITORING
+LOCAL GOV/COMMUNITY DEVELOPMEN
+PUBLIC PROCUREMENT (IDF)
+
+2005
+2005
+2005
+2006
+ongoing
+ongoing
+ongoing
+ongoing
+ongoing
+2005
+2006
+
+242
+100
+120
+57
+260
+210
+139
+168
+424
+150
+24
+
+KG, PS, PD
+KG, PS
+KG, PS, PD
+KG, PS
+KG, PS, PD
+KG, PS, PD
+KG, PS, PD
+KG, PS, PD
+KG, PS, PD
+KG, PS, PD
+KG, PS
+
+2006
+2006
+2006
+2006
+2006
+2006
+2006
+2007
+2007
+2007
+2007
+2007
+2007
+2008
+2008
+2008
+2008
+
+70
+60
+50
+150
+100
+70
+50
+50
+200
+80
+100
+150
+100
+36
+50
+150
+50
+
+KG, PS, PD
+KG, PS, PD
+KG, PS, PD
+KG, PS
+KG, PS
+KG, PS
+KG, PS
+KG, PS
+KG, PS, PD
+KG, PS
+KG, PS, PD
+KG, PS, PD
+KG, PS, PD
+KG, PS
+KG, PS, PD
+KG, PS, PD
+KG, PS, PD
+
+Underway
+
+Planned
+
+CAS UPDATE
+POVERTY ASSESSMENT UPDATE
+PRSPUPDATE
+DISASTER MANAGEMENT NOTE
+SOCIAL ASSISTANCE NOTE
+FSAP FOLLOW UP (TA)
+CFAA UPDATE
+CPARUPDATE
+PRSP
+HOUSING REHABILITATION
+FSDlPSD
+PER
+HEALTH NOTE
+LEGAL EMPOWERMENT TA (JSDF)
+CAS
+POVERTY ASSMT UPDATE
+PRSP UPDATE
+
+a/ Government, donor, Bank, public dissemination.
+
+b l Knowledge generation, public debate, problem-solving.
+
+Annex B5
+Page 1 o f 1
+
+Moldova: Social Indicators
+Latest single year
+
+POPULATION
+Total population, mid-year (millions)
+Growth rate (% annual average for period)
+Urban population (% o f population)
+Total fertility rate (births per woman)
+
+1970-75
+
+1970-75
+
+1994-02
+
+3.8
+1.3
+35.8
+2.5
+
+4.2
+0.9
+44.0
+2.8
+
+4.2
+-0.2
+41.3
+1.4
+
+POVERTY (%of Population)
+National headcount index
+Urban headcount index
+Rural headcount index
+
+Same regiodincomegroup
+LowEurope &
+Central Asia
+income
+
+0.0
+0.2
+65.4
+1.6
+
+0.0
+2.0
+31.9
+3.6
+
+2,010
+186.9
+
+410
+140
+
+4.1
+4.4
+8.8
+
+1.2
+3.4
+
+48.0
+62.0
+
+INCOME
+GNI per capita (US%)
+Consumer price index (1995=100)
+Food price index (1995=100)
+
+590
+267.0
+199.0
+
+INCOME/CONSUMPTION DISTRIBUTION
+Share o f income or consumption
+Gini index
+Lowest quintile (%of income or consumption)
+Highest quintile (%of income or consumption)
+
+34.0
+6.8
+46.8
+
+SOCIAL INDICATORS
+Public expenditure
+Health (% of GDP)
+Education(% o f GDP)
+Social security and welfare (%of GDP)
+
+3.6
+5.6
+7.8
+
+Net primary school enrollment rate
+(%of age grotp)
+Total
+Male
+Female
+
+95.0
+
+Access to an improved water source
+@ ofpopulation)
+Total
+Urban
+Rural
+
+92
+
+90
+
+76
+88
+70
+
+99.1
+
+93
+93
+
+57
+57
+
+66
+63
+69
+
+68
+65
+72
+
+69
+64
+74
+
+59
+58
+60
+
+31
+
+15
+18
+
+20
+25
+
+76
+115
+
+289
+173
+
+340
+161
+28
+99
+
+317
+137
+58.0
+
+310
+259
+
+Immunizationrate
+(“9 under 12 months)
+Measles
+
+DPT
+Child malnutrition (% under 5 years)
+Life expectancy at birth
+Total
+Male
+Female
+
+bears)
+
+Mortality
+Infant (per 1,000 live births)
+Under 5 (per 1,000 live births)
+Adult (15-59)
+M a l e (per 1,000 population)
+Female (per 1,000 population)
+Maternal (per 100,000 live births)
+Births attended by skilled health staff (%)
+
+32 1
+178
+
+Note 0 or 0 0 means zero or less than half the unb shown Net enrollment ratios exceedlng 100 lndicate
+discrepancies between the estunates o f school-age population and reported enrollment data
+Source 2002 World Development Indicators CD-ROM, World Bank
+
+Annex B6
+Page 1 o f 2
+
+Moldova: Key Economic Indicators
+Actual
+Indicator
+
+1999
+
+2000
+
+National accounts (as YOo f GDP)
+Gross domestic producta
+100
+
+Estimate
+
+2002
+
+2001
+
+2003
+
+Projected
+
+2004
+
+2005
+
+2006
+
+2007
+
+28
+23
+49
+
+100
+29
+22
+49
+
+100
+26
+24
+50
+
+100
+24
+23
+53
+
+100
+23
+25
+53
+
+100
+22
+24
+54
+
+100
+21
+24
+54
+
+100
+21
+25
+54
+
+100
+21
+25
+54
+
+Total Consumption
+Gross domestic fixed inv
+Government investmer
+Private investment
+
+94
+18
+4
+15
+
+101
+15
+2
+13
+
+104
+14
+2
+11
+
+103
+16
+3
+14
+
+112
+17
+1
+16
+
+111
+15
+2
+13
+
+111
+14
+2
+12
+
+111
+13
+2
+11
+
+111
+13
+2
+11
+
+Exports (GNFS)b
+Imports (GNFS)
+
+53
+69
+
+50
+75
+
+50
+74
+
+52
+77
+
+54
+88
+
+50
+81
+
+48
+79
+
+50
+
+so
+
+52
+81
+
+Gross domestic savings
+Gross national savingsc
+
+6
+16
+
+-1
+16
+
+-4
+15
+
+-3
+16
+
+-12
+12
+
+-11
+13
+
+-11
+12
+
+-11
+13
+
+-11
+13
+
+1288
+
+1481
+
+1662
+
+1958
+
+2594
+
+2918
+
+3060
+
+3155
+
+390
+
+400
+
+470
+
+590
+
+700
+
+810
+
+920
+
+970
+
+Real annual growth rates (“h,calculated from 1995 prices)
+Gross domestic produc
+-3.4
+2.1
+6.1
+Gross Domestic Incom
+-6.2
+1.1
+6.3
+
+7.8
+6.9
+
+6.3
+5.4
+
+7.0
+4.4
+
+5.0
+5.0
+
+4.0
+4.7
+
+3.0
+4.3
+
+Real annual per capita growth rates (%, calculated from 1995 prices)
+2.3
+6.3
+Gross domestic produc
+-3.2
+Total consumption
+-12.4
+9.8
+10.4
+10.8
+9.8
+Private consumption
+-10.8
+
+8.0
+7.2
+5.4
+
+6.5
+19.8
+19.7
+
+6.2
+6.5
+6.5
+
+5.5
+6.8
+7.0
+
+4.7
+5.0
+4.8
+
+3.2
+3.6
+3.3
+
+Agriculture
+Industry
+Services
+
+Memorandum items
+Gross domestic product
+1171
+(US$ million at current prices)
+GNI per capita (US$,At
+410
+
+Balance o f Payments (US$ millions)
+Exports (GNFS)b
+615
+Merchandise FOB
+474
+Imports (GNFS)b
+813
+Merchandise FOB
+610
+Resource balance
+-198
+Net current transfers
+87
+Current account balanci
+-55
+Net private foreign dire
+Long-term loans (net)
+Official
+Private
+Other capital (net, incl.
+Change in reservesd
+
+40
+90
+87
+3
+-27
+-49
+
+Memorandum items
+Resource balance (% o f 1
+-16.9
+Real annual growth rates ( YR95 prices)
+Merchandise exports (F
+-14.5
+Primary
+-8.5
+Manufactures
+Merchandise imports ((
+-49.1
+
+644
+477
+971
+768
+-327
+157
+-106
+
+73 5
+567
+1088
+880
+-353
+160
+-72
+
+870
+660
+1283
+1038
+-414
+155
+-99
+
+1054
+804
+1720
+1430
+-666
+162
+-181
+
+1196
+904
+1961
+1658
+-766
+176
+-173
+
+1312
+996
+2144
+1817
+-833
+193
+-183
+
+1419
+1080
+2279
+1931
+-860
+212
+-175
+
+1519
+1159
+2392
+2028
+-873
+235
+-168
+
+143
+105
+24
+81
+-95
+-47
+
+149
+2
+-2
+4
+-68
+-10
+
+117
+-5
+-35
+44
+-22
+
+50
+7
+-16
+23
+157
+-33
+
+48
+1
+-2 1
+21
+166
+-4 1
+
+76
+-16
+
+-2 5
+155
+-32
+
+90
+19
+29
+-10
+110
+-44
+
+93
+90
+37
+53
+25
+-40
+
+-25.4
+
+-23.9
+
+-24.9
+
+-33.9
+
+-3 1.7
+
+-30.7
+
+-30.2
+
+-29.7
+
+6.6
+
+30.5
+
+3.9
+
+15.5
+
+10.0
+
+8.4
+
+6.7
+
+5.6
+
+-10.8
+29.4
+
+5.5
+21.4
+
+2.8
+9.6
+
+62.1
+36.2
+
+11.1
+
+0.0
+
+0.0
+7.8
+
+0.0
+5.3
+
+0.0
+4.9
+
+-40
+
+10
+
+(Continued)
+
+Annex B6
+Page 2 of 2
+
+Moldova: Key Economic Indicators
+(continued)
+
+Indicator
+Indicator
+
+1999
+
+Acaral
+2ooo
+2001
+
+Public finance (as YOof GDP at market prices)'
+Current revenues
+30.4
+Current expenditures
+33.0
+Current account surplus (+)or dc
+-2.6
+3.5
+Capital expenditure
+Foreign financing
+3.5
+
+2002
+
+Estimate
+2003
+
+2004
+
+Projected
+2005
+2006
+
+2007
+
+30.7
+31.4
+-0.7
+2.2
+1.o
+
+29.1
+27.4
+1.7
+2.0
+-2.3
+
+29.5
+28.8
+0.7
+2.4
+0.6
+
+31.1
+29.7
+1.4
+1 .o
+-1.7
+
+29.7
+27.9
+1.9
+1.6
+-1.3
+
+29.9
+28.5
+1.5
+1.7
+-1.1
+
+30.2
+28.3
+1.8
+1.8
+-0.7
+
+30.5
+28.6
+1.9
+1.9
+0.4
+
+20.3
+42.6
+62.9
+
+21.9
+40.3
+90.9
+
+25.2
+36.3
+79.8
+
+28.9
+36.0
+96.0
+
+31.2
+30.7
+119.8
+
+32.5
+23.8
+87.1
+
+33.3
+19.8
+92.0
+
+33.9
+13.1
+100.8
+
+34.5
+10.5
+107.3
+
+Price indices( YR95 =loo)
+Merchandise export price index
+Merchandise import price index
+Merchandiseterms o f trade inde:
+
+74.0
+93.4
+79.2
+
+69.9
+100.8
+69.4
+
+63.9
+92.3
+69.2
+
+71.9
+100.4
+71.6
+
+73.9
+98.3
+75.1
+
+76.8
+104.6
+73.5
+
+78.1
+106.3
+73.4
+
+79.4
+107.2
+74.1
+
+80.7
+107.3
+75.2
+
+Real exchange rate (LCU/US$)'
+
+102.1
+
+112.1
+
+109.4
+
+109.9
+
+105.4
+
+94.9
+
+90.1
+
+90.1
+
+90.1
+
+39.3
+39.8
+
+31.3
+27.3
+
+9.8
+11.9
+
+5.3
+10.0
+
+11.7
+13.9
+
+10.8
+11.9
+
+10.3
+11.4
+
+6.4
+6.9
+
+4.7
+5.5
+
+Monetary indicators
+WIGDP
+Growth o f M2 (%)
+Private sector credit growth /
+total credit growth (%)
+
+Real interest rates
+Consumer price index (% chang
+GDP deflator (% change)
+a. GDP at factor cost
+
+b. "GNFS" denotes "goods and nonfactor services."
+
+c. Includes net unrequited transfers excluding official capital grants.
+
+d. Includes use o f IMF resources.
+
+e. Consolidated c e n t d govemment.
+f. "LCU" denotes "local currency units.''
+
+Annex B7
+Page 1 of 1
+
+Moldova: Key Exposure Indicators
+
+Estimate
+2003
+2004
+
+Actual
+
+Indicator
+Total debt outstanding and
+
+1999
+
+2000
+
+2001
+
+2002
+
+Projected
+2005
+2006
+
+2007
+
+1021
+
+1231
+
+1225
+
+1329
+
+1440
+
+1344
+
+1306
+
+1299
+
+1368
+
+93
+
+92
+
+1
+
+-46
+
+-14
+
+-21
+
+-39
+
+-6
+
+68
+
+21 1
+
+138
+
+159
+
+230
+
+142
+
+293
+
+245
+
+238
+
+176
+
+144.7
+87.2
+29.9
+22.8
+
+159.7
+95.5
+17.9
+16.7
+
+132.2
+82.8
+17.2
+16.9
+
+119.8
+80.0
+20.7
+20.2
+
+99.5
+73.3
+9.8
+21.3
+
+72.6
+55.7
+15.9
+23.9
+
+64.8
+48.1
+12.1
+26.7
+
+60.3
+45.6
+11.0
+29.5
+
+60.0
+46.6
+7.7
+30.5
+
+8.6
+57.6
+
+15.7
+71.6
+
+14.2
+51.7
+
+12.9
+50.8
+
+20.2
+79.8
+
+16.6
+56.3
+
+16.7
+47.2
+
+18.3
+48.2
+
+24.3
+61.9
+
+disbursed (TDO) (US$m)a
+Net disbursements (US$m)"
+
+Total debt service (TDS)
+(US$m)a
+
+Debt and debt service indicators
+(%)
+TDO~XGS~
+TDO/GDP
+TDSiXGS
+ConcessionalRDO
+IBRD exposure indicators (%)
+IBRD DS/public DS
+Preferred creditor DWpublic
+DS (%)'
+IBRD DSiXGS
+IBRD TDO (Us$m)d
+O f which present value of
+
+guarantees (US$m)
+Share of IBRD portfolio (%)
+
+IDA TDO (US$m)d
+
+2.1
+199
+
+2.1
+
+1.8
+
+1.5
+
+191
+
+181
+
+186
+
+1.2
+190
+
+1.3
+173
+
+1.1
+156
+
+1.1
+139
+
+1.o
+122
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+77
+
+103
+
+113
+
+145
+
+175
+
+190
+
+216
+
+248
+
+280
+
+IFC (US$m)
+Loans
+Equity and quasi-equity /c
+MIGA
+MIGA guarantees (US$m)
+a. Includes public and publicly guaranteed debt, private nonguaranteed, use o f IMF credits and net short-
+
+term capital.
+b. "XGS" denotes exports o f goods and services, including workers' remittances.
+c. Preferred creditors are defined as IBRD, IDA, the regional multilateral development banks, the IMF, and the
+Bank for International Settlements.
+d. Includes present value of guarantees.
+e. Includes equity and quasi-equity types o f both loan and equity instruments.
+
+Annex BS
+Page 1 of 2
+
+Moldova: Operations Portfolio (IBRDDDA and Grants)
+As of 10/18/2004
+Closed Projects
+
+13
+
+IBRDllDA
+Total Disbursed (Active)
+
+46.4
+
+o f which has been repaid
+Total Disbursed (Closed)
+
+0.0
+
+o f which has been repaid
+Total Disbursed (Active + Closed)
+o f which has been repaid
+
+48.6
+
+357.2
+403.6
+48.6
+
+Total Undisbursed (Active)
+
+104.8
+
+Total Undisbursed (Closed)
+
+0.2
+
+Total Undisbursed (Active + Closed)
+
+105.0
+
+Active Proiects
+
+Difference Between
+Expected and Actual
+
+Last PSR
+supervision
+Ratlna
+
+Project ID
+
+PO75995
+PO74122
+PO40558
+PO35771
+PO51174
+PO35811
+PO60434
+PO79314
+PO51173
+PO73626
+PO74469
+
+Overall Result
+
+Oriainal Amount in US$ Millions
+
+DO -IP
+FY
+AG POLLUTION CONTROLS
+S
+2004
+Project Name'
+
+S
+AIDS CONTROL
+ENERGY 2
+S
+FIRST CADASTRE
+S
+HEALTH INVST FUND
+S
+PSD 2
+S
+RURAL INV & SERVS (APL S
+SIF 2
+S
+SOC PROT
+U
+TRADE & TRANS FACIL INS
+WS & SAN
+S
+
+S
+S
+S
+S
+S
+S
+S
+U
+S
+S
+
+2003
+2004
+1998
+2001
+1997
+2002
+2004
+1999
+2003
+2003
+
+IBRD
+
+Disbursements'
+
+IDA GRANT Cancel. Undisb.
+
+5.5
+35.0
+15.9
+10.0
+9.0
+15.5
+20.0
+11.1
+7.2
+12.0
+141.2
+
+5.0
+
+5.0
+
+Orig. Frm Rev'd
+
+4.5
+5.7
+36.2
+2.1
+3.4
+1.3
+5.6
+20.3
+7.6
+7.1
+12.3
+
+-0.3
+0.8
+2.7
+2.2
+1.1
+1.4
+-6.5
+0.3
+6.9
+-0.6
+-0.6
+
+106.2
+
+7.5
+
+0.7
+0.5
+-0.4
+
+0.8
+
+Annex BS
+Page 2 of 2
+
+FY Approval
+
+2000/2004
+1997
+2000
+2000/2004
+2001
+200112004
+1999/2000/2001
+
+Institution Name
+
+FinComBank
+INCON
+MEC Moldova
+Moldindconbank
+UF Moldova
+Victoriabank
+VoxTel
+
+Held
+
+Disbursed
+
+QL+PE
+
+Partic
+
+Loan
+
+Equity
+
+QL+QE
+
+Partic
+
+0.0
+
+0.0
+
+0
+
+0.0
+0.0
+
+0.0
+
+0.0
+
+0.1
+
+0.9
+
+0.1
+
+0.9
+
+0.0
+
+0.0
+0.0
+0.00
+6.6
+
+0.0
+
+2.0
+5.3
+0.0
+5.7
+
+0.0
+
+0
+
+0.0
+0.0
+0.0
+
+0.0
+
+0.0
+
+20.0
+
+0.0
+
+0.0
+
+7.3
+
+13.2
+
+5.3
+
+0.0
+0.0
+
+0.0
+0.0
+0.0
+6.6
+
+Loan
+
+Equity
+
+2.8
+5.3
+0.0
+5.7
+25.0
+7.3
+5.3
+
+0.0
+0.0
+0.0
+
+Approvals Pending Commitment
+(Amount in US Dollar Millions)
+
+FY Approval
+
+Total Pendlng
+
+lnstltutlon Name
+
+Loan
+IFC APPrOV
+
+Equity
+IFC APPrOV
+
+QL+QE
+IFC APPrOv
+
+GT
+IFC APPrOV
+
+RM
+IFC ADPrOV
+
+Total IFC
+APLroV
+
+Total Partlc
+APPrOV
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+Source: MIS-IFC
+
+Note:
+
+* QL+QE includes both Quasi-equity (Loan type) and Quasi-equity (Equity type) products.
+
+0.0
+0.0
+0.0
+0.0
+0.0
+13.2
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+.
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+f
+
+w
+b
+*
+
+B
+
+c
+
+u
+
+e
+
+e
+
+e
+
+e
+
+W e
+
+e
+
+e
+
+a
+
+e
+
+e
+
+*
+
+a
+
+m
+
+a
+
+.9
+
+e
+
+a
+
+e
+
+e
+
+m
+
+Y
+
+3
+b
+*
+
+B
+u
+
+E
+
+h
+
+U
+
+E
+5
+
+m
+
+x
+
+3
+L
+
+Annex B10
+Page 1 of 1
+
+M o l d o v a : S u m m a r y o f Development Priorities
+As of 10/18/2004
+
+Network Area
+
+Country
+PerformanceaMajor Issueb
+
+Country
+Priority‘
+
+IDA
+Priority‘
+
+Reconciliation oj
+Country and
+I D A Prioritiesd
+
+Poverty Reduction & Economic Management
+
+Poverty reduction
+
+good
+
+targeting
+
+high
+
+high
+
+Economic policy
+
+fair
+
+consistency
+
+high
+
+high
+
+Public sector
+
+fair
+
+efiiciency/accountability
+
+moderate
+
+high
+
+Gender
+
+good
+
+prevalence among poor
+
+moderate
+
+moderate
+
+ongoing dialogue
+
+Human Development Department
+
+Education
+Health, nutrition &
+population
+
+fair
+
+quality improvement, equal access
+
+moderate
+
+high
+
+ongoing dialogue
+
+fair
+
+mortality, morbidity, equal access
+
+moderate
+
+high
+
+ongoing dialogue
+
+Social protection
+
+poor
+
+protect most vulnerable, targeting
+
+high
+
+high
+
+Environmentally& Socially Sustainable Development
+
+Rural development
+
+poor
+
+rural poverty
+
+moderate
+
+high
+
+ongoing dialogue
+
+Environment
+
+fair
+
+ground water
+
+moderate
+
+high
+
+ongoing dialogue
+
+Social development
+
+fair
+
+regional imbalances
+
+high
+
+high
+
+Finance, Private Sector & Infrastructure
+
+Financial sector
+
+good
+
+govemance, transparency
+
+high
+
+high
+
+Private sector
+
+fair
+
+regulatory framework
+
+moderate
+
+high
+
+Energy & mining
+
+fair
+
+efficiency/viability
+
+moderate
+
+moderate
+
+Infrastructure
+
+fair
+
+quality
+
+moderate
+
+moderate
+
+ongoing dialogue
+
+a. Use “excellent,” “good,” “fair,” or “poor.”
+b. Indicate principal country-specific problems (e.g., for poverty reduction, “rural poverty;” for education, “female secondary
+completion;” for environment, “urban air pollution”).
+c. To indicate priority, use “low,” “moderate,” or “high.”
+d. Give explanation, if priorities do not agree; for example, another MDB may have the lead o n the issue, or there may be ongoing
+dialogue.
+
+Attachment 1
+Page 1 of 4
+
+DEBT SUSTAINABILITY ANALYSIS
+
+1.
+This attachment updates the debt sustainability analysis (DSA) conducted at the time o f the C A S
+Progress Report o f M a y 2002.' This D S A i s based o n a loan-by-loan database provided by the authorities
+for Multilateral and Official bilateral creditors as well as a breakdown by main categories for commercial
+creditors.
+2.
+As o f end-2003, the stock o f total external debt amounted to US$1.7 billion or 89 percent o f
+GDP, with public and publicly guaranteed (PPG) external debt at US$l.O billion or 52 percent o f GDP
+(excluding energy arrears). The NPV o f PPG debt amounts to US$O.9 billion, equivalent to 47 percent o f
+GDP at end-2003. As reported in the CAS Progress Report, at end-200 1 the ratio PPG external debt was
+67 percent o f GDP, correspondent to 60 percent o f GDP NPV terms.
+3.
+Debt service due o n PPG external debt in 2002 and 2003 totalled 58 and 44 percent o f Central
+government revenue, respectively. In 2004, debt service o n PPG external debt i s estimated to decrease at
+38 percent o f central government revenue (Table 1). With i t s large public debt service burden and
+absence o f external budgetary support, Moldova has not remained current on i t s external debt service
+obligations. As o f the end o f 2003, external payment arrears, including energy arrears, amounted t o
+US$437 million, o r over 22 percent o f 2003 GDP.
+
+4.
+T o be eligible for HIPC debt relief, the ratio o f the NPV o f public and publicly guaranteed debt to
+exports o f goods and services must exceed 150 percent. In the case o f very open economies, such as
+Moldova, the alternative criteria o f the NPV o f debt to government revenues must exceed 250 percent.
+The NPV o f debt, in these cases, i s calculated after the application o f traditional debt relief mechanisms.
+T o actually receive debt relief, assuming eligibility, a country must have a PRGF program with the IMF
+that has been o n track for at least 6 months. In Moldova's case, however, application o f traditional debt
+relief results in a NPV ratio below the relevant threshold and, hence, Moldova i s not eligible for HIPC
+debt relief.
+CAS Lending Scenarios
+5.
+Base Case: Under the Base Case scenario, IDA lending for FY 2005-08 i s projected to be US$90
+million or approximately US$25-30 million per year. Additional external new borrowing o f the public
+sector i s mainly at concessional terms. The availability o f external financing, however, heavily depends
+upon the government performance in the next 12-18 month. Under the Base Case scenario, it i s assumed
+that Moldova resumes interest payments on Paris Club debt in 2004, maintains full debt service o n
+Multilateral debt and Eurobonds and reschedules accumulated interest and principal arrears in 2006.
+Figure 1 shows that the NPV of debt-to-revenue ratio will drop below 250 percent in 2005 as a
+consequence o f the assumed clearance o f external arrears. The ratio o f debt service to revenue, however,
+will only drop substantially below the 35 percent sustainability threshold in 201 1.
+6.
+High Case: A solid track record in achieving improvements in the business environment and
+public sector governance would trigger a High Case lending scenario, with additional US$47 m i l l i o n in
+adjustment and program lending in 2006-2008. In the High Case scenario, Moldova i s expected to benefit
+from renewed donor support. Furthermore, Moldova i s expected to fully normalize relations with
+creditors by the end o f 2005. Additional external n e w borrowing o f the public sector i s mainly at
+concessional terms. In addition to the assumption made under the Base Case scenario, the High Case
+assumes that debt rescheduling on partly concessional terms offered by the Paris Club and Russia o n
+
+' Moldova CAS Progress Report No. 241 13-MD.
+
+Attachment 1
+Page 2 of 4
+
+arrears as o f end-2005 and on maturities falling due in 2006-2008. Debt owned to Romania and Turkey
+are assumed to be rescheduled o n concessional terms. Figure 1 shows that the NPV o f debt-to-revenue
+ratio will drop below 250 percent in 2005 as a consequence o f the normalization o f relations with foreign
+bilateral creditors. The ratio o f debt service to revenue will permanently drop below 35 percent in 2008.
+Figure 1: NPV of external PPG debt and debt service -to-revenue ratio, 2003-2014
+
+NPV of external PPG debt-to-revenue ratio
+
+I
+
+50.0 -
+
+External PPG debt service-to-revenue ratio
+
+--'-
+
+I
+
+50.0 -
+
+40.0 -
+
+Sustainability threshold
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+.
+
+.
+
+30.0 -
+
+20.0 -
+
+10.0
+
+0.0
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+Source: Moldovan authorities and Staff extimates and projections.
+
+2009
+
+2010
+
+201 1
+
+2012
+
+2013
+
+2014
+
+I
+
+.
+
+Attachment 1
+Page 3 of 4
+Long-Term Debt Sustainability*
+
+The Base Case scenario assumes that Moldova will reach an agreement o n the payment o f
+7.
+principal arrears t o bilateral and commercial creditors by end-2005. Under this scenario, Moldova’s
+NPV o f PPG debt-to-GDP ratio i s estimated to be 63 percent at end-2003, falling to 30 percent at end2007. The NPV o f PPG debt-to-revenue ratio i s estimated to be 395 percent at end-2003, falling t o 189
+percent at end-2007. The debt service-to-revenue projections indicate that the government faces debt
+service burden higher than in 2003 in the near future. The debt service-to-revenue i s projected to be 37.8
+percent in 20043 and peak at 5 1.8 percent in 2007 as a result o f the rescheduling o f arrears with other
+bilateral and commercial creditors.
+8.
+In the High Case scenario, Moldova i s expected to reach an agreement with the Paris Club o n the
+rescheduling o f debt at terms comparable with other CIS countries4 and to reschedule external debt owed
+to Romania and Turkey at concessional terms. As a result o f the rescheduling, Moldova’s fiscal
+sustainability will improve. The NPV o f PPG debt-to-GDP ratio i s similar with the Base Case scenario.
+Debt service as a percent of revenue, however, i s projected to remain below 35 percent for most o f the
+period, peaking at 36 percent in 2007, compared to 52 percent in the Base Case scenario.
+9.
+Determining ifthe above ratios signal problems with sustainability o f Moldova’s debt burden i s
+extremely difficult. Each o f the indicators has i t s merits and limitations in signaling potential debt
+servicing interruptions, suggesting that they should be used in ~ o m b i n a t i o n .A~ growing body o f
+empirical literature provides some guidance to assess h o w these indicators compare to thresholds o f debt
+and/or debt service that are associated with a high probability o f debt distress or adverse growth
+implications in low-income countries.6 A key result o f this literature i s that debt thresholds should be
+established in light of the quality o f a country’s policy’s and institutions, suggesting that countries with
+stronger policies and institutions can sustain higher debt and debt service ratios. On this basis and given
+Moldova’s fast accumulation o f arrears in the past, the difficulties in maintaining future primary budget
+surpluses and the l o w tax base, the levels o f the debt and debt service-to-revenue ratios are cause for
+concern in the short and medium term.
+10.
+According to the indicative policy-dependent debt and debt service thresholds’, Moldova’s NPV
+o f debt and debt service could be considered as sustainable in a range o f 200-250 percent and 25-35
+percent o f revenue, respectively. However, the NPV o f debt-to-revenue o f Moldova i s projected t o fall
+below the indicative range only in 2007, while the debt service-to-revenue ratio i s projected to remain
+steadily below the range only f i o m 201 1.
+
+This section i s based on the joint IMFIIDA paper, “ Debt Sustainability in Low Income Countries - Proposal for an Operational Framework and
+Policy Implications”, February 2004.
+
+The government bought out promissory notes that were handed over to Gazprom within the framework of the restructuring o f Moldova’s debts
+for natural gas in 1999. The total amount o f the securities that had been bought out reached U S $ l l 5 million. The par value o f the promissory
+notes was US$90m, and the rest of the amount i s a debt for their servicing.
+The terms applied are similar to Naples terms.
+For a more extensive discussion o f the pros and cons o f individual indicators see, “Debt Sustainability in Low Income Countries- Towards a
+Forward-Looking Strategy,” IMF 2003, SM/03/185.
+See, for example, Kraay and Nehru (2004); Patillo et al. (2002); and Cohen (1 997).
+
+’ The thresholds depend on the Country Policy and Institutional Assessment Index (CPIA) and indicate approximately a 25 percent probability o f
+debt distress at that level (see the joint IMFIIDA paper, “ Debt Sustainability in Low Income Countries - Proposal for an Operational Framework
+and Policy Implications,” February 2004).
+
+Attachment 1
+Page 4 o f 4
+
+Conclusion
+
+11.
+Moldova’s NPV o f debt-to-revenue ratio i s estimated t o remain above sustainable levels until
+2005 b o t h in the Base Case and High Case scenarios. The high level o f external debt resulted f r o m the
+accumulation o f arrears and new borrowing from multilateral and bilateral lenders. Under both the base
+cases the NPV o f debt-to-revenue ratio does not fall below 200 percent until 2007. In the Base Case, debt
+service i s projected t o remain w e l l above 35 percent o f revenue until 2009. Moldova’s prospects for longt e r m debt sustainability are hampered by l o w fiscal revenue and dependence over external financing. To
+reduce the risk o f future debt distress the Moldovan authorities must implement their development
+strategy and obtain continued concessional support. Furthermore, the Government has t o carefully assess
+the impact o f n e w lending o n the medium-term capacity o f payment.
+
+Table 1. Moldova: External Debt Sustainability Indicators, 2003-14
+(In percentage, unless otherwise indicated)
+
+’
+
+2003
+
+2004
+
+2005
+
+2006
+
+2CQ7
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+NPV ofdebt-to-GDP ratio
+For total debt
+For Public and Publicly Guaranteed(PPG) debt
+
+84.5
+62.9
+
+65.8
+44.2
+
+60.9
+38.2
+
+56 8
+34.5
+
+49.0
+28.1
+
+42.0
+23.0
+
+36.5
+19.1
+
+31.8
+15.7
+
+31.4
+15.2
+
+30.6
+14.8
+
+29.6
+14.3
+
+28.7
+13.9
+
+NPV ofdebt-to-expom ratio
+For total debt
+For Public and Publicly Guaranteed(PPG) debt
+
+157.4
+117.1
+
+135.5
+91.1
+
+130.6
+82.1
+
+120.2
+73.0
+
+101.6
+58.3
+
+85.4
+46.7
+
+72.7
+38.0
+
+61.8
+30.5
+
+60.2
+29.1
+
+57.5
+27.8
+
+54.8
+26.4
+
+52.2
+25.3
+
+NPV ofPPG debt-to-revCnUe ratio‘
+
+395 4
+
+278.1
+
+240.4
+
+216.8
+
+176.5
+
+144.5
+
+120.1
+
+98.5
+
+95.6
+
+92.8
+
+89.8
+
+87.3
+
+Debt service-to-expom ratio
+
+12.9
+
+7.5
+
+18.2
+
+28.1
+
+25.5
+
+21.6
+
+19.5
+
+9.9
+
+10.5
+
+10.2
+
+9.6
+
+PPG debt senice-to-expom ratio
+
+...
+
+12.4
+
+6.5
+
+10.3
+
+17.1
+
+13.9
+
+11.0
+
+97
+
+35
+
+3.3
+
+3.2
+
+2.9
+
+37.8
+
+19.0
+
+30.4
+
+51.8
+
+42.9
+
+34.6
+
+31.3
+
+11.4
+
+11.1
+
+10.9
+
+10.1
+
+NPV ofdebt-to-GDP ratio
+For total debt
+For Public and Publicly Guaranteed (PPG) debt
+
+84.5
+62.9
+
+65.4
+43.9
+
+60.2
+37.5
+
+56.7
+34.6
+
+50.2
+30.0
+
+43.9
+25.7
+
+38.2
+21.9
+
+33.2
+18.5
+
+32 2
+17.6
+
+30.6
+16.6
+
+29.0
+15.7
+
+27.5
+14.9
+
+NPV ofdebt-to-exports ratio’
+For total debt
+For Public and Publicly Guaranteed (PPG) debt
+
+157.4
+117.1
+
+132.1
+88.5
+
+124.5
+77.7
+
+112.9
+68.9
+
+95.8
+57.1
+
+80.0
+46.9
+
+66.4
+38.0
+
+55.2
+30.7
+
+51.3
+28.0
+
+46.8
+25.4
+
+42.6
+23.1
+
+38 7
+21.0
+
+395.4
+
+275.8
+
+236.0
+
+217.5
+
+188.3
+
+161.8
+
+137.4
+
+116.2
+
+110.4
+
+104.6
+
+98.8
+
+93.7
+
+13.3
+
+PPG debt service-to-revenueratio
+
+’
+
+NPV ofPPG debt-to-revenue ratio
+Debt service-to-exports ratio
+PPG debt service-to-exports ratio
+
+‘
+
+’
+
+PPG debt service-to-revenue ratio
+AssumingNaple terms treament on Paris Club and Russiandebt
+PPGdebt senice-to-revenue ratio
+
+...
+...
+
+7.7
+
+14 7
+
+208
+
+19.7
+
+17.4
+
+15.0
+
+7.8
+
+7.9
+
+7.3
+
+6.6
+
+12.8
+
+6.7
+
+7.3
+
+110
+
+9.7
+
+8.7
+
+7.3
+
+2.9
+
+2.7
+
+2.5
+
+2.2
+
+39.7
+
+20.4
+
+23.0
+
+36.2
+
+33.5
+
+31.3
+
+27.7
+
+11.5
+
+11.2
+
+10.8
+
+9.9
+
+...
+
+42.2
+
+20.7
+
+23.1
+
+35.3
+
+32.9
+
+30.5
+
+27.0
+
+10.6
+
+10.2
+
+9.8
+
+8.9
+
+Memorandum i t e m
+
+(In millions o f U.S.dollars)
+
+Base Case Scenario
+Expom o f goods and services’
+
+1054.1
+
+1172.1
+
+1265.2
+
+13444
+
+1414.3
+
+1488.7
+
+1568.0
+
+1652.3
+
+1741.2
+
+1834.9
+
+1933.6
+
+2037.6
+
+Gavemment revenues
+GDP
+
+312.3
+1963.8
+
+383 9
+2413.8
+
+431.8
+2714.9
+
+452.9
+2847.4
+
+466 8
+2935.2
+
+481.2
+3025.6
+
+496.0
+3118.9
+
+511.3
+3215.0
+
+529.8
+3331.4
+
+549 0
+3451.9
+
+568.9
+1576.8
+
+589.4
+3706 2
+
+ExpoN ofgoods and Services’
+
+1054.1
+
+1195.6
+
+1311.7
+
+1442.6
+
+1584.8
+
+1740.7
+
+1916.6
+
+2109.9
+
+2322.7
+
+2557.0
+
+1815.0
+
+3098.9
+
+Government revenues
+GDP
+
+312.3
+1963.8
+
+383.9
+2413 8
+
+431.8
+2714.9
+
+457.2
+28748
+
+480.5
+30209
+
+504.9
+31745
+
+530.6
+3335.9
+
+557.5
+3505.5
+
+588.9
+3702.9
+
+622.1
+3911 3
+
+657 I
+1131.5
+
+694.1
+4364.1
+
+13.2
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+Exchangerate (Leu per U.S dollar), e.o D
+Sources: Moldovian authorities and stafiestimates.
+
+’ Refers to public, publicly guaranteed and private ungaraateedexternal debt
+
+I t assumes interest payments on Pans Club debt in 2CQ4 and 2005; debt buyback on outstanding debt and arrears due to Gazprom and Hwlen-Packard;
+filldebt sewice on Multilateral debt and on Eurobonds; principal and interest arrears accumulation on all other loans to end-2005; arrears rescheduling i n 2006
+
+NPV ofdebt in percent ofthree-year average of expom ofgwds and services.
+
+‘NPV ofdebt in percent ofcurrent year government revenucs.I t refers to public, publicly guaranteedexternal debt.
+Debt service due as a percentatgeo f current year exports o f goods and services.
+
+I t assumes debt resmcturing as reported in footoote 3, debt rescheduling on partly wncessional t m offered by the Pans Club and Russia on arrears as o f
+end-2005 and on maturities falling due in 2006,2007 and 2008 included; and concessionaldebt rescheduling over three years on debt due to Romania and Turkey
+at 0 percent interest rate.
+
+’As defined in I M F Balance of Payments Manual, 5th edition, 1993.
+
+Revenues are defined as cenual govemmmt reve~ues,excluding grants.
+
+Attachment 2
+Page 1 of 2
+
+MOLDOVA: PORTFOLIO STATUS
+
+1.
+As o f mid-October 2004, the Moldova portfolio comprised 11 ongoing investment projects
+totaling US$146.2 million (including one GEF-funded grant o f US$5 million), ,of which US$106.2
+m i l l i o n i s undisbursed. The average age o f the portfolio i s 2.9 years, ranging from 3 credits approved in
+F Y 0 4 (Energy 11, Supplemental Credit for Rural Investment and Services Project, and Social Investment
+Fund 11) to 4 projects over 6 years o l d (Private Sector Development 11, First Cadastre, Social Investment
+Fund I,
+and Social Protection Management) and expected to be completed in FY05. The Youth Inclusion
+Credit approved in F Y 0 4 failed to get ratification from Parliament due to the opposition from the leading
+Communist faction. The loan was cancelled in August 2004.
+
+2.
+
+Infrastructure comprises almost h a l f o f portfolio in the sectoral composition (water supply,
+energy, cadastre and Transport and Trade Facilitation in South Eastem Europe (TTFSE)), while human
+development (health, social protection, Social Investment Fund, and A I D S Control), private sector
+development, rural and social development (Rural Investment and Services Project (RISP), and Global
+Environment Facility (GEF) constitute the other half.
+3.
+There i s currently one problem project in the portfolio; Social Protection Management, with
+major implementation delays in key components due to weak Govemment commitment to pension
+reforms, with some reversals in already agreed actions. These have undermined the development
+objectives o f project, leading to an unsatisfactory rating. Active dialogue i s ongoing to address the
+problems. Overall, the portfolio i s performing well, with implementation o f most projects proceeding
+smoothly. However, a number o f projects, may not be able to attain sustainable outcomes, if timely
+interventions are not undertaken to improve the quality at exit. In addition t o the Social Protection
+Management project, the General Education, Cadastre Development, and Private Sector Development I1
+projects, all closing in FY05, face policy and institutional challenges that may undermine sustainability o f
+the investments.
+
+4.
+In preparation for the new CAS, the Bank undertook a strategic review o f Moldova portfolio in
+October-November 2003. The objectives o f the review were (a) assess the development effectiveness o f
+the portfolio, i t s overall riskmess and alignment with the existing CAS, (b) identify major processing
+bottlenecks and recommend measures to facilitate and accelerate implementation o f projects, (c) identify
+strategic management issues and propose recommendations that will help focus the supervision effort in
+the years ahead.
+5.
+The review found out that IDA’Sintended lending activity in Moldova has been generally well
+aligned with the three pillars o f the C A S (macroeconomic sustainability and growth, private sector
+development and public sector reform). However, despite the good match between project and CAS
+objectives, the contribution o f the portfolio to the CAS measured in terms o f impact and outcome has
+been modest.
+6.
+Overall, ownership i s considered weak although it varies substantially fi-om project to project, and
+across the various levels o f government. SAC I11 was poorly supported at the most senior Government
+levels, while the SIF enjoys broad support at local as well as central government levels. Ownership tends
+to be weaker when reforms supported pose a significant challenge to vested interests.
+
+7. Lack o f institutional, economic and/or financial sustainability was identified as the major issue for the
+portfolio. Among the main reasons are: (i)poor governance, lack o f ownership, and institutional
+weaknesses, (ii)
+the overall poverty level and l o w level o f cost recovery from users and beneficiaries; (iii)
+the weak fiscal situation o f the Govemment, which can only assure l o w levels o f cost sharing followed by
+
+Attachment 2
+
+Page 2 of 2
+
+l o w levels o f operations and maintenance financing after projects are completed; a n d (iv) poor structural
+reform environment.
+
+8.
+Findings and recommendations o f the strategic review o f the portfolio served as a basis for the
+annual Country Portfolio Performance Review (CPPR) conducted jointly by the B a n k and the Moldovan
+Government in January 2004, with broad participation o f the Bank, Government, Project Implementing
+Units (PIUs), donors and representatives o f c i v i l society. The CPPR was held in a format different f r o m
+earlier review meetings, in a more participatory manner whereby three discussion groups looked at
+systemic issues that are impeding successful implementation and reaching development objectives, and
+focused o n outcomes and sustainability o f the entire portfolio. The issue o f more effective coordination
+and decision-making, among stakeholders and among government agencies, was also discussed. The
+CPPR’s new format was considered a success, and started some important discussions among
+stakeholders about ownership, impact o n the ground and the need for better coordination o f efforts to
+ensure the development effectiveness o f the country assistance program. In April 2004, the Bank and the
+Government agreed o n an Action Plan t o put into practice the recommendations o f the CPPR, including
+holding regular j o i n t G o v e m m e n t h n k reviews (every 3-4 months) t o l o o k at the k e y issues in the
+portfolio and track implementation o f the action plan. Capacity building o f the clients in procurement,
+disbursement and monitoring and evaluation, and regular meetings o f a l l Project Implementation Units
+(PIUs) are intended t o address the issues and bottlenecks that impede successful projects implementation.
+9.
+Activities already taking place as a result o f the CPPR include video conferences with the L o a n
+Department to clarify disbursement issues, the first Trimestral Review meeting in June 2004 t o take stock
+o f implementation o f the Action Plan as w e l l as review the status o f individual projects, and a training
+course n o w under implementation for project staff to strengthen M&E. In October 2004, the Government
+established a Technical Committee for Monitoring and Evaluation o f IDA-financed Projects, w h i c h i s
+chaired by the Ministry o f Economy and i s comprised o f high-level officials f r o m various ministries and
+agencies. The Committee had i t s first meeting in October to discuss issues relating t o several ongoing
+projects and decide o n h o w to resolve outstanding problems.
+10.
+
+Among the areas identified to enhance outcomes and sustainability are institutional strengthening
+and capacity building, key governance issues, more realistic outcome and sustainability objectives,
+promoting the Community-Driven Development (CDD) approaches, and increasing ownership at various
+levels o f government and c i v i l society. Continued close monitoring and corrective actions by the
+Government and the Bank o n the interrelated issues o f development outcomes, sustainability, risks, are
+planned to ensure expected outcomes. For ongoing and n e w projects, closer attention will be paid t o the
+monitoring and evaluation (M&E) aspects o f a project, including the selection o f appropriate M&E
+indicators for measuring development outcome.
+
+11.
+With decentralization, Procurement and Financial Management Specialists have been posted in
+the Regional Office in Kyiv, which has facilitated quick responses and better cooperation. The L o a n
+Department’s processing o f withdrawal applications was decentralized to the Moscow-based regional hub
+starting January 5, 2004. The initial analysis o f the effects o f this decentralization i s encouraging - the
+average processing time for a withdrawal application has been reduced by 4.5 days in the first 3 months
+since the decentralization.
+
+Attachment 3
+Page 1 of 2
+
+MOLDOVA: LINK TO MDGs AND COUNTRY STATUS VIS-A-VIS MDGs
+
+1.
+The EGPRSP recognizes the strong link that exists between economic growth and poverty
+reduction. Between 2000 and 2002, an average growth rate o f 5 percent allowed for a reduction in a
+poverty headcount from 71 percent o f the population to just under 49 percent o f the population. T o
+achieve the MDG goal o f eradicating extreme poverty, the EGPRSP envisages a move away f r o m the
+current consumption-led growth paradigm towards a more sustainable growth platform that emphasizes a
+more enabling and deregulated business environment, leading to increased investments and exports. The
+EGPRSP suggests that growth rates between 5 and 10 percent are feasible. As the analysis underlying the
+recent World Bank poverty assessment suggests, a sustain annual growth o f 3 percent will be sufficient
+for Moldova to achieve the MDG target o f halving poverty by 2015. The table below compares the
+current situation in Moldova with the ECA region as well as world averages o n the MDGs.
+2.
+The vital role that education plays in changing the quality o f economic growth i s highlighted in
+the EGPRSP. Despite the hardships endured in the last decade, Moldova has managed to maintain high
+levels o f participation in the compulsory years o f school. Net enrollment rates in the four years o f
+primary school are about 97 percent, while enrollment rates in lower secondary school are also high at 92
+percent. With regard to the MDGs, a Moldova specific target i s under consideration that stipulates
+universal access for all children during the gymnasium cycle (i.e., compulsory cycle. grades 1 to 9). The
+EGPRSP and the associated Education for All initiative have established a number o f targets, including
+increasing enrollment o f children 3-5 years o l d to 75 percent, and 6-7 years o l d to 100 percent, and
+reducing disparities between urban and rural areas to less than 5 percent, and reducing disparities between
+the disadvantaged groups and median population. These targets also include ensuring that a l l children
+have access to basic education (1 year compulsory pre-school, and 9 compulsory grades for gymnasium)
+that i s o f high quality. Challenges to achieving these targets arise from less than universal attendance for
+the first and last years o f compulsory schooling and from differences in the quality o f education for
+urban-rural areas. Improving the quality o f educational services and enhancing access t o education,
+particularly by the poor and disadvantaged groups, are among the issues the EGPRSP hopes to address.
+3.
+Moldova has succeeded in gradually reversing the population’s deteriorating health status since
+the mid-1990s. Under age 5, mortality has been steadily declining, from 25 per 1,000 live births in 1990
+down to 18.3 in 2002, while infant mortality has declined f i o m 23.9 per 1,000 live births in 1994 to 14.8
+in 2002. Matemal mortality in Moldova has declined from 52.9 deaths per 100,000 live births in 1993 t o
+28 in 2002 and has remained relatively stable since. However, compared to the outcomes achieved in
+other European countries, and even some CIS countries, Moldova continues to lag behind in many health
+indicators. The EGPRSP recognizes that further deepening o f the reforms in health care w o u l d be
+required to achieve the MDGs in Moldova. Moreover, increased access, particularly for the poor t o basic
+health services, as well as improved quality and standards o f medical services, would be required to
+achieve the MDGs. Over the longer term, the effective implementation o f mandatory medical insurance
+i s the principal means by which Moldova will seek to reform the health care system and improve health
+care.
+
+Attachment 3
+Page 2 of 2
+
+4.
+The health o f the population i s also affected by inadequate access t o quality water supply and
+sanitation. The EGPRSP estimates that, as a result o f the deterioration in the water and sanitation
+infrastructure, over 50 percent o f the population i s using water that does not comply with sanitary norms.
+F o r rural areas, this estimate extends to nearly 70 percent o f the population. Sanitation and wastewater
+treatment are also inadequate, with only 55 percent o f the population in urban areas having access t o a
+public sewage system. The EGPRSP has set out t o develop and modernize the water supply and sewage
+systems in 156 localities and t o develop 93,300 rural wells.
+Moldova and the M
+World Situation
+From 1990 to 2001 the
+proportion of people from
+low and middle income
+countries living on less than
+US1 a day f e l l from 28
+percent to 21 percent, but
+progress was uneven.
+In 2001/2002, 88 percent of
+the world’s primary schoolage children are enrolled.
+
+ennium Development Goals
+Situation in ECA
+From 1990 to 1999 the
+proportion o f ECA’s people
+living on less than US$la day
+increased from 1.4 percent to 5.1
+percent and for those living on
+less than US2 from 6.8 percent
+to 20.3 percent.
+In 2002, the primary completion
+rate for ECA region was
+estimated to be 93 percent.
+
+3. Eliminate gender
+disparities in primary
+and secondary education
+by 2005 and for all
+levels by 20 15.
+
+There i s a gender gap of 7.6
+percent in the primary
+education gross enrolment
+rate.
+
+In 2001/02, girls’ enrollments in
+primary and secondary
+education as percentage o f boys’
+accounted for 97 percent.
+
+4. Reduce under five
+mortality rates by twothirds between 1990 and
+2015.
+5. Reduce maternal
+mortality rate by threequarters between 1990
+and 2015.
+6. Halt and reverse by
+2015 the spread of
+HIV/AIDS, malaria, and
+other diseases.
+
+The mortality rate was 8 1 per
+1,000 live births in 2002
+compared with 95 in 1990.
+
+Under-five mortality rate per
+1,000 live births decreased from
+44 in 1990 to 37 in 2002.
+
+In 2000, there were an
+estimated 403 maternal
+deaths per 100,000 live births.
+
+In 2000 the estimated number o f
+the matemal deaths for the
+region was 58 per 100,000 live
+births.
+In ECA the number of HIV
+infected people increased from
+30,000 in 1998 to 1.5 million in
+2003.
+
+and 20 15 the proportion
+of people in extreme
+poverty and who suffer
+form hunger.
+2. Achieve universal
+completion of primary
+education by 20 15 for
+both boys and girls.
+
+I
+
+sustainabilityand access
+to and improvedwater
+source.
+
+In 2001 the prevalence rate o f
+HIV/AIDS among adults
+aged 15-49 was 1.27 percent.
+In 2000 about 80 percent o f
+the population had access to
+water.
+
+In 2000, about 91 percent of
+ECA’s population had access to
+safe water.
+
+The proportion o f land area
+covered by forest i s 40 percent.
+
+hrrent Situation in Moldova
+n 2002, the proportion of the
+)opulationliving on less than
+JS2.15 per day (PPP values)
+vas 44.6 percent.
+
+n 2002, the ratio of net
+mrolment in primary education
+n Moldova was 93 percent.
+The net enrollment ratio in
+gymnasia increased from 87
+iercent in 1999 to 88 percent in
+!002.
+During 1999-2002, the net ratio
+i f girls enrollment was
+:omparable with that of boys.
+4t the university level, female
+mrollment was 6-7% higher
+:han male.
+Under-five mortality rates have
+been gradually decreasing
+[from 25 in 1990 to 18.3 in
+2002).
+Maternal mortality declined
+from 52 deaths per 100,000 live
+born children in 1993 to 28 in
+2002.
+In Moldova, the HIV infection
+rate i s around 5 per 100,000.
+TB incidence (at 84 per
+100,000 people) has doubled
+since 1990.
+In 2002, the proportion of
+populationwith access to water
+and sustainable access to an
+improved water source was 92
+and 38.5 percent in urban and
+rural areas respectively.
+
+Land areas covered by forest i s
+10.3 percent.
+
+Attachment 4
+Page 1 of 2
+
+CAS CONSULTATIONS PROCESS
+SUMMARY FEEDBACK FROM CIVIL SOCIETY AND BUSINESS COMMUNITY
+“Thefact that we have all met here can be considered a success, because in this way, the
+World Bank gets closer to the entrepreneurs, and this should be the beginning of the
+collaboration between the World Bank and the entrepreneurs of the Republic of Moldova. ”
+A Partichant at the World Bank Consultations
+
+1.
+The Civil Society consultations included representatives o f academia, non-governmental
+organizations, non-parliamentary political parties, the media, and trade unions. The discussions were
+lively and heated at times, manifesting a wide variety o f concerns and interest as described below.
+
+A strong p i t c h was made for increasing the role and participation o f NGOs in development
+discourse. They requested specifically to be informed o n the Bank’s relations with the Government, and
+t o have regular consultations with the Bank o n W o r l d Bank-financed operations--“Only access of the civil
+society to adequate information will help us influence, in one way or another, the Government in
+implementing the projects under the CAS. If we don’t have access to this information, we obviously
+cannot help in any way to improve this strategy.” Further, they expressed the desire that more Bank
+resources be channeled directly t o NGOs in rural areas. “The Bank should not only consult with civil
+society, but also start working directly with it through different projects and programs”.
+
+2.
+
+3.
+
+Concerns were raised regarding the weak legal framework, especially for businesses. “Citizens
+and business need more equitable legal representation; access to justice needs to be more commonplace,
+and attorneys and NGOs need to be empowered ”. As a corollary, concerns about corruption and the need
+for transparency were raised. They requested support t o establish transparent systems o f transactions;
+reduce the cost o f doing business; remove internal barriers that limit export capacity by influencing
+government policy and eliminate corruption. Further, they requested support t o build the capacity o f c i v i l
+society groups and t o support competent NGOs to consolidate and sharpen their skills in engaging local
+authorities and communities in rural areas
+
+4.
+The discussions also centered on issues o f social protection, social services, and the environment.
+Specific concerns were raised o n the need t o improve the quality o f education in the rural areas, as w e l l as
+the need for technical assistance for the creation o f vocational schools to stem the tide o f out migration.
+Further, concerns were raised regarding the poor quality o f emerging institutions o f higher learning and
+the need for Bank assistance in addressing the problem. Bank support was also requested for
+improvements in medical services. On the environment, participants indicated that “the biggest
+ecological problems are in the rural area and it is very important that the strategy of the World Bank be
+oriented towards the rural area, including support to ecological and rural tourism”.
+5.
+Finally, participants would like the W o r l d Bank t o contribute t o making the conditions for the
+democratic process more propitious. They voiced the concern that ”...it is only through reforms, a state
+of law, judicial independence, and a liberalized economy can we evolve as a democracy”. They also
+want the Bank’s assistance in integrating with the EU “..this would solve the problem of poverty and of
+Transnistria and lead us into our future ”, participants said.
+
+6.
+The Business Community consultations included participants f r o m the private (both local and
+foreign entrepreneurs), the Banking and financial sectors, and state owned enterprises. The key message
+that emerged from the discussions was that the main goals o f the CAS should be t o initiate and support
+the second wave o f reforms in Moldova.
+
+Attachment 4
+Page 2 of 2
+
+7.
+
+A strong p i t c h was made for Bank support for private sector development, particularly support for
+S M E development and private investment promotion in the country. The Bank should “help bring direct
+foreign investments into the country for private sector development and not by giving credits to the
+authorities ”
+
+8.
+Of concern t o many participants was the development o f rural areas. Diversification o f business
+and micro financing were proposed as a means o f eradicating rural poverty, with support f r o m the Bank in
+the form o f start-up capital and replication o f modern cooperative structures in the agricultural sector.
+Participants expressed the view that productivity o f the workforce i s dependent upon many factors, such
+as the quality o f education, communications, modern health services, an improved natural environment,
+investments in hydroelectric and thermoelectric power stations; all o f which they said are critical for
+poverty reduction in Moldova.
+9.
+A number o f participants made a strong pitch for Bank support for infrastructure rehabilitation, in
+particular the rehabilitation o f the 25-30 year o l d infrastructure. “Without the improvement of roads, we
+cannot speak of economic growth and poverty reduction. A serious support is needed for the
+transportation domain ”. Some participants argue, however, that such support must b e channeled through
+the private sector and c i v i l society, not through the government and state enterprises.
+10.
+Participants expressed the view that the country needs economic stability and long-term sources
+o f credits with l o w interest rates to the private sector t o promote growth. In this regard, a number o f
+participants voiced the concern that continuous modifications o f tax laws and changes in taxes pose
+serious impediments to emerging businesses. Further, they indicated that the complex regulatory
+procedures, requiring several documentations for each transaction, dissuade investors and make the cost
+o f doing business exorbitant. Participants also expressed concerns about export barriers. “Export
+barriers, either legislative or of other kind, are not set in an objective manner in Moldova”. They also
+raised concerns that external barriers t o exports were major impediments for M o l d o v a exports. “Unfair
+competition in traditional and emerging markets curtails serious growth efforts ”, said participants. T h e y
+expressed the need for Bank support to implement international acceptable standards for M o l d o v a n
+exports.
+11.
+On governance, consistent with views expressed by the c i v i l society, participants felt that
+corruption i s a major obstacle. “The law has to be equal for everybody. n e Bank can make the
+Government become more transparent through financial, political, and structural pressure”. They also
+indicated that governance o f Bank-financed operations have in thepast been weak, and welcome recent
+efforts at closely monitoring the portfolio.
+12.
+Public debt was also a concern. “The World Bank could help with the relief of Moldova’s debts,
+but impose some conditions on the Government ”. Knowledge was expressed as important. “Our c o u n t y
+needs knowledge. We need skilled technical assistance in order to improve and increase the potentials of
+our national capacity of analyzing and forecasting ”.
+13.
+Overall, the business community views the Bank’s strengths as disseminating the experience o f
+developed countries and assisting in establishing trade networks. “Public information, education, and
+communication on political, judicial, and economic issues are much needed for getting the peoples’
+support for reforms.
+14.
+Finally, they expressed the need for a continuous dialogue with international financial institution
+(IFIs). It was their hope that continuous f l o w o f information between the IFIs, M o l d o v a n business
+community and c i v i l society would more readily assist the country in accelerating the transition to a
+market driven economy.
+
+

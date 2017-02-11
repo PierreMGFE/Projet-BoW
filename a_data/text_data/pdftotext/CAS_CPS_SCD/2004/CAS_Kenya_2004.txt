@@ -1,0 +1,6108 @@
+Public Disclosure Authorized
+
+FOR OFFICIAL USE ONLY
+
+Report No. 29038-KE
+
+M ~ M O R A ~ U
+OFMTHE PRESIDENT
+OF THE INTERNATIONAL DEVELOPMENT ASSOCIATION
+
+AND
+THE INTERNATIONAL FINANCE CORPORATION
+TO THE
+
+Public Disclosure Authorized
+
+Public Disclosure Authorized
+
+Public Disclosure Authorized
+
+Document o f
+The World Bank
+
+EXECUTIVE DIRECTORS
+ON A
+COUNTRY ASSISTANCE STRATEGY
+FOR THE REPUBLIC OF KENYA
+May 19,2004
+
+Country Department 5
+Africa Region
+The International Finance Corporation
+Sub-Saharan Africa Department
+This document has a restricted distribution and may be used by recipients only in the performance o f their
+official duties. I t s contents may not otherwise be disclosed without World Bank’s authorization.
+
+DATE OF LAST COUNTRY ASSISTANCE STRATEGY
+September 1998
+
+CURRENCY EQUIVALENTS
+Currency Unit = Kenya Shilling (KSh)
+US$1 = KSh 78.33 (May 2004)
+Fiscal Year
+
+July 1-June 30
+
+ACRONYMS ANI) ABBREVIATIONS
+
+AfDB
+AGOA
+ASAL
+CAS
+CDD
+CEM
+CFAA
+CPAR
+CPPR
+COMESA
+
+cso
+
+DFID
+EAC
+EC
+EPSRC
+FSAP
+IP-ERS
+EAC
+ESW
+EU
+FLSTAC
+GDLN
+GEF
+GDP
+HIVIAIDS
+IDA
+IDF
+IFC
+IFMIS
+IGAD
+ILO
+IMF
+JICA
+MAP
+
+African Development Bank
+African Growth and Opportunity Act
+Arid and semiarid lands
+Country assistance strategy
+Community driven development
+Country economic memorandum
+Country financial accountability assessment
+Country procurement assessment report
+Country portfolio performance review
+Common Market for Eastern and Southern Africa
+C i v i l society organizations
+United Kingdom Department for International Development
+Eastern Africa Community
+European Commission
+Economic and Public Sector Reform Credit
+Financial Sector Assessment Program
+Investment Program for the Economic Recovery Strategy
+East African Community
+Economic and sector work
+European Union
+Financial and Legal Technical Assistance Credit
+Global Development Learning Network
+Global Environment Facility
+Gross domestic product
+Human Immunodeficiency VirusIAcquired Immune Deficiency
+Syndrome
+International Development Association
+Institutional Development Fund
+International Finance Corporation
+Integrated financial management information system
+Inter-Governmental Authority on Development
+International Labor Organization
+International Monetary Fund
+Japan International Cooperation Agency
+Multi-Country Aids Program
+
+M&E
+MDGs
+MIGA
+MSME
+MTEF
+OED
+PER
+PPIAF
+PRGF
+PRSC
+PRSP
+PSAC
+PSIA
+SME
+SW A p
+StatCap
+UNESCO
+USAID
+WBI
+
+Vice President:
+Country Director:
+Task Team Leader:
+
+FOR OFFICIAL USE ONLY
+
+Monitoring and evaluation
+Millennium Development Goals
+Multilateral Investment Guarantee Agency
+Micro, small and medium enterprises
+Medium-term expenditure framework
+Operations Evaluations Department o f the World Bank
+Public expenditure review
+Public-Private Infrastructure Advisory Facility
+Poverty Reduction and Growth Facility
+Poverty Reduction Support Credit
+Poverty Reduction Strategy Paper
+Programmatic Structural Adjustment Credit
+Poverty and social impact analysis
+Small and medium enterprises
+Sector Wide Approach Program
+Statistical Capacity Building Program
+UnitedNations Educational, Scientific and Cultural Organization
+United States Agency for International Development
+World Bank Institute
+
+IDA
+Callisto Madavo
+Makhtar Diop
+Geoffrey Bergen
+
+IFC
+Assad Jabre
+Haydee Celaya
+Hillmare Schulze
+
+This document has a restricted distribution and may be used b y recipients only in
+the performance of their official duties. I t s contents may not be otherwise disclosed
+without W o r l d Bank authorization.
+
+THE REPUBLIC OF KENYA
+COUNTRY ASSISTANCE STRATEGY
+Contents
+Executive summary ........................................................................................................................
+
+.
+
+...................................................................................................................
+
+i
+
+1 INTRODUCTION
+1
+A . EconomicDevelopments ................................................................................................. 2
+B. Social Developments ....................................................................................................... 3
+
+2
+
+.
+
+3
+
+.
+
+4
+
+.
+
+..........................................................
+
+KENYA’S ECONOMIC RECOVERY STRATEGY
+A . IP-ERS pillar 1: Economic growth with macroeconomic stability .................................
+B. IP-ERS pillar 2: Equity and poverty reduction................................................................
+C . IP-ERS pillar 3: Improving governance ..........................................................................
+D. Summary o f IP-ERS staff assessment .............................................................................
+
+............
+
+5
+5
+7
+9
+9
+
+THE BANK GROUP’S PROPOSED COUNTRY ASSISTANCE STRATEGY
+10
+A . Strengthening public sector management and accountability .......................................
+11
+B. Reducing the cost o f doing business and improving the investment climate ................ 13
+C. Reducing vulnerability and strengthening communities ...............................................
+19
+D. Investing in people ........................................................................................................ 22
+E.
+Lending scenarios .......................................................................................................... 25
+F.
+Lending triggers............................................................................................................. 26
+G. Nonlending programs .................................................................................................... 27
+
+..............................................................................................
+
+IMPLEMENTING THE CAS
+28
+A . Progress under the last CAS .......................................................................................... 28
+B. Improving portfolio implementation ............................................................................. 29
+C.
+Partnerships ................................................................................................................... 30
+D. Risks and constraints .....................................................................................................
+31
+E.
+CAS monitoring and evaluation.................................................................................... 33
+
+Boxes
+Box 1:
+Box 2:
+Box 3:
+
+Kenya: Core labor standards ..........................................................................................
+Kenya membership o f international and regional economic agreements .....................
+The Bank’s knowledge strategy in Kenya ....................................................................
+
+5
+18
+29
+
+Matrixes
+Matrix 1:
+Matrix 2:
+Matrix 3 :
+Matrix 4:
+
+Strengthening public sector management and accountability .................................. 13
+Reducing the cost o f doing business and improving the investment climate........... 19
+22
+Reducing vulnerability and strengthening communities ..........................................
+Investing in people ................................................................................................... 24
+
+Tables
+Table 1:
+Table 2:
+Table 3:
+Table 4:
+Table 5:
+Table 6:
+
+IP-ERS targets and Millennium Development Goals (select indicators) ................... 4
+Macroeconomic framework 2002103-2006107 .......................................................... 6
+Proposed lending scenarios. fiscal years 2004-07 (US$ millions) .......................... 26
+Lending triggers ....................................................................................................... 27
+Nonlending work program, fiscal 2004-07 .............................................................
+28
+31
+Partnership in implementing the IP-ERS .................................................................
+
+1
+
+Annexes
+A n n e x 1: F r a m e w o r k for a Results Based CAS
+A n n e x 2: CAS Consultations fiscal 2004-07
+A n n e x 3: K e y Economic and Program Indicators: Change from Past C A S
+Standard CAS Annexes
+
+This Country Assistance Strategy was produced under the general direction o f Makhtar Diop, Country
+Director, by a team led by Geoffrey Bergen, Country Program Coordinator. The team included Wendy S.
+Ayres, Fred Kilby, Christine Cornelius, Nyambura Githagui, Praveen Kumar, Philippa Amiri, Albertus
+Voetberg, Andrew Follmer, Sibel Kulaksiz, James Emery, Hillmare Schulze, David Potten, Michael Mills,
+Ronnie Hammad, Joel Maweni, Michael Fuchs, Dileep Wagle, Qimiao Fan, Christiane Kraus, Manuel de la
+Rocha, Jaime Biderman, Jit Gill, Catherine Gachukia, Pascale Dubois, Shamis Salah, and Katy Roffe. Benno
+Ndulu, Peter Harrold, and Shanta Devarajan acted as peer reviewers.
+
+EXECUTTVE SUMMARY
+Country context. Once the most prosperous country in East Africa, Kenya’s economic
+1.
+performance worsened markedly in the 1990s due to inefficient use o f public resources, loss o f
+economic competitiveness, soaring costs o f doing business, deteriorating security conditions, and loss
+of donor funding, which led to a significant fall in external capital inflows during the 1990s. Poor
+governance practices led to a deterioration in the Bank Group’s relations with Kenya, and it was in a
+low case lending scenario for several years. However, the elections o f December 2002 brought to
+power a new government, and the positive steps it has taken since arriving in office have created a
+much better environment for development results to occur. The government has started to reverse the
+poor governance practices o f the past and enacted several key pieces o f anti-corruption legislation. It
+has taken steps to improve public sector management. I t has prepared i t s Investment Program for the
+Economic Recovery Strategy for Wealth and Employment Creation (IP-ERS) with the full
+participation o f parliament, nongovernmental organizations, development partners, and other
+stakeholders (its PRSP), discussed by the Bank’s Board on M a y 6,2004 and by the Fund’s Board on
+M a y 10,2004. I t has reached agreement with the IMF on a new Poverty Reduction and Growth
+Facility (PRGF) program, moved decisively on improving relationships with donors, and developed
+new strategies for economic and social development.
+*.
+
+Kenya’s InvestmentProgram for the Economic Recovery Strategy. Kenya’s development
+objectives are articulated in the IP-ERS around three interlinked pillars: strengthening economic
+growth, enhancing equity and reducing poverty, and improving governance. Based upon a highly
+participatory process, the IP-ERS envisages a strengthening o f the macroeconomic framework, an
+improved fiscal stance, and the unleashing o f private sector participation and investment. To improve
+equity and reduce poverty, it focuses on universal primary education, improved access to basic health,
+expanded productive capacity in agriculture, development o f the arid and semi-arid lands, and
+upgrading living conditions for the urban poor. To enhance governance, the program proposes far
+reaching reform o f the judiciary, strengthening o f the rule o f law and security, and implementing
+reforms in public administration to achieve increased transparency and accountability. The new
+government has also taken steps to improve public sector strategy,
+11.
+
+iii.
+The World Bank Group’s strategy. This joint Bank-IFC CAS (which also had the full
+participation o f MIGA and WBI) i s closely aligned with the government’s IP-ERS. It i s resultsbased’, and i t s results framework draws selectively upon that o f the IP-ERS. I t proposes to help
+Kenya achieve i t s development objectives through four basic areas o f support, reflecting the Bank
+Group’s comparative advantage in i t s partnership with government and other donors: (a) strengthening
+public sector management and accountability, parastatal reform and privatization, and monitoring and
+evaluation capacity; (b) reducing the cost o f doing business and improving the investment climate,
+including support for restructuring the financial sector, promoting private sector development,
+improving infrastructure as the basis for economic growth, and reducing barriers to trade; (c) reducing
+vulnerability and strengthening communities, including support for increased agricultural productivity
+and competitiveness, improved environmental management, strengthened local governments, and
+reducing poverty in the poorest rural areas and urban slums; and (d) investing in people, including
+support for an improved understanding o f poverty, the health sector, the education sector, and the
+national fight against HIVIAIDS.
+
+This i s not a formal results-basedpilot CAS, and does not include a CAS completion report. Because this i s a
+strategy o f re-engagement, the approach will be to take advantage of results-based methodology to provide the
+information for a full CAS completion report upon submission o f the next CAS.
+1
+
+Lending program. The new government’s reforms have allowed Kenya to move from a low
+iv.
+to base case lending scenario under the previous CAS. The base case lending program assumes
+continued sound public sector management and macroeconomic performance, improvements in
+infrastructure service provision and in financial intermediation, and improved portfolio
+implementation. Under this scenario, the Bank Group would undertake operations in key sectors
+identified in the IP-ERS, presenting four or five projects a year to the Board, with an emphasis in the
+first two years o f the program on restoring infrastructure, increasing agricultural productivity, and
+providing technical assistance and support for capacity building. This would be supported by core
+diagnostic economic and sector work (ESW) that would permit Kenya to attain a first Poverty
+Reduction Support Credit (PRSC) in fiscal 2007. IFC’s program will complement IDA’Sto: (a)
+strengthen public-private dialogue on improving the investment climate and assist with
+implementation o f key reforms; (b) attract the private sector to provide infrastructural services and
+utilities, including energy and telecommunications; (c) help build and expand services o f competitive
+financial institutions; (d) encourage development o f micro, small, and medium enterprise through
+expansion and integration o f financing and technical assistance interventions; and (e) promote
+nontraditional exports.
+
+v.
+The high case would be triggered by (a) significant progress in reallocating public
+expenditures towards core poverty programs and in public sector financial management, (b)
+establishment o f appropriate regulatory frameworks for infrastructural services, (c) reduced state
+control o f the banking sector, (d) strengthened local government capacity, (e) increased access o f the
+poor to basic health services, and (f) sustained improvement in the portfolio. Under this scenario,
+support for the education SWAP would be doubled, from US$50 million to US$lOO million, and
+support for the health sector through a SWAP would rise from US$30 million to US$SO million. A
+lendingtotal o f up to U S $ l .1 billion i s envisaged under this scenario.
+
+A l o w case scenario would be triggered by poor macroeconomic performance, failure to
+vi.
+follow through with implementation o f key policy reforms underpinning IP-ERS goals, or poor
+implementation o f Bank-supported projects or programs. Under this scenario, the Bank Group would
+provide funds at a significantly reduced level in support o f operations in the social sectors or to reduce
+poverty among vulnerable groups. A lending total o f no more than US$365 million i s envisaged under
+this low case scenario.
+vii.
+Nonlending program. The proposed nonlending work program i s designed to: (a) support
+efficient public allocation o f funds to priority development areas, (b) expand on the analytical work
+already initiated in fiscal 2003 on poverty analysis, particularly in the rural sector; (c) expand on the
+findings o f the C E M to better understand the sources o f growth and competitiveness; (d) better
+understand barriers to trade; (e) support growth in agricultural and livestock production; and (g)
+deepen knowledge of labor markets. In preparation for an eventual PRSC, core diagnostic economic
+and sector work has already been carried out, or i s planned for the near term, including a C F A A
+conducted in fiscal 2001, the C E M completed in fiscal 2003, and annual PERs. A CPAR and updated
+CFAA will be carried out in fiscal 2005, as will a poverty analysis. The Kenya country team i s
+significantly increasing its output o f economic and sector work to inform both policy and public
+dialogue on key development issues.
+Implementationo f the portfolio. Improved implementation o f the Bank-supported portfolio
+viii.
+i s a major theme o f this CAS. The new government’s commitment to improving portfolio
+performance was demonstrated during the Country Portfolio Performance Review (CPPR) that was
+held in January 2004-the f i r s t CPPR since 1997. An action plan was developed and the CPPR
+committee will monitor progress and report on a quarterly basis to government permanent secretaries.
+
+...
+- 111
+ix.
+Risks. This CAS recognizes that there are risks in a situation such as Kenya’s. These include
+risks relating to political factors, to weak capacity, to poor governance, and t o external shocks. The
+CAS proposes a number o f mitigating measures, which serve to reduce the Bank Group’s exposure to
+risk.
+x.
+CAS monitoring and evaluation. Monitoring o f the Bank Group’s effectiveness will take
+place both at the project level and at the level o f the overall assistance program. The core CAS
+benchmarks are derived from IP-ERS targets. These benchmarks reflect the selective areas o f Bank
+involvement under the CAS, cover the key challenges that Kenya must address and for which the
+Bank Group i s best placed to assist; and are achievable within the CAS timeframe. At the mid-point
+of the CAS period, the Bank will review the indicators and targets to assess progress in implementing
+the assistance program, and adjust the Bank Group’s strategy as necessary.
+
+M E M O ~ D U OF
+M THE PRESIDENT
+OF THE INTERNATIONAL DEVELOPMENT ASSOCIATION
+AND THE INTERNATIONAL FINANCE CORPORATION
+TO THE EXECUTIVE DIRECTORS
+ON A COUNTRY ASSISTANCE STRATEGY
+FOR THE REPUBLIC OF “ Y A
+1. INTRODUCTION
+On December 27,2002, Kenyan voters elected their first new president in 24 years, thereby
+1.
+ending the political domination o f the party that had ruled Kenya since independence. The new
+government has made a clear break from the past. Importantly, i t has demonstrated in many ways i t s
+commitment to eliminating corruption and restoring the rule o f law-an entirely home-grown program to
+improve governance. It has enacted the Anti-Corruption Act, the Public Officer Ethics Act, and the
+Public Audit Act, and expects soon to enact legislation aimed at improving public procurement and
+financial management. I t has appointed new senior staff to key positions in government, including the
+parastatals, and commissioned auditors to identify fraud and corruption in the public sector. Kenya has
+initiated a thorough investigation o f the Goldenberg kick-back scandal o f 1992 that sparked a financial
+crisis and created a rift with key donors. A number o f senior judges which the government alleged to
+have been implicated in corruption have also been dismissed.
+The new government has also taken steps to improve public sector strategy. It has prepared i t s
+2.
+Investment Program for the Economic Recovery Strategy for Wealth and Employment Creation (IP-ERS)
+with the full participation o f parliament, nongovernmental organizations, development partners, and other
+stakeholders (its PRSP), discussed by the Bank’s Board on M a y 6,2004 and by the Fund’s Board on May
+10,2004. I t has reached agreement with the IMF on a new Poverty Reduction and Growth Facility
+(PRGF) program, moved decisively on improving relationships with donors, and developed new
+strategies for economic and social development. Finally, it has demonstrated i t s commitment to shift
+expenditure towards programs that benefit the poor, most notably through i t s universal free primary
+education program.
+T w o decades o f economic mismanagement have left much o f Kenya’s infrastructure in shambles
+3.
+and its institutions weak. With the right investments and policy and institutional reforms, Kenya has
+significant potential for growth. Good governance will also improve the distribution o f income. Kenya
+has one o f the most vibrant and sophisticated private sectors in Africa, which i s ready and able to respond
+to an improved investment climate. Kenya’s transportation network o f air, sea, and road links already
+serves the entire East Africa region, With improvements in management, private sector involvement and
+new investments, the network could help to reduce transportation costs across the region, strengthen
+access to the markets o f Kenya’s poorest regions, revitalize the East African Community (EAC), and
+foster wider regional integration.
+
+To help Kenya realize i t s potential, the country assistance strategy (CAS) proposes an ambitious
+4.
+program for the reengagement o f the Bank Group with Kenya that i s aligned with the government’s PERS and that i s rooted in i t s results-based framework, from which the CAS’S own result-based
+framework i s drawn. Together with the active portfolio, planned new IDA lending will support the Kenya
+IP-ERS objectives o f stimulating growth with equity, reducing poverty, and consolidating improvements
+in governance. New lending will consist primarily o f project-specific credits grounded in sectorwide
+approaches that the government i s developing with its development partners. The program will also
+include adjustment credits aimed at strengthening budgetary management, financial accountability, and
+policy and institutional reforms. These will improve the investment climate, and prepare the foundation
+
+1
+
+-2for Poverty Reduction Support Credits (PRSCs) and budget support from other donors. N e w lending will
+be significant at the beginning o f the CAS period to support urgently needed reforms and rehabilitation o f
+infrastructure, and to compensate for the Bank’s exceptionally small active portfolio, a legacy o f seven
+years o f low case lending. Remaining in the base case will be subject to sustaining progress in public
+finance management, policy reforms in support o f private sector led growth, better public service
+delivery, and improved portfolio implementation. Moving to the high case will provide 30 percent more
+IDA resources for Kenya than the base case. This will require in addition to meeting base case triggers,
+the government to make significant progress in reallocating public expenditures towards core poverty
+programs and in public sector financial management, and to make sustained improvement in
+implementing Bank-supported projects.
+In response to the need for a unified strategy o f the World Bank Group, this CAS has been
+5.
+developed jointly with the IFC and MIGA to ensure that our programs are mutually reinforcing,
+particularly with regard to improving the environment for investment and private sector-led growth.
+Kenya enjoys a strong private sector in comparison to many African countries and i s a priority country for
+the IFC, and such a unified strategy can help ensure that assistance i s delivered effectively and efficiently.
+
+A.
+
+Economic Developments
+
+6.
+Once the most prosperous country in East Africa, Kenya has experienced economic decline, a fall
+in living standards, and deterioration in the quality o f its institutions. Kenya’s overall economic
+performance worsened markedly in the 1990s due to inefficient use o f public resources, loss o f economic
+competitiveness, soaring costs o f doing business, deteriorating security conditions, and loss o f donor
+funding, which led to a significant fall in external capital inflows during the 1990s. Average GDP growth
+declined from about 7 percent in the 1970s to just over 2 percent during the 1990s, falling below the
+average population growth rate o f 2.6 percent. Per capita income o f US$360 in 2003 was lower than i t s
+level in 1990.2
+
+7.
+
+Public resources have been usedprimarily for wages and debt service rather thanfor capital
+investment and operations and maintenance. At 2 1 percent in 2002, Kenya mobilizes a higher share o f
+revenues to GDP than most countries o f Sub-Saharan Africa. If allocated appropriately, these resources
+would be adequate to finance critical social services and a significant share o f needed investment in
+infrastructure. During the 1990s, however, public sector wages (currently around 8.4 percent o f GDP)
+and interest payments on domestic debt absorbed about half o f total government expenditures, leaving
+few resources for capital expenditures or delivery o f essential services for poverty reduction. Spending
+on public sector wages rose from 29 percent o f total government expenditures in 1990 to 35 percent in
+200 1. Thus central government capital expenditures fell from about 20 percent o f government
+expenditures in 1990 to 11 percent in 2001, or ftom 6 percent o f GDP in 1990 to 3 percent o f GDP in
+
+2001.
+
+Lack of investment in in~astructurea n d p ~ b l i cservices has worsened the climate for private
+8.
+investment, reduced access to services by the poor, and con~ibuted
+to growing regional inequities. The
+public sector continues to dominate the delivery o f energy, telecommunications, transportation, and water
+services. The lack of investment in utilities and infrastructure during the last decade combined with their
+poor management has significantly constrained the growth o f the economy by increasing costs to
+businesses and reducing competitiveness. Utilities and infrastructure now require substantial new
+investment if they are to deliver services efficiently and reliably. Given the government’s budgetary
+
+* Much o f the data presented in this section i s drawn from the Kenya Country Economic Memorandum, “Kenya:
+A Policy Agenda to Restore Growth,” World Bank Report 2580-KE, August 18,2003.
+
+constraints, most o f the new investment will need to come from the private sector, underscoring the need
+for divestiture and private sector participation programs.
+E~ternal~nancin
+declined.
+g
+During the 1990s, official transfers to Kenya fell as donors
+9.
+channeled resources for development through NGOs rather than through government. Lack o f support
+from donors resulted in a net outflow o f long and medium-term official capital averaging almost 2 percent
+o f GDP a year during 1995-200 1. Performance in attracting and retaining private external financing has
+been equally poor. During the 1990s, the ratio o f foreign direct investment to GDP was only 0.4 percent
+compared with the 1.9 percent Sub-Saharan Africa average.
+Kenya has the potential for much higher growth and reduction ofpoverty. Unlike many other
+10.
+African countries, Kenya has diverse sources o f growth in the primary, manufacturing, and services
+sectors, and a relatively vibrant and sophisticated private sector that is prepared to invest. The good
+performance o f some sectors and f i r m s during the 1990s indicates that with the right policies, institutions,
+and investments, Kenya can again become a major economy in Africa. Agricultural subsectors that have
+little direct government involvement, notably smallholder tea, smallholder dairy, and floriculture and
+horticulture have responded dynamically to market opportunities, This growth has occurred despite
+declining world prices in some markets (tea, for example) and a very competitive environment in others
+(horticulture). Kenya has also become a leader in the race to benefit from the U.S. African Growth and
+Opportunity Act (AGOA), and the garment industry i s enjoying a spectacular recovery. Factors such as
+efficiently run export processing zones, good air and sea transport links to Asia and the United States, and
+a skilled workforce have contributed to the good performance o f the garment industry. These attributes
+could become important in attracting other businesses as the investment climate improves. Finally, a
+number o f initiatives to restructure public enterprises are now under consideration. Reforms should
+enable the enterprises to become more efficient and more competitive. The enactment o f the privatization
+bill, anticipated soon, will hrther help Kenya to reestablish i t s regional primacy as a competitive open
+economy and destination for investment.
+
+11.
+Both developmentpartners and private investors are again starting to support Kenya’s
+development. The new government’s reform program aimed at stabilizing the economy and increasing
+the confidence o f donors and investors i s already having a positive effect. The IMF Board approved the
+PRGF program on November 22,2003, and the Bank released the second tranche o f i t s Economic and
+Public Sector Reform Credit (EPSRC) soon after. Private sector investment increased somewhat in 2003
+and donors are showing renewed interest after years o f suspended or diminished funding programs.
+Donors pledged up to US$4 billion for three years at the Consultative Group meeting held in November
+2003, subject to rapid and substantial progress in public sector reform and improvements in the design
+and delivery o f basic services for the poor. In January 2004 the Paris Club agreed to reschedule about
+US$350 million o f Kenya’s arrears and maturities falling due between January 1,2004, and December 31,
+2006, freeing additional resources for priority programs.
+B.
+
+Social Developments
+
+Poverty rose in Kenya during the 1990s and health and other social indicators deteriorated. The
+12.
+IP-ERS estimates that the proportion o f the population living in poverty rose from about 49 percent in
+1990 to more than 56 percent in 2003. In step with poor economic performance, key social indicators
+also worsened during the 1990s. Enrolment rates in primary school declined during the 1990s, although
+this has been reversed with the introduction o f the free primary education program. L i f e expectancy fell
+from 57 years in 1986 t o 47 years in 2000,just above what it was in 1960. The total fertility rate i s up
+from 4.7 children per woman in 1990 to 5 children in 2003, the proportion o f births attended by a skilled
+health worker f e l l from 50 percent in 1990 to 42 percent in 2002, and the infant mortality rate rose from
+63 per 1,000 live births in 1990 to 78 in 2002 (table 1). Although Kenya’s constitution prohibits
+
+-4discrimination on the basis of gender, i t s provisions are not adequately enforced and inequities persist in
+the civil and labor codes (see box 1). On average, women have fewer years o f schooling, lower health
+status, and a heavier work load than men (in rural areas women work 13 hours compared with 8 hours for
+men).
+Table 1: IP-ERS targets and Millennium Development Goals (select indicators)
+~
+
+1.
+
+3.
+
+2002’
+
+IP-ERS target*
+
+Target (2015)
+
+49
+
+55
+
+41
+
+24.4
+
+47
+
+44
+
+34
+
+23.5
+
+Eradicate extreme poverty and hunger
+
+Poverty head count (%)
+Nutrition, undernourished as percentage of total
+population
+
+2.
+
+1990
+
+Achieve universal primary education
+
+Net primary enrollment ratio (YO)
+
+n.a.
+
+70.0
+
+85
+
+100
+
+Youth literacy rate (% ages 15-24)
+
+89.8
+
+95.8
+
+n.a.
+
+100
+
+95.0
+
+98.0
+
+93.4
+
+98.6
+
+ma.
+
+100
+
+Under 5 mortality rate (per 1,000)
+
+97
+
+122
+
+100
+
+32
+
+Infant mortality rate (per 1,000)
+Immunization, measles (% of children under 12
+months)
+
+63
+
+78
+
+n.a.
+
+21
+
+78
+
+78
+
+n.a.
+
+100
+
+Matemal mortality ratio (per 100,000 live births)
+
+1,300 (1995)
+
+590
+
+560
+
+395
+
+Births attended by skilled health staff (YOo f total)
+
+50
+
+44
+
+n.a.
+
+100
+
+Promote gender equality and empower women
+
+Ratio of girls to boys in primary education (YO)
+Ratio of young literate females to males (“%I ages
+15-24)
+
+Reduce gender
+gap.
+
+100
+
+4. Reduce child mortality
+
+5. [mprove maternal health
+
+6. Combat HIVIAIDS, malaria and other diseases
+
+Prevalence of HIV, total (% o f adult population)
+
+5.1
+
+10.2
+
+9.4
+
+Have halted by
+2015, and begun
+to reverse
+incidence.
+
+45
+
+57
+
+n.a.
+
+12.5
+
+8
+
+10
+
+n.a.
+
+8
+
+52
+
+n.a.
+
+0.3
+
+6.4
+
+n.a.
+
+7. Ensure environmental sustainability
+Access to an improved water source (YOof population)
+8. Develop a Global Partnership for Development
+Telephone mainlines (per 1,000 people)
+Fixed line and mobile telephones (per 1,000 people)
+
+Personal computers (per 1,000 people)
+1. Figures in italics are from 2001.
+2. IP-ERS targets are for 2006-08.
+n.a. means not available.
+Sources: World Bank World Development Indicators Database, UNAIDS, UNESCO.
+~~
+
+Make available
+the benefits o f
+new
+technologies.
+
+-
+
+These trends are directly linked to issues ofpublic management. For example, Kenyan citizens
+13.
+spend over 6 percent o f GDP on private health services, which suggests that if government spending were
+focused on primary health facilities and cost-effective preventive programs such as immunization, health
+outcomes would have significantly improved during the past decade. Instead public spending has focused
+on curative care delivered in hospitals, which benefits the relatively few. Government spending on
+
+-5education amounts to about 7 percent o f GDP, most o f which has been used to finance teachers’ salaries.
+This has led to inequities in enrolment and educational quality, as communities that could not afford to
+finance school construction did not benefit from state support. Parents were also obliged to pay for a
+variety o f incidental expenses, including textbooks, effectively pricing poorer families out o f the
+educational system.
+14.
+The d i ~ ~ i b u t i of nincome is unequal. The distribution o f income in Kenya i s rather unequal as
+shown by i t s Gini coefficient in 1997 o f about 0.42. Geographical variations in the distribution o f poverty
+are also large, with about three quarters o f the poor living in rural areas. The arid and semiarid lands and
+Western and Nyanza provinces o f Kenya have particularly high proportions o f people living below the
+poverty line, a result o f disproportionately l o w investments in infrastructure and public services in these
+regions since independence. Kenya ranked 146 out o f 175 countries listed in UNDP’s 2003 Human
+Development Report. This i s worse than i t s 1998 ranking o f 137 out o f 174 countries, reflecting the
+steady decline in the quality o f public services.
+Box 1: Kenya: Core labor standards
+Kenya has ratified seven of the eight fundamental conventions of the International Labor Organization related to core labor
+standards including: (a) Right to Organize and Collective Bargaining Convention (ratified in 1964); (b) Forced Labor
+Convention (ratified in 1964); (c) Abolition of Forced Labor Convention (ratified in 1964); (d) Equal Remuneration
+Convention (ratified in 200 1); (e) Discrimination (Employment and Occupation) Convention (ratified in 2001); (0 Minimum
+Age Convention (ratified in 1979); and (8) Worst Forms o f Child Labor Convention (ratified in 2001). Kenya has not yet
+ratified the Freedom of Association and Protection o f the Right to Organize Convention.
+Child labor. Although the proportion o f children (10-14 years of age) who work has declined from 41.3 percent in 1995 to
+39.2 percent in 2000 and to 38.3 percent in 2002, child labor i s common, especially in the informal sector. About 1.9 million
+children 5-17 years are in the labor force, including children working without pay (1998199 child labor survey, Central
+Bureau of Statistics, 2001). To address this issue, the government (a) enacted in 2002 the Children’s Act, which provides the
+framework for universal primary education; (b) introducedthe school feeding program targeting poor regions; (c) established
+the textbooks fund, which helps poor students purchase learning materials; and (d) created the bursary fund, which helps poor
+students meet some o f the costs related to secondaly school attendance.
+Gender discrimina~ion.The constitution of Kenya prohibits discrimination on the basis o f gender. However, its provisions
+are not effectively enforced. Women experience a wide range of both legal and actual discriminatory practices. The
+government has committed itself to eliminating discrimination in its legislation, policies, and programs. It has approved the
+national gender and development policy, which aims to provide equal opportunities to men and women.
+Forced Labor: While there i s no indication of forced labor in Kenya, the InternationalLabor Organizationhas criticized
+
+certain legal provisions which provide chiefs in rural areas with the possibility of using forced labor. The government has
+repealed the laws concerned. In its latest report, the govemment indicates that comprehensive revision of the labor law will
+be undertaken in consultation with partners and with the technical assistance of the International Labor Organization.
+
+2. KENYA’S ECONOMIC RECOVERY STRATEGY
+15.
+The IP-ERS provides a frank analysis o f the challenges in Kenya and lays out the government’s
+strategy to address these challenges. The strategy centers on three interlinked pillars: strengthening
+economic growth, enhancing equity and reducing poverty, and improving governance. The IP-ERS
+contains a comprehensive results-based logical framework that lays out how the IP-ERS priority
+programs will contribute to the achievement o f specific targets, including the Millennium Development
+Goals (MDGs).
+
+A.
+
+IP-ERS pillar 1: Economic growth with macroeconomic stability
+
+16.
+Following two decades o f weakening economic growth, l o w productivity and high
+unemployment, the f i r s t priority o f the IP-ERS i s to rapidly achieve high economic growth, critical for
+
+-6attaining all o f the government's other developmental objectives. The strategy calls for redefining the
+role o f the state from producer to facilitator o f private sector-led growth investment. To this end, the
+government commits to maintaining a stable macroeconomic framework, to strengthening public
+expenditure management, to reforming the financial sector, and to encouraging private sector
+participation in the provision o f transportation, water, energy, and telecommunications services.
+
+17.
+~ a c r o ~ c o n o mstability,
+ic
+i m p r o v e d ~ s c aand
+~ monetary policy, and improved quality and
+quantity of expenditures in priority sectors are key. The macroeconomic framework underpinning the IPERS (table 2 ) foresees a steady pick-up o f growth from 1.3 percent in 2002103 to 2.5 percent in 2003104
+and to 4.9 percent in 2006107. Most o f this will likely come from rapid short-term growth in
+manufacturing and services following improvement in governance and the investment climate. In tandem
+with the increase in the growth rate, gross investment i s expected t o rise sharply. Most o f the increase in
+investment will be financed by concessional external assistance. This will permit the government to
+reverse i t s past dependence on domestic borrowing and thereby free additional bank lending for the
+private sector. The overall government budget deficit, including grants, i s projected to remain at about 3
+to 4 percent o f GDP to fund government spending in priority sectors during the initial years o f the
+program, before declining to 2.6 percent in 2007108 as revenues rise. The external current account deficit
+i s projected to rise rapidly from 1.3 percent o f GDP in 2002103 to about 10 percent o f GDP by 2006107
+due to increases in imports associated with renewed public and private investment.
+
+2002103
+
+2003104
+
+2004105
+
+2005106
+
+2006107
+
+16.5
+14.9
+
+20.4
+15.7
+
+23.3
+
+24.4
+
+24.8
+
+Gross national saving
+
+17.6
+
+18.5
+
+19.7
+
+Total revenue
+
+20.8
+
+20.8
+
+21.7
+
+22.3
+
+22.4
+
+Total expenditure
+Overall balance (excluding grants)
+
+26.2
+
+27.1
+
+27.5
+
+26.4
+
+26.6
+
+-5.4
+
+-6.3
+
+-5.8
+
+-4.1
+
+-4.2
+
+Overall balance (including grants)
+
+-3.9
+
+-4.1
+
+-3.6
+
+-2.3
+
+-2.5
+
+Net domestic borrowing
+Financing gap
+
+4.3
+0, I
+
+1.3
+1.2
+
+1.3
+2. I
+
+0.1
+3.0
+
+0.1
+3.2
+
+Total donor support (grants and loans)
+
+2.2
+
+6.6
+
+9.6
+
+9.9
+
+9.6
+
+-1.3
+
+-5.4
+
+-9.1
+
+-10.1
+
+-9.8
+
+24.3
+
+23.8
+
+23.4
+
+21.7
+
+20.0
+
+36.0
+
+35.0
+
+35.0
+
+35.0
+
+35.0
+
+actual
+
+In percentage of nominal GDP
+
+Gross investment
+
+Current external balance, including oflcial
+transfers
+Net present value of domestic debt (end o f
+period)
+Net present value o f external debt (end of
+veriod)
+
+Source: Kenya IP-ERS and IMF and Bank staff estimates.
+
+-7-
+
+18.
+ExternalJinancing and debt sustainabili~.Kenya’s outstanding stock o f external debt at the end
+o f 2002103 stood at US$4.7 billion (36 percent o f GDP) with IDA debt obligations accounting for almost
+50 percent o f the total. During the 1990s the government continued to service its debt, bringing down the
+debt service payments from 34 percent o f export o f goods and services in 1990 to 11 percent in 2003.
+The debt service to exports ratio i s expected to decline steadily to about 7.2 percent in 2008 and then edge
+upwards thereafter. In 2003, the net present value o f debt-to-exports ratio was 109 percent. It i s expected
+to remain stable in view o f the recent agreement o f the Paris Club to reschedule debts under Houston
+terms to contribute to the financing plan envisaged under the IMF program. The potential for high levels
+o f concessional support that could be made available during the next five years will also be an important
+stabilizing factor.
+19.
+Reforms ofpublic expenditure management are planned to improve allocation of resources. To
+establish expenditure management consistent with sustained growth and poverty reduction, the
+government w i l l implement a tight fiscal policy which reduces domestic debt, refocuses on expenditures
+in favor o f development and poverty reduction, and improves the efficiency o f public spending. Annual
+public expenditure reviews (PERs) will provide the basis for restructuring expenditures, for deepening the
+medium-termexpenditure framework (MTEF) budget process, and for monitoring progress on
+expenditure management reform. The government has also prepared an action plan for enhanced
+financial management in the public sector that incorporates recommendations o f the country financial
+accountability assessment (CFAA) and o f the public expenditure management assessment and action
+plan. Finally, the government has enacted legislation aimed at strengthening public audit, and i s awaiting
+enactment o f bills addressing public financial management and procurement.
+Restructuring theJinancia1 sector, improving the investment climate, and promoting private
+20.
+sector p u r t i c ~ a t i o nin provision of in~astructuralservices are intended to boost private invest~entand
+improve delivery of services. Financial sector reforms aim to encourage private savings and investment
+and to reduce the abnormally high spread between lending interest rates and deposit rates that reflects a
+legacy o f nonperforming loans in state-owned and small commercial banks. N e w regulations will
+strengthen the supervisory and enforcement capacity o f the Central Bank o f Kenya by transferring
+banking system licensing, regulatory and disciplinary authority from the Ministry o f Finance to the
+central bank, tighten provisioning regulations to conform to international best practice, and implement
+legislation against money laundering. Actions to improve the investment climate will focus on improving
+infrastructure. The government recognizes that greatly increased private sector participation i s necessary
+to mobilize resources for investment in infrastructure and improve the efficiency with which resources are
+used. T o this end, the government plans to reform the regulatory and legal framework to facilitate private
+sector participation in provision o f services. The government i s also developing a public-private
+partnership program targeting key utilities and infrastructure service providers, and i s awaiting enactment
+of the privatization bill, which will establish a strong privatization commission and create the basis for a
+transparent and accountable privatization process.
+
+€3.
+
+IP-ERS piilar 2: Equity and poverty reduction
+
+The IP-ERS objectives for equity and poverty reduction are to ensure that all Kenyans have
+2 1.
+access to basic services and to opportunities to participate productively and self-reliantly in employment
+and wealth creation. The strategy calls for free primary education, increased basic health services (with
+planning for a national social health insurance fund), continued efforts to reduce the spread o f HnrlAIDS,
+and increased productivity o f rural farm and nonfarm enterprises. Targeted programs include community
+driven development in the arid and semiarid areas o f Kenya, and programs t o improve access to services
+and living conditions o f slum dwellers.
+
+-8I n education thefocus is on providing universal access to+ee primary education, while
+22.
+gradually expanding access to secondary education. The government’s first act after taking office in
+January 2003 was to institute fiee primary education, Enrolment increased b y 1.5 million children in
+2003. As a result, Kenya i s likely to meet the MDG for education, provided suitable programs are
+developed to meet the needs o f pastoralists and to overcome cultural barriers that discourage parents in
+some communities from sending girls to school. Priorities are now to raise enrolment o f disadvantaged
+areas and groups through targeted programs such as mobile schools in the arid and semiarid lands (with
+only 20 percent o f children enrolled), and improving quality and efficiency o f resource use through
+teacher training and redeployment. Over time access to secondary education will also be increased to
+meet the growing demand from primary school graduates,
+
+23.
+I n health, thefocus is to enhance the accessibility and a ~ o r d a b i l i t yof basic health services,
+especially for the poor and vulnerable. Improving health outcomes requires significantly increasing
+public expenditures on health services. It will also mean reallocating resources from curative services to
+preventive and basic health services, coupled with other measures to reduce or eliminate out-of-pocket
+expenditures by the poor. The Ministry o f Health w i l l develop a national health sector strategy in
+consultation with development partners, which will also present options for reducing out o f pocket
+expenditures for the poor, including through the proposed national health insurance scheme.
+Thefight against HlV/AIDS is a top priority for the government. The objective i s to prevent
+24.
+further increases in HIV prevalence and address the alarmingly high prevalence rate among teenage girls.
+The government i s implementing a comprehensive multisectoral national strategy in the fight against
+HNIAIDS (National Strategic Plan on HIVIAIDS, 2002-05). To strengthen policy formulation and
+oversight, the government has recently established a cabinet subcommittee on HIVIAIDS, chaired by the
+president, and i s in the process o f defining the division o f responsibilities between the cabinet committee
+and the National AIDS Control Council.
+Improvements in the policy environment for agriculture w i l l aim at increasing agricultural
+25.
+productivity and improving incomes for the poorest. Reforms o f research and extension aim to strengthen
+the link between farmers’ demands and supply o f improved technology and advice, while increasing the
+effectiveness o f public investment by restructuring and rationalizing the network o f agricultural research
+institutes. Policy and institutional reforms are planned for key commodities such as coffee to increase the
+competitiveness o f Kenya’s products on international markets and to increase the share o f the auction
+price reaching small farmers. Reforms o f public expenditure for agriculture are intended to Significantly
+increase the share allocated for priority programs, requiring in turn the rationalization o f agricultural
+parastatals.
+Targetedprograms aim at reducing poverty of particularly disadvantaged communities. A
+26.
+particularly noteworthy feature o f the IP-ERS i s the prominence it gives to addressing the needs o f
+pastoralists, a previously neglected but particularly vulnerable and poverty-stricken group. The arid and
+semiarid lands (ASAL) program combines investment in infrastructure with human resource development
+and security enhancement, funding small-scale infrastructure and social safety nets, education for
+pastoralist children, and improved food security. The IP-ERS also includes programs to improve the
+quality o f life in urban slums by expanding the water and sanitation and electricity networks, upgrading
+slum roads, and creating schools and health clinics. Regulatory and institutional reforms will increase the
+security o f tenure of residents and encourage the expansion o f privately-built and financed low cost
+housing.
+
+-9C.
+
+IP-ERS pillar 3: Improving governance
+
+The IP-ERS recognizes that poor economic governance, including high levels o f corruption and
+27.
+poor management o f public resources, has been a major drag on Kenya’s economic and social
+development. The government i s committed to eliminating corruption, restoring the rule o f law and
+bringing about equitable development that favors all citizens. It has enacted and i s implementing the
+Economic Crimes Act (2003), which provides for the establishment o f an Anti-Corruption Commission.
+It created a new department o f governance and ethics in the Office o f the President. T o reduce corruption
+in the public service, the government enacted the Public Officers Ethics Act in 2003, which requires all
+public officials (including the president), employees, and their families to declare their assets. The
+government has also taken several actions to improve the dispensation o f justice, O f key importance i s
+the establishment o f the Ministry o f Justice and Constitutional Affairs, which i s responsible for policy on
+administration o f justice, law reform, anti-corruption strategies, integrity and ethics, legal sector reform,
+legal aid and advisory services. Finally, it is improving the quality o f police work through training,
+improving living conditions for the police, and increasing the linkages and accountability o f the police to
+the communities in which they work.
+Establishing a monitoring and e v a l ~ a t i o n ~ a m e w oas~ kan integral element of improved
+28.
+governance. The strategy calls for establishing a comprehensive monitoring and evaluation (M&E)
+framework that will help to strengthen public oversight o f government spending and will provide vital
+feedback required to refine government policies and programs. T o this end, the government has
+established a comprehensive framework for monitoring and evaluation in the IP-ERS that includes: (a) a
+results-based framework that identifies targets and specifies indicators and data sources to monitor
+progress towards them; (b) the implementation o f the national strategic statistical plan to ensure a
+consistent flow o f survey and census information; (c) the strengthening and integration o f administrative
+management information systems to supply the government with day to day programmatic information;
+(d) the development o f a medium-term research agenda to inform the government on the effectiveness o f
+policies and programs; (e) the development o f institutional mechanisms t o ensure effective feedback o f
+(M&E) results into management, planning and budgeting; and (f) expansion o f participatory mechanisms
+including the approval o f a public information access policy. It i s also preparing a policy for public
+access t o information, which i s critical to improve transparency and accountability,
+
+D.
+
+Summary o f IP-ERS staff assessment
+
+29.
+The IP-ERS provides a sound basis for Bank Group and other donor support. I t s primary
+strengths lie in i t s strong emphasis on improving governance and restoring the rule o f law, and the scope
+o f the participatory process through which the strategy was prepared. Also important i s i t s focus on
+results through inclusion o f a comprehensive monitoring and evaluation framework with targets that
+refer to the MDGs as benchmarks and a time frame for achievement. The staffs note, however, several
+shortcomings that will need to be addressed during implementation. First, its analysis o f poverty needs
+to be strengthened by expanding the information base through surveys and strengthening the analysis o f
+the determinants o f poverty. Second, the strategy could better prioritize policy actions to accelerate
+growth and reduce poverty and provide a more precise identification o f core pro-poor spending
+programs. Third, a sector strategy for health remains to be formulated, and a strategy for education
+completed that would map out programs for accelerating the pace for achieving the MDGs. Fourth, the
+strategy could better articulate a process for the prioritization o f public actions that are in turn linked to
+the budget and medium-term expenditure framework. Fifth, the actions contemplated to build capacity
+in key areas need to be clearly spelled out, including the support envisaged from the donor community.
+Sixth, systems for monitoring poverty outcomes are weak and need to be strengthened. Finally, the
+outcomes o f the future consultation processes and poverty diagnoses need to be better described, linked
+to, and reflected in the selection o f targets, policy priorities, and budget allocations.
+
+- 103.
+
+THE BANK GROUP’S COUNTRY ASSISTANCE STRATEGY
+
+30.
+This CAS i s a strategy o f reengagement. The environment for stimulating growth with equity and
+reducing poverty in Kenya through Bank programs has become considerably better during the past year
+due to the new government’s actions aimed at improving governance and implementation, and to its focus
+on results.
+
+3 1.
+An entirely new generation o f projects and programs will be put in place that are closely aligned
+with Kenya’s IP-ERS, and that incorporate lessons from the past to improve implementation and results.
+
+The projects and programs will build on lessons learned from a full program o f analytical work,
+developed with a view to understanding the complex relationship between economic growth, poverty
+reduction, and governance. Project lending in sectors with sound policies and strategies (for example
+transport and energy) w i l l help to strengthen institutions and financing mechanisms that deepen and
+nurture good governance. Adjustment lending w i l l support critical policy reforms in public sector
+management and the financial sector. Technical assistance projects will develop, and assist in
+implementing, public sector reforms, privatization, and legal and financial sector reforms. In line with
+our commitment to donor harmonization, subsequent interventions will support sectorwide approaches in
+health and education, catalyzing budget support for implementation o f the P - E R S through PRSCs.
+The ongoing~ghtagainst corruption is a cross-cutting issue. The Bank Group considers it an
+32.
+imperative to support the government in i t s effort to stop corruption by incorporating anti-corruption
+measures wherever possible in its projects. This includes operations, such as the legal reform component
+o f the Financial and Legal Technical Assistance Credit (FLSTAC, 2005) project discussed below, that
+build capacity against corruption in a targeted manner. I t also includes mainstreaming throughout the
+Bank’s portfolio measures to improve safeguards within government at the central and local levels. It
+means careful attention at the time o f project and program preparation to safeguard measures, including
+having the Bank’s Institutional Integrity Department participate in the design phase o f projects. It also
+means ensuring that M&E systems both within Bank projects and within government contain means for
+monitoring against risks o f corruption. And it means promoting transparency and open communication
+with stakehoiders about budgetary issues, procurement, and project management. It i s vital that Kenyans
+own these measures, and that they genuinely support and complement Kenya’s own anti-corruption
+program.
+
+33.
+
+The Bank Group’s country assistance strategy i s organized around four themes, representing i t s
+comparative advantage vis-a-vis other donors: strengthening public sector management and
+accountability, reducing the cost o f doing business and improving the investment climate, reducing
+vulnerability and strengthening communities, and investing in people. Activities o f the four themes
+contribute to each of the three pillars o f Kenya’s IP-ERS, summarized in a matrix at the end o f each
+section. In addition to specific operations targeting one or more objectives o f the IP-ERS, the Bank will
+support the IP-ERS generally in i t s operations as cross-cutting issues. Thus, for example, Bank
+operations to improve public sector management, simultaneously address issues o f economic growth, o f
+equity and poverty reduction, and o f improved governance. By making explicit the links between Bank
+supported sector activities and IP-ERS goals, the matrixes below provide the skeleton for the set o f CAS
+outcomes and outcome indicators presented in annex 1. Specifically, each outcome in this table i s
+mapped into column four o f the Kenya framework for results-based CAS, with at least one relevant
+indicator.
+
+- 11 A.
+
+Strengthening public sector management and accountability
+
+The fundamental challenge facing the government i s to restructure the public sector to channel
+34.
+resources to invest in critical infrastructure and to deliver social services that benefit the poor. This
+requires better strategic budgeting and rethinking the core functions o f government, a policy-making
+process that reflects the trade-offs between different programs, and reform o f the civil service to produce
+a more efficient and effective public administration. It also involves a significant strengthening o f civil
+society’s oversight o f government spending. Finally, it implies a substantial reform o f parastatals to
+allow government to focus on i t s core role o f formulating policy, preparing and enforcing regulations, and
+facilitating private sector investment.
+Public sector management
+
+35.
+The Bank i s supporting the government’s reform program in several ways. I t s Public Sector
+Management Technical Assistance Program, due to end in fiscal 2005, i s providing support for civil
+service reform and capacity building, internal auditing, development o f the MTEF, implementation o f the
+integrated financial management information system (IFMIS), and development o f improved procurement
+practices. The project also supports reforms o f key judicia1 systems, such as court recording and case
+management. During the CAS period, the new Public Sector Reform Technical Assistance project will
+build upon the progress made under the current project, supporting government-wide reforms such as
+rationalization o f the functions and structure o f government ministries; c i v i l service reforms;
+strengthening o f the Kenya Revenue Authority, and public expenditure management, including deepening
+o f the MTEF and extension o f the IFIMIS throughout the government. This project will also provide
+support for regulatory reform and for capacity-building to lay the groundwork for parastatal reform and
+privatization (see below).
+
+The Bank i s providing analytical support for implementation o f a robust public expenditure
+36.
+review process that examines in depth the value and efficiency o f public spending, and budget
+performance. This will lead to preparation o f joint government-donor PER reports as the basis for the
+MTEF program. As part o f the annual PER work, the Bank will also assist line ministries, particularly in
+health, education, and agriculture, to develop sectoral expenditure programs. T o improve transparency,
+the results o f the public expenditure reviews will be discussed with stakeholders in civil society and the
+relevant parliamentary committees. Ministerial public expenditure reviews will also explicitly take into
+account and inform the growth and poverty reduction objectives o f the IP-ERS. Consistent with these
+objectives, and as a vital underpinning to future PRSCs, the Bank will carry out a country procurement
+assessment review (CPAR) in fiscal 2005 jointly with the government as part o f the PER work.
+Looking forward, the Bank will prepare a Programmatic Structural Adjustment Credit (PSAC) for
+37.
+fiscal 2005. The PSAC, complemented by annual PERs, i s expected t o help the government to improve
+its budget and financial management, including the capacity to track poverty-related spending, to attain
+high levels o f fiduciary accountability and transparency, and to shift spending towards activities that
+benefit the poor. The PSAC i s also expected to initiate reforms in agriculture and publicly operated
+utilities in anticipation o f privatization. These improvements will prepare the foundation for a Banksupported PRSC in fiscal 2007 and for budget support from other donors.
+Parastatal reform and privatization
+
+Parastatal reform will make an important contribution to growth and governance by increasing
+38.
+the efficiency and competitiveness o f public enterprises, and by reducing opportunities for
+misappropriation o f public funds. It will also indirectly promote equity and poverty reduction by
+
+- 12reducing the fiscal burden that the state incurs from investing in loss-making enterprises that could be
+operated on commercial terms by the private sector.
+Rather than support the parastatal reform and privatization process via a single credit, which
+39.
+would not adequately address the large number o f differences between enterprises according to sector,
+and which would risk imposing a single plan on parastatals undergoing reform and privatization a i
+different paces, the Bank will support parastatal reform through i t s budget support, technical assistance
+projects and sector operations under an overarching strategy for private sector development. The PSAC
+will support parastatal reforms and provide technical assistance to prepare the ground for the privatization
+o f telecommunications and railways concessioning. The Public Sector Reform Technical Assistance
+Project (fiscal 2006) will seek to strengthen the investment climate, implementing the policy conclusions
+o f ESW in this area (discussed below). Because the Bank’s support for parastatal reform i s embedded in
+different sector operations, this project will also serve to provide the core institutional and regulatory
+support on which the success o f these efforts will depend. T o strengthen governance, this project will
+reinforce the key institutions responsible for implementation o f the program, support training on
+regulatory and other issues, assist the preparation o f corporate restructuring and privatization plans,
+strengthen the capacity and design o f regulatory bodies, and improve consultative mechanisms between
+public and private actors. Bank-financed projects will address parastatal reform in various sectors. For
+example, the Energy Sector Recovery Credit (fiscal 2005) will facilitate the privatization o f the Kenya
+Power and Lighting Company; and the FLSTAC (fiscal 2005) will facilitate divestiture o f the state’s
+remaining ownership stakes in banks. The PRSC scheduled for fiscal 2007 will provide support for
+further deepening o f the institutional and regulatory environment for investment and private sector
+growth, and will focus in particular on privatization o f Kenya’s agricultural parastatals.
+Monitoring and evaluation
+
+The Bank Group and development partners are assisting the government to establish the
+40.
+framework for monitoring and evaluation o f policy and expenditure decisions through a number o f
+initiatives. An IDF grant i s helping both to strengthen the statistical system and to build capacity for
+policy analysis using tools o f monitoring and evaluation. A grant from the Environmentally and Socially
+Sustainable Trust Fund for the Africa Poverty and Data Initiative i s strengthening linkages between data
+producers, data users, and policy makers and i s financing research in areas such as measuring poverty. A
+grant from the Norwegian Trust Fund i s financing the piloting o f approaches o f participatory monitoring
+and evaluation. Other partners, notably United Kingdom Department for International Development
+(DFID) and UNDP, are assisting the government develop and implement the monitoring and evaluation
+framework. The Statistical Capacity Building Project (StatCap, fiscal 2005), to be financedjointly by
+IDA and other development partners, will support implementation o f the national statistics strategic plan,
+focusing on increasing capacity o f the Central Bureau o f Statistics and government agencies to regularly
+collect and disseminate information. Support for public expenditure reviews and expenditure tracking
+w i l l provide information for the preparation o f the budget, All new projects will contain activities and
+indicators that will permit later evaluation o f their impact. Several trust funds are financing impact
+evaluations o f education interventions and other priority areas.
+
+Matrix 1: Strengthenir
+
+public sector mana !merit and accountability3
+
+I
+Public sector management
+
+Portfolio
+Public Sector Management
+Public Sector Reform
+(proposed follow-on project)
+PSAC
+PRSC
+AAA
+AnnualPER
+CPAR
+CFAA
+
+Parastatal reform
+
+Portfolio
+a Public Sector Reform
+AAA
+AnnualPER
+CEM
+Financial Sector Assessment
+Program.
+
+Monitoring & evaluation
+
+Portfolio
+a Statistical Capacity Building
+AAA
+Strengthening M&E
+PAD1
+a ParticipatoryM&E
+Poverty and Data Initiative.
+
+B.
+
+Pillar 1: Sustainable
+Economic Growth
+Reduce net domestic
+borrowing.
+Create and maintain
+infrastructure,
+
+Reduce the fiscal
+burden o f transfer to
+parastatals.
+Enhance transparency
+and competitiveness in
+transactions (IFC)
+Reduce costs and
+improve quality of
+infrastructural services.
+Produce increasingly
+good quality annual
+progress reports for the
+IP-ERS.
+
+Pillar 2: Equity and
+Poverty Reduction
+
+Pillar 3: Improved Governance
+
+Improve poverty and
+growth effectiveness of
+public spending.,
+
+Improve transparency in budget
+reporting
+Enhance linkages between
+budgeting, planning and
+monitoring
+Strengthen incentive structures
+for managementperformance,
+
+Improve service delivery
+to the poor and reduce
+fiscal burden.
+
+Strengthen regulatory framework
+Reduce opportunity for
+misappropriationof public funds
+by reducing the role o f the state in
+production and marketing.
+
+Improve poverty and
+growth effectiveness o f
+public spending.
+
+Improve accountability in the
+management o f public resources
+Improved quality of, timeliness,
+and access to information.
+
+Reducing the cost o f doing business and improving the investment climate
+
+The high cost o f financial and infrastructural services in Kenya i s deterring private sector
+4 1.
+investment required for growth and shutting out the poor from accessing the services, according to a
+recent investment climate survey carried out by the Bank. Barriers to trade also raise the cost o f doing
+business by preventing the allocation o f resources to their most efficient use, providing opportunities for
+corruption, and raising the prices o f many goods consumed by the poor. Improving the business climate
+will require reform o f financial services, policies for private sector in provision and management o f
+infrastructural services, and trade policy.
+R e s t r u c t u r i n g ~ ~ a n c services
+ial
+
+The Kenyan authorities recognize that sustainable economic recovery depends o n a vibrant and
+42.
+integrated financial sector that supports the mobilization o f adequate resources to finance required
+investment. Despite its strong potential, the Kenyan financial system i s fragile, with the banking system
+burdened by a large stock o f nonperforming loans that are heavily concentrated in state-influenced banks.
+This misallocation o f scarce resources i s one o f the most significant impediments to the development o f
+the financial sector and to economic growth itself. The IP-ERS outlines a series o f policy actions aimed
+at removing bottlenecks that impede the effective functioning o f the financial sector, including resolving
+the problem o f nonperforming loans, divesting the government’s ownership stakes in the banking
+industry, implementing measures designed to enhance competition, and strengthening the regulatory
+framework.
+3
+
+The matrix can be read both row by r o w to understand each sector contribution to the three pillars, and
+column by column to understand the set of activities geared towards achieving each specific goal.
+
+- 14The Bank Group program for the financial sector combines diagnostic work and financial
+43.
+assistance t o implement reforms and to build institutional capacity. The Bank jointly with the IMF
+recently completed a comprehensive assessment o f the sector under the FSAP. Based on the Bank’s
+ongoing dialogue with the Kenyan authorities and the findings o f the FSAP, the Bank i s designing two
+financial sector operations. The FLSTAC will support the building o f capacity to deliver financial
+services and to rapidly and fairly adjudicate disputes. The Financial Sector Adjustment Credit (FSAC,
+fiscal 2006) will support policy and institutional reforms, including divestiture o f the state’s remaining
+ownership stakes in the banks, enhanced banking supervision, and design o f a policy to expand access to
+financial services, including in rural areas. Discussions have begun on a possible pension reform
+program, focusing on measures to address the government’s significant contingent pension liabilities.
+The IFC i s promoting the development o f the financial sector by developing instruments such as
+mortgage and asset backed securities to deepen the capital market, supporting housing finance
+institutions, and developing risk capital facilities to expand financial services for small and medium
+enterprises.
+As noted above, the Bank i s working in close collaboration with the IMF to prepare and
+44.
+implement the FSAP. In addition, DFID-which i s focusing on increasing access o f the poor to financial
+services-is currently collaborating with the Bank in the preparation o f the FSAC and the FLSTAC.
+France’s Agence Frangaise de DCveloppement has expressed interest injoining the Bank and DFID in
+supporting the FLSTAC. The U N D P i s targeting access to finance o f small and medium size enterprises.
+USAID i s piloting a transferable warehouse receipt system for use by small farmers in Nakuru. Money
+laundering i s a serious concern in Kenya. Although the Bank does not have a comparative advantage in
+addressing the issue in the Kenyan context, donors are collectively addressing the issue through support
+for financial sector reforms.
+Promoting private sector development
+
+45.
+Underpinningthe IP-ERS growth objective i s a central role for a reanimated private sector. The
+government recognizes the critical importance o f reviving private sector activity and investment, while
+reducing the role o f the state in productive enterprises to increase the competitiveness o f the economy, to
+reduce the cost o f doing business, to improve the investment climate, and t o free government resources
+for use on priority programs. The Bank Group strategy for private sector development has been
+developed jointly with the IFC, MIGA, and the Public-Private Infrastructure Advisory Facility (PPIAF),
+building on the comparative advantage o f each organization. An internal coordination group has been
+established to guide the work o f all units, which operates in addition to the broader donor coordination
+group on private sector development.
+46.
+The Bank strategy consists of a series o f sequenced activities. Several studies have been
+completed or are underway to improve understanding o f the obstacles to private sector development and
+the policies needed to address them. The investment climate assessment completed in fiscal 2004 i s
+providing a greater understanding o f the factors that determine investment and business activity in Kenya.
+The administrative barriers study being conducted by the Bank Group’s Foreign Investment Advisory
+Service (a joint IFC and Bank program) will shed light on the administrative and regulatory costs o f doing
+business in Kenya. Building on both these studies, the Bank i s carrying out economic and sector work on
+growth and competitiveness to be completed during fiscal 2004. This will identify measures needed to
+strengthen the competitiveness o f the private sector, including actions to reduce inefficiencies in the
+supply chain, to upgrade skills, and to reduce administrative and other impediments to private sector
+investment. Throughout the CAS period, the Bank will continue to seek out and support strong private
+sector companies in export orientated sectors such as agribusiness, tourism and light manufacturing.
+MIGA i s conducting an East Africa benchmarking study o f foreign investment competitiveness (fiscal
+2005) that w i l l include Kenya. MIGA i s also providing technical assistance t o Kenya’s investment
+
+-15promotion intermediaries through ongoing support for the Export Promotion Zone Authority and through
+additional work f o r the formulation o f a strategy to attract foreign direct investment. The Bank Group has
+worked closely with the private sector in designing the analytical work and will ensure that they are
+actively involved in the policy consultations that flow from this effort. An increased role o f the private
+sector in provision and management o f infrastructure i s also being actively pursued. With the help o f
+grants from the Public-Private PPIAF, the government has completed a study on options for
+concessioning o f trunk roads and a study on the legal and regulatory framework for the transport sector.
+Public-private partnerships are being created to provide water and energy services. The IFC i s the
+transaction adviser for concessioning the Kenya Railways jointly with Uganda Railways.
+Directly related to the government’s goal o f creating jobs, the Micro, Small and Medium
+47.
+Enterprise Development Project (MSME, fiscal 2005)-a joint initiative o f the Bank and IFC being
+piloted in eight African countries-is aimed at promoting the creation and growth o f MSMEs. The
+project will offer support for business development, will strengthen linkages to providers o f financial
+services and to markets, and will support measures to streamline procedures for starting and operating
+businesses, such as licensing and inspections. An important focus o f this project will be to encourage
+MSMEs to grow and to graduate from informal to formal status. In addition t o this joint Bank-IFC
+project, the I F C will pilot a new approach to deliver comprehensive support to small and medium
+enterprises through the Small and Medium Enterprises Solution Centers, These centers will combine
+existing facilities with other business services to strengthen access o f small and medium enterprises to
+business information and financial services. The centers will also help to improve the business
+environment for small and medium enterprises and will incorporate the new risk capital facilities.
+48.
+Also in support o f the government’s goal o f promoting private sector development, the Bank i s
+helping to improve communications and dialogue between the government, the private sector, civil
+society, development partners, and others. With the PPIAF, the Bank hosted in M a y 2003 a high-level
+conference in Nairobi focusing on private sector participation in infrastructure, The Bank has arranged
+for monthly meetings with the Private Sector Alliance, Kenya’s principal organization representing
+businesses and investors. The IFC in February 2004 organized a follow up workshop on private sector
+participation in infrastructure for government technical leaders, and in M a y 2004 co-hosted with the
+Financial Times a conference on improving the investment climate and promoting new approaches to
+private provision of infrastructure, The Global Development Learning Network i s piloting the use o f
+advanced technologies to improve communication among decision-makers.
+Creating inj?as~ucture
+for growth
+
+49.
+A key IP-ERS objective i s to create infrastructure that reduces the cost o f doing business, while
+linking poor regions of the country to the broader economy. The Bank’s program has sought to target
+interventions that can address issues o f regional inequality and expand access to underserved and poorer
+groups. Learning from experiences of privatization in Kenya and elsewhere, the program emphasizes the
+need for a strong regulatory framework, so that the benefits o f liberalization will reach all Kenyans. It
+also recognizes the importance o f offering a range o f options for private sector participation, rather than a
+single model which may be politically difficult to implement. Project specific interventions include
+measures to build strong regulatory and cost recovery systems, to improve sector governance, and to
+ensure that service providers are accountable.
+Transport Inj?astructure. Kenya has a comprehensive multimodal transport infrastructure system
+50.
+of roads, railways, maritime transport, and pipeline transport and air transport networks, which
+contributes an estimated 8 percent t o GDP. Upgrading the Northern Corridor road network that links
+Kenya with Uganda, Rwanda, Burundi, and the Democratic Republic o f Congo and improving the
+efficiency o f the port at Mombasa will reduce transportation costs throughout East Africa, improving the
+
+- 16global competitiveness o f the region and fostering regional integration. Improving management o f the
+railways i s expected to be a major catalyst to regional integration and growth. A joint concession for
+Uganda and Kenya Railways was launched in January 2004. A j o i n t implementation strategy has been
+worked out by I F C and harmonization o f issues achieved.
+
+5 1.
+The government has already prepared the institutional foundation for rebuilding transport
+infrastructure by implementing key policy and institutional reforms that are necessary to ensure that once
+rehabilitated, the road network i s properly managed and maintained. The Kenya Roads Board, which
+oversees financing, delivery and management o f roads and provides the strategic direction for investment
+and maintenance planning, was established in 1999. The Kenya Roads Fund collects about U S $ l 10
+million per year from a dedicated fuel levy, sufficient for routine and periodic maintenance o f the
+strategic network provided that maintenance i s well planned. The adoption o f the Roads 2000
+maintenance strategy that relies on labor-based techniques i s already having a positive effect on
+maintenance o f rural roads, rural employment, and rural poverty.
+52.
+The Bank will support the government’s program through i t s Northern Corridor Transport
+Improvement Project (fiscal 2004). The project will finance the reconstruction o f about 360 kilometers o f
+key sections o f the road east and west o f Nairobi. It will also facilitate private sector participation in the
+financing, construction and management o f the road through concessioning o f the proposed Nairobi
+southern bypass on a build, operate, and transfer basis. It will support introduction o f long-term
+performance-based contracting, and assist with the implementation o f key institutional and policy
+reforms, including the establishment o f an autonomous roads agency. The Bank i s working closely in the
+sector with other development partners, including the European Commission, Germany, France, DFID,
+the Nordic Development Fund and USAID.
+53.
+The project will also provide support for upgrading Nairobi’s Jomo Kenyatta International
+Airport to address the threat o f terrorism and to meet International C i v i l Aviation Organization and
+Federal Aviation Authority security class one status, which would permit the operation o f direct flights
+between the United States and Kenya. Improving airport security, safety and other c i v i l aviation services
+at major airports in Kenya are critical for revitalizing tourism, one o f Kenya’s most important industries
+and enhancing horticultural exports which are currently a major foreign exchange earner. Upgrading the
+airport i s also essential for maintaining Nairobi’s position as the major airline hub in East Africa, which
+brings a great deal o f business to the country. The proposed improvements will also facilitate the export
+o f fresh flowers, vegetables, and other goods to the US. and other international markets.
+Energy. Improving energy infrastructure is another priority. Only about 15 percent o f
+54.
+households have access to electricity. Improving the delivery o f energy services to enhance their
+availability and reliability, and t o increase the contribution o f modern energy forms to the country’s
+energy balance i s at the core o f the government strategy for the sector, This entails promoting least cost
+sources o f power supply through regional integration and development o f domestic renewable energy
+sources, reducing system losses, improving revenue collection, and enhancing corporate governance for
+energy producers and distributors. Expanded private sector participation is at the heart o f the agenda.
+This will involve the privatization o f the Kenya Power and Lighting Corporation, the Kenya Pipeline
+Company, and the National Oil Corporation o f Kenya.
+
+The Bank i s supporting the commercialization o f the power utilities, regulatory reforms, private
+55.
+sector participation, and the expansion o f power generation through its ongoing Energy Sector Reform
+and Power Development Project. The follow-on Energy Sector Recovery Credit (fiscal 2005) will
+finance investments to improve efficiency o f power production and distribution; to develop a framework
+for public-private partnerships for geothermal resource-based power supply; to promote public-private
+provision o f infrastructure for supply, storage, and transportation o f liquefied petroleum gas; to improve
+
+- 17power sector management and corporate governance in the Kenya Power and Lighting Corporation; to
+strengthen the sector regulatory framework; and to build capacity o f the regulatory agency and the
+Ministry o f Energy.
+
+56.
+The Bank i s funding the preparation o f the E A C power master plan. This could lead to a regional
+power operation during the CAS period to connect the E A C member states among themselves and to the
+existing southern African power pool (through construction o f the Nairobi-Arusha power line) to help the
+government implement i t s strategy o f sourcing power from least cost sources. Similarly, the proposed
+extension o f the petroleum products pipeline to Uganda, for which both the Kenyan and Ugandan
+governments have signed a memorandum o f understanding and for which private sector participation i s
+envisaged, would require multilateral support should the scheme prove to be economically viable, World
+Bank Group support (possibly MIGA insurance and an IDA partial risk guarantee and IFC financing) to
+facilitate the structuring o f the project and selection o f sponsors w i l l be explored. Finally, preparation for
+a rural energy development program w i l l begin towards the end o f the CAS period to assist the
+government in expanding access to energy to rural areas.
+Water supply and s a n ~ t a t ~ o
+services
+n
+and water resources ~ a n a g e ~ eThese
+~ t . too are high
+57.
+priorities for the government because o f their direct impact on people’s health, agricultural productivity,
+and the environment. Government enacted the new Water Act in 2002 aimed at expanding access to safe
+water and sanitation services and at improving water resources management. Critical challenges include
+developing a sound institutional framework for both water supply and sanitation and water resources
+management. Investing in infrastructure, improving management o f catchments and floodplains,
+conserving wetlands, effectively allocating water, controlling pollution and aquatic weeds are all needed
+to mitigate the effects o f excessive rains and drought.
+
+58.
+The Bank program includes several carefully sequenced activities to improve access to clean
+water and sanitation services and to enhance management o f water resources. The Nairobi Water and
+Sewerage Institutional Restructuring Project (fiscal 2004) aims to build a strong governance, institutional
+and service delivery framework that will enable the efficient and sustainable delivery o f water and
+sewerage services in Nairobi. The broader Nairobi-Mombasa Water Supply and Sanitationl Watershed
+Resources Development and Management Project (fiscal 2007) will build on this institutional framework
+to significantly increase access to water and sanitation in urban areas. It will also support development o f
+a sound water resources management and development framework, including institutional reforms for
+equitably allocating water, resolving conflicts, protecting catchments and wetlands, and controlling over
+pumping o f groundwater, pollution, and the spread o f invasive weeds.
+Reducing barriers to trade
+
+Regional integration and trade i s very important for Kenya. Kenya’s trade with other African
+59.
+countries i s growing much faster than trade with other parts o f the world. Already Uganda and Tanzania
+are major and growing markets for Kenya’s exports o f manufactures and services. Further regional
+integration would also quickly stimulate growth for Kenya as a regional hub.
+The government plans to liberalize i t s trade regime in the context o f the planned formation in
+60.
+2004 o f a customs union with Tanzania and Uganda in the context o f the EAC. External tariffs will be
+either significantly reduced or eliminated among the member states, and all suspended import duties and
+remaining discretionary duty exemptions will be removed. The government has also developed a national
+export strategy and i s establishing an export council under the leadership o f the ministry o f trade and
+industry, to consist o f relevant government bodies and the private sector. The government i s also
+expected to promote export growth and diversification through macro policies to sustain a competitive
+
+-18exchange rate, through improvement o f infrastructure to facilitate trade (the Northern Corridor and other
+roads, aviation services, the port, and the railway), and through improved security.
+
+Box 2: Kenya membership o f international and regional economic agreements
+During the past decade Kenya has pursued an active policy o f engagement in regional and bilateral trade
+agreements. The country i s currently a member o f various international and regional economic organizations,
+including the EU-Africa Caribbean Pacific (ACP) Cotonou Agreement, EAC, COMESA, Inter-Govemmental
+Authority on Development (IGAD), and the N i l e Basin Initiative,
+Kenya i s a signatory o f the Cotonou Agreement between the EuropeanUnion and the ACP countries, which
+replaces the Lome Convention. As part o f the agreement it benefits from special trade preferences granted by
+the E U and from resources from the European Development Fund. One o f the objectives o f the Cotonou
+Agreement i s that the ACP member states enter into regional economic partnership agreements with the EU,
+which should lead to the gradual establishment o f bilateral free trade areas through a transition period starting
+in 2008. Although negotiations have not yet started at the sub regional level, Kenya will participate through its
+membership in the eastern and southern Africa group.
+At the regional level, Kenya together with Uganda and Tanzania form the EAC. The present EAC i s a revival
+o f the previous East African cooperation agreement between Kenya, Tanzania, and Uganda, which collapsed in
+1977 and was reestablishedin the 1990s. The objective o f the new EAC treaty, which entered into force in July
+2000, i s to develop policies and programs aimed at widening and deepening cooperation among the three
+member countries. In this endeavor, the three countries have committed to the form a customs union by 2004,
+which i s then to evolve into a common market, a monetary union and ultimately, a political federation o f East
+African states by 2020. Kenya i s seeking further reductions in nontariff trade barriers and exceptions in the
+trade regime, which will facilitate regional integration.
+Since its relaunch in 2000, the EAC has successfully implemented many o f the provisions o f its treaty. Areas
+where significant progress on regional coordinatio~harmonizationhas been achieved are monetary and
+financial policy, fiscal policy and taxation, capital markets development, and Lake Victoria management. The
+customs union protocol was signed by the three countries in March 2004 and i s expected to be launched by
+September 2004. It provides for the establishment o f a common external tariff by July 2004 and the formation
+o f a regional free trade area, to be achieved gradually over a five-year period, A n East African passport was
+launched in 200 1 but i s s t i l l not in full use.
+Kenya i s also a member o f COMESA, which was initiated in Kampala in 1993 as the successor organization o f
+the Preferential Trading Area. COMESA currently comprises 20 member countries. I t s main agenda is to
+deepen and broaden the integration process among member states through the facilitation and promotion o f
+regional trade and investment. In October 2000, nine COMESA members, including Kenya, establishedthe
+COMESA free trade area, with the rest expected to join during the next couple o f years. COMESA members
+have also agreed to move to a customs union by 2004, which includes the establishment o f a common external
+tariff.
+The N i l e Basin Initiative i s a regional partnership that was established in February 1999 by the riparian states
+o f the N i l e basin to pursue a cooperative approach for the use and development o f the common N i l e Basin
+water resources. Kenya i s also one o f the seven member countries o f the IGAD, which was established in
+January 1986 in Djibouti with the purpose to alert the international community and members to humanitarian
+emergencies in the region. Under the auspices o f IGAD, Kenya i s playing a key role in facilitating the peace
+processes underway in the subregion, especially in Sudan and Somalia,
+
+61,
+Kenya i s actively participating in various arrangements fostering regional integration and
+cooperation, o f which the most important are the EAC and the Common Market o f Eastern and Southern
+Africa (COMESA) (see box 2). In addition to the trade agenda, the East Africa integration process i s
+progressing well in a number o f important areas such as regional environmental management projects
+
+- 19(Lake Victoria environmental management and the GEF-supported West Indian Ocean Marine Electronic
+Highway and Coastal and Marine Protection Project), infrastructure cooperation (EAC Regional Road
+Network Program, Regional Power Pool Program, and the Submarine Fiber Optic Cable Project), and
+capital markets development.
+The Bank i s supporting the trade agenda and regional integration in several ways. I t i s preparing
+62.
+a diagnostic trade integration study, focusing on the impact o f policy reforms on trade. For the EAC it
+has carried out an analysis on the likely revenue effects o f implementation o f the planned common
+external tariff. The Bank i s also planning an E A C trade and transport facilitation project. This will
+support the E A C member states and its secretariat in Arusha by providing technical assistance and
+capacity support for the new E A C customs administration and support for investment in key regional
+transport facilities (ports, roads, and the rail corridor). In addition, the Bank i s supporting environmental
+management o f the shared Lake Victoria resource, through the second phase o f the multicountry Lake
+Victoria Environmental Project (fiscal 2006).
+Matrix 2: Reducing the cost o f doing
+- business and improving the investment climate
+Financial services
+Portfolio
+FSAC
+FSLTAC
+AAA
+Financial sector assessment
+Post-FSAP capacity enhancement
+program.
+
+Pillar 1: Sustainable
+Economic Growth
+Deepen financial
+intermediation.
+
+Pillar 2: Equity and Poverty
+Reduction
+Expand access to financial
+services.
+
+Pillar 3: Improved
+Governance
+Enhancedeconomic
+governance of the banking
+sector.
+Reduced state-controlled
+banking sector.
+
+Reduce transport and
+telecom costs and
+improve reliability of
+energy.
+Improve environment
+for small and medium
+enterprise growth.
+
+Generate employment in the
+formal sector,
+
+Strengthen regulatory
+ffameworks o f energy and
+water.
+
+Infrastructural Services
+Portfolio
+Northern Corridor Transport
+Improvement.
+Energy Sector Recovery.
+Nairobi Water and Sewerage
+Institutional Restructuring.
+Nairobi and Mombasa
+WSSiWRMislum upgrading.
+AAA
+Water Resources Management
+
+Reduce costs of doing
+business.
+Enhance Kenya’s role
+as regional trade hub.
+Strengthen Kenya’s
+links to international
+markets by enhancing
+security.
+
+Link poor Western region to
+main areas o f economic activity.
+
+Strengthen institutional and
+regulatory framework to
+improve sustainability
+(maintenance)
+Improve sector management
+through private sector
+participation.
+
+Trade
+Portfolio
+Regional Trade Facilitation
+EAC Trade and Transport
+AAA
+Diagnostic trade integration study
+EAC common external tariff
+revenue implications.
+
+Strengthen regional
+links.
+
+Improve the allocation o f
+resources.
+
+Private sector investment
+Portfolio
+MSME Project(Banki1FC)
+SME Solution Center (IFC)
+
+AAA
+Growth and Competitiveness
+Investment Climate Assessment.
+
+C.
+
+Reducing vulnerability and strengthening communities
+
+63.
+The great majority o f Kenya’s poor live in rural areas, and significant reductions in poverty will
+not be possible without raising their incomes. This will require increasing agricultural productivity and
+
+- 20 competitiveness, improving environmental management, strengthening local governments, and
+implementing measures targeted at poor regions and communities.
+Increasing agricultural productivity and competitiveness
+
+The Bank i s supporting measures to increase agricultural productivity and competitiveness in
+64.
+several ways. The Bank along with other donor partners will contribute to knowledge that will add in a
+substantial way to the policy dialogue with government through an analysis o f agricultural markets and
+rural service delivery, an agricultural policy review, an analysis o f the linkages between poverty and
+agricultural growth, and studies on cotton, tea and horticulture, This process has already started with a
+stocktaking workshop, which has created a forum for researchers, policy analysts and policy makers to
+share results o f their analytical work.
+65.
+Through the Public Sector Reform Technical Assistance Project, the Bank i s supporting
+analytical work that will assist the government in defining the core functions o f government in agriculture
+and rural development, and lending that will allow the government to restructure key agricultural
+parastatals. The annual PER exercise will also assist the government to better target resources towards
+core functions o f the state. As reforms are deepened, it i s expected that budget support operations,
+including the PRSC, w i l l address the unfinished policy and institutional reform agenda, with the Bank
+playing the key role in coordinating activities o f development partners. The PRSC (fiscal 2007) will also
+provide support for the restructuring of agricultural parastatals. The major donors working in agriculture
+and rural development, including the European Union, DFID and USAID, are working together on policy
+and institutional reform and on improving mechanisms to reduce risk and vulnerability.
+Through the Agricultural Productivity Project (fiscal 2004) the Bank will support the
+66.
+transformation o f Kenya’s research and extension system to a more demand driven, farmer-led and
+pluralistic system. Recognizing that this process takes time, it i s providing the support through an
+Adaptable Program Loan that includes extensive policy and institutional reforms in addition to
+investments. The project expands on 12 years o f continued IDA and donor support to the Kenya
+Agricultural Research Institute (KARI). The regional trade facilitation project will contribute to
+agricultural productivity by increasing competition in input markets and by increasing access to export
+markets for goods in which Kenya has a comparative advantage.
+Improving environmental management
+
+67.
+The Bank i s planning analytical work during the CAS period to look at environmental
+management issues such as water resources management and coastal zone management. Alongside the
+work o f other development partners, this i s expected to help improve governance and management o f
+Kenya’s natural resource base. This work will also contribute to efforts to increase the contribution o f
+forests and other important natural resources to the economy as well as to protect the biodiversity upon
+which Kenya’s tourism industry depends. Another study will examine the relationship between economic
+growth and environmental management. The GEF component o f the Lake Victoria Environmental
+Management Project remains open until the end o f December 2004, as the three riparian countries prepare
+the second phase o f this operation which focuses on establishing institutions for the sustainable
+management o f the lake and i t s catchment area. The Western Kenya Integrated Ecosystem Management
+Project, supported by the GEF, will seek t o improve management o f soils, water, and biodiversity, while
+raising the productivity o f agriculture.
+
+Strengthening local governments
+Strengthening local government i s recognized by Kenyans as an important factor in improving
+68.
+delivery o f services. The current constitutional review process i s proposing a strengthened devolution o f
+power to local government, redefining the current dualistic system o f locally elected councils and the top
+down structures o f provincial administration and line ministries. The Bank i s assisting this process in
+several ways. I t financed jointly with DFID an assessment o f local service delivery and local
+governments in Kenya that identified the demands on local government to deliver services, and the
+technical and financial resources at their disposal to meet the demands. Analytical work scheduled for
+fiscal 2006 will examine the impact o f decentralization on the effectiveness o f public spending in
+delivering services to the poor. Technical assistance i s strengthening local authorities to effectively carry
+out their responsibilities. The proposed Public Sector Reform Technical Assistance Project (fiscal 2006)
+and the PRSC (fiscal 2007) will draw on analytical work carried out in 2000 focusing on strengthening
+legal, institutional, technical and procedural reforms at both the central and local levels. Once the legal
+structures are agreed and set in place through the new constitution, and minimal reforms are implemented,
+Bank resources will fund basic infrastructure. The Bank’s support to local government i s reinforced and
+complemented by the Bank’s community driven development (CDD) operations and i t s proposed urban
+slum upgrading pilots, which are aimed at building local institutions and strengthening communities.
+Reducing poverty in Kenya’s poorest regions and urban slums
+The Bank i s supporting rural development in Kenya’s poorest regions. Through the Arid Lands
+69.
+Resource Management Project Phase 2, the Bank i s using a multisectoral, district based, C D D approach to
+reduce poverty in the arid and semiarid districts o f Kenya. This successful approach, focusing on
+management o f natural resources and drought and on rural service delivery, i s being expanded from 11 to
+22 districts. The Bank will further support an expansion o f the C D D approach through a planned Western
+Kenya Community Driven Development operation (fiscal 2007). This will target Nyanza and Western
+provinces, areas that are especially hard hit by the MVJ’AIDS pandemic and a degrading natural resource
+base.
+Depletion of the natural resource base poses a real threat to rural livelihoods. The Western Kenya
+70.
+Integrated Ecosystem Management Project together with the Agriculture Productivity Project and the
+Western Kenya C D D Project are expected to contribute to reducing risk and vulnerability and improving
+food security.
+
+71.
+The Bank i s addressing urban poverty through several interlinked activities. I t i s supporting
+studies on youth and urban poverty, It will jointly with partners be piloting operations in slum areas o f
+Nairobi. Finally, it will strengthen institutions that deliver services in the slums through its proposed
+Public Sector Reform Technical Assistance Project, discussed above.
+
+Women are more likely than men to be poor, and, vulnerable to adverse shocks than men. All the
+72.
+Bank’s projects to reduce poverty in Kenya’s poorest regions and slums include activities to reduce
+gender inequities. For example, the Arid Lands project uses participatory techniques to ensure that
+women’s preferences are taken into account in all decisions regarding project-supported activities. The
+project i s also leading by example, by ensuring equal opportunity o f employment for project staff.
+Similarly, the Agricultural Productivity Project i s making a special effort to recruit women extension
+officers-a proven approach for reaching women farmers. A proposed IDF grant will support drafting o f
+legislation to strengthen women’s rights, and help t o strengthen the Federation o f Women Lawyers o f
+Kenya. The FLSTAC will include a component addressing women and the law t o help ensure that laws
+in Kenya do not disadvantage women.
+
+- 22 -
+
+Matrix 3: Reducingvulnerability and strengthening communities
+Agricultural competitiveness
+Portfolio
+Agricultural Productivity
+Regional Trade Facilitation
+AAA
+Agricultural growth and
+poverty impact
+Environmental management
+Portfolio
+Lake Victoria
+Energy Sector Recovery
+Nairobi-Mombasa WSSJ
+Watershed Resources
+Development and Management
+Western Kenya Integrated
+Ecosystem Management
+AAA
+Water resources management
+Environment and growth.
+Strengthen communities and
+local governments
+Portfolio
+Public Sector Management TA
+Public Sector Reform TA
+PRSC
+Arid Lands Phase 2
+Western Kenya CDD.
+AAA
+PER and decentralization
+impact
+Poverty assessment.
+
+D.
+
+P i l l a r 1: Sustainable
+Economic G r o w t h
+Improve development
+and adoption of
+agricultural technology.
+
+Pillar 2: E q u i t y and
+Poverty Reduction
+Support agricultural markets
+reforms to increase
+proportion o f end market
+value received by
+smallholders.
+
+Pillar 3: Improved
+Governance
+* Support restructuring of
+agricultural boards to
+decrease misappropriations
+
+Establish the framework
+for improved fisheries
+management.
+
+Increase development
+prospects in one o f the
+poorest regions
+
+Improve water resource
+management and regulation
+to address competing
+demands.
+
+Improve service delivery
+to poor regions and
+communities,
+
+Improve service delivery to
+poor regions and
+communities.
+Reduce regional disparities.
+Strengthen emergency
+response.
+
+Strengthen local
+government capacity,
+predictable flow o f
+resources, and downward
+and upward accountability.
+Support community-based
+decision making and local
+accountability structures.
+
+Investing in people
+
+U n d e r s t a ~ d poverty
+~n~
+
+Understanding o f the dynamics, depth, and distribution o f poverty in Kenya i s limited. The Bank
+73.
+and development partners are now supporting the government in significantly deepening the knowledge
+of poverty. The Bank supported the Strategic Gender Assessment, launched in fiscal 2004, that reveals
+the high poverty and vulnerability of many Kenyan women and describes the discrimination that girls and
+women face in gaining access to health and education services, and ultimately to employment
+opportunities. The Bank and partners are supporting the Central Bureau o f Statistics in producing poverty
+maps. The f i r s t volume was completed in fiscal 2004 and the second volume i s planned for fiscal 2005.
+The Bank i s also assisting the Central Bureau o f Statistics to conduct an integrated household budget
+survey. This w i l l provide the baseline data that will enable the government to monitor the impact o f i t s
+policies and programs on poverty. During fiscal 2005, the Bank plans to support analytical work to better
+understand the relationship between agricultural productivity and poverty reduction. The Bank plans to
+carry out a poverty and social impact analysis (PSIA) o n various groups o f potential changes in maize
+prices arising from trade and marketing reforms. This complements PSIA work being carried out jointly
+by the IMF and DFID to assess the impact o f greater regional integration arising from the establishment
+of the E A C customs union. These studies are expected to identify the intended and unintended
+consequences o f policy interventions before, during, and after implementation on the well-being o f
+various social groups and to include measures to mitigate them. During fiscal 2006, the Bank w i l l draw
+
+-23
+
+-
+
+on the results o f the integrated household budget survey to undertake a comprehensive poverty analysis
+that will be used to guide future Bank assistance to Kenya.
+
+Health
+Another high priority reflected in the IP-ERS i s health sector reform with the objective o f
+74.
+significantly improving health outcomes, especially o f the poor. The Bank considers gains in human
+health crucial elements o f a comprehensive approach to poverty reduction and i s supporting the
+government’s strategy through analytical work, capacity building, and targeted interventions. Analytical
+work i s focusing on a pharmaceutical sector review (fiscal 2005), and on a comprehensive health sector
+public expenditure review. Ongoing projects include the Decentralized AIDS and Reproductive Health
+Project. This seeks to improve mother and child health through more integrated delivery o f child
+survival, reproductive health, and HIVIAIDS services. This project i s also helping to increase the
+efficiency o f the government in delivering these services, including through decentralization o f service
+delivery. This operation i s preparing the ground for the Bank’s support to the health sector through a
+SWAP in fiscal 2006 that will be developed in partnership with all major stakeholders in the sector. This
+will be based on an agreed health sector strategy, a medium-term expenditure program, and include
+annual expenditure reviews, and a joint M&E framework. The elaboration o f a new national health
+strategy has recently started. While the credits for the sector will provide flexible, programmatic support
+for annual work plans agreed at annual joint reviews, IDA funds are expected to support primarily the
+ministry’s decentralization program and the reform o f the medical supplies subsector. A successful
+SWAP will establish the foundation, through capacity building and institutional strengthening, for
+possible future support to the sector through a PRSC in fiscal 2007. A large number o f bilateral and
+multilateral donors, organized in the donor coordination group on health and HIVIAIDS, share the vision
+o f jointly supporting the government’s health strategy and MTEF, either through parallel or cofinancing
+mechanisms, and are harmonizing their procedures to achieve this.
+
+HIV/AIDS
+Government action i s starting to prove effective in the fight against HIVIAIDS. The HIVIAIDS
+75.
+prevalence rate among women attending prenatal clinics fell from a peak o f 10.2 percent in 2002
+(corrected estimate) to 9.4 percent in 2003. The IP-ERS recognizes that building on this success i s
+critical for both economic growth and human development in Kenya. A priority now i s t o prevent new
+infections among the particularly vulnerable groups: the youth, women, and the poor. Caring for Kenya’s
+nearly one million AIDS orphans poses a major challenge, Although many organizations are supporting
+orphans and vulnerable children, a mechanism i s needed to coordinate the multiple initiatives. Another
+challenge i s monitoring and evaluating HnrIAIDS prevalence and i t s impact. While the sentinel
+surveillance system in Kenya functions well, other aspects o f the HIV epidemic and its impact on the
+macroeconomy, the private sector, and households are captured with far less accuracy and frequency.
+76.
+The Bank i s vigorously supporting the government’s program. Kenya was the first country to
+access funds under the Africa Region’s Multi-Country AIDS Program (MAP). The project serves as the
+model for many subsequent MAPS. The Bank supports the National AIDS Control Council and i t s
+provincial, district, and local-level bodies and line ministries in the mainstreaming o f HIVIAIDS-related
+activities. I t also supports initiatives o f civil society, the private sector, and research organizations. By
+December 2003, the Bank had supported some 1,400 community-level initiatives, which has opened
+many new channels for preventing the spread o f the disease. While the ongoing M A P project has
+achieved much in terms o f social mobilization, enormous challenges remain for the follow-on M A P 2
+project (fiscal 2006). Consistent with the IP-ERS, this new project will continue its focus on prevention,
+while also supporting new initiatives t o reach the vulnerable groups and to increase access to
+comprehensive care and treatment by those already infected. The Bank jointly with other partners i s also
+
+- 24 developing a strategy to ensure that orphans receive the care and schooling that they need to reduce their
+vulnerability and flourish as adults. The IFC w i l l contribute to efforts through its IFC Against AIDS
+program that provides private f i r m s practical guidance on a range o f options for designing and
+implementing education, prevention, and care programs for employees and their communities.
+Education
+
+Education, particularly primary education, i s a top priority o f the government. The Bank i s
+supporting the government’s strategy through recently completed analytical work on primary and
+secondary education, through support to the ministerial PER, and through i t s ongoing Early Childhood
+Development Project and the new Free Primary Education Project (US$50 million grant). I t will in the
+future take an increasingly programmatic approach to the sector. The Bank’s strategy will also focus on
+issues o f sector financing, governance, decentralization and more efficient service delivery, and include
+the close monitoring o f progress towards selected targets.
+
+77.
+
+78.
+Financial support will focus initially on the primary and secondary levels, with support for
+technicallvocational and higher education awaiting further analytical work. Capacity will be strengthened
+through activities o f the World Bank Institute and a proposed IDF grant t o provide support for improved
+sectoral planning and budgeting activities. Sectonvide support through a SWAP i s planned for fiscal
+2006. This will lay the groundwork for future support to the sector through a PRSC by strengthening
+monitoring and evaluation, financial management, and the planning and allocation o f expenditures. The
+evolution in the sector will also require expanded, more detailed sectoral expenditure reviews, as
+alignment o f expenditures with the strategy will be a key determinant o f partner support for the sector.
+Matrix 4:
+
+Investing in
+
+:ople
+Pillar 1: Sustainable
+Economic Growth
+
+Enhance procurement
+systems,
+
+Reduce death and
+disability.
+
+Reduce losses o f income and
+assets due sickness and
+death.
+
+Maintain coordinated and
+nonpoliticized
+administration of
+HIV/AIDS programs.
+
+Improve educational
+attainment,
+
+Increase access to education
+for the poor.
+Decrease regional disparities
+in educational attainment.
+
+Strengthen reporting
+mechanisms.
+
+Improve access to health
+services.
+
+HIVlAIDS
+
+Portfolio
+MAP
+e Decentralized Reproductive
+Health and HIViAIDS
+MAP2
+AAA
+PER
+Youth development
+
+Education
+
+Portfolio
+Free Primary Education
+Early Childhood Development
+Education SWAP
+
+e
+
+Pillar 3: Improved
+Governance
+
+Increase access to basic
+health services, especially
+targeted to the poor.
+Reduce out-of-pocket
+expenditures by the poor.
+
+Health
+
+Portfolio
+Health SWAP
+DecentralizedReproductive
+Health and AIDS Project
+PRSC
+AAA
+PER
+Pharmaceutical study.
+
+Pillar 2: Equity and
+Poverty Reduction
+
+AAA
+
+PER
+Youth development
+Education sector review.
+
+The Bank i s playing a key role in coordinating partner activities in response to the government’s
+79.
+request. The Ministry o f Education, Science and Technology has already reinvigorated the system o f
+
+- 25 coordination with external partners, and i s convening regular meetings with development partners to
+consider priorities and possibilities for harmonization, and to review options for the design o f the planned
+SWAp. The governments o f Canada, Japan, Germany (through Kreditanstalt fur Wiederaufbau, KW),
+Sweden, United Kingdom, the United States, UNICEF, UNESCO, the European Commission and the
+African Development Bank have all been represented in the donor discussions. It i s also hoped that
+Kenya may qualify for inclusion in the education for all fast track initiative as that program i s expanded
+and mainstreamed.
+
+E.
+
+Lending scenarios
+
+Base case lending scenario. Because the new government took charge o f the development
+80.
+agenda and moved quickly to make key reforms in policy and governance, Kenya has moved from a low
+to a base case lending scenario. Significant improvements in portfolio implementation together with
+tighter financial management, procurement and audit procedures delivered a higher level o f confidence in
+the country’s ability to implement i t s portfolio successfully. The base case lending program o f about
+US$870 million (fiscal 2004-07) assumes continued sound macroeconomic performance and timely
+implementation of the IP-ERS. Under this scenario, IDA would support operations in key sectors
+identified in the IP-ERS, presenting four or five projects a year to the Board (excluding regional projects),
+with an emphasis in the first two years o f the program on support for technical assistance and capacity
+building. The exception to this would be the two major infrastructure investment programs (Northern
+Corridor and Energy Sector Recovery) where the need i s urgent, and where the Bank considers the key
+institutional and regulatory prerequisites for project success to be in place.
+
+8 1.
+High case lending scenario, The high case would be triggered by (a) significant progress in
+reallocating public expenditures towards core poverty programs and in public sector financial
+management, (b) establishment o f appropriate regulatory frameworks for infrastructural services, (c)
+reduced state control o f the banking sector, (d) increased access o f the poor to basic health services, and
+(e) sustained improvement in the lending portfolio. Under this scenario, support for the education SWAP
+would be doubled, from US$50 million to US$lOO million, and support for the health sector through a
+SWAP would rise from US$30 million to US$SO million. Sound institutional and policy reform and
+implementation performance in infrastructure would lead t o a near doubling o f support for water and
+sanitation services and slum upgrading in Nairobi and Mombasa from US$30 million to US$50 million.
+A lending total o f up to US$l.1 billion i s envisaged under this scenario.
+82.
+Low case lending scenario. A low case scenario would be triggered by poor macroeconomic
+performance, failure to follow through with implementation o f key policy reforms underpinning IP-ERS
+goals, or poor implementation o f Bank-supported projects or programs. Under this scenario, the Bank
+would provide funds at a significantly reduced level in support o f operations in the social sectors or to
+reduce poverty among vulnerable groups. A lending total o f no more than US$365 million i s envisaged
+under this l o w case scenario.
+IDA grant allocation. In accordance with the IDA 13 implementation guidelines, Kenya will
+83.
+receive a portion o f i t s future IDA allocation in the form o f grants. The total fiscal 2004 grant allocation
+o f US$30.7 million has been allocated to finance the Global Development Learning Network Project
+(US$2.7 million), the Nairobi Water and Sewerage Institutional Restructuring Project (US$15 million),
+and the Agriculture Productivity Project (US$13 million). For subsequent years, the IDA grant allocation
+will be distributed in conformity with the IDA grant allocation guidelines, focusing on programs that
+target poverty such as the Education SWAp.
+
+~
+~~
+
+~
+
+- 26 -
+
+Table 3: Proposed lending scenarios, fiscal years 2004-07 (US$ millions)
+Operation
+
+Base Case
+
+FY04
+Northern Corridor Transport
+Water Services-Nairobi
+Agriculture Productivity
+Global Development Learning Network Learning
+FY05
+Financial and Legal Sector Technical Assistance
+Energy Sector Recovery
+Statistical Capacity Building
+Programmatic Structural Adjustment Credit (PSAC)
+FY06
+Financial Sector Adjustment Credit
+Education SWAP
+Health SWAP
+MAP
+Public Sector Reform Technical Assistance (Private
+Sector DevelopmentlLocal Government)
+FY07
+PRSC (PSDILocal Govt, possibly Health)
+Western Kenya CDDNulnerability
+Water ~ S S ~ R M ) / S l uUpgrading
+m
+
+Joint IFClPSD Initiative
+MSME Project(FY05)
+Regional Projects
+EAC Trade and Transport (FY06)
+Lake Victoria (FY06)
+Total FYO4-FYO7:
+
+F.
+
+High Case
+
+Of which
+Low Case IDA Grants'
+
+207.0
+15.0
+40.0
+2.7
+264.7
+
+207.0
+15.0
+40.0
+2.7
+264.7
+
+20.0
+75.0
+20.0
+75.0
+190.0
+
+20.0
+75.0
+20.0
+75.0
+190.0
+
+115.0
+
+65.0
+50.0
+30.0
+20.0
+
+100.0
+100.0
+80.0
+20.0
+
+50.0
+30.0
+20.0
+
+40.0
+205.0
+
+40.0
+340.0
+
+40.0
+140.0
+
+0
+
+100.0
+45.0
+30.0
+175.0
+
+200.0
+45.0
+50.0
+295.0
+
+45.0
+30.0
+75.0
+
+0
+
+20.0
+
+20.0
+
+20.0
+
+5.0
+10.0
+869.7
+
+5.0
+10.0
+1124.7
+
+5.0
+10.0
+365
+
+15.
+13.
+2.
+30,
+
+20.0
+75.0
+20.0
+0,
+
+30
+
+Lending triggers
+
+The triggers for the base and high case lending scenarios cover some of the major areas o f the IP84.
+ERS that the joint staff assessment highlighted as needing to be improved in annual progress reports.
+They also address elements o f Kenya's country policy and institutional assessment rating that could be
+improved. The Bank would move to a low case scenario if the basic triggers for remaining in the base
+case scenario are not sustained. Rather than constituting a checklist, the following triggers are indicative
+o f broader areas of reform and w i l l serve as a basis for judging appropriate lending levels.
+
+IDA Grant allocation beyond FY05 will be decided under IDA 14.
+
+-27-
+
+Public sector
+management
+
+I
+
+Capacity for budget execution and service
+delivery expanded (increased number of
+satisfactory ratings of the Public
+Expenditure Management Assessment and
+Action Plan).
+Macroeconomicframework satisfactory
+with progress in increasing public
+investment as share of total spending.
+(based on staff assessment).
+
+Quality o f public spending improved
+(budget allocated for core poverty
+programs increased).
+Accountability in use of public resources
+improved (implementation o f enhanced
+public sector financial management plan).
+
+Reducing the cost of doing business and improving investment climate
+Infrastructure
+
+Lowered cost o f transportation (cost o f
+transoortine a ton o f freight from
+Mombasa to Nairobi falls).
+
+Appropriate and institutional regulatory
+framework for kev infrastructureservices
+established (regulatory frameworks
+conducive to private sector participation
+in water, energy, transport and telecoms).
+
+Financial sector
+
+Financial intermediationdeepened
+(domestic credit to private sector
+increased from current level of private
+
+State control in banking sector reduced
+(state controlled share in the banking
+sector falls below current level of 20%.).
+
+Education and health
+
+Free primary education program
+satisfactorily implemented (primary
+school net enrolment rates increase from
+70 percent).
+
+Access to basic health services
+specifically targeted to the poor increased
+(PER reflects increased spending on
+programs benefiting the poor).
+
+G.
+
+Nonlending programs
+
+85.
+Nonlending activities. The proposed nonlending work program i s designed to: (a) support
+efficient public allocation o f funds to priority development areas, (b) expand on the analytical work
+already initiated in fiscal 2003 on poverty analysis, particularly in the rural sector; (c) expand on the
+findings o f the C E M to better understand the sources o f growth and competitiveness, (d) better understand
+barriers to trade, (e) support growth in agricultural and livestock production, and (g) deepen knowledge o f
+labor markets. In preparation for an eventual PRSC, core diagnostic economic and sector work has
+already been carried out, or i s planned for the near term, including a C F A A conducted in fiscal 200 1, the
+C E M completed in fiscal 2003, and annual PERs. A CPAR and updated CFAA will be carried out in
+fiscal 2005, as will a poverty analysis. The Kenya country team i s significantly increasing i t s output o f
+economic and sector work to inform both policy and public dialogue on key development issues.
+However, lack o f data i s a constraint. T o address this, it i s pursuing a two-track approach: (a) investing in
+national statistical capacity through the StatCap project (fiscal 2005) to develop a basis for core poverty
+
+-28diagnostics; and (b) working with local and international researchers who are actively collecting and
+analyzing data from surveys carried out by universities and research institutes.
+
+Table 5: Nonlending work program, fiscal 2004-07
+FY04
+
+FY05
+
+FY06
+
+FY07
+
+4. IMPLEMENTING THE CAS
+A.
+
+Progress under the last CAS
+
+86.
+The September 1998 CAS was predicated on a low case scenario for Kenya that had been brought
+about by a history o f failure in the implementation o f structural reforms and a large and growing concern
+with governance issues.’ The principal focus o f that CAS was economic governance, and reforms were to
+take place in the following broad areas: (a) public sector restructuring; (b) public expenditure
+management reform; and (c) strengthening o f accountability mechanisms. The responsibility o f designing
+the reform program was left to the government with relatively little assistance from the Bank. Broadbased participation was seen to be the key to foster ownership and commitment, which would be
+reinforced through closer collaboration among all development partners. The 1998 CAS triggers that
+would allow Kenya to move from the low case to the base case scenario were closely tied to progress in
+improving economic governance. Until such triggers would be met, little new lendingwould be
+provided.
+Government reacted to the 1998 CAS triggers by embarking on the reforms required to gain
+87.
+access to enhanced funding. These included reducing the number o f ministries from 27 to 15,
+streamlining the budget process and introducing the MTEF, and strengthening accountability institutions.
+These efforts were underpinned by the appointment o f a team o f senior civil servants-including the head
+o f civil service, the permanent secretary, and financial secretary in the Ministry o f Finance-who were
+charged with implementing the reform program. Based on Kenya’s performance in implementing the
+reform program, the Bank’s Board approved in 2000 the EPSRC for US$l50 million, followed by the
+Emergency Power Credit for US$72 million, two healtWHIVlAIDS projects for a combined amount o f
+US$lOO million, and a Regional Trade Facilitation Credit for US$25 million. Although the EPSRC’s first
+tranche o f ~ $ 5 million
+0
+was disbursed, the former government’s failure to implement policy reforms
+that were agreed conditions to the credit-notably, anti-corruption legislation-delayed the release o f the
+second tranche.
+
+This section draws heavily on the Country Assistance Evaluation o f the 1998 Kenya CAS produced by
+the Operations Evaluation Department.
+5
+
+- 29 Box 3: The Bank’s knowledge strategy in Kenya
+A key feature of the Bank‘s strategy in Kenya i s using the lending program to build understanding o f what
+strategies work best for reducing poverty; in particular via monitoring and evaluationtechniques. The Arid Lands
+Resource Management Project regularly collects data on the livelihoods and well being of pastoralist families and
+information on the financial sustainability of pastoralist associations that are organizing services. The lessons
+learned from this project will help inform a proposed community driven development program in the western
+regions of Kenya. The Bank i s also working closely with a team of academic researchers who are undertaking a
+rigorous randomized evaluationof NGO programs in Busia, western Kenya. The team has already demonstrated
+the cost effectiveness of deworming medicine as a means of improving school attendance. This will be included
+as a component o f the education SWAP. Work i s underway also to test the impact o f girls scholarships, early
+child nutrition programs and AIDS awareness programs that hold promise for scale up. More generally the Bank
+i s trying to establish much stronger l i n k s with and between local and intemational researchers, data authorities
+and policymakers. Under the Poverty Analysis and Data Initiative (PADI), the Bank has been promoting policyoriented quantitative research, intended to build capacity for poverty analysis that will feed into the evaluation o f
+the PRSPs of member countries. The Bank also supports the African Economic Research Consortium (AERC), a
+not-for-profit organization devoted to advanced policy research and training. The principal objective i s to
+strengthen local capacity for conducting independent, rigorous inquiry into problems pertinent to the management
+of economies in sub-Saharan Africa.
+World Bank Institute (WBI) activities are fully integrated in the CAS. During the CAS period particular areas o f
+focus include capacity building (a) o f government through training and through mainstreaming o f the rapid results
+approach, (b) in the financial sector following the recommendations of the Financial Sector Assessment Program
+(FSAP), (c) of the private sector on corporate governance and business ethics; and (d) of the public sector,
+strengthening program costing, supporting stakeholder participationin the review process, and strengthening
+parliamentary oversight of budget formulation and execution. WBI i s also strengthening the capacity of the
+media to contribute to the economic Dolicv debate in Kenya.
+
+The new government broke the impasse o f Kenya’s relations with the Bank and other donors.
+88.
+Motivated by its promises for a bold anti-corruption stand, it quickly initiated a program to fight
+corruption. These included all the conditions necessary for release o f the second tranche o f the EPSRC
+(US$50 million), and for meeting the 1998 CAS triggers for moving from a l o w t o a base case scenario.
+As a result, the Bank disbursed the second tranche o f the credit. I t also moved ahead with two new
+poverty targeted operations, both o f which were approved by the Board on June 19,2003. These were the
+Arid Lands Resource Management Project Phase 2 for US$60 million to support community-driven
+development in Kenya’s poor northeastern region, and the Free Primary Education Project for US$50
+million (grant), in support of the new government’s free primary education policy. The IFC portfolio has
+declined from a high of US$120 million to a US$110 million. With the general decline in investment
+flows, new IFC financing also declined. IFC did finance the competitively bid Tsavo power, the first
+project-financed independent power producer in East Africa. IFC also supported the growth o f the export
+horticulture sector, promoted the emergence o f commercial microfinance institutions, financed new
+aircraft for the successfully privatized Kenya Airways, and initiated the privatization o f Kenya Railways.
+B.
+
+Improving portfolio implementation
+
+89.
+The current Kenya portfolio comprises 11 investment projects for a total commitment o f US$532
+million, with an undisbursed balance o f US$235 million. The l o w number o f projects i s the result o f
+Kenya being in the l o w case for the past seven years. Seven o f these projects (64 percent o f the portfolio)
+will close within the next 18 months. Thus, the proposed lending program represents a new generation o f
+projects, which are being designed on the basis of lessons o f the past, and provide a unique opportunity to
+align our program with the government’s IP-ERS.
+
+- 30 90.
+A recurrent theme o f OED evaluations has been that development impact and sustainability o f
+Bank projects in Kenya i s l o w because key policy changes that were agreed as part o f the project were not
+implemented. Moreover, the financial sustainability o f projects was impeded either because reforms to
+ensure the financial viability were not undertaken or the project did not receive the necessary and timely
+budgetary allocations and expenditure releases! However, we have seen a definite trend by Government
+to improve portfolio performance over the last three years. Specific actions include improving flow o f
+donor funds in special accounts by bringing these accounts onshore and, more specifically, under the
+control o f the project implementing entities; improving efficiency in payment processing, and enhancing
+joint government Bank portfolio monitoring. As a result o f these initiatives, the disbursement ratio
+increased from 12 percent in fiscal 1998 to 24 percent in fiscal 2003. The share o f problem projects
+decreased from 43 percent in fiscal 1998 to 27 percent in fiscal 2004, while the share o f projects at risk
+declined from 79 percent in fiscal 1998 to 45 percent in fiscal 2004, Action plans have been developed
+for the five projects at risk, three o f which will close by the end o f fiscal 2004.
+More recently, the government demonstrated its commitment to improving portfolio performance
+9 1.
+during the CPPR that was held in January 2004-the first CPPR to be held since 1997. The CPPR
+reached agreement on several key issues, including using private auditors, strengthening project
+management units through competitive selection for civil servant project coordinators, allowing funds to
+flow directly from Treasury to projects, and establishing a mechanism for the direct involvement o f high
+level officials within line ministries overseeing project implementation in order to ensure accountability.
+The CPPR action plan that was developed will be monitored by the CPPR committee who will report on a
+quarterly basis to government permanent secretaries.
+92.
+Thus, during the CAS period, the strategic thrust o f portfolio improvement will include: (a) risk
+mitigation, especially with respect to high risk, high impact operations and cross-cutting systemic risks;
+(b) satisfactory implementation o f the CPPR agreed actions, focusing on results and impact; and (c)
+continuous improvement o f OED ratings by focusing attention on operations reaching maturity that will
+be completed during the CAS period to ensure that results are achieved and mechanisms are in place to
+ensure sustainability. CPPRs will be held annually to strengthen the linkages o f the ongoing portfolio
+with the country program, with particular emphasis on M&E to ensure an improved and sustained level o f
+portfolio performance.
+
+C.
+
+Partnerships
+
+Partnerships between the Bank and official multilateral and bilateral development agencies are
+93 *
+excellent in Kenya. The Bank Group’s working relations with other donors i s referred to in the
+presentation o f the CAS lending program above. Importantly, the Bank Group’s collaboration with the
+two next largest donors after itself-the EU and DFID-has been evolving into several cofinancing and
+other collaborative undertakings. Relations with other donor agencies are also excellent. The Bank
+chairs the Donor Coordination Group for Kenya, which i s the main forum for the dialogue on donor
+harmonization, alignment, and coordination. Kenya i s a signatory o f the Rome agreement on donor
+harmonization, and the Bank i s taking a lead role in improving coordination at both the general and
+sectoral level. The Bank organized and co-chaired with the government the Consultative Group meeting
+held in Nairobi, November 24-25,2003. One o f the four major themes o f the meeting was donor
+coordination against a background of many years under the previous government when the ability to
+coordinate was undermined by the reduction or withdrawal o f many donor programs. The government
+agreed to convene meetings with the donors every two months, to discuss and reach agreement on
+A meeting o f the Informal Subcommittee o f the Committee on Development Effectiveness was held on
+December 8,2003 to discuss the 2001 Country Assistance Evaluation prepared by OED, and a note on recent
+developments.
+
+-31 coordinated interventions in support o f the implementation o f the IP-ERS. Following the recent meeting
+o f the Strategic Partnership for Africa partners committed themselves to implement the harmonization
+agenda.
+
+IP-IP-ERS Area
+
+Multilaterals
+
+Bilaterals
+
+World Bank, IMF, EC
+World Bank, IMF
+World Bank, EC, AfDB, Arab Bank for
+Economic Developmentin Africa, UN
+World Bank, EC, IMF
+World Bank, IFC, EC, UN
+World Bank, IFC, EC, Organizationof
+PetroleumExporting Countries, AfDB
+World Bank, IFC
+World Bank, UN, African Development
+Bank
+
+DFID, Germany, Netherlands, Sweden
+DFID, France, AfDB
+Denmark, France, Italy, Japan, Germany,
+Netherlands, Norway, DFID, U S
+DFID
+Finland, France, Germany, Spain, Japan
+China, France, Japan, Germany, Sweden,
+Denmark
+Netherlands, DFID, US
+Austria, Denmark, France, Germany, Italy,
+Japan, Sweden (also representing DFID),
+Saudi Fund for Development
+
+Equity and poverty reduction
+Agriculture and rural development
+
+World Bank, UN, EC
+
+Education
+
+World Bank, Organization of Petroleum
+
+Belgium, Canada, Denmark, France,
+Germany, Japan, Sweden, DFID, US
+Austria, Canada, Germany, Japan, Saudi
+
+Health and population
+
+World Bank, UN
+UN
+woirld Bank,. EC,, UN
+
+HIViAIDS
+
+WOlrld Bank, EC, UN
+
+Forestry
+
+World Bank, UN, EC
+
+Water resources management
+
+World Bank, AfDB, UN
+
+Environment
+
+World Bank, EC, UN
+
+Housing
+Rural energy
+
+UN
+
+Public service reform
+
+World Bank, EC, IMF, UN
+
+Public expenditure review
+Anti-corruption, legal sector reform
+
+World Bank, UN, EC, IMF
+World Bank, EC, IMF, UN
+
+Economic management and policy
+Financial sector reforms
+Private sector development
+Trade policy reform
+Energy
+Roads
+Air transport
+Water supply and sanitation
+
+D.
+
+I
+I
+
+DFID, Germany, US, Finland, Sweden
+France, Japan
+Belgium. Denmark, Germany. Italv. Jauan.
+.
+Sweden,’DFID, US
+Canada, France, Germany,
+- Italy,
+. Japan,
+DFID, US, Sweden
+Austria, Finland, Germany, Japan, Sweden,
+Belgium, Norway, DFID
+Belgium, Denmark, France, Germany,
+Japan, Netherlands, Sweden, DFID, US
+Belgium, Denmark, France, Italy, Japan,
+DFID
+Germany
+France, Finland, Spain
+_,
+
+_ ,
+
+,
+
+I
+
+Denmark, Finland, Italy, Netherlands,
+Sweden, US
+Germany, Sweden, DFID, US
+Austria, Canada, Denmark, Germany, Italy,
+Netherlands, Sweden, DFID, U S
+
+Risks and constraints
+
+The decision to quickly scale up Bank Group assistance to Kenya carries risks, and it i s
+developing specific measures to guard against these. Specific risks include:
+94.
+
+Political economy. A particular concern i s that the required consensus to move forward with
+95.
+politically difficult reforms will be difficult to reach. Another potential risk i s o f “capture” o f key policy
+areas by interest and pressure groups. Critical reforms o f government and parastatal institutions can be ‘
+delayed or entirely derailed by those with a stake in the status quo. Trade policy reforms could be
+blocked by protectionist interests. The Bank Group will address these risks by improving and expanding
+i t s efforts at communications, emphasizing the costs o f continuing with the economic status quo, the Iong-
+
+- 32 term benefits o f reforms, the benefits to the poor o f a more equitable pattern o f public expenditure, and
+opportunities for accelerating growth through greater private sector involvement in infrastructure. Better
+dissemination o f E S W will be an important vehicle o f this enhanced communications effort, but it will
+also involve proactive efforts, with assistance from the Africa Region External Affairs and Partnerships
+Group and from WBI to reach out to parliamentarians, the private sector, civil society, academics and o f
+course the media. T o the extent feasible this effort will be undertaken in collaboration with other donors.
+
+96.
+Capacig. There i s an urgent need to rebuild Kenya’s institutional capacity, and failure to do so
+constitutes a major area o f risk. Kenya i s a paradox in that it has a large number o f highly trained and
+experienced civil servants, yet its institutions remain weak following years o f mismanagement and poor
+incentives for performance. In addition, the fragmentation o f decision making and lack o f
+communication between government ministries and departments can lead to considerable delays in policy
+formulation and program implementation. The Global Development Learning Network Learning and
+Innovation Loan i s helping t o develop mechanisms o f communication among policy makers. With
+assistance from WBI, and through projects, training, and analysis support will be provided to build both
+human and institutional capacity. The Bank’s dialogue will emphasize support for strengthened interministerial coordination in the PER and MTEF process, encouraging stronger planning o f finance
+functions, and the need for strong collaboration in the process o f implementing sectoral operations
+derived from the IP-ERS as an incentive for promoting ample and coordinated donor support.
+
+97.
+
+Governance. Any failure to change past patterns o f corruption and “capture” o f the state
+apparatus by entrenched and powerful interests would derail the development process and diminish
+Kenya’s external credibility. In addition, an inherited culture o f poor governance and o f top down micro
+management on the part o f senior officials could lead to poor execution o f agreed policies, To counter
+this risk, the Bank will strive to strengthen government fiduciary safeguards and practices. The Bank will
+follow through on actions identified in the course o f the C F A A and CPAR work to be carried out in fiscal
+2005, focusing on the installation o f institutional safeguards against abuse, but also on building the
+capacity (making use of the PSAC scheduled for fiscal 2005) to ensure that basic fiduciary measures are
+carried out. The Bank will ensure that anti-corruption safeguards are incorporated within Bank-supported
+projects during the preparation phase, and the Department o f Institutional Integrity will be involved as
+part o f project teams during their initial phases. Monitoring and evaluation will be a feature o f the Bank’s
+program both at the general level, and at the level o f individual Bank-supported operations. The Bank has
+supported the development o f a result-based and monitorable framework for the IP-ERS, from which the
+CAS’S own result-based framework i s drawn. In addition, all efforts will be made to incorporate
+widespread public understanding of, and participation in, the monitoring and evaluation o f results within
+the frameworks o f both the IP-ERS and this CAS, as agreed during CAS consultation with civil society
+and the private sector.
+
+98.
+External factors. Terms o f trade shifts, particularly coffee and tea, continue t o affect rural
+incomes and Kenya’s balance o f trade. International terrorism has seriously hampered recovery o f
+tourism, and international perceptions could continue to hamper both tourism and investment. The
+weather, particularly the altemating cycles o f floods and drought, continue to affect agricultural
+production. Market integration poses fiscal risks and puts additional pressure on firms in previously
+protected industries. Nonrenewal o f the AGOA, which has underpinned the expansion o f exports and
+related employment in the Kenyan garment industry, also poses a risk to the viability o f the garment
+sector in Kenya. Although AGOA will not expire until 2008, at the end o f 2004 countries will have to
+use US or African cloth to qualify for preferences under AGOA. T o address these risks, the Bank will
+complement the efforts o f other donors focusing on security issues by investing in improvements to the
+airport and port o f Mombasa that include security upgrades in line with international standards. In order
+to offset revenue declines associated with trade and commodity-related shocks, the Bank would plan for
+
+-33
+
+-
+
+fast disbursing budget support along with other donors, and it will support infrastructure improvements
+that help to lower the domestic costs o f production.
+
+E.
+
+CAS monitoring and evaluation.
+
+99.
+Monitoring the Bank’s effectiveness will take place both at the project level and at the level o f the
+overall assistance program. The core CAS benchmarks are derived from IP-ERS targets. These
+benchmarks reflect the selective areas o f Bank involvement under the CAS, cover the key challenges that
+Kenya must address and for which the Bank i s best placed to assist, and are achievable within the CAS
+timeframe. At the midpoint of the CAS period, the Bank will review the indicators and targets to assess
+progress in implementing the assistance program, and adjust the Bank’s strategy as necessary,
+
+James D. Wolfensohn
+By:
+Shengman Zhang
+Washington, DC
+May 19,2004
+
+Peter L. Woicke
+
+I
+
+.-E
+
+I
+I
+
+8
+
+h
+
+V
+
+a
+
+.c
+
+U
+
+?
+
+a
+
+e
+
+W
+
+.
+
+I
+
+..
+
+cn
+m
+
+.
+
+e
+
+t-
+
+m
+
+>I
+
+00
+
+m
+
+1
+
+-r-
+
+.
+
+G
+
+i.
+i
+Z
+
+f
+
+i
+i
+
+C
+i
+
+i
+
+i
+
+5
+
+;
+
+.
+
+6
+
+i
+I
+P
+
+b
+
+. .
+
+.
+
+v1
+
+0
+
+U
+
+3
+
+5
+
+C
+
+3
+
+tM
+e
+PI
+v)
+
+0
+
+d
+
+9
+
+e
+
+e
+
+e
+
+e
+
+e
+
+e
+
+- 9 5
+
+e
+
+e
+
+0
+
+e
+
+e
+
+N
+d
+
+/d
+e
+
+e
+
+e
+
+m
+
+d
+
+e
+
+e
+I
+
+e
+
+e
+
+9.
+
+e
+
+e
+
+I
+
+*
+
+*
+
+C
+
+E
+L
+
+i
+
+s
+
+I
+
+c
+c
+
+I
+i
+
+L
+
+!
+
+t
+
+I
+
+i;
+
+3
+i
+
+P
+
+k
+
+-+--
+
+!
+I
+
+ANNEX 2
+REPUBLIC OF KENYA
+CAS CONSULTATIONS
+The World Bank’s program in Kenya has historically been highly consultative. The previous CAS
+(1998) involved extensive consultations with civil society, and the Bank also closely followed the
+participatory process organized by the government around the formulation o f the PRSP in 2001-2002.
+The Bank has a full-time Social Development Specialist at i t s Nairobi office, who liaises regularly
+with civil society. Virtually all projects that have been prepared over recent years, including the
+current pipeline, have undertaken significant consultations with beneficiaries, stakeholders and
+government. As a consequence, overall relations and communications with NGOs and communities
+are very good. The previous CAS consultations were carried out in a context where political will to
+implement reforms was limited. For the present CAS, the Bank has sought to build upon the existing
+good level o f communication with NGOs, while extending the dialogue to the private sector and the
+new parliament. Importantly, the Bank has sought to build a high degree o f dialogue, understanding
+and ownership around the CAS with the government at both the technical and higher levels.
+Discussions with all these different groups took place at the following occasions, and focused on the
+following issues:
+Government. The Bank launched i t s discussions with government at the technical level with a WBIfacilitated workshop in Nairobi, January 15-16,2004. This focused on the applications o f “Rapid
+Results” methodology to help prioritize and operationalize the IP-ERS, followed by discussion o f the
+objectives o f the Bank’s CAS and how its own results matrix aligned with the IP-ERS. This
+workshop, which was organized by the Ministry o f Planning, involved 150 different government
+officials representing all line ministries with a stake in development operations, and included the
+active participation of several Permanent Secretaries as well as representatives o f donor organizations.
+The workshop succeeded in developing a much more highly prioritized IP-ERS that i s linked to the
+national budget, and which has been used as the basis for finalization o f the IP-ERS. It also
+introduced this core group of mid-level technical officials from within government to the CAS and
+how i t s results orientation connects to their own strategy document.
+
+The CPPR held January 26,2004 also constituted a part o f the Bank’s outreach t o government on the
+CAS, In this event, attended by several ministers and permanent secretaries, the Bank discussed in
+detail with the representatives o f key line ministries problems with implementation o f the portfolio,
+and the Bank communicated the importance o f implementation in ensuring continued access to IDA
+funding. The rich discussion led to agreement on an action plan for improving implementation and
+assignment o f accountabilities within government for seeing the plan through.
+On January 20,2004, the Bank organized a meeting with several key ministers and permanent
+secretaries to review the CAS, in particular the lending program and triggers as well as specific results
+to be achieved in support of IP-ERS goals. At this time, the Bank also presented the country policy
+and institutional assessment ratings for Kenya, and linked them to the CAS process via the need to
+improve certain outcomes as reflected in triggers. The government officials present endorsed the CAS
+program and approach, and provided useful feedback on specific areas o f the CAS, including the need
+to reinforce its coverage on the environment and on local government in the context o f
+decentralization.
+
+48
+
+Parliament. A breakfast meeting with the Parliament’s Budget and Finance Committee was held on
+21 January 2004. The Bank presented i t s CAS lending and Nonlending program, and as the topic was
+new to most Parliamentarians, provided a briefing on the Bank’s genera1 approach and goals in Kenya,
+The discussion focused on issues relating to the need to improve trade and the environment for the
+private sector, fiscal management and stability, and managing internal debt. In addition, a good part of
+the discussion focused on building routine communications links with parliament in order to establish
+a more regular dialogue, provide information on the Bank and general development issues, and clarify
+possible areas o f misunderstanding. It was agreed that the Bank will coordinate with WBI in
+establishing a schedule o f presentations and meetings.
+Private sector. The Bank has forged a reinvigorated relationship with the private sector, which has
+been greatly facilitated by the unification o f several previously competing private sector associations
+within the Private Sector Alliance, which the government recognizes as i t s principal interlocutor for
+purposes o f its own dialogue with the business and investor community. Representativeso f the
+private sector participated fully in the Bank-PPIAF organized conference in May 2003 on private
+sector participation in infrastructure (discussed in the CAS section on private sector development). In
+July 2003, a number of key representatives o f the business community met with Mr. Wolfensohn
+during his visit to Kenya. In the context o f the CAS, the Private Sector Alliance met with the Bank
+Group, including its Bank-IFC-PPIAF private sector development team, and discussed the Bank’s
+CAS strategy for private sector-led growth, including a presentation by the Bank o f i t s investment
+climate assessment for Kenya. Among key issues o f concern discussed were the low access to credit
+particularly by small entrepreneurs, the need for the government to move ahead quickly with i t s
+agenda for privatization and for improving the investment climate, and the need for the Bank to
+support small and medium enterprises with their capacity and access to business services, A key area
+o f discussion was the regularization o f the dialogue that has started so promisingly with the Bank, and
+agreement was reached on a schedule o f monthly meetings around specific agenda items.
+Civil Society, NGOs, and community organizations. As noted above, the Bank’s interactions with civil
+society have occurred on a continuous basis for an extended period o f time. Civil society and
+communities are regularly consulted in the course o f project preparation and implementation. A key
+challenge, which has been discussed on several occasions with NGOs i s to involve them more fully in
+participatory monitoring and evaluation, and an IDF grant i s being deployed in specific application to
+this objective. With regard to the CAS the following meetings were held in the course o f CAS
+formulation to discuss i t s content:
+4
+
+4
+
+e
+4
+
+Meeting with Kenya NGO Coalition, Nairobi, 14 January, 2004
+Meeting with Western Kenya NGO Coalition, Kisumu, January 19,2004
+Meeting with community organizations participating in the Arid Lands Project, Wajir, 29-30
+January, 2004
+Follow-up workshops with NGOs in Nairobi and Kisumu focusing on capacity-building needs
+o f NGOs, led by WBI, April 2004.
+
+Each o f these meetings contained significant representation from women’s organizations. Several
+major areas were discussed in depth on these occasions:
+The Bank’s supportfor improving government capacity: CSOs were particularly concernedthat the
+Bank have in place support mechanisms that addressed the government’s present low capacity in
+budget and expenditure management, as well as in terms o f project implementation. An important
+aspect o f this capacity i s that o f communications with civil society and communities, which i s
+
+49
+
+currently lacking, making it difficult for these organizations to make their contribution to
+development.
+Capacity building for civil society organizations. These organizations are eager to play a major role in
+development, but often lack adequate capacity. They see an important role for the Bank in supporting
+this capacity.
+Articulation between the P M P and IP-ERS. CSOs had considered themselves very well consulted in
+the earlier PRSP process, but were concerned that they had not had adequate opportunity to interact
+with government in the PRSP’s reformulation in the form o f the IP-ERS. They therefore did not feel
+as high a degree o f ownership in this document, and expressed concern about whether they had a
+significant role to play in its implementation.
+Financial services to the poor. CSOs were universally concerned about the lack o f financial services
+particularly to the poor, and fully endorsed the Bank’s commitment to support reform o f the financial
+sector, urging only that there be a genuine focus in i t s operations on increasing the access o f the poor,
+and women in particular.
+Reversing inequities andfocusing on the needs of vulnerable populations. CSOs approved o f the
+Bank’s focus on identifying and addressing inequities, for example via the poverty mapping exercise,
+and on targeting its interventions in infrastructure particularly to the poorest populations. They
+emphasized in particular the need to address issues o f concern to women and youth as key populations
+which are highly marginalized in the delivery o f basic services.
+HIVAIDS. CSOs endorsed the Bank’s continuing commitment to help Kenya battle HIVlAIDS and
+particularly approved o f the way in which the Bank has sought to implement i t s MAP in Kenya
+through CSOs engaged in the fight against the disease. They stressed that in a second phase, even
+greater effort should be made to focus on women.
+Co~~unity-drive
+development.
+n
+CSOs endorsed the C D D approach, in which many have
+participated, and urged the Bank to expand i t s work in this area, while extending its capacity-building
+efforts to NGOs to ensure they are able t o play a productive role.
+Decentralization. CSOs pointed to the importance o f the present constitutional debate over the degree
+of devolution o f powers, and urged the Bank to support the decentralization process, with an emphasis
+on building local government capacity, as well as that o f community-based CSOs so they can help in
+the process.
+The Bank’s results-based approach. CSOs fully approved o f the Bank’s results orientation and
+expressed high interest in participating in monitoring and evaluation o f outcomes. In this regard, they
+also articulated their interest in the government’s previous outreach to them soliciting their
+involvement in participatory M&E around the IP-ERS. They expressed some disappointment,
+however, in that this seems to have slipped from the government’s agenda, and asked that the Bank
+take this up as a priority topic to be resolved.
+Ongoing consultations: NGO leaders expressed their appreciation for the Bank’s commitment to
+including them in major development forum, including having NGO leaders attend the Consultative
+Group meeting on 24-25 November, 2003. They requested a deepening o f this form o f consultation
+and inclusion at all possible opportunities where they might present c i v i l society’s views o n key
+development issues.
+
+50
+
+c\:
+
+d
+
+c
+d
+
+P
+P
+
+o(
+
+CI
+
+m 9 Y
+
+r
+
+- 2 2
+
+P
+
+- 9 o !
+
++
+
+m
+
+o
+
+f
+
+Kenya at a glance
+POVERN and SOCIAL
+2003
+Population, mid-year (mil/ions)
+GNI per capita (Atlas method, US$)
+GNI (Atlas method, US$ billions)
+
+Kenya
+
+SubSaharan
+Africa
+
+income
+
+32.0
+390
+12.5
+
+689
+450
+311
+
+2,495
+430
+1,070
+
+2.1
+2.7
+
+2.4
+2.5
+
+I.9
+2.3
+
+Low-
+
+Average annual growth, 1997-03
+Population (%J
+Labor force (%)
+
+5/19/04
+
+Developmentdiamond'
+
+I
+
+55
+36
+46
+78
+22
+57
+15
+94
+95
+93
+
+33
+46
+103
+58
+37
+67
+94
+60
+
+31
+59
+79
+42
+76
+37
+94
+100
+88
+
+T
+GNI
+per
+capita
+
+Most recent estimate (latest year available, 1997-03)
+Poverty (% of population below national poverfy line)
+Urban population (% of total population)
+Life expectancy at birth (yean)
+Infant mortality (per 7,000 live bitths)
+Child malnutrition (W of children underst
+Access to an improved water source (% ofpopulation)
+Illiteracy (% ofpopulation age 15+)
+Gross primary enrollment (% of school-age population)
+Male
+Female
+
+Life expectancy
+
+Gross
+primary
+
+nrollment
+
+Access to improved water source
+
+-
+
+I
+
+Kenya
+Low-incomegroup
+
+KEY ECONOMIC RATIOS and LONG-TERM TRENDS
+1983
+
+1993
+
+2002
+
+2003
+
+GDP (US$ billions)
+Gross domestic investmentlGDP
+Exports of goods and serviceslGDP
+Gross domestic savingslGDP
+Gross national savingslGDP
+
+6.0
+20.9
+25.9
+20.4
+16.3
+
+5.8
+17.6
+38.9
+22.4
+20.5
+
+12.3
+13.6
+26.6
+9.5
+14.1
+
+13.4
+16.5
+27.5
+9.5
+14.9
+
+Current account balancelGDP
+Interest paymentslGDP
+Total debllGDP
+Total debt Servicelexports
+Present value of deWGDP
+Present value of debvexports
+
+4.4
+2.5
+60.6
+34.8
+
+2.9
+3.6
+123.7
+29.9
+
+0.5
+0.7
+48.9
+20.4
+
+-1.5
+0.6
+43.8
+21.5
+
+1983-93
+
+1993-03
+
+2002
+
+2003
+
+2003-07
+
+4.1
+0.7
+7.1
+
+1.8
+-0.4
+0.6
+
+1.o
+-0.9
+5.0
+
+I .3
+-0.6
+5.7
+
+3.8
+1.2
+8.0
+
+1983
+
+1993
+
+2002
+
+2003
+
+34.2
+19.4
+11.8
+46.4
+
+31.5
+16.9
+10.0
+51.6
+
+16.4
+19.0
+13.0
+64.6
+
+17.1
+19.7
+13.4
+63.2
+
+62.9
+16.4
+26.2
+
+63.0
+14.5
+34.0
+
+70.5
+19.0
+29.8
+
+19.1
+32.2
+
+(average annual growth)
+GDP
+GDP per capita
+Exports of goods and sewices
+STRUCTURE of the ECONOMY
+
+(% of GDP)
+Agriculture
+industry
+Manufacturing
+Services
+Private consumption
+General government consumption
+Imports of goods and services
+
+(avenge annual growth)
+Agriculture
+Industcy
+Manufacturing
+Services
+Private consumption
+General government consumption
+Gross domestic investment
+
+1983-93
+
+199343
+
+2o02
+
+I
+
+Economic ratios'
+
+I
+
+Trade
+
+Domestic
+savings
+
+Investment
+
+Indebtedness
+
+-Kenya
+
+Low-income group
+
+Growth of investment and GDP (%)
+15
+10
+
+5
+0
+
+5
+
+-GDI
+
+-O'GDP
+
+Growth of exports and imports (%)
+
+2.3
+4.1
+4.8
+4.7
+
+1.5
+1.4
+1.4
+2.5
+
+0.6
+1.1
+1.2
+1.3
+
+1.1
+0.7
+0.0
+1.5
+
+4.9
+4.0
+1.3
+
+1.9
+5.3
+2.6
+
+-13.7
+4.3
+-1.8
+
+14.1
+1.7
+13.6
+
+2o
+IO
+
+-"
+-20
+
+-Exports
+
+*Imports
+
+Note: 2003 data are preliminary estimates. Group data are for 2002.
+*The diamonds show four key indicators in the country (in bold) compared with its incomegroupaverage, If data are missing, the diamond will
+be incomplete.
+
+52
+
+I
+
+II
+
+1
+
+Kenva
+PRICES and GOVERNMENT FINANCE
+
+1983
+
+1993
+
+2002
+
+2003
+
+15.0
+11.8
+
+46.0
+25.7
+
+2.0
+8.7
+
+9.4
+3.4
+
+24.5
+0.8
+-5.3
+
+29.5
+2.3
+-1.0
+
+21.4
+0.2
+0.7
+
+20.8
+0.1
+-3.9
+
+1983
+
+1993
+
+2002
+
+2003
+
+980
+179
+232
+113
+1,361
+120
+545
+204
+
+1,103
+62
+177
+241
+1,606
+75
+407
+329
+
+2,169
+54
+84
+467
+3,058
+146
+741
+754
+
+2,514
+61
+95
+504
+3,599
+153
+787
+856
+
+92
+96
+96
+
+80
+86
+93
+
+98
+108
+91
+
+108
+120
+89
+
+1983
+
+1993
+
+2002
+
+2003
+
+1,552
+1,687
+-135
+
+2,238
+1,953
+285
+
+3,281
+3,670
+-389
+
+3,674
+4,303
+-629
+
+Net income
+Net current transfers
+
+-190
+63
+
+-360
+241
+
+-122
+577
+
+-179
+805
+
+Current account balance
+
+-282
+
+185
+
+66
+
+-203
+
+Financing items (net)
+Changes in net reserves
+
+484
+-222
+
+157
+-323
+
+-45
+-21
+
+399
+-196
+
+Memo:
+Reserves including gold (US$ miiiions)
+Conversion rate (DEC, /ocal/US$j
+
+406
+13.3
+
+489
+58.0
+
+1,067
+78.6
+
+1,564
+75.9
+
+1983
+
+1993
+
+2002
+
+2003
+
+3,624
+506
+334
+
+7,115
+566
+1,631
+
+6,031
+13
+2,447
+
+5,854
+5
+2,560
+
+Total debt selvice
+IBRD
+IDA
+
+553
+53
+3
+
+672
+155
+18
+
+676
+13
+59
+
+799
+9
+64
+
+Compositionof net resource flows
+Official grants
+Official creditors
+Private creditors
+Foreign direct investment
+Portfolio equity
+
+0
+191
+59
+9
+0
+
+65
+151
+-40
+2
+0
+
+89
+-97
+-1 1
+50
+
+232
+51
+-80
+60
+
+World Bank program
+Commitments
+Disbursements
+Principal repayments
+Net flows
+Interest payments
+Net transfers
+
+76
+120
+18
+102
+38
+64
+
+115
+226
+107
+119
+66
+53
+
+0
+66
+54
+12
+18
+-6
+
+0
+159
+54
+105
+19
+86
+
+Domestic prices
+(% change)
+Consumer prices
+Implicit GDP deflator
+Government finance
+[% of GDP, includes current grants)
+Current revenue
+Current budget balance
+Overall surplusldeficit
+TRADE
+
+(US$ mj//ions)
+Total exports (fob)
+Petroleum
+Coffee
+Manufactures
+Total imports @if)
+Food
+Fuel and energy
+Capital goods
+Export price index (1995=100J
+Import price index /1995=100)
+Terms of trade (1995=100)
+BALANCE of PAYMENTS
+(US$ mi///onsj
+~xportsof goods and services
+Imports of goods and services
+Resource balance
+
+EXTERNAL DEBT and RESOURCE FLOWS
+(US$ millionsf
+Total debt outstandingand disbursed
+18RD
+IDA
+
+Development Economics
+
+I
+
+Inflation (36)
+
+-GDP
+
+deflator
+
+I
+
+*CPI
+
+Export and import levels (US$ mill.)
+4,000
+
+T
+
+97
+
+98
+
+99
+
+00
+
+Exports
+
+01
+
+02
+
+Wlmpork
+
+Current account balance to GDP (X)
+I T
+
+Composition of 2003 debt (US$ mill.)
+G:756 A 5
+
+A - IBRD
+B - IDA
+C-IMF
+
+D - Other multilateral
+
+E - Bilateral
+F - Private
+G .Short-term
+
+5119104
+
+53
+
+-
+
+CAS Annex 8 2 Kenya
+Selected Indicators* of Bank Portfolio Performance and Management
+As Of Date 05/06/2004
+
+Indicator
+Portfolio Assessment
+Number of Projects Under Implementation a
+Average Implementation Period (years)
+Percent of Problem Projects by Number
+Percent of Problem Projects by Amount
+Percent of Projects at Risk by Number
+Percent of Projects at Risk by Amount
+Disbursement Ratio (%) e
+Portfolio Management
+CPPR during the year (yeslno)
+Supervision Resources (total US$)
+Average Supervision (US$lproject)
+Memorandum Item
+Proj Eva1 by OED by Number
+Proj Eva1 by OED by Amt (US$ millions)
+% of OED Projects Rated U or HU by Number
+% of OED Projects Rated U or HU by Amt
+
+2001
+
+2002
+
+2003
+
+2004
+
+15
+3.8
+20.0
+22.0
+26.7
+25.0
+49.2
+
+13
+4.8
+30.8
+57.2
+38.5
+60.8
+25.0
+
+12
+4.4
+16.7
+19.9
+41.7
+45.8
+24.0
+
+11
+4.5
+27.3
+36.2
+45.5
+71.3
+24.8
+
+No
+972
+65
+
+No
+1167
+78
+
+No
+1182
+79
+
+Yes
+
+-
+
+-_
+__
+
+Since FY 80 Last Five FYs
+92
+8
+3,016.5
+195.8
+57.6
+37.5
+51.7
+19.8
+
+a. As shown in the Annual Report on Portfolio Performance (except for current FY).
+b, Average age of projects in the Bank's country portfolio.
+C. Percent of projects rated U or HU on development objectives (DO) andlor implementation progress (IP).
+d. As defined under the Portfolio Improvement Program.
+e. Ratio of disbursements during the year to the undisbursed balance of the Bank's portfolio at the
+beginning of the year: Investment projects only.
+* All indicators are for projects active in the Portfolio, with the exception of Disbursement Ratio,
+which includes all active projects as well as projects which exited during the fiscal year.
+
+54
+
+-
+
+-
+
+CAS Annex 6 3 IBRDllDA Program Summary Kenya
+As Of Date 0510612004
+
+Proposed IBRDllDA Base-Case Lending Program a
+Fiscal year
+
+Prcj ID
+
+2004
+
+Kenya Northern Corridor Transport
+GDLN
+Agriculture Productivity Project
+N'rbi. Water & Swr'age Inst. Restr.Proj.
+Result
+
+2005
+
+207.0
+
+H
+
+M
+
+2.7
+40.0
+15.0
+
+M
+H
+H
+
+M
+M
+M
+
+H
+H
+H
+H
+H
+
+M
+M
+
+20.0
+20.0
+75.0
+20.0
+
+Energy Sector Recovery
+Financial and Legal Sector TIA
+Result
+
+M
+H
+
+M
+
+210.0
+
+Lake Victoria 2
+
+10.0
+65.0
+
+Financial Sector Adjustment Credit
+Education SWAP
+
+50.0
+5.0
+
+EAC Trade and Transport (Regional)
+Health SWAP
+MAP II
+
+2007
+
+Implementation b
+Risks ( H M )
+
+264.7
+75.0
+
+Programmatic Structural Adjustment Credit
+MSME Initiative
+STATCAP
+
+2006
+
+Strategic Rewards b
+(Hnvl/L)
+
+US$(M)
+
+H
+H
+H
+H
+
+M
+M
+M
+M
+M
+
+Public Sector Reform TA
+
+40.0
+
+H
+H
+H
+
+Result
+
+30.0
+20.0
+
+H
+
+H
+
+PRSC I
+Western Kenya CDD
+
+220.0
+100.0
+
+H
+
+H
+
+45.0
+
+H
+
+M
+
+Water (WSSNVRM)
+Result
+
+30.0
+175.0
+
+869.7
+
+Overall Result
+
+55
+
+CAS Annex B3 (IFC & MIGA) for Kenya
+Kenya - IFC and MIGA Program, FY 2001-2004
+
+IFC approvals (US$m)
+
+Sector (YO)
+
+Agriculture and For
+Chemicals
+Finance & Insurance
+Food & Beverages
+Transportation and
+Wholesale and Retai
+
+2001
+
+2002
+
+45.89
+
+7.77
+
+1
+
+55
+
+67
+33
+101
+
+Total
+
+Investment instrument(%)
+
+Loans
+Equity
+Quasi-Equity
+Other
+
+33
+34
+33
+0
+100
+
+Total
+
+45
+
+2003
+
+2004
+
+15.00 26.00
+
+100
+100
+
+100
+
+100
+
+100
+
+100
+14
+
+100
+
+85
+100
+15
+
+114
+
+100
+
+200
+
+42.19 123.70 123.70 121.05
+
+M I G A guarantees (US$m)
+
+56
+
+-
+
+-
+
+CAS Annex B4 Summary of Nonlending Services Kenya
+Product
+Recent completions
+Interim PRSP
+Water Sector Review
+CFAA
+Community Driven Development
+Local Government Restructuring
+Transport Sector Strategy
+Urban Water
+Country Gender Assessment
+Country Economic Memorandum
+Public Enterprise Review
+Social Expenditure Review
+Reform and Restructuring
+Watershed Management
+
+As Of Date 05/06/2004
+
+Completion F Y
+
+Cost (US$OOO)
+
+Audience a
+
+Objective
+
+FYOl
+FYOl
+FY02
+FY02
+FY03
+FY03
+FY03
+FY03
+FY03
+FY03
+FY03
+FY03
+FY04
+
+312
+190
+125
+150
+75
+50
+50
+25
+250
+60
+75
+50
+150
+
+GlDlBlP
+GlDlBlP
+GlDlB
+GlDlBlP
+GlDlBlP
+GlDlB
+GlDlB
+GlDlB
+GlDlB
+GIB
+GlDlBlP
+GlDlB
+GlDlB
+
+BIC
+BIC
+AIC
+AIBlC
+AlBlC
+AIC
+AIC
+AIC
+AIC
+AIC
+AIBlC
+AIC
+AIC
+
+Underway
+Public Expenditure Review
+Education Sector Review
+RPED-Investment Climate Assessment
+Energy Sector Review
+PRSP
+Country Assistance Strategy
+Pharmaceutical Study
+Youth Development Agenda
+Growth& Competitiveness
+
+FY04
+FY04
+FY04
+FY04
+FY04
+FY04
+FY05
+FY05
+FY04
+
+175
+100
+50
+60
+250
+200
+50
+125
+175
+
+GlDlBlP
+GlDlB
+GIB
+GlDlB
+GlDlBlP
+GlDlBlP
+GlDlB
+GlDlB
+GlDlB
+
+AIBlC
+AIC
+AIC
+AIC
+BIC
+B
+AIC
+AIC
+AIC
+
+Planned
+PEFA
+Agriculture Markets & Policy Review
+Diagnostic Trade Integration Study
+Telecommunications Study
+Urban Poverty Issues
+
+FY05
+FY05
+FY05
+FY05
+FY05
+
+300
+200
+150
+50
+100
+
+GIDIBIP
+GlDlB
+GlDlB
+GIB
+GlDlB
+
+AIBlC
+AIBlC
+AIBlC
+AIBlC
+AIBlC
+
+a. Government (D), donor (D), Bank (B), public dissemination (P).
+b, Knowledge generation (A), public debate (e), problem-solving(C).
+
+57
+
+Kenya Social Indicators
+Latest single year
+
+Same regionlincomegroup
+
+1970-75
+
+1980-85
+
+1995-2001
+
+SubSaharan
+Africa
+
+13.7
+3.6
+12.9
+8.1
+
+19.9
+3.6
+19.8
+6.9
+
+30.7
+2.4
+34.3
+4.3
+
+673.9
+2.5
+32.3
+5.1
+
+2,505.9
+1.9
+30.8
+3.5
+
+460
+
+430
+
+2.8
+
+LOW.
+income
+
+POPULATION
+Total population, mid-year (millions)
+Growth rate (X annual average for period)
+Urban population (% of population)
+Totai feltility rate (births per woman]
+POVERW
+(% of popu/afion)
+National headcount index
+Urban haadcount index
+Rural headcount index
+INCOME
+GNI per capita (US$)
+Consumer price index (1995=100)
+Food price index (1995=100)
+
+52 7
+43 1
+52 6
+250
+
+300
+
+350
+
+6
+
+20
+24
+
+159
+136
+
+INCOMElCONSUMPTIONDlSTRlEUTlON
+Share of income or conSUmptiOn
+Gini index
+Lowest quintile (% of income or consumption)
+Highest quintile (% of income or consumption)
+
+44.5
+5.6
+51.2
+
+SOCIAL INDICATORS
+Public expenditure
+Health (Oh of GDP)
+Education(% of GDP)
+Social security and welfare (56 of GDP)
+
+60
+
+61
+
+64
+
+18
+
+2.5
+3.4
+
+1.1
+
+88
+93
+83
+
+91
+92
+89
+
+69
+68
+69
+
+52
+
+57
+88
+42
+
+58
+83
+46
+
+76
+
+63
+70
+
+76
+76
+22
+
+58
+53
+
+60
+61
+
+57
+
+Net primary school enrollment rate
+
+(“A of age group)
+Totai
+Male
+Female
+Access to an improved Water source
+(% of populafion)
+Total
+Urban
+Rurai
+lmmunlzation rate
+(% under 12 months)
+Measles
+DPT
+Child malnutrition(% under 5 years)
+
+90
+70
+
+Life expectancy at birth
+(ye&
+Total
+Male
+Female
+
+52
+51
+55
+
+55
+59
+
+46
+46
+47
+
+46
+45
+47
+
+59
+58
+60
+
+85
+I36
+
+68
+106
+
+78
+122
+
+105
+171
+
+80
+121
+
+467
+
+417
+
+578
+
+520
+
+312
+
+379
+
+339
+
+529
+1,300
+44
+
+461
+
+256
+
+Mortality
+Infant (per 1,000 live births)
+Under 5 (per 1,000 live births)
+Adult (15-59)
+Male (per 1,000 population)
+Female (per 1,000 pOpUlatiOn)
+Maternal (modeled,per 100,000live births)
+Births attended by skilled health staff (X)
+
+Note: 0 or 0,O means zero Or less than half the unit shown. Net enrollment rate: break in series batwean 1997 and 1998 due to
+change from ISCED76 to ISCED97: ratios exceeding 100 indicate discrepancies between tha estimates of schoolage population
+and reported enrollment date
+2003 World Development Indicators CD-ROM, World Bank
+
+58
+
+-
+
+Kenya K e y Economic Indicators
+
+Indicator
+Yational accounts (as OO/ o f GDP)
+
+1999
+
+Actual
+2000
+2001
+
+Estimate
+
+2002
+
+2003
+
+Projected
+2004
+2005
+
+100
+23
+
+100
+20
+
+100
+19
+
+100
+16
+
+100
+16
+
+100
+16
+
+100
+16
+
+Industry
+
+18
+
+19
+
+18
+
+19
+
+19
+
+19
+
+19
+
+Services
+
+59
+
+62
+
+63
+
+65
+
+65
+
+65
+
+64
+
+Total Consumption
+Gross domestic fixed investment
+Government investment
+Private investment
+
+90
+15
+0
+15
+
+94
+15
+0
+15
+
+95
+14
+0
+14
+
+90
+13
+0
+13
+
+89
+14
+0
+14
+
+89
+19
+0
+19
+
+87
+24
+0
+24
+
+(GNFS)~
+Imports (GNFS)
+
+25
+31
+
+26
+36
+
+26
+36
+
+27
+30
+
+26
+31
+
+21
+35
+
+27
+39
+
+Gross domestic savings
+
+10
+
+6
+
+5
+
+10
+
+11
+
+11
+
+13
+
+Gross national savings'
+
+15
+
+13
+
+11
+
+14
+
+14
+
+14
+
+15
+
+10559
+
+10440
+
+11234
+
+12330
+
+14015
+
+14574
+
+15425
+
+360
+
+350
+
+3 50
+
+360
+
+390
+
+430
+
+460
+
+-0.2
+0.7
+
+1.1
+2.2
+
+1.o
+-0.3
+
+1.3
+0.9
+
+2.6
+2.8
+
+3.5
+3.4
+
+-0.9
+7.8
+-2.3
+
+-0.9
+-64.0
+60.9
+
+-0.5
+1717.0
+-349.9
+
+0.8
+-1.7
+-1.7
+
+1.9
+-1.6
+-1.6
+
+Gross domestic producta
+Agriculture
+
+EXPOI~S
+
+Memorandum items
+
+Gross domestic product
+(US$ million at current prices)
+G N I per capita (US$, Atlas method)
+
+Real annual growth rates (%, calculated from 1982 prices)
+Gross domestic product at market prices
+1.3
+Gross Domestic Income
+-1.4
+
+Real annual per capita growth rates (%, calculated from 1982 prices)
+-1.0
+-2.4
+Gross domestic product at market prices
+-42.9
+98.6
+Total consumption
+32.9
+-26.5
+Private consumption
+Balance o f Payments (US$ millions)
+Exports (GNFS)b
+Merchandise FOB
+
+2687
+1755
+
+2743
+1773
+
+2968
+1881
+
+3281
+2169
+
+3674
+2514
+
+3864
+2640
+
+409 1
+2807
+
+Imports (GNFS)~
+Merchandise FOB
+Resource balance
+Net current transfers
+Current account balance
+
+3312
+2679
+-626
+634
+-234
+
+3757
+3033
+-1015
+884
+-284
+
+4002
+3176
+-1033
+807
+-398
+
+3670
+3058
+-389
+60 1
+66
+
+4303
+3599
+-629
+630
+-203
+
+5142
+4362
+-1278
+566
+-886
+
+6012
+5 164
+-1921
+566
+-1536
+
+42
+
+127
+
+50
+
+50
+
+60
+
+60
+
+102
+
+-135
+
+116
+
+-37
+
+-98
+
+51
+
+-5
+
+-64
+
+-68
+
+-148
+
+-191
+
+-2 1
+
+-196
+
+-252
+
+-389
+
+-5.9
+
+-9.7
+
+-9.2
+
+-3.2
+
+-4.5
+
+-8.8
+
+-12.5
+
+-5.2
+
+-4.9
+
+11.6
+
+16.7
+
+5.8
+
+4.5
+
+4.8
+
+-5.2
+-5.1
+
+-5.9
+5.8
+
+20.8
+7.3
+
+5.3
+-6.9
+
+-4.2
+5.9
+
+6.2
+22.6
+
+6.9
+19.3
+
+Net private foreign direct investment
+Long-term loans (net)
+Official
+Private
+Other capital (net, incl. errors & ommissions)
+Change in reservesd
+~ e m o r a n d u mitems
+
+Resource balance (% of GDP)
+Real annual growth rates ( YR82 prices)
+Merchandise exports (FOB)
+Primary
+Manufactures
+Merchandise imports (CIF)
+
+59
+
+-
+
+Kenya Key Economic Indicators
+(Continued)
+
+Indicator
+
+1999
+
+Actual
+2000
+2001
+
+Public finance (as “Yo of GDP at market prices)e
+Current revenues
+26.5
+Current expenditures
+21.1
+Current account surplus (+) or deficit (-)
+4.8
+Capital expenditure
+4.8
+Foreign financing
+-0.9
+Monetary indicators
+M2IGDP
+Growth o f M2 (Yo)
+Private sector credit growth /
+total credit growth ( “ 3 )
+Price indices( YR82 =loo)
+Merchandise export price index
+Merchandise import price index
+Merchandise terms o f trade index
+Real exchange rate (US$/LCU)f
+
+Real interest rates
+Consumer price index (% change)
+GDP deflator (% change)
+
+a.
+b.
+c.
+d.
+e.
+f.
+
+2002
+
+Estimate
+2003
+
+Projected
+2004
+2005
+
+22.9
+19.8
+3.1
+2.4
+-2.3
+
+24.4
+22.6
+1.8
+3 .I
+2.4
+
+21.4
+21.2
+0.2
+2.6
+-0.5
+
+20.8
+26.2
+0.1
+3.7
+0.2
+
+20.8
+21.1
+1.8
+5.0
+0.6
+
+21.1
+21.5
+2.1
+6.2
+1.3
+
+42.0
+2.1
+163.5
+
+39.5
+0.8
+74.5
+
+36.5
+2.5
+-364.8
+
+36.2
+8.8
+36.9
+
+37.1
+7.3
+33.1
+
+31.5
+9.5
+109.2
+
+38.1
+9.3
+325.0
+
+121.1
+101.2
+119.6
+119.9
+
+128.1
+108.3
+118.9
+128.0
+
+122.3
+105.6
+115.8
+134.6
+
+120.8
+109.3
+110.5
+131.8
+
+132.3
+121.4
+108.9
+139.8
+
+132.9
+120.0
+110.7
+144.1
+
+134.9
+119.1
+113.2
+148.5
+
+5.8
+5.1
+
+10.0
+7.3
+
+5.8
+9.6
+
+2.0
+8.7
+
+9.4
+3.4
+
+1.0
+5.7
+
+3.5
+3.7
+
+GDP at factor cost
+“GNFS“ denotes “goods and nonfactor services.“
+Includes net unrequited transfers excluding official capital grants.
+Includes use o f I M F resources.
+Consolidated central government.
+“LCU” denotes “local currency units.“ An increase in US$/L,CU denotes appreciation.
+
+60
+
+Kenya - Key Exposure Indicators
+
+Indicator
+
+1999
+
+Actual
+2000
+2001
+
+2002
+
+Estimate
+2003
+
+Projected
+2004
+2005
+
+6450
+
+6159
+
+5562
+
+6031
+
+5854
+
+5784
+
+5685
+
+-262
+
+49
+
+-193
+
+-127
+
+-47
+
+-69
+
+-99
+
+700
+
+525
+
+494
+
+459
+
+510
+
+382
+
+335
+
+237.3
+
+220.9
+
+184.7
+
+181.9
+
+157.4
+
+147.5
+
+136.6
+
+TDOiGDP
+
+61.1
+
+59.0
+
+49.5
+
+48.9
+
+36.9
+
+25.8
+
+18.8
+
+16.4
+
+13.8
+
+43.8
+13.7
+
+39.7
+
+TDSlXGS
+
+9.7
+
+8.0
+
+ConcessionalirDO
+
+64.0
+
+66.4
+
+70.8
+
+65.3
+
+24.9
+
+24.4
+
+26.8
+
+Total debt outstanding and
+disbursed (TDO) (US$m)a
+Net disbursements (US$m)a
+
+Total debt service (TDS)
+(US$m)a
+Debt and debt service indicators
+
+(%I
+
+TDOKGSb
+
+IBRD exposure indicators (%)
+IBRD DSipublic DS
+Preferred creditor DSipublic
+
+12.1
+
+11.1
+
+6.7
+
+3.6
+
+2.0
+
+1.1
+
+0.3
+
+41.2
+
+45.7
+
+39.8
+
+35.2
+
+32.3
+
+33.7
+
+37.3
+
+DS (%)c
+IBRD DSKGS
+
+2.6
+
+1.7
+
+0.8
+
+0.4
+
+0.2
+
+0.1
+
+0.0
+
+IBRD TDO (US$m)d
+
+91
+
+47
+
+23
+
+13
+
+2262
+
+2263
+
+2447
+
+1
+2564
+
+0
+
+2220
+
+5
+2560
+
+IDA TDO (US$m)d
+
+a. Includes public and publicly guaranteed debt, private nonguaranteed, use of IMF credits and net shortterm capital.
+b. "XGS" denotes exports o f goods and services, including workers' remittances.
+c. Preferredcreditors are defined as IBRD, IDA, the regional multilateral development banks, the IMF, and the
+
+Bank for InternationalSettlements.
+d. Includes present value of guarantees.
+e. Includes equity and quasi-equity types of both loan and equity instruments.
+
+61
+
+2554
+
+P
+
+r!
+(n
+
+k
+
+CAS Annex B8 (IFC) for Kenya
+Kenya
+Statement o f IFC's
+Held and Disbursed Portfolio
+As o f 313 112004
+(In U S Dollars Millions)
+Held
+F Y Approval
+1980
+1982
+1998
+200 1
+1/3/1982
+
+1994
+1996199
+2003
+1983191
+2000
+1994196
+1972
+2000
+2000
+1997
+1997
+1996
+2000
+1998
+2000
+1997
+1997
+1999
+
+Disbursed
+
+Company
+Loan Equity Quasi Partic Loan Equity Quasi Partic
+DBK
+0
+1.31
+0
+0
+0
+1.31
+0
+0
+0.8
+0
+0
+0
+0.8
+0
+0
+Diamond Trust
+0
+GBHL
+0
+3
+0 2.33
+0
+3
+0
+2.33
+Gapco Kenya
+15
+0
+0
+0
+10
+0
+0
+0
+IPS(K)
+0
+4.5
+0
+0
+0
+0.69
+0
+0
+IPS(K)-Allpack
+0
+0.36
+0
+0
+0
+0.36
+0
+0
+IPS(K)-Frigoken
+0
+0.06
+0
+0
+0
+0.06
+0
+0
+0
+0.11
+0
+0
+0
+0.11
+0
+0
+IPS(K)-Prem Food
+Intl Hotels-Ken
+4.29
+0
+0
+0 4.29
+0
+0
+0
+0.43
+0
+0
+0
+0.12
+0
+0
+0
+K-Rep Bank
+Kenair
+0
+0
+0
+15
+0
+0
+0 6.41
+0
+0.03
+0
+0
+0
+0.03
+0
+0
+LIK
+Mabati
+5
+0
+4.5
+0
+5
+0
+4.5
+0
+12.64
+0
+0
+0 12.64
+0
+0
+0
+Panafkican
+0.04
+0
+0
+TPS (Kenya)
+0
+0.04
+0
+0
+0
+17.24
+0.83 1.17 19.25 17.24
+0.83 1.17 19.25
+Tsavo Power
+0
+0
+0 0.51
+0
+0
+0
+AEF A A A Growers
+0.5 1
+AEF Ceres
+0
+0
+0 0.93
+0
+0
+0
+0.93
+1
+0
+0
+0
+1
+0
+0
+0
+AEF Deras Ltd,
+AEF Equitea
+0.3
+0.12
+0
+0
+0.3
+0.12
+0
+0
+2.5
+0
+0
+0
+2.5
+0
+0
+0
+AEF Lesiolo
+0.24
+0
+0
+0 0.24
+0
+0
+0
+AEF Locland
+1.21
+0
+0
+0 1.21
+0
+0
+0
+AEF Magana
+0.18
+0
+0
+0 0.18
+AEF Makini
+0
+0
+0
+AEF Redhill Flrs
+0.27
+0
+0
+0 0.27
+0
+0
+0
+0
+0 1.41
+0.67
+0
+0
+0.67
+1.41
+ANSPAR
+
+Total Portfolio:
+
+80.05
+
+9.26
+
+8.67 19.25 66.46
+
+Approvals Pending Commitment
+2003
+
+Kenair
+
+Total Pending Commitment:
+
+Loan Equity Quasi Partic
+0
+0
+0
+0
+0
+
+0
+
+0
+
+63
+
+0
+
+5.14
+
+8.67 19.25
+
+-
+
+CAS Annex 610 Kenya
+CAS Summary of Development Priorities
+AS
+
+Country
+
+Network area
+
+performance ’
+
+of 06/06/04
+
+Major issue
+
+Country
+priority’
+
+Bank
+priority’
+
+High
+High
+High
+Moderate
+
+Poverty Reduction & Economic
+Management
+Poverty reduction
+Economic policy
+Public sector
+Gender
+
+Poor
+Fair
+Fair
+Good
+
+High Inequality
+Structure of Public Spending
+High Wage Bill
+Legal Framework
+
+Moderate
+High
+Moderate
+Moderate
+
+Human Development Department
+Education
+Heailh, nutrition & population
+Social protection
+
+Fair
+Fair
+Good
+
+Efficiency& Financing
+Expenditure Framework
+Natural Disasters
+
+High
+High
+Moderate Moderate
+High
+High
+
+Environmentally & Socially
+Sustainable Development
+Rural development
+Environment
+Social development
+
+Fair
+Fair
+Good
+
+InstitutionalReform
+Governance Issues
+Youth 8 Unemployment
+
+High
+High
+Moderate Moderate
+Moderate Moderate
+
+Banking Sector
+High Transactions Costs
+Low Access & Poor Reliability
+High Cost 8 Unreliable Service
+
+High
+High
+High
+High
+
+Finance, Private Sector & Infrastructure
+Financialsector
+Poor
+Private seclor
+Fair
+Fair
+Energy & mining
+Infrastnicture
+Poor
+
+Reconci/iation
+of country and
+Bank priorities
+
+High
+High
+High
+High
+
+a. Use ’excellent,” ‘good.” ’fair,” or ‘poor,”
+b. Indicate piindpal country-specific problems ( e , ~ .for
+, povelty reduction, ‘rural poverty;’ for education. ’femals secondary completion;’ for environment, ’urban air pollution-)
+c. To indicate priorily, use “iow: ’modemte,’Or’high,’
+d. Give erplanation,if prionties do not agree: for example, another MDB may have the lead On the issue, or there may be ongoing dialogue.
+
+64
+
+

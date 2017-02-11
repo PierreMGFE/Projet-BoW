@@ -1,0 +1,5027 @@
+Public Disclosure Authorized
+
+Document o f
+The World Bank
+
+FOR OFFICIAL USE ONLY
+
+Public Disclosure Authorized
+
+Report No. 26931-GE
+
+MEMORANDUM OF THE PRESIDENT
+OF
+
+THE INTERNATIONAL DEVELOPMENT ASSOCIATION
+
+Public Disclosure Authorized
+
+AND
+
+THE INTERNATIONAL FINANCE CORPORATION
+TO
+
+THE EXECUTIVE DIRECTORS
+ON A
+COUNTRY ASSISTANCE STRATEGY
+
+Public Disclosure Authorized
+
+FOR
+GEORGIA
+
+NOVEMBER 6,2003
+
+South Caucasus Country Unit
+Europe and Central Asia Region
+This document has a restricted distribution and may be used by recipients only in the
+performance o f their official duties. Its contents may not otherwise be disclosed without
+World Bank Authorization.
+
+CURRENCY EQUIVALENTS
+
+(Exchange Rate Effective October 7, 2003)
+Currency Unit = Lari
+Lari = US$0.473
+US$l.O = 2.113 Lari
+
+GOVERNMENT FISCAL YEAR
+January 1 to December 3 1
+WEIGHTS AND MEASURES
+Metric System
+ABBREVIATIONS AND ACRONYM
+APL
+BBP
+CAS
+CFAA
+CIS
+CPIA
+DFID
+DSA
+EBRD
+EDPW
+EU
+FA0
+FDI
+FIAS
+FSAP
+FSU
+FY
+GDP
+GEF
+GEL
+GNP
+GoG
+GTZ
+Ha
+HIPC
+IDA
+IDF
+IDP
+IFC
+IFAD
+
+Adaptable Program Loan
+Basic BenefitsPackage
+Country Assistance Strategy
+Country FinancialAccountability Assessment
+Commonwealth o f Independent States
+Country Policy and Institutional Assessment
+Department for IntemationalDevelopment, U.K.
+Debt Sustainability Analysis
+EuropeanBank for Reconstruction & Development
+Economic Dev’t & Poverty ReductionProgram
+European Union
+Foodand Agriculture Organization
+ForeignDirect Investment
+Foreign Investment Advisory Service
+Financial Sector Assessment Program
+Fonner Soviet Union
+FiscalYear
+Gross Domestic Product
+Global EnvironmentFacility
+Georgian Lari
+Gross NationalProduct
+Government of Georgia
+Geman Technical Cooperation
+Hectare
+Heavily IndebtedPoor Country
+IntemationalDevelopment Association
+InstitutionalDevelopment Fund
+Intemally DisplacedPersons
+IntemationalFinance Corporation
+IntemationalFund for Agricultural Development
+
+IDA
+
+IMF
+JBIC
+KfW
+LIL
+MIGA
+MoF
+NBG
+NGO
+NPV
+OECD
+PER
+PIU
+PPP
+PRGF
+PRSP
+PSD
+SAC
+SATAC
+SDS
+SEC
+SIDA
+SIF
+SME
+SRS
+TACIS
+UNDP
+UNHCR
+USAID
+VAT
+WTO
+
+The World Bank Group Team
+
+Vice President: Shigeo Katsu
+Country Director: Donna M. Dowsett-Coirolo
+Team Leaders: Peter NicholasKhristian Petersen
+
+IntemationalMonetaryFund
+Japan Bank for IntemationalCooperation
+GemanDevelopment Bank
+Learningand InnovationLoan
+Multilateral Investment Guarantee Authority
+Ministry of Finance
+NationalBank of Georgia
+Non-GovemmentalOrganization
+Net Present Value
+OrganizationFor Economic Coop’n & Development
+Public ExpenditureReview
+Project ImplementationUnits
+PurchasingPower Parity
+Poverty Reductionand Growth Facility
+Poverty ReductionStrategy Paper
+Private Sector Development
+StructuralAdjustment Credit
+Structural Adjustment Technical Assistance Credit
+State Department of Statistics
+Security and Exchange Commission
+Swedish IntemationalDevelopment Agency
+Social Investment Fund
+Small and Medium Enterprises
+Structural Reform Support Project
+Technical Assistance to the CIS (ELI)
+United Nations Development Program
+UnitedNations HighCommissioner for Rehgees
+United States Agency for IntemationalDevelopment
+Value Added Tax
+World Trade Organization
+
+IFC
+
+Vice President: Assaad Jabre
+Country Director: Edward Nassim
+Team Leaders: Anna AkhalkatsiLisa Kaestner
+
+FOR 0FFICL-CUSE ONLY
+GEORGIA
+COUNTRY ASSISTANCE STRATEGY
+Table o f Contents
+
+...............................................................................................................................
+.................................................................................................................................
+.................................................................................................................
+
+EXECUTIVESUMMARY
+I
+INTRODUCTION
+I
+I THECOUNTRYCONTEXT
+
+.
+.
+
+Economic and Political Background..................................................................................................................... 1
+
+MacroeconDmic Performance and Growth Prospects.........................................................................................
+Poverty Trends and the MDGs ..............................................................................................................................
+
+.
+Iv.
+V
+
+.
+
+.
+
+VI
+
+i
+1
+1
+
+2
+8
+
+Govemance ............................................................................................................................................................
+
+12
+
+Lessons learned.....................................................................................................................................................
+
+18
+
+......................................................
+
+THEWORLD BANKGROUP’STRACK
+RECORD IN GEORGIA
+15
+IDA’SCountry Portfolioand Non-LendingProgram....................................................................................... 15
+
+......................19
+.............................................. 20
+
+GEORGIA’S
+ECONOMIC
+DEVELOPMENT
+AND POVERTY REDUCTION PROGRAM
+THEWORLDBANKGROUP’S
+COUNTRYASSISTANCESTRATEGY
+FY04-06 CAS Objectives and Focus..................................................................................................................
+(i)Faster and More Broad-BasedPrivate Sector Growth.................................................................................
+(ii)PromotingHuman Development, Social Protection. and Protecting the Environment..........................
+(iii) ImprovingGovemance and Eficiency o f Public Expenditures...............................................................
+Assistance Scenarios and Triggers......................................................................................................................
+IMPLEMENTINGTHE CAS
+Strategic Considerations.......................................................................................................................................
+Outcomes and Monitoring...................................................................................................................................
+CAS Consultations................................................................................................................................................
+Development Partners ..........................................................................................................................................
+
+..............................................................................................................
+
+.................................................................................................
+.................................................................
+ATTACHMENT 111: CORE LABOR
+STANDARDS IN GEORGIA
+................................................................
+& W E X I : C O W T R Y A T A GLANCE
+........................................................................................................
+A”EX.2: PORTFOLIO INDCATORS........................................................................................................
+h N E X 3 : WORLDBANKGROUP
+PROGRAMSLMMARY
+.......................................................................
+&WEX 4: SMMARY OFNON-LENDINGSER
+WCES...............................................................................
+A N N E X 5 SOCIAL INDICA TORS...............................................................................................................
+&WEX 6: ~ Y E C O N O M I C I m I C A T o R s..............................................................................................
+& W E X 7: mYEXPOSUREINDICA TORS.................................................................................................
+& W E X 8 : OPERATIONSPOR~FOLIO
+.......................................................................................................
+A ~ E x CAS
+~ : PROCRAMMATRIX ........................................................................................................
+AMVEX 10: CAS SUMMARY OF DEVEL OPMENT PMORITIES................................................................
+ATTACHMENTI:IMF-IDA RELATIONS
+ATTACHMENT11: DEVELOPMENT
+PARTNERS IN GEORGIA
+
+This document has a restricted distribution and may be used b y recipients only in
+
+.
+
+20
+
+20
+24
+25
+27
+29
+29
+31
+33
+34
+
+38
+42
+43
+44
+46
+
+47
+48
+49
+50
+53
+54
+56
+65
+
+the performance o f their official duties I t s contents m a y not b e otherwise disclosed
+[without W o r l d B a n k authorization.
+
+FIGURES
+
+Figure 1:
+Figure 2:
+
+Georgia: Index o f Sectoral Growth....................................................
+Georgia: Perceptions o f the Business Climate 2002 ................................
+
+3
+13
+
+TABLES
+Table 1:
+Table 2:
+Table 3:
+Table 4:
+Table 5:
+Table 6:
+Table 7 :
+Table 8:
+Table 9:
+
+Georgia: Selected Macroeconomics Indicators .........................................
+Impact of BTC and SCP ...................................................................
+External Debt Indicators ...........................................................................
+Change in Poverty between 1997 and 2002 .............................................
+Millennium Development Goals ........................................................
+Proposed Lending Program .............................................................
+Non-Lending Services Underway and Planned.......................................
+Lending Triggers ........................................................................................
+Core CAS Monitoring Benchmarks ...........................................................
+
+2
+3
+5
+8
+11
+28
+29
+30
+32
+
+BOXES
+
+Box 1:
+
+Baku-Tbilisi-Ceyhan Pipeline ..........................................................
+
+22
+
+EXECUTIVE
+SUMMARY
+Economic, Poverty and Governance Trends. Georgia is a small transition economy
+with a population o f about five m i l l i o n people and a per capita GDP o f US$700. In Soviet times,
+Georgia exported agricultural and energy-intensive industrial products, and enjoyed a fairly high
+standard o f living compared with neighboring republics. After independence in 1991, however,
+the economy collapsed under the impact o f c i v i l war and the loss o f both preferential access t o
+FSU markets and large budget transfers from Moscow. In the last five years, the Russia crisis,
+droughts and an earthquake have further buffeted Georgia. In amongst these shocks there have
+been brief periods o f strong GDP growth, leading to a cumulative economic expansion o f 45
+percent since 1995, as the private sector has taken some advantage o f economic liberalization.
+Nonetheless, GDP i s s t i l l only about one-third o f its 1990 level, despite the strong export
+potential residing in Georgia’s competitive labor force, good natural resource base and
+geographic position as a major transit route. Unemployment remains high and much economic
+activity resides in a large and growing informal sector. In the circumstances, poverty,
+vulnerability and inequality have all increased over the period. While some indicators o f the
+business environment have improved in recent years, governance is today acknowledged by the
+authorities, donors and stakeholders to pose important constraints o n Georgia’s prospects o f
+attracting adequate private sector investment to support sustainable growth and implementation
+o f i t s recently completed PRSP.
+1.
+
+..
+
+Over the past decade, Georgia has made quite good progress o n policy reform, including
+trade liberalization, legal and regulatory reform, privatization and competition, banking sector
+restructuring, and judicial and health sector reforms. However, these successes have often been
+diluted by weak implementation, in turn due partly t o weak fiscal management and public sector
+capacity. Budget management in particular needs to be strengthened to improve the link
+between overall resource allocation and sector objectives, programs and policies. Progress in
+implementing Georgia’s PRSP will also require improvements in the very l o w revenue collection
+rate that currently compromises the Government’s ability t o implement priority programs, as
+w e l l as management o f the country’s fairly large external debt situation. Tackling these and
+related governance challenges will be difficult given Georgia’s current political cycle. There i s
+significant political fragmentation, and electoral politics are likely t o dominate the agenda, as
+President Shevardnadze’s second and final term ends in April 2005.
+11.
+
+iii.
+
+FY04-06 CAS Program. Georgia has recently completed its PRSP, known as the
+Economic Development and Poverty Reduction Program (EDPRP). The EDPRP focuses o n five
+strategic pillars: governance, fiscal management, the business environment, human capital, and
+
+reducing the vulnerability o f the poor. I t also includes specific measures t o improve major
+productive sectors o f the economy, the natural environment, post-conflict zones, and science and
+technology. The EDPRP serves as the organizing framework for the FY04-06 CAS, which will
+focus o n (i)attaining faster and more broad-based growth, (ii)
+developing and strengthening
+human capital and strengthening public sector management, and (iii)
+improving governance and
+institutional capacity .
+
+iv.
+M u c h o f the work in these areas will take place through IDA’S and IFC’s large and,
+despite the difficult environment, s t i l l fairly sound ongoing portfolios in Georgia, complemented
+
+by Base Case lending o f up to $78 million, and by AAA and non-lending activities, including
+IFC’s advisory and linkages programs, designed t o help build the foundation for institutional and
+policy renewal. This level o f lending i s significantly lower than in FYO1-03 ($168 million) and
+FY98-00 ($295 million). Given the aforementioned political cycle, it may be difficult for
+Georgia to achieve a High Case scenario until the latter part o f this CAS period. Such a scenario
+would require significant improvements in governance, and would include an acceleration o f
+planned support for improving public sector management and a first PRSC, or a programmatic
+adjustment credit, for total IDA lending o f up to $100 million. The Base Case would be
+conditioned mainly on monitorable progress in governance, satisfactory macroeconomic
+performance, progress in initiating implementation o f the EDPRP, and continued good portfolio
+implementation. A L o w Case o f $45 m i l l i o n i s envisaged if governance reform, macroeconomic
+management or the IDA portfolio deteriorates.
+v.
+Risks. The strategy outlined above faces five kinds o f risks. First, if the governance
+climate does not improve, it will be difficult t o carry out the EDPRP effectively. IDA’Spolicy
+dialogue, lending and nonlending activities are focusing o n this as a top priority. A second risk
+i s that o f a renewed weakening o f fiscal performance, with a consequent inability t o maintain
+basic social services and manage external debt obligations. The IMF i s providing intensive
+advice to Georgia o n fiscal policy, and IDA and other partners have offered, or are providing,
+assistance o n budget management and reform o f tax and customs administration. Progress in this
+area i s required t o allow Georgia t o return to the Paris Club for discussions o n further debt
+rescheduling. Third, Georgia remains vulnerable to both internal and external conflicts.
+Enhanced regional cooperation will be important t o increase central government revenues, and
+for Georgia t o maximize i t s potential as a transit economy and strengthen foreign investment,
+tourism and trade. Fourth, Georgia is, and will remain, vulnerable t o external shocks. C A S
+interventions promoting energy development, irrigation and rural development, and diversification o f Georgia’s trade patterns should help lessen the country’s vulnerability t o these shocks
+over the medium-term. Finally, the period up t o the April 2005 Presidential elections i s likely to
+be one o f considerable political uncertainty, with the direction o f policy before and after the
+elections being difficult to predict. IDA will engage in a broad dialogue with all stakeholders
+during this period, and will support the EDPRP consultation process in an effort to build
+consensus o n the country’s main development challenges and opportunities. A C A S Progress
+Report will be presented to the Board after the Presidential elections if there has been sufficient
+change that circumstances warrant a review o f the assistance strategy.
+
+vi.
+0
+
+0
+
+Issues for Discussion. The following issues are suggested for Board discussion:
+
+I s the assistance strategy sufficiently selective and appropriate given the difficult
+governance climate?
+I s it warranted to restrict PRSC or programmatic adjustment lending t o the High Case?
+
+-
+
+MEMORANDUM OF THE PRESIDENT OF THE
+INTERNATIONAL DEVELOPMENT ASSOCIATION
+AND THE INTERNATIONAL FINANCE CORPORATION
+TO THE EXECUTIVE DIRECTORS ON THE
+COUNTRY ASSISTANCE STRATEGY FOR GEORGIA
+
+I. INTRODUCTION
+1.
+This joint IDA and IFC Country Assistance Strategy covers the three-year period from
+FY04 to FY06. It identifies key issues in Georgia’s economic and social development, reviews
+performance under the previous CAS, and discusses a selective program o f lending and nonlending operations under different scenarios o f risk and performance. The FY98-00 Georgia
+CAS (Report 17000-GE) was discussed by the Executive Directors in October 1997. A
+subsequent CAS was drafted in FYOl but was delayed as Georgia began work on i t s Poverty
+Reduction Strategy Paper (PRSP); a revised version was prepared in FY02 but was also delayed
+over concerns that broad changes in composition o f the Cabinet might signal shifts in policy
+directions, which ultimately did not materialize. The current CAS takes into account Georgia’s
+now completed PRSP, known as the Economic Development and Poverty Reduction Program
+(EDPRP). It has benefited from continuing close dialogue with government authorities, other
+national stakeholders and international development partners, both on the priorities for Bank
+Group assistance and on the EDPRP.
+
+11. THECOUNTRYCONTEXT
+Economic and Political Background
+
+2.
+Georgia i s a small transition economy with a population o f about five million people and
+a per capita GDP o f US$700. In Soviet times, Georgia exported agricultural and energyintensive industrial products to the former Soviet Union, and was a popular tourist destination for
+the region. After independence in 1991, the economy collapsed under the impact o f civil war
+and the loss o f both preferential access to FSU markets and large budget transfers from Moscow.
+Output f e l l by 70 percent and exports by 90 percent, the worst decline suffered by any transition
+economy.
+3.
+Immediately after independence in April 1991, a civil war broke out in Georgia, followed
+by regional conflicts. By late-1993, cease-fire agreements were reached with Abkhazia
+(brokered by the United Nations and Russia) and South Ossetia. The conflicts l e f t a significant
+toll, with about 300,000 people displaced, much physical capital destroyed, important trade
+routes disrupted, and the new State’s authority undermined to this day in large segments o f the
+territory. To varying degrees the Government s t i l l lacks control both in Abkhazia and South
+Ossetia, and in Adjara (an autonomous region in western Georgia). In addition, the spill-over
+f i o m the conflict in Chechnya has weakened Georgia’s control o f the Pankisi Gorge and
+surrounding territory, where rampant smuggling, extortion and kidnapping have taken place.
+
+4.
+By m i d - 1 9 9 0 ’ ~Georgia
+~
+had begun to recover from the collapse o f its economy after
+independence and the civil war. Reform efforts acquired momentum and growth began to
+accelerate. Since then, however, progress has been affected by the Russian crisis, droughts, an
+
+earthquake and internal political fragmentation. Nonetheless, amongst these shocks there have
+been brief periods o f strong growth, leading to a cumulative expansion o f the economy by 45
+percent since 1995, as the private sector has taken some advantage o f economic liberalization.
+Competition in telecommunications, for example, has led t o very favorable call charges. Public
+sector initiatives have also shown results where they have been adequately financed, and
+performance o f the IDA portfolio has been generally good despite a difficult operating environment. However, agriculture and industry, traditionally Georgia’s major sources o f exports and
+employment, have made only modest recovery from their post independence collapse. And
+while several indicators o f the business environment have improved in recent years, govemance
+is generally considered t o be a major constraint o n Georgia’s prospects for attracting foreign
+investment, achieving higher sustainable growth rates, and successfully implementing i t s
+EDPW.
+
+5.
+
+Political fragmentation threatens t o undermine Georgia’s already fragile economic situation and reform efforts. Inability to provide the expected level o f economic and social services
+has weakened support for the Government both in Parliament (where the number o f political
+parties i s growing) and from society. Significant political uncertainty remains likely for the next
+18 months. Parliamentary elections took place o n November 2, 2003, and President
+Shevardnadze’s second -- and, by constitutional mandate, final -- t e r m ends in April 2005.
+
+Macroeconomic Performance and G r ow t . Prospects
+
+Growth Trends to Date. In 1994, following the post-independence economic collapse
+and hyperinflation, the Government launched stabilization and structural reforms aimed at
+6.
+
+restoring economic growth. The economic response t o these reforms o f the mid-1990s was
+dramatic at first, with real GDP growth rebounding to an average o f 10.6 percent a year in 199697. Adverse exogenous shocks (the Russia crisis and severe droughts in 1998-2000) caused
+growth t o slow during 1998-2000, although it has rebounded t o an average o f 5 percent during
+2001-02. The annual rate o f inflation was brought down t o single digits by 1997, and has since
+remained at around 5 percent, except for a brief upswing in late 1998 and early 1999 when the
+Russian financial crisis triggered a substantial depreciation o f the Georgian Lari. The exchange
+rate regime i s fully liberalized, and the real exchange rate since has been roughly stable.
+
+Table 1: Georgia: Selected Macroeconomic Indicators
+Annual Real GDP Growth (“h)
+GDP Level (1990=100)
+Average Annual Inflation, CPI (%)
+Money Supply Growth (“A)
+FDI (million USD)
+Budget Deficit, as YOGDP
+Tax Revenues, as % GDP
+Exports (GNFS) as % GDP
+Current Account, as Yo GDP
+Gross For. Reserves (Import Cover)
+
+1998
+2.9
+33.8
+3.6
+-1.2
+221.0
+-6.1
+12.8
+16.2
+-10.2
+1.0
+
+1999
+3.0
+34.8
+19.1
+20.7
+61.7
+-6.7
+13.8
+38.4
+-7.8
+1.3
+
+2000
+1.9
+35.4
+4.0
+39.0
+152.6
+-4.0
+14.2
+40.3
+-5.7
+1.0
+
+2001
+4.7
+37.1
+4.7
+18.5
+79.9
+-2.0
+14.3
+39.8
+-5.6
+1.4
+
+2002e
+5.3
+39.1
+5.6
+17.9
+129.9
+-2.0
+14.4
+39.6
+-6.0
+1.8
+
+2003p
+4.8
+41.7
+4.4
+14.2
+31.5
+-1.4
+15.8
+46.0
+-11.1
+1.1
+
+2004p
+4.5
+43.6
+5.0
+15.3
+33.8
+0.2
+16.6
+45.0
+-10.8
+1.3
+
+2005*
+4.0
+45.3
+5.0
+15.1
+34.0
+0.5
+17.4
+45.0
+-10.4
+1.4
+
+Note: Latest IMF estimates and projections suggest higher growth; an update will provided to the Executive Directors
+during their discussion o f the CAS
+Source: World Bank, IMF and Georgia State Department o f Statistics.
+
+, e Estimated;
+
+Projected.
+
+2006p
+4.0
+47.1
+5.0
+15.4
+36.0
+0.0
+18.2
+45 .O
+-9.5
+1.5
+
+-37.
+Agriculture, industry, trade and transport dominate the structure o f the Georgian economy.
+Agriculture i s the largest sector, accounting for just under 20 percent o f GDP and 50 percent o f
+employment, although
+Figure 1. Georgia: Index of Sectoral Growth
+its share in GDP has
+6Agriculture, F : e r \
+
+Fishmg
+decreased
+steadily
+I
+(from over 30 percent
+- I-Industry
+1
+X
+X
+o f GDP in 1996). I2j0
+A Construction
+Industry
+contributes l m n I
+about 14 percent o f
+-x-- Trade, Restaurant &
+GDP and 6 percent o f
+Hotel services
+employment, with its
+1
+m TransDon&
+share changing little.
+Communications
+The share o f transport
+-e-- Fmancial intermediation
+and telecommunications has nearly tripled
+1996
+1997 ' 1998
+1999
+2000
+2001
+2002
++GDP
+from 4.6 percent in
+Source:
+Georgia State Department ofStatistics
+I
+I
+1996 to 12.1 percent
+by 2002. Transport has been the fastest growing sector, growing at over 20 percent annually
+because o f the rapid expansion o f o i l transit from the Caspian Sea. Other fast growing sectors
+include construction and financial services. Trade has grown slightly faster than overall GDP.
+
+I
+
+~
+
+I
+
+I
+
+'
+
+I
+
+~
+
+The Baku-Tbilisi-Ceyhan Pipeline (BTC). As a transit country Georgia will earn
+8.
+revenues on B T C transit fees, which vary from US$0.12 per barrel for the first five years o f B T C
+operation, US$0.14 per barrel from
+Table 2: Impact o f BTC and S C P
+year 6 to 16, and thereafter to a
+2006 2007 2008
+2009
+maximum o f US$0.25 per barrel.
+Oil
+transit
+(million
+ton)
+14.2
+27.8
+37.1
+40.9
+When B T C nears i t s full capacity
+BTC
+transit
+Revenue
+(US$m)
+12.4
+24.3
+32.5
+35.8
+o f 1 million barrels per day in
+2.0
+3.0
+5.0
+6.6
+2009, the revenues to Georgia Gas transit (bcm)
+Value o f 5% o f gas (US$m)
+5.5
+8.3
+13.8
+18.2
+from B T C could be in the order o f Total Revenue/GDP (%)
+0.4
+0.7
+0.9
+1.1
+US$36 million -per year.
+Georgia
+and Azerbaijan have indicated-a willingness to participate in efforts to ensure transparent
+reporting o f earnings, and the World Bank Group will follow up and provide support for this
+during implementation and operation o f the B T C pipeline. At the same time the South Caucasus
+Pipeline (SCP) would transport about 6.6 b c m in 2009, o f which Georgia would be entitled to 5
+percent. Assuming that this gas gets monetized, the revenue effect o f B T C and SCP together
+would be about 1 percent o f GDP.
+
+I
+
+Inflation and Fiscal Outlook. Assuming improved fiscal and monetary policies (a
+9.
+coherent economic program with particular emphasis on improved revenue collection), the fiscal
+deficit (on a commitment basis) i s projected o n average to remain below 0.5 percent o f GDP, and
+the cash deficit to average 1.0 percent o f GDP, assuming that the stock o f domestic arrears are
+fully cleared by 2009. The tax-to-GDP ratio for the general government is assumed to increase
+by 1.4 percentage points o f GDP in 2003, and by 0.8 percentage point each year thereafter, with
+central government revenue increasing from 8.5 percent o f GDP in 2000 t o a still very l o w 11.4
+
+-4-
+
+percent o f GDP by 2005. The average rate o f inflation i s projected to stay around 5 percent per
+year. Gross reserves are projected at 1.1 months o f imports in 2003, and to increase gradually to
+
+1.8 months o f imports b y 2007.
+
+10.
+External Balances and Sustainability. Gross international reserves amount to a l i t t l e
+over one month’s imports, and the economy thus remains vulnerable to external shocks. Debt
+service obligations absorb more than one-third o f central government revenue. In addition, real
+interest rates, though declining, are still about 20 percent, reflecting high-risk premiums for
+lending activities. Official grants and loans through 2005 are projected t o average US$59 and
+US$139 million, respectively.
+1 1.
+The bulk o f Georgia’s external debt was accumulated after independence during the early
+1990s. By 1994, following the civil war and economic collapse, nominal public debt had
+climbed to US$1 billion, or 81 percent o f GDP, much o f it stemming from energy sector
+borrowing. In the context o f macroeconomic adjustment and more limited borrowing, the pace
+o f indebtedness slowed during the second half o f the 1990s, although the debt continued to grow
+in absolute terms. By 1999, the debt stock had risen to US$1.7 billion, but the ratio to GDP had
+declined to 60 percent, following strong output growth in the second h a l f o f the decade. With
+l i t t l e net borrowing, debt accumulation has further slowed in recent years, to a stock o f US$1.8
+billion at end-2002.
+12.
+FSU countries (especially Russia and Turkmenistan) accounted for 65 percent o f total
+claims in 1994, but their share had come down to 38 percent by 1998 and 31 percent by 2002.
+Claims by Paris Club creditors, excluding Russia, have been relatively l o w (around 10 percent)
+and have increased only slightly since 1994. In turn, the share o f IMF and World Bank claims
+has risen steadily since 1994, reaching 37 percent in 1998 and 45 percent in 2002.
+13.
+During 1995-98, Georgia’s bilateral debt was rescheduled through 11 independent
+country-specific deals. However, Georgia soon began to accumulate arrears on some o f the
+rescheduled debt. In 200 1, the Paris Club granted a flow rescheduling o f principal obligations o n
+“enhanced Houston terms.” These reschedulings have implied little relief in NPV terms. The
+N P V o f debt and scheduled debt service relative to exports are 148 percent and 23 percent
+respectively. Indicators in relation to central government revenue are much less favorable. At
+end-2002, the ratio o f NPV o f debt to government revenue was 500 percent, while scheduled
+debt service payments amounted to 51 percent o f revenue. This reflects partly Georgia’s
+extremely l o w central government revenue collections, presently less than 10 percent o f GDP.
+14.
+The CAS baseline scenario i s predicated o n continued implementation o f economic
+reforms. Annual average real GDP growth is projected to be in the 3.5-5.0 percent range during
+2003-15, although growth rates may be higher in the initial years because o f the impact o f
+construction o f the B T C pipeline. In their scenario planning the IMF and the Bank have used a
+conservative assumption o f 4 percent until 2008, and 3.5 percent thereafter. The current account
+deficit -- excluding pipeline construction-related imports -- would decline progressively, with
+exports and imports assumed to grow at an annual average o f about 7 percent over 2003-08, and
+at about 5 percent thereafter. The real exchange rate is assumed to remain constant at its endM a y 2003 level. The ratio o f central government revenue t o GDP is assumed to grow, o n
+
+-5-
+
+average, 0.6 percentage points per annum. Financing gaps are assumed to be filled through a
+combination o f grants and concessional loans.
+15.
+The baseline scenario envisages a steady improvement in debt indicators (see Table 3).
+The ratio o f NPV o f debt to exports i s projected to fall to 123 percent by 2005 and then to
+stabilize at 80 percent by 2015. The debt service ratio would be reduced to 15 percent by 2005,
+10 percent by 2008, and under 7 percent in the outer years. Debt indicators relative to
+government revenue also show a steady improvement, but would remain high throughout most o f
+the projection period. The N P V o f debt to revenue ratio would fall below 250 percent by 2008,
+and under 200 percent by 2010. The associated debt service ratio would be 24 percent in 2008,
+declining to 12 percent by 2015. These projections reflect a relatively slow improvement in
+central government revenue, from a very l o w base, to 16 percent by 201 5.
+16.
+Stress tests show that the medium-term debt dynamics can be highly sensitive to some
+alternative assumptions. Under more sluggish export growth or an exogenous increase in debt
+(e.g., through the assumption o f significant non-guaranteed liabilities by the government), the
+ratio o f the NPV o f debt to exports would increase by up to 40 percentage points, climbing to
+almost 173 percent under the latter scenario in 2004. The ratio o f debt service to exports would
+go up by 10-15 percentage points relative to the baseline, reaching 24-30 percent in 2005.
+Changes o f this magnitude could put the balance o f payments under severe stress, especially
+given Georgia’s weak international reserve position.
+17.
+Indicators relative to government revenue would also deteriorate sharply under certain
+scenarios. For example, under a hypothetical 30 percent real depreciation in 2004, the NPV ratio
+would jump to 467 percent and would remain above 300 percent through 2008; the associated
+debt service ratio would increase to 60 percent and then decline to under 40 percent by 2007.
+Table 3. Georgia: External Debt Indicators
+(in percent)
+2003
+
+Projections
+2004
+2005
+2006
+
+145
+15.6
+404
+46.2
+
+133
+15.7
+354
+44.7
+
+~
+
+N P V o f debt to exports ratio
+Debt service to exports ratio
+N P V o f debt to revenue ratio
+Debt service to revenue ratio
+
+123
+15.3
+323
+42.8
+
+114
+13.2
+283
+35.3
+
+2007
+Baseline
+
+106
+11.6
+253
+29.6
+
+2008
+
+2010
+
+2012
+
+2015
+
+100
+9.9
+231
+24.4
+
+89
+10.1
+190
+22.6
+
+85
+6.6
+168
+13.8
+
+82
+6.4
+146
+12.0
+
+83
+6.5
+187
+14.7
+
+83
+5.3
+176
+11.1
+
+82
+5.4
+169
+10.0
+
+After Naples Terms
+
+NPV o f debt to exports ratio
+Debt service to exports ratio
+N P V o f debt to revenue ratio
+Debt service to revenue ratio
+
+98
+15.6
+275
+46.5
+
+95
+8.0
+253
+22.8
+
+94
+8.1
+246
+22.5
+
+91
+7.4
+226
+19.8
+
+89
+6.6
+212
+16.9
+
+Source: Country authorities and IMF staff estimates, projections and simulations.
+
+Note: Includes only public and publicly-guaranteed debt
+
+87
+6.1
+201
+15.0
+
+-6-
+
+18.
+A restructuring on Naples terms would have a significant impact o n the various debt
+indicators. Under this scenario, the ratios o f NPV o f debt to exports and revenue would decline
+to 98 percent and 275 percent (in the base year), respectively (Table 3). The corresponding debt
+service ratios would decrease by an average o f 6 and 20 percentage points over the period 200406 compared to the baseline. The ratio o f debt service t o exports would reach single digits by
+2004, while the debt servicehevenue ratio would fall t o under 25 percent by the same year,
+below 20 percent by 2006, and to 10 percent by 2015. The path and level o f the debt service
+ratios suggest that Georgia’s external debt would become manageable with a stock operation on
+Naples terms.
+19.
+Relations with the IMF. Improved fiscal management since mid-2000 paved the way
+for approval o f a new three-year program under the Fund’s Poverty Reduction and Growth
+Facility (PRGF). Disbursements under the previous Fund program had been suspended as fiscal
+performance deteriorated in the run-up to the 2000 presidential elections. The first and second
+reviews under the current PRGF took place in October 2001 and July 2002, respectively. At 2
+percent o f GDP, the fiscal deficit was slightly higher than programmed because o f shortfalls in
+external financing, and revenue collection improved only slightly from 14.3 percent o f GDP t o
+14.4 percent over the period. An IMF mission that visited Georgia in July 2003 t o discuss
+completion o f the postponed third review found that new fiscal pressures had emerged, with tax
+revenue falling short o f budget targets, and an accumulation o f substantial new budget arrears.
+The IMF thus saw the need inter alia t o introduce tax reform measures, adjust electricity tariffs
+and revise the 2003 budget t o close the fiscal gap. The authorities achieved the first t w o but
+were unable to secure parliamentary approval o f a revised budget. Although i t was not possible
+t o complete the third review, the IMF has been providing technical advice t o Georgia o n the
+2004 budget, and will begin discussions in January 2004, when the current PRGF expires, o n a
+possible new program to support Georgia’s EDPRP.
+
+20.
+Economic Opportunities and Obstacles. Given the small size o f Georgia’s domestic
+market, higher growth rates will need t o come increasingly f r o m export expansion, especially in
+those sectors where the country has a comparative advantage and the potential t o create
+significant new j o b opportunities, such as agriculture and agro-processing. Fortunately, Georgia
+has a well-educated and relatively low-cost labor force, which could allow it t o be competitive in
+producing high value goods and services. In addition, while much o f the country’s physical
+capital base has depreciated, there are still large pockets o f equipment and facilities that can be
+used in export production. Georgia also has significant transportation infrastructure facilities,
+and i s located close t o important regional and European markets. Being the most direct link
+between the Black Sea, the Caspian Sea and Central Asian countries, Georgia has the potential t o
+become a regional transit hub, particularly for rapidly growing oil-producing countries such as
+Azerbaijan and Kazakhstan. In the next few years, construction activity and transit fees f r o m
+energy pipelines will also bolster the economy.
+
+21.
+
+M u c h o f Georgia’s policy framework favors competitive exports. The trade regime i s
+liberal (despite some recent increases in tariff rates and coverage), and Georgia faces n o
+significant trade barriers in world markets, having been a member o f WTO since June 2000.
+Realizing this export potential will require concerted action t o address the governance issues
+outline above, which raise the risks and cost o f doing business in Georgia and undermine
+exporters’ competitiveness. In the absence o f much FDI and interaction with foreign buyers,
+
+-7most Georgian firms have limited access to adequate technology and marketing skills that are
+essential to being competitive in world markets. This often results in l o w labor productivity
+despite the good education levels. Productivity differentials between Georgia and its rivals are
+larger than their wage differentials, indicating that Georgia's low-wage advantage i s being eroded
+by i t s productivity disadvantage. This i s part o f the reason why sectors that are highly
+competitive internationally such as garments and wood processing have not flourished in
+Georgia.
+22.
+Earlier studies by FIAS and IDA', and a the recent FY03 Diagnostic Trade Integration
+Study, suggest an agenda o f challenges in order for Georgia to be able to realize i t s export
+potential. They include: (i)
+lack o f access for exporters to inputs at world prices, particularly
+a
+those procured in the domestic market, because the VAT refund mechanism i s unreliable; (ii)
+tax code that i s subject to frequent changes as well as unpredictable and corrupt administrative
+practices; (iii)
+high transportation costs due to unofficial payments to border agencies and the
+road police; (iv) widespread smuggling, reflecting corruption and weak customs administration;
+(v) high cost and collateral requirements o f finance when it i s available; (vi) lack o f enforcement
+o f intellectual property rights; (vii) national standards that are not recognized outside the CIS
+region; (viii) inadequate and unreliable power supply; and (ix) obstacles to rural market
+integration, including poor rural transport and market infrastructure, weak rural/farmer
+organizations, and petty corruption along market routes. This environment encourages the
+proliferation o f informal and small-scale activities, creates a strong bias against formal domestic
+tradable activities, and does not allow the already small domestic market to become a platform
+for export growth.
+
+As indicated above, infrastructure constraints limit Georgia's growth prospects. Since
+23.
+independence, Georgia has experienced frequent power cuts and limited supply o f gas and
+electricity during the winter. The increase in energy import prices led t o a six-fold decrease in
+gas imports and rendered thermal power generation uneconomical, causing overall electricity
+generation t o f a l l by more than half. The country n o w relies largely o n hydro-electric stations
+for i t s power supply, but the largest one by far - Enguri - lies in the territory partially controlled
+by the breakaway region o f Abkhazia, and more than a third o f Enguri's electricity production i s
+consumed by Abkhazia without any payment. Collection rates o n electricity that finds i t s way t o
+domestic consumers have been low, especially outside Tbilisi. Collection rates o n gas consumption have been l o w throughout the country. A s a consequence, energy infrastructure has been
+poorly maintained and the sector has accumulated significant external debts in the order o f 20
+percent o f GDP by end-2002, and the quasi-fiscal deficit i s estimated at almost 6 percent o f
+
+GDP.
+
+24.
+
+This situation persists despite sound legal and policy reforms t o demonopolize and
+privatize the electricity sector. Generation, transmission and distribution have been separated,
+and are n o w largely under private ownership or management contracts. Reforms in the gas
+sector have followed a similar path - although at a slower pace - with large private Russian
+interests in transmission and distribution. The BEEPS shows that f i r m s in Georgia o n average
+lose more than 60 business days per year due to power outages. Governance issues at all levels corporate, as well as regional and central government - have been the m a i n problem.
+See FIAS, Administrative Barriers to Investment (June 2001) and the Cost o f Doing Business Survey (2001).
+
+-8-
+
+25.
+
+Telecommunications, o n the other hand, i s generally at a more advanced stage than other
+South Caucasus countries, with relatively cheap access. Similarly, the main roads are being
+renovated and the established road fund i s proving helpful. Emphasis in future needs to shift to
+improving secondary roads and access to telecommunication in rural areas, in order t o take
+advantage o f Georgia’s potential for export o f agricultural products.
+
+Poverty Trends and the MDGs
+26.
+Georgians have experienced a severe decline in welfare since independence. Annual
+income per capita is about 56 percent below the pre-independence level, unemployment rates are
+high (16 percent in 2001), and many Georgians are underemployed. In the circumstances,
+poverty, vulnerability and inequality have all increased over the period. Georgia clearly needs t o
+achieve and sustain higher economic growth rates to improve living conditions. Given the small
+size o f the domestic market, this can be achieved only through a stronger expansion in export
+activities, especially o f those in which Georgia has a comparative advantage and the potential to
+generate new j o b opportunities, such as agro-processing. Equally important i s reliable delivery
+o f quality services, such as education, health, roads, electricity, heating, and clean water, and a
+w e l l targeted social safety net.
+Table 4. Change in poverty between 1997 and 2002
+
+Poverty definitions (lines)
+Official minimum
+Urban
+Rural
+US$4.30 per capitdday at PPP”
+Recommended poverty line (baseline)
+Urban
+Rural
+US$2.15 per capitdday at PPP ‘ I
+US$1.075 per capitdday at PPP ‘ I
+
+1997
+46.6
+46.7
+46.4
+13.6
+13.6
+13.8
+13.4
+9.7
+1.7
+
+Poverty Headcount (% o f population)
+1998
+1999
+2000
+2001
+50.5
+53.0
+52.5
+52.0
+53.3
+60.4
+56.6
+54.3
+47.1
+44.6
+48.0
+49.6
+19.8
+23.2
+23 .O
+22.8
+19.8
+23.2
+23.0
+22.8
+22.2
+27.4
+24.6
+24.1
+16.8
+18.4
+21.4
+21.3
+11.8
+14.5
+15.4
+14.8
+3 .O
+3.2
+3.3
+3.4
+
+2002‘
+51.3b’
+53.7
+48.8
+21.7
+21.7
+22.6
+20.7
+13.5
+2.7
+
+Source: SDS SGHH primary data and World Bank, see Georgia Poverty Update, Report No. 22350-GE. Note: The official
+poverty line uses a normative basket and CPI price data to cost it and i s around 100 GEL (about US$50 at current exchange
+rate) per equivalent adult per month. The recommended poverty line was developed jointly by the World Bank and SDS in
+1998; it uses actual consumption patterns of the population and survey prices (its non-food component i s fixed in real terms to
+1996 and deflated using the CPI for non-food items); it i s about 55 GEL (US$25) per month per equivalent adult. The
+equivalence scale used in the official and recommended methodology i s the scale developed by SDS and used in Georgia to
+determine the social assistance payments. International poverty lines expressed in dollar terms (US$ in PPP) are per capita
+and use the latest (1996) revision o f the World Bank, updated with the Georgia CPI. All figures are averages o f quarterly data.
+a/ Preliminary estimate; corrections for changes in the Survey not made. b/ Bank estimates using official methodology.
+c/ Using 0.33 as PPP conversion factor.
+
+Poverty Profile. Strengthened economic performance did result in a reduction o f
+27.
+poverty in the mid-1990s. However, Georgia’s growth rate slowed considerably between 1998
+and 2000, and consequently inequality and poverty, as measured by any o f several
+methodologies, increased (see Table 4). Growth was affected by a number o f shocks, including
+the 1998 Russian crisis, severe droughts in 1998 and 2000, and the increase in the price o f
+energy imports in 2000. These problems were compounded by internal and extemal political
+instability. Growth has been recovering since 2001 (Table l),
+leading to a slight reduction in
+overall poverty.
+
+-9-
+
+Differential Impact o f Rising Poverty. IDA, in close collaboration with the State
+Department o f Statistics, prepared a Poverty Update for Georgia covering the 1998-2000 period.
+The study found that the increase in poverty affected various socio-economic groups differently,
+with growing differentiation among the poor, and signs that the poorest became even poorer.
+Poverty depth and severity both increased. Driven by the volatile economic environment and
+absence o f an adequate safety net, vulnerability to poverty for the average household rose
+significantly, with female-headed households being the most vulnerable. Although the extent o f
+absolute poverty at any point in time remained around 20-24 percent, 40 percent o f the
+population experienced poverty at least once during the year 1999-2000, and 60 percent o f the
+population faced a real risk o f experiencing poverty in the medium term.
+
+28.
+
+29.
+The trend in overall poverty reflects somewhat different developments in urban and rural
+poverty. In 1997, rural and urban poverty incidence were almost the same. In 1999, the urban
+poverty headcount doubled in comparison to 1997, whilst the rural headcount increased by only
+37.3 percent. Then in 2000, responding to the non-agricultural sector recovery after the Russian
+crisis, urban poverty dropped by 10.2 percent, stabilized in 2001 and declined further by 6.2
+percent in 2002. Because o f the drought, however, rural poverty increased in 2000, remained
+unchanged in 2001 and only in 2002 decreased by 2.9 percent. A s a result, the difference
+between the urban and rural headcount has narrowed -- while in 1999, the urban poverty
+headcount was almost 50 percent over that in the rural population, in 2002 it was only 9 percent
+higher.
+30.
+Determinants o f Poverty. The Georgia Poverty Update identified that the strongest
+determinants o f poverty risk in Georgia were economic: employment status, sector o f
+employment, ownership o f productive assets and education. It found an elevated poverty risk
+among urban households, households with an unemployed head and female headed households,
+as well as children aged 7- 15, the disabled, those with l o w levels o f education, single pensioners
+and orphans. The working poor are becoming the majority, often employed in the informal
+sector with insecure, temporary and l o w productivity jobs.
+Non-Income Indicators o f Poverty. Non-income indicators o f poverty in Georgia,
+3 1.
+inherited from Soviet times, s t i l l compare favorably with those o f countries with similar per
+capita income. The UNDP 2003 Human Development Report ranks Georgia 88'h among 175
+nations. However, Georgia faces a major challenge in sustaining these relatively favorable
+indicators. Studies conducted by various international organizations (UNICEF, U S A I D, EC,
+etc.) indicate that maternal mortality, immunization rates, access to health, safe water and
+sanitation, and the quality o f social services have worsened in comparison with the pre-transition
+situation.
+Millennium Development Goals. The estimates o f Georgia's prospects for achieving
+32.
+the Millennium Development Goals (MDGs) are indicated in Table 5.
+Capacity to Monitor Poverty. Starting in mid-1996, with technical assistance from
+33.
+IDA, DFID and other donors, household surveys have been conducted in Georgia o n a quarterly
+basis, The surveys provide detailed information from 3,350 households o n property, economic
+status, incomes, expenditures, consumption, household composition and demographics. In 2000,
+
+c
+3
+
+I
+
+v
+
+ri
+I
+
+d
+E
+3
+.z
+
+c
+
+W
+
+S
+
+B
+
+W
+
+5'::s %
+
+-12additional data were collected regarding access to education, health and actual food
+consumption. These surveys provide a wealth o f information necessary for monitoring poverty
+and the implementation o f Georgia’s EDPFW. Significant capacity to analyze the survey data
+has been developed at the State Department o f Statistics (SDS), although current budget
+constraints pose risks for adequately maintaining this work. The capacity to collect reliable
+administrative data on the non-income dimensions o f poverty could be strengthened.
+
+34.
+Internally Displaced People. There are over 250,000 IDPs in Georgia. Their vulnerability to poverty i s magnified by their lack o f access to land. Thus IDPs living in collective
+centers are 3% times less likely to have access to land than the local population, and those living
+in private accommodations half as likely. In addition, IDPs’ rate o f unemployment i s very high 40 percent among IDPs living in collective centers. Government benefits do seem, however, to
+be reaching the IDPs, with 80 percent to 90 percent receiving a government benefit.
+35.
+Gender Issues. Gender inequality does not appear to be a major problem in Georgia,
+although data deficiencies do not permit deep enough analysis to reach definitive conclusion.
+According to official statistics, women make up 48 percent o f the labor force. Education
+outcomes are comparable by gender, with women having only slightly lower secondary
+completion rates than men, but higher enrollment in tertiary education. The legal framework for
+women’s rights i s sound, and they enjoy equal access to property and protection o f property
+rights. Given tight fiscal constraints, free universal access to daycare and kindergarten i s no
+longer provided, affecting women’s labor market participation. Women represent only 7 percent
+o f Parliamentarians (although this includes the Chairwoman o f Parliament), and hold only two o f
+the 16 cabinet positions, but a large number o f women serve as deputy ministers and department
+heads, and women have a large role in public life. Georgia’s economic difficulties and the
+continued impact o f civil conflicts have put greater demands on women, with an increasing
+number responsible for supporting their families (thus women are the main source o f income
+among IDPs). Men have suffered too, both psychologically from feeling they have failed in their
+role as providers, and physically, with increased incidence o f alcoholism and heart disease.
+Increasing economic growth, settling o f conflicts, and improving the situation o f IDPs will go far
+in improving the lives o f both women and men.
+36.
+Core Labor Standards. Georgia i s among the countries that have ratified all the I L O
+conventions pertaining to the core labor standards: (i)
+elimination o f all forms o f forced or
+compulsory labor; (ii)
+effective abolition o f child labor, with priority to the worst forms; (iii)
+equal opportunity and non-discrimination in employment; and (iv) freedom o f association and
+the right to collective bargaining. The provisions o f the conventions have been incorporated into
+various elements o f Georgian legislation. Further detail i s provided in Attachment 111. However,
+no assessment has yet been initiated regarding their implementation, and Georgia i s behind in
+providing reports due to the I L O
+Governance
+37.
+A key constraint to Georgia’s development i s i t s difficult governance environment,
+including both weaknesses in public sector coordination and implementation capacity, and some
+aspects o f corruption. As discussed below, bribery appears to be getting worse at a time when
+neighboring countries are seeing improvements. The Government has become fragmented, with
+
+- 13 the excellent w o r k o f many pockets o f professionalism diluted by lack o f complementary support
+from other agencies. There are fears that the sustainability o f donor-financed projects may be
+compromised by lack o f follow-through once the projects close. Among the contributing factors
+underlying this situation are: (i)
+the fact that, as a relatively young state, Georgia has had to set
+up entirely n e w legal, government, and accountability structures and systems; (ii)
+geo-political
+fragmentation and lack o f strong leadership f r o m Tbilisi; (iii)a weak and poorly paid and
+equipped c i v i l service operating without basic public sector management systems; (iv) a tradition
+o f close-knit clan and family based loyalties; and (v) a broad acceptance o f avoiding obligations
+to central government authority. Governance problems and corruption undermine Georgia’s
+competitiveness and hamper the creation o f jobs crucial for combating poverty. Furthermore,
+these problems mean that the efficiency and effectiveness o f public expenditures and services are
+sub optimal, which hurts the poor disproportionably.
+
+38.
+Despite these problems, the Government has had some important successes in structural
+reform. Privatization o f telecommunications and energy started earlier than in most F S U
+countries, and there have been various legal reforms t o improve the business climate. Unpopular
+but necessary tax reform and electricity tariff increases have been passed at various stages,
+including in recent months, and health sector restructuring i s underway, although in Tbilisi it has
+faced significant opposition. The benefits o f these and other structural reforms are, however,
+often hindered by poor implementation - thus the privatization o f electricity distribution did not,
+for example, yield the expected returns, partly because weak l a w and order have hindered
+payment collection.
+39.
+The Business Environment. The EBRD/World Bank Business Environment and
+__________
+__
+Enterprise Performance Survey (BEEPS)
+Figure
+2.
+Georgia:
+Perceptions
+o
+f
+the
+shows
+that
+Georgia’s
+business ’’
+I
+Business Climate 2002
+environment has improved in several
+I
+(0 i s best and 4 worst)
+areas over the last f e w years, with most 1
+I
+Financing
+of the BEEPS indicators - business 1
+4finance, infrastructure, business tax
+burden, regulations, and judiciary - n o w
+being close t o the CIS average (see
+Figure 2). But in the crucial areas o f
+crime and bribery Georgia’s indicators
+i
+have worsened with the percentage o f
+JudiciarylRepulations
+firms reporting that they frequently paid
+I
+*
+.CIS
+& -&orma I
+bribes actually having increased slightly,
+Source:TheWorldBankandEBRD
+I
+at the same time that the incidence has
+A
+decreased in neighboring countries.
+\
+
+,
+
+Financial Sector. Georgia’s financial system is dominated by its banking sector, which
+is small by regional and international standards. The central bank, the National Bank o f Georgia
+(NBG), has a large degree o f independence, and over time has introduced tighter prudential
+requirements, stricter loan classification and provisioning rules, as w e l l as better accounting
+standards. There are n o barriers t o entry for banks, and foreign banks are present. However, the
+weak economy undermines investment in this sector despite structural reforms pursued since
+1995. Bank capital i s 26 percent o f total assets, which i s relatively high, and reflects excess
+
+40.
+
+- 14liquidity in the banking system. This excessive liquidity mainly results from: (i)undeveloped
+credit skills and credit policy in banks (such as lending overly relying o n collateral rather than
+based o n cash-flow); (ii)lack o f credit information; (iii)excess T-bill yields due t o a weak
+primary T-bill market. The risk-aversion o f the lending institutions has led t o relatively l o w
+levels o f financial intermediation, and impedes enterprises access to finance. N e w legislation
+has recently been adopted to address money laundering, but it requires some strengthening. The
+National Bank o f Georgia will be primarily responsible for implementation and i s attempting to
+build capacity t o implement the l a w and regulations to ensure that Georgia’s anti-money
+laundering framework meets international standards.
+Consequences o f Poor Governance. Georgia’s climate o f corruption and poor govern41.
+ance i s hindering broad-based economic growth and poverty reduction in several ways.
+0
+
+0
+
+0
+
+42.
+
+Corruption is limiting the benefits o f an otherwise improved business environment.
+Enterprises o f every size report being harassed from all sides, and there is a perception
+that there is an effective ceiling o n enterprise growth for those without special influence.
+Weak and corruption-ridden enforcement authorities have contributed to a climate where
+crime and security issues are perceived to be more pervasive than in neighboring
+Caucasus countries. The end result has been serious difficulty in attracting much needed
+private investment.
+N o t surprisingly, the shadow sector o f the economy is growing, and n o w constitutes
+maybe a third o f GDP. This large shadow economy, combined with pervasive corruption
+in tax and customs administration, has kept public revenues under 15 percent o f GDP,
+w e l l below potential. Lack o f revenue and poor governance have severely hampered
+progress in education, health and social protection, slowed the maintenance and rehabilitation o f vital infrastructure, and contributed to unreliable and l o w quality utility
+services.
+The national budget covers only a one-year cycle, and its strategic foundation i s weak.
+Overall resource allocation i s not w e l l linked to sector objectives, programs or policies.
+The EDPRP team made an attempt t o cost and phase development priorities, and thereby
+develop the medium-term expenditure implications, but in practice the three planning
+tools - the EDPRP, the medium-term Indicative Plan, and the annual budget - are not yet
+adequately integrated into an effective cycle o f policy formulation, budget preparation
+and decision-making.
+
+Fiscal Decentralization and Local Governance. In addition t o the central government,
+there are three levels o f decentralized government: regions, rayons, and local self-governing
+units. Resource transfers to these decentralized bodies levels are unpredictable, incentives for
+increased regional tax collection effort are inadequate, and the distribution o f resources across
+local government units i s highly inequitable. A number o f expenditure responsibilities have been
+delegated to the local level, but without ensuring proper funding f r o m the center. At the same
+time, the center attempts to regulate expenditures by enforcing national norms. Such rigidities
+create perverse incentives and perpetuate inefficiencies in the allocation o f public resources. The
+consequences o f the system are duplication or under-provision o f basic public services (e.g.,
+water and electricity), under-funding o f key expenditures such as teachers’ salaries, and
+
+- 15 accumulation o f arrears. Furthermore, there are large disparities in per capita spending by
+regions and rayons, with poorer local government units spending much less than well-off ones.
+
+111. THEWORLD BANKGROUP’S
+TRACKRECORD IN GEORGIA
+IDA ’s Country Portfolio and Non-LendingProgram
+
+43.
+IDA lending to Georgia since its inception in FY95 has totaled $730.2 million for 33
+credits (for 31 projects), o f which 16 have been completed. The current portfolio consists o f 17
+credits (including one supplemental) totaling $297.2 million (of which $190.8 million was
+undisbursed as o f October 6, 2003). In addition, three GEF projects have been approved for
+Georgia, amounting to $12.5 million. Since Georgia joined the I F C in 1995, I F C has approved
+$103.8 million o f investments in 8 projects. IFC’s held portfolio in Georgia as o f October 2003
+amounted to $27 million (4 projects).
+
+44.
+In preparation for this CAS, IDA’s Country Team commissioned an Independent Portfol i o Review (IPR) in Novembermecember 2002, which was then followed by a Joint Portfolio
+Review (JPR) with the authorities in January 2003. The objective o f the IPR was to have an
+independent assessment o f the health o f the portfolio, i t s appropriateness in light o f earlier CAS
+objectives and evolving country conditions, and to provide guidance to the country team o n ways
+to improve the effectiveness o f IDA assistance to Georgia. The IPR found that most projects
+were relevant and generally w e l l managed and supervised, although a weak governance and
+economic policy environment appeared to be limiting the potential impact and sustainability.
+Projects tended to be successful in delivering their planned inputs and outputs, but sustaining
+results were less certain due to lack o f funding for maintenance and operation, and the fragility
+o f implementation arrangements -- projects had to rely o n Project Implementation Units (PIUs)
+to create islands o f efficiency and integrity, with the future o f these PIUs uncertain once the
+project ends. In some cases sustainability apparently has been achieved through the use o f
+autonomous agencies (the Social and Municipal Development Funds), through the more privatesector oriented projects, and through the use o f community organizations. The I P R also
+concluded that many operations would benefit from a better definition o f expected outcomes and
+interim outputs. The follow-on JPR initiated a dialogue with all counterpart entities, and work i s
+underway, led by the Country Office in Tbilisi, to develop such indicators for operations where
+they were lacking at the initial stage. Drawing on the IPR, QAG and OED reports, ICRs and its
+own supervision work, the Georgia Country Team has identified some main conclusions
+regarding what IDA’s assistance efforts have accomplished in Georgia to date and the lessons
+learned to improve future effectiveness.
+strengthen
+Evaluation o f the Last CAS. The objectives o f the last C A S were to: (i)
+45.
+deepen and diversify sources o f growth; (iii)
+introduce policy and institutional
+public finance; (ii)
+reforms to protect Georgia’s environment and natural resources; and (iv) reduce poverty - the
+overarching objective. The Country Team concluded that these objectives were appropriate and
+represented the depth and breadth o f the country’s development challenges, but overestimated
+the capacity o f the Government t o sustain the reform momentum o f the mid-1990s. The risks
+were correctly identified and remain relevant: failure to reach expected outcomes due either to
+unsatisfactory implementation o f policies and/or deterioration in the external environment; risk
+
+- 16o f policy reversal from vested interests; and renewed c i v i l conflicts.
+governance factors were, however, underestimated.
+
+The risks related to
+
+46.
+
+Support f o r Structural Reform. Considerable progress has been made in supporting
+structural reform, including trade liberalization, legal and regulatory reform, privatization and
+liberalization, banking sector restructuring, and judicial and health sector reforms. However,
+weakened fiscal management, less than sufficient public sector capacity, and poor govemance
+have diluted these successes. These constraints have affected the implementation o f secondgeneration reforms requiring sustained commitment across Government, and an increased
+capacity to evaluate, design, monitor and enforce implementation. Subsequent to the IPR, in
+early FY04 OED completed a review o f IDA adjustment and related technical assistance
+operations in Georgia, and downgraded several ratings initially assigned at the time o f project
+closing, for many o f the same reasons identified in the IPR.
+
+47.
+
+Reducing Poverty. IDA interventions in the human development sectors have aimed at
+improving the efficiency and effectiveness o f public services, while at the same time explicitly
+emphasizing strategies and interventions that target poor and vulnerable population groups,
+including by improving their access to social services. Economic and sector work in human
+development, as w e l l as policy advice and dialogue based o n E S W findings, have assisted the
+Government in defining strategic options in health, education and social protection, and guided
+the Bank’s project work in these areas. E S W has consisted o f a note o n Options for Pension
+Reform, a Poverty Update, and studies o f health, education and social protection in the Public
+Expenditure Review. The f i r s t Health Project closed o n December 3 1, 2002. The I C R for the
+project evaluates the achievement o f the project objective as mixed; unsatisfactory regarding the
+impact o n the health o f the population, and satisfactory concerning the project’s substantial
+contribution towards reorienting the sector and strengthening institutions at the central level.
+
+48.
+Social Sectors. Projects currently under implementation include an Education System
+Strengthening and Realignment Project (APL), a Primary Health Care Development Project,
+and a Structural Reform Support Project (SRSP), which include components for pensions and
+hospital restructuring, and a Social Investment Fund (SIF) Project. The education project aims at
+improving learning outcomes in primary and secondary education, the health care projects at
+improving financing and access to primary care services. The pension component o f the SRSP
+helped develop a management information system, including individual accounts, for the
+Georgian pension system; the ongoing health component i s rehabilitating the hospital sector.
+The SIF provided urgently needed assistance to poor and vulnerable communities. While it is
+premature to assess the outcomes o f the ongoing projects in health and education, the SIF has
+already funded some four hundred micro-projects which rehabilitate small-scale social and
+economic infrastructure, thus improving access to better-quality essential services. A US$5
+m i l l i o n supplement t o the SIF was approved in February 2003 t o rehabilitate schools in Tbilisi
+damaged by the 2002 earthquake. A second SIF project that focuses o n community mobilization
+and small-scale infrastructure development was approved by IDA’SBoard o f Directors in M a y
+2003, and unanimously approved by the Georgian parliament in August 2003.
+Infrastructure. The Roads Project has led t o a substantial improvement in the m a i n
+road network, thus reducing road transport costs and improving access t o the major traffic
+corridors; institutional strengthening i s underway, and there has been a marked improvement in
+
+49.
+
+- 17the performance o f local contractors. The Energy Transit Institution Building project has helped
+the Government improve i t s capacity to negotiate and implement o i l and gas transit agreements
+maximize economic benefits, and minimize social and environmental costs. The Electricity
+Market Support is n o w underway after a year’s delays in hiring a management contractor for
+transmission and dispatch. The South Caucasus Trade and Transport Facilitation Study was
+completed in 2002, and was followed by a Policy Note which will form a basis for the proposed
+FY05 Trade and Transport Facilitation Project. In the power sector a study -- Revisiting
+Reform: Lessonsfiom Georgia -- reviewed the recent changes in the supply o f electricity and gas
+f r o m the perspective o f the households, utility operators, and Government representatives.
+Households continue to have high levels o f access to network services, but the numbers mask
+poor service and supply shortages, particularly outside Tbilisi. Despite rapid increases in the
+price o f electricity and non-network fuels, the share o f government spending o n energy has
+remained constant. The study recommends that subsidies be targeted using actual levels o f
+electricity consumption, and that they be sufficient to ensure that households can pay for a basic
+minimum level o f electricity consumption.
+
+50.
+
+Public Finance and Procurement. There were some improvements in public finance,
+supported by the Structural Reform Support Project, including the strengthening o f the treasury
+system. Since late 2002, however, the reform momentum has been compromised because o f an
+overall deterioration in the economic and political environment. This has also put at risk the
+sustainability o f earlier achievements. The recent FY03 Public Expenditure Review provides a
+diagnosis and recommendations for expenditure and management reforms. The Government has
+yet to follow up o n many o f these recommendations, although a number have been included in
+the EDPRP. AAA has also included the Country Procurement Assessment Report issued in June
+2002, and the FY03 Country Financial Accountability Assessment, which was discussed with
+key Government counterparts in June 2003.
+Environment and Natural Resources. IDA has assisted Georgia in developing a
+51.
+National Environmental Action Plan, a National Black Sea Action Plan, and a National Oil Spill
+Contingency Plan to deal with existing and future risks o f o i l pollution in the Black Sea coast.
+However, institutional and financial constraints compounded by limited political will have
+resulted in slow implementation o f these plans. Assistance has been provided for the
+establishment o f operational protected areas: 46,000 ha for protecting and managing threatened
+forest and wetlands habitats along the Black Sea, and 184,000 h a for protecting and managing
+three areas in the Caucasus Mountains. Activities have been supported t o enhance public
+awareness and interest o n the protection o f critical wetlands along the Black Sea, with some
+visible results. Efforts t o establish a sustainable and effective integrated coastal zone
+management system have produced only modest results to date.
+IFC Support. IFC’s lending and investments in Georgia have been tailored t o the
+52.
+country’s special circumstances: limited foreign investments, the non-existence o f large local
+companies, limited access t o financing f o r a nascent SME sector, and the lack o f advice f o r
+private companies o n business-related issues such as corporate governance and leasing. I F C has
+supported:
+L o c a l Companies, for example GG&MW, a mineral water production company, where
+IFC’s loans supported the company’s acquisition o f key strategic assets and strengthened
+
+- 18 control over i t s key brand, Borjomi mineral water. IFC’s equity investment helped the
+company rehabilitate two mineral water bottling facilities, diversify i t s product m i x and
+develop the distribution network. IFC sold i t s stake in the company in 2002.
+0
+
+0
+
+0
+
+Foreign Investments. IFC invested in equity and provided loans to Ksani Glass
+Factory, a producer o f high-quality glass bottles and packaging. The $2.5 million equity
+investment and $6.3 million loan supported Ksani’s expansion and modernization. At
+project completion, the facility will be producing 40,000 tons o f high quality glass bottles
+annually with a high level o f product flexibility. In the power sector IFC provided a $30
+million loan to AES Corporation to support the newly privatized Tbilisi area power
+distribution company Telasi. The loan was pre-paid in August 2003, when the AES
+corporation sold the Tbilisi electricity distribution system to UES. In the o i l and gas
+sector, IFC supported BP and other sponsors by financing the construction o f the BakuSupsa Early Oil Pipeline, which carries Caspian oil to Georgia’s Black Sea coast. IFC’s
+investment in the Georgian portion o f the pipeline was made in 1998 and totaled $30
+million.
+
+SME Sector. To reach small and medium enterprises, IFC provided equity and long-term
+credit lines to TBC Bank and helped establish Georgia Microfinance Bank - the
+Procredit Bank - the country’s first bank specializing in lending to micro and small
+enterprises. In June 2000, IFC purchased a 10 percent stake in TBC Bank. IFC’s support
+helped TBC to grow from a “pocket” bank into the largest and one o f the best performing
+commercial banking institutions in Georgia. In 1999, IFC helped establish the Procredit
+Bank -- the first bank dedicated to lending to micro and small enterprises in the country,
+and now the fastest growing banking institution in Georgia.
+Development o f M o r t g a g e Lending. In the financial sector, IFC has focused on
+supporting the development o f the housing finance market. The introduction o f mortgage
+financing has allowed individuals for the first time to leverage their residences to raise
+their standard o f living. In 2000, IFC extended a $3 million credit line to the Bank of
+Georgia, and together with reflows, this credit l i n e financed over 500 projects totaling
+$4.5 million. In June 2003, IFC provided a second $5 million credit line to the Bank o f
+Georgia for housing finance and for on-lending to small and medium enterprises. In
+August 2001, IFC provided a second $3 million loan to TBC Bank to support the
+development o f i t s mortgage lending.
+
+Lessons learned
+
+53.
+Georgia’s rapid initial progress with first generation reforms during the last decade led to
+over-optimism as to the speed at which deeper reforms could be implemented. In particular,
+IDA underestimated the pervasive impact o f weak governance on policy making and
+implementation. Some key analytical work was delayed (e.g., the Public Expenditure Review),
+partly to accommodate increased supervision needs o f an expanding portfolio. In retrospect this
+was inadvisable, and economic and sector work has been given higher priority in the proposed
+FY04-06 strategy. Given the Government’s weak capacity, there will be a focus on supporting
+policy and institutional reform, and project supervision i s being funded at higher than standard
+coefficients to allow intensive oversight, including strong attention to fiduciary aspects.
+
+- 19Responsibility for supervision has been decentralized to the Georgia Country Office in Tbilisi,
+and the Country Office has been strengthened by appointment o f a procurement officer.
+Improved coordination with other donors, some with large technical assistance programs in k e y
+areas, will be a crucial component o f the strategy.
+
+The IPR noted that five mechanisms seem t o have had a good track record o f producing
+54.
+tangible development outcomes even in this poor implementation environment:
+The use o f autonomous institutions like the Social Investment Fund and the Municipal
+Development Fund that can be financially self-sustaining;
+Community-based efforts that do not rely heavily o n central government institutions, such
+as the irrigation and drainage project that i s helping to build local social capital;
+Private-sector led activities, that again do not rely heavily o n resources f r o m the central
+government;
+Empowerment o f c i v i l society organizations which can press for real and effective reform
+in their respective spheres o f influence; and
+Active stakeholder participation in the design o f projects.
+
+55.
+
+There are several implications o f the above findings. First, IDA needs t o pay m u c h
+closer attention t o the broader institutional environment in Georgia, outside the immediate
+PIUdagencies responsible for project implementation, given risks t o sustainability o f even very
+good operations. Particularly close attention is needed to assessment o f governance factors
+which may influence the possibilities for success in achieving and sustaining development
+outcomes. Second, IDA investment lending should rely as heavily as possible o n the mechanisms identified above, where these are appropriate. Third, projects should include tangible
+measures o f outcomes and impacts (including improved institutional effectiveness). Where these
+may not exist for some ongoing projects they should be developed as soon as possible, and the
+dialogue during supervision missions and future JPRs should focus more heavily o n these topics,
+going beyond monitoringhesolving implementation issues. Fourth, Georgia would benefit f r o m
+a stronger AAA and non-lending work program t o complement portfolio supervision and n e w
+lending. The strategy outlined in Section V reflects these recommendations.
+
+IV. GEORGIA’S
+ECONOMIC DEVELOPMENT
+AND POVERTY
+REDUCTION
+PROGRAM
+56.
+
+The Government finalized i t s PRSP (known in Georgia as the Economic Development
+and Poverty Reduction and Program, EDPRP) in June 2003. The EDPRP builds o n the interim
+strategy (I-PRSP) presented t o the Boards o f the IMF and IDA in January 2001. I t was
+developed with strong participation by c i v i l society. The EDPRP and a Joint Staff Assessment
+(JSA) were presented t o the Boards o f the IMF and IDA in October and November 2003,
+respectively (Report No. 26964-GE).
+
+57.
+
+The EDPRP has two strategic objectives: (i)rapid and sustainable economic
+development, with a target o f real GDP growth o f 5-8 percent a year; and (ii)
+a reduction in
+
+- 20 extreme poverty, with a target o f a decline from 14 percent now to 4-5 percent by 201 5, and a
+reduction in overall poverty, from 52 percent n o w to 20-25 percent by 2015. T o meet these t w o
+objectives the EDPRP focuses o n progress in governance, macroeconomic policies, particularly
+in the fiscal area, the business environment, human capital, reducing the vulnerability o f the
+poor, development o f priority sectors o f the economy -- energy, transport and communications,
+tourism and agriculture, and the natural environment. The EDPRP also stresses the importance
+o f addressing the needs o f post-conflict zones and o f science and information technology.
+
+58.
+As the JSA notes, the EDPRP presents a credible poverty reduction strategy and its broad
+policy priorities are appropriate and consistent with the development challenges facing Georgia.
+The main areas where further progress will be needed during implementation and subsequent
+updates o f the EDPRF’ include: (i)
+improve the consistency o f the budget process with the program; (ii)
+ensure that the Ministry o f Finance and other key ministries are centrally involved in
+implementing and further developing the program; (iii)
+develop a prioritization o f the EDPRP’s
+spending recommendations; (iv) implement measures t o improve governance and reduce corruption; and (v) develop more specific, quantified, outcome measures.
+
+v.
+
+THEWORLD BANKGROW’S
+COUNTRY ASSISTANCE STRATEGY
+
+59.
+The Country Assistance Strategy for FY04-06 selectively supports the implementation o f
+the EDPRP in areas in which the Bank Group has a comparative advantage, and is closely
+coordinated with activities o f other IFIs and donors. Within this framework, IDA will a i m t o
+provide a level o f new financial assistance responsive to the authorities’ demonstrated
+commitment to improve governance, and supported by AAA, non-lending and outreach activities
+that may help build the foundation for institutional and policy renewal.
+FYO4-06 CAS Objectives and Focus
+
+60.
+The C A S will support Georgia’s EDPRP by assisting the Government to: (i)
+attain faster
+and more broad-based private sector growth, through the removal o f policy, institutional and
+infrastructure obstacles t o private sector development; (ii)
+develop and strengthen human
+capital and social protection, as well as environmental protection, both through short-term
+interventions and longer-term sustainable programs t o protect the most vulnerable; (iii)
+improve
+governance and efficiency o f public expenditures, including the strengthening o f public
+expenditure management through annual process-based public expenditure reviews. Improving
+governance is a cross-cutting objective, which will be reflected in a l l n e w lending activities as
+w e l l as enhanced supervision support for the ongoing portfolio.
+(i)Faster and M o r e Broad-Based Private Sector Growth
+
+61.
+
+Constraints to Business Development. T o support private sector development and
+attract needed foreign investment, the CAS strategy focuses o n removing key policy, institutional
+and governance constraints, as well as financial, energy and infrastructure bottlenecks. On the
+basis o f the FY03 Diagnostic Trade Integration Study, IDA will provide reform support and
+progress monitoring through the ongoing Enterprise Rehabilitation Project, an FY06 Private
+Sector Development Project, and periodic Business Environment Surveys. IDA will also provide
+
+-21 advisory support (in conjunction with USAID) for improving access to affordable finance
+through further financial sector reform, and will help reduce trade, transit and marketing costs
+through the FY0.5 Trade and Transport Facilitation Project, building o n the FY03 South
+Caucasus Trade and Transport Facilitation Study. I F C will complement these activities through
+selective investments in manufacturing, services, financial, natural resources and other sectors,
+and through its advisory programs. Particular focus will be placed o n S M E development.
+Support for alleviating energy bottlenecks will be provided by IDA’Songoing energy portfolio
+and dialogue.
+62.
+According to the recently completed studies conducted by F I A S and IDA (para. 22
+above), k e y policy constraints for private sector development also include corruption in the
+administration o f taxes and customs, as well as lack o f confidence in the rule o f l a w (Le.,
+enforcement o f contracts, property rights). To date, F I A S has undertaken five projects in
+Georgia, including an analysis o f administrative barriers to investment in 2001. Their findings
+are being incorporated in the Bank’s dialogue with the Government, with key measures t o be
+included in any future PRSC. F I A S i s currently assisting the Government to implement the
+recommendations o f the Study o f Administrative Barriers t o Investment in Georgia through
+public private sector dialogue. Annual updates o f the Cost ofDoing Business Survey throughout
+the C A S period will provide key monitoring indicators o f progress in this area. I F C would also
+provide support directly t o the private sector through the Georgia Business Development Project,
+a five-year technical assistance program implemented by the Private Enterprise Partnership with
+the support o f the Canadian International Development Agency (CIDA). The main components
+o f the project include development o f the leasing sector, improvement o f corporate governance
+practices. The corporate governance initiative i s helping Georgian businesses improve their
+practices to build investor confidence and increase their access t o financing. This component o f
+the program also includes advice t o the Government o n improving corporate governance policies
+and regulations.
+Support to SMEs. The Small and Medium Scale Enterprise (SME) sector i s a crucial
+63.
+area for potential private sector growth, and IDA has been supporting the sector through its ongoing Enterprise Rehabilitation Project. IDA plans, through the FY06 Private Sector Development Project, t o provide expanded support for management training, creation o f export-oriented
+clusters o f SMEs, advice to business associations and government, and monitoring o f the business environment. Additionally, I F C will conduct a targeted study o f the S M E sector in Georgia
+t o i d e n t i e key obstacles t o its development, and then recommend specific improvements in the
+regulatory and administrative environment. In addition t o the Georgia Business Development
+Project, and t o enhance the development impact o f the B T C pipeline project further, I F C has
+dedicated staff in the region to develop the S M E linkages and community development programs. Proposals currently under discussion include the promotion o f energy efficiency, use o f
+alternative energy and biodiversity, development o f community-based forest management and
+reforestation initiatives, as w e l l as expansion o f IFC’s microfinance activities.
+
+64.
+Financial Sector R e f o r m . Reforms o f the financial sector will be crucial to the success
+o f SMEs. IDA has accordingly been actively involved in encouraging financial sector reform
+through the joint I M F - W o r l d Bank Financial Sector Advisory Program (FSAP), which has been
+supporting: (i)strengthened banking and non-banking supervision; (ii)
+introduction o f international accounting standards; (iii)consolidation o f banks through higher capital requirement
+
+- 22 ratios; and (iv) anti money-laundering legislation. IDA i s also discussing possible support for
+improvements in payment systems, and helping (with U SAID) to establish a secured interest/credit bureau. IFC i s complementing IDA’S financial sector advisory work with support to
+the banking system. It i s providing funding through three leading Georgian banks, targeting
+SME lending through i t s credit lines, equity participation, or a combination o f the two. IFC i s
+also considering future mortgage financing projects and i s assessing additional ways to promote
+SME development, including through a leasing company.
+
+65.
+Energy Sector. Energy i s another major bottleneck in Georgia, and the FYOl Electricity
+Market Support project i s -- in close collaboration with KfW, USAID and EBRD -- introducing
+
+internationally experienced private management for electricity transmission, dispatch, and the
+wholesale market in an attempt to facilitate regional electricity trade, and introduce greater competitive pressure on electricity costs, and improve reliability o f supply. The Private Sector Advisory Service, managed by the World Bank Group, has advised the Government o f Georgia on
+privatization o f electricity distribution and generation outside Tbilisi, hiring o f private f i r m s to
+manage transmission network, system dispatch, and the wholesale electricity market. As a result
+the management o f both the wholesale market and the transmission and dispatch networks has
+been transferred to private foreign operators. However, results to date have not met expectations, and this has been one o f the most difficult areas in IDA’S ongoing portfolio in Georgia.
+W h i l e policy and legal reforms have been impressive, implementation has been hampered b y
+governance issues at all levels. Greater public support for improving tariff collections i s critical,
+and IDA will work closely with the authorities, other donors, non-governmental organizations
+and key stakeholders to try to achieve better knowledge and understanding by the public at large.
+IFC investment program includes financing o f the BTC project (Box 1).
+
+Box 1
+Baku-Tbilisi-Ceyhan Pipeline
+The Baku-Tbilisi-Ceyhan Pipeline i s a major new route for energy from the Caspian. IFC’s current
+investment program includes financing of the BTC project, building on i t s investment in the
+assist in
+construction of the Baku-Supsa early oil pipeline. IFC’s role in the BTC project i s to: (i)
+mitigating political risks and catalyzing significant long-term financing (both directly and by mobilizing
+commercial bank funding through i t s B loans); (ii)provide a sustainable environmental and social
+framework; (iii)initiate a Regional Review; (iv) undertake multi-stakeholder forums; (v) require
+substantial transparency and disclosure; (vi) help other lenders follow standards consistent with the
+WBG’s Safeguard Policies and Guidelines; (vii) help promote SME/community development,
+complementing BP/BTC’s work on this; and (viii) help BP establish the Caspian Development Advisory
+Panel (CDAP) to provide an independent review of BP‘s Caspian activities. Developmental impacts
+include (a) avoidance of additional shipping through the Bosphorus; (b) approximately U S 2 9 billion in
+revenues for Azerbaijan, US$580 million for Georgia and US3.4 billion for Turkey over 20 years,
+based on full development of a l l phases of the ACG fields; (c) establishment o f environmental offsets
+and Community/Social Investment Programs; and (d) development of new local jobs during
+construction/operational phases. Both Georgia and Azerbaijan have indicated a willingness to
+participate in efforts to ensure transparent reporting o f earnings, and the WGB will follow up and
+provide support for this during implementation and operation of the BTC pipeline.
+
+- 23
+
+-
+
+66.
+Agricultural Reform Agenda. Agriculture and agro-processing have good growth
+potential in Georgia, both for domestic and export markets. Maximizing this potential will
+require: (i)
+removing obstacles to market integration, by strengthening rural transport and market
+infrastructure, promoting rural/farmer organizations, and reining in petty corruption along market
+routes; (ii)
+raising the productivity o f rural farmers, by facilitating the propagation and sale o f
+improved seeds and other planting materials and strengthening advisory services through
+collaborative public and private sector initiatives; and (iii)
+supporting initiatives to enhance the
+competitiveness o f selected industriedsub-sectors with evident growth potential and scope for
+considerable employment-generation. This i s likely to include several fields o f agro-processing
+and tourism. IDA assistance would also continue to focus o n the k e y areas o f land market
+development, eliminating constraints on land market transactions, advancing land privatization
+and completing land titling (working with other donors including KfW, EC, USAID, UNDP and
+SIDA), and support for the agro-processing enterprise sector. Given agriculture’s strong linkage
+t o rural poverty, the FY04 Constraints and Opportunities in Rural Growth Study and the FY05
+Rural Development Project will seek to increase exports and rural incomes, including through
+investments in agribusiness and export promotion, development o f better market knowledge and
+infrastructure, and improvement o f small-scale rural infrastructure (e.g., roads) and off-farm
+a GEF funded
+employment opportunities. I F C i s exploring the possibility o f developing: (i)
+project o n biodiversity and conservation o f the Georgian grape varieties, as well as a possible
+investment in the bio-diverse, organic wine project; and (ii)other agribusiness projects as
+opportunities emerge.
+
+67.
+Public Infrastructure and Services. Improving infrastructure i s also crucial t o rural
+growth. The FYOO Roads and F Y 0 4 Secondary and Local Roads projects focus o n improving
+transport infrastructure. Secondary and rural local roads are the most important rural infrastructure connecting agricultural areas t o market. According t o studies conducted elsewhere in the
+region, poor road quality can add 28 percent t o 44 percent t o usage costs. Furthermore, poor
+road quality can exacerbate poverty as poor households are disproportionately concentrated in
+remote areas. I F C is also interested in supporting projects to develop the transport sector, taking
+advantage o f Georgia’s strategic position between Europe and Asia.
+68.
+
+Provision o f other critical public infrastructure and services i s being supported through a
+number o f ongoing projects: the FY03 Municipal Development and Decentralization (MDF),
+FYOO Agriculture Research, Extension and Training, FYO1 Irrigation and Drainage Community
+Development APL, the FYOl Electricity Market Support and the F Y 0 3 Social Investment Fund
+projects. Proposed new projects include the F Y 0 4 Secondary and Local Roads Project and the
+FY06 Rural Telecommunications LIL focused o n developing rural telecommunications in line
+with the Government’s efforts t o improve access. A study o f Urban Housing will be completed
+in FY04. Housing development i s also being supported by IFC’s credit lines which help finance
+the development o f its mortgage lending. The credit lines are available through TBC Bank and
+Bank of Georgia for real-estate based financing, including acquiring, constructing or upgrading
+both commercial and residential property, and also for financing small and medium companies
+for working capital and investment purposes. These loans were accompanied by U S A I D technical assistance to strengthen the banks’ mortgage lending policies and t o improve operations in
+the area o f appraising, processing, and supervising mortgage loans.
+
+- 24 69.
+Community-based Tourism. An FY98 Cultural Heritage Project that focused o n
+fostering market-oriented systems o f cultural heritage management, on the one hand, and a grant
+o n the other, have highlighted Georgia’s potential for community-based tourism development.
+Such activities have the potential t o serve as an important source o f non-farm income in selected
+rural communities and small towns. The participatory approach taken by the project has also
+made some contribution to promoting social and national cohesion, even in multi-ethnic and
+conflict zones such as Javakheti and South Ossetia. A small FY0.5 Community-based Tourism
+Project will build o n t h i s work t o identify regional tourism opportunities, (Trans-Caucasus
+Tourism) by helping the Government prepare a development strategy for community-based
+tourism that would promote broad-based local development, reduce administrative barriers to
+tourism, and support the application o f preservation laws. In addition, I F C will explore
+opportunities t o support development o f the tourism industry in Georgia.
+
+70.
+
+MIGA. MIGA has not yet provided a guarantee in Georgia, although it has received
+expressions o f interest in the telecommunications and water sectors.
+
+(20 Promoting Human Developmenf, Social Protection, and Protecting the Environment
+71.
+IDA assistance for human development and social protection i s aimed at improving the
+use o f scarce public resources. With much health and education spending by default n o w in
+private hands, public resources need to be focused o n improving access for the poor. This will
+require, most crucially, increased overall expenditure, as w e l l as better prioritization o f sectoral
+expenditures, including o f social protection programs, and qualitative improvements. Annual
+process-based Public Expenditure Reviews will provide the underpinnings for needed systemic
+changes in revenue and expenditure management, including improving the transparency and
+equity o f transfers f r o m the central to the local budgets (which have an important role in
+providing social services). In terms o f specific investment support, n o new projects in health and
+education are envisioned, as implementation o f ongoing operations will extend beyond the
+FY04-06 C A S period.
+72.
+
+Education. Over the C A S period, an important focus will be on implementation o f the
+
+FYOl Education APL (second phase scheduled for early FY07), which aims at improving the
+learning outcomes o f both boys and girls through curriculum reform, development o f an
+examination system, training o f teachers, provision o f learning materials, and development o f
+capacity t o make better use o f Georgia’s physical, financial and human resources. School
+rationalization and consolidation will be undertaken t o ensure the most effective use o f the
+limited resources available. While the investment needs o f school buildings are substantially
+higher than what is currently affordable for Georgia, the MDF and SIF projects will continue t o
+provide financing at the community level for critical social infrastructure needs, and for urgent
+repairs t o school facilities in many communities.
+
+Health. Building o n the reforms underway, and the first interventions in the sector
+73.
+(FY96 Health Project and FY02 Supplemental Credit), the F Y 0 3 Primary Health Care
+Development Project i s continuing t o work with the Government o n improving the health care
+financing system, exploring risk-pooling options, introducing a n e w system o f primary health
+care (including an emphasis o n reducing maternal mortality), and improving the scope o f
+services funded through public funds to increase focus o n the poor and priority public health
+
+- 25 interventions. Given the increasing role o f private sector provision o f health services, an FY04
+Health Note will provide a detailed assessment o f financing, production, management and
+organization o f health services in Georgia.
+74.
+Social Protection. The second SIF project (co-financed with IDA, KfW and U S A I D ) is
+focusing o n community development through rehabilitation o f small scale economic and social
+infrastructure in poor rural and peri-urban communities. T o assist Georgia in further protecting
+the most vulnerable, a variety o f instruments would be used, including the FY04 Social Protection Reform Project and an FYOd Poverty Assessment. The Social Protection Reform Project
+would support Government’s efforts to improve administration, develop institutions and build
+capacity for policy implementation in the areas o f social insurance, employment services and
+labor market policies, social assistance, social services and child welfare. U N I C E F and S I D A
+will support the child welfare component o f the project, and the Bank will prepare a Child
+Welfare Note in FY04.
+I n t e r n a l l y Displaced Persons. IDA has been collaborating with a range o f other donors
+75.
+in supporting the Georgia S e l f Reliance Fund (GSRF), which pilots innovative interventions t o
+help create sustainable livelihoods for IDPs. The GSRF currently has a capital o f over $1 million, with contributions from IDA’S Self-Reliance Fund, UNHCR, UNDP, Switzerland, and
+U S A I D . Approximately $500,000 has been disbursed t o date, and four pilot programs managed
+by IDP communities, national and international NGOs, are currently under implementation.
+
+The E n v i r o n m e n t and Natural Resources. IDA has supported preparation o f Georgia’s
+76.
+National Environmental Action Plan, Biodiversity Strategy, and the Black Sea Action Plan.
+Ongoing projects (the F Y 9 9 Integrated Coastal Management Project and the GEF component o f
+the FYOO Agriculture Research, Extension and Training Project) support environmental
+protection and monitoring o n the coasts, and address point and non-point source pollution run off
+into the Black Sea Basin. Efforts continue t o further protect coastal water quality and marine
+life. The FYO1 Energy Transit Institution Building project i s increasing Government capacity
+for environmental management o f o i l and gas transport.
+Forestry. The FY03 Forestry Development Project (and related GEF-financed Protected
+77.
+Areas Project) aim t o improve forest management and sustainable use and conservation o f Georgia’s biodiversity. While better forest management has the potential to bring sizeable fiscal
+benefits as well, reform o f the sector is likely to be high risk, given the entrenched political and
+economic interests, including large amounts o f smuggled forest products. In order t o maintain
+newly established protected areas, efforts needs t o be directed at increasing community involvement, boosting tourism, improving infrastructure, and implementing income generating activities
+in buffer zones o f protected areas, where local communities face pressing subsistence needs. In
+addition, I F C i s planning, subject to finding suitable partners support for development o f
+community based forest management and reforestation initiatives along the B T C pipeline route.
+
+@ioImproving Governance and Efficiency o fPubIic Expenditures
+78.
+The uncertain political environment in the 18 months between the November 2003
+Parliamentary elections and the 2005 Presidential elections will make achieving governance
+reform especially difficult. While the governance agenda i s broad, IDA will focus selectively o n
+
+- 26 areas where progress seems possible in this setting: (i)
+public expenditure management, where
+there i s already a solid analytical base; (ii)
+judicial reform; and (iii)
+a more intensive dialogue on
+c i v i l service reform, where there is a well-articulated reform plan. The Base Case envisages this
+dialogue culminating in a Public Sector Reform Project in FY06, or in FY05 in the High Case if
+the reform momentum accelerates.
+
+79.
+
+Public Sector Management. Preparation o f the Public Sector Reform project will, in
+conjunction with a PHRD grant, help develop c i v i l service reform programs, with a focus on
+functional analysis o f the central government and assessment o f appropriate levels o f
+remuneration and employment, including consideration o f the social impact o f redundancies.
+The project itself will aim t o strengthen public institutions, and society’s ability t o h o l d those
+establish revenue predictinstitutions accountable. Specifically it will support measures to: (i)
+reduce inequities across local government units; (iii)
+improve incentives t o boost the
+ability; (ii)
+tax effort at the local level; (iv) clarify expenditure responsibilities by distributing
+functions/competences between rayons and Local Self Governing Units; and (v) help strengthen
+regulatory capacity, improve the efficiency and effectiveness o f the public sector, and restructure
+strategic sectors (energy, transport, telecom). Technical assistance provided by ongoing operations will become demand-based as Local S e l f Governing Units try t o meet performance criteria.
+This will be closely coordinated with the ongoing Municipal Development and Social Investment
+Funds, and with the proposed FY05 Rural Development Project.
+Process-Based Public Expenditure Reviews. IDA will assist in strengthening the
+80.
+Government’s expenditure management systems through annual process-based public expenditure reviews t o be conducted in collaboration with the Government as a follow-up t o the FY03
+PER. The reviews will focus o n strengthening the strategic content o f the budget formulation
+process and raising the credibility o f the budget as a management tool through the proper
+implementation o f the new Budget Systems Law. The Public Expenditure Review work would
+be coupled with the F Y 0 6 Public Sector Management, and would underpin, in the High Case, an
+F Y 0 6 PRSC (in the High Case the Public Sector Management Project would also be advanced to
+FY05). The IMF and IDA will also continue to conduct Debt Sustainability Analyses, and I F C
+and IDA will work with the government to ensure transparent reporting o f revenues during
+implementation and operation o f the BTC pipeline. Assistance in the area o f intergovernmental
+finance (in coordination with U SAID and the Urban Institute decentralization program) would
+also be provided through the Public Sector Management Project.
+Country Financial Accountability Assessment. A CFAA was carried out by IDA in
+FY03, covering the whole public expenditure management framework, and analyzing the
+fiduciary risks in the system o f internal controls. The assessment concluded that the fiduciary
+risk of the Government’s current public expenditure management framework is high given
+Georgia’s difficult governance situation, and requires strong internal and external controls. The
+review’s major recommendations were for the Government t o focus, as a first priority, on:
+
+81.
+
+0
+
+implementing a sound legal foundation for effective financial controls;
+
+0
+
+establishing an internal audit function;
+
+0
+
+strengthening the external audit function;
+
+0
+
+building staff capacity in financial management and auditing.
+
+- 27 IDA will work with other donors to provide follow-up advice and support on these issues,
+including through the proposed Public Sector Management Project.
+Local Governments. Transparency and capacity building at the local level will, in addi82.
+tion to support through projects such as the Social Investment Fund and Municipal Development
+and Decentralization, be monitored through performance indicators by an independent organization funded through a competitive small grants program. Constructive competition between
+local governments will be encouraged through a highly transparent and well-publicized budget
+monitoring system. Indicators will be very similar to the financial eligibility conditions used by
+the MDF in assessing the borrowing capacity.
+
+83.
+Support for Judicial Reform. According to the BEEPS, crime, corruption and the
+judicial system are the worst culprits preventing private sector- and export-led growth. The
+ongoing Judicial Reform Project has been helping to improve the quality and training o f judges,
+as well as associated court infrastructure. The Public Sector Management Project would focus
+on key measures to support and evaluate the impact o f the judicial reform, focus o n issues related
+to access to justice, including the reform o f the Bar Association and support for the Anticorruption commission if political leadership on this issue i s forthcoming. Strong cooperation
+with other donors and with civil society will be critical to the success o f the project. USAID,
+UNDP, and DFID, amongst others, are providing substantial assistance in strengthening civil
+society’s voice, including local community action and development programs, media training,
+support to the elections process, and support to building and strengthening NGOs.
+PRSC. In the event that Governance reform moves forward more quickly than currently
+84.
+expected, IDA would advance the Public Sector Reform Project to FY05, and plan for a f i r s t
+Poverty Reduction Strategy Credit (PRSC) in FY06. The PRSC would support implementation
+o f selected Government priorities within the EDPRP, and the proceeds o f the credit would help
+to meet Georgia’s substantial financing gaps and high debt service payments. If Georgia i s not
+yet ready for a PRSC because o f insufficient progress o n expenditure tracking and fiduciary
+arrangements, a programmatic adjustment instrument would be used instead.
+Assistance Scenarios and Triggers
+
+85.
+The Base Case lending scenario during FY04-06 would be conditioned o n satisfactory
+macroeconomic performance, specific and monitorable progress in governance (including fiscal
+management), and continued good portfolio implementation (see Table 8). As discussed above,
+the Base Case would support projects in public sector management (including judicial reform);
+social protection; rural development and community-based tourism; priority infrastructure
+investments (including roads, trade and transport facilitation, and rural telecommunications); and
+facilitation o f the growth o f export-oriented small and medium-scale enterprises.
+
+A High Case would provide additional resources (bringing total lending up t o $100 mil86.
+l i o n in FY04-06) if the scope for strengthening governance improves significantly. The High
+Case would include a first PRSC, or a programmatic adjustment credit, in FY06, and the Public
+Sector Management Project would be brought forward t o FY05 to help lay the foundation for the
+PRSC. Low Case lending i s envisaged if the governance environment, macroeconomic performance, or IDA portfolio implementation deteriorates markedly. The L o w Case would provide
+
+- 28 around $45 million in selective support for key social sector, roads and rural development
+projects that would have a development impact even in a more difficult implementation environment.
+
+Table 6: Proposed Lending Program
+(in US$millions)
+
+FY04
+
+Secondary & Local Roads
+Social Protection
+
+FY04
+Project
+Secondary & Local Roads
+lsocial
+Social Protection
+
+FY04-06
+
+US$
+15
+10
+25
+-
+
+1
+
+I
+
+I
+
+4
+
+Base Case Lending Scenario
+
+FY05
+FY06
+Project
+US$
+Project
+15 Private Sector Development
+20 Rural Development
+Trade & Transport Facilitation
+7 Public Sector Management
+Community-Based Tourism
+lo/
+3 Rural Telecom LIL
+25
+-
+
+u
+
+FY04
+FY05
+Project
+US%
+Project
+Secondary & Local Roads
+20 Rural Development
+
+Social Protection
+
+FY06
+US$
+Project
+15 Private Sector Development
+10 Public Sector Management
+8 Rural Telecom LIL
+9 PRSC
+Trade & Transport Facilitation
+Community-Based Tourism
+3
+30
+35
+
+45
+
+I
+
+FY04-06
+US$ No. US$
+10
+8
+5
+23
+
+FY04-06
+U S $ No. US$
+10
+
+5
+20
+
+35
+
+9 100
+
+Non-Lending Support. IDA will strengthen i t s non-lending activities in the key areas
+87.
+outlined above, with a special focus on support for public expenditure reform through processbased reviews carried out jointly with the authorities and other stakeholders to improve public
+sector management and the link with the EDPRP. Support for a better business environment will
+be provided through financial sector advisory work and business environment and labor market
+studies, as well as through IFC’s technical assistance program. Options for improving the
+environment for rural development will be explored in a rural infrastructure study, and a water
+resource and risk management study. Donor coordination and alignment with the Government’s
+EDPRP priorities will be facilitated by periodic donor coordination meetings, and support for
+PRSP updates. Finally, IDA’S flagship non-lending activity will be the preparation o f a major
+Policy Options Report for discussion with the incoming government in early 2005.
+
+88.
+
+The IDA program i s built o n expectations o f continued improvements in macroeconomic and debt sustainability indicators. The projected improvements in debt sustainability
+are particularly sensitive to a number o f macro-economic parameters including government and
+
+- 29 Table 7: Non-Lending Sewices Underway and Planned
+Underway and FY04
+Macro-Monitoring
+CPAR Follow-up
+CFAA Follow-up
+Health Note
+FSAP Follow-up Advisory
+Child Welfare IDF
+Housing Note
+Rural Growth
+Post Conflict Grant
+Public Expenditure Review Follow-up
+PRSP Support
+Rural Infrastructure Study
+Planned
+
+Macro-Monitoring
+Poverty Profile
+Water ResourceRisk Management
+Labor Market
+Public Expenditure Reviews Updates
+Business Environment Study
+Policy Options Report for Incoming Government
+Donor Coordination
+Financial Sector Advisory
+PRSP Updates
+
+FY
+Ongoing
+Ongoing
+Ongoing
+FY04
+Ongoing
+FY04
+FY04
+FY04
+FY04
+Ongoing
+Ongoing
+FY04
+
+FY05,06
+FY05
+FY05
+FY06
+FY05,06
+FY06
+FY05
+FY05,06
+FY05,06
+FY05,06
+
+export revenues, and non-debt creating capital inflows. IDA will closely monitor these
+indicators. Should such review indicate worsening prospects for improved debt sustainability, a
+progress report would be prepared and submitted to the Board, setting forth a recalibration o f
+IDA'Sprogram necessary to ensure progress towards debt sustainability.
+
+VI.
+
+IMPLEMENTING THE CAS
+
+Strategic Considerations
+As elaborated in Section I11 above, IDA and I F C already have a broad ongoing program
+o f support for the EDPRP objectives. In developing the FY04-06 CAS, several strategic choices
+were made. First, particular attention will be paid to sustainable support for rural poverty
+alleviation. Although urban poverty i s s t i l l higher in Georgia in absolute terms than rural, Table
+4 shows an encouraging trend o f poverty reduction in urban areas, which have been more responsive to overall economic growth. Rural poverty, however, i s proving to be more intransigent,
+and several o f the new operations for FY04-06 pay particular attention to stimulating economic
+activity in rural areas in sustainable ways, including the Secondary and Local Roads, Rural
+Development, and Community-Based Tourism projects. These initiatives will be complemented
+by the Private Sector Development Project, which will focus on fostering productive clusters o f
+
+89.
+
+-30-
+
+Table 8: Lending Triggers
+T o Move to High Case
+
+T o Remain in Base Case
+Macroeconomic Policies
+0
+
+Maintenance o f macroeconomic stability, as
+measured by single digit inflation and suitable
+build up o f foreign reserves.
+
+Tax collections increased by at least 0.5 percent
+o f GDP annually, and tax collections (excise
+plus VAT) from petroleum products maintained
+above 1.5 Dercent o f GDP.
+Governance
+
+(all Base Case Triggers plus:)
+
+Macroeconomic Policies
+0
+
+0
+
+0
+
+Increased Government accountability, as measured by progress in unification o f government
+accounts in a single treasury, and establishment
+o f commitment controls.
+
+Adoption o f programmatic budgeting in key
+sectors (e.g., health, roads) within a medium
+term planning framework
+
+Satisfactory budget execution o f priority programs (especially health, education, and social
+protection), i.e. at least 85% percent o f budgetary allocations disbursed as planned in the
+budget.
+Continued improvement in cash payment
+collections at the wholesale electricity market.
+
+Design and adoption o f a transparent transfer
+mechanism for local budgets.
+
+Poverty
+Establishment o f effective, transparent and participatory arrangements for EDPRP monitoring
+and evaluation.
+0
+Timely preparation o f annual EDPRP progress
+reports, and improved prioritazation and
+sequencing o f activities in EDPRP updates.
+0
+Government provision o f adequate financing for
+carrying out and analyzing household budget
+surveys to support EDPRP monitoring and poverty targeting.
+Portfolio
+0
+
+0
+
+Substantial progress in settlement o f pension
+and wage arrears.
+
+Governance
+
+0
+
+Good portfolio performance maintained,
+specifically delays in both effectiveness and
+implementation minimized.
+Maximum o f two problem projects in the
+portfolio.
+
+Substantial improvement in cash payments
+collection at the wholesale electricity market.
+Notable improvement in the business environment, especially in crime and corruption
+indicators
+
+Some improvement in business environment,
+especially for exporters, as measured by annual
+surveys
+
+0
+
+Substantial improvement in tax revenues from
+petroleum products and cigarettes.
+
+Poverty
+0
+
+0
+
+Clear evidence o f improved targeting o f public
+funds to the poor (especially in health and
+social assistance programs).
+Accelerated implementation o f priority EDPRP
+programs.
+
+- 31 horizontal and vertical value chains in areas such as agro-processing, and by the Trade and
+Transport Facilitation and Rural Telecommunication projects, which will address important
+logistical hindrances to rural economic development.
+90.
+Second, in addressing the needs o f the most vulnerable, the already very active ongoing
+social sector programs will be complemented by a social protection project, addressing a central
+theme o f the Bank’s C A S consultations (see paragraph 94 below). Third, the CAS is addressing
+the governance problems that hinder sustainability, and which were another recurrent theme in
+the consultations. While the Public Sector Management Project embeds crucial central
+government reforms in terms o f budget preparation and execution, as well as judicial and t o the
+extent possible c i v i l service reform, the project also aims at empowering local governments
+through fiscal decentralization. Indeed, almost all projects in the ongoing and planned portfolio
+have strong elements directly addressing fundamental governance problems through greater
+transparency, accountability, and fostering o f community participation.
+
+91.
+
+Finally, bearing in mind both the political uncertainties during the next 18 months o n the
+lessons learned from the previous CAS, the FY04-06 CAS program will rely relatively less o n
+the central government and more o n financially self-sustaining autonomous institutions and
+community-based efforts. Likewise, the program will rely more o n strengthening private sector
+capacity and c i v i l society advocacy. An example is the already established GEOPRO publicprivate sector working group o n trade and transport facilitation, which anchored by a business
+confederation-supported secretariat plays a leading role in regular dialogue and advocacy,
+consultation o n legal and administrative issues, technical assistance, and monitoring o f
+development impact. The planned projects will build further o n the success o f this model, and an
+important strategic analytical contribution during FY05-06 will be the Policy Options Report for
+the incoming government, which should also serve as a basis for the subsequent CAS.
+Outcomes and Monitoring
+
+92.
+The proposed core indicators that would be used t o measure progress are shown in Table
+9, and more specific performance indicators are shown in the Program M a t r i x (Annex 9). The
+Program Matrix provides performance indicators for those elements o f the EDPRP that IDA i s
+supporting through the C A S (other areas are either being supported by development partners, or
+are o f relatively lower priority for Bank support given the areas o f C A S focus defined above).
+IDA will also assist in developing monitoring procedures, and ensuring the indicators and the
+results o f the performance assessments are publicly available throughout the country. IDA’S
+own performance would also be evaluated based o n results o f regular client surveys and
+consultations with the Government and with c i v i l society.
+
+93.
+The quarterly Household Survey will be a key element o f the measurement o f these
+indicators. As donor finance for these surveys declines, the Government has committed t o a
+corresponding increase in its o w n share o f the cost. The first test o f this commitment will come
+with the 2004 budget. Resources will also be needed to improve the quality and the timely
+dissemination o f the macro-economic and socio-demographic data provided by the State
+Department for Statistics and the Ministry o f Finance.
+
+- 32 -
+
+Table 9: Core CAS M o n i t o r i n g Benchmarks
+
+Stratepic CAS Goal: Faster and more broad-basec; wivate sector gro wth
+PSD Project; TTF Project; Enterprise
+Continued reduction in cost o f doing business as
+Rehab. Project; Rural Development
+measured through annual surveys and BEEPS.
+Project; PRSC;
+FSAP follow-up; Constraints and
+Opportunities in Rural Growth;
+I F C support to SME and financial
+sector.
+Irrigation and Drainage Community
+Access to irrigation water increased from 150,000 hato
+APL .
+200,000 ha by 2006, and number o f legally
+. registered
+water user associations from 100 to 300.
+Agriculture Development Project.
+Substantial completion o f rural land titling and
+Rural Development Project.
+establishment o f rural land registries.
+Electricity Market Support Project;
+Proportion o f households having n o electricity for a
+Advisory
+Services.
+month or more reduced to 15%.
+Social Investment Fund; also Secondary
+Economic and social infrastructure rehabilitated in 150
+and Local Roads Project; Rural
+poor communities, and operated on a sustainable basis
+Development Project, Rural Telecom
+and used by beneficiaries for the intended purposes.
+LIL.
+
+Increase to 97 percent enrollment in basic education for
+the poorest quintile.
+Pensions and social assistance benefits paid on time with
+no arrears build-up.
+Increase o f 10% in the proportion o f infants that receive
+immunization on time; 25% increase in the number o f
+pregnant women completing 4 mandatory prenatal visits
+Five percent reduction in the number o f new tuberculosis
+cases.
+Significant reduction in uncontrolled logging.
+
+Education APL, SIF
+Social Protection Reform Project;
+Poverty Assessment.
+Primary Health Care Project;
+Health Note.
+Primary Health Care Project; Health
+Note.
+Forestry Development Project.
+
+Strategic CAS Goal: Improve governance and efficiency in public expenditures
+Macroeconomic stability with consistent budget planning PRSC;
+PER TA; CFAA; CPAR.
+and execution.
+Increased public confidence in independence and fairness Public Sector Reform Project
+o f judiciary confirmed through independent surveys.
+Public Sector Reform Project; MDF.
+Public perception o f progress in improving governance
+and reducing corruption, particularly payment o f bribes.
+Progress in rationalizing civil service and introduction o f Public Sector Reform Project;
+CFAA; CPAR.
+transparent personnel policies and code o f ethics.
+
+- 33 CAS ConsuJiaiions
+
+94.
+IDA’Sstrategy has been under discussion with a wide range o f stakeholders in Georgia
+since the first draft o f the current CAS (in FYO1). Those discussions included c i v i l society focus
+groups in four regions o f Georgia, NGOs, the foreign and domestic private sector, trade unions,
+and major donors. Subsequently, IDA has participated actively in working groups and meetings
+o n the EDPW with the authorities, other donors, the private sector and non-governmental
+organizations, and those consultations are also reflected in the new CAS. Finally, views o n C A S
+priorities were again discussed during meetings with donors, the private sector, N G O participants
+in the EDPW process and the authorities at the time o f the Joint Portfolio Review in late January
+2003. The themes identified below have recurred throughout these various discussions and
+consultations.
+0
+
+0
+
+0
+
+Social Conditions. Poverty was seen as being very widespread, and worse in urban
+areas, but there was a recognition that absolute poverty in the countryside i s s t i l l a
+serious problem. Deteriorating standards o f health care were frequently mentioned as a
+major element o f the decline in social conditions in Georgia. Pension arrears were
+another concern, and many participants said it was essential that the limited funds
+available for social protection be targeted t o the most needy, and that this in turn
+required more accurate identification o f the most vulnerable. M a n y focus groups
+referred t o the cultural deprivation they felt, with many people no longer being able to
+afford newspapers or books, and with the sense that many children are n o longer
+receiving a good education.
+Governance. Most focus groups sharply criticized the corruption and inefficiency o f
+Government agencies, and their lack o f accountability. The view was that little i s done
+t o prosecute corrupt officials, and much productive energy i s wasted dealing with petty
+harassment. Small businesses in particular spend enormous amounts o f time and money
+dealing with corrupt officials. At the same time large businesses with powerful friends
+were seen to break the l a w with some impunity, and Government officials w h o broke
+the l a w were usually at worst moved t o different posts. In reaction to these failings
+many participants wanted to see a more active N G O sector providing an alternative
+source o f services and advice. There was also a request for more outreach and
+transparency o n the part o f IDA and other donors in acknowledging these issues and
+pressing for reform.
+Enterprise Development. Participants stressed that many o f the sectors that flourished
+in Soviet times - heavy industries and textiles in particular - are n o longer competitive.
+But many saw potential in newer sectors such as agro-processing for export. The m a i n
+constraints t o faster development o f these emerging sectors were seen t o be red tape,
+corruption and lack o f market knowledge and entrepreneurial experience. Other
+obstacles often mentioned were poor access t o credit, high interest rates, and inadequate
+skills and training. Some participants saw greater potential for j o b creation in rural
+areas, more so than in towns with dying heavy industries.
+
+- 34 Development Partners
+
+95.
+
+Donor coordination has been good in Georgia, and has improved further with the
+establishment o f the “Framework Group” which coordinates all donor EDPRP activities. All
+requests for support for the EDPRP have been channeled through the Framework Group,
+coordinated by UNDP, which has collectively reviewed each proposal before passing it o n t o
+individual donors for possible support. This arrangement has substantial advantages for both
+Government and donors, since it has streamlined communications, reduced overlap between
+donor programs, and has allowed a broader review o f Government proposals. (Areas o f
+emphasis o f donors are detailed below and in Attachment 11).
+
+96.
+UNDP in Georgia focuses its program activities in three areas: (a) democratic
+governance; (b) poverty reduction; and (c) environmental protection, as outlined in the second
+Country Cooperation Framework for Georgia (2001-2005). In the sphere o f Govemance, major
+ongoing initiatives include support to the Foreign Investment Advisory Council, strengthening
+the Anti-corruption Promotion Group, and assistance t o the Constitutional Court and Public
+Defender’s Office. U N D P has been active in capacity building o f the Georgian International O i l
+Corporation and o f the National Security Policy Management. UNDP i s also contributing to land
+market development through creation o f a computerized program o f registration. Technical and
+financial inputs have been provided t o strengthen the capacity o f Georgian institutions
+responsible for national statistics, notably the State Department o f Statistics. Environmental
+challenges are being addressed through projects supporting recovery, conversation and
+sustainable use o f Georgia’s agro-biodiversity, removal o f barriers t o small hydro power sector
+development, and capacity building o f the Ministry o f Environment.
+
+97.
+UNICEF priorities in Georgia include: education, integrated childhood development,
+immunization, fighting HIV/AIDS, and protecting children from violence, exploitation, abuse
+and discrimination. I t has been assisting the Government in national training o f health workers
+and professionals and in providing universal access t o basic health services for women and
+children. U N I C E F has been helping the Government in promoting the implementation o f the
+Convention o n the Rights o f the Child. Support also includes ensuring inclusive education for
+children with disabilities, and providing psychosocial support to children in need o f special
+protection, as w e l l as introducing alternative, non-institutional methods o f childcare. Child deinstitutionalization has been also supported by SIDA through provision o f technical assistance
+during social protection reform project preparation and implementation phases.
+98.
+EBRD’s main objective in Georgia i s t o expand private sector development activities.
+During 2002 and 2003 it has been engaged in an active political dialogue with the Government to
+support substantial reduction o f administrative barriers t o investments, representation o n the
+board o f companies and banks, support o f the initiatives o f local business associations. EBRD
+aims at further strengthening o f the Georgian banking sector through ongoing support t o the
+regulator, management training, and further consolidation. EBRD’s interventions include financing for business start-ups and existing micro, small and medium-sized enterprises, as well as
+selectively supporting critical investments in infrastructure with specific focus o n those projects
+that promote the commercialization o f infrastructure, particularly o f the energy sector.
+
+- 35 99.
+USAID assistance in the economic growth area focuses o n strengthening agriculture sector, assisting the NBG t o improve i t s supervision, inspection, and enforcement capacity, and
+furthering land market reform. The Georgian Enterprise Growth Initiative (GEGI) i s a major
+new private sector development activity to be implemented in close coordination with the C A S
+programs. U SAID has been actively involved in the energy and environmental sectors providing
+TA to regulatory bodies, supporting privatization o f the energy sector and improvement o f the
+international investment climate, assisting in elaboration o f environmentally sound laws in the
+energy sector, as well as policies in the sector oriented towards energy efficiency, conservation
+and water management. Through democracy and governance oriented projects U S A I D supports
+increased awareness o f legal rights, judicial and bar reform initiatives, strengthening local governments, building professionalism o f independent mass media as well as capacity o f c i v i l society and NGOs. U S A I D initiatives in the social sectors include programs in the regions t o support
+income generation and economic self-reliance activities among internally displaced persons,
+crisis assistance t o the most vulnerable, health care partnership programs, and reproductive
+health programs which promote improved maternal and perinatal services, safe motherhood,
+family planning, health information systems, and STI/HIV awareness and prevention.
+100. EU’s Partnership and Cooperation Agreement (PCA) provides for cooperation in a wide
+range o f areas including the Food Security Program, rehabilitation in conflict zones (Engury
+Power Plan in Abkhazia), macro-financial assistance (establishment o f an agricultural credit
+institutions, reforms in accountancy and audit, assistance to the insurance sector and securities
+market regulation), support t o trade liberalization, customs, and development o f transport
+infrastructure networks, advice o n economic legislation and country legislature harmonization
+with EU standards, investments in the primary health care reconstruction program, development
+of the Georgian National Health Program, and training o f medical and administrative personnel,
+as well as provision o f technical assistance for the development o f the model o f Regional Health
+financing. TACIS i s the main financial instrument supporting the implementation o f the PCA.
+
+101. The Netherlands has provided support for a wide range o f activities, focusing o n good
+governance, economic reforms, human rights and peace building, as w e l l as substantial budget
+assistance as support for the structural reforms under SAC 111. Dutch support in these focus
+areas will continue, including for election preparation, prevention o f trafficking in human beings,
+confidence building measures in Abkhazia, and support for N G O s involved in poverty
+alleviation and human rights.
+
+102. GTZ, working o n behalf o f German Government, provides support in the health sector
+primarily focusing o n structural improvements and training for medical technicians, promoting
+the vocational training sector t o improve commercial and agricultural training and upgrading,
+implementing projects to privatize agriculture and build up effective land- and debt-management
+systems, promotes export and investment, and has been assisting in judicial and legal training as
+well as practical application o f c i v i l l a w in Georgia. German assistance is also channeled
+through KfW, which is supporting credit lines to agriculture sector enterprises, with participation
+through an equity stake in Procredit Bank. KFW is conducting cadastral works over almost the
+whole country, and contributing to social infrastructure in the districts bordering BorjomiKharagauli National Park, as well as supporting Government efforts to rehabilitate schools and
+health facilities damaged during the recent earthquake.
+
+-36103. Bilateral assistance from Canada (CIDA) comes mostly through the regional projects
+supporting trade policy capacity, expanding the micro credit programs, promoting NGO capacity
+development program that supports the principles o f good governance, strengthening health
+reform through the appropriate application o f health information technology and information
+management strategies, and contributing drought victims relief operations. C I D A is also
+supporting the Georgia Business Development Project, a five-year technical assistance program
+implemented by the Private Enterprise Partnership.
+104. DFID has recently approved a new Primary Health Care (PHC) Development project
+through which technical assistance will be provided t o the Government in the areas o f human
+resource development for the P H C system, health care financing, health management
+information systems, capacity building for the health policy development. DFID has been
+supporting the SDS in the multi-sector household and labor market surveys. The ongoing
+program also has a component aiming at development o f good governance and c i v i l society in
+two regions o f Georgia as well as conflict reduction and confidence building component.
+
+105. In the agriculture sector IFAD supports rural development program for mountainous and
+highland areas and credit-union development and rural credit activities for small farmers, while
+F A 0 provides financial support to hazelnut rehabilitation.
+
+106.
+0
+
+0
+
+There are five categories o f risks t o the strategy outlined above.
+
+Governance. As mentioned above, the next 18 months encompasses a rather uncertain
+political period in Georgia, with heavily contested parliamentary and Presidential
+elections. O n the other hand, improvement in governance i s crucial for Georgia's growth
+and poverty reduction strategy t o succeed. These issues therefore have acquired a central
+place in IDA'Sdevelopment dialogue with Georgia and are reflected in the C A S triggers.
+M a n y o f the CAS interventions also directly address the challenges o f improving public
+sector efficiency and accountability; strengthening public expenditure management;
+improving regulatory arrangements and other factors affecting the business environment;
+modernizing the judiciary; and building capacity o f communities, local governments and
+other stakeholders t o participate in decision-making and press for accountability in the
+use o f public resources.
+Fiscal and Debt Vulnerability. A renewed weakening o f fiscal performance i s also a
+serious risk. Without an improvement in revenue collection and development o f a
+program that will allow Georgia t o return to the Paris Club, the country will face a heavy
+debt burden over the medium term, and an increased inability t o provide basic social
+services. This would lead to a further deterioration in human capital, undermining growth
+and poverty alleviation. The IMF i s providing intensive advice to Georgia o n fiscal
+policy; IMF and IDA are cooperating o n Debt Sustainability Analysis; and IDA and other
+partners have offered, or are providing, assistance o n budget management and reform o f
+tax and customs administration, including through the annual Public Expenditure
+Reviews.
+
+- 37 0
+
+0
+
+0
+
+Conflict. Georgia remains vulnerable to both internal and external conflicts. Any renewal o f domestic conflict would seriously limit the Government’s ability to implement
+the EDPRP. Similarly, enhanced regional cooperation will be an important factor i f
+Georgia i s to maximize its potential as a transit economy, and t o strengthen foreign
+investment, tourism and trade. The CAS aims at mitigating these risks by targeted
+programs to increase the living standards o f the poor in general, and programs to
+strengthen commercial interaction between rural and urban areas and across regions in
+particular. In addition, IDA has been conducting analytical work and supporting technical exchanges o n common issues among the South Caucasus countries. Finally, IDA
+stands ready to provide assistance if geo-political solutions to the Abkhazia and South
+Ossetia conflicts are reached.
+V u l n e r a b i l i t y to Exogenous Shocks. A s demonstrated by the droughts in 1998 and
+2000 (with severe impacts o n both agriculture and hydropower availability), and by the
+Russia financial crisis, Georgia is, and will remain, vulnerable to external shocks. C A S
+interventions promoting energy sector development, irrigation, rural development and
+diversification o f Georgia’s trade patterns should help lessen the country’s vulnerability
+to these shocks over the medium term.
+Political Uncertainties. The period up t o the Presidential elections in April 2005 i s
+likely to be one o f considerable political uncertainty, with the direction o f reform before
+and after the elections being difficult to predict. IDA will engage in a broad dialogue
+with all stakeholders during this period, and will work closely with other donors and
+national stakeholders to support the EDPRP consultation process in a continuing effort to
+build consensus o n the country’s main development challenges and strategies to address
+them. Finally, a CAS Progress Report will be presented t o the Board after the Presidential elections if there has been sufficient change that circumstances warrant a review o f
+the assistance strategy.
+
+James D. Wolfensohn
+President
+Peter Woicke
+Executive Vice President
+
+Shengman Zhang
+Managing Director
+Washington D.C.
+December 4,2003
+
+- 38 -
+
+ATTACHMENTI:I M F - I D A RELATIONS
+Partnership in Georgia ’s Development Strategy
+
+1.
+The IMF has taken the lead in assisting Georgia in enhancing macroeconomic stability. In
+this regard, the Fund has encouraged the authorities to pursue a prudent fiscal policy, including
+by increasing tax revenues and reducing domestic expenditure arrears. The IMF Board approved
+a new three-year program under the Fund’s Poverty Reduction and Growth Facility (PRGF) in
+January 2001. The first and the second reviews under the PRGF were completed in October
+200 1 and July 2002, respectively. Implementation o f the 2002 macroeconomic program was
+broadly o n track. Quantitative criteria and indicative targets were met, except for those o n
+domestic arrears, fuel and excise tax collection and reserve money. At 2 percent o f GDP, the
+fiscal deficit was slightly higher than programmed because o f shortfalls in extemal financing,
+and revenue collection improved only slightly f r o m 14.3 percent o f GDP t o 14.4 percent over the
+period. An IMF mission which visited Georgia in July 2003 t o discuss completion o f the
+postponed third review found that the fiscal pressures that emerged in early 2003 had continued,
+with tax revenue falling short o f budget targets, and an accumulation o f substantial new budget
+arrears. The IMF thus saw the need inter alia t o introduce some tax reform measures, adjust
+electricity tariffs and revise the 2003 budget to close the fiscal gap. The authorities achieved the
+first two, but were unable to secure parliamentary approval o f a revised budget. The current
+PRGF will expire in the next several months, and the IMF will soon be initiating discussions to
+assess prospects for a possible new three-year program t o support Georgia’s EDPRP.
+2.
+IDA has taken the lead in the policy dialogue o n structural issues, focusing on: (i)
+strengthening public expenditure management; (ii)deepening and diversifying sources of
+growth, (iii)protecting the environment; and (iv) reducing poverty. The table o n page 40
+summarizes the division o f responsibility between the t w o institutions. In a number o f areas for example the social sectors, rural development, environment, and infrastructure - IDA takes
+the lead in the dialogue and there i s n o cross conditionality with the IMF-supported program.
+IDA i s also leading the dialogue o n private sector reform, and IDA analysis serves as inputs into
+the Fund program. In other areas - energy, the financial sector, public expenditure management,
+and revenue and customs - both institutions work together. Finally, in areas l i k e monetary
+policy the IMF takes the lead with little IDA involvement.
+Areas in which IDA leads and there is no direct IMF involvement
+
+Areas in which IDA leads and there is n o direct IMF involvement include the social
+3.
+sectors, infrastructure and environment.
+0
+
+In the social sectors IDA conducts annual updates o f Georgia’s Poverty Assessment based
+o n household data collected o n a quarterly basis. IDA’S focus has been t o improve the
+budget execution o f expenditures for health, education and poverty benefits and t o raise the
+efficiency in the use o f scarce public resources. Through the Social Investment Fund
+credits, IDA i s focusing in particular o n areas with high poverty levels to provide basic
+infrastructure to the poorest communities. A Self-reliance Fund Grant will help authorities
+address the complex issues related to internally displaced people. IDA i s also supporting a
+
+-39dialogue with the Govemment o n social protection reform that will lead to an IDAsupported project.
+In education the Education Adaptable Program Credit aims at improving the leaming outcomes o f primary and secondary students, through curriculum reform, development o f an
+examination system, training o f teachers, provision o f leaming materials, and development
+o f capacity to make better use o f Georgia’s physical, financial and human resources. While
+the investment needs o f school buildings are substantially higher than i s currently
+affordable for Georgia, the Social Investment Fund projects continue t o assist in financing
+urgent repairs to school facilities in many communities.
+In health, IDA Credits to support the Government in improving the health care financing
+system, exploring risk-pooling options, introducing a new system o f primary health care
+and improving the focus o f services funded through public funds o n the poor and o n
+priority public health interventions. In addition SAC 3 and the Structural Reform Support
+Credit have supported hospital restructuring.
+In infrastructure support is being provided through the Municipal Development and
+Decentralization Credit and the Social Investment Fund Credit. These projects are
+providing financing at the community level for critical infrastructure needs, primarily for
+school and health facilities heating and repair, small hydropower schemes t o provide
+electricity, drinking water and sanitation rehabilitation, as w e l l as transportation
+infrastructure rehabilitation.
+In r u r a l development IDA credits have supported the development o f private sector
+farming and agro-processing improvements, agricultural credit, irrigation and drainage, and
+agriculture research and extension. IDA has also been supporting the creation o f local
+institutions such as rural credit unions and water users associations through its Credits.
+
+Areas in which I D A leads and its analysis serves as input into the IMFprogram
+
+IDA has been leading the dialogue o n structural reforms through S A C 3, approved by
+IDA’s Board o f Executive Directors in June 1999, and closed in October, 2002. Despite
+considerable delays, the core conditions o f S A C 3 were met, but poor governance reduced their
+impact. Institution building and technical assistance has been supported through the Structural
+Reform Support Credit, also approved by I D A ’ s Board o f Executive Directors o n June 29, 1999.
+IDA also leads in the areas of:
+4.
+
+Private sector development. S A C 3 supported improvements in the environment for
+private sector development, focusing on: (i)simpler licensing regulations; (ii)more
+transparent government procurement; (iii)
+reduced cost o f entry for businesses; and (iv)
+privatization o f state-owned commercial assets. IDA has also been supporting private
+sector participation in other areas such as energy, telecommunications, urban services and
+agriculture. The IMF has worked with the authorities t o initiate audits o f the 2002
+accounts o f three major state owned enterprises.
+
+- 40 0
+
+Energy. The energy system i s in poor condition, with unreliable supply, massive nonpayment and mounting debts. IDA has been working with other donors, including the
+IMF, to encourage more private management and ownership, and to implement a series o f
+short-term action plans to improve the overall functioning o f the sector. The IMF has also
+been focusing on improved payments for electricity.
+
+TABLE
+A. IDA-FUNDCOLLABORATION ON GEORGIA
+Area
+Macroeconomic
+Framework/
+Management
+
+Budget
+
+Specialized Advice from
+Fund
+Monetary policy, exchange
+rate, fiscal, and trade policies,
+economic statistics
+
+Specialized Advice
+from I D A
+Economic growth,
+expenditure allocations,
+economic statistics
+
+Budget framework, tax policy
+and administration, customs,
+debt management, extra budgetary funds,
+
+Budget formulation,
+Country Procurement
+Assessment, Country
+Financial Accountability Assessment
+
+r
+Public Sector
+Reform
+
+SociaVPoverty
+
+Development
+
+Infrastructure
+
+Rural develop-
+
+Public asset management,
+Proposals o n audit o f three
+problematic enterprises, civil
+service reform.
+
+Civil service reform,
+anti-corruption agenda,
+decentralization.
+Poverty analysis; reforms in education,
+health, social protection; support to community driven development
+Costs o f Doing Business Surveys. Support
+for improved legislation
+and regulatory framework for private sector,
+and support for privatization and market liberalization.
+Private sector participation in infrastructure
+Reforms in agriculture,
+irrigation, forestry and,
+environment.
+
+Key Instruments
+
+IMF: PRGF performance criteria
+and benchmarks on monetary and
+fiscal targets.
+IDA: Macromonitoring; Trade and
+Transport Facilitation Project;;
+Financial Sector Advisory Work;
+Policy Options Report; PRSC
+conditionality in High Case
+ZMF: PRGF performance criteria
+on overall fiscal balance and revenue collection.
+Bunk: Public Expenditure Review
+Updates; Support for PRSP
+Updates; Policy Options Report;
+PRSC conditionality in High Case
+IMF: PRGF
+IDA: Public Sector Management
+Report
+
+IMF: PRGF
+IDA: Support through IDA Credits
+for Education, Health and Social
+Investment Funds, Social Protection study, SAC and ESAC conditions o n payment o f poverty benef i t s and on homital restructuring.
+IDA: Business Environment Study,
+Labor Market Study, Private
+Sector Development Project, Trade
+and Transport Facilitation Credits.
+
+IDA: Support though ongoing and
+proposed IDA Credits for
+Municipal Development, Roads,
+Transport and Power.
+IDA: Support though Rural Infrastructure and Water Resource
+studies; ongoing rural Credits, and
+proposed Credits for Rural Development, Rural Telecommunications, Community Based Tourism.
+
+-41 0
+
+Public Sector Management. IDA i s supporting the development o f a c i v i l service reform
+program, while the Fund i s providing technical assistance in support o f tax and customs
+administration reform.
+
+Areas of shared responsibility
+
+5.
+
+IDA and the Fund have been working jointly in the following main areas:
+0
+
+0
+
+0
+
+0
+
+Poverty Reduction Strategy. B o t h institutions have been working closely with the
+Government to provide support to the development o f the PRSP, through seminars and
+workshops, direct staff input, and a multi-donor Trust Fund to support the work o f the
+PRSP secretariat..
+Budget Planning and Execution. The annual process-based Public Expenditure Reviews
+will provide the underpinnings for systemic changes in expenditure management, with the
+immediate aim being improved budget formulation in 2004. The IMF i s focusing o n
+Treasury reform within the Ministry o f Finance.
+Financial Sector Reforms. The joint Financial Sector Assessment Program has
+supported: (i)
+strengthened banking and non-banking supervision; (ii)introduction o f
+international accounting standards; (iii)
+and consolidation o f banks through higher capital
+requirement ratios; and (iv) anti money-laundering legislation. The IMF has focused in
+particular o n banking supervision.
+Debt Sustainability Analysis (DSA). Given Georgia’s heavy external debt burden, IDA
+and the Fund conduct joint Debt Sustainability Analysis o n a regular basis.
+
+Areas in which the IMF leads and its analysis serves as input into the IDA program
+0
+
+Fiscal Framework. The I M F ’ s focus o n prudent fiscal policy has served as an important
+framework for IDA’Swork o n public expenditure management.
+
+Areas in which the IMF leads and there is no direct IDA involvement
+0
+
+0
+
+Monetary Framework. The IMF closely collaborates with the NBG in the design and
+implementation of a monetary program that aims at remonetization o f the economy, while
+keeping inflation l o w and the exchange rate o f the L a r i stable
+Economic Statistics. IMF technical assistance has been conducive t o improvements in
+national accounts, price, monetary and government financial statistics.
+
+- 42 ATTACHMENT
+11: DEVELOPMENT
+PARTNERS IN GEORGIA
+SECTOR
+Agriculture
+
+~EAD
+NATIONAL AGENCY
+Ministry o f Agriculture and Food
+
+Culture
+
+Ministry o f Culture
+Fund for Cultural Heritage Protection
+
+PARTNERS
+IFAD, FAO, DFID,
+UNDP, KFW
+EU
+
+tional Bank o f Georgia
+tional Securities Commission
+
+Council o f Justice, Supreme Court,
+General Courts Department, Judicial
+Training Center, Ministry o f Justice
+A L P E (Association for Legal Public
+Education)
+Georgian Municipal Development
+unicipal Development and
+Fund (MDF)
+Secretariat o f Governmental
+Commission o n PREGP (Poverty
+reduction and Economic Growth
+Program)
+Private Sector
+Ministry o f Economy, Industry and
+Trade
+Protected Areas
+State Department o f Protected
+Territories, Preserves and Hunting
+Grounds
+Roads
+Ministry o f Transport,
+Telecommunications and Post
+State Department of Roads
+Georgian
+Social Investment Fund
+Social Infrastructure
+(GSIF)
+inistry o f Transport,
+Transport and Communications
+elecommunications and Post
+ational Commission o f
+II
+kelecommunications and Transnort
+
+E
+I
+
+A
+
+EU, USAID, SOROS,
+ABA, U S DOJ,
+Netherlands
+
+IMF, UNDP, DFID,
+USAID, Netherlands
+
+USAID, EBRD, B P
+UNDP
+Kuwait Fund for
+Economic Developmenl
+
+KFW
+
+I
+
+- 43 -
+
+ATTACHMENT
+111: CORE LABOR
+STANDARDS IN GEORGIA
+1.
+Forced Labor. The Constitution prohibits forced or bonded labor, including by children,
+and provides for sanctions against violators.
+2.
+Trafficking in Persons. The l a w does not prohibit trafficking in persons specifically,
+although trafficking could be prosecuted under laws prohibiting slavery, forced labor, illegal
+detention, and fraud. Georgia i s both a source and a transit country for trafficked persons. There
+have been unconfirmed reports that government customs and border officials were involved in
+the trafficking o f persons. The Government has prosecuted some traffickers using fraud statutes,
+but otherwise has n o active programs to address the problem o f trafficking. A government
+program for combating violence against women included a proposal for measures to eliminate
+trafficking in women for the purpose o f sexual exploitation; however, it has not been
+implemented due to budgetary constraints. Georgia itself i s generally not a destination place for
+trafficked persons.
+
+3.
+Effective Abolition of Child Labor. According t o the law, the minimum age for
+employment o f children i s 16 years; however, in exceptional cases, the minimum age can be 14
+years. The Ministry o f Health, Social Service, and Labor enforces these laws and generally they
+are respected. The Government has not ratified the ILO Convention 182 o n the worst forms o f
+child labor.
+Elimination o f Discrimination in Employment. The Constitution provides for the
+4.
+equality o f m e n and women. Women's access t o the labor market has improved but remained
+primarily confined, particularly for older women, to low-paying and low-skilled positions, often
+without regard t o high professional and academic qualifications. Salaries for women continued
+to lag behind those o f men. Reportedly men were given preference in promotions. O f the
+114,5 12 registered unemployed persons throughout the country, 46 percent were women.
+Women sometimes, but not often, filled leadership positions. According t o UNDP, employers
+frequently withheld benefits connected t o pregnancy and childbirth.
+
+5.
+
+Freedom of Association and the Right to Collective Bargaining. The l a w prohibits
+discrimination by employers against union members, and employers may be prosecuted for
+antiunion discrimination and forced to reinstate employees and pay back wages; however, there
+are reports o f managements warning staff not t o organize trade unions. Some workers, including
+teachers in the Imereti region, employees o f various mining, winemaking, pipeline, and port
+facilities, and the Tbilisi municipal government reportedly complain o f being intimidated or
+threatened by employers for union organizing activity. Observers also claimed that employers
+failed t o transfer compulsory union dues, deducted f r o m wages, t o union bank accounts. The
+Ministry o f Labor has investigated some complaints, but n o action has been taken against any
+employers to date. There are no legal prohibitions against affiliation and participation in
+international organizations. The Constitution and the law allow workers t o organize and bargain
+collectively, and some workers exercise this right; however, the practice o f collective bargaining
+is not widespread.
+
+-44-
+
+ANNEXI:COUNTRYATA
+GLANCE
+
+Georgia at a dance
+Georgia
+
+Europe 8
+Central
+Asia
+
+Lowincome
+
+52
+730
+38
+
+476
+2 160
+1 030
+
+2 495
+430
+1 072
+
+-05
+05
+
+01
+04
+
+19
+23
+
+63
+69
+25
+
+30
+59
+81
+
+95
+95
+96
+
+91
+3
+102
+103
+101
+
+76
+37
+95
+103
+87
+
+1982
+
+1992
+
+2001
+
+2002
+
+26 4
+
+45
+23 4
+35 7
+-7 2
+
+32
+18 5
+23 0
+27
+67
+
+33
+18 0
+27 1
+59
+10 6
+
+00
+18
+
+09
+54 0
+62
+33 3
+65 4
+
+12
+54 9
+95
+
+2002-06
+
+POVERTY and SOCIAL
+2002
+Population, mid-year (millions)
+GNI per capita (Atlas method, US$)
+GNI (Atlas method, US$ billions)
+
+8120l03
+
+Devebpment diamond'
+Life expectancy
+
+T
+
+Average annual growth, 1996-02
+Population (%)
+Labor force (%)
+Most recent estimate (latest year available, 199642)
+11
+57
+73
+24
+3
+79
+
+Poverty (% of population below nationalpoverfy line)
+Urban population (% of total population)
+Life expectancy at birth (years)
+infant mortality (per 7,000 live births)
+Child malnutrition (% ofchildren under 5)
+Access to an improved water source (% ofpopulabon)
+Illiteracy (% ofpopulation age 75+)
+Gross primary enrollment (% of school-age population)
+Male
+Female
+
+1 GNI
+
+Gross
+primary
+nrollment
+
+per
+capita
+
+1
+I
+
+Access to improved water source
+-Georgia
+
+1
+
+I
+
+Low-mcomegroup
+
+~
+
+KEY ECONOMIC RATlOS and LONG-TERM TRENDS
+GDP (US$ billions)
+Gross domestic investmenVGDP
+Exports of goods and serviceslGDP
+Gross domestic savingslGDP
+Gross national savingslGDP
+
+34.5
+
+Current account balancelGDP
+Interest paymentslGDP
+Total debtlGDP
+Total debt servicelexports
+Present value of debVGDP
+Present value of debffexDOrts
+(average annual growth)
+GDP
+GDP per capita
+Exports of goods and services
+STRUCTURE of the ECONOMY
+(% of GDP)
+Agriculture
+Industry
+Manufacturing
+Services
+Private consumption
+General government consumption
+Imports of goods and services
+
+(average annualgrowth)
+Agriculture
+Industry
+Manufacturing
+Services
+Private consumption
+General govemment consumption
+Gross domestic investment
+Imports of goods and services
+
+199242
+
+2001
+
+2002
+
+-6.2
+-6.7
+
+2.1
+2.6
+11.5
+
+47
+55
+-1 2
+
+54
+64
+57
+
+1982
+
+1992
+
+2001
+
+2002
+
+23.0
+38.2
+30.5
+38.8
+
+52.9
+23.9
+17.7
+23.2
+
+22.1
+21 9
+
+196
+23 1
+
+56.0
+
+57 3
+
+53.3
+12.2
+
+..
+
+97.8
+9.4
+66.3
+
+87.6
+9.7
+38.8
+
+1982-92
+
+199242
+
+..
+
+..
+..
+..
+
+Trade
+
+T
+
+Indebtedness
+
+1982-92
+
+..
+
+Economic ratios'
+
+-Georgia
+~
+
+Low-income group
+
+I Growth of investment and GDP ("A)
+7% -
+
+I
+
+84 3
+98
+39 2
+
+I
+
+I
+
+2001
+
+2002
+
+1 Growlh of expolto and Imports (%)
+
+I
+
+3.3
+
+3.0
+4.0
+
+3.0
+4.0
+
+2.4
+4.3
+11.4
+8.4
+
+8.7
+-13.9
+10.3
+2.9
+
+-24.8
+4.7
+608.5
+4.2
+
+I
+
+I
+
+-----Exports
+
+"Imports
+
+Note: 2002 data are preliminary estimates.
+This table was produced from the Development Economics central database.
+*The diamonds show four key indicatorsin the country (in bold) compared with its income-groupaverage. If data are missing, the diamond will
+be incomolete.
+
+-45-
+
+Georgia
+PRICES and GOVERNMENT FINANCE
+Domestic prices
+(% change)
+Consumer prices
+Implicit GDP deflator
+
+1982
+
+1992
+
+2001
+
+2002
+
+3.5
+
+887.4
+1,314.2
+
+4.7
+5.3
+
+5.6
+4.4
+
+12.6
+-21.6
+-35.6
+
+16.5
+0.4
+-1.4
+
+16.9
+0.6
+-0.7
+
+1992
+
+2001
+
+2002
+
+267
+
+639
+42
+62
+273
+1,078
+143
+176
+470
+
+695
+46
+70
+288
+1,146
+153
+185
+489
+
+98
+97
+101
+
+101
+99
+102
+
+2001
+
+2002
+
+1,153
+1,490
+-336
+
+1,249
+1,583
+-334
+
+20
+108
+
+33
+122
+
+-1 9
+
+-26
+
+3.30E-5
+
+149
+2.1
+
+193
+2.2
+
+1992
+
+2001
+
+2002
+
+79
+0
+0
+
+1,729
+0
+396
+
+1,825
+0
+478
+
+0
+0
+0
+
+77
+0
+3
+
+129
+0
+3
+
+5
+0
+22
+0
+0
+
+69
+64
+13
+160
+0
+
+0
+0
+0
+0
+0
+0
+
+90
+63
+0
+63
+3
+61
+
+Government finance
+(% of GDP, includes current grants)
+Current revenue
+Current budget balance
+Overall surplusldeficit
+TRADE
+(US$ millions)
+Total exports (fob)
+Black metal
+Tea
+Manufactures
+Total imports (cifl
+Food
+Fuel and energy
+Capital goods
+
+1982
+
+645
+
+Export price index (1995-100)
+Import price index (1995=100)
+Terms of trade (1995=100)
+BALANCE of PAYMENTS
+
+(US$ millions)
+Exports of goods and services
+Imports of goods and services
+Resource balance
+
+1982
+
+1992
+
+Net income
+Net current transfers
+
+Ti---I
+
+97
+
+,
+
+00
+
+99
+
+98
+
+deflator
+
+-GDP
+
+01
+
+.loICPl
+
+Export and import levels (US$ mill.)
+
+11 250
+
+-
+
+96
+
+97
+
+00
+
+99
+
+98
+
+s Exports
+
+01
+
+02
+
+Imports
+
+1 Current account balance
+
+to GDP (%)
+
+Current account balance
+Financing items (net)
+Changes in net reserves
+Memo:
+Reserves including gold (US$ millions)
+Conversion rate (DEC, locaVUS$)
+EXTERNAL DEBT and RESOURCE FLOWS
+
+(US$ millions)
+Total debt outstanding and disbursed
+IBRD
+IDA
+Total debt service
+IBRD
+IDA
+Composition of net resource flows
+Official grants
+Official creditors
+Private creditors
+Foreign direct investment
+Pofloiio equity
+World Bank program
+Commitments
+Disbursements
+Principal repayments
+Net flows
+Interest payments
+Net transfers
+
+1982
+
+~~
+
+Note: This table was produced from the Development Economics central database.
+
+1 Composition of 2002 debt (US$ mill.)
+
+57
+-1 7
+
+I
+55
+59
+0
+59
+3
+56
+
+D: 145
+
+-
+
+A IBRD
+
+B - IDA
+
+C - IMF
+
+D -Other multilateral
+
+E - Bilateral
+
+-
+
+F Private
+G -Short-term
+
+8/20/03
+
+-46-
+
+ANNEX2: PORTFOLIO INDICATORS
+Selected Indicators* of Bank Portfolio Performance and Management
+As Of Date 10/30/2003
+
+Indicator
+Portfolio Assessment
+Number of Projects Under Implementationa
+Average Implementation Period (years)
+Percent of Problem Projects by Number
+Percent of Problem Projects by Amount a,
+Percent of Projects at Risk by Number a , d
+Percent of Projects at Risk by Amount a,
+Disbursement Ratio (%) e
+Portfolio Management
+CPPR during the year (yeslno)
+Supervision Resources (total US$)
+Average Supervision (US$/project)
+Memorandum Item
+Proj Eva1 by OED by Number
+Proj Eva1 by OED by Amt (US$ millions)
+% of OED Projects Rated U or HU by Number
+% of OED Projects Rated U or HU by Amt
+a.
+b.
+c.
+d.
+e.
+
+2001
+
+2002
+
+2003
+
+2004
+
+19
+2.3
+0.0
+0.0
+0.0
+0.0
+19.6
+
+18
+3.4
+16.7
+27.5
+22.2
+31.9
+18.5
+
+18
+3.4
+5.6
+5.2
+5.6
+5.2
+21.4
+
+17
+3.7
+5.9
+5.3
+5.9
+5.3
+6.7
+
+Yes
+1255
+66
+
+Yes
+1557
+86
+
+Yes
+1591
+
+Yes
+1480
+78
+
+76
+
+Since FY 80 Last Five FYs
+14
+8
+415.0
+190.2
+7.1
+12.5
+14.0
+30.5
+
+As shown in the Annual Report on Portfolio Performance (except for current FY).
+Average age of projects in the Bank's country portfolio.
+Percent of projects rated U or HU on development objectives (DO) and/or implementation progress (IP).
+As defined under the Portfolio Improvement Program.
+Ratio of disbursements during the year to the undisbursed balance of the Bank's portfolio at the
+beginning of the year: Investment projects only.
+* All indicators are for projects active in the Portfolio, with the exception of Disbursement Ratio,
+which includes all active projects as well as projects which exited during the fiscal year.
+
+-47ANNEX 3: WORLD BANKGROUP
+PROGRAM SUMMARY
+
+Proposed IBRDllDA Base-Case Lending Program
+US$M
+
+Fiscal year
+
+Project
+
+2004
+
+SECONDARY AND LOCAL ROADS
+SOCIAL PROTECTION
+
+20.0
+10.0
+
+Strategic Rewards
+(H/M/L)
+
+Implementation
+Risks (H/M/L)
+
+M
+H
+
+M
+M
+
+Result
+
+30.0
+
+2005
+
+RURAL DEVT
+TRADE AND TRANSPORT FACILITATION
+COMMUNITY-BASED TOURISM
+Result
+
+15.0
+7.0
+3.0
+25.0
+
+M
+H
+M
+
+M
+M
+L
+
+2006
+
+PRIVATE SECTOR DEVELOPMENT
+PUBLIC SECTOR MANAGEMENT
+RURAL TELECOMS LIL
+Result
+
+10.0
+8.0
+5.0
+23.0
+78.0
+
+H
+
+H
+H
+L
+
+Overall Result
+
+H
+M
+
+CAS Annex B3 (IFC & MIGA) for Georgia
+Georgia - I F C and M I G A Program, FY 2001-2004
+
+2001 2002 2003 2004
+
+IFC approvals (USJm)
+
+Sector (YO)
+
+Finance & Insurance
+
+Total
+
+0.29 9.72 5.00 0.00
+
+100 100 100
+100 100 100
+
+0
+
+Investment instrument(%)
+Loans
+Equity
+Quasi-Equity
+Other
+
+Total
+
+MIGA guarantees (US$m)
+
+100
+
+51
+7
+
+50
+
+100
+
+41
+48
+
+50
+50
+
+0
+
+0.00 0.00 0.00 0.00
+
+- 48 -
+
+ANNEX 4: SUMMARYOF NON-LENDING
+SERVICES
+
+Product
+
+Completion F Y Cost (US$OOO) Audience a Objective
+
+Recent completions
+Child Welf Note
+Caspian Oil & Gas Follow-Up
+Busness Env Study
+Trade Diagnostic Study
+Trade Faciltation Dialogue
+High Educ Note
+Revisitng Reform
+CFAA
+FSAP Follow-Up TA
+Private Sector TA
+Banking Sector Advisory TA
+
+FY03
+FY03
+FY03
+FY03
+FY03
+FY03
+FY03
+FY03
+FY03
+FY03
+FY03
+
+33
+13
+38
+173
+28
+43
+73
+104
+93
+29
+275
+
+KG,PD
+KG,PD
+PD,PS
+KG,PD,PS
+PD,PS
+KG,PD,PS
+KG,PD
+PS
+KG,PS
+KG,PS
+KG,PS
+
+Underway
+Macro-Monitoring
+CPAR Follow-up
+CFAA Follow-up
+FSAP Follow-up Advisory
+Public Expenditure Review
+PRSP Support
+Health Note
+Child Welfare IDF
+Housing Note
+Rural Growth
+Post Conflict Grant
+Rural Infrastructure Study
+
+Ongoing
+Ongoing
+Ongoing
+Ongoing
+Ongoing
+Ongoing
+FY04
+FY04
+FY04
+FY04
+FY04
+FY04
+
+250
+75
+187
+145
+120
+194
+52
+52
+50
+116
+162
+83
+
+KG
+PS
+PS
+KG,PS
+PS
+PS
+KG,PD,PS
+KG,PD,PS
+KG
+KG,PD,PS
+KG,PD
+KG,PD,PS
+
+Planned
+Policy Options Report for Incoming Government
+Poverty Profile
+Water Resource/Risk Management
+Public Expenditure Reviews Update
+Donors Coordination
+Financial Sector Advisory
+PRSP Updates
+Macro-Monitoring
+Business Environment Study
+Labor Market
+
+FY05
+FY05
+FY05
+FY05,06
+FY05,06
+FY05,06
+FY05,06
+FY05,06
+FY06
+FY06
+
+300
+266
+52
+240
+100
+150
+207
+200
+124
+100
+
+KG,PD,PS
+KG, PD, PS
+KG,PD,PS
+PS
+PD,PS
+KG, PS
+PD
+KG, PD, PS
+PD,PS
+KG,PD,PS
+
+a. Government, donor, Bank, public dissemination.
+b. Knowledge generation, public debate, problem-solving.
+
+-49ANNEX5: SOCIAL INDICATORS
+
+Georgia Social Indicators
+Same regionlincome g r o u p
+
+Latest s i n g l e year
+
+POPULATION
+Total population, mid-year (millions)
+Growth rate (% annual average for period)
+Urban population (% of population)
+Total fertility rate (births per woman)
+
+1970-75
+
+1980-85
+
+1995-2001
+
+Europe &
+Central
+Asia
+
+4.9
+0.8
+49.5
+2.5
+
+5.3
+0.8
+53.9
+2.4
+
+5.3
+-0.4
+56.5
+1.1
+
+474.6
+0.1
+62.8
+1.6
+
+2,505.9
+1.9
+30.8
+3.5
+
+1,970
+
+430
+
+4.0
+4.4
+8.8
+
+1.1
+2.8
+
+79
+90
+61
+
+91
+98
+83
+
+76
+90
+70
+
+73
+86
+3
+
+95
+94
+
+60
+61
+
+71
+67
+75
+
+73
+69
+77
+
+69
+
+64
+
+73
+
+59
+58
+60
+
+33
+
+30
+36
+
+24
+29
+
+31
+38
+
+80
+121
+
+240
+113
+
+210
+94
+
+250
+133
+22
+96
+
+317
+137
+
+312
+256
+
+POVERTY
+(“A of population)
+National headcount index
+Urban headcount index
+Rural headcount index
+
+11.1
+12.1
+9.9
+
+INCOME
+GNi per capita (US$)
+Consumer price index (1995=100)
+Food price index (1995=100)
+
+590
+201
+174
+
+INCOME/CONSUMPTION DISTRIBUTION
+Gini index
+Lowest quintile (% of income or consumption)
+Highest quintile (% of income or consumption)
+
+38.9
+6.0
+45.2
+
+SOCIAL INDICATORS
+Publlc expenditure
+Heaith (% of GDP)
+Education (Oh of GDP)
+Social security and welfare (YOof GDP)
+Net prlmary school enrollment rate
+(“A of age group)
+Total
+Male
+Female
+Access to an improved water source
+(?A ofpopulation)
+Total
+Urban
+Rural
+Immunization rate
+(x under 12 months)
+Measles
+DPT
+Child malnutrition (% under 5 years)
+Life expectancy at blrth
+(yeas)
+Total
+Male
+Female
+Mortallty
+Infant (per 1,000 live births)
+Under 5 (per 1,000 live births)
+Adult (15-59)
+Male (per 1,000 population)
+Female (per 1,000 population)
+Maternal (modeled, per 100,000 live births)
+Births attended by skilled health staff ( O h )
+
+0.7
+4.0
+
+LOWincome
+
+95
+95
+95
+
+Note 0 or 0 0 means zero or less than haif the unlt shown Net enrollment rate break in senes between 1997 and 1998 due to
+change from ISCED76 to ISCED97, ratios exceeding 100 indicate discrepancies between the estimates of school-age population
+and reported enrollment data
+2003 World Development indicators CD-ROM, World Bank
+
+E
+
+8
+
+L
+
+*
+
+3 -4 9%
+
+-53-
+
+ANNEX7: m Y EXPOSURE INDICA TORS
+Georgia - Key Exposure Indicators
+Actual
+
+Estimate
+
+Projected
+
+1997
+
+1998
+
+1999
+
+2000
+
+2001
+
+2002
+
+2003
+
+Total debt outstanding and
+disbursed (TDO) (US$m)a
+
+1466
+
+1648
+
+1653
+
+1638
+
+1729
+
+1837
+
+1938
+
+1921
+
+1944
+
+1962
+
+Net disbursements (USSm)"
+
+153
+
+153
+
+59
+
+33
+
+114
+
+15
+
+65
+
+-19
+
+20
+
+15
+
+Total debt service (TDS)
+
+40
+
+92
+
+108
+
+118
+
+77
+
+129
+
+188
+
+215
+
+231
+
+226
+
+174.0
+41.0
+4.7
+43.5
+
+181.9
+45.5
+10.2
+46.0
+
+179.4
+58.3
+11.7
+49.6
+
+187.7
+53.8
+13.5
+49.1
+
+160.3
+54.0
+7.2
+49.7
+
+173.2
+54.3
+12.1
+54.0
+
+173.3
+51.4
+16.8
+
+161.1
+48.1
+18.0
+
+153.3
+46.9
+18.2
+
+145.4
+44.7
+16.8
+
+3.7
+19.7
+
+2.1
+14.3
+
+2.3
+30.8
+
+2.4
+36.8
+
+4.3
+44.7
+
+3.3
+44.6
+
+2.4
+33.4
+
+2.8
+36.7
+
+3.7
+42.5
+
+5.0
+41.2
+
+0.2
+0.0
+
+0.2
+
+0.3
+0.0
+
+0.2
+0.0
+
+0.3
+0.0
+
+0.3
+
+0.0
+
+0.0
+
+0.4
+0.0
+
+0.4
+0.0
+
+0.5
+0.0
+
+0.6
+0.0
+
+0
+212
+
+0
+274
+
+0
+346
+
+0
+347
+
+0
+396
+
+0
+491
+
+0
+531
+
+0
+590
+
+0
+639
+
+0
+685
+
+2.8
+
+3.0
+2.8
+
+18.3
+5.8
+
+51.1
+6.8
+
+42.0
+7.0
+
+49.8
+7.3
+
+50.6
+4.9
+
+53.1
+4.9
+
+55.6
+6.9
+
+55.6
+8.9
+
+Indicator
+
+2004
+
+2005
+
+2006
+
+(US$m)"
+Debt and debt service indicators
+TDO/XGS~
+TDO/GDP
+TDS/XGS
+ConcessionallTDO
+IDA exposure indicators (Yo)
+IDA DSipublic DS
+Preferred creditor DS/public
+DS (%)'
+IDA DS/XGS
+IBRD TDO (us$mld
+Of which present value of
+guarantees (US$m)
+Share of IBRD portfolio (Yo)
+IDA TDO (US$mld
+
+IFC (USSm)
+Loans
+Equity and quasi-equity /c
+MIGA
+MIGA guarantees (US$m)
+
+a. Includes public and publicly guaranteed debt, private nonguaranteed, use of IMF credits and net shortterm capital. Debt service are based on actual payments through 2002, and on due payments thereafter.
+b. "XGS" denotes exports of goods and services, includingworkers' remittances.
+c. Preferred creditors are defined as IBRD, IDA, the regional multilateral development banks, the IMF, and the
+Bank for Intemationd Settlements.
+d. Includes present value of guarantees.
+e. Includes equity and quasiequity types o f both loan and equity instruments.
+
+mcq
+
+-*In
+
+m
+
+t
+
+N
+
+6
+
+a
+
+m
+
+2
+
+m
+
+t
+$1
+
+fi
+Y
+
+c
+
+z1
+PI
+x
+
+w
+
+0
+
+0
+
+0
+
+0
+
+'r
+
+I
+
+0
+\o
+I
+
+e
+
+ru
+0
+
+a
+
+z
+E
+W
+
+52
+
+I
+
+c\1
+
+W
+I
+
+2P
+w
+
+c
+
+xc
+X
+
+W
+
+w
+
+a
+
+a
+
+a
+
+a
+
+z
+E
+bD
+
+m
+4
+
+-1
+
+a
+m
+
+I
+
+M
+
+\o
+I
+
+2c?
+W
+
+c
+
+U
+Y
+EL
+
+x
+
+W
+
+Y
+-1
+
+e
+
+e
+
+e
+
+e
+
+-0
+
+9 2
+
+s
+
+*I
+
+9
+
+-65-
+
+ANNEX10: CAS SUMMARY OFDEVELOPMENTPRIORITIES
+
+As Of Date 09/02/2003
+
+Network area
+
+Country
+performance'
+
+Major issue
+
+Country
+priority'
+
+Bank
+priority"
+
+Poverty Reduction 8 Economic
+Management
+Poverty reduction
+Economic policy
+Public sector
+Gender
+
+Fair
+Fair-Good
+Poor
+Good-Excellent
+
+Rural poverty
+Fiscal
+Corruption
+Gender balance in
+public service
+
+Human Development Department
+Education
+Health, nutrition & population
+Social protection
+
+Fair
+Fair
+Fair-Good
+
+Quality
+High
+Resource allocation High
+Timely benefit
+High
+payment
+
+High
+High
+High
+
+Environmentally 8 Socially
+Sustainable Development
+Rural development
+Environment
+Social development
+
+Fair-Good
+Fair
+Fair
+
+Markets
+Enforcement
+IDPs
+
+High
+High
+High
+
+High
+High
+High
+
+Insufficient financial
+intermediation
+Corruption
+Payment culture
+O&M
+
+High
+
+High
+
+Finance, Private Sector 8 Infrastructure
+Financial sector
+Fair-Good
+Private sector
+Energy & mining
+Infrastructure
+
+Good
+Fair
+Fair
+
+High
+High
+Moderate
+Moderate
+
+Reconciliation
+of country and
+Bank priorities
+
+High
+High
+High
+Ongoing dialogue, CAS triggers
+Moderate
+
+High
+High
+High
+High
+Moderate High
+
+CAS focus on budget allocations
+
+a. Use "excellent," "good," "fair," or "poor."
+b. Indicate principal country-specific problems (e.g., for poverty reduction. "rural poverty;" for education, "female secondary complet!on;" for environment, "urban air pollution")
+c. To indicate priority, use "low," "moderate," or "high."
+d. Give explanation, if pnorities do not agree; for example, another MDB may have the lead on the issue. or there may be ongoing dialogue.
+
+MAP SECTION
+
+

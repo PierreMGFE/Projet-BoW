@@ -1,0 +1,5173 @@
+Public Disclosure Authorized
+Public Disclosure Authorized
+
+Document of
+The World Bank
+FOR OFFICIAL USE ONLY
+
+Report No. 59222-AR
+
+INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT
+INTERNATIONAL FINANCE CORPORATION
+
+Public Disclosure Authorized
+
+Public Disclosure Authorized
+
+COUNTRY PARTNERSHIP STRATEGY PROGRESS REPORT
+FOR
+THE ARGENTINE REPUBLIC
+FOR THE PERIOD 2010-2012
+
+February 24, 2011
+
+Argentina, Uruguay and Paraguay
+Country Management Unit
+Latin America and the Caribbean Region
+
+This document has a restricted distribution and may be used by recipients only in the performance of their
+official duties. Its contents may not otherwise be disclosed without World Bank authorization.
+
+The last Country Partnership Strategy for Argentina was discussed by the Executive Directors on
+June 9, 2009 (Report No. 48476-AR)
+
+CURRENCY AND EQUIVALENT UNITS
+(As of February 24, 2011)
+Currency Unit = Argentine Peso
+US$1 = 4.06 Argentine Peso
+WEIGHTS AND MEASURES
+Metric System
+FISCAL YEAR
+January 1 to December 31
+
+ABBREVIATIONS AND ACRONYMS
+AAA
+ACUMAR
+ANSES
+ARI
+CAS
+CPI
+CPS
+CPSPR
+CREMA
+FBS
+GHG
+GDP
+IA
+IDF
+IFC
+IMF
+INDEC
+IT
+PAE
+SEPA
+SME
+SWAp
+TRP
+UNFCC
+
+Vice President:
+Country Director:
+Task Team Leaders:
+
+Analytical and Advisory Activities
+Matanza-Riachuelo River Basin Authority
+Social Security Administration
+Support for an Egalitarian Republic Party
+Country Assistance Strategy
+Consumer Price Index
+Country Partnership Strategy
+Country Partnership Strategy Progress Report
+Contrato de Recuperación y Mantenimiento
+Fee Based Service
+Greenhouse Gas
+Gross Domestic Product
+Implementing Agency
+Institutional Development Fund
+International Finance Corporation
+International Monetary Fund
+National Institute of Statistics and Census of Argentina
+Information Technology
+Pan American Energy
+Procurement Plan Execution System
+Small and Medium Enterprise
+Sector Wide Approach
+Terminales Rio de la Plata
+United Nations Framework Convention on Climate Change
+IBRD
+Pamela Cox
+Penelope Brook
+Tatiana Proskuryakova
+
+IFC
+Thierry Tanoh
+Paolo Martelli
+John Barham
+
+The CPSPR was prepared under the guidance of Penelope Brook, Country Director, LCC7C by Tatiana
+Proskuryakova (TTL), Alejandro Alcala, Yanina Budkin, Norbert Fiess, Andrew Follmer, Michel Kerf, Milagros
+Mosteirin, Rafael Rofman, Felipe Saez, Veronica Salatino, Cecilia Simkievich and John Barham. Contributions are
+gratefully acknowledged from Elizabeth Adu, Bruce Courtney, Barbara H. Mierau-Klein, Rakesh Nangia, Reynaldo
+Pastor, Alejandro Solanot and Laura Tuck who provided written comments and to Marcelo Acerbi, Cristian Aedo,
+Diego Ambasz, Alexandre Arrobbio, Ana Bellver, Vanina Camporeale, Rafael Cortez, Michael Crawford, Robert
+Davis, Ana Grofsmacht, Theresa Jones, Fernando Lavadenz, Chingboon Lee, Patricia Lopez, Catalina Marulanda,
+Renato Nardello, Andres Pizarro, Renan Poveda, Veronica Raffo, Daniela Romero, Marcela Salvador, Maria Marcel
+Silva, Alvaro Soler, Lucia Spinelli, Carlos Velez and Xiaoping Wang for th eir valuable inputs. Administrative support
+was provided by Mariela Alvarez, Carla Cutolo and Geraldine Garcia.The World Bank Group thanks Gabriela Costa,
+National Director for Projects with International Credit Institutions, Ministry of Economy and Public Finance of
+Argentina, and Aníbal López, Director for Projects with the World Bank, Ministry of Economy and Public Finance of
+Argentina, for their contributions to this CPSPR.
+
+Country Partnership Strategy Progress Report
+Argentina
+
+TABLE OF CONTENTS
+
+I. INTRODUCTION .............................................................................................................1
+II.
+A.
+B.
+
+COUNTRY CONTEXT ..................................................................................................2
+RECENT DEVELOPMENTS ............................................................................................................................ 2
+OUTLOOK ......................................................................................................................................................... 3
+
+III. PROGRESS TOWARDS CPS OUTCOMES ...................................................................5
+A.
+B.
+C.
+
+PROGRAM IMPLEMENTATION AND PORTFOLIO PERFORMANCE..................................................... 5
+RESULTS TO DATE .......................................................................................................................................... 7
+ADJUSTMENTS TO THE CPS RESULTS FRAMEWORK .......................................................................... 12
+
+IV. FUTURE ENGAGEMENT............................................................................................. 13
+V. RISKS ............................................................................................................................... 14
+ANNEXES
+ANNEX 1: UPDATED RESULTS FRAMEWORK ................................................................ 16
+ANNEX 2: SUMMARY OF CHANGES TO CPS RESULTS FRAMEWORK ........................ 32
+ANNEX 3. ARGENTINA LENDING AND GEF PROGRAM, FY09-12 ................................. 36
+ANNEX 4. OPERATIONS PORTFOLIO (IBRD/IDA AND GRANTS) .................................. 38
+ANNEX 5. AAA PROGRAM FY09-FY11.............................................................................. 40
+ANNEX 6. SELECTED INDICATORS OF BANK PORTFOLIO PERFORMANCE AND
+MANAGEMENT.................................................................................................................... 41
+ANNEX 7: SUMMARY OF JOINT GOVERNMENT-BANK WORKSHOP ........................... 42
+ANNEX 8. ARGENTINA: SELECTED ECONOMIC AND FINANCIAL INDICATORS....... 44
+ANNEX 9. ARGENTINA AT A GLANCE ............................................................................. 45
+
+I. INTRODUCTION
+1.
+The Board of Executive Directors discussed the 2010-2012 joint Bank-IFC
+Country Partnership Strategy (CPS)1 for the Argentine Republic on June 9, 2009. This
+Progress Report (CPSPR) assesses the implementation at midpoint of Bank’s Country
+Partnership Strategy with Argentina. The CPS provides strategic support to the Argentine
+Republic in three key areas: sustainable growth with equity, social inclusion, and improved
+governance. The strategy is focused on the implementation of existing portfolio and delivery of
+new investment lending and a range of knowledge services to help achieve specific country
+development outcomes.
+2.
+The development goals supported by the strategy remain valid, and there have
+been no significant changes in Government priorities since the adoption of the CPS. The
+investment partnership between Argentina and the Bank has been stable and consistent since its
+adoption in 2004, focusing on the long-term goals of upgrading infrastructure, consolidating
+social gains and poverty reduction, and improving public sector capacity. The global economic
+crisis, the main source of uncertainty at the start of the CPS period, did not affect Argentina as
+strongly as anticipated.
+3.
+Implementation of the 2010-2012 CPS is on track and yielding tangible results.
+The Bank has maintained a dialogue with the authorities in areas that had been the central focus
+of the previous Country Assistance Strategy (CAS), while adding new initiatives, the most
+prominent of which is engagement in the cleanup of the Matanza Riachuelo river basin. 14
+lending operations for the total amount of US$3,217 million2 have already been approved or are
+in advanced stages of preparation, with another 4 projects for about US$200 million indicatively
+planned before the end of the CPS period. Outcomes achieved to date are the result of long -term
+engagement as well as of new analytical work, policy reforms and investments. IFC
+commitments in Argentina totaled $516 million in FY09-10 and mobilized a further $325 million
+from participating investors. These resources were invested with 20 clients operating principally
+in the oil and gas, trade finance, and mining and processing sectors.
+4.
+The Bank program for the second half of the CPS period is well defined. The main
+challenge for the next 18 months is to implement the large and complex portfolio of investments ,
+building on experience and improved implementation capacity, and to implement the ongoing
+technical assistance program with high quality and responsiveness to Government needs.
+Possible changes in priorities after the upcoming elections will be addressed as part of the next
+CPS preparation. For its part, IFC expects no significant changes in its approach for the
+1
+
+Report No. 48476-AR
+
+2
+
+The total takes into account cancellation of US$88 million from the Prevention and Management of Influenza Type
+Illness and Strengthening of Argentina's Epidemiological System Project, Loan 7843-AR. Note also that Matanza
+Riachuelo project is not part of this total as it was approved under the previous CPS, although its implementation
+began during the current CPS period.
+
+1
+
+remainder of the CPS period. However, it does hope to support cross-border investments by
+Argentine clients, and to finance emerging IT companies.
+5.
+Consistent with the results-based approach, this Progress Report focuses on the
+main achievements to date and proposes some minor course adjustments. Section II of the
+Report provides a summary of recent country developments. Section III describes progre ss
+towards CPS outcomes and proposes changes to the results framework in light of implementation
+experience. Section IV sets out the program for the rest of the CPS period, and Section V
+contains a brief summary of key risks.
+
+II.
+
+COUNTRY CONTEXT
+
+A. RECENT DEVELOPMENTS
+6.
+The effects of the recent economic crisis have been less severe than anticipated. As
+Argentina recovered from the profound crisis of 2001, its real Gross Domestic Product (GDP)
+grew on average 8.5 percent per year between 2002 and 2008. Economic activity started to slow
+in 2008 with a conflict over agricultural export duties during the first semester and the impact of
+the global financial crisis in September. Real GDP growth declined to 6.8 percent in 2008 from
+8.7 percent in 2007, according to official statistics. Economic activity declined further in 2009
+due to a drop in external demand, declining commodity prices, continued deterioration in
+investor confidence and a severe drought that weighed on agricultural production. Fiscal
+performance deteriorated considerably in 2009 due to a decline in revenue stemming from lower
+economic activity, counter-cyclical stimulus and the sharp decline in trade and related tax
+revenue (the primary fiscal surplus fell from 3.1 percent of GDP in 2008 to 1.5 percent of GDP
+in 2009). Increased economic uncertainty prompted an increase in capital outflows that offset
+improvements in the current account due to reduced domestic demand. Gross international
+reserves declined from a record of US$50.5 billion in April 2008 to US$47.9 billion at the end of
+2009. Foreign currency sales allowed the Central Bank to m aintain relative exchange rate
+stability. Gross public debt declined from 66.4 percent of GDP (US$153.0 billion) in 2002 to
+47.1 percent of GDP (US$160.9 billion) by end-September 2010.
+7.
+The economy rebounded strongly in 2010, fueled by fast growth in internal
+absorption, strong external demand (mainly Brazil and China), and commodity price
+improvements. A significant revitalization of industrial activity in automobiles, basic metals and
+textiles, and a normalization of agricultural production following the previous year’s severe
+drought have contributed to the economy’s dynamism. Internal absorption has been boosted by
+consumption, investment and an expansion of public spending. Real GDP is estimated to have
+grown by 9.1 percent in 2010.
+
+2
+
+8.
+Poverty is declining. According to official statistics, poverty has declined from 13.9
+percent in June 2009 to 12.0 percent in June 2010 3. Unemployment is also falling, reaching 7.5
+percent in September 2010, from a peak of 9.1 percent in September 2009. Early indications o f
+trends in other social indicators (i.e., infant mortality and school enrollment) are also positive.
+9.
+Since December 2010, the Government has been actively seeking an agreement
+with the Paris Club to restructure the official debt that has remained in default since 2001, and
+an agreement with the International Monetary Fund (IMF) has also been reached to conduct a
+technical mission to Argentina to help design a new nationwide consumer price inflation index.
+In addition, the Government has been calling for a social pact between unions and employers to
+help anchor inflationary expectations.
+10.
+A long-standing delegation of legislative powers to the Executive branch expired in
+August 2010. For decades many of the powers that in other countries are typically vested in the
+Legislative branch in Argentina had been within the authority of the Executive. In 1994
+Constitutional reform restored these powers to the Legislative branch, including, among others,
+the authority to impose duties on trade and introduce changes to the public budget. The reform
+however did not take effect immediately and included a transitory clause granting a five-year
+period during which these powers would continue to be delegated to the Executive. This period
+was extended by Congress several times over the years until August 24, 2010, when Congress
+decided that such delegation to the Executive branch would no longer be authorized, thus
+recouping its full authority as set forth by the Constitution and restoring the balance of power
+between the branches of government.
+
+B. OUTLOOK
+11.
+The political agenda for 2011 will be dominated by the upcoming presidential
+elections. While their outcome remains uncertain, no fundamental changes in policies are
+expected. Within the Peronist Party, there is an agreement that the state should maintain an
+active role in the economy, providing substantial investments in social programs and
+infrastructure. Representatives of the opposition Radical party and Support for an Egalitarian
+Republic (ARI) party tend to share this view, although they may differ on mechanisms for
+implementing such investments.
+12.
+Growth is expected to continue in the near term. Real GDP is projected to expand
+by 9.1 percent in 2010 and by 5.8 in 2011; growth is likely to decelerate in 2011 due to an
+expected moderation in external demand, continued high inflation that will take its toll on
+
+3
+
+Data based on official inflation figures, which are contested by market analysts.
+
+3
+
+consumer confidence and real incomes, and the possibility that firms will hold off investments
+ahead of the 2011 presidential elections.
+13.
+Inflation is accelerating. Fiscal stimulus, bottlenecks in production, energy shortages
+and a more relaxed monetary policy during the second half of 2010 are fueling inflationary
+pressures. The gap between private and official inflation estimates remains w ide. According to
+INDEC, inflation in December 2010 reached 11.0 percent compared to estimates of around 25.0
+percent by market analysts for year-end. Some analysts expect inflation to accelerate further in
+2011 (29 percent) as an expansionary fiscal and monetary stance will likely be maintained in the
+run-up to October presidential elections.
+14.
+Fiscal accounts are stable. The primary balance is expected to post a surplus of 1.7
+percent of GDP and the overall balance a surplus of 0.2 percent of GDP in 2010. Fiscal revenues
+have increased strongly during 2010 due to economic recovery, inflation gains and greater export
+tax revenue. Total revenue grew by 34.7 percent in 2010 compared to 18.7 percent the previous
+year. Strong revenue performance has allowed the Government to maintain an expansionary
+stance without endangering the primary balance; although expenditures have grown by 33.9
+percent, the primary fiscal result has remained positive at AR$25.1billion. Fiscal accounts are
+expected to deteriorate somewhat in 2011, as expenditures are likely to increase in the run-up to
+the October presidential elections. The primary balance is expected to remain positive at 0.8
+percent of GDP whereas the overall balance is likely to post a deficit of about 1.0 percent of
+GDP in 2011.
+15.
+The financing gap is manageable. Argentina’s gross financing needs for 2010
+(US$12.8 billion) have been covered by the primary surplus and the US$6.6 billion fund created
+with Central Bank reserves in March 2010. Gross financing needs for 2011 (US$14.4 billion)
+and 2012 (US$11.8 billion) are high, but also manageable. The successful debt exchange in June
+2010 has opened the possibility for fresh financing from international capital markets 4. However,
+the Government will likely continue to rely on inter-public sector borrowing (from the Social
+Security Administration (ANSES) and Banco de la Nación Argentina) and the Central Bank
+(through the issuance of local currency and the renewed use of international reserves 5) to cover
+its financing needs.
+16.
+External accounts are deteriorating. During 2010, the trade balance posted a surplus
+of US$12.1 billion, equivalent to 3.8 percent of GDP – a 28.9 percent decline relative to 2009.
+The decline in the trade surplus occurred despite record soybean exports and dynamic
+manufactured exports to Brazil, as imports grew even stronger due to the economic recovery:
+4
+
+In December 2010, the Government launched another attempt to swap the remainingUS$6.1bn of defaulted debt
+that was not tendered during the two previous debt restructurings (2005 and June 2010). According to official
+preliminary estimates, with the three debt restructuring initiatives 93% of defaulted debt has been restructured.
+5
+
+The decree ruling the extension of the 2010 Budget to 2011 also creates a US$7.5billion fund furnished with
+Central Bank reserves to service debt with p rivate investors during 2011.
+
+4
+
+exports grew by 23.0 percent, while imports expanded by 45.5 percent. The current account
+surplus is expected to narrow to 1.7 percent of GDP in 2010 (from 3.9 percent in 2009) and to
+decline further in 2011.
+17.
+Monetary accounts. Strong dollar inflows from trade surpluses and a commitment to a
+stable nominal exchange rate have led to record reserve accumulation, reaching US$52.2 billion
+at the end of December 2010. Net international reserves amounted to US$41.9 billion, equivalent
+to 78.0 percent of private M2, or 7.8 months of imports. At the same time, the nominal exchange
+rate has appreciated by only 4.2 percent relative to 2009, trading at AR$3.98 per US$ at the end
+of December. Continued sterilization of dollar inflows and transfers f rom Central Bank’s profits
+to the Treasury have fueled a monetary expansion well beyond the recently updated monetary
+target for 2010 – private M2 closed the year with a rate of growth of 31.5 percent, exceeding the
+29.9 percent target for December 2010. In spite of high inflation, the nominal exchange rate is
+expected to remain relatively stable in 2011. As long as Argentina’s terms of trade remain
+favorable and the Brazilian Real, the currency of Argentina’s main trading partner, remains
+strong, the economy is expected to absorb the loss in competitiveness associated with a moderate
+real appreciation.
+18.
+Financial sector remains stable. During 2010, the financial system has remained
+stable characterized by strong liquidity and capital adequacy figures. In addition, credit growth is
+picking up while asset quality has reversed its negative trend in response to a more benign
+economic environment. Financial stability is likely to be maintained in 2011.
+
+III. PROGRESS TOWARDS CPS OUTCOMES
+
+A. PROGRAM IMPLEMENTATION AND PORTFOLIO PERFORMANCE
+19.
+New lending commitments since the start of the CPS period include 12 investment
+operations for US$2,617 million6, with another 6 projects for about US$800 million planned in
+end of FY11 and FY12 (see Annex 3). Infrastructure investments account for the largest share of
+new lending (36 percent), followed by health (29 percent) and social protection (27 percent).
+Across the board, new lending is focused on assistance to provinces: 10 projects approved so far
+under the CPS, accounting for 72 percent of the total lending amount, are funding expenditures
+at the provincial level either through direct sub-national lending, or by supporting Government
+transfers to the provinces. The new portfolio continues the traditional strong focus on results,
+with 8 out 14 new operations including results based financing. Ten recently approved projects
+have an explicit poverty focus, targeting disadvantaged social groups or regions.
+6
+
+This is based on current assumptions with respect to the schedule of Board presentation of pipeline operations and
+this Progress Report. Basic Protection Board date as of 02/23/2011 is 03/10/2011.
+
+5
+
+20.
+Portfolio performance during the first half of the CPS period has been strong.
+The disbursement ratio in FY09 and FY10 has significantly increased from the FY08 levels
+(from 12.2 percent to 29.1 and 23.4 percent respectively), particularly reflecting progress under
+the infrastructure portfolio. There are 4 problem projects representing 10.5 percent of projects
+by number, not including GEF.
+21.
+The focus on portfolio management and intensive dialogue with the Government
+to address issues affecting the portfolio has continued and strengthened. Through the
+Improving Investment Portfolio Management: Building Up Institutions, Systems and Human
+Capital Project funded by an Institutional Development Fund (IDF) Grant, the Bank is
+contributing to Government’s efforts to improve the design, preparation and approval of loans at
+the national and provincial levels, procurement capacity, and portfolio monitoring. As an input
+to the mid-point evaluation of the CPS, the Government and the Bank carried out a workshop on
+challenges and risks faced in the preparation and implementation of investment projects,
+focusing on the areas of procurement, safeguards and financial management. A joint action plan
+defined at the workshop is now in implementation (see Annex 7).
+22.
+Analytical and technical assistance activities are also focused on infrastructure,
+environment, social protection and health, sectors where the Bank has operational presence and
+active dialogue (see Annex 5). There has been an increase in demand for Bank analytical
+services at the sub-national level, including a number of requests for Fee Based Services (FBS)
+for provinces in areas of public sector management and strategies for productive sectors. There
+are currently three such operations underway in the provinces of Corrientes, Chaco and Cordoba.
+23.
+The International Finance Corporation (IFC) program in Argentina during the
+past few years has been geared toward export-oriented sectors with clients with a solid track
+record, in sectors such as agribusiness, oil and gas, and information technology. Most recently,
+the strategy has been expanded and, on a selective basis, IFC has started to invest in new clients
+in strategic sectors such as ports, and in new sectors such as information technology. Although
+the Corporation remains closely engaged with Argentina, market conditions have presented fresh
+challenges to investment teams in the country. A combination of relatively low investment levels
+by highly rated corporations and substantial liquidity in the local financial system has led to a
+steady reduction in IFC commitments. Still with commitments totaling $516 million in FY09FY10 and an outstanding balance of $972.8 million for its own account and $861.6 million in
+investments by participants at the end of June 2010, Argentina was IFC’s fourth largest ma rket
+worldwide in terms of outstanding balance and the second largest in the region after Brazil.
+
+6
+
+B. RESULTS TO DATE
+24.
+Overall progress towards expected CPS outcomes has been strong, particularly
+under the Sustainable Growth and Social Inclusion pillars. Consistency over time in the
+strategic areas and priorities of Bank engagement means that some long-term programs are now
+bearing fruit and translating into country level outcomes. In three specific areas – transport,
+health, and social protection – it is possible to report that CPS outcomes have made a significant
+contribution to Argentina’s development goals. Likewise, in areas such as water and sanitation,
+rural education, agriculture and rural electricity, important achievements can be reported at the
+regional and local level. The main results under the Improved Governance pillar have occurred
+in the area of efficiency of public institutions, with a more recent shift in client demand towards
+customized assistance to provinces in addressing their priority governance challenges, such as
+fiscal performance or social services delivery.
+
+Pillar I: Sustainable Growth with Equity
+25.
+In line with the country’s goal of improving competitiveness and addressing resource
+degradation, the first pillar of the CPS emphasizes upgrading infrastructure in key sectors,
+improving competitiveness in agriculture and addressing selected issues of resource degradation.
+The most significant results achieved to date are as follows.
+26.
+Improved condition of national and selected provincial highway networks. A
+major focus of Bank assistance in the infrastructure sector has been ensuring that the national
+highway network reaches the target of over 90 percent of roads in good condition. The Bank’s
+contribution to this outcome has been through the introduction and partial financing of outcomebased rehabilitation and maintenance contracts (Contrato de Recuperación y Mantenimiento, or
+CREMA contracts) that currently cover over 70 percent of the national highway system of
+34,000 kilometers, and are also used as a network management tool in seven provinces. Based on
+the efforts since the late 1990s, in the course of 2009-2010 the national road network achieved a
+steady state, that is, fully removed the backlog of deferred maintenance and now boasts over 98
+percent of roads in good condition, surpassing the CPS target. Seven provinces using the
+CREMA system also achieved the same level of road quality, confirming the effectiveness of the
+model, which has now been adopted by other countries of the region including Brazil and Peru.
+27.
+Improved urban transport services. The Bank has been supporting investments and
+institutional strengthening reforms in the urban transport subsector through a large program of
+lending (PTUBA, PTUMA) and GEF (Sustainable Transport and Air Quality) operations. Bank
+support is focused on improving the quality and sustainability of urban transport systems in
+Metropolitan Areas of Argentina, through the improvement of sectoral decision making and by
+giving priority to public transport modes and projects that have lower carbon-footprint and lower
+7
+
+impact on climate change. While it is too early to assess overall outcomes, Bank-financed
+interventions include the rehabilitation of metro line A, urban transport transfer centers, and
+road/rail underpasses in the Buenos Aires Metropolitan Area, as well as enhanced decision
+making tools (surveys, transport models, strategic plans, feasibility and design studies) and
+setting up permanent statistical data gathering and results monitoring systems in Buenos Aires
+and in five medium size metropolitan areas. The Bank is also supporting the Government’s
+efforts to improve road safety through an ongoing Road Safety Project.
+28.
+Improved water and sanitation services to the poor have been a major focus of the
+Bank’s partnership with the Province of Buenos Aires. A series of three operations (including
+one Additional Financing) for an aggregate amount of US$470 million have been approved since
+2004 to support infrastructure investments in the province, including in water and sanitation with
+the objective of expanding access to these services to 128,000 poor residents in areas with high
+sanitary or environmental vulnerability.
+29.
+Among the new water sector operations particularly notable are the Matanza
+Riachuelo project and two projects in the Norte Grande provinces, a region that suffers from low
+coverage and poor quality of services in both water and sanitation. The Matanza Riachuelo
+Program (US$840 million) began implementation in recent months, after initial delays reflecting
+the program’s complexity and high profile. When completed, the project will directly benefit 2.1
+million people through the expansion of sanitation services and 5.7 million people through the
+protection of the water intake. Although it is too early to measure results, progress achieved so
+far in building institutional capacity of the Matanza Riachuelo River Basin Authority
+(ACUMAR) and in advancing the prequalification process for the large sanitation works, as well
+as the high priority assigned to the program by the national and sub-national authorities suggest
+that this program is likely to achieve its objectives. The two Norte Grande operations are
+expected to provide new coverage to 32,000 low income residents. However it will take longer
+than the remainder of the CPS period for these recent operations to achieve intended results.
+30.
+Addressing the challenge of resource degradation. Activities are underway in four
+critical areas. The Matanza Richuelo Program, mentioned above, supports the cleanup of the
+Matanza Richuelo urban river basin. Through the Sustainable Natural Resources Management
+Project as well as GEF operations supporting biodiversity conservation, steps have been taken to
+control illegal logging in Chaco, set up monitoring units for forest and deforestation assessments
+and build critical infrastructure to better protect national parks. Under the Mining Environmental
+Restoration Project, a containment and monitoring system for uranium mining tailings has been
+put in place at Malargue site. Finally, Clean Development Mechanisms (CDM) projects have
+enabled the elimination of a total of 2,778 tons of Ozone Depleting Substance, far above the
+targets originally set.
+
+8
+
+31.
+Increased production diversification and poverty alleviation in the agricultural
+sector. The World Bank is supporting Argentina’s agricultural sector through a two-pronged
+approach: (i) production diversification in the non-pampean region through infrastructure
+investments geared towards commercial-scale agriculture, and (ii) improved productivity and
+sustainability of small scale production through the financing of investments and working
+capital. The first phase of this approach supported by the Provincial Agricultural Development
+Project has already produced results: cultivation in project areas increased by 55,000 ha;
+agricultural production grew by 210,000 tons, including a 109 percent aggregate production
+increase achieved by irrigation subprojects in Mendoza and Tucumán Provinces fueled, among
+others, by agricultural productivity increases of 80 percent in grapes, 188 percent in fruits and
+198 percent in vegetable yields (kg/ha); and export volumes of fruit (apples, pears, peac hes and
+cherries) in Mendoza, and strawberries in Tucumán, also grew by 47 percent and 1.173 percent
+respectively. The small-scale producers segment of the Bank agriculture sector strategy has
+focused mostly on the sustainability and improved income generation capacity of the rural poor.
+So far 10,306 productive subprojects have been completed benefitting 73,926 people.
+32.
+Improved access to rural electricity supply. Through the Renewable Energy in Rural
+Markets project7 the Bank is supporting the implementation of a major initiative to improve
+access to electricity in rural communities with a particular emphasis on the electrification of rural
+households and schools using renewable sources such as wind and solar energy. Proposed
+outputs such as the electrification of 25,000 households and 2,000 rural schools are on track to be
+met during this CPS period.
+33.
+IFC engagements in Argentina have been strongly centered on projects that
+support this pillar. In the area of infrastructure, IFC has financed several clients to upgrade port
+installations. IFC provided a loan to Noble Argentina SA, an existing client, to support the
+construction and operation of a soybean crushing plant near Rosario. As well as raising export
+volumes, this project allowed Noble to expand and upgrade its environmental and social
+practices. IFC provided long term loans to Buenos Aires port operators TRP and Exolgan to
+increase trade volumes and cruise ship traffic.
+34.
+Supporting job creation and small and medium-sized enterprises. An important
+component of IFC’S strategy in Argentina has been to support job creation and meet the needs of
+low-income populations. Overall, the 20 investees in Argentina that currently report employment
+to IFC provided about 67,000 jobs in 2009, compared with 39,000 jobs provided by 12 investees
+four years earlier. IFC has worked to channel financing to small companies and farms that often
+struggle to find reasonably priced working capital lines. Local banks tend to favor larger and less
+risky corporate clients. However, key partner Banco Galicia used IFC credit lines to provide
+direct financing to export-oriented SMEs and small farms, making over 12,000 SME loans in
+
+7
+
+Approved in 1999 but still ongoing with Additional Financing approved in 2008.
+
+9
+
+calendar year 2009 for a total $719 million. IFC also worked with Banco Galicia to increase the
+availability of financial services in Argentina's poorest and most underserved regions.
+35.
+Argentina’s strong human development level has enabled the emergence of a small
+but dynamic IT sector. In FY09, IFC provided quasi-equity financing to Grupo ASSA, a small
+IT company that faced difficulties funding growth plans due to the limited availability of long term capital.
+36.
+While Argentina is a relatively small source of GHGs, IFC has sought wherever
+possible to improve clients’ emissions profiles. In FY10 it provided $25 million in equity
+financing for Aluar Aluminio Argentino to complete expansion of its plant in the province of
+Chubut that set a benchmark for energy efficiency and environmental best practices in the
+region. Aluar expects to raise annual exports by almost 25 percent to $730 million, as well as
+generate certified emission reduction credits under the UNFCC’s Clean Development
+Mechanism.
+37.
+The country’s strategic oil and gas industry has relied on IFC for long term
+financing. The Corporation provided financing for Argentina-based oil producers Diadema and
+PAE for a total $205 million during the CPS period. These clients have also provided a key flow
+of resources for local and federal governments through the $1.4 billion in annual royalty and tax
+payments, as well as reducing Argentina’s energy imports. Both operators adopted community
+development programs as well as complying with IFC Performance Standards, as have other IFC
+investees in this sector.
+
+Pillar II: Social Inclusion
+38.
+In line with the country’s goal of poverty reduction and consolidation of gains in health
+and education, the second pillar of the CPS is focused on improving the country’s social safety
+net and consolidating progress on selected health outcomes. Key achievements to date under this
+pillar include the following.
+39.
+Transformation of the social protection system. Supported by a highly productive
+dialogue and focused lending and analytical contributions by the Bank, a prominent outcome
+proposed under the CPS – the move from crisis-time emergency support to a long-term social
+protection system with expanded income coverage for vulnerable children—has been achieved.
+In November 2009 the Government introduced a universal child allowance, which provides
+about US$45 per month to 3.7 million poor children and youth under age 18 subject to school
+attendance and health check-ups. The implementation of the new program was facilitated by the
+close collaboration between ANSES and the Ministry of Health. By integrating and crosschecking the information on their databases, ANSES was able to register 230 thousand children
+10
+
+that were already enrolled in Plan Nacer, an ambitious Government program aiming to increase
+access to health services for uninsured women and children through a results-based approach.
+Plan Nacer in its turn increased coverage by 71 percent because enrollment in the Plan is a
+condition of receiving the child allowance.
+40.
+Improved maternal and child health results. Reducing infant and maternal mortality
+represents a key development goal for Argentina. Plan Nacer is the instrument to ensure the
+sustainability of the gains achieved in this indicator during recent years. The Bank has been
+supporting this program since its inception both through analytic work and a series of investment
+projects. The program has already yielded important results. As of September 2010, 1.47 million
+previously uninsured pregnant women and children have gained access to a defined package of
+essential health services. The share of expectant mothers in the poorest Northern provinces who
+receive pre-natal consultations by week 20 has risen to 52 percent from the baseline of only 3
+percent 8. National immunization rates have reached 98.6 percent (children under age 18 months
+receiving measles vaccine or triple viral coverage).
+41.
+Improved access and quality of education in the rural sector. Argentina’s high
+levels of school attendance mask high rates of dropout and repetition and large differences in
+educational attainment by region, gender and socioeconomic status. The Bank’s dialogue in the
+education sector focuses mostly in the rural areas where these issues are particularly relevant.
+Through the Rural Education Improvement Project the Bank is supporting selected investments
+in rural educational establishments ranging from improved teaching materials and training to the
+refurbishing of basic school infrastructure. The solid progress in implementation of the project
+has generated improved teaching and student learning conditions as more than 95 percent of the
+schools in the rural areas have benefited from at least one activity included in the project. This
+has also translated into improved coverage, namely, a 5.6 percentage point increase (to 76.8
+percent) in transition between the 7th and 8th grade and promotion rates in grades 1 to 3 has
+improved from 76 percent to 83.2 percent.
+
+Pillar III: Improved Governance
+42.
+The CPS envisioned supporting country goals of expanding performance based
+management and improving the quality of public expenditures, enhancing service delivery
+outcomes and trust in institutions; and strengthening public sector capacity to spur investme nt
+and growth. While these goals remain relevant, the Government has chosen not to seek Bank
+financing in support of performance based budgeting, and instead has asked the Bank to focus its
+efforts on improving the efficiency of national and sub-national public institutions. The Bank’s
+
+8
+
+This improvement includes two different effects: a clear health outcome improvement and an improvement in the
+health information systems and registration processes.
+
+11
+
+program has been adjusted to respond to this changing demand, requiring a corresponding
+adjustment in the CPS results framework.
+43.
+Improved efficiency of public institutions. The Bank has supported a number of
+initiatives aimed at greater efficiency of public services. Assisted by the Institutional
+Strengthening of the National Social Security Administration Project, the percent of people who
+report satisfaction by ANSES services grew from 45 percent to 78 percent between 2005 and
+2010. Investments and technical assistance financed by the Social and Fiscal National
+Identification System Project (APL 2) allowed the agency to bring the share of correctly
+registered and identified population to 92 percent (up from 31 percent in 2008). 16 Government
+agencies and programs are using consistent common processes to identify entities and assets, and
+this number is likely to increase to 18 by the end of the CPS period. This is expected to
+contribute to the improvement of the efficiency, effectiveness, and impact of social services and
+fiscal programs at all levels of government.
+44.
+Improved governance at sub-national level. In response to demand from subnational administrations, the Government and the Bank have agreed to devote a share of B ank
+assistance to addressing priority development challenges of several provinces, including some
+structural service delivery vulnerabilities. Ongoing and new projects in support of this agenda
+include the San Juan and La Rioja SWAps and a new operation in the Salta province currently
+under preparation. Results of these projects are likely to be seen in the next CPS period.
+45.
+Governance and fiduciary issues are a cross-cutting theme in Bank program.
+Preparation and implementation support to all projects includes a strong governance focus.
+Fiduciary considerations have been an important aspect of Bank’s program in Argentina since
+the 2006 CAS introduced a Fiduciary Action Plan as an essential complement to the
+implementation of a full investment partnership in the context of relative fiduciary fragility. Over
+the years, a number of instruments developed to reinforce fiduciary monitoring and evaluation –
+including the Procurement Plan Execution System (SEPA), audit compliance monitoring, and
+concurrent audits—have shown their effectiveness in ensuring the fiduciary integrity of the
+Argentina investment portfolio. In addition, a Governance and Accountability Action Plan has
+been agreed for projects in the health sector, and its implementation is jointly reviewed by the
+Government and the Bank once a year. The Government and the Bank are collaborating on a
+series of capacity building initiatives in the governance area, including workshops on
+procurement, safeguards and fiduciary aspects of project implementation for agencies in all
+sectors.
+C. ADJUSTMENTS TO THE CPS RESULTS FRAMEWORK
+46.
+The main elements of the 2010-2012 CPS results framework remain relevant, and
+the achievement of most intended results is on track. The following adjustments are proposed
+in light of changes in priorities and implementation experience discussed above (see Annex 2).
+12
+
+47.
+First, some originally envisaged areas of Bank assistance have been replaced with
+new areas that emerged as higher priority during implementation. For example, operations
+in power transmission, environmental management of extractive industries and public
+expenditure management did not materialize, and instead Bank resources were shifted to
+improving road safety and customized assistance to provinces, including the new focus on
+transport and water infrastructure in the Norte Grande region. Under the Governance Pillar, the
+Government decided not to seek Bank assistance for performance based budgeting, and instead
+asked to focus the efforts on improving the quality of public instit utions, including at the
+provincial level.
+48.
+Second, the results framework has been adjusted to improve clarity and ensure
+better alignment between Bank activities and expected outcomes. For example, result
+indicators for the education sector have been clarified to focus on rural education, which reflects
+the scope of Bank involvement in the sector. Indicators for public transport, natural forest
+management and solid waste management sectors, as well as for most of the Governance pillar,
+have been reformulated in line with the actual scale of Bank’s contribution. Similarly, indicators
+of portfolio performance have been clarified (e.g., by defining disbursement targets), and new
+expected outcomes have been introduced to reflect the results of joint Government/ Bank
+implementation workshop (see Annex 7), such as improvement of fiduciary and safeguards
+capacity of Government agencies implementing investment projects, improvement of dialogue
+between the Government and the Bank on safeguards and fiduciary issues, and strengthening the
+coordination role of the Government.
+
+IV. FUTURE ENGAGEMENT
+49.
+The main focus of Bank’s engagement with Argentina for the remainder of the
+CPS period is implementation support for the large and complex portfolio of investments
+(see Annex 4). The Bank will work closely with the client to ensure that projects currently under
+implementation are executed in a smooth and efficient manner and produce the intended
+development results.
+50.
+The indicative Bank lending program for the remainder of the CPS period is well
+defined and project preparation has been advanced, taking into account expected difficulties
+in progressing new operations in the run-up to October 2011 elections. Four new lending
+operations are envisaged in the last year of the CPS (FY12). Additional Financing to Cordoba
+Roads (US$30 million) would allow for the expansion of this successful ongoing project. Social
+Inclusion Project (US$53 million) is focused on rural poverty alleviation. Sustainable Industrial
+Development Project (US$40 million) would support small and medium enterprises in Argentina
+with inadequate access to credit to improve their compliance with environmental regulations,
+while simultaneously boosting their industrial competitiveness. Finally, a SWAp to the Province
+13
+
+of Salta (US$60 million) would continue building on the experience of other sub-national
+SWAps to address the key development challenges of the province.
+51.
+Country dialogue and non-lending work in the final part of the CPS period will
+focus on implementing the ongoing program as well as on laying the foundations for the
+new CPS. The Bank will continue analyzing emerging issues and policy priorities that could
+serve as a basis for the new Country Partnership Strategy.
+52.
+IFC’s strategy during the remainder of this CPS period is expected to remain
+substantially unchanged. Its focus will remain on export-oriented industries with a record of
+strong management and sound financial performance. It will continue to focus on job creation
+and on low-income groups. IFC remains committed to seeking more investments in ―Frontier‖
+regions in the north of Argentina. However, wherever appropriate, IFC could also engage with
+corporate clients making cross-border investments in the region or in emerging countries beyond
+Latin America. IFC also hopes to maintain its selective support for Argentina’s emerging IT
+industry.
+
+V. RISKS
+53.
+Notwithstanding upcoming presidential elections, political risk for the Bank’s
+lending program in the near future is assessed as low. As discussed in paragraph 11, the
+major political parties share broadly common core policy goals, with which the Bank’s current
+investment program is broadly consistent. Two further factors provide substantial mitigation of
+the political risk. First, the bulk of the program will be in the implementation phase at the time of
+the upcoming political transition, and thus is unlikely to be affected in the absence of substantial
+changes in direction. Second, and more important, projects supported under the current CPS are
+focused on the areas of broad consensus and long term engagement.
+54.
+Macroeconomic risks are moderate. In the medium term, accelerating inflation, due
+to continued expansionary macroeconomic policies, higher wage demands and global
+inflationary pressures is likely to fuel uncertainty and threaten competitiveness. Fiscal
+expenditures will need to be adjusted and other measures may need to be adopted to rein in
+inflation and to ensure medium-term macro sustainability.
+55.
+Implementation risks for the portfolio are substantial. The Bank’s portfolio includes
+many complex, large and high profile operations, particularly in the area of infrastructure, which
+are subject to a range of implementation risks. In particular, portfolio includes several Category
+A projects triggering a range of Bank safeguard policies. At the sub-national level, projects are
+subject to additional risks due to lower implementation capacity in some provinces, and to
+changing political relations with the national level. Furthermore, upcoming elections may lead to
+additional implementation challenges due to possible staff turnover. These risks are mitigated at
+14
+
+the level of specific projects through close supervision/ implementation support of the portfolio
+as well as at the country level through capacity building efforts in safeguards and procurement.
+56.
+Fiduciary risks are moderate. Public Financial Management (PFM) system in
+Argentina is well designed, has adequate legal basis and human resources have the required
+technical skills and qualifications. However, the PFM system has been operating below
+expectations. Major factors that have affected PFM are: (i) the incomplete budget coverage; and
+(ii) the control environment (sub-optimal level of rule enforcement and attitude towards
+internal/external audit recommendations). Incompatibilities between procurement requirements
+under the World Bank guidelines and national procurement regulations may also have impacted
+implementation of some projects. The Bank team is committed to working closely with the client
+to build better understanding of the Bank's policies and guidelines. Capacity to implement
+procurement processes and implement public financial management is weaker at the provincial
+level, although there is variation across provinces. This may present additional challenges for
+projects implemented by provinces. The Bank is addressing these risks both through attention to
+fiduciary concerns in project design and supervision, and through a program of capacity building
+activities that was designed and is implemented in close collaboration with the client.
+57.
+The risk of external or domestic shocks is also moderate. Like other countries,
+Argentina is vulnerable to natural disasters, changes in the external economic environment and
+domestic political tensions. The Bank portfolio includes several elements that seek to mitigate
+some of such risks, including a series of flood protection projects and operations in the area of
+environment, as well as socially targeted programs such as Plan Nacer and Basic Social
+Protection that could be used quickly to respond to an adverse event.
+
+15
+
+Annex 1: Updated Results Framework
+Country Strategic Goals
+and Indicators
+
+PILLAR 1-SUSTAINABLE GROWTH WITH EQUITY
+Issues and Obstacles
+Outcomes the Bank
+Milestones
+Program Expects to
+Influence
+
+Status
+
+Bank Program
+Instruments
+
+1. Infrastructure Development
+Upgrade Argentina’s
+infrastructure to address
+constraints on
+competitiveness, and
+underpin medium-term
+growth and poverty
+alleviation.
+
+Rate of infrastructure
+investment has been highly
+variable, declining from 3% of
+GDP in the 1980s to 1.7% in
+the 1990s to less than 0.5% in
+1995-2003.
+
+Transport Network Improved
+achieving a steady state as
+indicated by at least 90% of
+national and provincial18
+paved non-concessioned roads
+in good condition and no
+deferred maintenance factors
+affecting the network.
+
+16,700 km of the national
+network managed though
+CREMA.
+2,104 km of the provincial
+network managed through
+CREMA.
+
+98% of roads in good or fair
+condition as a share of total
+classified roads (13,416 km
+managed through CREMA as
+of November 2010)
+
+National Highway Asset
+Management APL I and II
+(approved FY04 and FY07,
+respectively) (LEN)
+Provincial Road II (approved
+FY05) (LEN)
+Córdoba Road Infrastructure
++ AF
+(approved FY07 and LEN,
+respectively)
+Infrastructure Project for the
+Province of Buenos Aires
+Infrastructure (APL1, II and
+AF) (approved FY05, FY07
+and FY11) (LEN)
+Norte Grande Transport
+(approved FY11) (LEN)
+
+Increase capacity in key
+segments of the network.
+
+136 km of dual carriage ways
+constructed.
+
+Construction of dual carriage
+roads underway with an
+estimate 6 months delay from
+the original 5 years
+construction contract. Cost
+overruns may lead to increased
+budgetary contribution from
+the provincial government.
+
+Santa Fe Road Infrastructure
+Project
+(approved FY07) (LEN)
+
+16
+
+Country Strategic Goals
+and Indicators
+
+PILLAR 1-SUSTAINABLE GROWTH WITH EQUITY
+Issues and Obstacles
+Outcomes the Bank
+Milestones
+Program Expects to
+Influence
+
+Status
+
+Bank Program
+Instruments
+
+1. Infrastructure Development
+Upgrade Argentina’s
+infrastructure to address
+constraints on
+competitiveness, and
+underpin medium-term
+growth and poverty
+alleviation.
+
+Argentina has a high index of
+road fatalities due to
+accelerated motorization in the
+absence of substantial public
+policy intervention.
+
+Improvements in infrastructure
+and services has not kept up
+with increase in public
+transport demand. Operational
+subsidies absorb an increasing
+share of public resources and
+lower incentives to operational
+efficiencies.
+
+Help build institutional
+capacity of the National Road
+Safety agency on the first
+phase in a longer term national
+objectives of reducing the
+severity and number of road
+accidents in Argentina.
+
+Establishment of a National
+Driver License Registry.
+Establishment of National
+Traffic Records and Infractions
+Registry System
+National Road Safety
+Observatory in operation.
+
+National Driver License
+established and operational in 1
+province and 7 municipalities.
+National traffic records in
+testing phase.
+
+Road Safety (approved FY10)
+(LEN)
+
+Contribute to increased
+investments in public transport
+together with a rationalization
+of the current subsidy scheme.
+
+Transport infrastructure
+investments in medium size
+metropolitan areas (Tucuman,
+Mendoza and Posadas) lead to
+significant service
+improvements.
+
+Investments are at design stage.
+
+Argentina Metropolitan
+Areas Urban
+Transport Project (PTUMA)
+(approved FY10) (LEN)
+
+Strengthening of institutional
+planning capacities in the
+Buenos Aires Metropolitan
+Region and selected medium
+size cities.
+
+Buenos Aires Urban
+Transport Project
+(PTUBA) and Additional
+Financing
+(approved FY97 and FY07)
+(LEN)
+
+Establishment and initial
+operation of a Public Transport
+Agency in the Buenos Aires
+metropolitan area.
+4 medium sized metropolitan
+areas have updated their origindestination household survey
+
+4% of population (mainly
+rural) lack access to electricity.
+There is always room for
+improving energy efficiency on
+the demand side.
+
+Increase rural access to
+electricity supply and promote
+energy efficiency while
+contributing to address climate
+change issues.
+
+GEF Transport and Air
+Quality (FY09)
+
+25,600 households electrified
+with sustainable electricity
+services by 2012
+
+7,777 households have been
+electrified with the expectation
+that the full target will be
+achieved.
+
+2,000 rural schools electrified
+with reliable, renewable
+electricity supply by 2012
+
+1,870 are expected to be
+electrified by 2012 (currently:
+1,377)
+
+PERMER + Additional
+Financing
+(approved FY99 and FY09)
+
+Contracts to equip another 400
+households with wind power
+systems, 36 schools with solar
+power, 314 public buildings
+
+17
+
+Country Strategic Goals
+and Indicators
+
+PILLAR 1-SUSTAINABLE GROWTH WITH EQUITY
+Issues and Obstacles
+Outcomes the Bank
+Milestones
+Program Expects to
+Influence
+
+Status
+
+Bank Program
+Instruments
+
+1. Infrastructure Development
+and 59 solar water heating
+systems have been signed.
+Another 7 mini-grids which
+would serve a total of over
+1200 users are also being built.
+
+Upgrade Argentina’s
+infrastructure to address
+constraints on
+competitiveness, and
+underpin medium-term
+growth and poverty
+alleviation.
+
+24.5 million CFL have been
+purchased using counterpart
+financing.
+
+GEF Energy Efficiency
+(Approved FY08)
+
+Matanza-Riachuelo Basin
+Sustainable
+Development Project (APL-1)
+(approved FY09) (LEN)
+
+Matanza Riachuelo River Basin
+is the most contaminated river
+basin in Argentina and
+represents a case of critical
+social and environmental
+degradation.
+
+Integrated clean up of the
+Matanza Riachuelo River Basin
+consisting of sanitation,
+industrial pollution abatement,
+rehabilitation of low income
+neighborhoods and flood risk
+reduction.
+
+Establishment and operation of
+a multijurisdictional River
+Basin Authority.
+
+ACUMAR is fully operational
+and in charge of the CMR
+program.
+
+Initiate construction of trunk
+collection, transmission,
+treatment and disposal
+infrastructure for Matanza
+Riachuelo River Basin.
+
+Prequalification process for the
+construction of the left bank
+infrastructure is underway.
+Bidding expected to start in
+first quarter of Calendar 2011.
+
+Limited access by poor
+population to water and
+sanitation services.
+
+Expand water and sewage
+coverage for poor residents in
+selected areas of BA Province.
+
+Initiate pilot plans for the
+rehabilitation of low income
+neighborhoods.
+
+Initial implementation of pilot
+plans in at least 2
+neighborhoods.
+
+Expand water and sewage
+coverage for 128,000 poor
+residents in areas of BA
+Province with high sanitary
+or environmental vulnerability.
+
+107,622 people with water and
+sewage coverage, from which
+85,219 have access to
+improved water resources and
+22,403 have new piped
+household water connections.
+
+Buenos Aires Province
+Infrastructure (APL-I, II and
+AF)
+(approved FY05, FY07 and
+FY11) (LEN)
+
+18
+
+Country Strategic Goals
+and Indicators
+
+PILLAR 1-SUSTAINABLE GROWTH WITH EQUITY
+Issues and Obstacles
+Outcomes the Bank
+Milestones
+Program Expects to
+Influence
+
+Status
+
+Bank Program
+Instruments
+
+1. Infrastructure Development
+Upgrade Argentina’s
+infrastructure to address
+constraints on
+competitiveness, and
+underpin medium-term
+growth and poverty
+alleviation.
+
+Poor urban and productive
+rural areas affected by
+significant flood risk.
+
+Reduced flooding vulnerability
+in selected urban and rural
+areas.
+
+Initiate a program for
+strengthening water service
+providers in the Northern
+region of Argentina with the
+expectation of increasing water
+coverage for about 32,000
+additional beneficiaries in the
+medium term.
+
+Project at initial stage.
+
+Norte Grande Water
+Infrastructure (approved
+FY11) and Second Norte
+Grande Water Infrastructure
+(pipeline FY11) (LEN)
+
+City of BA: Reduce flood risk
+from biannual events to once
+every 10 years events for a
+population of about 100,000
+people living in the most
+critically flooded areas in the
+Maldonado Basin.
+
+City of BA: Short drainage
+tunnel completed. 18 months
+extension approved to allow
+full contract implementation.
+
+Urban Flood Prevention and
+Drainage (APL1)
+(approved FY05) (LEN)
+
+Reduce flood risk for a
+population in selected
+provinces (Chaco, Corrientes
+and Santa Fe) of about 150,000
+and covering an area of about
+8,500 ha.
+
+PIDU: Slow implementation
+pace with only US$35 million
+in contracts signed and delays
+in contract implementation.
+Two year extension in process.
+
+Urban Flood Prevention and
+Drainage (PIDU) (APL2)
+(approved FY06) (LEN)
+
+19
+
+Country Strategic Goals
+and Indicators
+
+Improve competitiveness,
+quality, and exports of
+agriculture and livestock
+production
+
+PILLAR 1-SUSTAINABLE GROWTH WITH EQUITY
+Issues and Obstacles
+Outcomes the Bank
+Milestones
+Status
+Program Expects to
+Influence
+2. Towards More Sustainable Rural Development and Environmental Management
+Building an even more
+competitive, diversified and
+inclusive agricultural sector
+will require strengthened
+national and provincial
+institutions.
+
+Low priority assigned to rural
+poverty despite representing
+28% of Argentina’s poor and
+2.5times the poverty rate
+prevailing in urban areas.
+
+Contribute to increasing
+beneficiaries household
+incomes through improvements
+in farm productivity, expanded
+output and diversification to
+crops with higher added value.
+
+Support a strategy for poor
+rural communities that may
+lead to improved infrastructure,
+increased production of
+agricultural products for family
+consumption and increase value
+added and diversification of
+production.
+
+Provincial Agricultural Devt
+strategies designed and under
+implementation in at least 12
+provinces.
+
+Completed
+
+55,000 ha of increased land
+area under cultivation in project
+irrigation areas, achieved
+through six subprojects (66%
+increase from baseline) in CH,
+ER, MZ and TM.
+
+Completed
+
+210,000 tons of additional
+aggregate production achieved
+through four subprojects (109%
+increase from baseline) in MZ
+and TM
+
+Completed
+
+Increased agricultural
+productivity in project areas:
+80% (grapes) to 198%
+(vegetables) yield (kg/ha),
+increases achieved by irrigation
+subprojects in Mendoza.
+
+Completed
+
+Increased agrifood exports
+value and its participation in
+national exports
+
+Completed (agrifood exports
+value grew 38% from 2006 to
+2010, representing 56% of
+national exports)
+
+Satisfactory outcomes for
+72,000 beneficiaries
+Satisfactory subprojects
+completions for a target of
+12,000 subprojects.
+No specific outcomes were
+defined for subprojects.
+
+Completed
+
+Bank Program
+Instruments
+
+PROSAP I and II
+(approved FY07 and FY09)
+(LEN)
+
+PROINDER and AF
+(approved FY98 and FY08)
+(LEN)
+
+20
+
+Country Strategic Goals
+and Indicators
+
+Address a growing
+problem of resource
+degradation.
+
+PILLAR 1-SUSTAINABLE GROWTH WITH EQUITY
+Issues and Obstacles
+Outcomes the Bank
+Milestones
+Status
+Program Expects to
+Influence
+2. Towards More Sustainable Rural Development and Environmental Management
+Increased contamination and
+resource degradation derived
+from disposal and poor
+management of solid waste.
+
+Policy and incentive framework
+to engage landowners in
+sustainable forestry
+management (SFM) is not yet
+in place and the control
+framework is weak.
+
+National Parks facing
+infrastructure and human
+resources deficits to maintain
+adequate protection levels in
+light of heightened tourism
+activity.
+
+Increase
+investments
+in
+integrated urban solid waste
+management.
+
+Improving the policy and
+planning frameworks for the
+management of forest
+resources.
+
+Upgrading park management
+infrastructure and sustainable
+development opportunities in
+and around parks.
+
+11 provincial and municipal
+solid waste management plans
+completed by 2012.
+
+9 plans completed (4 Provincial
+and 5 Municipal). 2 provincial
+under preparation.
+
+At least 3 sanitary landfills
+built.
+
+2 large landfills contracts in
+process and 2 underway.
+
+At least 40 dumpsites closed by
+2012.
+
+Closing about 51 microdumpsites in Cordoba.
+
+At least 3 solid waste recovery
+and transfer plants.
+
+Transfer station already built in
+Rosario.4 more plants planned
+to be built by 2012.
+
+Policy and incentive framework
+for sustainable forestry
+management in place, including
+funds available to small
+producers for conservation, tree
+planting and SFM.
+
+Development of a system to
+control illegal logging in the
+Chaco is underway, and 4
+regional monitoring units for
+forest and deforestation
+assessments are being installed.
+A plan for reform of the
+Direccion de Bosques has been
+completed and under review by
+SAyDS. Work with Plantation
+Forests is gaining momentum
+but still behind schedule.
+
+Increased financial and
+institutional capacity of the
+National Parks authority in
+ensuring the protection of parks
+in a context of growing tourism
+activities.
+
+Major Infrastructure for Las
+Quijadas National Park is 95%
+complete. A contract for
+infrastructure works has been
+made for Talampaya Park, and
+procurement has advanced for
+infrastructure in Bosques
+Petrificados and Los Alisos
+Parks, Sustainable development
+projects are underway around
+Talampaya park.
+
+Bank Program
+Instruments
+
+Solid Waste Management
+Project
+(approved FY06)(LEN)
+
+IBRD Sustainable Natural
+Resources
+Management Project.
+(approved FY08) (LEN)
+GEF Biodiversity
+Conservation in Productive
+Forestry Landscapes
+(approved FY07) (LEN)
+GEF Rural Corridors and
+Biodiversity
+Conservation
+(approved FY10) (LEN)
+
+21
+
+Country Strategic Goals
+and Indicators
+
+Address a growing
+problem of resource
+degradation.
+
+PILLAR 1-SUSTAINABLE GROWTH WITH EQUITY
+Issues and Obstacles
+Outcomes the Bank
+Milestones
+Status
+Program Expects to
+Influence
+2. Towards More Sustainable Rural Development and Environmental Management
+Low priority assigned to
+environmental risk
+management in mining sector.
+
+Environmental plans for
+containment uranium mining
+tailings, developed
+
+Mining sector environmental
+risk management policies of
+CNEA, and of the Secretaries
+of Mining and Environment
+strengthened. Containment
+system for uranium mining
+tailings completed and
+monitoring in place at
+Malargue site; environmental
+management plans
+(remediation, monitoring and
+consultation) prepared for 7
+other CNEA sites (closed
+uranium mines and/or
+processing plants)
+
+Increase access to
+international carbon markets
+
+Argentine Carbon Facility in
+SAyDS strengthened and in
+capacity to advise and process
+CDM Project
+
+80% of planned site
+remediation works completed
+in accordance with best
+international practices. Only
+one (Malargue)
+CNEA site has environmental
+management plans applied in
+accordance with best
+international practices.
+
+Mining Environmental
+Restoration Project
+(approved FY09) (LEN)
+
+Petrobras Gas Transport
+System Project
+(approved FY10), Salta
+Landfill Gas Capture Project
+(approved FY08), Olavarría
+Methane Capture Project
+(approved FY05)
+Forest Carbon Partnership
+Facility (approved FY09)
+
+CDM projects contribution to
+CO2 reductions of about
+300,000 tons per annum.
+Eliminate an additional 109
+tons of Ozone Depleting
+Substances (ODS).
+
+Bank Program
+Instruments
+
+The original PDO target has
+been achieved, with a total of
+2,778 tons of ODS eliminated.
+With the additional subproject,
+a total of 2,887 will be
+eliminated
+
+Montreal Protocol Ozone
+Depleting Substances
+GEF Third National
+Communication to UNFCCC
+Project (pipeline FY10) and
+Kyoto Protocol Adaptation
+Fund
+
+22
+
+Country Strategic Goals
+and Indicators
+
+Reduction in poverty by
+supporting the government in
+a long term strategy for
+Social Protection
+
+PILLAR 2-SOCIAL INCLUSION
+Issues and Obstacles
+Outcomes the Bank
+Milestones
+Status
+Program Expects to
+Influence
+1.Supporting Progress Towards Permanent Safety Nets and Fostering Employment
+Limited coverage of social
+protection system, including
+key vulnerable groups, benefits
+in some programs inadequate to
+meet intended objectives, and
+issues of fiscal sustainability.
+
+Limited educational and
+employment service initiatives
+for the integration of the
+unemployed into the productive
+market place.
+
+Supporting the government’s
+efforts in developing and
+implementing a Universal
+Social Protection Strategy for
+the most vulnerable groups.
+
+Integrating marginalized
+groups into the productive
+marketplace
+
+Bank Program
+Instruments
+
+Establishment of a universal
+allowance for vulnerable
+children (UAVC) under 18
+years old conditioned on
+compliance with education and
+health requirements.
+
+UAVC:3.8 million
+beneficiaries
+
+Basic Protection Project
+(approved) (LEN)
+Basic Protection AF (pipeline
+FY11) (LEN)
+Argentina Social Protection
+AAA
+
+Coverage under the UAVC
+benefits at least 90% of eligible
+population.
+
+Coverage under the UAVC
+benefits about 70% of eligible
+population.
+
+Social Programs towards the
+Bicentennial
+AAA (FY09)
+
+Award of 100,000 secondary
+and primary education
+certificates of adult education.
+
+14,481 received certification.
+
+Heads of Household
+Transition Project
+(approved FY06)
+
+Participation of 250,000
+workers in competency based
+training courses.
+
+155,000 workers have
+benefited from competency
+based courses.
+
+Life Long Learning Project
+(approved FY07)
+
+Certification of 70,000 workers
+based on competency based
+occupational standards.
+
+31,506 workers certified
+
+Employment Inequality AAA
+(FY10
+
+Beneficiaries by end of
+September 2010: 1.47 million
+covering about 70% of the
+eligible population. In Centro,
+Patagonia and Cuyo Regions
+coverage was 66% on average
+with more than 916,000 active
+beneficiaries, while in the
+Northern Region was 83% with
+more than 559,000 enrollees.
+
+Provincial Maternal-Child
+Health APL1&2
+(approved FY 04 and FY07)
+
+2. Improving Selected Health and Education Outcomes
+Consolidate improvements in
+health indicators and
+improve quality.
+
+Population without health
+coverage is 35-39%
+
+Provision of provincial health
+insurance coverage for
+maternal child health
+beneficiaries (mothers up to 45
+days after delivery and children
+up to 6).
+
+Beneficiaries by end of
+December 2011: 1.7 million,
+corresponding to about 80% of
+the eligible population.
+
+23
+
+Country Strategic Goals
+and Indicators
+
+Consolidate improvements in
+health indicators and
+improve quality.
+
+Issues and Obstacles
+
+Population without health
+coverage is 35-39%
+
+Disparity in the provision of
+priority health programs rates
+across regions.
+
+PILLAR 2-SOCIAL INCLUSION
+Outcomes the Bank
+Milestones
+Program Expects to
+Influence
+Provision of selective insurance
+coverage for vulnerable groups
+(children up to 19 years,
+women up to 65 years)
+Improve effectiveness of
+Federal Public Health system in
+delivering results under seven
+priority health programs
+including breast and cervix
+cancer, diabetes, vaccine
+preventable diseases,
+HIV/AIDS and tuberculosis.
+
+Strengthen leadership of MoH
+and health sector governance.
+
+Status
+
+Bank Program
+Instruments
+
+Pending project approval.
+
+Provincial Health Insurance
+(pipeline FY11) (LEN)
+
+Autochthonous measles cases
+are maintained at zero.
+Congenital rubella cases
+decrease to zero at the end of
+the project.
+Prevalence of smoking has
+decreased by 6%
+Argentina has certified in 90%
+of its Provinces with Chagas
+disease (17 out of 19
+Provinces), the interruption of
+vectorial transmission.
+85% of Provinces are
+accredited for public health
+functions and programs
+developed with a minimum
+standards and norms for all 10
+prioritized programs.
+
+3 cases (all imported)
+
+Essential Public Health
+Functions Project (approved
+FY07)
+
+Establishment of a National
+Health Policy Observatory
+aimed at improving the quality
+and access to information
+related to the performance and
+results attained by the health
+system in Argentina.
+Governance and Accountability
+Action Plan (GAPP) agreed
+and under implementation by
+the Ministry of Health.
+
+Observatory at pre design
+stage.
+GAAP agreed and under
+implementation. Reviewed
+jointly by the Bank and
+Government once a year.
+
+1 case (imported)
+
+2nd Essential Public Health
+Functions Project (LEN)
+(Pipeline FY11)
+5 provinces certified
+
+6 out of 10 Programs
+accredited in Tucuman
+
+GPF Strengthening
+Governance in Argentina’s
+Health Sector
+Hospital Performance
+Assessment ( AAA) (FY11)
+
+24
+
+Country Strategic Goals
+and Indicators
+Reduce disparity in
+educational attainment
+between the urban and the
+rural sector.
+
+Realign (better alignment of)
+educational policy and
+practices with emerging
+challenges.
+
+Issues and Obstacles
+
+Argentina’s high levels of
+school attendance rates in rural
+areas masks high rates of dropouts and repetition in addition
+to quality issues.
+
+PILLAR 2-SOCIAL INCLUSION
+Outcomes the Bank
+Milestones
+Program Expects to
+Influence
+Improve completion rates for
+students in lower secondary
+rural education (grades7-9).
+
+Status
+
+Increased school enrollment for
+children age 5
+
+On track to meet project target.
+
+Improve promotion rate in rural
+areas from EGB1 (grades1-3)
+to EGB2 (grades 4-6) from
+76% to 85% by April 2011.
+
+Target accomplished.
+Promotion rate in EGB1 in
+rural areas of 86 percent in
+November 2010.
+
+Increase the access of students
+completing the 7th grade to the
+8th grade of schooling in rural
+areas from 73% to 85% by
+April 2011
+
+The country presents advances
+in this indicator and the target
+is within reach. As of
+November 2010 the value of
+the indicator was 81 percent.
+
+Bank Program
+Instruments
+
+Rural Education
+Improvement Project
+(approved FY06)
+Effective usage of Laptops in
+a school setting AAA
+
+Threat to the country’s
+traditional regional leadership
+role in education attainment
+and quality.
+
+Existence of critical mass of
+policy and school-based
+innovations.
+
+At least one school-based
+innovation fully assessed and
+mainstreamed by 2015.
+
+Policy dialogue to be initiated
+in FY11/12.
+
+Lending and Policy Dialogue
+(FY12/13).
+
+Limited effectiveness of
+tertiary study programs in
+enabling access to labor
+markets.
+
+Increase understanding of
+linkages between tertiary
+education and labor markets
+
+Dissemination event to discuss
+with key stakeholders the main
+findings of the study.
+
+In preparation to be delivered
+in FY11.
+
+Tertiary Education AAA
+
+25
+
+Country Strategic Goals
+and Indicators
+
+Expand performance
+management and improve
+the quality of public
+expenditure, enhance
+service delivery outcomes
+and build trust in institutions.
+
+Issues and Obstacles
+
+PILLAR 3-IMPROVED GOVERNANCE
+Outcomes the Bank
+Milestones
+Program Expects to
+Influence
+1. Strengthening Public Institutions
+
+Status
+
+Bank Program
+Instruments
+
+Customer satisfaction grew
+from 45% to 78% between 2005
+and 2010.
+Reduction of average time in
+the provision of new benefits.
+(Baseline:140, Current:88,
+Target: 90)
+Level of quantitative error in
+pension reports: (Current: 4.7,
+Target: 7)
+Project Extended up to
+September 2012).
+
+Institutional Strengthening of
+the National Social Security
+Administration Project
+(approved FY06)(ANSES II)
+
+The percentage of physical
+persons that can be identified
+univocally by SINTyS has
+increased to 92%.
+
+92%already achieved.
+
+SINTyS APL 2
+(approved FY09)
+
+The number of government
+agencies and programs using
+consistent common processes to
+identify entities and assets has
+increased.
+
+The number of government
+agencies and programs using
+consistent common processes to
+identify entities and assets has
+increased from 16 in 2008 to 22
+in 2010.
+
+Key challenges include:
+At National Level:
+Improving service delivery
+outcomes and build trust in
+Government.
+Making the public sector
+more accountable and
+responsive to the needs of
+citizens and the private sector.
+
+At National Level
+More transparent government
+decision-making processes,
+increased access to
+government-related
+information and improved
+service delivery, by
+strengthening the efficiency,
+effectiveness and
+transparency of the following
+institutions:
+ANSES
+
+SYNTyS
+
+
+ Consolidate and expand
+organizational reform of ANSES
+aimed at improving customer
+satisfaction in service delivery,
+including increased
+decentralization, timely
+determination of benefits and
+reduced claims against ANSES
+benefit determination.
+
+26
+
+Country Strategic Goals
+and Indicators
+
+Issues and Obstacles
+
+PILLAR 3-IMPROVED GOVERNANCE
+Outcomes the Bank
+Milestones
+Program Expects to
+Influence
+1. Strengthening Public Institutions
+
+Chief of Cabinet Office
+
+Expand performance
+management and improve
+the quality of public
+expenditure, enhance
+service delivery outcomes
+and build trust in institutions.
+
+At Sub-National level:
+
+At Sub-National level:
+
+Strengthening Public Sector
+Capacity, which is facing
+significant limitations due to
+low provincial revenues and
+capacity in public sector
+management.
+
+Provide customized support
+and capacity building to subnational governments on
+public expenditure
+management, tax
+administration and public
+service delivery.
+
+Strengthening the efficiency,
+effectiveness and transparency
+of public expenditure
+management.
+
+Status
+
+Bank Program
+Instruments
+
+
+SINFO covers 90 percent of
+civilian national executive
+branch employees. Personnel
+data that appears in both the
+SINFO and LUPI systems are
+consistent.
+
+
+SINFO covers 56% percent of
+civilian national executive
+branch employees. LUPI still in
+development process.
+
+Electronic directory of
+Government procedures includes
+20 % of procedures that have
+been simplified and can be
+electronically processed.
+Progress is made towards
+offering transactional services.
+
+Electronic directory of
+Government procedures
+includes over 900 procedures
+and has over 2 million visitors
+per year. Two transactional
+services have been implemented
+and two more are in process.
+
+User surveys showing improved
+service delivery in the agencies
+that have implemented the
+Citizens Charter
+
+User surveys show over 20%
+increase in service delivery
+satisfaction in the agencies
+implementing the Citizens
+Charter. The methodology is
+currently being revised.
+
+In at least one province the time
+for key services and
+administrative processes has
+been reduced from 15 to 10 days.
+
+Project Restructured: extended
+up to March 2012; change in
+PDO indicators. Contracting
+period up to March 2011.
+Implementation at initial stage.
+
+Subnational Governments
+Public Sector Modernization
+Project (LEN) (approved
+FY06)
+
+Project not yet effective.
+
+San Juan SWAp
+(LEN)
+
+State Modernization II
+Project (LEN)
+(approved FY07)
+
+In at least one province , % of
+public employees included in the
+integrated personnel information
+and pay systems has increased
+from 0 to 30%
+Project launched.
+
+27
+
+Country Strategic Goals
+and Indicators
+
+Expand performance
+management and improve
+the quality of public
+expenditure, enhance
+service delivery outcomes
+and build trust in institutions.
+
+Issues and Obstacles
+
+At Sub-National level:
+
+Strengthening Public Sector
+Capacity, which is facing
+significant limitations due to
+low provincial revenues and
+capacity in public sector
+management.
+Strengthening the efficiency,
+effectiveness and transparency
+of public expenditure
+management.
+
+PILLAR 3-IMPROVED GOVERNANCE
+Outcomes the Bank
+Milestones
+Program Expects to
+Influence
+1. Strengthening Public Institutions
+At Sub-National level:
+Provide customized support
+and capacity building to subnational governments on
+public expenditure
+management, tax
+administration and public
+service delivery.
+
+Status
+
+Bank Program
+Instruments
+
+Province of La Rioja: (i)
+Increased local tax revenue; (ii)
+Increased share of budgeted
+primary expenditures executed;
+(iii) Higher share of budgeted
+Projects which are drawn from
+the provincial development plan;
+(iv) Increased proportion of
+competitive bidding; (v)
+Increased efficiency in the
+management of irrigation water
+supply systems.
+
+Project not yet effective.
+
+La Rioja SWAp (LEN)
+
+Province of La Rioja:
+Diagnostic in Tax
+Administration, PFM, Public
+Expenditure Management and
+Procurement.
+
+To be delivered in FY11 Q4.
+
+La Rioja Governance
+Assessment & Public
+Financial Management
+Assessment (PFMA) (ESW)
+
+Province of La Rioja: Draft
+Public Procurement Law
+prepared.
+
+To be delivered in FY11 Q4.
+
+La Rioja Procurement
+Reform TA (NLTA)
+
+Provinces of Buenos Aires,
+Cordoba, San Juan, Santa Fe:
+Diagnostic in PFM.
+
+To be delivered in FY11 Q3.
+
+Sub-national Public
+Financial Management
+Assessment (PFMA): Buenos
+Aires, Cordoba, San Juan,
+Santa Fe (ESW)
+Province of Corrientes –
+Strategic Plan (FFS)
+
+28
+
+Country Strategic Goals
+and Indicators
+
+Issues and Obstacles
+
+PORTFOLIO PERFORMANCE
+Outcomes the Bank
+Milestones
+Program Expects to
+Influence
+ Time of approval of loans by
+
+Strengthen the capacity of the
+Government to prepare,
+approve and implement
+investment projects in line
+with the requirements of a
+medium-term investment
+partnership.
+
+Delays in approval of projects
+at the national level.
+
+Improved approval procedures
+of projects at the national level.
+Improved design, preparation
+and approval procedures of
+projects at the subnational level.
+
+the Government is reduced
+to a maximum period of 4
+months, aligning it with the
+approval of the loan by the
+Bank.
+ Time for approval of loans at
+the subnational level is
+reduced to a maximum of 6
+months, aligning it with
+approval by the Bank and at
+the national level.
+
+ 80% PPRs rated S;
+ 80% PPRs confirming
+Improved procurement capacity
+of agencies implementing
+investment projects.
+
+qualified procurement staff
+have been appointed;
+
+ 60% of procurement
+processes contracted as
+planned.
+
+Delays in processing large
+procurement contracts.
+
+ 50% of projects provide
+
+Improved monitoring capacity
+of central coordinating agencies
+(Ministry of Economy and
+Public Finance).
+
+reliable information on
+contracts and financial
+transactions, and this
+information is available in a
+consolidated system to be
+used by implementing
+agencies, and the
+Government and the IFIs for
+monitoring purposes.
+
+Status
+
+Bank Program
+Instruments
+
+Average time between Bank
+approval and effectiveness of
+loans has been reduced from 12
+months (FY07-FY09) to 6
+months (FY10-FY11).
+
+IDF: Improving Investment
+Portfolio Management –
+Building Up Institutions,
+Systems and Human Capital.
+(approved 2008)
+
+ 33% PPRs reflect an S rating
+
+Strengthening and enhanced
+coordination of fiduciary
+team based in Buenos Aires.
+
+and 55.5% reflect an MS
+rating in FY10.
+ 58% of reviewed projects
+have procurement staff
+issues (appointment, lack of
+capacity, etc).
+ 68%* of procurement
+processes contracted as
+planned by end of CY 2009.
+
+Training Program for
+implementing agencies and
+central coordination agencies
+supported by the Bank.
+
+ Pilot including 32% of
+projects implementing
+interface between SEPA and
+UEPEX systems, which
+implies real time information
+on contracts and payments.
+
+29
+
+Country Strategic Goals
+and Indicators
+Strengthen the capacity of the
+Government to prepare,
+approve and implement
+investment projects in line
+with the requirements of a
+medium-term investment
+partnership.
+
+Issues and Obstacles
+Fiduciary risk.
+
+PORTFOLIO PERFORMANCE
+Outcomes the Bank
+Milestones
+Program Expects to
+Influence
+Improved fiduciary risk
+monitoring systems.
+
+Status
+
+ Adjustment of existing risk
+
+ Price Monitoring Mechanism
+
+assessment tools to ensure
+strategic focus on project
+fiduciary risks and results.
+
+in place. Applied by PIUs in
+their Procurement Plans and
+by the Bank in PPRs and
+bidding evaluation forms
+gradually since 2007.
+ Governance and
+Accountability Action Plan
+designed for health projects
+and ready to be applied to
+other projects if required.
+
+Bank Program
+Instruments
+
+ Being applied for new
+
+ Framework Agreement for
+Phasing out PIUs
+
+Difficulties in compliance with
+safeguards and sustainability
+policies
+
+Improved safeguards capacity
+of agencies implementing
+investment projects.
+Improved dialogue between
+central agencies and the Bank
+on safeguards, and
+strengthening of coordination
+role by central agencies.
+
+ High level government
+officials, project
+coordinators and safeguard
+specialists in implementing
+agencies trained.
+
+ Gap analysis between
+country systems and Bank
+policies carried out.
+ Model documents for
+environmental and social
+safeguard compliance
+adopted.
+
+projects. Action Plans for
+reduction in the use of
+individual consultants in
+place in certain operations
+(i.e. State Modernization
+Project)
+
+ Series of training events
+launched in March 2011.
+
+ Gap analysis underway,
+jointly with Government.
+
+ Model documents under
+preparation.
+
+Training Program for
+implementing agencies and
+central coordination agencies
+supported by the Bank.
+Gap Analysis between
+environmental and social
+country systems and
+safeguards and sustainability
+policies of the Bank.
+
+30
+
+Country Strategic Goals
+and Indicators
+Strengthen the capacity of the
+Government to prepare,
+approve and implement
+investment projects in line
+with the requirements of a
+medium-term investment
+partnership.
+
+Issues and Obstacles
+Portfolio riskiness
+
+Slow disbursements
+
+PORTFOLIO PERFORMANCE
+Outcomes the Bank
+Milestones
+Program Expects to
+Influence
+Reduce portfolio riskiness
+
+Maintain adequate levels of
+project execution (i.e. 30% ratio
+of disbursements over signed
+contracts for infrastructure
+portfolio) and zero net transfers.
+
+Status
+
+Reduce APPs to 5% in number
+and 14% in amount.
+
+ APPs** : 12% in number and
+
+ Achieve disbursement targets
+
+ FY10:
+o Disbursements of $869
+Disbursement ratio of
+23.4%
+o Net transfers of -$45
+ FY11 (projected):
+o Disbursements of $900
+o Disbursement ratio of 26%
+o Net transfers of $140.
+ FY12 (projected)
+ Disbursements of $850
+ Disbursement ratio of 23%
+ Net Transfers of $20.
+
+of around $ 800 million and
+25% disbursement ratio
+average during CPS period
+ Do not exceed -50 million
+net transfers in CPS FYs.
+
+Bank Program
+Instruments
+
+17% in amount (Basic
+Municipal Services,
+Subnational Government
+Public Sector
+Modernization, Matanza
+Riachuelo, Natural
+Resources)
+ PPPs **: 10% in number and
+9% in amount (Mining
+Restoration, National
+Highway Asset
+Management, Natural
+Resources)
+ Risk flags: 29% projects
+have slow disbursement
+flags and 26% projects have
+procurement flags.
+
+*Target is based on Procurement Plans presented by projects taking exclusively those processes planned to be contracted during the corresponding calendar year. This figure includes 20 projects from which we were able to
+collect appropriate data.
+**APPs (Actual Problem Projects): Projects graded MU or U in Development Objectives or Implementation. PPPs (Potential Problem Projects): Projects with at least three risk flags.
+
+31
+
+Annex 2: Summary of Changes to CPS Results Framework
+Pillar 1: Sustainable Growth with Equity
+
+Issues and obstacles
+
+Deleted
+
+Added
+
+•Reference to power and
+transmission of electricity.
+•Reference to improved
+environmental
+management capacity in
+extractive industries.
+•Reference to food quality
+& safety as there is a
+marginal contribution
+from the Bank.
+
+•Road Safety issues.
+•Public Transport issue.
+•Specific issue for
+PROINDER (Low priority
+
+Reduced/Reformulated
+
+assigned to rural poverty) which
+used to be merged with
+PROSAP although being
+different,
+
+•Specific issue for Matanza,
+most contaminated river
+basin in Argentina.
+
+In all these cases no Bank
+intervention is envisaged.
+
+Outcomes the Bank
+expects to influence
+
+•Road safety outcomes.
+•Flood protection outcomes.
+•Specific outcomes for
+PROINDER, which were
+missing in previous
+framework (Support a
+production oriented investment
+strategy for poor rural
+communities).
+
+•Specific detailed outcomes
+for Matanza which were
+missing and are achievable
+during CPS period.
+
+Milestones
+
+Bank Program
+Instruments
+
+•Road Safety milestones.
+•Flood protection milestones
+for the two APLs which were
+missing.
+•Specific milestones for
+PROINDER,which were
+missing before (number of
+satisfactory beneficiaries,
+etc).
+
+•Public transport outcomes
+reduced in line with project
+outputs. Deleted reference
+to increases in public
+transport ridership.
+•Modified outcomes for
+natural forest management
+in line with project
+outcomes.
+•Solid Waste Management
+targets reduced.
+•Modified PROSAP
+outcomes to align with
+project’s objectives.
+•Modified milestones to
+reflect actual project
+indicators for solid waste
+management, natural forest
+management, national
+parks management, flood
+protection and public
+transport which were very
+ambitious or did not reflect
+the actual contribution of
+these projects.
+
+•Road Safety Loan
+•Norte Grande Transport
+•Norte Grande Water
+•GEF Decentralized Medium
+Size Grants Program.
+•GEF Third National
+Communications to
+UNFCCC Project and Kyoto
+Protocol Adaptation Fund.
+
+32
+
+Pillar 2: Social Inclusion
+Deleted
+
+Added
+
+•Safety nets goal
+reformulated for simplicity
+and to be more aligned
+with bank program
+outcomes.
+•Reformulated to show the
+issue of limited coverage
+of social protection system.
+
+Country
+strategic goals
+and indicators
+Issues and
+obstacles
+Outcomes the
+Bank expects to
+influence
+
+Milestones
+
+•Reference to decreases in
+mortality rates due to
+attribution issues.
+•Reference to new purchasing
+procedures..
+•Hospital access milestones.
+Because there wasn’t a clear
+bank involvement in these
+areas.
+
+Bank Program
+Instruments
+
+Reformulated/Reduced
+
+•Health sector governance
+Project
+•Health sector Support Project
+
+•Reference to Universal
+allowance for vulnerable
+children (UAVC) as an
+accomplishment .
+•Specific outcome for
+Lifelong Learning.
+•Specific outcomes for
+child health insurance
+coverage, and other
+groups’ insurance
+coverage.
+•FESP specific outcomes.
+•Specific target for
+UAVC.
+•FESP specific milestones
+in more detail.
+•Reference to National
+Health Policy
+Observatory.
+•Reference to Governance
+and Accountability Action
+Plan.
+
+•Changed milestones for
+Lifelong Learning in line
+with project indicators.
+•Reformulated milestones
+on health insurance
+coverage to reflect
+contribution of Bank
+programs.
+•Limited milestones of
+education to rural
+education.
+•Limited contribution in
+higher education to the
+dissemination of AAA.
+
+•GPF Strengthening
+Governance in
+Argentina’s Health
+Sector.
+
+33
+
+Pillar 3: Improved Governance
+Deleted
+
+Added
+
+Country strategic
+goals and indicators
+Issues and obstacles
+
+Outcomes the Bank
+expects to influence
+
+Milestones
+
+Bank Program
+Instruments
+
+•Eliminated issue related to
+public expenditure
+management because the
+previously planned
+budgeting activity was not
+done.
+•Issues related to
+performance informed
+budgeting and compliance
+with the Fiscal
+Responsibility Law.
+In both cases there was no
+Bank intervention.
+•All previous milestones
+(some related to
+performance budgeting).
+
+•Foundations for
+Performance Informed
+Budgeting Project
+
+•Focus on strengthening
+efficiency and transparency
+of National Agencies.
+•Provision of customized
+assistance to provinces.
+
+•Focus on specific
+activities undertaken at the
+national and subnational
+level (SWAPs).
+•Milestones for National
+Agencies reformulated in
+line with outcomes.
+
+•San Juan SWAP
+•La Rioja SWAP
+•Salta SWAP
+
+34
+
+Portfolio Performance Pillar
+Deleted
+Issues and
+obstacles
+Outcomes the
+Bank expects to
+influence
+
+Milestones
+
+Bank Program
+Instruments
+Miscellaneous
+
+•Fiduciary Action Plan
+since it was done under
+previous CPS.
+•Semi-Annual portfolio
+reviews because it
+wasn’t strongly linked
+to any outcome.
+
+Added
+
+Reformulated
+
+•Fiduciary risk.
+•Difficulties in compliance with
+safeguards and sustainability
+policies.
+•Improved monitoring capacity of
+central coordinating agencies
+(Ministry of Economy and Public
+Finance)
+•Improved safeguards capacity of
+agencies implementing
+investment projects.
+•Improved dialogue between
+central agencies and the Bank on
+safeguards, and strengthening of
+coordination role by central
+agencies.
+•Maintain adequate levels of
+project execution (i.e. 30% of
+ratio of disbursements over signed
+contracts for infrastructure
+portfolio) and zero net transfers.
+•High level government officials,
+project coordinators and
+safeguard specialists in
+implementing agencies trained.
+•Gap analysis between country
+systems and Bank policies carried
+out.
+•Model documents for
+environmental and social
+safeguard compliance adopted.
+•Reduce APPs to 5% in number
+and 14% in amount.
+•Achieve disbursement targets of
+around $ 800 million and 25%
+disbursement ratio average during
+CPS period.
+•Do not exceed -50 million net
+transfers in CPS FYs.
+•Training Program for
+implementing agencies and
+central coordination agencies
+supported by the Bank.
+•Complete column on current
+status of milestones.
+
+•Overall portfolio
+performance was replaced
+by ―portfolio riskiness‖
+which is more accurate.
+
+•Strengthening and
+enhanced coordination of
+fiduciary team based in
+Buenos Aires.
+
+35
+
+Annex 3. Argentina Lending and GEF Program, FY09-12
+APPROVED
+
+Fiscal
+Year
+
+Quarter
+
+Project
+
+Amount
+(US$ million)
+
+2009
+
+Q4
+
+Basic Protection Project
+
+450
+
+Q2
+
+Metropolitan Areas Urban Transport
+
+150
+
+Provincial Road infrastructure Project -AF
+
+175
+
+San Juan SWAp
+
+50
+
+Prevention and Management of Influenza
+
+229
+
+Q4
+
+Road Safety
+
+30
+
+Q1
+
+Buenos Aires infrastructure - Additional Financing for APL1
+
+50
+
+Norte Grande Transport
+
+400
+
+Norte Grande Water
+
+200
+
+Second Essential Public Health Functions (FESP II)
+
+461
+
+Partial Cancellation of H1N1 loan
+
+-88
+
+La Rioja SWAp
+
+30
+
+Basic Protection - Additional Financing*
+
+480
+
+TOTAL APPROVED
+
+2617
+
+2010
+
+Q3
+
+Q2
+2011
+
+Q3
+
+TO BE APPROVED
+
+Fiscal
+Year
+
+Quarter
+
+2011
+
+Q4
+
+Q1
+
+Project
+
+Amount
+(US$ million)
+
+Norte Grande Water 2
+
+200
+
+Provincial Health Insurance
+
+400
+
+Cordoba Roads Additional Financing
+
+30
+
+Rural Poverty
+
+52
+
+Sustainable Industrial Development
+
+40
+
+Salta SWAp
+
+60
+
+TOTAL TO BE APPROVED
+
+782
+
+TOTAL PROGRAM FY2009-2012
+
+3399
+
+2012
+
+TBD
+
+*As of 02/23/2011, board date for this project is 03/10/2011.
+
+36
+
+GEF Program in Argentina FY10-FY12
+
+Fiscal
+Year
+
+Quarter
+
+Amount
+(US$ million)
+
+Project
+APPROVED
+
+Q2
+2010
+Q4
+2011
+
+Q3
+
+Energy Efficiency Project
+Sustainable Transport and Air Quality
+Third National Communication UNFCCC
+
+15.15
+3.99
+2.4
+21.54
+
+TOTAL APPROVED
+
+TO BE APPROVED
+2011
+
+Q4
+
+Rural Corridors and Biodiversity
+TOTAL GEFs APPROVED AND TO BE APROVED FY10-FY12
+
+6.3
+27.84
+
+37
+
+Annex 4. Operations Portfolio (IBRD/IDA and Grants)
+As Of Date 2/23/2011
+
+Active Projects
+
+Difference Between
+Expected and Actual
+
+Last PSR
+Supervision Rating
+Project
+ID
+
+Project Name
+
+P105288
+P088220
+P095515
+
+Disbursements a/
+
+Original Amount in US$ Millions
+
+Development
+Objectives
+
+Implementation
+Progress
+
+Fiscal
+Year
+
+AR APL2 Buenos Aires Infrastructure
+
+S
+
+S
+
+2007
+
+270
+
+AR (APL1)Urban Flood Preven&Drainage
+
+S
+
+S
+
+2005
+
+130
+
+AR (APL2) Prov Maternal-Child Health
+
+MS
+
+MS
+
+2007
+
+300
+
+135.952591
+
+135.952591
+
+P093491
+
+AR (APL2)Urban Flood Prev.&Drainage
+
+MS
+
+MS
+
+2006
+
+70
+
+52.2036311
+
+52.2036311
+
+P106684
+
+AR 2nd Prov Agric Dev
+
+S
+
+S
+
+2009
+
+300
+
+269.25
+
+70.35
+
+P101170
+
+AR 2nd State Modernization
+
+S
+
+S
+
+2007
+
+20
+
+10.3481614
+
+9.21482807
+
+P116974
+
+AR 3rd Natl Communication UNFCCC
+
+#
+
+#
+
+2011
+
+P095569
+
+AR APL2 National Highway Asset Mgt
+
+S
+
+MS
+
+2007
+
+400
+
+224.113769
+
+219.780436
+
+P039584
+
+AR B.A.URB.TSP
+
+S
+
+MS
+
+1997
+
+300
+
+P060484
+
+AR Basic Municipal Services Project
+
+MU
+
+MU
+
+2006
+
+P115183
+
+AR Basic Protection Project
+
+S
+
+S
+
+2009
+
+P090119
+
+AR Energy Efficiency Project
+
+S
+
+S
+
+2008
+
+P110599
+
+AR Essential Public Health Functions II
+
+S
+
+S
+
+2011
+
+P094425
+
+AR GEF Biod.Conserv in Prod. Forestry
+
+MU
+
+MU
+
+2007
+
+P092836
+
+AR Inst. Strengthening - ANSES II TA
+
+S
+
+S
+
+2006
+
+25
+
+16.3493286
+
+16.3493286
+
+P095514
+
+AR Lifelong Learning Project
+
+S
+
+MS
+
+2007
+
+200
+
+111.187272
+
+6.18727178
+
+P095485
+
+AR Metropolitan Areas Urban Transport
+
+P110462
+
+AR Mining Environmental Restoration Proj
+
+P120198
+
+IBRD
+
+IDA
+
+GRANT
+
+Cancel.
+5.9
+
+Undisb.
+
+Orig.
+
+112.15569
+
+66.0556901
+
+47.4059367
+
+44.8171277
+
+Frm
+Rev'd
+
+2.43921
+0.043537
+
+12.6831208
+
+-87.273342
+
+110
+
+91.1591151
+
+82.5657817
+
+450
+
+3.0815
+
+1.0815
+
+15.155
+461
+7
+
+14.655
+
+9.5675
+
+461
+
+88.6111111
+
+1.3953244
+
+6.65
+
+S
+
+S
+
+2010
+
+150
+
+149.625
+
+MS
+
+MS
+
+2009
+
+30
+
+27.0307274
+
+17.7507274
+
+AR Norte Grande Road Infrastructure
+
+S
+
+S
+
+2011
+
+400
+
+400
+
+0.000002
+
+P120211
+
+AR Norte Grande Water Infrastructure
+
+#
+
+#
+
+2011
+
+200
+
+200
+
+P117377
+
+AR Prevention & Management of Influenza
+
+S
+
+S
+
+2010
+
+229
+
+98.6200058
+
+79.0200058
+
+38
+
+P006043
+
+AR RENEW.ENERGY R.MKTS
+
+S
+
+MS
+
+1999
+
+80
+
+38.7469602
+
+-11.25304
+
+AR Rural Education Improvement Project
+
+MS
+
+MS
+
+2006
+
+150
+
+70.4276114
+
+70.4276114
+
+25.049077
+79.422389
+
+P070963
+P006041
+
+AR SMALL FARMER DV.
+
+MS
+
+S
+
+1998
+
+120
+
+14.6040564
+
+P101171
+
+-30.395944
+
+9.6040564
+
+AR SOC&FISC NTL ID SYS II
+
+S
+
+S
+
+2009
+
+20
+
+12.0265068
+
+1.45984011
+
+P113896
+
+AR San Juan SWAP
+
+S
+
+S
+
+2010
+
+50
+
+50
+
+P089926
+
+AR Solid Waste Management Project
+
+MS
+
+MS
+
+2006
+
+40
+
+30.8963942
+
+25.2963942
+
+P070448
+
+AR Subnational Gov Public Sec Modernizat
+
+U
+
+MU
+
+2006
+
+40
+
+30.5475443
+
+30.5475443
+
+P100806
+
+AR Sustainable Natural Res Mgt
+
+MU
+
+MU
+
+2008
+
+60
+
+54.5995397
+
+25.5995397
+
+P106752
+
+AR Unleashing Productive Innovation
+
+MS
+
+MS
+
+2009
+
+150
+
+133.714302
+
+16.0476356
+
+P105680
+
+AR(APL1) Matanza-Riachuelo Development
+
+MU
+
+MU
+
+2009
+
+840
+
+835.9
+
+79.2333333
+
+P088032
+
+AR(CRL1)Buenos Aires Infrastr SIDP(1APL)
+
+S
+
+S
+
+2005
+
+250
+
+50.0648824
+
+0.06488237
+
+P099051
+
+AR- SANTA FE ROAD Infrastructure
+
+S
+
+S
+
+2007
+
+126.7
+
+26.9526454
+
+26.9526454
+
+P099585
+
+AR-Cordoba-Road Infrastructure
+
+S
+
+S
+
+2007
+
+75
+
+5.31254712
+
+3.97921378
+
+P090993
+
+AR-Essential Public Health Functions
+
+MS
+
+MS
+
+2007
+
+220
+
+P114008
+
+AR-GEF Sustain. Transp. and Air Quality
+
+MS
+
+MS
+
+2009
+
+P070628
+
+AR-Provincial Road InfrastructureProject
+
+S
+
+MS
+
+2005
+
+P116989
+
+AR-Road Safety
+
+S
+
+S
+
+2010
+
+P005920
+
+MP/AR-REDUCTION OF OZONE D
+
+S
+
+S
+
+1997
+
+Overall Result
+
+0.121267
+
+53.610573
+
+53.73184
+
+3.987
+
+2.33333334
+
+325
+
+209.499415
+
+30.2594146
+
+30
+
+25.35858
+
+-4.6414167
+
+0.45020056
+
+-3.4637994
+
+4090.16961
+
+1127.68822
+
+3.987
+
+25
+6621.7
+
+53.58121
+
+6.064804
+
+0.4949305
+
+0.0648824
+
+0.6666667
+
+3.4637994
+46.601112
+
+39
+
+Annex 5. AAA Program FY09-FY11
+
+Approval FY
+
+Project Name
+
+Theme
+
+Output Type
+
+Corrientes FFS: Technical Assistance for the
+design of an Strategic Plan
+
+Public Sector
+Governance
+
+Non Lending - Technical
+Assistance
+
+Integrated Financial System of Province of
+Buenos Aires
+
+Public Sector
+Governance
+
+Institutional Development Plan
+(Non Lending - Technical
+Assistance)
+
+Provincial Economic Memorandum Buenos
+Aires
+
+Public Sector
+
+Report - Public Sector study
+
+Logistics II: A Deep Study of Selected Logistics
+Issues in Argentina
+
+Infrastructure
+
+Report - Infrastructure Study
+
+Provincial Performance Informed Budgeting
+
+Public Sector
+Governance
+
+Institutional Development Plan
+(Non Lending - Technical
+Assistance)
+
+Gender Equity in the Private Sector
+
+Social
+Development
+
+Non Lending - Technical
+Assistance
+
+Delivered to Client
+
+FY09
+
+FY10
+
+Currently Underway**
+
+FY11
+
+Higher Education
+
+Education
+
+Report - Education Sector Review
+
+AR Country Financial Accountability
+Assessment (CFAA) Provincial Level
+
+Financial
+Management
+
+Report
+
+Cordoba Introduction of Performance Informed
+Budget
+
+Public Sector
+Governance
+
+Non Lending - Technical
+Assistance (FBS*)
+
+Access to Long Term Credit
+
+Financial and
+Private Sector
+Development
+
+Financial Sector Workshops
+
+AR Country Environmental Assessment
+
+Environment
+
+Country Environmental Analysis
+(CEA) - Report
+
+*FBS: Fee based services
+** The AAA program for FY12 is being designed as part of the Business Planning process.
+
+40
+
+Annex 6. Selected Indicators* of Bank Portfolio Performance and Management
+
+As Of Date 2/24/2011
+
+Indicator
+Portfolio Assessment
+Number of Projects Under Implementation
+Average Implementation Period (years) b
+
+a
+
+2008
+
+2009
+
+2010
+
+2011**
+
+28
+
+34
+
+36
+
+38
+
+4.2
+
+4.2
+
+4.2
+
+4.3
+
+a, c
+
+25.0
+
+2.9
+
+13.9
+
+10.5
+
+Percent of Problem Projects by Amount a, c
+
+Percent of Problem Projects by Number
+
+31.3
+
+0.5
+
+17.9
+
+15.8
+
+a, d
+
+57.1
+
+20.6
+
+25.0
+
+21.1
+
+Percent of Projects at Risk by Amount a, d
+
+60.0
+
+25.8
+
+29.3
+
+25.9
+
+12.4
+
+29.1
+
+23.4
+
+21.6
+
+Percent of Projects at Risk by Number
+
+Disbursement Ratio (%)
+
+e
+
+a.
+b.
+c.
+d.
+e.
+
+As shown in the Annual Report on Portfolio Performance (except for current FY).
+Average age of projects in the Bank's country portfolio.
+Percent of projects rated U or HU on development objectives (DO) and/or implementation progress (IP).
+As defined under the Portfolio Improvement Program.
+Ratio of disbursements during the year to the undisbursed balance of the Bank's portfolio at the
+beginning of the year: Investment projects only.
+* All indicators are for projects active in the Portfolio, with the exception of Disbursement Ratio,
+which includes all active projects as well as projects which exited during the fiscal year.
+**Disbursement Ratio for FY11 has been annualized in base of disbursements as of 02/24/2011.
+
+41
+
+Annex 7: Summary of Joint Government-Bank Workshop
+on Risks and Challenges in Implementation of Investment Projects
+In order to strengthen the implementation of Bank-financed investment portfolio in Argentina,
+the Ministry of Economy and Public Finance and the World Bank invited a group of
+implementing agencies representing a wide range of sectors to participate in a workshop held in
+Buenos Aires on November 9-10, 2010. Forty-two participants included project coordinators
+and procurement, financial management and safeguard specialists from selected implementing
+agencies, as well as Bank teams providing implementation support to the same operations (Task
+Team Leaders and procurement, financial management and safeguard specialist s).
+The methodology used during the workshop was the Analytical Hierarchy Process (AHP)
+supported by Expert Choice, an effective and proven methodology and software for decision making. The methodology allowed eliciting the opinions from participants of the Government,
+the Implementing Agencies and the World Bank through a facilitation process and anonymous
+voting. The workshop aimed to: i) identify critical issues, risks and challenges affecting portfolio
+execution, including compliance with policy regimes (i.e. financial management, fiduciary
+policies and environmental and social safeguards) and monitoring systems, ii) carry out a
+collaborative and participatory decision-making process in the creation of a working agenda to
+enhance project portfolio execution, and iii) foster a trusting and collaborati ve environment,
+strengthen the dialogue between the parties and generate creative and effective solutions.
+The workshop provided a platform for frank discussion and allowed participants to work as one
+team, committed to the joint goal of implementing the investment portfolio smoothly and
+efficiently, with the focus on development results. Procurement and safeguards related questions
+received the highest prominence in the discussion. In particular, participants agreed that capacity
+constraints in the implementing agencies need to be addressed through improved training and
+recruitment procedures, and that the Bank would support these efforts by providing customized
+capacity building program in procurement and safeguards. A detailed analysis on procurement
+post reviews of Bank portfolio in Argentina has been completed and used as a guide to inform
+the ongoing preparation of procurement training for the implementing agencies. In parallel, the
+Bank recruited additional procurement staff in Buenos Aires office, and both Government and
+the Bank are working on expanding the SEPA platform to include a secure information space for
+exchange of experience on procurement issues.
+On the safeguards side, following the workshop the Government and the Bank launched a
+detailed analysis of overlaps and gaps between Argentina’s legal framework and the Bank’s
+safeguards policies, which would serve as a basis for developing clear guidance and sample
+standard documents facilitating the compliance with Bank safeguards in Argentina portfolio, as
+well as inform capacity building efforts.
+
+42
+
+With respect to financial management, workshop participants agreed that this area represents the
+fewest concerns for the portfolio. The main challenges are to improve internal controls in
+operations implemented at sub-national levels, and to create an automatic link between SEPA,
+procurement information system and UEPEX, the Government's FM system for external funding,
+which would allow the Government and the Bank have real time information on financ ial
+execution of projects.
+The Government and the Bank will evaluate progress in implementing the Action Plan
+developed at the workshop (see below) twice a year, at the time of each country portfolio review.
+Workshop on Risks and Challenges in Implementation of Investment Projects: Action Plan
+Action
+
+Primary
+Responsibility
+
+Component 1: Improvement of procurement performance
+Create space for exchange of knowledge and experience among implementing agencies (IA),
+and between them and the Bank
+Develop a procurement training program offered by an academic institution, to build capacity
+in implementing agencies
+
+Bank
+
+Review contracting procedures for consultants by IA to improve the conditions to attract and
+retain qualified procurement staff
+
+Government
+
+Ensure active participation of Bank procurement team in project preparation from early stages
+of design
+Strengthen the procurement team in the Bank to ensure timely and effective response to the
+client and support project objectives
+
+Bank
+
+Government
+
+Bank
+
+Component 2: Improvement of capacity to effectively address safeguards and sustainability
+aspects of operations
+Establish and communicate to the client clear structure of the Bank's local safeguards team to
+ensure that the client has an easy point of contact and receives consistent messages on
+safeguards issues
+
+Bank
+
+Strengthen DNPOIC's lead coordination role in safeguards and sustainability issues of
+operations
+
+Government
+
+Establish clear criteria and models for application of Bank safeguards policies to projects in
+Argentina
+
+Bank
+
+Component 3: Improvement of internal control in financial management
+Review IA structure to adapt financial management teams to the new challenges
+Improve capacity of units at the national level to supervise units at the provincial level
+
+Government
+Government
+
+Strengthen the Government's team currently managing UEPEX, the Government's FM system
+for external funding
+
+Government
+
+Improve General Audit Office capacity to perform technical audits given the increase of
+results based components in operations
+
+Government
+
+43
+
+Annex 8. Argentina: Selected Economic and Financial Indicators
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010*
+estimate
+
+2011*
+forecast
+
+9.2
+
+8.5
+
+8.7
+
+6.8
+
+0.9
+
+9.1 ²
+
+5.8 ²
+
+Real GDP and aggregate demand 1/
+GDP (annual %)
+Exports (annual %)
+
+13.5
+
+7.3
+
+9.1
+
+1.2
+
+-6.4
+
+-
+
+-
+
+Imports (annual %)
+
+20.1
+
+15.4
+
+20.5
+
+14.1
+
+-19.0
+
+-
+
+-
+
+National Government Primary Balance (% of GDP)
+
+3.7
+
+3.5
+
+3.2
+
+3.1
+
+1.5
+
+1.7 ⁵
+
+0.8 ⁵
+
+National Government Overall Balance (% of GDP)
+
+1.8
+
+1.8
+
+1.1
+
+1.4
+
+-0.6
+
+0.2 ⁵
+
+-
+
+85.3
+
+76.6
+
+67.2
+
+56.4
+
+58.9
+
+-
+
+-
+
+Trade balance (current US$ billions)
+
+13.1
+
+14.0
+
+13.5
+
+15.4
+
+17.0
+
+12.1
+
+10.2 ⁶
+
+Merchandise exports (current US$ billions)
+
+40.4
+
+46.5
+
+56.0
+
+70.0
+
+55.7
+
+68.5
+
+77.6
+
+Merchandise imports (current US$ billions)
+
+Public Sector 4/
+
+Total Gross Public Debt (% of GDP)
+
+External Sector
+
+27.3
+
+32.6
+
+42.5
+
+54.6
+
+38.7
+
+56.4
+
+67.4
+
+Current account balance (current US$ billions)
+
+5.4
+
+7.9
+
+7.5
+
+7.0
+
+11.5
+
+4.7
+
+3.2
+
+Current account balance (% of GDP)
+
+3.0
+
+3.7
+
+2.9
+
+2.2
+
+3.9
+
+-
+
+-
+
+28.1
+
+32.0
+
+46.2
+
+46.4
+
+47.9
+
+52.2
+
+52.5
+
+Gross international reserves (US$ billions, end of period)
+
+Prices, money and exchange rate
+
+12.3
+
+9.8
+
+8.5
+
+7.2
+
+7.7
+
+10.9
+
+14.4 ⁷
+
+8.8
+
+13.4
+
+14.3
+
+19.1
+
+10.0
+
+17.1 ⁸
+
+19.8 ⁸
+
+M2 (annual %, monthly average)
+
+23.8
+
+22.6
+
+21.1
+
+17.3
+
+11.5
+
+22.1
+
+27.9 ⁹
+
+Nominal Exchange Rate (AR$ per US$, end of period)
+
+3.03
+
+3.07
+
+3.15
+
+3.45
+
+3.79
+
+3.98
+
+4.29
+
+Population, total (millions)
+
+38.7
+
+39.1
+
+39.5
+
+39.9
+
+40.3
+
+-
+
+-
+
+Unemployment rate (%)
+
+10.1
+
+8.7
+
+7.5
+
+7.3
+
+8.4
+
+7.7
+
+7.4
+
+CPI (annual %, end of period)
+GDP deflator (annual %)
+
+Population, Employment and Poverty
+
+Urban poverty headcount ratio at national poverty line (% of population)
+36.4
+29.2
+22.0
+16.6
+13.6
+* Unless otherwise indicated, 2010 estimates and 2011 forecasts correspond to REM (Relevamiento de Expectativas de Mercado) survey published by the Central Bank of
+Argentina.
+1/ 1993 AR$.
+2/ The 2011 draft Budget Law assumes annual growth of 8.9% in 2010 and of 4.3% in 2011.
+3/ Including inventory and statistical discrepancy.
+4/ Accounts on a cash basis.
+5/ Own calculations based on actual fiscal data from Ministry of Finance and nominal GDP projections from REM survey.
+
+44
+
+Annex 9. Argentina at a glance
+
+Argentina at a glance
+
+2/23/11
+
+Argentina
+
+Latin
+America
+& Carib.
+
+Upper
+middle
+income
+
+40.3
+2,780
+1.0
+92
+
+566
+20,422
+1.1
+79
+
+993
+48,659
+0.9
+75
+
+304.1
+7,550
+14,120
+
+3,865
+6,826
+10,496
+
+7,352
+7,405
+12,763
+
+0.9
+-0.1
+
+4.3
+3.1
+
+4.1
+3.2
+
+3
+7
+75
+15
+2
+
+8
+17
+73
+20
+4
+
+..
+..
+71
+20
+..
+
+98
+98
+116
+114
+
+92
+90
+118
+114
+
+95
+92
+111
+110
+
+96
+91
+
+93
+79
+
+95
+84
+
+Key Development Indicators
+(2009)
+Population, mid-year (millions)
+Surface area (thousand sq. km)
+Population growth (%)
+Urban population (% of total population)
+
+75-79
+60-64
+45-49
+30-34
+
+GNI (Atlas method, US$ billions)
+GNI per capita (Atlas method, US$)
+GNI per capita (PPP, international $)
+GDP growth (%)
+GDP per capita growth (%)
+
+15-19
+0-4
+6
+
+4
+
+2
+
+0
+
+2
+
+4
+
+6
+
+percent of total population
+
+(most recent estimate, 2003–2009)
+Poverty headcount ratio at $1.25 a day (PPP, %)
+Poverty headcount ratio at $2.00 a day (PPP, %)
+Life expectancy at birth (years)
+Infant mortality (per 1,000 live births)
+Child malnutrition (% of children under 5)
+Adult literacy, male (% of ages 15 and older)
+Adult literacy, female (% of ages 15 and older)
+Gross primary enrollment, male (% of age group)
+Gross primary enrollment, female (% of age group)
+Access to an improved water source (% of population)
+Access to improved sanitation facilities (% of population)
+
+60
+50
+40
+30
+20
+10
+0
+1990
+
+1995
+
+Argentina
+
+Net Aid Flows
+(US$ millions)
+Net ODA and official aid
+Top 3 donors (in 2008):
+Spain
+Germany
+European Commission
+
+1980
+
+1990
+
+2000
+
+2009
+
+19
+
+169
+
+52
+
+131
+
+0
+18
+0
+
+12
+41
+2
+
+-6
+7
+10
+
+30
+22
+17
+
+0.0
+1
+
+0.1
+5
+
+0.0
+1
+
+0.0
+3
+
+2000
+
+2007
+
+Latin America & the Caribbean
+
+a
+
+15
+10
+5
+
+Aid (% of GNI)
+Aid per capita (US$)
+
+0
+-5
+-10
+
+Long-Term Economic Trends
+
+-15
+95
+
+Consumer prices (annual % change)
+GDP implicit deflator (annual % change)
+Exchange rate (annual average, local per US$)
+Terms of trade index (2000 = 100)
+
+100.8
+90.8
+
+2314.0
+2,076.8
+
+-0.7
+1.0
+
+7.7
+10.0
+
+0.0
+..
+
+0.5
+85
+
+1.0
+100
+
+3.7
+133
+
+05
+
+GDP
+
+GDP per capita
+
+1980–90 1990–2000
+2000–09
+(average annual growth %)
+Population, mid-year (millions)
+GDP (US$ millions)
+
+28.2
+76,962
+
+32.5
+141,352
+
+36.9
+284,204
+
+40.3
+307,155
+
+1.4
+-0.7
+
+1.3
+4.3
+
+1.0
+5.4
+
+(% of GDP)
+Agriculture
+Industry
+Manufacturing
+Services
+
+6.4
+41.2
+29.5
+52.4
+
+8.1
+36.0
+26.8
+55.9
+
+5.0
+27.6
+17.5
+67.4
+
+7.5
+31.8
+21.2
+60.7
+
+0.7
+-1.3
+-0.8
+0.0
+
+3.5
+3.8
+2.7
+4.5
+
+2.5
+6.1
+5.8
+4.8
+
+Household final consumption expenditure
+General gov't final consumption expenditure
+Gross capital formation
+
+63.0
+11.0
+25.3
+
+77.1
+3.1
+14.0
+
+70.7
+13.8
+16.2
+
+58.3
+15.2
+20.9
+
+..
+..
+-5.2
+
+2.8
+2.2
+7.4
+
+4.7
+3.6
+11.1
+
+Exports of goods and services
+Imports of goods and services
+Gross savings
+
+5.1
+6.5
+22.8
+
+10.4
+4.6
+13.4
+
+10.9
+11.5
+13.0
+
+21.4
+16.0
+24.4
+
+3.8
+-5.8
+
+8.7
+15.6
+
+6.3
+9.2
+
+Note: Figures in italics are for years other than those specified. 2009 data are preliminary. .. indicates data are not available.
+a. Aid data are for 2008.
+Development Economics, Development Data Group (DECDG).
+
+45
+
+Argentina
+Balance of Payments and Trade
+
+2000
+
+2009
+
+(US$ millions)
+Total merchandise exports (fob)
+Total merchandise imports (cif)
+Net trade in goods and services
+
+26,341
+25,281
+-1,832
+
+55,669
+38,771
+17,825
+
+Voice and accountability
+
+Current account balance
+as a % of GDP
+
+-8,981
+-3.2
+
+11,515
+3.7
+
+Regulatory quality
+
+86
+
+660
+
+25,147
+
+47,967
+
+Political stability
+
+Rule of law
+
+Workers' remittances and
+compensation of employees (receipts)
+Reserves, including gold
+
+Control of corruption
+0
+
+Central Government Finance
+
+2009
+
+(% of GDP)
+Current revenue (including grants)
+Tax revenue
+Current expenditure
+
+19.4
+14.1
+20.9
+
+22.7
+20.0
+20.2
+
+Overall surplus/deficit
+
+-2.4
+
+-0.6
+
+2000
+
+25
+
+..
+35
+
+35
+35
+
+75
+
+100
+
+higher values imply better ratings
+
+Technology and Infrastructure
+
+Highest marginal tax rate (%)
+Individual
+Corporate
+
+50
+
+Country's percentile rank (0-100)
+
+2000
+
+2008
+
+29.4
+
+30.0
+
+39
+
+141
+
+9.1
+
+9.0
+
+47
+12.3
+..
+
+49
+12.0
+6.5
+
+7,326
+29.2
+
+6,920
+..
+
+CO2 emissions per capita (mt)
+
+3.8
+
+4.6
+
+GDP per unit of energy use
+(2005 PPP $ per kg of oil equivalent)
+
+6.2
+
+6.8
+
+1,650
+
+1,850
+
+2000
+
+2009
+
+IBRD
+Total debt outstanding and disbursed
+Disbursements
+Principal repayments
+Interest payments
+
+8,789
+1,019
+538
+701
+
+5,305
+1,028
+793
+169
+
+IDA
+Total debt outstanding and disbursed
+Disbursements
+Total debt service
+
+–
+–
+–
+
+–
+–
+–
+
+2,305
+1,196
+252
+
+1,738
+850
+153
+
+74
+
+80
+
+491
+127
+
+35
+0
+
+Paved roads (% of total)
+Fixed line and mobile phone
+subscribers (per 100 people)
+High technology exports
+(% of manufactured exports)
+
+External Debt and Resource Flows
+Environment
+(US$ millions)
+Total debt outstanding and disbursed
+Total debt service
+Debt relief (HIPC, MDRI)
+
+140,914
+26,843
+–
+
+120,184
+12,127
+–
+
+49.6
+69.4
+
+39.1
+17.3
+
+10,418
+-3,227
+
+4,009
+-212
+
+Total debt (% of GDP)
+Total debt service (% of exports)
+Foreign direct investment (net inflows)
+Portfolio equity (net inflows)
+
+IDA,
+IMF,00
+IBRD,
+
+Short-term,
+19,977
+
+Agricultural land (% of land area)
+Forest area (% of land area)
+Terrestrial protected areas (% of surface area)
+Freshwater resources per capita (cu. meters)
+Freshwater withdrawal (billion cubic meters)
+
+Energy use per capita (kg of oil equivalent)
+Other multi5,069
+lateral, 9,711
+
+World Bank Group portfolio
+
+Bilateral, 5,794
+
+(US$ millions)
+
+Private, 78,350
+
+Private Sector Development
+Time required to start a business (days)
+Cost to start a business (% of GNI per capita)
+Time required to register property (days)
+Ranked as a major constraint to business
+(% of managers surveyed who agreed)
+Economic and regulatory policy uncertainty
+Access to/cost of financing
+Stock market capitalization (% of GDP)
+Bank capital to asset ratio (%)
+
+2000
+
+2009
+
+–
+–
+–
+
+27
+11.0
+52
+
+2000
+
+2009
+
+..
+..
+
+16.5
+15.7
+
+58.4
+..
+
+15.9
+12.9
+
+IFC (fiscal year)
+Total disbursed and outstanding portfolio
+of which IFC own account
+Disbursements for IFC own account
+Portfolio sales, prepayments and
+repayments for IFC own account
+MIGA
+Gross exposure
+New guarantees
+
+Note: Figures in italics are for years other than those specified. 2009 data are preliminary.
+.. indicates data are not available. – indicates observation is not applicable.
+
+2/23/11
+
+Development Economics, Development Data Group (DECDG).
+
+46
+
+

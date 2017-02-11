@@ -1,0 +1,4343 @@
+Public Disclosure Authorized
+
+Document of
+The World Bank
+
+FOR OFFICIAL USE ONLY
+
+Public Disclosure Authorized
+
+Report No. 87818-FM
+
+INTERNATIONAL DEVELOPMENT ASSOCIATION
+AND
+INTERNATIONAL FINANCE CORPORATION
+
+Public Disclosure Authorized
+
+Public Disclosure Authorized
+
+COUNTRY PARTNERSHIP STRATEGY
+FOR THE
+FEDERATED STATES OF MICRONESIA
+FOR THE PERIOD FY2014 - 2017
+
+April 30, 2014
+
+Timor-Leste, Papua New Guinea, and Pacific Islands Country Management Unit
+East Asia and Pacific Region
+The International Finance Corporation
+East Asia and Pacific Region
+This document has a restricted distribution and may be used by recipients only in the performance of their official
+duties. Its contents may not otherwise be disclosed without World Bank authorization.
+
+CURRENCY EQUIVALENT
+Currency Unit: US Dollar
+
+ABBREVIATIONS AND ACRONYMS
+
+AAA
+ADB
+COBP
+CCA
+CEDAW
+
+CGAP
+CPS
+CTF
+DoFA
+DPM
+DRM
+FSM
+GDP
+GFC
+GNDI
+GNI
+GoFSM
+HDI
+HIES
+IBRD
+ICT
+IDA
+IFC
+
+Analytical and Advisory Activities
+Asian Development Bank
+Country Operations Business Plan
+Climate Change Adaptation
+Convention on the Elimination of
+All Forms of Discrimination
+against Women
+Country Gender Action Plan
+Country Partnership Strategy
+Compact Trust Fund
+Department of Finance and
+Administration
+Development Partners Meeting
+Disaster Risk Management
+Federated States of Micronesia
+Gross Domestic Product
+Global Financial Crisis
+Gross National Disposable Income
+Gross National Income
+Government of Federated States of
+Micronesia
+Human Development Index
+Household Income and
+Expenditure Survey
+International Bank for
+Reconstruction and Development
+Information and Communications
+Technology
+International Development
+Association
+International Finance Corporation
+
+IMF
+JEMCO
+LTFF
+MDG
+NCD
+NEP
+ODA
+PCRAFI
+
+PER
+PIC
+PNA
+PPG
+PROP
+SDP
+SDR
+SPC
+TA
+TF
+UN
+US
+USDOI
+USFAA
+VDS
+WBG
+
+International Monetary Fund
+Joint Economic Management
+Committee
+Long Term Fiscal Framework
+Millennium Development Goals
+Non Communicable Disease
+National Energy Policy
+Overseas Development Assistance
+Pacific Catastrophe Risk
+Assessment and Financing
+Initiative
+Public Expenditure Review
+Pacific Island Country
+Parties to the Nauru Agreement
+Public and Publicly Guaranteed
+Pacific Regional Oceanscape
+Program
+Strategic Development Plan
+Special Drawing Rights
+Secretariat of the Pacific
+Community
+Technical Assistance
+Trust Fund
+United Nations
+United States
+U.S Department of Interior
+U.S. Federal Aviation
+Administration
+Vessel Day Scheme
+World Bank Group
+
+IDA/IBRD
+
+IFC
+
+Vice President:
+
+Axel van Trotsenburg
+
+Karin Finkelston
+
+Country Director:
+
+Franz Drees-Gross
+
+Sergio Pimenta
+
+Country Manager/TTL:
+
+Annette Leith
+
+Gavin Murray
+
+FY2014 – 2017 COUNTRY PARTNERSHIP STRATEGY
+FEDERATED STATES OF MICRONESIA
+TABLE OF CONTENTS
+
+EXECUTIVE SUMMARY ............................................................................................................. i
+I.
+INTRODUCTION ............................................................................................................. 1
+II.
+COUNTRY CONTEXT .................................................................................................... 1
+Political Context.............................................................................................................................. 2
+Social Context ................................................................................................................................. 4
+Economic Context ........................................................................................................................... 5
+Economic Developments ................................................................................................................ 7
+Economic Outlook and Debt Sustainability .................................................................................... 9
+III.
+THE GOVERNMENT’S DEVELOPMENT VISION.................................................... 16
+IV.
+PARTNERSHIPS ............................................................................................................ 17
+Donor engagement ........................................................................................................................ 17
+V.
+WORLD BANK GROUP ENGAGEMENT ................................................................... 18
+Areas of Engagement .................................................................................................................... 19
+Theme 1: Strengthening the Enabling Environment for Private Sector Development ................ 22
+Outcome 1: More efficient and reliable, electricity services ........................................................ 22
+Outcome 2: Improved access to and reduced costs of ICT services ............................................. 23
+Outcome 3: Improved business regulatory environment .............................................................. 24
+Theme 2: Promoting a Sustainable Medium Term Fiscal Situation ............................................. 24
+Outcome 4: Increasing economic benefits from the fisheries sector ............................................ 24
+Outcome 5: Improved targeting and management of fiscal adjustment process .......................... 26
+Outcome 6: Managing the impact of climate change and natural hazards ................................... 27
+Potential Participation in Regional Activities ............................................................................... 27
+Financing Envelope and Program ................................................................................................. 27
+V.
+MANAGING RISKS ...................................................................................................... 28
+Boxes
+Box 1: Compact of Free Association Financing ............................................................................ 6
+Box 2: FSM Poverty Measurement............................................................................................... 12
+Box 3: Six Part Strategy for Transition and Accelerated Growth ................................................ 17
+Box 4: CPS Consultation Process ................................................................................................. 19
+Box 5: World Bank Group Support to FSM Fisheries.................................................................. 26
+Figures
+Figure 1: US Compact Grants (US$m, 2004) ................................................................................. 6
+Figure 2: US Compact Grant (US$m, Nominal) ............................................................................ 6
+Figure 3: Estimated evolution of CTF value through FY2023 ..................................................... 10
+Figure 4: Basic Needs Poverty by Households and Population .................................................... 13
+
+Figure 5: Location of the Lowest Expenditure Household ........................................................... 13
+Figure 6: Source of Income........................................................................................................... 14
+Figure 7: Access to Water ............................................................................................................. 14
+Figure 8: Real GNDI per capita US$ (2004) ................................................................................ 15
+Figure 9: Income / Consumption Distribution .............................................................................. 15
+Figure 10: Poverty Diagnostic and the Proposed Country Program ............................................. 20
+Tables
+Table 1: 2012 FSM Government Finances (US$M, FY2012) ........................................................ 9
+Table 2: Indicative Program FY14-FY17 ..................................................................................... 28
+Annexes
+Annex 1: Federated States of Micronesia Results Matrix ............................................................ 30
+Annex 2: ICT in the Pacific .......................................................................................................... 32
+Annex 3: Pacific Islands Fisheries ................................................................................................ 33
+Annex 4: Development Partners in FSM ...................................................................................... 34
+Annex 5: World Bank Group Program Alignment with the Government’s Strategy ................... 36
+Annex 6: Federated States of Micronesia: Country at a Glance ................................................... 37
+Annex 7: Federated States of Micronesia: Key Indicators Table, FY2009–FY2016 ................... 40
+Annex 8: Federated States of Micronesia: Map IBRD 33406 ...................................................... 41
+
+EXECUTIVE SUMMARY
+i. This is the first World Bank Group (WBG) Country Partnership Strategy (CPS) for the
+Federated States of Micronesia (FSM) and will be accompanied by the country’s first International
+Development Association (IDA) operation. The WBG’s engagement with FSM is consistent with its
+scale up in the Pacific over the last ten years and FSM’s Strategic Development Plan (SDP). This CPS
+outlines a program of assistance intended to strengthen the enabling environment for private sector
+development to help sustain growth, and to promote a sustainable medium term fiscal situation to
+improve basic service delivery.
+ii. FSM is a small, remote, geographically dispersed Pacific Island country (PIC). Like many PICs,
+FSM faces significant inherent structural challenges to developing an economy that can sustain
+government functions and effective service delivery. FSM has a population of approximately 102,800
+scattered over an ocean area of 1.6 million square kilometers. The country is heavily reliant on external
+assistance, with on budget grant income estimated to account for 43 percent of GDP. FSM has few
+resources, and exports are heavily concentrated on fish. Its import dependency exposes the country to
+global economic shocks and price spikes. FSM is particularly vulnerable to accelerated sea-level rise
+and is prone to natural hazards.
+iii. FSM has several unique characteristics. FSM has a long standing relationship with the United
+States (U.S.). The U.S. currently provides significant financing through Compact Sector Grants, which
+are scheduled to end in 2023 and be replaced by financing from the Compact Trust Fund (CTF). FSM
+also enjoys an open migration policy for FSM citizens to go to the U.S., although this has also
+contributed to depopulation, reducing the productive potential of the economy. Unlike all other PICs,
+FSM is a loose federal democracy that gives significant power to the four state governments, which
+presents a challenge to implementing national programs and policies.
+iv. The WBG program will focus on pursing the twin goals of poverty reduction and shared
+prosperity in FSM to complement the Government of FSM’s (GoFSM) vision of achieving economic
+growth. FSM’s structural challenges—including its remoteness to markets, large distances between its
+four states, and the small and dispersed population—mean that expanding economic opportunities is
+difficult. Therefore, activities that focus directly on improving the quality of life of the poor will also be
+critical for reducing hardship in FSM.
+
+v. FSM will need to make significant fiscal adjustments to prevent major disruptions to public
+service provision that could lead to a worsening of the living standards of the population and
+increases in poverty rates through the transition to the CTF financing. The WBG will aim to help
+FSM manage this transition process, sustain growth and ensure that fiscal adjustments and development
+activities are pro-poor. World Bank investments will focus on improving the necessary infrastructure in
+the energy, communications and fisheries sectors. IFC will focus on improving the business
+environment.
+vi. The WBG program will focus on two themes that support the GoFSM’s Strategic Development
+Plan. The two themes are: (i) strengthening the enabling environment for private sector development to
+help sustain growth; and (ii) promoting a sustainable medium term fiscal situation to improve service
+delivery. Gender will be a cross cutting theme and will be integrated into project and activity designs.
+vii. The WBG will face a number of key risks associated with implementing the proposed strategy
+and therefore support to FSM will be selective and build on the WBG experience in other PICs.
+Risks associated with the program include: program delivery risks due to FSM’s thin capacity; political
+risks related to the devolved decision-making of the federation; and the risks of exogenous shocks
+inherent in small, fragile, isolated, geographically dispersed island economies.
+i
+
+ii
+
+I.
+
+INTRODUCTION
+
+1.
+This is the first World Bank Group (WBG) Country Partnership Strategy (CPS) for the
+Federated States of Micronesia (FSM), and will be accompanied by the country’s first International
+Development Association (IDA) operation – the Energy Sector Development Project (P148560).
+Previous to this stand-alone CPS, the Bank’s engagement in FSM was guided by the Regional
+Engagement Framework FY2006-2009 for Pacific Islands. FSM became a member of the WBG in
+1993, but until recently had not requested assistance from the WBG. With a Gross National Income
+(GNI) well above the operational cutoff for IDA eligibility, FSM was initially classified as an
+International Bank for Reconstruction and Development (IBRD) country when it joined the Bank. In
+2011, FSM was reclassified as eligible for IDA under the small states exception, and became eligible
+for IDA credits in FY12. A Bank-only Debt Sustainability Analysis conducted in February 2013
+indicated that FSM was at a high risk of debt distress, and FSM was therefore reclassified as eligible
+to receive IDA grants for FY14.1 The CPS will cover FY14-FY17, spanning the second half of the
+Mori Administration, which runs until May 2015. The CPS is aligned with FSM’s Strategic
+Development Plan (SDP) 2004 to 2023.
+2.
+The WBG program aims to support FSM as it faces the challenging transition of sustained
+fiscal adjustments over the next 10 years whilst trying to ensure adequate service delivery
+particularly to the poor. The WBG will have two themes to support the SDP strategy for transition
+and accelerated growth. The themes are: (i) Strengthening the enabling environment for private
+sector development to help sustain growth; and (ii) Promoting a sustainable medium term fiscal
+situation to improve service delivery. The program will include a mix of investments, technical
+assistance and analytical activities that will either directly or indirectly assist the Government of
+FSM (GoFSM) to preserve service delivery to the poor by ensuring that fiscal adjustments are
+appropriate. World Bank and IFC Analytical and advisory activities (AAA) will aim to strengthen
+the enabling environment for the private sector including in the revenue generating sectors of tourism
+and fisheries. The WBG will undertake an integrated approach of providing both investments and
+advisory activities that aim to improve core economic infrastructure including in communications
+and energy and by strengthening the policy and regulatory frameworks in order to promote private
+sector development and increase the revenue base. Other AAAs will include a public expenditure
+review (PER), to ensure fiscal consolidation will be as pro-poor as possible, in the two largest sectors
+of education and health. A poverty and gender disaggregated analysis will complement the PER to
+enable effective targeting of all public expenditures and to that ensure the bottom 40 percent and the
+poorest of the population are benefitting from the programs.
+II.
+
+COUNTRY CONTEXT
+
+3.
+FSM is a small, remote, geographically scattered Pacific Island country (PIC). Like many
+PICs, FSM faces significant inherent structural challenges to developing an economy that can
+sustain government functions and effective service delivery. FSM is heavily reliant on external
+assistance, with on-budget grant income estimated to account for 43 percent of the Gross Domestic
+Product (GDP). FSM’s islands are scattered across 1.6 million square kilometers of ocean north of
+the equator that extends from Palau in the west to Kiribati in the east. FSM has a population of
+approximately 102,8432 spread across four groups of island states. These are from west to east, Yap
+1
+
+The decision on credits, grants or a mix of credits/grants is done annually, based on an updated debt sustainability
+analysis.
+2
+Census 2010
+
+1
+
+(11,377), Chuuk (48,654), Pohnpei (36,196) and Kosrae (6,616). Each state has its own geography,
+ecology, language, history and culture with 17 local languages used across the four states.
+Political Context
+
+4.
+FSM has experienced four colonial powers and was subject to some of the most
+concentrated bombing in the Pacific during World War II. In 1525, the Portuguese first discovered
+Yap in search of the Spice Islands, Spain claimed sovereignty of the Caroline Islands3 until 1899
+when Germany bought FSM from Spain under the German-Spanish Treaty. Japan took military
+possession in 1914 and FSM became a League of Nation's mandated Japanese trust territory until the
+end of World War II. During this period approximately 100,000 Japanese were settled throughout
+Micronesia which had a population of around 40,000. A large naval base4 was established in Truk
+(now Chuuk) lagoon. Sugar cane, mining, fishing and tropical agriculture became the major
+industries, and a relatively prosperous period was experienced during the Japanese civilian
+administration. However, by the end of the Second World War, most of the infrastructure had been
+bombed and the local population was impoverished. The United Nations (UN) created the Trust
+Territory of Pacific Islands5 and the United States (U.S.) accepted the role of Trustee. FSM was
+under civil administration of the U.S. Navy from 1945 to 1951. Administration authority was then
+transferred to the U.S. Department of Interior (USDoI) until 1986 when FSM became independent.
+During that period, FSM benefitted from U.S. investments to rebuild infrastructure and expand the
+provision of public services, including health and education.
+5.
+A sovereign country since 1986, FSM maintains deep ties and a cooperative relationship
+with the U.S. FSM entered into a “Compact of Free Association” (Compact) with the U.S. Under
+the Compact, FSM receives yearly financial transfers. Compact financing comes in the form of
+“Compact sector grants”, which help sustain the delivery of public services. Compact financing also
+comes in the form of contributions to the Compact Trust Fund (CTF), which was established to
+replace the Compact sector grants when Compact financing terminates at the end of FY2023. The
+Compact provides a source of revenue to FSM that supports a per capita GNI of US$3,230 (2012),
+well above what the local economy would generate.
+6.
+In addition to financial support, the Compact provides access to other U.S. services and
+programs. The U.S. has full authority and responsibility for the defense and security of the FSM.
+This security relationship can be changed or terminated by mutual agreement. Also under the
+Compact, FSM citizens can live, work, and study in the U.S. without a visa (and U.S. citizens can
+live and work freely in the FSM without a visa). FSM citizens volunteer to serve in the U.S. Armed
+Forces at approximately double the per capita rate of Americans; they are also eligible for admission
+to U.S. Service Academies. FSM is eligible for certain U.S. federal programs6 under similar
+conditions as U.S. states. In addition, services are provided to FSM by the U.S. Federal Aviation
+3
+
+The Caroline Islands are an archipelago in the Western Pacific Ocean, comprising the islands which make up the
+Republic of Palau and the Federated States of Micronesia.
+4
+FSM is strategically situated in the Pacific Ocean, since the beginning of the 20th century it has been a significant
+naval and telecommunications hub for the German, Japanese and US navies at various times.
+5
+The United Nations created the Trust Territory of the Pacific Islands (TTPI) in 1947. Pohnpei (formerly Ponape),
+Kosrae (formerly Kusaie, and at the time a part of Pohnpei), Chuuk (formerly Truk), Yap, Palau, the Marshall
+Islands and the Northern Mariana Islands, together constituted the TTPI.
+6
+For example the U.S. Department of Health and Human Services including the Center for Disease Control and
+Prevention, the Substance Abuse and Mental Health Services Agency and the Administration for Children and
+Families; the U.S Department of Education; the U.S. Institute of Museum and Library Services; the U.S. National
+Park Historic Preservation Fund.
+
+2
+
+Administration (USFAA) and the U.S. Postal Service to name a few.
+information on the Compact.)
+
+(See Box 1 for more
+
+7.
+Similar to many small and remote PICs, FSM is considered to be a fragile country,
+stemming from its geographic isolation and dispersion, thin institutional and human capacity, and
+vulnerability to economic shocks and natural hazards. In addition, FSM suffers from a large youth
+population with few opportunities for employment, and perceived inequalities of development across
+its four states. The FSM fragility analysis7 demonstrates that out of 20 internal and external
+stressors, FSM is vulnerable to six of these, including: (i) youth unemployment; (ii) dependence on
+external sources for fiscal stability; (iii) climate change and natural hazards; (iv) geographic isolation
+and distance from markets; (v) lack of economies of scale and comparative advantage; and (vi)
+perceived inequality across geographic regions. While these stressors are predominantly structural
+and related to FSM’s remoteness and demographics, it is nevertheless important to take these into
+consideration for the selection of WBG interventions in the country. FSM’s long term development
+and improved stability will require creating a strong economic base that can promote economic
+security, enhance shared prosperity and create jobs, and develop institutions that support both
+inclusion and cohesion.
+8.
+FSM has several additional characteristics that are not faced by other PICs including: (i)
+the need to sustain a process of fiscal adjustments over the next decade as Compact funding of
+public expenditures will transition from Compact Sector Grants to financing from the CTF in
+2023; (ii) a loose federation structure; and (iii) the impact of the open migration policy for FSM
+citizens to the U.S. While other countries such as the Marshall Islands face some of these
+challenges, none faces all them.
+
+
+The pending “fiscal cliff” of 2023 requires the GoFSM to reduce expenditures by two percent
+of GDP a year for the next 10 years. While the GoFSM has undertaken steps towards fiscal
+consolidation vis-à-vis the long term fiscal framework, based on current projections, this may
+not be sufficient to avoid the impending fiscal cliff in 2023. Carrying out necessary fiscal
+adjustments in a manner that would avoid deterioration in the access and quality of public
+service delivery – especially to the poorest 40 percent of the population – represents a major
+challenge.
+
+
+
+The loose federation structure presents challenges for decision making, building consensus
+and implementing national reforms or programs. FSM is a voluntary federation of four semiautonomous states, each with its own executive and legislative bodies, and considerable
+autonomy to manage its domestic affairs. The majority of service delivery is carried out at
+the state level.
+
+
+
+The open migration policy for FSM citizens to study, live and work in the U.S. provides
+employment opportunities, but also generates adverse impacts. The open migration policy
+provides opportunities for overseas employment which can generate remittance flows to
+support households in FSM. However, the migration also contributes to negative population
+growth, depopulating the poorer parts of the country, increasing the dependency ratios
+amongst those remaining, and reducing the long-run productive potential of the economy.
+
+7
+
+The fragility mapping drew upon conceptual frameworks presented in the 2009 WDR on Economic Geography,
+the 2011 WDR on Conflict Security and Development, and the suite of Pacific Futures analytical work that explores
+the unique structural challenges affecting the economic and institutional strength of small Pacific island states.
+
+3
+
+9.
+FSM is a federal democracy that gives significant power to the four state governments.
+The unicameral, 14-member Congress has one directly elected representative from each of the four
+states. Representatives serve four-year terms. The other 10 representatives are directly elected for
+two-year terms from single-member districts. Chuuk state, home to nearly half of FSM’s population,
+holds the largest number of congressional seats. The president and vice president are chosen by
+Congress from among the four state representatives to serve four-year terms. By informal
+agreement, the two posts rotate among the representatives of the four states. Each state has its own
+constitution, elected legislature, and governor. The state governments have considerable power,
+particularly in budgetary matters. Traditional leaders exercise significant influence in society,
+especially at the village level. There are no formal political parties, though there are no restrictions
+on their formation. Political loyalties are based mainly on geography, clan relations, and personality.
+The judiciary is independent, but it lacks funds to improve the functioning of the courts.
+10.
+Almost all service delivery functions (including health and education) are carried out by
+the four state governments. Public services are financed through a combination of fiscal transfers
+on-granted by the national government, and the states’ share in domestically generated revenue. The
+four states have an equal share in most revenue categories, 80 percent of fuel tax, and none of the
+fishing license fees. The key fiscal transfers to the state governments are the Compact sector grants.
+The state governments also receive the Compact Supplemental Education Grant, and other grants
+made available by the U.S. At the aggregate level, these grants make up around 60 percent of total
+revenues, while domestic revenues (including non-tax revenues) make up the rest.
+Social Context
+
+11.
+Social indicators for FSM have remained stagnant. According to the UN’s Human
+Development Index (HDI), FSM was ranked 117th out of 187 countries in 2012. FSM’s 2012 HDI
+value of 0.645 is slightly above the average of 0.64 for countries in the medium human development
+group and below the average of 0.683 for countries in East Asia and the Pacific. While not
+widespread, financial hardship is leading to increased tensions, rising crime, increased drug abuse
+and a deteriorating quality of life for those most affected. Basic literacy is high and equitably
+distributed throughout the states and between genders. However, the quality of education has not
+shown any significant improvement in recent years. Similarly, in health, the quality of service
+delivery (especially in some rural and outer island areas) is relatively poor. Non-Communicable
+Diseases (NCD) remain a challenge for the health sector. Over the FY95–FY11 period, formal sector
+employment contracted by an annual average rate of 0.5 percent and was unable to provide enough
+jobs for new job seekers.
+12.
+FSM’s progress towards the Millennium Development Goals (MDG) has been uneven.
+The 2013 MDG Tracking Report8 notes that FSM is not on track to meet the MDG Goals on
+Eradicating Extreme Poverty (Goal 1), Improving Maternal Health (Goal 5) or Combating NCDs
+(Goal 6 plus). The country has made mixed progress toward Achieving Universal Primary
+Education, Promoting Gender Equality and Empowering Women, and Combating HIV/AIDS and
+Other Diseases (Goals 2, 3, and 6, respectively). FSM is on track to meet Goals 4 and 7 (Reducing
+Child Mortality and Ensuring Environmental Sustainability).
+13.
+Women hold equal rights under the law, including those regarding property ownership and
+employment; however participation of women at the highest levels of decision making remains
+8
+
+Pacific Islands Forum Secretariat. 2013 Pacific Regional MDGs Tracking Report. Suva.
+
+4
+
+very limited, and participation by women in the labor force is lower than men9. While women
+generally receive equal pay for equal work and are well represented in the lower and middle ranks of
+the state and federal governments, women continue to be absent or grossly under-represented at the
+legislative and executive levels of government10. The labor force participation rate for women in
+FSM was only 48.4 percent, compared with 66.1 percent for men11. The number of female wage and
+salary earners was less than half that of males (4,514 vs. 9,286)12. Men surpass women in all fields
+of work. In 2007, for example, 4,032 employees in the private sector were men and 2,495 were
+women, and in the public sector 5,311 employees were men and 2,121 were women (GoFSM 2008).
+
+14.
+The GoFSM has ratified the Convention on the Elimination of All Forms of
+Discrimination against Women (CEDAW), although implementation has been slow. FSM has
+achieved full compliance with 26 of 111 indicators, partial compliance with 18 indicators and no
+compliance with the remaining 69 indicators13. Inequalities and gender discrimination prevail in
+custom, law, and interpretation of law. High rates of teen pregnancy and a high incidence of
+domestic violence represent key social challenges. Cases often go unreported because of family
+pressure or an expectation of inaction by the authorities. Offenders rarely face trial, and those found
+guilty usually receive light sentences. A 2004 Situational Analysis Report14 emphasizes that
+domestic and sexual violence is a common cause of injury to women and children and a major
+contributor to social problems. A draft national domestic violence policy was reviewed at the 2010
+Women’s Conference before introduction into Congress. In Pohnpei State, through an administrative
+order, the Justice Department has adopted a ‘no drop’ policy, which requires that cases of domestic
+violence be pursued in court, even if the victim requests that the case be dropped. The UN in
+collaboration with GoFSM statistics department will conduct a Family Health and Safety Survey
+across FSM in 2014. This survey is expected to provide more detailed information to help ensure
+that policy and strategic interventions are gender informed.
+Economic Context
+
+15.
+FSM’s economy faces severe challenges stemming from its small size and geographic
+isolation, and import dependency exposes the country to global economic shocks and price spikes.
+Economic growth is constrained by FSM's small size, remoteness from markets, and limited
+transportation links. The small size and remoteness of FSM (which is located more than 3,700
+kilometers from its nearest major market of Japan) constrains economic opportunities. This is
+compounded by limited and expensive transportation links, which increase the cost of trade and
+constrain export competitiveness. With constrained export and domestic production opportunities
+and a heavy dependence on imports (almost all fuel and food items are imported); there exists a
+structural trade deficit, and a persistent current account deficit. As is the case with other import
+dependent economics, FSM is highly vulnerable to global economic shocks and price spikes.
+
+9
+
+Stocktaking of the Gender Mainstreaming Capacity of the Pacific Island Governments – Federated States of
+Micronesia, Secretariat of the Pacific Community, 2012.
+10
+None of the 14 seats of the FSM National Congress has ever been filled by a woman. Currently there are three
+female national cabinet members. At the state level, there is one woman cabinet member in Chuuk, two in Pohnpei,
+two in Yap and none in Kosrae.
+11
+2010 Census.
+12
+SPC PRISM, Key FSM statistics indicators www.spc.int/prism/country/fm/stats/Key_stats.xls
+13
+Translating CEDAW into Law. CEDAW Legislative Compliance in Nine Pacific Island Countries (UNDP,
+UNIFEM), 2007
+14
+A Situational Analysis of Children, Women and Youth. UNICEF, 2004
+
+5
+
+16.
+FSM exports are heavily concentrated on fish, which accounts for around 70 percent of
+total exports. Annual licenses granted to foreign vessels for offshore fishing yield the main source of
+income. A small private sector is mainly engaged in non-traded goods production (subsistence and
+semi-commercial production), services based on government and payroll expenditures, and a small
+tourism sector. Structural problems such as a difficult business environment have hindered private
+sector development. Outmigration to U.S. territories and mainland, under the migration provisions of
+the Compact of Free Association partly reflects a stagnant economy with limited job opportunities.
+17.
+FSM is heavily dependent on aid, primarily through the Compact, to meet both recurrent
+and development financing needs. Since 1986, the Compact has provided large external financial
+transfers to support the GoFSM in delivering key services and substantial public sector investment at
+the State level. (See Box 1 for more information on the Compact). In addition to receiving Compact
+sector grants, FSM is eligible to receive U.S. federal grants (~6½ percent of GDP) and special
+education grants (~3½ percent of GDP) from the U.S. that will likely continue after the end of the
+Compact period. Development assistance from other multilateral and bilateral donors accounts for
+up to an additional 10 percent of GDP.
+Box 1: Compact of Free Association Financing
+The Compact provides U.S. support for a 20-year period that began in FY2004. Under the Compact, FSM receives two
+streams of funds – Compact Sector Grants and contributions to the CTF – that will total approximately US$2.1 billion over the
+20-year Compact period. While the Compact has no specified termination date, the annual fiscal transfers will cease in 2023 to
+be replaced by disbursements from the CTF from 2024. Eligibility for federal programs, the provision of U.S. services and the
+open migration provision will continue beyond 2023.
+Under the Compact, FSM receives payments of US$92.7 million per year, with annual partial adjustments for inflation. During
+the first year of the amended Compact, US$76.2 million were provided as sector grants, US$0.5 million to finance an annual
+audit, and US$16.0 million as contributions into the CTF. The level of contributions to the CTF increases on an annual basis,
+offset by declines in Compact Sector Grant funding. Figure 1 shows the U.S. Compact grants before (partial) adjustment for
+inflation and Figure 2 shows projected amounts including partial adjustments for inflation.
+Figure 1: US Compact Grants (US$m, 2004)
+
+Figure 2: US Compact Grant (US$m, Nominal)
+
+120
+
+120
+
+100
+
+100
+
+Trust Fund
+contributions
+
+80
+
+Trust Fund
+contributions
+
+80
+
+60
+
+60
+
+2023
+
+2022
+
+2021
+
+2020
+
+2019
+
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+2013
+
+2012
+
+2011
+
+2010
+
+2009
+
+2008
+
+2007
+
+2006
+
+2004
+
+2023
+
+2022
+
+2020
+2021
+
+2018
+2019
+
+2017
+
+2015
+2016
+
+2013
+2014
+
+2012
+
+2010
+2011
+
+0
+
+2008
+2009
+
+0
+
+2007
+
+20
+
+2005
+2006
+
+20
+
+2004
+
+Sectoral
+grants
+
+40
+
+Sectoral
+grants
+
+2005
+
+40
+
+Around 70 percent of Compact Sector Grants provide funding for operational (recurrent) expenses in the sectors of education,
+health care, private sector development, the environment, public sector capacity building, and enhancing reporting and
+accountability. Of this amount around 85 percent is earmarked for the health and education sectors alone. The remaining 30
+percent of Compact Sector Grants provide funding for capital expenditures in public infrastructure, with around three quarters
+earmarked for the education and health sectors.
+The CTF aims to accumulate sufficient funds to become a permanent income-generating fund. Income from the CTF should
+complement domestic revenues from 2024 onward, and replace the existing Compact Sector Grants; thus advancing economic
+self-reliance. Projections of the evolution of the CTF, with conservative assumptions on expected returns, suggest that the
+income from the CTF in 2024 and subsequent years will be below the projected value of Compact Sector Grants in 2024.
+The USDoI has the fiduciary responsibility for the approval and implementation of the Compact Sector Grants, through the
+Joint Economic Management Committee (JEMCO). The JEMCO members consist of three representatives from the U.S. and
+two from the FSM, and decisions are reached on a majority basis.
+
+6
+
+Economic Developments
+
+18.
+Growth is largely driven by public sector activities and correlates with the availability of
+grants. The public sector plays a dominant role in the economy, but its significance is diminishing.
+Government expenditures have declined as a share of GDP from 77 percent in 1995 to 65 percent in
+2012. Since the introduction of the amended Compact in 2004, FSM has experienced two distinct
+periods of economic activity. In the first phase (FY2004 – FY2008), GDP declined by an annual
+average of 1.2 percent. The reduction in resources from the original Compact, capacity constraints in
+fulfilling the new fiscal procedures - especially with respect to infrastructure grant implementation and the need to transition from the use of the capacity-building sector grants for general government
+operations to sector specific grants, created complexities for economic management. This also partly
+coincided with a period of high fuel and food prices. In a second phase (FY2009 – FY2012), the FSM
+economy expanded by an annual average of 1.5 percent. Growth was driven by improved utilization
+of the amended Compact grants15, USFAA funded airport renovation, and growth of the fishery
+sector. Growth is estimated at 0.6 percent in the medium term driven by continued growth in the
+fisheries sector, which is offset by contractions in the construction sector associated with the winding
+down of the USFAA airport project.
+19.
+A sharp increase in inflation resulting from commodity price shocks resulted in lower real
+income. The annual average inflation rate peaked at 8.3 percent in FY2008 before declining to 4.7
+percent in FY2012 as food and fuel prices were contained. Inflation is expected to moderate to less
+than two percent in the medium term. Three quarters of inflation is imported. Food represents 37.1
+percent of the consumer price index basket while utilities represent 9.3 percent. Increases in imported
+food prices in FY2008 and again to a lesser extent in FY2012 contributed to jumps in inflation.
+Rising utility prices at the start of the amended Compact due to the loss of the energy sector grants
+and surges in world petroleum prices in FY2008 and FY2011 also contributed to escalations in
+inflation. Given anemic growth, inflationary pressures and reductions to grants (in real terms), gross
+national disposable income (2004 dollars) fell slightly from US$3,282 in 2004 to US$3,263 in 2012.
+20.
+The current account deficit narrowed in recent years on the back of strong fishing exports.
+The current account deficit narrowed from a peak of 18.3 percent of GDP in FY2009 during the
+global food and fuel crisis to 12 percent of GDP in FY2012 and is expected to remain under 10
+percent of GDP in the medium term. Strong fish exports and licensing fees in recent years
+contributed to the decline in the trade deficit and rising primary income. This is partly offset by an
+increase in imports driven by construction materials and fuel. Visitor arrivals declined significantly
+in FY2011 and FY2012 to 20 percent below the FY2009 peak. Net remittance outflow is increasing
+i.e. FSM citizens are sending more money overseas than they are receiving, and was equivalent to
+around three percent of GDP in FY2012.16 The current account deficit is largely financed by the
+15
+
+The U.S. Compact sector grants allocation for infrastructure can be used across years. The unused balance of
+already allocated Compact funds for infrastructure was close to US$90 million at the end of FY2012, due largely to
+poor utilization rates in the initial years of the amended Compact.
+16
+A number of factors can potentially explain these net remittance outflows from FSM. Gross outflows potentially
+include a significant amount of money used for overseas purchases by migrants taking advantage of lower overseas
+prices, which are then brought to FSM and thus increase welfare at the household level. The distributional impacts
+of net-remittance outflows have not been studied. However, it is likely that better off households are those able to
+send funds overseas either for direct imports, or support for persons taking advantage of overseas educational
+opportunities, while poorer households are more likely to benefit from remittance inflows from relatives that are
+able to take advantage of overseas employment opportunities.
+
+7
+
+inflow of official transfers (Compact and other grants). Gross public debt is relatively low at $87.4
+million (below 30 percent of GDP) in FY2012, mostly owed to the Asian Development Bank (ADB)
+on concessional terms.
+
+21.
+FSM was hit hard by the Global Financial Crisis (GFC) through its financial asset
+holdings in the CTF, but has since started to recover. The government’s financial asset holdings in
+the CTF exposed FSM to the crisis in the international financial markets. The assets of the CTF were
+largely invested in US$ denominated assets, with around 2/3 of the funds invested in growth assets
+with the remainder invested in defensive assets. The GFC resulted in a 17 percent loss to the capital
+value of the CTF. After the decline in market value by 16.6 percent in FY08 and 2.1 percent in
+FY09, the market value of the CTF recovered by 11 percent in FY10, declined by -0.4 percent in
+FY11 and experienced strong growth of 14.8 percent in FY12. The CTF is conservatively projected
+to grow by around six percent (nominal) per annum, and with US contributions, reach over US$460
+million in the medium term.
+22.
+The GoFSM responded to the GFC by increasing public expenditure, enabled by grants.
+With no monetary independence, a high level of import dependence and limited financial
+infrastructure, fiscal policy is the main tool for macroeconomic management. The GoFSM
+responded to this difficult period by increasing public expenditure for infrastructure projects,
+financed by grants. Public expenditure rose from 59 percent of GDP in 2008 to 64 and 67 percent of
+GDP in 2009 and 2010 respectively. This was largely driven by increases to capital expenditure
+which rose from nine percent of GDP in 2008 to over 16 and 20 percent of GDP in 2009 and 2010
+respectively, before tapering off in the subsequent years. Chuuk, the most populous state with the
+highest concentration17 of poverty saw a significant pick up in capital expenditure.
+23.
+The FSM has been registering small fiscal surpluses in recent years, which are used to
+boost the government’s reserve assets. While the consolidated tax revenue remains at approximately
+11–12 percent of GDP, non-tax revenue increased by two percent of GDP in FY2012 and again in
+FY2013 on account of strong growth in fishing license fees paid by foreign vessels. In the medium
+term fishing license fees as a share of GDP are expected to remain around the FY2013 level, without
+further investments in this sector. Grants are expected to moderate with the winding down of the
+USFAA airport project, although this is mirrored by lower expenditures. Together this is projected to
+result in surpluses reaching approximately four percent of GDP in the medium term.
+24.
+The aggregate fiscal outcome masks the large difference between the performances of the
+various governments. In FY2012, the national government’s domestic revenue continued to increase
+helped by strong growth in fishing licensing fees. However, the performance of the state
+governments varied – the Yap state government recorded a 5½ percent fiscal deficit, the Chuuk and
+Pohnpei state governments recorded small deficits of around 1-2 percent of local GDP, while the
+Kosrae state government achieved a small surplus. In addition, the net asset position of the state
+governments vary – the Chuuk government has a large debt portfolio, while the Yap government has
+a large pool of external investments accumulated during the original Compact.
+
+17
+
+Chuuk has approximately 45 percent of all households in FSM and over 50 percent of all households that fall
+below the poverty line.
+
+8
+
+Table 1: 2012 FSM Government Finances (US$M, FY2012)
+
+(US$ millions)
+Revenue
+Tax revenue
+Grants
+Compact
+US Federal Programs and other US
+Other
+Other revenue
+
+National
+118.9
+16.0
+71.5
+30.2
+41.3
+0.0
+31.5
+
+Chuuk
+34.3
+6.7
+26.0
+26.0
+1.6
+
+Kosrae
+10.8
+1.9
+8.3
+7.9
+0.1
+0.3
+0.6
+
+Pohnpei
+32.4
+9.9
+21.4
+18.5
+2.8
+0.1
+1.1
+
+Yap
+19.6
+3.5
+14.3
+10.9
+2.7
+0.7
+1.9
+
+FSM
+215.2
+38.0
+140.6
+93.8
+46.6
+0.2
+36.6
+
+Expense
+Compensation of employees
+Purchase of goods & services
+Other expense
+
+-49.5
+-18.3
+-24.1
+-7.0
+
+-32.6
+-17.3
+-13.7
+-1.5
+
+-10.5
+-5.2
+-4.5
+-0.8
+
+-33.0
+-18.4
+-11.2
+-3.4
+
+-19.2
+-8.9
+-7.7
+-2.5
+
+-144.8
+-68.3
+-61.3
+-15.2
+
+Capital expenditure
+
+-61.5
+
+-2.8
+
+0.0
+
+-1.0
+
+-3.5
+
+-67.9
+
+8.0
+n.a.
+
+-1.1
+-1.2
+
+0.3
+1.2
+
+-1.6
+-1.1
+
+-3.1
+-5.4
+
+2.5
+0.8
+
+Overall fiscal balance
+(percent of GDP)
+Source: Most recent data provided by FSM authorities.
+
+Economic Outlook and Debt Sustainability
+
+25.
+FSM faces challenges in securing economic growth and sustainability in the medium to
+long term. Growth is expected to remain below one percent in the medium term and the scheduled
+expiry of Compact sector grants in FY2023 poses a major challenge to the economy. In the short to
+medium term, declining public sector demand from Compact Sector grant reduction is expected to
+drag on economic growth with limited private sector growth not expected to fully offset this effect remoteness from major markets and the small scale of the economy makes it costly to operate
+difficult to attract foreign investors and retain skilled workers. In turn, this could limit the
+government’s ability to provide services to its citizens and affect negatively the living standards of
+the FSM population.
+26.
+In the longer term, the CTF is not expected to accumulate sufficient funds to be able to
+generate the same level of income to fully replace the Compact sector grants18. Without an
+adjustment plan, the government would then be forced to either sharply tighten the budget or rapidly
+deplete its accumulated savings. In the absence of monetary policy and the large fiscal adjustment
+needed over the medium to long term, the authorities will also have limited policy space to respond
+to external shocks.
+
+18
+
+The International Monetary Fund estimates that a gradual increase of the fiscal surplus to around 6.5 percent of
+GDP over the medium term and maintaining it through FY2023, combined with growth-enhancing reforms, will
+ensure budgetary self-sufficiency after FY2023. However, under the business as usual scenario, during the
+drawdown phase beginning FY2024, investment income would be about 15-20 percent below that of the expiring
+Compact sector grants in FY2024.
+
+9
+
+Figure 3: Estimated evolution of CTF value through FY2023
+
+Note: The target balance estimate is defined as the size the CTF would need to achieve by the end of FY2023 in order to
+support a smooth and sustainable transition from the US annual sector grants in FY2023 to annual CTF distributions in
+FY2024. This is calculated based on the scheduled contributions to the CTF and assuming a constant return. The projected
+balance estimate reflects the actual evolution of the CTF balance up to 2013, and projected CTF balance profile based on the
+2013 actual. This is calculated based on the scheduled contributions to the CTF and assuming two levels of return as shown in
+the legend.
+
+27.
+U.S. assistance is focused primarily on supporting the health and education sectors.
+Around 70 percent of Compact Sector Grants are spent on the health and education sectors. In
+FY2011, education sector compact and supplemental education grant funds together constituted
+about 85 percent of total education expenditures, and health sector compact funds constituted about
+66 percent of total health expenditures. Other non-Compact U.S. grants represented an additional 10
+percent of the education expenditures and 25 percent of health expenditures in FY2011. Given their
+heavy reliance on Compact Sector Grants, FSM may not be able to sustain the level of services in the
+education and health sectors made possible by these grants when the transition to financing from
+CTF occurs in 2023. In order to avoid an adverse impact on the poor, expenditure adjustments
+should seek to achieve efficiency gains without reducing the quality of and access to basic social
+services by the poor.
+28.
+The 2012 Debt Sustainability Analysis found the FSM to be at a high risk of debt distress,
+though additional grants could help contain debt risks while ensuring the country’s development
+needs are met. Although FSM’s public and publicly guaranteed (PPG) debt stock is currently
+relatively low, the main risk to long-term debt sustainability stems from the planned cessation of
+Compact grant funding. Under a baseline scenario, external PPG debt trajectory breaches indicative
+policy dependent thresholds in the outer years for a protracted period, as investment returns from the
+CTF are insufficient to meet development financing needs. Stress tests confirmed the vulnerability of
+FSM’s debt position to deteriorating macroeconomic conditions, although the external financing gap
+could be significantly reduced through fiscal adjustment and structural reforms supporting growth.
+Additional grants could help contain debt risks while ensuring the country’s development needs are
+met.
+
+10
+
+29.
+Significant fiscal and economic adjustments are required in order to prevent major
+disruptions to public service provision and a worsening of the living standards of the population
+and increases in poverty rates. Compact sector grants are scheduled to decline annually until 2023,
+by about two percent in real terms per year. In addition, even though annual U.S. contributions to the
+CTF are scheduled to increase by the same amount as Compact sector grants decline, under realistic
+assumptions on the rate of return earned by the CTF, the revenue stream from the CTF is projected to
+be about 15-20 percent below the level of Compact sector grants in 2023. An adjustment strategy
+needs thus to include measures to: (i) reduce public expenditures to a sustainable level with any
+medium term surpluses boosting the CTF balance; (ii) increase non-Compact grant revenue sources,
+both domestic and external; and (iii) foster economic growth in order to broaden the revenue base.
+Towards this end, the government could support private sector growth by accelerating infrastructure
+investments and providing a more business-conducive environment, in order to offset at least part of
+the funding shortfall.
+30.
+Recognizing this, the GoFSM is developing a plan to address medium term economic
+challenges and improve macroeconomic sustainability. Half way through the Compact period,
+GoFSM recognized the need to better plan for the scheduled end of the Compact Sector Grant
+funding, and to do so in a sustainable manner so as to not threaten service delivery. The GoFSM has
+established the “2023 Planning Committee”19 to oversee the planning process.
+31.
+On the expenditure side, the four states of FSM have developed and started to implement
+the Long Term Fiscal Frameworks (LTFFs). The states’ plans, completed in 2012 and early 2013,
+detail the proposed expenditure cuts across sector budgets intended to offset the annual compact
+decreases. Absent additional revenues, proposed cuts are to be implemented in 2014, 2017, and
+2020. Although an LTFF was not developed by the FSM National Government, it has focused
+instead on shifting its sector operating costs, such as for the College of Micronesia, to the
+government’s own funds in order to free up compact funds for priorities in the education and health
+sectors. The FSM national government is also considering improved revenue sharing with the states
+(particularly of fishing revenues). The first reduction of expenditures is starting to be reflected in the
+2014 budget. A major concern is the quality of the required expenditure adjustments in order to
+ensure that expenditure reductions do not unduly affect service delivery to the poor.
+32.
+On the revenue side, the GoFSM has identified a package of reforms although progress is
+uneven. Reforms of the tax systems could increase the revenue to GDP ratio by an estimated four
+percentage points20. However, implementation of these revenue measures requires adoption by all
+four states, two of which have to date withheld the approval. With respect to external resources, the
+authorities have adopted an aid policy which should help to mobilize additional external resources
+and ensure their effective use. In terms of economic reforms that would broaden the tax base and
+would help to create employment in the private sector which could offset job losses in the public
+sector, the authorities have recently identified a set of reforms to improve the investment climate.
+33.
+Strengthening economic infrastructure and improving the investment climate are central
+to fostering economic growth and protecting service delivery as FSM prepares for the 2023
+transition. The U.S. supported upgrading of airports is nearing completion. Investments and policy
+reforms to enhance Information and Communication Technology (ICT), energy, and transport
+infrastructure are important government priorities. With the support of IFC, FSM developed in 2013
+19
+
+The 2023 Planning Committee draws its members from the executive leadership of the FSM National and four
+state Governments.
+20
+FSM 2012 IMF Article IV Consultation. IMF Country Report No. 13/16.
+
+11
+
+an action plan to facilitate investment in FSM, focusing on improving the business climate,
+enhancing the financial literacy of the private sector as well as the confidence of financial institutions
+to lend to the private sector, with the ultimate objective of achieving economic growth and
+sustainable development. Focus areas of the action plan include (i) investment facilitation through
+enhancing harmonization and predictability of foreign investment regimes in FSM, enhancing
+investor protection, enhancing the use of land and protection of land owners and investors, enhancing
+transparency and streamlining the process of starting a business in FSM, and (ii) investment
+promotion through the development of new approaches to investment promotion, strengthening the
+Small Business Development Centers Network, enhancing the knowledge of the FSM private sector
+with a view to designing specific support programs, and enhancing engagement with FSM citizens
+overseas.
+Poverty Context
+
+34.
+Poverty data for FSM are sparse, and during the CPS period the Bank will support the
+GoFSM to strengthen its knowledge base and data on the poverty situation in FSM. The 2008
+poverty analysis was undertaken based on the 2005 Household Income and Expenditure Survey
+(HIES). The previous poverty analysis was completed in 1998. An HIES is being compiled in 2014,
+with a poverty analysis scheduled to follow in 2015, and the Bank has been requested to provide
+support to the GoFSM statistics office in coordination and partnership with the Secretariat of the
+Pacific Community (SPC). The lack of up-to-date data and inconsistent methodologies constrain the
+ability to evaluate progress towards the goals of ending extreme poverty and promoting shared
+prosperity. Two basic measures of poverty are used in the analysis – food poverty and basic needs
+poverty, which are described in Box 2.
+
+Box 2: FSM Poverty Measurement
+Poverty in FSM is measured based on the 2005 household income and expenditure survey. The poverty
+analysis distinguishes between food poverty and basic needs poverty, and constructs poverty lines for
+these at the national and the state level. Poverty estimates using the international US$1.25 poverty line
+require reliable estimates of purchasing power parity. At present, no reliable purchasing power parity
+GDP estimates are available and thus construction of the US$1.25 poverty line is not feasible.21
+Food poverty measures the ability of people to meet basic calorie needs (2100 calories/day) and is based
+on actual food expenditure patterns recorded in households in the lowest four deciles of expenditure for
+each state measured in per capita adult equivalent terms. Food poverty is an analogous measure of
+extreme poverty.
+Basic needs poverty is a relative measure and includes an allowance for essential non-food expenditure.
+The calculation of the basic needs poverty lines for FSM and the four states is based on expenditure
+incurred by households in the lowest three deciles. Basic needs poverty lines do not necessarily represent
+the same level of wellbeing across states.
+
+21
+
+Purchasing power parity estimates are based on the work of the International Comparison Project which estimates
+purchasing power parity (PPP) GDP numbers at regular intervals. The previous round of estimates was carried out in
+2005 and covered 107 countries, but did not include FSM. For countries not included in the 2005 round, estimates
+of PPP can be obtained through cross country regressions. However, due to data constraints such estimates are not
+considered to be reliable for most PICs. FSM was included in the 2011 round of the measurement of PPP GDP
+estimates, but data have not yet been published. Going forward, once reliable PPP data for FSM become available,
+poverty estimates based on the US$1.25 international poverty line can also be prepared.
+
+12
+
+35.
+The extent of extreme poverty is relatively low in FSM, while basic needs poverty is
+more widespread. The poor are more concentrated in the most populous state of Chuuk,
+although overall levels of inequality are relatively low. According to the 2008 poverty
+assessment, 11 percent of the population suffered from food poverty, while 29.9 percent of the
+population suffered from basic needs poverty. The opportunities for income generation are
+limited, especially in the rural parts of the country. With the stagnation of real income since
+2005 and the onset of several global crises, poverty may well have worsened since 2005. There
+are many challenges facing the poor, but especially the need for income and access to basic
+services. To better enable the poor to meet these challenges, priority interventions to improve
+basic service delivery and enhance the business environment to facilitate private sector
+participation and job creation are key to reducing poverty and fostering shared prosperity.
+Chuuk has a higher proportion of the low-expenditure households than its share of the
+36.
+total number of households and is over-represented amongst those below the poverty line. On the
+other hand, the proportion of poor households in Yap, Pohnpei and Kosrae is under or in line with
+these states’ share of the total number of households. Poverty in FSM, unlike some other Pacific
+islands, is not clearly distinguished by whether an individual resides in the state hub or on the outer
+islands.
+
+Figure 4: Basic Needs Poverty by Households
+and Population22
+
+Figure 5: Location of the Lowest Expenditure
+Household23
+
+37.
+Levels of inequality are relatively low and improving. At the national level, inequality as
+measured by the Gini coefficient24 declined to 0.27 in 2005, and compares favorably to Fiji, the
+largest Pacific island state for example, where the Gini coefficient is estimated at 0.43. The richest
+quintile consumed 5.9 times more than the poorest quintile in 2005. The share of consumption by the
+poorest 40 percent of households nationally was 22.3 percent, compared to 16.0 percent in Fiji.
+
+22
+
+2008 Poverty Analysis
+IBID
+24
+A Gini coefficient is a statistical measure that can be used to measure income inequality. Gini coefficients are
+scored from zero to one, with a score closer to zero indicating a society with little income inequality, and a score
+closer to one indicating a society with significant income inequality.
+23
+
+13
+
+38.
+Those living in rural areas are able to provide a high proportion of their daily food needs
+from subsistence production; however, their ability to generate cash income for non-food basic
+needs is often very limited. In Chuuk and Yap, subsistence production accounts for two-thirds and
+three-quarters, respectively, of food consumed by the poorest households. In comparison, in Kosrae
+subsistence production accounts for just over one-third of food consumed by those in the bottom
+thirty percent of households. Although the need for non-food expenditure in rural areas may be low
+due to a lack of access to services25, limited income earning opportunities and the increasing
+monetization of the economy mean that those without regular cash incomes are especially vulnerable.
+Those living in urban areas on the other hand are subject to lower levels of food security. The
+working poor (especially those engaged in small private businesses where hourly rates are low) will
+often have income that is insufficient to meet all the basic needs of their family given higher costs
+associated with urban living.
+39.
+Many of the poorest households in FSM live in low-quality housing without proper access
+to water, sanitation and basic social services. At the national level only 19.5 percent of households
+in the bottom four deciles (bottom 40 percent) had any sort of access to a public water system or
+cistern. This compared with 45.1 percent of households in the top four deciles. Similarly, only 10.1
+percent of the poorest households have access to a flush toilet compared to 38.9 percent for the
+richest households. Households in the poorer regions are also more disadvantaged in accessing
+quality health and education services. Although there are many school buildings in Chuuk, for
+example, the quality of education is of particular concern given limited educational materials,
+numbers of qualified teachers, and difficulty reaching the school because of remoteness, and/or
+undependable transport service for the students. Similarly, Chuuk has one main hospital and a
+number of dispensaries on the outer islands. Given the remoteness of some of these islands, access to
+the main hospital can be particularly difficult, a fact exacerbated by the irregular operations of the
+dispensaries.
+
+Figure 6: Source of Income
+
+Figure 7: Access to Water
+
+25
+
+Many rural or small-island based households will not have power, water or communications bills to pay and will
+often spend less on transport and housing costs.
+
+14
+
+40.
+Households may be facing increased hardship since 2005, given limited income generating
+opportunities. Gross National Disposable Income (GNDI) (2004 dollars) per capita has remained
+stagnant since 2005, at about US$3,300. With the rise of commodity prices since 2005, poverty
+levels are likely to have increased26. Declining formal sector employment opportunities domestically
+(associated with the government’s reduction in force and wage freeze) and overseas employment
+opportunities in the U.S. since the GFC are also expected to have had an adverse effect on the living
+standards of the people of FSM since 200527.
+
+Figure 8: Real GNDI per capita US$ (2004)
+
+3,282
+
+2004
+
+3,461
+
+2005
+
+Figure 9: Income / Consumption Distribution
+
+3,321 3,251
+3,198 3,237 3,288 3,257 3,263
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+41.
+The causes of hardship and poverty center on the need for income and a reasonable
+standard of basic services, compounded by vulnerability to external shocks. As in many other
+PICs, FSM suffers from poverty of opportunity. According to ADB’s 2004 participatory assessment
+of hardship28, the top priorities expressed by the citizens of FSM surveyed were to increase access to
+income generation opportunities and to improve basic services, infrastructure, and access to
+information. According to the HIES, lack of employment is often a primary cause of households
+experiencing hardship and poverty. In the wealthier households, the proportion without an employed
+person is 11.7 percent compared to 22.1 percent in the poorer households. Those in wealthier
+households are also more likely to receive income from the formal sector29. Higher levels of
+education reduce the likelihood of being poor while the gender of the head of household appears to
+play a relatively small role in determining the likelihood of being poor in FSM. Access to basic
+services is often constrained by cost and lack of availability. FSM is also highly vulnerable to
+adverse climate, commodity price, and financial trends and shocks. These factors create significant
+vulnerability to poverty.
+26
+
+The 2005 poverty analysis suggests that a 10 and 20 percent increase in the basic needs poverty line would result
+in an additional 4.8 percent and 9.1 percent of the population falling into poverty, respectively.
+27
+Nationally, formal sector employment contracted by an average rate of 0.6 percent per year between FY2005 FY2012, while formal sector employment in Chuuk contracted by an average rate of 2.1 percent per year for the
+same period.
+28
+Priorities of the People. Hardship in the Federated States of Micronesia. September 2004.
+29
+About 49 percent of households in the highest decile receive income from formal sector employment while only
+17 percent of households in the lowest decile receive income from formal sector employment.
+
+15
+
+42.
+Reducing extreme poverty and fostering shared prosperity in FSM requires: (i) expanding
+income opportunities for the poor; and (ii) enhancing service delivery over a period when there is
+likely to be public expenditure contraction in FSM. Due to a range of structural factors, especially
+FSM’s remoteness from major markets, the large internal distances between the states and islands
+that comprise FSM, and the small and dispersed population, the scope for expanding economic
+opportunities is limited. Measures that focus directly on improving the quality of life of the poor will
+thus remain central elements of reducing hardship in FSM in line with the WBG’s dual goals.
+43.
+Drawing on the poverty analysis, expanding income opportunities for the poor requires
+promoting subsistence farming including fisheries and agriculture, migration opportunities and
+tourism. Agriculture/fisheries provide the primary source of income and food security for the poor.
+Migration allows the poor to take advantage of opportunities from access to the U.S. and other labor
+markets. Tourism exploits FSM’s comparative advantage as a tropical island destination with
+attractive marine, cultural, and historic tourism assets, and has the potential to contribute to
+employment generation.
+44.
+Sustaining and enhancing the quality of life of the poor requires providing adequate
+access to basic services and infrastructure, and improving access to information. Enhancing the
+quality of life of the poor over time requires access to quality basic services, especially in education
+(which could also contribute to greater migration opportunities), health, energy and sanitation.
+Enhancing connectivity and communications could help provide essential services to people and
+reduce the negative impact on economic, social, and political participation from FSM’s remoteness
+and the geographical dispersion of the population.
+45.
+A major challenge in the pursuit of poverty reduction and shared prosperity in FSM is the
+steady decline in U.S. Compact Sector Grants to FSM and the transition to financing from the
+CTF in 2023, funding from which is currently projected to be below that of the Compact Sector
+Grants. FSM is also vulnerable to external economic shocks and natural disasters, which tend to
+affect the poorest groups disproportionally since they have the most limited means to deal with
+external shocks. Implementation of a fiscal adjustment strategy that is designed to minimize
+hardship for the poor, and measures to enhance resilience to external economic shocks and natural
+disasters and mitigate their impact on the poor, are thus also essential to promote a reduction in
+extreme poverty and promote shared prosperity.
+III.
+
+THE GOVERNMENT’S DEVELOPMENT VISION
+
+46.
+The Government’s vision of achieving economic growth is detailed in the FSM Strategic
+Development Plan (SDP) 2004 – 2023. In 2003, FSM completed a 20-year SDP, an output of the
+Third FSM Economic Summit that reflected the inputs of over 400 participants representing a broad
+range of perspectives including government, traditional leaders, industry and civil society. The
+sustained growth strategy encapsulated in the plan focuses on six key areas including: (i) macroeconomic stability; (ii) good governance; (iii) developing an outward-oriented, private sector-led
+economy; (iv) investing in human resources (improved health and education services); (v) investing
+in infrastructure; and (vi) long-term environmental sustainability. The SDP recognizes the
+importance of women’s contributions to the future of FSM and has devoted an entire chapter to
+gender issues and related policy recommendations.
+
+16
+
+Box 3: Six Part Strategy for Transition and Accelerated Growth
+1. Macroeconomic Stability: Maintaining fiscal stability and responsibility through the initial transition period of
+the amended Compact; Maintaining essential public services and protecting the public investment program; and Tax
+reform in support of the growth strategy.
+2. Good Governance - Improving Effectiveness and Efficiency of Government: Protecting essential services
+through the transition; Improving public sector management; Enhancing accountability; and Ensuring the rule of law
+and safeguarding property rights.
+3. Developing an Outward-Oriented, Private Sector-Led Economy: Competition policy: improving the regulatory
+regime; Promoting domestic and foreign investment; Enhancing entrepreneurial skills and opportunities; and
+Reducing inefficiencies of the public enterprise sector.
+4. Investing in Human Resource Development: Protecting health expenditure levels and improving health
+outcomes; Health financing for the future; Protecting education expenditures and improving education outcomes;
+and Linking higher education and skills development to the needs of a growing economy.
+5. Investing in Infrastructure: Protecting investment levels through the transition; Learning from the past and
+targeting critical needs within the growth strategy, and Long-term financing of economic infrastructure.
+6. Long-Term Sustainability: Environmental concerns integrated into the growth strategy; Social and cultural
+factors protected during the growth strategy; Inter-generational equity supported by the Compact trust fund.
+
+47.
+To enhance the implementation of the SDP, the GoFSM hosted a Development Partners
+Meeting (DPM) in November, 2012 and a Symposium on Investment Facilitation in May, 2013.
+Both meetings had an objective to discuss and make recommendations on measures that would
+facilitate investment in the FSM with the ultimate objective of achieving economic growth and
+sustainable development. The GoFSM has sought development partner support across four broad
+areas: (i) growing the local economy (through enhancing agriculture production and the production
+of value added agriculture products, maximizing benefits of FSM’s fisheries resources, promoting
+tourism, developing clean, renewable energy sources; (ii) developing economic infrastructure,
+including transport, communications, and power; (iii) improving health and education services; and
+(iv) mainstreaming responses to climate change and mitigating threats to the environment.
+48.
+The Investment Symposium identified reforms to facilitate investment in the FSM. These
+focused on improving the business climate, enhancing the financial literacy of the private sector as
+well as the confidence of financial institutions to lend to the private sector, with the ultimate
+objective of achieving economic growth and sustainable development, as the country prepares for
+2023.
+IV.
+
+PARTNERSHIPS
+
+Donor engagement
+
+49.
+The depth of challenges facing FSM, including its small size, geographic isolation, and
+limited economic opportunities, suggest that it will remain dependent on assistance for the
+foreseeable future. In common with many small island states, FSM is heavily reliant on external
+assistance and on-budget grant income estimated to account for 43 percent of GDP.
+
+17
+
+50.
+As a new development partner in FSM, the WBG will draw upon the analytical work and
+operational experience of more established development partners to deepen the WBG’s
+understanding of the FSM context. The WBG has participated in the most recent International
+Monetary Fund (IMF) Article IV mission, and the proposed program has been shaped through
+consultations with the national and state governments of FSM, private sector firms and organizations,
+civil society, and development partners such as the ADB and the U.S.
+51.
+The U.S. is by far the largest development partner to FSM. While the U.S. Department of
+State maintains the bilateral relationship with the GoFSM, USDoI through JEMCO is responsible for
+disbursing and monitoring the Compact Sector Grants. USAID has no regular development program
+in the FSM, however it is the agency that will respond and provide relief assistance to disaster related
+events. Other main partners include ADB, Australia’s aid program, Japan, China, the European
+Union, the United Nations and regional bodies such as the SPC. Development partner programs are
+summarized in Annex 4.
+52.
+Although heavily dependent on aid, ongoing dialogue and coordination with development
+partners is weak but is being strengthened. The DPM was an important activity to establish the
+dialogue and facilitate better development outcomes. It represented a considerable change in
+approach for FSM, which since independence in 1986 has received the bulk of its support through the
+FSM-U.S. Compact. An Overseas Development Assistance (ODA) policy was approved by
+Congress in January, 2014. The purpose of the policy is to establish approaches to managing ODA
+such that benefits are maximized for all stakeholders. The policy acknowledges, recognizes and
+respects the unique circumstances of each state but also seeks commonalities across FSM.
+Implementation of the policy will begin in 2014.
+V.
+
+WORLD BANK GROUP ENGAGEMENT
+
+53.
+The WBG continues to expand its programs and presence throughout its Pacific island
+member countries30. Both IDA and the IFC have been increasing their engagement in the Pacific
+significantly, including initiating systematic engagement with countries in the North Pacific31, where
+the WBG Bank has been less active historically. The expansion in the South Pacific has led to the
+establishment of country offices, joint ADB-WBG liaison offices, and increased operational
+programs and financing. With the scheduled end of the Compact Sector Grant financing, FSM is
+seeking assistance from a broad range of donors, and is interested in both Technical Assistance (TA)
+and financing from the WBG. In addition to global knowledge and financing, the WBG brings
+considerable experience from other Pacific island contexts to FSM.
+54.
+The WBG engagement in the Pacific has focused broadly on four overarching themes: (i)
+strengthening regional and global integration; (ii) building resilience to external shocks; (iii)
+encouraging economic reform and private sector development; and (iv) improving health, education
+and social services. This CPS is informed by these themes as well as the extensive consultations that
+were undertaken throughout FSM.
+
+30
+
+Fiji, Federated States of Micronesia, Kiribati, Palau, the Republic of the Marshall Islands, Palau, Papua New
+Guinea, Samoa, Solomon Islands, the Kingdom of Tonga, Tuvalu and Vanuatu
+31
+Federated States of Micronesia, Palau and the Republic of the Marshall Islands
+
+18
+
+Box 4: CPS Consultation Process
+An extensive consultation process was undertaken over the course of almost 12 months. In addition to
+holding discussions with the national government, the WBG team travelled to each of the four states for
+consultations. In each state, discussions were held with each governor/lieutenant governor and other
+state government officials. At the national and state level, the team met with NGO representatives;
+development partners including ADB, Australia, China, Japan, US, SPC; private sector representatives
+and organizations, including state and national Chambers of Commerce; and other civil society groups
+such as the women’s councils. As part of its outreach, the Bank team provided information to all
+stakeholders on the WBG including how it partners with governments, the purpose of a CPS, the
+available financing for FSM, and the various instruments and services available through the WBG.
+
+55.
+FSM’s strategy for sustained growth is aligned with the WBG’s twin goals of eliminating
+extreme poverty by 2030 and encouraging shared prosperity, especially for the bottom 40 percent
+of the population. Pursing the goals of poverty reduction and shared prosperity in FSM – in line
+with the government’s own objectives – will mean finding new opportunities for revenue generation
+and growth to create jobs and provide benefits that are equitable. It will also require that
+expenditures are effectively managed in order to ensure that essential services reach a wide section of
+the population, with a focus upon the poor and underserved. Underpinning this approach is the need
+to build a stronger analytical and evidence base of poverty within FSM so as to best target resources
+to addressing particular needs.
+56.
+Program implementation will be extremely difficult in FSM for three main reasons: (i)
+FSM’s geographically dispersed population; (ii) the federal structure which leads to protracted
+decision-making across the state and national governments; and (iii) the Bank being a new
+development partner. For these reasons, the WBG program will be focused and selective. The
+WBG program will take into account the WBG’s global knowledge as well as its experience in other
+PICs, the limited WBG resources available, the thin institutional capacity available on the ground for
+program implementation, and the role of other, more experienced, development partners.
+Consideration will also be given to sensibly phasing project implementation and centralizing some
+administrative and fiduciary skills to maximize the potential for effective implementation.
+57.
+Gender will be considered a cross cutting theme and will be integrated into project designs,
+by incorporating gender disaggregated data in monitoring and evaluation for projects, targeting
+designs to benefit women and ensuring consultation processes are inclusive of all groups in the
+community. The World Bank will also develop a Country Gender Action Plan (CGAP) during the
+CPS period. The CGAP will draw on the poverty/gender disaggregated analysis (being supported by
+the Bank), as well as the family Health and Safety Survey and the updated CEDAW report, which are
+both being undertaken by the GoFSM with the support of the UN. Climate resilience and disaster
+preparedness will also be integrated into project design where relevant.
+Areas of Engagement
+
+58.
+The CPS consultations and analysis undertaken highlight that causes of poverty and
+hardship include limited income generating opportunities, and the high costs and poor availability
+of basic services. The WBG program aims to help alleviate the two main drivers of poverty and
+
+19
+
+hardship through the two overarching themes of: (i) Strengthening the enabling environment for
+private sector development to help sustain growth; and (ii) Promoting a sustainable medium term
+fiscal situation to sustain service delivery, especially basic service delivery, which is heavily relied
+on by the poor. The WBG’s proposed program aims to support GoFSM’s six SDP goals, as well as
+four of the seven strategic goals32 of the SDP gender recommendations.
+
+59.
+The program is also designed to help FSM reduce fragility stresses by: (i) increasing
+income generating opportunities; (ii) reducing its dependence on external financing; (iii) preparing
+for the impacts of natural hazards and the effects of climate change; and (iv) supporting infrastructure
+to help manage the challenges of isolation. The alignment of the WBG program with FSM’s own
+strategy is presented in Annex 5 and in the Results Framework.
+Figure 10: Poverty Diagnostic and the Proposed Country Program
+Sources of Poverty Data
+
+ 2005 HIES
+ 2004 Participatory Assessment of
+Hardship (ADB)
+ Forthcoming 2014 HIES
+
+Key Constraints
+to Poverty
+Alleviation
+Lack of Income
+Opportunities
+• Unfavorable Business
+Environment
+• Shocks ‐Natural
+Hazards/CC
+• Limited Tourism
+• Small Size and
+Remoteness
+• Lack of ICT
+• Lack of Energy
+• Lack of Transportation
+
+Lack of Access to Basic
+Services
+Key Issues
+• Public Expenditure
+Contraction
+• Quality of Expenditure
+• Models of Service
+Delivery
+Key Sectors
+• Health
+• Education
+• ICT
+• Energy
+• Water & Sanitation
+(WSS)
+• Transportation
+
+Key Opportunities
+for Poverty
+Alleviation
+Enablers of Income
+Opportunities
+Sources of Jobs
+• Fisheries/Agriculture
+• Tourism
+• Migration
+Business Environment
+• ICT
+• DRM/CC
+• Land, Sea and Air
+Transport
+• Energy
+
+Enablers of Basic
+Services
+Sources of Govt. Income
+• Fisheries Royalties
+Sector Reform and
+Financing
+• Health
+• Education
+• Energy
+• ICT
+• Transportation
+
+FSM Strategic
+Development
+Plan
+
+Development
+Partners
+Income Opportunities
+
+• Macroeconomic
+Stability
+• Good Governance:
+Improving
+Effectiveness and
+Efficiency of Govt.
+
+Aviation (US)
+Ports (ADB)
+Shipping (Japan)
+Tourism (ADB)
+DRM & Relief/CCA
+(IOM, USAID, SPC, UN)
+• Agriculture Technical
+Program (China)
+•
+•
+•
+•
+•
+
+• Developing an
+Outward‐Oriented,
+Private Sector‐Led
+Economy
+• Investing in Human
+Resource
+Development
+(Education and
+Health)
+• Investing in
+Infrastructure
+• Long‐Term
+Sustainability
+
+WBG Program
+
+Income Opportunities
+Sources of Jobs
+• Fisheries (R*) (WB*,
+IFC*)
+Business Environment
+• Energy (WB, IFC)
+• ICT (R) (WB, IFC)
+• DRM/CC (R) (WB)
+• Investment Climate
+(IFC)
+• Maritime and Aviation
+Studies (R, WB)
+
+Basic Services
+
+Basic Services
+
+Health (US, Japan)
+Education (US, Japan)
+Energy (ADB)
+WSS (ADB)
+Renewable Energy
+(EU/SPC)
+• Infrastructure (China)
+• 2023 Transition
+Support (ADB, Japan)
+
+Sources of Govt. Income
+• Fisheries Royalties (R)
+(WB)
+
+•
+•
+•
+•
+•
+
+Sector Reform and
+Financing
+• ICT (R) (WB, IFC)
+• Energy (WB, IFC)
+• PER (WB)
+• Poverty Analytics (R)
+(WB)
+• 2023 Transition
+Support (WB)
+
+*R = FSM component of a regional activity *WB = Areas in which the WB is proposing or exploring activities under the CPS *IFC Areas in which the IFC is proposing or exploring activities under the CPS
+
+32
+
+The four gender strategic goals that the CPS contributes to include: Enhance and promote the cultural, economic,
+legal, political and social development of women and children throughout their life cycles; Enhance the leadership
+capacity and roles of women; Mainstream gender issues into decision making, polices and strategic development
+plans and Maximize women’s contribution to and participation in democratic and development processes by
+creating opportunities for women’s active involvement.
+
+20
+
+60.
+The program is selective and informed by the key constraints to poverty alleviation
+identified by the 2004 HIES as well as ADB’s participatory assessment of hardship (2005) which
+have been filtered to prioritize areas not already covered by other development partners as shown
+in figure 10. Moreover, in FY15, the WB would support the GoFSM with the analysis of the FY14
+HIES which could then be used to support the poverty-informed design of later lending operations.
+IFC’s program would build out selectively from previous advisory activities around the business
+environment and would initially focus on the fisheries sector where there are good opportunities for
+WBG collaboration. The IDA-financed Energy Sector Development Project may later identify
+private sector investment opportunities in renewable energy sources which IFC would help to
+explore. Overall, the WBG program will entail a mix of financing and analytical work to support the
+overarching goals identified above, taking into consideration its comparative advantage and its
+successful engagements elsewhere in the Pacific. The proposed CPS program aims to improve the
+necessary “infrastructure” to promote private sector investment, and to increase revenue and income
+generating opportunities, in order to promote shared prosperity. The program also focuses on
+helping GoFSM to protect and strengthen the delivery of basic services to the poor, particularly
+during a period of declining external funding. It is worth emphasizing that to manage the costs of
+engagement in as small and remote a location as FSM, the WBG will leverage existing and planned
+Pacific regional IDA programs (in fisheries, ICT, and DRM/CC) and regional AAA programs (in
+Maritime and Aviation Studies and Poverty Analytics) to the extent possible. The planned areas of
+engagement over the CPS period in FSM include:
+
+
+Improving electricity supply and efficiency while setting the stage to increase the use of
+renewable energy;
+
+
+
+Enhancing telecommunications access and affordability;
+
+
+
+Increasing fishing revenue while managing fisheries sustainably;
+
+
+
+Preparing for the 2023 Transition from Compact Sector Grants to funding from the CTF;
+
+
+
+Strengthening the investment climate; and
+
+
+
+Improving the management of the impact of climate change and natural hazards.
+
+61.
+The WBG will not engage substantially in the health, education, agriculture or tourism
+sectors, although there may be scope for the WBG to provide limited, targeted and complementary
+assistance. For instance, while the WBG will not actively engage in the agriculture sector it will
+support improving food security through a regional operation in the fisheries sector. The education
+and health sectors are priority sectors for the U.S., and the Bank will provide targeted assistance
+through the PER and technical assistance in sector planning to help FSM prepare for the 2023 post
+Compact Sector Grant environment. Indirectly the WBG investments in the ICT and energy sectors
+will also deliver benefits to the health and education sectors. For example, in the health sector,
+improved ICT has the potential to decrease costs and increase access to distant islands through, telemedicine and on line education. FSM may also benefit from the regional studies in maritime safety
+and aviation supply and linkages, which may complement ADB’s tourism diagnostic and enhance the
+knowledge base for FSM to develop its tourism sector.
+
+21
+
+The WBG program will have five outcome areas supporting the two themes.
+Theme 1: Strengthening the Enabling Environment for Private Sector Development
+Outcome 1: More efficient and reliable, electricity services
+
+62.
+Energy is an integral component of the SDP and in 2012 a National Energy Policy (NEP)
+was adopted. The WBG program will be aligned with these instruments and will support the GoFSM
+to increase the available power generation capacity and efficiency of electricity supply in the state
+power utilities by more than 20 percent and about seven percent respectively during the CPS period,
+benefitting electricity consumers by an improved and more efficient and reliable electricity supply,
+and eventually from more affordable and sustainable tariffs33.
+63.
+FSM is highly dependent on imported petroleum fuels, making the country highly
+vulnerable to petroleum price volatility and price shocks. FSM currently spends about US$40
+million annually in imported fuels, which represents more than 50 percent of the aggregate sectoral
+grants that the nation receives from the U.S. under the Compact agreement, and nearly 20 percent of
+nominal GDP, making energy a priority need and the most costly sector of FSM’s economy. About
+55 percent of all households in FSM are electrified in some way. Nonetheless, the rates vary widely
+between states, with Kosrae reaching an almost 100 percent electrification rate and Chuuk at only 26
+percent.
+64.
+Consumers will be the largest beneficiaries from lower and more stable energy prices. The
+project will improve the available power generation capacity through more efficient operations and
+hence decrease the dependency on imported fuel. This outcome will provide consumers with more
+stable power tariffs and the ability of households, including those headed by women, to redirect
+household budget to cover basic household needs, such as food and bus fares for school children.
+65.
+None of the utilities is able to generate enough revenue to support large-scale
+infrastructure maintenance and rehabilitation or new investments in conventional or renewable
+energy. Currently, tariffs cover basic operating and maintenance costs, but at different levels in each
+state. Electricity generation is almost completely based on fossil fuel. The utilities are considering
+investments in renewable energy, and potential sources34 have been identified at a basic level.
+Nonetheless, planning data and designs are not yet at the stage where investments can be made.
+Expansion in cleaner electricity provision can provide health benefits to those without electricity
+access whose basic energy demands are currently met through the use of kerosene and oil lamps (for
+lighting) and burning wood or coconut husks (for cooking). Health problems associated with a lack
+of electricity are present in FSM, including those caused by indoor air pollution, where it is estimated
+approximately 42 percent of FSMs total population is affected35.
+
+33
+
+Direct beneficiaries are estimated at 50,000 (50 percent of whom are female). Beneficiaries are calculated by the
+number of utility customers multiplied by four, which is the average number of household members as per the 2010
+census.
+34
+The potential of solar energy and hydropower (Pohnpei State) is particularly promising but there is also some
+promise in wind power, bio-fuel, methane gas, and tidal and wave energy.
+35
+Estimated using data from : Global Alliance for Clean Cookstoves:
+http://www.cleancookstoves.org/countries/asia/micronesia/html
+
+22
+
+66.
+The Energy Sector Development Project will finance the urgent replacement of old and
+inefficient diesel generation units in Yap, Kosrae, and Pohnpei, and will finance solar generating
+units and efficient street lighting in Chuuk. The more efficient diesel units will result in immediate
+fuel savings and reduced Green House Gas emissions while enhancing the reliability of electricity
+supply, especially for the poor who are least able to protect themselves against outages. The longer
+term goal of the project is to help FSM to develop master plans for the four states and the national
+government to move to renewable energy and energy efficiency projects. The two pronged approach
+will provide the necessary support to establish the foundations of a more environmentally and
+financially sustainable energy sector in FSM.
+67.
+The Energy Sector Development Project will focus on both short term and longer term
+needs. The project will: (i) improve the operating efficiency and planning of the energy sector,
+which will reduce expenditures on fossil fuels and enhance energy security; (ii) help FSM design a
+well-planned and costed approach to transition to renewables; and (iii) assist the utilities to
+proactively plan for increased electricity access in more remote areas thereby reaching those
+currently under served and experiencing hardship. A well-functioning electricity sector will also
+encourage private sector participation in the economy of FSM. Once specific investment
+opportunities in renewables have been identified and costed under the state-level energy master
+plans, IFC will evaluate private sector interest in developing them.
+Outcome 2: Improved access to and reduced costs of ICT services
+
+68.
+The GoFSM is committed to liberalizing the ICT sector and supporting the introduction of
+competition in order to stimulate additional investment. The GoFSM issued a new National
+Information and Communication Technology and Telecommunications Policy in September 2012,
+which proposed substantial changes to the structure of the ICT sector including liberalizing and
+introducing competition, with the goal of providing secure, efficient and affordable services to
+achieve equitable access to communications for all. The FSM Telecommunications ACT of 2014
+was enacted in March, 2014 by the FSM Congress in order to give effect to the Policy. It sets the
+stage for significant engagement of the WBG in this important, foundational sector, supporting core
+infrastructure investments and technical assistance. The telecommunications sector was also
+identified as a priority area in the recently held Investment Symposium and the DPM. The WBG
+program will support this priority sector by helping FSM to increase mobile phone and internet
+penetration rates to the population at a reduced cost.
+69.
+FSM faces a significant “digital divide”, which compounds the development challenges of
+this dispersed archipelagic nation. While access to basic telephony is slowly improving across the
+country, access to high-speed Internet and its associated value-added services is limited, costly and
+unevenly-distributed.
+70.
+Improved connectivity and lower communications costs are key to strengthening the
+enabling environment for private sector development and can contribute to decreasing government
+expenditures in key sectors such as health and education. Global data demonstrate that enhanced
+connectivity can improve the delivery of health and education services to remote communities
+(where the poor are often located), strengthen private sector development and reduce transaction
+costs for businesses, create new income generating opportunities, enhance governance and promote
+tourism. FSM has a large young population which needs meaningful jobs. Improved connectivity
+and access to online learning and training opportunities can contribute to better education outcomes.
+
+23
+
+71.
+Together with the WB and ADB, the governments of FSM and Palau are planning an
+FSM-Palau ICT Regional Connectivity Project which would finance investments in key
+telecommunications infrastructure to provide enhanced connectivity across all four states of FSM
+and to strengthen the regulatory environment. The project would be the second phase of a regional
+connectivity program that has improved access and reduced costs of telecommunications in several
+South Pacific countries. Project components would include: (i) laying a submarine cable system for
+Yap and Palau; (ii) providing faster and more reliable ICT connectivity for Chuuk and Kosrae; and
+(iii) financing technical assistance for advisory services to support sector regulation and regulatory
+capacity development and promoting universal access throughout FSM.
+72.
+As in many isolated communities around the world, women are expected to benefit from
+improved access to communications, including for increasing income-generating opportunities,
+making contacting family easier, providing easier access to information on health and education
+services, and improving personal safety.
+Outcome 3: Improved business regulatory environment
+
+73.
+The Investment Symposium had the ultimate objective of “achieving economic growth and
+sustainable development, as the Nation prepares for 2023”. The WBG program will support
+GoFSM in this objective by helping to strengthen and improve the business climate by a review of
+the foreign investment law (assessing the scope for harmonization of State and National regulation
+and assisting FSM to reflect international best practice in investment law) and a regulatory review of
+the fisheries sector to map current State and National processes and assess areas where reform is
+needed. Additional support from IFC could include providing just in time advice and/or technical
+assistance to improving some of the weak areas in the Doing Business Indicators, for example in
+improving contract enforcement, insolvency practice, legal safeguards for minority shareholders,
+trade logistics and access to credit. An integral part of IFC investment climate technical assistance
+will involve assessing legal and institutional investment climate impediments to female entrepreneurs
+and addressing them as part of broader legislative reforms or through improved information and
+institutional arrangements.
+74.
+IFC and the World Bank will also explore options to work collaboratively in the fisheries
+sectors where employment and private sector investment may be a possibility. There may also be
+scope in facilitating Public Private Partnership as a model for increasing competition and
+transparency in tendering out concessions (licenses) and/or seeking investment opportunities within
+the energy, ICT and tourism sectors.
+Theme 2: Promoting a Sustainable Medium Term Fiscal Situation
+Outcome 4: Increasing economic benefits from the fisheries sector
+
+75.
+The fisheries sector is one of the few revenue sources available to FSM and, if managed
+sustainably, could increase the public revenues and provide the government with additional
+resources to invest in social services. FSM is home to one of the largest tuna fisheries in the
+
+24
+
+world36. The public revenues from tuna could potentially help fill as much as two thirds of the gap
+from the expiration of the Compact sector grants. The revenue from fisheries has increased
+considerably in recent years as a result of the introduction of the VDS37. The growth in public
+revenues from tuna license fees can be expected to be sustained indefinitely, provided the resources
+are managed well and efforts are coordinated across the Pacific region. With continued
+improvements and collaboration with other Parties to the Nauru Agreement (PNA) countries to better
+manage access to the resource, fisheries revenue to FSM could double before 2023. However, the
+main challenges facing FSM in regard to managing its tuna resource is the one shared by all PNA
+countries: ensuring that the regional agreements on catch limits are maintained, bringing all of the
+purse seine tuna fishing under the VDS system, and promoting greater transparency and data sharing.
+
+76.
+A coordinated approach to the effective and efficient management of the fisheries sector
+across the Pacific will be transformational for the health of the tuna resource and the economies
+of small island countries like FSM. The Bank’s Pacific Regional Oceanscape Program (PROP), to
+be launched in FY15, is expected to include FSM in the first phase. The program aims to help
+participating countries sustainably increase the benefits from their ocean resources by financing
+activities at both regional and country levels to: (i) better manage the tuna resources to double access
+revenues; (ii) work with communities and link coastal fisheries to markets, aiming to sustainably
+increase catch per unit effort; and (iii) develop sustainable financing models for some of the large
+marine protected areas that help support these fisheries. The World Bank and IFC will work closely
+together to explore potential for FSM to move up the tuna value chain in any way, so that more value
+can be added locally and a greater portion of the overall economic benefits generated by the resource
+can be captured within the FSM economy. The program will also work in partnership with regional
+organizations such as the Forum Fisheries Agency.
+77.
+Investments in FSM’s coastal fisheries will aim to increase the natural resource base
+available to communities and the benefits it can provide. In addition to economic benefits, fish
+contribute significantly to food security for FSM—the average per capita annual consumption of fish
+in FSM is estimated to be 72-114 kg per year (compared to the global average of 16.5 kg per year).
+The PROP will ensure an inclusive consultation process, which involves women and youth, during
+the design phase to ensure activities are targeted to and benefit all groups. The operation will also
+include gender disaggregated data to measure impact and benefits for women during implementation.
+IFC assistance in the fisheries sector would center around supporting opportunities for investment in
+on-shore processing, to increase value addition within FSM.
+
+36
+
+Approximately 155,000 tons of tuna are taken from FSM’s waters each year with an estimated first sale value of
+US$234 million, of which approximately US$31 million (13 percent of first sale value) was captured by FSM in
+2012 as access fees via the Vessel Day Scheme (VDS). This does not include any treaty revenues.
+37
+The VDS is a system introduced by the Parties to the Nauru Agreement (PNA) countries to manage the purse
+seine fishery targeting skipjack tuna. Each year the PNA countries set the total catch limit needed to maintain
+healthy fish stocks, and translate that catch limit into individual vessel fishing days, which are allocated to PNA
+countries based on an agreed formula. PNA countries then sell the days. The only exceptions are the U.S. Treaty,
+which allows multi-zone access to PNA waters by U.S. vessels, and the FSM Arrangement, which provides
+concessionary access by domestic vessels from one PNA country to the waters of others. These are both historical
+arrangements which pre-date the VDS, and both are being renegotiated at the present time.
+
+25
+
+Box 5: World Bank Group Support to FSM Fisheries
+The WBG will provide support to the FSM fisheries sector through the complementary IDA-financed
+PROP and the IFC-financed Pacific Tuna Project. These programs aim to enable the participating
+Pacific Island countries to manage their ocean and coastal resources more effectively and to enable
+greater local value addition to sustainable products.
+IFC would undertake a diagnostic of opportunities for onshore processing investment in FSM, working
+with the Bank to assess the scope for increasing the proportion of catch processed onshore in FSM and
+maximizing local participation, including for women, while maintaining environmental and social
+standards and not compromising fish stocks. IFC would address the enabling environment for onshore
+fisheries investment through a review of regulation (including taxation) and regulatory processes for all
+aspects of on-shore processing investments. IFC would also assist FSM in getting best value from
+limited investment opportunities. The World Bank will work with regional and country level institutions
+to strengthen the management of these valuable resources.
+
+Outcome 5: Improved targeting and management of fiscal adjustment process
+
+78.
+A major challenge in the pursuit of poverty reduction and shared prosperity, particularly in
+the context of the projected decline in the Compact sector grants, is to sustain public service
+delivery levels and enhance basic social services, which are particularly important for the poor. A
+transition plan focused on rationalization without careful consideration of the impact on service
+delivery or the flow on impact to the economy could worsen the lives of the population, including
+those who are most disadvantaged. The WBG support will be focused on assisting the GoFSM in
+managing the 2023 transition process via additional technical capacity through a technical assistance
+grant, as well as a public expenditure and fiscal sustainability analysis,38 and a poverty analysis. The
+assistance will be coordinated with the ADB, IMF and the U.S., and focus on providing support in
+areas where the Bank has a competitive advantage. The possibility of supporting suitable reform
+actions with a development policy operation would be explored later in the CPS period.
+79.
+The WBG program will broaden the analytical basis and inform policy decisions around
+the Compact transition plan, to ensure sustained basic service delivery. Implementation of a fiscal
+adjustment strategy that is designed to minimize hardship for the poor during the Compact transition
+period will be transformational and essential to promote a reduction in extreme poverty and an
+increase in shared prosperity.
+80.
+The GoFSM has requested assistance from the World Bank in a poverty and gender
+disaggregated analysis of the 2014 HIES. Such an analysis would provide an up-to-date poverty
+baseline to better inform and target WBG, government and other donor programs and would be done
+in partnership with the GoFSM’s statistics department. This analysis will be part of a wider regional
+poverty analytical activity in which the Bank will partner with SPC which leads on the HIES
+throughout the Pacific. This analysis would also facilitate the evaluation of progress towards the twin
+goals of ending extreme poverty and promoting shared prosperity and would support gender
+informed programs.
+
+38
+
+Given the projected need for additional external contributions to the CTF, IDA will also support the GoFSM’s
+resource mobilization efforts.
+
+26
+
+Outcome 6: Managing the impact of climate change and natural hazards
+
+81.
+FSM is prone to natural hazards and is one of the countries that is most directly threatened
+by climate change. FSM is expected to incur, on average, US$8 million per year in losses due to
+earthquakes, tsunamis and tropical cyclones; in addition it is also vulnerable to droughts, storm
+waves, flooding, and landslides. The Nation Wide Integrated Disaster Risk Management and
+Climate Change Policy of 2013 promotes pro-active integration of disaster risk reduction, climate
+change adaptation and climate change mitigation considerations into relevant national, sectoral, state
+and community-level development strategies and programs in FSM. The FSM Strategic
+Development Plan/Infrastructure Development Plan also stipulates that “all development activities in
+FSM…are to take into account projected climatic changes in the design and implementation.”
+82.
+Climate and disaster risks strongly affect people’s well-being in terms of health,
+environmental sustainability, gender equality, livelihoods and access to education. Poorer people
+are impacted to a greater degree following a disaster, as they are less likely to have insurance, cash
+reserves and alternative income sources that provide the mechanisms for them to recover quickly. In
+the face of more ‘immediate’ challenges, for example, the threat of hunger, access to water or
+livelihood opportunities, poor people may be inclined to underestimate or ignore the risks posed by
+living in hazard prone areas. Given the frequency and severity of cyclones and the risk of major
+tsunamis, the GoFSM has expressed interest in being part of a regional Disaster Management
+Program (currently in preparation) that will build on the Pacific Catastrophe Risk Assessment and
+Financing Initiative (PCRAFI) and aims to strengthen disaster early warning and preparedness, and
+improve the capacity to respond financially in the aftermath of significant natural disasters39. The
+WBG program will be developed during the CPS period.
+Potential Participation in Regional Activities
+
+83.
+FSM could also benefit from a number of proposed Pacific regional studies that are
+designed to help increase the revenue base and protect the delivery of services, and enhance
+private sector development. These include potential regional studies on: (i) maritime safety, which
+aims to identify actions that would strengthen the safety, efficiency and sustainability of maritime
+transport services in the Pacific; (ii) aviation supply and linkages; and (iii) technical assistance on
+appropriate regulatory frameworks for deep sea mining activities.
+Financing Envelope and Program
+
+84.
+The IDA envelope for the CPS period would be approximately US$29 million. This
+includes the remaining IDA16 resources of approximately US$14 million plus an indicative IDA17
+allocation of US$15 million40. Furthermore, additional IDA will be leveraged through regional
+projects in the pipeline, including the Palau-FSM Regional Connectivity Project, as well as the
+regional fisheries project (PROP). The table below provides the indicative IDA and trust fund
+operations, indicative IFC activities and potential analytical and advisory services for FSM over the
+CPS period.
+39
+
+The PCRAFI offers market based catastrophe risk insurance coverage against major tropical cyclones and
+earthquakes (including tsunamis)
+40
+The amounts shown in outer years are indicative only. Actual allocations will depend on: (i) total IDA resources
+available, (ii) the country’s performance rating, GNI per capita, and population; (iii) the terms of IDA assistance
+(grants/credits) and the allocation deductions associated with the Multilateral Debt Relief Initiative (MDRI) annual
+debt service foregone; (iv) the performance, other allocation parameters, and IDA assistance terms for other IDA
+borrowers; and (v) the number of IDA-eligible countries.
+
+27
+
+Table 2: Indicative Program FY14-FY17
+IDA and Trust Fund Operations
+Energy Sector Development Project
+FSM-Palau ICT Regional Connectivity Technical Assistance
+FSM-Palau ICT Regional Connectivity Project
+Pacific Regional Oceanscape Project (PROP)
+2023 Technical Assistance Project
+Regional Disaster Risk Management Program (TBC)
+
+IDA
+(US$m)
+14.4
+
+TF
+(US$m)
+
+Year
+
+35-4042
+3-743
+1-1.5
+
+FY14
+FY14
+TBC
+FY15
+FY16
+
+Total 52.5-62
+IFC Activities
+Foreign Investment Law Review
+Investment climate assessment - regulatory environment for fisheries sector
+Diagnostic on potential of on shore fisheries investments
+
+FY15
+FY15
+FY16
+
+Analytical and Advisory Services
+Poverty/Gender Analysis
+Public Expenditure Review
+Aviation Supply and Linkages Review (Regional)
+Maritime Safety Study (Regional)
+Deep Sea Mining Activities Technical Assistance (TBC) (Regional)
+
+V.
+
+0.541
+
+FY15
+FY16
+FY16
+FY15
+
+MANAGING RISKS
+
+85.
+The WBG will face a number of key risks associated with the proposed strategy in FSM,
+which include but are not limited to the following:
+
+
+Program Delivery Risks: The thin capacity in government, a lack of familiarity with WBG
+processes and procedures, the lack of a Bank presence in FSM, a decentralized service
+delivery mechanism, as well as high engagement costs present risks to program delivery.
+The Bank has begun working intensively with the Department of Finance and Administration
+(DoFA) and has provided training on financial management, disbursement and procurement
+procedures. In addition the national government and the Bank have also agreed that intensive
+communication during implementation between and within governments will be key. The
+Bank is working with DoFA to establish centralized fiduciary support for World Bank
+financed projects which mirrors the country’s own operating system. In addition, there is a
+coordinated approach to visiting missions ensuring that implementation support will be
+provided by all missions to FSM. The WBG will aim to streamline implementation
+modalities to help minimize the implementation challenges for a small country with thin
+capacity. Moving as much as possible towards a programmatic approach, exploring options
+for consolidation of implementation capacity, and the scope for using and strengthening
+government systems over time will be important. The East Asia and Pacific Region of the
+Bank has recently introduced “A New Way of Working in the Pacific” to respond to the
+demands of clients and partners for a more flexible and tailored approach to fiduciary
+
+41
+
+Australian trust fund financing provided through the Pacific Regional Infrastructure Facility (PRIF)
+This amount represents FSM’s contribution to the operation and includes regional IDA. The regional IDA to be
+leveraged is indicative and will depend on final project design.
+43
+IBID
+42
+
+28
+
+management. The objectives are to make procurement and financial management for Bank
+financed projects more efficient and less costly and to build sustainable capacity in
+implementing agencies.
+
+
+Political Risks. The nature of the federation structure makes sustaining political commitment
+difficult. Decision making within this structure and the devolved delivery of services at the
+state level will require an approach that ensures inclusiveness and consultations with each of
+the State Governments and relevant stakeholders in the States, in coordination with the
+National Government. A high degree of communication throughout FSM in regards to
+project development objectives and implementation modalities will be important and will be
+reflected in project development and designs.
+
+
+
+Macroeconomic volatility and risks of exogenous shocks are inherent in a small, fragile,
+isolated, geographically dispersed, and largely subsistence economy. In recent years, the
+Pacific Islands have been subject to a range of exogenous shocks, being especially hard hit by
+fuel price spikes, as well as weather and seismic events. FSM will remain vulnerable to
+exogenous shocks. A global economic shock or natural disaster could temporarily distract the
+government and/or delay the implementation of the program. These risks are partly mitigated
+although not eliminated, through the implementation of the program itself vis-à-vis
+strengthened energy security with decreased reliance on imported fuels, the potential for
+FSM to be involved in the catastrophic risk insurance scheme and the related technical
+assistance to manage budget and fiscal challenges of disaster events and improved fiscal
+management to provide some buffer to potential shocks.
+
+
+
+Cross-Country Coordination Issues. One key operation proposed for the CPS period, the
+FSM-Palau ICT Regional Connectivity Project, proposes to finance, i.a., a marine fiber optic
+cable that would provide broadband internet access to both Yap (FSM) and nearby Palau.
+While both countries stand to benefit from shared cable infrastructure, a bi-national project
+introduces additional complexity and requires particularly close cooperation. The Bank has
+already made complementary TA grants available to both FSM and Palau through the Pacific
+Regional Infrastructure Facility (PRIF) to support sector reform and project preparation.
+
+86.
+The CPS progress report will provide an opportunity to reassess the risks and the mitigating
+strategies and enable adjustments to be made to the program as appropriate.
+
+29
+
+Annex 1
+
+Annex 1: Federated States of Micronesia Results Matrix
+(G) = Gender-disaggregated data
+Strategic Development Plan Six Part Strategy for Transition and Accelerated Growth
+SDP 1: Macroeconomic Stability
+SDP 2: Good Governance: Improving Effectiveness and Efficiency of Government
+SDP 3: Developing an Outward-Oriented, Private Sector-Led Economy
+SDP 4: Investing in Human Resource Development (Education and Health)
+SDP 5: Investing in Infrastructure
+SDP 6: Long-Term Sustainability.
+Medium-term
+Country Goals
+
+Key Issues
+
+CPS Outcomes
+Expected in FY17
+
+Milestones
+
+WBG Instruments and
+International Partners
+
+Theme 1: Strengthening the Enabling Environment for Private Sector Development
+Improving Infrastructure
+Efficiency and Lowering
+Costs
+(SDP1, SDP 3, SDP4,
+SDP5, SDP6)
+
+ High costs of
+electricity due to
+electricity system
+inefficiencies and
+dependence on
+imported fuel, and
+power outages due to
+insufficient available
+generation capacity
+
+Outcome 1: More efficient and
+reliable electricity services
+ 7 percent increase in
+efficiency of electricity supply,
+and >20 percent increase in
+available power generation
+capacity (Baseline 21,204 kW)
+ Direct number of project
+beneficiaries is 50,000 of
+which 25,000 are female
+(Baseline 0) (G)
+
+ Low rates of access to
+and high costs of
+telecommunications
+
+Outcome 2: Improved access to
+and reduced costs of ICT services
+ Increase in mobile penetration
+from 30 percent in 2013 to 70
+percent of the population (G)
+ Increase in Internet penetration
+from 2 percent in 2013 to 20
+percent of the population (G)
+
+Operation: Energy Project
+(P148560)
+Donor Partners: ADB
+
+
+
+
+
+
+
+30
+
+New ICT legislation
+adopted
+Modern ICT regulatory
+framework adopted
+Independent
+telecommunications
+regulatory function
+established and
+maintained
+At least 2 ICT service
+providers operational
+
+Operations: ICT PalauFSM Regional Connectivity
+Project (P130592) and ICT
+Technical Assistance Project
+(P132686)
+Donor Partners: ADB,
+Australia (PRIF)
+
+Annex 1
+Medium-term
+Country Goals
+Strengthening the
+Business Climate
+(SDP1, SDP2, SDP3)
+
+Key Issues
+ Complex and costly
+regulatory processes
+for the private sector
+ Lack of key
+regulatory
+infrastructure in some
+areas.
+
+CPS Outcomes
+Expected in FY17
+Outcome 3: Improved business
+regulatory environment
+ State and National foreign
+investment approval processes
+are harmonized
+ On-shore fisheries investment
+approval requirements are fully
+documented and harmonized at
+all levels of government
+
+Milestones
+
+
+
+
+
+
+Theme 2: Promoting a Sustainable Medium Term Fiscal Situation
+Improved Management
+ Highly valuable trans- Outcome 4: Increase economic
+of FSMs’ Fisheries
+benefits from fisheries sector
+boundary tuna
+Resource.
+resource, requires
+ Annual access revenues to FSM
+enhanced collective
+from the tuna fisheries increase
+management of the
+by at least 30 per cent while
+(SDP1, SDP2, SDP3,
+resource
+together
+with
+harvesting remains within
+SDP4, SDP5, SDP6)
+other Pacific Island
+sustainable levels. (Baseline
+countries, in order to
+US$31 CY2012)
+capture potential
+Managing the fiscal
+adjustments through the
+Compact transition.
+(SDP1,SDP2, SDP4 SDP6)
+
+ Outdated poverty data
+upon which to base
+policy and fiscal
+adjustment decision
+
+Outcome 5: Improved targeting
+and management of fiscal
+adjustment process
+ The impact of fiscal adjustments
+on the poor is reflected in policy
+documents.
+ Opportunities for efficiency
+gains in health and education are
+identified and inform policy
+decisions.
+
+31
+
+
+
+
+
+
+
+
+
+
+Passage of a revised
+national investment law
+National foreign
+investment laws reflects
+international best practice
+Mapping of State and
+National investment
+information requirements
+and approval processes
+Mapping of State and
+National on-shore
+fisheries investment
+processes
+
+WBG Instruments and
+International Partners
+Operation: IFC Pacific
+Rapid Response Project
+
+Functioning regional
+information management
+system to support the
+vessel day scheme (VDS)
+for the purse seine tuna
+fisheries
+All purse seine fishing in
+FSM’s waters is managed
+under the VDS
+
+Operations: Pacific
+Regional Oceanscape
+Program (PROP) (FY15);
+IFC investment climate –
+fisheries sector - review.
+
+HIES and PER analysis
+completed and informs
+fiscal adjustment strategy
+Adoption of reforms that
+would enhance domestic
+revenue generation and
+aid management
+Incidence analysis of
+education and health
+analysis and poverty
+mapping informs budget
+decisions
+
+Operations: 2023
+Technical Assistance
+Program (FY15);
+
+Donor Partners: New
+Zealand (at regional level)
+
+AAA: Public Expenditure
+Review; Poverty/Gender
+disaggregated analysis
+Donor Partners: IMF,
+ADB, U.S.
+
+Annex 2
+
+Annex 2: ICT in the Pacific
+The long-term viability of many Pacific island economies hinges not only on improving domestic
+growth, but also on the extent to which they can integrate with each other and with neighboring
+larger economies. At the domestic level, Pacific economies typically face three broad development
+challenges: (i) to diversify sources of growth, particularly to build up the services industry and small
+and medium-sized enterprises, and to create more opportunities for income-generation locally; (ii) to
+achieve greater equity in economic opportunity as well as service delivery across diverse island
+provinces as human development indicators remain poor, particularly in rural and outer island areas;
+and (iii) to build more capable and sustainable institutions (though long-term reliance on
+international technical support seems quite likely). ICT can support all of these objectives. The
+potential benefits of ICT development in the Pacific may include the following:
+i.
+
+ii.
+iii.
+
+iv.
+
+v.
+
+vi.
+
+Small- and medium-sized enterprises: Lower communications costs reduce overall business
+transaction costs. Improved communications infrastructure facilitates domestic and crossborder transactions, opens new marketing and distribution channels, and improves access to
+information about markets, prices, and consumers.
+Primary producers: Communications infrastructure facilitates access to information on
+market prices, weather, agricultural extension services, and e-commerce platforms.
+Service industries: ICT offers potential for new entrepreneurship—including specific
+opportunities for women. Telecommunications infrastructure also facilitates the extension of
+mobile phone and/or Internet-enabled financial services.
+Health and education sectors: In the health sector, reliable, affordable broadband can
+facilitate, inter alia, remote diagnostics and laboratory testing, remote consultations with
+specialists, and access to international medical networks and resources. In the education
+sector, access to high-speed Internet provides teaching and learning materials, and skills
+enhancement opportunities, among others.
+Government agencies: Faster, cheaper and more reliable connectivity can improve
+communications and information management between national and subnational
+governments. Governments will also be better-positioned to deploy online services (EGovernment), permitting increased transparency and accountability of government and
+improvements in service delivery.
+Rural communities: Improved ICT services reduce travel time and increase cost savings;
+provide easier access to information on health and education and to job information; and
+promote transmitting remittances between distant family members located in capital cities or
+overseas. As in many previously isolated communities around the world, women are
+expected to benefit from improved access to communications, including for incomegenerating opportunities, family contacts, and personal safety.
+
+At the regional level, improved connectivity—in particular broadband Internet access-- facilitates
+cooperation on numerous transnational issues, including, for example, management and monitoring
+of natural resources, disaster mitigation, and collaborative service delivery, and greater efficiency of
+resource use. Improved, affordable connectivity, both domestic and international, is thus a
+cornerstone of the new Framework for Action on ICT for Development in the Pacific, a regional
+strategy endorsed by regional Ministers and regional agencies, that seeks to mobilize ICT for
+development, governance, and sustainable livelihoods. 44
+
+44
+
+See Declaration of the Pacific ICT Ministerial Meeting, Tonga, June 18, 2010
+http://www.spc.int/edd/images/stories/ictpapers/Tonga%20Declaration%20(2).pdf
+
+32
+
+Annex 3
+
+Annex 3: Pacific Islands Fisheries
+The Pacific is the world's last great oceanic fishery. Almost 60 percent of the world's tuna catch
+(2.5m tons out of a total 4.2m tons) is from the central and western Pacific Ocean. Of this, roughly
+half is supplied by the purse seine fishery targeting skipjack tuna (and to a lesser extent yellow fin
+tuna) in the national waters of the eight PNA member countries. The current and potential economic
+benefit that these natural capital assets provide to PICs depends on their underlying health and
+environmental status. In many cases the natural capital has been systematically undervalued, and
+increasingly overdrawn because of incentives and institutional weaknesses that have led to
+overexploitation.
+The purse seine fishery supplies tuna worth about US$4 billion per year at first sale, of which PNA
+countries have typically received approximately three percent in revenues from the sale of access to
+their waters for (mostly foreign) fishing vessels to target the tuna stock. The tuna that supports this
+fishery, like many throughout the region, has reached its limits, as catch volumes have steadily
+climbed over recent decades from almost zero in the early 1980s to over 1.7 million tons in 2012, and
+the actual size of the stock in the water starts to decrease towards levels that can no longer sustain
+these catches.
+In the case of skipjack tuna, even as the amount of fishing activity and catch reached its highest level
+ever last year – the harvest rates are slowing, as the resource is reaching its limits. Future returns will
+have to come by earning more from current harvests, rather than increasing them. This is eminently
+possible, but in many cases such as the tuna where the fish are moving across borders, will require
+continued collective action from countries to manage the resource. The VDS system introduced by
+the PNA countries to manage the purse seine fishery targeting skipjack tuna is a great example. Each
+year the PNA countries set the total catch limit needed to maintain healthy fish stocks, and translate
+that catch limit into individual vessel fishing days, which are allocated to countries based on an
+agreed formula,. Countries then sell the vessel fishing days.
+As a result of introducing the VDS, the price of a vessel day increased from US$1,500 in 2010 to
+US$5,000 in 2013, and total revenues to PNA countries increased from US$60 million in 2010 to
+US$240 million in 2013 (still less than 10 percent value of catch). This is only the value of access –
+and not potential additional benefits from local value added. A number of experts believe that the
+price of vessel days can continue to climb and this fishery could return almost US$500 million per
+year to PICs in the future. To put this into perspective the purse seine tuna fisheries, could
+potentially provide roughly US$500 million per year to PICs if collectively and sustainably managed
+– which is equivalent to almost 20 percent of all aid flows to the region.
+Greater returns can be captured by PICs, which are not based on expanding catches. The opportunity
+lies in enhancing the natural capital of the fishery and hence the value of access, rather than the
+quantity of fish caught or access rights sold, together with seeking opportunities where feasible for
+increasing the proportion of catch that is processed onshore.
+There is potential to increase returns further if the VDS is strengthened and robust fishing limits
+maintained, which make this a crucial source of public revenue and one that requires attention not
+just from technical agencies but also from ministries of finance. These revenues could potentially be
+doubled with improvements made to the VDS that would expand its scope (e.g. to include tuna
+caught within archipelagic waters and to include long line fisheries within the scheme) and quality
+(e.g. to expand the flexibility and efficiency of VDS to allow fishing vessels to catch the fish across
+national boundaries).
+
+33
+
+Annex 4
+
+Annex 4: Development Partners in FSM
+United States Government: The U.S. and FSM have a longstanding partnership. Through the
+Compact the U.S. is the largest development partner in FSM. Compact financing totals about
+US$92.7 million a year with annual partial adjustments for inflation, and largely finances the
+education and health sectors. The U.S. also provides financial support through other U.S. federal
+programs. The USDoI has the fiduciary responsibility for the approval and implementation of the
+Compact Sector Grants The JEMCO was established to strengthen the management and
+accountability of the assistance provided under the amended Compact, and to promote the effective
+use of funding provided. The JEMCO members consist of three representatives from the U.S. and
+two from FSM, and decisions are reached on a majority basis. The U.S. Department of State
+maintains the bilateral relationship with the GoFSM. USAID has no regular development program in
+the FSM, however it is the agency that will respond and provide relief assistance for disaster events.
+Asian Development Bank: FSM joined the ADB in 1990 and ADB approved its first TA project in
+1999. Its country operations business plan (COBP), 2014-2016, for FSM focuses on strengthening
+public sector management, infrastructure development and sustainable tourism. The COBP
+combines investments in transport, water supply, renewable energy and sustainable tourism with TA
+that is focused on safeguarding the sustainability of those investments including support to human
+resource development. ADB will also provide support to the development and implementation of
+national and state tourism plans and to the 2023 Planning Committee. The WBG and the ADB will
+build on the strong partnership that has developed in the South Pacific, and are partnering on the
+FSM-Palau Connectivity project.45 The energy teams in both ADB and WB are working together to
+ensure complementarity in this key sector and the WB will coordinate with ADB on support to the
+fiscal adjustment process.
+Australia: Australia’s aid program to FSM focuses on reforms in support of budgetary and economic
+self-reliance, environmental management, and development coordination. Some areas of assistance
+include: (i) continuing to support tax reform; (ii) helping to develop the capacity of both the Office of
+Statistics, Budget and Economic Management, Overseas Development Assistance and Compact
+Management and State ODA offices to implement the new ODA policy; and (iii) improving the lives
+of women in FSM through enhanced economic opportunities and activities aimed at eliminating
+violence against women and (iv) building the skills of the workforce in key sectors by providing
+scholarships. Another major area of support has been through the contribution of Australia's Pacific
+Patrol Boat Program, in which Australia works together with FSM, Palau, and the Marshall Islands in
+the protection and management of their vital fisheries resources.
+Japan: Japan has a deep historic relationship with FSM and is committed to providing continuous
+assistance in the priority areas of: (i) overcoming vulnerability; and (ii) environment/climate change.
+The Japanese government has provided a long term senior economic advisor to the GoFSM for
+assisting on 2023 transition related issues and will support the Domestic Shipping Services through
+the provision of a ship in 2014. Japan has also provided non-project grant aid to purchase industrial
+products from the tsunami hit area in Japan, to facilitate FSM’s efforts to improve infrastructure.
+JICA provides assistance to the priority areas in all of the four states through its extensive volunteer
+program; provision of training activities; solid waste management program and grant financing.
+
+45
+
+The ADB will provide financing for Palau and has supported the environmental and social impact study for FSM
+and Palau for this project.
+
+34
+
+Annex 4
+
+China: China supports the GoFSM through the provision of scholarships, a long standing agriculture
+technical assistance program focused on supporting locally grown produce, and support to
+infrastructure development. China provided a grant of approximately US$2.5 million as a
+contribution to the CTF and is currently supporting the rebuilding of a bridge in Kosrae at a cost of
+approximately US$10 million.
+European Union: Renewable energy is the focal sector for the EU. Under the European
+Development Fund (EDF10), the EU provides approximately Euro 7.4 million of financing to the
+North Renewable Energy Program (North-REP). The objective is on improving the quality of life on
+the outer islands and reducing dependency on fossil fuel by installing solar systems.
+Secretariat of the Pacific Community (SPC): SPC has its regional office for RMI, Palau and FSM in
+Pohnpei. SPC is the implementing agency for the North-REP. It also provides support to the
+GoFSM statistics office and is currently working with the GoFSM on the HIES. SPC has a number
+of regional programs that are being implemented in FSM including coastal fisheries, disaster
+preparedness, climate change, and water and sanitation programs.
+The United Nations (UN): The UN maintains a joint representative office in Pohnpei for UNDP,
+UNFPA, UNWOMEN and UNICEF. In addition, WHO supports the Department of Health and
+Human Services. UNDP manages two Global Environment Facility grants – a US$1 million small
+grants program and a US$5 million National ‘Ridge to Reef’ project. UNFPA will undertake a
+Family Health Safety Survey to be completed in June, 2014 working with the Department of Health
+and Human Services and the GoFSM Statistics Division. UNICEF and UNWOMEN are providing
+support to the completion of the combined Convention on the Rights of the Child/CEDAW country
+report.
+
+35
+
+Annex 5
+
+Annex 5: World Bank Group Program Alignment with the Government’s Strategy
+Government Strategy/Vision
+
+
+
+
+Macro-economic stability (SDP)
+
+Good governance; Improving the
+effectiveness and efficiency of
+government (SDP)
+
+
+
+Developing an outward-oriented
+private sector-led economy (SDP)
+
+
+
+Growing the local economy
+(through enhancing agriculture
+production and the production of
+value added agriculture products,
+maximizing the benefits from
+FSM’s fisheries resources,
+promoting tourism development,
+renewable energy sources (DPM)
+
+
+
+
+Improving the Business
+Environment (Symposium)
+Investing in human resources
+(education and health) (SDP)
+
+World Bank Group Program
+
+
+Support to 2023 Transition and fiscal adjustment
+process;
+
+
+
+Improved fisheries revenues;
+
+
+
+
+Decreased reliance on fossil fuel imports
+Improved planning and institutional strengthening
+through the fisheries and energy projects
+
+
+
+Poverty / Gender Analysis
+
+
+
+
+Public Expenditure Review
+IFC support to improving the business climate i.e.
+foreign investment law review; regulatory review of
+fisheries sector;
+
+
+
+Improving the business enabling environment by
+improving energy and telecommunications
+infrastructure accessibility and efficiency
+
+
+
+Fisheries project – support to coastal fisheries,
+potential value added activities (to be explored with
+IFC)
+
+
+
+Regional aviation market supply study
+
+
+
+Improving the energy and telecommunications
+sector will provide enhanced access and decreased
+costs to things such as online education;
+telemedicine, market and weather information and
+improved safety for women
+
+
+
+Improved coastal fisheries have the potential to
+improve nutrition and food security
+
+
+
+Public Expenditure Review
+
+
+
+
+2023 transition support
+Telecommunications and energy projects
+2023 planning to ensure investments in
+infrastructure development are maintained to a
+sustainable level
+Potential for FSM to engage in regional Disaster
+Risk Management (DRM) and PCRAFI operations
+
+
+
+Investing in infrastructure (SDP)
+
+
+
+Developing economic infrastructure
+(DPM)
+
+
+
+
+
+Long-term environmental stability
+(SDP)
+
+
+
+
+
+Mainstreaming responses to climate
+change and mitigating threats to the
+environment (DPM)
+
+
+
+WBG operations mainstream DRM and Climate
+Change Adaptation
+
+
+
+WBG operations have global best practice for
+safeguards which are mandatory for all WBG
+financed programs.
+
+36
+
+Annex 6
+
+Annex 6: Federated States of Micronesia: Country at a Glance
+
+Micronesia, Fed. Sts. at a glance
+
+3/13/14
+
+M icro nesia,
+Fed. Sts.
+
+East
+A sia &
+P acific
+
+Lo wer
+middle
+inco me
+
+0.10
+3.2
+0.0
+23
+
+1,992
+16,304
+0.7
+50
+
+2,507
+20,742
+1.5
+39
+
+0.3
+3,230
+3,920
+
+9,728
+4,884
+7,758
+
+4,745
+1,893
+3,877
+
+0.4
+0.5
+
+7.5
+6.7
+
+4.7
+3.2
+
+P o verty headco unt ratio at $ 1.25 a day (P P P , %)
+P o verty headco unt ratio at $ 2.00 a day (P P P , %)
+Life expectancy at birth (years)
+Infant mo rtality (per 1,000 live births)
+Child malnutritio n (% o f children under 5)
+
+..
+..
+69
+31
+..
+
+12
+30
+74
+17
+5
+
+27.1
+56.3
+66
+46
+24
+
+A dult literacy, male (% o f ages 15 and o lder)
+A dult literacy, female (% o f ages 15 and o lder)
+Gro ss primary enro llment, male (% o f age gro up)
+Gro ss primary enro llment, female (% o f age gro up)
+
+..
+..
+111
+112
+
+97
+92
+111
+113
+
+80
+62
+107
+104
+
+A ccess to an impro ved water so urce (% o f po pulatio n)
+A ccess to impro ved sanitatio n facilities (% o f po pulatio n)
+
+89
+57
+
+91
+67
+
+88
+48
+
+Ke y D e v e lo pm e nt Indic a t o rs
+
+Age distribution, 2012
+
+( 2 0 12 )
+
+Male (..)
+
+P o pulatio n, mid-year (millio ns)
+Surface area (tho usand sq. km)
+P o pulatio n gro wth (%)
+Urban po pulatio n (% o f to tal po pulatio n)
+
+Female (..)
+
+75- 79
+60- 64
+45- 49
+30- 34
+
+GNI (A tlas metho d, US$ billio ns)
+GNI per capita (A tlas metho d, US$ )
+GNI per capita (P P P , internatio nal $ )
+
+15- 19
+0-4
+10
+
+GDP gro wth (%)
+GDP per capita gro wth (%)
+
+5
+
+0
+
+5
+
+10
+
+percent of total population
+
+( m o s t re c e nt e s t im a t e , 2 0 0 5 – 2 0 12 )
+Under-5 mortality rate (per 1,000)
+70
+60
+50
+40
+30
+20
+10
+0
+1990
+
+1995
+
+2000
+
+Micr onesia, Fed. Sts.
+
+N e t A id F lo ws
+
+19 8 0
+
+(US$ millio ns)
+Net ODA and o fficial aid
+To p 3 do no rs (in 2012):
+United States
+Japan
+A ustralia
+A id (% o f GNI)
+A id per capita (US$ )
+
+19 9 0
+
+2000
+
+2 0 12
+
+..
+
+0
+
+102
+
+115
+
+..
+..
+..
+
+1
+10
+1
+
+85
+10
+1
+
+98
+8
+8
+
+..
+..
+
+29.3
+5
+
+42.4
+945
+
+33.5
+1,113
+
+2012
+
+East Asia & Pacific
+
+Growth of GDP and GDP per capita (%)
+10
+5
+0
+-5
+
+Lo ng- T e rm E c o no m ic T re nds
+
+-10
+95
+
+Co nsumer prices (annual % change)
+GDP implicit deflato r (annual % change)
+Exchange rate (annual average, lo cal per US$ )
+Terms o f trade index (2000 = 100)
+
+..
+..
+
+..
+4.9
+
+..
+1.1
+
+6.3
+4.7
+
+..
+
+1.0
+..
+
+1.0
+..
+
+1.0
+..
+
+1.0
+
+05
+
+GDP
+
+G DP per capita
+
+2 0 0 0 – 12
+19 8 0 – 9 0 19 9 0 – 2 0 0 0
+(average annual gro wth %)
+P o pulatio n, mid-year (millio ns)
+GDP (US$ millio ns)
+
+0.1
+107
+
+0.1
+147
+
+0.1
+233
+
+0.1
+326
+
+2.8
+..
+
+1.1
+1.8
+
+-0.3
+0.0
+
+(% o f GDP )
+A griculture
+Industry
+M anufacturing
+Services
+
+44.5
+
+..
+
+..
+..
+..
+..
+
+Ho useho ld final co nsumptio n expenditure
+General go v't final co nsumptio n expenditure
+Gro ss capital fo rmatio n
+
+84.9
+58.3
+37.7
+
+..
+..
+..
+
+..
+..
+..
+
+..
+..
+..
+
+..
+..
+..
+
+..
+..
+..
+
+..
+..
+..
+
+Expo rts o f go o ds and services
+Impo rts o f go o ds and services
+Gro ss savings
+
+3.4
+84.3
+..
+
+..
+..
+..
+
+..
+..
+..
+
+..
+..
+..
+
+..
+..
+
+..
+..
+
+..
+..
+
+..
+0.4
+
+25.9
+8.9
+1.8
+65.3
+
+28.2
+9.2
+0.5
+62.6
+
+..
+..
+..
+..
+
+No te: Figures in italics are fo r years o ther than tho se specified. .. indicates data are no t available.
+a. Co untry po verty estimate is fo r earlier perio d.
+Develo pment Eco no mics, Develo pment Data Gro up (DECDG).
+
+37
+
+0.1
+-0.6
+3.2
+-0.8
+
+0.5
+-0.8
+-16.5
+-0.3
+
+Annex 6
+
+Micronesia, Fed. Sts.
+B a la nc e o f P a ym e nt s a nd T ra de
+
+2000
+
+2 0 12
+Governance indicators, 2000 and 2012
+
+(US$ millio ns)
+To tal merchandise expo rts (fo b)
+To tal merchandise impo rts (cif)
+Net trade in go o ds and services
+
+20
+103
+-124
+
+54
+195
+-171
+
+Voice and accountability
+
+Current acco unt balance
+as a % o f GDP
+
+-31
+-13.3
+
+-39
+-12.0
+
+Regulat ory quality
+
+..
+
+..
+
+113
+
+43
+
+Polit ical stability
+
+Rule of law
+
+Wo rkers' remittances and
+co mpensatio n o f emplo yees (receipts)
+Reserves, including go ld
+
+Control of corruption
+0.0
+2012
+
+C e nt ra l G o v e rnm e nt F ina nc e
+
+2000
+
+(% o f GDP )
+Current revenue (including grants)
+Tax revenue
+Current expenditure
+
+63.8
+16.0
+53.9
+
+66.0
+..
+44.2
+
+-3.5
+
+0.8
+
+..
+..
+
+..
+..
+
+25.0
+
+50.0
+
+Highest marginal tax rate (%)
+Individual
+Co rpo rate
+
+100.0
+
+Country's percentile rank (0-100)
+higher values imply better ratings
+
+Source: Worldw ide Governance Indicators (w w w .govindicators.org)
+
+T e c hno lo gy a nd Inf ra s t ruc t ure
+Overall surplus/deficit
+
+75.0
+
+P aved ro ads (% o f to tal)
+Fixed line and mo bile pho ne
+subscribers (per 100 peo ple)
+High techno lo gy expo rts
+(% o f manufactured expo rts)
+
+2000
+
+2 0 12
+
+18.0
+
+..
+
+9
+
+38
+
+..
+
+..
+
+31
+58.7
+4.0
+
+30
+58.4
+4.0
+
+..
+..
+
+..
+..
+
+E xt e rna l D e bt a nd R e s o urc e F lo ws
+E nv iro nm e nt
+(US$ millio ns)
+To tal debt o utstanding and disbursed
+To tal debt service
+Debt relief (HIP C, M DRI)
+To tal debt (% o f GDP )
+To tal debt service (% o f expo rts)
+Fo reign direct investment (net inflo ws)
+P o rtfo lio equity (net inflo ws)
+
+63
+23
+–
+
+87
+5
+–
+
+27.1
+36.2
+
+26.8
+5.5
+
+..
+..
+
+..
+..
+
+A gricultural land (% o f land area)
+Fo rest area (% o f land area)
+Terrestrial pro tected areas (% o f land area)
+Freshwater reso urces per capita (cu. meters)
+Freshwater withdrawal (% o f internal reso urces)
+CO2 emissio ns per capita (mt)
+
+1.3
+
+0.99
+
+GDP per unit o f energy use
+(2005 P P P $ per kg o f o il equivalent)
+
+..
+
+..
+
+Energy use per capita (kg o f o il equivalent)
+
+..
+
+..
+
+Composition of total external debt, 2012
+
+IDA, 0
+
+IBRD, 0
+
+IMF, 0
+
+Bilateral, 0
+
+Wo rld B a nk G ro up po rt f o lio
+
+Short-term, 0
+
+2000
+
+2 0 12
+
+IB RD
+To tal debt o utstanding and disbursed
+Disbursements
+P rincipal repayments
+Interest payments
+
+–
+–
+–
+–
+
+–
+–
+–
+–
+
+IDA
+To tal debt o utstanding and disbursed
+Disbursements
+To tal debt service
+
+–
+–
+–
+
+–
+–
+–
+
+Private, 0
+
+(US$ millio ns)
+
+Other multilateral, 87
+
+US$ millions
+
+P riv a t e S e c t o r D e v e lo pm e nt
+Time required to start a business (days)
+Co st to start a business (% o f GNI per capita)
+Time required to register pro perty (days)
+Ranked as a majo r co nstraint to business
+(% o f managers surveyed who agreed)
+n.a.
+n.a.
+Sto ck market capitalizatio n (% o f GDP )
+B ank capital to asset ratio (%)
+
+2000
+–
+–
+–
+2000
+
+2 0 12
+16
+144.2
+..
+2 0 12
+
+..
+..
+
+..
+..
+
+..
+..
+
+..
+..
+
+No te: Figures in italics are fo r years o ther than tho se specified.
+.. indicates data are no t available. – indicates o bservatio n is no t applicable.
+Develo pment Eco no mics, Develo pment Data Gro up (DECDG).
+
+38
+
+IFC (fiscal year)
+To tal disbursed and o utstanding po rtfo lio
+o f which IFC o wn acco unt
+Disbursements fo r IFC o wn acco unt
+P o rtfo lio sales, prepayments and
+repayments fo r IFC o wn acco unt
+
+–
+–
+–
+
+–
+–
+–
+
+–
+
+–
+
+M IGA
+Gro ss expo sure
+New guarantees
+
+–
+–
+
+–
+–
+
+3/13/14
+
+Annex 6
+
+Millennium Development Goals
+
+Micronesia, Fed. Sts.
+
+With selected targets to achieve b etween 1990 and 2015
+(estimate clo sest to date sho wn, +/- 2 years)
+
+M ic ro ne s ia , F e d. S t s .
+
+G o a l 1: ha lv e t he ra t e s f o r e xt re m e po v e rt y a nd m a lnut rit io n
+P o verty headco unt ratio at $ 1.25 a day (P P P , % o f po pulatio n)
+P o verty headco unt ratio at natio nal po verty line (% o f po pulatio n)
+Share o f inco me o r co nsumptio n to the po o rest qunitile (%)
+P revalence o f malnutritio n (% o f children under 5)
+
+19 9 0
+..
+..
+..
+..
+
+19 9 5
+..
+..
+..
+..
+
+2000
+..
+..
+..
+..
+
+2 0 12
+..
+..
+..
+..
+
+G o a l 2 : e ns ure t ha t c hildre n a re a ble t o c o m ple t e prim a ry s c ho o ling
+P rimary scho o l enro llment (net, %)
+P rimary co mpletio n rate (% o f relevant age gro up)
+Seco ndary scho o l enro llment (gro ss, %)
+Yo uth literacy rate (% o f peo ple ages 15-24)
+
+..
+..
+..
+..
+
+..
+..
+..
+..
+
+..
+..
+..
+..
+
+..
+..
+
+G o a l 3 : e lim ina t e ge nde r dis pa rit y in e duc a t io n a nd e m po we r wo m e n
+Ratio o f girls to bo ys in primary and seco ndary educatio n (%)
+Wo men emplo yed in the no nagricultural secto r (% o f no nagricultural emplo yment)
+P ro po rtio n o f seats held by wo men in natio nal parliament (%)
+
+..
+..
+..
+
+..
+..
+
+..
+..
+0
+
+0
+
+83
+..
+
+102
+..
+0
+
+G o a l 4 : re duc e unde r- 5 m o rt a lit y by t wo - t hirds
+Under-5 mo rtality rate (per 1,000)
+Infant mo rtality rate (per 1,000 live births)
+M easles immunizatio n (pro po rtio n o f o ne-year o lds immunized, %)
+
+55
+43
+81
+
+56
+43
+90
+
+54
+42
+85
+
+G o a l 5 : re duc e m a t e rna l m o rt a lit y by t hre e - f o urt hs
+M aternal mo rtality ratio (mo deled estimate, per 100,000 live births)
+B irths attended by skilled health staff (% o f to tal)
+Co ntraceptive prevalence (% o f wo men ages 15-49)
+
+140
+..
+..
+
+130
+..
+..
+
+130
+88
+45
+
+G o a l 6 : ha lt a nd be gin t o re v e rs e t he s pre a d o f H IV / A ID S a nd o t he r m a jo r dis e a s e s
+P revalence o f HIV (% o f po pulatio n ages 15-49)
+..
+Incidence o f tuberculo sis (per 100,000 peo ple)
+379
+Tuberculo sis case detectio n rate (%, all fo rms)
+100
+
+..
+325
+49
+
+..
+279
+30
+
+..
+194
+72
+
+G o a l 7 : ha lv e t he pro po rt io n o f pe o ple wit ho ut s us t a ina ble a c c e s s t o ba s ic ne e ds
+A ccess to an impro ved water so urce (% o f po pulatio n)
+91
+A ccess to impro ved sanitatio n facilities (% o f po pulatio n)
+19
+Fo rest area (% o f land area)
+58.7
+Terrestrial pro tected areas (% o f land area)
+2.7
+CO2 emissio ns (metric to ns per capita)
+..
+GDP per unit o f energy use (co nstant 2005 P P P $ per kg o f o il equivalent)
+..
+
+91
+25
+58.7
+2.7
+..
+..
+
+90
+34
+58.7
+4.0
+1.3
+..
+
+89
+57
+58.4
+4.0
+1.0
+..
+
+G o a l 8 : de v e lo p a glo ba l pa rt ne rs hip f o r de v e lo pm e nt
+Telepho ne mainlines (per 100 peo ple)
+M o bile pho ne subscribers (per 100 peo ple)
+Internet users (per 100 peo ple)
+Ho useho lds with a co mputer (%)
+
+7.3
+0.0
+0.3
+..
+
+9.0
+0.0
+3.7
+..
+
+8.1
+30.2
+26.0
+..
+
+Education indicators (%)
+
+2.5
+0.0
+0.0
+..
+
+Measles immunization (% of 1-year
+olds)
+
+100
+100
+55
+
+ICT indicators (per 100 people)
+50
+
+100
+
+125
+
+39
+31
+91
+
+100
+
+40
+
+75
+75
+
+30
+
+50
+
+50
+20
+
+25
+25
+
+0
+2000
+
+2005
+
+10
+
+2010
+0
+
+0
+1990
+
+1995
+
+2000
+
+2012
+
+2000
+
+2005
+
+2010
+
+Primar y net enrollm ent ratio ( ..)
+Fixed + mob ile subscr iber s
+Ratio of girls to boys in pr ima ry & secondary
+education
+
+Micr onesia, Fed. Sts.
+
+East Asia & Pacific
+
+No te: Figures in italics are fo r years o ther than tho se specified. .. indicates data are no t available.
+Develo pment Eco no mics, Develo pment Data Gro up (DECDG).
+
+39
+
+Internet users
+
+3/13/14
+
+Annex 7
+
+Annex 7: Federated States of Micronesia: Key Indicators Table, FY2009–FY2016
+
+1/
+
+FY2009 FY2010 FY2011 FY2012 FY2013 FY2014 FY2015 FY2016
+Est.
+Proj.
+Proj.
+Proj.
+Real sector (annual percent change)
+Real GDP
+Consumer prices
+Nominal GDP
+
+1.0
+6.2
+277.4
+
+2.5
+3.7
+294.4
+
+2.1
+4.3
+309.8
+
+0.4
+6.3
+326.2
+
+0.6
+2.2
+335.3
+
+0.6
+1.8
+343.3
+
+0.6
+1.8
+351.6
+
+0.6
+1.8
+360.0
+
+Consolidated government finance (in percent of GDP)
+Revenue and grants
+Revenue
+Grants
+Expenditure
+Current
+Capital
+Overall balance
+Overall balance (exc. Grants)
+
+65.9
+21.3
+44.6
+64.0
+47.6
+16.4
+1.9
+-42.7
+
+68.0
+21.6
+46.5
+67.6
+46.8
+20.8
+0.5
+-46.0
+
+64.9
+20.7
+44.2
+65.5
+45.5
+19.9
+-0.6
+-44.7
+
+66.0
+22.9
+43.1
+65.2
+44.2
+21.0
+0.8
+-42.3
+
+67.1
+24.7
+42.3
+64.6
+44.0
+20.6
+2.5
+-39.9
+
+66.5
+24.9
+41.6
+62.8
+42.6
+20.2
+3.7
+-37.9
+
+65.8
+25.0
+40.8
+62.0
+42.7
+19.3
+3.8
+-37.0
+
+65.4
+25.0
+40.4
+61.4
+41.7
+19.7
+4.0
+-36.4
+
+Compact Trust Fund (millions of U.S. dollars)
+
+138.3
+
+177.2
+
+198.5
+
+257.3
+
+319.0
+
+363.7
+
+412.5
+
+465.6
+
+115.3
+46.7
+132.5
+
+133.9
+55.7
+154.1
+
+143.5
+55.2
+166.2
+
+179.8
+56.8
+204.3
+
+188.0
+60.6
+208.7
+
+210.5
+64.7
+212.7
+
+15.4
+7.4
+
+15.1
+6.6
+
+14.4
+6.6
+
+14.3
+6.4
+
+14.6
+6.5
+
+14.4
+6.5
+
+…
+…
+…
+…
+…
+…
+
+…
+…
+…
+…
+…
+…
+
+-126.9
+-32.5
+108.5
+-50.8
+-18.3
+-155.5
+-56.0
+
+-128.3
+-29.7
+114.0
+-44.0
+-14.9
+-153.0
+-52.0
+
+-134.0
+-31.5
+111.5
+-53.9
+-17.4
+-157.5
+-50.9
+
+-129.4
+-24.1
+114.1
+-39.3
+-12.0
+-144.3
+-44.2
+
+-128.8
+-17.7
+113.7
+-32.7
+-9.8
+-138.1
+-41.5
+
+-132.3
+-15.1
+114.3
+-33.0
+-9.7
+-138.7
+-40.8
+
+-130.5
+-15.0
+112.5
+-33.0
+-9.4
+-132.4
+-37.7
+
+-128.7
+-15.0
+110.7
+-33.0
+-9.2
+-133.5
+-37.1
+
+External debt (in millions of U.S. dollars; end of period) 2/
+Stock
+(in percent of GDP)
+Debt service
+(in percent of exports of goods and services)
+
+84.6
+30.5
+3.9
+6.3
+
+84.3
+28.6
+4.4
+6.3
+
+87.1
+28.1
+5.0
+6.7
+
+87.4
+26.8
+5.1
+5.5
+
+87.6
+26.3
+5.0
+5.4
+
+87.6
+25.8
+5.1
+5.4
+
+…
+…
+…
+…
+
+…
+…
+…
+…
+
+Exchange rate regime (U.S. dollar is the official currency)
+Real effective exchange rate 3/
+
+106.7
+
+108.6
+
+107.6
+
+110.5
+
+109.0
+
+…
+
+…
+
+…
+
+Commercial banks (in millions of U.S. dollars; end of period)
+Foreign assets
+Loans
+Total deposits
+Interest rates (in percent, average for FY)
+Consumer loans
+Commercial loans
+Balance of payments (in millions of U.S. dollars)
+Trade balance
+Net services and income
+Private and official transfers
+Current account including official transfers
+(in percent of GDP)
+Current account excluding official transfers
+(in percent of GDP)
+
+Sources: Data provided by the FSM authorities, IMF staff estimates, and World Bank staff estimates.
+1/ Fiscal year ending September 30. Estimates for FY 2012 and projections for FY2013 are preliminary and based on data received from the authorities.
+2/ Government and public enterprise debt only.
+3/ Year 2000=100.
+
+40
+
+145°
+
+FEDERATED STATES
+OF MICRONESIA
+
+150°
+
+155°
+
+160°
+
+Northern
+Mariana
+Islands
+(U.S.)
+
+STATE CAPITALS
+
+FEDERATED STATES
+OF MICRONESIA
+
+NATIONAL CAPITAL
+STATE BOUNDARIES
+INTERNATIONAL BOUNDARY
+
+PACIFIC
+
+Guam (U.S.)
+
+This map was produced by the Map Design Unit of The World Bank.
+The boundaries, colors, denominations and any other information
+shown on this map do not imply, on the part of The World Bank
+Group, any judgment on the legal status of any territory, or any
+endorsement or acceptance of such boundaries.
+
+OCEAN
+
+M AR S HAL L I S L AN DS
+Ulithi
+
+10°
+
+Colonia
+Ngulu
+
+YAP
+ISLANDS
+
+10°
+
+Fais
+Gaferut
+Faraulep
+Sorol
+Woleai
+
+West
+Fayu
+
+Olimarao
+Elato
+Ifalik
+
+Pikelo
+
+Namonuito
+Pulap
+
+Lamotrek
+Satawan
+Pulusuk
+
+Eauripik
+
+PALAU
+
+MAGUR
+ISLANDS
+
+Puluwat
+
+HALL
+ISLANDS
+
+Fayu
+
+Weno
+
+SENYAVIN ISLANDS
+Oroluk
+
+Weno
+
+Pohnpei
+
+PALIKIR
+
+CHUUK
+
+YA P
+
+Murilo
+
+CHUUK
+ISLANDS
+
+5°
+
+Namoluk
+
+Kolonia Mwokil
+Pingelap
+
+Ngatik
+
+MORTLOCK
+ISLANDS
+
+Kosrae
+
+Tofol
+
+POHNPEI
+
+5°
+
+Nukuoro
+
+C a r o l i n e
+
+KOSRAE
+
+I s l a n d s
+Kapingamaringi
+
+0°
+
+0°
+
+0
+
+5°
+140°
+
+200
+
+300 Kilometers
+
+N AUR U
+PAPU A
+NEW
+GU I N EA
+
+0
+
+145°
+
+150°
+
+155°
+
+100
+
+200
+
+300 Miles
+
+S OL OM ON I S L AN DS
+
+160°
+
+165°
+
+IBRD 33406
+
+JANUARY 2005
+
+IN D ONES I A
+
+100
+
+

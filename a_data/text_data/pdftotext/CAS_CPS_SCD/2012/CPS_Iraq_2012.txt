@@ -1,0 +1,4931 @@
+Public Disclosure Authorized
+
+Document of
+The World Bank Group
+
+FOR OFFICIAL USE ONLY
+
+Public Disclosure Authorized
+
+Public Disclosure Authorized
+
+Report No. 73265-IQ
+
+INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT
+INTERNATIONAL DEVELOPMENT ASSOCIATION
+INTERNATIONAL FINANCE CORPORATION
+MULTILATERAL INVESTMENT GUARANTEE AGENCY
+
+COUNTRY PARTNERSHIP STRATEGY
+FOR
+THE REPUBLIC OF IRAQ
+FOR THE PERIOD FY13-FY16
+
+Public Disclosure Authorized
+
+November 13, 2012
+
+MNC02 Country Management Unit
+Middle East and North Africa Region
+Strategy Unit
+Middle East and North Africa Region
+International Finance Corporation
+Multilateral Investment Guarantee Agency
+
+This document has a restricted distribution and may be used by recipients only in the performance of their official
+duties. Its contents may not otherwise be disclosed without World Bank authorization.
+
+The date of the last Interim Strategy Note was February 19, 2009
+CURRENCY EQUIVALENTS
+US$1 = IQD 1250 (as of June 15, 2012)
+
+ABBREVIATIONS AND ACRONYMS
+AAA
+AFD
+AIDS
+BSA
+CAS
+CDD
+CPPR
+CPS
+CSO
+DFI
+DFID
+EC
+EITI
+ESW
+EU
+FMA
+FY
+GCC
+GDP
+GGFR
+GOI
+HIV
+IBRD
+ICA
+ICT
+IDA
+IDPs
+IFC
+IFMIS
+IMF
+INES
+ITF
+
+Analytical and Advisory Activities
+Agence Francaise de Developpement
+(French Development Agency)
+Acquired Immune Deficiency Syndrome
+Board of Supreme Audit
+Country Assistance Strategy
+Community Driven Development
+Country Portfolio Performance Review
+Country Partnership Strategy
+Civil Society Organization
+Development Fund for Iraq
+Department for International Development
+European Commission
+Extractive Industries Transparency Initiative
+Economic and Sector Work
+European Union
+Fiduciary Monitoring Agent
+Fiscal Year
+Gulf Cooperation Council
+Gross Domestic Product
+Global Gas Flaring Reduction
+Government of Iraq
+Human Immune Deficiency Virus
+Int’l Bank for Reconstruction & Development
+Investment Climate Assessment
+Information and Communication Technologies
+International Development Association
+Internally Displaced Persons
+International Finance Corporation
+Integrated Financial Management Information System
+International Monetary Fund
+Iraq National Energy Strategy
+Iraq Trust Fund
+
+Vice President
+Director
+Special Representative
+Task Team Leader
+
+IBRD
+Inger Andersen
+Ferid Belhaj
+Marie-Hélène Bricknell
+Janet Dooley
+
+JICA
+JPOC
+JSDF
+KRG
+M&E
+Mbd
+MENA
+MDGs
+MIGA
+MSMEs
+NBP
+NDP
+PDS
+PEFA
+PER
+PFM
+PPP
+PRS
+SABER
+SBA
+SIDA
+SMEs
+SOEs
+SPBF
+SSN
+TA
+UGSC
+UN
+UNAMI
+UNHCR
+WBG
+WfD
+WDR
+
+Japan International Cooperation Agency
+Joint Portfolio Oversight Committee
+Japan Social Development Fund
+Kurdistan Regional Government
+Monitoring and Evaluation
+Million barrels per day
+Middle East and North Africa
+Millennium Development Goals
+Multilateral Investment Guarantee Agency
+Micro, Small and Medium Enterprises
+National Board of Pensions
+National Development Plan
+Public Distribution System
+Public Expenditure and Financial Accountability
+Public Expenditure Review
+Public Financial Management
+Public-Private Partnerships
+Poverty Reduction Strategy
+System Approach for Better Education Results
+Stand-by Arrangement
+Swedish International Development Cooperation Agency
+Small and Medium Enterprises
+State-Owned Enterprises
+State and Peace-Building Fund
+Social Safety Net
+Technical Assistance
+University Governance Score Card
+United Nations
+United Nations Assistant Mission for Iraq
+United Nations High Commissioner for Refugees
+World Bank Group
+Workforce Development
+World Development Report
+
+IFC
+Dimitris Tsitsiragos
+Mouayed Makhlouf
+
+MIGA
+Michel Wormser
+Ravi Vish
+
+Ziad Badr
+
+Persephone Economou
+
+ACKNOWLEDGEMENTS
+This Country Partnership Strategy (CPS) was prepared by a team led by Janet Dooley and previously
+Barbry Keller, under the guidance of Hedi Larbi, previous Country Director and Ferid Belhaj, current
+Country Director, and Marie-Hélène Bricknell, Special Representative for Iraq. Core team members
+include Pilar Maisterra, Mary Eunice Barroso, Kevin Carey, Sibel Kulaksiz, Ousman Jah, Sabah
+Moussa, May Ibrahim, and Anne Njuguna. Jorge Araujo, Anwar Aridi, Marian Saleh, Sana Al-Nimer,
+Arun Arya, Ibrahim Dajani, Fabrice Mosneron Dupin, Caroline Van Den Berg, Stephen Rimmer,
+Hooman Dabidian, Maged Hamed, Lianqin Wang, Ghassan Alkhoja, Sahar Nasr, Bertine Kamphius,
+Elisabeth Huybens, Alexandre Marc, Stephen Ndegwa, Simon Stolp, Carolyn Winter, Sarah Nedolast,
+Sebnem Akkaya, Veronique Kessler, Abdelmoula Ghzala, Abdulhamid Azad, Caroline Freund, Dale
+Lautenbach, Ferhat Esen, Gloria La Cava, Guenter Heidenhof, Husam Mohamed Beides, Jad Mazareh,
+Rajendra Singh, Jonathan Walters, Marc Jean Yves Lixi, Nikolai Soubbotin, Paul Prettitore, Victoria
+Gyllerup, Simon Bell, Suiko Yoshijima, Tara Vishwanath, Tamer Rabie, Tarig Mohamed Osman,
+Virginia Jackson, Shaymaa Hassan, and other country team members contributed to this strategy. For
+the IFC, the team includes: Ahmed Attiga, Ziad Badr, and Rapti Goonesekere. The MIGA team members
+are Persephone Economou and Paul Barbour.
+In addition, the team would like to thank the Government especially our counterparts in the Ministry of
+Finance, including Dr. Fadhil Othman, Deputy Minister of Finance, and Dr. Salah Hadithi for
+coordinating and hosting the CPS workshop with the Government, and KRG Ministry of Planning, as
+well as the representatives of the various line ministries, and the Iraq Executive Director’s office of the
+World Bank. In addition to the Iraqi authorities, the team thanks the various stakeholders, civil society
+organizations including NGOs, trade unions, think-tanks and media organizations, as well as
+international partners met throughout Iraq who gave their time, insights and valuable input to inform this
+strategy.
+
+FY13-16 COUNTRY PARTNERSHIP STRATEGY FOR
+IRAQ
+TABLE OF CONTENTS
+I. EXECUTIVE SUMMARY ..................................................................................................... i
+II. COUNTRY CONTEXT AND DEVELOPMENT AGENDA ............................................. 1
+Political and Security Developments ........................................................................................ 1
+Social and Poverty Trends ........................................................................................................ 2
+Economic and Governance Context.......................................................................................... 3
+Iraq Medium-Term Prospects ................................................................................................... 4
+Key Development Challenges................................................................................................... 7
+Government Priorities ............................................................................................................. 14
+III. BANK GROUP PARTNERSHIP STRATEGY ................................................................. 15
+A. Lessons Learned from Previous Engagement and Stakeholder Feedback.............................. 15
+B. Proposed World Bank Group Partnership Strategy ................................................................ 19
+Result Area 1: Improving Governance ................................................................................... 22
+Result Area 2: Supporting Economic Diversification for Broadly Shared Prosperity ........... 23
+Result Area 3: Improving Social Inclusion and Reducing Poverty ........................................ 25
+C. Implementing the FY13-16 Country Partnership Strategy ..................................................... 27
+Financing of the Program........................................................................................................ 28
+Fostering Stronger Partnerships .............................................................................................. 28
+Strategic Communications ...................................................................................................... 29
+IV. MANAGING RISKS ............................................................................................................ 29
+TABLES:
+Table 1: Iraq Medium-Term Outlook……………………………….……………………………….…6
+Table 2: Indicative Assistance Program…………………………….………………………………...21
+FIGURES:
+Figure 1: Civilian Casualties, January 2003-January 2011…………………………………………….1
+Figure 2: Selected Economic Indicators………………………………………………………………..5
+Figure 3: Rule of Law Measures (Iraq vs. MENA Compared)…………………………………………8
+Figure 4: Unemployment Rate by Gender and Other Indicators……………………………………….9
+Figure 5: Leading Constraints to Firms Operating in Iraq…………………………………………….10
+Figure 6: Literacy Rate of Segment of Population Aged 15-24 Years………………………………...13
+Figure 7: Active Portfolio………………………………………………………………………...…..17
+BOXES:
+Box 1: Portfolio and Supervision Arrangements……………………………………………………...16
+Box 2: Observations from a Gender Review of the Iraq portfolio……………………………………18
+
+ANNEXES:
+Country Specific Annexes:
+Annex 1: Iraq CPS Results Framework (FY13-16)…………………………………...………….....31
+Annex 2: Key Ongoing Technical Assistance Supporting National Strategies……………………...36
+Annex 3: Consultations Report………………………………………………………………...…....37
+Annex 4: Iraq Matrix of Donor Interventions………………………………………...………..……40
+Annex 5: Iraq’s Progress towards the MDGs………………………………………………….…….41
+Standard CAS Annexes:
+Annex A2: Iraq at a Glance…………………………………………………………………….……43
+Annex B2: Selected Indicators of Bank Portfolio Performance and Management…………….……46
+Annex B5: Iraq Social Indicators……………………………………………………………….…...47
+Annex B6: Iraq Key Economic Indicators…………………………………………………………..48
+Annex B7: Key Exposure Indicators………………………………………….……………………..50
+Annex B8: World Bank Portfolio……………………………….….……………….........................51
+Annex B8: IFC Portfolio…………………………………………….………....……………………52
+Annex B8: MIGA’s Outstanding Exposure……………………….………………………………...53
+MAP IBRD 33422R………………………………………………………………………………….54
+
+Country Partnership Strategy for Iraq 2013-2016
+I.
+
+EXECUTIVE SUMMARY
+
+i.
+Iraq is at a crossroads. While past years saw a country in transition, with sectarian violence
+particularly from 2005-2008, and strong presence of foreign intervention, the situation in Iraq is
+changing, and Iraqi-led political processes are maturing. The last United States (US) troops withdrew
+in December 2011, marking the end of eight years of the US-led military presence in Iraq. The
+international donor community, which has been heavily involved in Iraq over the past years, is
+incrementally withdrawing or shifting from grant-based reconstruction efforts to loans and
+partnerships. Two elections have been held since 2003, providing for further maturity in national
+political processes. The latest elections were held in 2010, resulting in a delicately balanced
+governing coalition. The Government has been organizing itself to develop and agree on complex
+national compacts at a country and sectoral level: on sharing the country’s national resources through
+the proposed hydrocarbons law; and designing and implementing strategies in key areas such as
+energy, education, and pensions. Iraq has returned as an active member of the international
+community, forging long-term engagements with international organizations and re-connecting with
+the region at large, reflected, for example, by hosting the 2012 Arab Summit.
+ii.
+On the economic front, Iraq is a richly resource-endowed country; however this presents
+its own challenges. Oil production is projected to continue increasing to reach about six million
+barrels per day by end of this decade. However, oil dependence makes the country highly susceptible
+to oil price fluctuations, and the hydrocarbons sector does not provide enough jobs for Iraq’s large
+population. In addition, given institutional capacity limitations, Iraq faces great difficulties in
+effectively using the vast revenues generated by oil and in effectively delivering services to the
+population. While Iraq has achieved growth and reduced inflation in recent years, issues remain with
+medium-term budget planning and expenditure, corruption, inequality, political disruption, and other
+vulnerabilities which hold back its progress. Iraq is also attempting to recover from the setbacks of
+years of conflict and civil strife. Progress in achieving the Millennium Development Goals (MDGs)
+is slow, and there have been reversals on some indicators. The development challenge for Iraq is to
+build up its capacity to properly use its own substantial resources for the benefit of current and future
+generations and to diversify its economy away from over-reliance on oil. The challenge is also to
+move from a country-centric development agenda to a more open and competitive stance, including
+regional and broad international integration through trade, commerce and new technologies.
+iii.
+In 2010, the Government prepared the National Development Plan (NDP) 2010-2014, a
+medium-term development strategy aimed at providing a framework for the country's
+sustainable development. This strategy is complemented by a Poverty Reduction Strategy (PRS)
+done in January 2009, developed with World Bank support. The NDP's economic pillar aims to
+achieve Gross Domestic Product (GDP) growth of 9.4 percent per annum; to generate 3 to 4.5 million
+new jobs; to diversify the economy away from oil and into agriculture, industrial sectors, and tourism;
+and to create a stronger role for the private sector, both in terms of investment and job opportunities.
+The strategy aims to reduce poverty rates by 30 percent from 2007 levels by focusing on
+comprehensive rural development and providing basic services such as education and healthcare,
+particularly for vulnerable groups such as youth and women. The NDP focuses on environmentallysensitive economic and social development using available natural resources in a sustainable way. It
+also aims to strengthen the role of local governments to bring service delivery and economic
+development closer to the people. The NDP is in the process of being updated to cover the period
+2013-2017.
+
+i
+
+iv.
+This first World Bank Group Country Partnership Strategy (CPS) for Iraq aims to
+support Government efforts to implement the NDP, building on stakeholder feedback and
+lessons learned. It also reflects the Bank and IFC’s regional framework and strategy for the Middle
+East and North Africa (MENA) Region which has evolved to respond to the events of the Arab Spring
+and focuses on governance, sustainable private sector-led growth, job creation and economic and
+social inclusion. This CPS marks a turning point in the Bank’s engagement with Iraq. Following
+three interim strategy notes, this CPS moves away from transition to embrace a deeper and longer-term
+engagement with a view to informing important policy choices that will lay the foundation for Iraq’s
+future. The CPS is built on a thorough dialogue with the Government and stakeholders, including
+civil society, academia and the private sector. The Bank’s previous strategies focused on supporting
+Iraq’s reconstruction efforts, building capacity of state institutions and laying the foundation for
+long-term growth. The Bank’s program included significant analytical work, technical assistance and
+training, and investments across a range of sectors including infrastructure, health, education and
+social protection, as well as a Development Policy Loan supporting budget management, the financial
+sector and the social protection system. Project support was financed through about US$500 million
+from the multi-donor Iraq Trust Fund (ITF) and a one-time allocation of US$500 million from the
+International Development Association (IDA). The lessons learned from the Bank Group’s
+engagement over the past several years will inform this CPS, in particular the need to adapt to realities
+on the ground and the need for strong Government ownership.
+v.
+The Bank Group is shifting to a new modality of engagement with Iraq. The Bank’s
+nearly US$1 billion reconstruction and recovery portfolio will come to an end during the CPS period.
+The Bank Group’s new program will seek to help Iraq leverage its own vast public resources and build
+effective public and private institutions needed to create jobs and deliver services. The Bank will also
+start helping Iraq leverage its strategic regional positioning and human capital potential to build the
+tenets of its participation in and integration into its immediate region and beyond. This will require
+the Bank Group to bring knowledge and best practices to help find practical solutions and to move
+from a transaction-based engagement to strategic support for institutional development. Catalytic
+investments financed by the International Bank for Reconstruction and Development (IBRD),
+analytical and advisory activities (AAA), International Finance Corporation (IFC) advisory and
+investment engagement, guarantees from the Multilateral Investment Guarantee Agency (MIGA), and
+reimbursable services will form the backbone of this CPS.
+vi.
+To support the country’s efforts to build stronger government institutions and a more
+diversified economy that can deliver services to the population and create jobs, the CPS is
+structured to pivot around three axes: (i) Improving Governance; (ii) Supporting Economic
+Diversification for Broadly-Shared Prosperity; and (iii) Improving Social Inclusion and Reducing
+Poverty. The key focus areas which shaped existing programs (i.e. public financial management,
+strengthening institutions, private sector development, infrastructure, and service delivery) remain
+relevant in this context. Gender is an important cross-cutting theme. On governance, the Bank Group
+will seek to understand sector-wide governance challenges, and support improved fiscal management,
+public procurement, government auditing, and civil service performance; expanded demand-side
+accountability, particularly for beneficiaries of public services; setting and enforcing high standards
+for managing Bank resources; and building coalitions for addressing governance and anti-corruption
+challenges at the country level. Unleashing Iraq’s growth potential in the non-oil sector will involve
+efforts to improve the business environment; expand core infrastructure, especially in roads (with a
+view to deepening regional integration and increasing market size), water and electricity; enhance
+agricultural productivity, with a focus on food security; and strengthen public sector management and
+sub-national governance. In addition, the Bank Group will seek to help the Government improve the
+management of water resources and to address climate-change given Iraq’s high vulnerability.
+
+ii
+
+Reducing inequality and social exclusion will involve increasing the access of the poor—and in
+particular women—to basic education, health services and water and sanitation, and improving social
+safety nets.
+vii.
+A proposed program is outlined in the CPS to support this agenda. Analytical and
+advisory activities include, inter alia, follow-up work to a Public Expenditure Review and a Report on
+Oil Revenue Management for Economic Diversification, a Poverty and Gender Assessment,
+Agriculture Technical Assistance, a Gas Master System Study, and Financial Sector Dialogue. IBRD
+projects amounting to US$540 million have been identified starting in FY14 for five operations
+including Integrated Financial Management Information Systems; Governance; Trade and Transport
+Corridors; Irrigation and Water Resources and Water Supply and Sewerage. In addition, a program of
+Reimbursable Services is being developed.
+viii.
+Implementing the Program. Iraq’s realities call for a CPS that is flexible in design and
+implementation arrangements and adaptable to evolving circumstances. The Bank will adjust its
+program depending on opportunities and progress in the results areas. The indicative lending
+envelope is US$600-900 million during the CPS period. IFC will continue investing in the private
+sector with an indicative program of US$100-150 million per year (assuming continued improvement
+in the business environment), and will ramp up its advisory services in the country. MIGA will
+continue to support Iraq’s efforts to attract foreign private investors through the provision of political
+risk guarantees. The Bank Group will continue to work closely with other development partners in
+the context of the International Partners’ Forum, as well as with civil society, the media and other
+stakeholders. Strategic communications will seek to provide information to stakeholders and to
+provoke constructive and informed debate.
+ix.
+Managing Risks. There are several risks to the Bank Group’s program in Iraq, including a
+politically fluid situation, vested interests, regional instability, in-country violence and insecurity as
+well as economic volatility related to the fluctuation of oil prices. This CPS aims to be candid about
+identified risks and their impact - direct or indirect - on its implementation. The most important risk
+pertains to the political and security situations which remain fragile. Gaps in capacity or commitment
+of the Government to implement reform or reversal of policies, particularly near the next elections,
+may also undermine the success of the Bank’s program. Other risks include vulnerability to external
+shocks and terrorism. Project implementation risks include weaknesses in project and contract
+management, fiduciary and safeguards management. The Bank Group intends to be realistic in what
+it can accomplish and to adapt the program as needed. The Bank will continue to make policy
+recommendations and support prudent macroeconomic management by the Government, which is the
+key to providing the fiscal space for the Government to adjust appropriately to fiscal shocks when they
+occur and will continue to find ways to carry out supervision of the ongoing portfolio despite a difficult
+security environment. In the event that the operating environment deteriorates in Iraq, IFC will focus
+on portfolio management and engaging selectively through its advisory arm.
+
+iii
+
+II.
+
+COUNTRY CONTEXT AND DEVELOPMENT AGENDA
+
+Political and Security Developments
+1.
+After years of uncertainty, conflict and instability, the Iraqi state, while still fragile, has
+been consolidating. Following a gradual slow-down of violence and insecurity during the period
+2006-08, parliamentary elections in 2010 resulted in a coalition government presided over by Nouri
+Al-Maliki of the Al-Dawa party (Shi’a) and including Ministers from the Al-Iraqiya (secular), the
+Saadrist (Shi’a), and the Kurdish blocs. However, sectarian and political divisions continue. More
+recently, tensions between the Al-Dawa party and Al-Iraqiya have threatened the stability of the
+governing coalition. Attempts to bring all parties to the table through a national conference have failed
+to materialize thus far, creating an atmosphere of political instability. In recent weeks there has been a
+lowering of tensions between the Kurds and the central authorities over the exploration of oil. This will
+hopefully open the way for negotiations to resume over a national oil law. At the same time, legislative
+processes in Iraq are maturing, and the delicately-balanced governing coalition has been organizing itself
+to develop and agree on country and sector level strategies.
+2.
+Security has improved overall, but the situation is volatile. Iraq has made significant
+progress in improving security with violent incidents declining from a high of 2,700 per month in 2008 to
+263 as of March 2012 (Figure 1). The US fully withdrew its troops in December 2011, and although the
+security situation is now greatly improved since the mid-2000s, incidents continue sporadically,
+especially around religious or political events with some large-scale attacks against security and civilian
+targets. Ramadan 2012 saw a spike in violence with over 400 Iraqis reported killed. The political
+situation remains volatile and unpredictable, affecting the Government’s ability to manage security and
+focus on development issues. At the same time, Iraq remains vulnerable to regional instability. The
+Syrian crisis, which is spilling over to Iraq as other neighboring countries, is adding to an already difficult
+situation.
+3.
+Centralization of power and corruption threaten the legitimacy of the state. Iraq’s
+constitution calls for a federal state, but power is concentrated in Baghdad with oil wealth concentrated
+primarily in areas such as the Kurdistan Regional Government (KRG), Kirkuk, and Basra. Only KRG
+enjoys increased autonomy, prompting other regions, such as the Sunni Diyala and Salahaddin Provinces
+to also demand some level of autonomy and self-governing as stipulated by the Constitution. The
+breakdown of society during the Iraq war along sectarian and ethnic lines has further weakened Iraq’s
+unity. Governance challenges also threaten the legitimacy of the state. The three pillars of state
+oversight mandated by the constitution, the Commission of Integrity, the Board of Supreme Audit and the
+Council of Representatives, are hampered in delivering on their mandates and the judicial system is not
+yet able to prosecute corruption cases.
+Figure 1: Civilian Casualties, January 2003 – January 2011 1
+40000
+30000
+20000
+10000
+0
+
+1
+
+Source: Iraqbodycount.org
+
+1
+
+4.
+Differences over distribution of power and coalition partners have dominated Iraqi politics,
+distracting attention from the immediate task of rebuilding the country and laying the ground for
+economic development. If these differences continue, political tensions are likely to rise until the next
+election, worsening economic management, delaying governance improvements impeding the delivery of
+services to the population, and potentially aggravating the fragile security situation.
+Social and Poverty Trends
+5.
+Despite its vast oil wealth, Iraq’s standard of living has declined over the past 25 years.
+Gross domestic product (GDP) per person declined by a third between 1980 and 2006, from about
+US$3,000 to about US$2,000 as a result of conflict and war. Social trends have paralleled economic
+trends: for example, primary school enrollment, an area where Iraq traditionally led in the region, has
+declined over the past 25 years.
+6.
+Poverty is widespread but shallow, particularly affecting vulnerable groups such as widows
+and the displaced. The 2010 Poverty Assessment showed that overall poverty is 23 percent. About 6.9
+million Iraqis are classified as poor, half in rural areas and half in urban areas. Iraq’s poverty gap index
+(i.e. average distance from the poverty line) of 4.5 percent is also extremely low compared to most other
+countries. Iraq’s comparative absence of absolute poverty is largely a result of the impact of universal
+food rations under the Public Distribution System (PDS), but this does not capture the deterioration of
+livelihoods for ordinary Iraqis. The poor lack access to employment –– two-thirds work in the informal
+sector, most in non-wage agriculture (27 percent) or as employees in small unregulated enterprises (24
+percent). The poor also suffer from shortages of housing and basic services – 89 percent live in crowded
+housing with very poor electricity service. Schools are in poor condition with low enrollment rates,
+especially for poor girls. 2 The country’s current national poverty target is to reduce poverty from 23
+percent (2007) to 16 percent (2015). The poverty line will be revalidated by the 2012 household survey
+currently underway, which may affect the target.
+7.
+Rapid population growth, urbanization and demographic transition will shape Iraq’s
+development prospects for the next decades. Years of war and sectarian strife have led to a rural to
+urban shift in Iraq as Internally Displaced Persons (IDPs) increasingly opt to stay in areas where they feel
+more secure. This has led to a growing expansion of the urban population which cities like Baghdad are
+ill-equipped to accommodate. The pressure on housing and basic services, including water and
+sanitation, is a growing social problem. The urban transport, water and sanitation infrastructure for
+Baghdad was planned for 600,000 inhabitants, but today Baghdad hosts a population of about five to six
+million.
+8.
+Iraq has a very low employment rate (only 38 percent of adult Iraqis are employed), and
+women face particular challenges in terms of economic opportunities. The public sector employs 32
+percent of all working Iraqi adults, and the job-creating capacity of the hydrocarbons sector is very
+limited. The female labor force participation rate is only about eleven percent. Female unemployment
+is at 20 percent versus male unemployment at 14 percent (2008). According to the 2007 Household
+Socio-Economic Survey (which formed the basis of the poverty assessment in the Poverty Reduction
+Strategy), the relatively few women who participate in the labor force are heavily concentrated either in
+public sector wage jobs, notably education (non-poor, educated, primarily urban women) or at the
+opposite end of the spectrum in non-wage agricultural jobs (poor, less-educated, mostly rural women).
+The situation of widows in Iraq is acute. There are between one to three million estimated 3
+female-headed households in Iraq as a result of decades of war and violence. The Iraqi Government has
+2
+
+3
+
+United Nations (UN)/Government of Iraq, The UN Millennium Development Goals (2010).
+International Committee for the Red Cross
+
+2
+
+developed a social welfare program intended to help widows financially, but the allowance is deemed
+insufficient and many do not receive it.
+9.
+In keeping with regional trends, youth unemployment is particularly high. Young people,
+aged 18–30, are Iraq’s largest demographic group but they have few economic opportunities. Youth
+unemployment remains high for both women and men: 30 percent for women and men aged 20-24
+(2008), a significant increase from 1990 when youth unemployment was around 7 percent for both young
+men and women. Youth, particularly from rural areas, are trapped within communities where the quality
+of public education is poor, organized recreational opportunities are non-existent, and the unemployment
+rate for 16–25 year-olds exceeds 35 percent. Idleness and a lack of information and effective awareness
+campaigns for youth also add to their exclusion from political and economic opportunities.
+10.
+Returnees and IDPs are a significantly marginalized group. As of September 2011, 1.3
+4
+million Iraqis were internally displaced. Many IDPs live in deplorable conditions and are deprived of
+essential assistance, with their need for humanitarian support increasing the longer their displacement
+continues. Within Iraq, there are now an additional 50,000 refugees from Syria with an estimated 500
+streaming across the border—largely into northern Iraq—on a weekly basis. 5 Iraqi returnees face many
+challenges, including lack of security, livelihood prospects, and social services.
+Economic and Governance Context
+11.
+Amid the challenging political and security environment, Iraq has achieved considerable
+progress toward macroeconomic stability since 2003. Due to sound monetary policy and increasing
+oil production, Iraq achieved single-digit inflation, economic growth resumed, and the fiscal and current
+account balances have strengthened (after deteriorating in the wake of the global financial crisis). Iraq’s
+debt-to-GDP ratio has been on a downward trajectory due to debt restructuring with the Paris Club and
+rapid GDP growth. The macro stabilization program has been supported by the International Monetary
+Fund (IMF) through a Stand-By Arrangement (SBA), while the World Bank’s Fiscal Sustainability
+Development Policy Loan, approved in February 2010, supported structural reforms in budget
+management, the social protection system and the financial sector.
+12.
+Once macroeconomic stabilization was achieved, oil market conditions have become the
+dominant determinant of growth. The immediate aftermath of war saw a sharp decline in growth and
+a spike in inflation (Figure 2). Inflation was brought down to single digits through an exchange rate peg
+and a gradual improvement in the economy’s supply response. Crude oil production and exports have
+steadily increased in recent years, with production rising from less than two million barrels per day (mbd)
+in 2004 to an estimated 2.7 mbd in 2011; exports were about 2.1 mbd in 2011. At the same time, prices
+for Iraqi crude oil, after dipping in 2009 in the wake of the global financial crisis, increased to US$104 per
+barrel in 2011.
+13.
+Budget surpluses have been underpinned by elevated oil prices, but the budget remains
+vulnerable to shocks. While the 2011 surplus was nearly eight percent of GDP, the authorities
+exceeded the spending bill target by paying salary increases mandated by Parliament and by spending
+more on social services, due primarily to international food price rises which impact the fiscal cost of the
+Public Distribution System (PDS) – Iraq’s virtually universal food price subsidy scheme. The IMF SBA
+has helped provide support to sound fiscal management. While viewed as precautionary by the
+Government, the SBA provides a framework of fiscal discipline for the Bank’s policy dialogue. The
+2012 budget adopted by Parliament is broadly in line with IMF recommendations, and fiscal policy has
+4
+
+5
+
+United Nations High Commissioner for Refugees (UNHCR) estimates
+UNHCR, October 25, 2012
+
+3
+
+remained on track. Increasing off-budget domestic debt in 2010-2012 presents a potential vulnerability.
+14.
+The heavy dependence on oil has two key implications for fiscal policy and institutions.
+First, it subjects revenue and therefore expenditure to volatility of international oil prices. Second,
+dependence on oil receipts (and negligible contribution of tax revenues) to fund the budget means that the
+authorities face little incentive to build strong budgetary institutions and transparency, due in part to
+limited demand for accountability to the population. Medium-term fiscal planning is rudimentary and
+lacks credibility with the public. Fiscal forecasting is made primarily on the basis of projected oil export
+volumes and prices rather than robust macroeconomic and fiscal analysis.
+15.
+The overhang of Saddam-era debts has been reduced but not eliminated. In November
+2004, the Paris Club countries agreed to reduce the country’s Paris Club debts by 80 percent in three
+phases provided Iraq met a specific set of conditions. Some Paris Club creditors also agreed to additional
+bilateral relief efforts beyond the 80 percent reduction. Iraq was able to abide by all of the Paris Club
+conditions, and in 2009, the successful conclusion of the IMF 2007-2009 SBA triggered the release of the
+final tranche of debt relief agreed by the Paris Club. A number of Iraq’s non-Paris Club creditors have
+also agreed to debt relief comparable to the Paris Club treatment. Iraq’s commercial debt was also
+successfully restructured with terms comparable to the ones offered by Paris Club creditors. Overall, the
+external debt to GDP ratio fell from 220 percent in 2006 to 107 percent of GDP in 2010 6. However, even
+with these significant relief efforts by a number of Iraq’s creditors, further negotiations are needed to
+determine how substantial non-Paris Club debts (notably to the Gulf Cooperation Council (GCC)
+countries) will be settled.
+Iraq’s Medium-Term Prospects
+16.
+Iraq’s oil production and export revenues are projected to increase well into the medium
+term. Real GDP growth is projected to increase by ten percent in 2012 and 14.7 percent in 2013, even if
+the pace of global growth is low. Growth will be driven by expansion of crude oil production and exports
+and associated investment needs. However, non-oil sector growth is only about five percent per year, far
+below what would be expected for a reconstructing country. In 2011, oil sector revenues accounted for
+70 percent of GDP, 91 percent of total revenues, and 99 percent of export revenues. This strong
+dependence of the economy on the oil sector is projected to persist. The lack of diversification also
+undermines Iraq’s ability to conduct medium-term fiscal policy since there is no non-oil tax base
+providing more predictable revenue flows.
+17.
+The recurrent budget is dominated by a few major items related to security and basic
+services, while the capital budget suffers from chronic under-execution. For the recurrent budget,
+nearly 40 percent of employee compensation is on security and defense. Fuel subsidies, pensions, and
+the food distribution system account for much of recurrent non-wage spending; these policy instruments
+constitute an imperfect social safety net with significant inefficiencies. For the capital budget, the
+average execution rate is about 60 percent, and the failure to deliver key projects on time contributes to
+frustrations of the public and investors with the Government.
+18.
+Improvements in fiscal stability and transparency have not been followed by the building of
+sound fiscal institutions. Besides the notable reduction in budget deficits in recent years (down from 22
+percent of GDP in 2009), revenue transparency has improved. In this regard, the roles played by the
+Development Fund for Iraq (DFI) – now fully under Iraqi management – as well as the Extractive
+Industries Transparency Initiative (EITI) are important. However, the current fiscal policy framework
+falls short of the level needed, given Iraq’s circumstances. This pertains in particular to: (i) reducing the
+6
+
+IMF Second Review of SBA, March 2011
+
+4
+
+costs of oil revenue volatility by de-linking government spending from short-term fluctuations in oil
+export proceeds; (ii) safeguarding the quality of public spending through strengthened public expenditure
+management systems; and (iii) ensuring longer-term fiscal sustainability through provision for incomegenerating assets, whether real or financial.
+Figure 2: Selected Economic Indicators
+
+19.
+Because of its large youth bulge and the need to provide employment for these young labor
+force entrants, Iraq cannot rely only on its oil wealth. Economic diversification will be essential for
+job creation. Because the energy sector is capital intensive, it is generating jobs in the magnitude of tens
+of thousands, whereas the country’s job creation needs run into the millions. Numerous analyses of
+private investment point to the need for regulatory reforms which will allow for increasing private sector
+involvement in sectors outside the oil industry, providing the vehicle for diversification and jobs.
+Agriculture and religious tourism are identified as potential sources of diversification. Neither sector
+could be a major national employment driver on its own, but they have tremendous growth potential and
+strong linkages with the service sector, where the bulk of the jobs lie for the Iraqis. On tourism, millions
+of attendees at the major pilgrimage sites in Karbala and Najaf are reported, and those arriving by land are
+not fully captured in the official statistics. Thus the total number of visitors is already in the millions,
+even with the current security situation.
+20.
+Productivity-led growth would require a more skilled labor force. Although the country has
+a legacy as a center of education and culture, there is a significant problem of illiteracy especially among
+women. Iraq will have difficulty achieving momentum in productivity growth without quality education
+
+5
+
+and expansion in market size and for this, better global and regional integration is essential. The private
+sector needs to be seen as an integral player in Iraq's development. Investment opportunities are already
+present in the construction, banking, industry, agriculture, agribusiness and tourism sectors, and the
+private sector has the knowledge and incentives to take advantage of them if the right enablers are present.
+These opportunities will, if realized, provide substantial sources of job creation and diversified growth.
+Table 1: Iraq Medium-Term Outlook
+
+21.
+Iraq’s difficult political legacy is likely to exacerbate the usual resource curse problems
+associated with oil and gas abundance. Since oil revenues are seen as collective property, in the
+
+6
+
+absence of well-defined distribution mechanisms, there will be a tendency for everyone to race to get
+“their share.” This process could easily degenerate into perceptions of unfairness aggravating existing
+tensions. Furthermore, despite all the emphasis on investment in recent budgets, Iraq faces the prospect
+of preference for investments that can be made regionally specific or in some sense associated, if not
+appropriated, by local interests. Conversely, the federal layer, especially non-security, could get
+squeezed. The political economy of the country points to the need for a distribution policy that favors job
+creation for all, equitable access to basic services in all regions, and fair and transparent social safety nets
+which target the most needy and vulnerable groups across community and political spectrum.
+22.
+Under the baseline medium-term outlook, Iraq will have no significant budget or external
+financing needs (Table 1). This is because oil revenues will be adequate to ensure that the DFI can fund
+the budget, while foreign reserves will easily cover prospective external financing requirements. Gross
+foreign reserves are likely to reach US$84 billion in 2015, and DFI balances should also substantially
+increase. However, the baseline is subject to wide uncertainty. First, the baseline assumes oil export
+prices of around US$100 per barrel, but various factors point to a medium-term weakening of oil market
+prospects, including the emergence of shale gas and the impact of Iraq’s own increased crude oil supply
+on world prices. Second, fiscal space in the budget is limited, due to the role of politically sensitive items
+like salaries and subsidies coupled with pressing demands on the infrastructure side. Further, Iraq’s oil
+sector expansion plan involves substantial up-front fiscal commitments. Third, since oil revenues
+represent asset depletion, they should be integrated with other financing sources even if, in the aggregate,
+all spending needs could be financed from oil. Indeed, a financing mix would allow Iraq to mitigate the
+longer-term costs of its rush to increase oil production for cash flow reasons, such as gas flaring, water
+re-injection, and damage to oil reservoirs. The Bank has examined a number of scenarios with oil
+production, exports, and prices. The scenarios show that there are plausible conditions under which Iraq
+could experience fiscal and current account deficits (e.g. at US$80 per barrel) even with oil production of
+four mbd. As mentioned, Iraq can likely finance deficits from accumulated revenues, but the scenarios
+help to indicate the speed with which these fiscal buffers could be depleted under adverse external
+conditions. As inputs for a more stable fiscal situation, Iraq will need to adopt a fiscal policy that: (1)
+aligns with its implementation capacity; (2) respects the fundamental balancing of macro aggregates; (3)
+develops the extensive gas resources along with recovering flared gas; and (4) diversifies its economy.
+Key Development Challenges
+Governance
+23.
+Iraq fares low in global governance benchmarking. Transparency International ranks Iraq at
+175 out of 182 countries on its 2011 corruption index, a slight improvement over previous rankings. This
+ranking places Iraq just above countries like Somalia, North Korea, Afghanistan and Sudan. Beyond a
+history of war and sanctions, endemic corruption is one of the main factors contributing to state weakness.
+24.
+Institutional capacity and governance weaknesses are at the root of many of Iraq’s
+development challenges. Corruption is widespread, transparency and accountability are weak, and the
+rule of law is poorly applied. Citizen engagement in oversight is weak. These weaknesses affect the
+delivery of public services; access is uneven for individuals and businesses as is the playing field for
+private sector provision. Implementation of the rule of law is also poor. Recent integrity indicators
+place Iraq among the weakest in a comparison of 50 diverse countries (Figure 3). Yet a number of public
+surveys show that the judiciary itself is seen as mostly non-sectarian and minimally corrupt compared to
+other public sector institutions.
+25.
+The quality of public financial management (PFM) transactions and procedures has
+improved. Budget credibility (matching of outturns with projections) has shown some quantifiable
+
+7
+
+improvements, and reforms have resulted in the ability to track arrears. Comprehensiveness and
+transparency have improved through enhancements to fiscal reporting between national and sub-national
+governments. Budget execution systems show mixed results with relative improvements in procurement
+transactions offset by deteriorations in payroll controls. Accounting, recording and reporting systems
+now have stronger processes for reconciliation of accounts and in-year and annual reporting. External
+scrutiny and audit have improved due to more timely external audits.
+26.
+Notwithstanding the above improvements, certain PFM practices worsened over the past
+few years, and procurement is an area of major weakness. Weak PFM practices include off-budget
+spending, worsening fiscal reporting, slow progress on Integrated Financial Management Information
+System (IFMIS) implementation, and poor investment budget execution rates. Low budget execution is
+largely attributed to poor planning and preparation of instruments and inadequate control over investment
+project related cash releases, leading to low level of utilization and large budget surpluses. Public
+procurement has also been a significant source of governance concerns and is burdened by outdated and
+contradictory rules. Some progress has been made on developing standard bidding documents, a
+national implementation manual and a training strategy. A new procurement law based on international
+best practices was drafted, but has not been adopted. In addition, occurrences of bribery and collusion
+among bidders in public contracting have put an immense strain on public finances. Going forward,
+improving the efficiency and effectiveness of public spending would entail continued focus on budget
+preparation and implementation, strengthening audit capacity, passing and implementing a new
+procurement law, and transparency in reporting public accounting.
+Figure 3: Rule of Law Measures (Iraq vs. Middle East and North Africa (MENA) Compared)
+
+27.
+Building transparency and accountability in Iraq’s public sector will be critical to
+improving quality, efficiency and equity in public service delivery and limiting opportunities for
+corruption. A number of public episodes of corruption over the past few years illustrate the difficulties
+that elite capture presents in Iraq. Iraq also faces risks of money laundering. Ensuring a level playing
+field with equal access to public services for all citizens and firms as well as accountability measures such
+as freedom of information with a pro-active public disclosure policy would assist in combating these
+problems. Strengthening the state-citizen compact and improving government effectiveness will require
+developing avenues for the systematic involvement of civil society and private sector groups in the design
+and implementation of government programs. This will help to build consensus about important policy
+reforms and to focus attention on the issues and concerns raised by citizens.
+Private Sector Development and Growth
+28.
+A vibrant private sector is critical to provide jobs for Iraq’s large population. Decades of
+state-driven economic policy have tightly bound Iraq’s economy to the needs of the State. Consequently,
+the private sector today has little role or presence, and incentives for its expansion are nearly absent.
+
+8
+
+Because of the State’s long-term dominance, credit systems and access to finance are severely limited.
+Iraq’s conflicts have generated problems such as a marked exodus of educated, skilled Iraqis, a sustained
+isolation from global networks of information and trade, and significant destruction and degradation of
+infrastructure. Job creation remains one of Iraq’s largest development challenges. International
+experience suggests that employment generation by a large public sector is unsustainable and that
+long-term job growth instead requires the development of an attractive investment climate and a
+predictable and low cost of doing business, so that a robust and productive private sector can generate
+employment and rising standards of living. Oil accounts for more than half of GDP but for less than one
+percent of total employment.
+29.
+However, the private sector is poorly positioned to play its role as a creator of jobs. In
+addition to problems of security, it is plagued by lack of access to credit, high entry and exit barriers and a
+slow, ambiguous legal and regulatory system. Like households, businesses suffer from unreliable
+delivery of essential services, including telecommunications, transport, sewerage, water, and electricity.
+Although the potential for private sector engagement in post-conflict Iraq is significant, the country’s
+private sector is both under-developed and fragmented. Most private businesses in Iraq are very small
+and mainly operate in retail and trade, construction and transportation services, as well as in light industry
+in the textile, food, engineering, and chemical fields. The great majority of businesses are owned by sole
+proprietors, with most of the remainder being family partnerships 7. Many of the employees in small and
+medium enterprises (SMEs) are unskilled, short-term laborers. Iraq only possesses a handful of large,
+typically family-run multi-industry conglomerates, active in retail, domestic trade, telecommunications,
+and construction, but not in traded goods and services.
+30.
+Iraq also suffers from particularly significant gender inequality in labor force
+participation, educational attainment and training. This suggests that Iraq can make better use of its
+human resources by more fully utilizing the talents and abilities of its female population. Only 13
+percent of Iraqi women are in the labor force 8, far lower than virtually all of Iraq’s neighbors. Only
+seven percent of sampled firms from an enterprise survey data for the Bank’s Investment Climate
+Assessment (ICA) reported that a woman was one of its principal owners, lower than in any MENA
+countries to date. Similarly, Iraq has a very low rate of females in management when compared to other
+MENA countries. One percent of firms in Iraq have female managers, compared to Syria and Lebanon
+with 23 percent and 29 percent females in management, respectively.
+Figure 4: Unemployment Rate by Gender and Other Indicators9
+
+7
+8
+9
+
+UN/International Labour Organization (ILO) survey of firms
+World Bank, Confronting Poverty in Iraq (2010)
+UN Iraq Knowledge Network Labour Force Factsheet, December 2011
+
+9
+
+31.
+World Bank Group analysis has identified numerous constraints on private sector
+development, most notably quality of services, the legal framework, and the role of the state. The
+World Bank’s 2013 Doing Business Report ranks Iraq 165 out of 185 economies and Iraq ranks second to
+last among the 18 economies in the MENA region, significantly behind regional best performers on a
+global level such as Saudi Arabia (22), United Arab Emirates (26) and Qatar (40). Even its highest
+rankings by sub-component such as "Getting Electricity" (46) "Paying Taxes" (65) and "Dealing with
+Construction Permits" (84) are extremely poor, but the most severe constraints are indicated by rankings
+for “Resolving Insolvency” (185), “Trading Across Borders” (179) and “Starting a Business” (177).
+Constraints to private sector opportunities in the non-oil economy have also been identified through the
+ICA. The most critical constraints include lack of electricity supply, political instability and corruption.
+The ICA also reports that, in addition to political stability, reform of State-Owned Enterprises and reform
+of the poorly-performing banking sector are crucial to the well-being of the private sector.
+Figure 5: Leading Constraints to Firms Operating in Iraq
+Leading Constraints to Firms Operating In Iraq
+Electricity
+Political instability
+Corruption
+Access to Financing (Ex: Collateral)
+Practices of competitors in the informal …
+Access to Land
+theft,disorder and crimes
+Tax Rates
+Transportation
+Business Licensing and Operating Permits
+Regulatory Uncertainty
+Tax Administration
+Water
+Inadequately educated workforce
+Courts
+Customs and Trade Regulations
+Labor Regulations (Like Social Insurance)
+Telecommunications
+
+72.5
+70.3
+67.6
+47.6
+47.1
+44.7
+44.7
+42.4
+38.9
+35.3
+33.6
+32.7
+26.6
+25.8
+20.1
+18.9
+15.5
+11.4
+
+0
+20
+40
+60
+80
+% of firms identifying constraint as "major" or "very severe"
+
+32.
+The Government has placed a high priority on developing the private sector in its National
+Development Plan. Draft legislation currently before the Parliament covers labor law, competition
+policy and establishing institutions to support private sector development. However, the existing legal
+framework suffers from poor enforcement. In addition, there is ineffective coordination between
+ministries regulating the private sector, and between the Government and the private sector. Many
+ministries have limited capacity to implement reforms and there remains some resistance to cooperating
+with the private sector at the operational level. Despite these challenges, there is a significant potential
+for private sector-led growth, should the Government implement reforms for an improved business
+environment. Two examples of Doing Business areas on which the Government has illustrated
+commitment to reform are business registration and construction permits. As the construction sector is
+taking off in Iraq, the latter would generate benefits in terms of increasing economic activity and
+importantly, jobs.
+33.
+The Government also recognizes the importance of improving the performance of the
+financial sector, including creating a level playing field for non-state banks, improving access to finance
+for micro, small, and medium enterprises (MSMEs), and improving financial sector regulation and
+governance. Iraq’s financial sector is underdeveloped and dominated by state-owned banks, weak
+private bank participation and limited access to finance by firms. The system is not aligned with
+international standards and governance structures are weak. In order to improve financial sector
+performance it will be important to accelerate the current reform program, including: clarifying the roles
+of state-owned banks; restructuring the two largest banks, Al-Rashid and Al-Rafidain; removing barriers
+
+10
+
+for private banks in doing business with the Government and state-owned banks; and adopting concrete
+measures to create a level-playing field between private and public banks. A better enabling
+environment would facilitate access to finance, including improving credit systems, contract
+enforcement, and bankruptcy regulations.
+34.
+The telecommunications sector has provided some success stories, but its potential remains
+under-exploited. The liberalization of mobile telecom attracted several foreign entrants and generates
+one of the few significant sources of non-oil fiscal revenue. The fixed line backbone reaches all regions
+of the country, but is largely underutilized due to poor service quality and high tariffs. The
+telecom/Information and Communications Technologies (ICT) sector provides potential connectivity to
+Iraqi citizens, government departments (including provincial governments) and the private sector, using
+mobile telephones, Optical Fiber Cable, Microwave, and other fixed lines and wireless technologies.
+Combined with high-performing and affordable international telecom connectivity, the sector will
+directly contribute to improvements in the business and trade environment of the country. Broadband
+internet connectivity and ICT in general are key inputs for transformation across many sectors, and can
+help spur job creation, innovation and entrepreneurship, particularly among youth. With the large
+connectivity gaps that currently exist, such progress becomes much more arduous.
+35.
+The agriculture sector, which employs many of the rural poor, is heavily distorted by food
+imports and agricultural subsidies and tariffs. Although a potential source of employment,
+particularly in rural areas, the sector suffers from low investment, poor productivity, and policy
+distortions. Currently around 20 percent of the population is employed in the agricultural sector which is
+mostly practiced on small farming units in a low input–low output system. Policies of price and
+production controls and marketing restrictions have contributed to the sector’s low productivity and
+growth rates. In addition, years of insufficient maintenance and funding have degraded agricultural
+services and physical infrastructure, particularly water resources and irrigation infrastructure. On the
+policy front, Iraq currently has a top-down, centralized planning approach rather than bottom-up,
+decentralized identification of programs and projects that would put farmers and private sector in the
+driver’s seat.
+Public Service Delivery and Social Protection
+36.
+In addition to constraining private sector development, poor public service delivery is a
+major source of discontent for the Iraqi people. Electricity and water are severely undersupplied,
+with total renewable resources dropping rapidly as a result of increased demand (due to population
+growth) and declining supplies. Education quality is poor and schools are in need of repair and remain
+overcrowded despite operating multiple shifts. Health outcomes are relatively low and the social
+protection system is ineffective, especially for the most vulnerable. Iraq’s large oil revenues can be used
+to finance the needed investments in public and social services, but capacity and coordination constraints
+in Government are hampering these efforts.
+37.
+Inadequate electricity is seen by Iraqis today as a top concern, impacting daily life. Despite
+some recent improvements, power supply continues to fall well below demand, with a national average of
+only eight hours per day in 2009. In addition, power shortages are estimated to cost the Iraqi economy
+around US$43 billion per year. Chronic power shortages mean that Iraq must rely on expensive
+alternative supply sources, costing an estimated US$6-8 billion per year. Iraq’s generation,
+transmission, and distribution systems are in significantly degraded condition and new power generation
+capacity is urgently needed to meet demand. Rural areas suffer more from electricity shortages than
+urban areas because they are less able to purchase generators. Although the Government is undertaking a
+major electricity generation investment program that expects to add about 10,000 megawatts (MW) of
+
+11
+
+new generation by 2015, this will increase the focus on weaknesses in Iraq’s transmission and distribution
+infrastructure. The challenges for development of Iraq’s energy sector are not only physical in nature;
+they are also financial, economic, legal and regulatory, and institutional. Electricity tariffs are currently
+low, even by regional standards, and only cover a fraction of production costs which are high due to
+excessive losses and expensive imports of fuel and electricity. More than 80 percent of electricity supply
+in Iraq is unbilled or uncollected. Low tariffs contribute to significant demand growth, only exacerbating
+the pressures on electricity infrastructure. However, it is widely recognized that to raise prices while
+supply is chronically unreliable would be socially and politically unacceptable. Increasing the rate of
+utilization of the large volumes of gas Iraq produces in association with oil - and stopping the flaring of
+gas - could fuel most of the power generation needed in the country for decades, and thereby help with the
+current power shortage. Gas can also provide a critical resource to the development of new industries
+(petrochemicals and heavy industries). However, Iraqi gas institutions need support to increase their
+capacity, set out and implement a strategy, and monitor the huge investments required to treat the gas and
+bring it to the plants.
+38.
+While Iraq once had the most comprehensive transportation system in the region, its
+transport infrastructure has suffered from war damage, neglect and underinvestment.
+Rehabilitation of transport infrastructure is a national priority. If Iraq is to have the capacity to transport
+the high volumes of international freight required to reconstruct infrastructure, buildings, and services,
+and diversify from an oil-based economy, most of the existing transport infrastructure needs to be
+rehabilitated or reconstructed and expanded. The alleviation of some of the obstacles facing the private
+sector, including the deficiencies in infrastructure, will also provide much-needed job opportunities.
+39.
+Poor water quality and sanitation are also serious concerns. The effectiveness of
+Government agencies to meet the day-to-day needs of water for domestic and agricultural use and the
+collection and treatment of wastewater has been greatly diminished, leading to serious environmental and
+health risks associated with contaminated water supplies and inappropriate handling of wastewater
+disposal. This has resulted in a deterioration of the performance of water services in the country, for
+example in the Baghdad metropolitan area where 78 percent of the population has problems with its water
+supply. In addition, the collection of wastewater is limited: only 35 percent of the urban population has
+access to the piped sewerage network. The lack of investment in irrigation water service delivery has
+had major impacts on agricultural productivity and rural employment. Iraq is now importing the bulk of
+its basic food needs.
+40.
+The environment in Iraq is degraded, with a high economic cost. The World Bank estimated
+that the annual economic cost of environmental degradation in Iraq ranges from four to eight percent of
+GDP. Management and investment to address high levels of air and water pollution would improve
+performance of all relevant sectors (e.g. sanitation, oil, agriculture, etc.). In addition, Iraq is in the grip of
+a water crisis after recent years of severe drought, wiping out crops in some parts of the country and
+causing an unusually high number of sandstorms. In the absence of a water sharing agreement with Syria
+and Turkey, the level of water in the Tigris and the Euphrates has fallen by more than 60 percent over the
+past 20 years and water quality has deteriorated. Municipal and hazardous waste are found in every
+urban center and most villages in Iraq with poor or non-existent collection services. Large quantities of
+associated natural gas are being flared because gas treatment plants and the pipeline infrastructure to
+transport gas for domestic use or export are not functional. Finally, climate change is having a profound
+impact on Iraq as it grapples with its water supply and the encroaching desert. To combat these
+challenges, Iraq would benefit by adopting and implementing a national climate change mitigation and
+adaptation plan, and by taking advantage of international climate change initiatives.
+41.
+
+Iraq’s education system is suffering from a history of under-funding, degradation of
+
+12
+
+infrastructure, and depletion of human resources. In 2003, approximately 80 percent of school
+buildings were in need of rehabilitation or major repair and twelve universities were seriously damaged.10
+Reconstruction of the education system is underway, but major efforts are still needed to address the
+massive backlogs in school construction and maintenance, deficient human resource development, poor
+management at all levels, outdated curriculum and teaching methods, and poor policy and system
+development that accumulated over previous decades. Although teacher numbers are high, there are
+issues of utilization, specialization, and deployment, resulting in large class sizes, shortages in specific
+subject areas (particularly English, mathematics and sciences), and disparities among geographical areas.
+In addition, the quality of pre-service teacher training in colleges and in-service training is considered
+inadequate, with poor facilities, lack of sufficient human resources, modern teaching materials and
+methods, and limited teaching practice within teacher training courses. Overall, the education system
+suffers from poor quality and relevance, and graduates of the system lack the required skills to enter the
+labor market. There is a low education level in the adult population. Only eleven percent of Iraqis have
+at least a diploma, half the population has primary or intermediate education only, and 38 percent have no
+formal education. In addition, there are marked regional and urban/rural differences in literacy rates and
+in the quality of education provided as Figure 6 illustrates. These differences foster greater disparities in
+economic and social growth across Iraq which, in turn, may well increase regional inequalities and social
+fragmentation. The recently completed national education strategy aims to address these deficiencies.
+Figure 6: Literacy Rate of Segment of Population Aged 15-24 Years
+
+42.
+Women in particular lack equal access to a quality education. There are fewer all-girl
+secondary schools (excluding KRG) as compared with all-boy schools (in 2008/09, 31 percent of
+secondary schools were for girls only, while 42 percent were for boys only). This is important not only
+because it prevents girls from joining the labor market, but also because it prevents the high social returns
+on education in terms of improving health indicators, lowering maternal and infant mortality rates, raising
+children’s nutritional and school participation rates. Illiteracy among Iraqi women (24 percent) is more
+than double that of Iraqi men (11 percent). Literacy tests indicate that illiteracy rates in rural areas are
+above 50 percent for women aged 15-24. The national gender target for the 2007 to 2016 period is to
+improve the ratio of girls’ to boys’ enrollment from 87 percent to 100 percent, in primary schools, from 72
+percent to 86 percent in intermediate schools, and from 69 percent to 85 percent, in secondary schools.
+43.
+The Iraqi health system has suffered from conflict and neglect. Prior to the 1980s, Iraq’s
+health system was considered the most advanced in the region. However, the system has been impacted
+by war and conflict resulting in serious weaknesses of the system’s ability to meet basic health needs.
+Over the past decade, there have been some signs of improvements in health outcomes, mostly attributed
+to improved access and utilization of maternal and child health service. Iraq’s progress to reach the
+MDG goal of reducing under-five mortality by two-thirds by 2015 as well as its progress towards
+10
+
+Iraq United Nations/World Bank Joint Needs Assessment – Education Sector, October 2003
+
+13
+
+attaining a three-fourth reduction in maternal mortality, another MDG goal, are deemed insufficient at this
+juncture, mainly as a result of weak governance and oversight, wide urban/rural disparities in access to
+quality care, and a shortage of facilities and qualified health professionals. Iraq spends about 3.3 percent
+of GDP on healthcare (US$137 per capita), relatively modest for its level of socioeconomic development.
+While about 75 percent of total health spending in Iraq is public, spending is highly skewed towards
+pharmaceuticals (37 percent) and administration (22 percent) pointing out the inherent inefficiencies in
+health expenditures. Going forward, a look at expenditure flows against services received at the facility
+level would be essential to get a complete picture of the sector’s performance and would help the
+Government devise appropriate policies to improve the quality of health services and efficiency of the
+sector.
+44.
+Providing adequate social protection remains an important challenge, particularly for the
+most vulnerable, such as widows and IDPs. The Government has been introducing structural changes,
+while attempting to rationalize subsidies and transition from the universal food subsidy (Public
+Distribution System - PDS) to a better-targeted cash transfer program that can meet the needs of the
+poorest and most vulnerable. The cash-based Social Safety Net program administered by the Ministry of
+Labor and Social Affairs has expanded to cover nearly one million families but targeting remains
+inefficient. The pension law of 2007 presented significant improvements, and other major laws are
+underway, including the creation of mechanisms to provide portability of benefit entitlements across
+private and public pensions schemes so that workers are not penalized when moving from the public to the
+private sectors or vice versa.
+Government Priorities
+45.
+In 2009, the Government prepared a medium-term development strategy, the Iraq National
+Development Plan (NDP) 2010-2014, which aims to build a market-based economy in Iraq. The
+strategy has nine main goals: (i) to achieve economic growth at 9.4 percent per year; (ii) to generate 3 to
+4.5 million new jobs; (iii) to diversify the economy away from oil and into agriculture, industrial sectors
+(oil and gas, petrochemical industries, chemical fertilizers, cement, pharmaceutical industries), and
+tourism (recreational, religious, and cultural); (iv) to create a stronger role for the private sector, both in
+terms of investment and creating job opportunities; (v) to improve productivity and promote competition;
+(vi) to reduce poverty by 30 percent from 2007 levels by focusing on comprehensive rural development,
+job creation, and provision of basic services such as education and healthcare services, particularly for
+vulnerable groups such as youth and women; (vii) to establish a spatial development trend characterized
+by a fair distribution of infrastructure and public services; (viii) to focus on sustainable development that
+balances economic, social, and environmental considerations, thereby using available natural resources in
+a sustainable way; and (ix) to strengthen the role of local governments to take charge of local economic
+development and delivery of services to the people.
+46.
+To achieve these objectives, the NDP proposes an investment program of 218 trillion Iraqi
+dinars, or US$186 billion over the plan period, of which US$100 billion would be funded by the federal
+budget and the remaining US$86 billion would be funded by the private sector. Sector priorities in the
+NDP include oil, electricity, agriculture, transportation and communication, and regional development.
+Higher priority is given to the oil (15 percent of total proposed investment) and electricity (10 percent of
+total proposed investment) sectors. Agriculture is seen as important from the perspective of economic
+diversification, food security, employment opportunities generation, and reducing poverty and migration
+to urban areas. The transportation and communications sectors are deemed critical in terms of enhancing
+connectivity with other sectors. Similarly, the NDP reserves 12.5 percent of its investments for the
+regional development program, and 17 percent of total Government investment (or higher depending on
+the next population census) to the KRG. Finally, the NDP allocates 22 percent of the Government
+
+14
+
+investment program to the social sectors. The NDP recognizes that investment alone is not sufficient and
+proposes complementary policy and institutional reforms, and mechanisms for monitoring and evaluation
+of the NDP. The NDP is in the process of being updated to cover the period 2013-17.
+47.
+The Poverty Reduction Strategy (PRS), developed with the support of the Bank and adopted in
+January 2009, complements the NDP in its focus on poverty. Both strategies share a common goal of
+reducing poverty by 30 percent, from 23 percent in 2009 to 16 percent in 2014, through higher incomes
+and better health, education, social protection and housing services for the poor. In addition, the PRS
+sets out specific goals in terms of human development: (i) reduce the illiteracy rate by half (from 28
+percent to 14 percent), and raise the net enrollment rate in primary education (from 75 percent to 98
+percent), in intermediate education (from 21 percent to 50 percent), and in secondary education (from 23
+percent to 40 percent); (ii) reduce the number of individuals covered by the food ration card and restrict
+coverage to those who are below the poverty line by 2014; and (iii) bridge the gender gap, including
+through higher women participation in the labor force, and higher ratios of girls to boys in literacy and
+primary and secondary education.
+III.
+A.
+
+BANK GROUP PARTNERSHIP STRATEGY
+
+Lessons Learned from Previous Engagement and Stakeholder Feedback
+
+48.
+Despite an extremely challenging operating environment and security conditions, the Bank
+Group over the past three Interim Strategy Notes (ISNs) has achieved some successes, and has
+learned a number of lessons which will inform the present CPS. The need for realism, for leveraging
+the Government’s own vast resources, and for having strong government ownership and reform
+champions are the main lessons learned during the implementation of the last ISN series.
+49.
+Following a long period of disengagement, the Bank made a decision to reengage in Iraq at
+the time of the Iraq Donor Conference in Madrid in 2003. The initial post-conflict reconstruction
+program, the bulk of which was designed in 2004-05, was wide-ranging and ambitious, with the Bank
+involved in nearly all sectors and optimism regarding expected improvements in the security and political
+situation in the country. There was strong pressure for the World Bank, as other donors, to respond very
+quickly to the reconstruction and recovery needs. Projects were thus prepared on a very rapid timetable
+with limited knowledge of the country context, sectors and the institutional environment. As a result,
+much of what normally would be accomplished during project preparation was left to be addressed during
+project implementation. When, contrary to expectations, the situation in Iraq deteriorated, the operating
+environment became untenable. The Bank tried to mitigate risks and adapt to the changing realities, but
+the complex political and authorizing environment were not conducive to such adaptation. Another
+feature of Iraq’s post-conflict environment was the exodus of the technical and professional cadre, and
+this had an impact on the Government’s ability to implement the program. Experience points to the need
+to be more alert to the changing circumstances, and to be more candid as to the political economy of
+conflict-affected situations and the limitations of donors’ intervention in such environments. Experience
+also shows that political considerations, while always important to bear in mind, need to be managed so as
+to avoid impossible mandates and the resulting failures. In view of the limited capacity of the
+Government, and with the bulk of the Bank’s current post-conflict lending assistance winding down, this
+CPS presents an opportunity to apply the lessons learned from the Bank Group’s past engagement and to
+deliver technical and financial support to maximize the effectiveness of Iraq’s own resources.
+50.
+The Bank Group should be realistic about its role and potential for impact in a
+resource-rich country with a difficult operating environment. The size of the Bank-supported
+program is very small relative to the Iraqi budget. This fact, combined with a natural preoccupation with
+domestic political and security issues and a history of isolation from international best practice, resulted in
+
+15
+
+a lack of traction on the Government side. This situation would have required intensive, on-the-ground
+supervision and implementation support by World Bank task teams, but this approach was not possible
+due to the difficult security situation and the limited ability of Bank staff to work directly with
+counterparts on the ground. The use of the Bank’s agent on the ground, the Fiduciary Management Agent
+(FMA) (Box 1), was an innovative solution that offset the lack of access and provided a good level of
+fiduciary oversight. Over the past few years, the Bank was also able to increase its presence on the ground
+and bring the dialogue closer to the client. Although the Bank has accomplished a great deal under
+unusual circumstances, it remains to be seen whether the existing portfolio will have satisfactory
+outcomes considering the operating environment. If the security situation were to deteriorate again in a
+significant way, lessons learned indicate the need for an appropriate level of expectations on results and
+careful management decisions as to the degree of Bank Group engagement.
+Box 1: Portfolio and Supervision Arrangements
+Unconventional Supervision: Use of a Fiduciary Management Agent in Iraq
+Since 2004, the Bank has used a group of Iraqi engineers, financial management, and procurement professionals as a
+Fiduciary Management Agent (FMA) to assist in monitoring, supervision and capacity building for the investment
+portfolio, and in helping ensure compliance with Bank fiduciary standards and guidelines. Experience with the FMA has
+been positive, with the FMA acting as the Bank’s eyes and ears on the ground, particularly when some areas are
+inaccessible. The FMA visits sites, documents physical works and sends monthly reports on procurement and financial
+management. This is arguably a much broader scope of coverage than is carried out for most Bank projects around the
+world.
+The FMA contract is renewed annually and is subject to satisfactory performance as confirmed by annual evaluations,
+feedback from which is fed back into contract performance indicators. The FMA participates in all official Bank
+supervision missions, follows up regularly with the Project Management Teams on implementation of actions identified
+during supervision, and flags as necessary issues in project implementation worthy of management attention.
+The FMA arrangement is working well and the mechanism will continue to be used for as long as the security situation
+restricts Bank staff access to project sites across Iraq. Intensity of FMA services will decrease as most projects close in
+2013; however this will still be an option for future IBRD projects.
+
+51.
+One key challenge for IFC’s involvement in Iraq over the last few years has been to find the
+right local partners. The private sector is small and faces serious capacity issues. A key element in going
+forward will be to identify and support local investors who have the potential to grow, can embrace best
+practices in how to conduct their businesses, and are able to effectively work with IFC and other
+International Financial Institutions.
+52.
+Against this background, the Bank Group will focus efforts on knowledge transfer and
+ensure that financial support leverages Iraq’s own resources while delivering needed technical
+assistance to enhance capacity of the Government and private sector institutions. Iraq now has
+considerable resources at its disposal, but its capacity to plan and implement development programs is
+still too weak. During CPS consultations, Government stakeholders indicated that transfer of knowledge,
+provision of advisory services and capacity building were considered high priorities for Bank assistance.
+53.
+Going forward, the Bank will ensure that its interventions are responsive to client demand
+and receptivity to reform. In a number of areas, client engagement, capacity and ability to carry out
+reforms have been low. Based on experience, the Bank will focus on undertaking activities to which the
+Government is engaged and committed.
+54.
+Lessons from the 2011 World Development Report (WDR) are also being applied in this
+CPS. For example, a Community Driven Development (CDD) approach has been piloted successfully
+in KRG, and work is underway to expand this program. The CPS also provides greater focus on gender,
+regional and cross-border initiatives, and a major focus on service delivery as a way to build up
+confidence in the effectiveness and credibility of the State.
+16
+
+Multi-stakeholder Consultations
+55.
+A wide variety of stakeholders confirmed the need for support from the Bank in rebuilding
+the capacity of state institutions to lead policy reforms, implement the Government’s development
+programs and deliver services to the people. The Bank carried out several intensive consultation
+missions and met with a variety of stakeholders, including senior government officials, project
+management teams, donor representatives, and members of civil society in Baghdad, Erbil, Basra, Dohuk,
+Mosul and Al-Muthanna. Electronic media was also used to support the CPS consultation process and
+reach a wider audience. Consultations broadly confirmed the strategic thrust of the Bank's proposed
+approach, focusing primarily on supporting Iraq to plan and properly use its own financial resources,
+design and implement institutional reforms needed to spur economic diversification and create jobs, and
+increase its capacity for service delivery. Strengthened capacity of public institutions—both at the
+central and local government levels—was underscored by all stakeholders.
+Current World Bank Group Portfolio
+56.
+Since 2004, the World Bank has supported Iraq’s reconstruction and development through
+a US$1 billion program. This includes US$500 million in Iraq Trust Fund (ITF) grants and an
+exceptional International Development Association (IDA) allocation of US$500 million in credits. The
+program has supported a number of areas, including infrastructure reconstruction in water, power, and
+roads, education and health, private sector development, telecoms, social protection, public financial
+management and reform of the two state-owned banks. In 2010, the IBRD financed a US$250 million
+Development Policy Loan which supported strengthening budget management and prioritization;
+reforming the financial sector; and improving the efficiency of the social protection system.
+57.
+As of September 30, 2012, Iraq’s total active ITF and IDA portfolio of 25 projects amounted
+to US$860 million, with 54 percent disbursed. This included: 11 projects financed by ITF grants
+amounting to US$316 million (76 percent disbursed); five IDA investment lending operations amounting
+to US$508.5 million (39 percent disbursed); and three grants from Bank-administered trust funds (the
+State and Peace Building Fund (SPBF), the Japan Social Development Fund (JSDF), and the EITI Trust
+Fund). Iraq is also a member of the Global Gas Flaring Reduction initiative led by the Bank Group.
+Combined, the Water, Sanitation and Urban Development Sectors make up the largest share of the
+portfolio at 33 percent followed by Electricity/Energy, and Education at 21 percent and 19 percent,
+respectively (Figure 7).
+Figure 7: Active Portfolio
+Sectoral Distribution
+
+Education
+19%
+
+Health
+0.1%
+
+Private/
+Finance
+Sector
+3%
+
+Water/
+Sanitation
+Urban
+33%
+
+Rural Devt
+3%
+
+Transport
+
+Capacity
+
+16%
+
+Electricity/
+Energy
+21%
+
+17
+
+Bldg/
+Public Adm.
+4%
+
+58.
+A gender review of the Iraq portfolio was undertaken to inform this CPS. Much of the
+existing portfolio consists of reconstruction and recovery projects designed in 2004-2006 and set to close
+in the coming year or two. The portfolio focused on emergency reconstruction and recovery needs, and
+while certain activities did address gender directly, gender considerations were not mainstreamed in the
+design. Going forward, the gender review identified entry points for a greater focus on gender (Box 2).
+Box 2: Observations from a Gender Review of the Iraq Portfolio
+A review of the Iraq portfolio points to a number of areas where the Bank’s work has had a gender focus. The 2007 household
+survey, carried out under difficult and dangerous conditions, was the most comprehensive socio-economic survey ever
+undertaken in Iraq. It captured sex-disaggregated data, particularly for social and economic indicators. On the basis of this
+survey the Iraqi authorities developed an official poverty line and the first Poverty Reduction Strategy in 2010. A new
+household survey is expected to be completed by December 2012, following which the data will be compiled. This will
+provide updated sex-disaggregated data on which a Gender and Poverty Assessment to be done in FY14 will be based. The
+Bank is also providing TA to help Iraq reform its Public Distribution System with special efforts for household targeting tools
+to be sensitive to the gender of the household head and address vulnerabilities such as Internally Displaced Persons and
+widows.
+On education, the National Education Strategy includes a policy for increasing girls’ enrollment which will benefit from
+insights in the new household survey. The Emergency Health Project has a special focus on vulnerable groups, including
+pregnant women and children. Due to the low number of female healthcare professionals and social sensitivities of using
+healthcare facilities run by males, the project is expanding the number of women health volunteers and using mobile health
+clinics. While gender considerations were not necessarily integrated into the design of the Capacity Building 2 project, a
+series of workshops were held on Leadership Skills for Policy Reform for Iraqi Female Parliamentarians. The upcoming
+Water Sector Strategy could be a good entry point for looking at gender disaggregated data where it exists and gaining a better
+understanding of the different roles and needs of men and women with regard to water and sanitation services.
+In Private Sector Development (PSD), gender has been integrated into activities, including: measures to help the Regulatory
+Reform Unit identify and address gender issues when developing new policies; a more inclusive approach to consulting with
+NGOs; giving priority to women in the provision of microfinance loans; and to gender issues in dialogue and programs
+provided by Iraq business associations through the Private Sector Development Center. The ICA included diagnostics on
+women and gender issues. Sex-disaggregated data and analysis will be an important resource for informing PSD activities
+going forward, particularly in light of Iraq’s goal of increasing women’s share of non-agricultural waged work. Gender is also
+very relevant in the Youth Livelihood Project which includes promoting women’s participation in life/work skills training.
+Going forward, the forthcoming poverty and gender assessment will provide updated data to inform the Bank-supported
+projects in the pipeline. While the household survey will be key to providing gender disaggregated data along many important
+welfare dimensions, efforts will also be made to collect project-level data, particularly in areas where the survey data will fall
+short, such as infrastructure. Finally, the Bank will emphasize gender mainstreaming in its dialogue with the Government on
+the update of Iraq’s Poverty Reduction Strategy and the Government’s budget.
+
+59.
+Portfolio performance has improved, but the implementation environment remains
+challenging. The security situation in Iraq has improved and the pace of project implementation has
+increased considerably since 2006. However, conditions on the ground continue to hamper mobility of
+Bank staff and Project Management Teams, consultants and contractors. Security conditions also
+discourage local and international contactors from bidding and substantially increase project costs. The
+Bank’s Fiduciary Monitoring Agent (see Box 1) continues to support the Bank’s project supervision
+efforts through physical verification and monitoring of procurement and financial management.
+Procedures and institutional capacity constraints in line ministries (e.g., unclear lines of authority,
+inefficient review, approval, and oversight procedures) further impede project implementation, delaying
+decision-making, reporting, and follow up. Contract management has also been a continuing problem in
+Iraq, often leading to work of inferior quality or protracted delays in contract implementation. A weak
+banking system poses challenges for disbursement. Five projects are currently in problem status. These
+projects benefit from heightened supervision (3-4 times per year) and continuous updates and discussions,
+including with the Joint Portfolio Oversight Committee (JPOC) co-chaired by the Prime Minister’s
+Advisory Board and the World Bank.
+
+18
+
+60.
+The Government and the Bank are working to strengthen portfolio performance. The
+JPOC meets quarterly, following an Action Plan updated at the June 2011 Country Portfolio Performance
+Review (CPPR). The CPPR focused on the need to enhance capacity building, monitoring and
+evaluation, incorporate projects into the national budget, and address challenges related to low
+disbursements and implementation of Designated Accounts and E-signatures. As most projects move
+towards closing by the end of 2013, the focus will be on ensuring that projects disburse existing funds and
+have strong monitoring and evaluation systems in place to assess progress towards meeting their
+development objectives.
+61.
+IFC has a growing and diversified investment and advisory portfolio in Iraq. IFC's
+investments in Iraq have increased significantly over the last few years, with the portfolio growing from
+only US$10 million in FY05 to nearly US$300 million today. In late 2011, IFC established a field
+presence in Iraq for the first time by placing a full-time Senior Country Officer in Bagdad. IFC signed an
+Establishment Agreement with the Government of Iraq in October 2012 for an official Country Office in
+Bagdad (co-located with the Bank), and plans to increase its presence in the field during the CPS period.
+IFC’s investments have aimed to support the private sector and leverage regional investments, and will be
+complemented by a strong Advisory Services (AS) program during the planned CPS period. IFC’s
+portfolio is diverse, and investments have supported the establishment of the Erbil Rotana Hotel, a cement
+company, and the banking, telecommunications, and logistics and warehousing sectors (including
+through equity investments). Recent large investments include: (i) US$155 million in Zain Telecom; (ii)
+US$45 million in a transport and logistics company (Gulftainer); (iii) US$45 million in Lafarge Cement;
+and (iii) around US$35 million in the financial and hotel sectors. While IFC’s early investments in the
+cement sector were cancelled due to security and sponsor issues, the current portfolio is performing well
+and having an impact on the ground. As the political, policy and security environment shows further
+improvement, IFC anticipates strong demand for the financing of private investments in Iraq across a
+variety of real and financial sectors. In addition to its investment engagement, IFC has started to provide
+advisory support in the areas of investment climate, financial infrastructure strengthening, capacity
+building of the banking/MSME sector and bank risk management, selective SME management training
+(especially targeting women), and the promotion of public-private partnerships in collaboration with the
+World Bank. IFC advisory support in Iraq has tried to focus on gender aspects, especially through its
+access to finance and Business Edge programs. IFC has been active in training banking staff in modern
+banking practices, training events targeting Iraqi business women, and has made early efforts to
+specifically support private sector-led development of the local construction industry. IFC’s advisory
+work is supported by the US$38 million multi-donor Iraq Business Advisory Fund (IBAF) provided by
+the US, United Kingdom (UK), Spain, and Japan: US$10 million of this funding is earmarked for
+microfinance investments. MIGA has supported one investment in the manufacturing sector thus far.
+B.
+
+Proposed World Bank Group Partnership Strategy
+
+62.
+The overarching objective of the World Bank Group engagement will be to support the
+country’s efforts to build stronger government institutions and a more diversified and regionallyintegrated economy that can deliver services and create jobs. This objective is supported by three
+pillars which are aligned with the emphasis of the MENA Regional Framework on governance,
+sustainable private sector-led growth, job creation and inclusion. These are: (1) improving governance;
+(2) supporting economic diversification for broadly-shared prosperity; and (3) improving social inclusion
+and reducing poverty. IFC will contribute to the strategy through an integrated program of advisory and
+investment work to help diversify the economy away from the oil sector. This will be done by
+developing a favorable business and regulatory environment and fostering responsive institutions to
+strengthen job-creating, private sector-led growth in the non-oil sectors. MIGA will mainly contribute to
+Pillar 2.
+
+19
+
+63.
+The Bank is moving from Interim Strategy Notes to a Country Partnership Strategy. This
+shift responds to the Government’s request for a deeper and more substantial engagement and represents a
+longer-term Bank commitment. This is the first World Bank Group Country Partnership Strategy for
+Iraq with a fully integrated IBRD, IFC and MIGA program. The Bank Group aims to accompany the
+country through the CPS period, supporting the Government in making important policy choices that will
+set the stage for the country’s development. The four-year timeframe covered by the CPS will also allow
+planning within a longer time horizon, in keeping with the 2011 WDR recommendations for countries
+emerging from conflict. It will also serve as a bridge between a concessionally-financed reconstruction
+and recovery investment portfolio and a forward-looking, demand-driven program.
+64.
+The World Bank Group’s program will emphasize knowledge transfer, using all the
+available instruments, including AAA, lending and reimbursable services. A key feature of the
+Bank’s support lies in bringing global knowledge and experience to the table and connecting Iraq with
+international practitioners. Exposure to other country experiences has proven to be very useful in Iraq’s
+case given that the country has emerged from war and isolation and has experienced an exodus of skilled
+civil servants. The Bank is committed to serving as a broker of knowledge and will bring to bear
+solutions for Iraq’s most pressing development challenges in the coming years.
+65.
+A proposed program is outlined under the Pillars to support this agenda. Analytical and
+advisory activities include, inter alia, follow-up work to a Public Expenditure Review, a Report on Oil
+Revenue Management for Economic Diversification, a Poverty and Gender Assessment, Agriculture
+Technical Assistance, a Gas Master System Study, and Financial Sector Dialogue. IBRD projects
+amounting to US$540 million have been identified starting in FY14 for five projects, including:
+Integrated Financial Management Information Systems; Governance; Trade and Transport Corridors;
+Irrigation and Water Resources; and Water Supply and Sewerage. In addition, a program of
+Reimbursable Services is being developed. While the future program will be largely demand-driven, and
+IBRD lending will be pursued only in the presence of strong government ownership, there are areas which
+are seen to be high priorities for Bank engagement due to their integral role in the country’s development.
+These include governance, financial sector development, and gender.
+66.
+Trust Funds play an important role in the Bank’s program in Iraq and are fully integrated
+into the Strategy. Most importantly, the US$532 million Iraq Trust Fund will close during the CPS
+period. The EITI Trust Fund is an important part of Pillar 1, while Pillar 2 benefits substantially from a
+US$13.2 Private Sector Development Trust Fund 11. Pillar 3 is supported by a successful State and Peace
+Building Fund Community Driven Development pilot in the KRG as well as JSDF grants.
+67.
+The following table elaborates ongoing, planned, and potential support under the main pillars of
+engagement.
+
+11
+
+Supported by Swedish International Development Agency (SIDA), the US, and formerly by DFID.
+
+20
+
+Table 2: INDICATIVE ASSISTANCE PROGRAM
+I. Improving Governance
+
+II. Supporting Economic Diversification for Broadly Shared Prosperity
+
+III. Improving Social Inclusion and Reducing Poverty
+
+ONGOING ENGAGEMENT
+IDA
+Emergency Road Rehabilitation
+Dokan & Derbandikhan Emergency Hydropower
+Emergency Electricity Reconstruction
+Total
+ITF 1/
+Public Financial Management Reform
+
+ITF 1/
+16.0 Banking Sector Reform
+Integrated National Energy Strategy
+Emergency Community Infrast. Rehab. Additional Financing
+0.8 Emergency Electricity Reconstruction
+
+EITI
+Extractive Industries Transparency Initiative
+
+Total
+
+10.0
+6.9
+25.5
+6.0
+
+Total
+
+16.8
+
+135.0
+40.0
+124.0
+299.0
+
+Total
+
+JSDF
+9.4 Youth Livelihoods Development in Southern Iraq
+2.0
+11.4 MDTF (DFID / SIDA) - TA Bank-Executed
+Private Sector Development (TA)
+
+100.0
+109.5
+Total 209.5
+
+ITF 1/
+Emergency School Construction & Rehabilitation
+Emergency Baghdad Water Supply
+Emergency Water Supply, Sanitation & Urban Reconst.
+Emergency Social Protection
+Second Emergency Primary Health Care Assistance
+Household Survey & Policies for Poverty Reduction
+
+48.4
+
+IFC
+Investment Climate Regulatory Reform Intervention
+Advisory Services for Improving Financial Infrastructure & SME
+Investments in Telecom Sector
+ITF - TA Executed on Behalf of the GOI 1/
+Second Capacity Building (TA)
+Public Financial Management Reform (TA)
+
+IDA
+Third Emergency Education Project
+Emergency Water Supply
+
+60.0
+65.0
+110.0
+8.0
+1.2
+7.0
+Total 251.2
+
+SPBF
+Consultative Service Delivery Program II
+
+5.0
+
+ITF - TA Executed on Behalf of the GOI 1/
+Pension Reform Implementation Support (TA)
+Rationalization of the Public Distribution System (TA)
+Education Sector Institutional Strengthening & Capacity Bldg (TA)
+Household Survey & Policies for Poverty Reduction (TA)
+13.2
+Total
+2.7
+
+5.8
+2.6
+2.7
+5.1
+16.2
+
+Regional Initiatives
+University Governance Scorecard (TA)
+System Approach for Better Education Results Workforce Development
+Diagnostic & Technical Assistance
+Country Economic Memorandum (ESW) (recently completed)
+Public Expenditure Review (ESW) (recently completed)
+Total Ongoing
+IBRD
+Integrated Financial Management Information systems (IFMIS) (FY14)
+Public Financial Management /Governance (FY15)
+Total
+
+Diagnostic & Technical Assistance
+Economic Complementarity & Deeper Regional Integration (ESW)
+Gas Pricing Study (TA)
+Establishment of Asset Valuation Unit in Ministry of Finance (TA) 2/
+28.2
+Total Ongoing 363.3
+FY13-16 PROGRAM 3/
+IBRD
+IBRD
+40.0 Trade & Transport Corridors (FY14)
+200.0 Water Supply & Sewerage (Baghdad) (FY15)
+60.0 Irrigation Water Management/Water Resources Project (FY14)
+140.0
+100.0
+Total 340.0
+
+Diagnostic & Technical Assistance
+Public Expenditure Review II Follow-up (AAA)
+Water Public Expenditure Review (ESW)
+Local Governance/Fiscal Decentralization (TA)
+Public Sector Governance (TA)
+KRG Procurement Reform (TA)
+Financial Management TA (Inspector Generals)
+Reserves Asset Management Program (TA) (under identification)
+Public Financial Management (TA)
+
+Diagnostic & Technical Assistance
+Country Economic Memorandum II Follow-up (AAA)
+Agriculture (AAA)
+Investment Climate Assessment Reform (TA)
+Telecoms (TA)
+Gas Master System Study (TA)
+Financial Sector Dialogue (TA)
+Water Sector Strategy (ESW)
+Environment (AAA)
+
+Total Ongoing 481.9
+
+100.0
+Total 100.0
+
+Diagnostic & Technical Assistance
+Capacity Bldg. for Education, including Implementation of National
+Education Strategy (TA)
+Social Protection Strategy (ESW)
+Health System Strengthening (TA)
+Poverty Gender Assessment (ESW)
+
+IFC
+Public Credit Registry Development
+GRAND TOTAL Ongoing and Planned
+
+128.2
+
+GRAND TOTAL Ongoing and Planned
+
+703.3
+
+GRAND TOTAL Ongoing and Planned
+
+581.9
+
+Notes: Amounts in USD millions. A program of reimbursable services is at very early stages of discussions.
+1/ The Iraq Trust Fund (ITF) will terminate on December 31, 2013. 2/ Funded by US State Department. 3/ These are the activities that have been defined at the time of CPS discussions with the Government. However, this CPS is intended to be
+a flexible framework and additional activities are expected to be added to the program upon Government demand and in line with the Strategy.
+
+21
+
+
+
+Result Area 1: Improving Governance
+
+CPS Outcome Areas:
+1. Improved transparency and efficiency of oil revenue management and public spending
+2. Achievement of one or more features of the Governance Action Plan
+68.
+Low institutional capacity hampers the optimal use of Iraq’s existing wealth of natural and
+financial resources. Building on the ongoing engagement in the management of public finances, the
+Bank will continue to support improvements in institutional capacity and governance through technical
+assistance to improve Government-wide systems and practices, public financial management,
+transparency in oil revenue management (particularly through the continuation of the ongoing EITI
+program), a joint training program with the IMF and World Bank Treasury Department on debt reporting
+and management, and focused attention on governance issues at the sector level. The Bank will also
+support the Government on institutional reforms and capacity building to strengthen the state’s oversight
+and control capabilities. The Central Bank of Iraq has expressed interest in participating in the World
+Bank Treasury Reserves Advisory Management Program which helps build capacity in central banks to
+manage reserves.
+69.
+Sound fiscal and macroeconomic policy, including transparency of oil revenues, is critical
+for Iraq’s development. The Bank will help to put in place an analytical framework for informed
+decision-making on the allocation of its overall resource envelope. The 2012 reports on Economic
+Diversification for Oil Revenue Management and Public Expenditure Review (PER) provide a diagnostic
+base for developing a macro-fiscal framework to assist Iraqi policy makers in measuring petroleum
+financial flows and making informed spending and saving decisions consistent with the Government’s
+economic vision. This work is aimed at helping the Government address key issues in revenue
+management and spending efficiency and will be followed up by support on implementation.
+70.
+The ongoing PFM Reform Project will deliver improved business processes in budget
+preparation, budget execution, and public procurement and capacity building of the Ministry of
+Finance Accounting Training Center so that it can conduct future training of Ministry of Finance
+staff in a sustainable manner. The project will also deliver and test a prototype for an Integrated
+Financial Management System (IFMIS) in three ministries and three governorate treasuries by June 2013.
+If tested successfully, the Government intends to ‘pilot’ the system in selected ministries and treasuries as
+the 'primary' system in 2014 and will ‘go live’ with the system in all ministries and treasuries in 2015.
+This will be supported through a new IBRD project of US$40 million in FY14. The PFM project
+includes a capacity building component for the Board of Supreme Audit (BSA) to strengthen Iraq’s
+accountability mechanisms. The Bank helped draft a consolidated Procurement Law and will continue
+to support procurement reform through the development of a single portal website for procurement
+notices and the development of sector bidding documents.
+71.
+The Bank Group is engaged in a structured dialogue around transparency, accountability
+and participation and has worked with the Government to develop a draft Governance Action
+Plan. The Bank will support the implementation of the Governance Action Plan, including development
+of a law on Access to Information. Bank activities will stress the importance of citizen participation,
+including women, in the design and implementation of government programs. In areas where the Bank
+maintains sectoral dialogue with the Government, the Bank will support the Government in developing
+the practice of public consultations. The Bank will also look at social accountability measures in sectors
+where this might be feasible on a pilot basis. The Bank will also support the Government’s efforts on
+decentralization and local governance with the aim of facilitating a constructive and informed debate on
+decentralization policy in Iraq which fits its specific context and constitutional requirements. The
+Government has expressed its interest in an IBRD project in FY15 for the Budget Directorate on
+
+22
+
+Governance.
+72.
+Other capacity building efforts that have shown traction and will be continued include
+working closely with the Government on strategy development, including the National Poverty
+Reduction Strategy, Integrated National Energy Strategy, Education Strategy, and pensions and social
+safety nets (see Annex 3). This includes bringing Iraqi officials to see examples of other country policies
+and practices and engaging in discussion with international practitioners. This approach has been
+successful and brings to bear the World Bank’s comparative advantage of sharing global knowledge and
+international practice to a country that has been isolated through decades of war. The Bank will support
+“on-the-job” training in terms of capacity building including, where appropriate, supporting a move from
+conventional construction contracts towards “Design-Build-Operate” / turnkey contracts to provide more
+Iraqi staff with the experience required to manage future investments, while also building capacity in the
+private sector.
+
+
+Result Area 2: Supporting Economic Diversification for Broadly-Shared Prosperity
+
+CPS Outcome Areas:
+1. Strengthened approaches to an improved business environment
+2. Strengthened supervisory framework for financial intermediation and capacity of financial institutions
+3. Strengthened infrastructure services
+73.
+The Bank Group will support the Government’s efforts towards economic diversification.
+This will be done through policy advice and analysis in support of building an enabling environment for
+private sector development, reforming the financial sector, and encouraging public-private partnerships,
+Public-Private Dialogue and trade facilitation. While the diversification challenge cuts across numerous
+policy domains, enhancing the environment for private sector development is certainly at the core of the
+agenda. It is through the private sector, and not further increases in the size of the public sector, that new
+jobs will be created and broad-based economic development can be achieved. The Bank Group’s
+interventions will support efforts for bringing more women into the workforce.
+74.
+The Investment Climate Assessment (ICA) identified several reform areas that should be
+undertaken to address the major concerns of firms in Iraq. Electricity is a top constraint. Other
+concerns include Access to Finance; Access to Land; Access to Labor and Gender Equality; Access to
+Infrastructure, including power supply, water, transport and trade; SOE Reform; Control of Corruption;
+and Informality. The Bank has identified policy reform recommendations and stands ready to assist in
+any of these areas.
+75.
+Through the Private Sector Development Trust Fund, the Bank will continue to support the
+Government’s efforts to restructure the SOE sector and create a level playing field for private
+sector investment in productive activities. This includes support in identifying SOEs that are ready for
+reform, working to reform 180 SOEs, and strengthening the capacity of Ministries to lead reform efforts,
+for example in budget and business planning, labor restructuring and performance management.
+Additional Technical Assistance (TA) will support the establishment and operation of an SOE “Asset
+Valuation Unit” within the Ministry of Finance to improve oversight of SOE assets. The Bank will also
+support the establishment and operation of Regulatory Reform Units to provide oversight and improved
+quality control over business regulations. Gender aspects are integrated into the PSD Trust Fund taking
+into account the low female labor force participation rate (among the lowest in the region) and the
+concentration of women in the public sector. IFC will also support reforms in corporate governance and
+investment climate, including and jointly with the Bank’s follow up to the ICA, improving the
+construction permit process as one starting point where there is clear demand from the Government, and
+thus providing a platform for further reforms. Finally, the Bank will continue providing advisory support
+23
+
+for regulatory reform at the national and subnational levels, including for starting a business.
+76.
+The World Bank and IFC advisory services will support the Government’s introduction of
+Public-Private Partnerships (PPPs) in Iraq. The Bank Group is currently supporting PPP legislation
+prepared by the United Nations Industrial Development Organization (UNIDO) and the rollout of PPP
+pilots and technical assistance to several ministries, including the Ministry of Electricity, Ministry of
+Industry and Minerals, and the Ministry of Construction and Housing. Such activities will be
+complemented where possible by the use of the Technical Advisory Facility of the Arab Financing
+Facility for Infrastructure. IFC is ready to engage in supporting the implementation of the PPP program
+in the electricity and transport sectors and will explore the associated financing opportunities in
+partnership with MIGA. The World Bank and IFC could also assist in the process of privatizing existing
+assets or introducing private sector management to non-infrastructure-related services.
+77.
+MIGA will continue to support Iraq’s efforts to attract foreign private investors through
+the provision of political risk guarantees. Supporting investments in fragile and conflict-affected
+environments is one of MIGA’s global strategic pillars, and therefore Iraq is a focus country for MIGA
+engagement. Having already supported one manufacturing investment project, MIGA remains open to
+supporting investments into Iraq from all countries, including South-based and regional investors. Iraq's
+membership in MIGA is recent (2008) and MIGA’s activities in Iraq will further develop as demand for
+its services is expected to increase. MIGA’s program will be aligned with the broader WBG strategy and
+activities and focus on agribusiness, finance, services, telecommunications and infrastructure. Private
+investors have shown interest in partnering with MIGA for investments into Iraq and MIGA stands ready
+to support sustainable projects with a high development impact, including through its Small Investment
+Program.
+78.
+Reforming the financial sector is at the heart of the economic diversification strategy for
+Iraq. The Bank supported the development and adoption of an action plan that includes improving
+access to finance for Micro, Small, and Medium Enterprises (SMEs) and modernizing financial sector
+regulation and governance. The Bank will continue to support the Government’s effort at reforming the
+state-owned banks – Al-Rashid and Al-Rafidain – and removing the barriers for private banks in doing
+business with the Government and state-owned banks. The Bank’s program will focus on helping the
+Government to create a better enabling environment to allow access to finance, including improving the
+credit systems, contract enforcement, and bankruptcy regulations. The Bank will also support the
+alignment of the system to international standards, as well as help in strengthening governance structures.
+The ongoing Banking Sector Reform project is supporting this work and helping build up the Central
+Bank of Iraq’s capacities in banking and financial sector supervision. IFC will provide a combination of
+advisory and investment support for regional and international investors in Iraq and promote reforms
+related to Access to Finance and investment climate, including improvements in financial infrastructure
+and support to private banks to expand credit to microfinance institutions and SMEs. The WBG’s efforts
+to improve access to finance for SMEs and regulatory reforms will be gender informed. For example,
+gender differences in ability to open a bank account, sign a contract, register a business, and manage
+property will be considered. IFC will provide training to SMEs, especially women entrepreneurs,
+through its Business Edge Program.
+79.
+Trade reforms and regional integration will help economic diversification. The Bank will
+provide analysis and recommendations through analytical work, Economic Complementarity and Deeper
+Regional Integration: Iraq, Turkey and the Mashreq. This is in line with the WBG Trade Strategy which
+includes supporting diversification and improving trade facilitation and complementary policies that can
+improve competitiveness. Support for customs modernization and trade and transport facilitation are
+also important areas of support and a US$200 million Trade and Transport Facilitation IBRD Project is
+
+24
+
+under preparation.
+80.
+The Bank will help Iraq improve the quality and delivery of its core infrastructure services
+through a combination of investments and institutional development. The Bank will seek to help
+Iraq prepare and implement strategic plans in the critical energy, transport, and water sectors, as well as
+building the necessary capacity to plan and implement its own investments. In the energy sector, this
+includes support for the Iraq National Energy Strategy (INES), as well as analytical work and technical
+assistance on policy, strategy, governance and institutional development in the power and gas sectors,
+including the upcoming Gas Master System study. Under existing programs, the Bank will continue its
+work on the rehabilitation of Dokan and Derbandikhan and the Hartha Power Plants. Regarding transport,
+the Government has asked the Bank Group for help with institutional reform and capacity building for
+transport infrastructure management, particularly in terms of transport access in relation to trade
+facilitation, and customs modernization. A transport sector master plan and strategy (including rail,
+road, air, and urban sectors) is under preparation, as well as identification of capacity building and
+technical assistance needs and an investment plan for the short, medium and long term. In
+telecommunications, the Bank will seek to build on its successful engagement in Iraq through the ITF
+PSD project. A follow-on technical assistance program is being explored, most likely as a reimbursable
+service. In particular, the Bank could support development of various mobile applications, organize
+seminars and workshops to share international best practice, bridge capacity and knowledge gaps on
+various policy and regulatory issues, and play the role of honest broker by bringing all public and private
+stakeholders together on one platform to advance the telecom. Gender-sensitive approaches to
+infrastructure programs will be pursued to enhance productivity, incomes, and provide more equitable
+access.
+81.
+IFC is well-positioned to mobilize financing to a number of projects in these key sectors as
+well. IFC and MIGA will support South-South investments, particularly from existing clients interested
+in expansion to Iraq (e.g. from the GCC, Jordan, and Turkey). Mobilization of additional funding from
+financial institutions, similar to what was achieved for earlier successful efforts to finance Iraq’s
+telecommunications backbone, will remain a key feature of IFC’s strategy.
+82.
+Sound management of natural resources and environmental protection are critical for Iraq
+to sustain its economic development agenda. This includes supporting the development and
+implementation of a comprehensive national environment and natural resources management action plan
+that prioritizes environmental issues in national planning and budget allocation. Priority areas include
+urban environment, rehabilitation of agricultural land, and water resources management. A new US$140
+million Irrigation and Water Management/Water Resources Project is proposed for FY14: this project
+would build on the success of the existing Community Infrastructure Project and focus on the
+rehabilitation of irrigation systems, including efforts to rebuild local Iraqi water user associations. The
+Bank also stands ready to bring to bear its expertise to help the Government address climate change
+issues, given Iraq’s high vulnerability. The Global Gas Flaring Reduction (GGFR) Initiative has
+proposed US$1.4 million for Iraq GGFR work from 2013-15. A Gas Pricing Study will be undertaken as
+well as the Gas Master System Study which aims to propose an overall strategy and an implementation
+plan for the development of the gas industry.
+
+
+Result Area 3: Improving Social Inclusion and Reducing Poverty
+
+CPS Outcome Areas:
+1. Improved delivery of health, education, and water supply services
+2. Strengthened capacity to develop, manage and monitor social protection reforms
+83.
+
+The Bank Group will seek to help the Government develop its capacity to deliver efficient
+25
+
+services in health, education and social protection, while also improving targeting mechanisms to
+deliver support to the most vulnerable. Under existing programs, the Bank will support school
+construction and capacity building for teacher training and curriculum development. The Bank has also
+supported the development of the National Education Strategy. This work will try to provide a
+foundation for greater women’s participation in the labor force through education policy. In the coming
+years, Bank support could include: (i) capacity building for the implementation of the national education
+strategy by supporting the Government in developing an implementation plan and the design of priority
+programs; (ii) involving Iraq in global and regional initiatives, such as MENA Region’s Workforce
+Development (WfD) project under the System Approach for Better Education Results (SABER) and the
+University Governance Score Card (UGSC) 12; (iii) a policy note to take stock of the current situation
+regarding quality of education and skills development in Iraq using the newly available data from WfD,
+UGSC and other initiatives and incorporating the planned developments in the new education strategy 13;
+and (iv) skills development and readiness for the labor market.
+84.
+In health, the Bank Group will focus on improvements in management capacity and
+efficiency of the sector, following on the recent recommendation for a Public Expenditure Review in the
+sector. In response to a request from the Minister of Health for assistance in the areas of building,
+expanding and operating emergency medical services and e-governance, the Bank will build on the recent
+experiences in establishing similar emergency medical services in Kurdistan through the Regional Health
+Emergency Response Project. The Bank will continue to work in close partnership with the World
+Health Organization which has been working closely with the Ministry of Health (MOH) to support the
+Iraq Public Sector Modernization Program. IFC, in turn, will work to identify viable investment
+opportunities in the health sector that enable existing health providers to grow and attract South-South
+investments in the health sector.
+85.
+In the water supply sector, the Bank Group would continue helping the Government
+prepare the analytical base for sustainable delivery of water services across the country, including
+an institutional and regulatory framework for the water supply and wastewater sector. Under the
+existing portfolio, the Bank will continue to implement its programs of support for the rehabilitation of
+municipal water supplies, including in Baghdad. A new Water Supply and Sewerage (Baghdad) project
+for US$100 million is proposed for FY15.
+86.
+Under the rubric of social protection, the Bank Group will continue its engagement in labor
+markets, poverty reduction, social safety nets, and pension reforms, building on the available data to
+allow for a deeper evidence-based dialogue on social protection reforms. The Bank could also support
+Iraq in implementing its National Employment Strategy. The successful Household Survey work and
+ensuing Poverty Reduction Strategy are being followed up by an update of the Household Survey.
+Technical work will be carried out to assess Iraq’s social subsidies and will make policy
+recommendations to move Iraq beyond the universal Public Distribution System to a differentiated model
+that continues to protect the poorest and most vulnerable. Additional policy development and
+implementation support could be provided on safety nets, such as conditional cash transfer programs to
+improve education and health outcomes among youth and women, and pensions, where significant
+capacity is being built at the National Board of Pensions (NBP) to help expand coverage beyond the
+current level of 20 percent of the population. Additionally, the Bank is supporting a community-driven
+development approach to basic service delivery in the KRG and could expand this work over the CPS
+12
+
+These initiatives will collect comprehensive data to provide diagnostic information on the system which can be used for further
+policy development and could lead to additional work to enhance employability of graduates and the relevance of the acquired
+knowledge and skills to the labor market.
+13
+The policy note would lay the foundation for targeted support in the important area of skills development and students’ readiness for
+the labor market.
+
+26
+
+period.
+87.
+The CPS intends to help the Government reach its medium-term objective of providing
+opportunities for women’s empowerment with equity and justice. The Bank will carry out a Gender
+and Poverty Assessment in Iraq in FY14, informed by the Household Survey that will be completed by
+end of 2012. This work will aim to mainstream gender into the poverty work to provide a full and
+comprehensive assessment and will inform the development of a National Gender Strategy. The
+National Gender Strategy will focus on raising the status of women through the reform of economic and
+legal institutions to ensure equal rights and opportunities for men and women (family law, protection from
+violence, property ownership, employment, political rights and inheritance laws) with a view to reach the
+objective of achieving gender equity in power and resource distribution and to meet MDG targets by
+through continuing to promote women’s empowerment in productive economic sectors such as
+agriculture, water, and energy. The gender assessment will inform dialogue and technical support on
+social protection reform to improve targeting and outcomes. The gender assessment will also be used to
+inform policy dialogue more broadly. The Bank will continue to work with the Government to establish
+the evidence base regarding the effects of gender equality in poverty reduction operations, build the
+gender-mainstreaming capacity of its clients, and partner with other stakeholders on gender equality and
+women’s economic empowerment.
+C.
+
+Implementing the FY13-16 Country Partnership Strategy
+
+88.
+Iraq’s complex political agenda, security challenges and global economic uncertainty imply
+that the Bank Group needs to be flexible, opportunistic, and ready to adapt to changing
+circumstances. This strategy is a living document that lays out priorities for Iraq today but will need to
+be periodically reviewed for relevance in light of changing circumstances. The Bank Group’s
+investment and analytical and advisory work programs will be reviewed with the Government through
+Country Program Reviews, and activities will be updated based on the Government’s emerging priorities
+and the quality of engagement with partner institutions.
+89.
+The Bank will seek to ensure that IBRD financing for Iraq during the CPS period leverages
+Iraq’s own resources and has strong government ownership and reform champions. Iraq has
+considerable resources at its disposal for public investment, development and poverty reduction, but
+absorptive capacity remains low. The Bank’s main comparative advantage will be in providing the
+underlying analysis for policy development and providing technical assistance to help build institutional
+capacity. Available IBRD resources for Iraq are but a small fraction of Iraq’s annual investment budget
+(US$36.7 billion 14 in 2012). Thus, IBRD funding must be used strategically to leverage and provide an
+operating framework for the Government’s investment program and to provide knowledge transfer and
+good project practice. In addition, and in light of Iraq’s own resources, it is expected that more Bank
+support will be carried out on a reimbursable basis as done in other countries in the region and around the
+world.
+90.
+Building on its global knowledge, the Bank will be offering a combination of lending and
+knowledge products to better meet the specific needs of Iraq. Knowledge can be delivered through
+the entire spectrum of Bank instruments, including IBRD lending, just-in-time policy notes, sectoral
+strategies, reimbursable services and economic and sector work to inform the policy decisions and design
+of development programs.
+91.
+The portfolio will continue to be monitored closely, including by regular meetings of the JPOC
+and CPPRs. Project supervision will continue to be carried out intensively and increasingly in-country
+14
+
+Includes supplemental budget
+
+27
+
+when security permits. Future Bank project support will be designed to meet more robust criteria of
+readiness for implementation. Readiness criteria will be monitored in order to facilitate a quick start of
+project implementation, for example, the core implementation team being in place as well as prepared
+procurement plan and packages, and some contracts ready for signing. In order for the projects to begin in
+a timely manner, the Bank team will work with the Government to encourage timely project effectiveness.
+92.
+IFC’s investment program is expected to remain on an upward trajectory assuming
+continued improvement in the domestic security/political environment and sustained investor
+confidence. With expanded field presence and business development efforts, investments during the
+CPS period will focus on exploring opportunities in sectors that generate employment opportunities (e.g.,
+construction, manufacturing, tourism and services), as well as increased access to finance. IFC will
+continue to implement its regional South-South investment strategy by partnering with larger MENA
+and/or Gulf investors interested in venturing into the Iraqi market. Special attention will be given to
+focusing on lagging regions and reaching women with a view to improving the inclusion dimension of
+IFC’s program. The implementation of the IFC Advisory Service program foresees a phased approach:
+interventions will be segmented and phased over the life of the program to ensure proper relevance and
+alignment with the prevailing situation on the ground. The objectives of the Advisory Services program,
+in line with national priorities and in coordination with other donors, are to support Iraq’s economic
+development, create new investment and employment opportunities and stimulate private sector-led
+growth. Based on extensive consultations with the World Bank, donors, GOI and private sector
+stakeholders in Iraq, IFC will execute a targeted, multi-pronged private sector development advisory
+services program – in tandem with investments – with a focus on: (i) corporate governance; (ii) SME
+training though Business Edge; (iii) investment climate reforms (e.g. construction permits); (iv)
+implementation of PPPs and privatization support; (v) improvements in financial infrastructure and work
+with banks and microfinance institutions to increase access to finance to MSMEs; and (vi) supporting
+client- and sector- related sustainable business needs.
+Financing of the Program
+93.
+The expected indicative lending envelope is US$600-900 million during the CPS period.
+Actual lending will depend on demand from the authorities based on Iraq’s development priorities,
+performance under the CPS, and IBRD lending capacity. The Bank is developing a reimbursable
+services program with Iraq: KRG has already indicated its intent to enter into a significant reimbursable
+services program with the Bank, details of which are currently being worked out. During the CPS period
+FY13-16, IFC plans to continue investing in the private sector with an indicative program of US$100-150
+million in commitments per year assuming improvements in the security situation and an operating
+environment that is conducive to private sector expansion.
+Fostering Stronger Partnerships
+94.
+While donor assistance played an important role in the country’s reconstruction and
+development process, some donors are winding down their development assistance programs in
+Iraq. The multi-donor Iraq Trust Fund provided an excellent vehicle for donor cooperation in post-war
+Iraq and is an example of good practice in terms of transparency and donor reporting. The Bank also
+engages in a mutually reinforcing dialogue with the authorities—together with the IMF—on issues of
+common interest. Over the last few years, the Government has improved its capacity to manage aid in
+line with the signing of the Paris Declaration on Aid Effectiveness in May 2008. This includes: the
+restructuring of relevant units in the Ministry of Planning in Baghdad and the KRG; training on project
+screening and appraisal, management, monitoring and evaluation; and modernization of information
+technology. These efforts have gone hand-in-hand with the establishment and improvement of a Donor
+
+28
+
+Assistance Database to capture planning, implementation, monitoring and evaluation of Iraq’s capital
+budget (domestic and external resources).
+95.
+Improving the efficiency, effectiveness, and delivery of development cooperation remains a
+challenge. Ongoing security issues, together with the Government’s institutional capacity to lead on
+external aid, have impacted the achievements of reconstruction and development efforts. This was
+further exacerbated by certain assistance programs that were not well-coordinated among international
+agencies and local communities. These developments have made it particularly important for Iraq to
+develop strong and well-functioning institutions that can plan, allocate and oversee development
+resources in an effective, accountable and transparent manner.
+96.
+The Bank has established strong partnerships with Iraq’s development partners and will
+continue to play a key role in the coordination among Government and development partners.
+The key donors, in terms of volume of financial transfers, are the US Agency for International
+Development (USAID), the Japanese Government, the World Bank, the European Union, and SIDA.
+The International Partners Forum (IPF), jointly chaired by the World Bank and the United Nations
+Assistance Mission in Iraq (UNAMI), meets monthly to discuss political and economic developments and
+to reach consensus for addressing them. In addition to these high-level fora, sector groups coordinate
+development partner support in specific areas on the Government’s program. The Bank also uses
+informal networking with key donor agencies as a means of coordinating its assistance program with
+other donors so as to ensure complementarity, and avoiding risks of overlap. Finally, during the CPS
+period the Bank will continue to lead / co-lead groups on public financial management, governance, and
+private sector development and provide support to the Prime Minister’s Advisory Council on aid
+coordination and effectiveness.
+97.
+Iraq has a nascent but active CSO sector with over 200 registered CSOs. The most active
+CSOs are focused on governance, human rights, democracy, media, human development, women’s rights
+and the environment. A few CSOs are particularly vocal on budget issues, corruption and abuse of office,
+and the rights of displaced persons, widows and orphans. Only a small number of the CSOs in Iraq have
+been established with strong governance structures and have developed close partnerships with local and
+international institutions in their field of operations. The Bank will continue to engage CSO leaders in
+dialogue and consultations.
+Strategic Communications
+98.
+A communication plan will be important for CPS implementation, both to provide
+information to stakeholders and to provoke public debate on development policy issues. To this end,
+many of the Bank’s projects and AAA work will support increased stakeholder feedback and
+involvement. Many policies (for example, in social and health sector reforms) would benefit from
+deeper transparency and public participation on how implementation will occur and how reforms will
+impact the lives of citizens. Therefore, the Bank will seek to scale up its communications on its own
+work, and assist the Government in doing so more broadly. This could, for example, include working with
+the Government and other partners to regularly host workshops and seminars around key policy issues for
+a wide audience, in addition to other fora, as well as making use of new interactive technologies that
+would allow a broader and more diversified reach.
+IV.
+
+MANAGING RISKS
+
+99.
+The CPS will be implemented during a period of considerable risk and uncertainty.
+Political risks feature most prominently, and these impact security. The 2014 elections are an important
+milestone that could influence the ability of the Bank Group to deliver on the CPS program. Tension,
+29
+
+infighting, and conflict could become more pronounced as the election approaches, making reform
+increasingly difficult to accomplish. Under these circumstances, it is important for the Bank to focus on
+what is possible, help sustain momentum within the Government’s economic development program, and
+build support for reforms across all parts of the coalition government as well as with civil society and the
+private sector. Given the volatility of the political and security environment and the upcoming elections,
+the CPS will remain flexible and will strategically adapt its engagement to respond to the evolving
+situation on the ground. The CPS Progress Report provides a good opportunity to make adjustments to
+the strategy if necessary, and the timing of its delivery can also be adjusted to respond to country
+circumstances. In addition to these issues, and related to the political situation in the country, a lack of
+consultation and consensus within Government on policy reform may lead to fragmented and dissonant
+policy choices that that are not aligned with the Bank’s recommendations, and this could compromise the
+impact of the Bank’s strategy in Iraq. The Bank will continue to make policy recommendations and
+provide technical assistance and access to best practice and international experience in order to inform
+policy making to the greatest extent possible. However, these risks are difficult to fully mitigate, and it
+should be recognized that the Bank Group’s influence is limited.
+100. With its largely oil-based economy, Iraq is vulnerable to oil price fluctuations. The global
+economic crisis is putting downward pressure on oil prices and this could impact the Government’s ability
+to finance its budget from oil revenues. While Iraq should not (and is unlikely to) abandon its efforts to
+integrate more fully into the global economy, prudent macroeconomic management will remain key to
+providing the fiscal space for the Government to adjust appropriately to external shocks when they occur.
+The Bank will seek to help the Government mitigate this risk, including through policy advice.
+101. Another external shock that may impact Iraq is regional instability, including spillover
+from Syria which could jeopardize the whole region. Should regional instability spill over to Iraq,
+creating implementation difficulties for the Bank’s strategy, necessary adjustments to the program will be
+made and, if appropriate, the CPS Progress Report will be accelerated. Under such a scenario, IFC
+business development and ramping up of an IFC investment program would be difficult: IFC would
+focus on portfolio management and engaging through its advisory arm on a selective basis.
+102. The Iraq program also remains subject to project management and fiduciary risks,
+including environmental and social safeguards aspects. In the current environment of political
+uncertainty and corruption, program-specific risks assume even greater prominence. In addition, the
+operating environment makes supervision challenging. To mitigate these risks, the Bank plans to continue
+providing training and to undertake risk-based supervision missions as possible to help build capacity and
+ensure that adequate controls are in place for financial transactions and accuracy in financial reporting,
+audit and disbursement. A fiduciary monitoring agent carries out fiduciary control and physical
+verification activities with reporting to the Bank, and a portfolio specialist has been hired in Baghdad;
+however, risks remain in the implementation of Bank-supported projects. To mitigate the safeguards
+risks, the Bank will provide training, close monitoring, and review the Environmental and Social
+Safeguards Assessment Framework. In the event that political or fiduciary risks seriously undermine the
+integrity of the portfolio, appropriate measures will be taken.
+
+30
+
+Annex 1: Iraq CPS Results Framework (FY13-FY16)
+CPS Results, Outcomes, and Indicators
+Results influenced by the WBG Program
+
+Milestones
+
+World Bank Group Program (Tentative)
+
+PILLAR 1: IMPROVING GOVERNANCE
+Government’s Key Objectives: 15
+• Create fiscal discipline to strengthen efficiency; effectiveness and transparency in the use of public resources as well as aligning the budget with national priorities
+• Improve governance, in modernizing the public sector, strengthening transparency and accountability, and combating corruption
+Outcome Area 1.1: Improved transparency and efficiency of oil revenue management and public spending
+1.1.1. Iraq conducting itself as an Extractive
+Industries Transparency Initiative (EITI)-compliant
+country
+Baseline: 1 EITI report 16
+Target: 4 EITI reports issued by 2016 and active
+participation of civil society in monthly IEITI
+Council meetings as evidenced by participation lists
+and noted by Validator
+1.1.2. Implementation of sector Public
+Expenditure Review (PER) recommendations
+focused on improved efficiency of public spending
+Baseline: None
+Target: At least two key recommendations
+implemented
+1.1.3. Alignment of budgetary allocations with the
+national Poverty Reduction Strategy (PRS)
+Baseline: One poverty line item in yearly budget
+Target: Poverty mainstreamed in budget
+planning beyond a line item
+
+• Issuance of two annual EITI Reports by 2014
+• Medium-term Expenditure Framework (MTEF)
+incorporating prudent oil price and production projections
+
+• Public Expenditure Reviews carried out in at least two key
+sectors (expected to be Water and Health)
+• New budget instructions approved and guidelines ready by
+mid-2013
+• Standard bidding documents finalized and used by the target
+ministries
+• Public procurement bulletin board (website) housed within
+Procurement Regulatory Agency established by 2013
+• Annual PRS monitoring reports with a focus on gender
+indicators using Household Survey data
+
+Completed Activities:
+• Report Country Economic Memorandum (CEM)
+Phase I: Oil Revenue Management for Economic
+Diversification
+• Public Expenditure Review
+On-going Activities:
+Extractive Industries Transparency Initiative Support
+(EITI); Public Financial Management Reform & TA
+(ITF); Second Capacity Building TA (ITF); Household
+Survey & Policies for Poverty Reduction & TA (ITF)
+Planned Activities:
+Integrated Financial Management Information
+Systems (IFMIS) (IBRD); Public Financial
+Management Reform/Governance (IBRD); Local
+Governance/Fiscal Decentralization TA; Financial
+Management TA (Inspectors General); Poverty Gender
+Assessment ESW; KRG Procurement Reform (TA);
+Public Financial Management (TA)
+
+Outcome Area 1.2: Achievement of one or more features of the Governance Action Plan
+1.2.1. Governance Action Plan to achieve greater
+transparency, accountability, participation and local
+15
+16
+
+• Governance Action Plan approved by the Council of
+Ministers
+
+The Government is in the process of updating its National Development Plan.
+For year 2009, which reconciled about US$41b in revenue from oil and gas, validated in a timely manner.
+
+31
+
+Ongoing Activities:
+Second Capacity Building TA (ITF)
+
+CPS Results, Outcomes, and Indicators
+Results influenced by the WBG Program
+
+Milestones
+
+governance under implementation
+Baseline: Draft Governance Action Plan
+prepared
+Target: Achievement of one or more key
+features of the Governance Action Plan, such as the
+Access to Information Law
+
+World Bank Group Program (Tentative)
+Planned Activities:
+Public Financial Management Reform/Governance
+(IBRD); Public Sector Governance TA
+
+PILLAR 2: SUPPORTING ECONOMIC DIVERSIFICATION FOR BROADLY SHARED PROSPERITY
+Government’s Key Objectives:
+• Diversify the economy through increased participation by other sectors in GDP, particularly the production, agriculture and industrial sectors, as well as tourism
+• Enhance the private sector’s developmental role, the partnership between the private and public sectors, and promoting an environment that encourages investment
+• Lay the foundations for the rehabilitation of state-owned facilities
+• Strengthen Iraq’s geographical presence as a link between East and West, and meet the demand for transit cargo transport by building an efficient infrastructure
+• Meet residential and industrial electricity demand and ensure efficient and effective management of electricity sector investment and operations
+Outcome Area 2.1: Strengthened approaches to an improved business environment 17
+2.1.1. Time taken to deal with construction
+permits
+Baseline: 187 days (Doing Business 2013)
+Target: To be determined as part of IFC’s
+Investment Climate Regulatory Reform
+intervention focused on construction permitting.
+2.1.2. Strengthened capacity to restructure State
+Owned Enterprises (SOEs) 18
+Baseline: Time-bound Action Plan to
+implement strategy to reform SOEs
+Target: Implementation of time-bound Action
+Plan on track
+
+• Reengineered (simplified) process of the Construction
+Permitting in Baghdad, Basra and Erbil, and capacity
+building for the agencies involved
+
+Completed Activities:
+• Report CEM Phase I: Oil Revenue Management for
+Economic Diversification
+
+• Business Planning and performance contracts for Directors
+General (DGs) of each SOE by 2014
+• Establishment and operation of SOE Asset Valuation Unit
+within the Ministry of Finance by 2014
+• Recommendations of KRG Regulatory Capacity Review,
+including establishment of Regulatory Reform Unit within
+KRG Ministry of Planning implemented by 2014
+• Regulatory Capacity Review report for Basra Governorate
+by 2014
+• Public-Private Dialogue (PPD) with focus on improving the
+business enabling environment and gender issues
+
+IFC Ongoing Activities:
+Investment Climate Regulatory Reform Intervention
+
+17
+
+Ongoing Activities:
+PSD Trust Fund with DFID, SIDA and US support
+(including support for the implementation of PPPs, and
+support for regulatory reform, including for Doing
+Business areas, sector specific reforms and advising
+Government of Iraq on how to improve draft
+legislation prepared by ministries; Regional ESW
+Economic Complementarity and Deeper Regional
+Integration: Iraq, Turkey and Mashreq)
+
+Outcome areas 2.2 and 2.3 on the financial sector and infrastructure as well as governance under Pillar 1, contribute to Outcome area 2.1 Strengthened approaches to an improved
+business environment. However, separate outcomes are included given the Bank Group’s support to these areas.
+18
+Ministry of Industry and Minerals 72 SOEs; Ministry of Housing and Construction 8 SOEs including one pilot PPP; Asset valuation Unit in Ministry of Finance
+
+32
+
+CPS Results, Outcomes, and Indicators
+Results influenced by the WBG Program
+
+Milestones
+
+World Bank Group Program (Tentative)
+Planned Activities:
+Trade and Transport Corridors (IBRD); Country
+Economic Memorandum II ESW; Investment Climate
+Assessment (ICA) Reform TA
+
+Outcome Area 2.2: Strengthened supervisory framework for financial intermediation and capacity of financial institutions
+2.2.1. Compliance by the Central Bank of Iraq
+with Basel Core Principles
+Baseline: No
+Target: Yes
+
+• Completion of Phase 1 of the Banking Reform Strategy
+Action Plan
+
+Ongoing Activities:
+Banking Sector Reform (ITF); IFC Advisory Services
+for Improving Financial Infrastructure, microfinance &
+SME management training
+
+2.2.2 Public Credit Registry hosted by the Central
+Bank of Iraq functioning
+Baseline: Public Credit Registry does not exist
+Target: Yes (2016)
+
+• Development of a Public Credit Registry hosted by the
+Central Bank of Iraq (IFC)
+
+Planned Activities:
+Financial Sector Dialogue TA; Public Credit Registry
+Development (IFC)
+
+Outcome Area 2.3: Strengthened infrastructure services
+2.3.1. Improved clearance time of imports from
+• A Program to reduce trade and transport barriers along Iraq’s
+and transit trade via Turkey at Ibrahim Khalil
+main trade corridors and major border crossing with Turkey
+Baseline and target: To be defined during
+in place by end 2013
+project preparation of Trade and Transport
+Corridors (IBRD)
+2.3.2. Number of beneficiaries from rehabilitated
+irrigation and drainage water services by mid-2013
+Baseline: 0
+Target: 52,750 (2016)
+
+2.3.3. Electricity/Energy: Increased available
+generation capacity (MW) in power plants
+supported by WBG
+Baseline: 410 MW (2012)
+Target: 920 MW (2015)
+
+• 97,000 hectares of improved irrigated areas by mid 2013 up
+from 70,000 hectares in 2008
+• 308,000 man-days employment created by 2013 up from
+111,400 (2011) in labor intensive works
+• Iraq National Energy Strategy (INES) being implemented in
+the oil, gas and electricity sectors, and influencing
+development of linked industries
+• Hartha Power Station Units 2 and 3 restored and Dokan and
+Derbandikhan hydropower plants rehabilitated by 2014
+• Gas pricing and gas master system design studies completed
+(in support of INES recommendations)
+
+33
+
+Ongoing Activities:
+Regional ESW Economic Complementarity and
+Deeper Regional Integration: Iraq, Turkey and
+Mashreq; Emergency Community Infrastructure
+Rehabilitation Additional Financing (ITF); Dokan &
+Derbandikhan Emergency Hydropower (IDA);
+Emergency Electricity Reconstruction (IDA/ITF); Gas
+Pricing Study TA; Integrated National Energy Strategy
+TA; Emergency Road Rehabilitation (IDA)
+Planned Activities:
+Trade and Transport Corridors (IBRD); Irrigation
+Water Management/Water Resources (IBRD); Gas
+Master System Study TA; Trade and Transport
+Corridors (IBRD)
+
+CPS Results, Outcomes, and Indicators
+Results influenced by the WBG Program
+
+Milestones
+
+World Bank Group Program (Tentative)
+
+PILLAR 3: IMPROVING SOCIAL INCLUSION AND REDUCING POVERTY
+Government’s Key Objectives:
+• Reduce national poverty from 23 percent (2007) to 16 percent (2015)
+• Construct and rehabilitate intermediate and secondary schools in villages and poor neighborhood
+• Improve primary healthcare centers and accessibility by the poor and vulnerable
+• Improve the targeting and the efficiency of social safety nets
+Outcome Area 3.1: Improved delivery of health, education, and water supply services
+3.1.1. Health: Percent pregnant women receiving:
+(i) antenatal care at primary health care facilities in
+Southern Iraqi Marshlands and Babil Governorate
+Baseline: 69.8% (2012)
+Target: 90% (2013)
+
+• 12 primary health care facilities refurbished and equipped by
+mid 2013
+• Children age 0-5 years with health cards increase from
+60.1% in 2012 to 95% in 2013
+
+(ii) Iron Supplements
+Baseline: 26.1% (2012)
+Target: 50% (2013)
+
+3.1.2. Education: (i) Students benefiting from
+improved conditions of learning in new school
+buildings and classrooms
+Baseline: 0 (2004)
+Target: 72,688 (2013)
+(ii) Number additional seats available, resulting
+from newly built schools to reduce overcrowding
+Baseline: 0
+Target: 32,640 (2014)
+3.1.3. Water: Number of people benefitting from
+rehabilitated water supply systems under WBG
+supported program (number)
+Baseline: 0 (2005)
+Target: 815,000 (2013)
+
+• Education Sector Strategy for education and higher
+education developed and launch by 2013
+• Trained curricula developers successfully produce
+Curriculum Evaluation Manual and Curriculum Authoring
+Manual by 2014
+• Data collection completed and a report produced for the
+University Governance Score Card by 2013
+• 20 master trainers and 120 trainers successfully trained (able
+to provide satisfactory training for teachers) by 2013
+• 10 rehabilitated water supply systems operational
+
+34
+
+Ongoing Activities:
+Second Emergency Primary Health Care Assistance
+(ITF); Third Emergency Education Project (IDA);
+Emergency School Construction & Rehabilitation
+(ITF); Institutional Strengthening & Capacity Building
+for the Education Sector TA (ITF); Household Survey
+& Policies for Poverty Reduction & TA (ITF); Youth
+Livelihoods Development in Southern Iraq (JSDF);
+Emergency Water Supply (IDA); Emergency Baghdad
+Water Supply (ITF); Emergency Water Supply,
+Sanitation & Urban Reconstruction (ITF)
+Planned Activities:
+Health System Strengthening TA; Capacity Building
+for the Implementation of the National Education
+Strategy TA; Water Supply & Sewerage (Baghdad)
+(IBRD); Water Sector Strategy (ESW)
+
+CPS Results, Outcomes, and Indicators
+Results influenced by the WBG Program
+
+Milestones
+
+World Bank Group Program (Tentative)
+
+Outcome Area 3.2: Strengthened capacity to develop, manage and monitor social protection reforms
+3.2.1. Social Safety Net Reforms: Ineligible
+households excluded based on use of the central
+SSN Beneficiary Database
+Baseline: 0 (2011)
+Target: 57,000 (2013)
+
+3.2.2. Number of communities benefitting from
+CDD programs supporting core service provision
+Baseline: 25 communities (2012)
+Target: 100 communities (2014)
+
+• Social Safety Net (SSN) Information System in place with a
+central SSN Beneficiary Database by mid 2013
+• New targeting mechanisms and cash transfer methods in
+place with better targeting of female-headed households (i.e.,
+CCTs) in place (mid-2014)
+• Pension administration information system designed by 2013
+• Social Security System is merged with the State Pension
+Fund, in terms of policies and benefits and is administered by
+the National Board of Pensions by mid 2013
+• Agreed roadmap for reform of Public Distribution System
+(PDS) improved design and management of the PDS by 2014
+• All Consultative Action Groups under CDD programs
+include 20% women and youth by 2014
+
+35
+
+Ongoing Activities:
+Emergency Social Protection (ITF); Pension Reform
+Implementation Support TA (ITF); Rationalization of
+the Public Distribution System Reform TA (ITF);
+Consultative Service Delivery Program (Phase 2)
+(SPBF)
+Planned Activities:
+Social Protection Strategy (ESW)
+
+Annex 2: Key Ongoing Technical Assistance (TA) Supporting National Strategies
+
+TITLE
+
+DESCRIPTION
+
+Social Protection Technical
+Assistance
+
+Aims to strengthen the policy, management and administrative capacity in the Ministry of Labor and Social Affairs and the
+Ministry of Finance to develop, manage and monitor pension and social safety net reform programs.
+
+Extractive Industries Transparency
+Initiative (EITI) Technical Assistance
+
+Assist client in EITI implementation, develop/strengthen institutions, and facilitate knowledge exchange.
+
+Household Survey and Policies for
+Poverty Reduction Project
+Second Capacity Building Technical
+Assistance Project
+Public Distribution System (PDS)
+Technical Assistance Project
+Public Financial Management (PFM)
+Reform Technical Assistance Project
+Banking Sector Reform Technical
+Assistance Project
+Pension Reform Technical Assistance
+Project (PRISTA)
+Integrated National Energy Strategy
+Technical Assistance Project
+(INESTA)
+Institutional Strengthening and
+Capacity Building for the Education
+Sector Technical Assistance Project
+
+Data collection and strengthen the ability of the Government of Iraq to make and implement informed policies regarding
+poverty reduction, job creation and improvement of safety nets.
+Provide capacity building and training to help authorities introduce medium-term policies, focusing on economic and
+public sector management and social safety nets.
+Strengthen GOI technical and institutional capacity to implement the rationalization of the PDS. In the short and medium
+term, the aims are to support: (i) the implementation of the initial phases of the PDS reform, making sure that there is
+coordination with the SSN, with special emphasis on targeting; (ii) the elaboration of the PDS public information
+campaign; and (iii) the design robust monitoring and evaluation systems.
+Aims to support the Ministry of Finance to develop a more effective accountable and transparent public financial
+management.
+Aims to support Iraq’s implementation of its Banking Reform Strategy and Action Plan, focusing on institutional,
+operational and financial restructuring of the 2 state-owned commercial banks, and strengthening of the regulatory
+supervisory functions of the Central Bank of Iraq.
+Aims to support (i) in the short-term, the GOI in implementing the provisions of the new Pension Law; (ii) in the
+medium-term, the unification of the public and private pension schemes; and (iii) in the long-term, the development of
+long-term old-age income strategy for Iraq.
+Aims to improve the ability of the Government to develop an energy strategy that is designed to increase the contribution of
+the sector to sustainable development.
+Aims to support the Government’s effort to develop a sector strategy for education and higher education in Iraq.
+
+36
+
+Annex 3: Consultation Report
+1.
+In preparation for the new Country Partnership Strategy (CPS) for Iraq, the World Bank held
+several consultations in-country as well as through electronic media via the World Bank website to discuss
+the proposed strategy and to obtain feedback from various stakeholders. The initial consultations were held
+in June 2011 in Baghdad led by the Special Representative. The World Bank met with stakeholder groups,
+including Government agencies, representatives of civil society, and donor organizations. The purpose of
+the meetings was to present the CPS preparation process, the overarching pillars of the Strategy based on
+the past three ISNs, and the current needs of Iraq as aligned with the National Development Plan (NDP),
+and to gain an understanding of the Government’s priorities and challenges. At these meetings, all
+stakeholders stressed the lack of skills following years of war and the need for continued capacity in all
+sectors. They also stressed the importance of security without which all efforts for rehabilitation and
+development will fail. All participants stressed the importance of transparency and accountability as the
+fundamental building block for recovery and growth. The extreme environmental degradation that Iraq has
+suffered following years of war was also highlighted in most meetings.
+2.
+Formal consultations were later held in May 2012 in Baghdad led by the Country Director and the
+Special Representative. The World Bank met with a broad range of stakeholders from the highest levels
+of Government, including the Prime Minister, senior members of Cabinet, and Line Ministers, as well as
+representatives from civil society and non-governmental organizations, donors, local government, the
+media, and members of academia and private sector think tank organizations. During these meetings, the
+World Bank highlighted the strategic thrust of the proposed strategy for Iraq for the next four years,
+focusing primarily on providing the technical assistance Iraq needs to plan and properly use its own natural
+and financial resources, design and implement institutional reforms needed to spur economic
+diversification and create jobs, and increase its capacity for service delivery. The Government’s message
+was clear that the priority for work with the World Bank is less about access to financial resources but
+mainly about the need to increase its own absorptive capacity which has been severely degraded after
+decades of sanctions and conflict. Representatives of local governments, donors and civil society
+confirmed this view and stressed the need to accelerate priority services and promote private sector
+development in the non-oil sectors.
+3.
+A CPS workshop with Government representatives was held in Baghdad in October 2012, as well
+as further consultation meetings with the private sector, private bankers, media, academics, think tanks,
+and chambers of commerce throughout the country.
+4.
+The formal consultations also included field work led by the Special Representative in the
+Kurdistan Regional Government as well as the provinces of Al Basrah, Nineveh governorate, Dohuk, and
+Al Muthanna where the World Bank met with local governorate officials, civil society representatives and
+staff at three World Bank project sites. The project sites included the Um Qasr Al-Zubair dual
+carriageway rehabilitation project, a component of the Emergency Road Rehabilitation Project (IDA
+US$135 million); the Hartha Power Plant of the Emergency Electricity Rehabilitation Project (IDA
+US$124 million); and the Emergency Water Supply, Sanitation and Urban Reconstruction Project (ITF
+US$110 million).
+5.
+In the city of Basrah, the largest city in Southern Iraq (population of 3 million) that produces much
+of Iraq’s oil wealth, stakeholders who were consulted (government officials and representatives of civil
+society) noted that oil does not produce jobs for ordinary people and that Iraq is having a hard time
+mobilizing oil money for restoring public services - particularly electricity and water. In addition, the
+poor environment due to sand, dust gas flaring, and pollution from burning oil wells is causing a health
+
+37
+
+crisis, including an alarmingly high rate of cancer among children.
+6.
+From Basrah, the World Bank team travelled to Al-Muthanna via the Um Qasr Al-Zubair dual
+carriageway to Iraq’s poorest region where they witnessed first-hand the disastrous environmental impact
+of Saddam’s retaliatory policies on the marshlands. Drained marshes were evident on either side of the
+road. Al-Muthanna is the largest expanse of Iraq’s territory (20,000 sq. mi) but has a low population
+density (about 700,000 inhabitants) dispersed across a vast expanse of mostly desert land. Many of its
+inhabitants are Bedouin nomads: the provincial council mourns the difficulties of establishing population
+numbers to justify building schools and health clinics, though they admit that there is a critical shortage of
+both. Water is scarce, as are jobs. The province is one among a handful of Iraqi provinces that are facing
+a perplexing social problem. Women are leaving their husbands in droves and take up housekeeping with
+several children in tow but with limited ability to earn a living, given that educational attainment for girls
+counts among the lowest for Iraq. Across the region, there is high degree of poverty evidenced by the lack
+of school infrastructure, water shortages, poor health indicators and many street urchins wandering about.
+7.
+Consultations were also held in Mosul, Nineveh Province. Stakeholders’ key priorities include: (i)
+support to agriculture, including drought resistant wheat seeds; (ii) health reforms; and (iii) remedying the
+lack of attention to local concerns by the central government. The Bank discussed the comparative
+advantage of the Bank in agriculture and put the focus on the agriculture ESW that is planned for FY15
+rather than direct financial support to agriculture. The discussion also focused on sovereign versus
+sub-sovereign lending and the fact that Iraq’s Governorates do not meet the minimum criteria for
+sub-sovereign lending. It was agreed that the Governorate would raise their needs for financial support to
+these sectors to the level of the Ministry of Finance.
+8.
+During these consultations, the Bank team discussed the proposed pillars of support, focusing on
+key priorities such as (i) strengthening Iraq’s economic management and fiduciary capacity; (ii) supporting
+private sector-led economic diversification and employment generation; and (iii) strengthening capacity to
+improve large-scale public service delivery. The Bank also discussed modalities of support with key
+government officials, including the balance of lending and non-lending, i.e., analytical work, technical
+assistance, and capacity building.
+9.
+A consultation with the International Partners Forum was held on this CPS. All donors consulted
+on the draft CPS confirmed that the Bank Group’s proposed strategy is the right one and is broadly in line
+with their own strategy. There are working groups with donors on PFM, governance, water and
+agriculture, and partners meet on a regular basis and support each other's efforts in Iraq.
+Summary of Key Issues Discussed:
+10.
+Iraq is a large oil-based economy with strong upside potential, but has extremely weak institutional
+capacity. All stakeholders stressed the erosion of skills following years of war and the need for reforms
+and continued capacity building in all sectors. Although security remains a problem, the economy is
+picking up as evidenced by strong macroeconomic indicators, increasing export capacity, new oil
+contracts, and a construction boom. As such, the country is benefitting from an increase in oil production,
+exports and oil prices. These, however, do not translate to job creation or improvements in the delivery of
+basic services, and the distribution of wealth and opportunity remains unequal.
+11.
+Government officials broadly indicated that Iraq did not wish to borrow at high levels given their
+abundant resources. The Government also made clear that the priority for work with the World Bank is less
+about access to financial resources but mainly about the need to increase its own absorptive capacity which
+
+38
+
+has been severely degraded over the past two decades. Discussions with local level government
+representatives and civil society groups confirmed this view and stressed the need to accelerate the
+delivery of priority services, promote private sector development in non-oil sectors, and ensure inclusion.
+12.
+Against this background, the discussions with stakeholders evolved around the three pillars of the
+CPS and the key messages are as follows:
+•
+
+Economic Management and Governance: All stakeholders echoed the need to combat
+corruption, establish transparency and build the foundation for long-term sustainable growth.
+There was a consensus among stakeholders on the urgent need for legal and regulatory reforms, a
+strong and stable financial sector, a robust governance framework, including a good procurement
+system, and strong auditing and oversight functions. Members of the Government as well as
+donors highlighted the urgent need for better governance in the financial sector, particularly
+moving forward on the reform of the two state-owned banks, Al-Rafidain and Al-Rasheed.
+
+•
+
+Job Creation and Inclusive Growth: Discussions centered on the critical need for economic
+diversification away from oil, creating the enabling environment for private sector development
+and job creation, moving from a central economy to a market economy. Employment, especially
+for youth and women, is considered one of the major concerns of stakeholders at all levels. Senior
+officials recognized that the large and fast-growing labor force and the absence of a dynamic
+private sector constitute serious impediments to addressing the critical issue of employment in
+Iraq. Many stakeholders went so far as to note that Iraq’s medium-term political and social
+stability will depend on how the issues of jobs and inclusion will be addressed. Some members of
+Government noted that Iraq is already working on developing upstream industries such as cement
+and petrochemicals, and is also looking at developing the agriculture sector, both to increase food
+security and to create rural employment. The World Bank responded that agriculture needed more
+analysis since it is not clear the extent to which it will generate employment and that it would
+require an integrated approach to water resources and land management, irrigation technology,
+financing and marketing and private sector participation. The Bank team recommended bringing in
+lessons of experience from other countries in this regard. The World Bank also noted Iraq’s
+tourism potential as a possibility for creating jobs which could be explored as part of the analytical
+work under the CPS.
+
+•
+
+Basic Services Delivery of Economic and Social Infrastructure: Stakeholders consulted
+emphasized that in order to improve the quality of life of Iraqis, the Government needs to urgently
+deliver basic services in the sectors of electricity, water, transport, education, primary health, and
+social protection while strengthening the capacity of Government institutions to adequately
+manage these sectors. As some donors and bilateral partners are in the process of phasing-out of
+Iraq, stakeholders requested World Bank support by identifying agents of change or champions in
+the Government to ensure that basic services are delivered.
+
+39
+
+Australia
+Belgium
+Canada
+Denmark
+EU / JUSTLEX
+Finland
+France / AFD
+Germany
+India
+Italy
+Japan / JICA
+Korea
+Kuwait
+Netherlands
+Norway
+Sweden
+Turkey
+UK / DFID
+USA / USAID
+World Bank
+UN
+World Bank
+Administered
+ITF
+
+X
+X
+X
+
+X
+X
+
+X
+
+X
+
+X
+X
+
+X
+
+X
+
+X
+
+World Bank Administered
+Iraq Trust Fund
+
+Poverty Alleviation
+
+Youth
+
+Governance/Transparency
+
+Humanitarian
+Human Rights & Police
+Reforms
+
+Water & Sanitation
+
+Urban and Local Government
+
+X
+X
+X
+
+X
+
+Social Protection
+
+Roads & Transport
+
+Private Sector Development
+
+Health
+
+Energy
+Environment & Climate
+Change
+Gender
+
+Education
+
+Agriculture
+
+Donor Sector
+
+Democratic Governance
+
+Annex 4: Iraq Matrix of Donor Interventions
+
+X X
+
+X
+
+X
+X
+
+X
+X
+
+X
+
+X
+
+X
+X
+
+X
+
+X
+
+X
+X
+
+X
+X
+
+X
+X
+X
+
+X
+X
+X
+
+X
+X
+
+X
+X
+
+X
+X
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+X
+X
+
+X X
+
+X
+
+X
+X
+X
+
+X
+X X
+X X
+
+X X
+
+X
+X
+
+X X
+X
+X
+
+X
+
+X
+
+X
+
+X
+X X
+X X
+
+X
+X
+X
+X
+
+X
+
+X
+X
+
+X
+X
+X
+
+X
+X
+X
+X
+X
+
+X
+X
+X
+X
+
+X
+
+X
+
+X
+
+X
+X
+X
+X
+X
+X
+X
+X
+X
+
+X
+X
+
+X
+
+X
+
+X
+
+X
+X
+X
+
+X
+X
+X
+
+X
+X
+X
+
+X
+
+X
+
+X
+X
+X
+
+X
+X
+
+X
+
+X
+
+X
+
+X
+
+Note: This is a snapshot based on the Bank's current knowledge of donor involvement in Iraq and will change over the course of the CPS period.
+
+40
+
+Annex 5: Iraq’s Progress towards the MDGs
+1.
+Iraq has made progress towards achieving some of the MDGs including reducing hunger,
+promoting gender equality and reducing child mortality. However, there is still much work to be done in a
+number of crucial areas including increasing participation in primary education, reducing unemployment,
+and ensuring access to safe and reliable water and sanitation. The gap in access to essential services
+remains wide especially between rural and urban areas. 19
+2.
+Iraq’s expected outlook to meet the MDGs is as follows (adapted from the World Bank’s “Global
+Monitoring Report 2011: Improving the odds of Achieving the MDGs” and the booklet “The MDGs in
+Iraq” published by the UN Country Team for Iraq):
+
+Goal
+1: Eradicate
+extreme poverty
+and hunger
+
+2: Achieve
+universal
+primary
+education
+3: Promote
+gender equality
+and empower
+women
+
+4: Reduce child
+mortality
+
+5: Improve
+maternal health
+
+6: Combat
+HIV/AIDS,
+malaria and
+other diseases
+
+19
+
+Iraq’s expected outlook to meet the MDGs
+Status
+Far from target. The Government of Iraq is targeting a reduction in poverty levels
+to 16 percent by 2015 as part of its commitment to eradicate extreme poverty and
+hunger under MDG 1. Almost seven million Iraqis live in poverty (spending less
+than IQD77,000 per person per month, or US$2.20 per day), totaling 23 percent of
+the population.
+Close to target. Following the drop in the net primary school enrolment ratio from
+91 percent in 1990 to 89 percent in 2007, Iraq faces considerable challenges in its
+efforts to meet the 2015 target of 100 percent net primary enrolment.
+Far from target. Iraq remains generally on course for achieving gender parity in
+primary education enrolment. However, the lowest enrolment rates are to be found
+among girls in rural areas. Women’s share of wage employment outside agriculture
+fell from 11 percent to 7 percent between 1990 and 2008. Just 13 percent of Iraqi
+women participate in the labor force and 24 percent are illiterate. Iraq is targeting a
+50 percent share of non-agricultural waged work for women by 2015.
+Far from target. Iraq has made considerable progress in reducing mortality rates
+among infants and children under the age of five. The proportion of children dying
+before reaching the age of five has fallen from 62 to 41 for every 1,000 live births.
+Moreover, growing numbers of Iraqi children suffer from stunting (25%) 0-5 years.
+However, some central governorates – particularly Salah al-Din (70 per 1,000 live
+births) are significantly worse off than the rest of Iraq. Of the countries in the
+region, only Yemen has a higher infant mortality rate. Iraq is aiming to reduce its
+infant mortality rate to 17 for every 1,000 live births by 2015.
+Far from target. The proportion of women dying in child birth (maternal mortality
+ratio) currently stands at 84 per 100,000 live births, placing Iraq in a group of 68
+countries globally which account for 97 percent of all maternal and child deaths.
+Iraq is struggling to reduce the number of women dying in child birth (maternal
+mortality) to meet the target of 29 for every 100,000 live births.
+Close to target. The prevalence of HIV in Iraq is currently less than 0.1 percent of
+the population. New incidences of tuberculosis (TB) rose from 2 to 12 for every
+100,000 Iraqis per year between 2000 and 2006, pushing the country further away
+from the target of eradication by 2015. Southern and central governorates –
+particularly Qadissiya– experience the highest rates. Malaria is now almost
+
+UN Inter-Agency Information and Analysis Unit
+
+41
+
+7: Ensure
+environmental
+sustainability
+
+8: Global
+partnership for
+development
+
+completely eliminated in Iraq with no indigenous cases reported in 2009 compared
+to over 39,000 cases in 1995.
+Far from target. The proportion of households using an improved water source has
+remained at around 80 percent since 1990. In rural areas, this figure is just 57
+percent. Iraq faces considerable challenges in sanitation. 84 percent of the
+population uses an improved sanitation facility, like the public sewerage network or
+a septic tank. However, just 26 percent of the population is covered by the public
+sewage network, dropping to 2 percent in rural areas. While Iraq may meet the
+target of 96 percent of households using an improved sanitation facility, issues still
+remain over the lack of consistent water supplies, contamination of the water
+network due to damaged infrastructure and lack of wastewater treatment. An
+alarming 83 percent of Iraq’s wastewater is left untreated, contributing to the
+pollution of Iraq’s waterways and general environment
+Close to target. Use of new technology has increased rapidly in Iraq since 2003,
+with 78% of the population using a mobile telephone as of 2007. Personal computer
+ownership has risen to 12% while only 6% of Iraqis use the internet daily.
+
+42
+
+CAS Annex A2: Iraq at a Glance
+
+43
+
+44
+
+45
+
+CAS Annex B2: Selected Indicators of Bank Portfolio Performance and Management
+As of September 30, 2012
+
+46
+
+CAS Annex B5: Iraq Social Indicators
+
+Iraq Social Indicators
+Latest single year
+
+Same region/income group
+M. East
+& North
+
+Middle-
+
+1980-85
+
+1990-95
+
+2005-10
+
+Africa
+
+incom e
+
+16.3
+
+21.6
+
+32.0
+
+382.8
+
+4,970.8
+
+3.0
+
+2.7
+
+2.5
+
+1.8
+
+1.0
+
+68.8
+
+68.8
+
+66.5
+
+57.6
+
+..
+
+6.2
+
+5.6
+
+5.0
+
+2.8
+
+2.0
+
+National headcount index
+
+..
+
+..
+
+22.9
+
+..
+
+..
+
+Urban headcount index
+
+..
+
+..
+
+16.1
+
+..
+
+..
+
+Rural headcount index
+
+..
+
+..
+
+39.3
+
+..
+
+..
+
+GNI per capita, Atlas method (current US$)
+
+..
+
+..
+
+2,380
+
+6,384
+
+3,726
+
+Consumer price index (2005=100)
+
+..
+
+..
+
+171.0
+
+129
+
+135
+
+Gini index
+
+..
+
+..
+
+0.309
+
+..
+
+..
+
+Income share held by low est 10%
+
+..
+
+..
+
+4.0
+
+..
+
+..
+
+Income share held by highest 10%
+
+..
+
+..
+
+25.0
+
+..
+
+..
+
+POPULATION
+Total population, mid-year (millions)
+Grow th rate (% annual average for period)
+Urban population (% of population)
+Total fertility rate (births per woman)
+POVERTY
+(% of population)
+
+INCOME
+
+INCOME/CONSUMPTION DISTRIBUTION
+Share of income or consumption
+
+SOCIAL INDICATORS
+Public expenditure
+Health (% of GDP)
+Education (% of GNI)
+
+..
+
+..
+
+3.0
+
+5.0
+
+6.0
+
+4.1
+
+..
+
+9.0
+
+5.0
+
+3.0
+
+Net prim ary school enrollm ent rate
+(% of age group)
+Total
+
+85
+
+74
+
+89
+
+90
+
+89
+
+Male
+
+90
+
+78
+
+94
+
+92
+
+90
+
+Female
+
+80
+
+69
+
+84
+
+88
+
+88
+
+Access to an im proved w ater source
+(% of population)
+Total
+
+..
+
+80
+
+79
+
+89
+
+90
+
+Urban
+
+..
+
+97
+
+91
+
+95
+
+96
+
+Rural
+
+..
+
+44
+
+56
+
+81
+
+84
+
+Measles
+
+70
+
+80
+
+73
+
+89
+
+86
+
+DPT
+
+86
+
+74
+
+65
+
+90
+
+85
+
+..
+
+10
+
+7
+
+12
+
+..
+
+Im m unization rate
+(% of children ages 12-23 months)
+
+Child malnutrition (% under 5 years)
+Life expectancy at birth
+(years)
+Total
+
+58
+
+71
+
+68
+
+72
+
+69
+
+Male
+
+49
+
+69
+
+65
+
+71
+
+67
+
+Female
+
+68
+
+74
+
+72
+
+74
+
+71
+
+Infant (per 1,000 live births)
+
+41
+
+36
+
+31
+
+26
+
+38
+
+Under 5 (per 1,000)
+
+53
+
+45
+
+39
+
+31
+
+51
+
+Male (per 1,000 population)
+
+207
+
+157
+
+281
+
+152
+
+202
+
+Female (per 1,000 population)
+
+191
+
+101
+
+125
+
+95
+
+136
+
+..
+
+84
+
+63
+
+74
+
+190
+
+..
+
+54
+
+80
+
+83
+
+71
+
+Mortality
+
+Adult (15-59)
+
+Maternal (per 100,000 live births)
+Births attended by skilled health staff (%)
+CAS Annex B5.
+
+Note: 0 or 0.0 means zero or less than half the unit show n. Net enrollment rate: break in series betw een 1997 and 1998 due to
+change from ISCED76 to ISCED97. Immunization: refers to children ages 12-23 months w ho received vaccinations before one
+year of age or at any time before the survey.
+
+47
+
+CAS Annex B6: Key Economic Indicators
+
+Indicator
+
+2006
+
+Actual
+2008
+
+2007
+
+2009
+
+2010
+
+Estimate
+2012
+
+2011
+
+Projected
+2014
+
+2013
+
+2015
+
+National accounts (as % of GDP)
+Gross domestic product a
+
+100
+
+100
+
+100
+
+100
+
+100
+
+100
+
+100
+
+100
+
+100
+
+100
+
+5.8
+
+4.9
+
+3.8
+
+4.4
+
+5.0
+
+..
+
+..
+
+..
+
+..
+
+..
+
+Industry
+
+56.5
+
+54.4
+
+56.5
+
+42.5
+
+44.9
+
+..
+
+..
+
+..
+
+..
+
+..
+
+Services
+
+37.7
+
+40.7
+
+39.6
+
+53.1
+
+50.1
+
+..
+
+..
+
+..
+
+..
+
+..
+
+Total Consumption
+Gross domestic fixed investment
+Government investment
+Private investment
+
+..
+..
+..
+..
+
+66.0
+17.7
+13.6
+4.1
+
+49.4
+33.4
+31.4
+2.0
+
+91.5
+27.2
+23.7
+3.5
+
+75.4
+28.3
+24.5
+3.8
+
+63.2
+24.3
+20.5
+3.8
+
+71.2
+24.5
+20.4
+4.1
+
+67.7
+27.1
+23.4
+3.7
+
+64.4
+27.7
+23.4
+4.3
+
+63.5
+28.1
+23.6
+4.5
+
+Exports (GNFS)b
+Imports (GNFS)
+
+..
+..
+
+..
+..
+
+..
+..
+
+..
+..
+
+..
+..
+
+..
+..
+
+..
+..
+
+..
+..
+
+..
+..
+
+..
+..
+
+Agriculture
+
+Gross domestic savings
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+Gross national savings c
+
+..
+
+30.2
+
+52.5
+
+13.7
+
+25.3
+
+32.6
+
+22.9
+
+29.4
+
+32.4
+
+33.3
+
+..
+
+56,987
+
+86,531
+
+69,188
+
+84,078
+
+114,227
+
+127,792
+
+146,569
+
+165,091
+
+179,751
+
+1,926
+
+2,845
+
+2,215
+
+2,624
+
+3,478
+
+3,799
+
+4,260
+
+4,695
+
+5,006
+
+Memorandum items
+Gross domestic product
+(US$ million at current prices)
+GDP per capita (US$)
+Real annual growth rates
+Gross domestic product at market prices
+Gross Domestic Income
+
+..
+..
+
+1.5
+..
+
+9.5
+..
+
+2.9
+..
+
+3.0
+..
+
+8.9
+..
+
+10.2
+..
+
+14.7
+..
+
+12.0
+..
+
+9.3
+..
+
+Real annual per capita growth rates
+Gross domestic product at market prices
+Total consumption
+Private consumption
+
+..
+..
+..
+
+..
+..
+..
+
+47.7
+..
+..
+
+-22.1
+..
+..
+
+18.5
+..
+..
+
+32.5
+..
+..
+
+9.2
+..
+..
+
+12.1
+..
+..
+
+10.2
+..
+..
+
+6.6
+..
+..
+
+Exports (GNFS)b
+Merchandise FOB
+
+..
+..
+
+..
+37,835
+
+..
+62,013
+
+..
+38,428
+
+..
+50,240
+
+..
+77,877
+
+..
+87,145
+
+..
+101,254
+
+..
+117,447
+
+..
+129,805
+
+Imports (GNFS)b
+Merchandise FOB
+Resource balance
+Net current transfers
+Current account balance
+
+..
+..
+..
+..
+..
+
+..
+24,570
+5,884
+1,234
+7,118
+
+..
+40,813
+11,681
+4,899
+16,580
+
+..
+44,483
+-14,349
+5,053
+-9,296
+
+..
+46,286
+-5,111
+2,593
+-2,518
+
+..
+55,160
+11,255
+-1,720
+9,535
+
+..
+71,097
+1,065
+-3,070
+-2,005
+
+..
+81,615
+7,322
+-4,066
+3,256
+
+..
+90,940
+12,754
+-4,976
+7,778
+
+..
+99,513
+14,928
+-5,592
+9,336
+
+Net private foreign direct investment
+Long-term loans (net)
+Official
+Private
+Other capital (net, incl. errors & ommissions)
+
+..
+..
+..
+..
+..
+
+964
+..
+..
+..
+7,210
+
+1,822
+..
+..
+..
+74
+
+1,526
+..
+..
+..
+2,605
+
+1,271
+..
+..
+..
+3,692
+
+2,095
+..
+..
+..
+2,330
+
+2,685
+..
+..
+..
+2,581
+
+3,183
+..
+..
+..
+-908
+
+3,526
+..
+..
+..
+-1,615
+
+3,887
+..
+..
+..
+-1,384
+
+Change in reserves d
+
+..
+
+-11,872
+
+-18,751
+
+5,869
+
+-6,295
+
+-10,432
+
+-7,373
+
+-4,310
+
+-4,780
+
+-6,730
+
+..
+
+10.3
+
+13.5
+
+-20.7
+
+-6.1
+
+9.9
+
+0.8
+
+5.0
+
+7.7
+
+13.7
+
+..
+..
+..
+..
+
+..
+..
+..
+..
+
+..
+..
+..
+..
+
+..
+..
+..
+..
+
+..
+..
+..
+..
+
+..
+..
+..
+..
+
+..
+..
+..
+..
+
+..
+..
+..
+..
+
+..
+..
+..
+..
+
+..
+..
+..
+..
+
+Balance of Payments (US$ millions)
+
+Memorandum items
+Resource balance (% of GDP)
+Real annual growth rates
+Merchandise exports (FOB)
+Primary
+Manufactures
+Merchandise imports (CIF)
+
+48
+
+Iraq - Key Economic Indicators
+(Continued)
+
+Indicator
+
+2006
+
+Public finance (as % of GDP at market prices)e
+Current revenues
+Current expenditures
+Current account surplus (+) or deficit (-)
+Capital expenditure
+Foreign financing
+Monetary indicators
+M2/GDP
+Growth of M2 (%)
+Private sector credit growth (%)
+Total credit growth (%)
+Price indices( YR80 =100)
+Merchandise export price index
+Merchandise import price index
+Merchandise terms of trade index
+Real exchange rate (US$/LCU)f
+Real interest rates
+Consumer price index (% change)
+GDP deflator (% change)
+
+Actual
+2008
+
+2007
+
+2009
+
+2010
+
+Estimate
+2012
+
+2011
+
+Projected
+2014
+
+2013
+
+2015
+
+..
+..
+..
+..
+..
+
+78.9
+55.0
+..
+13.6
+..
+
+76.7
+55.7
+..
+31.4
+..
+
+74.5
+74.8
+..
+23.7
+..
+
+72.8
+57.2
+..
+24.5
+..
+
+78.1
+50.0
+..
+20.5
+..
+
+73.3
+57.2
+..
+20.4
+..
+
+73.2
+51.3
+..
+23.4
+..
+
+73.5
+46.6
+..
+23.4
+..
+
+74.0
+45.9
+..
+23.6
+..
+
+31.9
+43.6
+..
+..
+
+37.7
+27.9
+26.9
+29.8
+
+33.8
+29.5
+67.0
+32.9
+
+60.5
+30.1
+16.5
+16.7
+
+63.6
+32.9
+..
+42.8
+
+53.5
+19.5
+..
+58.2
+
+..
+..
+..
+46.9
+
+..
+..
+..
+29.3
+
+..
+..
+..
+83.0
+
+..
+..
+..
+49.3
+
+..
+..
+..
+
+..
+..
+..
+
+..
+..
+..
+
+..
+..
+..
+
+..
+..
+..
+
+..
+..
+..
+
+..
+..
+..
+
+..
+..
+..
+
+..
+..
+..
+
+..
+..
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+..
+35.1
+
+..
+..
+6.5
+
+..
+6.8
+31.8
+
+..
+-4.4
+-30.1
+
+..
+3.3
+25.2
+
+..
+6.0
+29.4
+
+..
+7.0
+2.4
+
+..
+6.0
+-2.2
+
+..
+4.5
+-0.3
+
+..
+4.0
+0.7
+
+a. GDP at current prices.
+b. "GNFS" denotes "goods and nonfactor services."
+c. Includes net unrequited transfers excluding official capital grants.
+d. Includes use of IMF resources.
+e. Consolidated central government.
+f. "LCU" denotes "local currency units." An increase in US$/LCU denotes appreciation.
+
+49
+
+CAS Annex B7: Key Exposure Indicators
+
+50
+
+CAS Annex B8: World Bank Portfolio
+
+51
+
+CAS Annex B8: IFC Portfolio
+
+52
+
+CAS Annex B8: MIGA’s Outstanding Exposure
+(Gross Exposure, US$ million)
+As of end of fiscal year
+
+Sectoral Distribution
+Finance
+Infrastructure
+Mining
+Oil & Gas
+Agribusiness/Manufacturing/Services/Tourism
+MIGA's Risk Profile
+Transfer Restriction
+Expropriation
+War & Civil Disturbance
+Breach of Contract
+MIGA's Gross Exposure in Country
+% Share of MIGA's Gross Exposure
+MIGA Net Exposure in Country
+% Share of MIGA's Net Exposure
+
+FY2004
+
+FY2005
+
+FY2006
+
+FY2007
+
+FY2008
+
+FY2009
+
+FY2010
+
+FY2011
+
+FY2012
+through
+2/29/12
+
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+
+0.0
+0.0
+0.0
+0.0
+
+0.0
+0.0
+0.0
+0.0
+
+0.0
+0.0
+0.0
+0.0
+
+0.0
+0.0
+0.0
+0.0
+
+0.0
+0.0
+0.0
+0.0
+
+0.0
+0.0
+0.0
+0.0
+
+0.0
+0.0
+0.0
+0.0
+
+5.0
+5.0
+5.0
+0.0
+
+3.7
+3.7
+3.7
+0.0
+
+0.0
+0.0%
+0.0
+0.0%
+
+0.0
+0.0%
+0.0
+0.0%
+
+0.0
+0.0%
+0.0
+0.0%
+
+0.0
+0.0%
+0.0
+0.0%
+
+0.0
+0.0%
+0.0
+0.0%
+
+0.0
+0.0%
+0.0
+0.0%
+
+0.0
+0.0%
+0.0
+0.0%
+
+5.0
+0.1%
+5.0
+0.1%
+
+3.7
+0.0%
+3.7
+0.1%
+
+53
+
+IBRD 33422R
+
+IRAQ
+SELECTED CITIES AND TOWNS
+
+MAIN ROADS
+
+GOVERNORATE CAPITALS
+
+RAILROADS
+
+NATIONAL CAPITAL
+
+GOVERNORATE BOUNDARIES
+
+RIVERS
+
+INTERNATIONAL BOUNDARIES
+
+40E
+
+42E
+
+44E
+
+TU R K EY
+
+46E
+
+To Urmia
+To Urmia
+
+- Zakhu
+To
+Al Qamishli
+
+-
+
+r
+Tig
+
+- 'Aqrah
+Dahuk
+
+is
+
+ates
+
+R.
+
+As
+- Sulaymaniyah
+
+To Dayr
+az Zawr
+
+Ja
+
+ba
+-
+
+l
+
+H
+
+am
+- Tikrit
+SALAH AD
+ri
+n
+Samarra'
+DIN
+
+Al Qa'im
+
+Ba'qubah
+
+DIYALÁ
+
+- Ar Ramadi
+
+JORDAN
+
+AL ANBAR
+Trebil
+
+S
+
+y
+
+r
+
+i
+D
+
+32N
+
+a
+
+- Habbaniyah
+Lake
+
+Razzaza
+Lake
+
+n
+
+e s e r
+
+BAGHDAD
+
+BAGHDAD
+
+Karbala-
+
+KARBALA'
+
+t
+
+To Dezful
+
+- - Ad Diwaniyah
+
+h
+
+'
+
+a
+
+l
+
+H
+
+ij
+
+Al Hayy
+
+ates
+R
+
+.
+
+32N
+
+Al 'Amarah
+
+AL QADISIYAH
+
+MAYSAN
+
+Ash Shatrah
+As Samawah
+Al 'Uzayr
+
+To Ahvaz
+
+- DHI QAR
+
+AN NAJAF
+ra
+
+Tigr
+is R.
+
+Al Kut
+
+Al Hillah
+
+Eu
+phr
+
+a
+
+WA S I T
+
+BABIL
+
+An Najaf
+
+Nukhayb
+
+S
+
+34N
+
+- -
+
+Tharthar
+Lake
+Al Fallujah
+
+To
+Amman
+
+To Kermanshah
+
+Al Hadithah
+- 'Akashat
+
+ISLA MI C
+REPUBLI C
+O F IRAN
+
+- AS SULAYMANIYAH
+
+KIRKUK
+
+Bayji-
+
+'Anah
+
+To Hims
+
+100 Miles
+
+36N
+
+Kirkuk
+
+34N
+
+50
+
+Haji Ibrahim
+(3,600 m)
+
+- Rayat
+
+Al Hadr
+
+S YRIAN
+A RAB
+RE P.
+
+150 Kilometers
+
+100
+
+Arbil
+
+N I N AW Á
+
+To Dayr
+az Zawr
+
+50
+
+0
+
+ARBIL
+
+Mosul
+
+Sinjar
+
+Euphr
+
+0
+
+DAHUK
+
+R.
+
+36N
+
+48E
+
+- An Nasiriyah
+Al Basrah
+
+ar
+
+As Salman
+
+ah
+
+30N
+
+AL MUTHANNÁ
+
+AL Az Zubayr
+BASRAH
+
+Umm
+Qasr
+
+30N
+
+To Ad
+Damman
+
+IRAQ
+
+KUWA IT
+
+S A UDI A RA BIA
+This map was produced by the Map Design Unit of The World Bank.
+The boundaries, colors, denominations and any other information
+shown on this map do not imply, on the part of The World Bank
+Group, any judgment on the legal status of any territory, or any
+endorsement or acceptance of such boundaries.
+
+28N
+40E
+
+42E
+
+44E
+
+46E
+
+48E
+APRIL 2012
+
+

@@ -1,0 +1,5640 @@
+Public Disclosure Authorized
+
+Document of
+The World Bank
+
+FOR OFFICIAL USE ONLY
+
+Public Disclosure Authorized
+
+Report Number: 89210-SZ
+
+INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT
+INTERNATIONAL FINANCE CORPORATION
+MULTIALATERAL INVESTMENT GUARANTEE AGENCY
+COUNTRY PARTNERSHIP STRATEGY
+
+Public Disclosure Authorized
+
+FOR
+THE KINGDOM OF SWAZILAND
+FOR THE PERIOD FY2015–FY2018
+
+October 28, 2014
+
+Public Disclosure Authorized
+
+Southern Africa Country Department 1
+Africa Region
+The International Finance Corporation
+Eastern and Southern Africa Department
+The Multilateral Investment Guarantee Agency
+Sub-Saharan Africa Department
+
+This document has a restricted distribution and may be used by recipients only in the performance of their
+official duties. Its contents may not otherwise be disclosed without World Bank Group authorization
+
+The date of the last Interim Strategy Note (2008-2010) was February 26, 2008
+
+CURRENCY EQUIVALENTS
+Unit of Currency: Emalangeni
+SZL 11.35 = US$1 (as at October 6, 2014)
+FISCAL YEAR
+April 1 – March 31
+ABBREVIATIONS AND ACRONYMS
+AAA
+ACC
+ADP
+AGOA
+AIDS
+AfDB
+CAD
+CBS
+CMA
+CPS
+CSO
+DMP
+EPA
+EU
+eNSF
+ERS
+EVERS
+FAR
+FSDIP
+
+Analytical and Advisory Activities
+Anti-Corruption Commission
+Accelerated Data Program Initiative
+Africa Growth and Opportunity Act
+Acquired Immune Deficiency Syndrome
+African Development Bank
+Current Account Deficit
+Central Bank of Swaziland
+Common Monetary Area
+Country Partnership Strategy
+Central Statistics Office
+Deputy Prime Minister’s Office
+Economic Partnership Agreement
+European Union
+Extended National Strategic Framework
+Economic Recovery Strategy
+Enhanced Voluntary Early Retirement Scheme
+Fiscal Adjustment Roadmap
+Financial Sector Development Implementation
+Plan
+GDP
+Gross Domestic Product
+GNI
+Gross National Income
+HIV
+Human Immunodeficiency Virus
+IBRD International Bank for Reconstruction and
+Development
+ICA
+Investment Climate Assessment
+IDA
+International Development Association
+IFAD International Fund for Agricultural Development
+IRM
+Investor Road Map
+ISN
+Interim Strategy Note
+MCH Maternal and Child Health
+MDG Millennium Development Goals
+MIC
+Middle Income Country
+MoF
+Ministry of Finance
+MoH Ministry of Health
+MIGA Multilateral Investment Guarantee Agency
+
+Vice President
+Director
+TTLs
+
+MSME Micro, Small and Medium Enterprises
+NAMBoard National Agricultural Marketing Board
+NBFI Non-Bank Financial Institution
+NERCHA National Emergency Response Council on
+HIV/AIDS
+NETIP National Education and Training Improvement Plan
+NDS
+National Development Plan
+NHSSP National Health Sector Strategic Plan
+PFM
+Public Finance Management
+OAG Old Age Grant
+OVC
+Orphans and Vulnerable Children
+PAT2 Portfolio Analysis Tool
+PPP
+Public Private Partnership
+PRSAP Poverty Reduction Strategy and Action Plan
+PSDS Private Sector Development Strategy
+RAMP Reserves Advisory and Management Program
+SACU Southern African Customs Union
+SCD
+Systematic Country Diagnostic
+SADC Southern African Development Community
+SDI
+Shared Prosperity Index
+SLGP Swaziland Local Government Project
+SIPA Swaziland Investment Promotion Agency
+SNL
+Swazi National Land
+SOE
+State Owned Enterprise
+SPPRA Swaziland Public Procurement Regulatory Agency
+SRA
+Swaziland Revenue Authority
+SUDP Swaziland Urban Development Project
+SWADE Swaziland Water and Agricultural Development
+Enterprise
+TB
+Tuberculosis
+TVET Technical and Vocational Education and Training
+UFAR Updated Fiscal Adjustment Roadmap
+ULG
+Urban Local Government
+UNDP United Nations Development Programme
+USAID United States Agency for International Development
+VAT
+Value Added Tax
+
+IBRD
+
+IFC
+
+MIGA
+
+Makhtar Diop
+Asad Alam
+Nonhlanhla Zindela
+
+Karin Finkelston
+Oumar Seydi
+Saleem Karimjee
+
+Keiko Honda
+Ravi Vish
+Stephan Dreyhaupt
+
+ii
+
+Acknowledgments
+
+This World Bank Group CPS was prepared under the guidance of Asad Alam, Country Director,
+AFCS1 and Saleem Karimjee, Senior Manager, CAFE4. The core team comprised Nonhlanhla
+Zindela, Fernando Im, Ivan Velev, Callista Chen, David Sislen, Catriona Purfield, Patrick
+Osewe, Chunlin. Zhang, Gert Van der Linde, Kathrin Plangemann. Zano Mataruka and Stephan,
+Dreyhaupt contributed from the IFC and MIGA.
+The CPS team would like to thank the Government representatives at the Ministry of Finance,
+Ministry of Economic Planning and Development, Office of the Prime Minister, Central Bank,
+other State institutions and the various line Ministries for their valuable contributions. In
+particular, the team wishes to recognize the valuable recommendations of Messrs/Mmes:
+Lonkhululeko Magagula, Chris Morgan, Bheki Bhembe, Dumisani Masilela. Bhadala Mamba,
+Maqhawe Mnisi, Alasdair Fraser.
+The core team is very grateful to representatives of the donor community, civil society and the
+private sector who helped inform this CPS through several in-country consultations. Finally, this
+team effort, benefited from the numerous from across the World Bank Group, reflecting the keen
+interest to the Swaziland country program. Our special thanks go to Mr. Makhtar Diop, Regional
+Vice President, Jan Walliser, Director for Strategy and Operations, Africa Region for their
+support and guidance. Many thanks also to Victor Sulla, Precious Zikhali, Phindile Ngwenya,
+Zandile Ratshitanga, Irina Astrakhan, John Panzer, R. Sudharshan Canagarajah, Lawrence
+Bouton, Carolyn Shelton, Xiaonan Cao, Kanako Yamashita-Allen, Austin Kilroy, Sekai Ndoro,
+and many colleagues who provided comments and helped strengthen the relevance and sharpen
+the client focus of this CPS.
+
+iii
+
+2015-2018 Country Partnership Strategy for the Kingdom of Swaziland
+TABLE OF CONTENTS
+I.
+II.
+III.
+IV.
+V.
+VI.
+VII.
+
+EXECUTIVE SUMMARY ........................................................................................................ v
+Introduction ................................................................................................................................ 1
+Country Background .................................................................................................................. 1
+Development Diagnostic ............................................................................................................. 2
+Summary of Development Challenges and Opportunities for WBG Engagement ............ 16
+Government’s Development Strategy ..................................................................................... 17
+World Bank Group Partnership ............................................................................................. 19
+A. Pillar 1: Promoting growth and job creation.......................................................................... 25
+B. Pillar 2: Strengthening state capabilities ................................................................................ 26
+
+VIII. Partnerships .............................................................................................................................. 29
+IX. Risk Assessment ........................................................................................................................ 29
+Table of Figures
+Figure 1: Growth needs to be more pro-poor ................................................................................................ 3
+Figure 2: Rural / urban divide ....................................................................................................................... 3
+Figure 3: Growth has slowed considerably ................................................................................................... 6
+Figure 4: Composition of production by sector ............................................................................................ 6
+Figure 5: Export and investment performance .............................................................................................. 8
+Figure 6: Labor market indicators................................................................................................................. 9
+Figure 7: Vulnerability to natural disasters has increased .......................................................................... 15
+Figure 8: CPS selectivity framework .......................................................................................................... 22
+Figure 9: CPS Program Pillars .................................................................................................................... 23
+List of Tables
+Table 1: Poverty depth and severity.............................................................................................................. 2
+Table 2: Public safety net program ............................................................................................................... 4
+Table 3: Selected Economic Indicators, 2011-19 ....................................................................................... 12
+Table 4: ISN Expected outcomes and results achieved .............................................................................. 21
+Table 5: CPS 2015-18 operations ............................................................................................................... 25
+List of Annexes
+Annex 1: CPS Results Matrix ..................................................................................................................... 31
+Annex 2: Swaziland at a Glance ................................................................................................................. 35
+Annex 3: WBG Portfolio – Swaziland........................................................................................................ 38
+Annex 4: Knowledge and advisory activities completed or underway ....................................................... 39
+Annex 5: Swaziland Social Indicators ........................................................................................................ 40
+Annex 6: Swaziland Key Economic Indicators .......................................................................................... 41
+Annex 7: Key Exposure Indicators ............................................................................................................. 43
+Annex 8: Summary of Stakeholder Consultations ...................................................................................... 44
+Annex 9: Coordination with Development Partners ................................................................................... 45
+Annex 10: Map of the Kingdom of Swaziland ......................................................................................... 457
+
+iv
+
+2015-2018 Country Partnership Strategy for the Kingdom of Swaziland
+
+I.
+
+EXECUTIVE SUMMARY
+
+The primary development challenge for the Kingdom of Swaziland is to address the high
+rate of poverty and inequality in the country. An estimated 63 per cent of the population lives
+below the poverty line and inequality is very high with a Gini coefficient of 49.5. Between
+2001/02 and 2009/10 consumption of the bottom 40 per cent of the population grew very slowly.
+Poverty is strongly correlated with unemployment, which is about 28.5 percent overall and 52.4
+percent among the youth. Poverty is also associated with the high burden of communicable
+diseases. The HIV/AIDS prevalence of 31 per cent of the population is the highest in the world
+and life expectancy has fallen to approximately 49 years. While the country has made significant
+progress towards achieving the MDGs, it is unlikely to reach the health related MDGs due to the
+high disease burden.
+To address poverty, the country has to overcome its low growth trap. During the 1980s,
+Swaziland grew at a rapid pace that exceeded the growth rate of other SADC member states.
+Growth slowed down in the 1990s, but remained positive at an average rate of around 3.7
+percent, and dropped further to an average rate of around 2.3 percent in the 2000s. Stimulating
+growth requires a multipronged effort aimed at addressing the HIV/AIDS and TB co-epidemic,
+managing external and domestic shocks better, promoting good governance and fiscal
+management, and strengthening the domestic investment climate in a way that will make
+Swaziland a destination of choice for investors.
+Growth will need to be supported by investments in human capital and an inclusive social
+safety net system to address the poverty challenge. The country faces a unique opportunity to
+capitalize on the demographic dividend; improvements in containing the health epidemic can
+propel more young people into the labor force. For the country to utilize this growth potential,
+adequate investments have to be made in education and skills development. This would also
+require adequately supporting the poor and the vulnerable, in a manner consistent with fiscal
+affordability. To seize these opportunities, consistent implementation of existing policies and a
+transformative development program is required in order to put Swaziland on a high growth and
+development trajectory.
+This Country Partnership Strategy (CPS) FY2015-2018 recognizes country specific
+constraints, as well as client demand for World Bank Group (WBG) support in selected
+developmental areas, which are consistent with the World Bank Group’s strategic goals of
+reducing extreme poverty and promoting shared prosperity in a sustainable way. The new
+CPS will prioritize two program pillars: (i) Promoting growth and job creation - This pillar will
+support Government create an enabling environment for private sector investment and
+competitiveness, MSME growth and job creation with a strong focus on the agribusiness and
+tourism sectors; and (ii) Strengthening state capabilities to design implement and monitor
+policies to reduce poverty and inequality - The World Bank Group will under this pillar provide
+support in the areas of governance, economic management and social services delivery. The CPS
+seeks to mitigate governance and implementation risks through interventions directly affecting
+service delivery to citizens such as health, local government capacity, public sector efficiency,
+and job creation as well as promoting advocacy and partnerships.
+v
+
+II. INTRODUCTION
+This document presents the World Bank Group’s Country Partnership Strategy
+(CPS) with the Kingdom of Swaziland for 2015-18. The goal of the CPS is to support the
+country’s efforts to reduce poverty and inequality, and to promote shared prosperity in a
+sustainable way. The CPS is aligned with the National Development Strategy (NDS) and its
+priorities for maintaining macro-economic stability, investing in strategic infrastructure and
+human capital to unlock new growth opportunities. This CPS builds on the results achieved
+under the Interim Strategy Note (ISN) 2008-2010, including the currently active programs
+initiated under the ISN. After its expiration in 2010, the ISN continued to frame the World Bank
+engagement in local administration and health, including the approval of two lending operations,
+and carrying out analytical work and providing intensive implementation support between 2010
+and 2014.
+1.
+
+III. COUNTRY BACKGROUND
+Swaziland is a landlocked, small open economy in Southern Africa. It has a land area
+of 17,364 km2 and a population of 1.2 million. The country is largely mountainous with 75.8% of
+the population living in rural areas. It borders Mozambique and South Africa: the nearest ports
+are Maputo, which is 149 km away, and Durban, about 541 km away. With a Gross Domestic
+Product (GDP) per capita of about US$3,500, Swaziland is classified as a lower middle income
+country 1.
+2.
+
+Swaziland is a member of the Common Monetary Area (CMA) with South Africa,
+Lesotho, and Namibia, and the domestic currency –the Lilangeni— is pegged at parity with
+the South African rand, which is also a legal tender of the economy. On the one hand, the
+CMA has helped integrate Swaziland closely with South Africa: it has provided a nominal
+anchor to monetary policy and has facilitated capital and commercial transactions with South
+Africa, Swaziland’s major trading partner. On the other hand, the scope to use monetary and
+exchange rate policy instruments is limited by the CMA membership. Close commercial ties
+with South Africa and the peg of the Lilangeni to the Rand have been instrumental to anchor
+inflation expectations, with Swaziland’s inflation somewhat following South Africa’s inflation.
+3.
+
+The country defines itself as a “monarchical democracy”, where both parliamentary
+and traditional systems of governance run concurrently. Swaziland has been independent
+since 1968. The King as Head of State holds supreme executive, legislative and judicial powers.
+He appoints the Prime Minister, 10 of the 76 members of the House of Assembly (the lower
+house of parliament) and 20 of the 31 members of the Senate. The most recent parliamentary
+elections were held in September 2013 and the Prime Minister was reappointed for another term.
+Labor unions and some segments of civil society continue to call for constitutional monarchy and
+legalizing all political parties in order to ensure greater accountability.
+4.
+
+Perceptions about lack of voice and accountability and weak rule of law hamper
+growth and development. The limitations on the rights to participate and form political parties
+5.
+
+1
+
+GNI per capita (PPP international) of $4, 760 in 2012.
+
+1
+
+deprives the citizenry of political competition and electoral feedback to prioritize policy choices.
+The regular arrest of pro-democracy activists contributes to pushing Swaziland low on the
+political freedoms scale and high in the rankings for perceptions of corruption. Transparency
+International ranks Swaziland 82nd among 177 countries on its Corruption Perception Index.
+Swaziland also does not fare well in most categories of the institutions pillar of the Global
+Competitiveness Index. The Anti-Corruption Commission (ACC) was reestablished in 2008 after
+the repeal of the Prevention of Corruption Order of 1993; and has brought some high-profile
+cases before the courts. It is, however, constrained by inadequate human and financial resources.
+
+IV. DEVELOPMENT DIAGNOSTIC
+
+Poverty and social protection
+Poverty and inequality are widespread with an estimated 63 percent of the
+population living below the poverty line and a Gini coefficient of 49.5 in 2010. About 29
+percent of the total population lives below the extreme poverty line. Poverty has fallen since
+early 2000s, with the poverty rate declining by just six percentage points to 63 percent in
+2009/10., when some 641,000 persons remained below the national poverty line. As Table 1
+shows, both the depth and severity of poverty have also declined between 2000/01 and 2009/10.
+The change in the poverty headcount, however, was of a much smaller magnitude for the poorest
+segments of the population, as reflected by the 1.2 percentage point decline in the poverty
+headcount using the extreme poverty line for the same time period. Inequality declined slightly
+between 2000/01 and 2009/10, from a Gini coefficient of 51.2 to 49.5.
+6.
+
+Growth in Swaziland was not equally shared, not pro-poor and relatively low. The
+growth incidence analysis (Figure 1) shows that growth was regressive with the growth rate of
+the bottom 40 percent being significantly lower than that of the top 60th percentile. Thus, the
+consumption expenditure per capita for the bottom 40 percent remained unchanged between
+2000/01 and 2009/10 (i.e. zero annual compounded growth rate), much lower than the annual
+compounded growth rate of consumption per capita of Swazi households (0.4 percent). A Shared
+Prosperity index, expressed as the growth rate of the bottom 40% of the population, was zero
+percent per annum.
+7.
+
+Table 1: Poverty depth and severity
+Poverty Headcount Rate
+
+Poverty Gap
+
+2000/01
+
+2000/01
+
+2009/10
+
+Change
+
+Extreme poverty line
+
+30.0
+
+28.8
+
+-1.2
+
+National poverty line
+
+69.0
+
+63.0
+
+-6.0
+
+$1.25 a day
+$2.50 a day
+
+43.7
+73.7
+
+38.8
+67.8
+
+-4.9
+-5.8
+
+2009/10
+
+Squared Poverty Gap
+Change
+
+2000/01
+
+2009/10
+
+3.6
+
+4.7
+
+1.1
+
+32.4
+30.4
+-1.9
+18.4
+International Poverty Lines
+14.9
+14.8
+0.0
+6.8
+38.3
+35.3
+-3.0
+23.3
+
+18.1
+
+-0.3
+
+7.6
+22.1
+
+0.7
+-1.3
+
+National Poverty Lines
+8.7
+9.8
+1.1
+
+Change
+
+Note: The extreme monthly poverty line corresponds to E261, whereas the national poverty line is equivalent to
+E460 in January 2010 prices.
+Source: Based on the ADePT Poverty and Inequality module using the Swaziland Income and Expenditure
+Surveys for 2000/01 and 2009/10.
+
+2
+
+Figure 1: Growth needs to be more pro poor
+
+Annual growth rate, %
+
+Total
+2.5
+2
+1.5
+1
+0.5
+0
+-0.5
+
+0
+
+3
+
+6
+
+9
+
+12
+
+15
+
+18
+
+21
+
+24
+
+27
+
+30
+
+33
+
+36
+
+39
+
+42
+
+45
+
+48
+
+51
+
+54
+
+57
+
+60
+
+63
+
+66
+
+69
+
+72
+
+75
+
+78
+
+81
+
+84
+
+87
+
+90
+
+93
+
+96
+
+99
+
+-1
+-1.5
+-2
+-2.5
+-3
+
+Expenditure percentiles
+Source: Central Statistical Office and World Development Indicators
+
+Poverty remains predominantly a rural phenomenon. 75.8 percent of the total
+population lived in rural areas in 2010, whereas 88 percent of those below the national poverty
+line lived in rural areas (Figure 2). The poverty headcount in urban areas was significantly lower
+(31.1 percent) than in rural areas (73.1 percent). Also between 2000/01 and 2009/10, the poverty
+headcount declined faster in urban than rural areas (12.4 percent compared to 8.3 percent
+respectively). Out of the four administrative regions, Shiselweni –the poorest region in
+2000/01—experienced the largest decline in the poverty (about 14 percentage points).
+Nevertheless, Shiselwini, along with Lumbombo, continue to be the two poorest regions, with a
+poverty of 68 and 69 percent, respectively. Hhohho and Manzini, at 61 and 58 percent, perform
+better than the national average.
+8.
+
+Percent
+
+Figure 2: Rural / urban divide
+100
+80
+60
+40
+20
+0
+-20
+
+RURAL
+
+URBAN
+
+Extreme poverty line
+
+2000/01
+7.1
+
+2009/10
+5.8
+
+Change
+-1.3
+
+2000/01
+37.3
+
+2009/10
+36.1
+
+Change
+-1.2
+
+National poverty line
+
+35.5
+
+31.1
+
+-4.4
+
+79.7
+
+73.1
+
+-6.6
+
+Source: Based on the ADePT Poverty and Inequality module using the Swaziland Income and Expenditure Surveys
+for 2000/01 and 2009/10.
+
+3
+
+In view of the widespread poverty, Government has made some progress to provide
+social protection. However, substantial numbers of poor and vulnerable people,
+particularly children, remain without coverage. While some elements of a comprehensive
+social protection system are in place, there is a need to improve targeting efficiency in order to
+reach the extremely poor. For example, the Orphans and Vulnerable Children (OVC) Education
+Grant Program only reaches about 40 percent of children in the poorest quintiles. The Old Age
+Grants (OAG), the largest transfer program in terms of total budget, was introduced in 2005 to
+cushion the impact on the elderly of the loss of support resulting from the deaths of their adult
+children and the increasing burden of caring for orphaned grandchildren. Qualitative evidence
+suggests that the OAG has had a positive impact on beneficiaries’ lives but has not contributed
+much in terms of reducing poverty because a significant share of OAG resources go to non-poor
+households, reflecting limitations in targeting. The country does not currently have a national
+cash transfer program for extremely poor households with children.
+9.
+
+The current system consists of multiple cash and in-kind transfers, social care
+services, active labor market programs, and community-based programs implemented by
+at least five ministries or departments within ministries. A number of policy documents that
+cover some aspects of social protection are in place, however these programs do not form a
+coherent whole, and some aspects of poverty and vulnerability are not addressed. Table 2 lists
+the multiple programs that currently make up Swaziland’s safety net. The country needs a
+comprehensive social safety net strategy with clear implementation and coordination
+mechanisms.
+10.
+
+Table 2: Public safety net program
+
+Cash Transfer
+
+Old Age Grant
+Public Assistance
+Military Pensions
+Other DSW Grants
+Young Heroes
+
+In-Kind Transfers
+OVC Education Grants
+School Feeding
+Neighborhood Care Points
+Food Distribution
+Supplementary Feeding
+Health Fee Waivers
+Phalala Fund
+Agricultural Input Subsidies
+
+Other Social Safety Net
+Programs
+
+Community-based Programs
+Active Labor Market Programs
+Social Care Services
+
+Good progress has been made towards achieving some of the human development
+MDGs; however, health related MDGs are not likely to be reached by 2015. The country is
+likely to reach universal access and eliminate gender disparities in education. Also net primary
+enrolment ratio improved from 72 percent in 2002 to 92 percent in 2010. Primary education
+completion rate is about 77 percent (girls’ slightly higher than boys). The gross enrollment rate
+for secondary schools is about 60 percent. HIV/AIDS has stabilized but at a high of 31 percent
+prevalence rate. Maternal mortality rate stands at 320/100,000 live births and under five
+mortality rate at 80/1,000 live births. The country battles with the highest estimated TB incidence
+rate of 1,320/1,000,000. While much progress has been recorded, the current state of these
+indicators suggests that health MDGs will not be reached by 2015.
+
+11.
+
+4
+
+Stunting or shortness for age is a major nutrition challenge facing the country.
+About 31 percent of Swazi children below the age of five are stunted (Multiple Indicator Cluster
+Survey 2010). The 2013 Cost of Hunger in Africa study suggests that the economy loses up to
+3.1 percent of its GDP annually associated to chronic under nutrition – through higher costs in
+healthcare, lower educational achievement and lost productivity in manual and non-manual
+workforces. Continued commitment to addressing child nutrition can prevent these losses in the
+future. UN agencies and other partners are supporting government respond to this challenge
+through a multi-sectoral intervention program.
+12.
+
+The country has made strides in adopting institutional and policy arrangements for
+gender equality; however progress has been slow and undermined by slow policy
+implementation. The 2014 Human Development Report ranks Swaziland 115 out of 148
+countries on the gender inequality index. Women hold only 6 percent of the Parliamentary seats
+against a target of 30 percent; 50 percent of adult women have reached a secondary or higher
+level of education compared to 46.1 percent of their male counterparts. Female labor
+participation was 55.2 percent compared to 58.2 percent for males in 2010. Some recent
+progressive steps include locating of the Gender and Families Unit in the Deputy Prime
+Minister’s Office, the approval of the National Gender policy, and the ratification of the SADC
+protocol on Gender and Development. However, these advancements are countered by persistent
+patriarchal practices enshrined in a number of legal instruments. 2
+13.
+
+Growth performance
+Given the widespread poverty, improving economic performance remains a
+necessary condition to make significant progress towards reducing poverty and inequality.
+Swaziland’s economic growth rate has slowed considerably over the past three decades.
+Annual GDP growth averaged 6.3 percent in the 1980s, a period in which the country was
+favored by the tightening of sanctions against apartheid. This led to a surge and relocation of
+investments into Swaziland. Growth slowed in the 1990s, reflecting a variety of influences,
+including the HIV/AIDS epidemics, the ending of economic sanctions against South Africa,
+heightened competition from neighboring countries in attracting investment and slow
+implementation of reforms. Growth moderated to an average of around 3.7 percent in the 1990s
+and further dropped to just 2.3 percent over the 2000s (Figure 3). Proximate causes of the growth
+slowdown can be traced to lagging performance of exports and investment.
+14.
+
+While agriculture’s share in total gross value added has declined over time to about
+9 percent of GDP, agricultural development remains crucial for development. Over 75
+percent of the total population still lived in rural areas in 2010, hence the importance of the
+sector for both inclusive growth and rapid poverty reduction. Agriculture also remains important
+as a source of exports and as a supplier of inputs to the manufacturing sector. Agricultural sector
+performance, however, has been severely affected by chronic underinvestment accentuated by
+recurring droughts and the impact of HIV/AIDS.
+15.
+
+2
+
+(i) Minority Status of Women in the marriage Act, (ii) the Deeds Registry Act, (iii) Industrial Relations Act, (iv)
+Administration of Estates Act.
+
+5
+
+Figure 3: Growth has slowed considerably
+Real economic growth
+
+Per capita GDP growth, 2000-2012
+
+Source: Central Statistical Office and World Development Indicators
+
+100%
+
+45%
+40%
+35%
+30%
+25%
+20%
+15%
+10%
+5%
+0%
+
+80%
+60%
+40%
+20%
+0%
+
+Primary
+
+Secondary
+
+Tertiary
+
+Agriculture
+
+Manufacturing
+
+Share of total value added
+(%) Agriculture,
+Manufacturing, Central
+government
+
+Share of total value added
+(%) Primary, Secondary,
+Tertiary
+
+Figure 4: Composition of production by sector
+
+Central government
+
+Source: Central Statistical Office and Staff calculations
+
+Manufacturing activity is relatively broad, but concentrated around two main
+sectors: food processing (including Coca-Cola concentrate) and textiles and apparel.
+Manufacturing sector development benefited in the past from the tightening of economic
+sanctions against apartheid, which led to a surge in investments by South African and
+international firms, including the relocation of the Coca-Cola concentrate plant from Durban in
+1986. In the late 1990s and early 2000s, spurred by Africa Growth Opportunity Act (AGOA),
+Swaziland also developed a large textile and apparel sector. However, the expiry of quotas in
+international trade in textiles and clothing since 2005 and increased competition from large
+Asian producers have had a significantly adverse impact on the sector, which declined in
+importance relative to the overall economy. Services accounted for about 45 percent of total
+16.
+
+6
+
+GDP. Within the tertiary sector, public administration represented the largest single component,
+accounting for about 30 percent of total gross value added in the 2000s. 3
+International trade has long been an important driver of the economy. For a small
+open economy, export development is essential to growth prospects. Swaziland’s distribution of
+export goods is dominated by foodstuffs and chemicals (mainly Coca-Cola concentrate), which
+together account for two-thirds of all exports. Textiles and clothing constitute the third largest
+sector. In terms of the market, Swaziland is very closely linked to South Africa, which accounts
+for about 85 percent of imports and about 60 percent of exports. 4 The European Union is the
+second largest export market for Swaziland. While the country was able to use trade effectively
+to generate growth in the past, export performance has weakened in recent years. Looking ahead,
+Swaziland faces considerable vulnerabilities in its existing export base. A significant portion of
+current exports is dependent on trade preferences, including sugar (under the EU Sugar Regime)
+and apparel (under AGOA). The former is scheduled to expire in the near term. For the latter,
+Swaziland did not meet the conditions for the extension of AGOA set for May 15, 2014, and as a
+result preferences are set to expire by January 2015. This is expected to have a negative impact
+on exports and jobs, given that about one-third of total apparel exports are destined to the US
+market. On the labor market, the adverse impact will be felt particularly negatively among
+women. Uncertainty originating from AGOA may lead to a significant contraction in the sector.
+However, the overall impact on growth and employment is likely to be dampened by a
+reallocation of production towards regional markets.
+17.
+
+Higher rates of investment are also required to achieve higher growth rates and
+increase export capacity, but investment has come down sharply, largely driven by falling
+private investment. Gross investment in the private sector fell from an average of around 14.2
+percent in the 1980s to just 9 percent in the 2000s. Over the past two decades average investment
+levels have been lower than in all other regional comparators and fast growing small states. The
+decline that started in the mid-1990s coincided with the ending of economic sanctions against
+South Africa and the progressive opening up of the low labor cost economy of Mozambique.
+Across Africa too, countries reduced political strife and undertook reforms that improved
+macroeconomic stability, governance and the investment climate. These have magnified the
+competition that Swaziland faces in attracting investment. Swaziland’s inability to attract
+investment into the economy also limits the potential growth of the country and underscores the
+need to address key structural weaknesses in the economy.
+18.
+
+3
+4
+
+Central government expenditure.
+This corresponds to 2010-2013, Central Bank of Swaziland.
+
+7
+
+Figure 5: Export and investment performance
+Exports (% of GDP)
+
+Investment (% of GDP), 1980-2010
+
+Source: Central Statistical Office, World Development Indicators and Staff calculations.
+
+Labor market outcomes
+Low growth rates have not helped reduce the high levels of unemployment
+prevailing in the country. Unemployment is high, at 28.5 percent, and once discouraged
+workers are accounted for, the unemployment rate rises to 40.7%. The most recent labor
+force survey (2010) suggests that labor market outcomes have not improved between 2007 and
+2010. Although surveys are outdated and conducted infrequently, available labor market
+indicators suggest that unemployment has been high and persistent, and labor force participation
+has fallen over time (Figure 6). Given the persistent and structural characteristics of
+unemployment, employment to working age population ratio may represent a better metric of the
+labor market situation. This indicator also deteriorated between 2007 and 2010, and less than 3.4
+persons out of ten were employed in 2010. The country’s employment to working age population
+ratio is well below the median and average for Sub-Saharan African countries, lower middle
+income countries, and developing countries.
+19.
+
+20.
+Youth, women, and the least educated have been particularly affected by
+unemployment spells. Unemployment is high among the youth (aged 15 - 24), at 52.4 percent.
+Female unemployment stood at 46.3 percent, compared to 34.4 percent for males in 2010. Only
+three females out of ten were employed in 2010. Survey results also suggest that unemployment
+has also been concentrated among the least educated segments of the workforce. About 80
+percent of the unemployed or underemployed have been in that situation for over a year,
+suggesting that unemployment is structural rather than cyclical.
+
+The public sector is one of the largest employers in the country, with about 42,000
+employees (or 22 percent of total employment, according to the Labor Force Survey of
+2010). The private sector employed about 42 percent, followed by the informal sector (about 33
+percent). In 2010, relatively more females were employed in the informal sector (59 percent),
+whereas relatively more males where employed in the private sector (62 percent).
+21.
+
+8
+
+Percent
+
+Figure 6: Labor market indicators
+70
+60
+50
+40
+30
+20
+10
+0
+
+All ages 15+, LFS
+
+Youth 15-24, LFS 2010
+
+Employment
+Labour force
+Unemployme
+to population
+participation
+nt rate (strict)
+rate
+rate
+
+Employment
+to population
+rate
+
+Unemployme
+nt rate (strict)
+
+Unemployme
+nt rate
+(relaxed)
+
+Labor force
+participation
+
+2007
+
+28.2
+
+38.0
+
+51.8
+
+37.2
+
+53.3
+
+30.9
+
+13.3
+
+2010
+
+28.5
+
+40.7
+
+46.8
+
+33.5
+
+52.3
+
+26.8
+
+12.8
+
+Source: Labor Force Surveys of 2007 and 2010, Central Statistical Office.
+
+Poverty continues to be exacerbated by the high prevailing levels of unemployment.
+Faster, more inclusive and sustained growth, supported by skills development and private
+investment can lift the country away from the circle of high poverty-inequality-unemployment.
+This is even more relevant as the country is expected to undergo a demographic transition over
+the next two decades, which will place further pressure on labor markets. The proportion of
+people in the working age population will continue to increase and the dependency ratio will fall.
+Projections suggest that, over the next two decades, the working age population (15-64) is
+expected to increase by 30.6 percent between 2015 and 2035, with the dependency ratio
+declining from 66.3% in 2015 to 50.9% in 2035. The growth implications of this demographic
+transition will depend critically on whether job opportunities grow fast enough to absorb the
+additional number of people entering the labor force. If managed well including through
+investments in skills development and job creation, this transition has the potential to propel
+growth higher (see also para 45 on p. 16).
+22.
+
+Constraints to achieving growth and the twin goals
+Human capital and disease burden
+The burden of disease has been a major contributor to the persistence of high of
+poverty and inequality rates and a major obstacle to broad based growth. The economic
+cost of the HIV/AIDS epidemic has been enormous. An estimated 31 percent in ages 18-49 are
+HIV-positive and life expectancy has fallen to about 49 years. 5 Of growing concern has been the
+spread of tuberculosis (TB), which takes deadly form when people are already immunecompromised from HIV. The spread of TB is in large part due to migrant Swazi workers in
+South African mines. Early deaths due to preventable diseases have translated into great human
+capital and output loss. With a life expectancy of 49, Swaziland has lost remarkably on the
+productive years of the economic active population due to early deaths. 6
+23.
+
+5
+6
+
+Swaziland HIV Incidence Measurement Survey (2012).
+See, for example, Bloom et al (2001) on the effect of health on economic growth.
+
+9
+
+24.
+The HIV/AIDS epidemic has dramatically affected the human capital formation and
+its negative impacts will continue over the medium to long term, keeping the country below
+its income group in the human development rankings. Swaziland ranks 141st out of 187 on the
+UNDP Human Development Index. The HIV/AIDS pandemic has resulted to a significant loss of
+human capital and a steep decline in life expectancy. Yet another outcome has been the
+proliferation of single-headed households and child-headed households –many times by children
+who have lost both parents to the disease.
+
+The magnitude of financing the national response to HIV/AIDS represents a
+challenge from a fiscal perspective. Costs related to HIV/AIDS prevention and treatments are
+substantial and are expected to remain high in the medium- to long-run. Swaziland already
+finances 40% of its own HIV response, hence the need to select cost-effective interventions that
+can be implemented most efficiently. An evaluation of the financial and fiscal impact of the
+extended National Strategic Framework (eNSF) for HIV/AIDS 2014-2016 has to take into
+account the change in spending commitments implied by both the improved access to
+HIV/AIDS-related services and the reduced number of HIV infections achieved under its
+implementation. Provided that the decline in the number of HIV infections outweighs the
+increase in the immediate costs caused by each HIV infection, the eNSF would then reduce the
+fiscal and financial burden committed by the national HIV/AIDS response. 7
+25.
+
+The loss of human capital has deepened poverty and lowered the growth rates of the
+country. The high cost of treatment and the loss of family income have been catastrophic for
+many families, pushing them into poverty. The time loss due to illness, absenteeism and
+shrinkage of the labour force has had an adverse impact on firms. Other adverse consequences
+include changes in saving, investment and production decisions at the individual and household
+level, the negative effect on school enrolment and attendance, and changes in household
+formation dynamics.
+26.
+
+Macroeconomic uncertainty
+A weak institutional framework and perceptions of policy uncertainty, both related
+to macroeconomic policies and the regulatory environment, and human capital weaknesses
+currently represent some of the most pressing constraints to investment and growth.
+International evidence suggests that macroeconomic stability and prudent fiscal management are
+essential building blocks to attract investment and achieve higher, sustained economic growth.
+The fiscal crisis of 2010-11 brought to the fore the importance of following prudent fiscal
+policies and minimize the impact of macroeconomic uncertainty in the real economy. With the
+collapse of SACU transfers from about 20 percent of GDP in FY09/10 to below 10 percent in the
+following two fiscal years, fiscal balances deteriorated sharply and acute fiscal difficulties
+followed: the level of reserves to sustain the peg with the Rand fell below acceptable levels, the
+government ran arrears with the private sector and cut capital outlays and deferred other
+expenditures including on essentials such as those for combating HIV/AIDS, education, and
+social grants to vulnerable groups.
+27.
+
+7
+
+World Bank: Long-Term Financial and Fiscal Consequences of Swaziland’s HIV Epidemic and Response (2014).
+
+10
+
+Many of the fiscal challenges arise from the country’s dependence on SACU
+transfers, which are volatile. Whereas the immediate catalyst of the fiscal crisis were the
+significant declines in SACU transfers in 2010 and 2011, government’s pro-cyclical spending
+patterns have contributed to transfer the volatility of SACU receipts to public spending, and
+ultimately to the real economy. SACU transfers, which derive from customs duties and excise
+tax collections, represent over half of the government’s total revenue collections. Following an
+output contraction of 0.7 percent in 2011, the recovery in SACU transfers –together with enacted
+revenue-side measures such as the introduction of the Value Added Tax (VAT) regime and tax
+administration strengthening— have contributed to restore confidence in the economy and the
+peg.
+28.
+
+Fiscal sustainability, however, remains vulnerable in the medium-term as the
+elevated level of government expenditures and high dependence on SACU receipts remain
+to be addressed. Recurrent outlays continue to represent the vast majority of total expenditures,
+leaving little room for productivity-enhancing expenditures. Better macroeconomic and fiscal
+management can help stabilize output, minimize pro-cyclical measures and overall reduce boombust cycles. Improving SACU transfers management, therefore, can reduce macroeconomic risks
+and uncertainty, generate fiscal space for growth enhancing investment and contribute towards
+attracting more investment into the country.
+29.
+
+One of the lessons learnt from the recent fiscal crisis was the importance of enacting
+prudent fiscal policies, reduce the dependence on SACU transfers and mitigate their
+volatility. Swaziland has made significant improvements in their fiscal accounts following the
+2010-11 crises, when the government accumulated arrears amounting to several percentage
+points of GDP and international reserves fell to about 2.3 months of imports. Since then, the
+government has cleared accumulated arrears and international reserves have recovered to about 4
+months of imports. Economic and financial indicators also suggests that business is somewhat
+improving. The government enacted revenue side measures such as the introduction of a VAT
+regime and tax administration strengthening, which resulted in improved revenue collections. On
+the expenditure side, a partial wage and hiring freeze has moderated the growth of recurrent
+expenditures and an ongoing payroll audit might serve as a key cornerstone for a public sector
+reform.
+30.
+
+The recently-released Government Programme of Action 2013-2018 also emphasizes
+the importance of fiscal prudence. The document highlights the need to build adequate buffers
+in good times to mitigate the impact of SACU revenue volatility and a potential decline in the
+medium-term. The document also calls for increasing the share of domestic revenues in total
+revenue collection, and controlling the public wage bill.
+
+31.
+
+11
+
+Table 3: Selected Economic Indicators, 2011-19
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+Prel.
+
+Prel.
+
+Est.
+
+Proj.6
+
+Proj.6
+
+Proj.6
+
+Proj.6
+
+Proj.6
+
+Proj.6
+
+1.8
+5.3
+49.6
+5.2
+
+1.7
+5.3
+53.1
+5.2
+
+1.7
+5.3
+56.9
+5.2
+
+(Percentage changes; unless otherwise indicated)
+National account and prices
+GDP at constant prices 1/
+GDP deflator
+GDP at market prices (Emalangeni billions)
+Consumer prices (average)
+External sector
+Average exchange rate (local currency per US$)
+Nominal exchange rate change (– = depreciation)
+Real effective exchange rate (– = depreciation) 1
+Gross international reserves
+(months of imports)
+(percent of GDP)
+(percent of reserve money)
+Gross reserves minus reserve money
+(percent of deposits)
+Money and credit
+Domestic credit to the private sector
+Reserve money
+M2
+Interest rate (percent) 3
+
+-0.6
+6.4
+30.1
+6.1
+
+1.9
+8.4
+33.2
+8.9
+
+2.8
+7.2
+36.6
+5.6
+
+2.1
+6.5
+39.8
+5.8
+
+2.0
+5.8
+43.0
+5.6
+
+2.1
+5.5
+46.3
+5.4
+
+7.3
+
+8.2
+
+9.7
+
+…
+
+…
+
+…
+
+…
+
+…
+
+…
+
+-1.7
+0.1
+
+4.3
+0.0
+
+7.3
+5.8
+
+…
+…
+
+…
+…
+
+…
+…
+
+…
+…
+
+…
+…
+
+…
+…
+
+2.3
+14.1
+238
+
+2.9
+17.0
+314
+
+3.8
+21.6
+416
+
+4.3
+23.9
+444
+
+4.5
+24.5
+446
+
+4.4
+23.3
+417
+
+4.0
+21.2
+373
+
+3.6
+18.7
+326
+
+3.0
+15.6
+272
+
+-4.3
+
+1.1
+
+5.4
+
+12.3
+
+18.0
+
+17.1
+
+12.60
+
+8.9
+
+4.8
+
+19.4
+7.3
+5.5
+5.5
+
+-1.5
+0.1
+10.0
+5.5
+
+16.1
+1.1
+15.9
+5.0
+
+14.8
+2.2
+11.2
+…
+
+9.2
+1.7
+10.0
+…
+
+7.4
+1.7
+9.8
+…
+
+6.1
+1.5
+9.0
+…
+
+5.6
+1.4
+8.2
+…
+
+5.2
+1.2
+7.1
+…
+
+2
+
+(Percent of GDP)
+National accounts
+Gross capital formation
+Government
+Private
+National savings
+Government
+Private
+
+7.6
+3.1
+4.5
+-0.6
+-1.9
+1.3
+
+8.0
+3.0
+5.0
+11.8
+6.4
+5.4
+
+9.6
+4.6
+5.0
+15.7
+7.8
+7.8
+
+11.5
+6.5
+5.0
+13.4
+9.7
+3.8
+
+11.0
+6.0
+5.0
+11.3
+6.2
+5.0
+
+10.9
+5.9
+5.0
+10.2
+4.1
+6.1
+
+10.7
+5.7
+5.0
+9.1
+3.5
+5.5
+
+10.6
+5.6
+5.0
+8.5
+3.3
+5.3
+
+10.6
+5.6
+5.0
+7.7
+3.1
+4.7
+
+-8.2
+-18.4
+8.5
+
+3.8
+-19.2
+8.3
+
+6.1
+-17.1
+9.0
+
+2.0
+-17.2
+10.0
+
+0.2
+-16.8
+9.9
+
+-0.6
+-17.1
+9.2
+
+-1.6
+-18.1
+8.6
+
+-2.1
+-18.6
+8.0
+
+-2.9
+-19.5
+7.5
+
+-4.6
+-3.1
+24.0
+28.6
+16.6
+7.7
+
+4.4
+1.0
+36.0
+31.5
+17.4
+5.6
+
+0.3
+-0.4
+35.2
+34.9
+17.8
+4.0
+
+-0.9
+-1.4
+35.9
+36.8
+17.2
+4.5
+
+-3.4
+-3.7
+33.2
+36.6
+19.4
+7.6
+
+-4.5
+-4.5
+33.0
+37.5
+22.6
+11.7
+
+-4.6
+-4.6
+33.0
+37.6
+25.7
+15.5
+
+-4.8
+-4.8
+33.0
+37.8
+28.1
+19.3
+
+-5.0
+-5.0
+33.0
+38.0
+30.2
+23.1
+
+Memorandum item:
+Population (in million)
+1.1
+1.1
+Sources: Swazi authorities; and Fund staff estimates and projections.
+
+1.1
+
+1.1
+
+1.1
+
+1.1
+
+1.1
+
+1.2
+
+1.2
+
+External sector
+Current account balance
+(including official transfers)
+(excluding official transfers)
+External public debt
+Central government fiscal operations 4, 5
+Overall balance (commitment basis)
+Overall balance (cash basis)
+Total revenue and grants
+Total expenditure
+Public debt, gross
+Public debt, net
+
+1
+2
+3
+4
+
+IMF Information Notice System trade-weighted; end of period.
+Percent of beginning of period M2, unless otherwise indicated.
+12-month time deposits rate.
+Fiscal year data (fiscal years run from April 1 to March 31).
+
+SACU transfers are assumed to amount to 17 percent of GDP from FY15/16 and onwards, which corresponds to the historical
+average and in line with government's projections.
+
+5
+
+6
+
+Staff estimates based on the baseline scenario.
+
+12
+
+Regulatory environment and institutional framework
+To attract more investment and propel growth higher, Swaziland also needs to
+provide a business environment that is more conducive to private sector development,
+improve transparency in regulatory systems and provide clarity on government policies
+and implementation. This can contribute towards reducing uncertainty at the firm level. In that
+spirit, the government has already adopted several strategies and policies to attract investment
+and foster private sector activity, such as Private Sector Development Strategy (PSDS), Investor
+Road Map (IRM) and Economic Recovery Strategy (ERS). These strategies, largely consistent
+with each other, have however been subject to slow implementation. Stronger commitment and
+leadership is required to accelerate the pace of implementation of agreed policies and to boost
+investor confidence.
+32.
+
+While the country has shown some improvements in both the Global
+Competitiveness Report 8 and the Doing Business Indicators, Swaziland continues to be
+ranked lower than what its level of economic development would suggest. The country is
+ranked 123rd out of 144 countries in the Global Competitiveness Index of 2014-15. Inefficient
+government bureaucracy, perceptions of corruption and access to financing were often cited
+among the top five most problematic factors for doing business in the country. The Doing
+Business Report (2015) ranks Swaziland 110th out of 189 countries in the overall ease of doing
+business. The country shows subpar performance and ranking in several areas, particularly in
+enforcing contracts (173rd), starting a business (145th), and getting electricity (140th). A
+comparison across several of the Doing Business indicators between 2006 and 2015 also
+suggests that the country has made some (absolute) improvements in several indicators over
+time. However, the overall pace of progress has been slower than in Sub-Saharan Africa and
+other countries in general, resulting in a stagnation in Swaziland’s relative ranking vis-à-vis the
+rest of the world.
+33.
+
+Direct intervention by the state in economic sectors also seems to be a deterrent. The
+state is invested in key economic sectors through state-owned enterprises (SOEs) and the
+company owned by the royal family – Tibiyo Taka Ngwane. These institutions operate in
+multiple economic sectors including agriculture, transport, finance, tourism and housing, which
+put them in direct competition with private players, creating conflicts of interest in several
+sectors. Furthermore, some SOEs function as regulators in their sectors, and are responsible for
+charging levies on imports by private enterprises of products that they themselves are selling.
+This creates another set of conflicts of interest and potential opportunities for corruption. The
+overall result is further uncertainty among investors.
+34.
+
+Investment in agriculture and land productivity
+Promoting investment in agriculture remains essential to accelerate growth and
+reduce widespread poverty, especially in rural areas. The country has a dual system of land
+management covering two main types of land: Title Deed Land (TDL) and Swazi Nation Land
+(SNL). Production on SNL is primarily for subsistence. Farming techniques are usually
+
+35.
+
+8
+
+World Competitiveness Report 2013-2014”, Klaus Scwab (Ed), World Economic Forum, 2013
+
+13
+
+traditional, employing predominantly family labor. Commercial agricultural production in
+Swaziland, on the other hand, is carried out mainly in TDL, and remains dominated by sugar and
+sugar-related products for export under preferences to regional and global markets. Production
+techniques on most of the farms in TDL are large scale and capital intensive, using modern
+inputs and mechanization.
+Several factors prevent a more efficient use of land and greater investment in
+agriculture: (i) Lack of clarity and documentation for SNL smallholders: This increases
+insecurity among smallholders, reduces their ability to negotiate more effective uses of their land
+through renting or leasing, and reduces their incentives to invest in productivity-enhancing
+technology; (ii) Limited access to credit, fragmentation, and coordination problems in factor and
+products markets for SNL smallholders: This affects the viability of commercially-oriented
+agriculture, with SNL households often having to produce crops under rain-fed conditions,
+perpetuating poverty traps with low-technology, low-yield crop varieties; (iii) The legal
+framework governing commercial investors’ access to land is unclear: better enforcement and
+dispute resolution mechanisms as well as a clear legal context can also help attract higher and
+more sustained levels of investment in commercial agriculture; (iv) Government land holds
+potential to attract private sector investment, but several factors limit access. Large areas are
+occupied by informal settlements and many of these farms are run down because of long periods
+of disuse and underinvestment; and (v) Enhanced coordination across bodies that govern land
+management and administration is needed. The current system is fragmented and involves three
+key ministries that drive land policy and look after land management and administration. This is
+apart from the traditional structures that manage SNL. Significant overlaps exist between the
+mandates of these bodies, but coordination is often lacking.
+36.
+
+Although the Ministry of Agriculture provides support to smallholders and to the
+agribusiness sector, it lacks resources and capacity. Through its extension officers and
+parastatal organizations, the Ministry provides some support to smallholders. For example, the
+parastatal National Agricultural Marketing Board (NAMBoard) regulates imports and exports of
+agricultural commodities, provides specialized extension services in horticulture, and operates
+facilities designed to facilitate certain agribusiness, including a whole a wholesale market, a
+poultry abattoir and a banana ripening facility. Additional support from the Ministry includes: i)
+training farmers on production standards and basic agribusiness concepts, including business
+management, marketing and pricing; and ii) building basic infrastructure, such as earth dams to
+provide water for irrigation purposes. However, the Ministry lacks the resources and capacity to
+provide the support necessary to transform the sector.
+37.
+
+The Ministry is planning to work closely with other development partners on
+demand-side constraints, including the lack of linkages to formal markets. Specifically, a new
+European Union-funded High Value Crop and Horticulture Project plans to support horticulture
+value chains by strengthening linkages to markets, production planning, production, packing and
+collection of products. This new project will work through the Swaziland Water and Agricultural
+Development Enterprise (SWADE) and NAMBoard. In addition, the Government is in the
+process of negotiating a new project with the International Fund for Agricultural Development
+(IFAD.)
+38.
+
+Swaziland has been experimenting with new and innovative approaches on SNL.
+One such initiative is Swaziland Water and Agricultural Development Enterprise (SWADE)’s
+farming company, which allows smallholders on tracts of SNL to coordinate and engage in
+39.
+
+14
+
+commercial scale production. This scheme appears to be working well with a positive impact on
+the productivity of land and smallholder family incomes. Essentially these models work because
+they solve the problem of coordinating small farmers by: (i) Alleviating the fragmentation
+present in SNL and concentrating production in contiguous areas; (ii) Reducing banks’ exposure
+to risk through the presence of an established market (the case of sugar cane), thus easing
+financing constraints; (iii) Clarifying rights through written documentation in the form of a
+Letter of Intent, signed by the Chief. Efforts to support these approaches also require addressing
+infrastructure constraints in rural areas and promoting an integrated rural and agricultural
+development program that could help improve rural livelihoods.
+The country is vulnerable to extreme events, including floods, droughts and wild
+fires. Mitigation and adaptation measures are important given the strong role of the agriculture
+sector and the large share of the population that lives in rural areas that still relies on subsistence
+agriculture. Swazi households face significant risks of shocks to which the poor are typically the
+most vulnerable. These include seasonal unpredictability of food availability, droughts, floods,
+and sickness and death of working household members. Figure 7 presents a list of extreme events
+that affected the country in the past 30 years.
+40.
+
+Figure 7: Vulnerability to natural disasters has increased
+Swaziland: Natural disasters in the past 30 years
+Average
+per event
+
+Vulnerability has gone up
+
+No. of
+Events
+
+Total
+Affected
+
+Drought
+
+5
+
+1,630,000
+
+326,000
+
+Flood
+
+2
+
+274,500
+
+137,250
+
+4
+
+Storm
+
+2
+
+7,685
+
+3,843
+
+2
+
+Tropical cyclone
+
+1
+
+632,500
+
+632,500
+
+0
+
+Forest fire
+
+1
+
+1,500
+
+1,500
+
+8
+
+Number of Disasters (incl. epidemics)
+in Swaziland
+
+6
+
+1980s
+
+1990s
+
+2000s
+
+Source: EM-DAT: The OFDA/CRED International Disaster Database
+
+Infrastructure Development
+Swaziland has relatively well-developed infrastructure in comparison to other SubSaharan African countries, but there are a number of critical areas that require further
+improvement, especially for poor rural communities which can contribute to making
+growth more inclusive. In terms of water and sanitation, approximately 280,000 people lack
+access to potable water supply, while 430,000 – nearly 40 percent of the population – lack access
+to basic sanitation 9. Addressing issues of basic water supply and sanitation, especially in rural
+areas and small towns, is clearly a poverty reduction priority for the country. Though
+Swaziland’s National Development Strategy establishes a goal of universal access to safe water
+supply, sanitation, and solid waste management by 2015, the country lags far behind this
+ambitious goal.
+41.
+
+9
+
+WaterAid UK 2010.
+
+15
+
+Access to energy through the national grid also demonstrates a significant
+urban/rural divide – only 45 percent of the total population has access to the distribution
+network, and in rural areas access is less than 10 percent. 10 Energy use amounts to roughly 902
+kWh/capita, less than 25 percent of neighboring South Africa’s use. Rural populations rely on a
+mix of kerosene, wood, and paraffin for basic heating, and there is a significant opportunity to
+improve rural access through renewable resources (e.g. solar PV systems) which are approaching
+traditional energy in terms of cost effectiveness. Swaziland has a relatively well developed road
+network with over 3,000 km of roads, of which approximately 33 percent are paved. While the
+basic infrastructure is relatively in good condition, the absence of an infrastructure development
+plan constrains the proper prioritization of projects that would help bridge the rural / urban
+divide. Rural infrastructure development is critical to facilitate easy access to services for poor
+communities, and access to markets for the rural Micro, Small and Medium Enterprises
+(MSMEs).
+42.
+
+V. SUMMARY OF DEVELOPMENT CHALLENGES AND OPPORTUNITIES FOR
+WBG ENGAGEMENT
+To support the Government goal to reach a ‘first world status by 2022’ and address
+the challenges of eliminating extreme poverty and boosting shared prosperity, the country
+has to stimulate growth, improve capacity of the state to implement policies and deliver
+services to the poor. The World Bank Group can support the country’s development efforts by
+collaborating with Government and other institutions to strengthen business environment and
+promote competitiveness, improve economic management and service delivery, and developing
+human capital.
+43.
+
+Business Environment and Competitiveness. To achieve its ambitious goal, the country
+needs to promote private sector growth and competitiveness by facilitating the ease of doing
+business and creating an enabling environment for job creation, investment and growth.
+Swaziland needs to take full advantage of every available growth opportunity ‒ the large South
+African market, connectivity to ports in neighboring countries, and abundant sources of water
+and untapped agricultural potential. The World Bank Group can assist the country in selected
+sectors with lowering the costs of investing and running a business, better integration of MSMEs
+firms into local and regional market chains, lowering logistical and customs costs to facilitate
+cross-border trade.
+44.
+
+Skills Development. Swaziland’s working age population growth will be outpacing its
+total population growth, which would lead to increased expectations for job creation, especially
+productive jobs. The present low firms-level productivity is attributed largely to relatively low
+level of education and skills of the workforce, insufficient training, and limited capability of
+technology transfer in production. While enrolment ratios have improved, continued investments
+to improve the quality of basic, secondary, tertiary and vocational education are required to
+prepare youth for entry into the labor market. The World Bank Group can support the
+government effort in job creation and productivity growth by improving the quality, efficiency
+and coverage of skills development programs, particularly targeting the youth (the 15-24 age
+group).
+45.
+
+10
+
+IRENA for the total connectivity (2010) and NDS for rural (from 2005).
+
+16
+
+Economic management capacity limitations undermine macroeconomic stability and
+allocation of resources for priority growth and development initiatives. The Bank can assist the
+Government to address the challenges of public financial management (PFM) performancemanagement, public investment program, monitoring and evaluation, strengthening civil service
+management, SOE monitoring and building capacity at local government level by providing
+investments, technical assistance as well as analytical and advisory services.
+46.
+
+Social services delivery remains critical to reduce poverty especially amongst the bottom
+40 per cent of the population. Further investments in quality health care are necessary to improve
+life expectancy, and reduce the adverse socio-economic impact of HIV/AIDS and TB. A
+comprehensive social protection system is necessary to improve poverty monitoring, consolidate
+the social protection programs and protect vulnerable households from adverse idiosyncratic and
+economy-wide shocks.
+47.
+
+For the country to achieve its development objectives it needs a robust set of social
+and economic data to assess and monitor progress deepening of a culture of evidence based
+analysis, policy formulation and implementation. The national accounts have not been compiled
+by the statistics office for several years and the government relies upon the economic data from
+the Central Bank. A well-designed national accounts system as well as poverty monitoring and
+analysis system, will require capacity building on both the supply and demand side of data. The
+Bank can support capacity building of institutions such as the Central Statistics Office (CSO),
+and administrative units in sector ministries and local governments.
+
+48.
+
+VI. GOVERNMENT’S DEVELOPMENT STRATEGY
+
+The National Development Strategy (NDS): Vision 2022 of 1997 articulates the
+country’s development vision: “By the Year 2022, the Kingdom of Swaziland will be in the top
+10% of the medium human development group of countries founded on sustainable economic
+development, social justice and political stability.” NDS implementation has been slow and was
+negatively affected by the fiscal crisis of 2010-11. The document is currently under review, and
+Government has identified three ongoing priorities: (i) maintaining macro-economic stability and
+accelerate economic diversification;, (ii) boosting strategic infrastructure; and (iii) unlocking
+human capacity.
+49.
+
+In 2007 the Cabinet approved Swaziland’s first Poverty Reduction Strategy and
+Action Plan (PRSAP) to implement the NDS; the main challenge remains implementation
+capacity. The PRSAP acknowledged that while the country had seen notable growth since
+independence, “the benefits did not trickle down equitably to the whole population, thus
+widening inequalities”. The urban-rural and regional imbalances were noted, with Shiselweni
+and Lubombo identified as the two poorest regions. The document stressed the vulnerability of
+the poor to HIV/AIDS, natural disasters, economic shocks and food insecurity. The overall goal
+of the PRSAP was to reduce poverty to 30% by 2015, and to absolutely eradicate it by 2022.
+Based on progress so far, it is evident that this overall goal cannot be practically achieved within
+50.
+
+17
+
+the initially set time frames. Both the PRSAP and NDP recognize the challenges facing the
+country, but unfortunately lack prioritization. For example, all strategic objectives under the six
+pillars of the PRSAP 11 currently appear to have the same level of importance and urgency. This
+is all the more regrettable, as prioritization was one of the explicit goals of the PRSAP vis-à-vis
+the broad NDS. The implementation of the NDS has been met with a number of challenges
+including limited state capacity to implement programs, absence of a monitoring, evaluation and
+reporting system.
+Since the launch of the PRSAP, the central Government has articulated its
+development vision in a series of sectoral documents in response to the fiscal crisis of 201012. The 2010 Fiscal Adjustment Roadmap (FAR) and the 2012 Updated Fiscal Adjustment
+Roadmap (UFAR) emphasized macroeconomic stability, both through improving public
+financial management and the investment climate in order to stimulate private sector growth.
+Both, the FAR and UFAR placed great emphasis on reducing the size of the large public sector
+wage bill. A cornerstone of the UFAR, in particular, was the Enhanced Voluntary Early
+Retirement Scheme (EVERS). While some of the reforms identified in the UFAR have been
+achieved, those concerning the wage bill are yet to be implemented.
+51.
+
+In 2011, Government issued a comprehensive Economic Recovery Strategy (ERS),
+identifying ten priority areas for stimulating economic growth. These include tourism,
+agriculture, financial services, information, communications and technology. It also identifies
+cross-sectoral reform priorities such as the fiscal reform, FDI, domestic investment, human
+capital development, infrastructure, and trade. These sectoral reform priorities are expected to
+help Swaziland achieve an annual economic growth rate of at least 5 percent and the creation of
+30,000 new jobs. The development of the ERS included extensive consultations. The
+Implementation Committee was required to report on the progress to Cabinet weekly. Despite the
+pressure put on the Committee to show quick results, underfunding and capacity constraints
+hampered its ability to facilitate and achieve quick wins.
+52.
+
+The Swaziland Investor Promotion Authority (SIPA) re-launched the IRM in 2012,
+with the goal of spurring reforms to improve Swaziland’s investment climate. At the relaunch event, His Majesty announced a new goal for Swaziland to be ranked within the top fifty
+countries in the Doing Business rankings within two years. With efforts from SIPA, some
+reforms have been implemented, but Swaziland’s ranking in the 2014 Doing Business report
+remained at 123 (out of 189 economies).
+53.
+
+Strategic plans were prepared by central and line ministries with limited
+implementation success. The Ministry of Finance prepared a Public Financial Management
+Reform Bill scheduled for review by Parliament in mid-2014. While the bill is not a strategy
+document per se, it articulates very clearly the ministry’s vision for improving PFM. The
+National Health Sector Strategic Plan (NHSSP) was completed in 2008, and the Ministry of
+54.
+
+11
+
+The six pillars of the PRSAP are: i) Human capital development; ii) Macro-economic stability and accelerated
+growth based on broad participation; iii) Empowering the poor to generate income and reduce inequalities; iv)
+Fair distribution of the benefits of growth through fiscal policy; v) Improving the quality of life of the poor; and
+Improving governance and strengthening institutions.
+
+18
+
+Health undertook a review of the Plan in 2013. The Ministry of Education and Training issued
+several strategy documents, including the Education Sector Strategic Plan 2010-2022 (November
+2010), and the National Education and Training Improvement Plan (NETIP) in 2013.
+Government has published its Programme of Action (2013-2018). It reaffirms His
+Majesty’s vision 2022, and provides the following definition: “A first world country is one
+where all citizens are able to sustainably pursue their life goals, and enjoy lives of value and
+dignity in a safe and secure environment. This implies equitable access to sufficient resources,
+education, health, food security and quality infrastructure and services, as well as good
+governance.” To measure progress towards Vision 2022, the Government has recently defined
+the Swaziland Development Index (SDI), a composite index with eight focus areas: (i) economic
+prosperity, (ii) agriculture & environmental sustainability, (iii) education, (iv) health, (v)
+government service delivery, (vi) infrastructure, (vii) governance, and viii) corruption. The index
+will be used to assess the country’s overall status, but also to set performance targets and action
+plans for ministries and agencies up to 2022. Prior to initiation of the SDI process, there has been
+no Government wide system of tracking development results.
+55.
+
+These overlapping policy statements, strategy documents, and action plans require
+prioritization and commitment. Government has to harmonize policy instruments and
+prioritize implementation of the most urgent ones that can have immediate impact on poverty
+reduction. Other strategies, particularly the Programme of Action, have become more prominent
+than the NDS / PRSAP in guiding Government’s activities; this will need to be addressed during
+the NDS review.
+56.
+
+VII. WORLD BANK GROUP PARTNERSHIP
+
+Evolution of World Bank Group Program
+The World Bank Group’s partnership with the Government of Swaziland has a long
+history; however, the level of engagement has been uneven. Swaziland became a World Bank
+member in 1962. The last full World Bank Country Assistance Strategy was endorsed in 1994.
+Government did not borrow from the Bank during the period FY1996- FY2008, due to concerns
+about IBRD loan pricing. However, the Bank maintained regular policy dialogue through
+Economic and Sector Work and a variety of knowledge activities. The only active project at the
+time, the Swaziland Urban Development Project (SUDP), 12 served as a platform for continued
+dialogue. Since 1992, Swaziland has borrowed US$113 million for 2 IDA credits and 12 IBRD
+loans. IFC has invested US$47.78 million for eight projects. Swaziland has been a member of
+MIGA since 1990 with one currently active project– the Motraco-Mozambique Transmission
+Company S.A.R.L. - and a gross exposure of US$69.4 million. In 2008 the ISN was adopted to
+support areas of re-engagement. While no formal strategy was in place during 2010 – 2014, the
+Bank and the Government continued the implementation of projects initiated under the ISN.
+57.
+
+12
+
+SUDP with a total budget of US$ 29 million was approved by Board in FY1995 and closed in FY2005
+
+with all project development objectives met.
+19
+
+The ISN 2008-2010 supported government efforts in reducing poverty, fighting
+HIV/AIDS, improving governance, and increasing competitiveness. The three most recent
+projects under this program include:
+
+58.
+
+•
+
+The Health, HIV/AIDS and TB Project (US$41 million: GOS US$2m; IBRD US$20m;
+EU US$19m) is ongoing and aims to improve access to and quality of health services
+with a particular focus on primary health care, maternal health, HIV/AIDS and TB, and
+to increase social safety net access for Orphans and Vulnerable Children (OVC). The
+project supports strengthening the capacity of the health sector, including governance,
+management, regulatory and supervisory functions. The project also supports renovation
+and equipping of health facilities; strengthening the referral and transport system; and
+increasing and improving nursing and midwifery services. Other support provided is to
+design and pilot a cash transfer scheme for OVC.
+
+•
+
+The Swaziland Local Government Project (SLGP) for US$26.9 million. Under this
+ongoing project the Bank provides technical assistance for strengthening the capacity of
+urban local governments and selected rural local governments (Tinkhundla) for
+improving financial management and local infrastructure.
+
+•
+
+The Maternal and Child Health Care Project, financed with a US$2.57 million grant
+from the Japan Social Development Fund, closed on February 5, 2014. The project aimed
+to improve essential maternal and child health services (MCH) for vulnerable populations
+at the community level, and was primarily implemented in the underserved region of
+Lubombo (69% of the population living below poverty line). Results achieved include
+updated Community Health Worker (CHW) curricula and distribution of manuals,
+training over 900 CHWs, provision of essential MCH commodities to Lubombo health
+facilities, rural youth outreach and integrated sexual reproductive health, HIV testing, and
+counseling services provided through a mobile clinic, secure health care waste pits
+constructed at community clinics, and training in health care waste management in
+targeted facilities.
+
+Increasing competitiveness is a strategic area where the Bank continues to provide
+assistance through a grant of US$586,000 for customs modernization and other nonlending activities, working closely with the Swaziland Revenue Authority (SRA). The
+objective is to support improvements in trade facilitation performance by implementing key
+measures identified in the 2012 Time Release Study. Specific areas of Bank engagement include
+(i) Upgrading ICT systems to enable data exchanges between the SRA and the South African
+Revenue Service (SARS), (ii) development of an integrated Boarder Management Strategy; (iii)
+training and capacity building for staff and management.
+59.
+
+Implementation under the ISN (2008-2010) has been mixed. The current ongoing
+projects have experienced implementation delays and slow disbursement. To accelerate
+implementation, the health project team holds monthly reviews and discussions with project
+implementation units to address various implementation bottlenecks. In addition, a core team
+comprising senior officials from the World Bank, Ministry of Finance (MoF) and Ministry of
+Economic Planning and Development conducts periodic portfolio monitoring and resolves any
+problems project teams face. The Bank also conducts fiduciary workshops to strengthen financial
+60.
+
+20
+
+management and procurement capacities. These arrangements will be carried through to the new
+CPS in order to avoid implementation delays and other challenges experienced under the ISN.
+
+Lessons from the Interim Strategy Note and recent activities
+A major lesson from the Bank’s engagement with Swaziland under the ISN is the
+need for realism in setting up measurable program outcomes taking into account
+implementation capacity. Projected outcomes were overly optimistic and in some cases
+insufficiently linked to ISN activities. ISN outcome indicators were not monitored closely during
+implementation. The responsibility for monitoring such indicators needs to be clearly assigned at
+the beginning of the strategy period if a better performance is to be achieved.
+61.
+
+Table 4: ISN Expected outcomes and results achieved
+Expected Outcome
+
+Results achieved
+
+
+Health systems strengthened to
+scale up effective HIV/AIDS
+interventions
+
+
+Improved capacity for financial
+and performance management in
+Swazi local authorities
+
+
+
+
+Resource mobilization capacity of
+Swazi local governments,
+communities and other service
+providers strengthened
+
+
+
+Improved public financial
+management performance
+
+Findings of the ICA incorporated
+into Government policy
+
+Improved sector knowledge to
+guide future sector reform policies,
+strategy and programs
+
+
+
+
+
+
+
+
+
+
+
+Recently completed Bank support includes capacity building on
+MCH and health care waste management for health care workers in
+the Lubombo region, and HIV testing and counseling services and
+prevention outreach to high risk groups in the Lubombo and Manzini
+regions.
+The Bank is currently supporting work to strengthen the TB/HIV coepidemic response in the country as well as renovation and
+equipping of health facilities to improve access and quality of
+primary health care, maternal and child health and TB/HIV services.
+11 out of 12 Urban Local Governments (ULG) and all 8 Tinkhundla
+have budgets approved and operational FM systems.
+90% of supported ULGs have annual financial audits completed
+within six months of the end of the financial year and neither adverse
+nor disclaimed.
+No specific project or AAA activities were implemented to achieve
+this outcome.
+PFM Bill will be presented to Cabinet and tabled before Parliament
+in 2014
+PFM action plan was agreed in 2012, and some activities have been
+implemented, with the support of World Bank and other
+development partners
+Customs modernization grant worth $586, 000 with Swaziland
+Revenue Authority is ongoing
+Time Release Study presented to Government
+Rapid assessment on Investor Roadmap progress conducted
+Investment Spillovers study presented to SIPA
+Review of Social Safety Net Program conducted
+Growth diagnostic conducted
+Rapid Assessment of technical and vocational education and training
+in Swaziland
+
+Reengagement in a country takes time and is costly; it requires special investment in
+analytical and advisory services, as well as time to enable Bank staff to appreciate the specific
+country circumstances, and client to learn about Bank procedures. Limited appreciation of client
+62.
+
+21
+
+circumstances by the Bank and unfamiliarity with Bank procedure on the part of the client
+caused a number of delays in project preparation and approval.
+
+Proposed Partnership Strategy
+The primary goal of this CPS is to support the country’s efforts to reduce poverty
+and inequality, and promote shared prosperity in a sustainable manner. The Bank will
+intervene to help address two major challenges facing the country: slow policy implementation
+and low growth, through a two pillar approach of promoting growth and job creation as well as
+strengthening state capabilities. The two pillars are mutually reinforcing as improved growth
+will generate the much needed resources to reduce poverty and create jobs, strengthened state
+capabilities will enable government to implement policies, adequately manage its public
+investment program, create an enabling environment for MSME growth, and prioritize allocation
+of resources to poverty reduction initiatives.
+63.
+
+The CPS 2015-18 selectivity framework presented in Figure 8 has been framed by
+the twin goals, prioritizing programs at the interface of development needs, client demand and
+World Bank Group (WBG) comparative advantage. At the interface of development needs and
+WBG comparative advantage with no client demand, the Bank will use analytical products to
+advocate for Government prioritization and generate demand for support. In cases where there
+are development needs and client demand with no Bank comparative advantage, other
+development partners will play a leading role. Noting that a majority of the bottom 40% of the
+population relies on agricultural activities for livelihoods, the Bank has prioritized support on
+skills development in the agribusiness in order to reach this segment of the population. The twopillar strategic approach of this CPS is also informed and aligned with the priorities of the NDS.
+Figure 9 presents the two mutually reinforcing strategic pillars.
+64.
+
+Figure 8: CPS selectivity framework
+
+A=Partnerships, B=Core program area, and C=Advocacy
+
+22
+
+Figure 9: CPS Program Pillars
+
+Promoting growth and job
+creation
+
+Strengthening state capabilities
+
+Regulatory environment and
+competitiveness
+
+Economic management
+
+Skills development
+
+Social services delivery
+
+ Promoting growth and job creation. For Swaziland to create jobs and reduce poverty and
+inequality, the country needs sustained economic growth. This requires enhancements in
+national competitiveness through improvements in the trade and regulatory environment,
+and support for skills development. In this area, the WBG will support a regulatory
+framework that fosters a competitive and resilient private sector and promote skills
+development through appropriate lending instruments, analytical and advisory services.
+Work to be done under this program will build on the growth diagnostic conducted in
+2013 to support Government in addressing barriers to growth and job creation. Various
+policy notes prepared by the Bank on agriculture and agribusiness will provide analytical
+underpinning for programs. This will complement Bank advisory services to the Ministry
+of Agriculture.
+
+ Strengthening state capabilities. As discussed above, capacity constraints within the civil
+service undermine implementation of policies, service delivery and adequate
+macroeconomic management. Human capabilities need to be enhanced for higher growth
+and poverty reduction. The CPS aims to help address these challenges through focused
+capacity building as well as investments in economic management and social services
+delivery. Bank interventions will build on ongoing projects as well as AAA.
+The WBG recognizes political and demand constraints in the implementation of this
+CPS. Priority will be placed on interventions directly affecting service delivery to citizens such
+as health, local government capacity, public sector efficiency and job creation.
+65.
+
+The new strategy period will provide a basis for the Systematic Country Diagnostic/
+Country Partnership Framework (SCD / CPF) for FY19 and beyond. It thus serves a
+transition role between the Interim Strategy Note (2008-2010) and the Country Partnership
+66.
+
+23
+
+Framework to commence in 2019. An SCD is programmed for FY 17 which will provide a
+comprehensive development diagnostic drawing from CPS implementation.
+The CPS 2015-18 will build on ongoing and recently completed AAA, including the
+Growth Report, the Review of Social Safety Net Program and the Rapid Assessment of
+Technical and Vocational Education and Training (TVET). The Growth report is the first
+systematic analysis of the major constraints to growth in the country and it aims to stimulate
+policy debate and underpin the Bank’s engagement in Swaziland on growth issues. The Review
+of Social Safety Net Program provides invaluable information to inform policy and improve the
+efficiency and effectiveness of social protection, which can help better design mechanisms to
+benefit the poorest and most vulnerable households, and thus make growth more inclusive. The
+assessment of TVET provides the current landscape of technical and vocational skills training
+and the identified improvement priorities for interventions.
+
+67.
+
+Analytical work planned for the CPS period is expected to fill existing knowledge
+gaps, build capacity, inform evidence-based policy making and lay the building blocks for
+the SCD programmed for FY17. The programmatic fiscal work for the Southern Africa Region
+is expected to provide the analytical background necessary to underpin the policy dialogue in
+SACU countries and improve the quality of fiscal policy making decision. Macroeconomic
+stability and sound economic management remain key elements for Swaziland and other SACU
+countries to foster growth, and increase resilience to shocks. The programmatic poverty work is
+aimed at filling the knowledge gaps and providing the much needed background to assess and
+monitor progress towards the twin goals, and strengthen capacity in the CSO which will help
+produce better quality, more frequent surveys. The programmatic work on trade and
+competitiveness is expected to provide the analytical background to improve trade,
+competitiveness and the regulatory background, support the ongoing work on trade facilitation
+and complement the proposed Private Sector Competitiveness project. It is expected to build on
+existing work on agriculture such as the Swaziland Rural Sector Reviews 13,14 trade facilitation
+and value chains work, and the recently finalized agribusiness skills study which will help the
+development of agribusiness value chains. This is of special relevance to improve the livelihoods
+of rural households and achieve significant progress towards achievement of the twin goals,
+given that the vast majority of rural households are below the national poverty line.
+68.
+
+IFC and MIGA will seek to deepen their engagement in Swaziland. IFC will explore
+opportunities to invest in systemic private sector initiatives in value chains like sugar, beef
+and wood pulp/ forestry as well as supporting government to attract PPPs in water,
+sanitation and solar energy. On a demand basis, IFC will support multinationals investing in
+Swaziland. The use of MIGA guarantees will offer reassurance to foreign investors, including
+investors into PPPs and will complement government efforts to attract foreign direct investment.
+During the CPS period, MIGA will continue to seek opportunities to support private investments
+particularly in NDS target areas. MIGA remains open for business in Swaziland across all of its
+Political Risk Insurance product lines, including Transfer Restriction, Expropriation, Breach of
+Contract and War and Civil Disturbance.
+69.
+
+13
+
+Swaziland Rural Sector Review: Priorities for the Development of Smallholder Agriculture in Swaziland (2011),
+The World Bank
+14
+Swaziland Rural Sector Review: The Livestock and Horticulture Value Chains in Swaziland – Challenges and
+Opportunities (2011), The World Bank
+
+24
+
+Financing the program
+The indicative envelope would be E500 million, equivalent to US$50 million for
+FY15-FY18, to be reviewed at mid-term in the light of changing client needs and available
+World Bank Group financing. This will be in addition to ongoing lending projects on health and
+local government and grant for customs modernization. Budget support will be considered
+should a financing need arise, contingent upon adequacy of the macro-economic and fiscal
+framework, country’s creditworthiness and IBRD financing availability, as well as Government
+commitment to a strong growth and reform program. New operations are envisaged on private
+sector competitiveness and public sector modernization within the three years of the program,
+see Table 5.
+70.
+
+Table 5: CPS 2015-18 operations
+Operation
+1. MSME job creation and private sector competitiveness
+2. Public sector modernization
+Total
+
+A.
+
+Period
+
+Amount
+
+2015-2018
+2016-2018
+
+US$25, 000 000
+US$25, 000 000
+US$50, 000 000
+
+Pillar 1: Promoting growth and job creation
+
+A dynamic private sector (both domestic and foreign) is critical for Swaziland to achieve
+sustained economic growth, employment creation and poverty reduction. Priority reforms are
+necessary to develop a “critical mass” of conditions conducive to attract private sector
+investment. This pillar will support government create an enabling environment for private
+sector competitiveness, MSME growth and job creation in agribusiness and tourism sectors
+given their important role in inclusive growth and export potential. The Bank is prioritizing this
+pillar in response to the vast development need and client demand for support. In addition the
+WBG will bring its full strength to implement programs, with IBRD, IFC and MIGA working in
+a complementary manner as this is area of comparative advantage for the three institutions. The
+Bank will employ both lending and non-lending instruments to deliver programs under this
+pillar.
+71.
+
+ Regulatory environment and competitiveness. The World Bank Group interventions aim
+to support the country address challenges of low growth, high unemployment and high
+poverty by: (i) strengthening the business environment in selected sectors with proven
+export potential and poverty reduction. The Bank intervention in this area will aim to
+improve firm level productivity, lower the costs of investing, starting and running a
+business by eliminating policy, legal, regulatory, and institutional constraints that inhibit
+private sector growth; (ii) supporting export-led growth, hampered by limited integration
+of firms to market chains, weak forward/backward linkages among MSMEs and high
+logistics and customs costs. The Bank will support improvements in customs and trade
+regulations to facilitate cross-border trade. This will build on current work on trade
+25
+
+facilitation under the customs modernization grant. The Bank will also provide technical
+assistance in drafting of the Financial Sector Development Implementation Plan (FSDIP)
+with a view to introducing reforms in the financial sector by aligning policies and
+legislation to meet the changing structure of the sector. This will include: (a)
+development of a comprehensive FSDIP, which will form the basis for coherent and
+sequential reforms needed to promote financial sector deepening; (b) mapping of
+financial sector work; (c) analysis and sub-studies, including reviews covering the
+following areas: legal framework governing the financial sector, crisis management,
+access to finance, Non-Bank Financial Institutions (NBFI) such as insurance, microinsurance, and pensions; (d) mobilizing support and financial resources to empower and
+involve the stakeholders in the implementation of the FSDIP.
+
+ Skills development. The Bank will build upon the recently completed skills study to
+support market-driven skills development as a component of the proposed Private Sector
+Competitiveness Project (see above). The Bank interventions will aim to support the
+government effort in job creation and productivity growth by improving the quality,
+efficiency and coverage of skills development, particularly targeting the young
+population (15-24 age group), in line with the economic growth priorities of the country
+such as agriculture, agribusiness and tourism. These will include: (i) establishing a sound
+policy/incentive regime and a sustainable mechanism in terms of institutional set-up and
+financing for skills development in the country; (ii) reforming and improving the existing
+provision of TVET for increased responsiveness to the labor market and national growth
+priorities; and (iii) enhancing programs in apprenticeship, entrepreneurship, management
+and priority subject areas to skill-up and reskill the workforce for technology transfer and
+utilization and productivity growth, with a focus on middle-level supervisors and
+technicians. As part of the preparation for the proposed project, a forthcoming study on
+agribusiness skills development would complement the planned EU and IFAD-funded
+agriculture projects, which do not include activities to strengthen the country’s formal
+skills development systems. All these interventions aim to support addressing skills
+constraints in the above mentioned sectors and respond to new private sector demand and
+employment opportunities.
+B.
+
+Pillar 2: Strengthening state capabilities
+
+This pillar will focus on support to strengthen governance through initiatives aimed at
+improving transparency and accountability systems. This will be achieved through strengthening
+government technical and managerial capacity to implement policies and improve service
+delivery. The WBG has prioritized this pillar in response to expressed client demand and the
+developmental need to build the capacity of the state to implement policies, deliver programs and
+improve efficiency in public investments and expenditure. This is an area of World Bank
+comparative advantage, and the new CPS will build on ongoing support on local government,
+health, PFM and reserve asset management. The Bank will work closely with other development
+partners including IMF, USAID, EU, AfDB, UN agencies, and will employ both lending and
+non-lending instruments to deliver programs.
+72.
+
+26
+
+Economic management
+The Ministry of Finance, Central Bank and other institutions will be supported through a
+program of technical advisory and knowledge sharing services.
+73.
+
+ Supporting public financial management: The World Bank will work with other
+development partners in particular AfDB and EU to support critical areas in the PFM
+cycle to enhance accountability in the use of public funds. Priority areas include financial
+management information systems, commitment control systems, expenditure arrears
+management, financial reporting, internal and external audit. The Bank will continue with
+ongoing support to the Swaziland Internal Audit Department, financed by the USAID.
+The objective of this initiative is to support Government implement an internal audit
+philosophy and methodology in line with the standard professional practice of the
+Institute of Internal Auditors. Capacity building support will be provided to the PPP unit
+in the Ministry of Finance and strengthening the public investment management system.
+The Bank will continue to engage the Budget Department to develop, maintain and
+operate a BOOST database. The objectives of this initiative are to improve the quality of
+fiscal and public expenditure data and improve the quality of expenditure analysis that is
+available to government officials that can inform better public expenditure decision
+choices. Support will be provided to the Tender Board, Public Procurement Regulatory
+Agency (SPPRA) Board and executive to operationalize the Agency and ensure full
+compliance with the Procurement Act of 2011.
+
+ Public sector modernization. Support will be provided to support governance reforms to
+promote professionalization and accountability in the civil service. This will include
+institutionalizing systems for declaration of conflict of interests and financial disclosure
+at senior and executive levels. Such systems will help address perceptions of corruption
+and promote public confidence in senior and executive office bearers. Technical
+assistance will be provided for (i) strengthening government-wide strategic planning,
+including at the departmental and program level; (ii) results-based management and civil
+service management, including the conclusion of the payroll audit, right sizing the civil
+service and strengthening wage bill management; (iii) introducing an integrated
+performance management and M&E system, linking planning, budgeting, management
+and performance M&E.
+
+ Strengthening local government. The Bank will continue the implementation of the
+ongoing Local Government Project to strengthen accountability and institutional capacity
+of Tinkhundla and urban local governments. The primary focus is on improved practices
+in planning, budgeting, reporting, and social accountability. A possible follow-on
+operation will be discussed at the mid-term progress review stage and could prioritize
+support for improved service delivery at local government level either through an
+operation on water and sanitation or improved agricultural productivity and irrigation
+program. The exact nature of operation will be determined based on client demand.
+
+ Strengthening reserves asset management. The Reserves Advisory and Management
+Program (RAMP) managed by the Bank Treasury will continue. The Bank will support
+implementation of the Portfolio Analytics Tool (PAT) used to keep track of the reserves
+27
+
+portfolio holdings, and to monitor compliance with the investment guidelines in terms of
+credit and market risk. The CBS will be assisted in defining a benchmark comprising
+Rand-denominated bonds and managing a portfolio of bonds versus this benchmark.
+Support will also be provided in the implementation of an operational risk framework
+through streamlining IT systems architecture, employing more enhanced portfolio
+management techniques and enhancing the monitoring and reporting framework to ensure
+good governance.
+
+Social services delivery
+Improved social services delivery through investments in health and social protection are
+essential to improve life expectancy and other social outcomes. The Bank will support social
+services delivery through the following programs:
+74.
+
+ Fighting HIV/AIDS and TB project and strengthening the health system. The ongoing
+IBRD- and EU-financed project supports health systems strengthening, renovation and
+equipping of health facilities; strengthening the referral and transport system; and
+increasing and improving nursing and midwifery services. The project also supports
+increasing social safety net access for OVC. Under this program, the World Bank Group
+will continue to work in close collaboration and complement ongoing programs by other
+development partners. The Bank will also support the implementation of the second
+National Health Sector Strategic Plan (2014-2019). A further health operation is
+envisaged in later years in line with the new strategic plan which is based on the
+Universal Health Coverage principle. An investment project will be supplemented by
+analytical work such as a Public Expenditure Review to identify bottlenecks and
+inefficiencies in the sector. The operation will focus on employing incentives to improve
+both technical and financial efficiency of the sector as well as the productivity of health
+workers through mechanisms such as public private partnerships and performance based
+financing. A common TB framework for the region developed jointly with WHO has
+been signed. The Bank will support implementation of this initiative at country level
+through technical and advisory services.
+
+ Strengthening social safety net and poverty monitoring system. The WBG will continue
+its social protection engagement under Component 3 of the Health, HIV/AIDS, and TB
+Project, by supporting the development of all key social protection delivery systems
+(poverty targeting methodology and implementation; electronic payment mechanism for
+social transfers; management information system for social transfers) and capacity
+development to the Deputy Prime Minister’s Office in designing and implementing social
+protection programs. The WBG will also provide technical assistance to the Deputy
+Prime Minister’s Office and the Ministry of Labor and Social Security on the social
+protection strategy process. These activities will complement the EU’s new social
+protection project. In addition, the Bank will support capacity building through its AAA
+program to strengthen the country’s statistical system by complementing UNDP’s work
+on statistics. This will be accomplished through the programmatic poverty work in the
+sub-region. The Bank will continue to provide training on core modules of ADePT
+28
+
+software to analyze micro data to assess poverty, inequality, and the efficiency of social
+programs. Assistance will also be provided to the CSO on poverty measurement and
+household survey methodologies and on micro data preservation and dissemination
+through the Accelerated Data Program initiative (ADP).
+
+ Conducting analytical work to assess the extent and causes of gender, poverty and
+inequality in Swaziland and propose actionable recommendations for addressing main
+gender challenges. The World Bank will build on the existing gender studies conducted
+by the Government, other donor agencies and the civil society to track levels and changes
+in poverty indicators over time and across regions. The Bank will conduct the Gender
+Assessment early in the CPS period to address needs in gender responsive policies and
+actions for poverty reduction and economic growth, and also to inform the Bank project
+and task level interventions.
+
+VIII. PARTNERSHIPS
+There are a number of development partners operating in Swaziland; collaboration with
+these partners will be instrumental for successful implementation of the CPS (see Annex 9). The
+Bank will maintain ongoing dialogue with development partners on common areas of interest.
+Future programs will benefit from close coordination with other development partners to
+harmonize efforts and avoid duplication of resources.
+75.
+
+IX. RISK ASSESSMENT
+
+Overall the risk to the 2015-18 CPS is substantial. The World Bank lending to
+Swaziland will increase during the CPS period to $50 million. The residual risks to the CPS
+program that may critically impact on the CPS to achieve its objectives, are (i) macroeconomic
+risks, (ii) political and governance risks, and (iii) fiduciary risks, (agency and capacity risks),
+which may transmit to project implementation levels.
+
+76.
+
+The macroeconomic risk with a potential adverse impact on the CPS program
+implementation will remain moderate to substantial. The country faces risks from the external
+economic environment in the form of market shocks (trade shocks or exchange rate volatility),
+reductions in external grants for HIV/AIDS, or declining SACU revenue transfers. The expected
+significant increase of public debt during the mid-term, (doubling as a percent of GDP by 2017)
+in the absence of stringent fiscal adjustment, may result in Swaziland facing the risk of debt
+distress during the CPS period. Although the SACU receipts will strengthen the international
+reserves and the local currency peg to the Rand over the medium term, Swaziland currency
+stability will remain vulnerable to the South Africa CAD volatility. Any deterioration of the
+macroeconomic situation, especially with respect to loss of fiscal revenues would impact
+adversely government health and social protection efforts and transmit to the effectiveness of the
+CPS objectives in growth and jobs pillar and the social services strategic objective. These risks
+will be mitigated through monitoring, policy dialogue and if the circumstances demand by
+budget support, focusing on fiscal consolidation and growth.
+77.
+
+29
+
+The political and governance risks are expected to be substantial during the CPS
+implementation. The governance system in Swaziland leaves room for political interference,
+policy reversals, vested interests, nepotism and corruption which can adversely affect the
+selection and prioritization of sectoral investments, as well as the effective implementation of
+programs. The Bank’s Private Sector Competitiveness project can be particularly vulnerable to
+such risks, if the project beneficiaries become direct competitors to established vested interest.
+The Bank will seek to mitigate these risks by establishing a high level inter-agency oversight
+body to work on strengthening the mechanisms of transparency, accountability and by enlisting
+broader government and stakeholder support under the CPS’s state capabilities pillar, for the
+implementation of the ongoing Bank’s Local Government Project and the new Public
+Administration Modernization Project.
+78.
+
+The fiduciary risks to the Bank program will remain substantial. Limitations in state
+implementation capacity pose risks to effectively achieve the objective of the CPS program.
+Requests for Bank Group support often emerge from Ministries or other agencies without central
+coordination. To manage government demand and monitor implementation, the Bank will
+maintain the existing mechanism of regular reviews of project deliverables with Ministry of
+Finance and Ministry of Economic Planning and Development. The planned capacity building
+technical assistance to the Ministries of Health, Deputy Prime Minister’s Office and the Central
+Statistics Office, together with the new Procurement TA will aim to address the capacity and
+fiduciary challenges and mitigate program implementation risks on institutional level. The
+mitigation of project-level risk will be done by strengthening the review process with higher
+attention to non-fiduciary (political economy) risks, hiring ‘hybrid” PIUs consisting of civil
+servants and external consultants, building check lists into the project design, and through
+reviews as part of the ISRs and MTRs during implementation.
+79.
+
+30
+
+Annex 1: CPS Results Matrix
+Pillar I: Promoting Growth and Job Creation
+A dynamic private sector (both domestic and foreign) is critical for Swaziland to achieve sustained economic growth, employment
+creation and poverty reduction. Priority reforms are necessary to develop a “critical mass” of conditions conducive to attract private
+sector investment. Two key priorities to achieve this are: (i) regulatory environment and competitiveness towards improved MSMEs
+productivity and export promotion; and (ii) skills development to align with the market needs.
+Objective 1. Regulatory Environment and Competitiveness
+Intervention Logic: The World Bank interventions aim to support the country address challenges of low growth, high unemployment
+and poverty by: (i) strengthening the business environment in agribusiness and tourism given their inclusive growth and export
+potential; reducing the costs of doing business and improving firm-level productivity; and (ii) supporting export-led growth, hampered
+by poor integration of firms to market chains, weak forward/backward linkages among MSMEs and high logistics and customs costs.
+The Bank will support improvements in customs and trade regulations to facilitate improvements in cross-border trade. The Bank will
+also support Government efforts towards financial inclusion through (iii) Development of the FSDIP and review of the legal
+framework governing financial sector and NBFI. This is a core program for the World Bank, meeting all three selectivity criteria (see
+selectivity framework Figure 8). The Bank will support the country effort through analytical and advisory services in areas with
+moderate to substantial operational risks however, with significant pay-offs.
+CPS Objective Indicators*
+Outcomes:
+
+
+
+
+
+
+
+Reduced number of days to start a
+business.
+Baseline: 38 (2014); Target: 23 (2018)
+Increase in export value (Current US$).
+Baseline 15 US$1.9 billion (2014)
+Target: US$2.25 billion (2018)
+Decreased customs clearance times
+NBFI regulatory and supervisory
+framework strengthened
+SME support programs consolidated
+and strengthened
+
+Outputs and Milestones:
+
+Activities:
+
+−
+
+−
+−
+−
+
+−
+−
+−
+
+Investor Roadmap implemented
+(FY17/18)
+SIPA supported to operationalize its
+trade facilitation and investment
+promotion mandate (FY15-18)
+Financial sector development
+implementation plan drafted (FY15-18)
+Review of legal framework for financial
+sector and NBFI conducted (FY15-18)
+
+TA to the SIPA, SRA (Ongoing)
+Development of Agribusiness AAA (FY16)
+AAA to support financial sector deepening
+(FY16/17)
+
+Lending:
+− Private Sector Competitiveness (new; FY 16)
+Trust Funds
+− Customs Modernization project (ongoing)
+− FIRST (financial sector deepening-new)
+Authorities: SIPA, SRA, Ministry of Agriculture,
+Ministry of Trade and Commerce, Central Bank,
+Partners: EU, AfDB, IFC, MIGA
+
+* Note: Baseline and target TBD at the PLR
+stage and after baseline data is collected
+during the preparation of the lending
+operation;
+15
+
+WBG Program
+List of WBG interventions contributing to CPS
+
+Progress Indicators
+
+Baseline is an average of the decade (2000-2010)
+
+31
+
+Objective 2. Skills Development
+Intervention Logic: The growth of Swaziland’s working age population will be outpacing its total population growth, which would
+lead to increased expectations for job creation, especially productive jobs. The Bank will build upon the recently completed skills study
+to support market-driven skills development as a component of the proposed Private Sector Competitiveness Project. The Bank
+interventions will support government effort in job creation and productivity growth by improving the quality, efficiency and coverage
+of skills development, particularly targeting the young population (15-24 age group), in line with the economic growth priorities of the
+country in targeted sectors such as agriculture, agribusiness and tourism. This is an operational area with low to medium operation risk.
+The Bank’s interventions were identified based on the developmental needs in reference to relevant international experiences and client
+demand. They are complementarity to the above Strategic Objective #1.
+CPS Objective Indicators*
+Outcomes:
+
+
+
+
+
+
+Skills development programs
+increasingly aligned with market
+demands and national growth
+priorities;
+
+Outputs and Milestones:
+
+Activities:
+
+−
+
+−
+
+−
+−
+
+Increased number of jobs in
+agribusiness; 50% (2018) female
+beneficiaries;
+
+−
+
+Increased number of jobs in tourism;
+50% (2018) female beneficiaries
+
+−
+
+* Note: Baselines and targets to be
+determined at the PLR stage after
+baseline data is collected during the
+preparation of the IPF operation.
+
+WBG Program
+List of WBG interventions contributing to CPS
+
+Progress Indicators
+
+−
+
+A sound policy/incentive regime and a
+sustainable institutional/financing;
+Mechanism for skills development in place
+(FY16);
+Agribusiness / tourism skills development
+framework developed (FY16/17);
+Improved quality and coverage of TVET that
+respond to the labor market and economic
+development needs (FY18);
+Trained middle-level technical supervisors
+and technicians for technology transfer/
+utilization and productivity increase (2018)
+Improved provision of productive
+apprenticeship and management training
+programs
+
+32
+
+−
+−
+
+AAA: Assessment of current provision of
+technical and vocational education and
+training (FY14/15);
+AAA: Study on human resource needs and
+skills gaps in agribusiness (FY15);
+AAA underpinning new IPF: financing
+training provision; training program/
+curriculum review; quality assurance, staff
+development and capacity-building (FY1518).
+
+Lending:
+− Private Sector Competitiveness (new; FY16)
+Authorities: Ministry of Agriculture, Ministry of
+Trade and Commerce, Ministry of Labour,
+Ministry of Education and Training
+Partners: UN Agencies, AfDB, IFC
+
+Pillar II: Strengthening State Capabilities
+A capable and well performing state requires strong domestic sources of revenue and effective public service delivery; human
+capabilities need to be enhanced to increase growth, raise incomes and alleviate poverty in a sustainable manner. The World Bank
+Group can contribute to strengthening state capabilities in the following areas: (i) Economic management and (ii) Social services
+delivery
+Objective 1. Economic Management
+Intervention Logic: The capacity constraints within the civil service undermine policy implementation, service delivery and adequate
+macroeconomic management. The Bank will support the client in the following areas: (i) PFM, (ii) public sector modernization, (iii)
+reserves asset management and; (iv) local government. The Bank interventions were identified through sector analytics and the country
+selectivity framework. This is a core program area and it carries substantial implementation risks.
+CPS Objective Indicators
+
+Progress Indicators
+
+WBG Program
+List of WBG interventions contributing to CPS
+
+Outcomes:
+
+Outputs and Milestones:
+
+Activities:
+
+
+
+Strengthened reserves portfolio analysis
+and management;
+
+−
+−
+
+−
+
+
+
+Increased number of (9) ULGs
+receiving a score >80 on financial
+performance assessments;
+Baseline: 25% (2011); Target: 75%
+(2016)
+
+
+
+
+
+Strengthened public procurement and
+internal audit capacity; ULGs with
+annual financial audit completed within
+6 month within the end of the FY;
+Baseline: 25% (2011); Target: 75%
+(2016)
+50% (2015) female beneficiaries under
+the Banks Local Government IPF
+intervention;
+
+−
+−
+−
+−
+−
+−
+−
+−
+−
+
+Public investment plan developed (FY17)
+Capacity building to MOF, Central Bank,
+SPPRA and State Tender Board provided
+(FY15/18);
+Local Government project fully implemented
+(FY17);
+BOOST tool implemented (FY17);
+Payroll audit finalized and recommendations
+implemented (FY17);
+PFM Action plan implemented (FY17)
+Reserves Portfolio Analytics Tool (PAT)
+implemented (FY17);
+Internal audit function aligned to professional
+practice and Institute of Internal Auditors
+(FY17/18);
+Public Procurement Act of 2011 implemented
+(FY17/18).
+Instruments for declaration of conflict of
+interest and financial disclosure developed
+Integrated performance, M&E system
+developed
+33
+
+−
+−
+−
+
+TA and RAS with the Central Bank (FY1518);
+Accounting and Auditing support to MoF
+(FY15/18);
+Procurement TA to the State Tender Board
+and SPPRA (FY 16);
+Establishing systems to improve
+performance, planning and M&E
+
+Lending:
+− Local Government IPF (ongoing)
+− Public Sector Modernization IPF (new;
+FY16);
+Authorities: MOF, Ministry of Public Service
+Partners: EU, IMF, AfDB, USAID.
+
+Objective 2. Social services delivery
+Intervention Logic: The state ability to effectively address the growth and poverty challenges is hampered by inadequate poverty
+monitoring, fragmentation of the social protection programs, lack of SP strategy, and the high prevalence of disease (TB and
+HIV/AIDS), undermining human capital investments. In collaboration with other development partners, the World Bank will support
+the country efforts to (i) consolidate the safety nets and management; (ii) improve quality of the health services delivery, and (iii)
+strengthen the poverty statistical monitoring. The Bank interventions will support this strategic area with lending and TA. The
+operational risk level is moderate to substantial.
+CPS Objective Indicators
+Outcomes:
+ Strengthened CSO capacity to gather and
+release statistics in accordance with
+international standards;
+ Improved support to poor families
+through the OVC cash transfer pilot;
+ Percentage of health facilities that
+provide five public health services
+Baseline: 54% (2011); Target: 80%
+(2018)
+ Caesarian deliveries as a percentage of
+institutional deliveries at health centers
+Baseline: 0% (2011); Target: 5% (2018)
+ TB treatment success rate
+Baseline: 71% (2011); Target: 80%
+(2018)
+
+Progress Indicators
+Outputs and Milestones:
+− National Health Sector Strategic Plan 20142019 developed (FY15);
+− Health care professionals trained on HIV /TB
+prevention and treatment (FY16);
+− Renovation of health facilities
+completed(FY15/17);
+− Training in data dissemination and analysis
+tools (ADePT, ADP etc) (FY16/17);
+− Establishment of an information and targeting
+system, a payment mechanism for
+administration of OVC cash transfer pilot;
+− Regional TB treatment protocol implemented
+(FY17/18);
+− Tracking system for TB patients
+developed(FY17/18);
+− HIV efficiency study completed (FY16);
+− HIV effectiveness evaluation completed
+(FY17).
+
+34
+
+WBG Program
+List of WBG interventions contributing to CPS
+Activities:
+− Health Public expenditure tracking survey
+(FY16);
+− Capacity building to the Ministries of
+Health, Deputy Prime Minister’s Office
+and Central Statistics Office (FY16/17);
+− Gender Assessment (FY16)
+Lending
+− Health, HIV/AIDS/TB IPF (ongoing);
+Authorities: Ministry of Health, Deputy Prime
+Minister’s Office, National Statistics Office;
+Partners: EU, PEPFAR, UN agencies, Japan
+Social Development Fund.
+
+Annex 2: Swaziland at a Glance
+
+g
+Key Development Indicators
+Swaziland
+
+SubSaharan
+Africa
+
+Lower
+middle
+income
+
+Age distribution, 2012
+
+(2012)
+
+Male (..)
+
+Population, mid-year (millions)
+Surface area (thousand sq. km)
+Population growth (%)
+Urban population (% of total population)
+
+1.2
+17
+1.6
+23
+
+911
+24,262
+2.7
+37
+
+2,507
+20,742
+1.5
+39
+
+3.8
+3,100
+4,760
+
+1,230
+1,350
+2,227
+
+4,745
+1,893
+3,877
+
+1.9
+0.4
+
+4.3
+1.5
+
+4.7
+3.2
+
+Poverty headcount ratio at $1.25 a day (PPP, %)
+Poverty headcount ratio at $2.00 a day (PPP, %)
+Life expectancy at birth (years)
+Infant mortality (per 1,000 live births)
+Child malnutrition (% of children under 5)
+
+41
+60
+45
+55
+6
+
+48
+70
+56
+64
+21
+
+27.1
+56.3
+66
+46
+24
+
+Adult literacy, male (% of ages 15 and older)
+Adult literacy, female (% of ages 15 and older)
+Gross primary enrollment, male (% of age group)
+Gross primary enrollment, female (% of age group)
+
+88
+87
+121
+111
+
+69
+51
+104
+96
+
+80
+62
+107
+104
+
+Access to an improved water source (% of population)
+Access to improved sanitation facilities (% of population)
+
+69
+55
+
+64
+29
+
+88
+47
+
+Female (..)
+
+75- 79
+60- 64
+45- 49
+30- 34
+
+GNI (Atlas method, US$ billions)
+GNI per capita (Atlas method, US$)
+GNI per capita (PPP, international $)
+
+15- 19
+0-4
+10
+
+GDP growth (%)
+GDP per capita growth (%)
+
+5
+
+0
+
+5
+
+10
+
+percent of total population
+
+(most recent estimate, 2005–2012)
+Under-5 mortality rate (per 1,000)
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+1990
+
+Swaziland
+
+Net Aid Flows
+(US$ millions)
+Net ODA and official aid
+Top 3 donors (in 2012):
+United States
+European Union Institutions
+United Kingdom
+Aid (% of GNI)
+Aid per capita (US$)
+
+1980
+
+1990
+
+2000
+
+2012
+
+Sub-Sah aran Afr ica
+
+Growth of GDP and GDP per capita (%)
+
+54
+
+13
+
+88
+
+11
+8
+14
+
+14
+9
+3
+
+0
+6
+-4
+
+44
+16
+8
+
+25
+
+2.4
+72
+
+10
+
+2.0
+27
+
+5.7
+62
+
+2000
+
+2012
+
+48
+
+8.8
+80
+
+1995
+
+20
+15
+
+5
+0
+
+Long-Term Economic Trends
+
+-5
+95
+
+Consumer prices (annual % change)
+GDP implicit deflator (annual % change)
+Exchange rate (annual average, local per US$)
+Terms of trade index (2000 = 100)
+
+15.2
+14.0
+
+11.2
+31.4
+
+6.0
+5.4
+
+8.9
+8.4
+
+0.8
+..
+
+2.6
+..
+
+8.6
+
+8.2
+..
+
+..
+
+05
+
+GDP
+
+GDP per capita
+
+1980–90 1990–2000
+2000–12
+(average annual growth %)
+Population, mid-year (millions)
+GDP (US$ millions)
+
+0.6
+543
+
+0.9
+1,115
+
+1.1
+1,349
+
+Agriculture
+Industry
+Manufacturing
+Services
+
+22.7
+30.2
+20.9
+47.1
+
+10.4
+43.2
+36.8
+46.5
+
+10.5
+45.4
+39.7
+44.1
+
+Household final consumption expenditure
+General gov't final consumption expenditure
+Gross capital formation
+
+72.3
+27.0
+40.7
+
+80.4
+14.3
+15.1
+
+72.9
+17.2
+23.0
+
+Exports of goods and services
+Imports of goods and services
+Gross savings
+
+74.6
+114.0
+16.7
+
+59.0
+68.9
+19.7
+
+85.4
+98.5
+20.1
+
+1.2
+4,052
+
+3.6
+8.0
+
+2.3
+3.2
+
+1.2
+2.7
+
+4.3
+15.5
+20.0
+7.5
+
+0.4
+3.3
+3.0
+4.2
+
+1.3
+1.2
+1.3
+4.4
+
+78.8
+17.8
+10.2
+
+1.4
+-0.4
+6.4
+
+6.8
+8.4
+-2.8
+
+7.4
+0.9
+-6.0
+
+52.9
+59.7
+10.8
+
+1.3
+-2.7
+
+6.3
+6.7
+
+-3.1
+-0.8
+
+(% of GDP)
+7.1
+44.0
+41.5
+49.0
+
+Note: Figures in italics are for years other than those specified. .. indicates data are not available.
+
+Development Economics, Development Data Group (DECDG).
+
+35
+
+Swaziland
+2012
+
+2000
+
+Balance of Payments and Trade
+
+Governance indicators, 2000 and 2012
+(US$ millions)
+Total merchandise exports (fob)
+Total merchandise imports (cif)
+Net trade in goods and services
+Current account balance
+as a % of GDP
+Workers' remittances and
+compensation of employees (receipts)
+
+1,034
+1,197
+-194
+
+1,701
+1,652
+-157
+
+-57
+-4.2
+
+132
+3.3
+
+Polit ical stability
+Regulat ory quality
+Rule of law
+
+57
+
+31
+
+Control of corruption
+0.0
+
+978
+
+267
+
+Reserves, including gold
+
+Voice and accountability
+
+2012
+
+Central Government Finance
+
+25.0
+
+26.2
+23.4
+21.5
+
+36.2
+35.2
+27.3
+
+-2.5
+
+4.8
+
+Highest marginal tax rate (%)
+Individual
+Corporate
+
+39
+30
+
+100.0
+
+higher values imply better ratings
+
+Source: Worldw ide Governance Indicators (w w w .govindicators.org)
+
+Technology and Infrastructure
+Overall surplus/deficit
+
+75.0
+
+Country's percentile rank (0-100)
+
+2000
+
+(% of GDP)
+Current revenue (including grants)
+Tax revenue
+Current expenditure
+
+50.0
+
+Paved roads (% of total)
+Fixed line and mobile phone
+subscribers (per 100 people)
+High technology exports
+(% of manufactured exports)
+
+33
+30
+
+2012
+
+2000
+
+..
+
+30.0
+6
+
+69
+
+0.4
+
+0.1
+
+71
+..
+3.0
+
+71
+32.7
+3.0
+
+External Debt and Resource Flows
+Environment
+(US$ millions)
+Total debt outstanding and disbursed
+Total debt service
+Debt relief (HIPC, MDRI)
+
+271
+24
+–
+
+568
+44
+–
+
+Agricultural land (% of land area)
+Forest area (% of land area)
+Terrestrial protected areas (% of land area)
+
+Total debt (% of GDP)
+Total debt service (% of exports)
+
+20.1
+1.8
+
+14.0
+1.8
+
+Freshwater resources per capita (cu. meters)
+Freshwater withdrawal (% of internal resources)
+
+28
+-3
+
+38
+-13
+
+Foreign direct investment (net inflows)
+Portfolio equity (net inflows)
+
+2,178
+39.5
+
+2,440
+39.5
+1.1
+
+0.86
+
+GDP per unit of energy use
+(2005 PPP $ per kg of oil equivalent)
+
+..
+
+12.6
+
+Energy use per capita (kg of oil equivalent)
+
+..
+
+373
+
+CO2 emissions per capita (mt)
+
+Composition of total external debt, 2012
+IDA, 2
+Short-term, 66
+
+IBRD,
+2 74
+IMF,
+
+Private, 30
+
+World Bank Group portfolio
+
+2000
+
+2012
+
+(US$ millions)
+Bilateral, 112
+
+Other multilateral, 282
+
+US$ millions
+
+Private Sector Development
+Time required to start a business (days)
+Cost to start a business (% of GNI per capita)
+Time required to register property (days)
+Ranked as a major constraint to business
+(% of managers surveyed who agreed)
+n.a.
+n.a.
+Stock market capitalization (% of GDP)
+Bank capital to asset ratio (%)
+
+2012
+
+2000
+–
+–
+–
+2000
+
+56
+24.1
+21
+
+9.4
+13.7
+
+9
+1
+1
+1
+
+2
+2
+0
+0
+
+IDA
+Total debt outstanding and disbursed
+Disbursements
+Total debt service
+
+4
+0
+0
+
+2
+0
+0
+
+18
+18
+0
+
+6
+6
+0
+
+1
+
+1
+
+67
+69
+
+16
+0
+
+IFC (fiscal year)
+Total disbursed and outstanding portfolio
+of which IFC own account
+Disbursements for IFC own account
+Portfolio sales, prepayments and
+repayments for IFC own account
+
+2012
+..
+..
+
+IBRD
+Total debt outstanding and disbursed
+Disbursements
+Principal repayments
+Interest payments
+
+25.2
+18.5
+
+MIGA
+Gross exposure
+New guarantees
+
+6.7
+17.4
+
+Note: Figures in italics are for years other than those specified.
+.. indicates data are not available. – indicates observation is not applicable.
+Development Economics, Development Data Group (DECDG).
+
+36
+
+3/31/14
+
+Millennium Development Goals
+
+Swaziland
+
+With selected targets to achieve b etween 1990 and 2015
+(estimate closest to date shown, +/- 2 years)
+
+Swaziland
+
+Goal 1: halve the rates for extreme poverty and malnutrition
+Poverty headcount ratio at $1.25 a day (PPP, % of population)
+Poverty headcount ratio at national poverty line (% of population)
+Share of income or consumption to the poorest qunitile (%)
+Prevalence of malnutrition (% of children under 5)
+
+1990
+..
+..
+..
+..
+
+1995
+78.6
+66.0
+2.7
+..
+
+74
+63
+49
+85
+
+74
+63
+47
+88
+
+72
+61
+42
+91
+
+86
+77
+60
+92
+
+..
+..
+4
+
+..
+33
+3
+
+97
+
+94
+
+Goal 4: reduce under-5 mortality by two-thirds
+Under-5 mortality rate (per 1,000)
+Infant mortality rate (per 1,000 live births)
+Measles immunization (proportion of one-year olds immunized, %)
+
+96
+70
+85
+
+98
+70
+94
+
+116
+77
+92
+
+78
+55
+94
+
+Goal 5: reduce maternal mortality by three-fourths
+Maternal mortality ratio (modeled estimate, per 100,000 live births)
+Births attended by skilled health staff (% of total)
+Contraceptive prevalence (% of women ages 15-49)
+
+260
+..
+20
+
+220
+56
+..
+
+..
+74
+40
+
+420
+69
+51
+
+Goal 6: halt and begin to reverse the spread of HIV/AIDS and other major diseases
+Prevalence of HIV (% of population ages 15-49)
+Incidence of tuberculosis (per 100,000 people)
+Tuberculosis case detection rate (%, all forms)
+
+0.8
+267
+65
+
+13.7
+337
+63
+
+24.3
+911
+69
+
+26.5
+1,287
+43
+
+Goal 7: halve the proportion of people without sustainable access to basic needs
+Access to an improved water source (% of population)
+Access to improved sanitation facilities (% of population)
+Forest area (% of land area)
+Terrestrial protected areas (% of land area)
+CO2 emissions (metric tons per capita)
+GDP per unit of energy use (constant 2005 PPP $ per kg of oil equivalent)
+
+..
+..
+27.4
+3.0
+0.5
+10.9
+
+53
+48
+..
+3.0
+0.5
+..
+
+..
+..
+..
+3.0
+1.1
+..
+
+1.6
+0.0
+0.0
+..
+
+2.2
+0.0
+0.0
+..
+
+3.0
+3.1
+0.9
+5.2
+
+Goal 2: ensure that children are able to complete primary schooling
+Primary school enrollment (net, %)
+Primary completion rate (% of relevant age group)
+Secondary school enrollment (gross, %)
+Youth literacy rate (% of people ages 15-24)
+Goal 3: eliminate gender disparity in education and empower women
+Ratio of girls to boys in primary and secondary education (%)
+Women employed in the nonagricultural sector (% of nonagricultural employment)
+Proportion of seats held by women in national parliament (%)
+
+Goal 8: develop a global partnership for development
+Telephone mainlines (per 100 people)
+Mobile phone subscribers (per 100 people)
+Internet users (per 100 people)
+Households with a computer (%)
+
+Education indicators (%)
+
+Measles immunization (% of 1-year
+olds)
+
+125
+
+100
+
+2000
+62.9
+69.0
+4.5
+
+2012
+40.6
+63.0
+4.1
+6.1
+
+..
+
+..
+
+..
+14
+
+3
+
+69
+55
+32.7
+3.0
+0.9
+12.6
+
+3.7
+65.4
+20.8
+11.9
+
+ICT indicators (per 100 people)
+80
+70
+
+100
+
+60
+
+75
+75
+
+50
+
+50
+
+40
+
+50
+
+30
+
+25
+
+20
+
+25
+
+0
+2000
+
+2005
+
+10
+
+2010
+
+0
+
+0
+1990
+
+1995
+
+2000
+
+2012
+
+2000
+
+2005
+
+2010
+
+Primar y net enrollm ent ratio
+Fixed + mob ile subscr iber s
+Ratio of girls to boys in pr ima ry & secondar y
+education
+
+Swaziland
+
+Sub-Sah aran Afr ica
+
+Note: Figures in italics are for years other than those specified. .. indicates data are not available.
+Development Economics, Development Data Group (DECDG).
+
+37
+
+Inter net users
+
+3/31/14
+
+Annex 3: WBG Portfolio – Swaziland
+
+38
+
+Annex 4: Knowledge and advisory activities completed or underway
+Completed
+
+Year of completion
+
+1. Report on training and skills development for shared
+growth and competitiveness
+2. Policy notes on investment policy, the wage bill,
+growth opportunities, revenue enhancement, and
+FDI administration
+3. Policy notes on smallholder agriculture
+and specific value chains (livestock and horticulture)
+4. FDI Linkages Report
+5. Social Safety Net Review
+6. Accounting and Auditing ROSC
+7. Growth Diagnostic
+8. HIV financial sustainability study
+9. Desk review of policies governing private sector
+provision of primary and secondary education
+in Swaziland
+10. Rapid Assessment of technical and vocational
+education and training in Swaziland
+
+Ongoing and Planned
+
+FY2010
+
+FY2011
+FY2011
+FY2013
+FY2013
+FY2013
+FY2014
+FY2014
+
+FY2014
+FY2014
+
+Period
+
+1. TA to improve roll out of HIV programs
+2. Customs Modernization
+3. Public Service Payroll Audit
+4. Agricultural Advisory Services
+5. Financial Sector Development Implementation Plan
+6. Programmatic Poverty work
+7. Programmatic Fiscal work
+8. Diagnostic on technical efficiency of HIV programs
+9. AFCS1 Demographic Study
+10. AFCS1 Water / Energy Nexus AAA
+11. Systematic Country Diagnostic
+12. Impact evaluation of incentives to improve HIV
+prevention outcomes amongst young girls
+13. Regional Program on Fighting TB in the Mines
+
+39
+
+FY2015
+FY2015
+FY2015
+FY2015-16
+FY2015
+FY2016
+FY2016
+FY2016
+FY2016
+FY2016
+FY2017
+FY2017
+FY2014-18
+
+Annex 5: Swaziland Social Indicators
+
+Same region/income group
+
+Latest single year
+
+POPULATION
+Total population, mid-year (millions)
+Grow th rate (% annual average for period)
+Urban population (% of population)
+Total fertility rate (births per woman)
+POVERTY
+(% of population)
+National headcount index
+Urban headcount index
+Rural headcount index
+INCOME
+GNI per capita (US$)
+Consumer price index (2007=100)
+Food price index (2007=100)
+INCOME/CONSUMPTION DISTRIBUTION
+Gini index
+Low est quintile (% of income or consumption)
+Highest quintile (% of income or consumption)
+SOCIAL INDICATORS
+Public expenditure
+Health (% of GDP)
+Education (% of GNI)
+Net prim ary school enrollm ent rate
+(% of age group)
+Total
+Male
+Female
+Access to an im proved w ater source
+(% of population)
+Total
+Urban
+Rural
+Im m unization rate
+(% of children ages 12-23 months)
+Measles
+DPT
+Child malnutrition (% under 5 years)
+Life expectancy at birth
+(years)
+Total
+Male
+Female
+Mortality
+Infant (per 1,000 live births)
+Under 5 (per 1,000 live births)
+Adult (15-59)
+Male (per 1,000 population)
+Female (per 1,000 population)
+Maternal (per 100,000 live births)
+Births attended by skilled health staff (%)
+
+1980-85
+
+1990-95
+
+2006-12
+
+SubSaharan
+Africa
+
+Low erm iddleincom e
+
+0.7
+3.1
+21.8
+6.4
+
+1.0
+2.3
+23.0
+4.9
+
+1.2
+1.6
+22.8
+3.6
+
+911.5
+2.7
+36.8
+5.1
+
+2,507.0
+1.5
+38.9
+2.9
+
+..
+..
+..
+
+66.0
+..
+..
+
+63.0
+31.1
+73.1
+
+..
+..
+..
+
+..
+..
+..
+
+750
+31
+..
+
+1,410
+41
+..
+
+2,670
+150
+137
+
+1,350
+..
+..
+
+1,893
+..
+..
+
+..
+..
+..
+
+60.7
+2.7
+64.3
+
+51.5
+4.1
+56.6
+
+..
+..
+..
+
+..
+..
+..
+
+..
+..
+
+2.6
+..
+
+4.0
+6.0
+
+2.9
+4.3
+
+1.6
+4.3
+
+74
+72
+76
+
+74
+73
+75
+
+86
+86
+85
+
+76
+78
+74
+
+87
+88
+86
+
+..
+..
+..
+
+53
+85
+43
+
+69
+92
+61
+
+64
+85
+53
+
+88
+94
+85
+
+54
+61
+9
+
+94
+82
+..
+
+94
+89
+6
+
+72
+71
+21
+
+75
+73
+24
+
+57
+56
+59
+
+56
+55
+58
+
+45
+43
+47
+
+56
+55
+58
+
+66
+64
+68
+
+77
+107
+
+70
+98
+
+55
+78
+
+64
+98
+
+46
+61
+
+321
+232
+..
+..
+
+260
+196
+220
+56
+
+615
+639
+420
+69
+
+345
+306
+500
+46
+
+236
+163
+260
+57
+
+CAS Annex B5. This table w as produced from the CMU LDB system.
+03/31/14
+Note: 0 or 0.0 means zero or less than half the unit show n. Net enrollment rate: break in series betw een 1997 and 1998 due to
+change from ISCED76 to ISCED97. Immunization: refers to children ages 12-23 months w ho received vaccinations before one
+year of age or at any time before the survey.
+
+40
+
+Annex 6: Swaziland Key Economic Indicators
+
+Indicator
+National accounts (as % of GDP)
+Gross domestic producta
+
+Actual
+2008
+2009
+
+2007
+
+Estimate
+2011
+
+2010
+
+Projected
+2013
+2014
+
+2012
+
+2015
+
+100
+
+100
+
+100
+
+100
+
+100
+
+100
+
+100
+
+100
+
+8
+
+8
+
+8
+
+7
+
+7
+
+..
+
+..
+
+..
+
+..
+
+Industry
+
+47
+
+46
+
+46
+
+45
+
+44
+
+..
+
+..
+
+..
+
+..
+
+Services
+
+45
+
+46
+
+46
+
+48
+
+49
+
+..
+
+..
+
+..
+
+..
+
+100
+12
+6
+6
+
+104
+11
+6
+5
+
+106
+10
+5
+5
+
+102
+13
+8
+5
+
+99
+9
+4
+5
+
+97
+10
+5
+5
+
+92
+13
+7
+5
+
+102
+12
+6
+6
+
+91
+12
+6
+6
+
+65
+77
+
+59
+75
+
+59
+76
+
+53
+68
+
+64
+72
+
+53
+60
+
+40
+45
+
+53
+67
+
+39
+42
+
+Gross domestic savings
+
+0
+
+-4
+
+-6
+
+-2
+
+1
+
+3
+
+8
+
+-2
+
+9
+
+Gross national savings c
+
+13
+
+3
+
+-3
+
+3
+
+8
+
+20
+
+19
+
+5
+
+13
+
+3054
+
+3020
+
+3145
+
+3892
+
+4146
+
+4052
+
+3792
+
+3431
+
+4075
+
+2720
+
+2770
+
+2670
+
+2700
+
+2890
+
+3130
+
+3100
+
+2800
+
+2820
+
+Real annual growth rates (%, calculated from 00 prices)
+Gross domestic product at market prices
+3.5
+Gross Domestic Income
+3.5
+
+2.4
+2.4
+
+1.3
+1.3
+
+1.9
+1.9
+
+-0.7
+-0.7
+
+1.9
+1.9
+
+2.8
+2.8
+
+2.0
+2.0
+
+2.5
+2.5
+
+Real annual per capita growth rates (%, calculated from 00 prices)
+Gross domestic product at market prices
+2.0
+Total consumption
+2.9
+Private consumption
+3.4
+
+0.7
+7.0
+8.9
+
+-0.5
+2.1
+2.3
+
+0.2
+-4.8
+-7.3
+
+-2.2
+-8.6
+-8.8
+
+0.4
+-2.6
+-6.8
+
+1.3
+-4.2
+-4.2
+
+0.5
+15.4
+18.8
+
+1.1
+..
+..
+
+Agriculture
+
+Total Consumption
+Gross domestic fixed investment
+Government investment
+Private investment
+Exports (GNFS)b
+Imports (GNFS)
+
+Memorandum items
+Gross domestic product
+(US$ million at current prices)
+GNI per capita (US$, Atlas method)
+
+100
+
+Balance of Payments (US$ )
+Exports (GNFS)b
+Merchandise FOB
+
+1984000000 1794600000 1870400000 2026200000 2116849647 2141568149 1524369566 1833300000 1574300000
+1742500000 1570400000 1667200000 1805100000 1905749647 1927168149 1306669566 1609600000 1574300000
+
+Imports (GNFS)b
+Merchandise FOB
+Resource balance
+Net current transfers
+Current account balance
+
+2351700000
+1842500000
+-367700000
+314300000
+21700000
+
+2234300000
+1580300000
+-439700000
+211000000
+-237200000
+
+2443000000
+1789000000
+-572600000
+576400000
+-409600000
+
+2521500000
+1955000000
+-495300000
+436900000
+-388300000
+
+Net private foreign direct investment
+Long-term loans (net)
+Official
+Private
+Other capital (net, incl. errors & ommissions)
+
+14300000
+..
+-10032000
+..
+..
+
+82100000
+..
+22680000
+..
+..
+
+58900000
+..
+4802000
+..
+..
+
+131700000
+..
+-19249000
+..
+..
+
+Change in reserves d
+
+363052520
+
+162711955
+
+-12.0
+
+-14.6
+
+-18.2
+
+-12.7
+
+-2.4
+-1.3
+13.8
+0.6
+
+-18.5
+-16.2
+-8.5
+-3.8
+
+-6.2
+-3.5
+1.7
+11.1
+
+12.0
+2.1
+-26.1
+21.2
+
+Memorandum items
+Resource balance (% of GDP)
+Real annual growth rates ( YR00 prices)
+Merchandise exports (FOB)
+Primary
+Manufactures
+Merchandise imports (CIF)
+
+2525709734 2417269286 1720856075 2307100000 1709500000
+1949709734 1849269286 1153956075 1743900000 1709500000
+-408860087 -275701137 -196486509 -473800000 -135200000
+486300000 530800000
+..
+..
+..
+-368317220 132130706 198471623 -209300000 -250900000
+102300000
+..
+3019000
+..
+..
+
+37600000
+..
+-31330000
+..
+..
+
+66965922
+..
+7768000
+..
+..
+
+39400000
+..
+6672000
+..
+..
+
+-1700000 -230500000 -171981756
+
+-6133215
+
+90671642
+
+-73600000 -183700000
+
+-9.9
+
+-6.8
+
+-5.2
+
+-13.8
+
+-3.3
+
+2.0
+-2.3
+15.0
+-4.8
+
+-100.0
+-100.0
+-100.0
+..
+
+..
+..
+..
+..
+
+..
+..
+..
+..
+
+..
+..
+..
+..
+
+(Continued)
+
+41
+
+40000000
+..
+-7498000
+..
+..
+
+Swaziland Key Economic Indicators (Continued)
+
+Indicator
+Public finance (as % of GDP at market prices)e
+Current revenues
+Current expenditures
+Current budget surplus (+) or deficit (-)
+Capital expenditure
+Foreign financing
+Monetary indicators
+M2/GDP
+Growth of M2 (%)
+Private sector credit growth /
+total credit growth (%)
+Price indices( YR00 =100)
+Merchandise export price index
+Merchandise import price index
+Merchandise terms of trade index
+Real exchange rate (US$/LCU)f
+Real interest rates
+Consumer price index (% change)
+GDP deflator (% change)
+
+Actual
+2008
+2009
+
+2007
+
+Estimate
+2011
+
+2010
+
+Projected
+2013
+2014
+
+2012
+
+2015
+
+38.8
+24.1
+14.7
+8.3
+0.5
+
+38.6
+29.3
+9.3
+9.4
+-0.4
+
+34.6
+31.5
+3.1
+9.3
+1.3
+
+24.3
+29.1
+-4.8
+8.1
+-0.4
+
+23.9
+27.0
+-3.1
+3.4
+-0.5
+
+36.2
+27.3
+8.9
+4.1
+2.3
+
+35.1
+28.1
+7.0
+7.1
+5.3
+
+41.3
+33.5
+7.9
+10.9
+3.1
+
+37.8
+23.5
+14.3
+8.5
+3.4
+
+24.5
+21.5
+-71.5
+
+24.4
+15.4
+317.7
+
+27.7
+21.4
+-656.2
+
+28.0
+7.9
+-1.3
+
+26.8
+1.1
+89.0
+
+19.1
+-21.4
+-36.6
+
+18.1
+4.3
+-13.7
+
+20.3
+5.8
+-89.5
+
+20.3
+7.4
+179.6
+
+160.1
+141.2
+113.4
+
+176.5
+149.7
+117.9
+
+194.7
+147.4
+132.1
+
+197.6
+149.8
+131.9
+
+205.9
+158.3
+130.1
+
+..
+..
+..
+
+..
+..
+..
+
+..
+..
+..
+
+..
+..
+..
+
+198.3
+
+214.0
+
+192.5
+
+163.3
+
+160.6
+
+165.1
+
+179.1
+
+..
+
+..
+
+8.1
+4.1
+
+12.7
+13.3
+
+7.4
+5.5
+
+4.5
+5.0
+
+6.1
+6.4
+
+8.9
+8.4
+
+5.6
+7.2
+
+5.3
+-7.7
+
+5.2
+4.8
+
+a. GDP at factor cost
+b. "GNFS" denotes "goods and nonfactor services."
+c. Includes net unrequited transfers excluding official capital grants.
+d. Includes use of IMF resources.
+e. Consolidated central government.
+f. "LCU" denotes "local currency units." An increase in US$/LCU denotes appreciation.
+
+42
+
+Annex 7: Key Exposure Indicators
+
+Indicator
+Total debt outstanding and
+
+2007
+
+Actual
+2008
+2009
+
+Estimated
+2011
+
+2010
+
+2012
+
+Projected
+2014
+
+2013
+
+2015
+
+414
+
+501
+
+585
+
+698
+
+672
+
+568
+
+352
+
+958
+
+1165
+
+Net disbursements (US$m)a
+
+24
+
+0
+
+-20
+
+-27
+
+-36
+
+-37
+
+-37
+
+-35
+
+-33
+
+Total debt service (TDS)
+
+60
+
+60
+
+65
+
+62
+
+53
+
+65
+
+77
+
+80
+
+79
+
+disbursed (TDO) (US$m)a
+
+(US$m)a
+Debt and debt service indicators
+(%)
+TDO/XGSb
+
+18.3
+
+23.9
+
+27.0
+
+30.1
+
+28.1
+
+23.5
+
+19.6
+
+45.4
+
+74.0
+
+TDO/GDP
+
+13.6
+
+16.6
+
+18.6
+
+17.9
+
+16.2
+
+14.0
+
+9.3
+
+27.9
+
+28.6
+
+TDS/XGS
+
+2.6
+
+2.9
+
+3.0
+
+2.7
+
+2.2
+
+2.7
+
+4.3
+
+3.8
+
+5.0
+
+35.6
+
+30.5
+
+28.9
+
+23.9
+
+27.5
+
+30.0
+
+49.3
+
+18.9
+
+15.3
+
+IBRD DS/public DS
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+Preferred creditor DS/public
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+IBRD DS/XGS
+
+0.1
+
+0.3
+
+0.3
+
+0.2
+
+0.1
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+IBRD TDO (US$m)d
+
+20
+
+14
+
+8
+
+2
+
+1
+
+2
+
+10
+
+18
+
+26
+
+Concessional/TDO
+IBRD exposure indicators (%)
+
+DS (%)c
+
+Of which present value of
+guarantees (US$m)
+Share of IBRD portfolio (%)
+d
+
+IDA TDO (US$m)
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+3
+
+3
+
+2
+
+2
+
+2
+
+2
+
+2
+
+1
+
+1
+
+IFC (US$m)
+Loans
+Equity and quasi-equity /c
+MIGA
+MIGA guarantees (US$m)
+
+a. Includes public and publicly guaranteed debt, private nonguaranteed, use of IMF credits and net shortterm capital.
+b. "XGS" denotes exports of goods and services, including workers' remittances.
+c. Preferred creditors are defined as IBRD, IDA, the regional multilateral development banks, the IMF, and the
+Bank for International Settlements.
+d. Includes present value of guarantees.
+e. Includes equity and quasi-equity types of both loan and equity instruments.
+
+43
+
+Annex 8: Summary of Stakeholder Consultations
+The World Bank organized a series of consultations in May 2014 to engage partners on the
+proposed CPS. Bank staff delivered a brief presentation on the Swaziland’s development
+challenges and the proposed program pillars and invited stakeholders to offer input 16.
+Development Challenges. In general, there was agreement on the development challenges
+facing Swaziland. All of the stakeholders agreed that the high levels of poverty, inequality, and
+unemployment remain significant obstacles. While the Bank’s presentation suggested that the
+HIV/AIDS situation in Swaziland has stabilized, albeit at a high level, there was some concern
+that the focus on HIV/AIDS should not be lost in the new CPS.
+Governance and State capacity. All parties consulted agree on limitations in state capacity
+which undermines implementation of policies and service delivery. Some stakeholders identified
+the lack of political will to review the current system of Governance and the separation of
+powers. Cases of imprisonment of media representatives and unionists demonstrate that the
+Swazi public has no mechanism through which to voice their concerns. Other areas of concern
+include lack of accountability and transparency in the public service in general and public
+investments in particular.
+Investment climate and private sector competitiveness. Stakeholders cited the poor
+investment climate as a major barrier to economic growth. A number of challenges faced by
+firms were highlighted including bureaucratic processes and poor service delivery which raises
+the cost of doing business. Concerns were raised about the high costs and poor quality of
+telecommunications as well as the absence of competition in this sector. Some noted the high tax
+burden, especially for micro, small, and medium enterprises, coupled with financing constraints
+this impedes on MSME growth. Another concern was the cumbersome procedures and high costs
+of trading across borders. For Swaziland, a small state that depends heavily on the success of
+exporting for economic growth, lowering the cost (both in financial and in terms of time) of
+trading across borders is absolutely essential.
+Education and skills development. Another area of concern noted by stakeholders was the
+mismatch between the skills provided by the education system and the skill needs demanded by
+the private sector. There was concern that the quality of the education system is slipping, and that
+students graduating from secondary school are not equipped for success. There was also concern
+that tertiary institutions are not able to provide the skills that the private sector needs, and even
+are sometimes resistant to changes suggested by the private sector.
+Areas of collaboration Possible areas of collaboration were discussed with development
+partners. These included social protection; private sector development; agribusiness; building
+state capacities; and health.
+
+16
+
+Stakeholders consulted include: Government, UN Agencies, Chamber of Commerce, Civil Society Organizations,
+European Union, USAID.
+
+44
+
+X
+
+Global Fund for TBHIV and Malaria
+Japan
+
+X
+
+X
+
+MultiSector
+
+CrossCutting
+
+Capacity
+Building
+
+Social
+Protection
+
+Environme
+nt
+
+ICT
+
+X
+
+Silent
+3
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+Silent
+3
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+X
+
+X
+
+X
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+United States
+World Bank Group
+
+X
+
+X
+
+Taiwan, China
+United Nations
+
+X
+X
+
+BADEA
+European Union
+
+Governanc
+e1
+
+X
+
+Infrastruct
+ure
+
+X
+
+Fuel &
+Energy
+
+Agriculture
+
+African
+Development Bank
+
+Water &
+Sanitation
+
+Health
+
+Education
+& Training
+
+Annex 9: Coordination with Development Partners
+
+X
+
+X
+
+X
+
+X
+
+X
+
+Health
+The United States Government-funded President’s Emergency Plan for AIDS Relief (PEPFAR)
+continues to be the largest development partner funding activity across the continuum of
+HIV/AIDS and TB care in the areas of prevention, care and treatment, impact mitigation, and
+health systems strengthening. The Swaziland Country Coordinating Mechanism (CCM) has four
+active grants from the Global Fund to Fight AIDS, Tuberculosis, & Malaria, which support
+essential services in HIV/AIDS, TB, and Malaria on prevention, care and treatment and impact
+mitigation. However, these grants are coming to an end in 2014, and the CCM is currently
+developing three grant applications to the Global Fund for TB-HIV, Malaria and Health Systems
+Strengthening for the period 2014-2016. Japan International Cooperation Agency (JICA) is
+supporting government-owned, sustainable M&E capacity development through needs-based
+human capacity development training in line with the Government’s National HIV/AIDS
+Strategic Plan and HIV M&E Plan. The European Union contributes to development in the
+health sector through its co-financing of the ongoing World Bank/EU Health, HIV/AIDS, and
+TB Project, which focuses on primary health care, maternal and child health, and the HIV/AIDS
+and TB co-epidemic. The project also strengthens the social safety net for orphans and
+vulnerable children. The World Bank is also working on a regional initiative on tuberculosis in
+the mining sector.
+
+45
+
+Education
+The European Union continues to support the Government’s efforts to provide universal Free
+Primary Education by financing costs relating to Grade 1 students. Japan International
+Cooperation Agency (JICA) continues to support the improvement of secondary education by
+dispatching Experts / Volunteers on Mathematics/Science/ICT and constructing new secondary
+schools. The Bank’s recent activities in education have been limited mostly to two pieces of
+analytical work: a rapid assessment of technical and vocational education and training (TVET) in
+2013 and a study on the skills needed for agribusiness in 2014.
+Agriculture
+The European Union has financed significant interventions in the agriculture sector. The
+objective of the Swaziland Agriculture Development Project is to develop improved smallholder
+production and marketing systems which lead to sustainable food security and an improved
+quality of life for rural households in Swaziland. The EU is also preparing the new High Value
+Crop and Horticulture Project, which will support high impact commodity value chains with a
+focus on horticulture through strengthening of market finding, production planning, production,
+packing and collection of products. This new project will work through the Swaziland Water and
+Agricultural Development Enterprise (SWADE) and the National Agricultural Marketing Board
+(NAMBoard.)
+Infrastructure
+The European Union has been supporting agricultural infrastructure in two areas: 1) the
+upgrading of roads in the sugar belt to help decrease the costs of transporting sugar cane from
+smallholder farms to the mills; and 2) rehabilitation of irrigation canals. The EU also supports
+the implementation of small-scale community development infrastructure through the
+Government’s MicroProjects Programme (MPP.) These small-scale infrastructure projects are
+similar to those funded by the World Bank’s Swaziland Local Government Project (SLGP,) but
+are in different Tinkhundla (administrative districts) than those funded by the SLGP.
+Governance
+The European Union’s Governance Project will seek to improve public financial management by
+financing the implementation of an integrated financial management information system
+(IFMIS), as well as technical assistance relating to the implementation of the Public Financial
+Management Bill. The World Bank’s ongoing Swaziland Local Government Project focuses on
+improving governance at the municipality and Tinkhundla level.
+Social Protection
+The European Union is preparing a new project in the area of social protection, which will seek
+to build the capacity of the Government to manage social protection programs, and also to
+improve the effectiveness of existing social protection programs in Swaziland. The United
+Nations system continues to engage the Government on policy dialogue relating to social
+protection. Component 3 of the World Bank/ EU Health, HIV/AIDS, and TB Project is designing
+and implementing a pilot program to provide cash transfers to the households of orphans and
+vulnerable children.
+46
+
+Annex 10: Map of the Kingdom of Swaziland
+
+47
+
+

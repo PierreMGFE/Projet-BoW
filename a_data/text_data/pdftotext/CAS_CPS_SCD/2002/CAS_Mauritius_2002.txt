@@ -1,0 +1,7303 @@
+Public Disclosure Authorized
+
+Document of
+The World Bank
+FOR OFFICIAL USE. ONLY
+
+Public Disclosure Authorized
+
+REPORT No: 23904 MAS
+MEMORANDUM AND RECOMMENDATION
+OF THE INTERNATIONAL BANK FOR RECONSTRUCTION
+AND DEVELOPMENT
+TO THE
+
+Public Disclosure Authorized
+
+EXECUTIVE DIRECTORS
+ON A COUNTRY ASSISTANCE STRATEGY
+OF THE WORLD BANK GROUP
+FOR
+THE REPUBLIC OF MAURITIUS
+
+Public Disclosure Authorized
+
+April 9, 2002
+
+Country Department 8
+Africa Region
+This document has a restricted distribution and may be used by recipients only in the performance of their
+official duties. Its contents mnay not otherwise be disclosed without World Bank authorization.
+
+MAURITIUS
+COUNTRY ASSISTANCE STRATEGY
+CURRENCY EQUIVALENTS
+Currency Unit = Mauritius Rupee (Mau. Rs.)
+US$1 = Mau. Rs 30.3 (April 2002)
+WEIGHTS AND MEASURES
+Metric System
+FISCAL YEAR
+July 1 - June 30
+ACRONYMS AND ABBREVIATIONS
+ACP
+AGOA
+
+IMF
+IMR
+LRT
+MFA
+MDG
+MIGA
+MMM
+
+International Monetary Fund
+Infant mortality rate
+Light railway transit
+Multifiber Arrangement
+Millennium Development Goals
+Multilateral Investment Guarantee Agency
+Mouvement Militant Mauricien
+
+DRS
+ESW
+EPZ
+
+African Caribbean and Pacific
+The African Growth and Opportunity
+Act
+Country Assistance Strategy
+Central Electricity Board
+Chlorofluorocarbon
+Country procurement assessment
+review
+Debt reporting system
+Economnic and sectoral work
+Export processing zones
+
+MSM
+MTEF
+NEA
+
+FY
+EU
+GDP
+GEF
+
+Fiscal year
+European Union
+Gross Domestic Product
+Global Environment Facility
+
+NEAP
+NGO
+ODA
+OECD
+
+GOM
+HBS
+HCI
+HSC
+IBRD
+
+Government of Mauritius
+Household budget survey
+Head Count Index
+Higher School Certificate
+International Bank of Reconstruction
+and Development
+Information and Communication
+Technology
+International Development Association
+International Finance Corporation
+
+PER
+PERL
+PPP
+STC
+TFP
+
+Mouvement SocialisteMilitant
+Medium-term expenditure framework
+New Economnic Agenda, or Economic Agenda
+for the New Millennium
+National Environment Action Plan
+Non Governmental Organization
+Official Developmental Assistance
+Organization of Economic Cooperation and
+Development
+Public Expenditure Review
+Public Expenditure Reform Loan
+Purchasing power parity
+State Trading Corporation
+Total factor productivity
+
+U.S.
+
+United States
+
+WTO
+VAT
+
+World Trade Organization
+Value Added Tax
+
+CAS
+CEB
+CFC
+CPAR
+
+ICT
+IDA
+IFC
+
+Regional Vice President
+Country Director
+Task Manager
+
+Mr. Callisto Madavo
+Mr. Hafez Ghanem
+Mr. Willem van Eeghen
+
+FOR OFFICIAL USE ONLY
+MAURITIUS
+COUNTRY ASSISTANCE STRATEGY
+TABLE OF CONTENTS
+Executive Summary ......................................................
+
+I
+
+I. Background ......................................................
+What Drove the Diversification of Mauritius' Economy9 ...............................
+Economic Developments since the 1997 CAS ...........................................
+Mauritius' Progress in Meeting the Millennium Development Goals ...............
+Explaining Mauritius' Economic Perfornance ...........................................
+Outlook and t,he Emergence of New Challenges and Risks .............................
+
+3
+3
+6
+8
+8
+9
+
+I1. The Government's Economic Agenda for the New Millennium (NEA) ...............
+Competitiveness and Productivity .........................................
+Social Development and Cohesion .........................................
+The Environment .........................................
+Economic Management .........................................
+Legal, Constitutional, and Electoral Reform .........................................
+Autonomy of Rodrigues .........................................
+
+11
+12
+13
+14
+15
+15
+16
+
+111. World Bank Group Assessment of Mauritius' NEA .....................................
+Assessment of the NEA .........................................
+Education: The Socioeconomic Rationale for Education Reform .....................
+Social Cohesion: Getting a Grip on Inequality ...........................................
+Unemployment Could Harm the Social Fabric ...........................................
+Following Through on Anticorruption ............................................
+Legal Reforms Can Still Go Further .................................................
+
+17
+17
+17
+18
+18
+19
+19
+
+IV. The Experience under the 1997 CAS and the New CAS .............
+..................
+Bank Group Performance and Experience under previous CAS ......................
+The Bank's Existing Portfolio ............................
+The New CAS: PERLs and ESW ............................
+CAS Scenarios: Base Case and High Case ............................
+IBRD Exposure in Mauritius ............................
+Role of Other Donors ......................
+Risks and Mitigation Measures .28
+
+20
+20
+21
+22
+25
+26
+27
+
+Boxes
+Box I
+Box 2
+
+Poverty in Mauritius ....................... ,
+CAS Consultation Process .23
+
+5
+
+iii
+
+This document has a restricted distribution and may be used by recipients only in the
+performance of their official duties. Its contents may not otherwise be disclosed without
+World Bank authorization.
+
+Tables
+Table 1
+Table 2
+Table 3
+Table 4
+Table 5
+Table 6
+Table 7
+Table 8
+
+7
+Mauritius: Key Economic Indicators ...............................
+Status of Selected MDG Goals in Mauritius .
+............................... 8
+1997 CAS Activities: Planned and Achieved ............................... 20
+21
+World Bank Portfolio in Mauritius ...............................
+25
+Economic and Sector Work, 2002-2004 ...............................
+CAS Triggers, 2002-2004 ...............................
+26
+26
+Lending Scenarios ...............................
+................. 28
+Total Development Assistance, 1999 ..............
+
+Annexes
+Annex 1
+Annex 2
+Annex 3
+Annex 4
+
+Policy Matrix
+External Financial Requirements and Sources
+Summary of Government Finances
+Summary of Government Finances (as percentage of GDP)
+
+Annex Al
+Annex A2
+Annex B2
+Annex B3
+Annex B3
+Annex B4
+Annex B5
+Annex B6
+Annex B7
+Annex B8
+Annex B8
+Annex B1O
+
+Key Economic and Program Indicators-Change from Last CAS
+Mauritius at a Glance
+Selected Indicators of Bank Portfolio Performance and Management
+IBRD/IDA Program Summary
+IFC and MIGA Program Summary
+Summary of Nonlending Services
+Poverty and Social Development Indicators
+Key Economic Indicators
+Key Exposure Indicators
+Operations Portfolio (IBRD/IDA and Grants)
+Statement of IFC's Held and Disbursed Portfolio
+Surnmary of Development Priorities
+
+iv
+
+EXECUTIVE SUMMARY
+
+i.
+Mauritius is a development success story. At independence in 1968, the country was
+poor, with a nominal per capita of about US$260. Today, nominal income per capita is
+US$3,800. Mauritius has turned its ethnic diversity into a major economic asset. The country has
+taken judicious advantage of business links throughout the world and preferential access to key
+markets. Fueled by booming exports, Mauritius became a middle-income country. It has a stable
+government, a reliable and independent judiciary, and well performing public institutions.
+However, there remain pockets of poverty. Selected groups have not fully benefited from
+Mauritius' strong growth. But the nature and depth of poverty in Mauritius is distinctly less
+severe than the poverty levels observed in neighboring African countries. As most of the poor
+have access to key social services, the issue in Mauritius is more one of social exclusion than of
+abject poverty.
+ii.
+The last Country Assistance Strategy (CAS) was presented to the Board in 1997 (R97-55,
+dated April 22, 1997). Since then, Mauritius' economic and social performance has continued to
+be among the most impressive in the developing world. Today, the main pillars of the Mauritian
+economy are sugar, higher-end textile production and up-scale tourism. The Mauritian
+authorities are fully aware that preferential market access will come to an end and the existing
+economic base will increasingly be subject to stiffer competition. In response, the Government
+has embarked on an ambitious economic program, the New Economic Agenda (NEA), also
+referred to as the Economic Agenda for the New Millennium.
+iii.
+The NEA is expected to advance Mauritius to the next phase of development. Its three
+key objectives are to: (i) increase Mauritius' competitiveness; (ii) bring about deeper social
+development and social cohesion; and (iii) preserve and protect Mauritius' fragile environment.
+The NEA is expected to further diversify the Mauritian economy into a high-skill services sector
+endowed with an efficient public sector delivering quality services, and a modem infrastructure
+consisting of new public transport systems and state-of-the-art inforrnation technology. The NEA
+is also expected to provide more opportunities for those who have not fully benefited from the
+country's past economic performance as well as those selected groups who may be negatively
+affected by the transformation of the economy. The NEA also provides mechanisms for ensuring
+that growth remains sustainable and does not negatively affect Mauritius' fragile natural
+environment.
+iv.
+The most important requirement for the success of the NEA is the expansion of education
+with a major increase in its quality. Education is the one area where Mauritius' success does not
+measure up to the performance of countries with similar levels of per capita income. Too many
+children, especially from poorer families, drop out of school; the quality of schools, the great
+majority of which are publicly financed, greatly varies and tends to be biased towards the better
+off. Many skills taught at technical schools are of little relevance to the demands of today's labor
+market. Mauritius continues to rely on expatriate workers. At the same time, unemployment is
+increasing, especially among school leavers. Other development areas that deserve greater focus
+include: (i) social programs and their effectiveness; (ii) environmental issues, including the
+development of new modes of transport; and (iii) public resource management and the
+management of contingent liabilities.
+
+v.
+The Government of Mauritius is fully aware of the challenges that it faces in the
+implementation of the NEA. It has asked for increased Bank support with changes in the levels
+and composition of Bank assistance. In response to the Govermment's request, the Bank has
+developed this CAS. It puts greater emphasis on Economic and Sector Work (ESW) that is
+tightly linked to the Government's NEA. The ESW will be carried out jointly by a variety of
+Mauritian institutions, other donors and the Bank, under all CAS scenarios. The Bank lending
+operations under this CAS would consist of PERLs and are designed to fully support the NEA.
+The timing of these lending operations will coincide with Mauritius' budget cycle so that
+proceeds of World Bank loans are available at the beginning of Mauritius' fiscal year. All
+project-specific investment lending will be phased out. The base case of the CAS consists of
+financial assistance totaling up to US$80 million for FY02-04. In the high case, the Bank could
+lend up to US$120 million for FY02-04. In the low case scenario, Bank assistance will be
+restricted to one operation of US$40 million to support the NEA. The success in implementing
+policies to support the NEA will determine the volume of the Bank's financial support during the
+FY02-04 period. These NEA policies have already been identified by the Government and are
+described in the policy matrix attached to this CAS.
+vi.
+The strategy faces three risks: i) key NEA policy reforms may fall short; (ii) reform
+implementation delays occur and efforts fail to bring the education system up to international
+levels; and (iii) there is insufficient fiscal adjustment. The CAS describes the Bank's response if
+any of these risks materialize.
+vii.
+
+The following issues are suggested for Board discussion:
+* Does the Board consider that the Bank's strategy adequately addresses the development
+issues facing Mauritius ?
+*
+
+Does the Board consider the proposed instruments, the emphasis on ESW, and the shift to
+PERLs to support Government's NEA appropriate ?
+
+2
+
+MEMORANDUM OF THE PRESIDENT OF THE INTERNATIONAL BANK FOR
+RECONSTRUCTION AND DEVELOPMENT
+TO THE EXECUTIVE DIRECTORS ON A
+COUNTRY ASSISTANCE STRATEGY OF THE WORLD BANK GROUP
+FOR THE REPUBLIC OF MAURITIUS
+"It is going to be a great achievement if Mauritius can find productive employment for its
+population without a serious reduction in the existing standard of living.... The outlook for
+peaceful development is poor. " 1
+James Meade, Nobel Prize Winner, 1961
+I. BACKGROUND
+1.
+James Meade turned out to be mistaken. Contrary to the predictions of the eminent Nobel
+Prize winner, Mauritius became a development success story. Since independence in 1968,
+Mauritius has been among the few African countries that have moved decisively to the next stage
+of development. Between 1970 and 2000, the annual income of the average Mauritian increased
+tenfold in nominal terms, from US$260 to US$3,800, as the economy successfully diversified
+away from sugar and into manufacturing and services.
+What Drove the Diversification of Mauritius' Economy?
+2.
+The early 1970s were characterized by bumper sugar harvests. In 1975, cyclone Gervaise
+slashed sugar production by 30 percent, but the economy quickly recovered. However, in the
+1980s, fundamental disequilibria in the economy became apparent. Cyclone Claudette
+exacerbated the underlying weaknesses in the economy, and GDP in 1980 fell by a record 10
+percent. To lessen its vulnerability to such shocks, Mauritius started to diversify its economy
+Annual GDP growth rates well above five percent became the norm. This growth was
+spearheaded by production in the export processing zones (EPZ), a competitive exchange rate
+and by savings and investment rates exceeding 20 percent of GDP. Today Mauritius' GDP per
+capita is the second highest in Africa. Mauritius' vulnerability to economic shocks has decreased
+considerably over the past two decades. Agriculture, which accounted for 23 percent of GDP in
+1970, now accounts for only 6 percent, while manufacturing has jumped from 15 to 24 percent of
+GDP over the same period.
+An Early Realization of the Importance of Exports
+3.
+Mauritius was the first African country to create EPZs. Unlike later investors in other
+African EPZs, most investors in Mauritius' EPZs were nationals. Those Mauritian entrepreneurs,
+whose ancestors came from India, France, China and other countries, took advantage of links
+with their countries of origin. Exceptional export performance propelled Mauritius to higher
+standards of living. On a per capita basis, Mauritius' manufactured exports are more than one
+hundred and fifty times that of the average Sub-Saharan African country. Today, Mauritian
+exports exceed US$1 billion in industrial and processed products; the median African country
+'Meade J.E., and others (1961), "The Economic and Social Structure of Mauritius".
+
+3
+
+exports about US$28 million of similar goods. Mauritian investors have also become important
+players in the development of lower end textile production at low labor cost in neighboring
+countries.
+4.
+Throughout the years, Mauritian policymakers have paid special attention to exchange
+rate developments, striking a balance between maintaining international competitiveness while
+avoiding major shocks and maintaining the type of stability that is valued by international
+investors. At the end of January 2002, net international reserves amounted to about seven months
+of imports.
+Creditworthiness:Among the Best Developing Countries
+5.
+Mauritius' creditworthiness is underpinned by its strong economic performance over the
+last two decades. External and internal debt is at manageable levels. In the World Bank's debt
+reporting system, Mauritius is classified as a moderately indebted middle-income country, along
+with countries such as Chile, Malaysia, Tunisia, and Uruguay. Mauritius' long-term government
+bonds denominated in foreign currency carry a Moody's rating of Baa2, the same as Korea and
+Malaysia. Long-term bonds denominated in domestic currency are rated A2, comparable to the
+rating for Greece and Poland. Mauritius was one of the few developing countries whose rating
+was not revised downward in the wake of the September 11 events.
+6.
+Total external debt outstanding is currently about US$1.8 billion or about 39 percent of
+GDP. Total external debt service payments amount to 7.3 percent of exports of goods and
+services. Central Government's external debt represents less than 25 percent of total external
+debt. The domestic debt of the central Government represents about 44 percent of GDP. Overall,
+and compared with other developing countries, the existing debt of the Mauritian government is
+moderate.
+Poverty Declined
+7.
+Since independence, poverty in Mauzitius has dramatically declined. In 1968, most of the
+population lived on less than US$1 a day. Today, virtually no Mauritian does. The most recent
+poverty line that was used for policy purposes was set at a level well above US$1 a day and was
+defined at a monthly income of less than Rs2,228 per adult- about US$116 in real terms or
+US$328 in purchasing power parity (PPP) terms (see Box 1). The latest household budget survey
+(HBS) of 1996/97 shows that 9.4 percent of adults then lived under this poverty line of Rs2,228
+per adult. The GINI coefficient, a common measure of income inequality, 2 has declined from 0.5
+in 1962 to 0.42 in 1975, and to 0.39 in 1996/97. However, between 1991/92 and 1996/97,
+income equality deteriorated slightly, although the change is not statistically significant.
+Nevertheless, the authorities are keenly aware of the potential for social exclusion caused by
+deteriorating income distribution. New household data are expected to be available in the fall of
+2002, upon completion of the 2001/02 HBS survey.
+8.
+The quality of Mauritian life has increased across the board; 84 percent of households
+have piped water and 99 percent have access to electricity. Improvements in health and
+2
+
+GINI= 0 means that everyone has the same income; GINI = 1 means that all income accrues to one person.
+
+4
+
+education indicators are equally impressive. Life expectancy at birth increased from 63 in 1970
+to 71 years in 2000. Infant mortality dropped from 64 per 1,000 live births in 1970 to 17 in 1999.
+Mauritius is proud of its fairly generous welfare system, which has contributed to maintaining
+social cohesion within an ethnically and religiously diverse population.
+Box 1. Poverty in Mauritius
+Mauritius does not have an official and uniform poverty line, so time trends in poverty are hard to
+construct. For practical purposes, the authorities use a poverty line which is set at 50 percent of the
+median monthly per capita income The latest Household Budget Survey (HBS) was carried out in
+1996/97. A 2001/02 HBS is underway and results are expected in November 2002. Although the
+quality of the data is good, their use in designing antipoverty policies is limited. The Government has
+asked the Bank for technical assistance in building local capacity to undertake poverty diagnostic
+work.
+According to the 1996/97 HBS, the median monthly income per adult was Rs4,456 (about US$233 per
+month, or US$657 adjusted for PPP). About 9.4 percent of the adult population lives on half this sum
+or less, and is considered poor. The additional monthly income the average poor adult would have to
+earn was estimated at Rs49 (i.e., an estimated poverty gap of 2.2 percent). Thus the depth of poverty
+in Mauritius is relatively low: a total transfer of about 0.9 percent of GDP would be required to lift
+every adult in Mauritius out of poverty.
+The island of Rodrigues is clearly the poorest region of Mauritius with 37.6 percent of the adult
+population considered as poor. Other poor regions include Pamplemousses and Flacq where,
+respectively, 10.3 percent and 10.4 percent of the adults live on a monthly income of less than
+Rs2,228. The differences in poverty rates across regions suggest that there is scope for geographical
+targeting to reach the poor.
+Poor families typically have a larger than average family size. School drop-out and repeater rates are
+also significantly higher for children from poorer families. The incidence of poverty among singleheaded households is four times higher than the national average. Virtually all of these single parent
+households are headed by females, mostly unwed, abandoned, or divorced mothers. These poor
+households face significant risks of social exclusion.
+Women are Playing A Greater Role
+9.
+Mauritius has made major progress in enhancing the status of women. A sizable gender
+gap in young adult literacy in 1970 has been eliminated. Secondary school and tertiary
+enrollment rates are now the same for women as for men. Female labor participation was about
+38 percent in 1999. Female representation in the National Legislative Assembly has increased
+from zero in 1976 to 10 percent now (6 out of 62 parliamentarians). Similar trends can be
+observed in female representation in municipal and village councils.
+Awareness of the Importance of Governance
+10.
+Mauritian policymakers are keenly aware of the importance of good governance. In June
+2000, the Economic Crime and Anti-Money Laundering Act was passed. An independent
+commission against corruption will be established this year, headed by a judge or an individual
+5
+
+with the qualifications to hold office as a judge of a supreme court. On governance, the
+Government aspires to be at par with OECD countries and the best performing East Asian
+countries. The Government has contracted high quality consultants with broad experience to
+assist in the promotion of good governance and the fight against corruption. It has also published
+a code of good conduct for civil servants addressing issues such as conflict of interest and
+potential abuse of power.
+Transparency of Decision Making
+11.
+On the whole, the internal policymaking process is transparent. The press is free and
+provides ample space for opposing views. Radio and TV ownership is being diversified.
+Decisions made at weekly cabinet meetings and important information reports, including IMF
+and World Bank reports, are published on Government websites.
+12. There are several fora for discussion and debate with civil society, trade unions, and
+employers' federations. These fora include the Mauritius Council of Social Services grouping
+Mauritius' most relevant NGOs, the National Trade Unions Confederation, the Federation of
+Civil Service Unions, the Joint Economic Council, the Mauritius' Employers' Federation, the
+Tripartite Committee on Wage Negotiation, and the newly formed National Economic and Social
+Council. The reconstruction in the aftermath of the January 2002 cyclone Dina and the
+restoration of key services illustrate the ability of different parts of Mauritian society to work
+together and show a sense of national purpose and unity. At the same time, freedom of speech,
+the diversity of ownership within the media, a history of religious freedom, and the peaceful
+coexistence of groups of very different ethnic backgrounds, education, and religions, are
+indications of the depth of Mauritius' democratic foundations.
+Economic Developments since the 1997 CAS
+13.
+Since the last CAS-presented to the Board in April 1997-Mauritius has maintained its
+strong economic performance.. GDP growth has remained high, averaging more than 5.4 percent
+per year between 1996 and 2000. In FY99/003 , sugar production was seriously affected by a
+drought and GDP fell to 2.6 percent. GDP recovered in FYOO/0l: real GDP growth amounted to
+7.2 percent, with all sectors recording positive growth. The inflation rate for FYOO/01 decreased
+to 4.4 percent-below the target of 5 to 5.5 percent. Exports to the U.S. increased dramatically
+prior to the September 11 events as a result of the African Growth and Opportunity Act 2000
+(AGOA). The Act offers tangible incentives for African countries to continue their efforts to
+open their economies and build free markets.
+14. Between 1997 and 2000, personal incomes increased at a pace well above regional
+averages. With an average annual population growth rate of 1.2 percent, and in the absence of
+major changes in income distribution, poverty declined rapidly. In the year 2000, Mauritius per
+capita income of US$ 3,800 was the second highest in Africa. In PPP terms, it was US$9,940 a
+level comparable with the richer Latin American countries.
+
+3
+
+The fiscal year starts on July 1. FYOO/0 1 thus covers the period July 1, 2000 through June 30, 2001.
+
+6
+
+15.
+External shocks have affected growth for the FY01/02 fiscal year. Since September 11,
+export growth to the United States fell and foreign direct investment declined. Furthermore, even
+though Mauritius was spared the collapse in tourism experienced elsewhere following the
+September 11 event, the sharp increase in the number of tourists, occurring in the first half of
+2001, came to an end. In January 2002, Mauritius was hit by Dina, the most severe cyclone
+(category 4) in five years causing significant damage.
+16.
+Considering these shocks, Mauritius' economy is proving to be remarkably resilient: the
+economy is projected to grow by about 5.3 percent in real terns in FY01/02. For FY02/03, real
+GDP is projected to grow by about 4.6 percent in spite of a reduction in sugar production as a
+result of cyclone Dina. Inflation however is expected to edge upward as a result of an increase in
+food prices. The budgetary fiscal deficit is expected to remain at about 6.5 percent of GDP for
+FY01/02.
+
+Table 1. Mauritius: Key Economic Indicators
+Period averages (fiscal years)
+1981-85 1986-90 1991-95 1996-00
+GDP growth (% per year)
+11on-Sugar gr. (CY)
+Changes in CPI (avg - % per year)
+Per Capita Income (USD)
+
+Estirnates
+1999/00 2000/01a
+
+5.1
+4.2
+7.8
+1,130
+
+6.9
+8.1
+8.3
+2,153
+
+5.0
+6.1
+6.6
+3,251
+
+5.4
+6.0
+6.2
+3,770
+
+2.6
+5.8
+5.3
+3,814
+
+Per capita GNP US(PPP)
+Literacy rate
+Life expectancy
+Infant mortality
+
+77
+68
+25.6
+
+80
+70
+20.4
+
+82
+70
+19.6
+
+85
+71
+18.8
+
+9,940
+85
+71
+18.8
+
+17.0
+
+As percent of GDP
+Gross domestic investment
+Gross domestic savings
+
+20.7
+18.8
+
+28.6
+25.3
+
+28.8
+24.3
+
+26.2
+24.4
+
+25.7
+23.7
+
+24.4
+25.3
+
+25.1
+25.3
+
+Total revenue
+Total expenditure
+Overall fiscal balance
+
+22.4
+29.7
+-7.4
+
+23.3
+25.1
+-1.8
+
+20.1
+23.9
+-3.6
+
+19.6
+24.8
+-5.0
+
+20.4
+24.6
+-3.8
+
+18.3
+24.8
+-6.6
+
+18.3
+24.8
+-6.5
+
+External current account balance
+Total extemal debtc
+Domestic debt (central govt.)
+
+-3.2
+52.5
+..
+
+-0.6
+39.8
+27.0
+
+-2.2
+37.2
+31.8
+
+-0.9
+42.4
+39.6
+
+-1.6
+41.1
+41.6
+
+1.8
+38.7
+43.7
+
+1.7
+39.4
+44.9
+
+12.7
+
+14.1
+
+..
+
+..
+
+0.6
+1117.9
+
+3.2
+2227.2
+
+17.1
+-1.3
+4.3
+3527.4
+
+23.9
+1.9
+3.1
+4326.1
+
+25.5
+5.8
+2.9
+4423.8
+
+27.6
+2.8
+3.3
+4500.3
+
+30.4
+-3.3
+3.8
+4537.3
+
+Memo:
+Exchange rate (Rupees/US$)
+REER (avg annual change) '
+Gross foreign reservesd
+GDP in $US million
+
+7.2
+5.9
+4.4
+3,800
+
+Projection
+2001/02
+5.3
+5.0
+6.0
+3,830
+
+85
+
+Notes: (a) Preliminary Estimate; (b) For 1990 only; (c) includes ST debt, about 15 percent of GDP in 00/02;
+(d) in months of imports; (e) Real Effective Exchange Rate, "minus" is depreciation; CY denotes calendar years.
+Source: Government of Mauritius and Bank/IMF estimates andprojections
+
+7
+
+Mauritius' Progress in Meeting the Millennium Development Goals
+17.
+Mauritius is among the few countries in Africa that has either met, or is highly likely to
+meet all but one of the Millennium Development Goals (MDGs) by the year 2015. Virtually no
+one in Mauritius suffers from hunger or lives on less than US$1 a day. The overwhelming
+majority of the population has access to safe drinking water. Primary education is universal. One
+MDG that Mauritius is unlikely to meet is the reduction by two-thirds of the child mortality rate
+(IMR). Mauritius' IMR stands currently at 17 deaths per 1,000 live births. This is below the IMR
+in most middle income countries. Bringing the 1IMR down from 17 to 6 (below the level the USA
+has today) is considered unlikely given Mauritius' level of income especially in the various
+pockets of poverty in selected areas of Mauritius. On the whole, Mauritius' development
+challenges go well beyond the reaching of the MDGs and focuses on success fully guiding
+Mauritius to the next level of development.
+Table 2. Status of Selected MDG Goals in Mauritius
+
+Goal
+Eliminate child malnutrition
+
+STATUS
+
+Almost achieved; likely to be fully
+achieved by 2015
+Achieved
+Achieved
+Unlikely
+Almost done; likely to be fully achieved
+by 2015
+Achieved
+
+Achieve universal primary education
+Achieved gender equality in schools
+Reduce child mortality by two thirds
+Reduce matemal mortality by three quarters
+Maintenance of low HIV/AIDS Prevalence
+Ensure environmental sustainability
+
+Likely
+
+Explaining Mauritius' Economic Performance
+18.
+Between independence and 1990, Mauritius' economic growth was primarily driven by
+the accumulation of inputs: the use of more labor and more capital led to higher production. In
+the 1990s, however, growth was driven by strong increases in 4 productivity: total factor
+productivity (TFP) increased by an average of 1.4 percent per year, and compared favorably
+even with increases in TFP of East Asian countries such as Korea and Malaysia.
+19.
+Mauritius has not always followed orthodox economic policies. While exports clearly
+played the major role in the "Mauritian miracle", views differ on the effectiveness of
+Government interventions in key markets, such as that for essential commodities and the labor
+market. In the EPZs, exporting firms were able to import inputs duty free and benefited from a
+variety of tax incentives. However, overall trade practices remained fairly restrictive, 5 and only
+recently have trade policies become more liberal. On balance, however, the Government was
+able to manage the effects of the economic incentives. The labor market for the export sector was
+
+measures efficiency in the use of labor and capital. It embodies technical progress, better allocation of
+resources, etc.
+5 Subramanian and Roy (2001), "Who Can Explain the Mauritian Miracle: Meade, Romer, Sachs, or Rodrik?" IMF
+Working Paper.
+4TFP
+
+8
+
+effectively segmented from the rest of the economy, and exporting firms were able to flexibly
+expand or reduce the labor force in response to changing market conditions.
+20.
+A key factor in explaining Mauritius' success seems to be its judicious use of preferential
+trade agreements; most notably, the country has taken advantage of guaranteed sugar exports to
+the European Union and preferential access to consumer markets for exports of textiles and
+clothing under the Multifiber Agreement (MFA). Rents accruing to Mauritius as a result of these
+preferential trade agreements are estimated to be about 4.5 percent of GDP in the 1990s. The
+very fact that Mauritius was, and still is, able to take advantage of these opportunities points to
+the strength of its institutions. Government, entrepreneurs, and workers worked together, and
+differences were not used as sources of division but as opportunities to develop national welfare.
+Outlook and the Emergence of New Challenges and Risks
+21.
+Overall economic prospects remain good and the immediate economic impact of
+September 11 seems to be less severe than originally envisaged. The Government is keenly
+aware of the challenges and is taking steps to position the country for entry into its next phase of
+development
+Challenges
+22.
+First, the diversification of the country's economic base needs to be further expanded.
+Mauritius is a small open country, vulnerable to developments beyond its control. The
+remarkable performance in sugar and textiles was based not just on sheer entrepreneurial
+competence but also on stable and predictable revenues coming from preferential access to the
+European and U.S. markets. However, preferential trade agreements and the resulting
+possibilities to indirectly subsidize exporters are gradually being phased out under new WTO
+rules. This loss in preferential treatment will be offset by easier market access for Mauritian
+exporters, alongside other exporting African countries, under the recently approved AGOA. As a
+result of AGOA, trade with the U.S. during the first six months of 2001 was 24 percent higher
+than in the first half of 2000. However, this initial spurt of exports emanated from new buyers in
+the U.S, and following the September 11 events, orders from new buyers dropped by 50 percent
+as they preferred to rely on established lines of supply. Orders remained normal from existing
+U.S. buyers already doing business with Mauritius before AGOA. In the medium- to long-run,
+Mauritian textile producers will face intensified competition from new low-cost labor garment
+producers such as Madagascar (which also benefits greatly from AGOA), China, Vietnam,
+Bangladesh, and other Asian countries.
+23.
+Moreover, the tourism sector could be sensitive to an economic downturn in Europe. So
+far, the sector has responded remarkably well to the September 11 events. Tourism capacity is
+still being expanded in Mauritius, and further growth is still envisaged. In the long run however,
+tourism will face saturation and capacity constraints given the size of the island and its
+environmental fragility. Mauritius thus needs to encourage new growth sectors that can move the
+country toward its next phase of development.
+24.
+Second, human capital needs substantial improvement. The prevailing vision among
+policymakers in Mauritius is to create a deeply democratic society anchored in a knowledge9
+
+based economy similar to that of Singapore. However, such a strategy crucially depends on
+human capital and the quality of the labor force. Mauritius' current labor force is ill-equipped to
+match the labor force of knowledge-based societies. On average, a Mauritian worker has had
+seven years of education compared to more than ten years for the average worker in Singapore
+and nine years in countries, such as China and Korea. Thus the education system has not been
+able to keep pace with the requirements of the country's fast growing economy.
+25.
+In terms of the quality of education, Mauritius also falls short compared to Singapore. A
+1999 international student achievement test showed that Singaporean students top the list of 38
+participating countries (mainly high-income) for mean achievement scores in mathematics, and
+were second (after Taiwan) in science. 6 Mauritius, on the other hand, has not yet participated in
+these international student achievement tests, and it is likely that achievement outcomes in
+Mauritius will show important gaps compared to countries with similar levels of income.
+26.
+Moreover, about one third of children, mainly from poorer families, do not make it
+beyond the primary level. In some of the poorer regions such as the Black River District and the
+island of Rodrigues, the primary school pass rates are as low as 38 percent and 54 percent
+respectively. Children from poorer families do not get the academic assistance and the tutoring
+required to complete schooling. Unless addressed over a prolonged period of time, the existing
+system will contribute to the creation of a class of citizens who are ill-equipped for the 21St
+century and run a considerable risk of being unemployed or socially excluded.
+27.
+Public spending on education in Mauritius increased during the last decade, from about
+3 percent of GDP in 1991 to about 4 percent in 1999. However, it remains relatively modest
+compared with other upper-middle-income countries where total spending on education (public
+and private combined) typically amounts to about 8 percent of GDP. Although education is
+nominally free, Mauritians spend a substantial share of their income on private tutoring, which
+has become an additional revenue source for teachers. More than 50 percent of Mauritian
+households reported monthly expenditures on private tutoring.
+28.
+Third, Government's public finances need to be restructured. The NEA and Mauritius'
+vision of moving to the next phase of development entails ambitious plans and large public
+investments. The low level of tax revenues combined with increased levels of public spending is
+putting pressure on the budget and presents the authorities with difficult choices. Tension is
+increasing between, on the one hand, low taxation to encourage private investment, and on the
+other, the large public investments planned by the Government. The result is a budgetary deficit
+currently around 6.5 percent, as noted above.
+29.
+At the same time, Mauritius still has a large public enterprises sector that rely on financial
+support from the Government. Some-most notably the State Trading Corporation (STC) and
+the Central Electricity Board (CEB)-have large debts and had large operating deficits in 2001
+when international oil prices were high and domestic prices were not adjusted. The Government
+is undertaking a comprehensive overview of its contingent liabilities linked to the Public
+Enterprises Sector. Even though oil prices have been brought in line with international prices and
+the deficits of CEB and STC have been reduced, it is possible that this review of contingent
+6
+
+IEA, TIMSS, Science Achievement in Middle School Years (1999).
+
+10
+
+liabilities will lead to an increase in public debt. To meet the goal of reducing its central
+government budget deficit by about one percentage point of GDP per year and bringing it down
+to about 3 percent of GDP by FY05/06, the Govemment will need to manage its fiscal policies
+carefully by phasing public investments and by taking additional revenue measures.
+30.
+Government's debt levels are manageable in spite of relatively high fiscal deficit of about
+6.5 percent of GDP. With the measures that Government is taking and the expected reduction of
+the fiscal deficit, debt levels are expected to remain manageable in the foreseeable future. The
+Memorandum of the President on the proposed PERL (Report No. P-7518-MAS) accompanying
+this CAS, contains a description of Government's debt strategy under different scenarios . Given
+the current macroeconomic outlook, the expenditure and revenue measures currently being
+undertaken by Government, central government debt is expected to peak at about 53.7 percent of
+GDP in FY03/04 and to decline thereafter. Similarly, central government debt service as a share
+of government revenues will increase slightly to about 23 percent by FY04/05, and decline
+thereafter. Thus, the implementation of NEA is expected to result in only a temporary increase in
+indebtedness. In the event though of low GDP growth rates or disappointing levels of tax
+revenues, a further restructuring of public finances will be required. The sensitivity analysis
+contained in the proposed PERL illustrates the viability of Government's debt strategy under the
+different scenarios but the analysis highlights the need for close monitoring of fiscal policies.
+31.
+Fourth, social exclusion and poverty remain on the policy agenda, and unemployment is
+on the rise. Persistent pockets of poverty continue to exist, especially in Rodrigues, where
+income levels and social indicators are below those on the main island. There are also large
+important geographical differences in poverty. The existing welfare system is generous but falls
+short in protecting the most vulnerable segments of the population and preventing social
+exclusion.
+32.
+Between 1996 and 2000, employment increased by only 10,900 jobs in large enterprises
+and by 21,000 jobs in small- and medium-scale enterprises. This increase in employment is
+lower than the new demand for jobs; thus, unemployment is rising. At the same time, Mauritius
+employs 15,000 expatriate workers (about 3 percent of the total labor force) mainly in the EPZs.
+The majority of EPZ workers are women. Migrant EPZ workers are mainly from China, India,
+and Sri Lanka. They work long hours and live in quarters provided by their employers. The
+minimum wage for women was 30 percent below that of men when EPZs were created in the
+1970s, EPZ wages were equalized in the early 1980s. Today, the overall unemployment rate
+among women is slightly higher than that for men. In spite of recent progress, only a quarter of
+managerial posts are occupied by women.
+II. THE GOVERNMENT'S ECONOMIC AGENDA FOR THE
+NEW MILLENNIUM (NEA)
+33.
+Following elections in September 2000, the labor Government that ruled the country
+since 1997 was replaced by an alliance of the Mouvement Socialiste Militant (MSM) and the
+Mouvement Militant Mauricien (MMM). On February 15, 2002, the president of Mauritius,
+Mr. Cassam Uteem, resigned from his post. Mr. Karl Offman was elected by the Mauritius
+National Assembly on February 25 to fill the post of president. As part of the agreement between
+11
+
+MSM and MMM, the current prime minister, Sir Anerood Jugnauth (leader of the MSM), will
+become president within 18 months and will be replaced as Prime minister by Mr. Paul
+Berenger, the leader of the MMM.
+34.
+As soon as the MSM-MMM Government came to power in September 2000, it undertook
+an analysis of the challenges facing the Mauritian economy and formulated an Economic Agenda
+for the New Millennium (NEA). The NEA aims to transform Mauritius into a high-tech, highincome service and knowledge economy and its key objectives are:
+A. Increasing competitiveness and productivity to maintain and increase the high rates of
+growth, thus reducing poverty and increasing incomes and social well-being;
+B. Bringing about deeper social development and social cohesion through (i) higher
+quality education and more equitable access; (ii) social assistance that reaches the poor
+more efficiently and is financially sustainable; and (iii) improved and financially
+sustainable healthcare; and
+C. Preserving and protecting Mauritius'fragile environment to ensure that higher growth
+is enviromnentally sustainable.
+35.
+Substantial progress has been made thus far in the implementation of many policy actions
+designed to achieve these objectives. The budget was also realigned to meet strategic priorities,
+with expenditures being focused on education, environment, infrastructure, and poverty.
+Competitiveness and Productivity
+36.
+Faced with the need to diversify its economy in order to maintain strong economic
+growth, Mauritius has undertaken several concrete actions. The Sugar Industry Efficiency Act
+was passed in 2001. Implementation of the Sugar Sector Strategic Plan embodied in the Act was
+also started in the same year. In addition to reducing the production costs in the sugar sector, the
+Government is promoting a voluntary retirement scheme for sugar-related companies. Around
+6,000 to 8,000 workers in the sector-20 to 25 percent of the workforce-will take early
+retirement.
+37.
+The textile sector has been until now one of the country's key sectors under the
+preferential trade agreement with the European Union. This will come to an end by December
+2004, and an action plan to guide the necessary transition of the sector has been completed. On
+tourism, the Government has produced a tourism development plan with a twenty-year vision
+and a five-year action program to create the necessary regulatory and institutional framework for
+tourism development.
+38.
+To support the move to a more service based economy, the regulatory framework for the
+information and communications technology (ICT) and financial sectors has been overhauled.
+The Government is actively seeking foreign investments in the ICT sector by developing a
+package of incentives and through the creation of a Cyber City that is expected to be completed
+by September 2003. In addition, the Government is actively encouraging international companies
+
+12
+
+to relocate their regional headquarters in Mauritius. Reforms in the financial sector have
+accelerated under the Financial Services Development Act 2001, which creates a nonbanking
+financial sector regulator covering insurance, the stock market, and pensions. This body, the
+Financial Services Commission, is responsible for overseeing all nonbanking financial bodies
+and promoting efficiency and transparency and is now operational. In addition, this new
+institutional and regulatory framework will harmonize the offshore and onshore sectors,
+introduce coherent supervisory standards and promote good governance and investors'
+confidence.
+39.
+To further enhance efficiency and reduce rates for international connectivity,
+Government plans to fully liberalize its telecommunication sector by 2003. After considerable
+delay, Mauritius' privatization plans got off the ground with the sale of shares for Mauritius
+Telecom in November 2000. Radio and TV broadcasting services are also being liberalized.
+Strategic partners are being sought for other related public utility enterprises such as the
+electricity company.
+Social Development and Cohesion
+40. The Government is focusing on reforms in four areas critical to promoting social
+development and cohesion: (i) education and training; (ii) poverty; (iii) social programs; and
+(iv) health.
+Education and training
+41.
+Education is critical not only to support a highly skilled labor force but also as one of the
+prime instruments in preventing social exclusion and reducing poverty. Mauritius has been
+successful in reaching universal primary education. However, 35 percent of students fail the
+primary education completion exam, and at the secondary and tertiary levels, the net enrolment
+ratios are significantly lower than required for economic growth. The Government's focus is on
+improved quality, efficiency, and equity of access in education and training. An ambitious
+reform of the education and training system is being undertaken, including (i) increasing the
+number of years of compulsory schooling from six to eleven, (ii) improving equity and cost
+efficiency and increasing access at primary and secondary levels, (iii) introducing ICT in primary
+and secondary schools, and (iv) improving the quality and relevance of the curricula and
+restructuring the examination system. This reform will better enable the Mauritian economy to
+adapt to global competition and participate in the e-economy.
+42.
+Increased public spending on education and training and more private sector involvement
+and financing is necessary to implement this ambitious agenda. Government spending on
+education amounts to about 4 percent of GDP, which Government realizes is insufficient to
+achieve its desired goals. Thus in FY01/02, capital expenditure on education and training
+increased by 58 percent. Around Rsl.1 billion (US$36 million) was allocated for FY01/02 for
+construction of new secondary schools and a similar amount is planned for FY02/03. School
+intake capacity in Rodrigues is expected to double. The Govermnent is aware that the upgrading
+of its education system will require sustained effort and increased levels of spending for about
+
+13
+
+five to eight years. Skills will also need to be upgraded to face the challenges of a modem labor
+market.
+Poverty
+43.
+The Government is giving top priority to the poverty reduction through the
+implementation of the National Action Plan for Poverty Alleviation by a partnership of the
+public and private sectors with civil society. In addition, significantly greater public
+investment-over one billion rupees in FYO1/02-is being allocated to the island of Rodrigues,
+where the poverty head count index is well above the national average. The Government is also
+extending existing micro finance schemes to target community development and diversify the
+areas of intervention. Lastly, it is undertaking a series of housing improvements for the poorest
+segments of the population.
+Social programs
+44.
+Govermment has an array of social assistance programs in place, including flour and rice
+subsidies, income support for individuals with special needs, and housing assistance. However,
+all these programs need to be more efficiently targeted to the poor. The Government thus plans
+to move away from broad categories of social assistance and its beneficiaries and provide
+opportunities focused on those of the poor who meet specific qualifications. Mauritius also plans
+to modernize its current pension system to ensure its financial viability and equitable
+distribution. The goal is to provide adequate care for the poor while offering the better off
+opportunities to make voluntary provision for themselves. A comprehensive analysis of the
+options for reform has been completed, and a national white paper is under preparation for
+national debate.
+Health
+45.
+Mauritius also plans to modernize the provision and financing of health services;
+currently it is under great pressure from the demands of a rapidly aging population and the
+growing burden of noncommunicable diseases, in particular cardiovascular disease and diabetes.
+The Government has commissioned a study on the use of an insurance scheme to finance
+incremental high-cost tertiary services while maintaining free basic services. The report is
+currently being examined.
+The Environment
+46. The Government's agenda for the preservation of the environment focuses on solid and
+liquid waste management and transport. Government has added Rs600 million (US$19 million)
+to its budget to accelerate the installation of sewerage projects or. the island. An additional
+40,000 households are expected to be connected to the sewerage network in the coming years.
+Government also plans to commission a waste-to-energy incinerator of a capacity of about
+150,000 tons/year on a Build-Own-Operate basis. Tenders for the project will be launched this
+year. In addition, Government is exploring the possibility of further extending the existing
+landfill or establishing a new landfill at an alternative site.
+
+14
+
+47. Government has been seeking an alternative mode of transportation along the Port LouisCurepipe corridor to reduce significantly both congestion and levels of pollution. The most likely
+option is a light rail transport system. Further, unleaded petroleum will be introduced as soon as
+possible, customs duties on all chlorofluorocarbon (CFC) and ozone-depleting cylinders have
+been raised by 40 percent, and duty on ozone-friendly cylinders has been abolished. A national
+council is also being created to promote the use of renewable energy and study the feasibility of
+windmills.
+48. Finally, Government is currently implementing the National Environment Action Plan 2
+(NEAP 2). Investments in the areas of biodiversity and coastal zone management as well as land
+conservation and management will be made. To improve environmental management, training
+and technical assistance will be provided to strengthen policy planning and build institutional
+capacity. Training will include environmental impact assessment review and the licensing and
+monitoring of mitigation plans.
+Economic Management
+49. The key to achieving the three objectives of the NEA is sound economic management.
+Government recognizes the need to move to multiyear budgeting and introduce clearer links
+between development objectives and the budgetary process. The Government has embarked on
+reforms aimed at introducing a medium-term expenditure framework (MTEF) as a first step. The
+goal will be to facilitate the achievement of development objectives and guide budget
+formulation and budget execution. The MTEF is expected to improve the predictability of
+resource flow to the ministries and enhance accountability and service delivery.
+50. Government has also announced it would consolidate public finances, publish central
+government accounts, wind up off-budget funds associated with the privatization funds, confer
+greater independence upon the Bank of Mauritius in the conduct of monetary policy, and
+gradually reduce the budget deficit to about 3 percent of GDP by the end of its mandate in
+FY05/06. To counteract the decline in tax revenues from 18 percent to 16 percent of GDP that
+occurred under the previous government, the new administration announced an increase in the
+value-added tax (VAT) from 10 percent to 12 percent and a reduction in tax exemptions. Other
+revenue measures designed to increase the tax base are also planned.
+Legal, Constitutional, and Electoral Reform
+51.
+The Mauritian legal and judicial system is sound and effective. Nonetheless, it can be
+further improved through modernization and strengthening, particularly in the judiciary.
+Mauritius is also keen to improve its political process and plans to undertake electoral reforms.
+52.
+Mauritian laws are updated continually. To move toward a more high-tech, service based
+economy, Mauritius has recently passed wide-ranging legislation to make needed changes in
+economic and financial law and address the challenges of terrorism 7.8 The Government places
+
+7 These include the Companies Act 2001, the Trusts Act 2001, the Financial Services Development Act 2001, the
+Investment Promotion Act 2001, and the Financial Intelligence Unit Bill 2002.
+
+15
+
+anticorruption and fraud high on its agenda. The Prevention of Corruption Act 2002, recently
+approved, seeks to establish an independent commission against corruption to detect and
+investigate corruption and money laundering offenses.
+The Government appointed an independent commission-the Sachs Commission-in
+53.
+December 2001 to provide recommendations on legal and constitutional reforms. These
+recommendations are currently being reviewed by Govemnment and discussed by the National
+Legislative Assembly. There is a consensus that: (i) the dual role of the Supreme Court as the
+highest court of first instance in the country and as a court of appeals should be discontinued; (ii)
+a separate court of appeals be established; and (iii) both courts should be staffed by different
+judges. Thus the terms of reference of the Sachs Commission was "to separate the Appellate
+Division of the Supreme Court from other divisions", recommending an appropriate structure.
+The proposed reorganization would prevent conflicts of interest, increase expertise, and improve
+the working conditions of the judges. The Commission also examined how the quality of the
+judicial system could be improved. To strengthen public prosecution, the commission
+recommended that a separate department be established to support the director of Public
+Prosecutions with a team of professional prosecutors that has the training and experience
+necessary to carry out the prosecutor's vital function.
+54.
+Mauritius also seeks to continue the process of strengthening its democratic system and
+modernizing the political process. Thus, the Sachs Commission provided recommendations for
+improving the election process and called for a draft bill for public funding of political parties.
+The following additional recommendations were made:
+a) Presidential discretion in selecting a prime minister from outside the majority party;
+b) Proportional representation in the National Legislative Assembly in the selection from
+party lists of 30 out of 92 parliamentary representatives; a minimum vote of 10 percent to
+be required for representation; selection from the constituencies for the remaining 62
+representatives to continue;
+c) Increased participation of women in politics;
+d) Registration of corporate financing for political parties; higher ceilings for electoral
+expenditures by candidates and political groups; and
+e) Strengthening of electoral logistics, to include independent setting of the dates for
+elections and adoption of a code of behavior for electoral candidates and the media.
+Autonomy of Rodrigues
+55.
+In January 2002, the Rodrigues Regional Assembly and the Amendment to the
+Constitution of Mauritius Act came into force. The Act provides for a decentralized form of
+government and the establishment of a Rodrigues regional assembly. The regional assembly is
+mandated to deal with the administration of Rodrigues and with issues such as the granting of
+investment and building permits. It will also have a greater say in the design of the school
+curricula to better reflect the history and ethnic origins of the island. In the future, Rodrigues will
+be allowed to expand the levying of selected local taxes and decide upon their use. In the
+8 The Prevention of Terrorism Bill which has been approved by Parliament, is a direct response to Resolution 1373
+
+of the UN Security Council, of which Mauritius is a member.
+
+16
+
+meantime, however, Rodrigues will continue to rely almost exclusively on transfers from the
+Government of Mauritius.
+III.WORLD BANK GROUP ASSESSMENT OF MAURITIUS' NEA
+Assessment of the NEA
+56. The NEA is a sound and bold strategy. The time is ripe to embark on its implementation.
+In general, the very high degree of local ownership is the key strength of Mauritius' development
+program. Mauritius' reform programs are seldom forced by fiscal or balance of payments crises,
+but are self-designed and self-imposed. As a result, program execution mirrors program design to
+a very large extent. Mauritius draws expertise from within the country and from a variety of
+external sources. The Bank has been asked to assist in the formulation of selected sector plans,
+but is by no means the sole advisor in any sector.
+57. Government is fully aware of the need to make hard budgetary choices to achieve the
+objectives of the NEA without undermining the soundness of public finances or the sustainability
+of its debt. In the Letter of Development Policy accompanying the proposed PERL, Government
+has outlined a number of key policy measures that will reduce the fiscal deficit by about one
+percentage point of GDP a year while redirecting public spending from recurrent to capital
+spending in high priority areas. At the same time, planned expenditures are being phased
+carefully so as to prevent expenditure bunching, and match the absorptive capacity of the
+responsible institutions. To set clearer spending priorities and improve the management of public
+resources, Government has decided to introduce a MTEF and has asked the Bank to provide
+assistance in developing and implementing it. The Bank plans to respond to this request and
+conduct a comprehensive Public Expenditure Review (PER) with the authorities in FY02/03.
+Education: The Socioeconomic Rationale for Education Reform
+58. Among the high priority areas, the authorities' focus on education is particularly
+opportune. It has the potential to create a cohesive society consisting of knowledgeable, highly
+skilled, and flexible citizens who are able to derive their livelihood from a variety of economic
+activities. However, significant investments and policy reforms in education are needed to fully
+achieve its goals, both economic and social.
+59.
+
+Economic rationalefor education reform. As mentioned earlier, education reform is
+
+necessary for economic growth because of the country's shortfalls in comparison with competing
+high-skill economies. The education gap between Mauritius and East Asian countries is
+particularly large and will take between ten and twenty years to eliminate. Government has
+candidly admitted that reforms in education are long overdue and that Mauritius needs to catch
+up if it is to be successful in creating a skills-based economy. The Government also recognizes
+that competitiveness can no longer originate from low-cost labor but will need to rely on
+increased labor productivity.
+
+17
+
+60. Social rationaleforeducation reform. The social dimension of Mauritius education
+reform program is at least as important as the economic dimension. The Mauritian education
+system is elitist. Many Mauritians, especially those that have attended the so-called "starschools," have excelled and now live in conditions similar to well-off middle-class citizens in
+OECD countries. However, selected segments of the Mauritian population have been left out of
+the benefits of Mauritius' development success. Virtually all of those are school dropouts who
+have not completed secondary school, and have low levels of skill. For them, stories of the
+Mauritius' "economic miracle" do not correspond to their day-to-day reality. They experience
+long periods of unemployment and have difficulty with educational expenses for their children.
+And they face the humiliation of their own children dropping out of school, as they did, at an
+early stage. They fear that their children will fall prey to drug abuse or criminal activities.
+Government is fully aware of the role of education in preventing such social exclusion.
+61. The Government's education strategy is a courageous yet overdue move to do away with a
+system that creates a privileged elite. Previous attempts to reform education proved politically
+controversial and led to the fall of an earlier MSM-MMM coalition Government in 1995. The
+current education reform plan is also controversial and entails difficult negotiations on key issues
+such as tne number of subjects, teacher workload and retraining, and the composition of the
+classrooms, with poorer and richer children mixed in the same classroom. For all these reasons,
+the dialogue that Government conducted at the initial stages of the reform was arduous. Now,
+however, it is moving along well. All parties accept the need for reform. The Bank actively
+supports the proposals to make quality education much more accessible to broader segments of
+Mauritian society. The Government realizes that education reform of the type envisaged is a
+long-term objective, and requires sustained policy attention and extensive dialogue with all
+concerned: teachers, unions, parents, and employers. The Bank would continue to provide
+support for reforms in the education sector throughout the CAS period.
+Social Cohesion: Getting a Grip on Inequality
+62. Mauritius has done remarkably well in maintaining social cohesion between different
+ethnic groups and reducing poverty, but inequality remains an issue. The inhabitants of
+Rodrigues for example, have not fully benefited from the Mauritian "economic miracle". More
+attention will need to be given to providing ample opportunities to disadvantaged groups and
+protecting the most vulnerable in Mauritian society.
+Unemployment Could Harm the Social Fabric
+63. Unemployment is rising and presents a threat to maintaining the social fabric. Between
+1990 and 2000, the demand for jobs has increased by a total of 19 percent. New jobs on the other
+hand increased by only 15 percent. The high level of demand for jobs stems partly from the
+rapidly increasing numbers of educated women seeking work. Among the unemployed, 36
+percent did not pass the certificate of primary school education exam. Another twenty percent
+did attend secondary school but did not complete secondary education. Thus many of the
+unemployed feel rejected twice-first in failing their exams at school and then in the labor
+market. In that sense, Government's policy of increasing educational quality and reducing
+dropouts may help solve part of the skills mismatch that currently characterizes the labor market.
+
+18
+
+64.
+Several policy actions will need to be pursued vigorously in order to reduce
+unemployment and create jobs for those entering the labor market. First, the increase in labor
+productivity will need to exceed the increase in real wages. Second, hurdles to job creation for
+new entrants to the labor markets need to be removed by, for example, encouraging a greater use
+of temporary employment contracts. Third, education needs to be better tailored to the needs of
+the labor market, and incentives for on-the-job training may need to be provided. Greater
+flexibility may also be needed to help two members of one household to work for example by
+encouraging part-time work, providing childcare close to the work place, or providing children
+of working parents with more public transportation to the schools they attend. The Government
+and the World Bank have agreed to carry out joint studies aimed at addressing the
+unemployment problem.
+Following through on Anticorruption
+65.
+As mentioned earlier, the new Government was elected on an anticorruption platform and
+its anticorruption legislation and program are advanced and address the key challenges.
+Implementation and follow-through on this agenda will be essential throughout the CAS period
+if broad support for the reform program is to be sustained.
+Legal Reforms Can Still Go Further
+66.
+On legal reform, there remain areas where legislation could be improved and where the
+modernization of the legal system should be actively pursued. An example cited by the Mauritian
+business community is labor law. Also, the increased focus on information technology makes it
+critical for legislation to keep up with advances in the sector. The Law Reform Commission
+established in 1992 should be revived and supported with greater resources and staff. It would
+thus be enabled to pursue its mandate to manage the law reform process.
+67.
+One of the most important problems facing the judicial system is attracting the most
+qualified legal experts to the judiciary and providing the appropriate incentives to retain them for
+lengthy careers. At present, turnover is very high. Judges are given substantially lower
+remuneration packages than private sector lawyers, so the attractiveness of a judgeship is
+significantly reduced despite the prestige attached to the position. The loss of valuable
+experience and continuity is a high cost of this rapid tumnover; reducing this loss by increasing
+the financial incentives for long-term service would in fact prove cost effective in the long run.
+Furthermore, although the integrity of the judiciary is well respected, poor remuneration could
+leave some judges vulnerable to outside financial influence. Finally, the inadequate number of
+judges leads to overworked magistrates, a lengthy backlog of cases, and a judicial system that is
+slow and unable to respond to the needs placed on it by civil society. Reorganization of the
+judicial system is critical to improving the efficiency of the system.
+68.
+Following the September 11 events, the Mauritian National Legislative Assembly
+enacted a tough antiterrorist bill. Members of the parliamentary opposition opposed the bill and
+Mr. Cassam Uteem, the president of the republic who had proposed amendments to the bill that
+were rejected by the Assembly, resigned. In light of the overall strength of Mauritian institutions
+and the nature of the legislation, the recent resignation is not expected to have a major effect on
+
+19
+
+governance, the Government's economic program, or the effectiveness of Bank-supported
+interventions.
+IV. THE EXPERIENCE UNDER 1997 CAS AND THE NEW CAS
+Bank Group Performance and Experience under Previous CAS
+69.
+Mauritius has been a Bank borrower for the last 22 years. The last IDA credit was given
+in 1974. In the 1980s, the Bank supported macroeconomic and sectoral policy reforms through
+quick-disbursing loans. Following the success of the structural adjustment effort, the Bank has
+focused on project lending.
+70.
+The 1997 Country Assistance Strategy was aimed at assisting Mauritius to support
+productivity growth to (i) improve the quality of human resources; (ii) develop high-quality
+public sector services; (iii) reduce protection and provide incentives to raise investment and
+productivity; and (iv) protect the environment by addressing ecology and waste management.
+Table 3. 1997 CASActivities: Planned and Achieved
+Fully
+achieved
+
+Planned Activity
+Lending
+
+Health ($10 million)
+Environment ($15 million)
+Financial Infrastructure ($5 million)
+
+Partially
+achieved
+
+Not
+undertaken
+
+/
+v
+
+Economic and Sector Work
+
+Public Expenditure review
+Country Economic Memorandum
+Long-term perspective study
+Civil service reform
+Welfare state reform
+Labor market reform
+Health sector review
+Education
+Transport Strategy
+
+v
+
+v
+
+/
+X
+
+v
+_
+
+_
+
+V
+
+__
+
+V
+
+71.
+Many of the structural issues described in this CAS were already identified during the
+1997 CAS. Most notable were Mauritius' reliance on preferential trade agreements and the
+weakness in Mauritius' education system. However, until the September 2000 elections, the
+vigor with which Government addressed the key structural challenges fell short of the
+expectations laid out in the 1997 CAS. The Bank's support during the previous CAS period
+targeted the financial, infrastructure, and environmental sectors. However, many activities
+envisaged under the previous CAS did not materialize, including an operation in the health sector
+and some key analytical work, such as an education study and a health sector review. While
+each of the existing projects as well as the new projects performed satisfactorily with very high
+20
+
+portfolio performance indicators (percentage of projects at risk at zero, pro-activity and realism
+ratings at 100 percent, etc.) the assistance package as a whole did not have the strategic impact
+that was originally foreseen.
+72.
+There are many reasons for the divergence between CAS plans and actual achievements.
+One important reason was the wait-and-see attitude on the part of the prior Government on key
+policy reforms; this was especially true of those affecting Mauritius' social fabric and those that
+are politically difficult to implement, such as overhaul of the education system. The Bank was
+too optimistic about its ability to influence the policy dialogue and carry out an ambitious
+analytical agenda. On the whole, the Bank's role in helping the prior Government to anticipate
+and solve its structural problems and formulate timely policy responses to new challenges was
+more limited than anticipated.
+The Bank's Existing Portfolio
+
+73. The Bank currently has three projects in its portfolio, supporting the financial and
+infrastructure sectors, for a total commitment of US$19 million equivalent and undisbursed
+balances of US$11.2 million. The Financial Sector Supervisory Authority project was recently
+approved by the Board and is expected to be implemented quickly. All projects under
+implementation are rated as satisfactory and are meeting their development objectives. A Port
+Development and Environmental Protection project of US$30.5 million was recently closed.
+Table 4. World Bank Portfolio in Mauritius
+(as ofMarch 25, 2002)
+
+Env. Sewerage & Sanitation
+Financial Sector Infrastructure
+Financial Sector Supervisory
+
+Approval
+Date
+
+Effectiveness Date
+
+Closing
+Date
+
+Net Com.
+(US$mil)
+
+Undisb.
+(US$mil)
+
+2/12/98
+4/4/00
+
+2/3/99
+7/24/00
+
+6/30/03
+6/30/03
+
+12.4
+4.8
+
+7.2
+2.2
+
+4/30/04
+
+1.8
+
+1.8
+
+19.0
+
+11.2
+
+12/4/01
+
+Authorityv
+
+TOTAL
+
+74.
+The Bank has also been supporting environmental management through several Global
+Environment Fund (GEF) funded operations. The Biodiversity Restoration Project, closed at the
+end of 2001, supported technology to help propagate critically endangered endemic plant species
+on Ile aux Aigrettes, Round Island and Rodrigues. As a result, Ile aux Aigrette is almost back to
+its original vegetation, while the follow-up GEF-funded Restoration of Round Island project
+(US$750,000) will continue the long-term efforts needed to restore Round Island. Discussions
+are also under way with Government for possible further GEF support in the area of integrated
+coastal zone Management for the main land, the Islets and Rodrigues. Lastly, the Bank is also
+managing two sub-regional GEF-funded operations under COI (Commission de l'Ocean Indien),
+the Regional Oil Spill Contingency Planning Project and the Regional Coral Reef Monitoring
+Project.
+
+21
+
+The New CAS: PERLs and ESW
+A Series of PERLs Based on Prior Actions
+75.
+The Bank lending and non-lending program contained in this CAS supports the
+Government's NEA. The financial assistance would consist of a series of public expenditure
+reform loans (PERLs) that will support the Government's reform agenda. The processing of the
+PERLs would be timed so as to coincide with Government's own budget cycle. The first PERL
+(Memorandum of the President, Report No. P-7518-MAS) that accompanies this CAS could thus
+be disbursed before the beginning of Government's new fiscal year on July 1, 2002. Follow-up
+PERLs would be timed to coincide with Mauritius' budgetary cycle so that proceeds of World
+Bank loans are available at the beginning of Mauritius' fiscal year. Thus, the World Bank would
+provide a regular and predictable source of long-term finance in support of Govermment's NEA.
+All planned lending, with the exception of IFC, MIGA, and Global Environment Facility (GEF)
+operations, would take place under the umbrella of the PERLs. World Bank financing of
+individual new projects would be phased out and implementation of existing projects would be
+accelerated.
+76.
+The support proposed under the first PERL is justified by the actions undertaken by the
+Government under the FY01/02 budget. This budget translates Government's vision of creating a
+knowledge-based economy into concrete policy measures and related budget allocations. The
+budget was approved by the National Legislative Assembly in July 2001. Thus, an important first
+step has been taken in restructuring Mauritius' public finances and aligning budget resources
+with the needs of the NEA. The accompanying Memorandum of the President of the first PERL
+provides the full details and the justification for the proposed support.
+Easing the Transition
+77.
+The availability of the financing provided through the first PERL and subsequent PERLs
+is expected to ease the transition towards a restructured budget that is in line with the
+requiremnents of the NEA. The reform measures embodied in the NEA require substantial
+additional financial resources over a prolonged period of time. For example, to move to the next
+level of development, teachers will need to be recruited and trained, new schools need to be
+built, and virtually all new schools will need to be equipped with information technology in the
+next three years. This will cause a spike in public spending. Although there is scope for
+efficiency measures in education, both the authorities and the Bank realize that it will take time
+before these efficiency measures yield results. Bank financing would support the transition
+toward an education system that is in line with the requirements of a modern economy. At the
+same time, Bank will support other reforms that contribute to reducing the budget deficit.
+Heavy Reliance on ESW
+78.
+To support the NEA, analytical and economic and sector work (ESW) will need to be
+strengthened considerably. An amnbitious ESW agenda has been designed and agreed upon with
+the Government and selected donors. This ESW agenda would be funded and carried out jointly
+
+22
+
+with the Government, civil society, and selected donors, such as the UN system, the European
+Union and the African Development Bank.
+Box 2: CAS ConsultationProcess
+,xtensive CAS consultations were held with the following institutions: Anou Diboute Ensam; AntiErosion Programme; Basic Education for Adolescents (VEFA); Board of Investment; Caritas; Federation
+of Civil Service Unions; Joint Economnic Council; Mauritius Council of Social Services (MACOSS);
+Mauritius Employers Federation; Mauritius Freeport Authority; Mauritius Labor Congress; National
+Handicraft Promotion Agency; National Trade Unions Confederation; Plantation Workers Union; Trust
+Fund of the Social Integration of Vulnerable Groups of the Ministry of Finance; Rodrigues Council of
+Social Services; Rodrigues Women's Regional Committee; and Transparency International.
+During the CAS preparation mission held in November 2001, two focus groups were organized by staff of
+the Trust Fund of the Social Integration of Vulnerable Groups. The first group met in the Northeastern
+part of the island and was made up of unemployed men and women in their 40s and 50s. This group had
+primarily been employed in the area at recently closed textile factories. They were let go with few or no
+benefits and, generally, have no other skills. The majority in this group were women with children, who
+were divorced or abandoned by their husbands. The second group was made up of fishermen from the
+Southwestern part of the island, one of the poorer groups in the country. Discussions with this group
+focused on the difficulties faced by fishermen in earning a living.
+A round of CAS consultations was held in January 2002. These consultations were held in part in
+Rodrigues and covered a variety of Government funded poverty alleviation programs. In addition,
+extensive consultations were held with a number of labor unions to discuss, in particular, the proposed
+reforms in education. The Mauritian press (TV, radio, and newspapers) provided extensive coverage of
+these consultations.
+On the whole, NGOs were satisfied with the consultation process, the openness of the discussions and the
+opportunity to express views and debate development issues. The NGOs expressed the need for followthrough on the discussions held with Government and the Bank, and the desire for genuine cooperation.
+Some NGOs expressed skepticism of the Bank's intentions and recalled the experience of the adjustment
+process in the early 1980s. Among those who recalled this adjustment experience, it was viewed as
+imposed from above and as being unnecessarily painful.
+Discussions were also held with the key donors such as the African Development Bank, the European
+Union and the United Nations Development Programme. Draft documents were shared early and
+agreements were reached on exchange of information and collaboration on joint pieces of ESW.
+Rationalefor the FY02-04 Strategy
+79.
+This CAS is based on an ambitious ESW program and brings all World Bank financial
+assistance under the umbrella of a series of PERLs. The Bank supports the objectives and the
+vision underpinning the NEA and the Government of Mauritius has requested the Bank to
+provide financing to directly support the NEA. This financial assistance would be timed so as to
+coincide with the budget cycle followed in Mauritius. The Bank has also been requested to reorient its ESW program to focus on areas most relevant to the successful implementation of the
+NEA.
+
+23
+
+80.
+This request draws upon the lessons of the previous CAS. Even though the Government
+found the advice and financing provided under the previous CAS through individual projects and
+selected ESW to be useful, it nevertheless feels a different and more flexible approach is required
+to meet its current needs. Government also feels that the cost of Bank project financing is
+relatively high. Based on Mauritius' reputation and credit ratings, Government is able to secure
+project financing on terms that are more competitive than those offered by the World Bank.
+However, few of Mauritius' other partners has the ability to provide both long-term financing as
+well as relevant policy advice in support of the overall development program. This unique ability
+of the World Bank underlies Government's request and the design of the CAS.
+81.
+In principle, Government could finance higher public spending advocated by the NEA
+through increased domestic borrowing, as it has done in the past. However, Government wishes
+to limit domestic borrowing to avoid crowding out private sector financing. Mauritius has an
+open capital account and assuming that enterprises have the tools to hedge themselves against
+foreign exchange risks, Mauritian enterprises could, in theory, borrow from abroad and thus
+avoid high domestic interest rates. In practice, however, Mauritian firms have relied almost
+entirely on long-standing relations with domestic banks and the rolling over of short-term credit
+to meet the need of firms for term finance. It will take time before Mauritian firms start
+borrowing abroad and in foreign exchange. As Mauritius' external debt is at comparatively low
+levels in relation to its GDP and its exports, the Government has decided to diversify the sources
+for its financing needs. Recourse to World Bank financing fits within the overall debt financing
+strategy of the Mauritian Government.
+82.
+From the Bank's perspective, the "umbrella" type of assistance requested by the
+Mauritian government makes sense. Mauritius has a development and economic performance
+track record that is among the strongest in the developing world. The country also has developed
+proven institutional capacity to formulate and successfully implement medium-term
+development plans. The CAS builds on this track record by using existing structures to channel
+and deliver Bank financial assistance. Contrary to other developing countries, Mauritius needs
+neither special World Bank project management units nor earmarked extra-budgetary funds to
+implement its NEA. The Bank has reviewed and assessed the accountability framework of public
+expenditures. A Country Profile of Financial Accountability (CPFA) was carried out in
+September 1998 and an update was made during a November 2001 mission. In February 2002,
+the Bank also carried out a Country Procurement Assessment Review (CPAR). The conclusion
+of both the CPFA and CPAR confirmed the overall positive assessment of public sector
+management. In terns of key tests such as timeliness of budget approval, execution of approved
+budget, preparation of annual accounts, and publication of audit findings, the Bank found the
+Mauritian perfonnance to be among the best in the developing world. The discrepancy between
+budgeted and actual expenditures for example is minimal and deadlines for budget preparation,
+approval and audits have been met without exception for the last decade. Public sector
+procurement practices were found to be of high quality with respect to transparency and choice
+between competing bids.
+83.
+In terms of policy measures, the proposed PERLs build on the findings and
+recommendations of a 1999 Public Expenditure Review (PER) as well as a number of sectoral
+studies carried out with Bank assistance, such as the Transport Master Plan and NEAP 2.
+
+24
+
+Through the PERL, the Bank would support policy measures that it has been discussing with the
+Mauritian authorities as a result of past ESW.
+84.
+Moreover, the PERLs are expected to yield economies of scale by being more cost
+efficient than a series of individual projects, as supervision missions for multiple projects and
+separate procurement and disbursement procedures would no longer be needed. All activities
+would be carried out under the umbrella of the PERL. By centering all Bank activities around
+Government's NEA, and designing a program of ESW jointly with the Government, the Bank
+can play the role of knowledge broker and leverage its funds with those of Govermment and those
+other donors.
+CAS Scenarios: Base Case and High Case
+85.
+In the base case of the CAS, the Bank will lend up to US$80 million for the period FY0204 through two individual PERLs of up to US$40 million each, one in FY02 and one in FY04. In
+the high case, the Bank will undertake three annual PERLs, thus increasing the lending envelope
+to up to US$120 million over three years. In the low case of the CAS, Bank lending would be
+limited to the first PERL of US$40 million in FY02. Throughout the CAS period, and
+irrespective of the scenario, a comprehensive program of ESW would be undertaken, consisting
+of one piece of formal ESW and two policy papers per year.
+Table 5. Economic and Sector Work, 2002-2004
+Policy objective
+
+FY 02/03
+
+FY 03/04
+
+Competitiveness Comprehensive PER focused on
+social sectors /establishment of
+
+FY 04/05
+
+Informal economy
+and taxation
+
+CEM/CDR focused
+on institutions
+
+Labor market review
+
+Health study
+
+Social welfare study
+
+Gender assessment
+
+MTEF
+
+Social cohesion
+
+Training and education sector
+strategy note
+
+Public
+procurement
+
+Country Procurement Assessment
+Report
+
+Environment
+
+Alternative mode of transport
+Port Louis city centre integrated
+land use and transport action plan
+
+86.
+As Mauritius' macroeconomic program is on track, Government's fiscal program is
+sustainable and a number of significant policy measures have already been taken, the
+prerequisites for the first PERL have already been met. The accompanying Memorandum of the
+President (Report No. P-75 18-MAS) contains a full description of the policy measures taken and
+spells out expected outcomes and specific policy measures that will be supported through
+subsequent PERLs.
+
+25
+
+Table 6. CAS Triggers, 2002-2004
+Policy area
+Fiscal
+
+Competitiveness
+
+Base Case
+
+High Case
+
+* MTEF formulated and implementation
+
+* Satisfactory implementation of strategy to
+
+plan approved
+
+contain contingent liabilities
+* Satisfactory implementation of MTEF
+action plan
+
+* Review of fiscal incentive regime
+
+* Satisfactory implementation of
+recommendations of the review of the fiscal
+incentive study
+
+completed and action plan for reform
+formulated
+Poverty and
+Welfare
+
+* Satisfactory implementation of National
+Poverty Alleviation Action Plan
+
+* Formulation of plan to reform social
+assistance and welfare programs
+* Continued satisfactory implementation of
+National Poverty Alleviation Action Plan
+
+Education
+
+* Education and Training Sector Strategy,
+completed, and discussed with stake
+holders and satisfactorily implemented
+* Satisfactory implementation of the
+second National Environmental Action
+Plan
+
+* Continued satisfactory implementation of
+Education and Training Sector Strategy
+
+Environment
+
+* Continued satisfactory implementation of
+the second National Environmental Action
+Plan
+
+87.
+For subsequent PERLs, a general prerequisite is that the macroeconomic program and
+Government's fiscal program continues to be on track and sustainable. Table 6 outlines the
+necessary reforms to be undertaken by the Govermnent in the base case scenario, completion of
+which will trigger PERL2. Government has requested the Bank to process one PERL every year.
+It expects that it will complete all the actions described in Table 6 and the Memorandum of the
+President before the end of FY03. Under those circumstances, the Bank would move into the
+high case, which will include the processing of PERL2 in FY03 and preparation of PERL3 in
+FY04. Overall progress in the implementation of the NEA will be monitored through
+Government's policy matrix (see Annex I).
+Table 7. Lending Scenarios
+Scenarios
+FY 02
+FY 03
+FY 04
+Total FY02-04 IBRD lending ($mil)
+
+Base case
+
+High case
+
+PERL 1 ($40 mil)
+
+PERL 1 ($40 mil)
+PERL 2 ($40 mil)
+PERL 3 ($40 mil)
+120
+
+-
+
+PERL 2 ($40 mil)
+80
+
+IBRD Exposure in Mauritius
+88.
+IBRD exposure in Mauritius has declined over the last decade. The proposed assistance
+strategy would reverse that trend. But, assuming continued growth and no major increase in
+interest rates, IBRD exposure ratios in Mauritius are expected to remain well within IBRD
+guidelines over the forecast period. Under the high case scenario with a three-year lending
+program of US$120 million, Mauritius' debt service payments to IBRD-expressed as a share of
+total debt service on public and publicly guaranteed debt-would increase from 7.4 percent in
+26
+
+2001/02 to 13.1 percent in 2003/04 and 15 percent in 2008. As a percentage of total exports, debt
+service payments to IBRD are expected to decline from 0.9 percent in FY98/99 to 0.5 percent in
+FY04/05 and 0.4 percent in 2008 (see Annex B7).
+Role of Other World Bank Group Members
+89.
+IFC has a total portfolio in Mauritius of US$1.6 million consisting of two projects: a steel
+project and a venture capital fund. No new investments have been made since 1996. IFC's main
+focus for future activity is to support the deepening of the financial market, undertake advisory
+work, and make investments in private infrastructure. These focus areas complement the Bank's
+strategy. First, IFC's assistance would increase private firms' access to foreign term finance, thus
+reducing demand on domestic savings and alleviating upward pressure on domestic interest rates.
+Second, it would allow Government to move gradually out of sectors it has traditionally been
+involved in and improve efficiency in the provision of infrastructure. Thus, IFC's involvement
+will contribute to the competitiveness objective. In addition, domestic interest rates are expected
+to be reduced, relieving Government budget through (i) lower interest payments; and (ii) lower
+subsidies and transfers to public enterprises.
+90.
+MIGA has issued four contracts guaranteeing a total investment of US$58.6 million in
+support of an agribusiness project by Mauritian investors in Mozambique. MIGA has also
+provided technical assistance to the Mauritius Export Development and Investment Authority.
+Given Mauritius' favorable investment climate, MIGA's role in Mauritius per se is expected to
+be limited, in contrast with its role in facilitating Mauritian investments in nearby African
+countries. Similarly IFC will, in the next few years, focus on the promotion of foreign direct
+investment by Mauritian entrepreneurs in countries such as Madagascar, Mozambique, Tanzania,
+and Comoros.
+Role of Other Donors
+91.
+The Bank is working closely with the IMF on reform of public resource management, the
+tax system, the pension system, and introduction of the MTEF. As Mauritius does not face a
+balance of payments problem and its reserves are at comfortable levels, it is on a standard annual
+Article IV consultation cycle with the IMF. The IMF advanced its annual Article IV
+consultations so as to overlap with a planned PERL mission. Fund staff are expected to present
+their staff report and Article IV to their Board of Executive Directors shortly after presentation of
+this CAS and the PERL to the Executive Directors of the World Bank Group.
+92.
+As per capita income in Mauritius has increased, official development assistance (ODA)
+has declined significantly. Total ODA in the form of grants now amounts to about US$35 million
+a year. Most ODA grants to Mauritius are for the environment sector. The European Union is the
+largest provider of grants to Mauritius, mainly in support of the Plaines Wilhelms Project and the
+West Coast Sewerage Project. Loans by the European Investment Bank were granted for
+infrastructure projects such as the upgrading and extension of the passenger terminal of the
+international airport and the rehabilitation and extension of the sewerage system in the Plaines
+Wilhelms area. Other donors involved in the environment and infrastructure sector include the
+Kuwaiti Fund, the Japanese Bank for International Cooperation, the German Kreditanstalt for
+
+27
+
+Wiederaufbau (KfW), and the World Bank through the GEF. Total existing commitments (grants
+and loans) by external donors for the environment for 2002-10 amount to about RslO billon
+(US$300 million).
+Table 8. Total Development Assistance, 1999
+Source of aid
+
+UN system
+World Bank
+European Union
+Bilateral
+Subtotal
+
+Type ofAid
+
+Commitments
+(US$ millions)
+
+Grants
+Loans
+Grants
+Loans
+Grants
+Loans
+Grants
+Loans
+
+2.1
+0
+1.2
+47.7
+6.0
+11.7
+25.5
+1.4
+
+Grants
+
+34.8
+
+Loans
+
+60.8
+
+95.6
+
+Total
+Source: UNDP
+
+Risks and Mitigation Measures
+93.
+i.
+
+The strategy faces three risks:
+Policy reforms fall short or are not implemented. The scope and depth of the reforms
+
+proposed by the Government for the outer years of the CAS could fall short of what is
+required to achieve the three core CAS objectives. This risk would be diminished by
+significantly strengthening ESW and ensuring that it is accompanied by extensive policy
+dialogue, consultation, and dissemination of information. The experience with the
+analytical work on pension reform carried out in Mauritius in FY02 is a good example of
+a policy dialogue sustained over a long period of time, based on a series of reports by
+many experts, the holding of seminars open to the press and wide dissemination.
+ii.
+
+Implementation delays occur. Another risk is that the implementation and timing of the
+
+reforms could fall short of what is currently foreseen. For example efforts cold fail to
+bring the education system up to international levels, or weaker political support for the
+current Government could lead to a less proactive policy stance and a slow-down in
+implementation. This risk can be reduced by ensuring that the reforms are well designed,
+fully financed, and lead to the desired results.
+iii.
+
+There is insufficient fiscal adjustment. The Government's budget foresees a gradual
+reduction in the fiscal deficit to about 3 percent of GDP for FY05/06. This path of fiscal
+adjustment leads to sustainable debt levels. The market's assessment of Mauritian paper
+is based on the expectation that Mauritius will be able to achieve its fiscal targets and the
+economy will continue to grow. There is a risk though that the fruits of the ongoing
+transformation into a service-based economy will take longer to materialize than
+currently foreseen. If, in the interim period, Mauritius were to face a series of external
+
+28
+
+shocks the debt burden could become excessively high. For example, preferential trade
+agreements could come to an end in a period of slowdown in the world economy, a drop
+in tourism, and the occurrence of adverse climatic shocks such as cyclones. In that
+combination of events, foreign exchange earnings would drop, economic growth would
+slow down and the fiscal deficit could increase rapidly. Mauritius' credit ratings could
+decline and interest rates could increase. The Government's debt burden could become
+unsustainable. In those circumstances, the Bank would need to revise its lending program
+and focus on measures that allow Mauritius to return to sustainable debt levels. By
+actively supporting the transformation of Mauritius' economy and through instruments
+such as the PER, an analysis of contingent liabilities, and the introduction of the MTEF,
+the CAS intends to minimize this risk. On public resource management issues, including
+the strengthening and broadening of Mauritius' revenue, the Bank is working closely
+with the IMF. The Bank is also cooperating closely with other development partners to
+maximize the likelihood of success in the transformation of the Mauritian economy.
+
+James D. Wolfensohn
+President
+By Shengman Zhang
+Washington, DC
+April 9, 2002
+
+29
+
+Annex I
+Page I of 12
+MAURITIUS CAS MATRIX 2002-2004
+OBJECTIVES
+Overarching Objective: reduce
+poverty.
+
+GOVT POLICIES
+See actions and policies listed
+under A, B, and C below
+
+PARTNERS
+Govemment, Private Sector,
+Unions, Civil Society Donors
+
+MONITORABLE OUTCOMES
+Percentage of population living below 50%
+of median income (poverty line) as
+measured in 2001 HBS. Percentage of
+population living below same poverty line
+
+TIMNG
+FY 01/02 -FY 05/06
+
+in 2006
+
+Reduce national poverty head count index
+by around 2% points between 2002 and
+2006.
+A. INCREASED
+COMPETmVENESS AND
+PRODUCTIVrTY
+
+Achieve Average Annual GDP
+Growth of around 5.5% (real
+temis) over 2002-2006.
+
+See actions and policies listed
+under A, B, and C below
+
+Government, Private Sector,
+Unions, Civil Society Donors
+
+Real GDP growth rates as published in
+National Accounts.
+
+Effectiveness in public
+expenditures
+
+Develop a medium term
+expenditure framework to
+prioritise govemment expenditure
+and increase value for money of
+expenditures
+
+MOF and sectoral ministries
+
+Fiscal deficit to be reduced to about 3% of
+GDP
+High-level committee to be set up to
+examine the scope of MTEF to be adopted
+Implementation of first generation MTEF
+
+FY05/06
+
+The Sugar Industry Efficiency Act passed.
+
+Completed 2001.
+
+(i) Number of companies adopting the
+Voluntary Retirement Scheme. Seventeen
+out ofnineteen companies adopted VRS.
+
+(ii) No legal deadline for
+companies to adopt VRS
+
+FY02/03
+
+Agriculture
+
+Reduce Production costs in sugar
+at
+(i) field level
+
+(i) Introduce flexibility in
+employment practices at field
+level through a Voluntary
+Retirement Scheme (VRS)
+
+(ii) factory level
+
+(ii) Encourage economies ofscale
+at factory level
+
+Re-orient/Modemise the nonsugar sector
+2001-2005
+
+Encourage the development of
+non-sugar sector for domestic
+consumption/exports
+
+The Ministry of Agriculture, Food
+Technology and Natural
+Resources.
+The corporate sector of the sugar
+industry:
+- Mauritius Sugar Producers
+Association
+Mauritius Chamber of
+Agriculture
+All growing and milling
+companies
+The Ministry of Agriculture, Food
+Technology and Natural
+Resources.
+All private sector
+companies/groups/industrialists
+operating in the non-sugar sector
+
+(ii) Number of factories closing down to
+merge into larger ones. 3 companies have
+already confirmed their closures as at 2002.
+Six companies out of 14 to close down by
+2008.
+A strategic document for non-sugar sector
+to be produced.
+
+Second Semester 2002.
+
+Annex 1
+Page 2 of 12
+MAURITIUS CAS MATRIX 2002-2004
+OBJECTIVES
+Tourism
+Ensure Sustainable Development
+of Tourism
+
+GOVT POLICIES
+
+PARTNERS
+
+Preparation of a Tourism
+Development Plan for Mauritius
+and a five-year Action Plan
+
+-
+
+Informationand Communications Technology (ICT)
+1. Preparation of E-Govemment
+Use technology to improve Master Plan
+population access to govenmment 2. Government Online Centre
+services
+3. ICT Package of Incentives
+4. Constructon of Cybercity
+Construcion
+ofCbercity
+
+MONITORABLEOUTCOMES
+
+European Union
+MEDFSCA
+Ministry of Tourism
+Ministry of Local
+Goveimnent
+Ministry of Public Utilities
+Ministry for Rodrigues
+Ministry of Housing and
+Lands
+
+TIMING
+
+Implementation of the Tourism
+Development Plan by mid-2002
+Average expenditure per tourist
+Number of well-defined quality resorts
+Leisure facilities at public beaches
+Diversification of the tourism product eco-tourism, business and video
+conferencing
+
+_
+
+M/lnformation Technology &
+Telecommunications
+National Computer Board
+Ministry of Finance
+Business Parks of Mauritius
+Limited
+Mauritius Telecom
+Private sector
+
+1. All Government services to be on-line by
+year 2005.
+2. Contract for consultancy services to
+advise NCB on the Online Centre is being
+awarded.
+
+1. On-going
+2.Award of contract in March
+2002.
+Duration of study is 15
+weeks
+3. January 2002
+4. Design: First half of 2002
+Construction: start second half of
+2002
+Completion: 2003
+
+Decrease connection cost and
+encourage investment in the ICT
+sector
+
+5. Establishment of the ICT
+Authority (to regulate the ICT
+sector)
+6. Reduce rates for intemational
+connectivity
+7. Open Internet Service Provider
+Market **
+
+5. ICT Bill passed in December 2001
+
+5. ICT Authority set up in the
+second half of 2002.
+6. Satellite: ongoing
+Cable fibre optics: April 2002
+
+7. The Mauritius Telecommunications
+Authority (MTA) has already approved
+.______________
+____ _some
+20 applications for ISP's.
+
+Privatesector/lndustry/Public Utilities
+Promote SME growth and
+employment generation
+
+1.SME Development Bill
+The Bill provides inter alia for.
+-a better definition of SMEs
+based on criteria for employment,
+annual tumover and capital value
+ofproduction equipment; and
+-providing duty free importation
+of production equipment and raw
+materials for SMEs.
+2. Improve SMEs Access to
+Finance:
+-SME Credit Guarantee Fund
+(CGF)
+Equity Participation Fund (EPF)
+
+Ministry of Industry &
+Intemational Trade
+Development Bank of Mauritius
+(DBM)
+State Investment Corporation
+(SIC)
+SMIDO
+Delegation of the European
+Commission and SME operators
+Ministry of Finance
+Small operators
+
+____________
+__
+3. Micro Credit Fund (MCF)
+
+I. Bill to be introduced in the National
+Assembly.
+2. CGF: Target beneficiaries: 600 SMEs
+EPF: Target beneficiaries: 100 SMEs
+3. MCF: Expected disbursement
+Contribution of SMEs to GDP and
+employment creation
+
+_
+
+2
+
+1. Second semester of 2002
+
+Annex I
+Page 3 OF 12
+MAURITIUS CAS MATRIX 2002-2004
+OBJECTIVES
+|
+Restructure textile sector
+Ensure maximum use of AGOA
+
+Review of the Fiscal Incentive
+Regime
+
+To
+promote
+transparency,
+accountability, and efficiency
+Protect small shareholders
+Increase transparency in publicly
+listed companies
+Facilitate opening of shareholdings
+in pnivate companies
+
+GOVT POLICIES
+Develop and implement a
+Strategic Plan for Restructuring
+the Textile Sector and
+Comprehensive Strategy under
+the AGOA by June 2002 with
+key issues being:
+1. Technology
+2. Investment
+3. Exports
+4. Cluster-type development
+with a regional emphasis
+Harmonisation of the fiscal
+incentive regime
+
+Promote
+good
+Corporate
+Govemance principles in the
+public and private sector
+
+-
+
+PARTNERS
+MIIT, MEDFSCA
+EDZDA, MIDA, SMIDO
+BOI, MCCI, SEC
+Private Sector Operators
+
+Ministry of Justice &Human
+Rights, Board of Investment
+MoF, MEDFSCA, UNDP
+MoA, MoT
+UNCTAD
+MIIT, JEC, MCCI
+MEDFSCA
+Private Sector Organisations
+The World Bank
+-
+
+MONITORABLE OUTCOMES
+Preparation of Strategic Plan
+I . Setting up of a model factory at the
+Clothing Technology Centre
+2. Investment in spinning mill
+3. Increase in textile exports, extent of
+diversification in products &markets
+4. Integration involving SMEs
+
+TIMING
+The first quaner of 2002 and
+onwards
+
+-A
+
+new set of legislation that will be WTO
+compatible
+
+Study will be completed during the
+second semester of 2002.
+Implementation will start as soon
+as the report is approved by
+Govemment
+
+Establish a Committee on Corporate
+Govemance
+Assessment of corporate govemance
+
+Number of companies adopting Codes /
+guidelines for Mauritius
+Establishment of an Institute of Directors
+
+Committee
+established
+in
+September 2001
+Assistance of World Bank obtained
+for assessment of corporate
+govemance (Report on Observance
+of Standards and Codes) in
+Mauritius. Expected completion June 2002.
+Codes / guidelines could be ready
+during fourth quarter of year 2002.
+Second half 2002
+
+Transport
+
+Road
+Address traffic issues
+*Reduce congestion
+*Improve safety
+*Minimise congestion costs
+Ensure
+Public
+Investment
+Programme reflects Master Plan
+Upgrading / Strengthening / New
+Road Infrastructure
+Prepare
+the
+ground
+for
+medium/long
+term
+efficient
+management of transport flows
+around the city/port complex
+
+Implement the Transport Master
+Plan
+
+Ministry of Public Infrastructure,
+land Transport &Shipping
+Private &Public Sector Operators
+
+Relieve congestion
+Upgrade safety and security of road
+infrastructure
+Monitor the number ofaccidents
+Improve public transport system
+
+Introduction of an alternative mode
+of transport (AMT) for mass transit
+in the Port Louis-Curepipe corridor
+Implementation of other activities
+to streamline transport congestion
+
+To provide safe and reliable road
+infrastructure
+for
+the
+modemisation of the economy.
+Develop continuous dialogue
+between
+MPA/Port
+Louis
+Municipality/MEPZA
+to
+anticipate traffic flows and plan
+port and urban developments
+accordingly
+
+Ministry of Public Infrastructure,
+Land Transport &Shipping
+
+Completion of individual projects.
+14 projects have been lined up.
+
+Projects have different start and
+completion dates.
+
+3
+
+Some
+
+Annex 1
+Page 4 of 12
+MAURITIUS
+OBJECTIVES
+l
+Air transport
+Provide solutions to adequacy of
+air transport facilities - seat and
+cargo capacity
+
+GOVT POLICIES
+Preparation of Air Transport
+Master Plan
+
+Port
+Increasing
+Productivity
+&
+Efficiency in the Port Sector
+To reduce cost and maximise
+capacity utilisation
+
+Seek Strategic Alliance for Cargo
+Handling Corporation
+
+CAS MATRIX 2002-2004
+
+PARTNERS
+M/Extemal Communications
+Other Govemnment Ministries
+Private Sector
+
+Ministry ofExtemal
+Communications
+Mauritius Ports Authority
+Cargo Handling Corporation Ltd
+
+Training of port workers to help
+them adapt to new working
+environment and technology.
+
+Modernisation of the Port
+
+Review the Role of the Mauritius
+Freeport Authority
+
+* Review the role of the port
+authority as a promoter of
+economic development
+* Update the 1996 Port Master
+Plan to year 2020 horizon.
+Introduce new legislation to
+strengthen the regulatory role of
+the MFA.
+MFA to divest its
+operational activities.
+
+B. IMPROVED SOCIAL DEVELOPMENT AND SOCIAL COHESION
+Education and Vocational TrainingReforms
+Improve quality of and access to
+Develop a comprehensive
+education
+education strategy
+
+Increase enrolment in primary and
+secondary education and vocational
+training
+
+Increase enrolment in secondary
+school and improve access to
+education system
+
+Mauritius Ports Authority
+
+MONITORABLE OUTCOMES
+TOR for Master Plan redrafted in light of
+comments from World Bank and relevant
+stakeholders.
+Upgrading of airport infrastructure and
+facilities to passengers
+Air traffic safety
+Consolidation of air routes
+Deadline for submission of tenders for
+Phase A (Advisory services on Economic
+& Regulatory Aspects of the Sale of
+Shares in CHCL on 11 Feb 2002.
+Tenders for Phase B (Advisory Services to
+Manage &Carry out the Sale Transaction)
+will be launched AprilMay 2002.
+Equipment for Training Programme
+Consultant to advise on setting up of
+training centre
+
+*
+*
+*
+
+Make the port more competitive
+Improvement in productivity
+Improve port infrastructure
+
+TIMING
+End-March 2002
+
+From 2002 to 2004
+
+Strategic Partner to be in place by
+December 2002
+
+Tenders for equipment to be relaunched by end March 2002
+Direct
+negotiations
+finalised.
+Consultant already on site.
+On-going
+
+Mauritius Freeport Authority
+
+The New Act seeks to strengthen the
+regulatory and legal framework of MFA to
+respond to the
+changing business
+environment.
+
+Act No. 17 of 2001
+October 2001.
+
+MOESR, World Bank
+
+Education sector strategy note
+
+September 2002
+
+MOESR
+
+Increases enrollment of 12-16 age-group
+population from 76% in 2001 to about
+100% in 2008.
+
+Pass Rates
+Increase in CPE pass rate from 66% in
+2000 to 70% in 2005 .
+Increase of SC pass rate from 76% in 2001
+to 79% in 2005.
+Increase of HSC pass rate from 72% in
+2001 to 74% in 2005.
+
+4
+
+dated 15
+
+Annex 1
+Page S of 12
+
+MAuRITIUS CAS MATRIX 2002-2004
+OBJECTIVES
+
+Improve quality and equity of
+education system
+
+GOVT POLICIES
+Transfer of public funds to
+private schools based on clear
+and transparent guidelines
+
+MOESR/
+PSSA
+
+Focus on leaming outcomes of
+poorest children.
+
+MOESR
+
+PARTNERS
+
+Restructured examination
+Promotion system
+* Abolition of ranking at CPE
+Level and introduction of
+grading system
+* Reduction in drop-out rates
+
+*
+
+|
+
+MONITORABLE OUTCOMES
+Review of guidelines for the transfer of
+funds to private schools and for the
+monitoring of these funds.
+
+2003
+
+Achievement of 60% pass rate in CPE
+examination in all ZEP schools.
+
+2005
+
+TIMING
+
+Ranking abolished in January 2002 and
+implemnentation of grading system
+Drop-out rates ofstudents in secondary
+schools to less or equal to figures below:
+Mts
+Rod
+F l-m 0o%
+0%/
+IV
+7
+14
+
+Review of curriculum in
+respond to manpower needs
+
+Compulsory II year schooling in
+2005
+Programme of construction,
+extension and upgrading
+
+MOESR
+
+Introduction of IT in Primary
+Schools
+
+MOESR
+MOIT
+
+Introduation of IT in Secondary
+Schools
+
+5
+
+2005
+
+Enactment oflegislation for 11-year
+compulsory schooling
+Construction of 17 Secondary Schools
+Construction of 6 F VI Colleges
+
+2005
+
+Construction of: (i) 3 Secondary Schools n
+Rodrigues; (ii) one F VI College in
+Rodrigues
+
+2002-2004
+2003
+
+IT curriculum implemented by qualified
+teachers in all Primary Schools
+
+2003-2004
+
+IT curriculum implemented by qualified
+teachers in all Secondary Schools
+
+2005-2006
+
+2001-2003
+2004
+
+Annex I
+Page 6 of 12
+OBJECTIVES
+Improve management and planning
+
+I
+
+MAURITIUS CAS MATRIX 2002-2004
+GOVT POLICIES
+Economic and Financial Analysis
+of Education and Training Sector
+
+PARTNERS
+MOESR
+MEDFSCA
+MOF
+
+1. Implementation of Action Plan
+for Poverty Alleviation (all
+actions include Rodrigues)
+
+Ministry of Finance/Trust Fund for
+the Social Integration of Vulnerable
+Groups, MEDFSCA
+
+I
+
+TIMING
+
+MONITORABLE OUTCOMES
+Study to be completed by mid 2002.
+Education and Training Sector Note to be
+completed by end 2002
+
+Poverty
+
+Reduce poverty through improved
+access of the poor to development
+tools. (All actions will include
+Rodrigues)
+
+Cabinet has already approved the Action
+Plan; Coordinating Committee set up to
+avoid overlapping of projects/programmes
+and ensure coordination among
+stakeholders
+
+On-going
+
+Costing and time frame for the activities
+outlined in the Action Plan to be worked
+
+Second Semester of 2002.
+
+out
+
+2. Existing Poverty Alleviation
+Programmes:- (i) Extension of
+micro credit scheme;
+
+Ministries, DBM, New Cooperative
+Bank &NGO organisations CSO,
+Trust Fund for the Social
+Integration of Vulnerable Groups,
+Civil Society, A Nou Diboute
+
+No. of beneficiaries ofthese schemes;
+
+Ensam
+
+(ii) Improvement of housing
+facilities for the poorest segments
+
+NHDC, MHC
+
+No. of beneficiaries ofhousing schemes;
+
+(iii) Commumity involvement for
+project elaboration/Training
+opportunities for the poor
+
+Community-based
+organisations/Non-Governmental
+Organisations, SMIDO, IVTB and
+other vocational training centres
+
+No. of CBOs/NGO`s that have benefited
+from assistance from any of the existing
+poverty alleviation programmes/ No of
+school drop-outs at CPE Level/No of
+persons who have been trained from
+deprived regions/ Number of social
+infrastructure put in place under the ANDE
+programme or by the Trust Fund or under
+the IFAD Community Development
+
+3. Improvement of povertyrelated statistics:- To update the
+Relative Development Index
+based on the 2000 Housing and
+
+Central Statistics Office
+
+To develop a system of monitoring
+improvements in living conditions on a
+regular basis and ensuring follow-up with
+beneficiaries
+
+of the population
+
+Programme
+
+Population Census
+
+*
+
+6
+
+2002 onwards
+
+Annex I
+Page70ofl12
+OBJECTIVES
+
+GOVT POLICIES
+4. Evaluation of the impact of
+expenditure on the poor/ Impact
+of Current Poverty Alleviation
+Programmes:-With the use of a
+proper mechanism, to assess the
+effectiveness of all existing
+poverty alleviation programmes
+5. Special attention is being given
+to poverty alleviation and the
+broadening of the range of
+economic opportunities for lowincome groups in Rodrigues.
+
+MAURITIUS CAS MATRIX 2002-2004
+PARTNERS
+MONITORABLE OUTCOMES
+MEDFSCA/Other relevant
+A fully comprehensive qualitative and
+ministries
+quantitative report which would present
+the current poverty picture and comment
+on the impact of the existing
+programmes/expenditure on the poor
+people/households
+MLG&R, RRA
+
+TIMING
+By year 2003
+
+The establishment of the Rodrigues
+Regional Assembly (RRA) is expected to
+bring improved co-ordination of
+development interventions through greater
+participation of the local population.
+
+Empowerment of the poor,
+especially women, in taking care
+of their own development needs:
+Upgrading of social infrastructure
+Improved access to water
+resources
+Improved access to micro-finance
+Capacity building: Improved
+access to education and training
+for individuals as well as
+grassroots
+organisations
+gnssroots organisations
+Improved co-ordamation of
+poverty programmes to maximise
+impact
+
+A Committee for the co-ordination of
+various poverty alleviation programmes
+has been set up.
+No. of community development projects
+financed
+No. of NGOs involved in projects
+No. of households who have benefited
+from low-cost housing schemes(200 new
+bousing uniLsto be set up by2003 and about 150houses
+
+~~~~~~~~~~~~~to
+be rehabilituted in Rodrigues)
+No.
+of persons trained under different
+
+schemes
+No. of loans disbursed under micro-credit
+schemes
+No. of persons involved in off-lagoon
+fishing and sea-weed farming
+No. of persons having water storage
+facilities
+%ofchildren under 16 yrs enrolled in
+schools/training institutions
+No. of Km ofroads/ track roads
+consLtucted.
+
+Health
+
+-Improve health services to meet
+new health concems, including
+non- communicable diseases
+-Ensure health sector investment
+already funded by budget
+
+Health Sector Financing
+Preliminary study for an
+insurance scheme to finance
+incremental high-cost tertiary
+services*
+
+MlHealth, M/Finance, National
+Pension Fund, Private Insurance
+Companies
+
+Construction ofNonCommunicable Diseases Institute
+
+Chennai Institute
+India
+
+National Strategic Plan for
+HIV/AIDS
+
+Interninisterial group, NGOs, EPZ,
+Hotels
+
+7
+
+White Paper
+National Health Insurance Bill
+Design of the NHIS system
+Introduction of health insurance access
+card.
+Health insurance scheme
+Capital project starts
+Institute opens
+
+National AIDS Secretariat operational
+Knowledge, Attitudes, Beliefs and
+Practices survey on HIV/AIDS to be
+carried out
+
+FY 03/04
+2002
+2005
+
+End 2001
+2002
+
+Annex 1
+Page 8 of 12
+MAURITIUS CAS MATRIX 2002-2004
+OBJECTIVES
+
+GOVT POLICIES
+
+PARTNERS
+
+Appoint an Inter-ministerial and
+Steering Committee (chaired by
+Minister of Social Security) and
+technical working groups
+
+_
+
+MONITORABLE OUTCOMES
+
+TIMING
+
+Inter-ministerial and Steering
+Committee comprising Ministers of
+Social Security, and Economic
+Development, FS&CA and
+representatives of
+Ministries/Departrnents, private
+sector and trade unions
+Secretariat established at the
+MEDFSCA
+Lead Advisor attached to
+Secretariat
+Four Technical Working Groups on
+BRP, NPF, Civil Service Pension
+and private pension schemes
+As above
+
+Inter-ministerial and Steering Committee
+and Technical Working Groups set up
+
+May 2002
+
+As above
+
+(i) draft papers on means-tested pension in
+three countries; (ii) report from the study
+tour/presentation by foreign country
+professional; (iii) include additional issues
+to be addressed in the final papers
+
+Pension Reform
+
+Ensure that Mauritius pension
+system can continue to protect
+livelihood aging population
+
+Appoint Lead Advisor
+Confirm market value ofNPF
+and NSF assets
+
+Technical Working Groups to
+come up with proposals for
+implementing the reform
+programme
+Targeting Basic Retirement
+Pension
+Determine appropriate policy
+parameters (target population, level
+of benefit, qualify income) for
+targeting BRP
+Adapt intemational experience of
+targeting minimum pensions to a
+Mauritius context
+
+(i) Commission papers from three
+countries that have means-tested
+type of minimum pension
+provisions; (ii) undertake more
+in-depth study on affluence
+(means) testing
+Conduct feasibility study to
+implement different types of
+means- affluence-testing pensions
+including analysis on pros and
+cons including proposals for
+qualification income, financial
+impact on the budget, and
+
+May 2003
+
+Report on feasibility study
+
+(i) Draft papers on means-tested mid June 2002
+(ii) Final version of papers - mid
+July 2002
+(iii) Examination of papers in
+Mauritius - end July 2002
+(iv) Study tour/presentation by
+foreign country professional August 2002
+(v)
+Report
+from
+Study
+tour/presentation
+by
+foreign
+country professional - end August
+2002
+(vi)
+Examination
+of legal
+
+administration requirements
+
+implication
+
+Prepare report on
+recommendations
+
+feasibility study - mid September
+2002
+(vii) Cabinet Memorandum - end
+of September 2002
+(viii) Incorporation in White Paper
+on Pension Reforms - November
+
+2002
+
+8
+
+of
+
+proposals
+
+&
+
+Annex 1
+Page 9 of 12
+MAURITIUS CAS MATRIX 2002-2004
+OBJECTIVES
+Conversion of point system to
+publicly managed filly-funded
+defined contributionsystem
+Determine the funded status of the
+
+GOVT POLICIES
+Update the actuary's evaluation
+including impact of the VRS
+Calculate the amount of total
+contributions accrued with zero
+
+NPF under the current system
+
+real interest
+
+Convert the current NPF to a
+defined contribution arrangement
+(assume zero real interest on past
+
+Analyse replacement rates of
+individuals with different
+eamings profile and contributory
+
+contributions)
+
+history
+
+As above
+
+PARTNERS
+
+l
+
+MONITORABLE OUTCOMES
+Updated balance sheet
+
+TIMING
+FY 02/03
+
+As above
+
+Balance Sheet
+
+FY 02/03
+
+As above
+
+Sample calculations
+
+FY 02/03
+
+As above
+
+Sample calculations
+
+FY 02/03
+FY 02/03
+
+Examine issues of equity and
+
+Evaluate the financial impact and
+
+adequacy under the converted DC
+
+effects on individuals
+
+system
+Design conversion options
+
+Prepare report on
+recommendations
+
+As above
+
+Report to bnter-ministerial and Steering
+Committee for tentative decisions
+
+Review and revise investment
+policy statement using modem
+portfolio theory and in
+accordance with prudent man's
+rule
+Establish appropriate benchmarks
+for monitoring investment
+performance
+Study international best practice;
+design appropriate structure for
+Mauritius; establish a medium to
+long term vision to asset
+management inMauritius
+
+As above
+
+Draft investment policy statement
+
+As above
+
+Proposal on performance benchmark and
+monitoring process
+
+Already in place
+
+As above
+
+Proposal submitted to Inter-ministerial and
+Steering Committee for consideration and
+tentative decision
+
+Already in place
+
+Investing the NPF/NSFin
+accordance with modern portfolio
+managementandprudent man 's
+rule
+Develop an investment policy
+statement with the appropriate
+asset mix policy that will deliver
+the expected return at an acceptable
+level of risk
+Establish an ongoing process to
+monitor the performance of the
+portfolio
+Insulate the portfolio and
+investment committee from
+political interference providing an
+enabling environment for
+committee members and portfolio
+
+NPF/NSF Investment Committee is now an
+independent committee and is not subject
+to ministerial control in its investment
+decision matters.
+
+managers to fulfill their fiduciary
+
+responsibilities
+
+Being updated
+
+Confirm market value of NPF
+and NSF assets
+
+As above
+
+Second Semester of 2002
+
+9
+
+Annex 1
+Page 10 of 12
+MAURITIUS CAS MATRIX 2002-2004
+OBJECTIVES
+Civil Service Pensions Reform
+Determine competitiveness of
+public vs. private sector
+compensation policies
+Design system for new hires and/or
+contract workers
+Formulate proposal on reform
+options for the existing civil
+servants and new entrants
+
+GOVT POLICIES
+(i) Prepare TOR for comparative
+study of total compensation, (ii)
+selection of consultants and
+comparators
+Project potential cash flow under
+different scenarios and propose
+various design options including
+possibility of switch over
+provisions for existing staff(see
+3-3)
+(i) Project potential cash flow
+under different scenarios and
+incentive mechanisms; (ii)
+determine target group for
+conversion and harmonize with
+
+PARTNERS
+
+MONITORABLE OUTCOMES
+Report on findings of total compensation
+survey
+
+TIMING
+FY 02/03
+
+As above
+
+Report on cash flow analysis on different
+options
+
+FY 02/03
+
+As above
+
+Report on cash flow analysis on different
+options
+
+FY 03/04
+
+As above
+
+Document on HR strategy
+
+FY 03/04
+
+As above
+
+|
+
+up front budget constraints
+
+(i) Establish plan to review
+overall HR reform within civil
+service; (ii) hire consultant
+
+Strengthening the supervision of
+
+Draft legislation to ensure
+
+voluntary and occupational
+
+adequate and advance funding of
+
+schemes
+Improve solvency and flexibility of
+voluntary and occupational
+schemes
+Improve supervision and
+compliance of voluntary
+occupational schemes
+
+benefit liabilities and greater
+portability ofbenefits
+Establish Financial Supervisory
+Agency
+
+As above
+
+Second half of 2002
+
+Second half of 2002
+As above
+
+Formulate proposal
+
+Moving towardsan advanced
+pension system
+
+Review cumulative impact of all
+tentative decisions
+Formulate consensus on the
+comprehensive reform package
+
+As above
+
+Produce White Paper for national
+debate
+Finalize the national proposal
+Implement the advanced pension
+system for 2nd and 3rd pillar
+Implement changes to the Ist
+pillar
+Implement changes to the civil
+
+As above
+
+FY 03/04
+
+As above
+As above
+
+FY 03/04
+FY 03/04
+
+As above
+
+FY 03/04
+
+As above
+
+FY 04/05
+
+(i) Adjustment of preliminary decisions to
+reflect new information gathered
+throughout decision process; (ii) agreement
+by Inter-ministerial Committee on revised
+
+FY 03/04
+
+decisions
+
+service system
+
+10
+
+Annex 1
+Page 11 of 12
+MAURITIUS CAS MATRIX 2002-2004
+OBJECTIVES
+
+GOVT POLICIES
+
+|
+
+C. PRESERVATION OF THE ENVIRONMENT
+Solid waste
+
+Protect public health and the
+natural environment
+
+PARTNERS
+
+MONITORABLE OUTCOMES
+
+TIMING
+
+._.____
+
+Additional disposable facilities
+(i) Study to assess feasibility of
+extending Mare Chicose
+examine
+and
+Landfill
+possibilities of developing
+new sites
+(ii) Commissioning of a Waste to
+Energy Incinerator Plant
+(150,000 t/y)
+& Legislation
+Institutional
+Framework
+set-up and
+(i) Institutional
+capacity-building
+
+MoF, MEDFSCA, EU
+Ministry ofLocal Government and
+Rodrigues
+Ministry of Environment
+Local Authorities
+
+Study completed
+Incinerator built and operational
+
+By second semester 2002
+The Waste to Energy Incinerator
+Plant is expected to be
+commissioned by 2005
+
+Institutional, legal and regulatory
+framework in place
+New Waste Management Act promulgated
+
+Institutional set-up and capacitybuilding (2002-2005)
+
+(ii) New Waste Management Act
+
+Integrated strategy for hazardous wastes in
+place
+Pilot compost plant operational
+
+Hazardous waste
+(i) Interim storage, incinerator
+Waste minimisation
+(i) Composting (Pilot compost
+plant operational from 2003)
+
+Cost recovery system in place
+
+Cost recovery
+(i) Charges for disposal of waste
+
+Liquid Waste
+Reduce environmental risk by
+befter managing liquid waste
+
+Continue implementation of the
+National Sewerage Master Plan
+(i) Institutional strengthening
+(ii) Expand network
+(iii)Increase connection to basic
+network
+(iv)Assure cost recovery
+(v) Create incentives to invest in
+cleaner technology
+
+_.
+
+Ministry of Public Utilities
+Wastewater Management Authority
+
+Charges for industrial waste will
+depend on the promulgation of the
+New Waste Management Act
+2005).
+_
+.____ _ __ ___ _(Beyond
+
+(i) Setting up of a Waste Water
+Management Authority in September
+2001
+(ii) Implementation of investment
+programme for expansion of network
+according to the Sector Policy Letter
+(iii) Increase in %of population connected
+to central sewerage collection system
+from below 20% presently to 40% in
+2008
+(iv) Introduction of new waste water tariffs
+in Jan. 2002 as per Sector Policy Letter
+(v) Setting up &equipping of wastewater
+laboratory to monitor standards of
+effluents discharged
+
+_~~~~~~~~~~~I
+
+Waste Water Management
+Authority (WMA) set up in Sep.
+2001
+
+Annex I
+Page 12 of 12
+MAURITIUS CAS MATRIX 2002-2004
+OBJECTIVES
+Environmental management
+Follow principles ofsustainable
+development by providing
+environmental services,
+encouraging responsible
+environmental practices and
+enforcing appropriate
+environmental standards
+
+GOVT POLICIES
+Continue implementation of the
+National Enviromment Action
+Plan in critical areas:
+(i) Institutional strengthening
+(ii) Strategic land planning
+(iii)Biodiversity management
+(iv)lntegrated coastal zone
+management
+(v) Air quality management
+(vi) Industrial Management
+
+4
+
+PARTNERS
+
+MONITORABLE OUTCOMES
+
+Ministry of Environment
+Stakeholders
+(i) New Environmental Protection Act
+promulgated
+(ii) Revised Town and Country Planning
+Act in force and new land development
+in conformity with the NPDP
+(iii)% of land protected and area of land
+under native vegetation weighted by
+size and ecological value
+(iv) setting up of the ICZM Unit and
+implementation of the ICZM Plan
+(v) Air quality measurements within
+national standards; cases of bronchitis
+and asthma
+(vi)% of industries conforming to
+standards and %of industries with an
+accredited Environmental Management
+System (EMS)
+
+12
+
+TIMING
+Ongoing
+Implementation of the National
+Environmental Investment
+Programme 11started in 2001
+
+Annex 2
+Page 1 of 1
+
+Mauritius - External Financial Requirements and Sources (US$ million) 1/
+1998/99
+
+1999/00
+
+Actuals
+
+2000/01
+
+2001/02
+
+2002/03
+
+2003/04
+
+2004/05
+
+Estimated -------------------------- Projected----------------------
+
+Requirements
+Current account deficit
+(excluding transfers)
+Amortizationpayments
+Changes in net reserves
+
+278.7
+
+389.3
+
+391.3
+
+234.1
+
+207.0
+
+229.1
+
+212.8
+
+156.8
+94.1
+27.8
+
+164.7
+140.7
+83.9
+
+-1.3
+207.6
+185.1
+
+7.6
+103.8
+122.7
+
+41.0
+143.0
+23.0
+
+58.9
+111.0
+59.2
+
+54.8
+105.0
+53.0
+
+Resources
+Transfers
+of which: official
+Loans
+o.w. Financing gap
+o.w. PERL
+Foreign direct investment
+Portfolio and other capital
+Errors and omissions
+
+278.7
+91.4
+5.4
+133.7
+
+389.3
+96.0
+6.3
+78.4
+
+391.3
+78.9
+7.2
+111.2
+
+18.8
+10.8
+24.0
+
+12.7
+-32.7
+235.0
+
+223.4
+-6.7
+-15.4
+
+234.1
+84.8
+9.8
+138.3
+40.0
+40.0
+30.0
+-19.0
+0.0
+
+207.0
+87.6
+9.5
+99.3
+40.3
+0.0
+30.0
+-10.0
+0.0
+
+229.1
+91.1
+9.5
+113.0
+53.5
+40.0
+35.0
+-10.0
+0.0
+
+212.8
+94.6
+9.5
+88.3
+55.3
+0.0
+40.0
+-10.0
+0.0
+
+0.0
+0.0
+
+0.0
+0.0
+
+0.0
+0.0
+
+0.0
+0.0
+
+0.0
+0.0
+
+0.0
+0.0
+
+0.0
+0.0
+
+Changes in arrears
+New arrears
+Debt reduction
+
+Source: Government of Mauritius; and, World Bank staff estimates and projections.
+1/ Refers to fiscal year starting in July I through June 30.
+3/25/2002
+
+Annex 3
+Page 1 of 1
+
+Mauritius - Summary of Government Finances 1/
+(In billions of Rupees)
+1998/99
+1999/00
+2000/01
+2001/02
+2002/03
+2003/04
+2004/05
+Actuals
+Estimated -------------------------- Projected---------------------Total Revenues and grants
+
+20.8
+
+23.0
+
+22.7
+
+25.3
+
+29.4
+
+33.2
+
+37.5
+
+Tax revenue
+Non-tax revenue
+Total revenue
+Extemal grants
+
+17.9
+2.8
+20.7
+0.1
+
+20.6
+2.2
+22.8
+0.2
+
+20.2
+2.3
+22.5
+0.2
+
+21.5
+3.4
+25.0
+0.3
+
+25.6
+3.5
+29.1
+0.3
+
+29.2
+3.7
+32.9
+0.3
+
+33.1
+4.0
+37.1
+0.3
+
+Total expenditure and net lending
+
+24.9
+
+27.8
+
+30.8
+
+34.3
+
+38.2
+
+42.0
+
+45.4
+
+Current expenditures
+Current expenditure on goods and services
+Wages and salaries
+Other goods and services
+Interest payments
+External interest
+Internal interest
+Current transfers and subsidies
+
+21.8
+9.6
+7.5
+2.2
+3.6
+0.5
+3.1
+8.6
+
+23.4
+10.1
+7.8
+2.4
+3.9
+0.5
+3.4
+9.4
+
+26.3
+10.9
+8.2
+2.7
+5.1
+0.4
+4.7
+10.3
+
+27.5
+11.6
+8.6
+3.0
+4.6
+0.2
+4.4
+11.3
+
+30.9
+13.3
+9.8
+3.5
+5.4
+0.3
+5.1
+12.3
+
+34.0
+14.5
+10.8
+3.7
+6.2
+0.4
+5.8
+13.2
+
+36.8
+15.5
+11.7
+3.8
+6.9
+0.5
+6.4
+14.4
+
+3.0
+
+4.4
+
+4.5
+
+6.7
+
+7.2
+
+8.1
+
+8.6
+
+Overall balance after grants 2/
+
+-3.5
+
+-4.3
+
+-8.1
+
+-9.0
+
+-9.1
+
+-9.2
+
+-8.3
+
+Financing
+Extemal, net
+Disbursements
+o.w. PERL
+Amortization
+Domestic
+Banking System ,net
+Not-bank, net
+
+3.5
+-1.2
+0.5
+0.0
+1.6
+4.7
+-1.6
+6.3
+
+4.3
+-0.5
+0.4
+0.0
+0.9
+4.8
+2.5
+2.4
+
+8.1
+-3.6
+0.4
+0.0
+3.9
+11.7
+-1.1
+12.8
+
+9.0
+1.2
+1.9
+1.2
+0.7
+7.8
+2.0
+5.8
+
+9.1
+2.2
+3.2
+0.0
+1.0
+6.9
+1.9
+5.0
+
+9.2
+2.4
+3.1
+1.3
+1.0
+6.8
+2.0
+4.8
+
+8.3
+0.2
+0.6
+0.0
+1.1
+8.2
+2.2
+6.0
+
+Memo item:
+GrossDometicProduct
+
+103.6
+
+112.9
+
+124.2
+
+138.1
+
+151.6
+
+167.6
+
+Capital expenditure and net lending
+
+Source: Govemment of Mauritius; and, World Bank staff estimates and projections.
+1/ Refers to fiscal year starting in July I through June 30.
+2/ Consolidated central government. If NIDF (National Infrastructure Development Fund) reimbursement to Government is
+included in the Government Accounts, the overall fiscal deficit comes to 5.7% in 2000/01.
+3/25/2002
+
+184.4
+
+Annex 4
+Page 1 of 1
+
+Mauritius - Summary of Government Finances 1/
+(As percent of GDP)
+1998/99
+1999/00
+2000/01
+2001/02
+2002/03
+2003/04
+Actuals
+Estimated -Projected----------------------
+
+2004/05
+
+Total Revenues and grants
+
+20.1
+
+20.4
+
+18.3
+
+18.3
+
+19.4
+
+19.8
+
+20.3
+
+Tax revenue
+Non-tax revenue
+Total revenue
+External grants
+
+17.3
+2.7
+20.0
+0.1
+
+18.3
+2.0
+20.2
+0.1
+
+16.3
+1.9
+18.1
+0.2
+
+15.6
+2.5
+18.1
+0.2
+
+16.9
+2.3
+19.2
+0.2
+
+17.4
+2.2
+19.6
+0.2
+
+17.9
+2.2
+20.1
+0.2
+
+Total expenditure and net lending
+
+24.0
+
+24.6
+
+24.8
+
+24.8
+
+25.2
+
+25.1
+
+24.6
+
+Current expenditures
+Current expenditure on goods and services
+Wages and salaries
+Other goods and services
+Interest payments
+Extemal interest
+Internal interest
+Current transfers and subsidies
+
+21.1
+9.3
+7.2
+2.1
+3.5
+0.5
+3.0
+8.3
+
+20.7
+9.0
+6.9
+2.1
+3.4
+0.4
+3.0
+8.3
+
+21.2
+8.8
+6.6
+2.2
+4.1
+0.3
+3.8
+8.3
+
+19.9
+8.4
+6.2
+2.1
+3.4
+0.2
+3.2
+8.2
+
+20.4
+8.8
+6.4
+2.3
+3.5
+0.2
+3.3
+8.1
+
+20.3
+8.7
+6.4
+2.2
+3.7
+0.2
+3.5
+7.9
+
+20.0
+8.4
+6.3
+2.1
+3.7
+0.3
+3.5
+7.8
+
+2.9
+
+3.9
+
+3.6
+
+4.9
+
+4.8
+
+4.8
+
+4.7
+
+Overall balance after grants 2/
+
+-3.4
+
+-3.8
+
+-6.6
+
+-6.5
+
+-6.0
+
+-5.5
+
+-4.5
+
+Financing
+External, net
+Disbursements
+o.w. PERL
+Amortization
+Domestic
+Banking System ,net
+Not-bank, net
+
+3.4
+-1.1
+0.4
+
+3.8
+-0.5
+0.4
+
+6.6
+-2.9
+0.3
+
+1.6
+4.5
+-1.5
+6.0
+
+0.8
+4.3
+2.2
+2.1
+
+3.1
+9.4
+-0.9
+10.3
+
+6.5
+0.9
+1.4
+0.9
+0.5
+5.6
+1.4
+4.2
+
+6.0
+1.5
+2.1
+0.0
+0.6
+4.6
+1.2
+3.3
+
+5.5
+1.4
+1.9
+0.8
+0.6
+4.1
+1.2
+2.9
+
+4.5
+0.1
+0.3
+0.0
+0.6
+4.4
+1.2
+3.3
+
+Capital expenditure and net lending
+
+Source: Government of Mauritius; and, World Bank staff estimates and projections.
+1/ Refers to fiscal year starting in July I through June 30.
+2/ Consolidated central government. If NIDF (National Infrastructure Development Fund) reimbursement to Government is
+included in the Govemment Accounts, the overall fiscal deficit comes to 5.7% in 2000/01.
+3/25/2002
+
+Annex Al
+Page I of 1
+Mauritius
+Key Economic & Program Indicators - Change from Last CAS
+As Of Date 0312512002
+Forecast in Last CAS a
+Economy (CY)
+Growth rates (%)
+GDP f
+Exports
+Imports
+
+1995c
+
+1996d
+
+1997d
+
+Actual b
+1998d
+
+1998/99e
+
+Current CAS Forecast b
+
+1999/00e 2000101c 2001/02d 2002/03d 2003/04d
+
+4.3
+5.7
+-3.5
+
+6.1
+6.2
+6.0
+
+5.5
+5.6
+5.5
+
+5.7
+5.8
+5.6
+
+5.3
+4.8
+6.0
+
+2.6
+-2.0
+1.3
+
+7.2
+5.5
+1.4
+
+5.3
+2.7
+3.8
+
+4.6
+2.0
+3.8
+
+5.5
+3.7
+3.8
+
+6.0
+
+7.3
+
+5.2
+
+4.1
+
+7.9
+
+5.3
+
+4.4
+
+6.0
+
+5.5
+
+5.0
+
+National accounts (%GDP)
+Current account balance
+Gross investment
+
+-0.3
+24.5
+
+-2.0
+24.9
+
+-2.0
+26.1
+
+-1.0
+27.0
+
+-1.6
+26.0
+
+-1.6
+25.7
+
+1.8
+24.4
+
+1.7
+25.1
+
+1.0
+25.8
+
+0.6
+26.0
+
+Public finance (%GDP)
+Fiscal balance g
+Foreign financing
+
+-6.1
+1.8
+
+-6.0
+0.1
+
+-4.8
+0.5
+
+-3.8
+0.3
+
+-3.4
+-1.1
+
+-3.8
+-0.5
+
+-6.6
+-2.9
+
+-6.5
+0.9
+
+-6.0
+1.5
+
+-5.5
+1.4
+
+2.4
+
+3.1
+
+3.3
+
+3.8
+
+3.7
+
+3.7
+
+Inflation (%)
+
+Intemational reserves h
+
+..
+
+..
+
+..
+
+..
+
+(as months of imports)
+
+Program (Bank's FY) I
+Lending ($million)
+Gross disbursements ($million)
+
+FY97c
+0
+12.2
+
+FY98d
+22.0
+23.6
+
+FY99d
+20.0
+9.5
+
+FYOOd
+
+FY99e
+0
+3.4
+
+FYOOe
+0
+9.0
+
+FY01c
+4.8
+2.2
+
+Sources: Govemment of Mauritius; IMF; World Bank staff estimates and projections.
+a. Calendar year.
+b. Fiscal year starting in July 1 through June 30.
+c. Estimated year.
+d. Projected year.
+e. Actual outcome.
+f. GDP at factor cost growth rate was 3 and 8 percent for 99/00 and 00/01, respectively.
+g. If NIDF (National Infrastructure Development Fund) reimbursement to Govemment is included in the
+Govemment Accounts, the overall fiscal deficit comes to 5.7% in 2000/01.
+h. Gross intemational reserves of monetary authorities as months of imports of goods and all services.
+I. For Bank Fiscal years, for example, FYOO refers to fiscal year ending in June 30, 2000.
+
+FY02d
+0
+4.9
+
+FY03d
+40
+45
+
+FY04d
+0
+3
+
+40
+42
+
+Annex A2
+Page 1 of 2
+
+Mauritius at a glance 1/
+POVERTY and SOCIAL
+2000
+Population, mid-year (millions)
+GNI per capita (Atlas method, US$)
+GNI (Atlas method, US$ billions)
+
+Mauritius
+
+SubSaharan
+Africa
+
+Uppermiddleincome
+
+1.2
+3,800
+4.6
+
+659
+480
+313
+
+647
+4,620
+2,986
+
+1.1
+1.6
+
+2.6
+2.6
+
+1.3
+2.0
+
+3/28/02
+
+Development dlamond
+Life expectancy
+
+Average annual growth, 1994400
+Population (%/6)
+Labor force (%)
+Most recent estimate (latest year available, 199440)
+Poverty (%of population below national poverty line)
+Urban population (%of total population)
+Life expectancy at birth (years)
+Infant mortality (per 1,000 live births)
+Child malnutrition (%of children under 5)
+Access to an improved water source (%of population)
+Illiteracy (%of population age 15+)
+Gross primary enrollment (%ofschoolage population)
+Male
+
+41
+71
+17
+15
+
+34
+47
+92
+..
+
+..
+
+..
+
+15
+106
+106
+
+55
+38
+78
+85
+
+87
+10
+107
+106
+
+106
+
+71
+
+105
+
+1980
+
+1990
+
+1999
+
+2000
+
+1.2
+
+2.8
+
+4.4
+
+4.5
+
+Gross domestic investmentUGDP
+Exports of goods and services/GDP
+Gross domestic savings/GDP
+Gross national savings/GOP
+
+23.0
+47.3
+12.7
+11.9
+
+29.3
+63.4
+23.9
+27.2
+
+25.7
+63.3
+23.7
+25.1
+
+24.4
+63.7
+25.3
+27.2
+
+Current account balance/GDP
+Interest payments/GDP
+Total debtGDP
+Total debt service/exports
+
+-14.8
+2.4
+42.2
+13.3
+
+-1.5
+1.6
+35.9
+8.5
+
+-1.6
+1.3
+41.1
+12.3
+
+1.8
+1.2
+38.7
+11.5
+
+1980-90
+
+199040
+
+1999
+
+2000
+
+200044
+
+6.3
+5.3
+10.9
+
+5.1
+3.9
+5.2
+
+2.6
+1.3
+-2.0
+
+7.2
+6.1
+5.5
+
+5.1
+4.2
+3.1
+
+Female
+
+GNI
+per
+capita
+
+Gross
+primary
+enrollment
+
+..
+
+76I
+69
+28
+Access to improved water source
+-Mauriius
+Upper-middle-income group
+
+KEY ECONOMIC RATIOS and LONG-TERM TRENDS
+
+GDP (US$ billions)
+
+(average annual growth)
+GDP
+GDP per capita
+Exports of goods and services
+
+Economic ratlos'
+
+Trade
+Oomsti
+Investment
+
+Domestic
+savings
+Indebtedness
+
+Mauritius
+Upper-middle-income group
+
+STRUCTURE of the ECONOMY
+1980
+
+1990
+
+1999
+
+2000
+
+(%of GDP)
+Agriculture
+Industry
+Manufacturing
+Services
+
+Growth of lnvestment and GDP (°h)
+20
+
+14.3
+25.5
+16.0
+60.2
+
+12.3
+33.1
+24.3
+54.6
+
+5.9
+31.6
+24.0
+62.5
+
+6.3
+31.2
+23253.
+62.5
+
+15
+
+Private consumption
+General govemment consumption
+
+72.5
+14.8
+
+63.4
+12.7
+
+63.1
+13.2
+
+61.7
+13.0
+
+Imports of goods and services
+
+57.5
+
+68.8
+
+65.3
+
+62.8
+
+(average annual growth)
+
+10
+0
+
+-s
+
+_
+
+96
+
+97
+
+98
+
+99
+
+.
+
+GDP
+
+00
+
+-1e
+
+-GD1
+_
+
+1980-90
+
+1990-00
+
+1999
+
+2000
+
+Growth of exports and Imports (°/)
+
+Agriculture
+Industry
+Manufacturing
+Services
+
+2.1
+9.8
+10.6
+5.3
+
+-0.4
+5.4
+5.3
+6.3
+
+-23.3
+5.8
+4.8
+5.2
+
+25.9
+7.0
+6.6
+6.7
+
+15
+1-
+
+Private consumption
+General govemment consumption
+Gross domestic investment
+
+6.2
+3.5
+12.6
+
+5.5
+4.8
+4.5
+
+4.1
+5.9
+5.1
+
+5.5
+6.1
+1.4
+
+0
+-5
+
+Imports of goods and services
+
+12.6
+
+5.2
+
+1.3
+
+1.4
+
+97
+
+Exports
+
+9a
+
+oo
+
+e--mports
+
+Note: 2000 data are preliminary estimates.
+1/ This MG has been produced based on fiscal year data. For example, the year 2000 refers to FY starting in Julyl, 2000 and ending in June 30, 20'
+The diamonds show four key indicators in the country (in bold) compared with its income-group average. If data are missing, the diamond will
+be incomplete.
+
+Annex A2
+
+Page 2 of 2
+
+Mauritius
+PRICES and GOVERNMENT FINANCE
+
+1980
+
+1990
+
+1999
+
+2000
+
+Inflation (%)
+
+Domestic prices
+(%change)
+
+Consumer prices
+Implicit GDP deflator
+
+10
+
+a
+
+26.5
+10.6
+
+12.8
+8.9
+
+5.3
+6.1
+
+4.4
+2.6
+
+6-
+
+Govemment ffnance
+
+24*
+.
+
+(OA
+of GDP, includes current grants)
+
+o.
+
+Current revenue
+
+21.7
+
+22.8
+
+20.4
+
+18.3
+
+Current budget balance
+
+-4.2
+
+2.8
+
+-0.3
+
+Overall surplus/deficit 1/
+
+-13.6
+
+-1.7
+
+-3.8
+
+-2.9
+-8.6
+
+95
+
+97
+
+g6
+
+GDP deflator
+
+9s
+
+00
+
+g9
+
+ZeCPI
+
+I
+
+TRADE
+(US$ millions)
+Total exports (fob)
+Sugar
+Manufactures
+Total imports (df)
+Food
+
+Fuel and energy
+Capital goods
+
+1980
+
+1990
+
+1999
+
+2000
+
+361
+207
+116
+628
+
+1.261
+354
+784
+1,608
+
+1,523
+213
+1,171
+2,158
+
+1.633
+267
+1,177
+2,056
+
+165
+
+190
+
+299
+
+291
+
+1I00_
+
+87
+98
+
+127
+426
+
+151
+653
+
+236
+465
+
+SW
+o
+
+Export price index (1995=100)
+Import price index (1995=100)
+
+..
+
+91
+92
+
+83
+87
+
+80
+86
+
+Terms of trade (1995= 100)
+
+..
+
+98
+
+96
+
+94
+
+Export and Import levels (USS mill.)
+2sco
+20000
+5
+
+j j j j j j j
+_
+1
+
+94
+
+95
+
+go
+
+67
+
+* Exports
+
+99
+
+98
+
+00
+
+* Imports
+
+BALANCE of PAYMENTS
+(US$ millions)
+
+1980
+
+1990
+
+1999
+
+2000
+
+Current account balance to GDP (%)
+
+Exports of goods and services
+Imports of goods and services
+Resource balance
+
+491
+659
+-168
+
+1,765
+1.901
+-135
+
+2,605
+2,735
+-130
+
+2,784
+2,787
+-2
+
+3
+
+-34
+24
+
+5
+88
+
+-35
+96
+
+Net income
+Net current transfers
+
+2
+
+3
+79
+
+o
+-2
+;3
+
+Current account balance
+
+-177
+
+-42
+
+-69
+
+80
+
+Financing Items (net)
+Changes in net reserves
+
+172
+5
+
+206
+-165
+
+153
+84
+
+105
+-185
+
+Memo:
+Reserves including gold (US$ millions)
+Conversion rate (DEC, localWS)
+
+92
+8.0
+
+741
+14.9
+
+688
+25.5
+
+790
+27.6
+
+1980
+
+1990
+
+1999
+
+2000
+
+506
+
+1.014
+
+1.819
+
+1,741
+
+45
+
+172
+
+96
+
+77
+
+20
+
+19
+
+14
+
+13
+
+Total debt service
+IBRD
+IDA
+
+70
+4
+0
+
+164
+31
+0
+
+348
+26
+1
+
+347
+22
+1
+
+Composition of net resource flows
+Official grants
+Official creditors
+Private creditors
+Foreign direct investment
+
+0
+43
+21
+1
+
+-1
+52
+37
+24
+
+0
+14
+-113
+13
+
+-1
+14
+-1668
+223
+
+World Bank program
+Commitments
+Disbursements
+Principal repayments
+
+18
+15
+2
+
+29
+6
+18
+
+5
+2
+20
+
+0
+5
+18
+
+Net flows
+
+13
+
+-12
+
+-18
+
+-13
+
+Interest payments
+Net transfers
+
+3
+11
+
+14
+-26
+
+6
+-24
+
+5
+-18
+
+9
+
+4
+
+EXTERNAL DEBT and RESOURCE FLOWS
+(USS millions)
+Total debt outstanding and disbursed
+lBRD
+IDA
+
+Composition of 2000 debt (USS mill.)
+.
+
+.>
+
+t".;
+
+A- IBRD
+B- IDA
+C-IMF
+
+D-Other multilateral
+
+a
+
+E- Bilateral
+F-Private
+G -Short-temm
+
+Development Economics
+4/12/02
+1/ If NIDF (National Infrastructure Development Fund) reimbursement to Govemment is induded in the Govemment Accounts, the overall
+fisral deficit comes to 5.7% In 2000/01.
+
+Annex B2
+1 of I
+
+c1ilPage
+
+CAS Annex B2 - Mauritius
+Selected Indicators* of Bank Portfolio Performance and Management
+As of 3/25/2002
+
+1999
+
+2000
+
+2001
+
+2002
+
+4
+2.7
+
+3
+3.1
+
+3
+4.1
+
+3
+3
+
+Percent of Problem Projects by Number c
+Percent of Problem Projects by Amount a, c
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+Percent of Projects at Risk by Number a d
+Percent of Projects at Risk by Amount as d
+Disbursement Ratio (%) e
+Portfolio Management
+CPPR during the year (yes/no)
+Supervision Resources (total US$)
+Average Supervision (US$/project)
+
+0
+0
+
+0
+0
+
+0
+0
+
+0
+0
+
+25.1
+
+8.2
+
+25.7
+
+12.7
+
+No
+365,500
+80,000
+
+No
+215,680
+70,000
+
+No
+213,140
+70,000
+
+No
+313,800
+100,000
+
+Indicator
+PortfolioAssessment
+Number of Projects Under Implementation
+Average Implementation Period (years) b
+
+H
+
+Memorandum Item
+Proj Eval by OED by Number
+Proj Eval by OED by Amt (US$ millions)
+% of OED Projects Rated U or HU by Number
+% of OED Projects Rated U or HU by Amt
+a.
+b.
+c.
+d.
+e.
+*
+
+Since FY 80 Last Five FYs
+6
+26
+38.4
+282.4
+19.2
+0
+0
+0
+
+As shown in the Annual Report on Portfolio Performance (except for current FY).
+Average age of projects in the Bank's country portfolio.
+Percent of projects rated U or HU on development objectives (DO) and/or implementation progress (IP).
+As defined under the Portfolio Improvement Program.
+Ratio of disbursements during the year to the undisbursed balance of the Bank's portfolio at the
+beginning of the year: Investment projects only.
+AJI indicators are for projects active in the Portfolio, with the exception of Disbursement Ratio,
+which includes all active projects as well as projects which exited during the fiscal year.
+
+Annex B3
+CAS Annex B3 - IBRD/IDA Program Summary
+
+Mauritius
+
+Page 1 of 1
+
+As of 3125/2002
+Proposed IBRD/IDA Base and High Case Lending Program a
+
+Fiscal year
+
+Base Case
+2002
+2004
+
+Proj ID
+
+US$(M4)
+
+PERL
+PERL
+Total
+
+PERL
+PERL
+PERL
+Total
+
+Strategic Rewards b
+(HIMDL)
+
+Implementation b
+Risks (HIMIL)
+
+40.0
+40.0
+80.0
+
+H
+H
+
+M
+M
+
+40.0
+40.0
+40.0
+120.0
+
+H
+H
+H
+
+M
+M
+M
+
+High Case
+2002
+2003
+2004
+
+a. This table presents the proposed program for the FYo2-04.
+
+Annex B3 (IFC/MIGA)
+Page 1 of 1
+
+CAS Annex B3 (IFC & MIGA) for Mauritius
+As of April 1, 2002
+
+Mauritius - IFC and MIGA Program, FY 1999-2002
+1999 2000 2001 2002
+EFC approvals (US$m)
+
+0
+
+0
+
+0
+
+0
+
+MIGA guarantees (US$m)
+
+0
+
+0
+
+0-
+
+0
+
+Annex B4
+Page 1 of 1
+
+CAS Annex B4 - Summary of Nonlending Services As Of Date 03/25/2002
+
+Product
+
+Completion FY Cost (US$000)
+
+Audience"
+
+Objective b
+
+Recent completions
+Pension Reform
+
+FY02
+
+50
+
+Government
+
+Knowledge
+
+FY02
+
+35
+
+Bank
+
+Knowledge
+
+FY03
+FY03
+
+35
+95
+
+Government
+Government
+
+Knowledge
+Knowledge
+
+FY03
+FY04
+FY05
+
+150
+170
+150
+
+Public Dissemination
+Public Dissemination
+Public Dissemination
+
+Knowledge
+Knowledge
+Knowledge
+
+FY04
+FY04
+FY05
+FY05
+
+100
+75
+80
+50
+
+Public Dissemination
+Public Dissemination
+Public Dissemination
+Public Dissemination
+
+Knowledge
+Knowledge
+Knowledge
+Knowledge
+
+Underway
+ESW
+
+CPAR
+Policy Papers
+
+Transport Action Plan
+Education Sector Note
+Planned
+ESW
+
+PER
+Social Welfare
+CEM
+Policy Papers (with partners)
+
+Labor Market review
+Informal Economy & Taxation
+Health Study
+Gender Assessment
+
+a. Government, donor, Bank, public dissemination.
+b. Knowledge generation, public debate, problem-solving.
+
+Annex B5
+Page 1 of 1
+
+Mauritius Social Indicators
+Latest single year
+
+Same region/income group
+UppermiddleIncome
+
+1970-75
+
+1980-85
+
+1993-00
+
+SubSaharan
+Africa
+
+0.9
+1.5
+43.4
+3.1
+
+1.0
+1.0
+41.4
+2.3
+
+1.2
+1.1
+41.1
+2.0
+
+642.8
+2.6
+33.8
+5.3
+
+571.5
+1.4
+75.4
+2.4
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+3,800
+130
+127
+
+490
+131
+
+4,870
+131
+
+1.7
+4.1
+..
+
+3.3
+5.0
+7.9
+
+..
+
+94
+
+POPULATION
+Total population, mid-year (millions)
+Growth rate (%annual average for period)
+Urban population (%of population)
+Total fertility rate (births per woman)
+POVERTY
+(%ofpopulation)
+National headcount index
+Urban headcount index
+Rural headcount index
+INCOME
+GNI per capita (US$)
+Consumer price index (1995=1 00)
+Food price index (1995=1 00)
+INCOMEICONSUMPTION DISTRIBUTION
+Gini Index
+Lowest quintile (%of income or consumption)
+Highest quintile (%of income or consumption)
+SOCIAL INDICATORS
+Public expenditure
+Health (%of GDP)
+Education (%of GNI)
+Social security and welfare (%of GDP)
+Net primary school enrollment rate
+(%of age group)
+Total
+Male
+Female
+Access to an Improved water source
+(%of population)
+Total
+Urban
+Rural
+Immunization rate
+(%under 12 months)
+Measles
+DPT
+Child malnutrition (%under 5 years)
+Life expectancy at birth
+(years)
+Total
+Male
+Female
+Mortality
+Infant (per 1,000 live births)
+Under 5 (per 1,000 live births)
+Adult (15-59)
+Male (per 1,000 population)
+Female (per 1,000 population)
+Maternal (per 100,000 live births)
+Births attended by skilled health staff (%)
+
+780
+15
+..
+
+4.5
+55.0
+
+1,060
+50
+48
+
+..
+..
+
+3.6
+6.3
+
+3.8
+4.1
+
+1.8
+4.6
+5.0
+
+80
+81
+80
+
+101
+100
+101
+
+98
+98
+98
+
+..
+
+99
+100
+98
+
+100
+100
+100
+
+55
+82
+41
+
+87
+94
+68
+
+..
+
+61
+
+..
+
+85
+
+57
+59
+
+90
+88
+
+..
+
+24
+
+79
+85
+15
+
+64
+62
+67
+
+68
+65
+71
+
+71
+67
+75
+
+47
+46
+48
+
+69
+66
+73
+
+45
+86
+
+26
+40
+
+17
+23
+
+92
+161
+
+27
+34
+
+268
+205
+
+247
+181
+
+207
+113
+50
+97
+
+499
+453
+
+233
+143
+
+..
+
+..
+..
+
+..
+..
+
+..
+
+..
+
+81
+
+Note: 0 or 0.0 means zero or less than half the unit shown. Net enrollment ratios exceeding 100 indicate discrepancies
+between the estimates of school-age population and reported enrollment data. Latest year for access to improved water
+source data is 2000.
+2001 World Development Indicators CD-ROM, World Bank
+
+Anmex B6
+Page I of 2
+
+Mauritius - Key Economic Indicators
+As Of Date 03/2512002
+
+Indicator
+
+Actual
+1998/99
+1999/00
+
+Estimate
+2000/01
+
+2001/02
+
+Projected
+2002/03
+2003i04
+
+2004/Q5
+
+National accounts (as % of GDP)
+Gross domestic product a!
+Agriculture
+Industry
+Services
+
+100.0
+8.6
+31.5
+59.9
+
+100.0
+5.9
+31.6
+62.5
+
+100.0
+6.3
+31.2
+62.5
+
+100.0
+6.5
+31.1
+62.4
+
+100.0
+6.0
+31.7
+62.3
+
+100.0
+5.8
+31.7
+62.5
+
+100.0
+5.8
+31.7
+62.5
+
+Total Consumption
+Gross domestic fixed investment
+Government investment
+Private investment
+
+76.2
+25.5
+6.3
+19.1
+
+76.3
+25.6
+6.5
+19.1
+
+74.7
+23.5
+6.9
+16.6
+
+74.7
+25.1
+8.7
+16.4
+
+74.9
+25.8
+8.8
+17.0
+
+75.2
+26.0
+9.0
+17.0
+
+74.8
+26.3
+8.8
+17.5
+
+Exports (GNFS) b/
+Imports (GNFS)
+
+65.0
+67.3
+
+63.3
+65.3
+
+63.7
+62.8
+
+63.0
+62.8
+
+62.2
+62.9
+
+62.0
+63.2
+
+62.5
+63.6
+
+Gross domestic savings
+Gross national savings c/
+
+23.8
+25.4
+
+23.7
+25.1
+
+25.3
+27.2
+
+25.3
+26.8
+
+25.1
+26.8
+
+24.8
+26.6
+
+25.2
+27.1
+
+4175
+
+4424
+
+4500
+
+4537
+
+4724
+
+4975
+
+5216
+
+3750
+
+3640
+
+4110
+
+4120
+
+4060
+
+4170
+
+4330
+
+2.6
+4.8
+
+7.2
+7.5
+
+5.3
+5.2
+
+4.6
+4.6
+
+5.5
+5.1
+
+5.3
+5.0
+
+Real annual per capita growth rates (%, calculated from 1992 prices)
+Gross domestic product at market prices
+4.2
+1.3
+Total consumption
+7.5
+3.1
+Private consumption
+8.3
+2.8
+
+6.1
+4.5
+4.4
+
+4.5
+4.3
+4.3
+
+3.6
+3.9
+3.3
+
+4.5
+4.2
+4.4
+
+4.3
+3.3
+3.7
+
+Memorandum items
+Gross domestic product
+(US$ million at current prices)
+GNP per capita (US$, Atlas method)
+
+Real annual growth rates (%, calculated from 1992 prices)
+Gross domestic product at market prices
+5.3
+Gross Domestic Income
+6.6
+
+Balance of Payments (US$ millions)
+Exports (GNFS) b/
+Merchandise FOB
+Imports (GNFS)b/
+Merchandise FOB
+Resource balance
+Net current transfers
+Current account balance
+Net private foreign direct investment
+Long-term loans (net)
+Other capital (net, inc. errors & ommissio
+Change in reservesd
+Memorandum items
+Resource balance (%of GDP)
+Real annual growth rates ( YR92 prices)
+Merchandise exports (FOB)
+Primary(sugar)
+Manufactures
+Merchandise imports (CIF)
+
+2649
+1680
+2782
+2046
+-133
+91
+-65
+
+2605
+1523
+2735
+2006
+-130
+96
+-69
+
+2784
+1633
+2787
+1912
+-2
+79
+80
+
+2858
+1639
+2847
+1922
+10
+85
+77
+
+2938
+1649
+2974
+2003
+-35
+88
+47
+
+3086
+1732
+3144
+2130
+-58
+91
+32
+
+3262
+1831
+3318
+2257
+-57
+95
+40
+
+19
+40
+35
+-28
+
+13
+-62
+202
+-84
+
+223
+-96
+-22
+-185
+
+30
+99
+-84
+-123
+
+30
+32
+-86
+-23
+
+35
+23
+-31
+-59
+
+40
+13
+-40
+-53
+
+-3.2
+
+-2.9
+
+0.0
+
+0.2
+
+-0.7
+
+-1.2
+
+-1.1
+
+8.4
+3.7
+12.0
+7.7
+
+-5.1
+-39.0
+4.3
+1.6
+
+11.5
+49.0
+4.0
+-4.5
+
+2.0
+14.3
+1.0
+3.9
+
+0.7
+-18.0
+4.5
+4.1
+
+4.1
+0.7
+5.0
+4.4
+
+4.8
+0.0
+6.0
+4.2
+
+.
+
+(Continued)
+
+Annex B6
+Page 2 of 2
+
+Mauritius - Key Economic Indicators
+(Continued)
+
+Indicator
+
+Actual
+1998.99
+l 999:r0o
+
+Estimate
+2.00001
+
+2001/02
+
+Proiected
+2002'03
+2')3 1"4
+
+201'4',l4
+
+Public flnance (as % of GDP at market prices) e/
+Current revenues
+Current expenditures
+Current account surplus (+) or deficit (-)
+Capital expenditure
+Foreign financing
+Monetary indicators
+M2/GDP
+GrowthofM2(%)
+Private sectorcredit growth/
+total credit growth (%)
+Price Indices( YR92 =100)
+Merchandise export price index
+Merchandise import price index
+Merchandise terms of trade index
+Real exchangerate (US$/LCU)f/
+Real interest rates (one year term deposit)
+Consumer price index (%change)
+GDP deflator (%change)
+
+20.1
+21.1
+-1.0
+2.9
+-1.1
+
+20.4
+20.7
+-0.3
+3.9
+-0.5
+
+18.3
+21.2
+-2.9
+3.6
+-2.9
+
+18.3
+19.9
+-1.6
+4.9
+0.9
+
+19.2
+20.4
+-1.2
+4.8
+1.5
+
+19.6
+20.3
+-0.7
+4.8
+1.4
+
+20.1
+20.0
+0.2
+4.7
+0.1
+
+77.4
+13.2
+157.2
+
+78.8
+10.9
+95.2
+
+78.7
+9.9
+152.4
+
+78.6
+11.1
+83.3
+
+78.5
+9.6
+100.0
+
+78.4
+10.4
+100.0
+
+78.3
+9.9
+100.0
+
+97.0
+100.0
+97.0
+97.6
+
+92.5
+97.5
+95.0
+103.2
+
+89.0
+97.3
+91.5
+106.1
+
+87.6
+94.5
+92.6
+102.6
+
+87.5
+94.6
+92.4
+
+88.2
+96.5
+91.5
+
+89.0
+98.1
+90.7
+
+4.1
+7.9
+5.0
+
+5.5
+5.3
+6.1
+
+7.0
+4.4
+2.6
+
+5.8
+6.0
+5.6
+
+5.0
+5.8
+5.0
+
+4.0
+5.0
+4.8
+
+4.0
+4.7
+4.5
+
+a. Shares refer to GDP at factor cost. Growth rate of GDP at facor cost was 3 and 8 percent in 99/00 and 00/01, respectively.
+b. "GNFS" denotes "goods and nonfactor services."
+c. Includes net unrequited transfers excluding official capital grants.
+d. Includes use of IMF resources.
+e/ Consolidated central government. If NIDF (National Infrastructure Development Fund) reimbursement to Government is
+included in the Government Accounts, the overall fiscal deficit comes to 5.7% in 2000/01.
+f. "LCU" denotes "local currency units." An increase in US$/LCU denotes depreciation.
+
+Annex B7
+Page 1 of 1
+
+Mauritius - Key Exposure Indicators
+As Of 0312512002
+
+Indicator
+Total debt outstanding and
+disbursed (TDO) (US$m)a
+Net disbursements (US$m)a
+Total debt service (TDS)
+(US$m)a
+
+Actual
+Estimate
+1998/99 1999/00 2000/01
+1,873
+
+1,819
+
+1,741
+
+2001/02
+1,789
+
+Projected
+2002/03
+2003/04
+1,748
+
+1,720
+
+2004/05
+1,703
+
+47
+
+-12
+
+-86
+
+34
+
+-43
+
+2
+
+-17
+
+227
+
+348
+
+347
+
+223
+
+188
+
+153
+
+144
+
+65.3
+44.9
+7.9
+17.9
+
+64.4
+41.1
+12.3
+18.1
+
+57.7
+38.7
+11.5
+18.1
+
+58.4
+39.4
+7.3
+18.7
+
+55.5
+37.0
+6.0
+20.1
+
+52.1
+34.6
+4.6
+21.6
+
+48.9
+32.7
+4.1
+21.5
+
+14.2
+23.6
+
+6.8
+15.7
+
+5.7
+11.7
+
+7.4
+18.7
+
+9.0
+22.2
+
+13.1
+27.7
+
+14.6
+27.7
+
+0.9
+110
+
+0.9
+96
+
+0.7
+77
+
+0.5
+108
+
+0.5
+100
+
+0.6
+131
+
+0.5
+123
+
+0.1
+14
+
+0.1
+14
+
+0.1
+13
+
+0.1
+13
+
+0.1
+12
+
+0.1
+12
+
+0.1
+11
+
+Debt and debt service indicators
+
+(%)
+TDO/XGSb
+TDO/GDP
+TDS/XGS
+Concessional/TDO
+IBRD exposure indicators (%)
+IBRD DS/public DS
+Preferred creditor DS/public
+DS (%)c
+IBRD DS/XGS
+IBRDTDO(US$m)d
+Of which present value of
+guarantees (US$m)
+Share of BRD portfolio (%)
+IDATDO(US$m)d
+IFC (US$m)
+Loans
+Equity and quasi-equity /c
+MIGA
+
+M IGA guarantees iLUSSm)
+
+a. Includes public and publicly guaranteed debt, private nonguaranteed, use of IMF credits and net shortterm capital.
+b. "XGS" denotes exports of goods and services, including workers' remittances.
+c. Preferred creditors are defined as IBRD, IDA, the regional multilateral development banks, the IMF, and the
+Bank for Intemational Settlements.
+d. Includes present value of guarantees.
+e. Includes equity and quasi-equity types of both loan and equity instruments.
+
+Annex B8
+Page 1 of I
+CAS Annox 90 - Mauritius
+Optteans Portfdlio (IBRD/IDA and Grants)
+As of 03126i2002
+Closed Projec
+
+IBRDDA '
+(Active)
+Tot Disbursed
+of whichhas beenrepaid
+(Closed)
+TotiaDisbursed
+of whichhasbeenrepaid
+(Active Caosed)
+TotalDisbursed
+hasbeenrepa!d
+of ewhidc
+(Acive)
+TotalUndisbursed
+(Closed)
+Tottl Undisbursed
+(Acive . Cosed)
+TotalUndisbuased
+
+34
+
+7.60
+0.00
+333.20
+321.00
+340.77
+321.03
+11.22
+0.00
+11.22
+
+Difference Between
+Expected and Actual
+
+Active Prolecto
+'ast PSR
+
+Project ID
+P001921
+P066198
+P073594
+TOTAL
+
+Project Name
+Env.Sewerage&Sanitation
+Financial Sec. Infrastructure
+Financiial Sec. Supervisory Auth.
+
+ent
+eo
+Objectives
+S
+S
+S
+
+a. Intended disbursements to date minus actual disbursements to date as projected at appraisal.
+
+emnon
+Pras
+S
+S
+S
+
+Disbursemento w
+
+OrlQlnal Amount In US$ Mllilons
+
+Supervislon Ratng
+Fiscal Ycar
+1998
+2000
+2002
+
+IBRD
+12.4
+4.8
+1.8
+19
+
+IDA
+
+GRANT
+
+Cancel.
+
+Undisb.
+7.2
+2.2
+1.8
+11.2
+
+OrIg. Frm Rfd
+6.5
+1.8
+0
+8.3
+
+Annex B8 (IFC)
+Page 1 of 1
+
+CAS Annex B8 (IFC) for Mauritius
+Mauritius
+Statement of IFC's
+Held and Disbursed Portfolio
+As of 2/28/2002
+(In US Dollars Millions)
+Held
+FY Approval
+1991
+1996
+1986
+
+Disbursed
+
+Company
+Loan Equity Quasi Partic Loan Equity Quasi Partic
+AEFCSL
+0 0.19
+0
+0
+0 0.19
+0
+0
+MVCF
+0
+1.44
+0
+0
+0
+1.44
+0
+0
+SocotaTextile
+0
+0
+0
+0
+0
+0
+0
+0
+
+Total Portfolio:
+
+0
+
+1.63
+
+0
+
+0
+
+Approvals Pending Commitment
+Loan Equity Quasi Partic
+
+0
+
+1.63
+
+0
+
+0
+
+Annex B10
+Page 1of 1
+
+CAS Annex BIO - Mauritius
+CAS Summary of Development Priorities
+As of 312512002
+
+Network area
+
+Country
+performnancea
+
+Major issueb
+
+Country
+priorityC
+
+BankpriorityC
+
+Poverty Reduction & Economic
+Management
+Poverty reduction
+Economic policy
+Public sector
+Gender
+
+Good
+Good
+Good
+Good
+
+Better tools for the poor
+Increase competitiveness/productivity
+Civil service reform
+Increase the role of women in public sector
+
+High
+High
+Moderate
+Moderate
+
+High
+High
+Moderate
+Moderate
+
+Human Development Department
+Education
+Health, nutrition & population
+Social protection
+
+Fair
+Good
+Fair
+
+Access to and quality of education
+Modernization of the health system
+Retargeting of social assistance
+
+High
+Low
+Moderate
+
+High
+Low
+Moderate
+
+Environmentally & Socially
+Sustainable Development
+Rural development
+Environment
+Social development
+
+Excellent
+Good
+Fair
+
+Restructure nonsugar sector
+More efficient waste management
+Improve social development and cohesion
+
+Moderate
+Moderate
+High
+
+Moderate
+Moderate
+High
+
+Strengthen financial sector
+Liberalization of telecoms sector
+n/a
+Alternative source of transport
+
+High
+Moderate
+
+High
+Moderate
+
+High
+
+High
+
+Finance, Private Sector & Infrastructure
+Financial sector
+Excellent
+Private sector
+.
+Good
+Energy & mining
+Good
+Infrastructure/Transport
+Good
+
+a. Use "excellent," "good," "fair," or "poor."
+b. Indicate principal country-specific problems (e.g., for poverty reduction, "rural poverty;" for education, "female secondary completion;" for environment, "urban air pollution").
+c. To indicate priority, use 'low," "moderate," or "high."
+d. Give explanation, if priorities do not agree; for example, another MDB may have the lead on the issue, or there may be ongoing dialogue.
+
+Reconciliation
+of country and
+Bank priorities d
+
+IBRD24629
+
+RITIUS
+MAUI
+HE',' :_.''KLn
+
+'*,
+
+1.
+
+MiEF M"I'Jr
+
+/
+
+,,;
+
+N
+EP,
+pEF.E:i':f.-ND[,sI.Ei)
+
+-
+
+.
+
+-
+
+-
+
+*rE r TCwr Lr -f_F'
+
+-
+
+.
+
+;|/|
+
+r.lT:'l.:~, is ;~FIT-~I.
+
+S,l
+
+Ia'
+
+I
+
+I-
+
+I
+
+It~~,;
+
+-
+
+0
+
+_I
+
+itfr 1_11
+
+I DI ird
+
+_
+
+I..'
+
+'>.-L'
+
+-
+
+-
+
+I~~~~~~~~~~~~~~~HL
+
+\
+
+-1
+
+F-
+
+ST
+
+-
+
+-~~
+
+\4
+
+~~~~~~~~~~~~~~~~~
+
+~
+
+-
+
+L-.
+
+.}1..
+
+t-
+
+1
+
+I
+
+I
+
+:t .-EHI - ,l..'
+..;X
+.. je
+:
+-...
+.
+-I ,,:. a -r
+
+.d
+S;t.,'.
+
+': ., ' { '-1'~~~~~~~~~~~~~~~~~~~~~~~~~~''''~4l.
+
+3 II
+
+.I L
+
+o *l--F:.-- I -4-.cH.ff.:
+
+At J
+
+;
+
+;~~~~~~~~~~~~~~~~D
+
+.,,.,
+
+I--
+
+rt 'c,IJ
+:.
+5. l;
+
+0- :nrF
+
+,nI.I: .S
+
+-
+
+I
+
+.li,'ssvr
+
+I
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~.fl
+
+I
+
+V-
+
+t
+t
+a.-.
+H U 0C2epa,-.:
+e
+!,
+
+__
+
+-
+
+D.-
+
+:993
+
+.
+
+-
+
+-.
+.
+
+... Is
+
+..
+-
+
+i
+
+;
+
+-I
+
+.
+
+.
+
+............ ' , ,
+
+__
+
+1993
+~~~~~~~~~~~~~~~~
+
+

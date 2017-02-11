@@ -1,0 +1,2886 @@
+Public Disclosure Authorized
+
+Document of
+The World Bank
+
+FOR OFFICIAL USE ONLY
+
+Public Disclosure Authorized
+
+Report No. 69510-MH
+
+INTERNATIONAL DEVELOPMENT ASSOCIATION
+INTERNATIONAL FINANCE CORPORATION
+
+COUNTRY PARTNERSHIP STRATEGY
+
+Public Disclosure Authorized
+
+Public Disclosure Authorized
+
+FOR
+
+THE REPUBLIC OF THE MARSHALL ISLANDS
+FOR THE PERIOD FY13-FY16
+
+February 19, 2013
+
+Timor-Leste, Papua New Guinea and Pacific Islands Country Management Unit
+East Asia and Pacific Region
+The International Finance Corporation
+East Asia and Pacific
+
+This document has a restricted distribution and many be used by recipients only in the performance of
+their official duties. Its contents may not be otherwise disclosed without World Bank authorization.
+
+CURRENCY EQUIVALENTS
+Currency Unit:
+United States Dollar (USD)
+ABBREVIATIONS AND ACRONYMS
+ADB
+COBP
+CPAP
+CPS
+CTF
+GDP
+Gbps
+GEF
+GFDRR
+GNI
+GPO
+IBRD
+ICT
+IDA
+IDF
+IFC
+IMF
+MDG
+MEC
+NGO
+NTA
+PNA
+PROP
+RMI
+SDR
+SOE
+SPC
+TRAM
+UNDP
+UNFPA
+UNICEF
+UNV
+US
+WDO
+
+Asian Development Bank
+Country Operations Business Plan
+Country Programme Action Plan
+Country Partnership Strategy
+Compact Trust Fund
+Gross Domestic Product
+Gigabits per second
+Global Environment Facility
+Global Facility for Disaster Reduction and Recovery
+Gross National Income
+Global Partnership for Oceans
+International Bank for Reconstruction and Development
+Information and Communication Technologies
+International Development Association
+Institutional Development Fund
+International Finance Corporation
+International Monetary Fund
+Millennium Development Goals
+Marshalls Energy Company
+Nongovernmental Organization
+National Telecommunications Authority
+Parties to the Nauru Agreement
+Pacific Islands Regional Oceanscape Program
+Republic of the Marshall Islands
+Special Drawing Rights
+State-owned Enterprise
+Secretariat of the Pacific Community
+Tax and Revenue Reform and Modernization Commission
+United Nations Development Programme
+United Nations Population Fund
+United Nations Children’s Fund
+United Nations Volunteers
+United States
+Women in Development Office
+
+Vice President
+Country Director
+Task Team Leader
+
+IDA
+Axel van Trotsenburg
+Franz Drees-Gross
+Piers Merrick
+
+IFC
+Karin Finkelston
+Sergio Pimenta
+Gavin Murray
+
+THE REPUBLIC OF THE MARSHALL ISLANDS
+THE WORLD BANK GROUP
+COUNTRY PARTNERSHIP STRATEGY
+TABLE OF CONTENTS
+EXECUTIVE SUMMARY ................................................................................................... i
+I. INTRODUCTION ................................................................................................................. 1
+II. COUNTRY CONTEXT AND DEVELOPMENT CHALLENGES ................................. 2
+Sociopolitical Context ............................................................................................................ 2
+Millennium Development Goals, Youth Development and Gender ...................................... 2
+Economic Context .................................................................................................................. 4
+Poverty.................................................................................................................................... 8
+Macroeconomic Outlook and Debt Sustainability ................................................................. 8
+Government Priorities and Development Framework .......................................................... 11
+Development Partner Engagement ....................................................................................... 11
+III. WORLD BANK GROUP ENGAGEMENT IN THE PACIFIC..................................... 13
+Translating Pacific Themes into the Marshall Islands Program ........................................... 14
+Selectivity, Flexibility and New Ways of Doing Business .................................................. 17
+Financing Terms and Sources .............................................................................................. 18
+IV. MANAGING RISK ............................................................................................................. 18
+Boxes
+Box 1: Republic of the Marshall Islands’ Compact Trust Fund ............................................. 6
+Box 2: Proposed Analytical, Advisory and Technical Assistance Activities ....................... 17
+Tables
+Table 1: Recent Fiscal Trends FY2007-2012 ........................................................................ 5
+Table 2: Summary of Medium-Term Macroeconomic Indicators ......................................... 9
+Table 3: The Marshall Islands: Indicative IDA and Trust Fund Operations – FY13-16 ..... 18
+Annexes
+Annex 1: Development Partner Engagement by Sector ....................................................... 20
+Annex 2: The Marshall Islands CPS Results Matrix ............................................................ 21
+Annex 3: The Marshall Islands: At A Glance ...................................................................... 23
+Annex 4: The Marshall Islands: Key Indicators Table, FY2008–13 .................................... 26
+Annex 5: Map of the Republic of the Marshall Islands........................................................ 27
+
+EXECUTIVE SUMMARY
+i.
+This is the first World Bank Group Country Partnership Strategy (CPS) for the
+Republic of the Marshall Islands. The World Bank Group has been scaling up its engagement
+throughout the Pacific and this CPS reflects the commitment to transition from a regional
+engagement framework to individual country strategies that permit a more detailed analysis of a
+country's specific development challenges. This CPS outlines a program of assistance intended
+to strengthen economic governance to improve living standards and enhance service delivery.
+The CPS is presented together with the country's first International Development Association
+(IDA) operation.
+ii.
+The Marshall Islands is one of the world’s smallest, most isolated and vulnerable
+nations. The country consists of 29 atolls and 5 isolated islands (24 of which are inhabited) and
+has a total land mass of just 181 km2 set in an ocean area of over 1.9 million km2. The
+population of the Marshall Islands is estimated at 53,000 of which close to half are resident in
+Majuro, the capital city. The country is vulnerable to occasional typhoons and its 370km
+coastline renders it particularly susceptible to extreme waves and high tides.
+iii.
+The Marshall Islands faces many of the development challenges common to small,
+remote economies. Small size and remoteness increase the costs of economic activity and make
+it difficult to achieve economies of scale. Remoteness also imposes transport costs that increase
+the costs of trade and fundamentally constrain competitiveness of exports of goods and services
+in world markets. These same factors also increase the cost and complexity of providing public
+services. There is also an opportunity and a need to bring greater attention to gender concerns in
+the Marshall Islands and all World Bank Group interventions will be informed by a consideration
+of these issues.
+iv.
+The World Bank Group program will focus on strengthening economic governance
+and promoting the effective use of public resources to enhance living and service delivery
+standards for all Marshallese. To help mitigate the effects of economic isolation, the World
+Bank will seek to help the Marshall Islands take advantage of opportunities from closer regional
+and global integration. The World Bank Group will support the liberalization and regulation of
+the telecommunications sector with the aim of connecting more Marshallese to social and
+economic opportunities. The Marshall Islands has indicated it will participate in a proposed
+regional fisheries operation that would strengthen the governance and sustainable management
+of tuna fisheries and help increase the share of revenue captured by the Marshall Islands from
+this significant natural resource. The Government has also signaled a willingness to address
+important structural reforms in the energy sector, to improve management of Compact Trust
+Fund assets and to enhance the investment climate, all of which could also be supported by the
+World Bank Group.
+v.
+World Bank Group support to the Marshall Islands will require an agile and flexible
+approach. As the World Bank Group deepens engagement in the Marshall Islands, there will be
+a need to balance selectivity with a willingness to support emerging development priorities and
+opportunities. Moreover, all World Bank Group interventions will need to be informed by an
+appreciation of the extraordinary capacity constraints facing the Marshall Islands.
+i
+
+I.
+
+INTRODUCTION
+
+1.
+The World Bank Group has been scaling-up analytical and financial support
+throughout the Pacific and is now well-placed to provide International Development
+Association (IDA) support to the Republic of the Marshall Islands (RMI). The Marshall
+Islands became a member of the International Bank for Reconstruction and Development (IBRD)
+in May 1992, of the International Finance Corporation (IFC) in September 1992, and of IDA in
+January 1993. Upon membership, the Marshall Islands was classified as IBRD due to a high per
+capita income level. However, in part because of creditworthiness concerns, the Marshall
+Islands was unable to access IBRD resources, and the country’s engagement with the World
+Bank was limited to support provided under the Institutional Development Fund (IDF), the
+Global Environment Facility (GEF), and analytical work. In July 2011, in the wake of
+successive food and fuel price increases and the lingering effects of the global financial crisis,
+the Marshall Islands was reclassified to IDA-only status under the exception for small island
+economies. This Country Partnership Strategy (CPS) signals the World Bank Group’s long-term
+commitment to supporting the Marshall Islands’ development and will be presented together
+with the First Information and Communication Technologies (ICT) Sector Development Policy
+Operation.
+2.
+This CPS outlines a World Bank Group program that responds to the Marshall
+Islands’ development priorities and that is informed by the broader themes guiding the World
+Bank Group’s engagement in the Pacific. The practice of developing individual country
+strategies for all Pacific country members reflects that, while Pacific island countries face many
+common development challenges, Pacific members benefit from strategies that address their
+specific country conditions. Through this CPS, the World Bank Group aims to adapt its
+instruments to the Marshall Islands’ country context, and to refine implementation approaches
+based on experience derived from engagement elsewhere in the Pacific. Country strategies in
+“micro-states” such as the Marshall Islands will of necessity be concise, selective, highly
+flexible, and seek to draw upon the full range of available instruments. As a result, the CPS
+should be viewed as providing a framework for engagement rather than a precisely detailed
+program as might be expected in a larger country or where Bank engagement is more
+established. The Government of the Marshall Islands is strongly supportive of the preparation of
+an individual CPS and of the program it outlines.
+3.
+To deepen the World Bank Group’s understanding of the Marshall Islands’ context
+and priorities, the program will draw upon the analytical work and operational experience of
+more established development partners. The World Bank has participated in recent
+International Monetary Fund (IMF) Article IV missions, and the proposed interventions have
+been shaped through consultation with the Asian Development Bank (ADB) and the United
+States (US) Government.
+
+1
+
+II.
+
+COUNTRY CONTEXT AND DEVELOPMENT CHALLENGES
+
+Sociopolitical Context
+4.
+The Republic of the Marshall Islands is a Micronesian Island nation with a history of
+settlement stretching back 4,000 years to the arrival of the first navigators. The chance arrival
+of the Spanish voyager Alonso de Salazar in 1526 marked the first European contact with the
+country, and it was not until 1788 that British Naval Captain William Marshall named it when
+sailing through the area while transporting convicts to Australia. In the period 1885-1914, the
+Marshall Islands was annexed to Germany until its capture by Japan in the First World War.
+Japan governed the Marshall Islands until the allied occupation in the Second World War and the
+country’s subsequent transfer to US control. From 1946-1958, the United States tested 67
+nuclear weapons in the Marshall Islands including those in Bikini Atoll, and the 1952 test of the
+first US Hydrogen bomb that destroyed an island in Enetewok Atoll. The health effects from
+radioactive contamination persist, and in the period 1956-1998, the US provided US$759 million
+in compensation to affected Marshallese.
+5.
+The Marshall Islands became self-governing in 1979. It achieved formal independence
+in 1990 and is governed as a mixed parliamentary-presidential system. General elections are
+held every four years (most recently in November 2011) with each of 24 constituencies electing
+one or more representatives (Senators) to the lower house of the bicameral legislature Nitijela.
+The President, and Head of State, is subsequently elected by the 33 Senators. The upper house
+The Council of Iroij is an advisory body comprising 12 tribal chiefs.
+6.
+The Marshall Islands is one of the world’s smallest, most isolated and vulnerable
+nations, and is already beginning to feel the effects of climate change. The country consists of
+29 atolls and five isolated islands (24 of which are inhabited) and has a total land mass of just
+181km2 set in an ocean area of over 1.9 million km2. The population of the Marshall Islands is
+estimated at about 53,000 1 of which over half are resident in the capital city of Majuro. The
+country is vulnerable to occasional typhoons and, like other low-lying Pacific nations, its 370km
+coastline, which is home to 99 percent of the population, renders it particularly susceptible to
+extreme waves and high tides. The Intergovernmental Panel on Climate Change concluded in
+their 4th Assessment Report (2007) that sea-level rise is likely “to be of a magnitude that will
+disrupt virtually all economic and social sectors in small island nations…”
+Millennium Development Goals, Youth Development and Gender
+7.
+Data suggest that the Marshall Islands’ progress towards the Millennium Development
+Goals (MDG) has been uneven. A 2011 MDG Tracking Report 2 notes that the Marshall Islands
+is not on track to meet the MDG Goals on Eradicating Extreme Poverty (Goal 1) or Combating
+HIV/AIDS and Other Diseases (Goal 6). The country has made mixed progress towards
+Achieving Universal Primary Education, Promoting Gender Equality and Empowering Women,
+
+1
+2
+
+The RMI 2011 Census of Population and Housing Summary Report.
+Pacific Islands Forum Secretariat. 2011 Pacific Regional MDGs Tracking Report pp.74-75.Suva.
+
+2
+
+and Ensuring Environmental Sustainability (Goals 2, 3, and 7, respectively). It is on track to
+meet Goals 4 and 5 (Reduce Child Mortality and Improve Maternal Health).
+8.
+A median age of 21 3 years makes the Marshall Islands one of the youngest Pacific
+nations in demographic terms. A high birth rate, the continuing effects of urbanization, and a
+largely stagnant economy are generating significant pressure on the country to provide increased
+educational and employment opportunities, and to provide social services. Urbanization has
+resulted in high population density in major capitals. Under these pressures traditional social
+structures (as reflected in the Marshallese saying "jake jobol eo” or "no person will go hungry
+through sharing") are beginning to break down. The Marshall Islands enjoys a relatively high
+and equal level of primary education for boys and girls. Among youth, unemployment levels are
+estimated to be more than twice the national unemployment rate and widely acknowledged as a
+major source of social tension. It is estimated that around 11,000 people emigrated between 1999
+and 2011.
+9.
+There is compelling evidence of the need for greater efforts to address gender disparities.
+The recent "Stock-Take of the Gender Mainstreaming Capacity of the Republic of the Marshall
+Islands" published by the Secretariat of the Pacific Community (SPC) in April 2012 provides a
+comprehensive analysis of the issues facing women and girls in the Marshall Islands. Teen
+pregnancy in the Marshall Islands is higher than for most other Pacific Islands and accounts for
+nearly 20 percent of all pregnancies. While two out of three men are economically active, only
+one in three women is, and unemployment rates are significantly higher among women than men
+(37 and 28 percent respectively). There is currently only one female member of the 33 seat
+Nitijela, and only three women out of twelve appointees in the largely consultative Council of
+Iroij. The report finds that 30 percent of women have experienced violence since the age of 15
+(primarily at the hands of their husband or partner) and over 22 percent of all women have
+experienced violence in the last year. The Women in Development Office (WDO) was
+established by the Government in 1979 to serve as the designated policy coordination unit
+responsible for government-wide mainstreaming of gender issues. The WDO is significantly
+under-resourced (WDO currently receives an annual budget of about US$72,000) and has
+recently been absorbed into the Ministry of Internal Affairs. As a result, there is no ready
+mechanism by which gender considerations can be systematically integrated into national
+legislation or inform budgetary processes.
+10. There is scope for the World Bank Group to provide a more systematic consideration of
+gender issues and to initiate assistance that could catalyze increased donor effort. The World
+Bank will be assessing a number of the recommendations in the SPC report including the
+possibility of providing technical assistance for the development of a national gender policy,
+supporting the collection of gender-disaggregated statistics, and organizing a donors’ meeting to
+enhance awareness and coordination on gender issues. All World Bank Group interventions will
+seek to include gender disaggregated indicators where possible, and all operations will be gender
+informed to the extent possible. A quantitative study to assess the impact of ICT reforms on
+women is proposed as part of the First ICT Sector Development Policy Operation, which may
+
+3
+
+The RMI 2011 Census of Population and Housing Summary Report.
+
+3
+
+help to confirm the anecdotal reports of the positive impact of these reforms in the Pacific and
+elsewhere. The World Bank Group is exploring a range of possible interventions that may
+include collaboration with the Ministry of Internal Affairs to present the findings of the World
+Development Report on Gender to the Cabinet, an analysis of the existing legal framework
+applying to domestic violence (in the context of international conventions ratified by the
+Marshall Islands). A targeted trust-funded project might also be considered with the aim of
+strengthening the department within the Ministry of Internal Affairs responsible for women’s
+issues.
+Economic Context
+11.
+The Marshall Islands faces many of the challenges common to small remote
+economies. Its size and remoteness increase the costs of economic activity and make it unable to
+achieve economies of scale. Remoteness also imposes transport expenses that increase the costs
+of trade, and fundamentally constrain the competitiveness of exports of goods and services
+internationally. These same factors also push up the cost and complexity of providing public
+services and fulfilling the basic functions of Government.
+Moreover, geographical
+characteristics, including populations centered on small, low-lying atolls, make the country
+vulnerable to natural disasters.
+12.
+These barriers have led to an undiversified economic base and persistent current
+account deficits.
+With limited export and domestic production opportunities, public
+administration and social services constitute the largest share of the economy – 40 percent of
+Gross Domestic Product (GDP). The fisheries sector comprises around 10 percent of GDP,
+while manufacturing makes up less than 2 percent. Copra and fisheries are the most significant
+exports, while the Marshall Islands is almost completely reliant on imports for food, fuel, and
+other basic needs. Imports of goods and services totaled US$176 million in 2011, compared to
+total goods and service exports of just US$65 million. The current account deficit excluding
+grants has averaged 47 percent of GDP since 2007.
+13.
+With substantial constraints to export-led growth, the Marshall Islands is heavily
+dependent on aid and other fiscal transfers. The current account deficit is largely financed by
+grant inflows. Aid and fiscal transfers, primarily from the US, support reasonable standards of
+living for the majority of the population, with Gross National Income (GNI) per capita of
+US$3,910 in 2011. On-budget grant income from various sources is equivalent to 49 percent of
+GNI, and official development assistance per capita was over US$3,450 in 2010 4.
+
+4
+
+OECD, World Bank.
+
+4
+
+14.
+Public expenditure in the Marshall Islands has expanded rapidly since 2003 with the
+US Compact of Free Association 5 and other grants, supporting reasonable levels of growth.
+The 2003 amended Compact includes various military and other access arrangements, and
+provides a 20-year stream of funding. Beginning 2005, the US also began to provide the
+Marshall Islands with a Supplemental Education Grant. Together, these grants were equivalent
+to, around 40 percent of GDP in 2011. This Compact agreement replaced the first agreement,
+which ran from 1986 to 2001, and included additional fiscal resources provided to the
+Government of the Marshall Islands. Increased fiscal resources allowed a period of rapid public
+sector expansion through FY2007. 6 Public expenditures grew by an annual average rate of 12
+percent between FY2003 and FY2007, and employment in the public sector expanded by 507
+jobs or at an annual average rate of 6 percent over the same period. Expansion in public
+spending fueled growth of 1.9 percent between FY2003 and FY2007, peaking at 3 percent in
+2007.
+Table 1: Recent Fiscal Trends FY2007-2012
+(Millions of U.S. Dollars)
+
+Source: IMF
+
+5
+
+The Compact of Free Association defines the relationship between the Marshall Islands and the US under which,
+while remaining a sovereign state, the Marshall Islands is considered an associate US state. The Marshall Islands
+receives guaranteed financial assistance from the US in exchange for relinquishing full defense authority and
+responsibilities.
+6
+The Marshall Islands’ Fiscal year runs from October 1 – September 30.
+
+5
+
+15.
+Under the Compact of Free Association, the Marshall Islands receives annual funding
+and access to domestic US Federal Government programs. These include disaster response and
+recovery, US Postal Service, Federal Aviation Commission, and Federal Communications
+Commission. Total recurrent annual funding (including Compact sector grants - US$35.2
+million, Compact Trust Fund contributions – US$12.5 million, Kwajalein land owner
+compensation - US$17.0 million, and Supplemental Education Grant – US$5.9 million) currently
+stands at US$70.6 million. Compact sector grants focus on the education and health sectors,
+public sector infrastructure projects, capacity building programs, as well as special allocations
+relating to the US-operated military facilities. Compact sector grants are scheduled to decline in
+real terms going forward, matched by increases to Compact Trust Fund contributions. The US
+has established the Compact Trust Fund (CTF) that is designed to “contribute to economic
+development and long-term budgetary self-reliance after FY2023” 7(that is, after the Compact
+has expired: see Box 1).
+Box 1: Republic of the Marshall Islands’ Compact Trust Fund
+Established in 2004, the RMI Compact Trust Fund was established as part of the Compact
+of Free Association (the “Compact”) agreement with the US. The CTF is designed to replace
+annual grant assistance from the US beyond 2023 and to contribute to economic advancement and
+long-term budgetary self-reliance. The CTF currently receives annual savings from fiscal
+surpluses along with donor contributions from the US (under the Compact) and Taiwan, China.
+The RMI CTF has a sophisticated setup, and is not fully controlled by RMI. The RMI CTF
+consists of four inter-related accounts (a "capital" account, a "disbursement" account, a "buffer"
+account and a "windfall" account) with no withdrawals expected until 2024. Thereafter, CTF
+returns from the previous year can be transferred to government up to a limit equivalent to the
+annual grant assistance in 2023 (in real terms). The governance of these funds falls on the CTF
+committee (with the United States holding 4 out of 7 votes), which further appoints a trustee,
+investment manager, and independent auditor for the daily management of the assets.
+The market value of the CTF fell significantly during the global financial crisis, given
+significant exposure to growth assets. The market value of the CTF stood at US$142 million
+(82 percent of GDP) as of end-June 2011. The assets of the CTF are invested in approximately 30
+percent defensive assets and 70 percent growth assets. Returns of 11.8 percent and 15.6 percent
+were noted in FY2006 and FY2007 respectively. However during FY2008–09, when the global
+financial crisis occurred, the CTF faced a cumulative investment loss of over 20 percent, while
+the economy contracted by between 1½ - 2 percent in both 2008 and 2009.
+Under current policies, the build-up in government assets in the CTF is projected to fall
+short of replacing Compact grants expiring in FY2023. Recently, the global financial crisis
+has resulted in capital losses and reduced investment returns, and has made it more difficult to
+achieve long-term budgetary self-reliance. Achieving longer term fiscal sustainability will require
+a combination of fiscal consolidation and a higher level of grants than currently projected.
+
+7
+
+Public Law 108-188. 117 Stat, 2814. 2003. P. 77
+
+6
+
+16.
+The Marshall Islands was hit hard by the global food and fuel and economic crises.
+Growth in public expenditure was already slowing in 2008, and a range of major donor-financed
+projects had reached completion when fuel and food prices reached record levels. Heavily
+reliant on imports, inflation in the Marshall Islands reached 15 percent, eroding domestic real
+incomes and reducing demand from local businesses. Record fuel prices brought about a severe
+cash flow crisis at the state-owned electricity utility, the Marshall's Energy Company (MEC),
+requiring the Government to step in to meet the cost of fuel purchases. Domestic revenues
+declined slightly as the economy slowed. Facing a cash-flow crisis, the Government of the
+Marshall Islands imposed emergency measures.
+17.
+Recovery resumed in 2010 and is being sustained through moderation of global
+commodity prices and progress with fiscal management, although risks remain. The economy
+grew by 5.6 percent in FY2010, driven by an expansion of fishery capacity and exports, a
+recovery of external demand and the moderation of fuel prices. Growth fell sharply to 0.8
+percent in FY2011, as a result of high commodity prices, labor shortages, and a delay in the
+airport renovation project. Inflation stabilized in FY2010, falling to 1.8 percent but has remained
+elevated at above 5 percent since FY2011, driven by strengthening import prices. Government
+finances have also improved since FY2009 through the imposition of successive across-theboard spending cuts in FY2009 and FY2010 that have reduced total recurrent spending by more
+than 10 percent. The combination of economic recovery and expenditure control measures
+allowed the Government to avoid cash-flow problems in FY2011, and to generate a fiscal
+surplus, equivalent to about 3.7 percent of GDP. However, the FY2012 budget deficit is
+estimated at about 1.1 percent of GDP, with volatile domestic revenue, declining foreign grants,
+and occasional off-budget spending posing threats to fiscal management. Financial assistance to
+state-owned enterprises (SOEs) in the form of subsidies and capital transfers remains sizable.
+18.
+While confronting fiscal challenges, the Marshall Islands is also struggling to address
+key vulnerabilities in the management of SOEs. SOEs are economically significant, holding
+assets of US$116 million as of end-FY2008 (about 76 percent of GDP) but the performance of
+many SOEs is poor, with Government subsidies to the SOE sector reaching an average of
+US$7.2 million per annum between FY2007 and FY2010 (around 4 percent of GDP). Poorly
+performing SOEs represent a fiscal risk for Government while also constraining growth
+providing poor service and charging high prices.
+19.
+The Government is continuing to progress on key economic and public sector reforms,
+but challenges remain. Among the ongoing reforms are the Comprehensive Adjustment
+Program Advisory Group, created in 2010, and whose recommended priorities for fiscal and
+structural reform have been endorsed by the Cabinet. The Tax and Revenue Reform and
+Modernization Commission (TRAM) has also been created, and its recommendations are soon to
+be implemented through a program of reform supported by the Pacific Financial Technical
+Assistance Center. A report on SOEs was prepared with ADB assistance, which led to the MEC
+Board adopting a comprehensive recovery program. The ADB is supporting these reform efforts
+through a Public Sector Program including loan refinancing of the external debt of MEC. A
+recent review of the current status of the Public Sector Program has indicated that, while some
+reforms are on track (such as tax reform) others (such as generation of a sustained fiscal surplus
+and expenditure compression) are not.
+
+7
+
+Poverty
+20.
+While the incidence of extreme poverty is low in the Marshall Islands, progress toward
+MDG 1 (Eradicate Extreme Poverty and Hunger) has been uneven. The 2011 GNI per capita
+figure of US$3,910 classifies the country as “lower middle-income” although there are
+substantial disparities in cash incomes, which are high in Majuro and Kwajalein (due to a greater
+concentration of highly paid public servants) relative to outer atolls. Although the incidence of
+absolute poverty is low, data indicate high levels of inequality, evidence of malnutrition in urban
+areas, and limited access to cash incomes in rural areas. Incomes in communities affected by
+nuclear testing and receiving compensation (such as Enewetak and Kili) are significantly higher
+than those in other islands. Elsewhere, lack of income-earning opportunities has led to concerns
+over rising unemployment, financial hardship (including declining real incomes and higher levels
+of consumer debt), and hunger. These factors provide powerful incentives for migration from
+outer atolls to the two major urban centers, as well as externally to the United States.
+21.
+The benefits of economic growth have not been shared evenly and there is evidence of
+growing inequality. Economic growth has been driven by expansion in Government expenditure
+and payments to land-owners in certain islands, disproportionately benefiting urban populations
+and those with land title, with populations in outer islands left further behind. According to 1999
+data, the Gini coefficient 8 in the Marshall Islands was 0.54, greater than Fiji at 0.46, Papua New
+Guinea 0.46, Samoa 0.43, Tuvalu 0.43, Tonga 0.42 and the Federated States of Micronesia 0.41.
+Rapid inflation over recent years is reported to have severely impacted the poor. Government
+revenue policy and expenditure do not counter existing inequalities, with an outdated tax system
+and various implicit and explicit exemptions and subsidies having a strongly regressive impact.
+22.
+Improving the quality and availability of poverty data remains a priority for the
+Marshall Islands. The most recent census data documented in the 2011 Census of Population
+and Housing (previous census completed in 1999). A Household Income and Expenditure
+Survey was undertaken in 2002 but did not include a formal poverty analysis. A Community and
+Socioeconomic survey, and a Demographic and Health Survey were completed in 2006 and 2007
+respectively. In similar situations throughout the Pacific, the World Bank has been able to work
+with respected regional partners – such as SPC – to prepare a comprehensive poverty
+assessment. An updated Household Income and Expenditure Survey would be a necessary
+prerequisite and might be conducted by SPC with the World Bank providing technical peer
+review and direct inputs during the analytical phase of work.
+Macroeconomic Outlook and Debt Sustainability
+23.
+The Marshall Islands faces important challenges over the medium-term. Economic
+growth is expected to remain moderate at around 2 percent in FY2012 and FY2013, supported by
+rising fisheries exports, a US Federal Aviation Administration-financed airport rehabilitation
+
+8
+
+A Gini coefficient is a statistical measure that can be used to measure income inequality. Gini coefficients are
+scored from zero to one, with a score closer to zero indicating a society with little income inequality, and a score
+closer to one indicating a society with significant income inequality.
+
+8
+
+project, and the planned Ebeye water and sanitation project. Beyond the short term, growth is
+expected to be subdued as a result of the gradual reduction in Compact inflows, planned
+downsizing of the Kwajalein military base, and the impact of poorly performing SOEs. Potential
+sources of growth over the medium-term include further donor-financed capital projects, an
+expansion of existing fishing operations, and an increase in fishing license revenues following
+recent international negotiations. Increased employment opportunities at the Kwajalein base
+may also materialize with the possible commencement of a new satellite project.
+24.
+The prospective end of Compact funding presents a key challenge to fiscal
+sustainability. No Compact financing is assured beyond the life of the current arrangement.
+While the CTF was established to replace Compact grants from 2024 onward, based on current
+projections, contributions to the CTF are inadequate to assure a smooth transition, and annual
+CTF income can be expected to fall US$11 million (in 2011 prices) short of what is needed to
+replace Compact grants in 2024. Current public sector and structural reform measures if
+successfully implemented will help to significantly increase accumulation in the CTF. However,
+for the CTF to reach adequate capitalization by 2023 and for fiscal sustainability beyond 2023
+additional grant support will likely be required under any realistic scenario.
+Table 2: Summary of Medium-Term Macroeconomic Indicators
+Output and Prices
+Real GDP (percent change)
+Consumer Prices (percent change)
+Central Government Finance
+Total Revenues & Grants
+Total Domestic Revenues
+Grants
+Total Expenditure & Net Lending
+Current
+Capital
+Overall Balance
+Compact Trust Fund Balance
+Compact Trust Fund Balance
+External Debt
+External Debt
+Memorandum item:
+Nominal GDP
+
+2010
+
+2011
+
+2012
+
+2014
+
+2015
+
+2016
+
+5.6%
+1.8%
+
+0.8%
+5.4%
+
+1.9%
+2.3%
+0.6%
+5.7%
+3.9%
+1.7%
+Percent of GDP
+
+1.4%
+1.9%
+
+1.6%
+2.0%
+
+56.6
+22.4
+34.3
+55.8
+46.6
+9.3
+0.8
+
+55.4
+22.1
+33.4
+54.4
+45.5
+8.9
+1.0
+
+67.0
+24.7
+42.3
+62.4
+51.7
+10.7
+4.6
+
+2013
+
+63.7
+60.8
+61.1
+25.3
+22.6
+21.6
+38.4
+36.6
+39.5
+60.0
+61.9
+61.1
+49.3
+50.5
+49.0
+10.7
+11.4
+12.1
+3.7
+-1.1
+0.0
+US Dollar Millions (end of
+
+57.9
+22.5
+35.3
+57.2
+44.6
+9.6
+0.7
+period)
+
+112.8
+
+125.2
+
+165.7
+192.6
+220.2
+Percent of GDP
+
+250.1
+
+282.4
+
+64.2
+
+64.1
+
+57.2
+53.8
+49.3
+US Dollar Millions
+
+44.8
+
+40.4
+
+163.2
+
+170.7
+
+203.6
+
+211.0
+
+182.4
+
+192.7
+
+197.1
+
+Source: IMF and World Bank
+25.
+Measures are in place to address fiscal sustainability challenges. The Public Sector
+Program supported by the ADB has led to the identification of several priorities for achieving
+savings and improving the effectiveness of public expenditure. An audit of public sector
+functions is expected to reveal duplication of certain roles and opportunities to reduce the wage
+bill, while the Ministry of Finance is working to eliminate unfilled positions. A review of
+Government allowances and benefits could deliver further savings. While these initiatives are
+9
+
+likely to produce some savings, further substantial reductions in payroll expenditure and overall
+public spending are unlikely to be achievable without broader counterproductive economic
+impacts, given the key role that Government plays as a source of employment, income, and
+demand. The priority for Government is therefore to improve efficiency and effectiveness of
+public spending, and to address structural barriers to private sector growth and revenue
+generation. Planned revenue reform under the TRAM process is expected to be largely revenue
+neutral, but the accompanying simplification of the tax regime may allow some gains through
+increased compliance, and make the economy more business friendly.
+26.
+With external debt of around 57 percent of GDP, the Marshall Islands is at high risk of
+debt distress. Under the IMF-World Bank debt sustainability framework, the Marshall Islands
+exceeds several policy thresholds under baseline and stress-test scenarios of the draft 2011 Debt
+Sustainability Analysis prepared by the Bank. External debt is mostly in the form of
+concessional ADB loans but also includes new Government guaranteed debts in the SOE sector.
+Debt servicing obligations are equivalent to 16 percent of exports, although this is expected to
+decline to less than 5 percent of exports by 2016. Debt servicing is currently equal to around 20
+percent of revenue, and is expected to decline gradually to below 10 percent of revenue in 2024.
+Debt dynamics vary substantially according to projected growth and export performance. Policy
+relevant thresholds are breached under any plausible scenario. The most extreme stress-test
+scenario (maintenance of historical averages minus one standard deviation in 2012-2013) would
+see the present value of public and publicly guaranteed debt exceed 350 percent of GDP over the
+next two years. Previous arrears to ADB have now been cleared, but the Government has yet to
+develop a clear debt management strategy that can address looming debt service payments.
+Debt management is an area in which the World Bank has a comparative advantage and is
+expected to be an area of focus as engagement evolves in the Marshall Islands.
+27.
+The Marshall Islands remains heavily exposed to changes in global prices, but risks to
+external balances are limited. Inflation is expected to moderate to under 4 percent in FY2013 as
+fuel and other import prices ease. Current account deficits are expected to remain wide until
+FY2013, driven by imports for fisheries and airport expansion financed by foreign investment
+and capital grants. Compact-related funding is expected to continue to provide a reliable source
+of import financing over the next decade, and the current account deficit is expected to be close
+to around 5 percent of GDP over the medium-term. Exports have recently expanded in contrast
+to most Pacific Island countries, although this trend – driven by strong agricultural commodity
+prices and new fisheries investments – cannot be relied upon to continue. In the longer-term, the
+expiry of Compact funding could lead to an erosion of foreign assets, undermining external
+stability.
+28.
+The macroeconomic policy framework is dependent on continued availability of grants
+from development partners and is subject to high levels of uncertainty. A sharper than
+expected rise in global commodity prices would exacerbate inflation and lead to further
+contraction of the Marshall Islands’ economy. The macroeconomic policy framework also
+depends on the continued availability of grants from development partners over the mediumterm, especially the US, and the inadvisability of borrowing to fund fiscal deficits. Any change
+in Compact arrangements or in the Marshall Islands’ capacity to access federal grants, or from
+further effects of the global economic slowdown would have a significant and negative impact
+on macroeconomic stability. Uncertainty regarding the US plans for the Kwajalein military base
+10
+
+poses risk in terms of potential job losses but these may be offset by new projects. Finally, the
+country remains vulnerable to a variety of natural disasters that may also place considerable
+stress on the macroeconomic policy framework. In regard to the latter, the Marshall Islands has
+recently joined four other Pacific countries in a pilot catastrophic risk pool. This initiative is coled by the World Bank, SPC/SOPAC 9 and ADB with financial support from the Government of
+Japan, and aims to increase the financial resilience of Pacific countries by providing them with
+access to a market-based catastrophe risk transfer mechanism as part of their comprehensive
+disaster risk financing strategy.
+Government Priorities and Development Framework
+29.
+The Marshall Islands’ national strategic development plan is outlined in “Vision 2018”
+a framework for achieving a “…country within an interdependent world, with enhanced
+socio-economic self-reliance, [and] an educated, healthy, productive, law abiding and Godloving people…” The strategic development framework, drafted in 2001 is a wide-ranging
+document that sets out to address “Ten Challenges” essential to fulfilling the “Vision”: i) good
+governance, political stability and a competent and honest public sector; ii) investment in
+education and research; iii) a culture of savings, investment and productivity; iv) a country able
+to take advantage of global trends; v) effective and responsible economic and financial
+institutions; vi) equitable development of the Outer Islands; vii) strengthening the spirituality of
+the Marshallese people; viii) promotion of healthy lifestyles, the prevailing culture and
+sustainable environment; ix) fostering fundamental change in the attitudes and behavior of
+citizens, Government, businesses, corporations and non-governmental organizations; and x)
+effective partnership between national and local Governments, NGOs, the private sector, civil
+society and citizens. In consultation with the World Bank Group and other stakeholders, the
+Government has identified areas in which the World Bank Group could provide support for more
+effective management of public and external resources and to improving living and service
+delivery standards.
+Development Partner Engagement
+30.
+Given the geographic and economic constraints facing the country, external assistance
+is unlikely to be a transitional phenomenon in the Marshall Islands. In common with many
+small island states, the Marshall Islands is heavily reliant on external assistance with on-budget
+grant income estimated to account for 40 percent of GDP. Development partner support being
+provided includes the following:
+Under the Compact of Free Association with the US, the Marshall Islands will receive at least
+US$57 million in grants every year until 2023 including contributions to the jointly managed
+CTF (see Box 1). This figure is scheduled to increase to US$62.7 million per annum from
+FY2014 onward. At the end of this period, financial assistance from the US will end at which
+point the CTF is expected to serve as the country’s principal source of budget revenue. The
+
+9
+
+SOPAC is SPC’s Applied Geoscience and Technology Division.
+
+11
+
+domestic economy is already highly dependent on the income generated by the disbursement of
+Compact funds to finance the public wage bill and major construction projects.
+The ADB’s Country Operations Business Plan (COBP) for 2012-14 identifies four areas of
+focus: i) macroeconomic and fiscal management; ii) private sector development; iii) human
+capacity development; and, iv) the environment and climate change. The overarching objective
+of ADB support is to help restore macroeconomic stability following the global financial crisis
+and to achieve long-term fiscal sustainability. The COBP identifies an indicative lending
+program of US$5m with the country eligible for funding from both the Asian Development Fund
+and Ordinary Capital Resources. This is expected to be supplemented with complementary
+technical assistance (largely focusing on economic planning and policy and enhancing public
+service delivery). The ADB is providing leadership in the critical area of SOE reform and
+recently signed a US$5m loan for public sector reform Other activities in the Marshall Islands
+include technical assistance provided under regional initiatives to strengthen capacity to respond
+to the effects of climate change and technical assistance to design technical and vocational
+training.
+The Government of Australia has a small program of assistance in the Marshall Islands relative
+to the scope of Australia’s engagement elsewhere in the Pacific. Support focuses on two areas:
+energy sector reform and improving access to clean water and sanitation. Australia’s program in
+the Marshall Islands is outlined in the Partnership for Development signed by both countries in
+August 2010.
+The European Commission’s strategic framework for assistance is set out in the Country Strategy
+Paper for the Marshall Islands 2008-13. An indicative under the 10th European Development
+Fund focuses on support to the water and energy sectors, specifically sustainable energy supply
+to the country’s outer islands. The program is also informed by cross-cutting issues that include
+climate change, environmental sustainability, gender equality, and the fight against HIV/AIDS.
+The Government of Japan’s Rolling Plan for the Marshall Islands identifies solid waste
+management, disaster risk management, the response to climate change, and strengthening of
+health services as priorities in a multi-year program of technical assistance.
+Taiwan, China is a longstanding donor partner to the Marshall Islands and provides an annual
+grant and a range of technical assistance in areas including infrastructure rehabilitation, disaster
+risk management, support to public works projects, and health care. Funding provided by
+Taiwan, China in 2012 included budgetary support, a contribution to the CTF and assistance with
+debt service payments.
+The United Nations System’s Country Programme Action Plan (CPAP) for 2008-2012 outlines a
+program of assistance that leverages the technical expertise of UN organizations including
+UNDP, UNFPA, UNICEF and UNV. The CPAP focuses on: achieving MDG targets; livelihood
+development and employment generation activities with an emphasis on women and youth;
+strengthening of accountability and capacity of the national parliament; good governance;
+disaster risk management; environmental sustainability and civil society strengthening.
+
+12
+
+31.
+Throughout the implementation of the CPS program, the World Bank Group will seek to
+draw on the experience and expertise of the Marshall Islands’ development partners to ensure
+that the assistance provided is closely aligned with existing programs and the country’s
+development priorities.
+III.
+
+WORLD BANK GROUP ENGAGEMENT IN THE PACIFIC
+
+32.
+The World Bank Group’s engagement with Pacific island countries reflects the fact
+their development trajectories will be shaped – more than perhaps any other nations – by their
+economic geography. The World Bank Group’s Pacific island member countries (excluding
+Papua New Guinea) 10 have a combined population of about 2 million people spread across
+hundreds of islands in an ocean area equivalent to about 15 percent of the globe’s surface. Given
+the permanent vulnerabilities that confront Pacific island countries stemming from intrinsic
+factors such as their small size, isolation, and enduring institutional and human capacity
+constraints, sustained development support is a long-term proposition requiring collaboration
+with international partners. Island states themselves also have a central role to play in
+establishing a policy environment that supports and promotes long-term development outcomes.
+33.
+The World Bank Group continues to expand its programs and presence throughout the
+Pacific. Both IDA and IFC have been increasing their engagement in the Pacific significantly.
+As well as scaling-up in established clients, there is a renewed emphasis on forging relationships
+in countries – such as the Marshall Islands – in which the World Bank historically has been less
+active. The development of individual CPSs for each Pacific island member reflects a
+commitment to a sustained process of country engagement. The growth of World Bank IDA and
+trust fund commitments made to the Pacific in the last four years – amounting to about US$250m
+– is more than in prior history, as are IFC commitments of almost US$90m. Reflecting the
+common challenges facing Pacific countries, World Bank Group engagement in the Pacific has
+focused closely on four overarching themes: i) strengthening regional and global integration; ii)
+building resilience to economic shocks, natural disasters and climate change; iii) encouraging
+economic reform and private sector development; and, iv) improving health, education, and
+social services. This CPS is informed by these themes and aims to address the Marshall Islands’
+country-specific development challenges through an adaptive combination of analytical work,
+technical assistance, and lending operations based on the World Bank’s comparative advantage
+and in partnership with other donors.
+34.
+In countries where development is fundamentally constrained by economic geography,
+the objectives of development assistance and the delivery mechanisms used, need to be
+considered carefully. Economic growth alone is unlikely to generate automatic development
+progress. Development outcomes should be measured in pragmatic terms such as improvements
+in social indicators, more effective delivery of public services and in increased opportunities for
+the Marshallese. Since a proliferation of projects would place an unsustainable burden on
+already overstretched public sector, the World Bank will seek to employ modalities that can help
+
+10
+
+Fiji, Kiribati, Palau, Marshall Islands, Micronesia, Samoa, Solomon Islands, Tonga, Tuvalu and Vanuatu.
+
+13
+
+strengthen the country's own systems (such as development policy lending and accessing
+regional programs), help leverage the country's IDA allocation and maximize benefits to
+countries facing common regional challenges.
+35.
+A World Bank Group priority will be to translate the credibility and trust generated by
+deepening engagement in the Marshall Islands into a more substantive and coordinated
+dialogue to support its own reform efforts. The value of World Bank Group engagement is not
+principally defined in terms of the volume of lending, but in the extent to which the World Bank
+can “bundle” its expertise and financing, collaborate with other development partners, transfer
+global knowledge, develop institutional capacity, and support changes that result in significant
+and sustained development progress.
+Translating Pacific Themes into the Marshall Islands Program
+36.
+Like many small Pacific island states, the Marshall Islands faces significant obstacles
+to development. Isolation, small size, dispersed populations, and the high fixed cost of providing
+public services, present challenges to achieving sustained economic growth in the Marshall
+Islands. Moreover, "thin" institutional, human, and technical resources demand that limited
+reform capacity be tightly focused on mitigating these disadvantages to the extent possible.
+Increasing economic integration, promoting access to labor markets, employment and
+educational opportunities in metropolitan neighbors and the US, and retaining a more equitable
+share of revenues from natural resources (such as fisheries), will be central to the long-term
+future of the Marshall Islands.
+37.
+Reflecting the Government’s development priorities and the World Bank Group’s
+engagement in the Pacific, the program in the Marshall Islands will focus on strengthening
+economic governance and promoting the effective use of public resources to enhance living
+and service delivery standards for all Marshallese. Each of the proposed interventions outlined
+in this joint CPS is designed to address this overarching objective.
+38.
+The first IDA operation for the Marshall Islands, to be presented with this CPS, seeks
+to liberalize the ICT sector to foster market competition and to increase access to ICT services.
+The Marshall Islands is one of the least "connected" countries in the world. About 35 percent of
+the population subscribes to ICT services. Mobile phone penetration is around 26 percent of the
+population. Less than 2 percent of the population subscribe to an Internet connection. Mobile
+broadband is not yet available. Total broadband Internet 11 take-up is approximately 520
+subscribers, or around 1 percent penetration (although only 120 subscribers have subscribed for
+speeds of 512kbs or greater). This is despite the fact that Majuro and Kwajalein are connected to
+a 10 Gbps capacity fiber-optic cable system that links the Marshall Islands to Guam. Cable
+capacity is presently under-used, in part due to the monopolistic market environment.
+
+11
+
+NTA classifies broadband Internet as speeds 128kbs or greater; the International Telecommunications Union definition of
+broadband is a minimum download speed of 256kbps
+
+14
+
+39.
+The ICT Sector Development Policy Program is the first in a planned series of three
+development policy operations (DPOs) that aim to support ICT sector reform and reduce the
+economic costs of distance through greater regional and global integration. The first DPO
+prepares the foundation for the legal and regulatory reforms that are needed to support sector
+liberalization, with the ultimate objective of increasing access to telecommunications and
+promoting the widespread use of ICT services. Specifically, the operation will support the
+transition from a monopolistic to a liberalized telecommunications market, reform and
+restructure the National Telecommunications Authority (NTA), help develop a new legal and
+regulatory framework, and establish an independent regulatory function. The ICT DPO program
+has been informed by recent experience of budget support operations in the Marshall Islands
+(such as ADB’s Public Sector Reform Program), and the World Bank Group’s
+telecommunications assistance in the Pacific and elsewhere. It has also benefitted from the
+application of international best practice and the IFC’s considerable experience in supporting
+private sector investment in liberalized telecom markets throughout the Pacific.
+40.
+The Marshall Islands' reliance on expensive imported fuel and the current fuel pricing
+model continue to impose severe fiscal challenges, with effects felt throughout the economy.
+World Bank engagement in the energy sector was initiated shortly after the Marshall Islands
+became a member of the World Bank Group in 1992, when the Government requested analysis
+to be undertaken on the energy sector and, specifically, on the role of the state-owned MEC.
+That study, and the assessments undertaken by other partners since then, identified a range of
+important reforms intended to help address the structural challenges facing the sector. While
+some of the reforms were undertaken, the relative stability and low price of fuel imports in the
+period 1992-2008, reduced the urgency for fundamental reform. However, the fuel price spikes
+and increasing volatility in 2008 (reaching a high of US$160 per barrel), compounded by a fire
+that disabled the Majuro Number 1 power generation facility, precipitated an economic crisis in
+the country. The Government was forced to declare an "Economic State of Emergency", as the
+country experienced power rationing and blackouts. A Government Taskforce was convened to
+review the state of the energy sector and, in 2010, requested further World Bank technical
+assistance.
+41.
+While the Government has expressed renewed interest in undertaking energy sector
+reform, successfully implementing these complex and wide-ranging measures will be difficult
+and require sustained commitment. Since 2010, the World Bank has undertaken dialogue on
+energy sector reform, and has outlined a set of carefully sequenced measures that could be
+implemented under a DPO program. The reforms proposed would seek to move away from the
+current policy that aims to provide cheap power to businesses and citizens and results in just 23
+percent of diesel sold in 2010 being sold at a profit. The current policy exposes MEC to
+significant cash flow problems, insufficient funding of critical routine maintenance, inefficient
+use of power, and substantial technical inefficiencies. While key elements of a DPO program
+have been identified, detailed analysis on the potential poverty and social impacts of tax and
+price reforms will be needed. This analysis will also examine potential gender-specific effects of
+reform.
+
+15
+
+42.
+The Marshall Islands and the other seven member states of the Parties to the Nauru
+Agreement (PNA) 12 account collectively for approximately one-third of global pelagic tuna
+stocks. The abundant Pacific oceanscape is a shared natural capital asset for the entire region. It
+provides fish for food, key biodiversity and habitats that support tourism and carbon storage.
+Pacific tuna fisheries yield about 2.4 million tons per annum (58 percent of the global total) with
+a value on the order of US$4.5 billion. However, little of that annual revenue is captured by
+Pacific island countries as economic rent. Until 2007 license fees paid to Forum Fisheries
+Agency member countries in exchange for rights to fish tuna totaled only about US$8m each
+year (or about 7 percent of the first sale revenue received). The introduction of a rights-based
+regime for fishing effort (i.e. the total number of fishing days permitted, known as the Vessel
+Day Scheme) by PNA nations has already resulted in increases to licensing payments made by
+deep water fishing nations to PNA members of US$5,000 per day or about 10 percent of landed
+value with the expectation that the cost vessel days will continue to increase.
+43.
+The Marshall Islands has expressed interest in participating in the Pacific Islands
+Regional Oceanscape Program (PROP) 13. This regional operation will be the first operation
+piloted under the Global Partnership for Oceans (GPO) 14 that was recently launched. The
+PROP aims to support Pacific Island Countries in the sustainable management of the region’s
+oceanic fisheries, coastal fisheries and the critical habitats that support them. The PROP
+investment in the Marshall Islands is expected to concentrate on three areas: (i) strengthening
+regional governance through the implementation of a rights-based fishing management system;
+(ii) supporting systems to improve the management of coastal and reef fisheries, and (iii)
+developing regional frameworks and market systems to improve coastal and regional fisheries
+management. Assistance to undertake assessments of the relative costs (including gender based
+social costs) and benefits of investments in onshore processing and services associated with tuna
+product value chains would also be supported.
+44.
+The World Bank Group aims to help support the Marshall Islands in making
+preparations to manage its “Post Compact” future. Although the Compact of Free Association
+does not expire until 2023 (and managing this transition will require concerted attention beyond
+the period of this CPS), the World Bank Group proposes to provide targeted technical assistance
+to strengthen the management of CTF assets. The World Bank Treasury department is currently
+exploring the development of a regional approach to asset management that will assess the
+strengths and weaknesses of current asset management approaches in the Marshall Islands and in
+countries with similar trust fund arrangements (such as the Federated States of Micronesia and
+Tuvalu). In addition to strengthening asset management, evidence from the Cost of Doing
+
+12
+
+The PNA is a sub-regional agreement that controls fishing in the world’s largest sustainable purse seine fishery.
+The PNA administers fishing activity in the exclusive economic zones of seven Pacific island countries including
+the Federated States of Micronesia, Kiribati, Marshall Islands, Nauru, Palau, Papua New Guinea, Solomon Islands,
+and Tuvalu.
+13
+PROP is a regional project designed to strengthen the governance and sustainable management of the region's
+fisheries, and to ensure that Pacific countries receive a more equitable share of benefits from this resource.
+14
+The GPO is a growing alliance of more than 100 governments, international organizations, civil society groups,
+and private sector interests committed to addressing the threats to the health, productivity and resilience of the
+world’s oceans. It aims to tackle widely documented problems of overfishing, pollution, and habitat loss.
+
+16
+
+Business Indicators and enterprise survey data suggest that there may be a range of reforms that
+might enhance the climate for private sector investment. The joint IFC/WB Indicator-based
+Advisory Group stands ready to help develop a Reform Memorandum that would diagnose the
+principal challenges in the Marshall Islands and could serve as a roadmap for subsequent
+reforms. Beyond this, as the World Bank Group engagement deepens in the Marshall Islands,
+additional opportunities may be identified in which IFC can support greater private sector
+involvement and investment. IFC’s Pacific Investment Climate Rapid Response project could
+also provide IFC expertise to assist the Government in identifying potential for private sector
+involvement in service delivery.
+Selectivity, Flexibility and New Ways of Doing Business
+45.
+In providing support to the Marshall Islands, the World Bank Group will exercise a
+high degree of selectivity. At this initial stage of reengagement in the Marshall Islands, the
+World Bank Group has yet to develop the depth of knowledge and country experience that would
+permit a more expansive program. The program outlined in this CPS is informed by the themes
+that guide the World Bank Group's engagement throughout the Pacific, and aims to replicate
+successful approaches in the World Bank's other Pacific country programs. Acknowledging the
+challenge of calibrating World Bank Group interventions to the limited capacity of this small
+state, all activities will be carefully designed in collaboration with the Government, and
+instruments more suitable to low capacity contexts, such as development policy lending and
+regional approaches, will be utilized wherever appropriate. The World Bank Group will retain
+flexibility and, as the partnership with Government deepens, the World Bank expects to play a
+greater role in addressing the substantial threats that the Marshall Islands faces from natural
+hazards, the effects of climate change and sea-level rise.
+46.
+Developing leadership and institutions in the Marshall Islands capable of successfully
+implementing reforms demands World Bank Group commitment to a sustained capacity
+enhancement effort. The Marshall Islands, and islands throughout the Pacific, face significant
+challenges in recruiting and retaining domestic expertise. In "micro-states" such as the Marshall
+Islands, the size of the population and the pull of opportunities overseas only increase this
+challenge. By being selective, flexible, and by adopting a pragmatic approach to these
+constraints, the World Bank Group will place a premium on coordination, intensive
+implementation support and on projects whose design is carefully calibrated to the country's
+capacity.
+47.
+A targeted program of analytical work that focuses on sectors in which the World Bank
+Group is initiating engagement and complements analysis being undertaken by other partners
+is proposed. Indicative analytical and technical assistance activities anticipated during the CPS
+period are set out below:
+Box 2: Proposed Analytical, Advisory and Technical Assistance Activities
+• Poverty Assessment
+• World Bank Treasury Asset Management CTF Diagnostic
+• Investment Climate Diagnostic
+• Beneficiary Impact Assessment on ICT Reform with Gender Focus
+17
+
+Financing Terms and Sources
+48.
+The indicative IDA16 resource envelope is on grant terms and amounts to SDR7.6m
+(US$ equivalent 11.4m). The CPS spans two years in the IDA16 period (FY13 and FY14) and
+two years in the IDA17 period (FY15 and FY16). It is assumed that the IDA17 envelope will be
+equivalent to the IDA16 level, but only the FY13 amount is firm, while the amounts for FY14-16
+are indicative only. Actual allocations will depend on: i) the country's own performance; ii) its
+performance relative to other IDA recipients; iii) the amount of overall resources available to
+IDA; iv) changes to the list of IDA-eligible countries; and v) terms of financial assistance
+provided (grants or credits). Also, the Marshall Islands could potentially benefit from additional
+resources from the IDA Regional Program, which provides financing on top of national IDA
+envelope to promote regional integration by supporting qualified multi-country regional
+operations. Furthermore, in case of severe economic shocks and natural disasters, the Marshall
+Islands could potentially access the IDA Crisis Response Window. 15
+Table 3: The Marshall Islands: Indicative IDA and Trust Fund Operations – FY13-16
+
+ICT Development Policy Operations
+Pacific Island Regional Ocean Operation
+Energy Sector Development Project
+Addressing Gender-based Violence
+
+Fiscal Year
+
+IDA
+
+Co-Financed/Trust Funded
+
+FY13-16
+FY14
+FY14
+FY14
+
+Y
+Y
+Y
+N
+
+PRIF
+tba
+tba
+JSDF/IDF
+
+49.
+The World Bank's expanded program of Pacific engagement has been made possible
+through access to trust funds, and IDA is expected to leverage trust fund resources in the
+Marshall Islands. While the principal trust fund resources available to the Pacific countries
+have been from donors (e.g. Australia and New Zealand) with longstanding relationships in the
+South Pacific, it is expected that as the World Bank Group’s program in North Pacific countries
+such as the Marshall Islands are developed there will be opportunities to provide increased trust
+fund resources. Looking to global programs, both the GEF and the Global Facility for Disaster
+Reduction and Recovery (GFDRR) are also expected to provide support.
+IV.
+
+MANAGING RISK
+
+50.
+Absolute capacity limitations could constrain program implementation. The enduring
+nature of capacity constraints in micro-states such as the Marshall Islands pose extraordinary
+challenges to effective implementation, and is only exacerbated by the lack of in-country
+presence. Experience from the World Bank Group's engagement in other small states such as
+Kiribati and Tuvalu underscores the importance of calibrating and sequencing interventions
+
+15
+
+For details of the eligibility criteria, see Annex 3 of IDA (2011) “Additions to IDA Resources: Sixteenth
+Replenishment,” available at http://siteresources.worldbank.org/IDA/Resources/IDA16_Report-English-Final.pdf.
+
+18
+
+carefully, and in designing operations that account specifically for the current level of capacity.
+An explicit recognition of the need for intensive and sustained implementation support will be
+paramount.
+51.
+The Marshall Islands remains highly vulnerable to external shocks, and subject to
+many factors beyond its control. Reliance on imports whose prices are subject to considerable
+volatility (particularly petroleum products) poses significant macroeconomic threats to the
+Marshall Islands. The World Bank Group stands ready to offer continued support under this
+CPS to reform efforts in the energy sector to mitigate these risks. The Marshall Islands is also
+highly vulnerable to natural disasters and sea-level rise. The World Bank will look for
+opportunities to strengthen the disaster risk management capacity of the Marshall Islands, and to
+help the Marshall Islands build resilience to external shocks, including natural and man-made
+disasters. Additionally, the World Bank Group will promote stronger regional and global
+integration through enhanced ICT connections, as well as making appropriate use of regional
+interventions that encourage exchange and closer integration with neighboring countries. The
+World Bank will also work with the authorities to fully explore the flexible use of IDA
+assistance, including of the Immediate Response Mechanism that allows the inclusion of
+emergency related contingent components in selected projects to further support rapid response
+in eligible crisis and emergency situations.
+52.
+The macroeconomic policy framework is dependent on continued availability of grants
+from development partners, and subject to high levels of uncertainty. A sharper than expected
+rise in global commodity prices would exacerbate inflation, and lead to further contractions of
+the Marshall Islands economy. The macroeconomic policy framework also depends on the
+continued availability of grants from development partners over the medium-term, especially the
+US, and the inadvisability of borrowing to fund fiscal deficits. The World Bank Group will
+continue to work in close collaboration with the IMF as well as with other donors including the
+ADB, Australia, and the US to monitor changes in the macroeconomic situation and ensure that
+the World Bank Group’s assistance is effectively coordinated and aligned with Government
+priorities.
+53.
+The prospective end of Compact funding presents a fundamental challenge to fiscal
+sustainability in the Marshall Islands. No further Compact financing is assured beyond the life
+of the current arrangements. The CTF that has been established to replace Compact grants from
+2024 is not currently at a level which would ensure a smooth transition to budgetary selfreliance. The World Bank Group's program is intended to support the important structural
+reforms that are needed to return the Marshall Islands to a more sustainable fiscal path.
+54.
+To mitigate the above risks, the World Bank Group will continue to draw on the
+experience and expertise of longstanding partners, and will find ways to adapt its approaches
+and operational models to achieve results on the ground. The World Bank Group is proposing
+a program that is intended to be both pragmatic and flexible, and one that draws on relevant
+regional and global experience, as well as that of partners with a longer track record in the
+Marshall Islands. The absence of the World Bank Group in-country presence underscores the
+need for donor coordination issues to be carefully and creatively managed.
+
+19
+
+Annex 1: Development Partner Engagement by Sector
+
+ADB
+
+Australia
+
+Human
+Development
+Macroeconomic
+& Fiscal
+
+X
+
+X
+
+X
+
+Public Admin.
+
+X
+
+UN
+
+US
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+Taiwan,
+China
+
+X
+
+X
+
+Finance/Private
+Sector
+
+Japan
+
+X
+
+Infrastructure/
+Rural/Community
+Development
+
+Water &
+Sanitation
+
+IMF
+
+X
+
+Energy
+
+Climate
+Change/DRM
+
+EU
+
+X
+
+X
+
+X
+
+X
+
+WB
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+ICT
+
+X
+
+Fisheries/Oceans
+
+X
+
+20
+
+X
+
+Annex 2: The Marshall Islands CPS Results Matrix 16
+Medium-term Goals
+
+Key Issues
+
+Expected CPS Outcomes
+
+Milestones
+
+WBG Instruments and
+International Partners
+
+Strengthening economic governance to improve living standards and enhance service delivery
+
+Increased economic
+competitiveness and
+enhanced regional and
+global integration
+through ICT reform and
+market liberalization.
+
+One of the least connected
+countries in the world where
+only 35 percent of the
+population has internet access.
+
+Improved access of
+population to ICT services:
+• Increase in number of
+mobile phone subscribers
+from 26 percent of the
+population to 40 percent of
+the population.
+• Increase in internet
+subscriptions from 2
+percent of the population
+to 30 percent of the
+population.
+• Quantitative analysis on
+the impact of ICT reform
+on vulnerable and
+underserved groups
+including women.
+
+16
+
+• Government adoption of a
+sector policy
+implementing a new legal
+framework and
+introducing competition
+• Establishment of an
+independent ICT
+regulator
+• Government approval of a
+financial, ownership and
+operational restructuring
+plan for the NTA
+• New licenses offered
+permitting a second
+national operator to
+supply services to the
+public using its own
+infrastructure.
+
+•
+•
+•
+
+Series of IDA-financed
+Development Policy
+Operations
+IDA-financed Technical
+Assistance to support
+market liberalization
+IFC
+advisory/investment
+assistance to private
+sector market entrants
+
+This CPS results matrix reflects the initial scope of the World Bank’s program in the Marshall Islands and will be adjusted as the engagement evolves and
+activities are confirmed over the CPS period. Items in parentheses are indicative only and not currently part of the CPS framework. It is anticipated that
+additional activities will be formally integrated into the CPS results framework at the time of the CPS Progress Report.
+
+21
+
+Medium-term Goals
+
+Key Issues
+
+Enhanced energy
+security through
+effective regulation,
+management and
+governance of the energy
+sector
+
+Outdated MEC business model
+and fuel price volatility has
+resulted in economy-wide
+impacts, poor service, high
+cost, and inadequate
+maintenance of MEC assets.
+
+Increased net economic
+benefits to the country
+from its fisheries,
+through transparent and
+sustainable management
+of ocean resources
+
+Enhanced capacity to
+manage the PostCompact transition to
+increased budgetary selfreliance
+
+Expected CPS Outcomes
+
+Cost reflective fuel tariffs
+introduced:
+• Reform MEC’s fuel prices
+such that: a) the full cost
+of supply e.g. capital costs,
+depreciation and O&M are
+recovered; b) capital
+expenses to upgrade
+MEC’s fuel tank farm to
+safe standards can be
+financed
+• Technical and nontechnical losses reduced
+from 18 percent (2010) to
+14 percent over a 4 year
+period
+Pacific tuna fisheries yield
+• Increase in the percentage
+about 58 percent of the global
+of the landed value of the
+total with an estimated value of
+tuna caught in RMI's
+US$4.5 billion but countries
+waters that is retained by
+such as the Marshall Islands
+the country via sale of
+retain only 7 percent of the first
+access rights, from 10
+sale revenue
+percent to 12 percent
+Expiry of Compact funding
+requires effective management
+of public and external resources
+and increased support for
+private sector development
+
+• CTF objectives, strategic
+asset allocation and
+investment management
+strategies reviewed and
+options identified to
+improve long-term
+sustainability in response
+to economic and financial
+market volatility
+• Legislative and regulatory
+improvements to
+investment climate
+
+22
+
+Milestones
+• Government adoption of
+electricity tariff review
+proposals
+• Undertake essential
+maintenance of auxiliary
+generators
+• Increase frequency of
+meter-reading, improve
+billing and collection
+rates
+
+WBG Instruments and
+International Partners
+Technical Assistance; AAA;
+IDA Development Policy
+Operation
+
+• Introduction of market
+mechanism permitting the
+trade of fishing licenses at
+international market rates.
+
+•
+
+• Government and CTF
+stakeholders undertake
+review of fund objectives
+and asset management
+framework
+
+World Bank Treasury
+Technical Assistance;
+Australia, New Zealand and
+US support
+
+•
+
+PIRO IDA regional
+investment
+GPO support
+
+Analysis and Technical
+Assistance from IFC/WB
+unit
+
+Annex 3
+
+Marshall Islands at a glance
+Key Development Indicators
+
+Marshall
+Islands
+
+2/12/13
+East
+Asia &
+Pacific
+
+Lower
+middle
+income
+
+Age distribution, 2010
+
+(2011)
+
+Male (..)
+
+Population, mid-year (millions)
+Surface area (thousand sq. km)
+Population growth (%)
+Urban population (% of total population)
+
+0.05
+0.2
+1.4
+72
+
+1,962
+16,302
+0.7
+46
+
+2,519
+23,579
+1.5
+39
+
+0.2
+3,910
+..
+
+7,249
+3,696
+6,657
+
+4,078
+1,619
+3,632
+
+5.0
+3.5
+
+9.7
+8.9
+
+6.9
+5.3
+
+..
+..
+..
+22
+..
+
+14
+33
+72
+20
+6
+
+..
+..
+65
+50
+25
+
+..
+..
+102
+101
+
+96
+91
+111
+112
+
+80
+62
+110
+104
+
+Female (..)
+
+75- 79
+60- 64
+45- 49
+30- 34
+
+GNI (Atlas method, US$ billions)
+GNI per capita (Atlas method, US$)
+GNI per capita (PPP, international $)
+
+15- 19
+0-4
+0
+
+GDP growth (%)
+GDP per capita growth (%)
+
+0
+
+0
+
+1
+
+1
+
+1
+
+percent of total population
+
+(most recent estimate, 2005–2011)
+Poverty headcount ratio at $1.25 a day (PPP, %)
+Poverty headcount ratio at $2.00 a day (PPP, %)
+Life expectancy at birth (years)
+Infant mortality (per 1,000 live births)
+Child malnutrition (% of children under 5)
+
+Under-5 mortality rate (per 1,000)
+60
+50
+40
+
+Adult literacy, male (% of ages 15 and older)
+Adult literacy, female (% of ages 15 and older)
+Gross primary enrollment, male (% of age group)
+Gross primary enrollment, female (% of age group)
+Access to an improved water source (% of population)
+Access to improved sanitation facilities (% of population)
+
+94
+75
+
+90
+66
+
+30
+20
+10
+0
+
+87
+47
+
+1990
+
+1995
+
+2000
+
+Marshall Is lands
+
+Net Aid Flows
+
+1980
+
+(US$ millions)
+Net ODA and official aid
+Top 3 donors (in 2010):
+United States
+Japan
+Australia
+
+1990
+
+2000
+
+2011
+
+..
+
+0
+
+57
+
+91
+
+..
+..
+..
+
+0
+0
+0
+
+43
+3
+1
+
+68
+13
+2
+
+38.9
+1,098
+
+45.9
+1,677
+
+2010
+
+Eas t As ia & Pac ifi c
+
+a
+
+Growth of GDP and GDP per capita (%)
+10
+5
+0
+
+Aid (% of GNI)
+Aid per capita (US$)
+
+..
+..
+
+..
+6
+
+-5
+-10
+
+Long-Term Economic Trends
+
+-15
+95
+
+Consumer prices (annual % change)
+GDP implicit deflator (annual % change)
+Exchange rate (annual average, local per US$)
+Terms of trade index (2000 = 100)
+
+..
+
+0.7
+5.0
+
+1.4
+-3.0
+
+9.5
+1.5
+
+1.0
+..
+
+1.0
+..
+
+1.0
+..
+
+1.0
+..
+
+7.4
+
+05
+
+GDP
+
+GDP per c apita
+
+1980–90 1990–2000
+2000–11
+(average annual growth %)
+Population, mid-year (millions)
+GDP (US$ millions)
+
+0.0
+31
+
+0.0
+78
+
+0.1
+111
+
+0.1
+174
+
+4.4
+7.0
+
+1.0
+0.4
+
+0.5
+1.5
+
+(% of GDP)
+Agriculture
+Industry
+Manufacturing
+Services
+
+..
+..
+..
+..
+
+..
+..
+..
+..
+
+..
+..
+..
+..
+
+..
+..
+..
+..
+
+..
+..
+..
+..
+
+..
+..
+..
+..
+
+..
+..
+..
+..
+
+Household final consumption expenditure
+General gov't final consumption expenditure
+Gross capital formation
+
+..
+..
+..
+
+..
+..
+..
+
+..
+..
+..
+
+..
+..
+..
+
+..
+..
+..
+
+..
+..
+..
+
+..
+..
+..
+
+Exports of goods and services
+Imports of goods and services
+Gross savings
+
+..
+..
+..
+
+..
+..
+..
+
+..
+..
+..
+
+..
+..
+..
+
+..
+..
+
+..
+..
+
+..
+..
+
+Note: Figures in italics are for years other than those specified. 2011 data are preliminary. .. indicates data are not available.
+a. Aid data are for 2010.
+Development Economics, Development Data Group (DECDG).
+
+23
+
+Marshall Islands
+Balance of Payments and Trade
+
+2000
+
+2011
+Governance indicators, 2000 and 2010
+
+(US$ millions)
+Total merchandise exports (fob)
+Total merchandise imports (cif)
+Net trade in goods and services
+
+15
+55
+-93
+
+41
+106
+-119
+
+-23
+-20.6
+
+-22
+-12.6
+
+Workers' remittances and
+compensation of employees (receipts)
+
+..
+
+..
+
+Reserves, including gold
+
+..
+
+Current account balance
+as a % of GDP
+
+Voice and accountability
+Polit ical stability and
+absence of violence
+Regulat ory quality
+Rule of law
+Control of corruption
+0
+
+2
+
+Central Government Finance
+
+2010
+
+(% of GDP)
+Current revenue (including grants)
+Tax revenue
+Current expenditure
+
+66.8
+15.4
+47.7
+
+63.6
+14.3
+51.6
+
+8.1
+
+1.4
+
+..
+..
+
+..
+..
+
+2000
+
+25
+
+Highest marginal tax rate (%)
+Individual
+Corporate
+
+100
+
+75
+
+Country's percentile rank (0-100)
+higher values imply better ratings
+
+Source: Worldw ide Governance Indicators (w w w .govindicators.org)
+
+Technology and Infrastructure
+Overall surplus/deficit
+
+50
+
+Paved roads (% of total)
+Fixed line and mobile phone
+subscribers (per 100 people)
+High technology exports
+(% of manufactured exports)
+
+2000
+
+2010
+..
+
+..
+
+9
+
+15
+
+..
+
+..
+
+72
+72.2
+3.1
+
+72
+72.2
+3.1
+
+..
+..
+
+..
+..
+
+External Debt and Resource Flows
+Environment
+(US$ millions)
+Total debt outstanding and disbursed
+Total debt service
+Debt relief (HIPC, MDRI)
+Total debt (% of GDP)
+Total debt service (% of exports)
+
+92
+22
+–
+
+117
+9
+–
+
+82.8
+31.5
+
+67.4
+9.7
+
+..
+..
+
+..
+..
+
+Foreign direct investment (net inflows)
+Portfolio equity (net inflows)
+
+Agricultural land (% of land area)
+Forest area (% of land area)
+Terrestrial protected areas (% of land area)
+Freshwater resources per capita (cu. meters)
+Freshwater withdrawal (billion cubic meters)
+CO2 emissions per capita (mt)
+
+1.5
+
+GDP per unit of energy use
+(2005 PPP $ per kg of oil equivalent)
+
+..
+
+Energy use per capita (kg of oil equivalent)
+
+..
+
+1.9
+
+..
+
+Composition of total external debt, 2010
+610
+
+IDA,
+IMF,00 0
+Private,
+IBRD, 0
+Short-term,
+Bilateral, 00
+
+World Bank Group portfolio
+
+2000
+
+2010
+
+(US$ millions)
+
+Other multilateral, 113
+
+US$ millions
+
+Private Sector Development
+Time required to start a business (days)
+Cost to start a business (% of GNI per capita)
+Time required to register property (days)
+Ranked as a major constraint to business
+(% of managers surveyed who agreed)
+n.a.
+n.a.
+Stock market capitalization (% of GDP)
+Bank capital to asset ratio (%)
+
+2000
+
+2011
+
+–
+–
+–
+2000
+
+17
+17.3
+..
+2010
+
+..
+..
+
+..
+..
+
+..
+..
+
+..
+..
+
+IBRD
+Total debt outstanding and disbursed
+Disbursements
+Principal repayments
+Interest payments
+
+–
+–
+–
+–
+
+–
+–
+–
+–
+
+IDA
+Total debt outstanding and disbursed
+Disbursements
+Total debt service
+
+–
+–
+–
+
+–
+–
+–
+
+IFC (fiscal year)
+Total disbursed and outstanding portfolio
+of which IFC own account
+Disbursements for IFC own account
+Portfolio sales, prepayments and
+repayments for IFC own account
+
+–
+–
+–
+
+–
+–
+–
+
+–
+
+–
+
+MIGA
+Gross exposure
+New guarantees
+
+–
+–
+
+–
+–
+
+Note: Figures in italics are for years other than those specified. 2011 data are preliminary.
+.. indicates data are not available. – indicates observation is not applicable.
+Development Economics, Development Data Group (DECDG).
+
+24
+
+2/12/13
+
+Millennium Development Goals
+
+Marshall Islands
+
+With selected targets to achieve b etween 1990 and 2015
+(estimate closest to date shown, +/- 2 years)
+
+Marshall Islands
+
+Goal 1: halve the rates for extreme poverty and malnutrition
+Poverty headcount ratio at $1.25 a day (PPP, % of population)
+Poverty headcount ratio at national poverty line (% of population)
+Share of income or consumption to the poorest qunitile (%)
+Prevalence of malnutrition (% of children under 5)
+
+1990
+..
+..
+..
+..
+
+1995
+..
+..
+..
+..
+
+2000
+
+2010
+..
+..
+..
+..
+
+Goal 2: ensure that children are able to complete primary schooling
+Primary school enrollment (net, %)
+Primary completion rate (% of relevant age group)
+Secondary school enrollment (gross, %)
+Youth literacy rate (% of people ages 15-24)
+
+..
+..
+..
+..
+
+..
+..
+..
+..
+
+96
+93
+68
+..
+
+..
+
+Goal 3: eliminate gender disparity in education and empower women
+Ratio of girls to boys in primary and secondary education (%)
+Women employed in the nonagricultural sector (% of nonagricultural employment)
+Proportion of seats held by women in national parliament (%)
+
+..
+..
+..
+
+..
+..
+..
+
+102
+29
+3
+
+101
+..
+3
+
+Goal 4: reduce under-5 mortality by two-thirds
+Under-5 mortality rate (per 1,000)
+Infant mortality rate (per 1,000 live births)
+Measles immunization (proportion of one-year olds immunized, %)
+
+52
+41
+52
+
+44
+35
+57
+
+38
+31
+94
+
+26
+22
+97
+
+Goal 5: reduce maternal mortality by three-fourths
+Maternal mortality ratio (modeled estimate, per 100,000 live births)
+Births attended by skilled health staff (% of total)
+Contraceptive prevalence (% of women ages 15-49)
+
+..
+..
+..
+
+..
+..
+
+..
+..
+..
+..
+
+99
+97
+99
+
+..
+
+..
+
+37
+
+95
+34
+
+..
+137
+37
+
+..
+190
+57
+
+..
+263
+25
+
+..
+536
+70
+
+Goal 7: halve the proportion of people without sustainable access to basic needs
+Access to an improved water source (% of population)
+Access to improved sanitation facilities (% of population)
+Forest area (% of land area)
+Terrestrial protected areas (% of land area)
+CO2 emissions (metric tons per capita)
+GDP per unit of energy use (constant 2005 PPP $ per kg of oil equivalent)
+
+95
+64
+..
+..
+1.0
+..
+
+95
+67
+..
+..
+1.3
+..
+
+95
+70
+72.2
+3.1
+1.5
+..
+
+94
+75
+72.2
+3.1
+1.9
+..
+
+Goal 8: develop a global partnership for development
+Telephone mainlines (per 100 people)
+Mobile phone subscribers (per 100 people)
+Internet users (per 100 people)
+Computer users (per 100 people)
+
+1.1
+0.0
+0.0
+..
+
+6.2
+0.5
+0.0
+..
+
+7.7
+0.9
+1.5
+..
+
+8.1
+7.0
+3.5
+..
+
+Goal 6: halt and begin to reverse the spread of HIV/AIDS and other major diseases
+Prevalence of HIV (% of population ages 15-49)
+Incidence of tuberculosis (per 100,000 people)
+Tuberculosis case detection rate (%, all forms)
+
+Education indicators (%)
+
+Measles immunization (% of 1-year
+olds)
+
+125
+
+86
+45
+
+ICT indicators (per 100 people)
+20
+
+100
+
+100
+75
+75
+50
+
+10
+
+50
+
+25
+25
+
+0
+2000
+
+2005
+
+2010
+0
+
+0
+1990
+
+1995
+
+2000
+
+2010
+
+2000
+
+2005
+
+2010
+
+Prim ary net enrollment ratio
+
+Ratio of girls to boy s in primary & sec ondary educ ation
+
+Marshall Is lands
+
+Eas t As ia & Pac ifi c
+
+Note: Figures in italics are for years other than those specified. .. indicates data are not available.
+Development Economics, Development Data Group (DECDG).
+
+25
+
+Fix ed + m obi le s ubs cribers
+
+Int ernet users
+
+2/12/13
+
+Annex 4: The Marshall Islands: Key Indicators Table, FY2008–13
+
+1/
+
+Sources: RMI authorities and IMF staff estimates.
+Note: Small discrepancies exist between table presented in the text and the one above, partly explained by differences in the level of grants.
+1/ Fiscal year ending September 30 unless otherwise stated.
+2/ Official transfers include current transfers, but exclude capital transfers and Trust Fund contributions.
+3/ Government and government-guaranteed debts, which include the first tranche disbursement of $9.5 million in FY2011 and a projected second tranche
+disbursement of $5 million in FY2013 from ADB
+
+26
+
+162°E
+
+164°E
+
+166°E
+
+168°E
+
+170°E
+
+BIKAR
+
+172°E
+
+Bikar I.
+12°N
+
+12°N
+
+ENEWETAK
+
+Enjbei I.
+Runit I.
+
+BIKINI
+
+Bikini I.
+Enyu I.
+
+Medren I.
+Eniwetok I.
+
+RONGELAP
+
+RONGERIK
+
+UTIRIK
+
+Bock I. Rongerik I.
+Eniaetok I. Eniwetak I.
+Rongelap I.
+
+AILINGINAE
+
+Utirik I.
+Taka I.
+
+R
+
+Sifo I.
+Mogiri I.
+
+Aon I.
+
+TAKA
+
+A
+
+Mato I.
+Kapenor I.
+
+Lukunor I.
+
+Ujelang I.
+
+ROI
+
+ERIKUB
+Erikub I. Bogengoa I.
+Kaven I.
+
+R
+
+Kwajalein I.
+
+A
+
+LIB Lib I.
+
+L
+K
+
+Anil I. Mae I.
+Luen I.
+
+C
+
+MARSHALL
+ISLANDS
+
+AUR
+
+Namu I.
+Kaginen I.
+Bock I. NAMU
+
+I
+
+8°N
+
+Enibin I.
+
+AILINGLAPALAP
+
+H
+
+A
+
+I
+
+N
+
+MALOELAP
+Taroa I.
+Airik I.
+Tabal I.
+Aur I.
+
+8°N
+
+JABWOT
+Jabwot I.
+Jih I.
+
+Wotja I.
+
+Bigatyelang I.
+Ailinglapalap I.
+
+I N
+
+Ebadon I.
+Enylamieg I.
+Ebbetyu I.
+Bock I.
+LAE
+Ujae I.
+Lae I.
+
+UJAE
+
+OCEAN
+
+Ormed I.
+Wotje I.
+
+Goat I.
+
+WOTJE
+
+Roi-Namur I.
+
+A
+
+PACIFIC
+
+10°N
+
+Lado I.
+Likiep I.
+
+H
+
+SOUTH
+
+Mejit I.
+
+Ailuk I.
+
+Jemo I.
+
+C
+
+UJELANG
+
+LIKIEP
+
+K
+
+Wotho I.
+
+Kapen I.
+
+A
+
+10°N
+
+WOTHO
+
+T
+
+AILUK
+
+Aguilue I.
+
+MAJURO
+
+Airek I.
+
+MAJURO
+
+Arno I.
+Eroj I.
+
+ARNO
+
+Delap I.
+
+Bogenaga I.
+
+JALUIT
+
+6°N
+
+Pinglap I.
+
+NAMORIK
+
+Namorik I.
+
+MILI
+
+Mili I.
+Enajet I.
+
+Aineman I.
+Jabor I.
+
+6°N
+
+KNOX
+
+Jaluit I.
+Kili I. KILI
+
+162°E
+
+F ED ER AT ED STAT ES
+OF M I CRO NESIA
+
+MARSHALL
+IS LAN D S
+NATIONAL CAPITAL
+
+4°N
+
+This map was produced by the Map Design Unit of The World Bank.
+The boundaries, colors, denominations and any other information
+shown on this map do not imply, on the part of The World Bank
+Group, any judgment on the legal status of any territory, or any
+endorsement or acceptance of such boundaries.
+
+164°E
+
+Ebon I.
+
+0
+
+0
+
+50
+
+100
+
+50
+
+150 Kilometers
+
+100
+
+150 Miles
+4°N
+
+166°E
+
+168°E
+
+170°E
+
+KI R I B AT I
+
+172°E
+
+IBRD 33444
+
+MARCH 2005
+
+CORAL REEFS
+
+EBON
+
+

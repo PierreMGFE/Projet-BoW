@@ -1,0 +1,4081 @@
+Public Disclosure Authorized
+
+Document of
+The World Bank Group
+FOR OFFICIAL USE ONLY
+
+Public Disclosure Authorized
+
+Public Disclosure Authorized
+
+Report No.
+
+60339-BI
+
+INTERNATIONAL DEVELOPMENT ASSOCIATION
+AND
+INTERNATIONAL FINANCE CORPORATION
+
+COUNTRY ASSISTANCE STRATEGY PROGRESS REPORT
+FOR
+THE REPUBLIC OF BURUNDI
+
+Public Disclosure Authorized
+
+April 21, 2011
+
+Eastern Africa Country Management Unit 1
+Africa Region
+International Development Association
+International Finance Corporation
+Sub-Saharan Africa Department
+
+This document is being made publicly available prior to Board consideration. This does not imply a
+presumed outcome. This document may be updated following Board consideration and the updated
+document will be made publicly available in accordance with the Bank’s Policy on Access to
+Information.
+
+DATE OF CURRENT COUNTRY ASSISTANCE STRATEGY
+July 8, 2008
+GOVERNMENT FISCAL YEAR
+January 1— December 31
+CURRENCY EQUIVALENTS
+(Exchange Rate Effective as of April 11, 2011)
+Currency Unit = Burundi Franc (FBu)
+US$1.00 = 1,210 FBU
+
+ABBREVIATIONS AND ACRONYMS
+AAA
+ADC
+AfDB
+ART
+BCB
+CAS
+CAS PR
+CEM
+CPPR
+CSOs
+DFID
+DRR
+DSA
+EAC
+ECF
+ESP
+EFA-FTI
+ERSG
+ESW
+EU
+FBu
+FDI
+FNLPALIPEHU
+TU
+FY
+GAC
+GAVI
+GDP
+GFRP
+GNI
+GTZ
+HIPC
+HIV/AIDS
+ICT
+IDA
+IEG
+IFAD
+IFC
+IMF
+
+Analytical and Advisory Activities
+Democratic Alliance for Change
+African Development Bank
+Antiretroviral Treatment
+Banque de Crédit de Bujumbura
+Country Assistance Strategy
+CAS Progress Report
+Country Economic Memorandum
+Country Portfolio Performance Review
+Civil Society Organizations
+Department for International Development (United
+Kingdom)
+Demobilization, Reinsertion, and Reintegration
+Debt Sustainability Assessment
+East Africa Community
+Extended Credit Facility
+Education Sector Plan
+Education for All – Fast Track Initiative
+Economic Reform Support Grant
+Economic and Sector Work
+European Union
+Burundi Franc
+Foreign Direct Investment
+National Liberation Front – Party for the Liberation of the
+Hutu People
+Fiscal Year
+Governance and Anti-Corruption
+Global Alliance for Vaccines and Immunizations
+Gross Domestic Product
+Global Food Crisis Response Program
+Gross National Income
+German Agency for Technical Cooperation
+Highly Indebted Poor Countries (Initiative)
+Human Immunodeficiency Virus/Acquired Immune
+Deficiency Syndrome
+Information and Communications Technology
+International Development Association
+Independent Evaluation Group
+International Fund for Agricultural Development
+International Finance Corporation
+International Monetary Fund
+
+Vice President:
+Country Director/Director:
+Country Manager:
+Task Team Leaders:
+
+ISN
+ITEKA
+MDGs
+MDRI
+MDRP
+MOU
+MIGA
+MTEF
+NGO
+NPV
+ODA
+OLUCOM
+E
+OTRACO
+PBA
+PBF
+PEMFAR
+PER
+PIU
+PRSP
+PSD
+RBF
+RRI
+SDR
+SME
+SOSUMO
+SOE
+SWAp
+TA
+TFGIA
+UN
+UNDP
+UNFPA
+UNICEF
+US
+USAID
+WBI
+WHO
+
+IDA
+Obiageli Katryn Ezekwesili
+John Murray McIntire
+Mercy Tembon
+Mercy Tembon
+Johannes Widmann
+
+Interim Strategy Note
+Burundian League of the Humans Rights
+Millennium Development Goals
+Multilateral Debt Relief Initiative
+Multicountry Demobilization and Reintegration Program
+for the Great Lakes
+Memorandum of Understanding
+Multilateral Investment Guarantee Agency
+Medium-term Expenditure Framework
+Non-Governmental Organization
+Net Present Value
+Official Development Assistance
+Anti-corruption and Economic Malpractice Observatory
+Office des Transports en Commun
+Performance Based Allocation
+Performance-Based Financing
+Public Expenditure Management and Financial
+Accountability Review
+Public Expenditure Review
+Project Implementation Unit
+Poverty Reduction Strategy Paper
+Private Sector Development
+Results Based Financing
+Rapid Results Initiative
+Special Drawing Right
+Small and medium enterprise
+Société Sucrière du Moso
+State-Owned Enterprise
+Sector-Wide Approach
+Technical Assistance
+Trade Finance Guarantee Insurance Agreement (IFC)
+United Nations
+United Nations Development Program
+United Nations Population Fund
+United Nations Children’s’ Fund
+United States
+United States Agency for International Development
+World Bank Institute
+World Health Organization
+
+IFC
+Thierry Tanoh
+Jean Philippe Prosper
+Aida Kimemia
+
+COUNTRY ASSISTANCE STRATEGY PROGRESS REPORT
+FOR THE REPUBLIC OF BURUNDI
+TABLE OF CONTENTS
+I.
+
+Introduction .......................................................................................................................................................... 1
+
+II.
+
+Context ................................................................................................................................................................. 1
+A. Political and Social Context ............................................................................................................................ 1
+B. Economic and Poverty Context ....................................................................................................................... 2
+
+III. Progress toward CAS Outcomes........................................................................................................................... 4
+A. Progress on CAS Objective One: Promote Sustainable and Broad-Based Economic Growth ........................ 5
+B. Progress on CAS Objective Two: Improve Access to Social Services and Consolidate Social Stability ........6
+C. Progress on the Governance Objective............................................................................................................ 9
+IV. Adjustments to the CAS and Progress in Implementation .................................................................................. 10
+V.
+
+Risks ................................................................................................................................................................... 13
+
+Tables:
+Table 1: Performance Indicators in Health and Education Sectors……………………………………………..…… 9
+Annexes:
+Annex 1: Updated CAS Results Matrix ....................................................................................................................... 14
+Annex 2: Revised CAS Outcomes ............................................................................................................................... 19
+Annex 3: Division of Labor ......................................................................................................................................... 20
+Annex 4: Lending Program ......................................................................................................................................... 21
+Annex 5: Analytic and Advisory Activities ................................................................................................................. 22
+Annex 6: Selected Indicators of Portfolio Performance and Management .................................................................. 23
+Annex 7: IDA and Grants Operations Portfolio, Regional Projects and Trust Funds.................................................. 24
+Annex 8: IFC Operations Portfolio .............................................................................................................................. 25
+Annex 9: Burundi at a Glance ..................................................................................................................................... 26
+Map of Burundi: IBRD No. 33380………………………………………………………………………………… .29
+
+BURUNDI
+COUNTRY ASSISTANCE STRATEGY PROGRESS REPORT
+I.
+
+INTRODUCTION
+
+1.
+This report presents a midterm implementation assessment of the World Bank’s
+FY2009-12 Country Assistance Strategy (CAS) for Burundi.1 The CAS is aligned with
+priorities of the Government of Burundi’s Poverty Reduction Strategy Paper (PRSP) (2006-2010).
+It assists Burundi’s transition from a post-conflict to a developing economy by selectively
+supporting the implementation of its development program. The CAS has two strategic objectives:
+(i) to promote sustainable and broad-based economic growth and (ii) to improve access to social
+services and consolidate social stability. Improving governance is a cross-cutting objective of the
+CAS. The results framework of the CAS program is crafted around six outcomes: (a) increased
+productivity of food and high value export crops; (b) improved business environment; (c) improved
+infrastructural services and enhanced regional integration; (d) improved reintegration of excombatants and vulnerable groups; (e) more efficient and transparent public financial management;
+and (f) improved access to and quality of basic services and decreased vulnerability to HIV/AIDS.
+Given the cross-cutting nature of governance, the CAS program envisages improved governance at
+the project, sector and macro levels.
+2.
+The objective of this CAS Progress Report (CAS PR) is to describe any changes in the
+country context, show progress toward CAS outcomes, signal remaining challenges and make
+any necessary adjustments to the Bank’s program. Section II will provide an update on recent
+political, social and economic developments. Section III will, together with the revised results
+framework presented in Annex 1, show progress on CAS outcomes and highlight any outstanding
+challenges for the rest of the CAS period and beyond. A description of adjustments to the CAS
+program and a report on implementation progress is presented in section IV with the perspective of
+the pillars, foundation and instruments of the New Africa Strategy. Section V will provide an update
+to the risk framework.
+
+II.
+
+CONTEXT
+
+A. POLITICAL AND SOCIAL CONTEXT
+3.
+There has been mixed progress on both political and security fronts since finalization
+of the CAS in 2008. Although the government and the FNL-PALIPEHUTU, the last remaining
+rebel group, had signed a cease-fire agreement in September 2006, sporadic fighting continued and
+it took two further years of negotiations to reach a cessation of hostilities. In December 2008, the
+government and the FNL-PALIPEHUTU signed a power sharing agreement, and in January 2009
+the rebel group removed the ethnic connotation "PALIPEHUTU" from its name, making it
+constitutionally eligible to register as Burundi's 42nd political party following disarmament,
+
+1
+
+The CAS (Report No. 44193-BI) is dated July 8, 2008 and was presented to the Board of Executive Directors on
+August 08, 2008.
+
+1
+
+demobilization, and reintegration efforts. These developments are historic milestones, although
+they have been accompanied by bouts of violence and insecurity.
+4.
+Burundi's second democratic elections in 2010 constituted a milestone in the country's
+political transition. The second democratic elections under the new constitution since 2005 took
+place from May 24th to September 8th. They tested the strength of the country's institutions and
+stability of its democracy. The election process began with local councils, followed successively by
+presidential, parliamentary, and senatorial elections, and ending with hillside (local) elections.
+According to international observers, the elections conformed to international standards despite
+minor observed irregularities during the local council elections. However, thirteen opposition
+parties, alleging fraud and vote-rigging, formed a coalition to boycott the presidential election,
+leaving President Nkurunziza to stand unopposed. President Nkurunziza was therefore, in June, reelected for a second term, claiming 92 percent of the votes cast. Three political parties, notably the
+Union pour le progress national (Uprona) and Front for Democracy in Burundi (FRODEBU)
+decided to contest the legislative elections, which took place in July, and are now represented in
+parliament.
+5.
+The security situation remains calm but uncertain. The controversies over the election
+results sparked violence that sometimes led to loss of life. The self exile of the FNL president and
+former rebel leader Rwasa Agathon along with other opposition leaders in the consortium of
+opposition parties, also known as the Democratic Alliance for Change (ADC), has created an
+atmosphere of uncertainty. Although Rwasa has denied any intention to return to armed struggle,
+sporadic attacks on the population have continued. There are reports of desertions of some officers
+from the armed forces with arms, and lingering rumors of a rebellion forming in the Kibira and
+Rukoko forests in the west of the country. Although most of the country is at peace with sufficient
+security for economic and social activities, fear and skepticism still abound.
+6.
+Political anxiety is widespread, especially among opposition parties who boycotted the
+elections. The ruling party holds an overwhelming majority in the government, parliament and
+senate. Opposition parties allege an absence of inclusive political dialogue in public affairs and
+persecution of opposition political leaders. Efforts by the ruling party to reach out to other
+opposition parties include appointments of opposition party members in government and convening
+meetings for political dialogue.
+B. ECONOMIC AND POVERTY CONTEXT
+7.
+The performance of some sectors of the economy has improved, but gross domestic
+product (GDP) growth has been lower than expected, while the country has experienced the
+impact of the economic crises. In 2008, Burundi’s economy grew by 4.5 percent of GDP, owing
+to improved agriculture performance, an expansion of manufacturing and increased donor
+financing, and despite increases in fuel and food prices and energy shortages. In 2009, Burundi
+experienced the impact of the global economic and financial crisis; economic growth slowed to 3.5
+percent, mainly because of lower than expected private transfers and foreign direct investment as
+well as continued energy shortages. In 2010, however, as the economy is emerging from the effects
+of the global crisis, economic growth is estimated to rise to 3.9 percent. Economic growth remains
+volatile due to its dependence on the widely fluctuating agricultural sector, which constitutes about
+half of GDP and employs approximately 90 percent of the population.
+2
+
+8.
+Inflation increased in the wake of the international food and fuel price crisis, but has
+subsequently decreased and is expected to remain in the single digits in the absence of new
+global shocks. In 2008, inflation rose to 24.4 percent (period average) due to increases in food and
+fuel prices and to some extent depreciation of the currency. In 2009, period average inflation
+decreased to 10.7 percent and declined further to 6.4 percent in 2010. Due to higher international
+food and oil prices, inflation rates are expected to increase slightly in 2011. Nevertheless, inflation
+rates are expected to be contained in the single digits owing to government's commitments to
+macroeconomic policies, the continuation of reforms under the Extended Credit Facility (ECF)
+program with the IMF, as well as the absence of a twin food and oil crisis in the magnitude of the
+2008 crisis.
+9.
+Lack of diversity in exports, and reliance on oil and capital goods imports, continue to
+lead to consistent current account deficits. In 2008, the current account deficit (including official
+transfers) improved to 12.3 percent (from 15.7 percent in 2007). In 2009, however, the deficit
+increased again to 15.9 percent mainly due to lower donor assistance, which represents more than
+60 percent of net current transfers. Even though Burundi’s trade balance improved in 2009, after
+the negative effects of higher food and fuel prices on the trade deficit in 2008, it still reflects the
+country’s narrow range of exports, which consists almost entirely of coffee and tea, and its
+dependence on imported oil and capital goods. The external current account deficit is estimated to
+have declined to around 12 percent of GDP in 2010, because of higher exports and official transfers.
+Gross official reserves represented about 5.2 months of imports in the period 2008-2010.
+10.
+The private sector’s contribution to growth remains limited. Foreign direct investments
+(FDI)—representing less than one percent of GDP—remain low in Burundi, despite a significant
+improvement from US$0.5 million in 2007 to US$13.6 million in 2008, as a result of renewed
+involvement of foreign firms in the banking and telecommunication sectors. However, in 2009,
+FDI is estimated to have declined slightly to US$10.2 million. Domestic private investments
+remain at low levels of about 7.6 percent of GDP (on average in 2005-2008).
+11.
+Burundi’s external debt situation has improved, but remains vulnerable to debt
+distress due to the country’s narrow export base. In January 2009, Burundi reached the Highly
+Indebted poor Countries (HIPC) completion point and was eligible for US$833 million (in net
+present value) in debt relief, including US$425 million from IDA and US$38 million from the IMF.
+The most recent Debt Sustainability Assessment (DSA) from July 2010 reveals that Burundi
+continues to face debt distress and recommends: (i) acceleration of structural reforms to increase
+and diversify the export base; and (ii) continued reliance on grants and highly concessional loans.
+12.
+Medium-term growth prospects supported by productivity improvements in the
+agriculture sector are favorable. Growth is projected to rise from 3.9 percent in 2010 to reach 4.5
+percent in 2011 and average 4.9 percent in 2012-2013. Under these projections, growth would be
+supported by productivity improvements in the agriculture sector (including coffee) and its linkages
+with the secondary sector (mostly agro-industry, mining and energy, and construction). In addition,
+a renewed impetus in the service sector, including banking and telecommunications, within the East
+Africa Community (EAC) should have a positive effect on growth. Finally, planned investments in
+the energy sector should relieve the economy from a significant constraint.
+13.
+The macroeconomic framework is expected to be stable and the current account deficit
+should improve. Inflation is projected to decrease to about 7.0 percent in 2011-2013. Despite the
+3
+
+slow recovery of the global economy, the current account deficit will likely decline compared to its
+2009 level. Following the liberalization reforms of main export crops, Burundi’s export earnings
+will increase, but higher international food and oil prices are expected to exacerbate the trade
+deficit. As a result, the current account deficit will deteriorate to about 15 percent of GDP in 201113 from 11.9 percent of GDP in 2010. FDI is expected to continue to rise over the next couple of
+years to about US$12.8 million on average in 2010-2013 from US$10.2 million in 2009, due to the
+modest recovery of the world economy, as well as continued reforms of the investment climate and
+public finance. Gross official reserves will average 5.4 months of imports in 2011-2013.
+14.
+Burundi’s poverty outlook remains daunting; the country continues to be unlikely to
+reach the Millennium Development Goals (MDGs) by 2015. Burundi’s GDP per capita remains
+very low, even though it increased from about US$147 in 2008 to US$178 in 2010 according to
+IMF estimates. In 2010, Burundi ranked 167th of 169 countries on the UNDP Human Development
+Index. The last measured poverty level for Burundi stood at about 67 percent in 2006, still far from
+the MDG target of 18 percent in 2015. However, the country achieved progress on some key social
+indicators, such as maternal and child health, HIV/AIDS prevalence and in education enrollment.
+15.
+Burundi’s economic structure and geographic location continues to make the country
+vulnerable to various economic, political and climatic shocks. First, as already discussed,
+economic growth depends mainly on the performance of the agriculture sector which is very
+sensitive to weather shocks. Second, because Burundi is a net food importer and depends heavily
+on fuel imports, it is very susceptible to shocks in international markets. Third, recurrent episodes
+of conflict have been a huge drag on growth in the past decades. Given Burundi’s landlocked
+position, political problems in neighboring countries can have large negative impacts. These
+shocks, especially when they are cumulative, can have large welfare consequences. For instance,
+because households spend a large share of their income on food, an increase in food prices worsens
+poverty. Internal and external conflicts drive prices even higher or delay the delivery of food and
+magnify the size of the welfare losses. Moreover lack of adequate safety nets reduces the country’s
+ability to protect its population from shocks.
+16.
+Burundi is in the process of formulating its second PRSP expected to be finalized in
+mid-2011. A comprehensive performance and impact assessment of the first PRSP has been
+prepared and informs ongoing consultations for the formulation of the second PRSP. The new
+PRSP is not expected to deviate from the objectives set forth in the first PRSP, but rather build on
+the progress achieved and deepen the reform efforts put in place. It will focus on increasing growth
+and employment opportunities though investments in: (i) agriculture; (ii) infrastructure (water,
+energy, roads, and ICT); (iii) private sector development; and (iv) tourism. The current CAS
+continues to be in line with these objectives, and the new CAS will be designed based on the second
+PRSP.
+
+III.
+
+PROGRESS TOWARD CAS OUTCOMES
+
+17.
+Burundi’s progress toward CAS outcomes has been mixed. Within the two CAS
+objectives (i) Promote sustainable and broad-based economic growth; and (ii) improve access to
+social services and consolidate social stability – there has generally been more progress under the
+second objective and major challenges remain to achieve more satisfactory outcomes under the first
+objective. Among eleven outcome indicators under the first objective, three have been achieved
+4
+
+and six are on track albeit with much more work still needed; one indicator (energy) remains off
+track (the ICT progress indicator is not available). While agriculture indicators progressed well
+with respect to food crops, export crops indicators have lacked behind and proved too ambitious.
+Business environment indicators were achieved even though a lot more needs to be done. Roads
+and water remain on track, but energy outcome indicators are currently off track. Among thirteen
+outcome indicators under the second objective, four have been achieved and five are well on track.
+Four indicators are currently off track. Progress toward reintegration of ex-combatants and
+vulnerable groups is going well, even though one indicator on effective reintegration is currently off
+track. In addition, there has been good progress on public finance management indicators.
+Excellent progress has been achieved toward meeting the CAS outcomes in health and HIV/AIDS.
+A total of three indicators are currently off track in the education sector, which continues to face
+major challenges further described below.
+18.
+The recent Performance and Impact Assessment of the Growth and Poverty Reduction
+Strategy Framework confirmed the good progress on key human development indicators,
+particularly in health, albeit with some shortcomings in education. It emphasized the important
+challenges that remain on promoting the country’s economic transformation and increasing growth,
+especially of exports.
+A. PROGRESS ON CAS OBJECTIVE ONE: PROMOTE SUSTAINABLE AND BROADBASED ECONOMIC GROWTH
+19.
+
+The CAS outcomes under Objective One are:
+1.1:
+1.2:
+1.3:
+
+Increased productivity of food and high-value export crops;
+Improved business environment; and
+Improved infrastructural services with enhanced regional integration.
+
+20.
+There has been progress in increasing productivity of food crops, but improving the
+productivity of export crops and increasing overall agriculture sector growth are key
+challenges. While there have been noticeable improvements in the production and yields of rice,
+milk and oil palm, production of traditional export crops, such as tea and coffee, was either stagnant
+or declining. As already outlined above, sluggish growth of the economy overall during the last
+years can be, among other factors, ascribed to limited progress in agriculture production, which
+resulted in weak agriculture growth of less than 3 percent from 2006-2009. This also continuous to
+severely hamper any progress in poverty reduction given that about 90 percent of Burundians work
+in the agriculture sector. Specific key challenges in this regard include the need to further improve
+the productivity of agriculture investments through adoption of agriculture technology aimed at
+increasing yields, and improved agriculture research and extension efforts, including the production
+of seed and the distribution of fertilizer. Additional challenges include the need for further
+irrigation development and the rehabilitation of rural feeder roads. Traditional export crops need to
+be modernized, but agriculture exports—just like the country’s economy overall—are also in a dire
+need for diversification. Finally, an important challenge remains for increased private sector
+participation in commercial agriculture. This challenge is evident in the CAS outcome indicator on
+a reduction in government ownership of coffee assets, which proved too ambitious and had to be
+revised. One specific challenge includes the privatization of coffee washing stations. So far only 13
+out of the 117 washing stations have been privatized.
+5
+
+21.
+Progress in improving the business environment has been good according to the targets
+set forth in the CAS, but significant challenges remain in making Burundi a better place to do
+business. Arrears to the private sector have been paid and there has been some progress in revising
+legislative codes (commerce, corporations, and investments) and improving collaboration between
+the public and the private sector. While there has been significant contribution to this outcome from
+the Bank’s financing program, certain knowledge products had a significant impact as well. For
+example, a 2009 report of the legal and institutional framework for privatization pointed out the
+weaknesses of the agency in charge of privatization and its lack of capacity in bringing about
+substantial improvements in the performance of the sector and to plan and monitor the privatization
+program envisaged by government. In addition, the FY10 CEM recommended improvements in the
+regulatory environment to attract domestic and foreign investment. Among other things it pointed
+out the need for the implementation of the investment code, the finalization of a revision to the tax
+code and the establishment of an export and investment promotion agency. Nevertheless, private
+sector activities remain severely hampered by institutional constraints and slow progress with
+respect to the development of the formal sector and the restructuring or privatization of public
+enterprises. The country’s business climate continues to be uninviting, hampered by its small
+domestic market and landlocked position, but also a high cost of doing business, which is due to
+high energy and telecommunication costs and poor infrastructure. According to the 2011 Doing
+Business report, the country ranks 181st (among 183 countries) in the world and much remains to be
+done to improve this situation.
+22.
+Progress on improving transport and water infrastructure has generally been good.
+The country made progress on the roll-out of ICT coverage, but important challenges remain
+with respect to energy generation and access as well as in sector governance. Development of
+infrastructure in general remains a key growth impediment. Given the landlocked position of
+Burundi, regional infrastructure continues to play a key role, but improved domestic infrastructure
+to improve market access from rural areas to urban centers, is also key. In the transport sector, there
+has been good progress on road rehabilitation and notable efforts have been made to improve road
+maintenance for which domestic resources more than doubled between 2007 and 2010. The paved
+road network in good and fair condition has improved from 21 percent of 1,100 km to 49 percent in
+the same period. IDA contributions in the road sector complemented government’s contributions
+and resources by other partners, including the EU. However, Burundi’s international transportation
+costs, representing 40 percent of the value of agriculture exports, remain exorbitant. Internet access
+increased, as did the expansion of mobile phone services, thanks to the private sector. The
+extremely weak levels of electricity generation – currently only about three percent of the
+population has access to electricity – remain a key constraint, calling for the mobilization of
+increased public and private investments. Infrastructure sectors in general still lack comprehensive
+governance frameworks and exhibit the need to streamline and harmonize various efforts in
+building their regulatory capacity as a priority going forward.
+B. PROGRESS ON CAS OBJECTIVE TWO: IMPROVE ACCESS TO SOCIAL SERVICES
+AND CONSOLIDATE SOCIAL STABILITY
+23.
+
+The CAS outcomes under Objective Two are:
+2.1:
+
+Improved reintegration of ex-combatants and vulnerable groups;
+6
+
+2.2:
+2.3:
+
+More efficient and transparent public financial management; and
+Improved access to and quality of basic social services and decreased vulnerability to
+HIV/AIDS.
+
+24.
+Demobilization of ex-combatants and reintegration of vulnerable groups has
+progressed well. Since the 2008 peace agreement with the FNL to transform the rebel movement
+into a political party, the Government of Burundi moved forward with the final phase of
+demobilization, reinsertion and reintegration (DRR) and as a result over 6,500 FNL ex-combatants
+were demobilized. The Government is now focusing on reintegration efforts for these excombatants and the host communities. On the other hand, there has been slower than expected
+progress on the amount of returnees and displaced persons that have been effectively reinserted into
+their communities. A key challenge remains the unemployment of ex-combatants. While
+opportunities for labor-intensive public works jobs have been created by the Bank-financed public
+works program, it is important for the government to develop an environment conducive to private
+sector development so that more jobs will be created. Partnerships have been a strong element of
+demobilization and reintegration activities in Burundi. The DRR project has brought together, on
+one level, collaboration between four bilateral donors and the Government of Burundi. The
+effective execution of activities has been realized through the engagement of 15 implementing
+partners representing a broad spectrum of civil society actors. These implementing agencies
+represent regional CSO’s working on the ground in Burundi, as well as specialized agencies
+working in the domain of medical service provision for disabled ex-combatants, as well as psychosocial support services. DRR programming in Burundi is achieved by the successful management of
+partnerships at all levels.
+25.
+Important progress has been achieved in putting in place the framework and systems
+for more efficient and transparent public financial management, but the quality of public
+spending must be improved. Significant progress was made in the enactment of the 2009 Budget
+Framework Law (Loi Organique). In addition, there has been a modernization of the procurement
+code and a computerized financial management system has been extended to virtually all financial
+management and cash flows. There has also been good progress on the development of central and
+sector medium-term expenditure frameworks (MTEF), even though there is still need for the central
+MTEF to be used to define the overall budget envelope and allow for inter-sector budget choices
+consistent with national priorities. While the percentage of expenditures allocated to priority
+sectors increased laudably, from about 41 percent in 2005 to 55 percent in 2009, challenges remain
+with respect to improvements in budget planning process and the quality of public spending. A mix
+of instruments contributed to progress under this outcome, including an economic management
+project and the development policy series, but most notably also various analytic work and technical
+assistance. A Public Expenditure Financial Accountability report in FY09 recommended, among
+other things the development of an MTEF to improve budget planning as well the implementation
+of cash management plans. Other knowledge products included a study on options for pay reform,
+the Financial Sector Advisory Program, a debt management performance assessment, as well as
+technical assistance for poverty monitoring and quantitative macro-fiscal framework. A FY11
+Public Expenditure Review (PER) assessed the state of public expenditure in Burundi, with a focus
+on public investment, and recommended specific actions that need to be taken to stimulate growth
+and reduce poverty. Another PER is planned for FY12 in addition to technical assistance that will
+aim at building capacity to extend the use of MTEFs across ministries.
+
+7
+
+26.
+Significant progress has been achieved in the health sector including a major and
+successful reform through the introduction of performance-based financing. Significant efforts
+have been made to train general practitioners and nurses and increase capacity. Government policy
+of free health care for pregnant women and children under the age of five has increased utilization
+rates. The number of women giving birth in health facilities is increasing; maternal and child
+mortality rates have been declining albeit not significantly. The introduction of performance
+contracts with health facilities with support from IDA financing has significantly improved the
+utilization and quality of services (including with regard to availability of essential drugs). Burundi
+is now only the second country in Sub-Saharan Africa (after Rwanda) to have performance-based
+financing (PBF) for all public and private non-profit health facilities nationwide. This is a major
+achievement that exemplifies positive changes in the health sector, including: (i) the creation of an
+internal market for PBF with IDA financing leveraging funding from other sources; (ii) successful
+innovative civil service reform in the health administration at all levels; (iii) introduction of
+innovative data management systems, which led to an advanced level of transparency and a
+different way of doing business. Key challenges going forward will be to consolidate and enhance
+these gains in utilization and quality and to show progress in certain indicators and areas of the
+country where progress has been lagging. It will be important to continue to strengthen health
+systems, especially with respect to human resources but also regarding the systems for distributing
+and managing drugs and medical consumables, planning and budgeting, M&E, enhancing the
+autonomy of decentralized structures (e.g. health facilities) and addressing various inefficiencies in
+resource use.
+27.
+Combating HIV/AIDS has made steady progress with respect to several prevention
+and screening measures. As of June 2010, 20,307 new HIV/AIDS patients out of a total 63,000
+patients (i.e. 37 percent) have been enrolled on antiretroviral treatment (ART); 8,758 out of almost
+16,900 HIV+ pregnant women (i.e. 52 percent) were receiving ART prophylaxis for the prevention
+of mother-to-child transmission. IDA funding is highly complementary with funding from other
+partners, including UNAIDS. Prevalence rates are declining overall. Compared to 2002, the 2008
+National serological survey suggests that HIV/AIDS prevalence is stable in urban areas (from 4
+percent to 3.8 percent) but moderately increasing in rural areas (from 2.2 percent to 2.9 percent).
+The most important challenge will be to not become complacent, but continue to widen efforts,
+especially with respect to prevention measures.
+28.
+The education sector has trouble in providing quality education after the spectacular
+growth in enrollment since 2005 (Table 1). Reintegration combined with the abolition of school
+fees resulted in gross enrollment growth from about 80 percent in 2005 to 134 percent in 2009. In
+order to accommodate this increase, there has been an expansion in the number of classrooms, but
+key quality indicators such as completion rates, student-teacher or student-textbook ratios are
+improving at a much slower speed than expected by the CAS. Burundi, however, did achieve
+gender parity in primary education. A key short-term challenge will be for Burundi to join the
+Education for All – Fast Track Initiative (EFA-FTI). One key obstacle for joining the EFA-FTI has
+been the absence of an endorsed Education Sector Plan (ESP). The Government had prepared a
+plan in October 2009, but Development Partners did not endorse it for various reasons including its
+complexity. In October 2010 a new policy of 9-years of Basic Education was introduced.
+Government is currently working on updating the ESP to accommodate the new policy. A new plan
+is envisaged for November/December 2011, following which the ESP will be reviewed and
+endorsed by donors.
+8
+
+Table 1: Performance Indicators in Health and Education Sectors
+2000
+Health
+Births attended by skilled health staff (% of total)
+
+2005
+
+2006
+
+2007
+
+2008
+
+33.5(a)
+
+Under 5 mortality rate (per 1,000 live births)
+Infant mortality rate (under 1, per 1,000 live births)
+Maternal mortality ratio (modeled estimate, per
+100,000 live births)
+Maternal mortality ratio (GOB estimate, per
+100,000 live births)
+Person sick/injured during the last 4 weeks
+preceding surveys (%)
+HIV/AIDS
+Prevalence of HIV, total (% of population aged 1549)
+Education
+Primary completion rate (GOB, %)
+Net school enrollment, primary (GOB, %)
+Pupil-teacher ratio, primary (GOB, number)
+Pupil-classroom ration (GOB, number)
+Girl-boy ratio (GOB, number)
+
+177.6
+107.3
+
+176(a)
+103.9
+
+1,200
+
+1,100
+
+64.4(f)
+170
+103.3
+
+168.7
+102.6
+
+615
+29.9
+
+167.5
+101.9
+
+166.3
+101.3
+
+970
+
+970
+
+620
+
+620
+
+(e)
+
+3.2(b)
+26.8
+44.0
+
+23.4(f)
+
+2.97(c)
+36.1
+69.8
+49
+76.3
+0.86
+
+2009
+
+38.5
+72.4
+55
+86.3
+0.91
+
+40.7
+82.6
+
+3.0(d)
+46
+84.6
+
+48
+89.7
+51.9
+82.7
+0.97
+
+Notes: (a) estimated by the GOB from the MICS-2005 survey; (b) figure estimated from the 2002 survey; (c) HIV sero-prevalence survey of 2007;
+(d)
+figure estimated in 2009 from a survey of 63,741 people (in the general population) conducted by Family Health International (FHI); (e)
+estimated from CWIQ-2006 survey; (f) estimated from the 2009 baseline Bank-funded health survey. Other data come from the World
+Development Indicators database. GOB stands for Government of Burundi.
+
+Source: Various sources assembled/calculated by World Bank staff.
+
+C. PROGRESS ON THE GOVERNANCE OBJECTIVE
+29.
+Governance is a cross-cutting objective under the CAS, and is addressed at three
+levels: (i) at the project level; (ii) at the sector level; and (iii) at the macro level. At the project
+level, a recently completed Country Portfolio Performance Review (CPPR) concluded that financial
+management and procurement performance of the 14 projects in the portfolio has been generally
+satisfactory. Burundi's portfolio has no current projects in problem status, compared to 28 percent
+on average for the Sub-Saharan Africa region. Remaining challenges include the need to: (i)
+strengthen internal audit capacity in technical ministries; and (ii) train procurement specialists in
+Project Implementation Units (PIUs) on procurement issues, such as (a) standardized procurement
+documents, (b) procurement software PROCYS, and (c) the preparation of bidding documents. At
+the sector level, the IDA-financed health project has introduced results-based financing to
+accompany the government's free health care policy for under 5 children and pregnant women at the
+time of delivery, helping to ensure that resources reach the intended beneficiaries. In the
+infrastructure sectors there has generally been good progress on governance at the project level, but
+there is still a lack of more comprehensive governance frameworks at the sector level. This
+includes the need to streamline and harmonize various efforts in building regulatory capacity in the
+sectors.
+30.
+At the macro level, progress includes: (i) the revision of the budget framework law, which
+has improved the transparency of public financial management; (ii) the revision of the procurement
+code to increase transparency; (iii) the establishment of the Financial Management Information
+9
+
+System (SIGEFI) to improve the transparency of budget execution; and (iv) the computerization of
+payroll management, which was effectively introduced with the January 2011 payroll. The
+introduction of the new software in payroll management has already started showing positive
+results: data entry mistakes have been reduced, resulting in savings of about US$18,000 in the wage
+bill of January 2011. Other measures at the macro level that will be important to reduce corruption
+include the need to improve ethics and internal control, internal and external audit, forensic
+investigation and improved prosecution and sanctions.
+31.
+Strengthening governance and fighting corruption remain major challenges. The
+government has not yet finalized its Governance Strategy (First draft September 2009) which was
+expected to provide the framework and action plan for addressing governance issues. The lack of
+consensus around governance reform priorities undermined the ability of government to approve the
+Governance Strategy prior to the September 2010 Presidential Elections. Nevertheless, following
+the elections, the new administration has expressed a renewed commitment to encourage good
+governance and fight corruption, and has taken some steps towards finalization of the strategy—
+including during a High Level Cabinet Seminar on governance in March 2011. It is now envisaged
+that the strategy will be presented to the Council of Ministers for approval in May 2011.
+Furthermore, the Ministry in charge of Good Governance and Privatization, the anti-corruption
+Brigade and civil society organizations, such as the Burundian League of the Humans Rights
+(ITEKA) and the Anti-corruption and Economic Malpractice Observatory (OLUCOME), are
+collaborating to set up local committees of good governance. There have been recent arrests of
+officials of public enterprises such as Société Sucrière du Moso (SOSUMO) and Office des
+Transports en Commun (OTRACO) accused of embezzlement. However, high profile graft cases
+such as the sale of the presidential plane (2007) and Interpetrol (2006) remain unresolved. The
+government has not recovered the US$42 million owed by petroleum companies, as identified by a
+petroleum sector audit.
+32.
+The Bank provides knowledge and technical assistance aimed at improving
+governance. Three Policy Notes drawn from the findings of a FY10 Country Economic
+Memorandum (CEM) on (i) priority areas for economic growth, (ii) creating fiscal space for
+productive investment and (iii) improving governance for development effectiveness, served as the
+base document for discussion at the High Level Cabinet Seminar on governance held in March
+2011. Technical Assistance from the World Bank Institute has provided support to the governance
+objective of the CAS, including through the Rapid Results Initiative (RRI) program that has helped
+to improve the provision of public services and enhance efficiency and accountability in public
+expenditure. So far, 2,764 civil servants have been trained in RRI and 7 of 25 ministries are using
+the RRI method.
+
+IV.
+
+ADJUSTMENTS TO THE CAS AND PROGRESS IN
+IMPLEMENTATION
+
+33.
+Although the implementation period of the Poverty Reduction Strategy Paper (PRSP
+2006-2010) supported by the CAS has just been completed, its development objectives remain
+relevant. The government has recently launched the preparation of a second generation PRSP
+(2011-2015). After stakeholder consultations, the objectives of the new strategy will remain similar
+given that the country’s economic and social challenges remain broadly the same. The new PRSP
+would focus more on the acceleration of economic growth (closing the infrastructure gap and
+10
+
+raising agricultural productivity and accelerating private sector development), while consolidating
+peace and security, improving governance and the rule of law and enhancing human capital
+development. The strategy to promote sustainable and broad-based growth and to improve access
+to social services and consolidate social stability as laid out in the CAS therefore remains relevant.
+Furthermore, these new PRSP and CAS objectives are also aligned with the two pillars and the
+foundation of the new Africa strategy. The instruments of partnerships, knowledge and finance also
+remain valid. Therefore, no major changes to the CAS program are proposed.
+34.
+The Bank’s program in Burundi will continue to address vulnerability issues through a
+multi-sectoral approach. Various Bank interventions, across different sectors, aim to address
+Burundi’s vulnerability to external shocks mentioned above. For example, agriculture projects aim
+to increase food crops productivity, which will make the country less susceptible to rising
+international food prices. At the same time, the projects also focus on making sure vulnerable
+groups are being effectively integrated into their communities by supporting them in their own
+agriculture activities. These efforts synch directly with other projects that promote better and more
+equitable local service delivery together with projects that focus on demobilization of excombatants and providing them with socio-economic integration. Furthermore, the Bank’s program
+supports short-term employment through public works aimed at providing income and safety nets
+outside of agriculture. These efforts are being complemented by transport projects with a focus on
+enhancing road maintenance that creates permanent jobs. The Bank’s program will continue and
+further elaborate its multi-sector approach to vulnerability in the next CAS in conformity with the
+directions outlined in the World Development Report 2011.
+35.
+Overall delivery of planned projects has been on track, with slight adjustments to
+accommodate a few project delays. The delivery of two regional projects (Lake Victoria Project
+and Rusumo Falls Project) that were planned in FY10 and FY11 respectively have been moved one
+year later. They took a longer time to prepare than anticipated because of national capacity
+constraints in project preparation. The regional transport project planned for FY11 has been slipped
+to the next CAS period (FY13-17) to allow time to identify a regional transport project that will
+involve Burundi, given that Burundi is not likely to be included in the proposed East Africa
+Transport Links Project (FY12). To respond quickly to changing circumstances and the energy
+crisis, Crisis Response Window resources were used to finance an Emergency Electricity
+Infrastructure Project (US$15.4 million) in FY11. In FY09, to respond to the impact of the twin
+crisis in fuel and food prices on the 2008 national budget (estimated at about 1.1 percent of GDP),
+the Bank granted Burundi with US$10 million under the Global Food Crisis Response (GFRP)
+program. The impacts of the crisis were also mitigated by the authorities’ policies, such as revising
+the 2008 budget to include a number of measures, notably: (i) suspension of custom duties and
+domestic transaction taxes on 13 basic food items, (ii) sustaining and/or extending school feeding
+programs (including for girls) in primary schools of vulnerable provinces, and (iii) adding more
+resources to the budget for the emergency humanitarian relief to cope with a threat of famine in the
+country following the drought.
+36.
+The combination of development policy and investment lending grants has provided
+significant financial support to Burundi’s development program. The IDA portfolio currently
+has 13 projects with net commitments of US$414.5 million. Key sectors include: agriculture (22
+percent); water and energy (16 percent); roads (12 percent); private sector (11 percent); public
+works and urban (11 percent) and health and HIV/AIDS (10 percent). The portfolio has currently no
+problem projects and the implementation period averages 3.3 years (see Annex 6). The portfolio
+11
+
+also includes three regional projects with a total (national and regional) IDA amount of US$40.4
+million of which US$21.4 million remain undisbursed (see Annex 7). Projects planned for the rest
+of the CAS period include Lake Victoria Environmental Management Project (FY11), Fourth
+Economic Reform Support Grant (FY11), Financial and Private Sector Development -Additional
+Financing (FY11), Road Sector Development Additional Financing (FY11), Regional Rusumo Falls
+Hydroelectric and Multipurpose Project (FY12), Fifth Economic Reform Grant (FY12) and Public
+Works and Urban Management Additional Financing (FY12). The government has asked the Bank
+to provide assistance to mitigate the impact of the recent increases in fuel prices and to improve its
+trunk road links with its EAC neighbors. In addition, there is a possibility for additional financing
+of the results-based financing program for health due to the better-than-expected performance and
+rapid increase in utilization. Taking into consideration Burundi’s IDA 16 allocation, the indicative
+lending program might need to be revised further.
+37.
+Trusts funds have complemented IDA resources for Burundi. There are currently 14
+trust funds with a total grant amount of US$32 million. Only four trust funds exceed US$2 million,
+with the majority providing less than US$0.5 million.
+38.
+The Bank has played an active role in the aid effectiveness agenda. In October 2009, the
+Bank chaired Burundi’s first Consultative Group at which Burundi presented progress on its first
+PRSP. Over the past two years the Bank has chaired the sector working group on agriculture and on
+HIV/AIDS and has co-chaired the Strategic Forum for donor coordination, which serves as a forum
+for dialogue in the coordination of development aid and fosters alignment and harmonization of
+development partner programs and projects with the development priorities of the Government of
+Burundi. In the health sector, IDA financing contributed to the creation of an internal market for
+the purchase of quality health services, which has currently ten fund holders. Government’s own
+budget together with HIPC debt relief and IDA financing provide 70 percent. The remaining fund
+holders include the European Commission, Belgium, Switzerland, the Global Fund, the Global
+Alliance for Vaccines and Immunization (GAVI) and others.
+39.
+The Bank also strengthened its working relations with civil society groups, the media
+and Parliamentarians during the CAS Implementation period. The Bank meets quarterly with
+civil society organizations to discuss issues related to the Bank’s analytic work, project design and
+implementation and key issues in policy dialogue. The Bank has also offered training to journalists
+on how to report on economic and governance issues. Parliamentarians have had a briefing on the
+World Bank project cycle and their role in ensuring efficient project implementation in their
+respective constituencies. This has also been useful in building confidence between citizens and the
+state and thereby facilitating the transition out of fragility.
+40.
+IFC investment in Burundi currently consists of one project of US$1.5 million. The
+project is an equity participation in Diamond Trust Bank Burundi S.A., a greenfield subsidiary of
+Diamond Trust Bank Kenya Limited (DTB-Kenya). The project is expected to have a high
+development impact in the following areas: (i) increasing credit availability to small- and mediumsized enterprises (SMEs); (ii) enhancing competition in the banking sector in Burundi; and (iii)
+expanding credit availability across all segments of the market. IFC also recently approved a
+US$25 million senior loan to help upgrade and expand the telecommunications network of U-Com
+Burundi S.A. Commitment is expected in the coming weeks. In addition, IFC is considering a senior
+loan of US$6.4 million to Opulent (B) Limited to support the renovation and rebranding of the
+former Novotel hotel in Bujumbura, Burundi. A Country Advisory Services (AS) strategy was
+12
+
+recently completed and identified access to finance, agribusiness, SME capacity building and
+privatization as areas for IFC AS focus. The IFC Investment Climate Team, in cooperation with the
+IFC Conflict Affected States in Africa (CASA) program is currently helping the government to
+undertake a range of reforms in the areas of (i) Doing Business; (ii) business taxation; (iii) publicprivate dialogue; (iv) support to the implementation of the East African Community Common
+Market Protocol and (v) reform communication.
+41.
+To improve the quality and realism of the CAS results matrix, some indicators have
+been updated. Some indicators required updating, due to either: (i) indicators that are not being
+monitored by the program and for which there is no indication of progress; (ii) indicators that
+proved too ambitious and had to be revised; or (iii) a change in program delivery. Annex 2 provides
+an overview of the updated CAS indicators.
+
+V.
+
+RISKS
+
+42.
+Most of the major risks identified in the FY 09-12 CAS are still valid. Some of the risks
+have materialized in various degrees. Going forward, the Bank’s program will continue to support
+the government’s efforts to manage those risks and to reduce their impact.
+43.
+Macroeconomic stability will continue to be threatened by fiscal pressures. The origins
+of those pressures include weak performance of agriculture, due to exogenous shocks including
+weather and fuel and food prices, and slow economic growth due to the global economy. These
+might lead to the loss of revenue and a weakening of the debt sustainability position as well as
+insufficient investment in energy and infrastructure that drive growth. The Bank will continue to
+support national investments in agriculture and infrastructure to maintain growth and thereby
+improve macro stability.
+44.
+The weak governance environment remains a risk to the CAS program. As already
+noted above, while there has been progress on the project level, important reform efforts are needed
+to improve governance in some sectors (e.g. infrastructure). Reforms in public finance management
+and procurement supported by development policy grants and policy advice will help mitigate this
+risk. The Bank will continue to support the governance strategy once it is finalized.
+45.
+Burundi’s political and security situation remains stable but fragile. The insecurity
+level according to UN security sources has significantly decreased. Movement throughout the
+country is relatively free and the implementation of development programs is not hampered. On the
+political front, so far the Cabinet Ministers sworn in after the elections in September 2010 are still
+in office and there have been few changes in key technical team in ministries working on Bankfinanced projects. Nevertheless there are fears that opposition leaders in exile might return and
+incite conflict, and ordinary criminality is high in much of the country.
+
+13
+
+Annex 1: Updated CAS Results Matrix
+CAS Outcomes
+FY11 Status
+Milestones
+& Results Indicators
+CAS STRATEGIC OBJECTIVE I: PROMOTE SUSTAINABLE AND BROAD-BASED ECONOMIC GROWTH
+Aligned with PRSP Axis 2: Promotion of sustainable and broad-based growth
+1.1 Increased productivity of food
+Food crops
+crops and high-value export
+- Increase in area under irrigation from 300 ha in 2008 to
+crops
+1,225 ha by 2010. Achieved (1,475 ha of marshland in
+Food crops
+the project areas are currently under irrigation)
+- Irrigated rice: from 4.0 tons/ha
+- On track (4.5 tons/ha in
+- At least 10 new agricultural technologies
+(2008) to > 5.0 tons/ha by 2012
+2010)
+developed/disseminated by 2010. Partially achieved (8
+- Cassava: from 10 tons/ha (2008) to
+- On track (10 tons/ha in
+had been disseminated by 2010)
+at least 18 tons/ha by 2012
+2010)
+- At least 1,050 additional productive investment
+- On track (6 l/cow/day in
+- Milk: from 5 l/cow/day (2008)
+subprojects (including for tea and coffee) implemented
+2010)
+8l/cow/day by 2012
+by 2010 (from 2,345 in 2008 to 3,400 by 2010).
+Achieved (4,433 subprojects by 2010 of which 3,416
+- Palm oil: from 2.2 tons/ha (2008) to - Achieved (3 tons/ha in 2010)
+have been implemented)
+3.0 tons/ha of oil by 2012
+Export crops
+Export crops
+- At least 30 (of 117) coffee washing - On track (13 coffee washing - Action plan on divestiture in coffee sector implemented
+stations have been privatized
+stations are sold to private investors
+by December 2009. Achieved (Action plan for state
+in 2010)
+by 2012 (revised indicator)
+divestiture was adopted, including the establishment of
+the regulatory agency in mid-2009)
+- A clear time-bound strategy for state’s divestiture of key
+tea sector assets is available by December 2009. Not
+achieved (Tea sector reform has been delayed)
+Land Management
+- Increase in area of selected watershed under SLM
+practices from 3,000 ha in 2008 to 9,000 ha by 2010.
+Achieved (25,215 ha in 2010)
+- Land use plans developed and adopted for 8 provinces
+in 2010 up from 2 in 2008. Achieved (10 provinces in
+2011)
+1.2 Improved business environment
+- Tax payment process simplified by end of 2009. Not
+- At least 70% of Government arrears - Achieved (All arrears to the
+Achieved (Acquisition of tax software still underway)
+to the private sector have been
+private sector have been
+- Updated legal framework (investment code, commercial
+cleared by 2012
+settled)
+code, business and privatization laws) more transparent
+- Commercial court cases where the
+and in line with international standards by 2009.
+- Achieved (Considerable
+delays in rendering judgment is
+Achieved (Investment code and privatization law,
+reduction in delays of court
+over 60 days reduced from 40% in
+commercial code and private and public business code
+
+14
+
+World Bank and Partner
+Support
+
+Ongoing operations:
+PRASAB: Agriculture
+Rehabilitation and Sustainable
+Land Management (FY05) and
+Additional Financing (FY08)
+PAGE: Economic
+Management Support (FY04)
+Agro-Pastoral Productivity and
+Markets Development Project
+(FY10)
+Road Sector Development
+(FY04)
+ERSG DPL Series (Annual)
+Planned operations:
+ERSG DPL Series (Annual)
+Lake Victoria-regional
+(FY11)
+Ongoing/Planned AAA and
+TFs:
+Coffee Sector Strategic
+Environmental Assessment
+Main partners: USAID, FAO,
+EU, IFAD
+Ongoing operations:
+PAGE: Economic Management
+Support (FY04)
+Financial and Private Sector
+Development (FY10)
+ERSG DPL Series (Annual)
+Burundi Investment Climate
+
+CAS Outcomes
+& Results Indicators
+2008 to below 25% in 2012
+
+1.3 Improved infrastructural
+services with enhanced regional
+integration
+Roads
+- 51% of paved road network in good
+and fair condition by 2012 (from
+21% in 2008) (revised indicator)
+
+Water
+- 363,200 people served with access
+to improved water in Bujumbura
+(with surroundings) in 2012,
+compared to185,000 in 2008
+
+FY11 Status
+cases to 10% of cases
+beyond the 60 day deadline
+by July 2009)
+
+- On track (49% of paved
+roads in good and fair
+conditions in 2010)
+
+- On track (218,874 in 2010)
+
+Milestones
+have been adopted)
+- Strategy to clear Government arrears to the private
+sector implemented. Achieved (Strategy has been
+implemented)
+- Computerized business registry operational by 2009.
+Not available
+- Priority organizational measures to speed up
+Commercial court proceedings adopted by 2009.
+Achieved (Measures have been adopted and court
+proceeding accelerated)
+- Action plan for improving the institutional capacity for
+public sector reform adopted by 2010. Achieved
+(Action plan was adopted)
+- Financial Sector Assessment completed and
+implementation of recommendations initiated by 2010.
+Achieved (Financial Sector Assessment has been
+completed)
+Roads
+- 240 kilometers of paved roads and 300 km earth roads
+(including rural access roads) rehabilitated by 2010.
+Partially Achieved (Achieved for paved roads; 154 km
+of earth roads by 2010)
+- National Road Fund Revenues increase from US$3.7
+million in 2007 to US$ 5 million in 2009. Achieved
+(US$7.5 million in 2010)
+- Increased Fuel Levy for road maintenance from 6 Cents
+in 2007 to 8 Cents by end-2009. Achieved (8 cents by
+end-2008)
+Water
+- Water production capacity in Bujumbura increased from
+66,000 (2008) to 96,000 m3/day in 2010. Not Achieved
+(there has been no progress on this indicator)
+- Functioning water stand posts in Bujumbura increased
+from 35 to 60 in 2010. Achieved (The number of
+public stand posts increased from 35 to 65 using largely
+internal resources; an additional 85 stand posts are
+planned with works started in December 2010 financed
+by IDA)
+
+15
+
+World Bank and Partner
+Support
+Reform Program (IFC/WB)
+Planned operations:
+ERSG DPL Series (Annual)
+Main partners:
+US
+
+Ongoing operations:
+Road Sector Development
+(FY04) and Additional
+Financing (FY11)
+Multisectoral Water and
+Electricity infrastructure
+(FY08)
+Regional Communications
+Infrastructure Project (RCIP)
+(FY08)
+ERSG DPL Series (Annual)
+Planned operations:
+ERSG DPL Series (Annual)
+Rusumo Falls - regional
+Ongoing AAA and TFs:
+Tariff study on water and
+electricity (FY11)
+Planned AAA and TFs:
+
+CAS Outcomes
+& Results Indicators
+
+FY11 Status
+
+Milestones
+
+World Bank and Partner
+Support
+Study on management of
+public stand posts (FY12)
+
+Energy
+- Thermal generation capacity increased by 11 GWh/year
+from 2009, 2010. Achieved (Target exceeded by 6.7
+GWh/year through a combination of IDA financing (9.9 Main partners: Germany,
+EU, AfDB, China, Belgium
+MWh/year) and other GoB resources (7.6 MWh/year )
+through power purchase agreement with private
+operator)
+ICT
+ICT
+- Not available (no data for
+- Annual volume of international
+- Number of internet subscribers from 2,000 in 2007 to:
+2010)
+Internet traffic from 250 (Mbit/s
+10,000 in 2010. Not Achieved (4,652 subscribers in
+simplex) in 2007 to500 in 2011
+2010)
+CAS STRATEGIC OBJECTIVE II: IMPROVING ACCESS TO SOCIAL SERVICES AND CONSOLIDATION OF SOCIAL STABILITY
+Aligned with PRSP Axis 1: Improved Governance and Security; Axis 3: Development of Human Capital; Axis 4: Fight against HIV/AIDS
+- 90% of demobilized ex-combatants participate in
+Ongoing operations:
+2.1 Improved reintegration of exEmergency Demobilization &
+reintegration support programming within one year of
+combatants and vulnerable
+Transitional Reintegration
+discharge. Achieved (about 95% received timely
+groups reintegrated
+Project (FY09)
+reintegration support)
+Public Works and Urban
+- All irregular armed groups in Burundi are dismantled
+- On track (61% of
+- 70% of beneficiaries (exManagement (FY09)
+by 2010. Achieved (achieved in 2009)
+beneficiaries in 2010)
+combatants) report being in a similar
+- At least 50% of the targeted Communes have integrated Agriculture Rehabilitation and
+economic situation to that of their
+Sustainable Land Management
+the concerns of Vulnerable Groups in their Communal
+peers in the community (revised
+(FY05) and Additional
+Development Plans. Achieved (100% of communes
+indicator)
+Financing (FY08)
+have plans)
+- On track (242,000 in 2010;
+- 500,000 person-days short-term
+Community and Social
+- Provision of counseling and juridical assistance to
+but 48,000 permanent jobs
+employment created through laborDevelopment (FY07)
+vulnerable groups in Communes supported by the
+created by road
+intensive public works by 2012
+Road Sector Development
+PRADECs. Achieved
+maintenance)
+(accumulative number) (revised
+(FY04) and Additional
+indicator)
+Financing (FY11)
+- Off track (40,000 in 2010)
+- 120,000 returnees and displaced
+persons have been effectively
+reinserted into their communities
+Planned AAA and TFs:
+Poverty Assessment (FY12)
+(from zero in 2005) by 2012
+(revised indicator)
+Main partners (DDR): EU,
+Belgium, Netherlands, Norway
+- Up-to-date budget framework law with clear definitions Ongoing operations:
+2.2 More efficient and transparent
+of tasks and responsibilities of all involved entities by
+PAGE: Economic Management
+public financial management
+- Draft annual budget prepared on the - On track (draft budget
+2009. Achieved (the 2009 budget has been developed
+Support (FY04)
+basis of new Budget law and
+presented to the National
+based on the new organic law and since then is being
+PARSEB: Education Sector
+Energy
+- Unplanned power interruptions
+reduced from 3,100 minutes of
+unplanned MV interruptions/quarter
+in 2007 to 2,000 in 2012 (revised
+indicator)
+
+- Off track (3,100 minutes in
+2010)
+
+16
+
+CAS Outcomes
+& Results Indicators
+presented to National Assembly 3
+months before beginning of the
+fiscal year from 2009 onwards
+
+2.3 Improved access to and quality
+of basic social services and
+decreased vulnerability to
+HIV/AIDS
+Education
+- Increase in the primary completion
+rate from 40% in 2006/7 to 65% in
+2012
+- Increase in primary gross
+enrollment rate (GER) from 80% in
+2005/06 to 100% in 2010 (new
+indicator)
+- Improvement in student teacher
+ratio from 57:1 (2006/07) to 50 (
+2012)
+- Textbooks per student in French &
+Kirundi increase from 3:1 in 2006
+to 1:1 in 2012
+- Reach parity in ratio of girls to boys
+in primary (%) (new indicator)
+
+FY11 Status
+Assembly three months
+before the beginning of the
+fiscal year since 2009, albeit
+with some delays.)
+
+- Off track (48% in 2010)
+
+- Achieved (Primary GER
+134% in 2009)
+
+- Off track (52 in 2009)
+
+- Off track (3:1 in 2010)
+
+- Achieved (parity reached in
+2010)
+
+Milestones
+implemented in the sector ministries)
+- Public expenditure tracking surveys (PETS) in health,
+education and justice sectors and beneficiary
+assessments are finalized and published. Partially
+achieved (PETS and elements of action plans have
+been prepared)
+- SIGEFI includes functional models for calculation
+payroll and covers complete budgetary execution cycle
+by 2010. Partially achieved (SIGEFI is operational
+since December 2009, but wage bill is still captured by
+interim system)
+- Revised accounting and budgetary chart adopted by
+2010
+- Establishment of the procurement regulatory authority
+by end 2009. Achieved (New procurement code
+promulgated in February 2008; regulation agency and
+central procurement directorate established in July
+2008)
+Education
+- 420 classrooms built or rehabilitated by 2010.
+Achieved (431 classrooms built or rehabilitated)
+- 2,950 unqualified teachers trained by 2010. Not
+achieved (2,343 teachers trained by 2010)
+- 1.5 million primary level textbooks distributed by 2009.
+Nearly achieved (1.4 million textbooks by early 2010)
+- 940,000 lower secondary level textbooks distributed by
+2010. Not available (indicator not tracked)
+- Burundi joins the EFA-FTI by 2010. Not achieved
+(Evaluation and endorsement of EFA FTI sector plan
+envisaged for November/December 2011)
+- MINEDUC establishes targets for improvements in the
+equitable distribution of the teaching force between
+schools by 2010. Not achieved (Not yet established)
+- 40% of schools distribute de-worming tablets twice a
+year. Not available
+Child and Maternal Health
+- 40 general practitioners and 80 nurses trained in basic
+obstetric care and deployed in the country by 2010.
+Achieved (46 general practitioners and about 500
+
+17
+
+World Bank and Partner
+Support
+Recon. (FY07)
+Second Multi-Sector
+HIV/AIDS (FY08)
+Health Sector Development
+Support (FY09)
+ERSG DPL Series (Annual)
+Planned operations:
+ERSG DPL Series (Annual)
+Public Works Additional
+Financing
+Planned AAA and TFs:
+Annual PERs
+Main partners: AfDB, EU,
+Belgium, France, IMF,
+Netherlands, Norway
+Ongoing operations:
+PARSEB: Education Sector
+Recon. (FY07)
+Second Multi-Sector
+HIV/AIDS (FY08)
+Health Sector Development
+Support (FY09)
+PRADEC: Community and
+Social Dev. (FY07)
+Regional Great Lakes Initiative
+on HIV/AIDS
+Multi-Sector Water and
+Electricity Infrastructure
+(FY08)
+Planned AAA and TFs:
+Poverty Assessment (FY12)
+Main partners:
+Belgium, EU, Japan, France,
+Switzerland, UK-DFID,
+
+CAS Outcomes
+& Results Indicators
+
+Child and Maternal Health
+- % of children covered by
+DPT3/pentavalent 3 vaccine before
+reaching age one from 63% in 2005
+to at least 80% over the CAS period
+(revised indicator)
+- % of assisted births increase from
+37% in 2006 to at least 45% by
+2012
+- % of pregnant women with at least
+three ante-natal care visits increase
+from 20% to 40% by 2012
+HIV/AIDS
+- 20% of HIV-infected pregnant
+women receive complete PMTCT
+services by 2012 (6% in 2008)
+
+FY11 Status
+
+- On track (87% in 2009)
+
+- Achieved (64% in 2009)
+
+- Achieved (57% in 2008)
+
+- On track (11% in 2009)
+
+Milestones
+nurses)
+- Performance contracts with health facilities in place to
+deliver the basic service package (including ante-natal
+care, child delivery and child vaccination) by 2010.
+Achieved (All public and private non-profit health
+facilities have signed performance contracts since April
+2010)
+HIV/AIDS
+- 70% of people most-at-risk populations who received
+an HIV/AIDS test in the last 12 months and came back
+for test result by 2010. Not available
+- Peer-to-peer education and behavioral change
+activities. Not available
+- 30% of health facilities offer HIV testing to all
+pregnant women by 2010. Partially achieved (20% in
+2010)
+- Public Sector Organizations include in their annual
+action plans or sector strategies HIV/AIDs related
+targets. Achieved (12 organizations in 2010)
+
+18
+
+World Bank and Partner
+Support
+UNICEF, UNFPA, UNAIDS,
+UNFPA, OMS, Global Fund,
+UN
+
+Annex 2: Revised CAS Outcomes
+Original CAS Outcomes and Indicators
+Revised CAS Outcomes and Indicators
+CAS Outcome 1.1 Increased productivity of food crops and high-value export crops
+Export crops
+- Revised. At least 30 (of 117) coffee washing stations are
+- Reduction in Government ownership of coffee
+sold to private investors by 2012.
+assets from 90% in 2008 to 40 % by 2012
+- First grade coffee: from 65 % 2008 of
+- Dropped.
+production to 80% by 2012
+- Dropped. Indicator not tracked.
+- First quality tea: from 75% of production in
+2008 to 90% in 2012
+CAS Outcome 1.2 Improved business environment
+- Simplified small business tax reduces tax
+- Dropped. Indicator not tracked.
+complexity by consolidating at least 3 taxes into
+one
+CAS Outcome 1.3 Improved infrastructural services with enhanced regional integration
+- 30% of paved road network in good condition by - 51% of paved road network in good and fair condition by
+2012 (from 21% in 2008)
+2012 (from 21% in 2008)
+- 332,00 people served with access to potable
+- Updated. 363,200 people served with access to improved
+water in Bujumbura (with surroundings) in 2012,
+water in Bujumbura (with surroundings) in 2012,
+compared to185,000 in 2008
+compared to185,000 in 2008
+- Unplanned power interruptions reduced from
+- Updated. Unplanned power interruptions reduced from
+3,100 minutes of unplanned MV
+3,100 minutes of unplanned MV interruptions/quarter in
+interruptions/quarter in 2007 to 1,000 in 2012
+2007 to 2,000 in 2012
+CAS Outcome 2.1 Improved reintegration of ex-combatants and vulnerable groups integrated
+- 80% of former combatants supported by the
+- Revised. 70% of beneficiaries (ex-combatants) report
+program are able to access mainstream (regularly
+being in a similar economic situation to that of their peers
+available) employment and productive
+in the community
+opportunities
+- Increased job creation from public works
+- Updated. 500,000 person-days short-term employment
+created through labor-intensive public works by 2012
+programs to 120,000 man-months from 2009
+onwards
+(accumulative number) (revised indicator)
+- Updated. 120,000 returnees and displaced persons have
+been effectively reinserted into their communities (from
+- 120,000 beneficiaries capable of producing seeds
+zero in 2005) by 2012
+and restarting own agricultural activities by
+2012(from 71,810 in 2007)
+CAS Outcome 2.2 More efficient and transparent public financial management
+- Percent of expenditure authorized and executed
+- Dropped. No data available.
+by exceptional procedures below 1% from 2009
+onwards
+- Number of days from commitment to payment is - Dropped. No data available.
+reduced from 84 to 40 days by 2012
+CAS Outcome 2.3 Improved access to and quality of basic social services and decreased vulnerability to
+HIV/AIDS
+- Increase in primary gross enrollment rate (GER) - New indicator.
+from 80% in 2005/06 to 100% in 2010
+- Reach parity in ratio of girls to boys in primary
+- New indicator.
+(%) (new indicator)
+- Revised. % of children covered by DPT3/pentavalent 3
+- % of children under 1 year fully immunized
+vaccine before reaching age one from 63% in 2005 to at
+increase from 40% to at least 60% by 2012
+least 80% over the CAS period
+- Dropped. Indicator not tracked.
+- Every province has at least 2 general
+practitioners and 4 nurses trained in basic
+obstetrics (baseline information available)
+- Dropped. No data available.
+- 30% increase in female sex workers reporting
+use of a condom with their most recent client
+(baseline currently being established)
+
+19
+
+X
+
+Economic Governance
+
+X
+
+L
+
+Education
+
+X
+
+Energy
+
+L
+
+X
+
+Environment / Forestry /Land
+
+X
+
+L
+
+Health (incl. HIV/AIDS)
+
+X
+
+X
+
+X
+
+X
+
+L
+
+X
+
+X
+X
+L
+
+L
+X
+
+X
+
+X
+L
+
+X
+
+L
+
+X
+
+X
+
+X
+
+ICT
+
+L
+
+Macroeconomics
+
+L
+
+L
+
+X
+
+X
+
+Peace building ‐ Justice, Human
+Rights, Reconciliation
+
+X
+
+X
+
+X
+
+X
+
+Private Sector Development
+
+X
+
+Public Administration / Capacity
+Building
+
+X
+
+X
+
+X
+
+Regional Integration
+
+X
+
+X
+
+X
+
+Reintegration / Community
+Development
+
+L
+
+X
+
+Security Sector
+DDR
+
+L
+
+X
+
+Transport
+
+L
+
+L
+
+X
+
+Water and Sanitation
+
+X
+
+X
+
+L
+
+X
+
+L
+X
+
+X
+
+X
+L
+
+X
+
+X
+
+L
+
+X
+
+X
+
+X
+
+X
+L
+
+X
+
+United
+Nations
+
+Norway
+
+Switzerland
+
+Germany
+
+L
+
+X
+
+Housing development
+
+L : Lead donor or key player
+
+Netherlands
+
+X
+
+DFID
+
+L
+
+USAID
+
+X
+
+France
+
+Belgium
+
+L
+
+IFAD
+
+Agriculture
+
+AfDB
+
+European
+Commission
+
+World Bank
+
+Annex 3: Division of Labor
+
+X
+X
+
+X
+
+L
+
+20
+
+L
+X
+
+X
+
+X
+
+L
+
+X : Complementing other donors
+
+X
+
+X
+
+Annex 4: Lending Program
+Fiscal
+Year
+
+Original CAS Program
+
+2009 Economic Reform Support Grant II
+
+Original IDA
+Amount
+(US$ million)
+
+Revised Program
+
+Revised IDA Amount
+(US$ million)
+National Regional CRW
+
+30.0
+
+Actual
+
+30.0
+
+-
+
+-
+
+Health Sector Support
+
+25.0
+
+Actual
+
+25.0
+
+-
+
+-
+
+Second Public Works and Urban Management
+
+45.0
+
+Actual
+
+45.0
+
+-
+
+-
+
+Emergency Demobilization and Transitional Reintegration Project
+
+10.0
+
+Actual
+
+10.0
+
+-
+
+-
+
+Total
+
+110.0
+
+-
+
+-
+
+25.0
+
+Actual
+
+25.0
+
+-
+
+-
+
+Agriculture (Agro-Pastoral Productivity and Markets
+Development Project)
+
+43.0
+
+Actual
+
+43.0
+
+-
+
+-
+
+Public Enterprise and Financial Sector (Financial & Private Sector
+Development Project)
+(Regional) Lake Victoria Environment Management
+
+16.0
+
+Actual
+
+19.0
+
+-
+
+-
+
+5.0
+
+Slipped to FY11
+
+Total
+
+89.0
+
+2010 Economic Support Reform Grant III
+
+110.0
+
+87.0
+
+-
+
+-
+
+25.0
+
+Actual
+
+25.0
+
+-
+
+-
+
+Additional Financing: Roads
+
+20.0
+
+Planned
+
+19.0
+
+-
+
+-
+
+(Regional) Transport
+
+15.0
+
+Slipped
+
+-
+
+-
+
+(Regional) Hydropower (Rusumo Falls Hydroelectric and
+Multipurpose Project)
+
+10.0
+
+Slipped to FY12
+
+-
+
+15.4
+
+2011 Development Policy Operation (ERSG IV)
+
+Additional Planned
+Emergency Electric Infrastructure Project
+Additional Financing - Financial and Private
+Sector Development Project
+(Regional) Lake Victoria Environment
+Management
+Total
+IDA 15 Total
+2012 Development Policy Operation (ERSG V)
+Additional Financing: Second Public Works
+
+Actual
+
+-
+
+Planned
+
+8.0
+
+Planned
+
+5.0
+
+70.0
+
+57.0
+
+- 15.4
+
+269.0
+
+254.0
+
+- 15.4
+
+25.0
+
+Planned (August 2011)
+
+25.0
+
+-
+
+15.0
+
+Planned (March 2012)
+
+15.0
+
+-
+
+Additional Planned
+(Regional) Hydropower (Rusumo Falls
+Hydroelectric and Multipurpose Project)
+Total
+
+40.0
+
+21
+
+-
+
+Planned (March 2012)
+
+27.0
+67.0
+
+Note: The FY12 IDA envelope is indicative only.
+
+-
+
+-
+
+Annex 5: Analytic and Advisory Activities
+Fiscal Year
+
+Analytic and Advisory Activities by CAS Theme
+
+2009
+Financial Sector Assessment Program (ESW)
+Public Expenditure Financial Accountability - PEFA (ESW)
+Poverty & PRSP TA BPRP 2 (TA)
+Legal and institutional framework for privatization (TA)
+Option for pay reform (TA)
+Petroleum Sector Technical Advice (TA)
+2010
+Country Economic Memorandum (Core ESW)
+Debt Management Performance Assessment (ESW)
+GAC Strategy Development (TA)
+TA for Poverty Monitoring (TA)
+Quantitative Macro-Fiscal Framework (TA)
+Review of Poverty Reduction and Transport Strategies (TA)
+Investment Climate Reform Program (WB/IFC Advisory)
+2011
+Public Expenditure Review (ESW)
+Coffee Sector Strategic Environmental Assessment (TA)
+Investment Climate Reform Program (WB/IFC Advisory)
+2012
+Poverty Assessment (Core ESW)
+Public Expenditure Review (ESW)
+Extending Medium Term Expenditure Frameworks (MTEF) Capacity Building (TA)
+Investment Climate Reform Program (WB/IFC Advisory)
+TA Technical Assistance
+ESW Economic and Sector Work
+
+22
+
+Annex 6: Selected Indicators of Portfolio Performance and Management
+As Of Date 3/24/2011
+
+Indicator
+Portfolio Assessment
+Number of Projects Under Implementation a
+Average Implementation Period (years) b
+Percent of Problem Projects by Number a, c
+Percent of Problem Projects by Amount a, c
+Percent of Projects at Risk by Number a, d
+Percent of Projects at Risk by Amount a, d
+Disbursement Ratio (%) e
+Portfolio Management
+CPPR during the year (yes/no)
+Supervision Resources (total US$)
+Average Supervision (US$/project)
+
+2008
+
+2009
+
+2010
+
+2011
+
+9
+3.3
+0.0
+0.0
+11.1
+15.7
+27.1
+
+10
+2.8
+10.0
+14.6
+20.0
+29.6
+20.9
+
+12
+3.3
+16.7
+16.3
+16.7
+16.3
+26.8
+
+13
+3.3
+0.0
+0.0
+0.0
+0.0
+25.4
+
+Yes
+1107
+79
+
+No
+913
+57
+
+No
+1328
+89
+
+Yes
+698
+50
+
+Memorandum Item
+Since FY 80 Last Five FYs
+Proj Eval by OED by Number
+50
+5
+Proj Eval by OED by Amt (US$ millions)
+937.5
+205.0
+% of OED Projects Rated U or HU by Number
+30.0
+20.0
+% of OED Projects Rated U or HU by Amt
+30.3
+12.6
+
+a.
+b.
+c.
+d.
+e.
+
+As shown in the Annual Report on Portfolio Performance (except for current FY).
+Average age of projects in the Bank's country portfolio.
+Percent of projects rated U or HU on development objectives(DO) and/or implementation progress(IP)
+As defined under the Portfolio Improvement Program.
+Ratio of disbursements during the year to the undisbursed balance of the Bank's portfolio at the
+
+beginning of the year: Investment projects only.
+* All indicators are for projects active in the Portfolio, with the exception of Disbursement Ratio,
+which includes all active projects as well as projects which exited during the fiscal year.
+** 2011 data is as of March 24, 2011
+
+23
+
+Annex 7: IDA and Grants Operations Portfolio, Regional Projects and Trust Funds
+Closed Projects
+
+As Of Date 3/23/2011
+
+59
+
+IBRD/IDA *
+Total Disbursed (Active)
+of w hich has been repaid
+Total Disbursed (Closed)
+of w hich has been repaid
+Total Disbursed (Active+Closed)
+of w hich has been repaid
+Total Undisbursed (Active)
+
+225.93
+0.00
+385.28
+103.28
+611.21
+103.28
+188.52
+
+Total Undisbursed (Closed)
+
+0.00
+
+Total Undisbursed (Active+Closed)
+
+188.52
+Difference Betw een
+
+Active Projects
+Last PSR
+
+Expected and Actual
+
+Supervision Rating
+Project ID
+
+Project Nam e
+
+Developm ent Im plem entation
+Objectives
+Progress
+
+Disbursem ents
+Fiscal Year
+
+IDA
+
+Cancel.
+
+Undisb.
+
+Orig.
+
+Frm
+Rev'd
+0.7
+
+P064558
+
+BI-Agr Rehab & Sustain Land Mgmt (FY05)
+
+S
+
+S
+
+2005
+
+50.0
+
+1.5
+
+-14.3
+
+P095211
+
+BI-Community and Social Dvpt SIL (FY06)
+
+MS
+
+MS
+
+2007
+
+40.0
+
+12.3
+
+-0.1
+
+P078627
+
+BI-Econ Mgmt Supt SIL (FY04)
+
+P064557
+
+BI-Educ. Sector Reconstr. (FY07)
+
+S
+
+S
+
+2004
+
+26.0
+
+5.9
+
+4.2
+
+MS
+
+MS
+
+2007
+
+20.0
+
+4.7
+
+4.1
+
+P122217
+
+BI-Emergency Elect. Infrast. Project
+
+S
+
+S
+
+2011
+
+15.4
+
+15.7
+
+P107851
+
+BI-Finance & Private Sector Development
+
+S
+
+S
+
+2010
+
+19.0
+
+16.3
+
+3.2
+
+P101160
+
+BI-Health Project (FY09)
+
+S
+
+MS
+
+2009
+
+25.0
+
+15.1
+
+-2.1
+
+P097974
+
+BI-Multisectoral Water & Electricity Inf
+
+MS
+
+MS
+
+2008
+
+50.0
+
+32.5
+
+2.7
+
+P064876
+
+BI-Road Sec Dev SIM (FY04)
+
+S
+
+S
+
+2004
+
+51.4
+
+3.4
+
+-23.7
+
+P109964
+
+BI-Second HIV/AIDS MAP (FY08)
+
+MS
+
+S
+
+2008
+
+15.0
+
+2.7
+
+0.8
+
+P113506
+
+BI: Emerg Demob and Transitional Reint.
+
+S
+
+S
+
+2009
+
+15.0
+
+P112998
+
+BI:Public Works and Urban Management
+
+MS
+
+MS
+
+2009
+
+45.0
+
+35.1
+
+P107343
+
+BI-Ag. Past. Product. & Market Devel.
+
+S
+
+S
+
+2010
+
+43.0
+
+41.1
+
+Overall Result
+
+414.8
+
+Regional Projects
+
+Regional IDA
+
+5.0
+
+5.0
+
+2.1
+
+188.5
+
+National IDA Total Undisb.
+
+P080413
+
+3A-HIV/AIDS Great Lakes Init APL (FY05)
+
+U
+
+MS
+
+2005
+
+20.0
+
+n/a
+
+0
+
+P094103
+
+3A-Telecommunications APL (FY07)
+
+MS
+
+MS
+
+2007
+
+13.4
+
+6.7
+
+17.9
+
+P103298
+
+3A-Lake Victoria Phase II APL1 (FY09)
+
+MS
+
+MU
+
+2009
+
+7.0
+
+n/a
+
+3.5
+
+40.4
+
+6.7
+
+21.35
+
+Overall Result
+Trust Funds
+
+Grant Am ount
+
+Undisb.
+
+TF053661
+
+GEF3 FSP BI-Agricultural Rehabilitation and Sustainable Land Management Project
+
+5.0
+
+4.9
+
+TF094010
+
+Salary Expenditure for International and Local ETCS
+
+2.4
+
+0.6
+
+TF094469
+
+GAVI Proposal for Africa HSS Work in Burundi
+
+0.2
+
+0.2
+
+TF095007
+
+Artisanal and Small-Scale Mining in Burundi
+
+0.1
+
+0.1
+
+TF095638
+
+FIRST #9012 Burundi: Development of Financial Sector Strategy
+
+0.3
+
+0.2
+
+TF096384
+
+Emergency Demobilization and Transitional Reintegration Project-Bank executed portion
+
+0.8
+
+0.2
+
+TF096411
+
+Emergency Demobilization and Transitional Reintegration Project-Trust Fund administration
+
+0.1
+
+0.0
+
+TF096439
+
+Emergency Demobilization and Transitional Reintegration Project-Recipient executed portion
+
+12.5
+
+3.0
+
+TF096921
+
+Extending capacity building efforts for Sector Medium Term Expenditure Framew orks
+
+0.2
+
+0.0
+
+TF096986
+
+GAVI Proposal for Africa HSS Work in Burundi
+
+0.2
+
+0.2
+
+TF097438
+
+IDF: Capacity building for the use of sectoral Medium Term Expenditure Framew orks
+
+0.4
+
+0.0
+
+TF098380
+
+Poverty and Social Impact Analysis for Results Based Financing in Health in Burundi
+
+0.1
+
+0.0
+
+TF098638
+
+BI-HRBF Restructuring
+
+0.3
+
+0.0
+
+TF098669
+
+BI-Fourth Economic Reform Support Grant
+
+9.5
+
+0.0
+
+32.0
+
+9.4
+
+Overall Result
+
+24
+
+2.9
+
+3.1
+-33.4
+
+3.5
+
+Annex 8: IFC Operations Portfolio
+2008
+
+2009
+
+2010
+
+2011*
+
+2.88
+2.88
+
+0.03
+0.03
+
+0.66
+0.66
+
+Original Commitments by Sector (%)- IFC Accounts only
+FINANCE & INSURANCE
+100
+0
+100
+Total
+
+100
+100
+
+100
+100
+
+Original Commitments (US$m)
+IFC and Participants
+IFC's Own Accounts only
+
+Original Commitments by Investment Instrument (%) - IFC Accounts only
+Equity
+27.99
+Guarantee
+72.01
+100
+0
+100
+100
+Total
+
+100
+100
+
+* Data as of March 01,2011
+
+Burundi
+Committed and Disbursed Outstanding Investment Portfolio
+As of 2/28/2011
+(In USD Millions)
+
+Committed
+FY
+Approval
+
+Company
+
+2009/11
+
+Dtb burundi
+Total Portfolio:
+
+Disbursed Outstanding
+
+**Quasi
+Equity *GT/RM
+
+Partici
+pant
+
+Equity
+
+0
+
+1.51
+
+0
+
+0
+
+0
+
+0
+
+1.51
+
+0
+
+0
+
+0
+
+0
+
+1.51
+
+0
+
+0
+
+0
+
+0
+
+1.51
+
+0
+
+0
+
+0
+
+* Denotes Guarantee and Risk Management Products.
+** Quasi Equity includes both loan and equity types.
+
+25
+
+Loan Equity
+
+**Quasi
+Partici
+Equity *GT/RM
+pant
+
+Loan
+
+Annex 9: Burundi at a Glance
+
+Burundi at a glance
+
+2/25/11
+
+B urundi
+
+SubSaharan
+A frica
+
+Lo w
+inco me
+
+P o pulatio n, mid-year (millio ns)
+Surface area (tho usand sq. km)
+P o pulatio n gro wth (%)
+Urban po pulatio n (% o f to tal po pulatio n)
+
+8.3
+28
+2.8
+11
+
+819
+24,242
+2.5
+36
+
+828
+17,838
+2.2
+28
+
+GNI (A tlas metho d, US$ billio ns)
+GNI per capita (A tlas metho d, US$ )
+GNI per capita (P P P , internatio nal $ )
+
+1.2
+150
+390
+
+897
+1,095
+1,981
+
+389
+470
+1,131
+
+3.5
+0.6
+
+5.2
+2.7
+
+6.2
+3.9
+
+P o verty headco unt ratio at $ 1.25 a day (P P P , %)
+P o verty headco unt ratio at $ 2.00 a day (P P P , %)
+Life expectancy at birth (years)
+Infant mo rtality (per 1,000 live births)
+Child malnutritio n (% o f children under 5)
+
+81
+93
+50
+101
+..
+
+51
+73
+52
+83
+25
+
+..
+..
+57
+77
+28
+
+A dult literacy, male (% o f ages 15 and o lder)
+A dult literacy, female (% o f ages 15 and o lder)
+Gro ss primary enro llment, male (% o f age gro up)
+Gro ss primary enro llment, female (% o f age gro up)
+
+72
+60
+139
+132
+
+72
+54
+105
+95
+
+73
+59
+107
+100
+
+72
+46
+
+60
+31
+
+64
+35
+
+Ke y D e v e lo pm e nt Indic a t o rs
+
+Age distribution, 2009
+
+(2009)
+
+Male
+
+Female
+
+75-79
+60-64
+45-49
+30-34
+15-19
+0-4
+10
+
+GDP gro wth (%)
+GDP per capita gro wth (%)
+
+5
+
+0
+
+5
+
+10
+
+percent of total population
+
+( m o s t re c e nt e s t im a t e , 2 0 0 3 – 2 0 0 8 )
+Under-5 mortality rate (per 1,000)
+200
+
+150
+
+A ccess to an impro ved water so urce (% o f po pulatio n)
+A ccess to impro ved sanitatio n facilities (% o f po pulatio n)
+
+100
+
+50
+
+0
+1990
+
+1995
+
+Burundi
+
+N e t A id F lo ws
+(US$ millio ns)
+Net ODA and o fficial aid
+To p 3 do no rs (in 2007):
+Euro pean Co mmissio n
+B elgium
+Netherlands
+A id (% o f GNI)
+A id per capita (US$ )
+
+19 8 0
+
+19 9 0
+
+2000
+
+2009
+
+116
+
+263
+
+93
+
+509
+
+12
+28
+1
+
+36
+40
+1
+
+9
+6
+4
+
+85
+58
+32
+
+12.6
+28
+
+23.5
+46
+
+12.9
+14
+
+43.7
+63
+
+2000
+
+2008
+
+Sub-Saharan Africa
+
+a
+
+Growth of GDP and GDP per capita (%)
+10
+5
+0
+-5
+
+Lo ng- T e rm E c o no m ic T re nds
+
+-10
+95
+
+Co nsumer prices (annual % change)
+GDP implicit deflato r (annual % change)
+
+9.5
+16.4
+
+7.0
+6.0
+
+24.3
+13.2
+
+5.0
+13.6
+
+Exchange rate (annual average, lo cal per US$ )
+Terms o f trade index (2000 = 100)
+
+90.0
+225
+
+171.3
+148
+
+720.7
+100
+
+1,230.2
+108
+
+05
+
+GDP
+
+GDP per capita
+
+19 8 0 – 9 0 19 9 0 – 2 0 0 0 2 0 0 0 – 0 9
+(average annual gro wth %)
+P o pulatio n, mid-year (millio ns)
+GDP (US$ millio ns)
+
+4.1
+920
+
+5.7
+1,132
+
+6.5
+709
+
+8.3
+1,325
+
+3.2
+4.4
+
+1.3
+-2.9
+
+A griculture
+Industry
+M anufacturing
+Services
+
+62.2
+12.6
+7.4
+25.1
+
+Ho useho ld final co nsumptio n expenditure
+General go v't final co nsumptio n expenditure
+Gro ss capital fo rmatio n
+Expo rts o f go o ds and services
+Impo rts o f go o ds and services
+Gro ss savings
+
+2.8
+3.0
+
+55.9
+19.0
+12.9
+25.2
+
+40.4
+18.8
+8.7
+40.8
+
+34.8
+20.0
+8.8
+45.1
+
+3.1
+4.5
+5.7
+5.6
+
+-1.9
+-4.3
+-8.7
+-2.8
+
+91.4
+9.2
+13.9
+
+94.5
+10.8
+14.5
+
+88.5
+17.5
+6.1
+
+91.1
+28.8
+16.4
+
+3.4
+3.2
+6.9
+
+-4.8
+-2.6
+-0.5
+
+..
+..
+..
+
+8.8
+23.3
+..
+
+7.9
+27.8
+-5.4
+
+7.8
+19.9
+0.5
+
+10.7
+47.0
+1.3
+
+3.4
+1.5
+
+-1.2
+-1.6
+
+..
+..
+
+(% o f GDP )
+
+No te: Figures in italics are fo r years o ther than tho se specified. 2009 data are preliminary. .. indicates data are no t available.
+a. A id data are fo r 2008.
+Develo pment Eco no mics, Develo pment Data Gro up (DECDG).
+
+26
+
+-1.5
+-6.2
+..
+10.4
+
+Burundi
+B a la nc e o f P a ym e nt s a nd T ra de
+
+2000
+
+2009
+Governance indicators, 2000 and 2009
+
+(US$ millio ns)
+To tal merchandise expo rts (fo b)
+To tal merchandise impo rts (cif)
+Net trade in go o ds and services
+
+49
+127
+-96
+
+56
+234
+-223
+
+Current acco unt balance
+as a % o f GDP
+
+-50
+-7.0
+
+-68
+-5.9
+
+Voice and accountability
+Political stability
+Regulatory quality
+Rule of law
+
+Wo rkers' remittances and
+co mpensatio n o f emplo yees (receipts)
+
+..
+
+28
+
+Reserves, including go ld
+
+..
+
+..
+
+Control of corruption
+0
+2009
+
+C e nt ra l G o v e rnm e nt F ina nc e
+
+2000
+
+(% o f GDP )
+Current revenue (including grants)
+Tax revenue
+Current expenditure
+
+19.2
+18.3
+18.8
+
+30.7
+17.8
+19.2
+
+Overall surplus/deficit
+
+-1.8
+
+-10.4
+
+25
+
+50
+
+..
+..
+
+100
+
+higher values imply better ratings
+
+Source: Kaufmann-Kraay-Mastruzzi, World Bank
+
+T e c hno lo gy a nd Inf ra s t ruc t ure
+
+Highest marginal tax rate (%)
+Individual
+Co rpo rate
+
+75
+
+Country's percentile rank (0-100)
+
+P aved ro ads (% o f to tal)
+Fixed line and mo bile pho ne
+subscribers (per 100 peo ple)
+High techno lo gy expo rts
+(% o f manufactured expo rts)
+
+..
+..
+
+2000
+7.1
+
+2008
+10.4
+
+1
+
+6
+
+0.0
+
+7.7
+
+88
+7.7
+..
+
+89
+5.2
+5.6
+
+1,487
+0.3
+
+1,246
+..
+
+E xt e rna l D e bt a nd R e s o urc e F lo ws
+E nv iro nm e nt
+(US$ millio ns)
+To tal debt o utstanding and disbursed
+To tal debt service
+Debt relief (HIP C, M DRI)
+
+1,108
+22
+964
+
+518
+19
+70
+
+A gricultural land (% o f land area)
+Fo rest area (% o f land area)
+Terrestrial pro tected areas (% o f surface area)
+
+To tal debt (% o f GDP )
+To tal debt service (% o f expo rts)
+
+156.3
+39.0
+
+39.1
+21.7
+
+Freshwater reso urces per capita (cu. meters)
+Freshwater withdrawal (billio n cubic meters)
+
+12
+0
+
+10
+0
+
+Fo reign direct investment (net inflo ws)
+P o rtfo lio equity (net inflo ws)
+
+CO2 emissio ns per capita (mt)
+
+0.05
+
+0.02
+
+GDP per unit o f energy use
+(2005 P P P $ per kg o f o il equivalent)
+
+..
+
+..
+
+Energy use per capita (kg o f o il equivalent)
+
+..
+
+..
+
+2000
+
+2009
+
+IB RD
+To tal debt o utstanding and disbursed
+Disbursements
+P rincipal repayments
+Interest payments
+
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+IDA
+To tal debt o utstanding and disbursed
+Disbursements
+To tal debt service
+
+600
+36
+13
+
+147
+9
+1
+
+0
+0
+0
+
+1
+1
+1
+
+0
+
+0
+
+0
+0
+
+0
+0
+
+Composition of total external debt, 2009
+Short-term, 7
+
+Private, 0
+IBRD, 0
+
+Bilateral, 98
+
+Wo rld B a nk G ro up po rt f o lio
+
+IDA, 147
+
+(US$ millio ns)
+
+Other multilateral, 175
+
+IMF, 91
+
+US$ millions
+
+P riv a t e S e c t o r D e v e lo pm e nt
+Time required to start a business (days)
+Co st to start a business (% o f GNI per capita)
+Time required to register pro perty (days)
+Ranked as a majo r co nstraint to business
+(% o f managers surveyed who agreed)
+Electricity
+A ccess to /co st o f financing
+Sto ck market capitalizatio n (% o f GDP )
+B ank capital to asset ratio (%)
+
+2000
+
+2009
+
+–
+–
+–
+
+32
+151.6
+94
+
+2000
+
+2009
+
+..
+..
+
+IFC (fiscal year)
+To tal disbursed and o utstanding po rtfo lio
+o f which IFC o wn acco unt
+Disbursements fo r IFC o wn acco unt
+P o rtfo lio sales, prepayments and
+repayments fo r IFC o wn acco unt
+
+40.7
+16.0
+
+..
+..
+
+M IGA
+Gro ss expo sure
+New guarantees
+
+..
+..
+
+No te: Figures in italics are fo r years o ther than tho se specified. 2009 data are preliminary.
+.. indicates data are no t available. – indicates o bservatio n is no t applicable.
+Develo pment Eco no mics, Develo pment Data Gro up (DECDG).
+
+27
+
+2/25/11
+
+Millennium Development Goals
+
+Burundi
+
+With selected targets to achieve b etween 1990 and 2015
+(estimate clo sest to date sho wn, +/- 2 years)
+
+B urundi
+
+G o a l 1: ha lv e t he ra t e s f o r e xt re m e po v e rt y a nd m a lnut rit io n
+P o verty headco unt ratio at $ 1.25 a day (P P P , % o f po pulatio n)
+P o verty headco unt ratio at natio nal po verty line (% o f po pulatio n)
+Share o f inco me o r co nsumptio n to the po o rest qunitile (%)
+P revalence o f malnutritio n (% o f children under 5)
+
+19 9 0
+84.2
+36.4
+7.9
+..
+
+19 9 5
+..
+..
+..
+..
+
+2000
+86.4
+68.0
+5.1
+38.9
+
+2008
+81.3
+..
+9.0
+..
+
+..
+
+43
+25
+..
+73
+
+85
+45
+18
+76
+
+..
+..
+
+..
+..
+6
+
+91
+..
+31
+
+189
+114
+74
+
+184
+111
+80
+
+178
+107
+76
+
+168
+102
+84
+
+1,200
+..
+..
+
+1,200
+..
+..
+
+1,200
+25
+16
+
+970
+34
+9
+
+G o a l 6 : ha lt a nd be gin t o re v e rs e t he s pre a d o f H IV / A ID S a nd o t he r m a jo r dis e a s e s
+P revalence o f HIV (% o f po pulatio n ages 15-49)
+1.7
+Incidence o f tuberculo sis (per 100,000 peo ple)
+150
+Tuberculo sis case detectio n rate (%, all fo rms)
+52
+
+5.2
+220
+24
+
+3.8
+320
+28
+
+3.0
+360
+24
+
+G o a l 7 : ha lv e t he pro po rt io n o f pe o ple wit ho ut s us t a ina ble a c c e s s t o ba s ic ne e ds
+A ccess to an impro ved water so urce (% o f po pulatio n)
+70
+A ccess to impro ved sanitatio n facilities (% o f po pulatio n)
+44
+Fo rest area (% o f to tal land area)
+11.3
+Terrestrial pro tected areas (% o f surface area)
+..
+CO2 emissio ns (metric to ns per capita)
+0.1
+GDP per unit o f energy use (co nstant 2005 P P P $ per kg o f o il equivalent)
+..
+
+71
+45
+9.5
+..
+0.1
+..
+
+72
+45
+7.7
+..
+0.0
+..
+
+72
+46
+5.2
+5.6
+0.0
+..
+
+G o a l 8 : de v e lo p a glo ba l pa rt ne rs hip f o r de v e lo pm e nt
+Telepho ne mainlines (per 100 peo ple)
+M o bile pho ne subscribers (per 100 peo ple)
+Internet users (per 100 peo ple)
+P erso nal co mputers (per 100 peo ple)
+
+0.3
+0.0
+0.0
+..
+
+0.3
+0.3
+0.1
+0.1
+
+0.4
+6.0
+0.8
+0.9
+
+G o a l 2 : e ns ure t ha t c hildre n a re a ble t o c o m ple t e prim a ry s c ho o ling
+P rimary scho o l enro llment (net, %)
+P rimary co mpletio n rate (% o f relevant age gro up)
+Seco ndary scho o l enro llment (gro ss, %)
+Yo uth literacy rate (% o f peo ple ages 15-24)
+
+..
+41
+5
+..
+
+50
+53
+7
+
+G o a l 3 : e lim ina t e ge nde r dis pa rit y in e duc a t io n a nd e m po we r wo m e n
+Ratio o f girls to bo ys in primary and seco ndary educatio n (%)
+Wo men emplo yed in the no nagricultural secto r (% o f no nagricultural emplo yment)
+P ro po rtio n o f seats held by wo men in natio nal parliament (%)
+
+79
+14
+..
+
+80
+
+G o a l 4 : re duc e unde r- 5 m o rt a lit y by t wo - t hirds
+Under-5 mo rtality rate (per 1,000)
+Infant mo rtality rate (per 1,000 live births)
+M easles immunizatio n (pro po rtio n o f o ne-year o lds immunized, %)
+G o a l 5 : re duc e m a t e rna l m o rt a lit y by t hre e - f o urt hs
+M aternal mo rtality ratio (mo deled estimate, per 100,000 live births)
+B irths attended by skilled health staff (% o f to tal)
+Co ntraceptive prevalence (% o f wo men ages 15-49)
+
+0.1
+0.0
+0.0
+..
+
+Education indicators (%)
+
+Measles immunization (% of 1-year
+olds)
+
+ICT indicators (per 100 people)
+
+125
+
+100
+
+8
+
+75
+
+6
+
+50
+
+4
+
+25
+
+2
+
+100
+75
+50
+25
+0
+2000
+
+2002
+
+2004
+
+2006
+
+2008
+
+0
+
+0
+1990
+
+1995
+
+2000
+
+2008
+
+2000
+
+2002
+
+2004
+
+2006
+
+2008
+
+Primary net enrollment ratio
+Fixed + mobile subscribers
+Ratio of girls to boys in primary & secondary
+education
+
+Burundi
+
+Sub-Saharan Africa
+
+No te: Figures in italics are fo r years o ther than tho se specified. .. indicates data are no t available.
+Develo pment Eco no mics, Develo pment Data Gro up (DECDG).
+
+28
+
+Internet users
+
+2/25/11
+
+IBRD 33380
+
+BURUNDI
+SELECTED CITIES AND TOWNS
+
+MAIN ROADS
+
+PROVINCE CAPITALS
+
+PROVINCE BOUNDARIES
+
+NATIONAL CAPITAL
+
+INTERNATIONAL BOUNDARIES
+
+RIVERS
+
+29°E
+
+30°E
+
+Lake
+Kivu
+
+31°E
+To
+Kigali
+
+This map was produced by the Map Design Unit of The World Bank.
+The boundaries, colors, denominations and any other information
+shown on this map do not imply, on the part of The World Bank
+Group, any judgment on the legal status of any territory, or any
+endorsement or acceptance of such boundaries.
+
+To
+Gitarama
+
+R WANDA
+
+To
+Cyangugu
+
+Kagera
+
+Lake
+Rweru
+
+Lake
+Cohoha
+
+KIRUNDO
+
+Kirundo
+
+CIBITOKE
+
+MUYINGA
+
+u
+uv
+uv
+
+To
+Rulenge
+
+Muyinga
+
+To
+Nyakanura
+
+Ngozi
+Kayanza
+
+Rusiba
+
+Ruvuvu
+
+Musada
+
+Karuzi
+
+BUBANZA
+YA
+
+Mwaro
+
+RUYIGI
+p un
+gu
+
+Mt. Heha
+(2,670 m)
+
+To
+Kibondo
+
+Rum
+
+U
+
+Cankuzo
+
+Ruyiga
+
+GITEGA
+
+M
+
+JU
+B
+
+Gitega
+
+M WA
+WA R O
+
+Bukirasazi
+
+TA NZA NIA
+
+Matana
+
+BURURI
+
+Rumonge
+
+4°S
+
+Bururi
+
+si
+
+To
+Kakonko
+
+CANKUZO
+
+vu
+vu
+Ru
+
+L uvironza
+
+V
+AM
+
+BU
+
+DEM. REP.
+OF CONGO
+
+R
+
+MU
+
+RA
+
+BUJUMBURA
+
+M w eru
+
+KARUZI
+Muramvya
+
+To
+Uvira
+
+3°S
+
+Buhiga
+
+AYA
+K AY
+A
+YA N Z A
+
+Bubanza
+
+Rus
+izi
+
+y
+
+NGOZI
+
+Cibitoke
+
+3°S
+
+an
+
+R
+
+K
+
+ar
+
+u
+
+To
+Butare
+
+Mutangaro
+
+R U TA N A
+Rutana
+
+Most distant
+headwater of
+the Nile River
+
+4°S
+
+Makamba
+
+MAKAMBA
+
+Lake
+Tanganyika
+
+Mabanda
+
+Mu
+
+BURUNDI
+
+i
+
+Nyanza-Lac
+
+To
+Kasulu
+
+0
+
+0
+
+29°E
+
+z
+ara
+r ag
+
+10
+
+20
+
+10
+
+30°E
+
+30
+
+20
+
+40 Kilometers
+
+30 Miles
+
+31°E
+SEPTEMBER 2004
+
+

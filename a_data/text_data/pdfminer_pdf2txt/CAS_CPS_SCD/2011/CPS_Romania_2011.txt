@@ -1,0 +1,5616 @@
+d
+e
+
+z
+
+i
+
+r
+
+o
+h
+
+t
+
+u
+
+A
+
+e
+
+r
+
+u
+
+s
+
+o
+
+l
+
+c
+s
+
+i
+
+D
+
+c
+
+i
+l
+
+b
+u
+
+P
+
+d
+e
+
+z
+
+i
+
+r
+
+o
+h
+
+t
+
+u
+
+A
+
+e
+
+r
+
+u
+
+s
+
+o
+
+l
+
+c
+s
+
+i
+
+D
+
+c
+
+i
+l
+
+b
+u
+
+P
+
+d
+e
+
+z
+
+i
+
+r
+
+o
+h
+
+t
+
+u
+
+A
+
+e
+
+r
+
+u
+
+s
+
+o
+
+l
+
+c
+s
+
+i
+
+D
+
+c
+
+i
+l
+
+b
+u
+
+P
+
+d
+e
+
+z
+
+i
+
+r
+
+o
+h
+
+t
+
+u
+
+A
+
+e
+
+r
+
+u
+
+s
+
+o
+
+l
+
+c
+s
+
+i
+
+D
+
+c
+
+i
+l
+
+b
+u
+
+P
+
+Document of  
+The World Bank 
+
+FOR OFFICIAL USE ONLY 
+
+Report Number:  60255-RO 
+
+INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT 
+
+INTERNATIONAL FINANCE CORPORATION 
+
+PROGRESS REPORT 
+ON THE 
+COUNTRY PARTNERSHIP STRATEGY 
+FOR  
+ROMANIA 
+
+FY09 – FY13 
+
+November 28, 2011  
+
+Central Europe and the Baltic Countries Country Unit 
+Europe and Central Asia Region 
+
+International Finance Corporation 
+Europe and Central Asia Department 
+
+This document has a restricted distribution and may be used by recipients only in the performance 
+of their official duties. Its content may not otherwise be disclosed without World Bank 
+authorization. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DATE OF CURRENT CPS 
+June 12, 2009 
+
+GOVERNMENT FISCAL YEAR 
+January 1 – December 31 
+
+CURRENCY EQUIVALENTS 
+(Exchange Rate Effective as of November 1, 2011) 
+
+Currency Unit 
+US$1.00 
+
+Romanian New Leu 
+3.17 
+
+ABBREVIATION AND ACRONYMS 
+
+AAA 
+ARD 
+CPRR 
+CoG 
+CPS 
+DPL 
+EBRD 
+
+EC 
+EIB 
+EMTN 
+ESW 
+EU 
+FDI 
+FRs 
+FY 
+GDP 
+GEF 
+GMI 
+IBRD 
+
+ICT 
+
+IDA 
+
+Analytical and Advisory Assistance 
+IFC 
+Agriculture and Rural Development 
+IDF 
+Country Portfolio Results Review 
+IMF 
+Center of Government  
+GoR 
+Country Partnership Strategy 
+IFIs 
+Development Policy Lending 
+NBR 
+European Bank for Reconstruction  NRP 
+and Development 
+P4R 
+European Commission 
+PEFA 
+European Investment Bank 
+Euro Medium Term Note 
+Economic and Sector Work 
+European Union 
+Foreign Direct Investment 
+Functional Reviews 
+Fiscal Year 
+Gross Domestic Product 
+Global Environment Facility 
+Guaranteed Minimum Income 
+International Bank for 
+Reconstruction and Development 
+Information and Communication 
+Technology 
+International Development  
+Association 
+
+PFM 
+PPP 
+PR 
+RSDF 
+R&D 
+SBA 
+SIP 
+SMEs 
+SOEs 
+TA 
+UPL 
+VAT 
+WB 
+
+PEIR 
+
+International Finance Corporation 
+Institutional Development Fund 
+International Monetary Fund 
+Government of Romania 
+International Financial Institutions 
+National Bank of Romania 
+National Reform Program 
+Program for Results Lending 
+Public Expenditure & Financial 
+Accountability 
+Public Expenditure and Institutional  
+Review 
+Public Financial Management 
+Public Private Partnership 
+Progress Report 
+Romanian Social Development Fund 
+Research and Development 
+Stand-By Agreement 
+Social Inclusion Project 
+Small and Medium-size Enterprises 
+State Owned Enterprises 
+Technical Assistance 
+Unitary Pay Law 
+Value Added Tax 
+World Bank 
+
+       IBRD 
+
+IFC 
+
+Vice President: 
+Philippe H. Le Houerou Vice President: 
+Dimitris Tsitsiragos 
+Country Director: Peter Harrold 
+Regional Director: Tomasz Telma 
+Team Leader: 
+François Rantrua 
+Team Leader: 
+Ana Maria Mihaescu 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Acknowledgements  
+
+This Country Partnership Strategy Progress Report (CPS PR) was prepared under the guidance of Peter 
+Harrold, IBRD Country Director, and Tomasz Telma, IFC Regional Director, by a team led by 
+Francois Rantrua, Task Team Leader (TTL) and IBRD Country Manager for Romania. The IFC team 
+was led by Ana Maria Mihaescu, IFC Chief Resident Representative. The CPS Core Team included: 
+Corina Grigore, Cornelia Boranescu, Janet Dooley, Catalin Pauna, Mariko Higashi, Richard Florescu, 
+Daniel Kozak, Manuela Stanculescu, Arabela Aprahamian, Nadia Badea, Gabriel Ionita, Cesar  
+Niculescu, Mariana Moarcas, Mihaela Dumitrascu and Valentina Martinovic. The following Romania 
+Country Team Members and other colleagues have also made important contributions to this strategy: 
+Nina Arnhold, Aziz Bouzauher, Sudharshan Canagarajah, Elisabetta Capanelli, Ruxandra Costache, 
+Bogdan Constantinescu, Dina Umali-Deininger, Donato DeRosa, Anca Gherman, Charles Griffin, 
+Anthony Gorman, Isamiddinova, Sereen Juma, Holger Kray, Jean-Francois Marteau, Keith McLean, 
+Mamta Murthi, Bernard Myers, Lalit Raina, John Daniel Pollner, Paulo Correa, Ana Revenga, 
+Christine Richaud, Lars Sondergaard, Alexandru Stanescu, Emil Tesliuc, Yvonne Tsikata, Luisa 
+Masutti, Kari Nyman, Sophie Sirtaine, Penny Williams, Sally Zeijlon from IBRD and Hester Marie 
+DeCasper, Andreia Radu, Mircea Stoica, Oana Visinescu from IFC. Other members of the Bank -wide 
+Romania Country Team (including IBRD and IFC) have also contributed. 
+
+Special thanks are extended to the counterpart team of the Government of Romania: Mr. Bogdan 
+Dragoi, State Secretary to the Ministry of Public Finance (MoPF), Angela Carabas, Director General, 
+and Adrian Baila, Expert in the General Directorate for Treasury and Public Debt and their colleagues 
+in the Government, Stefan Nanu, Alternate Executive Director at the World Bank, as well as Silvia 
+Viceconte, Policy Adviser in the General Secretariat of the European Commission. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TABLE OF CONTENTS 
+
+I. 
+
+INTRODUCTION ...................................................................................................... 1 
+
+II. DEVELOPMENTS SINCE THE CPS ....................................................................... 2 
+
+III. PROGRESS TOWARD ACHIEVING CPS OBJECTIVES AND OUTCOMES ..... 3 
+
+IV. PROPOSED ADJUSTMENTS TO THE CPS ........................................................... 6 
+
+V. RISKS ....................................................................................................................... 10 
+
+Annexes 
+
+Annex 1 Results Framework ............................................................................................ 11 
+Annex 2 Proposed CPS framework based on strategic pillars and cross-sectoral themes20 
+Annex 3 CPS Results Summary....................................................................................... 21 
+Annex 4 Bank Support to the Government’s Public Administration Reform ................. 25 
+Annex 5 Country needs and World Bank comparative advantage .................................. 29 
+Annex 6 Summary of Sectoral Consultations .................................................................. 30 
+Annex 7 Romania at a Glance .......................................................................................... 33 
+Annex 8 Selected Indicators of Bank Portfolio Performance and Management ............. 36 
+Annex 9 Social Indicators ................................................................................................ 37 
+Annex 10 Recent Economic and Financial Indicators ..................................................... 38 
+Annex 11 Romania Key Exposure Indicators .................................................................. 42 
+Annex 12 Operations Portfolio IBRD and Grants ........................................................... 43 
+Annex 13 Summary of Analytical and Advisory Activities ............................................ 44 
+Annex 14 IFC Committed and Disbursed Outstanding Investment Portfolio, Romania . 45 
+
+Tables 
+
+Table 1: Key economic indicators 
+Table 2: FBS arrangements under themes 1 and 2 
+Table 3: Proposed IBRD lending 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+COUNTRY PARTNERSHIP STRATEGY FY09 – FY13 
+PROGRESS REPORT FOR ROMANIA 
+
+This Country Partnership Strategy Progress Report comes at a time when Romania has been emerging from the 
+global financial crisis, though like other countries, faces risks of contagion from economic volatility in Europe. 
+Romania is undergoing broad and systemic reform of the public administration to lay the foundations for a more 
+sustainable growth path and convergence with the EU. The Bank’s approach through the CPS is designed to 
+support this process and continue to help Romania mitigate risk of further crises. In the first two years of the CPS, 
+the cornerstone of the Bank’s program was, with the EU and IMF, helping Government overcome the crisis 
+through DPLs and ongoing portfolio, together with identifying reforms to build a stronger public administration 
+through Functional Reviews of twelve Ministries. Now at mid-point, the Bank is turning toward helping the 
+Government implement such public reform through the Modernization of Administration Program and projects in 
+the social sectors and tax administration, supporting its external issuance program through deferred drawdown 
+operations and advancing the discussion on growth via a series of growth policy notes, and private sector 
+development with the IFC. Through this work, the Bank hopes to help the country’s efforts for Romania’s people 
+to reap the full benefits of EU membership and enjoy a quality of life similar to its EU neighbors. 
+
+I. 
+
+INTRODUCTION 
+
+1. 
+This Progress Report (PR) covers the implementation at midpoint of the FY09 -13 
+Country Partnership Strategy (CPS) between the Government of Romania (GoR) and the 
+World Bank Group. The CPS was designed around three pillars: (i) reforming the public sector, 
+(ii) resuming growth and enhancing competitiveness, and (iii) promoting social and spatial 
+inclusion. The main anchor of the strategy was the EUR1 billion Development Policy Lending 
+(DPL) 1-3 program complemented by the existing portfolio and a program of Analytical and 
+Advisory Assistance (AAA). The International Finance Corporation (IFC) investment strategy in 
+the short term was to provide a crisis response by helping to recapitalize the existing client banks, 
+supporting financial institutions to continue on-lending and offering trade finance products. IFC 
+provided long-term credits to banks to co-finance European Union (EU) funded projects and to 
+foster competitive real sector. Overall, considerable improvements were made under all pillars with 
+satisfactory and timely implementation of the Bank supported program, as well as proactive efforts 
+to restructure the portfolio. The Bank program for FY09-13 was clearly defined for the first two 
+years, and broadly outlined for the outer years. Challenges remain to be addressed in FY12-13, and 
+greater focus will be given to the growth agenda. 
+
+2. While the strategic focus of the pillars remains relevant, this PR proposes a more 
+European lens to help frame the Bank’s support to Romania. The midterm review is an 
+opportunity to adjust the Bank program to current country needs. The original pillars remain 
+relevant in light of the still fragile economic recovery and the need to strengthen the foundations for 
+medium-term competitiveness and growth. As Romania’s policies and economy are inevitably tied 
+with EU membership, this Progress Report tries to more clearly reflect Bank’s activities in this 
+context through three EU related themes: (i) policy reforms to reap the benefits of EU membership, 
+(ii) modernization of public institutions to enhance resource allocation and absorption of EU funds, 
+and (iii) complement to EU funding. The risks outlined in the CPS remain relevant, but this PR 
+identifies additional ones and proposes mitigation measures.   
+
+3. 
+This Progress Report proposes new lending and AAA work to support Romania’s 
+convergence to EU living standards. The PR proposes about EUR1.7 billion in new lending, 
+while the AAA program has been growing with a strong portfolio of Fee Based Services (FBS). The 
+Bank will, however, remain flexible to address client needs that may arise in the next two years. 
+While the original CPS envisioned a phased reduction in IFC investment, the ongoing risks 
+associated with the global economic downturn and worsening European debt crisis require the IFC 
+to continue play an important counter-cyclical role through selective private sector investments. In 
+the real sector, this includes supporting projects which create jobs, increase investment in 
+underserved frontier regions, contribute to the growth and competitiveness of local firms in 
+promising sectors such as agribusiness, infrastructure and improve resource efficiency.  
+
+1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+II. DEVELOPMENTS SINCE THE CPS 
+
+4. 
+The political environment is characterized by some uncertainty. As no party holds a 
+majority in the Parliament, coalition politics makes unpopular reforms difficult to implement. So 
+far, the current coalition government has survived multiple no-confidence votes and its stability and 
+future durability may depend on the timely implementation of reforms and the economic policy 
+program. This uncertainty is inherent in the case of any coalition government facing a strong and 
+vocal opposition and in the context of the approaching 2012 local and parliamentary elections. 
+While there is political will to return to growth by deepening structural reforms, strengthening 
+public administration and making needed budgetary adjustments, some reforms are unpopular with 
+a part of the Romanian population and the past year witnessed several public protests.  
+
+5. 
+Faced with an unfavorable international environment due to the global financial crisis, 
+a slowing economy, and a large fiscal and financial gap, Romania turned to the international 
+financial institutions (IFIs) for support in early 2009. The International Monetary Fund (IMF), 
+the European Commission (EC), the Bank, and other international financial institutions (IFIs) 
+supported the reforms to which the Government committed with a package totaling EUR19.95 
+billion over 2009-2011, of which the Bank would contribute about EUR1 billion under three DPL 
+operations1. The package aimed to help the GoR bring down the fiscal deficit in a sustainable way, 
+improve the efficiency of public spending and strengthen the financial sector. The ultimate goal was 
+to help Romania emerge from the economic and financial crisis on a stronger footing, so as to 
+converge to the living standards of more advanced EU economies.   
+
+6. 
+In 2009, the economy was in a recession which continued in 2010. Economic activity 
+declined by 8.4 percent in 2009 and 2010, largely due to a sharp fall in private consumption, 
+reflecting a decline in bank credit, the reduction in households’ disposable incomes, and 
+plummeting investor confidence. Declining domestic demand led to a major current account 
+contraction to less than half of the 2008 level. Foreign direct investment also declined to less than 
+half of its pre-crisis level. The fiscal deficit widened to 7.3 percent of GDP in 2009 and 6.5 percent 
+in 2010 (Table 1) due to the effect on revenues in particular of the crisis, which was deeper than 
+initially expected. In 2010, strong government measures were undertaken, including a hike in VAT 
+from 19 to 24 percent and a 25 percent cut in public wages.  
+
+Table 1: Key economic indicators, 2008-13 (CPS period: 2009-2013) 
+20122 
+2008 
+2009 
+2010 
+2011 
+1.8 
+1.5 
+2.9 
+-1.9 
+0.0 
+-4.7 
+2.6  
+77.8  
+
+Real GDP growth (%) 
+Domestic demand (%) 
+Consumer price index (%, average) 
+Fiscal balance (% of GDP) 
+Structural fiscal balance (% of GDP) 
+Current account balance (% of GDP) 
+FDI balance (% of GDP) 
+Gross external debt (% of GDP) 
+
+7.3 
+8.3 
+7.8 
+-4.8 
+-8.5 
+-11.6 
+6.7 
+51.8 
+
+-7.1 
+-14.6 
+5.6 
+-7.3 
+-7.0 
+-4.2 
+3.0 
+69.0 
+
+-1.3 
+-1.0 
+6.1 
+-6.5 
+-5.1 
+-4.1 
+1.8 
+75.7 
+
+1.5 
+0.3 
+6.4 
+-4.4 
+-2.6 
+-4.5 
+2.2  
+75.4  
+
+2013 
+3.2 
+3.6 
+3.2 
+-2.0 
+-0.5 
+-5.0 
+2.2 
+72.9 
+
+7. 
+Growth has resumed in 2011, but it is expected to linger below potential in the medium 
+term, while important downside risks remain. Earlier expectations on Romania’s quick 
+economic recovery and improved macroeconomic outlook have been dampened by the resurgence 
+of the global economic crisis and the ongoing challenges in the Eurozone. Growth of 1.5 percent is 
+projected for 2011 from -1.3 percent in 2010, and is currently expected to only modestly increase in 
+2012 to around 1.8 percent of GDP, and continue at 2-3 percent per annum over the medium term. 
+Growth depends however on the recovery of the global economic environment, renewed investor 
+confidence, and a steady increase in domestic demand. The fiscal deficit (in cash terms) is on track 
+to meet the target of 4.4 percent of GDP (or within 5 percent in ESA3 terms) in 2011 and it is 
+expected to bring the ESA and cash deficits within 2 percent of GDP in 2012.  
+
+1 The DPL1, for EUR 300 million, was disbursed in 2009; the DPL2, for EUR 300 million, was disbursed in June 2011; and the 
+DPL3, for EUR 400 million, is expected to accompany this Progress Report. 
+2 Forecasts based on IMF data. 
+3 European System of National and Regional Accounts in the European Community 
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+                                                           
+8. 
+The IMF, EC and the WB continue to support fiscal stabilization, economic growth  
+and structural reforms including through a 24-month precautionary Stand-By Agreement 
+(SBA). This should help Romania weather better the impact of the deepening crisis in the 
+Eurozone and the risk of contagion.  The IMF released seven tranches totaling SDR 10.57 billion 
+under the SBA which expired in March 2011. The eighth tranche was made available on a 
+precautionary basis, at the Government’s request. The EC also released in June 2011 the fifth and 
+last tranche of its EUR5 billion program accompanying the SBA with the IMF. A new SBA of 
+EUR3.5 billion was approved by the IMF in March 2011, in conjunction with precautionary support 
+from the EU of EUR1.4 billion. The SBA focuses on boosting growth through structural reforms 
+and aims at deep-rooted reforms in energy and transport. The IMF and EU precautionary support 
+helps to reassure the markets and provide a cushion against potential adverse shocks.   
+
+9. 
+Social protection spending made it possible to continue reducing poverty despite the 
+crisis. The absolute poverty rate decreased from 36 percent in 2000 to 5.7 percent in 2008 and 4.4 
+percent in 2009. The 2009 decline in the poverty rate has been partially due to increases in the 
+minimum pension, but this effort proved to be costly and not well targeted. In addition, the rise in 
+unemployment was partly contained due to strong labor hoarding effect aided by the GoR through a 
+generous “technical unemployment” subsidy to companies. However, the poverty rate increased to 
+5.4 percent in 2010 due to the crisis hardship. Social spending rose from 10.15 percent in 2008 to 
+14.3 percent of GDP in 2010. 
+
+10. 
+The Government National Reform Program (NRP) 2011-13, adopted in April 2011,  
+indicates a gradual shift of the reform agenda away from crisis management towards reviving 
+economic growth and enhancing competitiveness. The NRP outlines new reforms derived from 
+specific objectives of the Europe 2020 strategy. This reinforces the country’s objective of achieving 
+convergence with the EU in terms of competitiveness, income and living standards. Thus, the NRP 
+proposes short and medium term priority reforms to close the gap with the EU and fall into three 
+categories: 
+i. Measures to consolidate the macroeconomic framework include expenditure and revenue 
+adjustments, public pay policy reforms, health, state owned enterprises (SOE); 
+ii. Policy reforms to address root causes of vulnerabilities exposed by the global economic crisis 
+and improve functioning of markets aim to increase allocational efficiency of public and 
+private sector resources; reforms are envisaged in: R&D, energy, health, education; 
+iii. Administrative capacity building measures aim to enable better delivery of public services and 
+effective strategic prioritization of Government actions, including better policy coordination 
+and monitoring and evaluation; these target the functioning of the General Secretariat of the 
+Government, the Ministry of Public Finance and institutional set-up and business processes in 
+line ministries (i.e. education, social protection, tax administration, EU funds absorption) and 
+governmental agencies; the measures are derived mainly from the recommendations of the FRs.  
+
+11. Government priorities have been endorsed and supported by key stakeholders . The 
+multilateral program with the IMF, EC and the Bank supported the established priorities. These 
+have also been validated by a number of exercises conducted by the Bank such as the benchmarking 
+exercise, mapping of reforms and stakeholders’ analysis, confirming at the same time the role of the 
+Bank as a key advisor to the Government in implementing the reforms agenda, building upon its 
+comparative advantage (as presented in section IV). 
+
+III. 
+
+PROGRESS TOWARD ACHIEVING CPS OBJECTIVES AND OUTCOMES 
+
+12. 
+Progress toward achieving the CPS objectives and outcomes is broadly satisfactory 
+through there remains a significant agenda for the two years ahead. The CPS design was not 
+overly ambitious in setting the objectives and results of the Bank’s contributions over the CPS 
+period. With Bank support through DPL 1-2 and technical assistance (TA), the budget process now 
+relies on tighter discipline, prioritization and monitoring practices. These improvements have been 
+triggered by a strengthened medium-term expenditure framework (MTEF), a longer-term fiscal 
+strategy and legislation encouraging fiscal responsibility. More efficient expenditure policies are 
+implemented in health and education. Comprehensive efforts to rationalize and consolidate social 
+
+3 
+
+ 
+ 
+  
+ 
+ 
+ 
+assistance are underway. The CPS contributed to developments in various sectors as described 
+below, such as: agriculture and rural development, knowledge economy, energy, as well as to 
+increased EU funds absorption in selected areas. However, the latter remains a major challenge.  
+
+13. 
+During its first two years, the CPS was centered on the DPL program. The DPL series 
+was the main policy instrument for dialogue with the Government, IMF and EC. They supported a 
+comprehensive - and probably unprecedented in terms of coverage and depth - reform agenda 
+including a new pension system, new public pay system, budget reforms, health expenditure 
+efficiency reform, rationalization of the social assistance system, and reforms to consolidate 
+financial sector. The policy dialogue was assisted by an array of TA through a joint program of the 
+Bank, IMF and EC. The DPL and accompanying TA helped the Bank strengthen its collaboration 
+with the EC, paving the way to the partnership on Functional Reviews (FR) and Modernization of 
+Public Administration. Progress under pillars is presented below (see also Annex 3). 
+
+Pillar 1 - Public Sector Reform  
+
+14. 
+Progress on Public Sector Reform is on track and this pillar has become a primary 
+focus of Bank support to the GoR. The CPS has supported the fiscal sustainability targets in the 
+2009-2012 Government’s program, and fiscal reforms critical to Romania’s medium-term agenda.  
+In the budget area, CPS instruments (DPL1-2, Public Expenditure and Institutional Review, 
+Education and Health TA) have helped underpin improved budget discipline, accountability, 
+efficiency and sustainability of the public wage bill. In governance, the Bank continues to support 
+strengthening the efficiency and accountability of the judiciary. Proactive measures4 by the Ministry 
+of Justice bode well to meet CPS objectives in the judiciary by 2013.  
+
+15. Over the past year and a half, the Bank carried out functional reviews (FRs) of twelve 
+public institutions in Romania under the overall framework of an MoU signed in June 2009 
+between the EU and the GoR. The reviews provide operational recommendations on strategic 
+management, organizational structure, sector governance, budgeting, and human resources 
+management to help guide structural reforms. While this possibility was envisaged in CPS, it 
+materialized in a much stronger way than anticipated and has become a cornerstone of the Bank’s 
+work program in Romania. Phase 1 (presented to Government in October 2010) covered Transport, 
+Pre-University Education, Agriculture and Rural Development, Public Finance, the Center of 
+Government, Competition Council; and phase 2 (presented to Government in March 2011) analyzed 
+Environment and Forestry, Energy and Economy, Health, Labor and Social Protection, Regional 
+Development and Tourism, Higher Education, Research, and Innovation). In December 2010, the 
+Government approved their action plans derived from the recommendations of the first phase, part 
+of which the Bank may support under the EU financed Modernization of Romanian Public 
+Administration FBS series (see section Proposed Adjustments to the CPS). The Government has 
+recently completed Action Plans based on the second phase of the Functional Reviews and 
+submitted them to the European Commission. 
+
+16. 
+The Bank’s support under Pillar 1 is expected to exceed the CPS original objectives. 
+Under DPL1, the GoR elaborated a MTEF that, together with the Fiscal Responsibility Law, 
+represents the basis for a credible medium-term fiscal plan and linking allocations to outcomes and 
+performance. The MTEF is already being used as a tool to enhance fiscal discipline and improve 
+resource allocation, resulting in achieving satisfactory outcomes for this CPS pillar. This should be 
+reflected by a steady reduction of discrepancy between the approved budget and actual expenditures 
+for major ministries. The implementation of measures to attract and retain skilled public employees 
+remains to be addressed (under DPL3). The Judicial Reform Project was restructured to better 
+support the Strategy for the Development of Justice as a Public Service 2010-14 and the needs 
+resulting from the Cooperation and Verification Mechanism5.  
+
+4 "Small Reform Law" to speed up Courts procedures, new strategy 2010-2014 Justice as a Public Service, progress in impact 
+assessment of four new codes, design and preparation of roll out of Resource Monitoring System for Judiciary 
+5 This is a safeguard measure of the EC in case a new member or acceding state of the EU failed to implement commitments 
+undertaken during accession negotiations (freedom, security and justice or internal market policy) 
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                           
+Pillar 2 - Growth and Competitiveness  
+
+17. Given the focus of the first two years on the crisis, and given its longer term nature, the 
+Bank’s support to this pillar is less advanced, despite some important achievements: (i) 
+financial sector, the Bank contributed mainly via the DPL to maintaining financial stability, 
+improving governance and the sector’s resilience (i.e. Mortgage and Corporate Debt Resturcturing 
+Guidelines issued, adopted legislation on political independence and financial autonomy of sector 
+regulators); (ii) education, the DPL supported the shift to per-student financing; (iii) the Knowledge 
+Economy project provided access to, and use of the Information and Communication Technology 
+(ICT) resources for 255 local communities; (iv) hazards mitigation, the related project financed the 
+development of an Emergency Management Information System and helped mitigate earthquake 
+and flood risks by retrofitting public buildings and rehabilitating selected large and small dams) ; 
+(iv) energy, the internal market opening including the residential market and the development of the 
+Commercial Operator Power Exchange6); (v) environment, the Municipal Services Project helped 
+the Ministry of Environment to meet the EU environmental directives). Key challenges that the 
+Bank could support upon demand on the growth agenda include business environment, R&D and 
+innovation, skills, competition, digital agenda, transport and climate change.  
+
+Pillar 3 - Social and Spatial Inclusion 
+
+18. 
+A number of reforms have been contributing to improved targeting and efficiency of 
+social spending. The design and funding of the best targeted programs for social assistance, such as 
+the Guaranteed Minimum Income, were improved. The Social Inclusion Project (SIP) supports the 
+improvement in social and spatial inclusion of Roma communities (through the Romanian Social 
+Development Fund) as well as greater participation of Roma children in early childhood education 
+programs. In addition, the DPL2 promoted reforms to strengthen the fiscal viability, integrity and 
+equity of the public pension. Similarly, the DPL series has contributed to progress in the financial 
+sustainability of the health sector as well as in the efficiency and quality of health services through 
+the reform of provider payment methods and a plan to better align hospital infrastructure with 
+demand - the national hospital rationalization strategy (approved in March 2011) contributes to 
+meeting some of the CPS targets. Some 373 hospitals were decentralized and all hospitals 
+contracted by the National Health Insurance House were assessed and classified or reclassified 
+following the Hospital Classification. A results-based operation on the modernization of the social 
+assistance systems was approved end FY11. This EUR500 million project supports the government 
+efforts to improve overall performance of the social assistance system by strengthening 
+performance management, improving equity, administrative efficiency, reducing error and fraud. 
+
+19. However, adjustments are needed to make the best use of limited resources in 
+achieving greater social and spatial inclusion . So far, the main Bank instrument in support of 
+Roma inclusion has been the Social Inclusion Project. Unfortunately, implementation has been 
+hampered by the GoR’s long investment approval cycle and institutional capacity of the National 
+Agency for Roma, and was restructured to enhance the Roma component and accommodate two 
+new sub-components: (i) the upgrade of the IT system for social assistance benefits and (ii) the 
+improvement of the cash benefits in the social assistance system. Additional reforms supported by 
+the DPL 2 aim at increasing the effectiveness and efficiency of income-tested family benefits such 
+as the Lone Parent Allowance and the Complementary Child Allowance (legislation to this end was 
+submitted to the Parliament as a DPL2 prior action, to be implemented under DPL3). Less progress 
+than hoped was made on an Avian Flu project, which closed marginally unsatisfactory during the 
+CPS against its original development objectives (though marginally satisfactory against its revised 
+ones) and as a number of project activities were cancelled or transferred. 
+
+Overall Portfolio  
+
+20. 
+The IBRD portfolio consists of 12 active projects. While the number of projects is 
+declining, the AAA program, largely fee based services, is growing. At end October 2011, the 
+
+6 the share of electricity supply sourced from the liberalized market accounts for about 50 percent of total electricity supply in 
+Romania 
+
+5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                           
+portfolio included 12 investment operations totaling US$1.7 billion; 2 co-financing GEFs; one 
+Prototype Carbon Fund; one PHRD for policy making for People with Disabilities; 7 AAAs 
+including one FBS following up to the FRs. In addition, FBS TAs in support of the implementation 
+of the action plans derived from FRs recommendations are undergoing pre-signing approval 
+procedures. The AAA portfolio covers public finance, education, health, regional development, 
+labor and social protection.  
+
+21. 
+Proactive efforts have improved quality of the portfolio. Disbursements are satisfactory 
+with a ratio of 29 percent at end-FY10 and 19.4 percent in FY11. Projects at risk decreased from 46 
+percent at end FY10 to 25 percent in FY12. Quarterly portfolio meetings evaluate portfolio 
+performance and address implementation challenges. An online monitoring system in place since 
+FY11 tracks portfolio performance and implementation of recommendations. A characteristic of the 
+Romania portfolio has been a number of old projects unable to complete implementation during the 
+planned project life resulting in a large number of extensions. Greater efforts to avoid project 
+extensions will make more room for new projects/loans. Apart from close monitoring, other efforts 
+include restructuring operations to maintain relevance to the GoR policy agenda by revising project 
+development objectives, transferring funds toward new sub-components or canceling amounts for 
+components where time-bound actions were not met.  
+
+22. 
+IFC commitments are approximately US$660 million with the largest share for  finance 
+(67 percent) and infrastructure (20 percent) sectors. IFC’s current committed portfolio is the fourth 
+largest in Europe and Central Asia. Romania will also benefit from two crisis response regional 
+funds: the CRG CEE Restructuring Fund and the ADM CEECAT Recovery Fund. These funds aim 
+to raise a total of EUR500 million to address regionally bad debts and assist local companies facing 
+financing difficulties. IFC has played an active crisis response role in Romania, investing in FY09 -
+12 approximately US$466 million of its own funds and mobilizing an additional US$242 million in 
+fifteen projects in various sectors. Particular support was provided to financial, renewable energy 
+and health sectors. The IFC portfolio is performing very well on both loans and equity.  
+
+23. 
+Since FY09, the Bank has carried out AAA to assist Government in designing and 
+implementing the crisis response, strengthen capacity for improved governance, and provide 
+detailed advice on key sectoral reforms. Sector notes were produced on power, water, road 
+maintenance, environment, and agriculture and rural development. In FY10-11 the AAA portfolio 
+increased significantly with emphasis on TA, reflecting the addition of the fee-based Functional 
+Reviews (Annex 13) to support structural changes required by the EC. The “regular” AAA portfolio 
+has continued to inform Bank lending and policy dialogue. IFC advisory services focused on 
+investment climate reforms, banking sector development, and sustainable energy finance. These 
+services underpinned Bank interventions and built the capacity of ministries and IFC clients . 
+
+24. 
+The Bank works closely with the IMF, the EU and other donors . Through donor 
+coordination, the World Bank was able to leverage its portfolio and exercise greater selectivity.    
+The Bank closely and successfully collaborated on the overall fiscal stimulus package with the IMF, 
+the European Union, as well as EIB and EBRD, and supported communication and outreach 
+through various workshops and events.  
+
+IV. 
+
+PROPOSED ADJUSTMENTS TO THE CPS 
+
+25. 
+The overarching objective of CPS implementation remains to support Romania’s 
+convergence with the EU through robust, sustainable and equitable growth , and enhanced 
+competitiveness. To sustain the convergence process with the rest of the EU and boost 
+competitiveness, attention needs to be paid to unfinished structural reforms in the NRP, and to 
+further consolidation of the macroeconomic environment, including additional fiscal adjustment.  
+
+26. Over the past two years of the CPS, the Bank has accumulated a more solid knowledge 
+base on Romania, which will be used to support the Bank’s program going forward, and 
+Government policy reforms and institutional development, including for strategic planning, 
+coordination and monitoring and evaluation (M&E) of policies. This includes: (i) fee-based 
+work, namely the twelve FRs; (ii) analytical and advisory activities, including the benchmarking 
+
+6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+and performance-informed portfolio review, the 2009 sector policy notes, the Policy Notes on 
+growth and competitiveness, the Public Expenditure and Institutional Review (PEIR), the ongoing 
+mapping of reforms, and other sector work; and (iii) policy-based and investment lending 
+operations. In particular, the benchmarking exercise and the mapping of reforms (in progress) are 
+highly germane to performance monitoring and capacity building. The benchmarking provides an 
+operational M&E tool to help prioritize strategic choices and monitor programs through Key 
+Performance Indicators. In particular, the work conducted by the Bank through the FRs has 
+informed the preparation of the 2011-13 NRP and are acknowledged as substantial contributions to 
+restructuring and modernizing the central and local public administration, enhancing the efficiency 
+of government expenditures, and improving the quality of and access to public services. 
+
+27. 
+The CPS PR went through a participatory consultative process with stakeholders in 
+different sectors, including NGOs, think-tanks, private institutions, academia, government and 
+international organizations. A survey assessed the perceived performance of the Bank in 
+implementing the CPS in the first two years and eight sectoral roundtables discussed the challenges 
+and potential Bank role in: agriculture and rural development, climate change, education, 
+governance, the social sectors, health, public finance and smart growth (focusing on: business 
+environment, research, development and innovation, competition and the digital agenda). Key 
+findings from the consultations are included in Annex 6.  
+
+28. 
+The relevance of the CPS areas and the Bank’s comparative advantage in supporting 
+national priorities were validated through a strategic positioning exercise. The exercise was 
+based on a perception survey done in February 2010 among high-level representatives of the 
+Romanian public administration to identify the needs for technical and financial assistance. Data 
+analysis provided valuable information regarding clients’ perception of the way in which the Bank 
+comparative advantage matches country needs (see the graph on survey’s results in Annex 5). In 
+particular, the survey made it possible to determine sectors and sub -sectors in which the country’s 
+needs for assistance are high and Bank capacity is perceived as good. This, in turn, confirmed the 
+relevance of the CPS pillars and guided the identification of the main areas for action for 2010-13.  
+
+29. 
+Public sector reform, growth and competitiveness, and social and spatial inclusion 
+continue to be appropriate pillars for the remainder of the CPS and are complemented by 
+three EU cross-sectoral themes. While the focus in the first two years was to help Romania deal 
+with the immediate aftermath of the economic and financial crisis, a transition to a longer term 
+perspective with a view to achieve convergence with EU standards of living is now possible and the 
+CPS emphasis will increasingly shift towards this direction. Moreover, given the limited Bank 
+resources and the collaboration between the Bank, GoR and the EC, the Bank’s role is of a strategic 
+advisor. Bank contributions are grouped in three cross-sectoral EU related themes. Although 
+distinctions are made between those sectors that still need policy reforms (under theme 1) and 
+sectors that have made many of the policy reforms happen and need capacity strengthening (theme 
+2), the proposed Bank interventions reinforce and complement each other and are subordinated to 
+the objectives of sustained growth, increased efficiency and transparency of public administration. 
+Theme 3 groups operations not generally covered by EU funding. While there is no change in 
+strategic pillars, the idea is to place Bank’s engagement and work clearly within the broad 
+framework of complementarity and support of the EC program in Romania and to use the themes as 
+filters to select AAA and lending operations for the remaining CPS period. Ongoing and proposed 
+activities are reflected under pillars and themes in Annex 2.  
+
+Theme 1: Policy reforms to reap the benefits of EU membership and meet the objectives of the 
+Europe 2020 strategy.  
+
+30. 
+Supporting ongoing structural reforms and new policy actions in line with NRP will be 
+critical for Romania to achieve greater convergence with EU Member States . Reforms in 
+health, education, financial sector and budget processes are supported under DPL3. Policy reforms 
+in social assistance, health, tax administration, energy, transport, SOEs are likely areas for a new 
+DPL. Additional AAA aligned to theme 1 will be guided by GoR demand and Bank’s comparative 
+advantage. Issues on macroeconomic stability and building blocks for sustainable growth may be 
+
+7 
+
+ 
+ 
+ 
+ 
+ 
+ 
+considered. Also, inclusion and participation may demand attention, especially on the enormous 
+challenges to provide opportunities for the Roma while overcome prejudice and stigma. This is 
+complemented by a set of Policy Notes on Growth and Competitiveness, which provide a 
+framework to orient policy dialogue concerning challenges to EU convergence. 
+
+Theme 2: Modernization of public institutions to enhance resource allocation and absorption of 
+EU funds.  
+
+31. 
+The Bank aims to support Government priorities in terms of strengthening 
+administrative capacity to enable better delivery of public services and effective strategic 
+prioritization of Government actions, resources allocation and absorption of EU funds, 
+including better policy coordination and monitoring and evaluation . The Bank has been asked 
+to provide technical support to the Government to implement its action plans derived from phase 1 
+FRs recommendations, currently seventeen projects7 under the MAP (Annex 4).  The Bank has also 
+been requested similar assistance in justice, procurement and EU funds absorption, as part of the 
+MAP8.  The MAP package supports several interventions both on policy reforms and institutional 
+capacity building (Table 2). Government action plans for the second phase have been approved and 
+the Bank is ready to support their implementation upon request.  
+
+32. 
+Strenghtening the institutional capacity at central level is supported by the Bank . This 
+theme also requires measures to support  the “Center of Government”, including the functioning of 
+the General Secretariat of the Government, and the Bank aims to support strengthening the 
+institutional capacity at this level by enhancing the monitoring and evaluation functions in 
+policymaking through an IDF grant.  Strengthening strategic organizational reform areas such as 
+human resource management, communication and processes including IT systems is expected to 
+increase administrative capacity in specific sectors covered by the MAP (see Table 2). 
+
+Table 2: MAP FBS TAs under themes 1 and 2 
+Sector  
+Theme 1 (policy reforms to reap the 
+benefits of EU membership)  
+
+Public 
+finance  
+
+Agriculture 
+& 
+rural 
+development 
+
+Treasury/debt management, 
+improving 
+capacity in tax policy analysis, strengthening 
+macro forecasting capacity  
+developing a vision and strategy 
+for 
+capitalizing 
+on 
+agri-food 
+production 
+potential; supporting the strategic planning 
+for ARD administration 
+
+and 
+
+optimization 
+
+school 
+network 
+management 
+update 
+transport strategy and assist 
+its 
+implementation, support railway system 
+with focus on definition and refinement of 
+public service contracts, support public-
+private partnerships with emphasis on the 
+road sector 
+revising Competition Council’s legislative 
+mandate to promote competition / strengthen 
+competition advocacy in public institutions 
+
+Education  
+
+Transport  
+
+Competition  
+
+Justice  
+EU 
+funds 
+absorption 
+Procurement  
+
+Theme 2 (Modernization of public institutions to 
+enhance resource allocation & EU 
+funds 
+absorption ) 
+improving communication with 
+tax payers and 
+strengthening human resource management 
+
+implementing the management information system of 
+the Ministry, developing and 
+implementing an 
+integrated IT system for financial management; 
+conducting a FR of the National Agency for Cadaster 
+and Real Estate Publicity 
+developing Ministry’s administrative capacity and 
+management of information resources 
+
+implementing a new business architecture in the 
+Competition Council and 
+increasing 
+its human 
+resource capacity on competition matters  
+functional review of the judicial system 
+analysis of processes and legislative impediments to 
+greater EU funds absorption 
+Review procurement procedures 
+
+33. 
+The Bank has been requested to support capacity building for absorbing EU funds . As 
+of end October 2011, the absorption rate of EU structural funds for 2007-13 was around 3.7 percent, 
+
+7 The MAP consists of 20 projects, out of which 17 are derived from the action plans and 3 are additional requests; the Bank received 
+formal requests for assistance from all sectors except for the 2 education related  projects, still under consideration until the financing 
+proposals are approved by the Managing Authority  
+8 Estimated at around USD30M including the education projects under consideration 
+
+8 
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+                                                           
+leaving about EUR 20 billion available. The current economic program aims to raise it to 20% in 
+2012, which is an ambitious agenda. The Plan of Priority Measures for strengthening the capacity 
+to absorb structural and cohesion funds, was approved by the government in April 2011, and could 
+significantly reduce barriers to absorption. One of its key components is to identify the 100 top 
+project priorities, and concentrate counterpart funding and administrative capacity on these projects. 
+The Government also recently created a dedicated Ministry of European Affairs, with a former EU 
+Commissioner as Minister. The GoR, in agreement with the EC, requested the Bank to carry out an 
+analysis of policy impediments constraining EU funds. This work has been requested on a fee for 
+service basis and the scope of Bank’s support in this area is under discussion with the Government. 
+
+Theme 3: Complement to EU funding.  
+
+34. 
+The availability of Structural Funds makes Bank financing a minor instrument for 
+Romania. However, the Bank can complement EU support by financing activities not planned to be 
+covered by Structural Funds or alternative instruments. For instance, development policy lending 
+and results-based operations can support improved outcomes from current budgets. Subnational 
+activities, access to financial markets via guarantees and areas of national responsibility (i.e. 
+education, health, justice) for which typically structural funds are not allocated or with EC’s prior 
+agreement could be explored.  
+35. 
+For the CPS remainder, new IBRD lending could reach EUR1.4 billion in FY12 9 and 
+perhaps EUR325 million in FY13 (Table 3). This potential new lending is indicative and actual 
+delivery will depend on the GoR's request for IBRD resources, sector needs, Romania's performance, 
+IBRD's financial capacity, demand from other borrowers, and global economic developments. 
+
+Project Commitment M 
+FY 2011 
+DPL2 
+SASM10 
+TOTAL 
+
+Table 3: Potential IBRD lending  
+Project 
+Commitment M 
+FY 2012 
+€300 (US$426)  DPL 3  
+€500 (US$710) New DPL (DDO) 
+€800 (US$1136) 
+TOTAL 
+
+Project 
+Commitment M 
+FY 2013  (t.b.c.) 
+€400 (US$560)   Tax Admin 
+€1000 (US$1380) 11  Health  
+€1400 (US$1940) 
+TOTAL 
+
+€75 (US$100) 
+€250 (US$344) 
+€325 (US$444) 
+
+FY12-13 after the DPL3 based on exchange rate of EUR 1.377 to US$1 
+
+36. 
+The Bank will support the modernization of social assistance, tax administration and 
+health systems. In addition to supporting the implementation of the recently approved results-based 
+operation on the modernization of the social assistance systems, other types of lending activities in 
+the second half of the CPS period will be guided by GoR’s demand.  For FY12, the third DPL is 
+under preparation. Operations to support improved tax administration and implementation of health 
+sector reforms are envisaged for FY13 (see Table 3).  
+
+37. 
+The Government has expressed its interest in a new DPL in FY12, possibly with a 
+deferred drawdown option. This would focus on the Structural Reform program being supported 
+by the IFIs. While the exact content is not yet determined, several areas have emerged as main 
+potential candidates: Health, Energy, Transport, SOEs, Tax administration and PFM. These key 
+structural reforms would follow the current DPL series and be correlated to the EU and IMF 
+support.  As the market volatility and regional uncertainties are persisting, the DDO can help in two 
+ways: (i) as a buffer that can help Romania accomplish its external issuance program under EMTN 
+in reasonable terms and conditions; and (ii) if vulnerabilities are persisting and some risks 
+materialize raising significant challenges in the financing strategy, the Government could draw the 
+funds.  
+
+38. 
+In light of the crisis, IFC is investing in Romania on a selective basis . IFC has withdrawn 
+from sectors and business lines where the private sector is ready to take over. In the banking sector, 
+largely dominated by foreign banks (about 90 percent of banking assets), IFC strategy is to work 
+with local banks and strengthen their capacity to provide loans to underserved sectors and products 
+such as local currency, housing finance, agribusiness, renewable and energy efficiency. IFC will 
+
+9 To be confirmed with the Government of Romania.  
+10 Social Assistance System Modernization 
+11 The GoR requested EUR1 billion  
+
+9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                           
+assist local companies to become competitive in the domestic market and expand to other countries 
+in the region, and promote South-South investments. IFC will continue to support projects of high 
+development impact such as in infrastructure, frontier regions and climate change related projects. 
+
+39. Graduation prospects will be reassessed under the next CPS. Although Romania is over 
+the income threshold for consideration of graduation, it is proposed that no detailed discussions to 
+prepare for graduation be held for the remainder of this CPS period given the need to continue the 
+develop Romania’s institutional capacity.  A fuller treatment of this issue would be prepared in the 
+context of the next CPS beginning in FY14.  
+
+40. 
+The CPS Results Matrix presented in Annex 1 has been updated to reflect the program 
+for the remaining period. The main pillars have remained unchanged while targets and indicators 
+have been revised reflecting the progress, changes and restructuring measures taken during the first 
+two years, and the milestones assessed. The new operations have been added to the matrix . 
+
+V. RISKS 
+
+41. 
+Below is a summary of risks and an update on mitigation measures.  
+ Institutional capacity risks relate to the uneven quality of policy making and coordination 
+across various government entities. These risks are currently mitigated by the Bank through 
+technical assistance (both formal and informal) as well as an IDF grant (FY12) to improve the 
+capacity for policy formulation, monitoring and evaluation in the central government.  
+Implementation of the FRs recommendations would help strengthen public administration in 
+selected sectors and therefore contribute to mitigating institutional capacity risks. 
+ Economic risks increased with the global economic crisis, and the large external and fiscal 
+deficits at the onset of the crisis made it all the more difficult to adjust to the severe economic 
+downturn.  The IFIs multilateral support package and the proactive measures taken by the state 
+institutions have helped contain negative impacts and should enable recovery12. Like other 
+countries in the region, Romania faces risk of eurozone crisis contagion and exposure to Greek 
+banks. This risk is mitigated by structural reforms, the proactive stance of state institutions, and 
+the resource cushion provided by the extension on a precautionary basis of the multilateral 
+program with the IMF and the EC until Spring 2013, as well as the significant foreign exchange 
+reserves accumulated during the last three years.  
+ Social risks are associated primarily with the impact of the Government’s fiscal austerity 
+measures; new policy reforms including those affecting social assistance and restructuring and/or 
+privatization of SOEs; and with planned 2012 increases in energy prices that col lectively could 
+impede the implementation of the DPL program and broader policy reforms. These are mitigated 
+by the acceleration of social assistance reform and the provision of funding.  
+ Political risks stem particularly from the inherent fragility of a coalition government facing a 
+strong opposition, and uncertainty from 2012 elections. So far, these risks have been managed 
+well by the Romanian authorities. Bank dialogue with the parliamentary opposition to explain 
+the need for reforms and inform on progress in their implementation are helping to build broader 
+support and mitigate the risk of a change of direction. 
+ Implementation risks. There will be a risk of implementing the MAP program of FBS until the 
+legal agreements are signed, however, there is strong support from the highest levels of the GoR, 
+the IFIs, and particularly the EC. The Managing Authority received the financial proposals for 
+the six sectors under consideration for the MAP, which represents a strong mitigation measure. 
+
+12 Natural disasters and climate change are an area of risk for future study. 
+
+10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                           
+Annex 1. Results Framework 
+
+RESULTS AREAS AND OUTCOMES TO WHICH THE CPS IS CONTRIBUTING 
+
+MILESTONES  
+CAS PILLAR 1: PUBLIC SECTOR REFORM 
+
+WBG INSTRUMENTS
+
+13 
+
+GOALS: To improve the accountability and responsiveness of the public administration and to enhance predictability and efficiency in public resource management. 
+Issues and Obstacles as identified in 2009:  Pro-cyclical fiscal policies and weak fiscal management have led to serious macroeconomic vulnerabilities.  The budget process lacks predictability and transparency, 
+as well as weak prioritization of public investment.  Introduction of an MTEF will require capacity and support to both plan on a multi-year horizon and to link budget with outcomes .  Public sector wages have 
+more than doubled since 2005 contributing to pro-cyclical policies, but without adequately rewarding performance or productivity.  Governance is weak and monitored by the EU bi-annually.  The court system 
+has a large back-log of cases.  Since CPS approval in 2009 the GoR made significant progress in improving public finance management and reforming the public pay system (see achieved milestones under1.1 
+PFM and 1.2 public administration reform and Annex 3) 
+
+1.1  PUBLIC FINANCIAL MANAGEMENT 
+
+Objective: Reduce fiscal vulnerabilities by restoring budget discipline, 
+improving the effectiveness and efficiency of public expenditures, and 
+improved resource mobilization. 
+
+ 
+
+ 
+
+Fiscal Responsibility Law 69/2010 approved & enacted 
+(2010) 
+Independent Fiscal Council established (2010) 
+
+ Mid Term Expenditure Framework approved by Parliament 
+with three-years ceilings for major spending ministries 
+(2011 and beyond - in progress)  
+
+ 
+
+Fiscal Strategy 2011-13 approved by Government (Done) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+Completed:   
+Policy Briefs (FY09) 
+PEIR Update (FY09) 
+DPL 1-2 (FY10 - FY11)) 
+TA Fiscal Decentralization (FY11) 
+TA Tax Administration (FY11) 
+PEIRs updates focusing on opportunities for fiscal savings 
+and efficiency gains in major expenditure categories, 
+starting with education and  health (FY09-FY10) 
+FBS Functional Review on Public Finance (FY11) 
+
+ 
+
+ 
+
+Outcome 1.1.1: Medium Term Expenditure Framework operational by 
+2012 and beyond  
+Indicator 
+(revised): Reduction 
+in variance between main 
+aggregate ceiling (Wage, Goods & Services, Capital) approved by 
+Parliament in the MTEF (2011-13) and the actual expenditures. 
+Baseline (2008): 27% variance for three largest economic classes 
+(Wage, Goods&Services, Capital) Target: deviation ≤ 17% 
+
+ 
+
+Outcome 1.1.2: Sustainable growth in public wage bill 
+Indicator: Annual expenditure 
+for personnel 
+(2011-13)  
+consistent with the limits approved in MTEFs and does not 
+increase as a share of GDP above expected 2009 level. Baseline: 
+9.4% in 2009  In progress: Wage bill: at 8.3% of GDP in 2010 
+(preliminary data) 
+
+1.2 PUBLIC ADMINISTRATION (PA) REFORM 
+
+Objective (revised): support GOR effort to improve the organizational 
+effectiveness and transparency of the public administration at central 
+and local levels; and improve the public pay system to enhance 
+transparency and predictability, motivate performance among public 
+sector employees, attract and retain critical skills. 
+
+Outcome 1.2.1 (new): Initiation by GOR of the RO PA Reform -
+approval of Reform Action Plans for selected PA institutions (Done – 
+all Functional Reviews Phase 1 and 2 ministries and agencies) 
+
+Outcome 1.2.2 (new):  Progress in enacting and implementing the 
+strategies/ tools/ procedures/ etc. in the Reform Action Plans. 
+
+ Wage bill increases below inflation rate (Increase in 2010 is 
+2% vs. 5.6% inflation rate)  
+
+Ongoing 
+Social Assistance Modernization Project (Results Based) 
+
+ 
+
+ 
+
+Summary of multi-year public investment program annexed 
+to 2010-2011 budget (Done) 
+
+ 
+ 
+
+New 
+DPL3 (FY12) 
+FBS – TA support to GOR for the implementation of the 
+action plans drafted by the GoR on the modernization of 
+public administration (FY12) 
+PEFA 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Functional reviews of the public administration undertaken 
+to identify budget resources that could be realized for 
+better targeting pay (Done)  
+Recommendations for public administration reform and 
+modernization formulated and shared with Government 
+(Done) 
+
+Reform Action 
+Plans 
+for Agriculture, 
+Transport, 
+Competition, Pre-University Education (1-2), Public Finance, 
+Center of Government, Health, Labor, Environment, 
+Regional Development, Economy and Energy, R&DI (Judicial 
+in progress) developed by the ministries and Government 
+agencies based on recommendations of the Functional 
+Reviews TA series (Done) 
+
+ 
+ 
+ 
+ 
+
+Completed 
+Public Sector Pay Practices in Romania (FY08) 
+DPL 1-2 (FY10-FY11) 
+PFM-Civil Service Pay (FY10) 
+FBS Functional Reviews (FY11) (Agriculture, Transport, 
+Competition, Pre-University Education (1-2), Public Finance, 
+Center of Government,  Economy & Energy & Business 
+Environment , Research, Development & Innovation, Higher 
+Education, Health, Labor and Social Protection, Environment 
+& Forestry, Regional Development and Tourism) 
+
+Ongoing 
+Social Assistance Modernization Project (Results Based) 
+
+ 
+
+13 Results of the potential new DPL (possibly DDO) not included as the program is yet to be designed, however, will be outlined in the program document.  
+
+11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                           
+RESULTS AREAS AND OUTCOMES TO WHICH THE CPS IS CONTRIBUTING 
+
+MILESTONES  
+
+WBG INSTRUMENTS
+
+13 
+
+ 
+
+Indicator (new) Favorable assessment by EC of Romania’s 
+progress in improving the organizational effectiveness and 
+transparency of its Public Administration ( EC Opinion on the 
+National Reform Plan  and progress under the Memorandum of 
+Understanding with EU) 
+
+ 
+
+Outcome 1.2.3: Alignment of  public sector pay system to EU practice 
+(transparency, equity, ability to attract & retain critical skills in public 
+administration) 
+Indicator : Reduction in aggregate allowances and bonuses and 
+limit amount for any individual   
+Target: Maximum 30% percent of the total public compensation 
+by 2011, and maintained (empirical evidence indicates higher 
+percentages, varying from sector to sector) 
+Indicator :  Align pay structures more closely to actual labor 
+market conditions  (evidence to be provided via  salary survey 
+results of MLFSP) (dropped) 
+
+ 
+
+1.3  GOVERNANCE 
+
+Objective:  strengthen the efficiency, accountability, transparency of 
+the justice system.  
+Outcome 1.3.1 : (revised) Improved judicial efficiency in pilot courts  
+Indicator (revised) 10% increase by 2013 in the number of cases 
+disposed of or archived in selected pilot courts.  Baseline: 11.224 
+cases in 2008 
+
+ 
+
+Outcome 1.3.2: Enhanced competence, professionalism and integrity 
+of judiciary staff (Bank contributes via creation of pre-requisites) 
+Indicator: New qualification examination procedures are 
+successfully piloted by Nat. Institute of Magistracy (Done) and 
+maintained 
+
+ 
+
+Outcome 1.3.3 (new):  Progress in Judicial Reform acknowledged by 
+EC under the Cooperation and Verification Mechanism (Codes entering 
+into force area) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Progress Reporting mechanisms 
+for 
+inform 
+the EC 
+developed by GSG (Done – first reporting completed).  
+
+New salary legislation on public sector pay which limits  
+non wage expenditures approved (Done - Unitary Pay  
+Law (UPL) 330/2009 approved.)  
+A detailed pay reform plan is approved by Government for 
+implementing (a) a uniform job grading framework for the 
+public service (Done) and (b) more closely aligning pay for 
+selected benchmark jobs to actual labor market conditions 
+(through a salary survey) (Done)  
+Regulations enforcing compliance with merit based 
+principles of employment and promotion drafted (Done – 
+Regulations published in Official Gazette (OMJ 
+622/C/25.02.2010 and subsidiary pay legislation approved 
+by Parliament. 
+
+Uniform standards for the Courts operational processes 
+developed and country-wide implementation started. 
+(In progress- TA contract under implementation) 
+
+Recommendations for the optimization of courts’ activity 
+formulated and adopted by SCM. 
+
+Publication by Courts and SCM  of courts performance data 
+and findings  from periodic Surveys on access to and 
+satisfaction with judicial services (Courts financed by  JRP) 
+(in progress- Baseline Survey completed, results posted on 
+SCM site) 
+
+Completion of Impact assessment of the four revised/new 
+Codes (Civil Code, Civil Procedure Code, Criminal Code and 
+Criminal Procedure Code) and sharing with SCM and MOJ 
+(ongoing - contract signed Sep 2010) 
+
+CAS PILLAR 2: GROWTH AND COMPETITIVENESS 
+
+ 
+ 
+
+New  
+DPL 3 (FY12) 
+FBS TA Functional Reviews on Judicial, Land Administration, 
+Agency for Coordinating Structural Instruments 
+FB TA (supplemental) to Government for follow up on FRs 
+recommendations (Agriculture, Transport , Competition 
+Council, Center of Government, Public Finance, Pre-
+University Education 1-2 (compl.FY13) 
+IDF Grant 
+
+ 
+
+ 
+
+ 
+ 
+
+Ongoing:  
+Judicial Reform Project (cl. FY13) 
+Country Economic Memorandum (FY12) developed as a 
+sequence of Policy Notes prepared with the participation of 
+relevant Romanian specialists  
+FBS Functional Review Ministry of Justice (FY12) 
+
+ 
+
+Working tools developed for Financial Sector strengthening 
+(stress tests, Strategic Action Plan) assimilated and in 
+use/updated by the NBR 
+
+GOALS:  in the short-run, put in place crisis-management measures in the financial sector; and in the medium -term, establish the building blocks for sustainable convergence to EU -average living standards 
+through improved business environment, enhanced skills, better infrastructure and more efficient agriculture. 
+Issues and Obstacles as identified in 2009:  The crisis has revealed weaknesses in financial sector supervision across the region, new, best practices will need to be ado pted to strengthen the system.  A recovery 
+in growth will depend both on recovery in key trading partners and on the strength of Romania’s own reforms and policies.  All countries are seeking to emerge from the crisis in a strong position, so competition 
+will be strong.  Romania lags international competitors on education, business environment and agriculture productivity indic ators. Transport and energy need significant investment and reform to be able to 
+meet demand.   
+2.1 Growth Agenda 
+Objective: (new) support to the Government for identification of 
+
+Ongoing: Bank AAA – via a series of Policy Notes for growth and 
+
+Symposium on Economic Recovery and Growth in Romania 
+
+12 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RESULTS AREAS AND OUTCOMES TO WHICH THE CPS IS CONTRIBUTING 
+
+MILESTONES  
+
+priority reforms for growth  
+
+Outcome : 1.3.4 (new) Policy options available to the Government for 
+informing the update of  the National Reform Program14 and reflecting 
+the EU 2020 Strategy  goals in Romania’s  national reform agenda 
+
+2.2 FINANCIAL SECTOR 
+
+Objective: deepen and strengthen the resilience of the financial sector 
+Outcome 2.2.1: Improved stability and resilience of the financial 
+system to economic shocks  
+Indicator: Bank system remains well capitalized (average capital 
+ratio at 14.2% in June 2011 - IMF assessment) (Done) 
+
+ 
+
+ 
+
+Outcome 2.2.2: Improved governance of financial sector supervision. 
+Indicator: Recommendations of the “de La Rosiere” report 
+adopted, notably with respect to independence and autonomy of 
+financial sector supervisors  (CSA, CNVM, CSSPP) (Done) 
+Indicator : Supervision standards, regulations and practices 
+strengthened, in line with Basel II (Done) 
+
+ 
+
+2.3. BUSINESS ENVIRONMENT & COMPETITION 
+
+Objective: improve the business environment and (new) the capacity 
+to enforce competitive business practices in the marketplace 
+
+ 
+
+Outcome 2.3.1 (new): Improved competition regulatory framework (in 
+line with EU practices)  
+Indicator:  Revised  regulatory framework enacted (by 2013) in 
+relation to competition principles 
+Outcome 2.3.2 (new)  Enhanced Competence of the Romanian 
+Competition Council (RCC)  
+Indicator: RCC ranking15 in the EU  
+Baseline: RCC the lowest in EU ranking Target: Improved RCC 
+ranking by 2013 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(with participation of decision makers, National Bank of 
+Romania, private sector, academia and specialists from IFIs) 
+to facilitate the diagnosis of different areas (growth, fiscal 
+sustainability, labor markets, absorption of EU, etc.)  The 
+Symposium findings  will serve to document the CEM (Done 
+– May 2011) 
+Stress tests conducted and Strategic Action Plan for 
+Financial Sector strengthening approved by NBR and 
+Ministry of Public Finance (MoPF) (DPL1 - 2010) 
+
+Out-of-court insolvency proceedings set in place,  Mortgage 
+Debt Restructuring and Corporate Debt Restructuring 
+Guidelines issued & published by NBR & MoPF (DPL2 - 2010) 
+
+WBG INSTRUMENTS
+
+13 
+
+competitiveness & Conferences, with the participation of 
+Romanian think-tanks and international experts 
+
+ 
+ 
+
+Completed 
+Financial Sector Assessment Update (FY09) 
+Consumer Protection and Financial  Literacy Survey and 
+Conference (FY10) 
+IT assessment of National Bank of Romania (FY10) 
+DPL1-2 (FY10 - FY11) 
+IFC financing to local financial institutions 
+
+ 
+ 
+ 
+
+Updated legislation on the Political Independence and 
+Financial Autonomy of the Financial Sector Regulators and 
+Supervisors approved by Government (Done , 2011) 
+
+New 
+DPL 3 (FY12) 
+
+ 
+
+Assessment and amendments of a) adequacy of definition 
+of Financial Conglomerates (Done) and b) adequacy of 
+supervision arrangements (Done- 2011, DPL3 pre-condition) 
+
+NBR to issue regulations for Joint supervision of financial 
+groups by the relevant regulators (Done, 2011-DPL3 ) 
+Specific Policy Recommendations provided to the 
+Government that support the enforcement of competitive 
+business practices and improvements in the business 
+environment (Done-2011) 
+
+Development of Protocols of Cooperation between RCC and 
+other regulated sectors and  public agencies (ex. Telecom 
+regulator, Energy regulator, Procurement Authority) to 
+jointly implement pro-competitive and non-discriminatory 
+regulation 
+
+ 
+ 
+ 
+
+Completed 
+FBS Functional Review Competition Council 
+FBS Functional Review MEC & Business Environment 
+TA Accounting and Audit (FY11) 
+New 
+FBS TA Competition (compl.FY13) 
+Streamlining enforcement of competition policies  
+Strengthening of advocacy activities in the field of 
+competition 
+Implementing a new business architecture for the 
+Competition Council  
+Increasing HR capacity of RCC  
+
+o 
+o 
+
+o 
+
+ 
+
+o 
+
+14 The National Reform Program, an EU requirement, is the national response of member states to the Lisbon Strategy, through whi ch they explain how their development strategies are aligned with 
+the latter.  The NRP is updated annually and reviewed by the EC. Stating with 2011, the NRP has to be aligned with the objectives of the EU 2020 Strategy.  
+   The Europe 2020 Strategy sets the vision for the EU member countries beyond 2013.  Five measurable targets for 2020 steer the process of growth in the EU member countries and give them the 
+direction for reforms in employment, research and innovation, climate change and energy, education, and poverty alleviation. The expression of these reforms in national targets and the adoption of a 
+National 2020 Strategy require Romania to identify the priorities for intervention and the most appropriate actions for accelerating EU convergence.   
+15 Ranking reflects RCC staffing for competition enforcement and economic analysis and internal target deadlines to track performance 
+
+13 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                           
+RESULTS AREAS AND OUTCOMES TO WHICH THE CPS IS CONTRIBUTING 
+2.4 K-ECONOMY & DIGITAL AGENDA 
+
+Objective: Development of the K-based society and economy 
+
+ 
+
+Outcome 2.4.1: 
+Increased participation of K-disadvantaged 
+communities in K-based society/economy 
+Indicator: % of Population in disadvantaged communities using 
+the Local Community e-Networks as tool for education, business, 
+public administration and are satisfied with the results. Baseline 
+(2005) 0%. Target (2013) 40%. Actual: 25%. 
+Indicator: (new) Level of ICT integration in schools Baseline 
+(2007) 35%. Target 100% by 2013. Actual: 79%  
+
+ 
+
+2.5  RESEARCH, DEVELOPMENT & INNOVATION (RD&I) 
+
+Outcome 2.5.1: (new) Policy Recommendations available to the 
+Government that support RD&I Sector Reform (Done 2011) 
+
+2.6 EDUCATION 
+
+Objective (revised):  improved organizational capacity in the Education 
+Sector and access to quality education delivered in a fiscally sound 
+manner, with improved outcomes 
+
+Outcome 2.6.1: 
+Improved efficiency 
+in primary and secondary 
+education by providing more flexible financing, more autonomy and 
+enhanced accountability (focusing on results) to local authorities and 
+school principles  
+Indicator: Increase in average class size. (Baseline: 19.6 in school 
+year 2008/09. Target: 23 in school year 2013/14) (in progress - at 
+21.7 in 2011) 
+
+ 
+
+Outcome 2.6.2: Financial support to tertiary students in a more 
+equitable manner and with better incentives built into the support.  
+
+Outcome 2.6.3 (new): Analytical Work completed & Conceptual 
+Frameworks available to Government for development of the 
+Organizational Capacity 
+in the Education Sector (MERYS) and 
+improving Romania’s pre-university education system 
+
+2.7 AGRICULTURE  AND RURAL DEVELOPMENT (ARD) 
+
+Objective (revised): 
+ provide advisory, technical and financial 
+assistance to support the strengthening the administrative capacity 
+and efficiency of ARD sector and the market-based restructuring and 
+competitiveness of the Romanian agriculture 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MILESTONES  
+
+Local Community e-Networks  established (Done - 255 local 
+community networks (LCeNs) established in 208 K-
+disadvantaged communities and 47 small cities) 
+Support for EU Funds Absorption:  812 new projects 
+addressing community needs were developed by LCeNs 
+users and declared eligible for financing with EU structural 
+funds (for a total of €240M)  
+Increased access to quality education through ICT 
+connectivity, knowledge and use  (502 primary and 
+secondary schools with some 89,000 students – KE Prj) 
+
+New Agricultural Research Law (Enacted in 2009) 
+Reform of four agriculture research institutes (Done - 2009-
+10) 
+Functional Review16 of the Research, Development and 
+innovation sector (Done)  
+
+Legislation adopted to enable per capita financing in 
+education (Done – at country level vs. eight counties 
+envisaged, starting with school year 2010/11).  
+
+Analytical foundation developed, to support the 
+optimization of the schools network, and was share with the 
+Ministry of Education, Research, Youth and Science 
+
+Student Loan Scheme developed and discussed with 
+Government & stakeholders (Done) 
+First disbursements from student loans scheme begin 
+starting with the school year 2011/12 (On hold because of 
+crisis constraints) 
+
+Proposal for modified organizational structure of the 
+Ministry of Education, Research, Youth, Science (MERYS)  
+submitted to the Minister   
+
+Integrated agricultural offices rolled out nationwide (pilot 
+established –MAKIS; roll out delayed because of new 
+strategy for establishment of Agricultural Chambers) 
+
+WBG INSTRUMENTS
+
+13 
+
+Ongoing 
+Knowledge Economy Project (KE) 
+
+ 
+
+ 
+
+Completed 
+FBS Functional Review Research, Development, Innovation 
+(FY11) 
+Ongoing 
+MAKIS project (Agricultural research sub-comp) (cl. FY12) 
+Completed: 
+Rural Education project (cl. FY09) 
+HD Policy Briefs (FY09) 
+TA Decentralization of primary and secondary education 
+(FY09) 
+Public Expenditure& Institutional Review update (FY10) 
+TA Student Loan Scheme (FY11) 
+FBS Functional Review Pre-University Education (I + II) 
+(FY11) 
+FBS Functional Review Higher Education (FY11) 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+Ongoing: 
+Knowledge Economy (KE) – Digital Literacy in Schools sub-
+component 
+Social Inclusion Project – Early Childhood Education  
+IFC financing in private education 
+New:  
+FBS TA School Network Restructuring (compl. FY13) 
+FBS TA Development of the Organizational Capacity of the 
+Ministry of Education (compl. FY13) 
+Skills and Competitiveness 
+Completed:  
+FBS Functional Review on Agriculture (FY11) 
+
+ 
+ 
+
+ 
+
+ 
+
+Systematic survey and registration of land property titles in 
+
+Ongoing 
+Irrigation Reform & Rehabilitation (cl. FY12) 
+
+ 
+
+16 RD&I sector Functional Review covers legal framework and governance, funding, alignment to national priorities, transmitting RD &Innovation to the private sector, private sector participation 
+
+14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                           
+selected rural areas (in progress) 
+
+MILESTONES  
+
+Piloting of socio-economic advisory services  
+Training and certification of 300 advisors in socio-economic 
+advisory services) 
+
+WBG INSTRUMENTS
+
+13 
+
+ 
+ 
+
+ MAKIS project (cl.FY13) 
+CESAR project (cl. FY13) 
+IFC direct lending to agribusiness projects and support to 
+local financial institutions which provides MSMEs lending 
+and agriculture financing 
+
+RESULTS AREAS AND OUTCOMES TO WHICH THE CPS IS CONTRIBUTING 
+
+Outcome 2.7.1: Increased capacity of RO advisory and information 
+systems to provide services to farmers and agro-processors in the 
+context of EU membership 
+Indicator : Number of trained and graduated advisors Target 
+(revised upward) 2000 by 2013 vs. 0 in 2008 
+
+ 
+
+Outcome 2.7.2: Improved convergence of Romania toward EU practice 
+in ARD (in line with the National Rural Development Plan 2007-2013) 
+Indicator: Handbook of Socio-Econ Guidance based on EU best 
+practice available to farmers (Volume I completed) 
+
+ 
+
+Outcome 2.7.3 
+(new): 
+Increased efficiency of operational 
+management at MADR and selected structures 
+Indicator: New Internal Management System in use by MARD’s 
+and subordinated structures’ management 
+
+ 
+
+Outcome 2.7.4 (new): Increase in EAFRD17 funding to Romanian 
+beneficiaries. Baseline: 20% of EAFRD allocation.  Target: 40% of 
+EAFRD allocation by 2013 
+
+2.8 ENERGY AND ENVIRONMENT 
+
+Objective:  Support Romania in implementing its energy strategy in 
+line with EU Directives, 
+including EU 20-20-20 targets, and 
+implementing selected environmental directives 
+
+Outcome 2.8.1: Increased security of electricity supply through 
+integration of regional markets and  attracting private sector18  in the 
+development of energy markets 
+Indicator 1: Develop energy transmission services, including 
+availability of ancillary services for stronger integration into 
+regional markets, and absorption of energy generated by 
+renewable sources (Done) 
+
+ 
+
+Outcome 2.8.2 (new): Reduction of probability of severe accidental 
+mine spills in the Tisza basin 
+Indicator: Risk reduced by at least 70% (via remedial works) 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Strategies/ tools/ procedures for strengthening the admin 
+capacity and efficiency of ARD sector (per FB TA Agriculture 
+program) developed and applied by MARD (by 2013) (new) 
+
+Proposal on structure and operation framework for  an 
+Advisory Board on ARD Strategy finalized and delivered to  
+the Government (new) 
+
+Evidence of restructuring the farming sector  (partial 
+progress: reorganization of Romanian extension system, 
+reform of agric. Research, reform of irrigation subsidy and 
+tariff setting mechanisms, phasing out of irrigation 
+subsidies, more participatory approach in irrigation: Water 
+Users Organizations operational). 
+Romania and its electricity market and power system 
+operates with help of ancillary services from Lotru Rrj 
+(Done) 
+ Privatization of Banat and Dobrogea electricity distribution 
+companies (Completed with support of a Partial Risk 
+Guarantee)  
+
+Best practice knowledge and procedures on 
+environmentally friendly mine closure transferred to 
+Romanian counterparts and implemented (Done Mine 
+Closure Project) 
+
+Analytical Work completed (including adaption options and 
+greenhouse gas emissions management) and available to 
+the Government for elaboration of a Climate Change 
+Adaption Strategy 
+
+o 
+
+ 
+ 
+
+New 
+FBS Functional review Land Administration (FY12) 
+FB TA Agriculture & Rural Development (compl. FY13) 
+Strengthening ARD sector strategy formulation in the 
+Ministry of Agriculture and Rural Development (MARD) 
+Strategic Planning for the Agricultural Administration 
+Implementation of an Internal Management System at 
+MARD  
+Creating and Implementing an Integrated Financial 
+Management IT System at MARD 
+
+o 
+o 
+
+o 
+
+ 
+ 
+
+Completed:  
+Energy Community in SEE (cl.FY10) 
+Privatization risk Guarantee Privatization for Banat and 
+Dobrogea electricity distribution companies (Discoms) (cl. 
+FY11) 
+FBS Functional Review Ministry of Economy / Energy 
+(compl. FY11) 
+FBS Functional Review Environment and Forestry (compl. 
+FY11) 
+
+ 
+
+ 
+
+ 
+
+Ongoing 
+Hazards Risks Mitigation and Emergency Preparedness 
+Project – GEF sub-component (cl.FY12) 
+Integrated Nutrient Pollution Control Project and GEF grant 
+(cl.FY13) 
+ Municipal Services Project (cl.FY12) 
+ Mine Closure and Socio-Economic Regeneration (MCSER) 
+Project (cl.FY12) 
+IFC support to local financial institutions which provided 
+
+ 
+
+Outcome 2.8.3: 
+Directives  
+
+Implementation of the EU Water and Nitrate 
+
+ Water and Waste Water Master Plans for 11 counties 
+completed and adopted by final beneficiaries (Done) 
+
+17 European Agricultural Fund for Rural Development 
+18 Increasing the participation of the private sector remains below expectations because of potential risks to the functioning of the electricity market  - specifically GoR plans to consolidate state-owned power 
+generation and coal/lignite mining companies into 1-2 integrated mining and power generation companies.  
+
+15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                           
+ 
+RESULTS AREAS AND OUTCOMES TO WHICH THE CPS IS CONTRIBUTING 
+
+ 
+
+Indicator : Favorable EU assessment of Romania's progress 
+towards meeting EU Nitrates Directive requirements 
+
+Outcome 2.8.4  (new): Increasing EU Funds absorption  
+Indicator 2:  EU grant amount attracted with Bank TA Target: € 
+1bn by 2013 
+
+ 
+
+2.9  TRANSPORT , HAZARDS RISKS MITIGATION 
+
+Objective (revised): Improve the transport sector’s governance, 
+operational and financial sustainability, including the efficiency of the 
+roads and railways sub-sectors 
+
+ 
+
+Outcome 2.9.1: Improved road safety (dropped-Transport projects 
+closed w/out reaching target) 
+Indicator: Fatalities per 10,000 vehicles. Target: 5 in 2009 vs. 6.7 
+in 2008 (dropped) 
+Outcome 2.9.2: (new) Improved Ministry of Transport capacity to 
+consistently implement a general strategy that links each strategic 
+item to the overall strategy. 
+Indicator: New strategy approved and translated 
+into the 
+approved Investment program for 2014-2020 and in the 2013 
+and 2014 proposed budgets. 
+
+ 
+
+ 
+
+Outcome 2.9.3: Improved emergency preparedness and response 
+management in Romania 
+Indicator: An Emergency Communication System is created and 
+operational (EMIS elaborated) 
+Indicator: The Emergency Management Information System is 
+extended to include all central and local administration units (in 
+progress) 
+Indicator (revised):  Seismic retrofitting of 40 or more public 
+buildings, flood protection works completed 
+in 10 critical 
+locations, (significant progress) 
+
+ 
+
+ 
+
+MILESTONES  
+
+At least 80 percent of targeted Nitrates Vulnerable Zones 
+show 10 percent reduction in nutrient discharge in water 
+bodies (work in progress) 
+
+Percentage of population in targeted NVZ area adopting 
+preventive and remedial measures to reduce nutrient 
+discharge (work in progress) 
+
+WBG INSTRUMENTS
+
+13 
+
+ 
+
+energy efficiency lending. 
+IFC direct lending to power projects and to renewable 
+energy projects (wind and/or biomass). 
+
+New 
+
+ 
+ 
+
+ESW/TA Climate Change (FY12) 
+New DPL (DDO) TBC 
+
+TRANSPORT 
+
+Road safety activities not done (the Road Agency decided to 
+implement the activities under an EU financed program, 
+than re-considered, but no action taken. 
+Reduction of traffic congestion not achieved – main physical 
+output-by passes construction program-was not finalized.  
+
+Officially approved national transport sector strategy, and 
+translation into the approved investment program for 2014-
+2020 and the 2013 and 2014 proposed budgets. 
+Public Private Partnership strategy included in the national 
+transport strategy in line with EU directives 
+
+HAZARDS RISKS MITIGATION 
+
+Risk assessment of public buildings, dams and waste 
+deposits is undertaken, based on country regulations to 
+enable prioritization of investments (Done) 
+
+Short term investment and financing plans prepared in 
+accordance with risk assessment & prioritization (Done) 
+
+Completed 
+Transport Restructuring Project (cl. FY10) 
+Transport Sector Support Project (cl. FY10) 
+ FBS Functional Reviews Transport (compl. FY11) 
+
+ 
+ 
+ 
+
+ 
+
+Ongoing 
+Hazards Risks Mitigation and Emergency Preparedness 
+Project (cl.FY12) 
+IFC support financing of private sector in financing PPPs 
+
+ 
+
+New 
+FB TA Transport Strategy (compl.FY13) 
+FB TA Public-Private Partnerships (compl.FY13) 
+FB  TA Railway Strategy (compl. FY13) 
+New DPL (DDO) TBC 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+GOALS:  in the short-term, protect the vulnerable from the adverse effects of the crisis; in the medium -term, promote social inclusion and regional development. 
+Issues and Obstacles as identified in 2009:  The crisis will temporarily increase the number of poor people, especially those involved in service and manufacturing industries.  The long -term poor in rural areas 
+and among some population groups remain hard to reach.  Some of the social assistance programs are not well targeted.  The pe nsion system can be important for poverty reduction, but is currently running a 
+deficit and does not reach all those who need it.  Romania’s health indicators are lagging the average of those in the EU in important areas. 
+
+CAS PILLAR 3: SOCIAL AND SPATIAL INCLUSION 
+
+16 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RESULTS AREAS AND OUTCOMES TO WHICH THE CPS IS CONTRIBUTING 
+
+MILESTONES  
+
+WBG INSTRUMENTS
+
+13 
+
+3.1 SOCIAL INCLUSION  
+
+Objective: assist Romania to improve the social inclusion and living 
+conditions of  most disadvantaged and vulnerable people in the 
+Romanian society 
+Outcome 3.1.1:Improved social inclusion of Roma living in poor 
+settlements reduced 
+Indicator: Gap in living condition index between targeted Roma 
+settlements and neighboring communities 
+Baseline: 504 points19 Target: 403 points (20% reduction of gap 
+2013 vs. 2008 level)  
+
+ 
+
+ 
+
+ 
+
+ 
+
+79% of the disadvantaged localities in the former mining 
+areas reached by Socio-Economic Regeneration (SER) 
+measures extended under the Mine Closure project 
+
+Improvements in water and road infrastructure evident in  
+targeted Roma communities (in progress) 
+
+Roma in poor settlements report a closer link (through 
+annual consultations) with the local authorities, for 
+addressing community needs. (In progress)  
+
+Outcome 3.1.2: Increased inclusiveness of children in disadvantaged 
+groups in Early Childhood Education services  (SIP targeted areas) 
+Indicator: Percentage point increase in number of children in 
+disadvantaged groups participating in ECE programs 
+Target: 5 percent in 2013 vs. almost none in 2007  
+
+ 
+
+3.2. SOCIAL ASSISTANCE 
+
+Objective:  improve the cost effectiveness and targeting of social 
+assistance programs to mitigate the impact of the crisis on the 
+vulnerable, and promote activation policies 
+
+ 
+
+ 
+
+Outcome 3.2.1: increase the coverage and adequacy of the most 
+efficient and well targeted social assistance program - the Guaranteed 
+Minimum Income (GMI)  
+Indicator : Number of unpaid GMI entitled beneficiaries  
+Target: 0 by 2013 vs. 25 percent in 2009 (in progress20) 
+Indicator :  Maintain level of benefit adequacy over time (share 
+of benefits in average household consumption) 
+Target: 25%  in 2008 is maintained 
+Outcome 3.2.2 (new): Improved Social Assistance equity (targeting of 
+poorest people) and efficiency (lower admin costs) 
+Indicator: Share of SA funds going to poorest quintile Baseline: 
+37.7% in 2009. Target: 45% by 2013 
+Indicator: Administrative and client participation costs for 
+means-tested programs.  Baseline: TBD Target: Reduction by 20% 
+Outcome 3.2.3: Consolidate SA programs to better serve poor in most 
+
+ 
+
+ 
+
+(Note: Indicator to be measured when kindergarten works are 
+completed) 
+
+ 
+
+Legislation to improve funding and design  of well targeted 
+social assistance programs (e.g., GMI) is passed (Done) 
+
+ More transparent and predictable GMI budget allocations & 
+benefits (Done) 
+
+ 
+
+ 
+
+Enactment of 
+legislation on 
+income-tested 
+child 
+allowances21 that offers higher benefits to households 
+earning less than 200 RON/month and to Lone Parent 
+families. (approved by Parliament end 2010 –DPL3). 
+
+Harmonized means-testing for GMI, family allowance and 
+heating benefits (same) 
+
+ Monthly monitoring reports for 4 programs22 to be 
+produced by National Agency for Social Benefits starting 
+2011(in progress) 
+
+Completed 
+Rural Education Project (cl. FY10) 
+
+ 
+
+ 
+
+Ongoing 
+Social Inclusion Project (cl. FY13) 
+ Mine Closure and Socio-Economic Regeneration   (cl.FY12) 
+FBS Functional Review Regional Development and Tourism 
+(FY11) 
+
+ 
+
+New 
+Results Based Modernization of Social Assistance Project (cl. 
+FY13) 
+
+ 
+
+Completed:  
+Programmatic Poverty Monitoring Program (FY08) 
+DPL 1-2 (FY10  / FY11) 
+FB Functional Reviews Labor and Social Protection (FY11) 
+
+ 
+ 
+ 
+
+Ongoing 
+Social Inclusion Project (SIP) (cl.FY13) 
+
+ 
+ 
+
+New 
+DPL 3 (FY12) 
+Results Based Social Assistance System Modernization 
+Project (cl. FY13) 
+Europe 2020 - Reducing Poverty and Social Protection 
+
+ 
+
+19 Gap between targeted settlements and neighboring communities (measured in points) as calculated for 81 pairs of communities by RSDF 
+20 Significant progress through combined effect of stronger enforcement of eligibility conditions (which has discontinued  GMI payments to 12% of recipients) and increase of the number of families to benefit 
+by the GMI (by 15%) 
+21 The income tested allowances are  the complementary child allowance (CCA) and the lone parent allowance (LPA) 
+22 Family Allowance, Child Raising Benefits, Guaranteed Minimum Income, State Child Allowance 
+
+17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                           
+RESULTS AREAS AND OUTCOMES TO WHICH THE CPS IS CONTRIBUTING 
+
+ 
+
+cost efficient manner 
+Indicator:  One consolidated program for low-income households 
+Baseline: fragmentation of SA (too many programs) Target: One 
+consolidated program for low-income households by 2013 
+
+3.3. SOCIAL INSURANCE  
+
+Objective: strengthen the fiscal viability, integrity and equity of the 
+multi-pillar pension system 
+
+ 
+
+Outcome 3.3.1: Improved fiscal sustainability of the public, pillar 1 
+pension.  
+Indicator : Deficit of Pension Pillar 1 
+Target: Deficit (2.95% in 2011) ≤ by 2013  (target was revised 
+upward. The consolidation in 2010 of special pension systems –
+army, internal affairs- into the public pension system pushed the 
+deficit to 2.95%. →Deficit decrease by 0.5% is now unrealistic) 
+Indicator : Retirement age equalized 
+Target (revised): Gradual increase of retirement age for women 
+to 63 (vs. 65) (in progress per new Pension Law 263/2010) 
+Outcome 3.3.2: Improved equity of pension system  
+Indicator:  Introduction of a zero pillar to cover elderly poor  
+(dropped ) 
+
+ 
+
+ 
+
+3.4. HEALTH SECTOR 
+
+Objective: 
+support 
+the design and 
+implementation of 
+the 
+Government’s health sector reform program to improve efficiency and 
+quality of health services; mobilize additional resources for health and 
+improve health outcomes 
+
+ 
+
+ 
+
+Outcome 3.4.1: Better efficiency and quality of health services 
+Indicator: Annual rate of admission to acute care facilities. 
+Baseline: 229 per 1,000 people; Target: below 200  by 2013 
+Indicator : Share of generic drugs  in total compensated  drug 
+expenditures (revised and in progress) Baseline: 40% in 2008. 
+Target: >=45% by 2012 
+Indicator: 24-hour death rate among patients treated in ER and 
+then admitted to hospital. Target: Decrease by 10 percent in 
+2013 vs. 2007 (in progress) 
+Indicator: Maternal Mortality Ratio 
+Baseline of 0.24%o in 2004 Target: Reduce by 20 percent by 2013 
+(in progress) 
+
+ 
+
+ 
+
+Outcome 3.4.2: Additional resources for health mobilized 
+transparent and equitable manner 
+Indicator : Amount of copayment raised 
+Indicator: Coverage of copayment exemption among eligible 
+population.  Baseline: no compayment legislation. Target: < 50% 
+by 2012 (upon approval of legislation) 
+
+ 
+ 
+
+in a 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MILESTONES  
+
+Thematic 
+Inspections of major SA programs being 
+undertaken annually and remedial action plans produced ( in 
+progress). 
+
+Legislation enacted on the public pension unitary system to 
+gradually link  state pension adjustment to inflation  (Done - 
+DPL2 prior action) 
+
+The new adopted legislation on retirement age (DPL2 prior 
+action), , would gradually equalize through 2030 the 
+retirement age of women and men at the age of 65   
+
+WBG INSTRUMENTS
+
+13 
+
+ 
+ 
+ 
+
+Completed 
+Policy Briefs (FY09) 
+Poverty Assessment Series (Phases I and II) (FY08-09) 
+Rapid Assessment of Impact of Economic Crisis on Poverty 
+(FY09) 
+TA Poverty and Social Policy (FY10) 
+TA Rural Elderly Pension Scheme (FY11) 
+DPL1-2 (FY10 / FY11) 
+
+ 
+ 
+ 
+
+The TA on Elderly Farmers Pension Scheme completed (and 
+concluded that a Zero pillar social pension contravenes the 
+Social Assistance Strategy) 
+
+New 
+DPL 3 (FY12) 
+
+ 
+
+Adoption of the updated Hospital Rationalization Strategy 
+through a Government Decision 
+in/by 2010 -National 
+Strategy prepared with Bank TA was posted on the MoH site 
+for public consultations.  An updated draft would  be 
+presented for Cabinet approval in 2011 
+
+ 
+ 
+ 
+
+Completed 
+HD Policy Briefs (compl.FY09) 
+DPL 1-2 series (FY10 / FY11) 
+IFC  advisory services and financing to support  private 
+sector participation in the health sector 
+FBS – Functional Reviews Health (FY11) 
+Health & Education TA support for DPL (compl.FY12) 
+
+ 
+ 
+
+Adoption of the Rural Primary Care Strategy in/by 2010 - 
+Work  initiated–TA under procurement (Health APL2)  
+
+Ongoing 
+Health Sector Reform APL2 Project (cl. FY12) 
+
+ 
+
+New 
+DPL 3 (FY12) 
+Pipeline Health Project (instrument TBD) (cl. FY14) 
+New DPL (DDO) TBC 
+
+ 
+ 
+ 
+
+Adoption of the legislation of the revised benefit package, 
+including (i) the introduction of copayments (pending) and 
+exemption mechanisms for the poor and (ii) transparent 
+mechanisms for inclusion of new technology and new drugs 
+in the benefits package (DPL 3 trigger). Legislation 
+regarding co-payment mechanism (amending Law 95/2006) 
+sent to Parliament but not yet approved. 
+
+Approval of a new  legal framework for drug prescription 
+management   (revised DPL3 prior action).  
+
+Adoption of  legislation for voluntary health insurance 
+(dropped) 
+
+18 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MILESTONES  
+
+WBG INSTRUMENTS
+
+13 
+
+RESULTS AREAS AND OUTCOMES TO WHICH THE CPS IS CONTRIBUTING 
+
+ 
+
+Indicator: Percent of households with voluntary insurance.  
+Baseline: NA; Target: 10 percent (dropped) 
+
+Outcome 3.4.3 (new): Rationalization of  medical services provision 
+and integration of the services as nation – wide networks 
+
+ 
+
+Indicator : Reclassification of 100% hospitals based on new 
+Strategy criteria  (Done, 2011) 
+
+ 
+
+Indicator: Health Networks operational (per new Strategy) 
+
+Baseline: None. Target: At least 4  regional or local health 
+national networks functionally and legally established, including 
+its Tertiary Hospital by 2013 
+
+19 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annex 2: Proposed CPS framework based on strategic pillars and cross-sectoral themes (current and new activities in FY12) 
+
+CPS Pillars / cross-
+sectoral themes 
+
+Europe 
+2020 
+
+1. Policy reforms to reap 
+benefits of EU 
+membership 
+
+2.Modernization of public institutions 
+to enhance resources allocation and 
+absorption of EU funds 
+
+3.Complementing EU financing 
+
+1.Public sector reforms 
+1.1.Public financial 
+management 
+1.2.Public 
+administration reform 
+1.3.Governance  
+2.Growth and competitiveness  
+
+2.1.Financial sector 
+
+2.2.Business env. and 
+competition 
+2.3. K economy Digital 
+agenda  
+2.4.Research Devpt 
+Innovation 
+
+smart 
+
+ PREM MAP, DPL2 
+
+PREM MAP, CoG MAP 
+
+Tax admin, DPL 3, DPL2, PEFA, 
+policy notes 2, DPLDDO23 
+
+PREM MAP 
+
+PREM MAP, ACIS TA, ANRMAP TA 
+
+IDF 
+
+Judicial Reform Project 
+
+MAP justice FR 
+
+CC TA (MAP) 
+
+CC TA (MAP) 
+
+KE 
+
+2.5.Education  
+
+EDU1 MAP, SIP 
+
+EDU2 MAP 
+
+SIP, KE 
+
+2.6.Agriculture and 
+rural development 
+
+2.7.Energy and 
+Environment 
+
+2.8.Transport, hazards 
+mitigation 
+
+ARD MAP,  Irrigation 
+Rehab. 
+
+ARD MAP, ANPCI FR, MAKIS, 
+CESAR 
+
+sustainable 
+
+INPCP, Mine Closure 
+
+TRANSP MAP,  Hazards 
+Mitigation 
+
+CESAR, Irrigation Rehab. 
+
+INPCP, Municipal Serv, Mine 
+Closure, climate change TA 
+
+Hazards Mitigation 
+
+3.Social and spatial inclusion 
+
+3.1.Social inclusion  
+
+3.2.Social assistance  
+
+SASM 
+
+inclusive 
+
+3.3.Social insurance 
+
+3.4.Health  
+
+APL2 
+
+SIP 
+
+SIP, citizen scorecard ESW 
+
+SIP, SASM 
+
+SIP 
+
+APL 2, Health 
+
+Legend:                    in active portfolio     in pipeline      new activity in FY12 
+
+23 Details to be clarified in the upcoming weeks 
+
+20 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                           
+Pillar 1: Public sector reforms 
+
+Annex 3 - CPS Results Summary 
+
+The CPS has been effective in supporting the fiscal sustainability targets in the 2009-2012 GoR program 
+as well as fiscal reforms that are critical to the GoR medium-term agenda. The CPS has complemented 
+the EU and IFM programs and has helped create the premises for improved budget discipline, 
+accountability, efficiency and sustainability of  public wage bill. 
+The CPS contribution (through the Judicial Reform Project) to strengthening the efficiency and 
+accountability of the judiciary has been only partially successful (progress still required in optimization 
+of courts procedures, transparency, etc).  
+
+1.1 PF Management : Fiscal sustainability has improved  
+ MTEF 2009 approved by GOR (DPL1); MTEF 2010-12 submitted to EC through the Convergence 
+Program 2009-12, including fiscal risk analysis (DPL2); MTEF 2011-13  approved by Parliament 
+with ceilings for selected spending ministries 
+ 1.1.1 Fiscal Responsibility Law 69/2010 enacted (partnership with IMF) 
+ 1.1.1 Fiscal Strategy 2011-2013 approved by GOR and sent to Parliament and the Independent 
+Fiscal Council –now operational 
+ 1.1.1 Revenue boosting measures adopted (VAT, social contributions, excises, property taxes) 
+ 1.1.2 Improvement in Wage Bill sustainable growth in 2010: wage bill increased below inflation rate 
+(2% vs. 5.6%) and has remained below 2009 level as percentage of GDP 
+ 1.1.2 Functional Reviews of the Public Administration on-going and likely to help improve pay 
+practice 
+
+1.2 Public Administration Reform: Public Pay Reform Agenda is in progress, Functional review of 
+Public Administration in progress  
+ 1.1.2 Unitary Pay Law 330/2009 which reduces non-wage bonuses and allowances approved and 
+gradual implementation in progress.  
+ 1.1.2 Subsidiary pay legislation  approved by Parliament, pay adjustments in 2011 in accordance 
+with UPL targets, new regulations  approved by Government to reduce the use of temporary 
+appointments for positions in the public administration   
+ 1.1.2 Reduction of non-wage personnel expenditures in progress 
+
+1.3 Governance: Limited progress in the area of judiciary efficiency and accountability. Targets 
+(under JRP) re-designed in line with GoR needs and likely to be achieved  
+Strengthening the Capacity of Courts 
+ 1.3.0. Development of a Resource Management System for the  Justice sector in progress 
+ 1.3.2 Superior Council of Magistracy (SCM) 24 finalized its contribution to the Terms of Reference 
+for the Optimization of Courts  TA (to be contracted by Oct 31, 2011).  
+ New Civil and Criminal Codes and related procedure Codes adopted by Parliament; TA for 
+preparation of enforcement ongoing. 
+Institutional Development and Reform of the Judiciary 
+ 1.3.2 SCM has assumed the function of policy formulation and performance monitoring 
+ 1.3.2 SCM has adopted the new training syllabus for the National School of Clerks 
+ 1.3.2 Magistrates recruitment regulations modified and including qualification examination 
+procedures 
+ 1.3.3. New/amended Civil and Criminal Codes and related procedure Codes adopted by Parliament; 
+TA for preparation of enforcement ongoing. 
+EU2020 
+ 1.3.4 Support to GoR for ensuring the reflection of Functional Reviews into the National Reform 
+Plan  
+
+24  The Optimization of Courts TA is the major Judicial Reform project TA that supports this outcome. The TA will  generate 
+Uniform standards for the Courts operational processes and optimization recommendations for the Courts activity. Contract yet to be 
+signed (by Oct 31, 2011)  
+
+21 
+
+ 
+ 
+ 
+ 
+ 
+ 
+                                                           
+Pillar 2: Growth and Competitiveness  
+
+Bank assistance was successful in helping maintain the viability and stability of the financial sector. The 
+CPS envisaged responses to address solvency problems derived from the financial crises by supporting 
+the preparation of the Guidelines on Corporate Debt Restructuring and Mortgage Debt Restructuring, 
+as well as the amendment of the Insolvency Law to remove obstacles to out-of-court corporate debt 
+restructuring. The review of competition policy helped to focus priorities on achieving full integration of 
+Romanian markets with the EU. The review of the national innovation system set priorities to promote a 
+knowledge-based economy, in line with the EU2020 strategy. Bank support helped improve the quality 
+of education in a fiscally sound manner. A mix of AAA and project lending contributed to encouraging 
+results in agriculture and rural development (ARD), and hazards mitigation. Progress was made in 
+meeting the energy and environment CPS objectives.   
+
+2.1 Financial Sector: all Indicative Milestones achieved. Bank system remains well capitalized, 
+solvency levels relatively high.  
+ 2.1.1 NBR undertook  bank stress test to serve as input into its Strategic Action Plan (TA-FSA) 
+ GoR prepared (DPL1, TA-FSA) a Strategic Action Plan for strengthening the Financial Sector (incl. 
+methodology of potential interventions in the resolution of illiquid Banks) 
+ 2.1.1 Regulatory framework for Bank resolution, mortgage and corporate debt restructuring was 
+improved  
+ 2.1.1 The Law on the Political Independence and Financial Autonomy of Financial Sector 
+Regulators and Supervisors passed by Parliament. 
+ 2.1.2 Internal regulations for Basel II policy & accreditation decisions adopted by NBR (TA – 
+Financial Sector Update) 
+ 2.1.2 Improved definitions of “Financial Conglomerates” (Ordinance 98/2006) and supervisory 
+arrangements (by NBR, Private pension Supervision Commission, Insurance Supervisory 
+Commission, National Securities Commission) 
+
+2.2 Business Environment25 :  Improvement of insolvency and bankruptcy regulations 
+ 2.2.1 Improvement of insolvency and bankruptcy regulations (pre-insolvency procedures introduced 
+in 2010, special insolvency departments created with Romanian courts, rules on out of court 
+settlements for bankruptcy) (DPL2-prior actions) 
+ 2.2.1. Functional review of the RO Competition Council & Recommendations for its strengthening 
+(FRs) 
+2.3 Knowledge Economy  and Digital Agenda  
+ 2.3.1Through the Knowledge Economy project, 255 knowledge disadvantaged communities now 
+have access to and use the Information and Communication Technology (ICT)-based resources in 
+schools, local public administrations, public libraries and public points of access. Specific assistance 
+has been provided to increase the digital competencies and for the utilization of ICT resources in 
+pre-university education.  
+ 2.3.1By July 2011 812 new projects addressing community needs were developed by LCeNs users 
+and declared eligible for financing with EU structural funds (the total value of the projects declared 
+eligible is €240M) 
+2.4 Research, Development and Innovation 
+ 2.4.1. Functional review of the Romanian Research Development and Innovation system & 
+Recommendations for its strengthening (FRs) 
+ 2.4.2. Reform of agricultural research (legislation, governance and coordination, core financing; four 
+research institutes have implemented reform plans  - MAKIS) 
+
+2.5 Education:  Significant progress  
+ 2.5.1 GoR, with DPL support,  has shifted to per-student financing (starting with 2010-2011 school 
+year). This is a fundamental structural budget reform that aligns labor and capital in the sector to the 
+number and location of students.GOR decided to introduce per-capita financing for the entire school 
+
+25
+
+ However business taxation remains costly and cumbersome and Romania ranks second but last regarding the number of tax payments accordi ng to 
+last Doing Business Report 
+
+22 
+
+ 
+ 
+ 
+   
+ 
+                                                           
+system as of 2010-11 vs.  an initial program of piloting reforms in 8 counties  
+ 2.5.3 Functional Review Ministry of Education – Recommendations formulated and largely adopted 
+by GoR for strengthening the organizational structural of the Ministry for Education and improving 
+the quality and efficiency of pre-university and higher education. 
+
+2.6 Agriculture and Rural Development: Overall Progress although some CPS targets delayed 
+(namely: completion of irrigation sector strategy, systemic registration of land properly titles, delivery 
+mechanism of socio-economic advisory services ) 
+ Support for EU integration and Convergence 
+o Functional network of Border Food Safety Inspection Points  (MAKIS) 
+o 
+Improved food safety regulation (EU convergence target - MAKIS);  
+o 
+Improved information management systems (MAKIS - support to Paying Agency)  
+o 
+Improved farmers preparedness for the EU environment through delivery of socio-economic 
+advisory services (MAKIS) 
+o Revised National Rural Development Plan (2009) in line with EU requirements 
+ Reform and Rehabilitation of Irrigation System 
+o Substantial contributions to irrigation sector institutional restructuring & reforms (subsidies, 
+tariffs setting) (Irrigation Reform and Rehabilitation)  
+o Rehabilitation of selected irrigation schemes (Irrigation Reform project) 
+o 2.6.1 Supply of advisory services to farmers, agro-processors, researchers via Training and 
+Information Centers set under MAKIS project (Bucuresti, Cluj, Timisoarea, Iasi) – thousands of 
+persons reached. Awareness about the EU Common Agriculture Policy. 
+ Knowledge services - Functional Review(s) - Discussions ongoing to implement some if the FRs 
+recommendations under on-going projects – CESAR) 
+
+2.7 Energy, Environment:  
+ 2.7.1 Romania’s electricity market operates with ancillary services from the Lotru (Bank financed) 
+project (Energy community in SE Europe). With support by the Privatization Risk Guarantee two 
+Electricity Distribution Companies (Banat and Dobrogea) were privatized.  
+ 2.7.3 Knowledge and procedures on mine closure aligned to international best practice; 8 mines 
+closed in an environmentally friendly manner; 447 ha of rehabilitated land transferred by mining 
+companies to other parties (Mine Closure and Socio-Econ Regeneration) 
+ 2.7.3 Romania has participated – on a voluntary, non-binding basis – in the 2008 reporting on the 
+EU Environmental Directives, including the Nitrate Directive. (INPCP) 
+ 2.7.4 TA provided to Ministry of Environment under the Municipal Services project for preparation 
+of water & waste water projects 
+
+2.8 Transport, Hazards Mitigation 
+ 2.8.x Rehabilitation of 11 bridges affected by floods (emergency task added by GOR) 
+ 2.8.x Flood emergency repairs at 50 bridges (emergency task added at GOR request) 
+ 2.8.2 Functional Review & GOR Action Plan Ministry of Transport completed 
+ 2.8.3 Improved emergency preparedness through implementation of specific risk reduction 
+investment floods protection and dam safety (5 large and small dams retrofitted & reinforced), 
+earthquake (22 public buildings retrofitted) and landslides (Hazards Risk Mitigation Project). 
+
+Pillar 3: Social and Spatial Inclusion 
+
+Since CPS inception a number of reforms have been implemented, to improve the targeting and 
+efficiency of social spending. An example is the improved financing, administration and targeting of the 
+Guaranteed Minimum Income Instrument. The majority of disadvantaged localities in the former mining 
+areas benefitted from new socio-economic and employment opportunities. Progress was achieved in 
+improving the social and spatial inclusion of Roma communities (via community development work and 
+small investments in partnership with the  Romanian  Social Development Fund) as we ll as for the 
+participation of Roma children in early childhood education programs. In addition, budgetary support 
+lending (DPL2) promoted reforms to strengthen the fiscal viability, integrity and equity of the public 
+pension and increased cost-effectiveness in the health sector. 
+
+23 
+
+ 
+ 
+ 
+ 
+ 
+ 
+3.1 Social Inclusion: Indicative milestones partially met and in progress 
+ 79% of the disadvantaged localities in the former mining areas were reached by Socio -Economic 
+Regeneration (SER) measures extended under the Mine Closure & SER project 
+ US$25M in socio-economic regeneration micro projects ( income generation activities, social 
+services, human development ) for disadvantaged populations of former mining com munities (Mine 
+Closure & SER Project)  
+ 3.1.1 Sub-projects worth $20M for Roma communities (small infrastructure works, kindergartens)  
+in various stages of implementation (SIP) 
+ 3.1.1 50% of SIP Roma community members consider their living conditions improved 
+ 3.1.2 The partial impact on improving the lives of Roma communities and including  Roma children 
+in ECE programs already witnessed by various counterparts, incl. EU (SIP) 
+
+3. 2 Social Assistance: improved targeting and predictability of social programs 
+ 3.2.1 Legislation enacted (DPL1) to increased the eligibility threshold of GMI by 15%  
+ 3.2.1 More transparent and predictable GMI budget allocations & benefits (DPL2) through (a) 100% 
+financing of GMI from  the state budget; (b) GMI budget transferred to MLFSP; (c) transfer of 
+benefits payments from local budgets to NASB26 
+ 3.2.1 Revised draft legislation for the income tested family allowances to provide  higher benefits to 
+poorest families 
+
+3.3. Social  Insurance: Premises for increasing the public pension system sustainability  
+ 3.3.1 Pension legislation introduced to gradually link indexation of retirement benefits to inflation 
+and equalize retirement age between men and women (DPL2) 
+
+3.4 Health  Sector: Improving the financial sustainability of the sector 
+ 3.4.1 Legislation adopted to increase of tobacco excise and  improved framework for drug pricing  
+(DPL1) 
+ 3.4.1  Technical work and roadmap finalized for inclusion of new technology and drugs in the 
+benefits package using evidence based, transparent mechanisms (TA in support of DPLs) 
+ 3.4.2  Hospital rationalization strategy developed and consultations in progress (TA in support of 
+DPLs)  
+ Ministerial order issued on drug pricing and joint order to promote generic drugs in framework 
+contracts.  
+
+26 NASB – National Agency for Social Benefits 
+
+24 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                           
+Annex 4. Bank Support to the Government’s Public Administration Reform 
+via fee-based service activities 
+
+Work with the Government of Romania and the European Commission 
+
+The Government National Reform Program (NRP27) 2011-13 outlines reforms derived from the 
+objectives of the Europe 2020 strategy and informed by World Bank recommendations on key 
+sectors of the economy (the first phase of the Functional Reviews outlined below).  The NRP aims 
+to help achieve the country’s objective of convergence with the EU in terms of income and living 
+standards.  It proposes short and medium term priority reforms grouped in three areas: (i) measures 
+to consolidate the macroeconomic framework ; (ii) policy reforms to address root causes of 
+vulnerabilities; and (iii) administrative capacity building measures. 
+
+With support from the European Commission and the World Bank, the Romanian 
+Government has been undertaking far reaching reform to improve the functioning of its 
+public administration. The Bank has been providing its sector and technical expertise to support 
+this effort through a series of fee-based services, which has both informed the NRP and is now 
+supporting its implementation. This evolving program goes well beyond the original scope of the 
+Bank’s 2009-13 Country Partnership Strategy. 
+
+I. 
+
+Functional Reviews  
+
+Over the past year and a half, the Bank carried out functional reviews (FRs)28 of twelve public 
+institutions in Romania under the overall framework of the MoU signed in June 2009 between 
+the EC and the GoR.  Phase 1 (presented to Government in October 2010) covered six areas: 
+Public Finance, Transport, Pre-University Education, Agriculture and Rural Development, the 
+Center of Government, Competition Council. Phase 2 (presented to Government in March 2011) 
+covered: Environment and Forestry, Energy/Economy and Business Environment, Health, Labor 
+and Social Protection, Regional Development and Tourism, Higher Education, Research, and 
+Innovation).  The 12 reviews provide operational recommendations on strategic management, 
+organizational structure, sector governance, budgeting, and human resource management to help 
+guide structural reforms.  
+
+• 
+
+Cross cutting recommendations of the Functional Reviews 
+• 
+Improve strategies in Transport, Agriculture, and Education by aligning them to available medium term 
+resources and identifying programmatic trade-offs required for their implementation. 
+Strengthen procedures in General Secretariat of the Government and Ministry of Public Finance to assure that 
+new policies are approved only when financing is available over the medium term and rationalize existing 
+public investment portfolio so that projects can be implemented efficiently.  
+• Develop an annual Government work plan with deadlines for major legislative acts and increase consultation 
+with external stakeholders to improve the quality of policy analysis before adoption of new laws. 
+• Modernize Tax Administration through implementation of new technologies and reduce reliance on manual 
+procedures and regional office network 
+• Develop a new organization structure of the Ministry of Education so that it can exercise a more strategic role 
+over the sector and enhance accountability 
+ Create a more arms-length relationship between the Ministry of Transport and the state companies, starting 
+with the introduction of a professional board of directors and increased public accountability for performance 
+Strengthen the qualifications for entry into senior civil service positions to assure that experience is well-
+aligned to the needs of the ministry. 
+
+• 
+
+• 
+
+In the public finance sector, the FR covered the Ministry of Public Finance and identified 
+several key reform areas: (i) improving budget credibility and macro-fiscal discipline, (ii) 
+
+27 NRP 2011-13 (adopted in April 2011) 
+28 EUR 3.2 million received from EU Funds to carry out this work. 
+
+25 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                           
+strengthening the policy basis for budget preparation, (iii) modernizing budget execution and 
+treasury functions, (iv) improving capacity for absorption of EU funds, (v) modernizing revenue 
+administration, (vi) organizational reform, (vii) IT modernization, and (viii) developing a more 
+strategic management of human resources. Budget planning is also covered by the “Center of 
+Government” Functional Review. 
+
+In the agriculture and rural development sector, the FR covered all core functions in central 
+and regional branches of the Ministry of Agriculture and Rural Development, the two 
+agricultural paying agencies,29 and relevant subordinated and associated agencies. The FR 
+conclusions related mostly to (i) promoting changes in the sector governance through a bold vision 
+doubled by a system-wide strategy to set targets for meeting the vision, (ii) addressing the 
+operational management deficiencies which represent the most pronounced constraint to effective 
+policy and service delivery, (iii) enhancing performance through increased consolidation and co-
+location of institutions and through more integration or outsourcing of functions, and (iv) focusing 
+on the low-performing units to bring them up to speed with the high-performing ones.   
+
+In the transport sector, the FR focused on the Ministry of Transport and Infrastructure and 
+the largest land transport state owned enterprises (SOEs). The main conclusions relate to: (i) 
+promoting changes in the sector governance through an improved transport strategy, a rethinking of 
+the roles of government and SOEs and a better contracting of services requested by the state; (ii) 
+improvements in corporate governance of the main transport SOEs; (iii) greater efficiency of SOE 
+operations, especially to increase the absorption of EU funds; and (iv) the need to review policy for 
+public-private partnerships in the transport sector. The GoR has started measures to improve the 
+governance of some SOEs and to increase the efficiency of units responsible for EU funds 
+absorption for roads.  
+
+In the education sector, the FR focused on the Ministry of Education, Research, Youth and 
+Sport (MERYS) and its main subordinated agencies. Main recommendations included the need 
+to (i) reorganize the Ministry in the context of decentralization; (ii) improve the management 
+culture and practices of the sector, with a particular focus on the  balance between operational 
+management and strategic management  and on managers’ skills and accountability; (iii) improve 
+the capacity to absorb Structural Funds; (iv) optimize the school network; (v) improve the 
+availability, use and management of information; and (vi) enhance research on education.  
+
+Following the completion of the Functional Reviews, the Government prepared and approved in 
+December 2010, its action plans for Modernization of the Romanian public administration. 
+According to the MOU between the Government of Romania and the EU, the implementation of the 
+first set of action plans need to show progress. 
+
+II. Modernization of the Public Administration 
+
+The Government requested the Bank to support implementation of some of their action plans. 
+The Modernization of Administration Program of TA FBS program (to be financed from EU 
+Structural Funds) currently includes seventeen projects in FR Phase 1 ministries, estimated at about 
+US$30 million30. In addition to the FR related projects, the program includes three requests for 
+assistance on justice, procurement and EU funds absorption. Together with the DPL program, they 
+will offer options to advance structural reforms, to inform the NRP and ensure it reflects the thrust 
+of the Europe 2020 strategy. Line ministries of agriculture and rural development, education, public 
+finance, transport, justice as well as the Competition Council submitted for approval to the 
+Managing Authority their proposals for approval to be financed from EU funds. The first MAP TA 
+
+29 Agency for Payments and Interventions in Agriculture, and Paying Agency for Rural Development and Fisheries. 
+30 This may be subject to change depending on the legal agreements to be signed in the end 
+
+26 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                           
+whose financial request was approved in a previous batch of requests was signed on July 22, 2011 
+and aims to assist the Government at the central level in improving its institutional capacity to 
+facilitate policy coordination, ex-ante impact assessment, and the monitoring and evaluation of 
+public policies. Line ministries are expected to sign the contracts for assistance with the Bank by 
+December 2011/January 2012.   
+
+The overall WB assistance package is currently estimated at around US$30 million for a total 
+of seventeen projects in six sectors - public finance, agriculture and rural development, 
+transport, education, justice and competition31. Below is a synopsis of the proposed TA services 
+by sector32. 
+
+ Public Finance - five TAs. These projects include: (i) treasury/debt management; (ii) 
+strengthening macro forecasting capacity, (iii) improving communication with tax payers; 
+(iv) improving capacity in tax policy analysis; (v) strengthening human resource 
+management.  
+
+ Agriculture and Rural Development – five TAs. These projects focus on: (i) developing a 
+vision and strategy for capitalizing on the agri-food production potential; (ii) supporting the 
+strategic planning for agriculture and rural development administration; (iii) implementing 
+the management information system of the Ministry of Agriculture and Rural Development; 
+(iv) developing and implementing an integrated IT system for financial management. Also, 
+the Ministry of Administration and Interior officially requested for WB support in 
+conducting a dedicated Functional Review of the National Agency for Cadastre and Real 
+Estate Publicity (ANCPI) and of the institutions under its supervision, and to develop a 
+strategy and action plan for strengthening administrative, human resource and financial 
+capacity to improve efficiency and service delivery of the Agency. 
+
+ Transport and Infrastructure - three TAs. The three projects aim to, respectively: (i) 
+update the transport strategy and assist with its implementation, focusing on cost recovery 
+mechanisms in the transport sector and contracting arrangements with the main SOEs, 
+including the purchase of services; (ii) support the railway system with a particular focus on 
+the definition and refinement of public service contracts and increasing capacity for 
+applying EU policies; and (iii) support the implementation of public-private partnership 
+projects with a specific emphasis on the road sector.   
+
+ Education - two TAs33. These projects cover essential areas including: (i) development of 
+the administrative capacity of the Ministry, strategic management and institutional 
+leadership; (ii) school network optimization and management; and (iii) management of 
+information resources. At this stage, the Bank team considers its role in implementing 
+activities under the first two areas, as they are the most relevant and have the highest 
+potential impact over the short and medium term. 
+
+31 The following ministries have finalized proposals (called “project forms”) that would involve WB assistance: the Ministry of 
+Public Finance, the Ministry of Agriculture and Rural Development, the Ministry of Administration and Interior, the Ministry of 
+Transportation and Infrastructure, the Ministry of Justice and MERYS. In addition, the Competition Council submitted its own 
+project form for PODCA financing through the General Secretariat of the Government (GSG).  The Competition Council is not 
+subordinated to the GoR and therefore is not directly eligible for PODCA. 
+32 It should be noted that the total amount of a project form may be higher than the amount for Bank TA because part of the proj ect 
+activities may be implemented by the GoR itself or a third party (e.g., administration, or procurement of goods/services not provided 
+by the Bank). Also, the role of the WB will vary with each project form. In some cases the demand is for the Bank to have 
+responsibility for overall project management, in other cases for the WB to deliver directly some activities, and in others still for the 
+WB to supervise firms contracted by the ministry. 
+33 The Ministry of Education submitted the project proposals for approval to the funding Managing Authority without having 
+requested yet World Bank support for the implementation of these two projects. 
+
+27 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                           
+ Competition - one TA. The areas of probable intervention are the following: (i) revising the 
+legislative mandate of the Competition Council to promote competition; (ii) strengthening 
+competition advocacy in public and government bodies; (iii) implementing a new business 
+architecture in the Competition Council based on high quality and secure infrastructure, 
+tools and services for information and communication technology; and (iv) increasing 
+human resource capacity on competition matters in the Council as well as in ministries and 
+regulatory agencies. 
+
+ Justice – one TA. The project covers a functional review of the judicial system and the 
+main areas of WB intervention would cover the analysis and the provision of 
+recommendations for the following: (i) the organizational and functional design of the main 
+judicial institutions; (ii) the HR strategy and the making use of the budgetary allocations for 
+the judicial system; (iii) the IT management system (hardware and software); and (iv) 
+proposal for the setup of a system and business processes for identifying, mitigating and 
+solving the risks in the judicial system.  
+
+Action Plans were prepared and adopted by the Government based on the Phase 2 Functional 
+Reviews.  The Bank is ready to support implementation of those action plans upon request, 
+comparative advantage, and ability to deliver. 
+
+III. World Bank support to Absorption of EU Funds 
+
+The Bank has also been requested to support capacity building for absorbing EU funds . As of 
+end 2010, the absorption rate of EU structural funds for 2007-2013 was below 3 percent, leaving 
+about EUR 20 billion available. The Plan of Priority Measures for strengthening the capacity to 
+absorb structural and cohesion funds, approved by the Government in April 2011, could 
+significantly reduce barriers to absorption.  
+
+(i) 
+
+(ii) 
+
+The Government, in agreement with the EC, has requested the Bank to carry out an 
+analysis of legislative and policy impediments of EU funds absorption. This work has 
+been requested on a fee for service basis and the proposal is under discussion with the 
+Government.   
+Additionally, in November 2011, a new request has been made by the European 
+Commission and Government of Romania to IFI (EIB, JASPERS, EBRD, and World 
+Bank) support for various TAs to improve the absorption of Structural and Cohesion 
+Funds and to prepare the 2014-2020 programming period.  A list of requested TAs has 
+been provided to the IFIs and is currently under evaluation. Further discussions are 
+expected in the upcoming months between DG REGIO, the Ministry of European affairs 
+and IFIs on the possibilities to best respond to the request. 
+
+IV. 
+
+Procurement 
+
+The Bank has also been requested to do a Functional Review of procurement and is reviewing this 
+request with the European Commission, the Government and how it interrelates with the other TA 
+work.  
+
+28 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annex 5. Country needs and World Bank comparative advantage 
+
+29 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annex 6: Summary of Sectoral Consultations 
+
+General Objective 
+
+ Inform WB Country Partnership Strategy (CPS) Progress Report on the perceived stage of CPS 
+implementation and future role of the WB in selected policy sectors 
+
+Specific Objectives 
+
+ Open a participatory process in drafting the Country Partnership Strategy for 2011-2013 
+ Evaluation of the knowledge on the World Bank activities in Romania 
+ Assessment of the stage of implementation of the Country Partnership Strategy for 2009-10 
+ Identification of main risks and bottlenecks in implementing CPS 2009-2013  
+ Evaluation of the degree to which the directions of action/pillars respond to Romania’s 
+development needs 
+ Identification of the main directions for action (pillars, sectors, subsectors and assistance tools) 
+in implementing CPS for the period of 2011-2013. 
+
+Methodology 
+
+ Primary and Secondary Stakeholders Surveys34: two main target-groups have been identified 
+for carrying out the surveys: WB Project Management Units (PMUs), considered as CPS 
+primary stakeholders and representatives of NGOs, consultants, researchers, financial 
+institutions, international institutions and organizations, foreign investors, referred to as 
+secondary stakeholders group. Data collection period is December 2009 - February 2010. 
+Primary stakeholders’ survey was carried out on a number of WB 31 Project Management Units 
+(PMUs), while secondary stakeholders’ survey included a sample of 194 persons (mainly NGO 
+representatives). The response rates are 71% for primary stakeholders’ survey and 43% for the 
+secondary group. 
+
+ Sectoral roundtables35: in order to in-depth grasp the potential WB role in shaping future 
+development in Romania, eight sectoral roundtables have been conducted. More than 45 
+participants discussed key policy sectors: agriculture and rural development, climate change, 
+education, governance, the social sectors, health, public finance and smart growth (including 
+areas contributing to smart growth, such as: business environment, research, development and 
+innovation, competition and digital agenda). Participants included Government, private sector, 
+NGOs, trade unions and academic representatives. Discussion guidelines conducted in April-
+May 2011 covered the following topics: acceleration of EU funds absorption, technical support 
+for capacity development, implementation of the functional review recommendations, new 
+policy related to the EU 2020 Strategy and thematic policy notes.  
+
+Key findings 
+
+ General remark: the consultations process provided a forum for discussing essential needs for 
+country development among different stakeholders and has been positively appreciated by 
+
+34 Online survey for two target groups. For a complete list of methodological notes and results please refer to the 
+Primary Stakeholders Survey and Secondary Stakeholders Survey Final Reports, February 9, 2011. 
+35 For summaries of all eight sectoral roundtables please refer to Summary of WB Consultations, June 9, 2011. 
+
+30 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                           
+participants from both surveys as well as roundtables. The World Bank has a very positive image 
+in Romania, with potential role in various policy fields. 
+
+ Primary and Secondary Stakeholders Surveys   
+o Primary and secondary stakeholders were not involved in consultations for CPS 2009-2013. 
+o WB Pillars of Growth respond to a great extent to Romania’s development needs.  
+o Most of the sectors were evaluated as average in achieving the objectives set in the CPS 
+during the period of 2009-2010. 
+o For 2011-2013 period, WB should support developments in agriculture & rural development, 
+public administration, education & labour market, social inclusion and health sector. 
+o Main obstacles in achieving the objectives set in CPS 2009-2013 are the Political System and 
+Human Resource Management.  
+
+ Sectoral roundtables36 
+
+o Theme 1: Policy reforms to reap the benefits of EU membership and meet the objectives of 
+the Europe 2020 strategy 
+ Strengthen policy coordination. Lack of coordination mainly between different 
+governmental institutions translates into lack of policy coherence, mentioned by 
+representatives of various policy sectors, from both public and private sectors. A 
+programmatic vision accompanied by a suitable institutional set-up should ensure policy 
+coordination across sectors and institutions, in line with Europe 2020 Strategy and with 
+national initiatives of programming documents - National Reform Program . 
+ Strengthen policy-based budget prioritization. The unjustified increased role of MoPF in 
+expenditure prioritization, as perceived by representatives of line ministries, is, according 
+to MoPF representatives, a consequence of lack of expertise in budget prioritization in 
+ministries. In this respect, WB TA programs should address the training needs in MoPF 
+together with line ministries. 
+
+o Theme 2: Modernization of public institutions to enhance resource allocation and the 
+absorption of EU funds 
+ Simplifying administrative procedures at the level of all Management Authorities for 
+structural funds, through a WB Technical Assistance (TA) project. Absorption of European 
+Funds represents the only viable financial resource, particularly in the context of excessive 
+deficit procedure. The technical assistance needs in this field are represented by uniform 
+procedures for Management Authorities (MA) and training for MA personnel. 
+ Impact assessment of projects financed from structural funds. A potential WB role could be 
+materialized under a TA on monitoring and evaluating the outcomes produced from 
+structural funds projects. The project should also include public dissemination activities of 
+results from European-funded projects. 
+ Reforming HR Management in the public sector on performance-based. There is a clear 
+need for amendment of Civil Servants Statute, with the goal of establishing a performance-
+based recruitment, evaluation, promotion and pay system of public personnel.  
+ Implementation of Functional Review recommendations. There are high expectations 
+regarding both accomplishments of WB Functional Reviews (e.g. governance, R&D) 
+together with 
+implementation of selected operations 
+from Functional Review 
+recommendations. Moreover, besides the projects already submitted for implementation, 
+WB should continue the problem-identification part addressed with the functional reviews 
+with a monitoring & evaluation exercise in order to ensure implementation of the FR 
+
+36 The following findings represent a mere selection of cross-cutting issues, grouped under CPS themes for the next period. They do not reflect 
+entirely all the views and opinions expressed during discussions. For a complete list of WB alternatives for action in different policy sectors, please 
+refer to Summary of WB Consultations, June 9, 2011.  
+
+31 
+
+ 
+ 
+ 
+ 
+ 
+                                                           
+recommendations. This type of exercise clearly needs a strong commitment of behalf of 
+the Government.  
+
+o Theme 3: Support complementing EU funding 
+ Raising awareness on crucial policy issues. Representatives of different institutions 
+pointed out the need to bring further on the public agenda crucial topics for Romania’s 
+future path of development such as smart growth or climate change. WB is perceived with 
+a competitive advantage on this area, based on its role to streamline coherent policies 
+across multiple stakeholders from both public and private sectors. 
+ Support financing gap up to the next period of structural funds implementation . As the 
+next period of structural funds starts only in 2015 and there are numerous areas not 
+covered by the current programming period, which need formulation of immediate 
+response at national level, WB could supplement this financing gap through various 
+assistance tools. 
+
+32 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annex 7. Romania at a Glance 
+
+33 
+
+Romania at a glance10/25/2011 Europe &UpperKey Development Indicators CentralmiddleRomaniaAsiaincome(2010)Population, mid-year (millions)20.0405994Surface area (thousand sq. km)23823,54948,659Population growth (%)-0.20.60.9Urban population (% of total population)546476GNI (Atlas method, US$ billions)158.02,9457,403GNI per capita (Atlas method, US$)7,9017,2697,423GNI per capita (PPP, international $)13,91013,30212,802GDP growth (%)-1.35.64.1GDP per capita growth (%)-1.25.03.2(most recent estimate, 2005–2010)Poverty headcount ratio at $1.25 a day (PPP, %)<24<2Poverty headcount ratio at $2.00 a day (PPP, %)49<2Life expectancy at birth (years)736971Infant mortality (per 1,000 live births)102020Child malnutrition (% of children under 5)0..0Adult literacy, male (% of ages 15 and older)989995Adult literacy, female (% of ages 15 and older)979792Gross primary enrollment, male (% of age group)100100111Gross primary enrollment, female (% of age group)9998110Access to an improved water source (% of population)..9595Access to improved sanitation facilities (% of population)728984Net Aid Flows1980199020002010a(US$ millions)Net ODA and official aid..243431920Top 3 donors (in 2007):   n.a.........   n.a.........   n.a.........Aid (% of GNI)..0.61.21.2Aid per capita (US$)..101942Long-Term Economic TrendsConsumer prices (annual % change)......6.1GDP implicit deflator (annual % change)12.113.644.34.2Exchange rate (annual average, local per US$)..0.02.23.2Terms of trade index (2000 = 100)..83100931980–901990–20002000–10Population, mid-year (millions)22.223.222.420.00.4-0.3-0.5GDP (US$ millions)..38,29937,053162,0191.3-0.65.5Agriculture16.423.712.56.01.9-1.97.2Industry56.649.936.426.4-1.0-1.25.9   Manufacturing..33.814.521.9....5.6Services and constructions27.026.351.156.5..0.95.1Household final consumption expenditure53.765.978.561.2..1.36.2General gov't final consumption expenditure12.313.37.27.2..0.84.2Gross capital formation 36.330.219.530.5..-5.111.4Exports of goods and services..16.732.726.5..8.19.5Imports of goods and services..26.237.941.2..6.013.5Gross savings..20.715.835.8Note: Figures in italics are for years other than those specified. 2009 data are preliminary.  .. indicates data are not available.a. Aid data are for 2008.Development Economics, Development Data Group (DECDG).      (average annual growth %)  (% of GDP)64202460-415-1930-3445-4960-6475-79percent of total populationAge distribution, 2010MaleFemale01020304050601990199520002010RomaniaEurope & Central AsiaUnder-5 mortality rate (per 1,000)-15-10-50510900010GDPGDP per capitaGrowth of GDP and GDP per capita (%) 
+ 
+34 
+
+RomaniaBalance of Payments and Trade20002010(US$ millions)Total merchandise exports (fob)10,36649,381Total merchandise imports (cif)13,05457,192Net trade in goods and services-1,930-7,943Current account balance-1,355-8,101   as a % of GDP-3.7-5.0Workers' remittances and   compensation of employees (receipts)963,171Reserves, including gold3,39650,308Central Government Finance(% of GDP)Current revenue (including grants)31.131.3   Tax revenue29.228.0Current expenditure31.833.7Technology and Infrastructure20002010Overall surplus/deficit-4.0-2.7Paved roads (% of total)49.530.3Highest marginal tax rate (%)Fixed line and mobile phone   Individual..16   subscribers (per 100 people)29147   Corporate2516High technology exports   (% of manufactured exports)5.57.5External Debt and Resource FlowsEnvironment(US$ millions)Total debt outstanding and disbursed11,160125,889Agricultural land (% of land area)6558Total debt service2,50017,624Forest area (% of land area)27.727.7Debt relief (HIPC, MDRI)––Terrestrial protected areas (% of surface area)..10.7Total debt (% of GDP)30.177.7Freshwater resources per capita (cu. meters)1,9401,971Total debt service (% of exports)20.123.2Freshwater withdrawal (billion cubic meters)23.223.5Foreign direct investment (net inflows)1,0373,839CO2 emissions per capita (mt)3.94.2Portfolio equity (net inflows)580GDP per unit of energy use   (2005 PPP $ per kg of oil equivalent)4.25.8Energy use per capita (kg of oil equivalent)1,6121,799 World Bank Group portfolio20002010 (US$ millions) IBRD   Total debt outstanding and disbursed1,8982,830   Disbursements384187   Principal repayments91262   Interest payments10451 IDA   Total debt outstanding and disbursed00   Disbursements00Private Sector Development20002010   Total debt service00Time required to start a business (days)–14 IFC (fiscal year)Cost to start a business (% of GNI per capita)–3.0   Total disbursed and outstanding portfolio284656Time required to register property (days)–26      of which IFC own account112..   Disbursements for IFC own account17..Ranked as a major constraint to business20002010   Portfolio sales, prepayments and   (% of managers surveyed who agreed)      repayments for IFC own account5..      Tax administration..35.6      Tax rates..34.1 MIGA   Gross exposure20..Stock market capitalization (% of GDP)2.922.1   New guarantees0..Bank capital to asset ratio (%)8.68.0Note: Figures in italics are for years other than those specified.  2009 data are preliminary.10/25/11.. indicates data are not available.  – indicates observation is not applicable.Development Economics, Development Data Group (DECDG).0255075100Control of corruptionRule of lawRegulatory qualityPolitical stabilityVoice and accountabilityCountry's percentile rank (0-100)higher values imply better ratings2…2…Governance indicators, 2000 and 2010Source: Kaufmann-Kraay-Mastruzzi, World BankIBRD, 2,803IDA, 0IMF, 15,092Other multi-lateral, 7,522Bilateral, 860Private, 74,583Short-term, 25,029Composition of total external debt, 2010US$ millions 
+ 
+35 
+
+Millennium Development GoalsRomaniaWith selected targets to achieve between 1990 and  2015(estimate closest to date shown, +/- 2 years)  Goal 1: halve the rates for extreme poverty and malnutrition1990199520002010   Poverty headcount ratio at $1.25 a day (PPP, % of population)   <25.03.7<2   Poverty headcount ratio at national poverty line (% of population)   ..25.428.915.9   Share of income or consumption to the poorest qunitile (%)  10.08.98.28.0   Prevalence of malnutrition (% of children under 5)   ....3.73.5Goal 2: ensure that children are able to complete primary schooling   Primary school enrollment (net, %)..879490   Primary completion rate (% of relevant age group)   968610296   Secondary school enrollment (gross, %)   102778191   Youth literacy rate (% of people ages 15-24)....9896Goal 3: eliminate gender disparity in education and empower women   Ratio of girls to boys in primary and secondary education (%)   9810110099   Women employed in the nonagricultural sector (% of nonagricultural employment)   42424646   Proportion of seats held by women in national parliament (%)   34779Goal 4: reduce under-5 mortality by two-thirds   Under-5 mortality rate (per 1,000)   32272213   Infant mortality rate (per 1,000 live births)   25221911   Measles immunization (proportion of one-year olds immunized, %)92939897Goal 5: reduce maternal mortality by three-fourths   Maternal mortality ratio (modeled estimate, per 100,000 live births)   170725227   Births attended by skilled health staff (% of total)   ..999899   Contraceptive prevalence (% of women ages 15-49)   ..576470Goal 6: halt and begin to reverse the spread of HIV/AIDS and other major diseases   Prevalence of HIV (% of population ages 15-49)   ..0.10.10.1   Incidence of tuberculosis (per 100,000 people)   140140170130   Tuberculosis case detection rate (%, all forms)49727476Goal 7: halve the proportion of people without sustainable access to basic needs   Access to an improved water source (% of population)........   Access to improved sanitation facilities (% of population)71727272   Forest area (% of total land area)   27.827.827.727.7   Terrestrial protected areas (% of surface area)......10.7   CO2 emissions (metric tons per capita)   6.85.73.94.4   GDP per unit of energy use (constant 2005 PPP $ per kg of oil equivalent)   2.93.54.26.0Goal 8: develop a global partnership for development      Telephone mainlines (per 100 people)   10.213.117.423.4   Mobile phone subscribers (per 100 people)0.00.011.1113.7   Internet users (per 100 people)   0.00.13.628.8   Personal computers (per 100 people)   0.21.33.219.2Note: Figures in italics are for years other than those specified.  .. indicates data are not available.10/25/11Development Economics, Development Data Group (DECDG).Romania025507510012520002003200620082010Primary net enrollment ratioRatio of girls to boys in primary & secondary educationEducation indicators (%)05010015020002002200420062010Fixed + mobile subscribersInternet usersICT indicators (per 100 people)02550751001990199520002010RomaniaEurope & Central AsiaMeasles immunization (% of 1-year olds) 
+ 
+Annex 8: Selected Indicators of Bank Portfolio Performance and Management 
+
+36 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annex 9: Social Indicators 
+
+37 
+
+Romania Social IndicatorsLatest single yearSame region/income group Europe &Upper-Centralmiddle-1980-851990-952003-09AsiaincomePOPULATION  Total population, mid-year (millions)22.722.721.5404.21,001.7    Growth rate (% annual average for period)0.5-0.5-0.20.20.9Urban population (% of population)49.654.054.464.074.9Total fertility rate (births per woman)2.31.31.41.82.0POVERTY(% of population)National headcount index....13.8....    Urban headcount index....6.8....    Rural headcount index....22.3....INCOMEGNI per capita (US$)..1,4708,3306,7937,502Consumer price index (2000=100)..4127141127Food price index (2000=100)011184....INCOME/CONSUMPTION DISTRIBUTIONGini index..28.231.2....Lowest quintile (% of income or consumption)..8.98.1....Highest quintile (% of income or consumption)..37.239.3....SOCIAL INDICATORSPublic expenditure    Health (% of GDP)..0.04.33.93.8    Education (% of GDP)....4.34.14.3Net primary school enrollment rate(% of age group)    Total..87909293        Male..87919393        Female..87909292Access to an improved water source(% of population)    Total......9595        Urban......9898        Rural......8986Immunization rate(% of children ages 12-23 months)    Measles8893979693    DPT9598979593Child malnutrition (% under 5 years)..5......Life expectancy at birth(years)    Total7069737072        Male6766706669        Female7373777575Mortality    Infant (per 1,000 live births)2522101919    Under 5 (per 1,000)3227122122    Adult (15-59)        Male (per 1,000 population)228270192286201        Female (per 1,000 population)11411982123122    Maternal (modeled, per 100,000 live births)..72273282Births attended by skilled health staff (%)..99999796Note: 0 or 0.0 means zero or less than half the unit shown. Net enrollment rate: break in series between 1997 and 1998 due tochange from ISCED76 to ISCED97. Immunization: refers to children ages 12-23 months who received vaccinations before oneyear of age or at any time before the survey.World Development Indicators database, World Bank - 15 April 2011. 
+ 
+Annex 10: Recent Economic and Financial Indicators 
+
+38 
+
+ 
+39 
+
+ 
+ 
+ 
+ 
+40 
+
+ 
+ 
+ 
+ 
+41 
+
+ 
+Annex 11 Romania Key Exposure Indicators 
+
+Actual 
+
+Indicator 
+
+2007 
+
+2008 
+
+2009 
+
+2010 
+
+Estimated 
+2011 
+
+2012 
+
+2013 
+
+Projections 
+2014 
+
+2015 
+
+Total debt outstanding and  
+disbursed (TDO) (US$m) 
+
+a 
+
+88,374 
+
+104,943 
+
+102,074 
+
+116,804 
+
+108,394 
+
+95,782 
+
+82,752 
+
+82,752 
+
+71,103 
+
+a 
+
+9,316.1 
+11,721 
+
+14,390.3 
+18,537 
+
+16,269.3 
+48,360 
+
+4,534.9 
+20,391 
+
+-6,739.6 
+19,451.0 
+
+-10,351.6 
+17,246.0 
+
+-14,336.4 
+13,491 
+
+-14,378.7 
+13,490 
+
+-12,771.2 
+11,224 
+
+143.0 
+53.2 
+39.0 
+
+12.7 
+0.6 
+2,106 
+
+2 
+0 
+
+149.6 
+52.3 
+56.0 
+
+269.7 
+63.4 
+127.8 
+
+12.3 
+0.6 
+2,879.63 
+
+10.2 
+0.7 
+2,609.63 
+
+3 
+0 
+
+3 
+0 
+
+231.9 
+72.3 
+40.5 
+
+8.4 
+0.6 
+2,911 
+
+3 
+… 
+
+199.6 
+58.5 
+35.8 
+
+9.5 
+0.7 
+3,427 
+
+2 
+… 
+
+166.5 
+47.1 
+30.0 
+
+8.5 
+0.7 
+5,293 
+
+134.1 
+37.2 
+21.9 
+
+7.5 
+0.6 
+5,619 
+
+124.0 
+34.1 
+20.2 
+
+3.3 
+0.6 
+5,472 
+
+2 
+
+…. …. 
+
+2 
+
+…. 
+
+3 
+
+…. 
+
+98.5 
+26.8 
+15.5 
+
+1.7 
+0.5 
+5,228 
+
+2 
+
+269.7 
+192.0 
+
+278.8 
+196.1 
+
+375.5 
+112.0 
+
+384.2 
+65.8 
+
+579.5 
+60.8 
+
+b 
+
+Net disbursements (US$m) 
+Total debt service (TDS) 
+(US$m) a 
+Debt and debt service indicators  
+(%) 
+   TDO/XGS 
+   TDO/GDP 
+   TDS/XGS 
+IBRD exposure indicators (%) 
+   IBRD DS/public DS 
+   IBRD DS/XGS 
+   IBRD TDO (US$m) 
+      Of which present value of 
+      guarantees (US$m) 
+   Share of IBRD portfolio (%) 
+   IDA TDO (US$m) 
+
+d 
+
+d 
+
+IFC (US$m) 
+   Loans 
+   Equity and quasi-equity  /c 
+
+MIGA 
+   MIGA guarantees (US$m) 
+
+a.  Includes public and publicly guaranteed debt, private nonguaranteed, use of IMF credits and net short - 
+     term capital. 
+b.  "XGS" denotes exports of goods and services, including workers ' remittances. 
+c. Preferred creditors are defined as IBRD, IDA, the regional multilateral development banks, the IMF, and the 
+    Bank for International Settlements. 
+d. Includes present value of guarantees and effective but undisbursed DPL DDOs. 
+e.  Includes equity and quasi-equity types of both loan and equity instruments. 
+
+42 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annex 12: Operations Portfolio IBRD and Grants 
+
+43 
+
+ 
+ 
+ 
+ 
+Annex 13: Summary of Analytical and Advisory Activities 
+
+FY2013 
+Tax Administration 
+TA (TBC) 
+
+FY2009 
+Education Reform 
+RO FSAP Update 
+(ESW) 
+
+FY2010 
+Financial Sector TA 
+IT TA Support to NBR 
+
+HD Policy Briefs & 
+Dialogue (ESW) 
+
+Consumer Protection and 
+Financial Literacy (REG) 
+PEIR Update (ESW) 
+PFM Civil Service Pay 
+
+FY2011 
+Fiscal decentralization 
+Social Protection Coverage to Elderly 
+Farmers 
+
+FY2012 
+Justice Functional Review  
+Modernization of 
+Administration Program 
+(CoG, Public Finance, 
+Education, Transport, 
+Agriculture)  
+ANRMAP Functional 
+Review (TBC) 
+Health and Education TA to support DPL ANPCI Functional Review 
+Policy notes on growth and 
+ACIS TA 
+competitiveness (I) 
+NEW: Accounting and External Auditing 
+
+Students Loan Scheme 
+
+Poverty & Social Policy  NEW: Fee Based TA – Functional 
+Reviews Phase 1 Agriculture, Transport, 
+Finance, Pre-University Education 1, 
+Competition, Core of Government 
+NEW: Fee Based TA – FR 2 
+Health, Economy/Energy/Business 
+Environment, Labor and Social 
+Protection, Regional Dev & Tourism, 
+Pre-Univ Education 2, Higher Education, 
+R&D, Cross-cutting 
+
+NEW: Sector Notes:  
+power, water, roads 
+maintenance, 
+environment, and 
+agriculture 
+
+Policy notes on growth and 
+competitiveness (II) 
+Citizen Scorecard/Social 
+Accountability ESW 
+
+Public Expenditure 
+Framework Assessment 
+
+Climate Change 
+Regional study on Skills and 
+competitiveness 
+
+Note: NEW refers to assistance provided during the period and which was not initially captured under the CPS. The new TAs nee d to be clearly defined for the 
+implementation of the Functional Reviews.  
+
+44 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annex 14: IFC Committed and Disbursed Outstanding Investment Portfolio, Romania 
+
+As of 10/31/2011 
+(In USD Millions) 
+
+FY Approval 
+
+Company 
+
+Loan Equity 
+
+**Quasi 
+Equity 
+
+*GT/R
+M 
+
+Partici  
+pant 
+
+Loan Equity 
+
+**Quasi 
+Equity 
+
+*GT/R
+M 
+
+Partici  
+pant 
+
+Committed 
+
+Disbursed Outstanding 
+
+2007/08 
+2005/08/09 
+0 
+
+2003/04/06/09 
+2011 
+2011/12 
+2007 
+2004 
+2012 
+2007/10/12 
+2012 
+
+Arabesque SRL 
+ATE Romania 
+Banat Construct 
+Banca 
+Comerciala 
+Bancpost 
+Cernavoda Power 
+Credit Europe bk 
+DomeniaCredit 
+Garanti Bank Ro 
+Medlife SA 
+Pestera 
+ProCreditRomani
+2002/03/04/07/10/11 
+a 
+2004/05/10 
+Schwarz Group 
+2004/05/07/09/10/11 TransilvaniaBank 
+2008 
+Tts romania 
+2006 
+Tts sa 
+
+36.1 
+10.0 
+0.0 
+
+107.7 
+80.7 
+59.1 
+20.4 
+1.6 
+31.5 
+19.1 
+37.2 
+
+3.3 
+43.8 
+120.0 
+0.0 
+8.8 
+
+0.0 
+3.5 
+0.0 
+
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+3.2 
+0.0 
+
+5.6 
+0.0 
+18.1 
+0.0 
+0.0 
+
+0.0 
+0.0 
+5.4 
+
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+
+0.0 
+0.0 
+16.8 
+10.5 
+0.0 
+
+0.0 
+0.0 
+0.0 
+
+0.0 
+17.6 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+
+33.6 
+0.0 
+0.0 
+
+0.0 
+0.0 
+21.4 
+0.0 
+0.0 
+0.0 
+56.1 
+13.7 
+
+0.0 
+34.5 
+0.0 
+0.0 
+0.0 
+
+36.1 
+10.0 
+0.0 
+
+107.7 
+80.7 
+59.1 
+20.4 
+1.6 
+31.5 
+19.1 
+37.2 
+
+3.3 
+43.8 
+120.0 
+0.0 
+8.8 
+
+0.0 
+3.5 
+0.0 
+
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+3.2 
+0.0 
+
+5.6 
+0.0 
+18.1 
+0.0 
+0.0 
+
+0.0 
+0.0 
+3.2 
+
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+
+0.0 
+0.0 
+16.8 
+10.5 
+0.0 
+
+0.0 
+0.0 
+0.0 
+
+0.0 
+17.6 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+
+33.6 
+0.0 
+0.0 
+
+0.0 
+0.0 
+21.4 
+0.0 
+0.0 
+0.0 
+37.0 
+13.7 
+
+0.0 
+34.5 
+0.0 
+0.0 
+0.0 
+
+Total Portfolio: 660.2, of which: 
+
+579.7 
+
+30.3 
+
+32.7 
+
+17.6 
+
+159.3 
+
+579.7 
+
+30.3 
+
+30.5 
+
+17.6 
+
+140.2 
+
+* Denotes Guarantee and Risk Management Products. 
+** Quasi Equity includes both loan and equity types. 
+
+45 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Moldoveanu
+Moldoveanu
+Moldoveanu
+(2,544 m )
+(2,544 m )
+(2,544 m )
+
+B
+B
+
+a
+a
+
+n
+n
+
+a
+a
+
+t
+t
+
+W a l a c h i a
+W a l a c h i a
+W a l a c h i a
+
+D
+D
+
+o
+o
+
+b
+b
+
+r
+r
+
+u
+u
+
+j
+j
+
+a
+a
+
+M
+M
+
+o
+o
+
+l
+l
+
+d
+d
+
+a
+a
+
+v
+v
+
+i
+i
+
+a
+a
+
+T
+T
+
+r
+r
+
+a
+a
+
+n
+n
+
+s
+s
+
+y
+y
+
+l
+l
+
+v
+v
+
+a
+a
+
+n
+n
+
+i
+i
+
+a n  
+a n  
+
+A l p s
+A l p s
+
+O
+O
+O
+
+lt
+lt
+lt
+
+Arges
+Arges
+Arges
+
+I a l o m i t a
+I a l o m i t a
+I a l o m i t a
+
+B u z a u
+B u z a u
+B u z a u
+
+S
+S
+S
+
+ir
+ir
+ir
+et
+et
+et
+
+S
+S
+S
+
+ir
+ir
+ir
+et
+et
+et
+
+Bistrita
+Bistrita
+Bistrita
+t
+t
+
+ Crisul Alb
+ Crisul Alb
+
+P
+P
+P
+
+r
+r
+r
+
+ut
+ut
+ut
+
+Mures 
+Mures 
+
+Ti
+Ti
+is
+is
+
+m
+m
+
+o
+o
+S
+S
+
+m
+m
+
+e
+e
+
+s
+s
+
+Ji
+Ji
+
+u
+u
+
+D
+D
+
+a
+a
+
+n
+n
+
+u b e 
+u b e 
+
+Danube 
+Danube 
+
+A R A D
+A R A D
+A R A D
+
+G O R J
+G O R J
+G O R J
+
+HUNEDOARA
+HUNEDOARA
+HUNEDOARA
+
+C A R A S -
+C A R A S -
+C A R A S -
+S E V E R I N
+S E V E R I N
+S E V E R I N
+
+T I M I S
+T I M I S
+T I M I S
+
+PRAHOVA
+PRAHOVA
+PRAHOVA
+
+B R A S O V
+B R A S O V
+B R A S O V
+
+COVASNA
+COVASNA
+COVASNA
+
+S I B I U
+S I B I U
+S I B I U
+
+A R G E S
+A R G E S
+A R G E S
+
+I A L O M I TA
+I A L O M I TA
+I A L O M I TA
+
+V R A N C E A
+V R A N C E A
+V R A N C E A
+
+V A S L U I
+V A S L U I
+V A S L U I
+
+G A L AT I
+G A L AT I
+G A L AT I
+
+T U L C E A
+T U L C E A
+T U L C E A
+
+N E A M T
+N E A M T
+N E A M T
+
+I A S I
+I A S I
+I A S I
+
+BOTOSAN I
+BOTOSAN I
+BOTOSAN I
+
+M U R E S
+M U R E S
+M U R E S
+HARGHITA
+HARGHITA
+HARGHITA
+
+S U C E AVA
+S U C E AVA
+S U C E AVA
+
+M A R A M U R E S
+M A R A M U R E S
+M A R A M U R E S
+
+A L B A
+A L B A
+A L B A
+
+C L U J
+C L U J
+C L U J
+
+B I H O R
+B I H O R
+B I H O R
+
+S AT U M A R E
+S AT U M A R E
+S AT U M A R E
+
+O L TO L T
+O L T
+
+D O L J
+D O L J
+D O L J
+
+MEHEDINTI
+MEHEDINTI
+MEHEDINTI
+
+TELEORMAN 
+TELEORMAN 
+TELEORMAN 
+G I U R G I U
+G I U R G I U
+G I U R G I U
+
+C O N S TA N TA
+C O N S TA N TA
+C O N S TA N TA
+
+BUCURESTI
+BUCURESTI
+BUCURESTI
+BUCHAREST
+BUCHAREST
+BUCHAREST
+
+DÂMBOVITA
+DÂMBOVITA
+MBOVITA
+
+V Â L C E A
+V Â L C E A
+L C E A
+
+B I S T R I TA -
+B I S T R I TA -
+B I S T R I TA -
+N A S A U D
+N A S A U D
+N A S A U D
+
+B U Z A U
+B U Z A U
+B U Z A U
+
+B R A I L A
+B R A I L A
+B R A I L A
+
+C A L A R A S I
+C A L A R A S I
+C A L A R A S I
+
+S A L A J
+S A L A J
+S A L A J
+
+B A C A U
+B A C A U
+B A C A U
+
+Lugoj
+Lugoj
+Lugoj
+
+Hunedoara
+Hunedoara
+Hunedoara
+
+Turda
+Turda
+Turda
+
+Petrosani
+Petrosani
+Petrosani
+
+Orsova
+Orsova
+Orsova
+
+Calafat
+Calafat
+Calafat
+
+Caracal
+Caracal
+Caracal
+
+Medias
+Medias
+Medias
+
+DejDej
+Dej
+
+Roman
+Roman
+Roman
+
+OnestiOnesti
+Onesti
+
+Birlad
+Birlad
+Birlad
+
+Medgidia
+Medgidia
+Medgidia
+
+Fetesti
+Fetesti
+Fetesti
+
+HusiHusi
+Husi
+
+Turnu Magurele
+Turnu Magurele
+Turnu Magurele
+
+Tecuci
+Tecuci
+Tecuci
+
+Gheorgheni
+Gheorgheni
+Gheorgheni
+
+BradBrad
+Brad
+
+DevaDeva
+Deva
+
+Arad
+AradArad
+
+Sibiu
+SibiuSibiu
+
+Zalau
+Zalau
+Zalau
+
+Tulcea
+Tulcea
+Tulcea
+
+Vaslui
+Vaslui
+Vaslui
+
+Oradea
+Oradea
+Oradea
+
+Giurgiu
+Giurgiu
+Giurgiu
+
+Craiova
+Craiova
+Craiova
+
+Slatina
+Slatina
+Slatina
+
+Suceava
+Suceava
+Suceava
+
+Slobozia
+Slobozia
+Slobozia
+
+Târgu Jiu
+Târgu Jiu
+rgu Jiu
+
+Baia Mare
+Baia Mare
+Baia Mare
+
+Satu Mare
+Satu Mare
+Satu Mare
+
+Alexandria
+Alexandria
+Alexandria
+
+Alba
+AlbaAlba
+Iulia
+IuliaIulia
+
+Cluj-
+Cluj-Cluj-
+Napoca
+Napoca
+Napoca
+
+Râmnicu
+Râmnicumnicu
+Vâlcea
+Vâlcealcea
+
+Miercurea-
+Miercurea-
+Miercurea-
+Cuic
+CuicCuic
+
+Drobeta-
+Drobeta-
+Drobeta-
+Turmu Severin
+Turmu Severin
+Turmu Severin
+
+Bistrita
+Bistrita
+Bistrita
+
+Târgurgu
+Târgu
+MuresMures
+Mures
+
+Botosani
+Botosani
+Botosani
+
+Iasi
+Iasi
+Iasi
+
+Piatra-
+Piatra-
+Piatra-
+Neamt
+Neamt
+Neamt
+
+Ploiesti
+Ploiesti
+Ploiesti
+
+Târgoviste
+Târgoviste
+rgoviste
+
+Pitesti
+Pitesti
+Pitesti
+
+Resita
+Resita
+Resita
+
+Timisoara
+Timisoara
+Timisoara
+
+Galati
+Galati
+Galati
+
+Brasov
+Brasov
+Brasov
+
+Focsani
+Focsani
+Focsani
+
+Bacau
+Bacau
+Bacau
+
+Calarasi
+Calarasi
+Calarasi
+
+Braila
+Braila
+Braila
+
+Buzau
+Buzau
+Buzau
+
+SfSfântuntu
+Sfântu
+Gheorghe
+Gheorghe
+Gheorghe
+
+C
+C
+
+a
+a
+
+r
+r
+
+p
+p
+
+a
+a
+
+h
+h
+
+i
+i
+
+a
+a
+
+n
+n
+
+M
+M
+
+t
+t
+
+s
+s
+
+.
+.
+
+ILFOV
+ILFOV
+ILFOV
+
+U K R A I N E
+U K R A I N E
+U K R A I N E
+
+U K R A I N E
+U K R A I N E
+U K R A I N E
+
+H U N G A R Y
+H U N G A R Y
+H U N G A R Y
+
+B U L G A R I A
+B U L G A R I A
+B U L G A R I A
+
+To To 
+To 
+Chisinau
+Chisinau
+Chisinau
+
+To To 
+To 
+Chisinau
+Chisinau
+Chisinau
+
+To To 
+To 
+Ivano-Frankivs'k
+Ivano-Frankivs'k
+Ivano-Frankivs'k
+
+To 
+To To 
+Uzhhorod
+Uzhhorod
+Uzhhorod
+
+To 
+To To 
+Budapest
+Budapest
+Budapest
+
+To 
+To To 
+Budapest
+Budapest
+Budapest
+
+To 
+To To 
+Subotica
+Subotica
+Subotica
+
+To 
+To To 
+Novi Sad
+Novi Sad
+Novi Sad
+
+To 
+To To 
+Sofiya
+Sofiya
+Sofiya
+
+To To 
+To 
+Varna
+Varna
+Varna
+
+To To 
+To 
+Shumen
+Shumen
+Shumen
+
+To 
+To To 
+Shumen
+Shumen
+Shumen
+
+To 
+To To 
+BaltiBalti˘
+Balti˘
+
+To To 
+To 
+Veliko Turnovo
+Veliko Turnovo
+Veliko Turnovo
+˘
+˘
+
+To To 
+To 
+NisNis˘
+Nis˘
+
+SERB IA
+SERB IA
+SERB IA
+
+Navodari
+
+Mangalia
+
+Constanta
+
+M O L D O VA
+
+Mure s 
+
+B l a c k
+
+S e a
+
+22°E
+
+24°E
+
+26°E
+
+28°E
+
+24°E
+
+48°N
+
+4 6 °N
+
+4 4 °N
+
+44°N
+
+30°E
+
+30°E
+
+ROMANIA
+
+This map was produced by the Map Design Unit of The World Bank.  
+The boundaries, colors, denominations and any other information
+shown on this map do not imply, on the part of The World Bank
+Group, any judgment on the legal status of any territory, or any
+endorsement or acceptance of such boundaries.
+
+0
+
+25
+
+50
+
+75
+
+0
+
+25
+
+50
+
+75 Miles
+
+100 Kilometers
+
+I
+
+B
+R
+
+D
+
+3
+3
+4
+6
+9
+R
+2
+
+F
+E
+B
+R
+
+U
+A
+
+R
+Y
+2
+0
+0
+8
+
+R O M A N I A
+
+SELECTED CITIES AND TOWNS
+
+COUNTY (JUDET) CAPITALS
+
+NATIONAL CAPITAL
+
+RIVERS
+
+MAIN ROADS
+
+RAILROADS
+
+COUNTY (JUDET) AND MUNICIPALITY
+(MUNICIPIU) BOUNDARIES
+
+INTERNATIONAL BOUNDARIES
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

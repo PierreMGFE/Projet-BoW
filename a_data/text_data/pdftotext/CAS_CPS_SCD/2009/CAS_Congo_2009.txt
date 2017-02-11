@@ -1,0 +1,4285 @@
+Public Disclosure Authorized
+
+Document o f
+The World Bank
+
+Public Disclosure Authorized
+
+FOR OFFICIAL USE ONLY
+Report No: 48404-CG
+
+INTERNATIONAL DEVELOPMENT ASSOCIATION
+COUNTRY PARTNERSHIP STRATEGY
+
+Public Disclosure Authorized
+
+Public Disclosure Authorized
+
+FOR
+THE REPUBLIC OF CONGO
+FOR THE PERIOD FY10-FY12
+
+M a y 13,2009
+
+Central Africa Country Cluster 2 (AFCC2)
+Africa Region
+This document has a restricted distribution and may be used by recipients only in the
+performance o f their official duties. I t s contents may not otherwise be disclosed without
+World Bank authorization.
+
+LAST INTERIM STRATEGY NOTE: July 31,2007 (Report No: 39180)
+CURRENCY EQUIVALENTS (Exchange Rate Effective 5/8/2009)
+U S $ 1.00
+
+=
+
+493.90 FCFA (Francs)
+
+FISCAL YEAR:
+January 1 - December 3 1
+ABREVIATIONS AND ACRONYMS
+AfDB
+AFD
+AFRISTAT
+BEAC
+CEMAC
+CFCO
+COMEG
+CORAF
+CPS
+DSA
+EITI
+EU
+FCFA
+FY
+GDP
+GNI
+GSM
+HIPC
+HIV/AIDS
+IBRD
+IDA
+IFC
+IMF
+ISN
+MICA
+MTEF
+MSME
+OHADA
+PER
+PRGF
+PRSP
+PV
+SDR
+SNPC
+
+African Development Bank
+Agence Franqaise de Developpent (French DevelopmentAgency)
+Economic and statistical Observatory of Sub-Saharan Africa
+Banque des Etats de I’Afrique Centrale (Bank for Central African States)
+Communaute Economiqueet Monetaire de I’Afrique Centrale (Central African Economic and Monetary
+Community)
+Chemin de Fer Congo Ocean (Congolese Railway)
+Congolaise de Mtdicaments Essentiels Gkntriques (Congolese Agency for Essential Generic Medicines)
+Congolaise de RaBnage (Congolese Oil Refinery)
+Country Partnership Strategy
+Debt Sustainability Analysis
+Extractive Industries Transparency Initiative
+European Union
+Central African Franc
+Fiscal Year
+Gross Domestic Product
+Gross National Income
+Global System for Mobile communications
+Heavily Indebted Poor Countries
+Human Immunodeficiency Virus/Acquired Immune Deficiency Syndrome
+International Bank for Reconstructionand Development
+International DevelopmentAgency
+International Finance Corporation
+International Monetary Fund
+Interim Strategy Note
+Multilateral Investment Guarantee Agency
+Medium Term Expenditure Framework
+Micro, Small and Medium Enterprises
+Organisation pour I’Harmonisationen Afrique du Droit des Affaires (Organization for Harmonization of
+Business Law in Africa)
+Public Expenditure Review
+Poverty Reduction and Growth Facility
+Poverty Reduction Strategy Paper
+Present Value
+Special Drawing Rights
+Societe Nationale des Petroles du Congo (Congolese National Oil Company)
+
+Vice President: Obiageli K. Ezekwesili
+Country Director: Marie-Francoise Marie-Nelly
+Task Team Leader: Eustacius Betubiza
+Co-Team Leader: Midou Ibrahima
+The core team was composed of: Eustacius Betubiza, Midou Ibrahima, Peter Siegenthaler, Jerome Chevallier, and Janette
+U1hmann.
+Substantive inputs were received from: Monthe Bienvenu Biyoudi, Eric Bell, Iradj Alikhani, Franck Bousquet, Alassane
+Sow, Remi Kini, Eleodoro Mayorga Alba, Tony Verheijen, Giuseppe Topa, Marcel0 Becerra, Khama Rogo, Mahamat
+Louani, Alain Labeau, Vivien Foster, Cecilia Briceno-Garmendia,Yann Burtin, Jerome Bezzina, Sarah Michael,
+Christophe Rockmore, Thomas Ramin, and Marie-Chantal Uwanyiligira. Support was provided by Linda Patnelli,
+Natalie Ford, and Elisabeth Small.
+
+FOR OFFICIAL USE ONLY
+REPUBLIC OF CONGO
+COUNTRY PARTNERSHIP STRATEGY
+TABLE OF CONTENTS
+Page
+EXECUTIVE SUMMARY
+
+i
+
+I.
+
+INTRODUCTION
+
+1
+
+11.
+
+COUNTRY CONTEXT
+A. Political Context
+B. Poverty Profile and Progress toward Millennium Development Goals
+C. Economic Context
+
+1
+1
+2
+3
+
+111.
+
+COUNTRY CHALLENGES AND STRATEGIC PRIORITIES
+A. Main Challenges and Opportunities
+B. Government’s Strategic Priorities and Programs
+
+8
+8
+15
+
+IV.
+
+WORLD BANK GROUP PARTNERSHIP STRATEGY
+A. Performance of the FY07-FY09 Interim Strategy Note and Lessons Learned
+B. Proposed Country Partnership Strategy
+C. Partnerships
+
+17
+17
+19
+28
+
+V.
+
+MANAGING RISKS
+
+29
+
+Tables
+Table 1: Progress
+Towards Millennium Development Goals..........................................................
+,...............2
+Table 2: Main Macroeconomic Indicators ......................................................................................................
+4
+Table 3: CEMAC Convergence Criteria Status of Congo ............................................................................ 5
+Table 4: Share of Main Sectors in Nominal GDP ........................................................................................... 6
+Table 5: Ongoing Operations ................................................................................................................. .......26
+Table 6: Proposed New Activities for FY 10 FY 12 .....................................................................................
+27
+Table 7: InternationalDevelopment Partners Ongoing and Planned Activities .......................................... 28
+
+-
+
+-
+
+-
+
+Figure
+Figure 1: Oil Production and Revenue Projections for Congo ...................................
+
+.....................................
+
+9
+
+Boxes
+Box 1: CEMAC Convergence Criteria....................................................................................................... ..... 5
+Box 2: Congo’s Oil Sector ...................................................................................................................
+...........6
+Box 3: Congo’s Forests and Environment..................................................................................................... 12
+Box 4: Governance Issues .............................................................................................................................
+14
+17
+Box 5: HIPC Completion Point Status ..........................................................................................................
+Box 6: Consultations for the Country Partnership Strategy .......................................................................... 21
+Annexes
+Annex 1 : Results Framework for the Congo CPS (FY 10 - FY 12) ............,...,...........................,.................3 1
+Annex 2: Debt Sustainability Analysis for Congo .....................................................................................
+37
+Annex 3: Performance Assessment of Interim Strategy Note (FY07 - FY09) ............................................ 39
+Annex 4: Description of Country Assistance Strategies for Congo’s Principal Partners....................... .......43
+Annex 5: Country at a Glance ................................................................................................................... ...45
+Annex 6: Millennium Development Goals..... .............................................................................................47
+Annex 7: Selected Indicators o f Bank Portfolio Performance and Management ......................................... 48
+Annex 8: IBRD/IDA Program Summary ..................................................................................................... 49
+Annex 9: Doing Business Indicators........................................................................................................... 50
+M a p o f the Republic o f Congo No. IBRD 33390
+
+This document has a restricted distribution and may be used by recipients only in the performance o f
+their official duties. I t s contents may not be otherwise disclosed without W o r l d Bank authorization.
+
+EXECUTIVE SUMMARY
+
+1.
+Since the ceasefire in 2000 and adoption o f a new Constitution in 2002, the Republic of
+Congo has been largely at peace. Although the political environment remains fragile, the country has
+made substantial progress in rebuilding the state and consolidating peace. Congo i s now in the midst
+o f its second election cycle since the end o f war, with legislative elections held in mid-2007, and the
+next presidential election scheduled for July 2009. With full restoration o f peace, Congo has the
+potential for building a strong and robust economy and attaining a high standard o f living for its
+people: it has a relatively small population o f 3.8 million, a significant endowment o f oil, natural
+forests, arable land, a biodiversity o f global importance, minerals, and a strategic location in Central
+Africa with a deep-sea port at Pointe-Noire that can serve as a gateway to the sub-region.
+
+ii.
+Since the return to peace, most social indicators have improved, but they are still below
+those of countries with comparable per capita income. The incidence o f monetary poverty, which
+had risen from 40 percent in 1990 to 70 percent in 1997, had fallen back to 50 percent by 2005.
+Meeting the Millennium Development Goals remains a challenge, particularly in the health sector.
+iii.
+Congo has made significant progress on macroeconomic stabilization and “first
+generation” structural reforms since the end of the civil strife. GDP at constant prices nearly
+doubled from 2002 to 2008, while inflation has remained broadly under control. However, economic
+performance has been strongly affected by swings in oil prices and production levels, particularly in
+the past two years. Fiscal performance strengthened markedly during 2008, enabling the start o f a new
+three-year PRGF program supported by the IMF in December 2008.
+iv. The global financial crisis poses a serious threat to economic stability and growth in Congo,
+but it i s also an opportunity, as it gives more urgency to implementing the reform agenda. The
+effects o f the crisis have mainly been transmitted through the sharp decline in oil prices and demand
+for wood exports since mid-2008. This has strongly affected the economy and the fiscal situation. The
+large fiscal and foreign exchange cushion built up during the recent oil price boom and the projected
+strong expansion in oil production in 2009 should help Congo weather the immediate effects o f the
+crisis. A prolonged slump in oil prices and demand for export products, as well as a contraction of
+foreign direct investment, could however turn into a serious threat to economic stability.
+V.
+The oil sector provides much needed resources for public investments, yet its
+overbearing dominance in the economy is a major challenge for economic management and
+diversification. The key policy challenge for Congo is, therefore, to use its oil wealth to build a more
+diversified and competitive economy and thereby reduce poverty and improve social outcomes. Congo
+should exploit i t s comparative advantages related to its natural resource endowment, geographic
+position and climatic conditions to promote non-oil growth. The Government o f Congo i s keen on (i)
+playing an increased role in regional transit, (ii)
+improving the productivity o f a weak and backward
+agriculture sector, (iii)promoting the smart exploitation o f its large forestry resources, and (iv)
+developing its mining sector.
+
+vi.
+To achieve its economic potential, the Government plans to address its huge
+infrastructure gap, improve a poor investment climate, promote efficiency in the use of public
+resources, and strengthen human capital and public institutions. After an extensive consultation
+process, Congo’s first full PRSP was adopted in April 2008. The PRSP has five pillars: (i)
+improving
+governance and consolidating peace and security; (ii)promoting growth and macroeconomic stability;
+(iii)enhancing access to basic social services; (iv) improving the social environment and integration
+o f vulnerable groups; and (v) combating HIV/AIDS. The Bank has been supporting this process
+through the Interim Strategy Note (ISN) which was reviewed by the Board in July 2007.
+
+1
+
+vii.
+The ISN was designed to enhance governance and create the foundations for equitable
+growth. The ISN suggested three strategic entry points: the HIPC process with triggers for
+Completion Point covering key governance issues; the PRSP process to build up a consensus on
+economic policies; and the strengthening o f key human development and poverty alleviation programs
+in urban and rural areas.
+Most of the 12 I S N outcomes have not been fully achieved. These outcomes were far too
+viii.
+many in view o f IDA’S small resource envelope for Congo, and were not realistic. The lessons learned
+from I S N implementation have been taken into account in designing the Country Partnership Strategy.
+ix.
+I n line with PRSP priorities and after extensive consultations with stakeholders, the
+Bank’s support to the Government‘s efforts will be organized around two main priority areas,
+diversification and growth, and (ii)
+poverty reduction through improved basic
+namely support to: (i)
+service delivery. To ensure effective implementation in both priority areas, the CPS will also support
+governance and institutional building as a cross-cutting theme. The new role o f the Bank in Congo i s
+to be a catalyst for change. I t will use i t s limited resources to help Congo use its significant revenues
+for economic reform and poverty alleviation, in close coordination with other partners.
+The CPS will contribute to PRSP implementation through seven specific outcomes: (i)
+more effective management o f oil revenues and public expenditure; (ii)enhanced agricultural
+productivity and marketing; (iii)better tools for improved forestry management; (iv) a foundation for
+MSME growth; (v) improved infrastructure service delivery; (vi) a foundation for increasing Congo’s
+market share in regional transit services; and (vii) improved basic services.
+X.
+
+The Bank will support the government through careful management of its existing
+xi.
+portfolio o f five projects (three o f which will receive additional financing, viz. the education,
+HIV/AIDS, and governance projects), new financing for four projects, and analytical work and
+an economic diversification support project to
+policy dialogue. The new projects proposed include: (i)
+stimulate broad-based growth; (ii)a regional telecommunications project to enhance Congo’s transit
+role in the region, and extend the usageheduce prices o f broadband network services; (iii)an urban
+and water services project to improve services to poor neighborhoods; and (iv) a forestry project to
+support ongoing sectoral reforms. In view o f limited IDA resources, the Government has agreed, in
+principle, to finance a large share o f project costs. Advisory services will focus on HIPC completion, a
+Public Expenditure Review, support to oil revenue management, an analysis o f the l i n k s between
+growth and employment, assistance to Congo to join carbon markets, and statistical capacity building.
+The program has been developed in close coordination with Congo’s key partners, both
+xii.
+external (AFD, AfDB, EU, IMF) and internal (IFC). Activities. supported by the program will
+complement those already initiated by these institutions or planned under their assistance programs as
+shown in the results matrix in Annex 1. The country programs o f the first three institutions were
+approved in 2008, and it i s envisaged that a joint CPS could be formulated in 2012.
+xiii.
+CPS implementation will face significant risks. The contagion effects from the global
+economic crisis could become more serious, especially if a prolonged global recession would force
+severe cuts in public spending and lead to fiscal slippages. The country could fall back into conflict if
+forthcoming elections are poorly managed. The governance agenda, including procurement reform,
+may be delayed. Strong pressures from the unions may lead the Government to postpone putting key
+infrastructure enterprises under private management. Over the past year, the dialogue with the
+Government has considerably improved and recent progress in meeting the HIPC Completion Point
+triggers i s an indication o f increased ownership o f reforms. The Bank will carefblly monitor the
+situation and provide support to reformers when needed.
+
+..
+
+11
+
+COUNTRY PARTNERSHIP STRATEGY
+FOR THE REPUBLIC OF CONGO
+
+I. INTRODUCTION
+1.
+In 2000, Congo emerged from a brutal civil conflict, and in 2002, the Bank reengaged in
+the country. A Transitional Support Strategy for FY03-FY06 was reviewed by the Executive
+Directors in August 2003 and an Interim Strategy Note FY07-FY09 in July 2007. It was designed
+to serve as a bridge between the transitional strategy and completion o f the full Poverty
+Reduction Strategy Paper (PRSP). I t s objective was to scale up the governance focus and create
+the foundations for equitable growth. This Country Partnership Strategy (CPS) i s based on the
+full PRSP, which was approved by the Government in April 2008. This CPS was designed in
+close coordination with all stakeholders, including the IFC, and provides a framework for Bank
+support for F Y 1O-FY 12.
+
+11. COUNTRY CONTEXT
+
+A.
+
+POLITICALCONTEXT
+
+2.
+The Republic o f Congo has the potential for building a strong and robust economy
+as a gateway to the sub-region, and attaining a high standard of living for its people: a
+relatively small population o f 3.8 million (of which over half lives in urban areas), a significant
+endowment o f oil, natural forests, arable land, a biodiversity o f global importance, minerals, and
+a strategic location in Central Africa with a deep-sea port at Pointe-Noire. However, economic
+growth was severely hampered by heavy state intervention in the economy in the 1970s and
+1980s and recurrent conflicts in the 1990s, which ravaged the infrastructure and destroyed public
+institutions.
+3.
+Since the ceasefire in 2000 and adoption of the new Constitution in 2002, the
+country has been largely at peace. Although the political environment remains fragile, the
+country has made substantial progress in rebuilding the state and consolidating peace. Congo i s
+now in the midst o f i t s second election cycle since the end o f war: legislative elections were held
+in mid-2007, and the next presidential election i s scheduled for July 2009. In June 2008, the
+government reached a political settlement with Pastor Ntoumi - the leader o f a rebel movement
+(known as the Ninjas) in the Pool region, the only remaining belligerent element in the country's
+civil war. The disarmament o f his estimated 5,000 followers started in February 2009, and so far,
+2,800 weapons have been collected. Prospects for full restoration o f peace offer Congo a unique
+opportunity for focusing its full attention on strengthening its s t i l l fledgling institutions, and
+stimulating robust economic growth in order to combat poverty and inequality.
+4.
+This institution building and economic renaissance process will be greatly facilitated
+by stronger regional integration. Congo i s a member o f several regional bodies, such as: the
+Organization for Harmonization o f Businnes L a w in Africa (Organisation pour I 'Harmonisation
+en Afiique du Droit des Affaires - OHADA), which aims at harmonizing commercial law in
+Francophone Africa; the Economic Community for Central African States (Communaute'
+Economique des Etats de IYfiique Centrale, CEEAC), which fosters trade and economic
+cooperation among the Central African member states; and the Central African Economic and
+Monetary Community (Communaute' Economique et Mone'taire de IYfiique Centrale, CEMAC),
+which maintains monetary and exchange rate policies among i t s six members'. As discussed later,
+full implementation o f the commitments under these institutions would go a long way in
+CEMAC members are Cameroon, Central African Republic, Chad, Equatorial Guinea, Gabon, and
+Republic o f Congo
+
+1
+
+facilitating Congo’s recovery and in positioning itself to more effectively tap into the many
+opportunities made possible by regional integration.
+
+B.
+POVERTY PROFILE AND PROGRESS TOWARD MILLENNIUM
+DEVELOPMENT
+GOALS
+
+75% (estimated)
+
+to safe water.
+
+38% (2008)
+
+Low
+
+This i s based on data from the 2005 household survey. New survey results are expected in 2010.
+
+2
+
+C.
+
+ECONOMICCONTEXT
+
+i) Recent Economic Developments and Medium Term Prospects
+
+7.
+Congo has made significant progress on economic stabilization and “first
+generation” structural reforms since the end o f civil strife in 2000. GDP at constant prices
+nearly doubled from 2002 (US$735 million) to 2008 (US$1,425 million), while inflation has
+remained broadly under control. The international environment was certainly favorable, as the
+surge in world o i l prices helped Congo improve i t s fiscal and external positions. Nonetheless,
+strengthened macroeconomic policies, most notably on fiscal discipline and debt management
+also played a key role in Congo’s economic recovery. Basic institutions for economic
+management carry out their roles reasonably well, even though they are s t i l l hampered by low
+capacity.
+Economic performance has been strongly affected by swings in production levels
+8.
+and oil prices, exacerbated by the onset o f the global financial crisis in recent months. As
+table 2 shows, GDP contracted in 2007 by 1.6 percent in real terms, mostly due to an accident on
+a major o i l platform, which led to a sharp drop in o i l production. This illustrates the dominant
+role o f oil in the economy. O i l production recovered strongly in 2008, but this was partially offset
+by the onset o f the global financial crisis in the second part o f the year. Real GDP growth in 2008
+was 5.6 percent.
+
+9.
+Economic growth i s expected to accelerate in 2009 and 2010, before sharply
+dropping in 2011. This growth i s largely driven by o i l production. Current projections foresee a
+strong increase in o i l output in the next two years, thanks to new concessions coming on stream.
+This would lead to a peak in o i l production in 2010, followed by a gradual decline in subsequent
+years as o i l wells start gradually drying up (see Figure 1 be lo^)^. This o i l production trajectory
+would propel real GDP growth to a projected 9.5 percent in 2009 and 11.9 percent in 2010,
+followed by a fall to 1.1 percent in 20 11, in tandem with the projected decline in o i l output4. Nonoil GDP growth has seen a decline since mid-2008 due to the impact o f the global financial crisis
+on some export-related sectors (especially timber). This impact i s expected to worsen in 2009,
+with non-oil growth projected at 3.5 percent against 5.4 percent in 2008, before it would
+gradually recover in 20 10 and 20 11. Inflation remained subdued in recent years, but accelerated
+to 5.3 percent in 2008, mainly due to food and energy price hikes early in the year. It i s projected
+to stay at around 3 - 4 percent in coming years, as demand i s expected to remain l o w because o f
+the crisis.
+
+10.
+The strengthening o f Congo’s external position over the past years has helped build
+a solid cushion of international reserves. Driven by higher o i l export earnings, Congo’s current
+account deficit over recent years has declined to 6.6 percent o f non-oil GDP in 2008. The capital
+and financial balance also improved due to higher net direct and short term investments (mostly
+related to the o i l sector). As a result, the overall balance o f payments registered a surplus o f 21.8
+percent o f GDP in 2008 and gross international reserves grew to a very comfortable level o f 14.1
+months o f imports. This “cushion” i s critical in the face o f the currently low o i l prices and the
+impact of the global crisis on the external position in the months ahead. Indeed, the current
+account balance i s projected to fall considerably to -18.9 percent o f GDP in 2009, due to the
+slow-down in o i l prices and the fall in international demand for other export goods, in particular
+
+~~
+
+This trajectory i s based on conservative projections and could change if new significant commercially
+viable reserves are found and brought into production.
+This projecteddecline in growth precedes the recent arrival o f the global financial crisis, although the
+crisis could aggravate it, if it undermines fbture exploration.
+
+3
+
+timber. As net capital inflows are also projected to decrease, the overall balance o f payments i s
+projected to turn into a deficit o f 3.6 percent o f GDP in 2009.
+Table 2: Main Macroeconomic Indicators
+Real GDP Growth (YO)
+Real non-oil GDP Growth (%)
+Inflation (CPI average)
+Gross investment (% of GDP)
+Private investment (% of GDP)
+Real effective exch. rate (change in %)
+(as % of non-oil GDP)
+Total Revenue
+Non-Oil revenue
+Total expenditure
+NOPD
+Overall balance
+Ext. current acct. balance (% of GDP)
+Gross international reserves (months
+of imports)
+Debt-to-GDP ratio (%)
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009*
+
+2010*
+
+2011*
+
+2012*
+
+3.5
+5.0
+3.7
+22.5
+5.6
+4.5
+
+7.8
+5.4
+2.5
+22.5
+5.0
+-OB
+
+6.2
+5.9
+4.7
+23.4
+4.6
+
+-1.6
+6.6
+2.6
+27
+5.7
+3.1
+
+5.6
+5.4
+5.3
+22
+4.8
+O5
+
+9.5
+3.5
+3.9
+33.7
+7.0
+0.9
+
+11.9
+6.0
+3.5
+27
+5.8
+
+1.1
+7.5
+3.0
+27.4
+5.9
+1.5
+
+1.8
+7.5
+3.0
+28.4
+6.3
+
+69.9
+19.5
+61.6
+-25.9
+8.4
+
+108.2
+19.1
+67.4
+-29.6
+40.8
+
+141.5
+20.5
+88.8
+-51.3
+52.7
+
+113.5
+20.1
+86.3
+-55.7
+27.1
+
+160.4
+22.3
+80.1
+-44.7
+80.3
+
+69.4
+23.2
+73.9
+-38.3
+-4.5
+
+120.8
+23.5
+66.9
+-34.2
+53.9
+
+114.6
+25.1
+63.9
+-30.2
+50.7
+
+105.8
+28.1
+60.7
+-26.9
+45.1
+
+8.6
+1.4
+
+3.2
+7.2
+
+-4.9
+10.6
+
+-26.0
+9.3
+
+-6.6
+14.1
+
+-18.9
+14.1
+
+6.7
+19.4
+
+5.2
+25.2
+
+2.1
+30.9
+
+198.7
+
+108.3
+
+81.6
+
+112.7
+
+58.1
+
+70.5
+
+53.8
+
+53.7
+
+54.2
+
+(*) Projections as of March 2009
+Source: IMF and Congolese authorities, Bank staff calculations.
+
+11.
+Fiscal performance strengthened markedly in 2008, enabling the start o f a new
+three-year PRGF program supported by the IMF in October 2008. Adhering to an effective
+fiscal policy i s particularly critical, given that monetary and exchange rate policies are set by the
+regional monetary body (CEMAC). In this regard, Congo has met all but one o f CEMAC’s
+convergence criteria in the latest assessment by the Convergence Committee (see Box 1). The
+2008 fiscal targets o f the PRGF were respected and a substantial reduction in the non-oil primary
+balance achieved. Particularly encouraging was the continued improvement in performance o f
+non-oil revenue collection and the prudent approach to increasing spending in spite o f the o i l
+revenue windfall registered in the first half o f the year. In reaction to the fall in o i l prices starting
+late 2008, the Government adopted a prudent fiscal stance in the 2009 budget. A considerable
+reduction in current spending i s envisaged, while maintaining the planned cautious expansion in
+public investment. The latter i s aimed at offsetting the impact o f the international financial crisis
+on the economy. Spending control i s also in conformity with the need for long term adjustment o f
+the high non-oil primary deficit (45 percent o f non-oil GDP in 2008), which i s not sustainable,
+especially given that o i l production i s projected to decline gradually from 201 1 onwards.
+12.
+Congo’s external debt situation has improved significantly since 2006, and will do so
+further once the HIPC Completion Point i s reached. Since the Decision Point in March 2006,
+Congo’s net public debt has declined significantly, from total-debt-to-GDP o f 199 percent at end2004 to 58 percent at end-2008. This i s mainly due to interim debt relief granted in the context o f
+the HIPC process, most notably through two substantial agreements with the London Club o f
+private creditors in November 2007 (cancellation o f US$l.6 billion in outstanding debt) and with
+the Paris Club in December 2008 (cancellation o f US$805 million and rescheduling o f US$l55
+million). In spite o f these significant improvements in debt ratios, the most recent Debt
+
+4
+
+Sustainability Analysis (DSA)’ conducted by Bank and Fund concludes that Congo’s gross
+external debt i s at high risk o f distress. This assessment reflects mainly Congo’s vulnerability to
+Completion Point before end-2009 if
+movements in o i l prices. Congo could reach the I-IPC
+reform progress i s sustained, especially on public investment management, procurement,
+governance, and o i l sector.
+Box 1: CEMAC Convergence Criteria
+
+As a member of the regional monetary union, Congo i s committed to respecting the CEMAC Convergence
+Criteria. These Criteria have been updated in 2002. They are monitored through a regular multilateral
+surveillance process by a Convergence Committee, composed of representatives of the West Afiican
+Economic and Monetary Union, the CEMAC, the Union of the Comoros, and France. The Committee
+provides concrete recommendations to member states on strengthening policies with a view to meeting all
+criteria. The latest assessment o f the Committee of April 2008 concluded that Congo had met all targets for
+the primary indicators, with the exception o f the debt target (see table below). In regional comparison, only
+Benin and Cameroon had met all targets in 2007. Congo’s situation i s not expected to have changed
+radically since the April 2008 assessment, as the presentation of latest data related to the indicators reveals.
+
+-
+
+Table 3: CEMAC Convergence Criteria Status of Congo
+
+’From Report by the Convergence Committee to CEMAC Ministers (April 2008)
+As per latest data from authorities, Fund and Bank Staff calculations
+. This is based on moving averages of oil revenues.
+
+’
+
+ii)Real Sector Development - the Dominance of Oil
+
+13.
+Congo’s economy has experienced positive growth since the end o f the civil war.
+Real GDP growth in 2001-2008 averaged 3.8 percent and particularly encouraging was the strong
+non-oil growth, which averaged 7.6 percent over the same period. This record needs to be
+qualified, though, by the fact that most economic activities were at a low point at the end o f the
+civil war. O i l production, in contrast, slightly contracted during the period (-0.9 percent), largely
+due to a significant drop in production in 2007 (-17.2 percent).
+14.
+Thanks to the increase in oil prices over the past years, however, the oil sector
+expanded significantly in nominal terms, increasing further its share in overall output. The
+share o f o i l in nominal GDP has grown from 59 percent in 2001 to 69 percent in 2008. As shown
+in Table 4, the weight o f non-oil sectors in the economy i s small; the second largest sector
+(services) only amounted to 21 percent o f nominal GDP in 2008. The weight o f non-oil sectors
+has decreased over the past years, due to unfavorable relative price and exchange rate
+developments, and key growth constraints related to infrastructure and an unfavorable business
+5
+
+See Annex 2 for a recent update of the external DSA. A full DSA will be prepared in the second semester
+o f 2009.
+
+.
+
+5
+
+climate. These numbers are likely t o underestimate the dominance o f oil, as a substantial part o f
+economic activities in non-oil sectors depends directly or indirectly o n o i l production in the form
+o f services consumed by o i l companies or public contracts financed by o i l revenues (see Box 2
+for details o n the 6 i l sector).
+Table 4: Share of Main Sectors in Nominal GDP
+(Percent)
+Average
+1999-2002
+
+Oil
+Services
+Other
+
+Average
+2003-2006
+
+59
+61
+26
+24
+16
+14
+Source: Congolese authorities, Bank calculations
+
+Average
+2006-2008
+66
+21
+13
+
+Box 2: Congo’s Oil Sector
+
+Oil production started in 1957, and during the 1980s and 199Os, Congo’s crude production quadrupled,
+from 65,000 barrels per day in 1980 to an average o f 280,000 barrels per day in 2000, mostly from offshore
+fields. Following a decline in the early 2000s, production increased from 227,400 barrels per day in 2004 to
+288,000 barrels per day in 2008, thanks to new investment and increased oil recovery from mature fields,
+making Congo the 4” largest oil producer in Sub-Saharan Africa. However, if no new major discoveries are
+made, oil production i s projected to gradually decline after 2010.
+Oil prices rose from an annual average o f US$17 per barrel during 1975-79 to about US$33 per barrel in
+the first half o f the 1980s. In 1981, the Government adopted an ambitious five-year development plan.
+Public investment increased by an annual average o f 15 percent between the second half o f the 1970s and
+the first half o f the 1980s. During that period, the Government mortgaged a substantial portion o f i t s oil
+earnings through oil-backed loans that contributed to a growing debt burden and chronic revenue shortfalls.
+The oil bonanza came to an end in the second half o f the 198Os, however, when oil prices declined to an
+annual average o f about US$18.50 per barrel during 1985-89. Limited adjustment led to a long-term
+economic crisis, which contributed significantly to the internal conflicts o f the late 1990s.
+Today, most oil production i s carried out under production sharing agreements. Major external partners are
+Total, EN1 and Chevron. The Socie‘te‘Nationale des Petroles du Congo (SNPC), the national oil company,
+i s the Government’s counterpart to international companies in these agreements. In September 2008, SNPC
+started oil exploitation on its own on a small onshore well.
+SNPC’s oil commercialization and accounting practices are not yet up to international standards, resulting
+in Government achieving oil revenue levels well below their potential. A key factor was the fear o f seizure
+o f oil deliveries by “vulture funds”. This problem was solved by a settlement reached in 2008. Capacity
+building efforts on improving effectiveness and transparency at SNPC in commercialization and accounting
+are underway, supported by the HIPC process. Receipts o f Government oil sales by SNPC and private
+operators are transferred into the treasury account at the BEAC. These transfers are certified each quarter
+by KPMG, and published on the internet. The division o f oil revenues into budget spending and saving in
+Congo’s oil stabilization account at the BEAC i s largely determined by fiscal targets, which are derived
+from a Permanent-Income model that provides a path towards long-term fiscal sustainability. This path
+demands a sharp adjustment over the next years, given the currently high levels o f the non-oil primary
+deficit. Since 2003, Congo’s overall fiscal balance has been in surplus, enabling the Government to set
+aside substantial amounts into the stabilization account.
+CORAF, a state-owned refinery, has been in operation for the past thirty years. I t caters to a narrow
+domestic market (about 7 barrels per day) and has performed poorly for most o f i t s existence. Large
+subsidies kept the refinery alive and the prices for domestic consumers low. In 2005, an action plan to
+reduce the unit cost from US$8 per barrel to at most US$5 per barrel was adopted, and i s currently under
+implementation. With the sharp increase in oil prices, CORAF was able to make a profit in 2008. With
+further improved performance and improved transport infrastructure, it could supply the regional market.
+
+6
+
+15.
+The oil sector provides much needed resources for public investments yet its
+overbearing dominance in the economy i s a major challenge for economic management. The
+o i l sector not only makes up the lion’s share in production, but has also contributed 93 percent to
+exports and 84 percent to government revenues on average from 2005 to 2008. Oil revenues bring
+the benefit o f relatively large resources for financing public spending (the allocation o f about
+US$1 billion to the investment budget per year i s large relative to the size o f Congo’s economy).
+However, this dependence on o i l revenues poses challenges due to the volatile and finite
+character o f the resource (see below).
+
+16.
+M o r e generally, the reliance on the oil sector i s problematic for the Congolese
+economy, as this sector has a limited capacity to generate employment, and poses an
+inherent obstacle for improving competitiveness. The prominence o f the o i l sector, in
+particular during the recent o i l price boom, has diverted productive resources from traditional,
+more labor-intensive exports towards o i l extraction and related activities. The significant
+appreciation o f the real effective exchange rate (about 20 percent between 2001 and 2007
+according to the IMF) has led to erosion in competitiveness.
+iii)Impact o f the Global Financial Crisis
+17.
+The global financial crisis poses a serious threat to economic stability and growth in
+Congo, but it i s also an opportunity, as it gives more urgency to implementing the reform
+agenda. An early assessment has revealed that Congo i s vulnerable to the effects o f the global
+financial crisis mainly through the following potential transmission channels:
+
+The steep fall in prices for its main commodity exports (oil and timber) and the fall in
+demand for Congolese timber (projected at -50 percent for 2009), which have a substantial
+negative impact on the current account (the severe impact on the timber industry has already
+led to a significant reduction in employment in this labor-intensive industry that i s the
+mainstay o f several towns in the north o f the country);
+The sharp drop in fiscal revenues due mainly to the fall in o i l prices, which - if prices are to
+stay at their current low levels - will lead to a 50 percent reduction in o i l revenue in 2009
+compared to 2008;
+The negative demand effect on the economy if public expenditure levels have to be reduced
+in case the o i l price shock becomes more severe or prolonged;
+The drop in Foreign Direct Investment, which could experience a major reduction in the
+medium term, if o i l companies reduce their investments related directly or indirectly to
+extraction;
+The risk o f contagion o f the local financial sector, which i s considered relatively small at this
+point, as Congo’s financial sector i s underdeveloped and not well integrated into the global
+markets.
+18.
+Although large oil savings and balance of payment surpluses accumulated over the
+past years provide Congo with room for maneuver to face the crisis, a deterioration o f the
+situation or a delay in recovery could result in a difficult economic situation. The authorities
+have taken on a relatively prudent fiscal stance for 2009, which aims at reducing current
+spending, while maintaining the planned expansion o f public investment. This should, together
+with the cushion o f the o i l savings and accumulated foreign reserves, protect the country from a
+precarious fiscal and external situation for the moment. However, if any or several o f the effects
+o f the crisis described above become more severe or if the o i l prices and demand for other export
+goods fail to recover within the next few months, Congo might face a dire fiscal and external
+situation and serious reversal o f its path to economic expansion,
+
+7
+
+19.
+Responding to the crisis will require further progress on maintaining fiscal
+discipline and increasing spending efficiency, as well as accelerating structural reforms. To
+avoid jeopardizing much needed public investments in critical infrastructure, controlling spending
+(particularly in the current budget) by reducing nonessential spending items will become even
+more urgent. The same applies to following through with structural reforms, particularly those
+aimed at promoting diversification. In this sense, the crisis i s also an opportunity, as it gives more
+urgency and facilitates political consensus on implementing the reform agenda.
+
+In.COUNTRY CHALLENGES AND STRATEGIC PRIORITIES
+A.
+
+MAINCHALLENGES
+AND OPPORTUNITIES
+
+20.
+
+The key policy challenge for Congo i s to use its oil wealth to build a more diversified
+and competitive economy and, thereby, reduce poverty and improve social policy outcomes.
+I n order to take advantage o f this opportunity, the difficult economic and governance challenges
+that come with the economy’s strong dependence on oil will have to be addressed, including
+strengthening i t s capacity in budget and public financial management. Beyond this, however, i s
+the imperative to diversify the economy progressively away from oil by developing Congo’s nonoil economy in order to generate stable income and employment opportunities and add value to
+the country’s other resources. Finally, there will be a need to improve basic service delivery and
+strengthening public institutions, not just as a pre-requisite for sustained growth, but also to make
+sure that the growth outcomes are well distributed among the Congolese people in order to help
+reduce poverty and inequality.
+
+i)Enhancing Transparency and Effectiveness in Oil Revenue Management
+21.
+
+Sound policies and practices in managing the different steps in the oil value chain
+are critical for seizing the opportunity offered by Congo’s oil wealth. This includes
+maximizing oil revenues through favorable contractual agreements with oil companies,
+improving oil revenue projections, maintaining prudent levels o f spending in view o f long term
+fiscal sustainability, and smoothing the impact o f oil price volatility. Consolidating ongoing
+efforts on increasing transparency and effectiveness in the management o f the national oil
+company (SNPC) and in i t s financial relations with oil producers and the treasury i s important in
+order to reduce arbitrary and ineffective decision making in the management o f this critical
+resource.
+
+22.
+The finite character of Congo’s oil poses difficult challenges for oil revenue and
+fiscal management policies. According to the latest projections based on proven reserves, Congo
+will still benefit from very substantial oil revenues for the next two years but will have to adapt to
+a gradual decline in these revenues from 2011 onwards6. Figure 1 depicts the projected oil
+production profile and level o f oil revenue over the next years. Even assuming a slow recovery o f
+oil prices over the coming years from their current low level, oil revenues will provide very
+substantial amounts o f resources for the country to invest in enhancing its infrastructure. On
+average, from 2009 to 2014, annual oil revenues are projected at FCFA 3,385 billion (about
+US$6.8 billion). This will allow the Government to continue i t s current public investment outlays
+o f about FCFA 600 billion (US$1.2 billion) per year, which i s huge given the size of the
+Congolese economy.
+
+As indicated earlier, this trajectory could change if new significant commercially viable reserves are
+found and brought into production.
+
+8
+
+23.
+Managing volatility of oil prices i s another critical challenge, as the recent
+experience with the steep fall in prices in the second half o f 2008 has clearly illustrated. As
+more than 80 percent o f government revenues stem from oil revenues, oil price volatility makes it
+difficult for the authorities to maintain continuity in levels o f public spending. Currently, Congo
+i s managing this volatility through a stabilization fund held at the BEAC, coupled with the use of
+an oil reference price for budgeting. Due to the positive price trends over the past years, Congo
+has been able to feed the stabilization fund with considerable amounts o f oil revenue savings. In
+2009, the government i s considering using some o f these reserves, in case the oil price falls below
+the reference point adopted in the budget (US$43 per barrel for Congolese oil). While the current
+approach to stabilization i s generally functioning, it could be rendered more transparent and
+predictable, including by institutionalizing it through a legal framework.
+
+24.
+
+Congo has come some way in improving effectiveness and efficiency in oil sector
+management, but critical reforms are still outstanding. In terms o f transparency, main
+achievements include the certification o f oil receipts by external auditors and their publication on
+the internet on a quarterly basis. In 2008, Congo reached candidate status in the EITI process.
+Structural reforms underway include oil marketing and accounting practices o f the national oil
+company (SNPC), and the upgrading o f the national refinery in Pointe-Noire. These reform
+efforts will have to be consolidated and complemented by actions aimed at clarifying and making
+more transparent the fiscal relationship between the national oil company and the budget,
+institutionalizing fiscal rules and savings-versus-spending policies, and improving management
+o f oil revenue surpluses at the BEAC.
+Figure 1: Oil Production and Revenue Projections for Congo
+
+I1
+
+140
+
+2500
+
+........................................................
+Source: IMF, Congolese authorities, Staff calculations
+
+I
+
+...............................................................................................................................................................
+
+ii)Strengthening Capacity in Budget and Public Financial Management
+25.
+A comprehensive public financial management action plan i s under implementation
+since March 2008, aiming at addressing weak capacity and he lack o f openness of budgetary
+and public financial management institutions in Congo. The action plan provides a framework
+to advance on reforms aimed at improving the quality o f programming and executing budgetary
+
+9
+
+resources, which i s critical for the effective use of the oil wealth. Given the substantial resources
+available for public investments, enhancing capacity in managing projects financed by the budget
+i s of particular importance. But the quality o f budget and public financial management does not
+only depend on strengthening government institutions, but also on facilitating public access to
+essential budget information and increasing the capacity of non-governmental actors to
+understand this information.
+
+26.
+
+Advancing on public financial management and budget management reforms will
+require to focus efforts on a few priority measures, most of them already underway. These
+measures are related to the different dimensions of the budget management chain:
+
+Budget preparation. With the PRSP, there i s now a solid general strategic framework for
+the preparation of the budget. However, more detailed guidance on allocating budget
+resources i s required through well developed sector strategies. Efforts are underway to
+elaborate such strategies, which today only exist in a few sectors (health, education and
+transport). The introduction o f a three-year rolling Medium Term Expenditure
+Framework (MTEF) i s a critical step for translating PRSP priorities into the budget and
+ensuring consistency with available resources. The MTEF reform has started and key
+elements (macroeconomic framework, central MTEF and 2-3 sector MTEFs) should be in
+place for the preparation of the 20 10 budget.
+Budget execution. Monitoring and control systems on budget execution remain
+inadequate. A particularly serious challenge i s the reform o f budget execution
+procedures, including internal controls, which are overly complex and cumbersome and
+give rise to substantial fiduciary risks. Theses weaknesses encourage recourse to
+emergency spending procedures (“payment par anticipation”). Although they have
+become less frequent, they are s t i l l used, especially in the context of public works.
+Implementing the Government’s reform plan for computerizing and simplifying budget
+execution procedures i s therefore a high priority.
+Public investment management. Programming and execution of public investment has
+been hampered by limitations on strategic planning, especially regarding prioritization o f
+infrastructure projects, and clarification of institutional roles in selecting, preparing,
+appraising, and monitoring projects. A public investment management action plan was
+adopted in early 2009 to address this challenge.
+Procurement. A new procurement code i s near adoption. This code and the institutional
+changes that i t s application will require are critical to redress current procurement
+practices, which are marked by a lack of competition, transparency and poor contract
+management,
+External controls. Efforts to introduce “checks and balances” on budgetary management
+since the end of the civil war need to be consolidated. Priorities in this regard are
+measures to: (i)improve the quality and availability of Government accounts; (ii)
+strengthen the Court o f Accounts (Cow des Comptes) which was created in 2005; and
+(iii)to bring the preparation o f budget reporting laws (lois de rkglement) and their
+examination by the Court of Accounts up to date.
+Reporting on budget results. There have been important efforts to improve the quality and
+availability of reports on budget results to parliament and the public. Basic budget data i s
+made available to the public, including by posting reports on the Government’s website,
+albeit with interruptions and delays. Discussions at the Parliament on the budget are
+broadcast on national television.
+
+10
+
+iii)Potential Sectors for Non-Oil Growth
+27.
+Congo should exploit its comparative advantages related to its geographic position
+and natural resource endowment to promote non-oil growth. A priori, sectors with strong
+growth potential include transport services, agribusiness, forestry and mining.
+TranspodTransit services. Thanks to i t s deep sea port in Pointe-Noire, the only one in
+the sub-region, Congo has a great potential to play a major transit role for the Congo
+River Basin countries. The development o f the transport infrastructure has great potential
+to boost the local economy and intra-regional trade. This will accrue direct benefits
+associated with construction activities, port services, and transport services like the
+trucking industry, etc., as well as indirect benefits in the form o f lower transport costs and
+productivity gains, and improved access to domestic and regional markets.
+Agriculture. Congo has a considerable potential for agricultural production, but currently
+the output from the sector covers less than 30 percent o f the country's food needs, with
+the rest imported. Once cross-border connections are improved and trade barriers
+lowered, huge potential markets for Congolese agricultural products would be reachable,
+including the 10 million strong Kinshasa market, which i s only a short distance away
+across the river from Brazzaville. Yet, out o f 10 million hectares o f arable land, only 2
+percent i s currently exploited.
+Forestry. Covering over 65% o f the Congo's land area, forests are key to the social and
+economic life o f the country and a strategic asset to the global environment. Forest
+management practices and degradation trends vary profoundly between the north o f the
+country where forests are better managed and preserved, and the south where population
+density i s higher, law enforcement weaker and degradation more pronounced. More than
+12% o f Congo's land area has been set aside as biodiversity reserve and national parks,
+and progressive forest management rules and monitoring systems are increasingly
+adopted. Progress i s also being made in recognizing and strengthening traditional rights
+o f forest communities and indigenous populations. Between 2000 and 2005, industrial
+forest output doubled, and local processing increased significantly. The international
+financial crisis hit the Congolese forest sector earlier and more heavily than any other
+country in the sub-region: several companies have halted production and a few have
+closed. Nonetheless, mid and long term prospects for the forest industry remain strong
+while additional forest-based sources o f income are emerging through tourism and global
+trade o f environmental services (see Box 3).
+Mining. There are strong indications o f deposits o f magnesium, gold, diamonds, potash
+and iron, but exploration has been extremely limited so far. Negotiations with investors
+for concessions are at different stages. A mining code was enacted in 2005, but
+implementing decrees have not yet been issued.
+
+11
+
+Box 3: Congo’s Forests and Environment
+
+Forests are important to the Congolese economy, and to the global environment. They account for 10% of
+non-oil GDP, 12,000 jobs, US$200 million of exports, and US$40 million in fiscal revenues. Additional
+contributions to the national economy, not captured by statistics, include bush-meat (critical to the nutrition
+o f the rural poor) and wood for domestic energy and building materials. Industrial output doubled between
+2000 and 2005 along with the local processing capacity currently estimated at over 60% of production
+(although production has recently slowed down due to the current global economic crisis). Congo i s
+positioning i t s e l f as a potential provider of environmental services to the emerging global markets and i s
+giving more prominence to its national parks as an international tourist attraction.
+Convinced that if well managed forests can help diversify the economy and contribute to sustainable
+growth, the Government demonstrated leadership in completing a comprehensive forest and environmental
+sector study in collaboration with a wide range of national and international constituencies and the World
+Bank. This study provided a candid analysis of challenges and opportunities, and served to indentify the
+forest and environment policy measures to be met in the fiamework o f the HIPC Completion Point.
+Whereas good progress has been made on the policy fiont, the study concluded that many issues must be
+tackled to secure sustainability of the forest resource base, and set the stage for continued economic
+growth. The following needs were highlighted among others: strengthening institutional capacity; adopting
+and enforcing environmental safeguards; creating incentives to ensure that a more balanced mix of forest
+tree species are utilized and local transformation and value addition are increased; improving governance
+and enforcement of forest laws and regulation; correcting unresponsive taxation policies; stepping up
+policies and programs that support rural and indigenous populations in living in forest areas; improving
+management and promoting tourism in natural parks and creating capacity in the new areas of forest carbon
+trade.
+The experience o f recent years has demonstrated that policy reforms alone are not sufficient to realize the
+potential o f forests and that these must be accompanied by specific investments and work programs in the
+field. With this in mind the Government has requested the World Bank to complement the support it i s
+already receiving from the EU, France and the African Development Bank and finance a comprehensive
+program o f investment and innovation in the field of forests and the environment.
+
+iv) Addressing Main Structural and Sectoral Constraints to Non-Oil Growth
+
+28.
+Stimulating growth in the above sectors will require, among other things, tackling
+impediments to the promotion o f Congo’s potential as a transport hub, enhancing i t s investment
+and business climate, promoting efficiency in the use o f i t s public resources, improving i t s human
+capital, and strengthening i t s public institutions.
+
+a) Promoting Congo’s Potential as a Transport Hub/Fostering Regional Integration
+
+29.
+Implementing Regional Initiatives. Regaining the country’s critical role as a gateway
+to the world for its landlocked or quasi-landlocked (e.g. Democratic Republic of Congo)
+neighbors will require vigorous implementation o f various regional initiatives. Although
+Congo’s trade with neighboring countries i s s t i l l a tiny share o f i t s total external trade, there i s
+potential for growth, especially in agricultural products. As a small country close to some o f the
+sub-region’s big markets, Congo stands to benefit from greater regional integration by exporting
+or providing services .(such as transit services) to these markets. However, taking advantage o f
+these market opportunities requires the Government to implement i t s regional commitments
+under the various regional institutions such as OHADA, CEEAC, and CEMAC. This would also
+facilitate Congo’s role as a transit country.
+
+12
+
+30.
+Developing key transport corridors. Regaining its historical transit role will also
+require improving transport infrastructure and transport services, especially on key
+transport corridors. The poor state o f Congo’s transport infrastructure makes it unable to
+support the needed economic diversification into such areas as transit services, forestry,
+agriculture and mining, or extend quality basic services to i t s population. The reach o f the rail and
+road network i s limited, and i t s condition poor, with insuficient maintenance carried out. The
+once thriving river transport up the Congo River from Brazzaville to Bangui has been reduced to
+minimum capacity due to silting o f the river and limited port and transport capacity. Lack o f a
+bridge between Brazzaville and Kinshasa remains a bottleneck to increased trade between the two
+neighboring countries.
+31.
+The main transport corridors are: the Point-Noire - Brazzaville rail and road
+corridor, the Brazzaville - Sangha northern river corridor, and the Brazzaville - Kinshasa
+cross-river corridor. Major investments in the port o f Point-Noire are underway, as well as
+concessioning arrangements for the railway line between Pointe-Noire and Brazzaville, and
+construction o f the accompanying road link. Investment options and development plans are either
+yet to be developed or are s t i l l under discussion for the Brazzaville port, the Brazzaville-Kinshasa
+cross-river stretch, and the Brazzaville-Sangha river corridor. Apart from physical infrastructure,
+promoting transit services will also entail improving customs procedures to make them more
+efficient, establishing an appropriate regulatory framework, instituting revenue sharing
+mechanisms with neighboring countries’, and improving transport infrastructure maintenance,
+including transforming the current Road Maintenance Fund into a second generation road fund.
+
+32.
+Improving Telecommunication Infrastructure. Similarly, good telecommunication
+infrastructure i s needed for robust economic growth and regional integration. The quality o f
+Congo’s fixed line telecommunication network and the provision o f basic voice telephony
+services are poor. Severe funding shortages have rendered the principal operator unable to
+perform the needed repairs to the network which was severely damaged during the civil
+disturbances o f the 1990s. While wireless penetration has surpassed fixed line teledensity since
+1999, and the three GSM-based mobile operators have currently more than 2 millions active
+subscribers (as o f October 2008), the absence o f modern backbone infrastructure at the national
+level i s a major limiting factor. Most telecommunication operators do not have broadband
+terrestrial networks and rely on expensive and poor quality satellite connectivity to link cities at
+the national level. InternationaVregional connectivity i s also poor.
+
+b) Enhancing the Investment and Business Climate/Promoting MSMEs
+33.
+The very low rank o f Congo in the Doing Business Ratings (178 out o f 181 countries
+in 2009) underscores Congo’s highly uncompetitive business environment. The country
+performs poorly in all assessed categories, especially on taxes, labor laws and regulations,
+property registration, contract enforcement, and trading across borders. In addition, the country i s
+characterized by a very small private sector, a legacy o f its Marxist past that favored civil-service
+aspirations (‘tfonctionariat’) over entrepreneurship (“entrepreunariat”), as well as an
+underdeveloped financial sector, which provides very limited credit to the economy. Solving
+these issues i s critical to the emergence o f a robust private sector’. Experience elsewhere in the
+region has shown that significant and rapid improvements are possible in these areas.
+
+~~
+
+’For instance, such revenue sharing might need to be explored t o make the port o f Pointe-Noire attractive
+
+for third countries.
+A recent business climate assessment supported by the Bank revealed deficient infrastructure, lack o f
+access t o finance, red tape (high costs and time required for licenses and business registration), governance
+issues, and lack o f skilled workers as m a i n constraints to private sector development.
+8
+
+13
+
+e) Improving Standards of Governance and Transparency
+
+34.
+Governance and transparency issues constitute the backbone of the H I P C agenda, a
+reflection of the perceived weaknesses in the governance system o f the Republic of Congo.
+Whereas some progress was made during the I S N period on transparency issues in the extractive
+industries as discussed in paragraph 23 above, serious issues remain on many aspects o f
+governance. The governance diagnostic study, which was adopted by the Government in March
+2009 highlights, among other things, corruption in revenue collection, in the police force, and in
+the health and education sectors (see Box 4 on proposed mitigation measures). A range of
+measures have been taken by Government, both on the supply side and on the demand side of
+governance. Full implementation o f these measures should go a long way in tackling the
+country’s governance challenges.
+Box 4: Governance Issues
+Weaknesses in the governance system o f the Republic of Congo continue to pose significant risks to progress on
+the country’s development agenda. The diagnostic study on governance and anti-corruption, which was carried
+out during 2008 (finalized in March 2009) and endorsed by government, highlights a deterioration in the quality
+of service delivery and increased levels o f Corruption in key sectors, compared to the 2003 study financed by
+United Nations DevelopmentProgram. Perceived levels of corruption and weak governance in the most affected
+institutions (customs, police and tax authorities) have increased significantly over the said period, while the
+situation in institutions that were hitherto perceived to have the least problems (such as local governments) also
+deteriorated. Corruption was also reported in service delivery institutions, such as schools and hospitals. Despite
+some recent progress, there s t i l l are some governance issues in key public sector enterprises, such as the SNPC.
+The Government has recently launched a series of initiatives to address the issues cited above. The reinforcement
+o f the National Anti-Corruption Commission and the creation of the independent ‘Observatoire Lutte contre la
+Corruption ’ , anchored in civil society, have given increased visibility to the issue o f corruption and governance.
+The finalization, in March 2009, o f the draft national Governance and Anti-Corruption Action Plan, and the anticorruption law, are hrther important achievements for these institutions. Both documents are now awaiting
+approval by the Government and, in the latter case, Parliament as well. The Governance and Anti-Corruption
+Action Plan, in particular, sets out a series of concrete and measurable actions, and provides a platform for
+moving forward on this important agenda. The adoption and implementation of action plans on public financial
+management and public investment management, and the impending reform plan on oil commercialization
+practices, should bring more transparency to public management processes. Finally, important sector initiatives,
+such as the establishment o f national EITI structures for the oil sector, the integration o f international
+independent observers into forest control operations, and the publication of the Congo Forest Atlas (via internet)
+have also been initiated.
+While the creation o f institutions and the design and implementationof legislation and action plans can only be a
+first step towards addressing deep-seated governance issues, the renewed commitment by the government to take
+decisive action i s equally important. This i s a long term process and results cannot be expected overnight.
+Continued support from development partners on all aspects o f governance i s crucial for full implementation of
+this agenda. The CPS, therefore, commits the Bank to continued engagement with government to ensure that the
+issues highlighted in the 2009 diagnostic will be addressed in a way as to enhance the quality o f public services.
+
+d) Improving Human Capital and Strengthening Public Institutions
+
+35.
+Education. The many years o f civil conflict ravaged Congo’s education system, and
+severely eroded the country’s skills base. However, efforts over the past years have led to some
+gains in enrolment and completion levels, which had suffered during the war. Completion rates
+for primary education reached 73 percent in 2007, compared to 62 percent in 2003. For further
+gains, key structural issues will have to be addressed, such as inadequate and in some cases
+unqualified teaching s t a f f (commonly referred to as “be‘ne‘volesyy),especially in remote,
+underserved areas (redeployment of teachers on government payroll to remote and underserved
+communities remains a challenge); poor quality of education and uneven access, especially by the
+poor who cannot raise the required fees; inadequate funding, etc. Schooling for minorities, such
+
+14
+
+as the pygmies, remains also a challenge. In addition, the new economic direction that the country
+i s charting out will require suitably adapted skills, especially at the tertiary level. Yet, the
+allocation o f resources among the education sub-sectors i s not well aligned with the country’s
+strategic priorities. T o meet this challenge, the Government has adopted a strategy that aims at
+improving quality and access by strengthening the education sector’s institutional capacity and
+improving school infrastructure and supplies.
+
+3 6.
+Health. The health care system, whose outcomes remain disproportionately inferior
+to the country’s resources, faces similar challenges, namely: insufficient human resources,
+poor infrastructure and lack o f basic maintenance, deficiencies in the distribution o f medicines to
+health centers which leads to frequent shortages, limited access o f vulnerable groups to quality
+services especially in remote areas, critical hygiene and sanitation conditions o f the population,
+and weak monitoring and evaluation. Reproductive health in Congo i s poor as reflected in the
+high maternal mortality ratio, (estimated at 740 maternal deaths per 100,000 live births in 2007).
+The main causes o f maternal deaths are: induced abortions (41%), bleeding during delivery
+(40%), post-abortion infection ( 18.8%), post-partum hemorrhage ( 12.7%), hypertensioneclampsia (1 1%) and, dystocia with their untoward consequences (including uterine rupture,
+vesico-vaginal fistulas, ascending infections), I-IIV/AIDS
+(6%), malaria and other (20%). Infant
+mortality increased from 67 deaths per 1,000 live births in 1990, to 79 in 2007. Similarly, underfive mortality increased from 103 to 126 per 1,000 live births over the same period. The leading
+causes o f child mortality have remained unchanged for years, namely: malaria (31%), diarrhea
+(26%), acute respiratory infections (14%), non-malarial anemia (6%), and AIDS (7%). As a
+result, Congo i s unlikely to reach the targets o f the Millennium Development Goals. The
+Government’s National Plan for Sanitary Development (2007 - 201 1) provides a sound platform
+for the authorities and their partners to tackle these challenges in a coordinated fashion.
+37.
+Public Institutions. As a post-conflict country, Congo continues to suffer from weak
+public institutions and lack o f capacity. Given the country’s ambitions to transform its
+economy, the development o f a modem and efficient public sector i s critical, particularly in the
+area governance as stated earlier.
+
+38.
+These institutional weaknesses are also present among public utilities, e.g. for water
+and electricity. The water utility i s in dire need o f reform. I t s distribution network has been
+severely underfunded over the past decades and requires immediate attention. Yet, this i s a
+critical sector for reducing poverty and attaining millennium development goals. Only 45 percent
+o f the country’s urban population and 12 percent o f i t s rural population have access to reliable and
+potable water. Similarly, the electricity sector i s beset by weak planning and poor managerial and
+financial performance, which has led to delays in needed investments. As a consequence,
+electricity supply to urban areas i s insufficient and highly unreliable, with access to electricity in
+rural areas being extremely limited.
+
+B.
+
+GOVERNMENT’S
+STRATEGIC PRIORITIES AND PROGRAMS
+
+39.
+I n April 2008, the Government adopted Congo’s full PRSP, after an extensive
+consultation process and validation by civil society and Parliament. The overall vision o f the
+PRSP i s to build a diversified economy, primarily building on i t s strengths by developing transit
+services to neighboring countries and promoting deeper regional integration, and to reduce
+poverty by a half by 2015. The five pillars o f the PRSP, which are consistent with the main
+challenges identified in the poverty diagnostic, are: (i)improving governance and consolidating
+enhancing access to
+peace and security; (ii)promoting growth and macroeconomic stability; (iii)
+
+15
+
+basic social services; (iv) improving the social environment and integration o f vulnerable groups;
+and (v) combating HIV/AIDS.
+40.
+While the PRSP provides a sound basis for reform efforts, it needs to be rendered
+more operational. This will require developing detailed sector strategies with detailed cost
+estimates, a solid Monitoring & Evaluation framework, and an MTEF to ensure that PRSP
+priorities are translated into budgetary allocations. Sector-wide strategies exist only in a few
+sectors so far (education, health, and transport). It i s envisaged to move towards developing
+program budgets (sector MTEFs) in these “pioneer sectors”, while gradually developing
+strategies in other priority sectors. The preparation o f an overall MTEF i s already underway. The
+strategies and the PRSP will have to be refined through enhancing the poverty diagnosis, in
+particular with respect to assessing the impact o f Government policies on the poor. Results from a
+new household expenditure survey are expected in 2010. The new data will be more robust than
+the 2005 data, thus helping to get a better understanding o f the composition and distribution o f
+vulnerable groups in Congo across gender, ethnicity, geography, etc. This i s essential for better
+targeting o f Government policies and programs.
+Over the past year, the Government has made progress in the implementation o f its
+41.
+PRSP. On the governance and peace consolidation agenda, it has reached an agreement with the
+last group o f rebels and initiated the demobilization o f former combatants, paving the way for a
+resumption o f economic activities in the Pool area near Brazzaville. It has adopted an action plan
+for improving public financial management and started to implement it. It established an AntiCorruption Observatory and taken steps to meet the floating Completion Point triggers for the
+enhanced HIPC initiative (see Box 5).
+
+42.
+Under the second pillar, promoting growth and macroeconomic stability, the
+Government has taken a number o f initiatives. With assistance from external partners, it has
+launched a major infrastructure building program to alleviate severe constraints to economic
+growth. I n the power sector, a new 450 megawatt gas-fired power plant in Pointe-Noire i s under
+construction by EN1 Petroleum, for a total estimated cost o f US$400 million; a 120 megawatt
+hydro power plant i s under construction at Imboulou on the Lefini River, with support from
+China; and a 32.5 megawatt thermal plant in Brazzaville has been completed. In the transport
+sector, the construction of the 600 km road between Pointe-Noire and Brazzaville i s underway
+with assistance from China. Consultants have been hired to search for a concessionaire for CFCO,
+the state-owned railway company. The container port o f Pointe-Noire has been put under private
+management and an agreement has been reached with the French Agency for Development
+(Agence Frunqaise de De‘veloppernent - A F D ) , the European Investment Bank, and the Bank for
+Central African States (Bunque des Etuts de 1’Afrique Centrule - BEAC) for the financing o f the
+modernization program for the port. In order to maximize and sustain the benefits from these
+investments, it i s critical to focus on improving services and ensuring effective management,
+especially maintenance.
+The Government i s taking steps to improve the business climate, including ensuring
+43,
+effective implementation o f OHADA business laws, which are common to Francophone
+countries, creating a one-stop window for establishing a business and bringing the custom code
+into line with international standards. It i s working on the preparation o f a rural development
+strategy. Much more remains to be done, however, to remove obstacles to private sector
+investment, which are s t i l l formidable. This includes implementing existing commitments (such
+as those under OHADA) and making institutions (such as the one-stop shop) more fully
+operational.
+Progress i s also being made under the two pillars involving the delivery o f basic
+44.
+services to the population and the fight against HIV/AIDS. Education indicators are
+
+16
+
+improving with help from donors, including the Bank. The three ministers in charge o f education
+have agreed o n the broad outline o f a sector strategy, aimed at, inter alia, achieving the
+Millennium Development Goals for the sector in 2015. In the health sector, the launch o f the
+Bank funded Health Project took place in April 2009. Good progress has been made in the
+H I V / A I D S project supported by the Bank. A water production plant i s under construction near
+Brazzaville with China’s assistance to improve access o f l o w income neighborhoods to water
+
+supply*
+Box 5: HIPC Completion Point Status
+
+Congo reached the HIPC Decision Point in March 2006. Total estimated HIPC relief i s US$ 1,679 million
+(end-2004 Net Present Value terms). Congo has already benefited substantially from interim debt relief
+granted under the HIPC process, most notably through two substantial agreements with the London Club o f
+private creditors in November 2007 (cancellation o f US$l.6 billion in outstanding debt) and with Paris
+Club in December 2008 (cancellation o f US$805 million and rescheduling o f US$l55 million).
+Since the creation o f a new coordination structure in November 2007, significant progress was made on
+several triggers (adoption o f the PRSP, the return to macroeconomic stability, gradual increase in pro-poor
+orientation o f the budget, and implementation o f structural reforms in telecom, forestry and education).
+Congo i s expected to reach the HIPC Completion Point in late 2009 if progress i s made on the remaining
+agenda:
+
+Procurement Reform: After a long impasse, progress has recently been made on drafting a Procurement
+Code and related texts in line with international good practice, which are expected to be adopted soon.
+Relevant institutions must now be established. It i s expected that implementation - which i s necessary to
+satisfy the trigger - can only begin around November 2009.
+Oil sector: The 2005 audit report revealed a number o f important shortcomings in the presentation o f SNPC
+accounts. Final reports on both the 2006 and 2007 audits are expected in June 2009 and will determine
+whether this trigger can be met without the preparation o f an audit report for 2008. An agreement on the
+contents o f the oil marketing reform plan i s within reach after months o f intensive dialogue between the
+authorities and the Bank and the IMF. This plan should introduce measures to bring marketing practices to
+minimum standards o f transparency and effectiveness.
+Governance: An agreement in principle on both the anti-corruption and governance action plan and the
+anti-corruption law has been reached. Both documents are likely to be adopted by Government soon, and
+the Law would then be sent to Parliament for adoption.
+Public Investment Management: A sound Action Plan on Public Investment Management was adopted in
+January 2009 and a set o f indicators to monitor implementation was elaborated with support o f the Bank.
+The plan focuses in particular on enhancing the process o f preparing, appraising and selecting new projects,
+as well as improving effectiveness and transparency in executing the public investment budget.
+
+IV. WORLD BANK GROUP PARTNERSHIP STRATEGY
+
+A.
+PERFORMANCE OF THE FY07-FY09 INTERIM STRATEGY NOTE
+AND LESSONS
+LEARNED
+45.
+The FY07-09 Interim Strategy Note, which was reviewed by the Board in July 2007,
+focused on two priority areas: (i) scaling up the governance agenda, and (ii) creating a
+foundation for equitable growth. The Bank’s support to the governance agenda included
+strengthening public financial and investment management, public procurement, and o i l sector
+management, as w e l l as the demand side o f governance (e.g. setting up an anti-corruption
+
+17
+
+observatory). The Bank’s support to the growth agenda included assisting Government in
+elaborating its PRSP, providing analytical inputs, and implementing the ongoing portfolio. An
+effort was made to engage in a more substantial dialogue on growth, through a high-level
+government seminar held in June 2008, and the subsequent initiation of analytical work on: the
+corridor approach to spatial infrastructure development; private sector constraints and
+opportunities; and public expenditure.
+
+46.
+The outcome indicators in the ISN were not realistic in view o f the short period
+covered by the I S N and IDA’S limited resources for Congo. Annex 3 provides a detailed
+assessment of progress against these indicators. The I S N set forth 12 outcomes on transparency
+and public finance management, basic social services, and rural growth. Most of these outcomes
+are unlikely to be achieved by the end of the ISN period in June 2009. In the governance area, it
+takes time to change deeply entrenched habits. Progress i s being made, but all major activities
+under the action plan supported by the ongoing Transparency and Governance Capacity Building
+Project are facing delays. In the social sectors, the outcome indicators, as selected in the ISN,
+were not consistent with the result frameworks for the ongoing projects. In the rural growth area,
+implementation of the Bank-supported project was delayed. In any event, it would have been
+impossible for the project to deliver results as expected within the I S N timeframe.
+
+47.
+I S N implementation provides important lessons for the preparation o f the CPS.
+These lessons focus in particular on how to make a difference in spite of a limited IDA financing
+envelope, and how to engage most effectively in a difficult governance environment.
+0
+
+Realistic expectations. Expectations o f impact o f Bank support should be commensurate
+with the limited amount of assistance provided. Significant time i s required for reaching a
+consensus on sensitive reforms after decades of economic mismanagement and internal
+conflicts, and the weak capacity in government administration.
+
+0
+
+Strategic use o f Bank resources. IDA’S envelope of about US$20 million per year pales
+in comparison to Government’s investment budget o f about US$1 billion per year. In
+order to have a real impact on growth, poverty and social outcomes, Bank support will
+need to be used in a more strategic manner whereby lending and non-lending activities
+will particularly have to focus on spurring efficiency in, and more strategic choice of,
+largely Government financed programs. Similarly, IDA’S limited funds will have to be
+leveraged with significant co-financing from the Government. Finally, in light o f IDA’S
+limited administrative budget for activities in Congo, some of the Bank’s support could
+be provided (at least partially) in the form offee-based sewices for selected activities.
+
+0
+
+Tackle governance from different angles. The Bank should complement i t s direct support
+to governance reforms with a more substantive engagement on helping accelerate growth,
+which i s a critical concern of the Government. As the positive response o f the
+Government to the high-level seminar on growth and the policy dialogue on transport
+corridors have shown, this i s important to demonstrate to the authorities the value-added
+of engaging with the Bank. A second and related lesson was that it would be more
+effective to treat governance as a cross-cutting issue. Enhancing transparency and
+governance standards should not be treated in isolation, but as critical factors in
+improving effectiveness in service delivery or infrastructure upgrading. Finally, the I S N
+experience showed that there i s a need to engage not only with the Government, but also
+with the demand-side of governance to bring about lasting change in these areas. This i s
+particularly true in Congo’s post-conflict context, where formal and informal institutions
+in- and outside of government are s t i l l weak in capacity. The positive effect of Bank
+support to publication of oil revenue data or the creation of an Anti-corruption
+Observatory are a case in point.
+
+18
+
+B.
+
+PROPOSED
+COUNTRYPARTNERSHIP
+STRATEGY
+
+i) CPS Objective and Strategic Approach
+48.
+The main objective of this results-based CPS i s to make a critical contribution to
+promoting broad-based economic growth and improving social outcomes. The proposed CPS
+i s fully in line with PRSP priorities, especially those in pillars 2 (promoting growth and
+macroeconomic stability) and 3 (enhancing access to basic social services). The selection of the
+principal themes, the expected outcomes, and the lending and non-lending program o f the CPS
+were all guided by intensive consultations with main stakeholders and by the lessons learned in
+implementing the ISN.
+49.
+The underlying approach of the strategy i s to provide critical support to Congo for
+getting the highest possible benefit from its current efforts to improve the reach and quality
+o f its infrastructure and basic services. The CPS recognizes IDA’s limited funding envelope in
+comparison to the relatively large resources available to the Government to implement i t s priority
+programs. Therefore, it focuses on helping the Government improve prioritization and effective
+implementation, as well as subsequent management, o f i t s ambitious infrastructure investment
+program, and supports i t s efforts to enhance basic service delivery. Besides playing this strategic
+role, the Bank will seek to leverage i t s small envelope in each new project with significant
+amounts from the Government in order to obtain the desired critical mass. This i s consistent with
+the Bank’s evolving role, from that o f “financier”, to that o f “catalyst” for change.
+50.
+I n addition, a particular emphasis will be put on building coalitions with other
+partners for advancing critical sectoral and cross-sectoral reforms. In order to improve aid
+efficiency, new financing under the CPS will be structured so as to be complementary and
+synergistic to that provided by other development partners. For this purpose, these partners have
+been very closely consulted during CPS preparation.
+5 1.
+Within the World Bank Group, this strategy was prepared in close collaboration
+with IFC. Although the IFC i s only now beginning to reengage in the country (and thus ajoint
+Strategy wasn’t possible at this time), areas o f potential synergy were identified during the CPS’
+preparation. These include Small and Medium Enterprise Development, and Agribusiness
+Development (see Annex 4 for more on IFC’s areas on interest). This ongoing collaboration will
+be intensified during the implementation phase o f the CPS over these and other areas to maximize
+synergy.
+
+52.
+Finally, the proposed CPS program has been designed with a view to helping
+mitigate the effects o f the global financial crisis on the Congolese economy. IDA’s limited
+funding envelope for Congo o f approximately US$20 million per year would not allow for
+providing significant amounts o f resources for financing fiscal gaps or stimulus programs in the
+event of a deeper and more protracted global financial crisis. Fortunately, in recent years, Congo
+has accumulated significant reserves in its stabilization account from oil revenues. In addition, on
+average, from 2009 to 2014, annual oil revenues are conservatively projected at FCFA 3,385
+billion (about US$6.8 billion) although these might decline should the global economic situation
+worsen. As indicated earlier, this should allow the Government to continue i t s current public
+investment outlays o f about FCFA 600 billion (US$1.2 billion) per year. In view o f the above, the
+CPS’ strategic approach to mitigating the risks o f an aggravation o f the effects o f the global crisis
+on the Congolese economy i s to support the Government in effectively managing i t s own
+resources by strengthening fiscal management as well as increasing spending efficiency. At the
+same time, the CPS program would help the Government respond to the ever more pressing need
+for accelerating structural reforms, particularly those aimed at unshackling the Congolese
+
+19
+
+economy from heavy dependence on oil by promoting a robust, highly diversified economy that
+i s more resilient to such external shocks.
+
+ii)Main Themes o f the CPS
+53.
+The Bank’s support to the Government’s efforts will be organized around two main
+pillars. These are: (i)support to diversification and growth and (ii)poverty reduction through
+improved basic service delivery. To ensure effective implementation in both priority areas, the
+CPS will also support governance and institutional capacity building as a cross-cutting theme.
+These themes were arrived at after a series of extensive consultations with the Congolese civil
+society, private sector, Parliament, Government (both local and national), and Congo’s
+international development partners (see Box 6 on Consultations).
+0
+
+Diversifvim the economy to suur broad-based mowth. This will include supporting the
+country’s reform efforts in three key areas: (i)
+more effectively managing oil revenues in
+the face o f high price volatility and possible decline o f reserves in the long-term, and
+using these resources to promote the diversification agenda and improve the services
+provided by key infrastructure; (ii)adopting and initiating implementation o f a strategy
+for developing growth corridors that would improve exploitation o f natural resources,
+linking production with markets, and regional integration - including restoring Congo’s
+traditional transit services industry; and (iii)
+developing, and implementing a strategy for
+removing key obstacles to private sector development, and for promoting small and
+medium-term enterprises (including agro-business).
+
+0
+
+Improving public service delivery for the people o f Congo. particularly the most
+vulnerable ~TOUDS. This entails improving basic services, especially health and education,
+through well focused programs and their efficient implementation.
+
+54.
+Support in these two areas will be complemented by continued focus on improving
+governance and strengthening institutional capacity. Support to different aspects o f ongoing
+reforms on strengthening transparency, accountability and institutional capacity in the
+management o f public resources remains a major priority for the Bank. The Bank will play a
+critical role in facilitating the implementation o f recently adopted new legislation and action plans
+to address weaknesses in the governance system, including on oil marketing, governance and
+anti-corruption, public investment management and procurement. In dealing with these issues, the
+Bank will continue to support both the supply side and the demand side o f governance.
+
+55.
+Improving governance and institutional capacity will not be treated in isolation, but
+rather, it will be mainstreamed into sectoral interventions. Consequently, all existing projects
+will be reviewed, and if necessary retrofitted, in order to ensure that relevant governance issues
+are adequately addressed. Similarly, all new activities will incorporate relevant governance issues
+as well. In addition, this governance agenda will be firmly anchored in a thorough political
+economy analysis to be conducted during the preparation o f each operation.
+
+20
+
+Box 6: Consultations for the Country Partnership Strategy
+
+Extensive consultations with all stakeholders took place for the preparation of the CPS in three steps. First,
+a high-level government seminar was held in June 2008 on growth, in which the contours o f future Bank
+support were traced out, and major analytical work was initiated on the corridor approach to spatial
+infrastructure development, the assessment of private sector constraints and opportunities, and initiation of
+the Public Expenditure Review.
+In December 2008, the Bank team organized meetings with cabinet members, technical committees, both
+houses of Parliament, the private sector, farmer organizations, civil society organizations, academia and
+external partners. Meetings took place in Brazzaville and Pointe-Noire. During these discussions the Bank
+team tested the new approach proposed in this CPS, namely the change o f the Bank role fiom a financier to
+a catalyst for change. The main themes o f the CPS were extensively discussed.
+In April 2009 another round of consultations took place. The objective of these consultations was to reach a
+consensus with the Bank’s partners (government, private sector, civil society organizations, academia and
+external partners) on the results matrix and proposed instruments. A l l interlocutors welcomed the proposed
+
+activities and outcomes. They reviewed carefully the outcome and output indicators and found them to be
+both ambitious and realistic. They agreed that if these indicators were met, Congo would move decisively
+on the path to sustainable and well diversified growth.
+
+iii)Outcomes and Instruments
+56.
+The Bank’s support to the above themes would result in a series of efficiency and
+growth outcomes. Under the economic diversification and growth agenda: (i)the management
+o f oil revenue and public expenditure would be made more effective; (ii)the production and
+productivity o f commercial agriculture would be enhanced; (iii)tools for improved forestry
+management would be put in place; (iv) the foundation for the growth o f micro, small, and
+medium enterprises would be laid; (v) the services from Government’s ongoing or planned
+infrastructure program would improve; and (vi) Congo would lay the foundation for increasing i t s
+market share in regional transit services. Under the basic service delivery agenda, the principal
+outcome would be the improvement in these services, especially emanating from increased
+efficiency and transparency o f public spending. The following i s a presentation o f these expected
+outcomes together with the proposed corresponding CPS interventions (projects, analytical and
+advisory services) that are needed for attaining these results.
+CPS outcome 1.1: The management of oil revenue andpublic expenditure is more effective
+
+57.
+Support for improvements in oil revenue and public expenditure management will
+be provided through multiple channels, including the ongoing Transparency and
+Governance Capacity Building Project and its proposed follow-up operation, the ongoing
+Public Expenditure Review (PER), and analytical and advisory work on oil revenue
+management. Initial progress made on o i l revenue and public expenditure management during
+the ISN period will be consolidated and amplified during the CPS period. The findings o f the
+ongoing PER and the planned O i l Revenue Management Review will strengthen the analytical
+foundation for improving the mobilization and use o f o i l revenues. Based on these findings, the
+Bank, in close collaboration with the IMF, will help the Government revise i t s fiscal strategy with
+a view to addressing volatility and long term decline o f o i l revenues, as well as enhance spending
+efficiency. These findings will also influence the preparation o f the MTEF. The Bank’s ongoing
+capacity building support will continue and, together with technical assistance from the AFDB
+and the EU, should play an instrumental role in advancing public financial management and
+budget management reforms, especially with respect to: (i)implementing the new procurement
+
+21
+
+system, (ii)
+preparing MTEFs at the central level and in key sectors; (iii)implementing the action
+plan for public investment management; and (iv) implementing a new automated and simplified
+system o f expenditure management. Progress will be measured through: the reduction o f the nonoil primary deficit as a share o f non-oil GDP, which will record progress made by the
+Government in reducing the budget’s dependency on oil revenues; the progressive shift from
+direct contracting to competitive procurement; and the increased use o f regular budget procedures
+supported by a new automated and simplified expenditure chain.
+
+CPS Outcome 1.2: Agricultural production and productivity in high potential zones is
+enhanced
+58.
+The ongoing Agricultural Development and Rural Roads Rehabilitation Project i s
+the main instrument for achieving this outcome. The Bank’s support in the agriculture sector
+targets both small holder farming and small-medium scale agro-industries. Support to smallholders aims at: (i)improving domestic agricultural marketing (made possible, in part, by the
+planned rural road rehabilitation); (ii)promoting on-farm and off-farm activities (through the
+provision o f improved technology and delivery o f extension services); and (iii)strengthening
+farmers’ organizations to facilitate forward and backward linkages with agro-industries. For agroindustries, the support aims at improving the incentive framework for private investments in onfarm and off-farm activities. In addition, the Bank will assist the government in: (i)
+formulating a
+national investment program covering extension and adaptive research, agricultural marketing,
+on-farm and off-farm investments, and support to farmers’ organizations; (ii)implementing
+extensive consultation process with potential investors in ago-industries, with a view to
+identifying and implementing a menu o f priority measures to address bottlenecks against the
+development o f ago-industries; and (iii)developing an MTEF for agriculture covering activities
+underpinned by the strategic elements referred to above. These efforts will be closely coordinated
+with the two agricultural projects funded by the International Fund for Agricultural Development.
+Progress will be monitored through, among other things: the reduction in rural transportation
+costs and the increase in average yields for key products in target areas.
+CPS Outcome 1.3: Toolsfor improvedforestry management put in place
+59.
+This outcome will be made possible by the ongoing dialogue on forestry reforms in
+the context of HIPC, which will be consolidated under the proposed Forestry and
+Environment Project. Congo has made some progress in this sphere, including the integration o f
+international independent observers into forest control operations, and the publication o f the
+Congo Forest Atlas on the internet. Major reforms are under preparation, including: preparing
+new gazetting and degazetting regulations that take into account forest and indigenous people
+rights; a new forest concession award regulation; a new forest taxation system and a collaborative
+recovery system between Ministry o f Forests and Environment; a new Environmental Impact
+Assessment regulation; and a reorganization o f key monitoring, law enforcement, and
+participatory management functions in Ministries in charge o f Forests and the Environment.
+Progress will measured by the adoption and implementation o f these texts. In addition, Congo has
+recently been selected to be part o f the Readiness Mechanism o f the Forest Carbon Partnership
+Facility. The mechanism helps tropical countries develop a strategy to reduce deforestation and
+forest degradation and prepare themselves for a potential market instrument o f positive incentives
+stipulated under the program. Congo expects to receive a preparatory grant o f US$200,000 from
+the Forest Carbon Partnership Facility to develop a Readiness Plan and an additional grant o f up
+to US$3.4 million to execute the plan once approved.
+
+22
+
+CPS Outcome 1.4: Thefoundation for the growth of micro, small, and medium enterprises is
+laid
+60.
+This outcome will be achieved through the proposed Economic Diversification
+Support Project, working very closely with IFC, EU, IMF, the Public-Private Infrastructure
+Advisory Facility, and other partners. Based on the findings o f the recently completed
+investment climate survey, this project will support a number o f priority actions aimed at
+improving MSME access to financial and non-financial services, as well as improving the
+investment climate in such areas as business registration, taxation, public-private partnership
+frameworks, and public-private sector dialogue. This will be complemented by IFC’s plans to
+improve access o f small and medium entrepreneurs to credit, and those o f the recently approved
+regional financial sector project to strengthen the financial sector in CEMAC member countries,
+which should create a favorable environment for enhanced credit to the private sector.
+Implementation o f these activities will be closely coordinated with the I M F (tax reform) and the
+EU (economic governance). The analytical work on Growth and Employment which i s proposed
+under the CPS will complement this effort, especially by helping the Government devise a growth
+strategy that leads to the creation o f substantial employment in the formal non-oil sectors.
+Progress toward achieving this outcome will be monitored through, among other things: the time
+required for registering a business, banks’ compliance with regionally agreed financial norms,
+and the effective tax rate for MSMEs.
+Outcome 1.5: The services from Government’s ongoing/planned infrastructure program are
+improved
+
+61.
+This will be achieved through management and regulatory reform programs
+supported under various projects. Reforms in the energy sector and improvements in the
+planning and management o f transport infrastructure will be supported by the proposed Economic
+Diversification Support Project; reforms in the water sector by the proposed Urban and Water
+Project; and reforms in the telecommunications sector by proposed Regional Telecommunications
+Project. Progress toward achieving this outcome will be monitored through improvements in,
+among other things: the telecommunication sector regulatory framework, the management o f the
+electric power utility, and annual road maintenance.
+Outcome 1.6: Congo lays the foundation for increasing its market shale in regional transit
+services
+
+62.
+The main vehicle for achieving this outcome i s the proposed Economic
+Diversification Support Project, in conjunction with other partners. The proposed project,
+which will focus on investment planning for, and improvements in service delivery along, the
+principal transport corridors, will complement the ongoing and planned investments financed by
+the French Development Agency (AFD), the European Investment Bank, the Development Bank
+for Central African States, the Chinese Government, and the Government’s own resources in
+strategic areas like the port o f Pointe-Noire and road infrastructure. The project will also help
+Government manage the concession o f the Pointe-Noire - Brazzaville railway (CFCO), once this
+concession i s put in place with the ongoing support from the EU. I t will work closely with the
+AfDB, the EU and AFD on laying the foundation for enhancing trade between Brazzaville and
+Kinshasa and up river from Brazzaville. The ongoing Bank-financed Transport Corridor Study i s
+expected to provide a road map for enhancing Congo’s transit role. Whereas the results from
+these actions are long term, and depend upon several other factors (such as the pace o f
+investments underway), measures o f progress during the CPS period will include adoption o f the
+various strategies and regulations, and investment programs emanating from this analysis.
+
+23
+
+Outcome 2.1: The delivery of basic services is improved
+
+63.
+
+This outcome i s expected to be achieved with the support from ongoing operations
+andlor additional financing in education, health, and HIVIAIDS, a new urban and water
+project, and the public expenditure review. The education project will finance enhancement o f
+the institutional capacity of the Ministry of Education, rehabilitation of school infrastructure,
+improvement of education quality (such as teacher training, scholastic materials, and curriculum
+improvement), and delivery of formal and non-formal education services to out-of-school youth
+and pygmies. The objectives of the Health Project are to strengthen Congo’s health system in
+order to combat more effectively major communicable diseases and improve access to quality
+services for women, children and other vulnerable groups through strengthening the
+organizational, managerial and fiduciary capabilities of the Ministry of Health, rehabilitatingand
+equipping health care facilities, and improving access to quality essential health care services.
+Maternal and child health outcomes and malaria will receive special attention in this project. This
+will be carried out in partnership with the United Nations Fund for Population Activities which i s
+supporting the implementation of the national road map to accelerate the reduction of maternal,
+neonatal and infant morbidity and mortality through capacity building of health centers and
+communities in order to ensure the availability of family planning services. The HN/AIDS will,
+inter alia: (a) improve diagnosis and treatment; (b) promote condom use and voluntary testing,
+(c) disseminate information for behavior change; (d) improve the quality of blood transfusion; (d)
+improve counseling; (e) help the adoption o f a legal framework for protecting victims of
+HN/AIDS and sexual violence; and ( f ) improve bio-medical waste management. The Urban and
+Water Infrastructure Project will improve the management of the water utility and the delivery of
+basic urban infrastructure services. Providing reliable and clean water will help improve health
+outcomes, as well as address a major constraint to private sector development. The proposed
+MTEF for Health and Education (to be made possible by the ongoing public expenditure review),
+and the proposed performance-based system for human resources management in the two sectors
+i s expected to increase the quality and efficiency of public expenditure in these sectors. Progress
+toward achieving this outcome will be monitored through such indicators as improvements in the
+completion rate and the girl-boy ratio, a reduction in the under-five mortality rate, and the
+containment o f the spread of HN/AIDS, especially among the youths, sexually active population
+segments, and from mother to child.
+iv) Results-Based Monitoring & Evaluation
+
+64.
+A major challenge for Congo i s to ensure that its policies and budget allocations are
+informed by a sound monitoring and evaluation system that promotes public accountability.
+Capacity in results-based monitoring and evaluation, and information management i s limited.
+Monitoring and evaluation i s currently narrowly focused on administrative process of
+expenditures and activities rather than on outcomes, impacts, and goals. Although the PRSP was
+based on a sound poverty diagnosis, underlying data i s still weak and requires updating.
+Institutional capacity i s weak and respective roles of different institutions in monitoring and
+evaluation unclear, such as between the National Center for Statistics and Economic Analysis and
+the proposed poverty observatory, or between central bodies and Studies and Planning
+Directorates in sector ministries.
+65.
+The PRSP provides a good opportunity to strengthen monitoring and evaluation
+capacity and to develop a comprehensive yet simple mechanism to monitor and evaluate
+government action. As part o f PRSP preparation, a serious effort was made to put in place an
+institutional structure for measuring PRSP implementation in a coordinated way across
+government. Going ahead, this structure will have to be progressively strengthened, with a view
+to producing reliable findings on how public actions (public spending in particular) relate to
+
+24
+
+tangible results on the ground. In this regard, the Bank i s supporting the Government in the
+following priority actions to enhance monitoring and evaluation:
+Updating and enhancing the quality o f poverty and social data by completing the census
+and a new series o f (improved) household and specialized surveys (on which the
+Government i s supported by AfDB, AFRISTAT, and the World Bank);
+Improving coordination on monitoring and evaluating PRSP implementation, in
+particular by enhancing participation o f sector ministries and clarification o f the roles o f
+institutions involved in data collection and analysis;
+0
+
+Strengthening the PRSP's results framework, by narrowing i t s scope to essential
+indicators, and better defining them by adding baselines and measurable targets; and
+Supporting the development of a new national statistical development strategy for the
+monitoring o f the PRSP and sector MTEFs.
+
+66.
+Status of the statistical system. The Congolese statistical system, which was supposed
+to be guided in i t s development by the Multi-Year Plan for Statistical Development (Plan
+Pluriannuel de De'veloppement de la Statistique) for the period 2005-9, i s currently insufficiently
+strong for monitoring the PRSP and sector MTEFs. The heavy focus in the PRSP on survey data,
+even when routine administrative data should provide the information, shows that the system i s
+not producing the information expected from a fully-functional system. The health project,
+building upon the work o f the HIV/AIDS project, i s working in the area o f a health management
+information system, but many areas are s t i l l weak. The statistical development plan identified a
+number o f areas for action, many o f which do not appear to have been followed, including the
+passage of the statistical law.
+67.
+Monitoring CPS implementation. The CPS Results Framework establishes the results
+chain for the Bank's program with a focus on outputs and outcomes, linked to longer-term
+country outcomes. The CPS has identified a set o f outcome and output indicators to measure
+progress (columns 3 and 4 o f the matrices in Annex 1). In most cases, these indicators are
+quantified with expected target ranges, and in some cases, more qualitative information needs to
+be derived. Where there are gaps in information, the Bank will work with the Government in
+identifying specific measurements o f outcomes during the first year o f the CPS. The outcome
+indicators have been selected taking into account the limited capacity for monitoring and
+evaluation. Indicators in the areas o f agriculture development and social services are expected to
+be monitored under the relevant sector projects.
+68.
+Implementation Progress of the CPS will also be monitored in annual Country
+Portfolio Performance Reviews, as well as a CPS mid-term review which i s planned for
+early 2011. It will assess progress in achieving the main CPS outcomes and outputs, dealing with
+risks and problems that might hinder achievement o f the outcomes, and identifying systemic
+issues that may affect the portfolio. It will review problems encountered in the collection and
+analysis of data to measure progress and recommend corrective actions. The Bank will continue
+to provide support and advice in the preparation o f the PRSP progress reports.
+v) Funding
+
+69.
+The World Bank will support the above program through i t s existing portfolio, new
+financing, and analytical and advisory services, as summarized below. It should be emphasized
+that'substantialco-financing will be provided by the Government.
+
+25
+
+a) Existing portfolio
+
+70.
+The current World Bank-financed project portfolio consists o f five country-level
+operations and one regional project, with an undisbursed balance o f US$72 million (excluding the
+regional project). This amount i s expected to be fully disbursed during the CPS period. These
+projects mostly address issues related to improving Government’s delivery o f basic services,
+especially in health and education.
+
+I 123.03 I 50.06 I 72.43 I
+
+Total
+
+Regional Financial
+InstitutionsProject
+
+Dec. 2009
+
+June 2014
+
+48.32’
+
+0.25
+
+48.07
+
+S
+
+S
+
+b) New Financing and Analytical & Advisory Services
+
+71.
+The first two years o f the CPS correspond to I D A 15, with the third year falling
+under I D A 16, for which the funding envelope i s yet to be determined. The CPS covers the
+period F Y 10-FY12, which includes the last two years o f IDA15 period (FY 10-FY 11) and the first
+year o f IDA16. The overall size o f the IDA envelope during the CPS period i s assumed to be
+about SDR33 million, which amounts to an average annual allocation o f about SDRl 1 million.
+These estimates for FYlO-FY12 are indicative only and can change. Actual allocations in these
+years will depend on: (i)total I D A resources available, (ii)Congo’s performance rating in the
+annual Country Policy and Institutional Assessment relative to other I D A countries, (iii)the
+performance and assistance terms o f other I D A borrowers; (iv) the terms o f IDA’S assistance to
+Congo (grants or credits), in particular a possible shift o f Congo from a grant-only to a mixed or
+credit-only IDA countries in case i t s debt sustainability situation improves further, and (v) the
+number o f IDA-eligible countries. The indicative allocation for FY 12 assumes a similar level o f
+replenishment in IDA16 as in IDA15.
+72.
+The indicative I D A 15 and I D A 16 allocations are proposed to be distributed as
+follows: US$15 million has already been allocated to the Education Project Supplemental, US$5
+million to the HIV/AIDS supplemental, and US$2.7 million to the CEh4AC Regional Institutions
+Support Project, leaving US$37.5 million. The proposed allocation o f this remaining amount i s
+presented in the table below. Although the level o f IDA 16 funding i s not known yet, preliminary
+discussions are ongoing on how to utilize these resources, especially during the third year o f this
+CPS, which coincides with the first year o f IDA 16. The Government has proposed a forestry
+operation and a supplemental to the Governance Project in this first year o f IDA 16, which i s
+consistent with diversifying the economy away from oil dependence, and strengthening services
+delivery, principal themes o f this CPS.
+
+26
+
+-
+
+Table 6: Proposed New Activities for FYlO FY12
+(USS Millions)
+PROJECT FINGNCtNG (Millions)
+
+FY12
+FY12
+
+Forestry Project
+Supplemental to Governance Project
+
+20
+5
+
+A N A L Y T K A L & ADVlSORY A C T I V I T I E S
+Bank Budget financed
+I
+
+FY 10
+FY 10
+
+Public ExpenditureReview
+Oil Revenue Management Support
+
+FY 10
+FY 11
+
+HIPC Completion Report
+Growth and Employment
+
+FY 10
+FY 10
+
+Support to the Forestry Sector
+Support for Preparation of a National Statistical Development Strategy
+
+vi) Congo’s Transition to Middle-Income Country Status
+
+73.
+Congo’s elevated level o f budget resources and its high level o f GNI per capita
+create opportunities for redefining Bank’s relationship with the country. This includes
+exploring possibilities o f cost-sharing, as well as preparing for the transition from IDA to IBRD.
+0
+
+Exploring the use o f fee-based services. The Bank i s expected to deliver the bulk o f the
+proposed non-lending assistance through its own administrative resources. However,
+because o f the Bank’s limited administrative budget, and in view o f the country’s
+growing level o f resources, the Government has shown openness to the notion o f feebased Bank advice in certain situations. Although discussions are s t i l l ongoing, such feebased services could be used on clearly defined tasks, especially those o f a short duration.
+The Government could partially fund this technical assistance, with the rest o f the funds
+coming from the Bank budget as i s common elsewhere in the Bank. Care would have to
+be taken to safeguard fiduciary and other standards, as well as protect the Bank’s
+independence and neutrality.
+Transition from IDA to IBRD. Congo reached a GNI per capita o f US$1,970 in 2008,
+which put the country above the income threshold for IDA lending for a second
+
+27
+
+consecutive year. If it remains above this threshold for a third year in 2009, IDA
+hardened terms will be applied to Congo. Assuming that this income level i s maintained
+or increased further, Congo will then progressively move towards graduating from IDA.
+The transition to IBRD is, however, a long process and will require the country to meet
+stringent eligibility criteria, to ensure that it i s creditworthy. Debt sustainability i s an
+important element o f these criteria. As a HIPC country, Congo i s not eligible for IBRD at
+this time. After the HIPC process, and depending upon i t s economic performance, Congo
+will be assessed to determine if it meets the eligibility criteria. The Bank will also explore
+possibilities o f developing enclave projects for developing infrastructure under the IBRD
+window.
+
+C.
+
+PARTNERSHIPS
+
+74.
+Congo does not have many external partners. The most active partners are the French
+Agency for Development, the European Union, African Development Bank, and, most recently,
+the Chinese Government who, in 2006, entered into a fiamework agreement with the Government
+that i s worth up to US$I billion (see Table 7). The Bank has had extensive consultations with the
+traditional partners and intends to work closely with them for the delivery o f the assistance
+program.
+
+75.
+
+The Bank’s strategy for collaboration with the other partners i s based on the
+principal o f synergy and comparative advantage. For instance, the European Union i s taking
+the lead on the Justice sector. This sector i s critical for, among other things, improving the
+business climate (and, therefore, the promotion of MSMEs), especially with regard to the proper
+functioning of commercial courts. The Bank will closely coordinate with the EU in this regard,
+but will not be involved in this sector directly. Instead, the Bank will focus on the other aspects of
+improving the business climate in which other partners are not very present. Similarly, there i s a
+massive infrastructure program that i s ongoing, with financing fiom the Government as well as
+other partners such as China. The Bank’s limited resources will be focused on maximizing
+benefits from, and ensuring the sustainability of, these investments, especially with respect to
+improving their management. This approach i s true for all the other sectors as well.
+
+76.
+During the consultations for the CPS, some partners expressed interest in moving
+towards a joint country assistance strategy. AFD, AfDB and the EU a l l approved their country
+assistance strategies in 2008. The end of the Bank CPS period (June 2012) coincides, more or
+less, with the end dates of these strategies. By selecting a three-year period for this CPS, the Bank
+will be fully aligned with i t s partners, making a joint country strategy a distinct possibility (see
+Annex 4 for a summary description of each principal partner’s strategy). It i s expected that IFC
+will also participate in such a joint strategy.
+Table 7: International Development Partners - Ongoing and Planned Activities
+(USD Millions)
+AfDB
+(2008-12)
+25.5
+
+Growth/Infrastructure
+
+AFD
+(2008-12)
+8.2
+
+1,000.0
+
+1,212.6
+
+Social
+
+9.9
+
+24.5
+
+0.0
+
+0.0
+
+34.4
+
+Governance
+
+0.0
+
+13.2
+
+13.0
+
+0.0
+
+26.2
+
+Justice
+
+0.0
+
+19.8
+
+0.0
+
+0.0
+
+19.8
+
+Other
+
+8.9
+
+15.1
+
+20.0
+
+0.0
+
+44.0
+
+Total
+
+27.0
+
+251.4
+
+58.5
+
+1,000.0
+
+EU
+(2008-13)
+178.9
+
+28
+
+China
+
+Total
+
+(NA)
+
+1,336.9
+
+V. MANAGING R I S K S
+77.
+A deepening of the impact of the global financial crisis on Congo in the form o f a
+prolonged slump in oil prices and accentuation o f demand shocks on other export goods
+would constitute a serious threat to macroeconomic stability and growth prospects (high
+risk). Congo has built up a strong fiscal and foreign exchange reserve cushion through i t s o i l
+savings, but a prolonged slump in o i l prices could create severe fiscal tensions. These tensions
+could either lead to a deterioration o f the fiscal stance, with serious negative implications on
+macroeconomic stability, which could result in the PRGF getting off-track, or in significant cuts
+in public spending. The latter would undermine the implementation o f the ambitious public
+investment program and thereby jeopardize the diversification and growth agenda. The Bank will
+monitor closely the situation, in close coordination with the IMF, and should this threat
+materialize, realign i t s support accordingly. More broadly, the Bank, in cooperation with other
+donors i s helping mitigate this risk on different fronts. On fiscal policy, it i s critical to enhance
+spending efficiency, so as to improve preparedness for an increase in fiscal tension. In this regard,
+the Bank i s supporting the Government’s reform efforts to enhance efficiency o f spending,
+through analytical work (PER), and through its Transparency and Governance Project on building
+capacity in budget management. In the long term, a more diversified economy will be more
+resilient to external shocks than the current o i l dependent one. The Bank i s supporting the country
+in this direction through the various activities described in this CPS.
+
+78.
+While Congo has come a long way in trying to consolidate peace and rebuild public
+institutions, the situation i s still fragile (medium risk). A contested presidential election, or
+popular discontent, could spark a fresh round o f civil conflict. The Bank, together with partners
+like the EU, has been assisting with disarmament and demobilization o f former combatants. This
+has helped reduce the remaining direct armed threats to peace and stability. However, it i s clear
+that in the long term, the risk o f destabilization and conflict can only be minimized if there i s
+broad-based growth that reduces poverty significantly in all parts o f the country. This i s
+consistent with the main orientation o f the CPS. More transparency and better governance in the
+management o f the country’s resources, particularly oil, i s particularly important in this regard.
+The Bank supports this through completion o f the HIPC process and continued technical
+assistance on key governance areas.
+79.
+The reform progress could slow-down or derail because of political economy factors
+(high risk). Vested interest may delay effective implementation o f critical reforms in areas like
+procurement or o i l management. Strong pressures from unions may postpone government
+decisions on putting key infrastructure enterprises under private management. Resistance from
+public employees could hamper efforts to shift personnel to remote areas to enhance the reach
+and quality of social services. Under the ISN, the HIPC process contributed to generating a
+momentum for reforms. The main orientation o f the CPS i s to shift from a conditionality-based to
+a more mature middle-income type o f relationship, and to reach out to a large spectrum o f actors.
+Through this approach, the CPS will help maintain the momentum after HIPC Completion Point
+and thereby mitigate any risk of reform slow-down thereafter. The Bank will also continue i t s
+support to non-governmental actors in the governance area, which would foster demand for
+increased transparency and accountability, particularly in the areas o f public finance and o i l
+sector management. Finally, the Bank will help the Government assess the social costs, identify
+potential “losers” from reform measures and. devise possible compensatory measures as part o f
+the Economic Diversification Support Project and analytical activities.
+80.
+Although there have been major improvements in portfolio quality, World Bank
+funded projects still face some fiduciary risks (medium risk). The number o f problem projects
+
+29
+
+has declined from two to zero, in a portfolio o f five projects. However, the portfolio at risk by
+amount i s 34.7 percent. The main challenge i s limited capacity, especially in the area o f
+procurement. The recent improvements in portfolio quality are attributed to intense training and
+constant hands-on support provided by the Bank’s procurement and financial management
+specialists who are now based in the country office. Annual Country Portfolio Performance
+Reviews, whose recommendations are rigorously followed up, have been instituted starting in
+2008. The country director, who i s also based in the field (in the neighboring Democratic
+Republic o f Congo), has intensified high level dialogue on the portfolio.
+8 1.
+While desirable, increased investments in infrastructure, mining and urban
+development pose significant social and environmental risks to the natural environment and
+could result in pollution and other undesirable side effects (medium risk). To address this
+issue, the Bank will help the Republic o f Congo finalize a comprehensive body o f laws and
+regulations to deal with environmental impact assessment and mitigation (the country lacks
+environmental management tools at this time). The Bank will help strengthen the Ministry o f
+Environment, including the possibility o f creating a new Environment Agency to ensure that
+environmental laws and regulations are known and understood by private sector users,
+administrators and civil society and adequate incentives and capacity are established to make
+enforcement systematic and effective.
+
+30
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+.
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+e
+
+0
+
+e
+
+0
+
+e
+
+e
+
+0
+
+0
+
+0
+
+0
+
+e
+
+0
+
+e
+
+0
+
+0
+
+e
+
+e
+
+e
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+M
+M
+
++
+m
+0
+
+0
+
+0
+
+0
+
+0
+
+I
+
+0
+
+0
+
+I
+
+I
+
+0
+
+0
+
+0
+
+i
+
+e*
+
+B
+
+8
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+M
+
+u
+
+a
+0)
+
+E
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+L
+0
+
+.-c
+0
+
+U
+
+E
+
+I
+*
+
+.-'Ele
+a
+
+U
+
+3
+
+3
+
+.-e>
+
+-.-3
+a
+u
+
+5:
+u
+5
+u
+
+>
+
+KE
+
+r
+
+4
+
+6
+L
+
+a
+
+&
+
+E
+
+0
+
+v,
+
+eM
+>
+
+0
+
+0
+
+0
+
+i;
+
+-E
+
+0
+
+0
+
+0
+
+0
+
+Annex 2: Debt Sustainability Analysis for Congo
+
+1.
+This external debt sustainability analysis (DSA) i s an update o f the last full DSA
+prepared for the Congo Republic in December 2008. The DSA update i s based on the stock o f
+debt at end-December 2008, lower world oil prices, and new borrowing. It demonstrates that
+Congo continues to be at high risk o f debt distress. The main conclusions o f the December 2008
+DSA remain valid, as the findings o f the update suggest that (see also chart 1 and table 1 below):
+The present value (PV) o f the debt-to-GDP ratio i s likely to breach the indicative
+threshold over the medium term (2009-22), then fall sharply and remain below the
+threshold thereafter (see Figure below). In comparison, the PV o f debt service-to-exports
+ratio for the baseline and historical scenarios are projected to be below the threshold
+throughout the period.
+The stress tests highlight Congo’s vulnerability to various shocks. Under an export shock,
+the PV o f debt-to-exports ratio i s above the threshold from 20 10 and remains there; and
+under a combination shock the PV o f debt-to-revenue ratio i s above the threshold until
+2020 but drops below it subsequently.
+
+2.
+The updated DSA i s based on the April 2009 World Economic Outlook assumptions on
+global oil prices, which indicate a rise from US$ 52 per barrel in 2009 to US$ 75 in 2014. The
+main macroeconomic projections are an average real GDP growth rate o f 3.5 percent and a rise o f
+the current account deficit to about 20 percent o f GDP over the long term.
+3.
+The DSA update incorporates the recent debt settlement with litigating creditors
+(involving a payment o f US$ 800 million and cancellation o f US$ 1.7 billion in arrears in late
+2008). This settlement results in a one-time increase in the debt outstanding in 2007, compared
+with the December 2008 DSA.
+4.
+A new full DSA will be conducted in the second semester o f 2009. This full DSA will
+also include public debt, which takes into account the significant accumulation o f liquid
+government assets.
+
+37
+
+Chart 1: Indicators of Public and Publicly Guaranteed Extern71 Debt under the
+Baseline Scenario and Stress Tests, 2009-29
+2,
+
+a. Debt Accumulation
+
+I 40
+
+b.PV o f debt-to GDP ratio
+
+150 7
+
+35
+1
+
+30
+
+25
+0
+
+20
+
+-1
+
+10
+
+15
+
+5
+
+2009
+2014
+2019
+AWFW Rate o f Debt Accumulation
+
+2029
+
+1
+
+-
+
+'
+
+-150
+
+2009
+
+c.PV o f debt-to-exports ratio
+
+250
+
+-100
+
+element o f new borrowing (YOri t scale)
+Grant-equivalentfinancing (% o f OD#
+
+-Grant
+1
+
+2024
+
+-50 -
+
+2014
+
+2019
+
+2024
+
+2029
+
+d.PV o f debt-to-revenue ratio
+
+300
+
+250
+200
+'OOj
+50
+O
+-50
+-100
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+100
+
+I+
+
+50 -
+
+i
+
+\
+
+J
+
+2009
+-Baseline
+
+-
+
+2014
+
+-100
+-50
+O
+
+-
+
+2019
+
+2024
+
+I
+2029
+
+_
+
+2009
+
+'
+
+1
+
+2014
+
+M o s t extreme shock 1/
+
+Historical scenario
+
+2019
+
+-
+
+2024
+I
+
+2029
+
+Threshold
+
+Source: Staff projections and simulations.
+1/ T h e most extreme stress test is the test that yields the highest ratio in 2 0 1 9 . In figure b . it corresponds to a Combination shock; i n
+c. to a Exports shock; in d . to a Combination shock.
+
+38
+
+" 0 0 0
+$000
+
+zE
+
+D
+
+F
+
+.-0
+
+e
+
+Ii
+
+j
+
+I
+
+Annex 3: Performance Assessment of Interim Strategy Note (FY07 - FY09)
+
+1.
+The FY04-FY06 Transitional Support Strategy aimed at consolidating peace and
+economic recovery. The rapid rise in oil revenues in 2006 and 2007 led to increased spending
+and less concern with improving the quality o f public expenditure and transparency. Under these
+conditions, it was felt that an interim strategy was more appropriate to give time to the authorities
+to build up a consensus on how to address critical governance issues. The Interim Strategy Note
+(ISN) for FY08-FY09 was reviewed by the Board on July 31, 2007. I t was designed to scale up
+the governance focus and create the foundations for equitable growth. The governance agenda
+targeted better oil sector governance and improved public financial management. The equitable
+growth agenda Rad a special emphasis on health, underserved communities in urban areas, and
+promoting rural sector development to foster economic diversification and address deep poverty
+issues.
+2.
+The ISN suggested three strategic entry points: the HIPC process with triggers for
+Completion Point covering key governance issues, the PRSP process to build up a consensus on
+economic policies, and the strengthening o f key human and poverty alleviation programs in urban
+and rural areas. The expected two main outcomes were adherence to good governance principles
+and improved emphasis on poverty reduction.
+
+3.
+After fiscal slippages and delays in structural reform precluded completion o f an
+earlier Poverty Reduction and Growth Facility (PRGF) approved by the IMF, the
+Government managed to reengage with the 1M.F in 2008. The Government successfully
+completed a Staff Monitored Program that covered the period January to June 2008, and thereby a
+track record that led to resuming discussions on a PRGF arrangement. On December 8, 2008, the
+IMF approved a new three-year arrangement under the PRGF.
+
+4.
+
+I n 2008 the Government made progress on key governance and public finance
+management reforms. I t adopted and began implementing a Public Financial Management
+action plan, including a draft plan for managing public investments. Congo became a candidate to
+the Extractive Industries Transparency Initiative (EITI) in February 2008 and initiated work on its
+first report. In the oil sector, the authorities adopted and began to apply a reform program for the
+state-owned refinery (CORAF) and prepared an initial draft of actions to bring the
+commercialization o f Congolese oil up to international standards. They continued to certify oil
+receipts on a quarterly basis to ensure transparency and accountability. These steps showed
+renewed government commitment to reform, but more time i s required for meeting the ambitious
+outcomes as set forth in the ISN.
+
+5.
+During the I S N implementation period, Bank assistance focused on strengthening
+the dialogue on growth and public finance management and on intensifying supervision o f
+the portfolio. In June 2008, the Bank and the Government held a high-level seminar to discuss
+growth and economic diversification issues. This led to the initiation o f analytical work on spatial
+infrastructure development to strengthen the corridor approach, and on constraints and
+opportunities to private sector development. A public expenditure review was launched in a
+highly participative manner. I t should be completed by November 2009.
+
+6.
+The portfolio includes 5 projects: the Transparency and Governance Capacity Building
+project approved in 2002, for which a supplemental credit was approved in May 2007, the
+HIV/AIDS project approved in 2004, for which a supplemental credit i s under preparation, the
+Basic Education project approved in 2004, for which a supplemental credit i s also under
+
+40
+
+preparation, the Agricultural Development and Rural Roads Rehabilitation project approved in
+2007 and the Avian Flu project approved in 2008. The credit for the Emergency Recovery and
+Community Support project was closed o n December 31, 2008, and the grant for the
+Demobilization and Reintegration o f Former Combatants was closed o n February 28,2009.
+
+All projects are rated as satisfactory or moderately satisfactory for development
+7.
+objectives. The recently approved projects in agriculture and health have experienced long
+effectiveness delays (10 months after Board approval for the former and 8 months f o r the latter).
+About h a l f o f the portfolio is at risk, which i s largely a reflection o f the country’s high risk, postconflict environment, with weak institutions. A Country Portfolio Performance Review held in
+June 2008 was most helpful in focusing senior government officials’ attention o n common issues
+and difficulties encountered in project implementation.
+
+8.
+The outcome indicators in the I S N were not realistic in view o f the short period
+covered by the ISN. Most o f them are unlikely to be achieved by the end o f June 2009. In the
+governance area, it takes time to change deeply entrenched habits (see b o x below). Progress i s
+being made, but all activities under the action plan supported by the ongoing Transparency and
+Governance project are delayed. In the social sectors area, the outcome indicators, as selected in
+the ISN, were not consistent with the result frameworks for the ongoing projects. In the rural
+growth area, implementation o f the Bank-supported project was delayed. In any event, it would
+have been impossible for the project t o deliver results as expected within the I S N timeframe.
+Box: I S N Outcomes
+Transparency and public finance management:
+Outcome 1: SNPC receives unqualified financial audits by end 2009. Not achieved: audits are s t i l l
+qualified, but accounting has improved.
+Outcome 2 : National E IT I Committee i s constituted and i t s reports reflect Congo’s increased
+adherence to good governance and transparency in managing oil revenues. Partially achieved: the EITI
+committee has been established but i s not f i l l y operational; a first report i s under preparation.
+Outcomes 3 and 4: Anti-corruption observatory certifies satisfactory progress in (i)improving oil
+marketing; and (ii)implementing anti-corruption action plan. Partially achieved: the anti-corruption
+observatory has been established, but i s not f i l l y operational. The Anti-Corruption action plan i s under
+implementation.
+Outcome 5: Government adopts a Public Finance Management Action Plan. Achieved
+Outcome 6: A l l contract award information related to public investment i s published. Not achieved.
+Outcome 7: Congo’s PEFA ratings improve. N o assessment was made.
+Basic social services
+Outcome 8: Increase number o f voluntary AIDS counseling and testing centers. Good progress was
+made under the HIV/AIDS project, but the ISN outcome indicator i s not part o f the project’s results
+framework.
+Outcome 9 : Increase effectiveness o f education services, so as to increase completion rate to 75% in
+primary, 40% in lower secondary and 15% in upper secondary. Not achieved: the completion rate in
+primary education increased from 50 percent to 64 percent according to UN data (73 percent according
+to government data). The project being focused on basic education, the indicators for the other parts o f
+the education system were not relevant.
+Rural growth
+Outcome 10: Improve transport infrastructure in rural areas: not achieved
+Outcome 11: Improve business environment for rural producers: not achieved
+0
+Outcome 12: Increase household income in targeted provinces by 15%: not achieved.
+
+41
+
+9.
+ISN implementation provides important lessons for the preparation of the CPS.
+These lessons focus in particular on how to engage most effectively in a difficult governance
+environment, and how to make a difference in spite of a limited IDA financing envelope:
+0
+
+Realistic expectations. Expectations of impact of Bank support should be commensurate
+with the limited amount of assistance provided. Significant time i s required for reaching a
+consensus on sensitive reforms after decades of economic mismanagement and internal
+conflicts, and the weak capacity in government administration.
+
+0
+
+Strategic use o f Bank resources: IDA’s envelope of about US$20 million per year pales
+in comparison to Government’s investment budget of about US$I billion per year. In
+order to have a real impact on growth, poverty, and social outcomes, Bank support will
+need to be used in a more strategic manner whereby lending and non-lending activities
+will particularly have to focus on spurring efficiency in, and more strategic choice of,
+largely Government financed programs. Similarly, IDA’s limited funds will have to be
+leveraged with significant co-financing from the Government. Finally, in light o f IDA’S
+limited administrative budget for activities in Congo, some of the Bank’s support could
+be provided (at least partially) in the form offee-bused sewices for selected activities.
+
+0
+
+Tackle governance from different angles: The Bank should complement its direct support
+to governance reforms with a more substantive engagement on helping accelerate growth,
+which i s a critical concern of the Government. As the positive response o f the
+Government to the high-level seminar on growth and the policy dialogue on transport
+corridors have shown, this i s important to demonstrate to the authorities the value-added
+of engaging with the Bank. A second and related lesson was that it would be more
+effective to treat governance as a cross-cutting issue. Enhancing transparency and
+governance standards should not be treated in isolation, but as critical factors in
+improving effectiveness in service delivery or infrastructure upgrading. Finally, the ISN
+experience showed that there i s a need to engage not only with the Government, but also
+with the demand-side of governance to bring about lasting change in these areas. This i s
+particularly true in Congo’s post-conflict context, where formal and informal institutions
+in- and outside o f government are still weak in capacity. The positive effect of Bank
+support to publication of oil revenue data or the creation o f an Anti-corruption
+Observatory are a case in point.
+
+42
+
+Annex 4: Description of Country Assistance Strategies for Congo's Principal Partners
+(For Partners Whose Information Was Available)
+
+1.
+Agence Francaise de Developuement (AFD). In March 2007, Congo and AFD signed a
+Partnership Framework Agreement. The agreement, which covers the period 2008 - 2012, was
+revised in M a y 2008. AFD's support i s focused on three sectors, infrastructure, environment
+protection and educatiodtraining. In the first area, AFD i s involved in (i)improving drainage
+services in Brazzaville, (ii)enhancing the capacity o f the port o f Pointe-Noire to play an
+increasing role as a regional port, (iii)
+supporting maintenance o f the river navigation system, and
+(iv) helping Government prepare and better manage infrastructure projects. In the second area,
+AFD i s focused on helping Congo develop i t s forestry resources in a sustainable way within the
+broader regional framework. In the third area, AFD supports implementation o f a new strategy for
+technical education and vocational training in close association with the private sector. Additional
+support i s provided to the health sector through a Sector-Wide Approach. Cross sectoral issues
+being addressed in the framework agreement include governance (public investment program,
+social security, and judiciary), higher education reform, and development o f civil society
+organizations. The Bank will work closely with AFD on ensuring that the efficiency o f customs
+services in the port o f Pointe-Noire i s enhanced. I t will also work with AFD on the forestry sector
+and governance issues.
+2.
+African Development Bank (AfDB). In May 2008, the AfDB adopted a country strategy
+paper for 2008-12, which aims at contributing to poverty reduction and attainment o f the
+Millennium Development Goals through two key intervention areas: (i) infrastructure
+development to support growth and improve the living environment (water, sanitation and
+electricity); and (ii)promotion o f macroeconomic stability and growth. Under the proposed
+Urban Development and Water Supply Project to be funded by the Bank will focus on urban
+services and water supply while the AfDB will focus on financing sanitation. Under the second
+pillar, AfDB envisages an institutional support to strengthen the resource allocation system and
+the business climate. The proposed Economic Diversification Support Project will be closely
+coordinated with AfDB. AfDB finances feasibility studies for key regional integration
+infrastructure and facilities, including the proposed Brazzaville-Kinshasa bridge, a critical road
+link between Congo, Gabon and Cameroon, and investment for enhancing the efficiency o f the
+Central African Power Pool. The AfDB also intends to support statistical capacity development
+through the International Comparison Program work; this would support the implementation o f
+the national statistical development strategy rather than its preparation.
+
+3.
+European Union (EU). In January 2008, the Government and the EU signed a new
+program o f assistance for 2008-2013 with two envelopes, one o f EUR 85 million for the regular
+program and the other o f EUR 3.9 million for emergency situations. The program will support
+two broad objectives, regional integration and governance. Under the first objective the focus i s
+on transport infrastructure and economic diversification. Under the second objective, the focus i s
+on public finance management (internal and external controls) and economic governance
+(including in the forestry sector, the business climate and support to medium- and small-scale
+enterprises). In addition, support will be provided to the health sector and to furthering the rule o f
+law. The Bank intends to work closely with the EU on reforming the management o f the CFCO,
+the main item under the transport infrastructure component o f the program, enhancing the
+efficiency of the river port in Brazzaville, improving public finance management and the three
+elements o f the economic governance agenda.
+
+43
+
+Partnership within the World Bank Group
+
+4.
+IFC. Currently, IFC does not have an active project in the country, but continues to
+pursue prospects for involvement in projects along the following strategic priorities: (i)
+proactively support the improvement o f the country’s business environment so as to foster more
+foreign investment and facilitate the growth o f the MSME sector; (ii)develop and support MSME
+projects that will capitalize on the country’s vibrant oil sector and derive positive externalities
+from this activity by providing goods and services to this sector; and (iii)facilitate access to
+finance for these local MSMEs by entering into partnerships with banks and other financial
+institutions, and providing capacity-building to both the banks as well as the MSMEs. As
+indicated earlier, the Bank shall work very closely with IFC, especially on supporting the MSME
+sector, with the Bank focusing on the improving the business environment to complement IFC’s
+activities, especially those related to access to credit. The two institutions will also work very
+closely on the agribusiness sector.
+5.
+MIGA. Congo has been a MIGA member since 1991 and contributed to MIGA’s General
+Capital Increase in March 2003. MIGA currently has no exposure in the Republic o f Congo, and
+there i s no active application. In the course o f implementing the activities proposed under this
+CPS, the Bank will work very closely with MIGA, especially with respect to attracting foreign
+investors in the infrastructure, mining, and agro-business sectors. MIGA may be invited to
+provide guarantees to Public-Private Partnerships.
+6.
+FIAS and PPIAF. The Foreign Investment Advisory Service and the Public-Private
+Infrastructure Advisory Facility are expected to work closely with the Africa Region in the areas
+o f investment climate reform and strategic work on infrastructure reform and development.
+
+44
+
+Annex 5: Country at a Glance
+Republic of Congo
+AS o i 91241oa
+
+Congo, Rep. a t a glance
+Key Development Indicators
+
+9116/08
+
+Congo,
+Rep
+
+SubSaharan
+Africa
+
+Lower
+middle
+income
+
+38
+342
+21
+61
+
+800
+24,242
+2.4
+36
+
+3,437
+35,510
+1.0
+42
+
+58
+1,540
+2,750
+
+782
+952
+1,870
+
+6,485
+1,887
+4,544
+
+-1 6
+-3 8
+
+8.2
+3.7
+
+9.7
+8.6
+
+55
+79
+12
+
+50
+72
+50
+94
+27
+
+69
+41
+25
+
+91
+79
+113
+102
+
+89
+50
+99
+88
+
+93
+85
+112
+109
+
+71
+20
+
+58
+31
+
+88
+54
+
+Age dlrtrlbutlon, 2007
+
+(2007)
+
+Male
+
+Population, mid-year (millions)
+Surface area (thousand sq. km)
+Population growth (%)
+Urban population (% of total population)
+GNI (Atlas method, US$ billions)
+GNi per capita (Atlas method, US$)
+GNI per capita (PPP, international $)
+
+Female
+
+7579
+8084
+4YO
+
+x-34
+1519
+0-4
+
+GDP growth (Oh)
+GDP per capita growth (%)
+
+20
+
+0
+
+10
+
+m
+
+10
+
+wont
+
+(most recent esllmafa, 200&2007)
+Poverty haadmunt ratio at $1.25 a day (PPP, %)
+Poverty headmunt ratio at $2.00 a day (PPP, 56)
+Life expectancyat birth (years)
+Infant mortality (per 1,000 live births)
+Child malnutrition ( % of children under5)
+Adult literacy. male (Oh of ages 15 and older)
+Adult literacy, female (Oh of ages 15 and older)
+Gross primary enrollment, male (Oh of age group)
+Gross primary enrollment. female (W of age group)
+Access to an improved water sourca (%of population)
+Access to Improved sanitation facilities (% of population)
+
+Under.6 mortality rate (per 1,000)
+m1
+
+150
+
+1m
+M
+0
+
+1885
+
+1-
+
+OConQo,Rep.
+
+Net Aid Flows
+(US$ millions)
+Net ODA and omdai aid
+Top 3 donors (in 2006):
+France
+European Commission
+Italy
+
+Aid (% of GNI)
+Aid per capita (US$)
+
+1980
+
+1990
+
+2000
+
+2007
+
+91
+
+217
+
+33
+
+254
+
+49
+7
+0
+
+169
+9
+16
+
+10
+2
+2
+
+123
+58
+24
+
+59
+51
+
+9.3
+90
+
+1.5
+10
+
+4.3
+69
+
+73
+20 1
+
+.7.4
+-1.0
+
+0.4
+47.0
+
+7.0
+-7.9
+
+211 3
+
+272.3
+92
+
+712.0
+100
+
+479.3
+274
+
+m
+
+xxx1
+
+OSubSsharan Africa
+
+'
+Growth of GDP and GDP per capita (%)
+
+Long-Term Economic Trends
+Consumer prices (annual O
+h change)
+GDP implicit deflator (annual % change)
+Exchange rate (annual average, local per US$)
+Terns of trade index (2000 = 100)
+
++GDP
+
+198690
+
+-GDP
+
+1890-2000
+
+per capita
+
+200607
+
+(average annual gmMh %)
+Population, mid-year (millions)
+GDP (US%millions)
+
+18
+1 706
+
+2.4
+2,799
+
+3.2
+3,220
+
+3.8
+7,846
+
+3.0
+3.3
+
+2.8
+1.0
+
+Agriculture
+lndustly
+Manufacturing
+Services
+
+11 7
+46 8
+75
+41 7
+
+(% of GDP)
+12.9
+40.6
+8.3
+46.5
+
+5.3
+72.2
+3.5
+22.5
+
+5.0
+59.6
+6.0
+35.1
+
+3.4
+5.2
+6.8
+2.2
+
+0.7
+1.7
+-2.4
+-0.7
+
+Householdfinal consumption expenditure
+General gov't final consumption expenditure
+Gross capital fonnation
+
+48 8
+17 6
+35 6
+
+62.4
+13.8
+15.9
+
+29.1
+11.6
+22.6
+
+28.7
+14.1
+27.1
+
+2.3
+4.3
+-11.6
+
+-2.2
+-4.4
+10.4
+
+Exports of goods and services
+imports of goods and SBN~WS
+Gross savings
+
+60 0
+60 1
+
+53.7
+45.8
+6.6
+
+80.3
+43.6
+30.1
+
+73.0
+42.9
+35.6
+
+5.1
+4.7
+
+3.0
+2.0
+
+Note: Figures in italics are for years other than those specified. 2007 data are preliminary. .. indicates data are not available.
+a. Aid data are for2006.
+Development Economics Development Data Group (DECDG).
+
+45
+
+2.3
+4.1
+
+Congo, Rep.
+Balance of Payments and Trade
+
+2000
+
+(US$ mi//ions)
+Total merchandise exports (fob)
+Total merchandise imports (cif)
+Net trade in goods and services
+
+2,449
+596
+1,181
+
+Workers' remittances and
+compensation of employees (receipts)
+
+2007
+IGovernance Indicators, 2000 and 2007
+5,037
+1.564
+2,213
+
+10
+
+11
+
+255
+7.9
+
+507
+6.6
+
+Voice and scmuntability
+
+of law
+Regulatory
+Rulequality
+
+Current account balance
+as a % of GDP
+Reserves, induding gold
+
+223
+
+Control of uarrupbon
+
+2,362
+
+(% of GDP)
+Current revenue (including grants)
+Tax revenue
+Current expenditure
+
+t#2007
+02000
+
+26.6
+26.2
+18.5
+
+36.7
+35.7
+16.1
+
+Overall surplus/defidt
+
+1.1
+
+9.7
+
+Highest marginal tax rate (%)
+Individual
+Corporate
+
+50
+45
+
+30
+
+1
+
+1
+
+I'
+
+1
+
+50
+
+75
+
+~
+
+0
+
+Central Government Flnance
+
+1
+
+'
+
+I ! ;
+
+Poiitice stability
+
+25
+
+100
+
+Country'r percenth rank (0-100)
+higher vaIu.8 ,m*
+
+b.Werntiog8
+
+I
+
+Soume Kaufmann-Kraav-Mastm World Bank
+
+Technology and Infrastructure
+Paved mads (% of total)
+Fixed line and mobile phone
+subscribers (per 1,000 people)
+High technology exports
+(% of manufactured exports)
+
+2000
+
+2007
+
+9.7
+
+5.0
+
+3
+
+14
+
+31
+66.0
+
+..
+
+31
+65.8
+18.0
+
+..
+
+61.498
+
+External Debt and Resource Flows
+Environment
+(US$ millions)
+Total debt outstanding and disbursed
+Total debt service
+Debt relief (HIPC, MDRI)
+
+4,865
+43
+1,757
+
+6,130
+I01
+
+Total debt (% of GDP)
+Total debt service (% of exports)
+
+151.1
+1.6
+
+79.3
+1.5
+
+Freshwater resourws per capita (w. meters)
+Freshwaterwithdrawal (% of internal resources)
+
+166
+0
+
+344
+0
+
+C02 emissions per capita (mt)
+
+0.75
+
+1.0
+
+GDP per unit of energy use
+(2005 PPP $per kg of oil equivalent)
+
+11.4
+
+10.0
+
+Energy use per capita (kg of oil equivalent)
+
+265
+
+332
+
+IBRD
+Total debt outstanding and disbursed
+Disbursements
+Principalrepayments
+Interest payments
+
+65
+0
+2
+1
+
+0
+0
+0
+0
+
+IDA
+Total debt outstanding and disbursed
+Disbursements
+Total debt service
+
+159
+0
+1
+
+295
+8
+7
+
+3
+1
+0
+
+0
+0
+0
+
+1
+
+0
+
+-
+
+-
+
+Foreign direct investment (net Inflows)
+Portfolio equity (net inflows)
+
+Agricultural land (% of land area)
+Forest area (%of land area)
+Nationally protected areas (% of land area)
+
+Composition of total external debt, 2006
+
+Private, 2.136
+
+JS$ millions
+
+Private Sector Development
+Time required to start a business (days)
+Cost to start a business (% of GNI per capita)
+Time required to register property (days)
+Ranked as a major constraint to business
+(% of managers surveyed who agreed)
+n.a.
+n.a.
+
+2000
+
+2008
+
+-
+
+-
+
+37
+106.4
+116
+
+2000
+
+2007
+
+IFC (fiscal year)
+Total disbursed and outstanding portfolio
+of which IFC own account
+Disbursements for IFC o m account
+Portfolio sales, prepayments and
+repayments for IFC own account
+MiGA
+Gmss exposure
+New guarantees
+
+Stock market capitalization (% of GDP)
+Bank capital to asset ratio (%)
+
+Note: Figures in italics are for years other than those specified. 2007 data are preliminary.
+.. indicates data are not available. -indicates observaUon is not applicable.
+Development Economics, Development Data Group (DECDG).
+
+46
+
+0.0
+
+9/16/08
+
+Annex 6: Millennium Development Goals
+
+Millennium Development Goals
+
+Congo, Rep.
+
+With selected targets to achieve between 1990 and 2015
+(estimate dosest to date shown, +/- 2 years)
+Goal 1: h a l v e the rates for extreme p o v e r t y a n d malnutrition
+Poverty headcount ratio et $1.25 a day(PPP, %of population)
+Poverty headcountratio at national poverty line (% of population)
+Share of income or consumptionto the poorest qunitile (Oh)
+Prevalence of malnutrition(% of children under 5)
+
+I990
+
+1995
+
+2000
+
+2007
+
+11.8
+
+Goal 2: ensure that children are able to complete primary schooling
+Primaryschool enmliment (net, %)
+Primarycompietlonrate (% of relevant age group)
+Secondary school enrollment (gross, %)
+Youth literacy rate (% of people ages 1524)
+
+82
+59
+46
+
+45
+
+55
+34
+
+55
+73
+43
+97
+
+94
+
+Goal 3: eliminate gender disparity in educatlon and empower women
+Ratio of girls to boys in primary and secondary education (%)
+Women employed in the nonagriculturalsector (% of nonagriculturalemployment)
+Proportion of seats held by women in national pariiament (%)
+
+85
+26
+14
+
+84
+
+90
+
+2
+
+12
+
+7
+
+G o a l 4: reduce under-5 mortality byhvo-thirds
+Under-5 mortality rate (per 1,000)
+Infant mortality rata (per 1,000 live births)
+Measles immunization (proportionof one-year olds immunized.%)
+
+103
+67
+75
+
+110
+70
+38
+
+117
+74
+34
+
+126
+79
+66
+
+Goal 5: reduce maternal mortallty by three-fourths
+Maternal mortality ratio (modeled estimate, per 100,000 live births)
+Births attended by skilled health staff (% of total)
+Contraceptive prevalence (% of women ages 15-49)
+
+740
+86
+44
+
+Goal 6: halt and begin to reverse the spread of HiV/AiDS and other major diseases
+Prevalence of HIV (% of population ages 1549)
+Incidence of tuberculosis (per 100,000 people)
+Tuberculosis cases detected under DOTS (%)
+Goal 7: halve the proportion of people without sustainable access to basic needs
+Access to an improvedwater source (% of population)
+Access to improved sanitation facilities (% of population)
+Forest area (% of total land area)
+Nationally protected ereas (% of total land area)
+C02 emissions (metric tons per capite)
+GDP per unit of energy use (constant 2005 PPP $ per kg of oil equivalent)
+Goal 8: develop a global partnership for development
+Telephone mainlines (per 100 people)
+Mobile phone subsuibers (per 100 people)
+lntemet users (per 100 people)
+Personal computers (per 100 people)
+
+IEducaUon indicators (K)
+
++Primsry
+
+-D-
+
+I
+
+Weasles immunization (X of I-year olds)
+
+net enmllnwnt ratio
+
+Ratio of gids to boy6 in primary d
+
+OCongo. Rep.
+
+Note: Figures in italics are for years other than those speafied.
+
+USubSahsrsn Afric~
+
+.. indicates data are not available.
+
+Development Emnomiu, Development Data Group (DECDG).
+
+47
+
+161
+
+4.4
+349
+86
+
+3.5
+403
+51
+
+70
+20
+66.0
+
+241
+69
+
+0.5
+8.0
+
+0.6
+10.9
+
+0.7
+11.4
+
+71
+20
+65.8
+18.0
+1.0
+10.0
+
+0.7
+0.0
+0.0
+
+0.8
+0.0
+0.0
+
+0.7
+2.2
+0.0
+0.3
+
+0.4
+35.4
+1.9
+0.5
+
+66.5
+
+ICT indicators (per 1,000 people)
+
+I I
+
+0 Fixed + mbile subscribers
+~
+
+u60r6
+
+9116/08
+
+Annex 7: Selected Indicators of Bank Portfolio Performance and Management
+
+Republic o f Congo
+As Of Date 0411712009
+
+Indicator
+Portfolio Assessment
+Number of Projects Under Implementation a
+Average Implementation Period (years)
+Percent of Problem Projects by Number
+Percent of Problem Projects by Amount
+Percent of Projects at Risk by Number
+.
+Percent of Projects at Risk by Amount
+Disbursement Ratio (%) e
+Portfolio Management
+Country Portfolio Performance Review during the year
+(yedno)
+Supervision Resources (total US$)
+Average Supervision (UWproject)
+
+2006
+
+2007
+
+2008
+
+2009
+
+6
+2.8
+16.7
+19.1
+50.0
+43.9
+26.1
+
+5
+3.1
+20.0
+33.6
+40.0
+51.6
+32.8
+
+6
+3.4
+33.3
+25.9
+50.0
+51.2
+21.0
+
+5
+3.9
+0.0
+0.0
+40.0
+34.7
+17.9
+
+Since
+FY80
+
+Last
+FiveFYs
+19
+3
+435.7
+69.5
+77.8
+100.0
+94.1
+100.0
+
+Memorandum Item
+Proj. Eval. by OED by Number
+Proj. Eval. by OED by Amt (US$ millions)
+% of OED Projects Rated U or HU by Number
+% of OED Projects Rated U or HU by Amt
+
+a. As shown in the Annual Report on Portfolio Performance (except for current FY).
+b. Average age of projects in the Bank's country portfolio.
+c. Percent of projects rated U or HU on development objectives (DO) and/or implementation progress
+(W.
+d. As defined under the Portfolio Improvement Program.
+e. Ratio of disbursements during the year to the undisbursed balance of the Bank's portfolio at the
+beginning of the year: Investment projects only.
+* All indicators are for projects active in the Portfolio, with the exception of Disbursement Ratio,
+which includes all active projects as well as projects which exited during the fiscal year.
+
+48
+
+Annex 8: IBRDADA Program Summary
+Republic o f Congo
+As Of Date 04/17/2009
+
+Proposed IBRDADA Base-Case Lending Program
+year
+
+Project ID
+
+us'(M)
+
+2009
+CG - HIV/AIDS & Health Additional Fin (FY09)
+2009
+CG - Basic Education Support Add Fin (FY09)
+2010
+CG Economic Diversification Support Project
+2010
+CG - Urban & Water Development S I L
+20 11 Regional Telecommunications Project
+Overall Result
+*This includes $10 million from Regional Funding
+
+-
+
+-
+
+49
+
+5.0
+15.0
+10.0
+22.5
+15.0*
+67.5
+
+Strategic
+Rewards (H/WL)
+
+Implementation
+Risks (HIWL)
+
+H
+H
+H
+H
+H
+
+M
+M
+M
+M
+
+M
+
+Annex 9: Doing Business Indicators
+Republic of Congo
+
+Paying Taxes
+
+179
+
+178
+
+-1
+
+Trading Across Borders
+
+176
+
+174
+
+-2
+
+Enforcing Contracts
+
+155
+
+156
+
++1
+
+Closing a Business
+
+117
+
+113
+
+-4
+
+Note: Doing Business 2008 rankings have been recalculated to reflect changes to the
+methodology and the addition o f three new countries.
+
+50
+
+MAP SECTION
+
+IBRD 33390
+14°E
+
+18°E
+
+16°E
+
+CENTRAL AFRICAN
+REPUBLIC
+
+4°N
+
+CONGO
+
+4°N
+
+CAMEROON
+Ib
+
+To
+Batouri
+
+ga
+
+Mo
+
+To
+Ebolowa
+
+2°N
+
+en
+
+tab
+
+a
+
+LIKOUALA
+
+Ngoko
+
+Souanké
+
+Bétou
+
+Sembé
+
+2°N
+
+Impfondo
+
+Ouésso
+Epéna
+
+Co
+
+SANGHA
+ua
+
+la
+
+oué
+
+gi
+Lik
+
+Etoumbi
+
+Uban
+
+GABON
+0°
+
+ko
+
+ng
+
+WESTERN
+CUVETTE
+
+o
+
+Li
+
+a
+
+Mambili
+
+Le
+
+Sangh
+
+C o n g o
+To
+Lambaréné
+
+ng
+
+ou
+
+0°
+
+ala
+
+CUVETTE
+
+To
+Booué
+
+Owando
+
+Kouyou
+
+im
+
+Mossaka
+
+P L AT E A U X
+Co
+
+Gamboma
+i
+én
+
+N
+
+k
+
+2°S
+
+ng
+
+o
+
+Okoyo
+
+Lake
+Tumba
+
+a
+
+Al
+
+To
+Lambaréné
+
+Liranga
+
+B a s i n
+
+Ewo
+
+Mbinda
+Loué
+s
+
+é
+
+s
+
+NIARI
+
+Ngo
+
+Djambala
+
+Zanaga
+
+Mossendjo
+
+Batéké
+
+lou
+
+Koui
+
+Dolisie
+
+D jo
+
+Sibiti
+
+BOUENZA
+
+POOL
+20
+
+40
+
+60
+
+80
+
+100 Miles
+4°S
+
+BRAZZAVILLE
+
+18°E
+
+To
+Kikwit
+
+Pointe-Noire
+
+This map was produced by
+the Map Design Unit of The
+World Bank. The boundaries,
+colors, denominations and
+any other information shown
+on this map do not imply, on
+the part of The World Bank
+Group, any judgment on the
+legal status of any territory,
+or any endorsement or
+acceptance of such
+boundaries.
+
+i
+
+Kinkala
+
+Kayes
+
+AT L AN T IC
+OC E AN
+
+Lake
+Mai-Ndombe
+
+0 20 40 60 80 100 Kilometers
+
+0
+
+Madingou
+
+2°S
+
+Kwa
+
+Ngabé
+
+ari
+
+Nkola
+
+LÉKOUMOU
+Ni
+
+4°S
+
+KOUILOU
+
+Fim
+
+ué
+
+Plateau
+Makabana
+
+DEMO CRAT IC
+REPUBLIC
+O F CO NGO
+
+CO N GO
+SELECTED CITIES AND TOWNS
+
+CABINDA
+(ANGOLA)
+
+To
+Matadi
+
+REGION CAPITALS
+To
+Lusanga
+
+NATIONAL CAPITAL
+RIVERS
+
+To
+M'banza Congo
+
+6°S
+
+RAILROADS
+
+ANGOLA
+12°E
+
+14°E
+
+MAIN ROADS
+
+REGION BOUNDARIES
+16°E
+
+INTERNATIONAL BOUNDARIES
+SEPTEMBER 2004
+
+

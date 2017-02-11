@@ -1,0 +1,7605 @@
+Document of
+
+The World Bank Group
+
+FOR OFFICIAL USE ONLY
+
+Report No. 75814-LB
+
+INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT
+
+INTERNATIONAL FINANCE CORPORATION
+
+PROGRESS REPORT
+
+ON THE
+
+COUNTRY PARTNERSHIP STRATEGY
+
+FOR
+
+LEBANESE REPUBLIC
+
+FOR THE PERIOD FY11-FY14
+
+April 18, 2013
+
+MNCO2 Country Management Unit
+Middle East and North Africa Region
+
+Strategy Unit
+
+Middle East and North Africa Region
+
+International Finance Corporation
+
+This document has a restricted distribution and may be used by recipients only in the performance of their official
+duties. Its contents may not otherwise be disclosed without World Bank authorization.
+
+P
+
+b
+u
+
+i
+l
+
+c
+
+D
+
+i
+
+c
+s
+
+l
+
+o
+
+s
+
+u
+
+r
+
+e
+
+A
+
+u
+
+t
+
+o
+h
+
+r
+
+i
+
+z
+
+d
+e
+
+P
+
+b
+u
+
+i
+l
+
+c
+
+D
+
+i
+
+c
+s
+
+l
+
+o
+
+s
+
+u
+
+r
+
+e
+
+A
+
+u
+
+t
+
+o
+h
+
+r
+
+i
+
+z
+
+d
+e
+
+P
+
+b
+u
+
+i
+l
+
+c
+
+D
+
+i
+
+c
+s
+
+l
+
+o
+
+s
+
+u
+
+r
+
+e
+
+A
+
+u
+
+t
+
+o
+h
+
+r
+
+i
+
+z
+
+d
+e
+
+P
+
+b
+u
+
+i
+l
+
+c
+
+D
+
+i
+
+c
+s
+
+l
+
+o
+
+s
+
+u
+
+r
+
+e
+
+A
+
+u
+
+t
+
+o
+h
+
+r
+
+i
+
+z
+
+d
+e
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CURRENCY AND EQUIVALENTS
+
+Fiscal Year
+January 1 to December 31
+
+(Exchange Rate Effective April 2, 2013)
+Currency Unit = Lebanese Pound (LL)
+LL1,507.5 = US$1
+
+ABBREVIATIONS AND ACRONYMS
+
+AAA 
+
+Analytical and Advisory Activities 
+
+LBP 
+
+Lebanese Pound
+
+BdL 
+
+Banque du Liban (Central Bank of Lebanon) 
+
+LNG 
+
+Liquefied Natural Gas
+
+BLC 
+
+Banque Libanaise pour le Commerce 
+
+LTF 
+
+Lebanon Trust Fund
+
+Country Assistance Strategy 
+
+MDTF Multi Donor Trust Fund
+
+Country Partnership Strategy 
+
+MEHE Ministry of Education & Higher Education
+
+European Commission 
+
+MENA Middle East and North Africa
+
+Electriciti du Liban (Lebanon Electric) 
+
+MIGA Multilateral Investment Guarantee Agency
+
+Education Development Project 
+
+ESW 
+
+Economic Sector Work 
+
+MILES Macro-economy, Investment Climate, Labor,
+Education and Social Protection
+MOEW Ministry of Energy and Water
+
+FY 
+
+Fiscal Year 
+
+MOF 
+
+Ministry of Finance
+
+GDP 
+
+Gross Domestic Product 
+
+MTEF Medium-Term Expenditure Framework
+
+GEF 
+
+Global Environment Facility 
+
+NPTP 
+
+National Poverty Targeting Program
+
+CAS 
+
+CPS 
+
+EC 
+
+EdL 
+
+EDP 
+
+IBRD 
+
+ICT 
+
+IDF 
+
+IFC 
+
+IL 
+
+GoL 
+
+Government of Lebanon 
+
+International Bank for Reconstruction & 
+Development
+Information and Communication Technology 
+
+SEF 
+
+SIL 
+
+Sustainable Energy Finance
+
+Specific Investment Loan
+
+SME 
+
+Small and Medium Enterprises
+
+Institutional Development Fund 
+
+International Finance Corporation 
+
+TA 
+
+TF 
+
+Technical Assistance
+
+Trust Fund
+
+Investment Lending 
+
+WBG 
+
+World Bank Group
+
+Vice President 
+Director 
+Task Manager 
+
+IBRD 
+Inger Andersen 
+Ferid Belhaj 
+Mouna Couzi 
+
+IFC
+Dimitris Tsitsiragos
+Mouayed Makhlouf
+Thomas Jacobs
+
+ACKNOWLEDGEMENTS
+
+The World Bank Group greatly appreciates the close and fruitful collaboration with the
+Government of Lebanon in the preparation of this Country Assistance Strategy Progress Report
+(CASPR). This CASPR was prepared by members of the World Bank Group's Lebanon Country
+Team, including Mouna Couzi, Thomas James Jacobs, Pilar Maisterra, Janette Uhlmann, Anne
+Njuguna, Mary Eunice Barroso, Stefano Mocci, Haneen Ismail Sayed, Claire Kfouri, Chantal
+Reliquet, Simon Stolp, Ziad Nakat, Eric Le Borgne, Chadi Bou Habib, Wael Mansour, Randa
+Akeel, Juan Manuel Moreno, Gustavo Demarco, Angela Elzir, Alaa Sarhan, Paul Prettitore,
+Fabian Seiderer, Victor Mulas, David Satola, Ingrid Ivins, Victoria Gyllerup, Yousra Mohamed
+Abdelrahman, Rapti A. Goonesekere, Amal El Karagy, Persephone Economou, and Bushra
+Ghulam Mohammad under the overall leadership of Ferid Belhaj.
+
+ii
+
+COUNTRY PARTNERSHIP STRATEGY FOR FY11-FY14
+LEBANESE REPUBLIC
+
+CONTENTS
+
+I. 
+
+INTRODUCTION 
+
+....................................................................
+
+II. DEVELOPMENT CHALLENGES..........................3...... 
+
+.......................
+
+1
+
+3
+
+III. PORTFOLIO PERFORMANCE AND LESSONS LEARNED. 
+
+.............. 
+
+..................... 7
+
+IV. PROGRESS TOWARDS ACHIEVING CPS OBJECTIVES AND OUTCOMES 
+V. THE WAY FORWARD 
+.................................................. 
+VI. RISKS ............................................................................ 
+
+..................... 
+
+11
+
+............ 13
+
+15
+
+TABLES
+
+Table 1: Lebanon: Selected Economic Indicators, 2009-20 15............. 
+................
+4
+Table 2: Summary of CPSPR Findings on the FYI 1-13 CPS Results Matrix ..... 
+......... 12
+Table 3: World Bank Program for the period FY1 1-FY14 
+................................. 
+15
+
+Annexes
+Annex I: CPS Results Matrix and Progress to Date .................................. 
+17
+Annex II: Detailed Overview on Progress to Date under the Various Sectors 
+.............. 27
+Annex A2: Lebanon at a Glance 
+................................ 
+........ 32
+Annex B2: Selected Indicators of Bank Portfolio Performance & Management 
+............ 35
+Annex B3: IFC Investment Operations Program. 
+............................ 
+......
+36
+Annex B5: Social Indicators 
+........................................ 
+......... 37
+Annex B6: Key Economic Indicators 
+...........................................
+38
+Annex B7: Key Exposure Indicators 
+...........................................
+40
+Annex B8a: IBRD Operations Portfolio and Grants 
+..................................
+41
+Annex B8b: Statement of IFC's Committed and Outstanding Portfolio ..................
+42
+Annex B8c: MIGA Outstanding Exposure 
+.......................................
+43
+
+.. 
+...... 
+.
+
+111
+
+PROGRESS REPORT - COUNTRY PARTNERSHIP STRATEGY (FY11-FY14)
+
+LEBANESE REPUBLIC
+
+I. 
+
+INTRODUCTION
+
+1. 
+This Progress Report assesses the implementation of the World Bank Group's (WBG)
+Country Partnership Strategy (CPS) for Lebanon for FY11-FY14. Preparations for the CPS
+followed three years of political instability in Lebanon, in the aftermath of the Israel-Lebanon
+hostilities in 2006. The hostilities instigated a deep political divide which paralyzed Parliament and
+the Government and increased political violence. After the Doha Accord in 2008, and the formation
+of a National Unity Government in November 2009, a period of political stability paved the way for a
+renewed focus on the critical reforms to improve Lebanon's fiscal and debt sustainability, create
+employment, provide adequate infrastructure and social services, and support social inclusion.
+
+2. 
+The CPS discussions, which began with the Government in early 2010, were aimed at
+putting the economy on a path to sustained broad-based economic growth, by focusing on four
+strategic goals over a period of four years: (i) Growth and Fiscal Sustainability; (ii) Competitive
+Business Environment; (iii) Economic Infrastructure (electricity, water, transport, environment and
+waste management, local development); and (iv) Human Capital Development and Social Protection.
+
+3. 
+The CPS envisaged a program of investment lending, as well as analytical and advisory
+services (AAA) through the existing portfolio complemented by new lending ranging between
+US$375 and US$550 million. This program is supported by investments and advisory services
+provided by the International Finance Corporation (IFC). The CPS is anchored in the country's
+sectarian and consensus-based political reality, which makes it hard to pursue ambitious reforms.
+
+4. 
+The CPS envisaged a two-tiered approach: (i) a Core Program of engagement consisting
+of the existing portfolio, selected new investments in basic services, as well as technical assistance
+and analytical work to inform and build momentum around key reforms (Tier I); and (ii) a deeper
+engagement in additional areas where traction for reform would develop, including budget support
+should Lebanon implement a sound macroeconomic framework and introduce a robust reform
+program positively impacting the fiscal situation (Tier II). Progress on implementation of the Core
+Program would be assessed regularly, with the Government of Lebanon (GoL) and the Bank Group
+agreeing on areas for possible scale-up of WBG engagement.
+
+5. 
+The difficult country context and the political and economic impact of exogenous shocks
+instigated by the spillover of the Arab Spring, especially the uprising in neighboring Syria,
+have strongly affected Lebanon. The influx of Syrian refugees has had not only a humanitarian
+dimension but also developmental consequences. To date, there are 427,000 people registered as
+refugees or awaiting registration with UNHCR (up from 120,000 in November 2012) with many
+more not registered. It is expected that the number will continue to grow and possibly reach one
+million by year end. This displacement is putting a strain on hosting communities that already face
+challenges in terms of service delivery and poverty levels. The turmoil in Syria is also affecting the
+Lebanese economy more generally, both in terms of increased risk premia vis-A-vis private sector
+investment and blocked trade routes.
+
+6. 
+A total of US$297 million in new IBRD commitments have been made since the start of
+CPS implementation in the areas of water, education, cultural heritage and SME financing (see
+Table 3). In addition, the Social Protection and Promotion Project (US$30 million), and the Mobile
+
+1
+
+Internet Ecosystem Project (US$6.4 million) are envisaged to be presented for Board approval before
+the end of FY13. IFC has committed around US$680 million between FY11 and FY13 in a
+combination of loans, guarantees and equity investments in banking, microfinance, insurance and
+Information and Communication Technology (ICT). In addition, IFC has provided a range of
+advisory services to: (i) scale up Sustainable Energy Finance; (ii) increase access to finance for
+SMEs (with a particular focus on women-owned SMEs); (iii) develop the "ARZ" green building
+rating system; and (iv) conduct a series of green building assessments.
+
+7. 
+
+Progress on structural economic reforms, however, has not been achieved. This is due to
+the continuous political tensions, which culminated in the resignation of Prime Minister Najib Mikati
+on March 22, 2013. Mikati had formed his Government in June 2011 after five months of difficult
+consultations. The current Government has assumed a caretaker role, until a new Cabinet is formed
+by PM-designate Tammam Salam. Continuous political 
+fragmentation has hindered 
+the
+Government's ability to reach consensus on economic reform and on addressing the country's
+infrastructure deficiencies.
+
+8. 
+A notable exception is the Energy Sector. The Government was able to start addressing the
+sector's constraints and approved in June 2010 the Policy Paper for the Electricity Sector, which
+establishes a road map for investments and reform. Although some progress has been made, broader
+sector reforms remain at risk due to potential lack of public financing and difficulties inherent to
+Lebanon's political economy.
+
+9. 
+The strategic thrust of the CPS and two-tiered approach remains relevant. However, the
+heightened risks and their impact on the country program since the discussion of the CPS in 2010
+requires a revision of the more ambitious goals. Economic and social vulnerabilities, as well as
+internal and regional risks identified during CPS preparation have substantially increased. With the
+emergence of the Arab Spring and increased regional instability, the Bank Group's assistance
+program has been characterized by a protracted period of uncertainty and political instability. As
+such, scaling back of the strategic goals is warranted (Strategic Goal 1 has been recast as:
+Strengthened Fiscal and Public Financial Management; and Goal 2 has been narrowed to: Improved
+Competiveness).
+
+10. 
+Nonetheless, progress has been made towards achieving CPS milestones and outcomes.
+Reforms in certain sectors have progressed, albeit timidly, and a number of the indicators under the
+four pillars have been met or are on track to be met. The Results Matrix presented in Annex 1 has
+been revised to reflect more realistic, gender-sensitive and measurable targets by ensuring alignment
+with the country's program for the end of the CPS period. Going forward, new projects will
+incorporate a systematic integration of gender issues.
+
+11. 
+The Bank Group will continue to support the Government with lending for investments
+in key economic infrastructure, as well as technical assistance and analytical work that will
+inform and build momentum around key reforms. Complementing the existing program, stronger
+focus will be placed on transformational sectors that show potential for progress under the present
+circumstances, e.g. the electricity sector, with promising government and stakeholder consensus, the
+water sector as per the priorities identified in the National Water Sector Strategy, and possibly
+transport. The Bank will also continue to monitor the escalating Syrian crisis, and its socioeconomic,
+fiscal and developmental ramifications, while evaluating the impact of this risk on the WBG
+program.
+
+2
+
+II. DEVELOPMENT CHALLENGES
+
+12. 
+The CPS strategic thrust remains relevant in light of the country's persisting
+development challenges, which have been compounded by regional developments. The conflict
+in neighboring Syria over the past two years has imposed a security, political, and economic toll on
+Lebanon, fueling division along sectarian lines, and sparking repeated incidents of violence across
+the country. These incidents have materially impacted the economy and diverted the Government's
+attention from the envisaged reform process towards more immediate political and security concerns.
+
+13. 
+Growth performance has remained below potential due 
+to 
+the country's
+macroeconomic volatility, 
+infrastructure bottlenecks, 
+inadequate support to 
+innovation,
+distorted product and labor market regulations, and weak governance. The economy continues
+to struggle to generate jobs necessary to absorb high unemployment and new entrants to the labor
+force. Unemployment remains especially high among youth and women. The majority of the labor
+force continues to be employed in low productivity service jobs and only 29 percent of workers are in
+formal wage employment, i.e., with access to social security and protected by labor regulations.
+
+The macro-fiscal framework remains fragile, posing challenges for medium-term growth
+
+14. 
+Lebanon's growth spurt stopped in 2011, in part due to regional turmoil, domestic
+political uncertainty and repeated security incidents. After growing by an average of 7.5 percent
+in the four years through 2010, real GDP growth slowed to an estimated 3 percent in 2011 and to 1.4
+percent in 2012 (Table 1). Key drivers of the slowdown were tourism, services, exports and
+construction. Contingent on an improved political and security situation, a moderate rebound in
+economic growth is projected for 2013 (to 2.3 percent). Key risks to the outlook are the uncertainties
+linked to the June 2013 parliamentary elections, and spillovers from the Syrian civil war.
+
+15. 
+Key structural reforms are required to overcome deep-rooted obstacles 
+if higher
+growth rates are to be achieved. Severe bottlenecks remain in infrastructure, especially in
+electricity, transport and water, which will require significant levels of investment. Moreover,
+economic volatility (including dependence on foreign financial inflows), inefficient public spending,
+anticompetitive laws and practices, and low incentives to innovate need to be addressed not only to
+improve growth and job creation, but also to facilitate necessary fiscal adjustment.
+
+16. 
+Maintaining a prudent approach to economic management in the midst of a volatile
+political and security environment remains critical. Lebanon's (large) financial sector is feeling
+the effects of the Syrian crisis and regional uncertainties. High fiscal and current account deficits
+increase exposure to shocks. Careful fiscal management is crucial, particularly in light of the
+substantial exposure of commercial banks to sovereign risk.
+
+17. 
+The improvement in public finances was overturned in 2012, in part due to a structural
+increase in expenditure. From 2006 to 2012, public debt decreased by 47 percentage points of GDP,
+primarily driven by record economic growth. During that period, the fiscal deficit shrank from 11.1
+to 6.4 percent of GDP, mostly due to cyclical factors. 2012 marked a sharp reversal in fiscal
+consolidation: the primary central government surplus shrank by 3.7 percentage points of GDP to a
+deficit of 0.7 percent of GDP. Revenue performance weakened following the deceleration of the
+economy while expenditure expanded briskly, mostly due to the cost of living adjustment for public
+sector workers. Public debt remains high at 134.3 percent of GDP in 2012.
+
+18. 
+Amid an accommodative monetary stance, money supply and lending to the private
+sector remained buoyant. Money supply (M3) increased by 6.7 percent (yoy) in end-2012 thanks to
+
+3
+
+the continuous inflow of foreign deposits attracted by the wide LBP-USD spreads. Notwithstanding
+rising sovereign credit risk, the dollarization rate of deposits remained stable. Lending to the private
+sector grew broadly in line with nominal GDP growth. To further stimulate the economy, BdL
+introduced a US$1.46 billion stimulus package providing discounted financing to the housing sector
+and some innovative economic activities.
+
+Table 1: Lebanon: Selected Economic Indicators, 2009-2015
+
+Real sector 
+
+Real GDP 
+Real GDP per Capita 
+
+Money and prices
+
+CPI Inflation (p.a) 
+Money (M3, including non-resident deposits) 
+
+Investment & saving 
+
+Gross Capital Formation 
+Gross Domestic Savings 
+
+Central Government Finance
+
+Revenue (including grants) 
+Total expenditure and net lending 
+Overall balance (deficit (-)) 
+Primary Balance (deficit (-)) 
+
+Extemal sector
+
+2009 
+
+2010 
+
+2011 
+
+2012 
+
+2013 
+
+2014 
+
+2015
+
+Act. 
+Prel. 
+Est. 
+Proj.
+(annualpercentage change, unless otherwise specified)
+
+8.5 
+7.7 
+
+2.8 
+23.1 
+
+34.7 
+6.9 
+
+24.7 
+33.4 
+-8.7 
+2.4 
+
+7.0 
+6.2 
+
+4.9 
+12.1 
+
+3.0 
+2.3 
+
+5.7 
+7.1 
+
+1.4 
+0.7 
+
+5.7 
+6.1 
+
+2.3 
+1.5 
+
+4.9 
+8.0 
+
+4.0 
+3.2 
+
+3.7 
+10.0 
+
+(percent ofGDP, unless otherwise specified)
+
+33.9 
+5.9 
+
+22.8 
+31.0 
+-8.2 
+2.3 
+
+29.8 
+12.1 
+
+23.5 
+29.8 
+-6.4 
+3.0 
+
+29.4 
+8.8 
+
+23.0 
+31.8 
+-8.9 
+-0.7 
+
+30.0 
+9.6 
+
+23.2 
+32.1 
+-8.9 
+-0.7 
+
+31.3 
+11.0 
+
+23.5 
+31.7 
+-8.3 
+-0.1 
+
+3.8
+3.0
+
+3.0
+10.0
+
+31.2
+11.4
+
+23.5
+31.8
+-8.3
+0.0
+
+Current Account Balance 
+Trade Balance (GNFS) 
+Gross Reserves (months of imports GNFS) 
+
+-19.5 
+-24.1 
+18.4 
+
+-20.4 
+-26.1 
+18.4 
+
+-12.1 
+-17.7 
+18.4 
+
+-14.4 
+-20.6 
+18.3 
+
+-15.7 
+-20.4 
+17.9 
+
+-16.4 
+-20.3 
+17.3 
+
+-16.9
+-19.8
+16.6
+
+Total Public Debt
+Debt-to-GDP ratio (percent) 
+
+Memorandum Items:
+
+Nominal GDP (in billion LBP) 
+Exchange Rate, Average (LBP/US$) 
+GDP (in million US$) 
+
+147.6 
+
+141.7 
+
+133.8 
+
+134.3 
+
+134.2 
+
+132.9 
+
+132.9
+
+52,236 
+1,507.5 
+34,651 
+
+55,965 
+1,507.5 
+37,124 
+
+60,442 
+1,507.5 
+40,094 
+
+64,740 
+1,507.5 
+42,945 
+
+69,420 
+1,507.5 
+46,050 
+
+74,724 
+1,507.5 
+49,568 
+
+79,727
+1,507.5
+52,887
+
+Source: Government data, and World Bank staff estimates and projections.
+
+19. 
+Lebanon faces significant fiscal challenges going forward. Based on current policies, the
+fiscal deficit is projected to remain elevated, at 8.9 percent of GDP in both 2012 and 2013. With
+limited fiscal space, pressures on the expenditure side (e.g., increase in public sector wages) would
+likely require a strengthened tax take. Revenue measures, however, have repeatedly stumbled due to
+a lack of political and social consensus. If implemented without revenue offset, the proposed change
+in the structure of salary scales could weaken the Lebanese economy through the return of
+unsustainable debt dynamics, pressures on the peg, lower economic growth, and increased
+unemployment. Reforming the public sector pension system would further reduce the negative
+impact, but such reform cannot be separated from the need for strengthening social safety nets.
+
+20. 
+The Syrian civil war exposed Lebanon's internal weaknesses and negatively impacted
+economic growth. While the economy was already slowing down in 2011, the Syrian conflict
+accelerated that movement. Private consumption dropped as precautionary saving rose due to
+security concerns. Uncertain final demand and security concerns have also affected private
+investment. Additionally, the political deadlock in the country, linked to the events in Syria, impeded
+long awaited reforms to improve the business environment, tackle infrastructure bottlenecks, increase
+
+4
+
+competitiveness, and facilitate access 
+to credit. Government consumption, however, slightly
+increased as a direct result of the crisis due to spending on public services such as education, health,
+and security. The Syrian crisis also put negative pressures on net exports.
+
+21. 
+Lebanese banks have proved resilient to regional turbulence. Seven Lebanese banks are
+currently operating in Syria. Their market share before the crisis was around 22 percent of total
+Syrian deposits. Lebanese banks' assets in Syrian branches are estimated at US$2 billion and belong
+to strong banks, which have adequate reserve coverage and therefore do not impose an unreasonable
+added risk. These banks have increased their provisions to cover these losses. This will impact their
+profitability in the short term. However, the medium-term outlook remains positive. Lebanese banks
+are also impacted by the Cyprus banking crisis as their branches hold an estimated US$2.5 billion in
+deposits. The impact is, however, seen as minor by markets with Lebanese banks' stock prices
+largely unaffected by the surprise announcement of the tax on deposits.
+
+The business environment is still in need of reform
+
+22. 
+The Private Sector continues to suffer from the cost of transaction-based taxes
+regulatory compliance and unfair competition. Corruption plays a significant role in the
+application of taxes and regulations, public service connections, and public procurement. Although
+corporate tax rates are not high, a variety of indirect taxes, duties and fees applied on transactions
+impose a high cost on day-to-day business operations and discourage formality.
+
+23. 
+A number of laws have been prepared and sent to Parliament where they remain
+pending. Weak coordination among government agencies reduces the quality and impedes the
+implementation of reforms at the national level. While decrees relating to company dispute
+resolution, arbitration and mediation are in effect, laws on competition, procurement, e-Commerce,
+and collateral as well as updates to the commercial code, trademark law and company law are
+awaiting Parliamentary ratification. Preparations continue on the insurance, insolvency/bankruptcy,
+construction and urban laws and on the commercial registry.
+
+24. 
+Political instability continues to impede the development of efficient public-private
+dialogue. When it exists, the public-private dialogue is personalized, informal and non-transparent.
+Lack of coordination among civil society, universities, private sector and the diaspora hinders a
+structured and comprehensive debate about economic and financial issues. While the Lebanese
+private sector has some comparative advantages in the ICT sector, it has been unable to scale up for
+lack of a well-structured public-private dialogue on strategic priorities.
+
+Weak infrastructure services remain a major constraint for economic growth
+
+25. 
+Continued under-investment and the slow pace of reform have not improved the
+perilous state of the Lebanese electricity sector. Public supply covers around 60 percent of
+electricity demand, while technical and commercial 
+losses exceed 30 percent of the generated
+production. Generation and distribution assets are in poor condition and expensive fuel continues to
+be used for generation in the absence of lower cost natural gas, while power tariffs have not been
+revised since 1996. As a result, the sector cost the Government in 2012 over US$2.2 billion in fuel
+subsidies per annum, or about 4 percent of GDP, representing almost half of the overall fiscal deficit
+of the country. The fiscal burden represented by the sector will become worse, if the current short-
+term infrastructure investments are completed without moving forward with meaningful institutional
+and financial reforms. The Government is, however, moving forward in developing its offshore oil
+
+The Minister of Finance has introduced new e-taxation measures aimed at reducing the cost of paying taxes.
+
+5
+
+and gas resources and is launching the tender process for the first licensing round for offshore gas
+and oil exploration.
+
+26. 
+Lebanon's water supply sector continues to be unable to meet demand, and service
+provision remains weak. Currently, average technical and commercial losses of water are as high as
+40 percent and further aggravate supply shortages. Small scale private water vendors, most of whom
+are unregulated and many of whom are illegal, provide water of dubious quality. Unless measures
+are taken to improve distribution efficiency and increase storage capacity, chronic water shortages
+are expected to occur as early as 2020.
+
+27. 
+
+Similarly, transport remains a major constraint on economic and social development.
+Institutional capacity to oversee urban transport services is weak, and regulations to ensure minimum
+levels of quality and safety are rarely enforced. Although international and primary roads are well
+distributed throughout the country and in good condition, secondary and local roads are in a poor
+state with less than 20 percent considered to be in acceptable condition. The GoL continues to face
+major challenges in enforcing traffic rules and regulations, promoting private sector investments in
+urban transport services, and mobilizing funding to carry out regular road maintenance. Public
+transport services need to be better organized and developed. Moreover, excess costs, time-intensive
+port clearance and land border crossings continue to impact Lebanon's competitiveness in trade.
+
+Although considered a priority by the Government, the Environment sector remains neglected
+
+28. 
+Until recently, the Environment sector has been a secondary priority, characterized by
+an incomplete legal framework and ineffective policies. Environmental neglect has had an impact
+on the economy resulting in a degradation amounting to US$800 million in 2005 (equivalent to 3.7
+percent of GDP). Domestic and industrial discharge is released largely untreated in nature, and the
+pollution of water resources is compounded by agricultural and dumps runoffs. The Ministry of
+Energy and Water (MOEW) launched a National Wastewater Strategy in December 2012, and the
+Government's National Municipal Solid Waste Strategy is to be finalized by June 2013. No strategy
+exists for air pollution management although a number of air monitoring stations are being installed
+and managed on an ad hoc basis.
+
+Social vulnerabilities remain significant
+
+29. 
+Poverty remains significant and regional disparities in living conditions are acute.
+Nearly 27 percent of the Lebanese population, or 1 million people, are poor, living on less than US$4
+per day, with an estimated 8 percent, or 300,000 people, living on less than US$2.40 per day. Poverty
+is significantly higher in some regions, such as the North, which accounts for 21 percent of
+Lebanon's population. Almost 40 percent of the poor and 46 percent of the extreme poor are
+concentrated in slums around major cities. Over half of Lebanese citizens are able to cover only basic
+needs, and 63 percent are not able to afford the basic necessities at some time. Of those who do have
+surplus, almost 30 percent save for unexpected emergency/medical expenses, and only 7 percent save
+to invest capital in business or assets.
+
+30. 
+The influx of displaced Syrians is imposing a significant burden on Lebanon's ability to
+provide services to local hosting communities and to the refugees. A large number of Syrians
+have settled with host communities, many of which are already experiencing high levels of poverty.
+Lebanese host communities are therefore bearing the brunt of the crisis, with emerging tensions
+related to issues such as increasing rents, rising prices, and competition for livelihood opportunities.
+Service provision, local governance strengthening, agricultural sector support, and civil society
+
+6
+
+assistance will be required along with infrastructure repair, livelihood assistance, and provision of
+shelter.
+
+31. 
+Primary healthcare services continue to be dominated by the private sector, as over 80
+percent of facilities are privately owned. Only 10 percent of the population uses non-governmental
+primary care centers, and only 20 percent of the population relies on a family physician. Maternal
+mortality (150 deaths per 100,000 live births), is relatively high compared to other countries with
+similar incomes. Weaknesses in the primary care system contribute to higher health care costs,
+reduce the quality of care and generally worsen the equity of health service delivery. Approximately
+half of the population is formally uninsured and more than 60 percent of total health spending is paid
+out of pocket by households.
+
+32. 
+The economic downturn over the past two years has exerted pressure on household
+incomes, with rising food and energy prices taxing the poor and vulnerable. Geographic
+disparities are striking within the country, as infrastructure investment and service delivery remain
+concentrated 
+in the Greater Beirut area. Moreover, Lebanon's North, 
+the country's most
+impoverished area, is feeling the effects of a sustained influx of displaced Syrians, putting the
+Government's already constrained ability to deliver basic services under further pressure.
+
+The CPS program remains relevant to support Government's priorities
+
+33. 
+A Rapid Progress Review, conducted with GoL in September 2011 following the first
+year of CPS implementation, recognized the persisting development challenges identified in the
+strategy and the validity of the Bank Group's focus. The slow progress achieved in structural
+reforms over the past two years further reinforces the urgency of addressing the CPS' priority areas:
+declining private investment and heightened regional risks highlight the need for improving
+competitiveness; 
+lack of investment and growing demand call 
+for 
+improvement of basic
+infrastructure services; high unemployment and low growth highlight the necessity for interventions
+in the labor market, and for investments in public education; lastly, the deterioration of the fiscal
+situation, combined with sluggish growth and increased unemployment, calls for an efficient and
+inclusive social protection system for the most vulnerable. Continued attention to these challenges
+and to building strong momentum for reform remain central to Lebanon's development prospects.
+
+III. PORTFOLIO PERFORMANCE AND LESSONS LEARNED
+
+Portfolio performance is mixed
+
+34. 
+Portfolio Overview: As of March 31, 2013 the portfolio consists of 14 active projects
+financed from a variety of sources including: IBRD, Lebanon Trust Fund (LTF), State and Peace
+Building Fund (SPBF), Institutional Development Fund (IDF), and Program on Forests (PROFOR)
+resources. These financing sources support interventions in sectors that include education, social
+protection, urban development, 
+transport, water, environment, private sector, social services,
+telecommunications, and fiscal management reform, and represent a total commitment of US$477.7
+million, of which a total of US$147.2 million has been disbursed. Four out of 14 projects are in
+problem status: (i) the Second Emergency Social Protection Implementation Support Project (US$6
+million; LTF) is undergoing restructuring to address unsatisfactory implementation of one of its
+components; (ii) both the Second Education Development Project (US$40 million; IBRD) and the
+Greater Beirut Water Supply Project (US$200 million; IBRD) experienced effectiveness delays due
+to lengthy Parliamentary ratification procedures; and (iii) the National Volunteer Services Program
+(US$2 million; SPBF) was delayed 
+in meeting effectiveness conditions which hindered
+
+7
+
+implementation. The Lebanon portfolio is challenging as existing macro, governance, organizational,
+and capacity issues are further compounded by the country's complex political economy 2.
+
+35. 
+The underlying causes of mixed portfolio performance relate largely to the macro and
+policy environment of the country which affects project implementation. For example, the two
+loans approved by the Board since the launch of the CPS (the Greater Beirut Water Supply Project
+and the Second Education Development Project), experienced significant delays in becoming
+effective, due to repeated delays in Cabinet approval, GoL loan signature, or Parliamentary
+ratification. 3 These projects were only declared effective in 2012, 19 months after they were
+approved. With elections looming and Lebanese political forces shifting into campaign mode, it is
+likely that the remaining two projects approved by the Board since the launch of the CPS (the
+Cultural Heritage and Urban Development Additional Financing and the Innovation and SME
+Project) will face similar delays.
+
+36. 
+Disbursement during the CPS period also reflects the impact of effectiveness delays. In
+FY11, the average disbursement ratio for Lebanon stood at 44 percent, compared to 11 percent for
+the MNA Region and 22 percent for the Bank, placing Lebanon as the second best performer in the
+MNA Region. An increase of the disbursement ratio in FY11 versus FY10 was largely driven by the
+acceleration of disbursements of several projects nearing their closing dates. However, in FY12 the
+average disbursement ratio declined to 6 percent. The disbursement ratio now stands at only 3.5
+percent. Declining disbursement can be attributed to the above-mentioned delays in effectiveness of
+the Greater Beirut Water Supply Project and the Second Education Development Project.
+
+37. 
+IFC's Investment Portfolio stands at US$223 million in 12 companies as of end December
+2012 and continues to perform well. The portfolio is concentrated in the financial markets sector
+(particularly trade finance) followed by manufacturing and services. Guarantees to banks to facilitate
+trade flows totaled US$676 million. With US$370 million of guarantees in FY12, Lebanon was the
+most active user of the Global Trade Finance Program in the MENA region. In addition, a US$2
+million equity investment was made in an early-stage ICT firm based in Tripoli helping to expand
+operations and more than double its staff, while US$124 million in equity was invested in Medgulf
+SAL, a Lebanese insurance company active across the MENA region. IFC also committed a US$2
+million loan to a local microfinance institution, IFC's first investment in the sector in Lebanon, and
+an US$8 million investment was approved to finance the improvement of distribution and collection
+services in the electricity sector.
+
+Trust Funds play a key role in the Lebanon Portfolio
+
+38. 
+Trust Funds are integrated in the Bank's portfolio and support critical institutional
+development. Bank-administered trust funds, including the Lebanon Trust Fund (LTF) 4, finance a
+number of activities including: (i) improvement of Lebanon's social services; (ii) support to the
+Telecommunications Regulatory Authority; (iii) improvement of water resources and agricultural
+management; (iv) increase in youth civic engagement to improve youth employability and strengthen
+social cohesion; and (v) assistance to the GoL and EdL in managing PCB inventories and disposal
+
+2 Because of the macroeconomic situation and political environment, as well as a track record of unsatisfactory project outcomes,
+Lebanon projects receive two risk flags (Country Environment and Country Record) from inception.
+When political tensions escalate, political parliamentary blocs resort to boycotting parliamentary work. While the Parliament
+has a constitutional responsibility to ratify all foreign loans and to examine draft laws referred by the Cabinet, the legislature has
+been beset by repeated lack of quorum, which has resulted in repeated delays of the ratification of World Bank projects.
+4 The Lebanon Trust Fund (LTF) was approved in September 2006 to assist in the rehabilitation of damaged infrastructure, and
+recovery following the July/August 2006 hostilities. A total grant of US$70 million was transferred from IBRD surplus to the
+Trust Fund.
+
+8
+
+options. Currently, there are nine active projects financed by trust funds (two by LTF, three by SPBF,
+three by IDF, and technical assistance by PROFOR) for a total of US$14.5 million. One of the
+recently approved IDF Grants aims to support civil society capacity development in the Ba'albeck-
+Hermel area. Specifically, the Grant will help poor communities secure their ID cards and other key
+documents. The Grant has a strong gender focus and is expected to benefit around 800 women
+through the provision of training and seminars on self-representation. The Trust Fund for Lebanon
+was established to promote recovery from the 2006 conflict and provides a good example of
+Bank/IFC integration. US$15 million of the LTF has enabled IFC to finance risk sharing facilities
+and advisory projects and assist SMEs in gaining access to finance. In addition to funding a range of
+IFC advisory projects, the LTF helped IFC leverage an additional US$120 million of SME finance
+from local banks. Given this success, extension of the trust fund beyond its current 2014 end date is
+being pursued.
+
+39. 
+A good share of the operations envisaged under the CPS has been approved, with
+US$297 million of new IBRD commitments provided in FY 11-FY13 for four investment operations
+in the water, education, cultural heritage and urban development, and private sectors. The level of
+new financing made available to the GoL during the first two and a half years of the CPS is in line
+with the Tier I scenario, which envisaged a program concentrated on new investment lending
+complemented by Analytical and Advisory Activities (AAA).
+
+The Bank's portfolio is complemented by outreach efforts and close partnership with other donors
+
+40. 
+Over the past two years, the World Bank Group scaled up external communications,
+civil society outreach and partnerships. The Bank Group has worked closely with the Government
+to support communications through various workshops and consultative forums to disseminate the
+results of studies and sustain momentum on policy reform, including business environment, public
+financial management, energy, water, 
+transport, regional development, education and social
+protection. Public outreach was carried out under the 800-household survey on water connections in
+the Ba'albeck area with PPIAF funding to determine the principal barriers to connecting households
+to the infrastructure, which is key to the economic and financial sustainability of the water utility.5 A
+new effort to reach out to Parliament is underway, with a view to sensitizing the legislative branch to
+the scope and objectives of the Bank's engagement in Lebanon, and to seek Parliamentarians' views.
+
+41. 
+At the same time, donor coordination continues in support of the Government's
+economic reform program, as well as through a broad range of Bank activities. Multi and bi-lateral
+donors, including Canada, Italy, France, Agence Frangaise de D6veloppement, Arab Fund, Kuwait
+Fund, Islamic Development Bank, the European Union and the Swiss State Secretariat for Economic
+Affairs, actively co-finance or collaborate with the Bank Group in the areas of Water, Energy,
+Cultural Heritage and Urban Development, Urban Transport, Environment, Social Protection and
+Investment Climate. The Bank Group will continue to play a key role in leveraging donor flows in
+the coming period, particularly in the areas of energy and transport.
+
+42. 
+Lessons learned from closed projects: Four projects have closed over the CPS period: the
+First Municipal Infrastructure Project (US$30.1 million LTF); the Beka'a Emergency Water Supply
+Project (US$15 million LTF); the Ba'albeck Water and Wastewater Project (US$43.5 million
+IBRD); and the Emergency Power Sector Reform Capacity Reinforcement Project (US$5 million
+
+The survey included questions on the gender impact of the Beka'a Regional Water Establishment's service delivery, which
+allowed for an assessment of different gender experiences of access to and usage of water at the household level. This allowed for
+a better understanding of how to operationalize gender in the water sector. Lessons learned are being applied to the Greater
+Beirut Water Supply Project and to assist MOEW with implementation of the National Water Sector Strategy.
+
+9
+
+LTF). Several lessons from these operations will be useful in terms of informing future engagement
+in these important sectors.
+
+* 
+
+In the Water sector, and despite the Ba'albeck and West Beka'a projects having provided
+target beneficiaries with significantly improved access to municipal water and sanitation
+services, subscriptions to the regional water authority lagged over the project period, with
+many residents preferring 
+to obtain water through other more expensive sources. The
+rebuilding of trust in publically provided services and subsequent modification of consumer
+behavior is a lengthy process that must be accounted for in the design and implementation of
+projects. This issue is especially relevant in water supply augmentation projects, such as the
+Greater Beirut Water Supply Project, currently under implementation.
+
+* The Emergency Power Sector Reform Capacity Reinforcement Project informed 
+the
+development of the Government's Policy Paper for the Electricity sector, which is now the
+cornerstone of the reform program. The Project also supported the investigation of Liquefied
+Natural Gas (LNG) as a lower cost, more environmentally friendly option for power
+generation. This encouraged the Ministry of Energy and Water to move ahead with plans to
+develop an LNG facility. However, the Project's support for corporatization of EdL failed to
+navigate the complex political economy surrounding this issue, and highlights the significant
+politicization that will likely complicate progress on any higher-level reform agenda.
+* While initial results of IFC projects are encouraging, local banks' perception of high risk
+associated with SMEs and atypical market segments (e.g., women-owned businesses, and
+sustainable energy) continues to restrict lending; innovative approaches are needed to reach
+these underserved markets. The proposed extension of the Trust Fund for Lebanon for a
+further 6 years provides an opportunity to encourage further outreach to SMEs without ready
+access to traditional bank financing.
+
+43. 
+Main lessons for future CPS design and implementation: Bank assistance to Lebanon will
+continue to be subject to substantial risks and will require flexibility to respond to emerging
+challenges and changing priorities. The following important lessons can be drawn:
+
+* The overall fragile economic and political environment requires a flexible approach to
+the work program so that the team can adapt to changing circumstances. Flexibility,
+informed-risk taking and pragmatism are essential to successful engagement in such a
+dynamic and uncertain operating environment.
+* Lending and analytical work should be deployed strategically, carefully sequenced, and
+targeted to areas where there are realistic prospects for reform. AAA work in particular
+has an important role to play in supporting nascent reform efforts and informing subsequent
+lending operations.
+* Design simpler projects, use adaptable instruments and set realistic expectations. Give
+greater attention to outcome/impact 
+indicators, avoiding ambitious outcomes that are
+unrealistic in the country context.
+* Project Readiness Filters. Ensure project readiness before approval, and all conditions of
+effectiveness are met during preparation.
+* Effectiveness/ratification delays. Work closely with GoL in facilitating -
+to the extent
+possible -
+the project effectiveness process through direct outreach to Parliament. Such
+discussion has started already with members of Parliament.
+* Expand outreach and partnership with Government and civil society, 
+including the
+private sector, free media, and islands of public sector excellence. Increase the involvement
+
+10
+
+of local authorities/NGOs in prioritization, decision making, and implementation of local
+level services.
+* Maintain a contingency to enable the Bank to support emergent or unanticipated needs.
+Full commitment of Bank Group resources would limit the Bank's ability to respond
+effectively 
+in the event of crises, especially 
+in social programs addressing 
+the most
+vulnerable.
+
+IV. PROGRESS TOWARDS ACHIEVING CPS OBJECTIVES AND OUTCOMES
+
+44. 
+
+Because of the difficult country environment, a revision of CPS objectives towards more
+realistic goals was warranted. However, progress has been made towards achieving the CPS
+milestones and outcomes. The strategic goals were slightly revised towards less ambitious objectives
+
+(Strategic Goal 1 Strengthened Fiscal and Public Financial Management; Goal 2 Improved
+Competitiveness; Goal 3 Improved Economic Infrastructure; and Goal 4 Enhanced Human Capital
+
+Development and Social Protection). Reforms in certain sectors have progressed, albeit timidly, and a
+number of the indicators under the four pillars have been met or are on track to be met. Progress against
+the milestones under the four development goals of the CPS, based on the revised strategic goals,
+outcomes and indicators, is detailed in the Results Matrix (Annex I). A detailed report on progress to date
+can be found in Annex II.
+
+Goal 1 - Strengthened Fiscal and Public Financial Management
+Good progress on the outcomes for all underlying goals has been achieved. The outcome of better
+informed fiscal policy decisions was partially achieved for the area of strengthening the Fiscal Space.
+As for Public Financial Management (PFM), the outcome of improved transparency and control
+environment in public financial management was also partially achieved6 . The outcome of enhanced
+capacity of Central Administration of Statistics (CAS) 
+to carry out and analyze key survey for
+Statistical Capacity Building was also partially achieved. Through a component on "engendering"
+statistics funded by Bank TA, three analytical pieces were carried out by CAS on Gender and
+Education, Gender and Health, and Gender and Labor. The CAS now has a link on Gender statistics
+on their website and has launched a series called "Statistics in Focus", which initially covered Gender
+statistics and has since been expanded to cover other sectors.
+
+Goal 2 -
+
+Improved Competitiveness
+
+The underlying strategic goals for Business Environment have been partially achieved through
+support of the WBG program in the areas of Access to Finance for SMEs and Women Entrepreneurs,
+and in Telecommunications. The two new projects in these areas have been designed to be gender-
+informed, and to track the impact on women with the aim of reducing gender inequalities in access to
+employment and entrepreneurship opportunities.
+
+Goal 3 -
+Improved Economic Infrastructure
+Reforms in the Water sector have progressed well and the outcome of increased access to and
+reliability of potable water in targeted project areas was fully achieved. In the Electricity sector, the
+Bank provided technical assistance for the development of an Energy Efficiency Framework and an
+action plan for promoting energy efficiency measures 
+in Lebanon. The outcome of improved
+capacity to implement the Government's electricity sector reform strategy has only been partially
+achieved to date. In the Urban Transport sector, the outcome of improved efficiency of existing
+urban transport infrastructure and traffic management in the city of Beirut and Greater Beirut Area
+
+6 The institutional strengthening of the PFM project has contributed to the emergence of female managers at the Ministry of
+Finance (MoF). The two new units set up with the project support - the macro-fiscal and cash management units - are both
+managed by women.
+
+11
+
+has been fully achieved, as traffic management is being reformed through the implementation of a
+new Traffic Management program and the operation of a traffic management system. In the Local
+Development area, the outcome of basic services restored and support for local recovery and
+development are partially achieved to date. In the Environment sector, targets towards improved
+environmental management have been partially achieved.
+
+Goal 4 - Enhanced Human Capital Development and Social Protection
+The strategic goals in the Education sector are progressing slowly. However, progress in the
+implementation of the EDP II still needs to be determined given its recent effectiveness in January
+2013 following extensive delays in Parliament ratification. In addition, the goal of improved
+availability of education data for decision making in the Ministry of Education and Higher Education
+is partially achieved. In the area of Social Protection and Social Safety Nets, although the planned
+reforms at the National Social Security Fund were dropped, good progress was achieved with the
+formal adoption of the National Poverty Targeting Program (NPTP) in 2009, as well as the approval
+of the New Entrants to Work program in 2011 by the Government. The NPTP has also ensured
+gender equality by aiming to target 50 percent of female beneficiaries for the provision of benefits. In
+the first round, out of the 84,322 
+total beneficiaries, 40,173 beneficiaries were female, or
+approximately 48 percent.
+
+Table 2: Summary of CPSPR Findings on the FY11-13 CPS Results Matrix
+(On the basis of revised CPS strategic goals, outcomes and indicators)
+
+Strategy Goal 1 
+Strengthened Fiscal and 
+Public Financial 
+Management 
+1.1 Strengthening Fiscal 
+Space 
+- Better informed fiscal 
+policy decisions 
+
+Strategy Goal 2 
+Improved 
+Competitiveness 
+
+1 
+
+2.1 Business Environment 
+- Improved business 
+environment 
+
+1.2 Public Financial 
+Management 
+- Improved transparency 
+and control environmient 
+in public financial 
+management 
+
+1.3 Statistical Capacity 
+Building 
+- Enhanced capacity of 
+Central Admin. of 
+Statistics to carry out and 
+analyze key survey 
+
+2.2 Access of Finance for 
+SMEs and Women 
+Enterprises 
+- Improved access to 
+finance among SMEs and 
+Women Entrepreneurs 
+i~2.3 Trade and Regional 
+Integration 
+- Improved access by 
+private sector to trade 
+financing 
+
+S 
+
+Strategy Goal 3 
+Improved Economic 
+Infrastructure 
+
+3.1 Electricity 
+- Improved capacity to 
+implement the 
+Government's electricity 
+sector reform strategy 
+
+3.2 Water 
+- Increased access to and 
+reliability of potable water 
+in targeted project areas 
+
+S 
+
+Strategy Goal 4
+Enhanced Human Capital
+Development and Social
+Protection
+4.1 Education
+- Increase availability of
+education data for
+decision making in
+Ministry of Education and
+Higher Education
+
+4.2 Social Protection and 
+Social Safety Net
+- Improved
+administration, delivery
+and financial
+sustainability and
+targeting of social
+services
+
+4
+
+3.3Transport 
+- Improved efficiency of
+existing urban transport
+infrastructure and traffic
+management in the city of
+Beirut and Greater Beirut
+Area
+
+Environment and Waste
+Management
+- Improved environmental
+management
+
+H3.4 
+
+V
+
+2.4 Telecommunications 
+- Improved capacity of 
+develop strategy for and 
+regulate the 
+telecommunications sector
+
+3.5 Local Development 
+- Basic services restored
+and local recovery and
+development supported
+0 Not achieved
+Partially achieved 
+
+Achieved 
+
+12
+
+45. 
+Notable achievements have been made during the CPS period to strengthen gender
+awareness and women's participation in society. According 
+to MOSA's National Social
+Development Strategy, prevalence of poverty is high among female-headed households in Lebanon.
+The Social Promotion and Protection Project is aiming to target overall 50 percent female
+beneficiaries out of a total number of direct beneficiaries through grants for income-generating
+activities and the provision of social services. The New Entrants to Work Program under ESPISP II
+targets 50 percent of women enrollment for soft skills training, as well as on-the-job training.
+Furthermore, in collaboration with the Marseille Center for Mediterranean Integration, a regional
+governance program is being launched focusing on accountability institutions, the justice sector and
+poverty to work with civil society in providing legal information and counseling to women related to
+personal status issues (divorce, marriage, alimony, child support, inheritance), and with Family
+Courts to set up a system of assistance to poor women. The WBG has also increased its outreach to
+women and women-led enterprises to promote greater economic inclusion of women. For example,
+IFC provided advice to BLC on launching the "Women Empowerment Initiative", which offers
+Lebanese women and women-led businesses information, training, and networking opportunities, as
+well as financial products to achieve commercial success. As part of a broader effort targeting SMEs,
+IFC assistance included gender-sensitivity training, focus group-based research and products that met
+the financial needs of women. Elsewhere, IFC is integrating women's empowerment into other
+projects such as Alternative Dispute Resolution (ADR) and business training.
+
+V. THE WAY FORWARD
+
+46. 
+As identified in the CPS, Lebanon's complex political economy makes it difficult to
+foresee where reforms are most likely to take place. Close policy dialogue, analytical and advisory
+services, and targeted investments can help inform and build momentum around the reform agenda -
+but the inherently difficult country context, exogenous economic shocks, and regional political
+developments that impact Lebanon's political landscape, can suddenly derail or significantly slow
+down the Government's ability to translate its reform commitments into action. The Country
+Partnership Strategy Progress Report reconfirms the validity of the two-tiered approach. The first two
+years of CPS implementation have seen traction in key economic reform areas, but the consensus
+necessary to implement broad structural reforms has not been developed. Therefore, a Bank
+engagement 
+that focuses on support through 
+the existing portfolio (in fiscal and financial
+management, water, transport, and urban development, support to SMEs, social protection, and
+education), to be complemented by selected operations targeting transformational sectors such as
+energy, transport and water that show potential for progress, appears appropriate under the present
+circumstances. The Bank will ensure that gender-sensitive approaches are adopted in the existing
+portfolio, as well as in the new pipeline for the remaining CPS period. Moreover, the Bank will
+consider supporting the Government to address the impacts of the Syrian refugee crisis on Lebanese
+hosting communities, by addressing the developmental implications of the Syrian displacement.
+
+47. 
+The Bank will continue to engage with agents of change in Government and civil
+society, using its analytical work to promote a strategic approach and to strengthen momentum
+for reform. These activities will continue to be complemented by active IFC investment and
+advisory services targeting SMEs, investment climate reform, climate change initiatives, south-south
+investments, and broadening access 
+to financial services. A particular opportunity exists by
+extending the Lebanon Trust Fund that would allow the Bank Group to respond further to current
+economic stresses and uncertainties by scaling up its support to SMEs, benefiting from experience
+gained previously and by leveraging other donor initiatives.
+
+48. 
+New lending: To date, US$297 million have been committed in IBRD investment loans
+during the CPS period. Two new projects, totaling US$36.4 million, are expected to be presented for
+
+13
+
+approval in the remainder of FY13, and the indicative lending pipeline for FY14 currently foresees
+US$168 million IBRD with potential additional lending in FY14-15 of up to US$100 million. This is
+in line with the upper end of the indicative lending envelope (US$375 - US$550 million) envisaged
+when the CPS was prepared. For IFC, an additional bank is expected to be added to IFC's Global
+Trade Finance Program in FY13, while targeted advisory projects related to risk management for a
+partner bank and corporate governance in the education sector will be completed by fiscal year-end.
+The FY14 pipeline currently includes 3 equity transactions and an advisory assignment related to
+sustainable energy finance.
+
+49. 
+The improvement of basic infrastructure services, along with the provision of social
+services and the establishment of an efficient social protection system, have emerged as
+Government priorities for Bank support. A social protection project will facilitate access to social
+development services at the community level and improve the coverage and targeting of the National
+Poverty Targeting Program. An ICT project will strengthen innovation and entrepreneurship in the
+Lebanese Mobile Internet Ecosystem 7 . A project is under preparation to reduce industrial pollution in
+industrial enterprises, strengthen Government's monitoring and enforcement capabilities, and
+establish a financial mechanism for environmental investments (Lebanon Environmental Pollution
+Abatement Project). A new investment operation in the Agricultural sector will increase the on-
+farm income of smallholder farmers in remote areas. The new Financial Management Reform 2
+project will continue to support MOF's efforts to improve the allocation of public financial resources,
+enhance the efficiency and transparency of financial management systems, and tighten the control
+environment. Bank engagement will also continue in the Water sector, where a new investment
+operation will be considered to increase water supply to the Greater Beirut area to address the causes
+of water shortages. Given the importance of reforming the Energy sector in terms of fiscal impact
+and service delivery, the Bank Group will look to deepen its engagement by providing financing to
+support the Government's reform program and to work with other partners to leverage Government
+resources. This support could target Liquefied Natural Gas (LNG) development through a possible
+Partial Risk Guarantee, development of renewable generation and energy efficiency, transmission
+strengthening or support for enhanced performance of EdL and electricity distribution. In the
+Transport sector, Government recently inquired about potential Bank support for the new Beirut
+Peripherique and A2 Highway project serving as a future alternative road for the existing Coastal
+Highway.
+
+50. 
+
+Analytical and advisory services will continue to underpin the CPS. Discussions with
+Government have confirmed the relevance of the World Bank's ongoing Technical Assistance and
+AAA program, which cuts across the four CPS pillars and informs the policy dialogue around
+reform, as well as the design of the Bank's program in Lebanon. The TA and AAA support for
+macroeconomic management, public financial management, business environment reform, structural
+reforms in electricity and water, education, employment and labor markets, and social safety nets
+remain a priority. The Bank Group will strive to adapt its analytical work to GoL requirements in
+terms of addressing the ongoing or new external shocks and crises, and will increase 
+its
+responsiveness to provide just-in-time technical assistance for specific policy issues.
+
+51. 
+Through the State and Peace-building Fund, the Bank has mobilized US$1.2 million to
+address some of the immediately apparent development needs in light of the escalating Syrian
+displacement crisis: (i) US$900,000 has been granted for capacity building and support to local
+communities hosting Syrians, implemented through Save the Children and other NGOs (the project is
+expected to be implemented over 18 months and provide direct benefits to hosts, Syrians and several
+
+7 The project includes specific tracking of gender on number of direct beneficiaries, as well as an activity to reinforce women
+entrepreneurship.
+
+14
+
+local and central institutions); and (ii) an impact assessment to help inform the national policy
+development process.
+
+Table 3: World Bank Program for the period FY11-FY14
+
+Approved Lending 
+
+Amount (USD 
+
+AAA Program
+
+- Greater Beirut Water Supply Project (IL) 
+- Second Education Development Project (IL) 
+
+- Cultural Heritage Additional Financing (IL) 
+- National Volunteer Service Program (SPBF) 
+- Capacity Building to Implement Key Steps for the 
+Statistical Master Plan (TFSCB) 
+
+- Supporting Innovation in SMEs Project (IL) 
+- Building CSO Capacity to Provide Legal Aid 
+Services (IDF Grant)
+- Improve Capacity for Environmental Compliance 
+(IDF Grant)
+- 5M: Displaced People in Lebanon (SPBF) 
+
+Proposed Lending 
+
+Million)
+FY 11
+
+200.0 
+40.0 
+
+FY12
+
+27.0 
+2.0 
+0.13 
+
+FY13
+
+30.0 
+0.3 
+
+0.3
+
+1.2
+
+- Broadband Policy for ICT (TA)
+- Tourism & Growth Potential (TA)
+- Using Lebanon's Large Capital Inflows to Foster
+Long-Term Sustainable Growth (ESW)
+- Country Environmental Analysis (ESW)
+
+- Development of SMEs & Women SMEs (TA)
+- Inventory & Removal POPS Materials (TA)
+- Water Sector Strategy (ESW)
+- Challenges of informality for women (TA)
+- Broadband Strategy & Deployment (TA)
+- Labor Markets & Migration (TA)
+- Investment Environment Reform (TA)
+
+- Best fit practices for reforestation to enhance climate
+resilience (TA)
+
+Amount (USD 
+
+Million)
+
+AAA Program
+
+IBRD (for approval in May 2013) 
+- Social Promotion and Protection Project 
+- Mobile Internet Ecosystem Project 
+
+30.0 
+6.4 
+
+FY 14 Potential new Program
+TBD 
+
+-Multi-Sectoral 
+
+TBD
+
+VI. RiSKS
+
+Social / Poverty Assessment (ESW)
+
+52. 
+
+In 2010, the CPS had emphasized risks related to sectarian interests obstructing the
+implementation of the economic reform program, Lebanon's dependence on foreign capital
+
+inflows, systemic corruption and weak governance, the fragile internal political environment
+
+and the tense regional security environment. Unfortunately, the identification of these risks proved
+
+to be prophetic. The necessary broad consensus around the reform program could not be built, and
+the resulting lack of reform implementation and fiscal adjustment perpetuates the country's macro-
+fiscal fragility. Lebanon's economy remains dependent on foreign capital inflows to absorb the
+country's large sovereign debt, and sectarian interests continue to constrain political will to address
+
+15
+
+- Boosting Growth and Social Welfare in a Context of
+Fiscal Consolidation (ESW)
+- Measuring Financial Literacy (TA)
+- Higher Education (TA)
+- Environmental Pollution Abatement (TA)
+
+AAA Program
+
+Capacity Bldg. to Implement Statistical Master Plan
+(TA)
+- WB Investment climate assessment (ESW)
+- Innovation and competitive industries policy
+framework
+- FSAP on Capital Market and Insurance (ESW)
+
+Proposed Lending 
+
+- Env. Pollution Abatement Project (IL) 
+- PCB Management (GEF) 
+- Financial Management Reform 2 (IL) 
+- Water Augmentation Project (IL) 
+- Sustainable Agriculture Livelihoods in Marginal 
+Areas (SALMA) (IL) 
+- Sustainability in Marginal Areas (GEF) 
+
+- Beirut Peripherique and A2 Highway project (IL 
+
+- LNG Development (PRG) 
+
+Amount (USD 
+Million)
+FY 14 Planned
+15.0 
+2.54 
+4.0 
+125.0 
+24.0 
+
+7.2
+
+systemic corruption and governance issues. The unforeseen crisis that engulfed Syria as of March
+2011 has further compounded these risks contributing to inter-sectarian tensions, leading to incidents
+of violence across the country and resulting in an influx of displaced persons. The steady stream of
+Syrians coming to Lebanon having been displaced by the conflict is straining the Government's
+delivery of essential services in Lebanese host communities and may increase sectarian tensions even
+further. Divisions within the Cabinet, exacerbated by the coalition's inability to reach agreement on a
+policy response to the Syrian crisis, along with a stalemate in the executive and legislative branches
+of the Government, impede the enactment of important bills, regulations and appointments which
+remain pending. Political and sectarian spill-over effects of the Syrian crisis, especially if prolonged,
+might turn out to be far reaching. Under these circumstances, the formation of a new Government
+following the upcoming parliamentary elections will likely take considerable time and effort by
+Lebanese political forces to negotiate coalition agreements. The delay in elections and its impact on
+the Government will substantially affect Government's and Parliament's legitimacy and ability to act.
+As such, this situation is likely to continue to affect successful implementation and performance of
+the WBG program.
+
+53. 
+Over the remaining period of CPS implementation, the Bank Group's assistance
+program will be strongly challenged by the complex country environment and related risks.
+
+The WBG recognizes that it has only limited tools to mitigate for political risks, and it is closely
+monitoring the country and macroeconomic environment, as well as regional developments. The
+Bank will continue to adjust to this situation by taking into account lessons learned in order to
+mitigate some of the risks affecting the Bank's program: For example, efforts will be made to ensure
+implementation readiness of all projects before Board approval so that even if there are delays in
+parliamentary ratification, implementation can be jumpstarted as soon as effectiveness is achieved. In
+addition, project design can incorporate contingencies to help address additional costs incurred as a
+result of delays and increased risk premia associated with increased uncertainties in the environment.
+Beyond these measures, the Bank will engage more broadly with different stakeholders across the
+political spectrum to ensure a solid understanding of the Bank's work in the country and the
+objectives of the specific Bank-financed operations. To this end, interactive sessions are being
+planned with members of Parliament to review and discuss this CPS Progress Report and the
+proposed pipeline of projects.
+
+54. 
+The displacement of large numbers of Syrians is exacerbating Lebanon's existing socio-
+economic challenges and is affecting the Bank's portfolio. It is foreseeable for the remaining CPS
+
+period that this situation will challenge the strategic goal to "strengthen fiscal and public financial
+management" as the large-scale influx of Syrians also has a budgetary impact on Lebanon that
+already struggles with pre-existing fiscal problems. Moreover, 
+the Syrian 
+influx will affect
+significantly our human development (HD) portfolio related to the provision of services (education,
+health and social services), in particular in disadvantaged regions. Project development objectives of
+the HD portfolio may be jeopardized as originally set targets may be difficult to achieve within the
+originally planned timeframe8 . While continuing to support the authorities in improving effective
+service delivery - as is the case with the proposed Social Promotion and Protection Project - and
+providing support for prudent public financial management, the Bank team undertook and will
+continue to seek flexible adjustments to the Bank program where warranted: as such the strategic
+goals of the CPS as well as the outcomes have been revised. The Bank will also consider retrofitting
+projects in the existing portfolio to address increased service delivery needs, livelihoods support and
+safety nets in affected hosting communities.
+
+For example, the Education Development Project II, which focuses on expanding early childhood education in disadvantaged
+areas, will need to adopt a different approach as facilities are being overcrowded with new students or occupied by refugee
+families. Necessary reforms such as reducing the number of contract teachers (most of whom had lower qualifications) are set
+back as these new teachers would be retained to cope with additional demands for educational services.
+
+16
+
+ANNEX I: CPS RESULTS MATRIX AND PROGRESS TO DATE
+
+Country Development Goals
+
+1.1 Fiscal Space: Debt and debt-servicing burden is reduced
+
+1.2 Public Financial Management: Improve efficiency and quality of Public Expenditure
+
+1.3 Statistical Capacity Building: Increased evidence-based policy making
+
+Issues and Obstacles
+
+* Fiscal and public debt positions create major risks to macro-fiscal sustainability and prospects for high growth
+* Absence of a clear macro-framework, budget, MTEF, and alignment between expenditure and planning
+
+* Absence of a planning tool for effective resource management
+* Lack of resources and autonomy of the Central Administration for Statistics (CAS) results in a weak and fragmented statistical system
+
+1. 
+
+is 
+
+Space 
+
+'
+
+Create enabling conditions for 
+
+management of fiscal balance by: 
+
+* Improving macroeconomic 
+programming and policy analysis 
+to guide revenue and expenditure 
+
+choices and to facilitate integration 
+of planning and budgeting 
+
+functions. 
+
+* Publishing and implementing a 
+medium-term debt management 
+strategy 
+
+1.1 Better informed fiscal policy decisions Macro-fiscal analysis and modeling 
+
+A macro-fiscal department within the Budget Ongoing or Complete
+
+1.1.1 Macro Fiscal Framework adopted 
+BL: No (2010) 
+Target: Yes (2014)
+
+function further developed, fully 
+operational and periodically updated. 
+
+Directorate at MoF was established in March 
+2012 and work is ongoing. 
+Partially Achieved 
+
+Lending/AAA:
+Emergency Fiscal
+Management Reform
+Project
+
+A High Debt Committee (HDC) has 
+been established and the HDC has had 
+
+A Debt Committee has been established, as
+well as a Public Debt Directorate at MoF. 
+
+its first meeting. 
+
+HDC will meet in April 2013. 
+
+Usig Lnons Lr
+
+Captal InwTo
+
+1.1.2 A medium-term debt management
+strategy developed 
+BL: No (2010) 
+Target: Yes (2014) 
+
+MOU between MoF and BdL has been 
+agreed. 
+
+MOU between MOF and BdL has been signed.
+Achieved 
+
+Boosting Growth and
+Social Welfare in a
+
+* Establishing formal coordination 
+1.1.3 Regularity of Cash Monitoring and 
+mechanism between MoF and BdL Reporting 
+to improve debt management. 
+BL: Intermittent reporting 
+Target: Daily with increased scope
+
+A Cash management Unit has been set up and Context of Fiscal
+is producing daily cash briefs for the Minister. Consolidation (AAA)
+Achieved 
+Planned Lending/AAA:
+
+The study on "Using Lebanon's Large Capital Lebanon Financial
+Inflows to Foster Long-Term Sustainable 
+Management Reform
+Growth" has been completed and 
+Project 11
+disseminated. The study on "Boosting Growth
+
+and Social Welfare in a Context of Fiscal
+Consolidation" is ongoing, and has led to the
+
+formulation of policy notes on electricity,
+telecom, and public sector wages, dealing with
+key macro-fiscal sustainability and fiscal space
+constraints. The policy notes are being
+
+discussed with GoL counterparts.
+
+17
+
+Budgeta Ppartomroess isie 
+
+P 
+
+ucmsMlsoe 
+
+Pors 
+
+oDt 
+
+P 
+
+ntuet
+
+bette aulinnwith government
+
+Budget preparation process is 
+better aligned with government 
+policies and provides stronger basis 
+
+1.2 Improved transparency and control 
+environment in public financial 
+management 
+
+The conceptual fr7amework and 
+implementation plan for the introduction 
+of the MTEF has been developed by the 
+
+While the conceptual framework for an MTEF Ongqjoin 
+rComnpleted
+has been developed, the actual MTEF could 
+Lending/AAA:
+not be finalized in the absence of an approved Emergency Fiscal
+
+for expenditure control and strategic 
+resource allocation by: 
+
+MoF. 
+
+budget since 2005. 
+Partially Achieved
+
+Management Reform
+
+1.2.] Revision of the budget classiication 
+approved to bring it in line with GFS 2001
+
+" Introducing a multi-year budget 
+
+norms and increase transparency 
+
+Guidelines and basic procedures for 
+
+In the absence of a budget, efforts have been 
+
+Planned LendimnYlAAA:
+
+planning process (MTEF) 
+
+BL: No (2010) 
+
+public investment programming of a 
+
+refocused on key elements to improve fiscal
+
+(baseline: incremental annual 
+
+Target: Yes (2014) 
+
+periodicity equal to that of the aggregate 
+
+transparency and budget management, such as: Lebanon Financial
+
+budget planning) by end FY14 
+
+MTEF are defined. 
+
+* TA for the revision of the budget 
+
+Management Reform
+
+1.2.2 Adoption of accounting procedures 
+andguidelines 
+
+classification; 
+* Functional review and documentation of
+
+Project 11
+
+* Regularizing preparation of the 
+
+public investment program and 
+synchronizing it with that of the 
+budget cycle by end FY14 
+
+BL: No (2010) 
+Target: Yes (2014) 
+e 
+1.2.3 Introduction of commitment numbers 
+and controls 
+
+accounting procedures;
+* Design of commitment controls systems;
+The revision of the public acconting law,
+which is ready for Cabinet approval; and
+* The development of a budget preparation
+
+BL: No (2010) 
+
+Basic procedures for estimation of 
+
+circular, based on a macro-fiscal framework
+
+Target: Yes (2014) 
+
+recurrent costs are developed, 
+
+and clear costing norms
+
+Budget preparation manual has been revised.
+
+Achieved
+public invimpelempntgameyngtofs
+
+1an 
+
+guidn es 
+
+B
+
+Enhanced capacity of Central 
+
+1.3 Enhanced capacity of Central 
+
+Series of trainig programs for survey, 
+
+CAS completed a household survey with 
+
+Ongoing or Completed
+
+Administration of Statistics (CAS) 
+
+Administration of Statistics (CAS) 
+
+data analysis and poverty assessment 
+
+technical support from the Bank for the 
+
+Lending/AAA:
+
+and clarification of roles and 
+responsibilities to carry out and 
+analyze key surveys. 
+
+to carry out and analyze key surveys 
+
+completed. 
+
+purpose of the National Poverty Targeting 
+Program. Achieved 
+
+TA on Household
+Budget Survey
+(Completed)
+
+1. 3. 1 Household survey totally carried out 
+by CAS according to international 
+
+On-the job support provided to at least 4 
+senior technical staff of CAS.
+
+Indicator: Household survey and 
+
+standards.
+
+poverty work totally carried out by 
+CAS according to international 
+
+BL: No (2010) 
+Target: Yes (2014) 
+
+Questionnaire and household budget 
+survey designed by CAS 
+
+Capacit Blg
+Ontoimp Mt the 
+
+ted
+
+Government endorses the Statistical 
+
+SNIP was presented. All sectors will be 
+
+(SMP) (AAA)
+
+Master Plan (SMP). 
+
+examined to ensure comprehensive coverage
+
+of the statistical system. Partially Achieved. 
+
+Capaement 
+
+euildfo
+
+for the SMP (TFSCB)
+Planned Lending/AAA:
+
+Review of the statistical legal 
+faamework completed.
+
+Not Achieved. 
+
+Poverty Assessment
+
+_ 
+
+_ 
+
+_ 
+
+_ 
+
+_ 
+
+_ 
+_ 
+
+_ 
+
+_ 
+
+_ 
+
+_ 
+
+_ 
+
+_ 
+
+_ 
+
+_ 
+
+__ 
+
+_ 
+
+_(AAA)
+
+18
+
+Country Development Goals
+
+2.1 Business Environment: Streamline and simplify legal and regulatory framework for business
+
+2.2 Access to Finance for SMEs and Women Entrepreneurs: Increase number of financial tools/schemes available to SMEs and women-owned SMEs and streamline business support services across
+
+Lebanon
+
+2.3 Trade and Regional Integration: Minimize trade related restrictions
+2.4 Telecommunications: Introduce competition, improve capacity and quality of services, and reduce cost to consumers
+
+Issues and Obstacles
+
+* Outdated commercial regulations and discretionary bureaucratic application of rules, particularly for SMEs
+
+* Outreach of finance and financial guarantees to SMEs (particularly outside Beirut) falls below potential and demand
+* Business Support Centers (BDCs) do not provide consistent level of support to SMEs across Lebanon (in addressing business regulatory constraints)
+
+* 
+
+Trade finance for private sector firms is limited due to counter-party and country risks
+
+* 
+Limited availability of ICT services; low quality of fixed line services; mobile penetration below potential
+* High prices of telecommunications services
+
+and 
+
+Inictr 
+
+and 
+
+Inicator
+
+Improvement in some key aspects of 
+
+2.1 Improved Business Environment 
+
+the legal and regulatory framework 
+
+to facilitate company creation, 
+operation, access to credit 
+
+and/or exit (administrative 
+
+procedures, commercial and 
+
+company law, commercial and/or 
+
+collateral registries, etc.) 
+
+Enhanced capacity of public 
+administration to implement 
+business environment reform. 
+
+2.1.1 Days to comply with business 
+regulation (number) 
+
+BL: 587 (2011) 
+
+Target: 337 (2014) 
+
+Establishment of inter-miisterial 
+
+commission and its secretariat for 
+
+monitoring reform process. 
+
+2.1.2 Days to settle a case 
+BL: 721 in courts (2012) 
+Target: 90 through mediation (2014) 
+
+Adoption of Action Plan with World 
+Bank Technical Assistance prioritized 
+list of reform projects. 
+
+2.1.3 Law on Secured transactions drafted 
+
+BL: No (2010) 
+Target: Yes (2014) 
+
+Commission established under Hariri 
+
+Government, with Office of Prime Minister 
+
+now acting as Secretariat to lead effort under 
+"Improving the Business Environment in
+
+Lebanon"program, developed with WBG
+
+support. Partially Achieved 
+
+This has been replaced by: "Establishment of 
+a Working Group on key private sector
+development and innovation priority 
+initiatives led by the PCM Office". 
+
+Licensing procedures for tourism sector
+mapped & recommendations formulated
+
+(EhC). Project ongoing. 
+
+Ongoing orCmpleted
+
+Lending/AAA:
+
+FSAP on Capital
+
+Investment
+
+Environment Reform
+
+(AAA)
+
+IFC Advisory Services:
+- ICT Lebanon
+- ADR Lebanon
+
+- Lebanon SL
+
+Plauned LendinniAAA:
+
+Investment Climate
+
+Two new mediation centers established under 
+
+Beimt Chamber of Commerce & Tripoli Bar Assessment (AAA)
+
+Association - one case settled (14 days). 
+
+Wunovation and
+
+(BnC). Project ongoing. 
+
+Initial draft of Secured Lending Law
+
+completed (IFC). Project ongoing.
+
+Competitive Industries
+
+Policy Framework
+
+19
+
+ad 
+
+of financi 
+
+Itoolstfor
+
+22AcstoFnnefrSMEs and omen-we 
+SMEs.enur
+
+Development of financial tools for 
+SMEs and women-owned SMEs. 
+
+Improved delivery of services by 
+BDCs (such as gender-targeted 
+
+workshops) in supporting capacity 
+
+of SMEs, particularly in business 
+management and processing/ 
+
+navigation of regulatory processes. 
+
+2.2. Improved access to finance among 
+One workshop to increase outreach by 
+SMEs and Women Entrepreneurs 
+financial institutions to women-owned 
+2.2.]1 Increased Sustainable Energy Finance SMEs 
+
+(SEF) for Bank Libano Francaise (BLF) 
+
+Conducted regional workshop to increase 
+outreach to SMEs, including those owned by 
+women. SME & women's banking program 
+
+underway. SEF project with BLF is 
+underway. Achieved
+
+2.2.2 Banks assisted to increase lending to 
+women-owned businesses: 
+
+- Assist Banque Libanise pour le Commerce 
+(BLC) to grow its SME portffolio with focus 
+
+on loans to women entrepreneurs 
+BL: 1260 SME loans disbursed annually, of 
+which only 7o are for women 
+entrepreneurs (20]]) 
+Target: 1525 SME loans disbursed 
+
+annual ly, of which 20%o will be for women 
+
+(2014) 
+
+A review of BDCs is completed 
+including a M&E framework to monitor 
+
+graduting enterprises and women 
+entrepreneurs 
+
+A comprehensive assessment and a 
+M&E frework for financing outreach 
+and tools to SMEs is completed, 
+
+identifying underserved areas. 
+
+fiania instittionsuoiwome-owne
+
+The Government of Lebanon took a clear
+
+step towards addressing the market gap in 
+early stage equity financing for SMEs by 
+
+sigmng a World Bank Project on Innovation
+in SMEs 
+
+2.2.3 AMEEN microfinance institutions 
+assisted to scale up microinance lending 
+BL: $11,619,614 (2008)
+l 
+s d u
+
+Target: $15,410,000 (2012) 
+sustainale fiscl base 
+fr thecscdor.gTeecommuncationsrector dveloped
+
+Onigqoioropleted
+Lending/AAA:
+Supporting Innovation
+
+in SMEs Project
+
+Development of SMEs
+
+&Women SMEs (TA)
+
+Chalnge o
+inoAAi) orWoe
+
+MENA SEF Program
+(IFC Advisory
+Services)
+BLC Bank/SMEWIN
+
+(IFC Advisory
+
+Services)
+
+Project CHF TAF (lFC
+Advisory Services)
+
+financing improved, 
+
+trade financing 
+2.3.1 Increase in tradefinance volume 
+
+Trade Finance Program (GTFP) 
+increases from 3 in 2010 to 6 in 2013. 
+
+with another expected to join Q3 FY13. 
+Achieved
+
+Lendin/AAA:
+
+trade finance volume provided by 
+
+banks to the private sector. 
+
+BL: $92 million (2010) 
+Target: At least 100 (2014) 
+
+o 
+
+iaeAdvisory 
+
+Development of a strategy for 
+reform of the Telecommunications 
+sector with complementary tools to 
+manage the fiscal transition, with a 
+view to establishing a long term 
+
+2.4 Improved capacity to develop 
+strategy for and regulate the 
+Telecommunication sector 
+241Alntemsregfreomofhe 
+2..1leomnctem stgfor reeformoted 
+
+utBL: No (2010) 
+
+Assessment of different policy options 
+to reform the telecoms sector, with an 
+eye to managing the resulting fiscal 
+transition, and establishing a 
+sustainable fiscal base for the sector, 
+
+Enhanced capacity of the 
+Telecommunications Regulatory 
+
+Authority (TRA). 
+
+Target: Yes (2014) 
+2.4.2 TRA regulatory technical capacity 
+
+improved as evidenced by adoption of new 
+regulatory approval processes and new 
+
+spectrum regulations 
+
+BL: No (2010) 
+
+Target: Yes (2014)
+
+20
+
+FY11 & FY12 average volume of trade
+finance increased 232% over FY1 0.
+
+Services
+
+Technical assessment of actions resulted in 
+revisiting of options for sector reform. 
+Potential for sector liberalization still open 
+with a technical understanding of fiscal 
+impact. Achieved 
+
+Satisfactory progress of deliverables 
+
+indicators to date under the IDF grant to 
+build capacity of the TRA. Project ongoing. 
+
+Mobile inteet industry project under 
+
+Ongoing or Completed
+Lending/AAA:
+Broadband Policy for
+ICT (TA)
+Broadband Strategy
+
+and Deployment (TA)
+
+Telecommunications
+Regulatory Capacity
+
+Building (IDF grant)
+Plauned LendinAAA:
+
+preparation with Board delivery expected on Mobile Internet
+
+May 17, 2013. 
+
+Ecosystem Project
+
+Country Development Goals
+
+3.1 Electricity: Increase supply of reliable electricity and reduce drain on government budget
+
+3.2 Water: Increase reliability of water supply, develop comprehensive water resources management plan
+3.3 Transport: Improve efficiency of existing urban transport infrastructure in the Greater Beirut Area
+3.4 Environment and Waste Management: Municipal solid waste management
+
+3.5 Local Development: Promote balanced and sustainable territorial development
+
+Sta 
+
+ic Gol 
+
+Ipoe 
+
+Econi 
+
+Infatutr
+
+Issues and Obstacles
+
+* 
+
+Poor operational and financial performance of EdL 
+
+* Unreliable and costly electricity services due to insufficient generation capacity 
+* 
+Large subsidies to sector from national budget due to insufficient revenues from tariff 
+* 
+Fragmentation and weak technical, financial and managerial capacity of Regional Water 
+Authorities (RWAs) 
+
+* 
+
+Inadequate water and wastewater planning supply, storage, treatment, and distribution 
+capacity 
+
+* Outdated and inadequate water resource management strategy and planning
+* 
+* 
+* 
+
+Severe traffic congestion as a result of limited road network capacity
+Lack of parking management and shortage of parking spaces
+Limited capacity and poor quality of public transport system services
+* Weak legal and institutional framework including lack of defining roles and responsibilities,
+
+poor strategic planning and very modest managerial and technical capacities
+* Outdated municipal finance framework
+
+Orgia 
+
+CPS Oucoe 
+
+Reie 
+
+CPS Oucoe 
+
+M 
+
+itoe 
+
+Prgrs 
+
+toDaeCP 
+
+nsrmet
+
+Improved operational performance 
+of EdL. 
+
+Indicator: Network losses reduced 
+from a baseline of 37% in 2010. 
+
+3.1 Improved capacity to implement the 
+Government's electricity sector reform 
+strategy 
+3.1.1 Roadmap for EdL Restructuring /Partially 
+Corporatization finalized and agreed 
+
+Preparation and approval of a plan for 
+EdL performance improvement. 
+
+BL: No (2010) 
+
+Improved demand management and 
+
+Corporatization plan prepared but broad 
+Government consensus not yet achieved. 
+Implementation pending.
+Achieved 
+
+Restructuring underway with distribution 
+
+Ongoing or Complete
+Lending/AAA:
+
+Eecity 
+rSe E 
+
+Sec
+er
+
+p 
+
+cto
+
+distribution network performance 
+
+through implementation of demand 
+
+management and loss reduction 
+programs (Part of the Government's 
+sector reform strategy) 
+
+Target : Yes (2014) 
+
+3.1.2 Satisfactory implementation of 
+Sector Program, as evidenced by i) 
+Sufficient 
+budget allocation; ii) commencement of 
+procurement of 50% ofprogram projects 
+
+BL: No (2010)
+
+Target : Yes (2014) 
+
+3.1.4 Final Decision to proceed with 
+development of alternate fuel supply (LNG) 
+
+BL: No (2010) 
+TargetC: Yes (2014) 
+
+operations now under contract to Distribution Capacy
+
+Service Providers. Too early to tell if this
+
+will result in improvements in demand 
+management, distribution sector performance
+in terms of billings and collections, loss
+reduction or service provision. 
+Partially Achieved 
+
+Sectoral Policy Paper
+
+Support to
+Implementation of
+
+Expressions of Interest released for 
+
+E 
+
+to
+
+development of an LNG re-gasification 
+
+facility. Project ongoing.
+
+Incorporation of the Lebanese Centre for 
+Energy Conservation (LCEC), and budgetary
+
+allocations made to Energy Efficiency 
+Programs (Part of the Government's sector 
+reform strategy). Project ongoing. 
+
+IFC support to EdL's outsourcing to 
+distribution service providers (DSPs)
+pending commitment through US$8 million 
+
+approved investment. Project ongoing. 
+
+Planned Lending/AAA:
+
+Partial Risk Guarantee
+
+on LNG (TBD)
+
+Policy Advice on
+Natural Resource
+Management, including
+
+on Governance (e.g.
+
+EITI)
+
+Butec 11 (IFC
+
+Investment)
+
+21
+
+Access to and reliability of potable 
+
+3.2 Increased access to and reliability of 
+
+Full-time Managing Director for Beka'a 
+
+Full-time Managing Director for the BRWA Ongoior opleted
+
+potable water in targeted project areas 
+
+Regional Water Authority (BRWA) 
+appointed by August 2011. 
+
+has been appointed. Achieved 
+
+water is increased in the Greater 
+Beirut Region. 
+
+Beirut Mount Lebanon Water 
+Authority (BMLWA) and Beka'a 
+
+Regional Water Authority (BRWA) 
+
+have a strengthened management 
+capacity. 
+
+Indicators: Additional 250,000 m3/d 
+of potable water is provided to the 
+
+Greater Beirut Region by end-2017; 
+
+Supply hours during lean season 
+
+increased three-fold by end-2014. 
+
+The GoL has a national water 
+
+resource management strategy and 
+
+plan. 
+
+Indicator: The National Water 
+
+Sector Strategy has been adopted by 
+Government. 
+
+3.2.]Houseoldsnegallbconnctedaoter
+improved water supply network in the West 
+Bekaa and Ba'albeck and neighboring 
+
+regions 
+
+West Beka'a: BL: 13,589 (2007) 
+Target: 47,705 (2013) 
+Ba'albeck: BL: 15,714 (2001)(water) and 
+18,000 (wastewater) 
+Target: 73,640 (water) and 29,410 
+
+(wastewater) (2013) 
+
+3.2.2 WHO standardsfor water quality met 
+
+West Beka 'a 
+Baseline: Nitrates: 100 mg/l .(2007) 
+
+Coliform: 10/100 ml. (2007) 
+
+Target:Nitrates:l10 mg/l (2013) 
+Coliform: 1 /100 ml (2013) 
+
+3.2.3 Per capita per day delivery of water 
+within project area in West Bekaa 
+Baseline: 60 liters (2007) 
+Target: 100 liters (2013) 
+
+3.2.4 Volume ofwastewater collected and 
+treated (Ba'albeck) 
+
+Baseline: 0(2007) 
+Target: 5,992m/day (2013) 
+
+3.2.5 National Water Sector Strategy
+finalized and approved by the Parliament 
+Baseline: No (20 10) 
+Target: Yes (2013) 
+
+Business Plan developed by December 
+2011. 
+
+Business Plan has been developed by GIZ 
+and has been approved by the BRWA. 
+
+Achieved 
+
+Ba'albeck Water and Wastewater Project
+(closed): Over 134 kilometers of water 
+distribution and wastewater collection
+network installed. 
+laat wastewater treatment 
+
+plant operational at design levels.
+
+West Beka'a Emergency Water Supply
+
+Project (closed): 194 kilometer of water 
+supply network rehabilitated (over 85
+
+Lending/AAA:
+Greater Beirut Water
+
+Supply Project
+(ongoing)
+
+West Beka'a
+
+Emergency Water
+
+SupmplPet
+
+Ba'albeck Water and
+
+Wastetero
+
+CutyWtrSco
+
+kilometers more than planned at project 
+
+Assistance Strategy
+
+appraisal). Pumping stations deliver water 
+(AAA) (completed)
+that meets World Health Organization quality PandLnigAA
+
+standards.
+
+Water Augmentation
+Project
+
+Watwtrmngmn 
+
+lnNational 
+
+developed for Beka'a Valley by May 
+2011. 
+
+Ministry of Energy and Water developed a 
+Wastewater Sector Strategy which
+was approved by Parliament in December
+
+2012 and incorporates wastewater
+management for the Beka'a Valley. The
+Ministry of Environment also finalized the
+
+Business Plan for Combating Pollution of
+Lake Qaraoun in the Beka'a valley.
+Achieved.
+
+Acpalcomrilblngnd 
+acceptable commercialimbillingeand 
+andount stanrdstimpemented 
+by December 2012.
+
+Accounting software for the BMLWA, with
+specifications acceptable to the World Bank,
+has been purchased and is operational.
+
+y 
+
+Wate resurc mangemnt sudy 
+
+emen study 
+
+3W2a2te esou 
+aof 
+
+c 
+
+:in 
+
+22
+
+This milestone is replaced by "GoL National
+
+Water Sector Strategy finalized by Ministry
+Energy and Water." The Ministry of
+Energy and Water the National Water Sector
+Strategy which was approved by Parliament
+
+March 2012. Achieved.
+
+EffIicicyorxstn urbanicaor
+
+3Transport fatutr 
+n 
+Efficiency of existing urban 
+ig t 
+oor 
+
+rfi
+
+transport infr7astructure and traffic 
+management in the city of Beirut 
+
+and Greater Beirut Area is 
+improved. 
+
+Indicators: 
+* Travel time on selected main 
+
+urban roads reduced by 25% 
+(baseline 2010) by end FY14. 
+
+* Increased regulation of on- 
+
+3.3 Improved efficiency of existing urban 
+
+trnnsport infrnstructure nnd trafflc 
+mnagement in Beirut city and GBA 
+
+3.3.] Percentage increase of traffic 
+volumes diverted to new efficient urban 
+
+transport infrastructure 
+
+BL: 0 (2010) 
+Target: 25% (2014) 
+
+3.3.2 Regulated parking spaces in Beirut 
+BL: 6500 (2010) 
+Target:8000 (2014) 
+
+3.3 Improveden effcinc ofst existigeurba
+
+3.3.3 Intersections with traffic lights 
+
+Traffic Management Organization 
+
+(TMO) with Intelligent Transport 
+System (ITS) capabilities is established, 
+
+Installation of about 580 pay-and- 
+display multi-space parking meters; TA 
+
+and training to build capacity for 
+parking management. 
+
+street parking in selected zones 
+
+BL: 182(2010) 
+
+Targt: 
+15 (214)been 
+3.3.4 An integrated urban transport 
+
+strategyfor the Greater Beirut Area 
+BL: No (2010) 
+
+Transport feasibility studies completed 
+
+by end FY14. 
+
+* Formulation of an integrated 
+urban transport strategy for the 
+
+Greater Beirut Area (GBA) 
+
+Sector strategic objectives and 
+
+priority needs are well defined, 
+together with a framework and 
+implementation arrangements 
+
+in place. 
+
+The Traffic Management Program has been 
+
+Coopfeted
+
+successfully implemented. Operation of the 
+traffic management system including the 
+
+Traffic Management Center (TMC 
+ongoing. Achieved
+
+is 
+
+The On-street Paid Parking of 730 pay-and- 
+
+display parking meters has been 
+implemented. Traffic control lights have
+
+been installed at 200 intersections along with 
+CCTV cameras connected to the equipped
+and operational TMC. Achieved 
+
+A Public Transport Strategy to improve 
+
+mobility within the GBA (TransBeirut) has
+
+finalized. The DG of Land Transport
+and Maritime Transport is considering
+
+options for a public transport system in
+Beimt which could include rail solutions
+
+Lending/AAA:
+Urban Transport
+
+Development Project
+
+Public Transport
+
+Strategy (AAA)
+
+Planned Lending/AAA:
+
+Beirut Peripherique and
+
+A2 Highway project
+
+(TBD)
+
+Ongoing or Completed
+
+Lendin/AAA:
+- CEA (AAA)
+- Best fit practices for
+
+reforestation (AAA)
+- Inventory & Removal
+
+of POPs Matenals
+
+- Env. Pollution
+
+Abatement TA
+
+- GEF Reg. Gov. &
+Knowledge Generation
+
+- CP Building Sec. (FC
+Advisory Services)
+
+Target: Yes (2014) 
+
+3.4 Improved environmental 
+
+mngement 
+
+3.4.1 EJA SEA and environmental 
+
+compliance certifi cation system operational 
+BL: No (2010) 
+
+Target: Yes (2014) 
+
+3.4.2 GHG emissions reduced (FC 
+
+BL: 0 (2010) 
+Target: 10,000 metric tons/year (2014) 
+
+and/or bus solutions. Achieved
+
+National MSW Plan with quantitative 
+
+targets in terms of service delivery and 
+quality prepared and initiated by 2012. 
+
+Partially achieved 
+
+Development of an enviromental 
+
+compliance certification system. Ongoing. 
+
+Conducted 5 Green Building Audits. Trained 
+
+12 local consuhtants to conduct Green 
+
+Building Audits (WC). Achieved. 
+
+Developed "ARZ" green building rating 
+
+system with 1 building rated through Feb 
+2013. (IFC). Achieved. 
+
+Planned LendinW/AAA:
+
+-Improve Capacity for
+
+Env. Compliance (IDF)
+- Env. Pollution
+
+Abatement (IL)
+
+- PCB Management
+
+Project (GEF)
+
+- SALMA Project
+(IBRD)
+- Sustainability in
+Marginal Areas (GEF)
+
+23
+
+adIndctr 
+
+an 
+
+Indiator
+
+Improved transparency and 
+
+predictability of inter-governmental 
+
+3.5 Basic services restored and local 
+
+economic recovery and development 
+
+fiscal transfers 
+
+supported 
+
+Use of the standard accounting and 
+
+financial management practices is 
+
+systematized in municipalities. 
+
+Indicator: Intergovernmental 
+
+3.5.] Infrastructure rebuilt 
+
+transfers are settled on a quarterly 
+
+BL: None (2010): 
+
+basis to all municipalities by June 
+
+2014. 
+
+Transparency is increased in the 
+
+municipal sector due to the 
+implementation of a modern M&E 
+system. 
+
+Historic and cultural assets are 
+
+adequately preserved and managed 
+with a view to create tourism 
+revenue opportunities for local 
+
+communities 
+
+ARgoaDeeomnMatr 
+
+ABL: 
+
+Plan is adopted by June 20149. 
+
+Functional Municipal Observatory is 
+
+established to collect data on local tax 
+revenues and transfers fr7om central 
+goverment. 
+
+Target (2014): 
+i. 
+
+ii. 
+
+iii. 
+
+iv. 
+
+v. 
+
+18 municipal buildings repaired/ 
+restored 
+183 road ko repaired/restored 
+
+50 retaining wall km repaired/ 
+restored 
+4,684 street lightingpoles 
+
+repaired/restored 
+13 water drain km repaired/
+
+restored 
+
+3.5.2 Estimated beneficiaries to 5 
+
+historic city centers 
+
+(2010) 
+
+i. 
+
+ii. 
+
+325, 000 visitors 
+1, 196, 000 residents 
+
+Target: (2014) 
+i. 
+375,000 visitors 
+ii. 
+1, 294, 000 residents, 
+
+Increased rehabilitation activities in 
+historic urban cores in compliance with 
+
+approved regulations recognizing the 
+
+centrality of their cultural heritage 
+to their economic and social 
+development 
+
+Ongoior 
+
+Lending/AAA:
+
+pleted
+
+First Municipal
+
+Infrastructure
+
+(completed)
+
+Cultural Heritage and
+Urban Development
+Project (CHUDP)
+
+(ongoing)
+
+Additional Financing to
+
+the CHUDP
+
+Tourism and Growth
+Potential (TA)
+
+MobiNetS (IFC
+investment)
+
+Three studies designed to strengthen 
+
+municipal finances were developed 
+
+constituting an essential element of the new
+mumicipal finance framework. 
+
+Achieved 
+
+The Municipal Observatory has been
+
+established and is functional. Achieved 
+
+3 municipal units operating and managing 
+city core established. Achieved.
+
+595 new rehabilitation activities in historic
+
+urban cores in compliance with approved 
+regulations recognizing the centrality of their 
+
+cultural heritage to their economic and social
+
+development; 150,000 sq. additional meters
+of pedestrian public squares and spaces
+rehabilitated; 182,000 additional sq. meters
+
+facades of historic buildings rehabilitated; 80
+new cafs and restaurants; 642 additional
+individuals working in cafs and restaurants.
+Partially achieved
+
+5 new landmark conservation laws approved.
+
+Not Applicable as not part of the IBRD
+Proj ect
+
+In FY12, IFC invested US$2m in Tripoli-
+based ICT firm, now surpassing 100 staff
+which is more than double pre-IFC staff
+numbers. Achieved.
+
+A milestone on establishment of Regional Development Board was erroneously included in relation to this outcome, while there is no reference to it in the project documents.
+e 
+
+24
+
+Country Development Goals
+
+4.1 Education: Improve quality teaching and learning in general public education
+4.2 Social Protection and Social Safety Nets:
+
+* Adequate social protection for the elderly, sick, and unemployed
+* 
+Improve living standards of the poorest and most vulnerable parts of the Lebanese population
+
+Issues and Obstacles
+* Children entering primary public schools are not ready cognitively due to low pre-school enrollment and 
+
+low quality pre-school education 
+* Qualification of teachers is low and there are no incentives to participate in professional development 
+* Management of the public education system is centralized with limited school level empowerment 
+
+* 
+
+The National Social Security Fund (NSSF) is in financial deficit, and the quality
+
+* 
+* 
+
+and efficiency of its services and operations are low
+Labor market policies and programs are not functioning efficiently
+Impact of formal social safety net programs on poverty is minimal
+* Untargeted, weak, fragmented, social safety net programs
+
+4. 
+
+Educatio
+
+Imroveda CShOtomeaiess amongPSOtoe 
+firs grdars nd disadvantage
+
+Improved school readiness among 
+first graders in disadvantaged 
+
+4.1 Increased availability of Education 
+data for decision making in Ministry of 
+
+Mlsoe 
+
+Pors 
+
+oaeCSIntuet
+
+110 renovated preschool facilities in 
+public schools in disadvantaged areas 
+
+Implementation under EDP 11 is delayed, as 
+the project has only been declared effective 
+
+communities 
+Indicators:
+
+Education and Higher Education 
+
+by end-2013. 
+
+in January 2013. Not achieved. 
+
+* Number of 3-5 year olds enrolled 
+
+4.].] EMIS is used to take decisions 
+
+in public preschools in rural and 
+
+suburban areas has increased by 
+
+10% between 2010 and June 
+
+2014. 
+
+* 20% improvement in scores of
+participating schools in ECERS 
+(Early Childhood Environment 
+Rating Scale) by June 2014. 
+
+Public School teachers have 
+
+upgraded skills and performance 
+
+levels to meet national objectives. 
+
+Indicator: 40% of teachers have 
+received certification under the new 
+
+Teacher Career and Professional 
+
+Development Framework 
+
+by June 2014. Public Schools are 
+
+empowered to plan and manage their 
+improvement and development.
+Indicator: At least 30% of schools 
+with active School Councils by June 
+
+2014. Informing the policy dialogue 
+
+on quality assurance in the sector,
+
+and getting all higher education 
+institutions engaged in the process. 
+
+related to the transfer of teachers in all 
+
+Training of at least 1000 KG teachers in Not achieved 
+
+cycles 
+
+BL: No (2010) 
+
+Target: Yes (2014) 
+
+public schools in new early childhood
+
+education curriculum by end-2013. 
+
+Adoption by Parliament of System of 
+Professional Standards for Teachers. 
+
+System of Professional Standards for 
+Teachers has not yet been approved by
+Parliament. Not achieved 
+
+20% of schools with school 
+
+improvement plans approved and under 
+
+Not achieved 
+
+implementation
+
+16 Lebanese universities have participated in 
+
+the university governance screening card
+
+exercise National report was presented and
+
+discussed.
+
+The QBS is: a) in place and operational; b)
+providing increased levels of transparency in
+
+student learning assessment.
+
+Results from the analysis of international
+learning assessment studies are being used to
+
+guide quality enhancement initiatives
+
+25
+
+Ongoing or Completed
+Lending/AAA:
+
+Higher Education TA
+
+Education Development
+
+Project 11
+
+In-time TA on
+
+"University
+
+Govre
+
+Second Emergency
+
+Social Protection
+
+Implementation
+
+Support Project
+
+Measurin Financial
+
+g
+
+Id 
+
+admi 
+
+t 
+
+dli
+
+and 
+
+and finacial sustetinblt andcaaeyNt
+
+Improved administration, delivery 
+and financial sustainability and 
+targeting of social services through 
+
+implementation of new systems and 
+adoption of new policies in the 
+NSSF, MoL, MoPH, MoSA, PCM, 
+and MEHE. 
+
+Indicators: 
+
+BL: 0 (2010) 
+
+* Reduction in annual deficits of 
+
+4.2 Improved administration, delivery 
+and financial sustainability and targeting 
+of social 
+
+NSSF Board approves plan for 
+equilibration of Maternity and Sickness 
+Fund. 
+
+services 
+
+Dropped. i light of the fact that the planned Ongig or Completed
+reforms in the National Social Security Fund 
+Lending/AAA:
+(NSSF) were not progressing, the 
+Emergency Social
+
+Goverment requested the Bank to drop 
+activities related to NSSF reforms, and
+reallocate to MOL reforms. 
+
+4.2.] Increased percentage of hospital 
+admissions according to Admission 
+
+Criteria Standards by medical controllers 
+
+Government annually reduces its arrears Dropped. 
+
+with NSSF.
+
+Protection
+
+Impemet
+Suppo 
+et 2
+
+(CmonnA2-eat
+
+Lebanon MILES
+
+Programmatic TA
+
+ESPISP 11 (Component
+
+I) National Volunteer
+Service Program (SPF)
+
+National Poverty
+Targeting Program
+
+the Maternity and Sickness 
+Fund and the Family 
+Allowance Fund by June 2014. 
+
+4.2.2 Youth that have successfully 
+completed a 75 hour training on life skills, 
+coaching andplacement training under 
+
+Framework for active labor market 
+policies and programs adopted by 
+Ministry of Labor 
+
+Not Achieved. New Entrants to Work 
+(NEW) program with the objective to
+increase the employability of first-time 
+
+* An in-patient electronic 
+claiming system (NAPS) 
+
+* Is operating in all hospitals 
+
+nationwide. 
+
+Facilitate employment through 
+
+effective active labor market 
+policies and programs, such as 
+development of more efficient 
+employment services (public or 
+
+private).
+
+NEWprogram 
+BL: 0 (2013) 
+
+Target: 650 (2014) 
+of which 500 women 
+
+4.2.3 People registered in the National 
+
+Poverty Targeting Program (NPTP)
+database 
+BL: 62,000 (2012) 
+Target: 90,000 (2014) 
+
+Indicator: Necessary systems and 
+
+regulation needed for the effective 
+operation of employment offices in 
+
+the private sector in place. 
+
+The National Poverty Targeting 
+
+Program (NPTP) for social safety 
+
+4.2.4 Targeted persons in Hermel- 
+Ba 'albeck reporting an increased 
+
+understanding of administrative and
+udicial proceedings to obtain ID 
+
+documents, marriage and birth 
+
+certiicates(number) 
+
+nets is implemented, operational and BL: 0 (2013) 
+
+in full use, based on a targeting 
+mechanism that uses transparent and 
+scientific criteria that assess 
+households' eligibility. 
+
+Target: 500 (2014) 
+
+job seekers in Lebanon, approved by Decree 
+by the Cabinet in December2011 and a 2- 
+
+year budget allocated. NEW was officially 
+launched in September 2012 under the 
+
+auspices of the Prime Ministry. The program
+
+is expected to start implementation by March 
+
+(NT)TA
+
+2013. 
+
+Labor Markets &
+
+Establishment of a database on poor and 
+vulnerable populations using proxy- 
+means testing targeting mechanism, 
+
+The NPTP has been adopted and used by the
+Government to target social assistance to the 
+extreme poor. Achieved 
+
+National Volunteer
+Service Program
+
+Nation-wide public relations campaign 
+
+Achieved 
+
+on the NPTP implemented. 
+
+An IDF Program is planned to support 
+
+targeted poor youth and women, mukhtars 
+
+and legal apprentices in Hermel-Ba'albeck 
+
+developed by CSOs to educate poor persons
+
+on how to represent themselves in 
+administrative and judicial proceedings to 
+obtain ID documents and marriage and birth 
+certificates. 
+
+Planned LendingAAA:
+
+Social Promotion and
+Protection Project
+
+Syrian Displaced
+
+People in Lebanon
+
+(SPBF)
+
+IDF Grant for Building
+CSO Capacity to
+Provide Legal Aid
+Services
+
+Multi-Sectoral Social
+Poverty Assessment
+
+_ 
+
+_ 
+
+_ 
+
+_ 
+
+_ 
+
+_ 
+
+_ 
+
+_ 
+_ 
+
+_ 
+_ 
+
+_ 
+
+_ 
+
+_ 
+
+_ 
+
+__ 
+
+_ 
+
+_(AAA)
+
+26
+
+ANNEX II
+
+DETAILED OVERVIEW ON PROGRESS TO DATE UNDER THE VARIOUS SECTORS
+
+Some institutional reforms have progressed with strong World Bank TA and AAA support
+
+* Public Financial Management has been strengthened with the establishment in 2012 of a
+macro-fiscal department within the Budget Directorate at the MoF, and the development of the
+conceptual framework for a multi-year budget planning process (MTEF), but the actual MTEF
+could not be finalized in the absence of an approved budget since 2005. Efforts have therefore
+been refocused on key elements to improve fiscal transparency and budget management,
+including the revision of the budget classification to bring it in line with GFS 2001 norms; the
+revision of the public accounting law; the development of a budget preparation circular, which is
+now based on a macro-fiscal framework and clear costing norms; the adoption of accounting
+procedures and guidelines, and the introduction of commitment controls and payment forecasting
+to avoid over-commitments and improve cash management. 
+In addition, reforms in the debt
+management area have moved forward with the establishment of a new Public Debt Directorate
+that assumed both analytical and operational functions. In this regard, the Directorate has
+engaged on: (i) the formulation of a new medium-term debt management strategy that aims to
+inform senior policymakers of the high debt committee on cost-risk parameters and scenarios for
+managing the debt in Lebanon; and (ii) the installation of DEMFAS 6 as to gradually assume the
+recording and operational functions of debt issuances.
+
+* Statistical Capacity Building. The World Bank provided Technical Assistance to the Central
+Administration for Statistics (CAS) on developing statistical technical capacity in poverty
+monitoring, through poverty analysis and social statistics (TAPS), and the design of a Household
+Budget Survey. Funding to the Government in revising the Statistical Law and designing an
+implementation plan for the Statistical Master Plan is ongoing.
+
+* Business Environment. A Bank Development Grant Facility (DGF) regional partnership
+program is ongoing in partnership with two leading regional incubators/accelerators to build the
+capacity and technological skills of nascent entrepreneurs to start a business and make it grow.
+This program, in which Lebanon participates, complements Bank private sector development and
+financing operations in the region by providing strategic technical support such as skills training,
+mentorship and networking, to create and build a critical mass of dynamic start-ups able to
+benefit from Bank and other financing projects. In addition, the regional DGF program will also
+include tools and materials that can have broader outreach and foster inclusion. The aim is to
+bolster lasting cultural change 
+in support of entrepreneurship and promote a sustainable
+entrepreneurial ecosystem in the Middle East. A monthly Arabic entrepreneurship and early-
+stage investment newsletter will be produced in both print and online forms as well as Arabic
+videos and TV skits featuring success stories, forums, educational articles, competitions and
+entrepreneurship news and events. Success stories will feature successful female entrepreneurs
+and diaspora entrepreneurs spotlighting those who are giving back to the region.
+
+* 
+
+Infrastructure: In the Water sector, the technical, financial and managerial capacity of the
+Beka'a Regional Water Establishment (BRWE) and 
+the Beirut Mount Lebanon Water
+Establishment (BMLWE) was strengthened through the appointment of the Managing Director
+for the BRWE and the development of a business plan, as well as the implementation of several
+important utility strengthening activities within the BMLWE. Moving forward, the Greater Beirut
+Water Supply Project will continue to support utility strengthening of the BMLWE in general, as
+
+27
+
+well as the implementation of the Ministry of Energy and Water's National Water Sector
+Strategy more broadly. Urban Transport and traffic management is being reformed through
+the implementation of a new Traffic Management program and the operation of a traffic
+management system, which has seen the establishment of a Traffic Management Center. Within
+the framework of a new Public Transport Strategy, GoL is now launching the procurement for
+the design of infrastructure, operational planning and contract preparation for the priority lines of
+a Bus Rapid Transit system in the Greater Beirut Area, and is preparing the restructuring plan for
+the Railway and Public Transport Authority. Although a roadmap for reform of EdL was
+developed in the Electricity sector, which calls for its corporatization in accordance with
+commercial principles, and builds its management capacity, this roadmap has still not garnered
+political consensus and its implementation remains uncertain. To improve management capacity
+of the Municipal sector at the central Government level, a Municipal Observatory was
+established which is collecting data on local tax revenues and transfers from central Government.
+
+Human Development: Following the establishment of a database on the poor and vulnerable
+population using the proxy-means testing (PMT) targeting mechanism - which was supported
+financially and technically by the World Bank through the Second Emergency Social Protection
+Implementation Support Project and Bank technical assistance -
+the impact, efficiency and
+effectiveness of Lebanon's social safety nets is being improved through the implementation of a
+National Poverty Targeting Program (NPTP), which is now fully operational. For the first time in
+its modern history, Lebanon today has a program whose sole objective is poverty reduction and
+which has already reached thousands of Lebanese households through the distribution of
+education and health benefits. The GoL intends to add electricity benefits to the program as well.
+The program can be scaled up in times of economic difficulties acting like a true safety net
+program and helping to build Lebanon's resilience to shocks. More importantly, the NPTP is
+based on a transparent targeting methodology which only uses poverty (welfare) as the criterion
+for eligibility (not confessional or political affiliation). Through the NPTP, institutional capacity
+has been built 
+in 
+the Ministry of Social Affairs 
+and 
+the Prime Ministry.
+
+Policy dialogue on reform informed by the Bank's knowledge services and Technical Assistance
+
+* Bank Technical Assistance (TA) and analytical and advisory services underpinned new
+investments, and have been instrumental in helping the Government advance on reforms.
+Bank TA on public financial management helped GoL improve the budget preparation process
+and its comprehensiveness, by strengthening the integration of the current and capital budget,
+placing the annual budget in a multi-year perspective, and strengthening budget execution with a
+focus on the treasury management function. A study on Lebanon 's Capital Inflows helped
+analyze the nature and drivers of these inflows, interactions with monetary and fiscal policies,
+and the extent to which they can foster sustainable, broad-based growth in Lebanon. Another
+study on Boosting Growth and Social Welfare in a Context of Fiscal Consolidation is focusing
+on macro-fiscal sustainability and improving fiscal space. Several policy notes on electricity,
+telecommunications, and public sector wages are helping to address the key macro-fiscal
+sustainability and fiscal space constraints.
+
+* Procurement Law. Despite the Procurement Law not being yet adopted, there has been some
+engagement including having active participation of teams from various Lebanese stakeholders in
+Regional Conferences on Governance and Regional Public Procurement Reform Efforts
+(Amman; July 2012), and Improving the Results of Public Procurement through Transparency,
+Stakeholder Promotion and Capacity Building (Tunis; December 2012). Following these
+conferences, a round table discussion on Procurement Reform in Lebanon took place in March
+2013 
+to discuss with relevant stakeholders 
+the ongoing reforms 
+in 
+the national public
+
+28
+
+procurement system, the challenges faced in implementing the reforms, and how the Bank can
+provide support in the short and long term.
+
+In the Electricity sector, the World Bank provided close support to MoEW in the development
+of its Policy Paper on the Electricity Sector, through the Emergency Power Sector Reform
+Capacity Reinforcement Project, and additional studies on LNG supply and fuel conversion.
+Several Bank-executed technical assistance activities were also provided for the development of
+an Energy Efficiency Framework, an action plan for promoting energy efficiency measures in
+Lebanon, and for the development of a wind power market in Lebanon. To support the
+Government in the identification of policy options to reform the Telecommunications sector
+while addressing their fiscal impact, the Bank provided substantive advice in the development of
+the Telecommunication Sector Strategy, including TA on Broadband Strategy and Deployment,
+and financed capacity building to the Telecommunications Regulatory Authority. In the Water
+sector, the Bank played an active role in supporting the development and implementation of the
+Government's strategy for improving the sector's performance, through TA in the development
+of a National Water Sector Strategy and the development of its own World Bank Country Water
+Sector Assistance Strategy. Technical assistance and analytical and advisory services to the
+Ministry of Public Works and Transport were instrumental in supporting the finalization of
+GoL's public transport strategy to improve mobility within the Greater Beirut Area, through the
+development of an integrated public transport system plan ("TransBeirut"). In the Environment
+sector, the World Bank partnered with the GoL in the preparation of a Country Environmental
+Analysis (CEA, June 2011), which aimed at providing the analytical underpinning for integrating
+environment into the development process. One of the main recommendations of the CEA was
+"Managing Environmental Risks", to assist the GoL in reducing environmental threats due to
+pollution and natural resources degradation, and adapt to potential environmental perils due to
+climate change. In July 2011, the GoL issued its Ministerial Declaration which included
+"Managing Environmental Risks" as one of its priorities. The CEA also included a study on
+municipal solid waste, as well as a set of options to upgrade municipal solid waste management
+systems. A recently approved IDF grant for Environmental Compliance will help improve
+environmental compliance in the industrial sector (particularly in small and medium enterprises)
+in Lebanon.
+
+* 
+
+In the Education sector, the Bank's support to the development of a National Education Sector
+Strategy in 2010 through the first Education Development Project (EDP I), and institution
+building of the Ministry of Education and Higher Education (MEHE), resulted in the adoption of
+policies and programs focusing on early childhood development and teacher professional
+development, which are supported through the recently effective Second Education Development
+Project. As a result of persistent and consistent capacity building, the MEHE today is leading a
+large and comprehensive, multi-donor supported education reform program. The Bank also
+supported MEHE in analysis of the financial sustainability of its private teachers' pension fund.
+In the area of higher education, the World Bank has provided in-time TA to MEHE focused on
+university governance. 16 Lebanese universities have participated in the university governance
+screening card exercise leading to two workshops where a national report was presented and
+discussed. This work is not just informing the policy dialogue on quality assurance in the sector
+but also helping MEHE in getting all higher education institutions engaged in the process.
+
+* Bank assistance was instrumental in helping GoL advance the social security, health insurance
+and safety net agenda through TA support to the establishment of the NPTP, support to
+modernization of the social insurance system, coupled with TA for drafting of new pension law;
+and support to improving efficiency of Ministry of Public Health expenditures through creation
+
+29
+
+of a utilization management function and a modern hospital contracting system based on
+performance indicators.
+
+* A multi-year 
+technical 
+cooperation program on 
+labor markets entitled "MILES"
+(Macroeconomy, Investment Climate, Labor, Education, Social Protection) assisted the GoL in
+identifying constraints to the creation of quality jobs, presenting policy options in the areas of
+social insurance and labor market programs and simulating their macroeconomic and labor
+market impacts. The MILES program has resulted in the identification of an innovative active
+labor market program for first-time job seekers (the New Entrants to Work Program) which aims
+to address both demand and supply side constraints in the Lebanese labor market and, therefore
+increase the employability of Lebanese school and university graduates. The MILES program
+also resulted in the modeling of the Lebanese economy through the development of a
+Computable General Equilibrium Model, which is being employed by the Government to
+simulate the impact of proposed social policies such as increases in wages and salaries on
+growth, investment, and employment levels. Finally, the Bank's programmatic TA in pension
+reform has resulted in a revised proposal for private worker's pension, which is expected to be
+submitted to Cabinet and Parliament in the coming months.
+
+* A grant has just been approved to build capacity of civil society in the Ba'albeck-Hermel area to
+provide legal information, advice and counseling to poor communities in relation to securing IDs
+and personal documents (birth and marriage certificates), 
+thereby ensuring that the poor
+communities affected will not be excluded from social benefits (health, education), employment
+and political participation (voting). The program will also develop capacity of local officials to
+advise poor persons on the proper procedures, and simplify procedures to ensure easier access.
+
+IFC's Program
+
+The IFC significantly scaled up its advisory services activities. Aiming to increase access to
+finance, particularly for SMES, IFC is advising a major local bank - Banque Libanaise Pour Le
+Commerce (BLC) - to establish a comprehensive offering targeting women and women-owned firms.
+This is part of a holistic project that looks to increase the bank's outreach to SMEs in general and
+improve its risk management practices. IFC is facilitating a South-South sharing of knowledge
+between BLC and other banks in the region. 
+In addition, IFC is working with another major
+Lebanese bank - Banque Libano-Francaise (BLF) - to scale up its financing of sustainable energy
+projects (i.e., those related to energy efficiency, renewables and cleaner production) to reduce
+greenhouse gases and lessen the impact on the environment. Likewise, IFC also helped the Lebanese
+Green Building Council to develop the green building rating system "ARZ", and conducted five
+green building assessments in cooperation with local consulting firms to build capacity in the field.
+To improve the investment climate, the Bank Group assisted the Government to develop its
+"Improving the Business Environment in Lebanon" program, which is led by the Office of the
+Presidency of the Council of Ministers as Secretariat. 
+In this context, IFC launched a project to
+simplify procedures for licensing in the tourism sector, which is currently under implementation.
+Working with the Tripoli Bar Association and the Chamber of Commerce and Industry of Beirut,
+IFC is developing local capacity to offer mediation as a means to resolve business disputes, including
+the training of local mediators and institutional capacity building for the mediation centers. Projects
+to improve the commercial registry, strengthen the bankruptcy and insolvency regime, and draft a
+modern law on secured transactions (which allows for greater use of movable property as collateral)
+were signed with the Office of the Presidency of the Council of Ministers, with the draft secured
+transactions law currently being finalized. The IFC and the Bank are working together to assess the
+national payment system, under a project with the Central Bank of Lebanon.
+
+30
+
+Selected Results of the CPS
+
+Water Sector
+
+* Over 134 km of water distribution and wastewater collection network installed and about 194 km of water supply
+network rehabilitated with all pumping stations meeting World Health Organization quality standards
+* Over 134 km of water distribution and wastewater collection network installed
+
+Municipal and Cultural Heritaze Sector
+* Reconstruction of public infrastructure (17 municipal buildings, 175 km of roads rehabilitated and repaired,
+4,684 streetlight poles erected, 48.7 km of retaining walls built
+* 595 new rehabilitation activities in historic urban cores in compliance with approved regulations, 150,000 sq
+meters of pedestrian public squares and spaces rehabilitated, 182 000 sq meters facades of historic buildings
+rehabilitated, 80 new caf6s and restaurants, 642 additional individuals employed in caf6s and restaurants, leading
+to 10% increase in private sector investments in tourism and heritage sector
+* 5 new landmark conservation laws approved, 3 municipal units operating and managing city core established
+* 10% increase in private sector investments in tourism and heritage sector
+
+Social Protection (National Poverty Tarzetinm Prozram - NPTP)
+* 275,000 individuals in NPTP Database today with 80,000 individuals beneficiaries in the first round
+
+Private Sector
+* Increased number of banks participating in IFC's Global Trade Finance Program from 4 to 6, with total of $676
+million of guarantees issued
+
+31
+
+ANNEX A2: LEBANON AT A GLANCE
+
+Lebanon at a glance 
+
+3/5/13
+
+M.East 
+& North 
+Africa 
+
+Upper
+middle
+income 
+
+Key Development Indicators 
+
+Lebanon 
+
+Age distribution, 2010
+
+(2011) 
+
+Male 
+
+Female
+
+Population, mid-year (millions) 
+Surface area (thousand sq. km) 
+Population growth (%) 
+Urban population (%oftotal population) 
+
+4.3 
+10 
+0.7 
+89 
+
+331 
+8,775 
+1.7 
+58 
+
+2,452 
+59,328
+0.7 
+57 
+
+75-7
+
+60-64
+45-49
+
+GNI(Atlas method, US$ billions) 
+GNI percapita (Atlas method, US$) 
+GNI percapita (PPP, international $) 
+
+39.2 
+9,200 
+14,090 
+
+1,283 
+3,874 
+8,068 
+
+14,429
+5,884 
+9,970 
+
+15-19
+0-4 
+
+01
+0 
+
+10 
+
+5 
+
+5 
+
+10
+
+GDP growth (%) 
+GDP per capita growth (%) 
+
+3.0 
+2.3 
+
+4.3 
+2.5 
+
+7.8 
+7.1
+
+percent of total population
+
+(most recent estimate, 2005-2011)
+
+Poverty headcount ratio at $1.25 a day (PPP, %) 
+Poverty headcount ratio at $2.00 a day(PPP, %) 
+Life expectancy at birth (years) 
+Infant mortality (per 1,000 live births) 
+Child malnutrition (%of children under 5) 
+
+.. 
+
+3
+14 
+72 
+27 
+8 
+
+Under-5 mortality rate (per 1,000)
+
+.. 
+.. 
+.. 
+
+73
+17 
+3 
+
+80
+70
+
+60 
+
+-
+
+Adult literacy, male (%of ages 15 and older) 
+Adult literacy, female (%of ages 15 and older) 
+
+93 
+86 
+
+82 
+66 
+
+96 
+91 
+
+so
+40
+
+Gross primary enrollment, 
+Gross primary enrollment, male (%of age group) 
+(%of age group) 
+Grossprimaryenrollment,female(%ofagegroup) 
+Access to an improved water source (%of population) 
+Access to improved sanitation facilities (%of population) 
+
+jmale 
+
+10 
+15 
+99 
+
+10 
+98 
+89 
+88 
+
+111 
+111 
+il 
+93 
+73
+
+30
+
+16 
+
+30
+
+10
+
+.. 
+
+iwo 
+
+1ws 
+
+200 
+
+20
+
+.. 
+
+D Leb.on 
+
+0didle 
+
+&aNoIthNri.
+
+Net Aid Flows 
+
+1980 
+
+1990 
+
+2000 
+
+2011 a
+
+(US$ millions)
+Net ODA and official aid 
+Top 3 donors (in 2010):
+United States 
+France 
+European Union Institutions 
+
+298 
+
+286 
+
+200 
+
+449 
+
+Growth of GDP and GDP per capita (%)
+
+3 
+16 
+5 
+
+12 
+26 
+29 
+
+32 
+31 
+36 
+
+84 
+60 
+53
+
+so
+40-
+
+30
+
+Aid (%of GNI) 
+Aid per capita (US$) 
+
+.. 
+
+2.6 
+90 
+
+1.1 
+53 
+
+1.2 
+106 
+
+20
+10
+
+114 
+
+Long-Term Economic Trends 
+
+-10
+
+95 
+
+05
+
+Consumer prices (annual %change) 
+GDP implicit deflator(annual %change) 
+
+.. 
+.. 
+
+-99.7 
+97.4 
+
+-0.8 
+-2.1 
+
+5.7
+4.9
+
+Exchange rate (annual average, local per US$) 
+Terms of trade index (2000 = 100) 
+
+.. 
+.. 
+
+695.1 
+91 
+
+1,507.5 
+100 
+
+1,507.5
+79
+
+1980-90 1990-2000 
+2000-11
+(average annual growth %)
+1.9 
+1.7 
+8.8 
+
+Population,mid-year(millions) 
+GDP (US$ millions) 
+
+2.6 
+
+3.2 
+4,690 
+
+3.8 
+17,260 
+
+4.3 
+40,094 
+
+1.1
+5.0
+
+.. 
+
+.. 
+
+(%ofGDP)
+
+Agriculture 
+Industry 
+Manufacturing 
+Services 
+
+.. 
+.. 
+.. 
+.. 
+
+7.3 
+25.5 
+14.4 
+67.2 
+
+7.1 
+22.8 
+13.0 
+70.1 
+
+5.9 
+20.6 
+8.2 
+73.5 
+
+.. 
+.. 
+.. 
+.. 
+
+7.0 
+5.2 
+6.4 
+6.4 
+
+0.9
+5.1
+1.2
+5.0
+
+Householdfinalconsumptionexpenditure 
+General gov't final consumption expenditure 
+Gross capital formation 
+
+.. 
+.. 
+.. 
+
+124.5 
+14.0 
+29.3 
+
+84.1 
+17.3 
+20.4 
+
+74.1 
+13.8 
+29.8 
+
+.. 
+.. 
+.. 
+
+8.0 
+14.7 
+9.9 
+
+3.8
+3.3
+10.4
+
+Exports of goods and services 
+Imports of goods and services 
+Gross savings 
+
+.. 
+.. 
+.. 
+
+12.5 
+79.9 
+-10.5 
+
+14.2 
+35.9 
+-1.2 
+
+32.2 
+50.0 
+17.7
+
+.. 
+.. 
+
+24.1 
+11.8 
+
+9.6
+7.2
+
+Note: Figures in italics are for years other than those specified. 2011data are preliminary. .. indicates data are not available.
+a.Aid data are for2010.
+
+Development Economics, Development Data Group (DECDG).
+
+32
+
+Lebanon
+
+Balance of Payments and Trade 
+
+2000 
+
+2011
+
+Governance indicators, 2000 and 2010
+
+(US$ millions)
+Total merchandise exports (fob) 
+Total merchandise imports (cif) 
+Net trade in goods and services 
+
+1,050 
+5,988 
+-3,774 
+
+5,318
+20,158 
+-7,116 
+
+Voice and accountablity
+Politkcal stability and
+absence ofviolence
+
+Current account balance 
+asa%of GDP 
+
+-3,754 
+-21.7 
+
+-4,866
+-12.1 
+
+Regulatory quality
+
+Workers' remittances and 
+compensation of employees (receipts) 
+
+Rule of law
+
+2,544 
+
+7,558 
+
+Control of corruption
+
+Reserves, including gold 
+
+8,273 
+
+45,216 
+
+0 
+
+25 
+
+50 
+
+75 
+
+10O
+
+Central Government Finance 
+
+22oCountrs 
+
+percentle rank (-100)
+
+higher values irrply better ratngs
+
+(%oofGDP)
+
+Current revenue (including grants) 
+
+18.6 
+
+23.5 
+
+source: worldwide Governance Indicator (www.govindicator.org)
+
+Tax revenue 
+Current expenditure 
+
+14.6 
+38.9 
+
+18.5
+28.0
+
+Technology and Infrastructure 
+
+2000 
+
+2010
+
+Overall surplus/deficit 
+
+-23.4 
+
+-6.4
+
+Paved roads (%of total) 
+Fixed line and mobile phone
+subscribers (per 10 people) 
+High technology exports
+(%of manufactured exports) 
+
+84.9
+
+Highest marginal tax rate (%) 
+Individual 
+Corporate 
+
+.. 
+
+.. 
+
+35 
+
+89
+
+.. 
+
+.. 
+
+2.3 
+
+12.8
+
+External Debt and Resource Flows
+
+Environment
+
+(US$ millions)
+Total debt outstanding and disbursed 
+Total debt service 
+Debt relief (HIPC, M DRI) 
+
+29,137 
+812 
+-
+
+87,493 
+1,084 
+-
+
+Agricultural land (%of land area) 
+Forest area (%of land area)
+Terrestrial protected areas (%of land area) 
+
+58 
+
+67
+
+0.5 
+
+0.5
+
+Total debt (%of GDP) 
+Total debt service (%of exports) 
+
+168.8 
+29.4 
+
+218.2 
+6.3 
+
+Freshwater resources per capita (cu. meters) 
+Freshwater withdrawal (billion cubic meters)
+
+1,241 
+
+1,144
+
+Foreign direct investment (net inflows) 
+Portfolio equity(net inflows)
+
+..
+
+C02 emissions per capita (mt) 
+
+4.1 
+
+4.1
+
+GDP per unit of energyuse
+(2005 PPP $ per kg of oil equivalent) 
+
+6.6 
+
+7.5
+
+Composition of total external debt, 2011
+
+thermrulti 
+Kd d27
+
+Energy use per capita (kg of oil equivalent) 
+
+1,311 
+
+1,580
+
+irleBt8t9710S
+
+World Bank Group portfolio 
+
+2000 
+
+2010
+
+(US$ millions)
+
+IBRD
+Total debt outstanding and disbursed 
+Disbursements 
+Principal repayments 
+Interest payments 
+
+311 
+42 
+17 
+14 
+
+411
+24
+20
+4
+
+76,2 1 
+
+US$ millions 
+
+IDA
+Total debt outstanding and disbursed 
+Disbursements 
+Totaldebtservice 
+
+-
+0 
+-
+
+0
+0
+0
+
+Private Sector Development 
+
+2000 
+
+2011 
+
+Time required to start a business (days) 
+Cost to start a business (%of GN I per capita) 
+Time required to register property (days) 
+
+-
+-
+-
+
+9 
+75.0 
+25 
+
+IFC (fiscalyear)
+Total disbursed and outstanding portfolio 
+of which IFC own account 
+Disbursements for IFC own account 
+Portfolio sales, prepayments and
+repayments for IFC own account 
+
+218 
+127 
+20 
+
+194
+194
+100
+
+Ranked as a major constraint to business 
+(%of managers surveyed who agreed) 
+Access to/cost of financing 
+Electricity 
+
+2000 
+
+2010 
+
+25 
+
+1)
+
+.. 
+.. 
+
+16.5
+12.5 
+
+M IGA
+Gross exposure 
+Newguarantees 
+
+-
+-
+
+-
+-
+
+Stock market capitalization (%of GDP) 
+Bank capital to asset ratio (%) 
+
+9.2 
+6.4 
+
+33.9 
+7.3
+
+Note: Figures in italics are for years other than those specified. 2011data are preliminary. 
+.. indicates data are not available. -
+indicates observation is not applicable.
+
+3/513
+
+Development Economics, Development Data Group (DECDG).
+
+33
+
+Millennium Development Goals 
+
+Lebanon
+
+With selected targets to achieve between 1990 and 2015
+
+(estimate closest to date shown, -- 2 years) 
+
+Lebanon
+
+1990 
+
+1995 
+
+2000 
+
+2010
+
+3.0
+
+76 
+83 
+66 
+
+.. 
+
+61 
+
+90
+102 
+77 
+
+87
+81
+
+37 
+32 
+61 
+
+34 
+30 
+85 
+
+.. 
+
+89
+
+32
+28
+90
+
+150...
+
+0.2 
+
+91 
+
+100
+
+0.5 
+4.1 
+6.6 
+
+15.4 
+19.9 
+8.0 
+
+0.1
+
+71
+
+0.5
+4.1
+7.5
+
+21.0
+68.0
+31.0
+
+Goal 1: halve the rates for extreme poverty and malnutrition 
+Poverty headcount ratio at $125 a day (PPP,%ofpopulation)
+Poverty headcount ratio at national poverty line(%of population)
+Share of income or consumption to the poorest qunitile (%)
+Prevalence of malnutrition (%of children under 5) 
+
+Goal 2: ensure that children are able to complete primary schooling
+Primaryschool enrollment (net,%) 
+Primarycompletion rate (%of relevant age group) 
+Secondaryschool enrollment (gross,%) 
+Youth literacyrate (%ofpeopleages 15-24)
+
+Goal 3: eliminate gender disparity in education and empower women
+Ratio ofgirls to boys in primaryand secondary education (%)
+Women employed inthe nonagricultural sector (%of nonagricultural employment)
+Proportion of seats held bywomen in national parliament (%)
+
+Goal 4: reduce under-5 mortality by two-thirds
+Under-5 mortality rate (per 1,000) 
+Infant mortality rate (per 1,000 live births) 
+Measles immunization (proportion of one-yearolds immunized,%) 
+
+Goal 5: reduce maternal mortality by three-fourths
+Maternal mortality ratio (modeled estimate, per 100,000 live births) 
+Births attended by skilled health staff (%of total) 
+Contraceptive prevalence (%of women ages 15-49)
+
+Goal 6: halt and begin to reverse the spread of HIVIAIDS and other major diseases
+Prevalence of HIV (%of population ages 15-49) 
+0.1 
+Incidence of tuberculosis (per 100,000 people)
+Tuberculosis case detection rate (%, all forms) 
+
+91 
+
+Goal 7: halve the proportion of people without sustainable access to basic needs
+Access to an improved water source (%of population) 
+Access to improved sanitation facilities (%of population) 
+Forest area (%of land area)
+Terrestrial protected areas (%of land area) 
+C02 emissions (metric tons per capita) 
+GDP per unit of energy use (constant 2005 PPP $ per kg of oil equivalent) 
+
+.. 
+
+..
+
+0.5 
+3.1 
+8.7 
+
+Goal 8: develop a global partnership for development
+Telephone mainlines (per 100 people) 
+Mobile phone subscribers (per 100 people) 
+Internet users (per 100 people) 
+Computer users (per 100 people)
+
+13.4 
+0.0 
+0.0 
+
+0.1 
+
+91 
+
+.. 
+
+0.5 
+3.9 
+6.8 
+
+13.0 
+3.5 
+0.1 
+
+Education indicators (%) 
+
+10 
+
+75-- 
+
+50.- 
+
+255 
+
+0- 
+
+2000 
+
+2005 
+
+2010 
+
+Measles immunization (% of 1-year 
+olds)
+100 
+
+-i -
+
+75 
+
+50 
+
+25 
+
+ICT indicators (per 100 people)
+
+100
+90
+80
+70
+
+60-
+50
+
+40
+
+2
+
+10
+
+Ram fgrls 
+
+inpiay& 
+) 
+
+comryduaon 
+
+by 
+
+1990 15 2000 
+
+2010 
+
+2000 
+
+2005 
+
+2010
+
+Leb-o 
+
+0Middle. ANothMIm 
+
+OF-ed+mo.ulesus.iber 
+
+Mintemetu. rs
+
+Note: Figures in italics are for years other than those specified. .. indicates data are not available. 
+
+3/5/13
+
+Development Economics, Development Data Group (DECDG).
+
+34
+
+ANNEX B2: SELECTED INDICATORS OF BANK PORTFOLIO PERFORMANCE & MANAGEMENT
+
+As of March 31, 2013
+
+Indicator 
+
+Portfolio Assessment
+
+Number of Projects Under Implementation a 
+Average Implementation Period (years) b 
+Percent of Problem Projects by Number a, c 
+Percent of Problem Projects by Amount a, c 
+Percent of Projects at Risk by Number a, d 
+Percent of Projects at Risk by Amount a, d 
+Disbursement Ratio (%) e 
+
+Portfolio Management
+
+CPPR during the year (yes/no) 
+Supervision Resources (total US$) 
+Average Supervision (US$/project) 
+
+2010 
+
+2011 
+
+2012 
+
+2013
+
+9 
+4.6 
+25.0 
+4.1 
+50.0 
+31.9 
+14.9 
+
+No 
+980 
+109 
+
+10 
+4.6 
+30.0 
+10.7 
+50.0 
+17.7 
+43.7 
+
+No 
+1031 
+103 
+
+11 
+5.0 
+28.6 
+10.3 
+71.4 
+56.9 
+9.6 
+
+No 
+1137 
+103 
+
+9
+5.0
+33.3
+51.4
+50.0
+52.2
+3.5
+
+No
+1037
+115
+
+Memorandum 
+
+Item 
+
+Since FY80 Last Five FYs
+
+Proj Eval by OED by Number 
+Proj Eval by OED by Amt (US$ millions) 
+% of OED Projects Rated U or HU by Number 
+% of OED Projects Rated U or HU by Amt 
+
+18 
+781.0 
+50.0 
+35.1 
+
+2
+117.9
+50.0
+36.1
+
+a. As shown in the Annual Report on Portfolio Performance (except for current FY).
+b. A\erage age of projects in the Bank's country portfolio.
+c. Percent of projects rated U or HU on de\elopment objectives (DO) and/or implementation progress (IP).
+d. As defined under the Portfolio Improvement Program.
+e. Ratio of disbursements during the year to the undisbursed balance of the Bank's portfolio at the
+beginning of the year: Inmestment projects only.
+* All indicators are for projects acti\e in the Portfolio, with the exception of Disbursement Ratio,
+which includes all acti\e projects as well as projects which exited during the fiscal year.
+
+35
+
+ANNEX B3: IFC INVESTMENT OPERATIONS PROGRAM
+
+FY11 
+
+FY12 
+
+1HFY13
+
+Commitments (US$m)
+
+Gross 
+
+Net** 
+
+IFC Own Account (OA) 
+IFC Own Account +
+Mobilization 
+
+88.8 
+
+88.8 
+
+370.5 
+
+370.5 
+
+220.5
+
+220.5
+
+OA Commitments by Sector (%)
+Financial markets (trade
+
+finance) 
+Telecommunications 
+
+Total 
+
+OA Commitments by Investment Instrument (%)
+
+Equity 
+Guarantee 
+Loan 
+Total 
+
+98% 
+2% 
+
+100% 
+
+2% 
+98% 
+-
+100% 
+
+100% 
+-
+
+100% 
+
+-
+100% 
+-
+100% 
+
+99%
+
+10%
+
+100%
+
+-
+99%
+1%
+100%
+
+36
+
+ANNEX B5: SOCIAL INDICATORS
+
+Latest single year 
+
+Same region/income group
+
+POPULATION
+Total population, mid-year (millions) 
+Growth rate (% annual average for period) 
+Urban population (% of population) 
+Total fertility rate (births per woman) 
+
+1980-85 
+
+1990-95 
+
+2005-11 
+
+2.9 
+1.7 
+79.4 
+3.6 
+
+3.5 
+1.9 
+85.0 
+2.7 
+
+4.3 
+1.0 
+89.3 
+
+.. 
+
+M. East 
+& North 
+Africa 
+
+Upper-
+middle-
+income
+
+331.3 
+1.7 
+58.0 
+2.7 
+
+2,452.1
+0.7
+57.4
+1.8
+
+POVERTY
+(% of population)
+National headcount index
+Urban headcount index
+Rural headcount index
+
+INCOME
+GNI per capita (US$) 
+Consumer price index (2005=100) 
+
+INCOMEICONSUMPTION DISTRIBUTION
+Gini index
+Low est quintile (% of income or consumption)
+Highest quintile (% of income or consumption)
+SOCIAL INDICATORS
+Public expenditure
+Health (% of GDP) 
+Education (% of GNI) 
+Net primary school enrollment rate
+(% of age group)
+Total 
+Male 
+Female 
+Access to an improved water source
+(% of population)
+Total 
+Urban 
+Rural 
+Immunization rate
+(% of children ages 12-23 months)
+Measles 
+
+DPT 
+
+Child malnutrition (% under 5 years) 
+Life expectancy at birth
+(years)
+Total 
+Male 
+Female 
+Mortality
+Infant (per 1,000 live births) 
+Under 5 (per 1,000 live births) 
+Adult (15-59)
+Male (per 1,000 population) 
+Female (per 1,000 population) 
+Maternal (per 100,000 live births) 
+Births attended by skilled health staff (%) 
+
+.. 
+
+175 
+
+3,200 
+89 
+
+9,200 
+143 
+
+3,874 
+131 
+
+5,884
+127
+
+.. 
+
+.. 
+
+.. 
+.. 
+.. 
+
+.. 
+.. 
+.. 
+
+23 
+17 
+
+.. 
+
+66 
+64 
+68 
+
+38 
+44 
+
+241 
+181 
+
+.. 
+
+.. 
+
+.. 
+
+2.6 
+
+.. 
+.. 
+.. 
+
+.. 
+.. 
+.. 
+
+85 
+93 
+
+.. 
+
+69 
+68 
+71 
+
+30 
+34 
+
+210 
+150 
+
+.. 
+
+.. 
+
+.. 
+
+.. 
+
+.. 
+.. 
+.. 
+
+.. 
+.. 
+.. 
+
+.. 
+.. 
+
+.. 
+
+.. 
+.. 
+.. 
+
+.. 
+.. 
+
+.. 
+.. 
+.. 
+
+.. 
+
+3.0 
+4.8 
+
+3.0
+4.8
+
+90 
+92 
+88 
+
+89 
+94 
+81 
+
+88 
+89 
+8 
+
+72 
+70 
+74 
+
+27 
+34 
+
+160 
+95 
+88 
+81 
+
+94
+93
+95
+
+93
+98
+86
+
+96
+96
+3
+
+73
+71
+75
+
+17
+20
+
+161
+100
+60
+98
+
+CAS Annex B5. This table w as produced from the CMU LDB system. 
+Note: 0 or 0.0 means zero or less than half the unit show n. Net enrollment rate: break in series betw een 1997 and 1998 due to
+change from ISCED76 to ISCED97. Immunization: refers to children ages 12-23 months w ho received vaccinations before one
+year of age or at any time before the survey.
+
+03/05/13
+
+37
+
+ANNEX B6: KEY ECONOMIC INDICATORS
+
+Actual 
+2008 
+
+Estimte 
+
+Projected
+
+Tndicator 
+National accounts (as % of GDP)
+Gross domestic producta 
+Agriculture 
+Industry 
+
+2007 
+
+2009 
+
+2010 
+
+2011 
+
+2012 
+
+2013 
+
+2014 
+
+2015
+
+100 
+7 
+22 
+71 
+
+100 
+7 
+22 
+71 
+
+100 
+6 
+23 
+70 
+
+100 
+6 
+23 
+71 
+
+100 
+6 
+21 
+74 
+
+100 
+6 
+20 
+73 
+
+100 
+6 
+20 
+73 
+
+100 
+6 
+21 
+73 
+
+100
+6
+21
+73
+
+Services 
+
+Total Consumption 
+Gross domestic fixed investment 
+Government investment 
+Private investment 
+
+97 
+27 
+3 
+24 
+
+99 
+29 
+2 
+27 
+
+93 
+33 
+2 
+31 
+
+94 
+34 
+2 
+32 
+
+88 
+29 
+2 
+26 
+
+91 
+28 
+2 
+26 
+
+90 
+29 
+3 
+26 
+
+89 
+30 
+4 
+27 
+
+89
+30
+4
+26
+
+Exports (GNFSb 
+Imports (GNFS) 
+
+23 
+48 
+
+24 
+53 
+
+21 
+48 
+
+22 
+50 
+
+32 
+50 
+
+29 
+49 
+
+29 
+49 
+
+29 
+50 
+
+30
+50
+
+Gross domestic savings 
+Gross nationalsavingsc 
+
+3 
+17 
+
+1 
+11 
+
+7 
+12 
+
+6 
+12 
+
+12 
+18 
+
+9 
+15 
+
+10 
+14 
+
+11 
+15 
+
+11
+14
+
+Memorandum items
+Gross domestic product 
+(US$ million at current prices)
+GNI per capita (US$, Atlas method) 
+
+25057 
+
+30080 
+
+34651 
+
+37124 
+
+40094 
+
+42945 
+
+46050 
+
+49568 
+
+52887
+
+6330 
+
+7020 
+
+7920 
+
+8740 
+
+9200 
+
+9490 
+
+10090 
+
+10780 
+
+11360
+
+Real annual growth rates (%, calculated from 02 prices)
+Gross domestic product at market prices 
+7.5 
+Gross Domestic Income 
+6.8 
+
+9.3 
+8.7 
+
+8.5 
+11.4 
+
+7.0 
+5.5 
+
+3.0 
+13.9 
+
+1.4 
+0.6 
+
+2.3 
+2.3 
+
+4.0 
+4.0 
+
+3.8
+3.9
+
+Real annual per capita growth rates (%, calculated from 02 prices)
+Gross domestic product at market prices 
+6.1 
+8.3 
+Total consumption 
+4.9 
+8.6 
+Private consumption 
+5.2 
+9.2 
+
+7.7 
+7.5 
+7.5 
+
+6.2 
+4.7 
+4.6 
+
+2.3 
+0.1 
+-0.3 
+
+0.7 
+3.9 
+2.8 
+
+1.5 
+1.4 
+0.7 
+
+3.2 
+2.7 
+3.0 
+
+3.0
+0.2
+-0.5
+
+Balance of Payments (US$ millions)
+Exports (GNFS)b 
+Merchandise FOB 
+Imports (GNFS)b 
+Merchandise FOB 
+Resource balance 
+Net current transfers 
+Current account balance 
+
+6961 
+3526 
+
+9136 
+4410 
+16082 
+15018 
+
+8420 
+
+8962 
+4708 
+18641 
+16386 
+-9679 
+
+12928 
+5318 
+20044 
+17619 
+
+12314 
+5632 
+21148 
+18552 
+
+13315 
+
+14570 
+6903 
+
+15853
+7563
+
+3964 
+
+6226 
+22717 
+
+12075 
+
+16760 
+14945 
+-8340 
+1827 
+-6741 
+
+24637 
+21718 
+-10068 
+3750 
+-8127 
+
+26320
+
+11197 
+-5114 
+2769 
+
+19978 
+-9402 
+
+23202
+-10466
+4041
+-8924
+
+-6947 
+2360 
+-4149 
+
+-7116 
+2429 
+-4866 
+
+-8834 
+
+2601 
+-7588 
+
+3254 
+
+3410 
+
+-1605 
+
+-6204 
+
+-7247 
+
+Net private foreign direct investment 
+Long-term loans (net) 
+Official 
+Private 
+Other capital (net, inc. errors & ommissions) 
+Change in reservesd 
+
+2528 
+5294 
+1672 
+3622 
+-4180 
+-2037 
+
+3346 
+5760 
+543 
+5217 
+-1497 
+-3461 
+
+3678 
+10286 
+-115 
+10401 
+676 
+-7899 
+
+3793 
+1637 
+-98 
+1735 
+5482 
+-3325 
+
+2731 
+2797 
+-31 
+2828 
+1334 
+-1996 
+
+3312 
+959 
+-80 
+1040 
+3471 
+-1538 
+
+3560 
+69 
+-10 
+79 
+5239 
+-1621 
+
+3848 
+-64 
+-91 
+27 
+5975 
+-1632 
+
+4168
+730
+-96
+827
+4897
+-871
+
+Memorandum items
+Resource balance (% of GDP) 
+Real annual growth rates ( YRO2 prices)
+Merchandise exports (FOB) 
+Primary 
+Manufactures 
+Merchandise imports (CIF) 
+
+-20.4 
+
+-23.1 
+
+-24.1 
+
+-26.1 
+
+-17.7 
+
+-20.6 
+
+-20.4 
+
+-20.3 
+
+-19.8
+
+23.7 
+26.9 
+21.9 
+15.5 
+
+11.6 
+21.2 
+6.0 
+17.8 
+
+-6.0 
+-9.6 
+-3.6 
+19.8 
+
+16.3 
+10.4 
+20.0 
+2.9 
+
+9.5 
+38.8 
+-7.6 
+-4.3 
+
+3.8 
+6.3 
+1.6 
+2.3 
+
+7.5 
+-8.8 
+22.5 
+4.0 
+
+7.7 
+2.1 
+11.5 
+5.0 
+
+6.4
+5.0
+7.2
+3.7
+
+(Continued)
+
+38
+
+Lebanon - Key Economic Indicators
+(Continued)
+
+Inidicator 
+
+2007 
+
+Actual 
+2008 
+
+2009 
+
+2010 
+
+Fstimate 
+2011 
+
+2012 
+
+Projected
+2013 
+2014 
+
+2015
+
+Public finance (as % of GDP at market prices)e
+Current revenues 
+Current expenditures 
+Current account surplus (+) or deficit (-) 
+Capital expenditure 
+Foreign financing 
+
+24.6 
+31.2 
+-6.6 
+2.7 
+5.5 
+
+24.1 
+31.1 
+-7.0 
+1.8 
+-1.0 
+
+24.7 
+31.8 
+-7.2 
+1.6 
+-0.3 
+
+22.8 
+29.2 
+-6.4 
+1.8 
+-0.3 
+
+23.5 
+28.0 
+-4.5 
+1.8 
+7.5 
+
+23.0 
+29.4 
+-6.5 
+2.4 
+2.2 
+
+23.2 
+29.1 
+-5.9 
+3.0 
+0.1 
+
+23.5 
+28.1 
+-4.7 
+3.6 
+-0.1 
+
+23.5
+28.0
+-4.5
+3.8
+1.4
+
+Monetary indicators
+M2/GDP 
+Growth ofM2 (%) 
+Private sector credit growth / 
+total credit growth (%)
+
+Price indices(YR02 =100)
+Merchandise export price index 
+Merchandise import price index 
+Merchandise terms of trade index 
+
+Real exchange rate (US$/LCU) 
+
+Real interest rates
+Consumer price index (% change) 
+GDP deflator (% change) 
+
+277.1 
+10.9 
+62.4 
+
+266.5 
+15.5 
+72.1 
+
+284.7 
+23.1 
+50.9 
+
+298.0 
+12.1 
+91.1 
+
+295.5 
+7.1 
+80.8 
+
+292.8 
+6.1 
+51.2 
+
+294.9 
+8.0 
+52.4 
+
+301.4 
+10.0 
+65.5 
+
+310.7
+10.0
+74.0
+
+109.4 
+114.3 
+95.7 
+
+191.6 
+
+122.5 
+130.2 
+94.1 
+
+185.9 
+
+117.2 
+112.4 
+104.3 
+
+191.8 
+
+119.7 
+121.3 
+98.7 
+
+196.8 
+
+123.5 
+142.2 
+86.9 
+
+201.0 
+
+126.0 
+127.9 
+98.5 
+
+205.9 
+
+129.6 
+132.5 
+97.8 
+
+210.8 
+
+133.4 
+137.1 
+97.3 
+
+215.9 
+
+137.4
+141.3
+97.3
+
+221.0
+
+4.7 
+3.9 
+
+10.2 
+9.9 
+
+0.1 
+6.2 
+
+2.9 
+0.1 
+
+5.7 
+4.9 
+
+5.7 
+5.6 
+
+4.9 
+4.8 
+
+3.7 
+3.5 
+
+3.0
+2.8
+
+a. GDP at factor cost
+b. "GNFS" denotes "goods and nonfactor services."
+c. Includes net unrequited transfers excluding official capital grants.
+d. Includes use of IMF resources.
+e. Consolidated central government.
+f "LCU" denotes "local currency units." An increase in US$/LCU denotes appreciation.
+
+39
+
+ANNEX B7: KEY EXPOSURE INDICATORS
+
+Actual 
+200)8 
+
+Estirrusted 
+2011 
+
+Projected
+2014 
+
+Idicator 
+
+2007 
+
+2009 
+
+2010 
+
+2012 
+
+2013 
+
+2015
+
+Total debt outstanding and 
+
+63579 
+
+65582 
+
+73043 
+
+78956 
+
+87493 
+
+16057 
+
+16890 
+
+21040 
+
+19584
+
+disbursed (TDO) (US$m)a
+
+Net disbursements (US$m)a 
+
+6962 
+
+1998 
+
+7495 
+
+5937 
+
+8505 
+
+3575 
+
+2778 
+
+3339 
+
+753
+
+Total debt service (TDS) 
+
+1558 
+
+1633 
+
+1142 
+
+974 
+
+1084 
+
+1193 
+
+890 
+
+1171 
+
+2098
+
+(US$m)a
+
+Debt and debt service indicators
+
+(%)
+
+TDO/XGSb 
+
+499.4 
+
+466.5 
+
+602.2 
+
+603.5 
+
+511.6 
+
+93.2 
+
+91.0 
+
+103.2 
+
+88.8
+
+TDO/GDP 
+
+253.7 
+
+218.0 
+
+210.8 
+
+212.7 
+
+218.2 
+
+37.4 
+
+36.7 
+
+42.4 
+
+37.0
+
+TDS/XGS 
+
+12.2 
+
+11.6 
+
+9.4 
+0.0 
+
+7.4 
+0.0 
+
+6.3 
+0.0 
+
+6.9 
+0.0 
+
+4.8 
+0.0 
+
+5.7 
+0.0 
+
+9.5
+0.0
+
+Concessional/TDO 
+
+0.0 
+
+0.0 
+
+IBRD exposure indicators (%)
+JBRD DS/public DS 
+
+6.6 
+
+10.0 
+
+10.7 
+
+3.2 
+
+5.9 
+
+5.9 
+
+8.0 
+
+5.1 
+
+2.4
+
+Preferred creditor DS/public 
+DS (%)
+
+16.2 
+
+15.6 
+
+29.5 
+
+31.3 
+
+34.1 
+
+29.9 
+
+34.6 
+
+23.5 
+
+11.7
+
+IBRD DS/XGS 
+
+0.5 
+529 
+
+1.0 
+
+0.7 
+
+0.2 
+
+0.4 
+
+0.4 
+
+0.3 
+
+0.3 
+
+0.2
+
+IBRD TDO (US$m)d 
+
+458 
+
+408 
+
+411 
+
+521 
+
+481 
+
+445 
+
+429 
+
+230
+
+Of which present value of
+
+guarantees (US$m)
+Share oflBRDportfolio (%) 
+IDA TDO (US$m)d 
+
+0 
+0 
+
+0 
+0 
+
+0 
+
+0 
+
+1 
+
+0 
+
+0 
+
+0 
+
+0
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0
+
+JFC (US$m)
+
+Loans
+Equity and quasi-equity /c
+
+MIGA
+
+MIGA guarantees (US$m)
+
+a. Includes public and publicly guaranteed debt, private nonguaranteed, use of IMF credits and net short-
+
+term capital.
+
+b. "XGS" denotes exports of goods and services, including workers'remittances.
+
+c. Preferred creditors are defined as IBRD, IDA, the regional multilateral development banks, the IMF, and the
+
+Bank for International Settlements.
+
+d. Includes present value of guarantees.
+
+e. Includes equity and quasi-equity types of both loan and equity instruments.
+
+40
+
+Closed Projects 
+
+25
+
+IBRD/IDA*
+
+Total Disbursed (Active) 
+
+of whtich has been repaid 
+
+Total Disbursed (Closed) 
+of which has been repaid 
+Total Disbursed (Active + Closed) 
+of which has been repaid 
+
+Total Undisbursed (Active) 
+
+Total Undisbursed (Closed) 
+
+Total Undisbursed (Active Closed) 
+
+139.09
+48.80
+375.32
+
+542.81
+
+514.41
+591.60
+
+323.39
+0.00
+323.39
+
+Active Projects 
+
+ANNEX B8A: IBRD OPERATIONS PORTFOLIO AND GRANTS
+
+As of March 31, 2013
+
+Last PSR 
+
+Supervision Rating 
+
+Original Amount in US$ Millions 
+
+Difference Between
+Expected and Actual
+
+Disbursementse
+
+Project ID 
+
+Project Name 
+
+Development 
+Objectives 
+
+Implementation 
+Progress
+
+Fiscal Year 
+
+IBRD 
+
+IDA 
+
+GRANT 
+
+Cancel. 
+
+Undisb. 
+
+Orig. Frm ReVd
+
+P050529 
+P118187 
+P111602 
+P111849 
+P034038 
+P127306 
+P103063 
+Overall Result 
+
+LB - Cultural Heritage and Urban Dev. 
+LB - Education Development Project II 
+LB-EmergencyFiscalManagementReform 
+LB - ESPISP 2 
+LB - Urban Transport Development Project 
+LB Supporting Innovation in SMEs Project 
+LB- Greater Beirut Water Supply 
+
+MS 
+MU 
+MS 
+MU 
+S 
+S 
+MU 
+
+MS 
+MU 
+MS 
+MS 
+S 
+S 
+MU 
+
+2003 
+2011 
+2009 
+2009 
+2002 
+2013 
+2011 
+
+58.5 
+40.0 
+
+134.7 
+30.0 
+200.0 
+463.2 
+
+4.0 
+6.0 
+
+10.0 
+
+27.3 
+39.9 
+1.1 
+1.8 
+27.3 
+30.0
+198.9 
+326.3 
+
+0.3 
+7.5 
+1.1
+1.8 
+-42.4 
+
+48.9
+17.2 
+
+0.3
+0.2
+
+1.8
+27.3
+
+29.6
+
+41
+
+Commitment 
+Fiscal Year 
+
+Institution 
+Short Name 
+
+'2007 
+2013 
+2013 
+2013 
+2007 
+2013 
+2013 
+'2008 
+2010 
+2013 
+2013 
+'2011 
+'2005 
+Total Portfolio 
+
+ADMIC 
+AMEEN 
+BBAC 
+BLC Bank 
+BLOM 
+Bank Beirut II 
+Banque Libano F 
+Butec Holdings 
+Byblos Bank 
+CL sal 
+Fransabank 
+MobiNetS 
+SIS Adma 
+
+LN 
+ET 
+QL + QIE 
+GT 
+R 
+ALL 
+Cmtd - IFC Cmtd - IFC Cmtd - IFC Cmtd - IFC Cmtd - IFC Cmtd - Part 
+4.60 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+71.43 
+0 
+0 
+2.00 
+0 
+78.03 
+
+0 
+0 
+4.59 
+4.50 
+0 
+21.32 
+16.50 
+0 
+0 
+6.12 
+42.86 
+0 
+0 
+95.89 
+
+0 
+2.00 
+0 
+0 
+6.00 
+0 
+0 
+0 
+0 
+3.45 
+1.84 
+0 
+1.64 
+14.93 
+
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+15.00 
+0 
+0 
+0 
+0 
+0 
+15.00 
+
+LN 
+Out - IFC 
+
+0 
+0 
+0 
+0 
+6.00 
+0 
+0 
+0 
+0 
+3.45 
+1.84 
+0 
+1.64 
+12.93 
+
+ET 
+Out - IFC 
+4.60 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+71.43 
+0 
+0 
+2.00 
+0 
+78.03 
+
+Outstanding
+
+QL + QE 
+Out - IFC 
+
+GT 
+RM 
+ALL
+Out - IFC Out - IFC Out - Part
+
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+15.00 
+0 
+0 
+0 
+0 
+0 
+15.00 
+
+0 
+0 
+4.59 
+4.49 
+0 
+21.32 
+16.50 
+0 
+0 
+2.40 
+38.57 
+0 
+0 
+109.34 
+
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+
+ANNEX B8B: STATEMENT OF IFC's COMMITTED AND OUTSTANDING PORTFOLIO
+
+Amounts in US Dollar Millions
+Accounting Date as of: 03/31/2013
+
+Region(s):Middle East and North Africa
+Country(s) : Lebanon
+
+ECommitted 
+
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+
+42
+
+ANNEX B8c: MIGA OUTSTANDING EXPOSURE
+
+Statement of MIGA'S Exposure
+including this and other projects approved by the Board
+in Lebanon as of March 31, 2013
+
+1. MIGA'S EXPOSURE (CONTINGENT LIABILITY)
+Transfer 
+Expropriation War & Civil 
+Restriction 
+Disturbance 
+
+Breach of 
+Contract 
+
+Non Honoring of Maximum
+Sovereign Financial
+Obligations
+
+US$ million 
+
+Gross Exposure 
+% of total portfolio 
+
+0.0 
+0.0 
+
+0.0 
+0.0 
+
+0.0 
+0.0 
+
+0.0 
+0.0 
+
+0.0 
+0.0 
+
+0.0
+0.0
+
+Net Exposure 
+% of total portfolio 
+
+0.0 
+0.0 
+
+0.0 
+0.0 
+
+0.0 
+0.0 
+
+0.0 
+0.0 
+
+0.0 
+0.0 
+
+0.0
+0.0
+
+CUP 
+
+0.0 
+
+0.0 
+
+0.0 
+
+0.0 
+
+0.0 
+
+0.0
+
+Current Amount* 
+* On a gross basis
+
+0.0 
+
+0.0 
+
+0.0 
+
+0.0 
+
+0.0 
+
+0.0
+
+2. NET EXPOSURE BY SECTOR
+
+Lebanon 
+US$ million 
+
+Middle East and North Africa 
+US$ million 
+% 
+
+MIGA Worldwide
+US$ million 
+
+% 
+
+%
+
+Agribusiness 
+
+0.0 
+
+0.0 
+
+2.5 
+
+0.4 
+
+163.3 
+
+2.6
+
+Construction 
+
+0.0 
+
+0.0 
+
+0.0 
+
+0.0 
+
+5.8 
+
+0.1
+
+Financial 
+Financial Services 
+General Banking 
+Investment Fund 
+Leasing 
+Mortgage 
+
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+
+2,074.4 
+14.1 
+1,758.2 
+0.0 
+181.7 
+120.4 
+
+33.1
+0.2
+28.1
+0.0
+2.9
+1.9
+
+Infrastructure 
+Electric, Gas and Sanitary Services 
+Power 
+Telecommunication 
+Transportation 
+Water Transportation 
+Water Supply 
+Other 
+
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+
+259.8 
+3.7 
+0.0 
+67.5 
+0.0 
+188.6 
+0.0 
+0.0 
+
+44.1 
+0.6 
+0.0 
+11.5 
+0.0 
+32.0 
+0.0 
+0.0 
+
+2,672.6 
+67.0 
+808.3 
+536.6 
+609.0 
+291.2 
+280.5 
+80.0 
+
+42.7
+1.1
+12.9
+8.6
+9.7
+4.6
+4.5
+1.3
+
+Manufacturing 
+
+0.0 
+
+0.0 
+
+145.3 
+
+24.7 
+
+460.9 
+
+7.4
+
+Mining 
+
+0.0 
+
+0.0 
+
+0.0 
+
+0.0 
+
+170.7 
+
+2.7
+
+Oil and Gas 
+
+0.0 
+
+0.0 
+
+177.7 
+
+30.2 
+
+436.5 
+
+7.0
+
+Retail 
+
+0.0 
+
+0.0 
+
+0.0 
+
+0.0 
+
+118.4 
+
+1.9
+
+Services 
+
+0.0 
+
+0.0 
+
+3.4 
+
+0.6 
+
+157.6 
+
+2.5
+
+Tourism 
+
+0.0 
+
+0.0 
+
+0.0 
+
+0.0 
+
+5.5 
+
+0.1
+
+Total 
+
+0.0 
+
+0.0 
+
+588.7 
+
+100.0 
+
+6,265.7 
+
+100.0
+
+43
+
+IBRD 33433R
+
+35 °30'E 
+
+36°00'E 
+
+36°30'E
+
+7O 
+
+TO 
+
+, 
+
+Hims
+
+¯ 
+
+Al Hamiia 
+
+Tall Kolokh
+
+LBANN- 
+
+Qoubauyat
+
+LE NON-Halba
+
+34°30'N 
+
+34°3 0 'N
+
+TripoliAbou 
+
+MoFuna 
+
+Al usa
+
+Zhgarta 
+
+Hermel
+
+NORT H
+
+Chekka 
+
+LEBANON
+
+Sib'ila 
+Mhin
+
+i
+
+Amioun
+
+Bcharri• 
+
+O
+
+Doumnat 
+
+Al Labwýah
+
+Mediterranean 
+
+oB
+
+Al 
+
+Aqurah 
+
+IE ANTTWN
+
+NoSa 
+
+en 
+
+Jbeilo 
+
+'A'o 
+
+Nabkd 
+
+y ® NAINL 
+IA
+
+\Q 
+
+Badibeck
+
+34°00'N 
+
+Jounie 
+
+34°00'N
+
+M OUNT
+
+BEIRUT 
+
+R EA O
+
+BEIRIJI ntilyasn 
+
+B E,Ko A
+0 
+
+Baab a .rHammanarZah 
+
+e
+
+m m a n ap 
+
+a he h 
+
+T O u
+
+AzZabadani
+
+Damour
+
+Beit
+ed Dine
+
+Jieh 
+
+fT7
+
+4Joub Jannine, 
+
+ADra
+
+Saida
+
+JezzineQaraaoun
+
+33°30'N 
+
+El Zahrani 
+
+Rachaiya 
+
+. ....
+
+33 ý30'N
+
+10 
+
+20 
+
+30 Kilometers
+
+N e 
+
+•0 
+
+10 
+
+20 M21es
+60'
+
+NaaiyhMar.ylayoun 
+
+, 
+
+Tyre 
+
+SOAin H 
+
+_AU 
+
+E 
+
+-
+
+LEBANON
+
+L ~ ~ ~ 
+
+I E0 O o o°a 
+
+SELECTED CITIES AND TOWNS
+GOVERNORATE 
+(MOHAFAZAT) 
+CAPITALS
+
+Tibnine 
+
+Hula 
+
+smoae 
+
+Naqorq//Thiý 
+
+pýd.d 
+-Pi Unpiwa p ofæ 
+
+® 
+
+NATIONAL CAPITAL
+
+Naor 
+
+Bent Jbail 
+
+byIVR
+
+Rmaid 
+
+.
+
+G 
+
+n 
+
+nT'0IVR
+
+adot ~ ~ ~ 
+
+°r 
+
+nooo 
+
+, de~ntoan 
+
+MAIN ROADS
+
+TO 
+
+on his map do not in, o
+
+Nahoriyyc 
+
+the part of The Wo d Bank 
+11 ý 
+
+-
+
+RAlILROADS
+
+33°0 'N 
+
+tus 
+
+............".. GOVERNORATE (MOHAFAZAT) BOUNDARIES
+
+b.nde o sc 
+
+- --
+
+INTERNATIONAL BOUNDARIES
+
+35°30'E 
+
+36°00'Ej
+
+MAY 2011
+
+

@@ -1,0 +1,5372 @@
+d
+e
+
+z
+
+i
+
+r
+
+o
+h
+
+t
+
+u
+
+A
+
+e
+
+r
+
+u
+
+s
+
+o
+
+l
+
+c
+s
+
+i
+
+D
+
+c
+
+i
+l
+
+b
+u
+
+P
+
+d
+e
+
+z
+
+i
+
+r
+
+o
+h
+
+t
+
+u
+
+A
+
+e
+
+r
+
+u
+
+s
+
+o
+
+l
+
+c
+s
+
+i
+
+D
+
+c
+
+i
+l
+
+b
+u
+
+P
+
+d
+e
+
+z
+
+i
+
+r
+
+o
+h
+
+t
+
+u
+
+A
+
+e
+
+r
+
+u
+
+s
+
+o
+
+l
+
+c
+s
+
+i
+
+D
+
+c
+
+i
+l
+
+b
+u
+
+P
+
+d
+e
+
+z
+
+i
+
+r
+
+o
+h
+
+t
+
+u
+
+A
+
+e
+
+r
+
+u
+
+s
+
+o
+
+l
+
+c
+s
+
+i
+
+D
+
+c
+
+i
+l
+
+b
+u
+
+P
+
+Document of  
+The World Bank 
+FOR OFFICIAL USE ONLY 
+
+Report No. 64555-BW 
+
+INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT 
+
+COUNTRY PARTNERSHIP STRATEGY PROGRESS REPORT 
+
+FOR THE  
+
+REPUBLIC OF BOTSWANA 
+
+FOR THE PERIOD FY09 – FY13 
+
+October 5, 2011 
+
+Southern Africa Country Department 1 
+Africa Region 
+
+This document has a restricted distribution and may be used by recipients only in the performance of their 
+official duties.  Its contents may not otherwise be disclosed without World Bank authorization. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BOTSWANA 
+COUNTRY PARTNERSHIP STRATEGY 
+PROGRESS REPORT 
+
+CURRENCY EQUIVALENTS 
+Currency Unit = Botswana Pula (BWP) 
+US$1 = BWP 6.54 (at July 31, 2011) 
+BWP 1 = US$ 0.15285 
+
+WEIGHTS AND MEASURES 
+Metric System 
+
+FISCAL YEAR 
+April 1 – March 31 
+
+Vice President: 
+Country Director: 
+Country Manager 
+Task Team: 
+
+Obiageli Katryn Ezekwesili 
+Ruth Kagia 
+Constantine Chikosi 
+Tom Buckley, Tim Gilbo, Zeinab Partow 
+
+This CPS Progress Report benefited from contributions from the Botswana Country Team, including Varadan 
+Atur, Jean-Christophe Caret, Sheila Dutta, Tazeen Fasih, Juan Gaviria, Tim Gilbo, Marcus Wishart, Riham 
+Shendy, Supee Teravaninthorn, Fang Xu and Chunlin Zhang under the overall guidance of the Country 
+Director, Ruth Kagia.  Valuable peer review comments from institutional reviewers are also gratefully 
+acknowledged. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FOR OFFICIAL USE ONLY 
+
+ACRONYMS AND ABBREVIATIONS 
+
+AAA 
+ART 
+BAIS 
+BDP 
+BIDPA 
+BMC 
+BNAPS 
+BPC 
+BTC 
+BWP 
+CCS 
+
+CBM 
+CPS 
+DWNP 
+DWR 
+
+Analytic and Advisory Activities 
+Anti-Retroviral Therapy 
+Botswana AIDS Impact Survey 
+Botswana Democratic Party 
+Botswana Institute for Development Policy Analysis 
+Botswana Meat Commission 
+Botswana National AIDS Program Support Project 
+Botswana Power Corporation 
+Botswana Telecommunications Corporation 
+Botswana Pula 
+Carbon Capture and Storage 
+
+Coal Bed Methane 
+Country Partnership Strategy 
+Department of Wildlife and National Parks 
+Department of Water Resources 
+
+CWIS 
+
+Core Welfare Indicators Survey 
+
+CSP 
+Concentrated Solar Power 
+EU 
+European Union 
+ESKOM 
+Electricity Supply Commission (South Africa) 
+ESW 
+Economic and Sector Work 
+FIRST 
+Financial Sector Reform and Strengthening Trust Fund 
+FSAP 
+Financial Sector Investment Program 
+FSDS 
+Financial Sector Development Strategy 
+GCM 
+Global Climate Models 
+GDP 
+ Gross Domestic Product 
+GEF 
+Global Environment Facility 
+GIA 
+Government Investment Account 
+GICO 
+Government Implementation and Coordination Office 
+HIV/AIDS Human Immunodeficiency Virus/Acquired Immune 
+Deficiency Syndrome 
+International Bank for Reconstruction and Development 
+Investment Climate Assessment 
+Industrial and Commercial Bank of China 
+Institutional Development Fund 
+International Finance Corporation 
+International Monetary Fund 
+Government of the Botswana  
+
+IBRD 
+ICA 
+ICBC 
+IDF 
+IFC 
+IMF 
+GoB 
+
+NBFI 
+NDP 
+OFID 
+OPRC 
+
+PEFA 
+
+ITP 
+Integrated Transport Project 
+kW 
+Kilowatt 
+MAP 
+Multi-country HIV/AIDS Program 
+M&E 
+Monitoring and evaluation 
+MIC 
+Middle Income Country 
+MIGA 
+Multilateral Investment Guarantee Agency 
+MTEF 
+Medium-Term Expenditure Framework 
+MSME 
+Micro, Small, Medium Enterprises 
+MW 
+Megawatt 
+NACA 
+National AIDS Coordinating Agency 
+NBFIRA Non-Bank Financial Institutions Regulatory 
+Authority 
+Non-Bank Financial Institutions 
+National Development Plan 
+OPEC Fund for International Development 
+Output and Performance-Based Road 
+Contracting 
+Public Expenditure and Financial 
+Accountability 
+Performance-Based Budgeting 
+Public Expenditure Review 
+Public Financial Management 
+Progress Report 
+Regional Environmental and Social Assessment 
+Southern African Development Community 
+Statistics Botswana 
+Southern African Power Pool 
+Sub-Saharan Africa 
+Sexually Transmitted Infections 
+Technical Assistance 
+Tuberculosis 
+Trust Fund for Statistical Capacity Building 
+
+PBB 
+PER 
+PFM 
+PR 
+RESA 
+SADC 
+SB 
+SAPP 
+SSA 
+STI 
+TA 
+TB 
+TFSCB 
+
+UN 
+United Nations 
+UNAIDS United Nations Joint Program on HIV/AIDS 
+UNDP 
+United Nations Development Program 
+WRM 
+Water Resources Management 
+WUC 
+Water Utilities Corporation 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+I. 
+II. 
+III. 
+
+TABLE OF CONTENTS 
+INTRODUCTION.......................................................................................................... 1 
+COUNTRY CONTEXT................................................................................................. 2 
+PROGRESS THROUGH FY11 .................................................................................... 5 
+Pillar One:  Enhancing Public Sector Effectiveness ........................................................ 5 
+Pillar Two: Fighting HIV/AIDS and Improving Education Outcomes ........................... 6 
+Pillar Three:  Increased Competitiveness – Infrastructure and the Climate for 
+Investment and Growth .................................................................................................... 8 
+Pillar Four:  The Environment ....................................................................................... 11 
+Program Delivery and Portfolio Performance ............................................................... 12 
+Lessons Learned ............................................................................................................. 13 
+CPS Relevance ............................................................................................................... 14 
+IV.  GOING FORWARD .................................................................................................... 14 
+V. 
+RISKS AND CREDITWORTHINESS ...................................................................... 16 
+
+Tables and boxes 
+Table 1: Selected Economic Indicators ........................................................................................... 3 
+Table 2: Planned vs. Actual IBRD Financial Support .................................................................. 12 
+
+Box 1: Morupule B Generation and Transmission Project – Summary of Progress .................... 10 
+
+Annexes 
+Annex 1: CPS Results Matrix ....................................................................................................... 17 
+Annex 2: Botswana at a Glance .................................................................................................... 24 
+Annex 3: Selected indicators of Bank Portfolio Performance and Management ......................... 27 
+Annex 4: IFC Investment Operations Program ............................................................................ 28 
+Annex 5: Summary of Nonlending Services ................................................................................ 29 
+Annex 6: Key Economic Indicators .............................................................................................. 30 
+Annex 7: Key Exposure Indicators ............................................................................................... 32 
+Annex 8: Operations Portfolio (IBRD/IDA and Grants) .............................................................. 33 
+Annex 9:  Committed and Disbursed Outstanding Investment Portfolio (IFC) ........................... 34 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+I. 
+
+INTRODUCTION 
+
+1. 
+The Country Partnership Strategy (CPS) for Botswana was considered by the Board on May 
+21, 2009.  At that time Botswana was dealing with the immediate impacts of the global financial crisis, 
+which from late 2008 had begun to have profound macroeconomic impacts on Botswana. Through 
+prudent economic management and sound governance Botswana had sustained high levels of growth for 
+many years, largely based on the export of rough diamonds, and built foreign reserves of some 80 percent 
+of GDP at end 2008, representing over two years of imports.  However, the crisis saw diamond retail sales 
+plummet globally, and Botswana’s diamond exports fell by about 40 percent between October 2008 and 
+May 2009, with the contribution of diamonds to revenues falling from 44 percent to 31 percent between 
+the 2007/08 and 2009/10 financial years. 
+
+2. 
+The onset of the crisis coincided with the preparation of the tenth National Development Plan 
+(NDP10) by the Government of the Botswana (GoB).  The seven year NDP10, within the framework of 
+Botswana’s long-term development strategy, Vision 2016, outlined a significant program of investment 
+focused on identified growth opportunities in tourism, energy, agriculture, financial services and 
+manufacturing.  The advent of the crisis however highlighted Botswana’s vulnerability to reduced 
+diamond exports.  With revenues reduced in the short-term, and against the backdrop of a secular decline 
+in diamond exports and eventual exhaustion of the resource1, the NDP10 program added urgency to the 
+long recognized need for Botswana to diversify its economy and establish new drivers of economic 
+growth.  The NDP10 program implied substantial fiscal deficits in the short term, and thus new sources of 
+finance have been actively sought.  These have included running down of reserves, borrowing from 
+international financial institutions, and accessing the domestic credit market. 
+
+3. 
+The CPS outlined a substantial program of World Bank re-engagement in Botswana. While the 
+first IDA operation to Botswana was approved in 1964, in the fifteen years to 2009 there had been little 
+demand for Bank financing, and the Bank’s engagement had been limited to small pieces of analytic 
+work.  However, the GoB sought the Bank’s expertise in the design of the National HIV/AIDS prevention 
+strategy in 2007, which spurred a substantial increase in both lending and AAA activity.  An 
+unprecedented energy crisis in Southern Africa developing at the same time, with substantial implications 
+for Botswana, also opened a window for dialogue in the infrastructure sectors.  In response to this 
+growing interest in Bank support and consistent with Botswana’s vision and development strategy, the 
+CPS outlined a program of support focusing on four elements of the Government’s development agenda:  
+(i) enhancing public sector effectiveness; (ii) fighting HIV/AIDS and improving education outcomes; (iii) 
+increasing competitiveness – through infrastructure development and improving the climate for 
+investment and growth; and (iv) the environment.   
+
+4. 
+The strategy outlined in the CPS is aligned with the new Africa Strategy and its emphasis on 
+improving competitiveness and employment while addressing vulnerabilities and resilience, as well as 
+the Regional Integration Assistance Strategy for Sub-Saharan Africa2.  In particular, the CPS 
+emphasizes infrastructure investment and AAA to support the policy reforms needed to help Botswana 
+diversify its economy, making it more competitive and less reliant on diamond exports.  In line with the 
+
+1 Establishing the likely remaining lifetime of Botswana’s diamonds is highly uncertain. The productive capacity of the largest 
+mines is being extended through additional “cuts”, although this will come at a cost to profitability. So while production is likely 
+to continue at roughly current rates for another 10 to 15 years, revenues will fall as the costs of production rise. Given the luxury 
+good and cartel-like nature of the international diamond industry, it is also difficult to predict trends in international prices and 
+demand. 
+2 Africa’s Future and the World Bank’s Support to it, SecM2011-0116; IDA/SecM2011-0121. Partnering for Africa’s Regional 
+Integration: Progress Report on the Regional Integration Assistance Strategy for Sub-Saharan Africa, SecM2011-0181 ; 
+IDA/SecM2011-0217 
+
+1 
+
+ 
+                                                 
+Africa Strategy’s emphasis on increasing resilience, the strategy features support for the Government 
+programs aimed at coping with the HIV/AIDS pandemic and stubbornly high rates of HIV infection in 
+Botswana.  In keeping with the Africa Strategy’s cross-cutting focus on governance and public sector 
+capacity the strategy seeks to enhance government effectiveness with a particular focus on strengthening 
+public expenditure management. Given Botswana’s small population and economy, landlocked 
+geography and interdependence with its neighbors, the strategy also emphasized the importance of 
+regional approaches.   
+
+5. 
+This Progress Report (PR) describes implementation experience through the first three years of 
+the CPS (FY09- FY11).  During this period the Bank’s partnership with Botswana has grown 
+substantially with new financing and guarantees totaling US$620 million and a significant deepening of 
+the policy dialogue based on an expanded program of analytical and advisory activities.  This experience 
+has underscored both the value added that can be provided by the Bank to an African Middle Income 
+Country (MIC) like Botswana, but has also brought to light some implementation difficulties driven by 
+the lack of recent partnership experience between the Bank and Botswana’s institutions.  This report 
+concludes that the CPS program and outcomes remain appropriate and relevant, as does the NDP10 on 
+which it is based, and that strong progress has been recorded against most of the milestones outlined in 
+the Results Matrix of the CPS.  The flexibility built in to the CPS, befitting Botswana’s MIC status, is 
+sufficient to allow for the planned activities in the remaining two years of the CPS to substantially 
+achieve their intended outcomes. 
+
+II. COUNTRY CONTEXT 
+
+6. 
+Botswana continues to benefit from a robust democracy built on sound institutions of 
+governance.  Parliamentary elections were held in Botswana on October 16, 2009, with the Botswana 
+Democratic Party of President Seretse Khama Ian Khama increasing its majority by one seat to hold forty-
+five of the fifty-seven seats in the National Assembly.  As with the previous nine elections since 
+Botswana’s independence in 1966, polling went smoothly and the elections were internationally regarded 
+as free and fair.  The next general election is scheduled to take place in October 2014.  Opposition parties 
+have moved to form a united front in a bid to challenge the long-dominant ruling party. Economic issues, 
+including the need to diversify the economy and reduce government spending in the face of continued 
+global economic uncertainty could emerge as important issues and may increase challenges to the 
+dominance of the ruling party. 
+
+7. 
+Botswana is emerging relatively strongly from the effects of the global crisis which had a severe 
+negative impact on the country’s economic growth and exports.  Government was able to rely on large 
+accumulated savings in the Government Investment Account (GIA, also known as the Pula Fund) to 
+maintain high public spending levels, which limited the contraction in GDP to 4.9 percent in 2009, 
+despite a decline in diamond exports of over 30 percent (in US dollar terms).  Economic growth estimates 
+for 2010 indicate that the economy returned to strong GDP growth of 7.2 percent, as diamond production 
+and exports rebounded from their low levels during the previous year, with exports growing by 33 percent 
+in value terms.  For 2011, GDP growth of around 7 percent is projected, and a return to pre-crisis 
+diamond production and exports is forecast for 2012/13.   
+
+8. 
+The decision to protect public spending levels during the crisis meant that large fiscal, and 
+external, deficits were – and continue to be – accumulated.  While government revenues fell from 40 
+percent of GDP prior to the crisis to 35 percent in FY2009/10, public spending actually rose from 
+pre-crisis levels of around 30 percent of GDP to near 45 percent in 2009/10.  Fiscal deficits of 10.9 and 
+9.7 percent of GDP were recorded in the 2009/10 and 2010/11 financial years. The deficits are being 
+financed largely by drawing upon the GIA, which has dwindled from close to 40 percent of GDP in 2008 
+to about 16 percent currently.  A budget support loan of some 15 percent of GDP from the African 
+
+2 
+
+ 
+Development Bank has completed the government’s financing requirement. In tandem, external debt3 has 
+grown from under 3 percent of GDP pre-2008 to 19 percent today, virtually depleting the government’s 
+external borrowing capacity, which is legally limited to a maximum of 20 percent of GDP.  The external 
+accounts have also shifted from surplus to deficit as a result of the decline in diamond exports, with 
+estimated current account deficits of 5.8 percent of GDP in 2009 and 4.9 percent in 2010.  
+
+Table 1: Selected Economic Indicators 
+
+(percent of GDP unless otherwise noted) 
+
+GDP growth (annual %)  
+Inflation, CPI (annual %, period average) 
+Overall Fiscal Balance 1 
+Total Central Government Debt 1 
+External Public Debt1 
+
+Central Government Revenue & Grants 
+Export Growth (% yoy) 
+Import Growth (% yoy) 
+Current account balance  
+
+2008 
+
+2.9 
+12.6 
+-5.2 
+6.4 
+2.1 
+
+34.0 
+-2.9 
+18.2 
+6.9 
+
+2009 
+
+-4.9 
+8.2 
+-10.9 
+16.1 
+14.2 
+
+34.6 
+-35.7 
+-3.5 
+-5.8 
+
+2010 (p) 
+
+2011 
+Forecast 
+
+2012 
+Forecast 
+
+7.2 
+6.9 
+-9.7 
+19.3 
+19.7 
+
+28.8 
+33.6 
+18.1 
+-4.9 
+
+6.8 
+7.8 
+-5.7 
+20.6 
+20.4 
+
+30.5  
+11.1 
+10.0 
+-4.6 
+
+7.1 
+6.0 
+0.0 
+20.0 
+18.9 
+
+31.2 
+6.0 
+5.7 
+-2.5 
+
+(p) Indicates preliminary data, 
+1  Fiscal year data (April 1 – March 31) 
+Source: Ministry of Finance, Bank of Botswana, IMF, Bureau of Statistics 
+
+9. 
+On the positive side, the enclave nature of the mining sector has helped to contain the effects of 
+the global crisis from spreading to the rest of the economy.  As only about three percent of the labor 
+force is directly employed in mining, unemployment rates are not thought to have risen substantially 
+above pre-crisis levels, although information on the labor market is limited.  By maintaining public 
+spending levels and expanding the public work-fare program, Ipelegeng, the government further helped to 
+reduce the impact of the crisis on wage earners generally and on the poor in particular.  The non-mining 
+private sector, which is highly dependent on government spending, also weathered the crisis fairly well, 
+growing at an estimated 5 percent during 2009 and at over 6 percent in 2010 (but down from peak levels 
+of 10 percent in 2007). And, as has been true for other countries in the region, the small and insulated 
+nature of the financial sector in Botswana protected it from the worst effects of the global crisis.  Banks 
+remain liquid and well capitalized, and although household debt rose to worrisome levels in 2009, this 
+trend was reversed in 2010. 
+
+10. 
+Botswana’s past prudent macroeconomic and fiscal policies have largely paid off, but 
+significant challenges remain, and some risks may have increased with the global crisis.  Downside 
+risks to growth come from weaker than expected global growth, which would have a significant impact 
+on Botswana’s revenues given the elasticity of diamond export to the economic performance of trading 
+partners such as the US, EU and Japan.  And although these threats appear to be broadly balanced by a 
+potentially faster recovery in domestic private investment in the energy and non-diamond mineral sectors, 
+significant global uncertainty, combined with high food and fuel price pressures, little legal scope for 
+increased external indebtedness and a diminished Pula Fund, points to considerable potential risks to a 
+sustained recovery, particularly in the event of shocks. So while accumulated fiscal savings and large 
+international reserves have served their intended role as a cushion to enable a gradual adjustment to 
+adverse circumstances, emphasis on re-building these fiscal buffers as soon as possible would be prudent, 
+
+3 This includes publically guaranteed debt. 
+
+3 
+
+ 
+  
+  
+  
+  
+   
+  
+                                                 
+particularly while diamond prices are high.  Any revenue over-performance, such as higher-than-
+projected SACU income, should therefore be saved.  In the event of multiple shocks, Botswana still holds 
+international reserves that cover nearly 17 months of imports, but cushioning the economy to the same 
+extent as in the crisis would be difficult with a diminished Pula Fund (now at just under 20 percent of 
+GDP, half its level pre-crisis, although still substantial) and very limited access to external debt given that 
+the country is very close to the 20 percent of GDP eternal debt limit – although significant space remains 
+to take on domestic debt.   
+
+11. 
+In the near term, over the next two to three years, the government’s priority will be to return 
+the fiscal accounts to equilibrium. Deficits are projected to remain high this year as major investment 
+projects are completed.  The 2011 Budget Speech set an objective of closing the 2011/12 financial year 
+with a deficit of 6.3 percent of GDP (from an estimated 9.7 percent of GDP 2010/11 ), which would be 
+reduced to zero in 2012/13.  Public spending would decline from 39.9 percent of GDP in 2010/11 to 37.5 
+percent in 2011/12, and to 31.1 percent a year later.  This path implies a virtual halt to new capital 
+spending beyond the completion of ongoing projects, a focus on maintenance of existing infrastructure, 
+and a real reduction in recurrent spending, including in the wage bill. But holding the line on spending is 
+proving difficult, particularly in the case of public sector wages which this year will constitute nearly 30 
+percent of total central government outlays.  Facing a third year without a pay increase as a result of the 
+impact of the crisis on public finances, public sector unions in Botswana went on strike in April.  The 
+confrontation led to the closure of public schools and some medical facilities.  The crisis underscored the 
+fact that reaching a consensus on the spending cuts that are needed to reduce the size of the public sector 
+to levels more consistent with the long term revenue outlook will be a significant challenge in the years 
+ahead.  And while the economic consolidation program is largely expenditure-based, there is scope over 
+time for a greater focus on revenue measures, including broadening the tax base and improving tax 
+administration.  
+
+12. 
+Social protection programs have probably helped to contain the impact of fiscal austerity 
+measures.  The government’s policy of providing a stable food basket to a number of vulnerable and 
+needy groups, a broad school-feeding program reaching all public primary school students, as well as an 
+expanded public work-fare program – Ipelegeng – help to shield large segments of the population from 
+the impact of expenditure reduction and inflation related to food and fuel prices.4  It is, unfortunately, 
+virtually impossible to assess the impact of these social protection programs as data on poverty and 
+unemployment is outdated and irregularly published, and there are no systematic evaluations of the 
+incidence of social protection programs or their impacts. 
+
+13. 
+Looking ahead to the medium- and longer- terms, clarity and vision in three broad areas of 
+economic policy-making will be required: these are (i) public spending reforms; (ii) economic 
+diversification, and; (iii) tackling poverty and inequality.  Quite apart from the impact of the global crisis, 
+Botswana’s economy is beginning to slow down and the dramatic economic growth rates of the 1970s 
+and 1980s will be hard, if not impossible, to match. While this may be natural for a maturing economy 
+whose basic building blocks are in place, it also reflects low productivity associated with a large public 
+sector and a fledgling, largely uncompetitive and inward-looking private sector that is heavily reliant on 
+government spending and contracts.  There is today an acceptance by policymakers that public spending 
+will need to fall from about 40 percent of GDP today to 25-30 percent in the medium-term, more in line 
+with long-term revenue potential. Improvements in the effectiveness and efficiency of public spending 
+will be indispensable for managing this transition.    
+
+4 At this stage, however, there appear to be no firm evidence of generalized price pressures in the economy, largely due to some 
+slack in the non-mining economy.   
+
+4 
+
+ 
+ 
+ 
+                                                 
+14. 
+The diversification agenda has been a central pillar of policy making in Botswana for over two 
+decades.  Although some successes have been achieved, the country is still heavily reliant on diamonds 
+and on the public sector revenues they provide, as became painfully clear in 2008 and 2009.  Regional 
+and international competitiveness are challenges which have not always been clearly targeted by policy. 
+Signals and incentives to domestic and international businesses are mixed and at times at cross purposes.  
+While overall tax rates are low, the increasing demand for exemptions – that are rarely evaluated for their 
+economic merits – risks undermining the broad policy over time. Subsidies to certain sectors are rarely 
+evaluated for their impact and serve as disincentives to investment in what may perhaps be more 
+productive areas with greater long-term potential.     
+
+15. 
+Botswana’s poverty and inequality rates remain too high for a middle income country. 
+Improving the quality of growth and tackling the causes of structural unemployment are critical for 
+poverty reduction.  Here the diversification agenda is crucial to developing Botswana’s labor market and 
+increasing employment opportunities, as the capital intensive nature of mining is partly behind 
+Botswana’s high rates of unemployment and poverty.  While the country achieved gender parity in both 
+primary and secondary education at least a decade ago, important gender disparities persist, particularly in 
+terms of economic empowerment. Public sector reforms will also need to address spending on social 
+protection and insurance, and how it can be more cohesive and better targeted.  The 2010 Public 
+Expenditure Review (PER) found that public spending on social protection was significant, but its impact 
+was diluted by fragmentation of programs, poor targeting, and lack of monitoring and evaluation.  The 
+lack of up-to-date information on the poor and their characteristics, and on the incidence of poverty-
+reduction programs, makes policy-making all the more challenging. 5 
+
+III. 
+
+PROGRESS THROUGH FY11 
+
+Pillar One:  Enhancing Public Sector Effectiveness 
+
+16. Milestones.  The CPS results matrix outlined six Outcomes under Pillar One, and a total of nine 
+milestones/progress indicators against which progress would be evaluated. (Annex 1: CPS Results Matrix 
+– Progress Report).  A summary of progress against these milestones is included in Annex 1, with the 
+main elements described in the paragraphs below. 
+
+17. 
+The Household Income and Expenditure Survey in Botswana is known as the Core Welfare 
+Indicators Survey (CWIS), which was conducted in 2009 and 2010 by the Central Statistics Office (CSO, 
+now Statistics Botswana (SB)).  Data cleaning and processing is currently in the final stages, and the 
+survey data is expected to be made public in October 2011.  The Bank, at the request of government, is 
+providing assistance to SB in the calculation of the poverty line and in the preparation of associated 
+documentation; this assistance includes training to SB staff and other researchers in building a new 
+poverty datum line consistent with international standards.  Government has also expressed interest in 
+enhanced technical assistance from the Bank to support the ongoing transformation of SB into an 
+autonomous and technically excellent institution to increase the quality and credibility of official 
+statistics.   
+
+18. 
+The Bank has developed a substantive dialogue on public expenditure reform and public 
+financial management with government.  This process has enjoyed the leadership and commitment of 
+government, and has contributed to strengthening the momentum for reform.  The on-going engagement 
+began with the Public Expenditure Review (PER) which was delivered to government in FY10.  The PER 
+identifies the challenges in the public spending arena, including the projected decline of mining revenues, 
+
+5 New data on poverty will become available later this year as the results of the Core Welfare Indicators Survey become 
+available.  The most recent Household Income and Expenditure Survey was conducted a decade ago. 
+
+5 
+
+ 
+                                                 
+significant outstanding development needs, and the need to ensure long-term fiscal sustainability in the 
+aftermath of the global crisis during which large fiscal deficits were accumulated and savings depleted.  
+The PER suggests a re-examination of resource allocation and budgeting, with a greater emphasis on 
+fiscal discipline, policy priorities and efficient resource management.  A shift by government to a role less 
+focused on channeling mineral revenues towards the provision of basic infrastructure and social services 
+and more concerned with supporting a dynamic and competitive private sector will be needed.  The 
+ensuing dialogue with government has supported a reform program that includes a move toward a 
+Medium-Term Expenditure Framework (MTEF) and Performance-Based Budgeting (PBB) in order to 
+improve the quality of spending and to enable policy makers to better respond to more constrained and 
+volatile resources in the future.  The PER also takes a closer look at public investment management and 
+social protection as examples of areas where reforms are needed.  A successful PER dissemination 
+workshop in August 2010 added significant detail to the PFM reform agenda, and included South-South 
+exchange and the sharing of experiences from Mauritius and South Africa.  A related activity was the 
+assistance provided by the Bank to the Office of the Accountant General in the Ministry of Finance and 
+development Planning (MFDP) outlining the merits and costs of moving from cash-based to accrual 
+accounting. 
+
+19. 
+The Government’s recently-developed PFM Action Plan reflects recommendations from the 
+PER, and those of other partners including the IMF and the EU, and highlights the GoB’s 
+commitment to budget and financial management reform.  Motivated by the imperative of confronting 
+the prospect of dwindling revenues and thus a smaller government, coupled with important unmet social 
+and economic needs, the Government is seeking to reform its planning and budget system in view of 
+emerging requirements to do more with less, paying greater attention to the quality of expenditures and 
+improvements in the effectiveness and efficiency of public spending. The Action Plan, prepared by the 
+Ministry of Finance and Development Planning (MFDP) foresees a gradual effort to improve financial 
+controls and reform the budget process.  A number of measures have been already been undertaken, 
+including the inclusion of 3-year fiscal projections in the budget speech, a review of project appraisal 
+methodology and practice, and greater public consultations during the budget process.  Nevertheless, 
+given the seriousness of the challenges, more rapid implementation of reforms than now envisioned is 
+warranted.   
+
+20. 
+Extending the dialogue on PEM/PFM to implementation and sequencing issues, a Public 
+Sector Performance Global Expert Team from the Bank provided advice to government in March 2011.   
+The mission concluded that Botswana has some elements of both a MTEF and PBB in place which would 
+facilitate more substantial reforms at a more rapid pace.  The Bank views this agenda as a programmatic 
+engagement that is critical to Botswana’s continued economic success, and will continue its support to the 
+government in this area in accordance with the GoB’s PFM Action Plan. 
+
+Pillar Two: Fighting HIV/AIDS and Improving Education Outcomes 
+
+21. 
+Pillar Two of the CPS seeks to achieve two outcomes: (i) increasing effectiveness of HIV/AIDS 
+prevention efforts and (ii) identifying the skills mismatches between education outcomes and labor 
+market needs. 
+
+22. 
+Botswana continues to experience the second most severe HIV/AIDS epidemic in the world, 
+despite very high investments in the national HIV/AIDS program over the past two decades.  National 
+adult (15-49 years) HIV prevalence is estimated at approximately 24 percent.6 Incidence data, which 
+
+6 Government documents reflect a 17.6 percent national prevalence rate versus the UNAIDS/WHO estimate of 24 percent 
+prevalence.  The difference derives from the Government use of a denominator of “number of individuals tested between 18 
+months to 64 years,” whereas UNAIDS/WHO utilize the global standard of “number of individuals tested between 15-49 years”. 
+
+6 
+
+ 
+                                                 
+monitor new infections over the past year, are perhaps even more alarming, as these figures dramatically 
+highlight the need for a more effective prevention program and strategy.  Incidence of new infections is 
+8.7 percent for young women (aged 25-29) and incidence for adult males (aged 45-49) is 8.1 percent, 
+indicating that over 8 percent of all Batswana in these age groups became newly infected with HIV.   
+
+23. 
+Recent analysis of the major drivers of the Botswana epidemic implicates the role of multiple 
+concurrent partnerships (including age-discordant relationships), limited practice of male 
+circumcision, and inconsistent condom use in high-risk sexual relationships.  Botswana was the first 
+African country to provide no-cost, antiretroviral therapy to its citizens.  It has achieved notable successes 
+in HIV treatment, including development of the medical infrastructure to deliver specialized services.  
+Acceptance of HIV testing also is widespread.  It is estimated that 90 percent of individuals with 
+advanced HIV infection are receiving anti-retroviral therapy in Botswana.  However, the traditionally 
+treatment-oriented national program has resulted in a lesser focus on prevention priorities and outcomes.   
+
+24. 
+Prevention is acknowledged by Government to be the weakest element of its national response to 
+HIV/AIDS.  As noted above, data from recent serosurveys indicates that national infection rates continue 
+to remain remarkably high (e.g. over 40 percent of all pregnant women are seropositive in a number of 
+districts).  In general, awareness of HIV/AIDS is widespread, but in large part this awareness has not 
+translated into sustained behavior change at the population-level.  Although its impact has not been 
+quantified, it appears that the success of the no-cost national treatment program may have inadvertently 
+created a sense of false security at the individual level among those who are both seronegative and 
+seropostive (thereby yielding a possibly widespread “moral hazard”).  
+
+25. 
+Botswana is at the epicenter of tuberculosis and HIV infection in southern Africa; it is 2nd in the 
+world with respect to the magnitude of its HIV epidemic and 6th in the world in terms of tuberculosis 
+burden per capita.  It also has among the lowest TB treatment success rate in the world – 65 percent in 
+2008 against a global target of 85 percent – and one the highest rates of HIV/TB co-infection.   The 
+human dimensions and economic implications of the Botswana epidemic remain unacceptably high – 
+particularly given that both are expected to increase in coming years due to an increasing population 
+requiring treatment, in addition to drug-resistant cases of both HIV and TB infection.  The high-cost of 
+sustaining  the no-cost public anti-retroviral therapy program for a growing HIV positive population (for 
+the lifetime of each patient) poses an increasing challenge to Government, particularly as key donor 
+partners look to scale down their financial support in this area over the next several years.     
+
+26. 
+Given the above epidemic context, the Botswana National Aids Program Support Project 
+(BNAPS) was designed to enhance overall program efficiency while emphasizing HIV prevention.  The 
+US$50 million BNAPS was approved in July 2008 and became effective in June 2009.  The project 
+includes an innovative “buy down” mechanism whereby European Union resources are being used – 
+subject to satisfactory project performance—to lower the cost to Botswana of the IBRD loan.  The 
+National Strategic Framework to combat HIV/AIDS was finalized in July 2010, triggering the first 
+tranche of the European Union's US$20 million Buy-Down grant (co-financing the BNAPS project).  
+However, the Project has experienced a slow start-up and low disbursements as a result of design and 
+implementation challenges, including challenges in country-level program coordination and management.  
+The project is now undergoing restructuring and it is anticipated that the next phase of the operation will 
+intensify focus on the delivery of behavior change interventions, specifically to reduce multiple 
+concurrent partnerships, support advocacy and delivery of safe male circumcision, and delivery of 
+interventions more strongly focused on the prevention needs of women aged 15-34 years.   
+
+27. 
+To address a major technical gap in the design of the prevention program, a Social Assessment 
+was carried out under the BNAPS project to improve understanding of the socio-economic and socio-
+cultural factors that affect HIV/AIDS risk and prevention efforts.  The assessment highlights the socio-
+
+7 
+
+ 
+cultural factors underlying high-risk behaviors.  Chief among these are gender norms that create an 
+imbalance of power between women and men, suggesting that greater empowerment of women could 
+bolster HIV prevention efforts.  The assessment was completed in early FY11, and the study findings will 
+be used to help strengthen service delivery and focus on changing risky behavior. Looking ahead, there is 
+a realization that the chronic nature of the HIV challenge will require a broader approach with 
+implications for the overall health care system, financing, and social insurance programs. Hence, a major 
+focus of the project is to enable a transition from an emergency response to a broader, more strategic and 
+sustainable approach toward the epidemic. Addressing the capacity needs of the National AIDS 
+Coordinating Agency (NACA) is central to this effort.   
+
+Pillar Three:  Increased Competitiveness – Infrastructure and the Climate for Investment and 
+Growth 
+
+28. 
+Pillar Three of the CPS seeks to attain Outcomes in five separate areas, with ten 
+Milestones/Progress Indicators being identified (Annex 1).   
+
+29. 
+The global crisis has brought into sharp focus the need to foster an increasingly dynamic and 
+diverse private sector in Botswana to progressively substitute for Government spending as a driver of 
+growth.  While Botswana has a well articulated diversification strategy, progress in implementing the 
+reforms and initiatives it identifies has been limited.7  The Bank’s support in this area has focused on 
+identifying and developing options to address the key constraints to competitiveness through analytical 
+and advisory services.  Botswana fell two places in the 2011 Ease of Doing Business ranking compared to 
+2010, from 50 to 52 overall. The Bank presented the Doing Business findings at the biennial Botswana 
+National Business Council meeting in September 2010, and subsequently IFC presented the work to the 
+Botswana Economic Advisory Council (BEAC).8 In this way, the Bank Group has helped to focus greater 
+attention on business environment issues and assisted Government in reinvigorating reforms.  Following 
+these presentations IFC’s advisory arm is in discussions with GoB for an ongoing role in advising as to 
+how Botswana can move to rapidly improve its Doing Business ranking.  For its part, the Government has 
+launched an inter-ministerial, committee, led by the Ministry of Trade and Investment, to coordinate and 
+catalyze business environment reforms with a view to making rapid improvements.   
+
+30. 
+The preparation of a Development Policy Review on Competitiveness and Diversification in 
+Botswana began in FY11, for delivery in FY12.  By taking a close look at relevant government policies, 
+the DPR aims to provide fresh analysis regarding the causes of the limited success of Botswana’s 
+diversification efforts to date and to identify measures to spur the private sector in achieving greater 
+regional and global competitiveness. The DPR will focus on the overall incentive framework provided by 
+government (taxes, subsidies, credit schemes, etc.), labor-market related issues, the potential for services 
+to emerge as a growth sector, trade and export competitiveness, and the potential and constraints 
+represented by Botswana’s regional affiliations (SACU and SADC).  The report also focuses on existing 
+sectors in which Botswana has already demonstrated a comparative advantage, but which may benefit 
+from more focused policy attention.   
+
+31. 
+Analytic work on Skills for Economic Diversification is progressing.  A survey of employer and 
+employees has been completed to identify the specific skill needs and skills mismatch in the labor market 
+in Botswana. A series of background papers drawing on the knowledge of international and Batswana 
+experts was completed and discussed at a workshop in December 2010 co-hosted by the Ministry of 
+Education and Skills Development and the World Bank.  Stakeholders acknowledged this as core piece of 
+work for the successful implementation of NDP10, and have requested the Bank to come up with new and 
+
+7 Government of Botswana, Botswana Excellence: A Strategy for Economic Diversification and Growth, November 2008. 
+8 BEAC is a group of key advisors organized by the National Strategy Office to advise The President on economic matters.   
+
+8 
+
+ 
+                                                 
+innovative policy recommendations, including experiences from similar successful case studies.  
+Preliminary results highlight gender disparities finding that women generally face high unemployment 
+rates, are more likely to be poor and a majority of them are found in the informal sector and subsistence 
+agriculture where wages are generally lower. There is therefore a need to come up with labour market 
+policies that can empower women The AAA is expected to be finalized  December 2011. 
+
+32. 
+The policy dialogue on competitiveness and diversification has been supported by additional 
+AAA, including work focusing on regional trade and growth as well as microenterprise.   
+ A report on Harnessing Regional Integration for Trade and Growth in Southern Africa was 
+completed in FY11. The report argues that non-tariff barriers continue to hamper the growth of 
+the trade in goods in the region, while domestic regulatory obstacles make regional integration in 
+services more difficult.  It provides examples of obstacles encountered by some of the largest 
+firms that trade regionally as well as small ones for which the impact of trade barriers is more 
+severe.  
+ A regional Investment Climate Assessment entitled "The Business Environment in Southern 
+Africa: Issues in Trade and Market Integration" was completed in December 2010. 
+
+33. 
+As a follow up to the FY07 Investment Climate Assessment, the Bank, working with the Ministry 
+of Trade and Industry, completed a survey of micro, small and medium enterprises (MSMEs) and 
+accompanying analysis in identifying constraints in the microenterprise sector.  Nevertheless, important 
+gaps in the government’s and Bank’s knowledge persist with respect to diversification and improving 
+the quality of growth.  Much analytical work remains to be done to understand the linkages between 
+diversification, growth and employment, and how to promote competitiveness while ensuring a pattern of 
+growth that addresses structural unemployment and promotes the creation of private sector jobs in the 
+country.  The latest unemployment data, several years out of date, suggest that the unemployed represent 
+about 17 percent of the population, and that youth are over-represented among the ranks of the 
+unemployed.  Unemployment has historically been persistently high, and the rate would be substantially 
+higher were discouraged workers also counted.  There is no information regarding the impact of the 
+global crisis on unemployment (or, for that matter, poverty) levels. Competitiveness indicators do not 
+identify major policy-induced obstacles in terms of labor market rigidity; the high unemployment rate 
+seems to largely reflect both the capital intensity of the mining sector, skills mismatches in the labor 
+market for the non-mining sectors, and also perhaps low productivity and relatively high unit costs of 
+labor. Data in this area is of generally poor quality, however (in addition to the paucity of employment 
+statistics, there is no reliable information on productivity, for instance).  Understanding the relationships 
+at work and identifying the key policy variables to manipulate are challenges for future work.  Clearly, 
+addressing the unemployment problem is also important for the long-term sustainability of growth.   
+
+34. 
+The infrastructure goals of the CPS are closely aligned with the goals of NDP10.  In general 
+Botswana faces significant infrastructure challenges given the large size of the country and the widely 
+dispersed population.  Currently the main challenges include increasing electricity generation capacity 
+and securing supply in the energy sector, addressing water supply and sanitation deficits while 
+implementing the water sector institutional reform, and balancing new development and asset 
+maintenance in the transport sector.  During CPS implementation regional broadband connectivity has 
+also emerged as a key constraint to competitiveness.  As other countries in Africa accelerate the 
+development of their broadband networks and services, Botswana is at risk of falling behind. This is 
+particularly important given the country's landlocked position and the significant role of the service sector 
+in the government's long-term economic development plans.   
+
+35. 
+Transport capacity. The US$186 million IBRD loan for Botswana Integrated Transport Project 
+(ITP) was approved by the Board in June 2009, co-financed by a US$40 million loan from the OPEC 
+
+9 
+
+ 
+Fund for International Development (OFID), and US$159 million from the government budget.  The 
+project seeks to enhance the efficiency of the transport system by building modern business management 
+capacity, and improving the strategic planning aspects of inter-regional transport and critical transport 
+infrastructure.  It also includes an urban traffic improvement program in Greater Gaborone.  
+Implementation of the three critical activities under the project (road asset preservation, urban traffic 
+improvement, and regional transport integration study) has been slow for three main reasons: (i) a need to 
+build capacity in Bank procurement and disbursement procedures resulting in delayed initial 
+disbursements; (ii) the international consultants hired for the design of the Output and Performance Based 
+Road Contracting (OPRC) component performed poorly and the contract had to be terminated and re-
+tendered; and (iii) project management arrangements within the Ministry of Transport and 
+Communication have not functioned efficiently.  Issue (i) has been addressed by intensive supervision 
+and concerted portfolio-wide training efforts by the Bank and implementation performance and 
+disbursement are expected to improve in the months ahead.  Issues (ii) and (iii) have also been resolved 
+with the appointment of a qualified OPRC consultant and agreement on revised project implementation 
+and oversight mechanisms for the project.   
+
+36. 
+The Morupule B Generation and Transmission Project is a pillar of the Bank’s engagement in 
+Botswana.  In October 2009 the Board approved a partial credit guarantee of US$242.7 million and an 
+IBRD loan of US$136.4 million for the project, which is co-financed by AfDB (US$202.5 million), the 
+Government and the Botswana Power Corporation (BPC) (US$498.4 million) and the Industrial and 
+Commercial Bank of China (ICBC), (US$582.3 million) at a total cost of US$1,662 million. The project 
+is a key element of GoB’s plans to ensure energy supply security for Botswana as import availability from 
+South Africa ends, and to further integrate Botswana’s power market into the Southern African Power 
+Pool (SAPP).  The project includes support for a portfolio of measures intended not only to ensure 
+Botswana’s available coal resources are used as efficiently as possible, but also to kick start development 
+of alternative greener sources of energy to feed into the SAPP (see Box 1 for a summary of progress). 
+
+Box 1: Morupule B Generation and Transmission Project – Summary of Progress 
+
+ Progress is satisfactory under all project components. The power station is on track to be completed in 
+October 2012, about two months ahead of schedule. Periodic safeguards reviews have found that the 
+project is on track with all environmental and social safeguards undertakings.  
+ Work is underway to establish a new Energy-Water regulatory agency and a new electricity tariff policy. 
+Consistent with its commitment to get the sector on a sustainable financial footing, the government 
+implemented a 32 percent tariff increase effective May 1, 2010 and another 30 percent adjustment 
+effective June 1, 2011.  As part of this process, BPC is also developing alternatives for a lifeline tariff to 
+protect poorer consumers. 
+ BPC has installed 800,000 compact fluorescent lights and about 29,000 smart meters by end-2010 and 
+aims to install 80,000 by May-2011, which is expected to save about 30 MW (5 percent of peak load) 
+demand. The government has selected a firm to help implement a communications strategy over a 
+15-month duration, including capacity building in BPC and the government.  
+ The government is committed to supporting international efforts to combat climate change and intends to 
+promote initiatives in this regard. At government’s request, the Bank facilitated a workshop in Dec. 2010 
+on PPP for coal bed methane (CBM) development, drawing participation from industry and officials, 
+including from South Africa. There is active interest and progress by private sector (4-5 firms) for 
+exploring and producing CBM for both domestic and export market (mainly to RSA). The government 
+will be hiring a CBM Advisor to fill the knowledge and capacity gap on CBM issues. 
+ A feasibility study for a 200 MW concentrated solar power (CSP) plant is to start imminently (jointly 
+financed with the AfDB). In parallel, a grant of US$1.4 million from the Carbon Capture and Storage 
+Trust Fund (CCS TF) has been approved for awareness and capacity building on CCS in Botswana, 
+which would complement the Government’s interest to undertake a pilot CCS project by end-2013 (using 
+project funds).  
+
+10 
+
+ 
+ 
+37. 
+The CPS also envisioned support for a second power investment: a private sector coal-to-power 
+project at Mmamabula.   The project was driven in 2009 mainly by the prospect of export sales to 
+ESKOM, South Africa’s power utility.  However, despite lengthy negotiations, CIC Energy Corporation, 
+the sponsor of the Project, and ESKOM have not entered into a power sales contract, and the project is 
+now reportedly being restructured, and its future is uncertain.  
+
+Pillar Four:  The Environment 
+
+38. 
+A US$5 million GEF grant was approved to support the Northern Botswana Human-Wildlife 
+Coexistence Project in December 2009.  The project supports activities in three project areas (including 
+13 villages) to pilot and disseminate best international practice in reducing human-wildlife conflict, a 
+source of major tension in affected areas in Northern Botswana.  While start up of the project has been 
+slow due to delays in getting staff on board in the Department of Wildlife and National Parks (DWNP), 
+problems retaining staff, and a lack of familiarity with Bank procurement and safeguard review processes, 
+pilot project activities are underway. Techniques that draw on global experience with human-wildlife 
+coexistence are being introduced in the project areas.  A key challenge is the design of a revised policy 
+framework which builds on the unique experience in Botswana wherein public financing supports 
+compensation for wildlife-related losses to subsistence farmers.  The benefits and costs of this system 
+have been reviewed and will be complemented with household and village level pilot activities which 
+focus on ex-ante prevention of human-wildlife conflict. 
+
+39. 
+Botswana is considering how to make climate change adaptation central to its development.  
+Under the CPS and in response to a request from the GoB, the Bank prepared two analytical pieces to 
+build the knowledge base regarding (i) the environmental implications of implementing NDP10, and (ii) 
+the likely impacts of Climate Change in Botswana.  The Climate Change work developed a first-ever 
+analysis using Global Climate Models (GCM) to predict how climate variability might impact Botswana 
+over the next 50 years.  The results suggest that Botswana faces a wide range of direct and indirect 
+economic impacts due to increased climate variability, including in agriculture and tourism which could 
+be adversely affected by drought.  This work gathered further momentum over the past year.  Building on 
+the Climate Change Policy Note, policy dialogue supported by the Bank‘s Global Expert Team (GET) on 
+Climate Change Adaption is helping the GoB consider how it could make adaptation to climate 
+change/variability central to Botswana’s development.   Planned technical assistance will focus on ways 
+that Botswana could address the climate threat and make the country more resilient and less vulnerable. 
+This would likely require economy-wide work in: sustainable water management; increasing the climate 
+resilience of the key ecosystem on which the country’s world-class nature-based tourism is based; work 
+on agriculture, food security and livestock; and work on health information because of the spatial changes 
+in disease patterns, especially malaria.  
+
+40. Water supply in Botswana will increasingly rely on sources beyond national boundaries, 
+making essential the development of a sound domestic and regional institutional framework and solid 
+analytical capacity.  This is especially the case considering Botswana’s reliance on water-intense sectors 
+such as mining, energy, tourism and agriculture.  Botswana’s water resources are characterized by high 
+dependence on internationally shared and trans-boundary waters, wide spatial variability, and extreme 
+scarcity. The dependency ratio, reflecting that, at 80 percent, the proportion of the total renewable water 
+resources originating outside the country is the highest in southern Africa; all of the country’s five major 
+drainage basins are shared with other SADC Member States. Bank support to the GEF SADC 
+Groundwater and Drought Management Project, hosted by the SADC Water Division in Botswana, is 
+helping to develop consensus among the SADC Member States for a regional strategic approach to 
+defining drought management policies.  A Multi-Sector Investment Opportunity Analysis (MSIOA) for 
+the Zambezi River basin engaged all eight riparian countries in a consultative process to illustrate the 
+
+11 
+
+ 
+benefits of cooperation through a multi-sectoral economic evaluation of water resources development, 
+management options and scenarios.  
+
+41. 
+Botswana’s domestic water sector reform effort is proceeding well with Bank support via a 
+fee-based services arrangement.  A new Water and Wastewater Sector Policy has been drafted and is in 
+the public consultation phase.  It will be submitted to Parliament in its July 2011 session.  The reform 
+program will eventually transfer all responsibility for the provision of retail water and wastewater to the 
+Water Users Corporation (WUC), as opposed to current provision by local governments and the 
+Department of Water Affairs (DWA).  To date, management of 150 of the country’s over 200 water 
+systems has been transferred to the WUC.  The program also seeks to enhance the capacity and focus of 
+DWA for strategic Water Resources Management (WRM).  Government subsidies to the sector have been 
+substantially reduced; subsidies which amounted to P364 million (US$56 million) in FY07/08 are 
+expected to be reduced to zero by FY14/15. Recognizing the value of the Bank’s advisory support for the 
+reform process, the Government has requested an extension of the fee-based services arrangement 
+through 2014.   
+
+Program Delivery and Portfolio Performance 
+
+42. 
+All of the projects identified in the CPS have been delivered with the exception of one (the 
+Mmamabula IPP Power Project) which has been put on hold in light of developments since the CPS 
+was prepared.  As a result, the project portfolio has grown from one project at the time of the CPS to four 
+(including one GEF project).  Net commitments stand at US$378 million, reflecting the Bank’s growing 
+lending engagement with Botswana in energy, transport, environment and HIV/AIDS. In addition a 
+US$242.7 million IBRD Partial Credit Guarantee for the Morupule B project has been instrumental in 
+allowing rapid project implementation progress by unlocking financing for power station construction 
+from commercial sources.   
+
+Table 2: Planned vs. Actual IBRD Financial Support 
+
+Indicative CPS IBRD 
+lending (US$ million) 
+
+Actual Lending to 
+date (US$ million) 
+
+FY09 
+HIV/AIDS Project 
+Morupule B Generation and Transmission 
+Project 
+Integrated Transport Project 
+FY10 
+Mmamabula IPP Project 
+Northern Botswana Human-Wildlife 
+Conflict Prevention 
+Total 
+
+*Includes GEF, and guarantees 
+
+50.0 
+450.0 
+
+180.5 
+
+100.0 
+- 
+
+780.5m 
+
+50.0 
+
+136.4  IBRD Loan 
+
+242.7  IBRD PCG 
+186.0 
+
+0.0 
+5.0  GEF grant 
+
+377.4 Loan/grant 
+242.7 Guarantee 
+coverage
+
+43. 
+Reflecting a lack of recent experience with investment lending in Botswana, several projects 
+have experienced a slow start-up highlighting the need for more intensive implementation support.  
+With a young portfolio that is heavily weighted towards infrastructure, IBRD disbursements in Botswana 
+through FY09-FY11 were projected to be modest.  With the exception of the Morupule B project, 
+
+12 
+
+ 
+ 
+disbursements have tended to lag behind initial projections due to slow administrative processes in 
+Government, a lack of recent experience in implementing Bank-financed projects and, in some cases, 
+capacity constraints and rapid turnover among counterpart Government agencies.  Both the Bank and 
+GoB are learning from the challenges that have emerged and implementation is expected to accelerate in 
+the months ahead.  Nevertheless, implementation of key projects such as the BNAPS and the Integrated 
+Transport Project will require stepped up implementation support to accelerate implementation and ensure 
+successful outcomes.   The portfolio has currently one problem project, the GEF-financed Northern-
+Botswana Human Wildlife Coexistence Project.  
+
+44. 
+Progress towards CPS outcomes has generally been good (Annex 1).   While progress in some 
+areas, such as developing M&E and Transport Management capacity, have proven disappointing, 
+significant milestones have been achieved in most areas of the Results Matrix.  To improve the quality 
+and realism of the CPS results matrix, this Progress Report proposes several revisions to the Results 
+Matrix Outcomes and Indicators.  The suggested changes (a) remove the Outcome related to the proposed 
+Mmamabula energy project, which has foundered for reasons outside the control of GoB or the Bank, (b) 
+include an Outcome related to Financial Sector strengthening, where the Bank’s engagement has been 
+increasingly demanded, and (c) includes a new Outcome related to Climate Change work, in which the 
+Bank’s AAA during FY09/FY10 has resulted in significant demand for follow-up analytic support.  In 
+addition, the revised Results Matrix is strengthened by adding baselines and targets for outcomes, where 
+these were unavailable at the time of the CPS.  Finally, to align the matrix more closely with the Bank’s 
+Africa Region strategy and the Government’s economic diversification agenda, the CPS outcome related 
+to skills development is now included under the Competitiveness Pillar of the CPS.   
+
+Lessons Learned 
+
+45. 
+Despite Botswana’s MIC status, close implementation support has been required.  Several 
+projects such as the BNAPS, Integrated Transport Project, and the Northern Botswana Human-Wildlife 
+conflict GEF have experienced substantial delays in start up.  While these were foreshadowed as 
+implementation risks in the CPS, readiness for implementation of projects such as the BNAPS, Integrated 
+Transport, and Northern Botswana Human-Wildlife conflict Prevention GEF was likely to have been 
+somewhat overestimated.  Concerted efforts through FY10 in delivering procurement, disbursement and 
+financial management training to both implementing agencies and central ministries have helped to 
+overcome some delays.  Task teams are also working with Government to strengthen project management 
+arrangements, add implementation capacity, and restructure projects where necessary.  Intensive 
+supervision, supported by the opening of a Bank office in Gaborone in FY10, providing videoconference 
+access to experts based in Washington and the region in real time, has greatly enhanced the effectiveness 
+of implementation support and the Bank’s ability to monitor high corporate risk projects such as 
+Morupule B.   
+
+46. 
+The Bank program is strengthened by deeper cooperation with a ranger of partners.  For 
+example, in HIV/AIDS working with other donors has helped to harmonize overall program efforts while 
+solidifying a stronger focus on prevention, in particular by working with the EU to utilize grant resources 
+to lower the cost of IBRD financing contingent on satisfactory project performance.  Similarly, work on 
+public expenditure management has benefitted from close coordination with the EU and IMF as well as 
+South-South exchanges with Mauritius and South Africa.  The Moropule B project is bringing together 
+multiple financiers and marks the Bank’s first co-guarantee operation with a bilateral agency, namely, 
+China Export & Credit Insurance Corporation, helping to mobilize a substantial amount of long-term debt 
+despite the financial crisis.  A planned knowledge exchange event on the diamond industry will bring 
+together government and private sector representatives from Lesotho, Armenia, Botswana and Namibia.   
+
+13 
+
+ 
+CPS Relevance 
+
+47. 
+The FY09-13 CPS remains appropriate and relevant for Botswana.  Botswana has managed to 
+navigate the immediate impacts of the global crisis, but has emerged in a weaker position with reduced 
+savings.  With the international economic outlook presenting significant uncertainties for Botswana, a 
+critical policy challenge will be to contain the fiscal expansion employed through the crisis and push 
+forward with far reaching institutional reforms to improve spending efficiency, service delivery, and 
+reduce the size of the public sector over time.  Concurrent investments in critical infrastructure 
+(particularly in energy, transport, and water), and aggressive action to improve the effectiveness of 
+HIV/AIDS prevention efforts are also needed, and, together with intensifying efforts to diversify the 
+economic base and strengthen public expenditure management, these form the critical agenda for 
+progress.  The Government of Botswana has confirmed that the four pillars of the current CPS thus 
+remain highly relevant and appropriate for Botswana for the balance of the CPS period.  
+
+IV. GOING FORWARD 
+
+48. 
+In line with the Africa Strategy, the Bank will increasingly focus on mobilizing knowledge in 
+support of CPS objectives.  The first two years of re-engagement under the CPS have deepened our 
+understanding of Botswana’s development challenges and positioned the Bank to increasingly focus its 
+AAA in support of policy reform implementation.  Going forward during the remainder of the CPS period 
+the strategy is being adjusted with addition of new and expanded activities that reflect Government 
+priorities for enhanced Bank support in economic diversification, public expenditure management reform, 
+and climate change.  Working in partnership with the government and others, the Bank will mobilize 
+global expertise and technical assistance with the aim of bringing the knowledge and experience of 
+countries that have faced similar challenges in other parts of the world. Specific areas of focus will 
+include: 
+ Economic Diversification and Competitiveness.  Recognizing the growing urgency of this 
+agenda, the Government is focused on accelerating implementation of its Economic 
+Diversification Drive.  During the balance of the CPS period the Bank Group will seek to support 
+the development and implementation of a reform roadmap focusing on the concrete actions in 
+business environment reforms, infrastructure, access to finance, and skills, technology and 
+productivity.  This will build on recent and ongoing analytical work, including the ICA, Doing 
+Business Surveys, regional trade and market integration, and economic diversification.   
+ Public Expenditure Management. With the preparation of the PER and the finalization of the 
+GoB’s PFM reform strategy, continued technical assistance will be provided during the balance 
+of the CPS period in support of its implementation.  Complementary AAA will focus on 
+increased value for money in public spending by helping identify opportunities for greater 
+economy and efficiency in, inter alia, social protection and public procurement.   
+ Financial Sector. Additional work planned during the balance of the CPS will support the GoB 
+in finalizing and implementing a Financial Sector Development Strategy now under preparation.  
+An early draft of the strategy has identified various constraints in the financial sector relating to, 
+inter alia, access to financial services; housing finance; banking and financial system 
+infrastructure; non-bank financial institutions; capital markets; and regional integration of 
+commitments under the SADC Protocols.  
+Information and Communication Technology. The Government has expressed interest in Bank 
+technical assistance in broadband connectivity where changes to the market structure and the 
+regulatory strategy could deliver major improvements in the sector with positive spillover 
+benefits to the rest of the economy.  In addition, there is potential for supporting development of 
+the strategy for utilizing the ICT infrastructure to enhance public service delivery (e.g. 
+
+ 
+
+14 
+
+ 
+e-government systems, management of decentralized services via mobile phones, government 
+grant payments via mobile phone networks, public consultation and participatory decision-
+making using ICT networks, community monitoring of service delivery at clinics, schools etc.)  
+ Climate Change.  A fee-based technical assistance engagement is planned to help Government to 
+develop a climate resilient development strategy.  
+ Poverty and social protection. The release of the results of a new Core Welfare Indicators Survey 
+later this year, after a ten-year hiatus, presents an opportunity for the Bank to respond to 
+government demand for analytical assistance in this area.  Linking new information on poverty 
+and on the incidence of social protection programs would also help in developing policy 
+recommendations for strengthening public sector management and encouraging greater emphasis 
+on service delivery and on focusing on the effectiveness and efficiency of government programs.  
+Gender-disaggregated data will also facilitate Bank AAA that would seek to develop a greater 
+understanding of the gender dimensions of development in Botswana and support mainstreaming 
+of gender concerns in the policy dialogue with Government.  
+
+49. 
+Important data issues constrain analytical work, the formulation of robust policies, and 
+program evaluation.  As noted above, despite high levels of poverty and inequality, household income 
+and expenditure data is a decade old in Botswana.  Information on unemployment is not regularly 
+produced.  There are no reliable indices of productivity. Evaluations of public programs are rarely 
+undertaken. The quality of national accounts data has been questioned.  For an upper middle income 
+country, this lack of quality data is an important constraint to implementing evidence-based policy, and is 
+an area that deserves urgent attention.  The Central Statistics Office, which has been hampered by lack of 
+staff, high staff turnover and limited budgets, was recently made autonomous, and it is hoped that this 
+will assist it in beginning to address some of these problems. 
+
+50. 
+Additional lending during the balance of the CPS period is possible, but will depend on 
+Government demand within the context of its overall financing needs and strategy.  Emerging from the 
+global crisis with foreign debt levels reaching statutory limits, GoB is seeking to use liquidity in domestic 
+capital markets and any available concessional resources to meet its immediate financing needs.  The 
+IBRD Treasury team has provided advice to GoB regarding how the Bank might assist in mobilizing 
+domestic financing using available Bank instruments, and will continue to provide support on an 
+as-needed basis.  Nonetheless, in FY12 and FY13 the Bank will remain ready to respond to any GoB 
+requests for tailored financial support, as borrowing capacity allows, through the annual business 
+planning process.  Possible areas of further financial support include: 
+ DPL financing to support the ongoing reform program and close the short-term fiscal gap; 
+ Facilitating local currency financing either via a local currency guarantee or a World Bank 
+loan funded by a local bond issue in Pula; 
+ Possible investment/TA lending in support of the PFM reform program as well as 
+competitiveness-enhancing reforms; 
+Investment support to the water reform program. 
+
+ 
+
+51. 
+Improving the pace of project implementation will be a critical focus during the remaining two 
+years of the CPS.  As a first step, implementation support to projects experiencing delays has been 
+increased.  Agreement has been reached on the need for project restructuring in the case of the BNAPS in 
+order to strengthen implementation capacity while streamlining the project to allow for a greater focus on 
+delivery of prioritized interventions.  In the case of the Integrated Transport Project, project oversight 
+structures are being modified with a view to strengthening project management and accelerating 
+implementation.  Finally, staffing in the Bank’s office is being increased with placement of a senior 
+
+15 
+
+ 
+economist and the possible addition of an operations analyst which should further increase the 
+responsiveness of the Bank in addressing implementation issues.  
+
+V. RISKS AND CREDITWORTHINESS 
+
+52. 
+The major risks identified in the CPS remain valid. With respect to credit risk, although 
+diamond exports have recovered and are expected to return to pre-crisis levels by 2012/13, Botswana’s 
+creditworthiness will remain constrained by its narrow economic base.  Nevertheless, Botswana’s S&P 
+credit risk rating of A- remains the strongest in Africa, on a par with Malaysia and Poland, although the 
+outlook is less favorable now reflecting the weakening of the fiscal stance as a result of the response to 
+the impact of the financial crisis.   
+
+53. 
+Reputational risk, as identified in the CPS, remains in particular due to the Bank’s engagement in 
+financing the Morupule B coal-fired power generation project.  However, substantial communication and 
+outreach effort in the lead up to the approval of the project, close implementation support and attention to 
+safeguards through implementation, the growing Bank engagement in promoting renewable and lower 
+carbon options for Botswana, and concurrent Bank efforts to help Botswana participate in the global 
+climate change debate have all contributed to mitigating this risk.  These efforts notwithstanding, the 
+Bank’s work in the energy sector in Botswana and the region will continue to generate reputational risk 
+which will require close management at the country, regional and corporate level. 
+
+54. 
+The implementation risks outlined in the CPS did materialize and were a source of delay during 
+the first two years of implementation.  As discussed above, the result was lower than expected 
+disbursements, particularly in the HIV/AIDS and Transport Projects.  However mitigation measures, 
+including portfolio-wide procurement, disbursement and financial management training for counterparts 
+and more intensive implementation support by task teams, have helped bring about the beginnings of a 
+turnaround.  Fiduciary training will continue during the balance of the CPS period as this is recognized as 
+an ongoing need.  The opening of a Bank office in Gaborone has facilitated these efforts.  
+
+16 
+
+ 
+World Bank 
+Strategic 
+Element 
+
+Major Issues and 
+Constraints to 
+achieving 
+Government’s 
+objectives 
+
+Enhancing Public 
+Sector 
+Effectiveness 
+
+Need for greater public 
+sector effectiveness in the 
+implementation of policies 
+and programs 
+
+Public financial 
+management needs 
+strengthening 
+
+Annex 1: CPS Results Matrix   
+
+CPS Outcomes 
+
+Milestones/Intermediate 
+Indicators 
+
+Progress to Date 
+
+Bank Program/Projects and 
+Other Partner Interventions 
+
+Improved capacity to compile, analyze and 
+disseminate poverty-related statistical 
+information 
+ Poverty related household survey data 
+documented and archived by 2010. 
+ At least 5 statisticians and researchers trained 
+in poverty analysis of household survey data 
+by 2010. 
+
+Improved public expenditure management. 
+Public financial management reform 
+ 
+Improved capacity to analyze and forecast 
+fiscal variables; macroeconomic model in use 
+at MFDP. 
+ Strengthened budget process: greater 
+coordination between the various elements of 
+budgeting – recurrent and capital budgets and 
+personnel management. 
+ PFM system further strengthened in key 
+dimensions, including openness and 
+accountability in public procurement. 
+
+17 
+
+Household Income and 
+Expenditure Surveys (HIES) 
+completed. 
+Training of statisticians and 
+researchers completed. 
+
+Core Welfare 
+Indicators Survey 
+conducted in 
+2009/2010.   
+
+Public expenditure Review 
+(PER) carried out. 
+
+PFM reform strategy 
+formulated and initiated. 
+
+Issues Note on Accrual 
+Accounting completed. 
+
+The PER was 
+delivered in FY10, and 
+a successful PER 
+dissemination 
+workshop in August 
+2010 added significant 
+detail to the PFM 
+reform agenda.   
+
+A PFM action plan has 
+been finalized by the 
+MoFDP. 
+
+Accrual accounting 
+issues note has been 
+delivered to 
+complement TA being 
+provided by the IMF. 
+
+TFSCB Grant for Capacity 
+Building and Poverty Analysis 
+(FY09) 
+
+PER (FY10) 
+
+Macro-modeling (FY10) 
+
+PFM Reform TA (FY10-12)  
+
+Issues Note on Accrual 
+Accounting (FY11) 
+
+Public Sector Management 
+Justice and Law TA (FY 12) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+World Bank 
+Strategic 
+Element 
+
+Fighting 
+HIV/AIDS and 
+Improving 
+Education 
+Outcomes 
+
+Major Issues and 
+Constraints to 
+achieving 
+Government’s 
+objectives 
+
+Most ministries and 
+agencies lack the 
+institutional capacity to 
+monitor and evaluate 
+Government policies, 
+programs and projects 
+
+Weak institutional capacity 
+for data tracking, collation, 
+analysis and dissemination 
+
+Success in good 
+governance and 
+macroeconomic and fiscal 
+management has not been 
+accompanied by a 
+reduction of inequality, 
+poverty and improved HD 
+outcomes. 
+
+HIV/AIDS is a huge drain 
+on the economy and 
+society with the youth 
+most vulnerable. 
+
+CPS Outcomes 
+
+Milestones/Intermediate 
+Indicators 
+
+Progress to Date 
+
+Bank Program/Projects and 
+Other Partner Interventions 
+
+A needs assessment of 
+M&E capacity of at least 15 
+ministries carried out. 
+
+Training of CSOs initiated 
+and completed. 
+
+Little progress has 
+been made on 
+activities foreseen 
+under IDF grant. 
+GICO has been 
+restructured into the 
+National Strategy 
+Office (NSO) 
+
+IDF Grant to Strengthen the 
+M&E Capacity of the Vision 
+2016 Council and the 
+Government Implementation 
+coordination Office (GICO) in 
+the Presidency Office (FY10) 
+
+Report on “strengthening 
+national statistical capacity 
+and policy analysis” 
+completed and 
+disseminated. 
+
+HIV/AIDS interventions 
+adequately implemented. 
+
+National Strategic 
+Framework to combat 
+HIV/AIDS was finalized in 
+July 2010 
+
+A total of $6.6 million of 
+grants for prevention 
+activities has been awarded 
+under the project’s Civil 
+Society grant component  
+
+HIV/AIDS Prevention Support 
+Project (FY09) 
+
+Southern Africa Regional 
+HIV/AIDS Strategy (FY10) 
+
+Poverty and Social Impact 
+Analysis (FY 11) 
+
+Approximately 90 % 
+of individuals with 
+advanced HIV 
+infection are receiving 
+ART 
+
+Proportion of youth 
+(15-24 years reporting 
+condom use increased 
+from 19.2 % in 2004 
+(DHS Survey) to 
+42.8% (BIAS III 
+Survey) 
+
+Enhanced capacity of Government to adopt 
+evidence-based management through increased 
+application of monitoring and evaluation 
+information 
+ At least 15 ministries have functional results-
+based M&E systems in place by 2011. 
+ At least 60 percent of trained CSO (Civil 
+Society Organizations) are using scorecards to 
+assess the effectiveness of service delivery by 
+2011. 
+Improved National Statistical Capacity 
+
+Increased effectiveness of HIV/AIDS prevention 
+efforts 
+ 
+Increased proportion of youth reporting no 
+sexual activity. (Age 15-19: from 78.4% to 
+85% by 2013; age 20-24:  from 30.8% to 50% 
+by 2013) 
+
+ Proportion of youth aged 15-19 and 20-24 
+reporting condom use during the last sexual 
+encounter with a non-regular partner in the 
+past 12 months. (Age 15-19: from 89% to 
+95% by 2013; age 20-24:  from 85% to 95% 
+by 2013) 
+
+ Number (cumulative) of male circumcision 
+procedures performed in selected facilities 
+increases from  52,000  (2008) to 262,000 by 
+2013 
+
+18 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+World Bank 
+Strategic 
+Element 
+
+Increased 
+Competitiveness – 
+Infrastructure 
+and the Climate 
+for Investment 
+and Growth 
+
+Major Issues and 
+Constraints to 
+achieving 
+Government’s 
+objectives 
+
+Efforts to diversify the 
+economy have yet to 
+generate significant results. 
+Diamond production is 
+predicted to fall by 40%; 
+Revenue from diamonds 
+are projected to decline by 
+50%. 
+Economic growth has not 
+generated enough jobs. 
+There is a skills mismatch 
+between education 
+outcomes and labor market 
+needs. 
+Inadequate access to 
+financial services due to 
+need for stronger 
+banking/financial system 
+infrastructure and legal and 
+regulatory frameworks for, 
+inter alia, NBFI, pensions, 
+insurance, and capital 
+markets 
+
+CPS Outcomes 
+
+Milestones/Intermediate 
+Indicators 
+
+Progress to Date 
+
+Bank Program/Projects and 
+Other Partner Interventions 
+
+Improved Investment Climate 
+ 
+Identify key bottlenecks to greater domestic 
+and international foreign investment. 
+
+Follow-up to the FY07 
+Investment Climate 
+Assessment done. 
+
+Strategic Issues in 
+Competitiveness Study 
+completed. 
+
+Botswana fell two 
+places in the 2011 
+Ease of Doing 
+Business ranking 
+compared to 2010, 
+from 50 to 52 overall 
+
+Skills mismatch is identified and policy options 
+agreed to reduce the gap 
+
+Skills gap/labor market 
+study completed. 
+
+Study underway 
+
+Follow-up to FY07 Investment 
+Climate Assessment (ICA) 
+(FY09) 
+Development Policy Review 
+(FY12) 
+Strategic Issues in 
+Competitiveness Study (FY10) 
+Competitiveness Dialogue/TA 
+(FY12) 
+Skills Gap/Labor Markets Study 
+(FY12) 
+
+Government Financial Sector Development 
+strategy adopted with action plan to address 
+identified constraints. 
+
+New pension and insurance 
+regulations developed. 
+
+Financial Sector 
+Development Strategy 
+Finalized 
+
+Investment and Securities 
+regulatory regime Revised 
+
+Collective Investment 
+Undertakings (CIU) Act 
+revised. 
+
+Revised  pension and 
+insurance laws have 
+been finalized and are 
+pending approval;  
+
+Financial Sector Reform and 
+Strengthening (FIRST) Initiative 
+support to the Pension and 
+Insurance is under preparation.   
+
+Revised pension and 
+insurance regulations 
+have been approved  
+
+Revised securities 
+markets regulations 
+and CIU Act have 
+been prepared and are 
+undergoing final 
+review. 
+
+FIRST-funded technical 
+assistance to develop Financial 
+Sector Development Strategy 
+(FSDS). 
+
+FIRST-funded technical 
+assistance to the Non-Bank 
+Financial Institutions Regulatory 
+Authority (NBFIRA). 
+
+Compliance gaps in both 
+corporate accounting and 
+auditing practices 
+undermine investor 
+confidence and reduce 
+investment 
+
+Strengthened accountancy profession to 
+enhance corporate finance and reporting 
+
+1. Increased capacity of the Botswana Institute 
+of Accountants (BIA) to carry out its 
+functions as a professional accountancy body 
+
+19 
+
+IDF Grant utilized and 
+activities fully implemented 
+
+National qualification 
+launched in April 
+2011 
+
+IDF Grant For Strengthening the 
+Institute of Accountants (FY10) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+World Bank 
+Strategic 
+Element 
+
+Major Issues and 
+Constraints to 
+achieving 
+Government’s 
+objectives 
+
+CPS Outcomes 
+
+Milestones/Intermediate 
+Indicators 
+
+Progress to Date 
+
+Bank Program/Projects and 
+Other Partner Interventions 
+
+Development of 
+Accountancy Profession 
+Legislation 
+
+Road asset management 
+protocols completed 
+
+Contract awarded in June 
+2011for  Regional Transport 
+Integration Study 
+
+Regional Investment 
+Climate Assessment 
+completed** 
+
+The Accountancy Act 
+and the Financial 
+Reporting Act enacted 
+in 2010 and effective 1 
+April 2011 
+
+Conceptual design for 
+the 800 of OPRC 
+component has started 
+
+Regional Transport 
+Integration Study 
+contract awarded in 
+June 2011. 
+
+Southern Africa Regional 
+Trade and Integration Study 
+completed** 
+
+Regional Trade Study 
+completed 
+
+FIRST Initiative supported 
+project, “Updating Accounting 
+and Auditing Legislation 
+Transport Sector Project 
+
+AAAs: 
+Regional Investment Climate 
+Assessment** 
+
+Southern Africa Regional Trade 
+and Integration Study** 
+
+ National qualifications developed and at least 
+50 nationals have passed Part-1 (intermediate 
+level ) examinations by June 2011 
+ At least 5 Continuing Professional 
+Development (CPD) courses are developed 
+
+2. Improved compliance with the International 
+Federation of Accountants (IFAC) 
+
+ 
+
+Enactment of Accountancy Profession 
+Legislation 
+
+Infrastructure capacity and 
+quality has not kept pace 
+with growth. 
+There are transport 
+bottlenecks. 
+
+Regional trade has more 
+potential 
+
+Improved national capacity in transport 
+management 
+ At least 250 km of roads under long-term 
+output and performance-based road contracts 
+(OPRC) for rehabilitation and maintenance by 
+2014. 
+ Average vehicle operating costs per vehicle-
+km on OPRC roads falls by 8% by 2014. 
+
+Improved Regional Trade** 
+
+20 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+World Bank 
+Strategic 
+Element 
+
+Major Issues and 
+Constraints to 
+achieving 
+Government’s 
+objectives 
+
+Major shortfall in 
+electricity production 
+
+Uncertainty of reliance on 
+South Africa for electricity 
+needs as Eskom faces 
+electricity shortfall 
+
+Regional broadband 
+connectivity is held back 
+by high cost 
+Agriculture and nature-
+based tourism potential not 
+fully utilized 
+
+The Environment Weak environmental 
+management 
+
+High incidence of human-
+wildlife conflicts 
+
+CPS Outcomes 
+
+Milestones/Intermediate 
+Indicators 
+
+Progress to Date 
+
+Bank Program/Projects and 
+Other Partner Interventions 
+
+Improved energy security 
+ Domestic generation capacity as % of peak 
+demand increases from 18% to 102% by FY13 
+ measures to address social issues and demand 
+management implemented 
+
+Government adoption of 
+electricity tariff policy 
+
+Testing of new generation 
+unit: 1 unit completed 
+
+New Regulatory Agency: 
+Contract awarded for TA 
+
+Broadband Strategy Developed and Adopted 
+
+Selected strategic challenges in agriculture and 
+nature-based tourism identified and policy 
+options presented to government 
+
+Reduced human-wildlife conflict (HWC) 
+incidence in targeted hotspot areas in northern 
+Botswana 
+ Numbers of wildlife conflict incidents in 
+targeted hotspot areas reduced by 33%. 
+ Number of people employed in eco-tourism 
+increases by 75 
+
+Policy notes completed 
+
+Interventions to prevent 
+wildlife conflict incidents in 
+hot spot areas fully 
+implemented 
+
+Training programs for 
+tourism-related programs 
+implemented. 
+
+Morupule B Project (FY09/10) 
+
+South Africa/Botswana Regional 
+Broadband TA (with PPIAF) 
+(FY12) 
+SDN Policy Notes on Agriculture 
+and NBT (FY10) 
+
+Wild Life and Conflict 
+Management Project in Northern 
+Botswana (GEF) (FY10) 
+
+SDN Policy Notes on nature-
+based tourism (FY10) 
+
+The Government 
+implemented a 32 % 
+tariff increase 
+effective May 1, 2010, 
+which is consistent 
+with the commitment 
+to make the energy 
+sector financially 
+sustainable 
+BPC installed 800,000 
+compact fluorescent 
+lights and about 
+29,000 smart meters 
+by end of 2010 
+
+Wildlife and human 
+conflict incidents in 
+targeted hotspots areas 
+have yet to be 
+drastically reduced. 
+From November 2009 
+to 17 January 2011 
+conflict incidents for 
+elephants increased 
+from 99 to 145 and for 
+lions from 84 to 134 
+respectively. The 
+increase in incidents is 
+attributed to the lack 
+of separation between 
+the  two project 
+villages and the 
+Makagadikgadi NP 
+
+21 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+World Bank 
+Strategic 
+Element 
+
+Major Issues and 
+Constraints to 
+achieving 
+Government’s 
+objectives 
+
+CPS Outcomes 
+
+Milestones/Intermediate 
+Indicators 
+
+Progress to Date 
+
+Bank Program/Projects and 
+Other Partner Interventions 
+
+Low capacity to capture 
+Carbon Finance potential 
+
+Low carbon growth strategy under 
+implementation 
+
+ At least one low-carbon (CBM) reserve or no-
+carbon (CSP) energy alternative has been 
+identified, or a CCS pilot project has been 
+identified.  
+
+Government policy on 
+carbon finance defined 
+
+Feasibility study for 
+up to 200 MW 
+concentrated solar 
+power (CSP) plant is 
+underway 
+
+Carbon Finance Assistance 
+Program 
+
+Climate Change Policy Note 
+(FY 10) 
+
+Carbon Capture and Storage 
+(CCS) Trust Fund grant  
+
+Frequent drought and 
+frequent threats to water 
+resources 
+
+Enhanced capacity to participate in the global 
+carbon market 
+ Number of new carbon programs identified 
+
+Improved ground water management (regional 
+project)** 
+ Number of key technical officers and policy 
+makers aware of groundwater management 
+and its importance over total number 
+questioned (relates to SADC countries of 
+which Botswana is a participating member 
+state) 
+
+Regional environmental and 
+social assessment study 
+completed** 
+
+Groundwater and Drought 
+Management Project** 
+
+Advisory Services for Water 
+Sector  Reform Phase II (FY 11) 
+
+Regional environmental and 
+social assessment study** 
+
+A Multi Sector 
+Investment 
+Opportunity Analysis 
+(MSIOA) for the 
+Zambezi River basin 
+engaged all eight 
+riparian countries in a 
+consultative process to 
+illustrate the benefits 
+of cooperation through 
+a multi sectoral 
+economic evaluation 
+of water resources 
+development, 
+management option 
+scenarios. 
+
+22 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+World Bank 
+Strategic 
+Element 
+
+Major Issues and 
+Constraints to 
+achieving 
+Government’s 
+objectives 
+
+CPS Outcomes 
+
+Milestones/Intermediate 
+Indicators 
+
+Progress to Date 
+
+Bank Program/Projects and 
+Other Partner Interventions 
+
+High vulnerability to 
+drought and flood 
+exacerbated by climate 
+change. 
+
+Increased understanding of implications of 
+increased climate variability for Botswana with 
+appropriate policy options for adaptation 
+developed 
+
+Climate impacts modeled by 
+end 2010.   
+
+Policy options for climate 
+adaptation developed and 
+adopted by end 2012 
+Water and Wastewater 
+Sector Reform FBSA Phase 
+1 completed 
+
+Improved water conservation and management. 
+Water and Wastewater Sector Reform Option 
+Implemented 
+ WUC assumes water delivery nationwide 
+ Water Resources Council and Regulator 
+established 
+
+Water and Wastewater 
+Sector Reform FBSA Phase 
+2 completed 
+
+The climate change 
+work developed a 
+first-ever analysis 
+based on a Botswana 
+data set using Global 
+Climate Models 
+(GCM) to predict how 
+climate variability 
+might impact on 
+Botswana over the 
+next 50 years 
+
+To date, management 
+of  150 of the 
+country’s over 200 
+water systems has 
+been transferred to the 
+Water Users 
+Corporation (WUC) 
+
+Climate Change  Policy Note 
+(FY11) 
+
+Environment Policy Note (FY10) 
+
+Climate Adaptation FBSA 
+(FY12) 
+
+Water and Wastewater Sector 
+Reform FBSA Phase 1 (FY09) 
+
+Water and Wastewater Sector 
+Reform FBSA Phase 2 (FY10) 
+
+Water and Wastewater Sector 
+Reform FBSA Phase 3 (FY13) 
+
+** Achievement of regional outcomes cannot be measured within the timeframe of the CPS and can only be assessed against regional objectives 
+
+23 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+24 
+
+Botswana at a glance
+
+2/25/11
+
+Sub-
+Saharan
+A f rica
+
+Upper
+m iddle
+inco me
+
+K e y D e v e lo pm e n t Ind ic a t o r s
+
+B o t swana
+
+( 2 0 0 9 )
+
+P o pulat io n, m id-year (m illio ns )
+Surface area (tho usand sq. km )
+P o pulat io n gro wth (%)
+Urban po pulat io n (% o f to tal po pulat io n)
+
+1.9
+582
+1.5
+60
+
+819
+24,242
+2.5
+36
+
+993
+48,659
+0.9
+75
+
+GN I (A t las metho d, US$ billio ns )
+GN I per capita (A t las metho d, US$ )
+GN I per capita (P P P , internat io nal $ )
+
+12.2
+6,260
+12,840
+
+897
+1,095
+1,981
+
+7,363
+7,415
+12,800
+
+GDP gro wth (%)
+GDP per capita gro wth (%)
+
+-3.7
+-5.1
+
+5.2
+2.7
+
+4.1
+3.2
+
+( m o s t r e c e n t e s t im a t e , 2 0 0 3 – 2 0 0 8 )
+
+P o vert y headco unt rat io at $ 1.25 a day (P P P , %)
+P o vert y headco unt rat io at $ 2.00 a day (P P P , %)
+Life expec t ancy at birth (years )
+Infant mo rtalit y (per 1,000 live births )
+C hild malnut rit io n (% o f children under 5)
+
+31 a
+49 a
+54
+43
+..
+
+51
+73
+52
+83
+25
+
+..
+..
+71
+20
+..
+
+A dult literac y, male (% o f ages 15 and o lder)
+A dult literac y, female (% o f ages 15 and o lder)
+Gro ss primary enro llment , male (% o f age gro up)
+Gro ss primary enro llment , female (% o f age gro up)
+
+83
+84
+111
+109
+
+72
+54
+105
+95
+
+95
+92
+111
+110
+
+A c ces s to an im pro ved water so urce (% o f po pulat io n)
+A c ces s to impro ved sanitat io n fac ilit ies (% o f po pulat io n)
+
+95
+60
+
+60
+31
+
+95
+84
+
+N e t A id F lo ws
+
+19 8 0
+
+19 9 0
+
+2 0 0 0
+
+2 0 0 9 b
+
+(US$ m illio ns )
+N et ODA and o f f ic ial aid
+T o p 3 do no rs (in 2007):
+   Germ any
+   United States
+   Euro pean C o mm is s io n
+
+105
+
+145
+
+31
+
+716
+
+15
+12
+6
+
+19
+15
+8
+
+7
+1
+4
+
+439
+232
+27
+
+A id (% o f GN I)
+A id per capita (US$ )
+
+10.2
+107
+
+3.9
+107
+
+0.6
+18
+
+5.6
+373
+
+Lo ng - T e rm E c o no m ic T r e nd s
+
+C o nsumer prices (annual % change)
+GDP implic it def lat o r (annual % change)
+
+13.6
+10.2
+
+11.4
+6.3
+
+8.7
+0.0
+
+8.4
+-5.7
+
+Exchange rate (annual average, lo cal per US$ )
+T erm s o f t rade index (2000 = 100)
+
+0.8
+..
+
+1.9
+119
+
+5.1
+100
+
+7.0
+15
+
+19 8 0 – 9 0 19 9 0 – 2 0 0 0
+2 0 0 0 – 0 9
+      (average annual gro wth %)
+3.2
+2.4
+11.0
+5.7
+
+P o pulat io n, m id-year (m illio ns )
+GDP (US$ m illio ns )
+
+1.0
+1,061
+
+1.4
+3,792
+  (% o f GDP )
+4.9
+61.0
+5.1
+34.1
+
+1.7
+5,632
+
+1.9
+11,823
+
+1.4
+4.4
+
+A griculture
+Indus t ry
+   M anufac turing
+Serv ices
+
+14.7
+50.7
+5.1
+34.6
+
+2.7
+52.6
+4.5
+44.7
+
+3.1
+39.6
+4.2
+57.3
+
+2.5
+11.3
+11.5
+15.1
+
+-0.7
+5.4
+3.5
+7.5
+
+1.2
+2.5
+4.8
+5.6
+
+H o useho ld f inal co nsumpt io n expenditure
+General go v ' t f inal co nsum pt io n expenditure
+Gro ss capital fo rm at io n 
+
+52.0
+21.3
+40.1
+
+33.2
+24.1
+37.4
+
+30.8
+25.4
+31.8
+
+62.8
+24.2
+24.0
+
+6.2
+14.9
+7.6
+
+5.9
+6.1
+4.6
+
+6.6
+4.9
+3.0
+
+Expo rt s o f go o ds and serv ices
+Impo rt s o f go o ds and serv ices
+Gro ss sav ings
+
+53.1
+66.4
+28.7
+
+55.1
+49.8
+41.6
+
+53.3
+41.2
+41.4
+
+33.6
+44.6
+18.7
+
+12.5
+9.2
+
+4.4
+4.3
+
+2.8
+4.8
+
+N o t e: F igures in it alic s are fo r years o ther than tho se spec if ied. 2009 data are prelim inary.  .. indicat es dat a are no t available.
+a. C o unt ry po vert y es t im ate is fo r earlier perio d.  b. A id data are fo r 2008.
+
+D evelo pment Eco no m ic s , Develo pm ent D ata Gro up (DECDG).
+
+10
+
+5
+
+0
+
+5
+
+10
+
+0-4
+
+15-19
+
+30-34
+
+45-49
+
+60-64
+
+75-79
+
+percent of total population
+
+Age d i str ib u ti on , 2009
+
+Male
+
+Female
+
+0
+
+50
+
+100
+
+150
+
+200
+
+1990
+
+1995
+
+2000
+
+2008
+
+Botswana
+
+Sub-Saharan A fri c a
+
+Un der -5 mo r tal i ty r ate (per 1, 000)
+
+12
+10
+8
+6
+4
+2
+0
+-2
+
+95
+
+05
+
+GDP
+
+GDP per c api ta
+
+Growth o f GDP an d GDP per cap i ta (%)
+
+Annex 2: Botswana at a Glance 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+25 
+
+Botswana
+
+Bal an ce of P aymen ts and T rad e
+
+2000
+
+2009
+
+(US$ mi l l ions)
+T otal merchand ise exports (f ob )
+T otal merchand ise imports (cif )
+Net trade in goods and services
+
+2,682
+2,005
+681
+
+3,462
+4,734
+-1,624
+
+Cu rrent account balance
+   as a % of GDP
+
+547
+9.7
+
+-966
+-8.2
+
+W orkers' remittances and
+   compensation of emp loyees (receipts)
+
+26
+
+88
+
+Reserves, includ ing gold
+
+6,300
+
+12,438
+
+Cen tral Governmen t F in an ce
+
+(% of GDP)
+Cu rrent revenue (includ ing grants)
+   T ax revenue
+Cu rrent expend itu re
+
+47.0
+40.2
+28.0
+
+32.5
+20.4
+30.7
+
+T echnolog y and In f rastru ctu re
+
+2000
+
+2008
+
+Overal l surp lus/def icit
+
+7.8
+
+-14.7
+
+Paved roads (% of total)
+Fixed l ine and mob i le phone
+   subscribers (per 100 peop le)
+High technology exports
+   (% of manuf actured exports)
+
+35.3
+
+32.6
+
+Highest marg inal tax rate (%)
+   Ind ividual
+   Corporate
+
+25
+25
+
+25
+25
+
+21
+
+85
+
+0.5
+
+0.6
+
+E xtern al Deb t and Resou rce F lows
+
+E n vi ronmen t
+
+(US$ mi l l ions)
+T otal debt outstand ing and d isbursed
+T otal debt service
+Debt rel ief (HIPC, MDRI)
+
+453
+69
+–
+
+1,617
+47
+–
+
+Agricu l tural land (% of land area)
+Forest area (% of land area)
+T errestrial protected areas (% of surf ace area)
+
+46
+22.1
+..
+
+46
+20.7
+30.1
+
+T otal debt (% of GDP)
+T otal debt service (% of exports)
+
+8.0
+2.0
+
+13.7
+0.7
+
+Freshwater resources per cap ita (cu . meters)
+Freshwater withdrawal (b i l l ion cub ic meters)
+
+1,354
+0.2
+
+1,249
+..
+
+Foreign d irect investment (net inf lows)
+Portf ol io equ ity (net in f lows)
+
+57
+-6
+
+234
+18
+
+CO2 emissions per cap ita (mt)
+
+2.5
+
+2.6
+
+GDP per un it of energy use
+   (2005 PPP $ per kg of oi l equ ivalent)
+
+9.1
+
+11.8
+
+Energy use per cap ita (kg of oi l equ ivalent)
+
+1,066
+
+1,068
+
+ W orld Ban k G roup portf ol io
+
+2000
+
+2009
+
+ (US$ mi l l ions)
+
+ IBRD
+   T otal deb t outstand ing and d isbursed
+   Disbursements
+   Principal repayments
+   Interest payments
+
+16
+0
+7
+1
+
+0
+0
+0
+0
+
+ IDA
+   T otal deb t outstand ing and d isbursed
+   Disbursements
+   T otal deb t service
+
+9
+0
+1
+
+5
+0
+1
+
+P r i vate S ec tor Developmen t
+
+2000
+
+2009
+
+T ime requ ired to start a business (days)
+Cost to start a business (% of GNI per cap i ta)
+T ime requ ired to reg ister p roperty (days)
+
+–
+–
+–
+
+61
+2.1
+16
+
+IFC (f iscal year)
+   T otal d isbursed and ou tstand ing portf ol io
+      of wh ich IFC own account
+   Disbursements f or IFC own account
+   Portf ol io sales, prepayments and
+      repaymen ts f or IFC own account
+
+2
+2
+1
+
+27
+27
+1
+
+Ranked as a major constraint to business
+   (% of managers surveyed who ag reed)
+      Access to/cost of f inancing
+      Anticompetitive or inf ormal practices
+
+2000
+
+2009
+
+0
+
+0
+
+..
+..
+
+24.3
+11.6
+
+ MIGA
+   Gross exposure
+   New guarantees
+
+–
+–
+
+–
+–
+
+Stock market cap ital ization (% of GDP)
+Bank cap ital to asset ratio (%)
+
+17.4
+10.3
+
+33.8
+..
+
+Note: Figures in ital ics are f or years other than those specif ied.  2009 data are prel iminary.
+.. ind icates data are not avai lab le.  – ind icates observation is not app l icab le.
+
+2/25/11
+
+Development Economics, Development Data Group (DECDG).
+
+0
+
+25
+
+50
+
+75
+
+100
+
+Con tro l o f co rrup tion
+
+Ru le o f law
+
+Regu la to ry qua lity
+
+Po litica l stab ility
+
+Vo ice and accoun tability
+
+Coun try's pe rcen tile rank (0 -100 )
+
+higher values imply better ratings
+
+2009
+2000
+
+Governance indicators, 2000 and 2009
+
+Sourc e: Kaufm ann-Kraay -M as t ruzzi, W orld Bank
+
+IBRD , 0
+
+IDA, 5
+
+IMF, 0
+
+Other mul ti -
+lateral , 1,246
+
+Bilateral , 135
+
+Pr ivate, 2
+
+Shor t- term , 229
+
+Composition of total external debt, 2009
+
+US$ millions
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Millennium Development Goals
+
+Botswana
+
+W ith selec ted targets to achieve between 1990 and  2015
+
+(estimate closest to date shown , +/- 2 years)  
+
+Goa l 1: ha lve the rates f or extreme p overty and maln u tr i tion
+   Poverty headcoun t ratio at $1.25 a day (PPP, % of popu lation)   
+   Poverty headcoun t ratio at national poverty l ine (% of popu lation)   
+   Share of income or consumption to the poorest qun iti le (%)  
+   Prevalence of malnu trition (% of ch i ldren under 5)   
+
+Goa l 2: en su re that ch i ld ren are ab le to comp l ete p rimary school ing
+   Primary school enrol lmen t (net, %)
+   Primary comp letion rate (% of relevant age group)   
+   Secondary school enrol lmen t (gross, %)   
+
+Goa l 3: el imi nate gender d i sp ar i ty i n education and empower women
+   Ratio of g irls to boys in primary and secondary education (%)   
+   Women emp loyed in the nonagricu ltural sector (% of nonagricu ltural emp loymen t)   
+   Proportion of seats held by women in national parl iamen t (%)   
+
+Goa l 4: red uce u nd er- 5 morta l i ty b y two- th i rd s
+   Under-5 mortal ity rate (per 1,000)   
+   In fant mortal i ty rate (per 1,000 l ive b irths)   
+   Measles immun ization (proportion of one-year olds immun ized , %)
+
+Goa l 5: red uce maternal morta l i ty b y th ree- f ou rth s
+   Maternal mortal i ty ratio (modeled estimate, per 100,000 l ive b irths)   
+   Births attended by ski l led heal th staf f (% of total )   
+   Contracep tive prevalence (% of women ages 15-49)   
+
+Goa l 6: ha l t and beg in to reverse th e sp read of HIV /AIDS an d other maj or d iseases
+   Prevalence of HIV (% of popu lation ages 15-49)   
+   Incidence of tubercu losis (per 100,000 peop le)   
+   Tubercu losis case detection rate (%, al l forms)
+
+Goa l 7: ha lve th e p roportion of peop le wi th ou t sustain ab le access to b as ic needs
+   Access to an improved water source (% of popu lation)
+   Access to improved san i tation faci l i ties (% of popu lation)
+   Forest area (% of total land area)   
+   Terrestrial protected areas (% of surface area)
+   CO2 emissions (metric tons per cap i ta)   
+   GDP per un it of energy use (constant 2005 PPP $ per kg of oi l equ ivalen t)   
+
+Goa l 8: deve lop a g l ob al p artnersh ip f or developmen t   
+   Telephone main l ines (per 100 peop le)   
+   Mob i le phone subscribers (per 100 peop le)
+   In ternet users (per 100 peop le)   
+   Personal computers (per 100 peop le)   
+
+Botswana
+
+1995
+31.2
+..
+3.1
+..
+
+2000
+..
+..
+..
+10.7
+
+79
+92
+58
+
+104
+38
+9
+
+78
+57
+89
+
+130
+87
+..
+
+19.0
+444
+70
+
+94
+42
+23
+..
+2.2
+7.8
+
+3.9
+0.0
+0.1
+1.0
+
+83
+91
+76
+
+102
+39
+11
+
+99
+66
+91
+
+310
+94
+48
+
+26.5
+595
+73
+
+96
+45
+22
+..
+2.5
+9.1
+
+7.9
+12.9
+2.9
+3.5
+
+2008
+..
+..
+..
+4.3
+
+87
+86
+80
+
+101
+41
+11
+
+76
+57
+94
+
+198
+95
+53
+
+23.9
+536
+63
+
+96
+84
+21
+19.0
+2.5
+11.8
+
+7.4
+77.3
+6.2
+6.2
+
+1990
+..
+..
+..
+..
+
+87
+90
+40
+
+108
+34
+5
+
+60
+46
+87
+
+83
+77
+33
+
+4.7
+307
+71
+
+93
+38
+24
+..
+1.6
+7.6
+
+2.0
+0.0
+0.0
+..
+
+Education indicators (%)
+
+Meas les immunization (% of 1-year olds)
+
+ICT indicators (per 100 people)
+
+125
+
+100
+
+75
+
+50
+
+25
+
+0
+
+2000
+
+2002
+
+2004
+
+2006
+
+2008
+
+Prim ary net enrollm ent rat io
+
+Rat io of girls to boy s in primary & s ec ondary 
+educ at ion
+
+100
+
+75
+
+50
+
+25
+
+0
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+
+1990
+
+1995
+
+2000
+
+2008
+
+2000
+
+2002
+
+2004
+
+2006
+
+2008
+
+Bot sw ana
+
+Sub-Saharan Af ric a
+
+F ix ed + mobile s ubs c ribers
+
+Internet us ers
+
+Note: Figures in i tal ics are for years other than those specif ied .  .. ind icates data are not avai lab le.
+
+2/25/11
+
+Development Economics, Developmen t Data Group (DECDG).
+
+26 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annex 3: Selected indicators of Bank Portfolio Performance and Management 
+
+As Of 7/5/2011 
+
+2009 
+
+2010 
+
+2 
+0.5 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+
+4 
+1.1 
+0.0 
+0.0 
+0.0 
+0.0 
+1.0 
+
+2011 
+
+4 
+1.8 
+25.0 
+1.5 
+25.0 
+1.5 
+13.3 
+
+Indicator 
+Portfolio Assessment 
+Number of Projects Under Implementation a 
+Average Implementation Period (years) b 
+Percent of Problem Projects by Number a, c 
+Percent of Problem Projects by Amount a, c 
+Percent of Projects at Risk by Number a, d 
+Percent of Projects at Risk by Amount a, d 
+Disbursement Ratio (%) e 
+Portfolio Management 
+CPPR during the year (yes/no) 
+Supervision Resources (total US$) 
+Average Supervision (US$/project) 
+
+Memorandum Item 
+Proj Eval by OED by Number 
+Proj Eval by OED by Amt (US$ millions) 
+% of OED Projects Rated U or HU by Number 
+% of OED Projects Rated U or HU by Amt 
+
+Since FY 80 
+20 
+195.0 
+20.0 
+11.4 
+
+Last Five FYs 
+0 
+0.0 
+0.0 
+0.0 
+
+a.  As shown in the Annual Report on Portfolio Performance (except for current FY). 
+b.  Average age of projects in the Bank's country portfolio. 
+c.  Percent of projects rated U or HU on development objectives (DO) and/or implementation progress (IP). 
+d.  As defined under the Portfolio Improvement Program. 
+e.  Ratio of disbursements during the year to the undisbursed balance of the Bank's portfolio at the  
+     beginning of the year: Investment projects only. 
+*   All indicators are for projects active in the Portfolio, with the exception of Disbursement Ratio, 
+    which includes all active projects as well as projects which exited during the fiscal year. 
+
+27 
+
+ 
+ 
+ 
+  
+  
+  
+ 
+Annex 4: IFC Investment Operations Program 
+
+Original Commitments (US$ millions) 
+
+ 2009 2010 2011 
+
+IFC and Participants 
+IFC's Own Accounts 
+only 
+
+4.76 
+
+4.76 
+
+Original Commitments by Sector (%)- IFC Accounts only
+
+OIL, GAS AND 
+MINING 
+
+Total 
+
+100 
+100 
+
+0
+
+Original Commitments by Investment Instrument (%) - IFC Accounts only 
+
+Equity 
+
+Total 
+
+100 
+100 
+
+0
+
+* Data as of July 01, 2011 
+
+0 
+
+0 
+
+28 
+
+ 
+ 
+ 
+ 
+  
+Annex 5: Summary of Nonlending Services 
+
+As of July 2011 
+
+Completion FY Cost (US$000) 
+
+Audiencea Objectiveb 
+
+Product 
+Recent Completions 
+Public Expenditure Review 
+ICA follow up; Informality survey and TA 
+Agriculture and Environment Policy Notes 
+FBSA Water Sector Reform (Phase 2) 
+Climate Change Policy Note 
+Accrual Accounting Guide 
+Underway 
+Skills and Competitiveness 
+Public Sector Management Justice & Law TA 
+Financial Sector Development Strategy 
+Strengthening Accounting Oversight Board 
+Enhancing Supervision of Capital Markets 
+Programmatic DPR (Policy Notes) 
+Public Expenditure Management TA 
+Planned 
+Competitiveness and Diversification TA 
+Social Safety Net Review 
+TA to Public Private Partnerships 
+Climate Change Adaptation FBSA 
+Poverty Assessment 
+Health Public Expenditure Review  
+FBSA Water Sector Reform (Phase 3) 
+a. Government, Donor, Bank, Public Dissemination 
+b. Knowledge Generation, Public Debate, Problem-solving 
+
+FY10 
+FY10 
+FY10 
+FY11 
+FY11 
+FY11 
+
+FY12 
+FY12 
+FY12 
+FY12 
+FY12 
+FY12 
+FY12 
+
+FY12 
+FY12 
+FY13 
+FY13 
+FY13 
+FY13 
+FY13 
+
+471 
+71 
+70 
+463 
+58 
+45 
+
+G, B 
+G, B, P 
+G, B 
+G, B 
+G, B 
+G, B 
+
+KG, PS 
+KG, PS 
+KG, PS 
+KG, PS 
+KG 
+PS 
+
+212 
+G, B 
+KG, PS 
+75 
+G, B 
+PS 
+200 G, B, D, P 
+KG, PS 
+34 
+G 
+KG, PS 
+191 
+G, B 
+KG, PS 
+200 G, B, D, P KG, PS, PD 
+100 
+G, B 
+KG, PS 
+
+50 G, B, P, D 
+PD PS 
+50 G, B, D, P 
+KG, PS 
+50 
+G, B 
+PS 
+400 
+G, B, P 
+PD, PS 
+250 G, B, D, P KG, PS, PD 
+100 
+G, B 
+KG, PS 
+250 
+G, B 
+KG, PS 
+
+29 
+
+ 
+ 
+  
+ 
+Annex 6: Key Economic Indicators 
+
+Botswana - Key Economic Indicators
+
+2005
+
+A ctual     
+2006
+2007
+
+Es t imate
+2009
+
+2008
+
+2010
+
+Pro jected
+2011
+2012
+
+2013
+
+Ind icato r
+National accounts (as % of GDP)
+Gro s s domes t ic p roducta
+   A gricu ltu re
+   Indus try
+   Serv ices
+
+To tal Cons ump t ion
+Gro s s domes t ic fixed inves tmen t
+   Governmen t inves tmen t
+   Private inves tmen t
+
+100
+2
+51
+48
+
+11
+25
+7
+17
+
+100
+2
+54
+44
+
+10
+22
+6
+16
+
+10255
+
+11255
+
+51
+34
+89
+87
+
+47
+31
+90
+91
+
+Exports (GNFS)b
+Impo rts (GNFS)
+Gro s s domes t ic s av ing s
+Gro s s nat ional s av ings c
+Memo randum i tems
+Gro s s domes t ic p roduct 
+(US$ million at curren t p rices )
+GNI per cap ita (US$, A t las method )
+5180
+Real annual growth rates (%, calcu lated from 94 p rices )
+   Gros s domes t ic p roduct at market p rices
+1.6
+5.1
+   Gros s Domes t ic Income
+2.3
+5.0
+Real annual per cap ita growth rates (%, calcu lated from 94 p rices )
+   Gros s domes t ic p roduct at market p rices
+0.5
+3.9
+   To tal con s ump t ion
+2.5
+1.2
+   Private con s ump t ion
+-2.2
+3.9
+Balance of Payments (US $ mi l l ions )
+  Exports (GNFS)b
+      Merchand is e FOB
+   Imports (GNFS)b
+      Merchand is e FOB
+  Res ou rce balance
+  Net cu rren t tran s fers
+  Cu rren t accoun t balance
+  Net p rivate fo reign d irect inves tmen t
+  Long-term loans (net)
+    Official
+    Private
+
+5277
+4444
+3550
+2686
+1727
+672
+1564
+223
+..
+-26
+..
+..
+-1377
+
+5730
+
+5292
+4521
+3451
+2617
+1841
+871
+1939
+437
+..
+-40
+..
+..
+-1757
+
+  Other cap ital (net , incl. erro rs & omm ission s)
+
+  Change in res erves d
+Memo randum i tems
+Res ource balance (% o f GDP)
+Real annual growth rates ( YR94 p rices )
+  Merchand is e exports (FOB)
+    Primary
+    Manu factu res
+  Merchand is e impo rts (CIF)
+
+16.8
+
+1.5
+3.1
+38.5
+-9.1
+
+16.4
+
+15.4
+21.5
+-43.8
+-11.0
+
+100
+2
+53
+45
+
+10
+24
+9
+15
+
+48
+36
+90
+93
+
+100
+2
+53
+45
+
+10
+23
+12
+11
+
+42
+38
+90
+93
+
+100
+2
+40
+57
+
+11
+28
+15
+13
+
+32
+43
+89
+94
+
+100
+2
+45
+52
+
+12
+26
+13
+13
+
+33
+40
+88
+91
+
+100
+3
+45
+51
+
+0
+26
+11
+15
+
+31
+32
+100
+102
+
+100
+3
+47
+58
+
+0
+26
+10
+16
+
+29
+30
+100
+103
+
+100
+3
+47
+58
+
+0
+22
+9
+13
+
+27
+27
+100
+103
+
+12376
+
+13473
+
+11474
+
+14857
+
+14508
+
+16362
+
+18459
+
+6100
+
+6620
+
+6450
+
+7020
+
+7290
+
+8180
+
+8750
+
+2.9
+-0.2
+
+1.6
+5.0
+3.3
+
+5707
+4789
+5580
+4458
+127
+1010
+473
+617
+..
+-12
+..
+..
+-1092
+
+0.9
+
+-5.7
+-5.4
+-20.8
+-84.0
+
+-4.9
+-8.0
+
+-6.1
+9.2
+14.3
+
+3477
+3462
+4121
+4121
+-644
+1067
+-244
+0
+..
+957
+..
+..
+-13
+
+-5.6
+
+-35.7
+-46.9
+-28.3
+102.5
+
+7.2
+7.9
+
+5.9
+5.6
+8.7
+
+4112
+4112
+4599
+4595
+-487
+1119
+-33
+347
+..
+264
+..
+..
+231
+
+-3.3
+
+13.9
+3.8
+17.6
+28.9
+
+4.8
+9.5
+
+3.5
+3.1
+3.5
+
+4479
+4437
+4682
+4682
+-203
+1137
+94
+372
+..
+183
+..
+..
+-268
+
+-1.4
+
+12.9
+27.1
+6.8
+12.3
+
+7.2
+6.1
+
+5.9
+6.0
+6.9
+
+4686
+4640
+4836
+4836
+-150
+1362
+350
+376
+..
+23
+..
+..
+7
+
+7.4
+8.2
+
+6.1
+7.3
+8.4
+
+4963
+4915
+4988
+4988
+-25
+1362
+542
+403
+..
+16
+..
+..
+-202
+
+-0.9
+
+-0.1
+
+-100.0
+-100.0
+-100.0
+-100.0
+
+..
+..
+..
+..
+
+4.8
+5.5
+
+3.5
+3.4
+2.7
+
+5902
+5053
+4471
+3443
+1430
+1105
+1798
+444
+..
+-27
+..
+..
+-1742
+
+11.6
+
+3.1
+-1.3
+96.9
+18.9
+
+30 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Botswana- Key Economic Indicators (Continued) 
+
+Indicator 
+Indicator 
+
+Public finance (as % of GDP at market prices)e 
+Current revenues 
+Current expenditures 
+
+Current account surplus (+) or deficit (-) 
+Capital expenditure 
+Foreign financing 
+Monetary indicators 
+M2/GDP 
+Growth of M2 (%) 
+Private sector credit growth / 
+total credit growth (%) 
+
+Price indices( YR94 =100) 
+Merchandise export price index 
+Merchandise import price index 
+Merchandise terms of trade index 
+
+Consumer price index  (% change) 
+GDP deflator (% change) 
+
+Actual      
+2006 
+2007 
+
+Estimate 
+2009 
+
+2008 
+
+2010 
+
+Projected 
+2011 
+2012 2013 
+
+2005 
+
+40.5 
+26.6 
+
+13.9 
+6.7 
+0.0 
+
+28.0 
+10.6 
+
+39.8 
+24.0 
+
+15.8 
+5.6 
+0.1 
+
+37.4 
+67.4 
+
+37.7 
+24.5 
+
+13.2 
+8.2 
+-0.1 
+
+42.4 
+31.2 
+
+33.1 
+26.0 
+
+7.1 
+12.2 
+-0.2 
+
+42.4 
+21.1 
+
+32.9 
+31.2 
+
+1.7 
+16.7 
+7.8 
+
+46.7 
+-1.8 
+
+32.8 
+26.9 
+
+5.9 
+11.9 
+1.3 
+
+44.1 
+16.1 
+
+34.8 
+28.8 
+
+6.0 
+10.7 
+0.1 
+
+47.9 
+9.5 
+
+37.8 
+27.4 
+
+10.4 
+10.0 
+0.1 
+
+37.6 
+25.9 
+
+11.7 
+9.5 
+-0.1 
+
+-27 
+
+-32 
+
+-79 
+
+202 
+
+21 
+
+44 
+
+42 
+
+86.1 
+75.9 
+82.2 
+82.7 
+140.9 152.1 167.7 653.9 
+61.1 
+49.9 
+49.0 
+12.6 
+
+93.0 
+96.9 
+92.7 
+604.3 523.4 474.9 
+15.4 
+18.5 
+19.5 
+
+8.6 
+9.3 
+
+11.6 
+19.2 
+
+7.0 
+10.4 
+
+12.7 
+17.7 
+
+8.1 
+-6.1 
+
+6.7 
+14.7 
+
+6.3 
+-3.9 
+
+5.6 
+5.2 
+
+5.4 
+5.0 
+
+a.   GDP at  
+b.  "GNFS" denotes "goods and nonfactor services." 
+c.  Includes net unrequited transfers excluding official capital grants. 
+d.  Includes use of IMF resources. 
+e.   Consolidated central government. 
+f.  "LCU" denotes "local currency units." An increase in US$/LCU denotes appreciation. 
+
+31 
+
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+Indicator 
+Total debt outstanding and  
+disbursed (TDO) (US$m)a 
+Net disbursements (US$m)a 
+Total debt service (TDS) (US$m) 
+
+Debt and debt service indicators (%) 
+
+   TDO/XGSb 
+   TDO/GDP 
+   TDS/XGS 
+   Concessional/TDO 
+
+IBRD exposure indicators (%) 
+   IBRD DS/public DS 
+   Preferred creditor DS/public DS 
+(%)c 
+   IBRD DS/XGS 
+   IBRD TDO (US$m)d 
+      Of which present value of 
+      guarantees (US$m) 
+   Share of IBRD portfolio (%) 
+   IDA TDO (US$m)d 
+
+IFC (US$m) 
+   Loans 
+   Equity and quasi-equity  /c 
+
+MIGA 
+   MIGA guarantees (US$m) 
+
+7.0 
+6.4 
+1.1 
+57.4 
+
+0.0 
+
+44.7 
+0.0 
+0 
+0 
+
+0 
+5 
+
+17 
+13 
+
+43.5 
+16.1 
+1.9 
+70.9 
+
+0.0 
+
+59.6 
+0.0 
+0 
+0 
+
+0 
+5 
+
+18 
+10 
+
+46.2 
+19.3 
+2.0 
+51.7 
+
+1.3 
+
+74.7 
+0.0 
+141 
+121 
+
+0 
+4 
+
+7 
+14 
+
+39.2 
+20.6 
+2.1 
+61.3 
+
+2.6 
+
+43.6 
+0.0 
+173 
+121 
+
+0 
+4 
+
+20 
+11 
+
+48.9 
+20.0 
+2.3 
+68.1 
+
+3.9 
+
+64.1 
+0.0 
+231 
+121 
+
+0 
+3 
+
+20 
+11 
+
+7.8 
+4.4 
+0.9 
+65.4 
+
+2.3 
+
+69.2 
+0.0 
+2 
+0 
+
+0 
+7 
+
+2 
+8 
+
+0 
+
+6.5 
+3.4 
+1.0 
+64.2 
+
+2.1 
+
+67.5 
+0.0 
+1 
+0 
+
+0 
+6 
+
+0 
+7 
+
+0 
+
+7.1 
+3.7 
+0.8 
+52.5 
+
+2.4 
+
+66.0 
+0.0 
+0 
+0 
+
+0 
+6 
+
+0 
+6 
+
+0 
+
+Annex 7: Key Exposure Indicators 
+
+2005 
+447 
+
+2006 
+382 
+
+Actual      
+2007 
+458 
+
+2008 
+431 
+
+2009 
+1767 
+
+Estimated 
+2010  
+2363 
+
+Projected 
+2012 
+2642 
+
+2011  
+2483 
+
+-1 
+51 
+
+-65 
+58 
+
+-15 
+52 
+
+-26 
+69 
+
+905 
+78 
+
+188 
+101 
+
+121 
+130 
+
+15 
+125 
+
+2013 
+2760 
+
+-11 
+
+48.8 
+12.9 
+0.0 
+8.5 
+
+.. 
+
+.. 
+0.1 
+295 
+121 
+
+0 
+3 
+
+20 
+11 
+
+0 
+
+0 
+
+0 
+
+12 
+
+12 
+
+12 
+
+a. Includes public and publicly guaranteed debt, private nonguaranteed, use of IMF credits and net short- term capital. 
+
+b.  "XGS" denotes exports of goods and services, including workers' remittances 
+
+c. Preferred creditors are defined as IBRD, IDA, the regional multilateral development banks, the IMF, and the Bank for International 
+Settlements 
+d. Includes present value of guarantees. 
+
+e. Includes equity and quasi-equity types of both loan and equity instruments. 
+
+32 
+
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+Annex 8: Operations Portfolio (IBRD/IDA and Grants) 
+
+As of 7/15/2011 
+
+Closed Projects 
+
+IBRD/IDA* 
+Total Disbursed (Active) 
+of which has been repaid 
+Total Disbursed (Closed) 
+of which has been repaid 
+Total Disbursed (Active + Closed) 
+of which has been repaid 
+Total Undisbursed (Active) 
+Total Undisbursed (Closed) 
+Total Undisbursed (Active +Closed 
+
+Active Projects 
+
+25 
+
+56.2
+0.0 
+0.0 
+14.1 
+56.2 
+14.1 
+316.2 
+0.0 
+316.2 
+
+Project 
+ID 
+
+Project name 
+
+Last PSR 
+Supervision Rating 
+Dev. 
+Imp. 
+Obj. 
+Progress 
+
+Fiscal 
+Year 
+
+Original Amount in US$ 
+Millions 
+IDA Grant Cancel Undisb. 
+
+IBRD 
+
+Difference 
+Between 
+Expected and 
+Actual 
+Disbursements 
+Org 
+Frm 
+rev’d 
+
+P102299 
+
+BW-HIV/AIDS Project SIL 
+(FY09) 
+
+P102368 
+
+BW-Integrated Transport 
+SIL (FY09) 
+
+P112516 
+
+BW:Morupule Generation 
+and Transmission 
+
+S 
+
+S 
+
+S 
+
+S 
+
+S 
+
+S 
+
+2009 
+
+50.0 
+
+40.5 
+
+16.5 
+
+3.5 
+
+2009 
+
+186.0 
+
+182.6 
+
+30.6 
+
+2010 
+
+136.4 
+
+93.1 
+
+-43.3 
+
+P095617 
+
+NB Human Wildlife 
+Coexistence Project 
+
+MS 
+
+MU 
+
+2010 
+
+Overall Result 
+
+372.4 
+
+5.5 
+
+5.5 
+
+3.4 
+
+-0.9 
+
+319.6 
+
+2.9 
+
+3.5 
+
+33 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annex 9:  Committed and Disbursed Outstanding Investment Portfolio (IFC) 
+
+As of July 2011 
+(In USD Millions) 
+
+FY 
+Approval Company 
+
+Loan Equity 
+
+Committed 
+**Quasi 
+Equity 
+
+*GT/RM 
+
+Partici  
+pant 
+
+Disbursed Outstanding 
+**Quasi 
+Equity 
+
+*GT/RM 
+
+Loan Equity 
+
+Partici  
+pant 
+
+2001/08 
+2005/08 
+
+    2003 
+    2010 
+
+Afrbnkcorp 
+Letshego 
+Petra 
+diamonds 
+Tsodilo 
+
+0 
+6.84 
+
+0 
+0 
+
+4.68 
+3.9 
+
+0.54 
+3.4 
+
+13.55 
+0 
+
+0 
+0 
+
+Total Portfolio: 
+
+6.84 
+
+12.52 
+
+13.55 
+
+0 
+0 
+
+0 
+0 
+
+0 
+
+0 
+0 
+
+0 
+0 
+
+0 
+
+0 
+6.84 
+
+0 
+0 
+
+4.68 
+3.9 
+
+0.54 
+3.4 
+
+13.55 
+0 
+
+0 
+0 
+
+6.84 
+
+12.52 
+
+13.55 
+
+0 
+0 
+
+0 
+0 
+
+0 
+
+0 
+0 
+
+0 
+0 
+
+0 
+
+* Denotes Guarantee and Risk Management 
+Products. 
+** Quasi Equity includes both loan and equity types. 
+
+34 
+
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+

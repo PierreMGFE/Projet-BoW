@@ -1,0 +1,6818 @@
+Public Disclosure Authorized
+
+Document of
+
+Public Disclosure Authorized
+
+The World Bank
+
+Report No. 25436-GM
+
+MEMORANDUM OF THE PRESIDENT
+OF THE
+
+Public Disclosure Authorized
+
+INTERNATIONAL DEVELOPMENT ASSOCIATION
+TO THE
+EXECUTIVE DIRECTORS
+ONA
+COUNTRY ASSISTANCE STRATEGY
+OF THE WORLD BANK GROUP
+
+Public Disclosure Authorized
+
+FOR THE REPUBLIC OF THE GAMBIA
+
+February 10, 2003
+
+Country Department 14
+Africa Region
+
+CURRENCY EQUIVALENTS
+Currency Unit = Gambian Dalasi (GMD)
+US$1
+= 22 GMD (01/31/03)
+
+WEIGHTS AND MEASURES
+Metric system
+
+FISCAL YEAR
+January I - December 31
+
+ABBREVIATIONS AND ACRONYMS
+A BD African Development Bank
+APL Adaptable Program Loan
+BAIDEA Banque Arabe pour le Developpement
+Economique en Afrique
+C1IEMP Capacity Building for Economic Management
+Project
+CDD Community Driven Development
+CFAA Country Financial Accountability Assessment
+CPAR Country Procurement Assessment Report
+CPPR Country Portfolio Performance Review
+DF1ID Department for International Development
+(U.K.)
+DOSFEA Department of State for Finance and
+Economic Affairs
+DSA Debt Sustainability Analysis
+DPER Development Policy Review
+ECODWAS Economic Community of West African States
+EU European Union
+GDA Gambian Divestiture Agency
+GDIP Gross Domestic Product
+GEF Global Environment Facility
+GPPA Gambia Public Procurement Authority
+
+llFMIS
+
+PRU
+PRGF
+PRSC
+PESP
+PSA
+PSIA
+SDR
+SWAP
+
+Integrated Financial Management Information
+System
+Joint Staff Assessment
+Learning and Innovation Loan
+Millennium Development Goal
+Medium Term Expenditure Framework
+National Water and Electricity Company
+Net Present Value
+Organization of Petroleum Exportng
+Countries
+Public Expenditure Review
+Population/Health/Nutrition
+Participatory Health, Population and Nutrition
+Project
+Project Implementation Unit
+Poverty Reduction and Growth Facility
+Poverty Reduction Support Credit
+Poverty Reduction Strategy Paper
+Private Sector Assessment
+Poverty and Social Impact Analysis
+Special Drawing Right
+Sector Wide Approach
+
+WAEMU
+
+West African Economic and Monetary Union
+
+JSA
+Ll[L
+MDG
+MTEF
+NAWEC
+NPV
+OPEC
+PER
+PEN
+PHR1PNP
+
+Vice President:
+Country Director:
+Country Program Coordinator
+and CAS Team Leader:
+
+Callisto E. Madavo
+John McIntire
+Mary Barton-Dock
+
+THE GAMBIA
+Country Assistance Strategy
+CONTENTS
+EXECUTIWE SUMMARY .............................................................
+
+iii
+
+INTRODUCTION .............................................................
+Background .............................................................
+
+1
+1
+
+I.
+
+II. MACROECONOMIC ANALYSIS AND SOURCES OF GROWTH .............................. 2
+2..................................2
+Results of the Development Policy Review ..........................
+4
+Economic Developments Since the Previous CAS .............................................................
+6
+Anti-Money Laundering .............................................................
+Respecting Core Labor Standards ............................................................. 7
+7
+Sources of Growth ............................................................
+
+mI.
+
+THE GAMBIA'S DEVELOPMENT AGENDA ............................................................
+Poverty Analysis in the PRSP .............................................................
+Policy Framework Developed in The Gambia's PRSP ..........................................................
+Extemal Financing Requirements ............................................................
+Consultation Process ............................................................
+
+10
+0
+10
+13
+13
+
+IV. BANK'S PERFORMANCE AND EXPERIENCE UNDER PREVIOUS CAS..............
+Performance Under the Previous CAS ............................................................
+The Existing Portfolio ............................................................
+IFC and MIGA ............................................................
+Role of Other Partners ............................................................
+
+15
+15
+17
+18
+19
+
+V.
+
+The FY03-05 CAS .............................................................
+Strategic Selectivity ............................................................
+Non-Lending Services ............................................................
+Lending Amounts, Scenarios and Triggers .............................
+Base Case Scenario ............................................................
+High Case Scenario ............................................................
+Other Options Considered .............................................................
+
+21
+21
+21
+............................... 22
+25
+25
+25
+
+VI. Monitoring Outcomes ............................................................
+Bank Exposure and Debt Sustainability ............................................................
+Risks and Mitigation ............................................................
+
+27
+28
+30
+
+Boxes
+
+Box 1: Poverty Profile .............................................................
+Box 2: What the Bank Heard and Planned Response ............................................................
+
+11
+14
+
+Figures
+Figure
+Figure
+Figure
+Figure
+
+1:
+2:
+3:
+4:
+
+5
+Impact of Domestic Debt Servicing ....................................................................
+7
+....................................................................
+and
+Exports
+Production
+Groundnut
+Gambia
+18
+Disbursement Ratios for The Gambia ...................................................................
+Impact of Lending Scenarios on Debt Sustainability ................................................................... 30
+
+-
+
+ii -
+
+Tables
+Table 1: Selected Economic Indicators, 1995-1997 vs. 1998-2001 ...............................................
+Table 2: PRSP's Key Macroeconomic Objectives ..............................................
+Table 3: 1998 CAS Activities Planned and Achieved ..............................................
+Table 4: Operations Portfolio (As of December 31, 2002) ........................................
+Table 5: Participation of The Gambia's Partners in the PRSP by Sector .....................................................
+Table 6: Advisory Services, FY03-05 ....................................................................
+Table 7: New Lending Scenarios and Budget (US$ million) ....................................................................
+Table 8: CAS Triggers, FY03-05 ....................................................................
+Table 9: The Gambia PRSP Targets and the MDGs ....................................................................
+Table 10: Core CAS Monitoring Benchmarks ....................................................................
+
+4
+12
+15
+17
+20
+22
+23
+26
+27
+29
+
+StandardCAS Annexes
+Annex 1: CAS Table Al - Key Economic and Program Indicators Change from Last CAS ....................... 32
+33
+Annex 2: The Gambia at a Glance ....................................................................
+Annex 3: CAS Table B2 Selected Indicators of Bank Portfolio Performance and Management ................. 35
+36
+Annex 4: CAS Table B3 IDA Program Summary ....................................................................
+Annex 5: CAS Table B3 Bank Group Fact Sheet - IFC and MIGA Program, FYOO-03 ............................. 37
+Annex 6: CAS Table B4 Summary of Non-lending Services .................................................................... 38
+39
+Annex 7: CAS Table B5 Social Indicators ....................................................................
+40
+Annex 8: CAS Table B6 Key Economic Indicators ....................................................................
+42
+Annex 9: CAS Table B7 Key Exposure Indicators ....................................................................
+43
+..............................................
+Annex 10: CAS Table B8 Statement of IFC's Held and Disbursed Portfolio .
+...................................................
+44
+Annex 11: CAS Table B8 Operations Portfolio (IBRD/IDA and Grants) .
+Annex 12: CAS Table B9 Country Partnership Strategy Matrix .................................................................
+45
+Annex 13: CAS Table B IO Summary of Development Priorities ................................................................
+47
+Other CASAnnexes
+Annex 14: IMF-World Bank Relations ....................................................................
+Annex 15: Expenditure Accountability Assessment and Action Plan (AAP) Action Plan Update
+Table ....................................................................
+Annex 16: Debt Sustainability Analysis Update ....................................................................
+
+MAP (IBRD 32253)
+
+48
+52
+53
+
+EXECUTIVE SUMMARY
+i.
+Background. The Gambia has a population of 1.3 million people and is the
+smallest country in Africa with 11,295 square kilometers. It has succeeded in reversing the
+economic deterioration which began after it fell into a severe crisis in the 1980s, followed
+by a coup d'etat in 1994. Since 1997, the country has shown consistent growth, but as yet,
+this has not translated into reduced poverty. It ranks 160th out of 173 countries in the U.N.
+Human Development Index and because of its size, remains very vulnerable to external
+shocks. As such, The Gambia continues to face serious challenges for its future growth
+and poverty reduction.
+ii.
+The Gambia completed its PRSP in July 2002. The country is close to being on
+track to meet the Millennium Development Goals (MDGs'), though it will need a
+concentrated effort in health and education to remain so. It reached its HIPC Decision
+Point in December 2000 and has benefited from interim debt relief under the enhanced
+HIPC Initiative's export window. The Gambia also has the potential to reach its HIPC
+Completion Point in the second half of 2003.
+iii.
+
+The following issues are suggested for Board discussion:
+a. Poverty reduction: Does the Bank program adequately support the PRSP?
+b. Strategic direction: Given the context in The Gambia, is the focus of the CAS
+correct?
+c. Risks: Does the CAS identify sufficient mitigating measures to address the
+risks acknowledged?
+
+iv.
+Recent Performance. Macroeconomic performance under the last Country
+Assistance Strategy (CAS) was quite good with large increases in the average annual
+growth rates of GDP, exports and imports. There were also decreases in the average
+annual growth rates of inflation, the fiscal deficit, and the external deficit. However, in the
+past six months, macroeconomic indicators have worsened, showing that The Gambia is
+still too vulnerable to poor rains. The fiscal deficit and inflation rose and the growth
+estimates for 2002 fell slightly to 4.7 percent. Social outcomes during the same period
+were mixed with encouraging reductions in infant and child mortality and improved
+literacy, but the maternal mortality rate remained very high and there were limited
+improvements in school enrollment at basic levels. During this time, the performance of
+the Bank's portfolio faltered, though there has been recent encouraging improvement.
+v.
+The Gambia's PRSP. The PRSP analysis concludes that urban poverty is on the
+rise, but poverty has increased most in rural areas, with 61percent of the rural population
+falling below the overall poverty line in 1998 as opposed to 41percent in 1992. In
+response to this daunting poverty profile, the Gambians have completed a PRSP based on
+five pillars: (1) Create an enabling policy environment to promote economic growth and
+poverty reduction; (2) Enhance the productive capacity and social protection of the poor
+and vulnerable; (3) Improve coverage of the basic social service needs of the poor and
+vulnerable; (4) Build the capacity of local communities and civil society organizations to
+play an active role in the development process; and (5) Mainstream gender equity,
+environmental issues, nutrition, governance and HIV/AIDS awareness into all
+development programs.
+
+- iv -
+
+vi.
+CAS Objectives. While the CAS was prepared within the framework of the PRSP,
+its strategic vision was further focused as the result of an ongoing DPR, a recent portfolio
+review, consultations with the Government, civil society and other partners. As a result,
+the CAS focuses on the first, third and fourth pillars of the PRSP, with specific objectives
+under these pillars to: improve public expenditure management; enhance the equity and
+quality of service delivery; and, promote private sector-led growth.
+vii.
+Analytical Work. The analytical work planned in the CAS focuses in particular
+on improving public expenditure management. In addition to the DPR, the Country
+Financial Accountability Assessment (CFAA), Country Procurement Assessment Report
+(CPAR) and Public Expenditure Review (PER) will all look more closely at specific
+aspects of public expenditure management and together will develop a detailed agenda for
+its improvement. The Civil Service Reform Study will examine how to move forward on
+decentralization in a way that will improve staffing, and hence services, in rural facilities.
+The Private Sector Assessment will explore the prospects for private sector-led growth in
+key sectors. Finally, the Poverty Assessment will provide an update to the poverty profile
+and allow progress on the PRSP to be monitored.
+viii. Lending Program and Debt Sustainability. Under the base case (US$25
+million), the Bank plans financing for health, education and rural development, which
+corresponds to the priority sectors established in the PRSP. It also corresponds to the CAS
+objectives of improving service delivery and promoting private sector-led growth. The
+Gambia's IDA Grant allocation of $2.5 million will be used to finance one component of
+the next education operation. If the Government shows its commitment to reform and
+policy performance improves, the Bank would move to the high case lending scenario
+(US$37 million) that support investments in energy and water as well as providing
+program support. The low case (US$10 million) would finance only the planned project in
+education since the Bank considers this to be an essential and well-performing sector. The
+current Debt Sustainability Analysis (DSA) shows that compared to the HIPC Decision
+Point, debt projections have deteriorated due to forecasted declines in the growth rate of
+exports in the near term, but the projected debt to export ratios are still within an
+acceptable range.
+ix.
+Triggers for Base and High Cases. The Gambia is currently in the base case, and
+the triggers for remaining there focus on good portfolio and macroeconomic management
+as well as filling in some of the gaps in the PRSP, taking the initial steps towards better
+expenditure management and pursuing the reform agenda. The triggers for moving to the
+high case scenario envisage a strong improvement in policy performance, particularly in
+the areas of public expenditure management and infrastructure reforms.
+x.
+Risks and Mitigation. The principal risk for the implementation of the CAS is the
+Government's willingness to pursue reform in a sustainable and consistent manner. This is
+mitigated by making progress on reforms a trigger for moving to the high case. Another
+risk stems from the Government's ability to maintain a stable macroeconomic environment
+and focus expenditures on the priority sectors. The Bank and others are providing
+assistance to improve expenditure management. Finally, there are risks associated with
+capacity and governance. The Bank is supporting capacity building and judicial reform
+and will continue to highlight the importance of good governance for attracting private
+investment.
+
+MEMORANDUM OF THE PRESIDENT
+OF THE INTERNATIONAL DEVELOPMENT ASSOCIATION
+TO THE EXECUTIVE DIRECTORS ON A
+COUNTRY ASSISTANCE STRATEGY OF THE WORLD BANK GROUP
+FOR THE REPUBLIC OF THE GAMBIA
+I. INTRODUCTION
+1.
+The Gambia completed its Poverty Reduction Strategy Paper (PRSP) in May
+2002 and the Boards of the World Bank and the IMF discussed it in July 2002. The
+PRSP and its comprehensive poverty analysis provide the framework for this Country
+Assistance Strategy (CAS).1 The CAS has also been informed by an ongoing
+Development Policy Review (DPR), a recent Country Portfolio Performance Review
+(CPPR) and extensive consultations on the World Bank's role in The Gambia.
+Background
+2.
+The Gambia is the smallest country on the African continent with 11,295 square
+kilometers and ranks 160th out of 173 countries in the United Nations Human
+Development Index. The country consists of the two banks of the Gambia River, densely
+populated by about 1.3 million people. 2
+3.
+Presidential elections were held in October 2001, and saw the reelection of the
+incumbent, Yahya Jammeh, for a second term. President Jammeh has been in power
+since taking over in a coup d'6tat in 1994. These presidential elections, which were
+largely endorsed by the international community, were followed by National Assembly
+elections in January 2002. The legislative elections, like the subsequent local elections in
+April 2002, were boycotted by the main opposition United Democratic Party (UDP). As
+a result, the ruling Alliance for Patriotic Reorientation and Construction (APRC) ran
+largely unopposed and won all but three seats in the National Assembly. The results of
+these elections at different levels are that President Jammeh enjoys a new mandate with
+little opposition, which could enable him to undertake significant reforms, but also mean
+that there is a very weak system of checks and balances on the executive. President
+Jammeh has taken advantage of this mandate by keeping a tight grip on the state and
+public administration, and he has recently absorbed under the Presidency both the
+Departments of State for Energy and for Agriculture.
+4.
+The macroeconomic situation in The Gambia is characterized by positive but
+variable results:
+*
+
+Real per capita incomes declined slightly during the 1990s with a real
+GDP that grew by an average of 3.3 percent per year and population
+growth of 3.5 percent per year.
+
+'The Gambia Poverty Reduction Strategy Paper and JSA, Report No. 24366.
+2 The last census in The Gambia was in 1993. This figure is a UN estimate as of mid-2001.
+
+-2 *
+
+However, real GDP growth jumped to an average of 5.3 percent per
+year from 1998 to 2001, exceeding population growth which remained
+high at approximately 3 percent per year. The PRSP projects
+continued growth at 6 percent per year through 2005, increasing
+thereafter.
+
+*
+
+Inflation has remained moderate during this period of growth (4 to 8
+percent per year); however, the Government has run up its stock of
+domestic debt. Interest rates on T-Bills have climbed steadily in recent
+years and this has increased the amount of government resources going
+to service this debt and has crowded the private sector out of the
+financial markets.
+Fiscal control slipped in 2002 with expenditures much higher than
+programmed. This led to the IMF being unable to conclude its Poverty
+Reduction and Growth Facility (PRGF) review in October 2002.
+
+*
+
+5.
+Social outcomes have been encouraging in certain areas, especially in reducing
+infant and child mortality. Indicators for maternal mortality are still quite high and child
+malnutrition rates are lagging behind as well. As presented in Table 8, The Gambia is in
+a position to meet the Millennium Development Goals (MDGs) in health, but only with a
+very concentrated effort from this point forward. In education, literacy is improving and
+gender disparity declining; however, gross enrollment rates for both males and females at
+lower basic level have improved little over the last five years. Moreover, at higher levels
+of education, there is still a significant gap between the participation of males and
+females. Like those in the health sector, policy makers in education must really focus if
+they are to meet the MDGs, but this is within reach.
+6.
+The Gambia reached its HIPC Decision Point in December 2000 and has
+benefited from interim debt relief under the enhanced HIPC Initiative's export window.
+At the end of 2001, the Government had made good progress toward fulfilling many of
+its HIPC conditions. The country could reach HIPC completion point before the end of
+2003, if it maintains satisfactory macroeconomic performance and continues to show
+adequate performance in health and education.
+II. MACROECONOMIC ANALYSIS AND SOURCES OF GROWTH
+Results of the Development Policy Review
+7.
+Given the framework developed in the PRSP, the World Bank is conducting a
+Development Policy Review (DPR) to identify past strengths and weaknesses in policy
+implementation which might hinder successful implementation of the PRSP. The
+objective of taking this longer term perspective was to look at trends which might pose
+risks for meeting the six percent growth rate sought in the PRSP. The DPR identifies the
+following challenges:
+(i) Improving development outcomes in The Gambia will require
+addressing a "stop go" commitment to reform. External shocks such as
+
+- 3regional instability, drought and deteriorating terms of trade only make it more
+. pressing that domestic policy be consistent and effective. The scorecard in this
+respect shows that periods of successful adjustment have been mixed with poor
+macroeconomic policies and heavy-handed intervention by the Government.
+Incomplete structural reforms have failed to create an attractive investment
+climate or to develop cost-effective infrastructure services.
+(ii) Growth and poverty reduction require stability and good governance.
+Events such as the 1994 military coup, the seizure of groundnut assets, the
+noncompetitive award of contracts, and the unexplained discharge of key public
+officials in 2000 and 2001, all had a negative impact on the country's image. The
+awareness of the importance of good governance for growth promotion led to
+identification of governance as one of the priorities in the PRSP adopted in May
+2002. Authorities must embrace this aspect of the PRSP convincingly if they
+wish to attract investors.
+(iii) The expansion of domestic debt is threatening macroeconomic stability.
+The issuance of T-Bills has been a major source of financing for the fiscal deficits
+and of absorption of excess liquidity in the banking system. As a result, the share
+of interest payments on domestic debt in recurrent expenditures averaged about
+20 percent in the period 1997-2001. Coincidentally, in the latter period,
+expenditures in the education and health sectors fell by about the same proportion
+of GDP that domestic interest payment increased. In addition, capital
+expenditures were crowded out. In order to contain the growth of its domestic
+debt, The Gambia must reduce its fiscal deficits and find more concessional
+financing for deficits that cannot be eliminated.
+(iv) Limited resources for the social sectors are further hampered by
+inadequate effectiveness and efficiency in their spending. In 2002, Public
+Expenditure Reviews (PERs) in education, health and agriculture highlighted
+problems with tracking expenditures. This has hampered achievements in health
+care and education and, if not addressed, might put improvements in these sectors
+at risk. In the long term, this will lead to a failure to develop the human resource
+base needed to exploit The Gambia's comparative advantages.
+Looking at The Gambia's development since independence, the DPR notes that
+8.
+the country has succeeded in reversing the economy's deteriorating path, which was the
+consequence of poorly designed policies adopted after the mid- 1970s. After falling into a
+severe crisis in the mid-80s and early-90s, progress has been achieved since 1997 in
+laying the foundation for sustainable growth. Despite these improvements, exogenous
+risks such as erratic rainfall, declines in the terms of trade, regional instability are not
+negligible. Nonetheless, thus far, the track record reveals that the key risk is the
+Government's commitment to addressing the country's structural weaknesses in a
+sustained manner.
+9.
+The analysis in the DPR presents three scenarios for the future of The Gambia's
+development: the status quo, pro-poor reforms, or deteriorating policy-making. The
+
+assumptions made in the pro-poor scenario are consistent with the recommendations of
+the PRSP. In the pro-poor scenario, there is a substantial decline in poverty by 2008, but
+this assumes no external shocks, which may be optimistic.
+10.
+Like the PRSP, the DPR concludes that to achieve the growth and poverty
+reduction desired, the Government must focus on: (i) containing deficits and a growing
+domestic debt that has crowded out the Government's priority spending; (ii) improving
+the investment climate in order to encourage private sector-led growth and economic
+diversification; (iii) investing in people by expanding access to and the quality of social
+services; and (iv) strengthening public expenditure management by strengthening
+systems and clarifying the role of the state.
+Economic Developments Since the Previous CAS
+11.
+Since 1998, real GDP has grown steadily, by an average of 5.3 percent per year.
+This significant growth followed a long period of stagnation, and it reflects progress on
+policy reform, but also reflects four years of favorable weather. As such, it is sustainable
+only if policy reforms keep pace and even accelerate to protect the country from external
+shocks.
+12.
+Most of the other economic indicators also progressed on average during the
+period of the last CAS as reflected in Table 2 below. The Gambia succeeded in reducing
+its external current account deficit from 1998 through 2000, but it grew slightly again in
+2001 to -14.8 percent of GDP, due in part to the unprogrammed importation of electricity
+generators. Exports, primarily groundnuts and re-exported goods, grew steadily
+throughout the period.
+Table 1: Selected Economic Indicators, 1995-1997 vs. 1998-2001
+(Avg. annual percentage change, unless otherwise indicated)
+
+Indicator
+Real GDP
+Groundnut Production (mt)
+Consumer Price Index
+Exports f.o.b.
+Imports
+Fiscal balance, excl. grants (in % of GDP)
+External current account balance, excl. grants (in % of
+GDP)
+Official reserves in months of imports (millions of
+SDRs)
+
+1995-1997
+1.9
+70.0
+3.4
+-3.1
+-0.5
+-9.1
+-14.0
+5.6
+
+1998-2001
+5.3
+120.9
+2.5
+9.3
+8.2
+-5.4
+-12.6
+5.5
+
+Source: IMF staff report
+13.
+From 1998 to 2000, the fiscal situation stabilized. The overall budget deficit had
+been contained at an average level of 4.3 percent of GDP during this period, but
+
+increased to 8.7 percent of GDP in 2001 due to a one-time repayment to Alimenta for the
+groundnut processing plant and increased expenditures related to elections. Domestic
+revenues also faltered from 19.6 percent of GDP in 2000 to 17.3 percent in 2001. This
+reflected weak tax administration, falling revenues from transit trade, and arrears to the
+Government from some public enterprises.
+Although fiscal balances improved prior to 2001, the composition of expenditures
+14.
+did not improve. Education expenditures have fallen as a share of total expenditures
+from 13.1 percent in 1999 to 12.3 percent in 2001. Similarly, overall expenditures in the
+priority sectors (health, education and agriculture) have also fallen slightly as a share of
+total expenditures during this period. This was in spite of the HIPC resources which were
+available to the social sectors in 2001.
+Since 1993, the composition of expenditures has been affected by the increasing
+15.
+share servicing the domestic debt, which is unaffected by HIPC relief. In 2000, domestic
+debt servicing absorbed approximately 19 percent of domestic revenues and this grew to
+23 percent in 2001. As shown in
+Figure 1: Impact of Domestic Debt Servicing
+Figure 1, the servicing of this debt is
+squeezing out expenditures on social
+services and capital investments. The
+stock of domestic debt held in T-Bills
+6
+reached 31 percent of GDP by end-2001.
+a5
+As the stock of debt has grown, so has
+a4
+the interest rate on these T-Bills, which
+aa 3
+rose from 12 percent in 2000 to 15
+0
+2percent in 2001 and 18 percent in 2002.
+~
+0
+These higher rates are also harming the
+private sector, which must compete with
+1997-2001
+199496
+199093
+19859
+the Government for access to credit and
+finds these rates prohibitive for most
+Educ
+and
+Health
+-- Experdtues on
+--- Expenditures on Domestic Debt
+
+The recent slippage of fiscal control is linked in part to the elections. However,
+16.
+there is also a need to systematically strengthen both the volume and the quality of public
+expenditures. The fiduciary issues surrounding the budget and the reforms which are
+under way or planned are described below:
+*
+
+Budget Formulation: Budgets are planned centrally, with little participation. Not
+all expenditures are included in the government budget. The Gambia has embarked
+on PERs in selected sectors and is expected to introduce program-based budgeting.
+These actions will enhance budgeting capacity in the medium term.
+
+*
+
+Budget Execution: Commitments are not clearly recorded and data reconciliation is
+not undertaken regularly. The authorities have recognized the significance of
+regular fiscal and monetary data reconciliation and have also planned for the
+computerization of the existing internal audit function and tracking surveys.
+
+-6*
+
+Budget Reporting: Reporting is the most problematic area. There are delays in
+reporting from line ministries and some project-financed expenditures run their own
+accounting cycle. The Government has failed to submit audited accounts to the
+legislature for many years. Steps are being taken to speed up the process and
+eliminate or substantially reduce the number of accounts. In the medium term, the
+introduction of an Integrated Financial Management Information System (IFMIS) in
+the accountant-general's office with electronic links to spending agencies should
+assist greatly with expenditure control and reporting.
+
+The reforms related to improving public expenditure management which are under way are
+supported by the Bank-financed Capacity Building for Economic Management Project
+(CBEMP) and by the IMF, DFID and UNDP. While there is enough support for all the
+technical assistance required, the Government is working closely with donors to ensure that
+the effort is well coordinated.
+In addition to addressing the issue of public expenditure management, authorities
+17.
+have tackled other reforms related to improving the investment climate. The
+Privatization Act introduced in 2000 established The Gambian Divestiture Agency
+(GDA). The privatization of 10 public enterprises, including three groundnut processing
+plants, has been approved by Cabinet as a result. The Gambia Public Procurement Act
+2001 was gazetted on February 1, 2002. The Act establishes The Gambia Public
+Procurement Authority (GPPA). The IDA-financed CBEMP will provide for its
+establishment and first eight months of operations, after which it should be funded
+through the Government's own budget.
+However, the privatization program has many challenges ahead. The Government
+18.
+needs to complete the privatization of Track II companies, which are the smaller ones,
+and show greater progress toward the privatization of Track I companies, 3 which include
+groundnuts, water and energy, and telecommunications. Having repaid Alimenta, the
+Government has yet to tackle the final sale of the groundnut assets. In addition, the
+Govemment's strategies for privatizing the energy and water utility (NAWEC),
+telecommunications, transportation and the port are not yet clear.
+In November 2002, The Gambia became the third African country to receive a
+19.
+sovereign credit rating by Fitch under a U.S. supported initiative. The report stressed that
+the rating (B minus) would depend upon fulfilling the completion point triggers under the
+enhanced HIPC Initiative, and that failure to do so would lead to downgrading.
+Anti-Money Laundering
+The Gambians have drafted an anti-money laundering bill which should be
+20.
+adopted in the coming months. In addition, The Gambia has ratified nine of twelve
+intemational anti-terrorism conventions and has issued the necessary blocking orders.
+
+I companies are those that are of key importance to the economy and require legislative support to
+facilitate transactions. Track 11 are those that represent other government equity investments that can be
+sold without needing legislative or regulatory support.
+3Track
+
+-7-
+
+Respecting Core Labor Standards
+The Gambia has ratified all eight fundamental conventions of International
+21.
+Labour Organisation (ILO) related to the Core Labor Standards: (i) freedom of
+association and the right to collective bargaining; (ii) equal opportunity and nondiscrimination in employment; (iii) elimination of all forms of forced or compulsory
+labor; and (iv) effective abolition of child labor, with priority to the worst forms.
+Implementation of these standards has not been reviewed comprehensively, but 1LO
+reports indicate that the elimination of child labor is progressing in The Gambia. One
+exception to the implementation of the principle is the Almudu phenomenon. Almudu are
+teenagers who adopt a person with knowledge of Islam and the Qur'an as their master
+teacher. In return, the children do light work for the upkeep of the informal school and
+the master teacher. This phenomenon has strong cultural underpinnings and debates on
+its elimination have touched upon religious and cultural sensitivities.
+Sources of Growth
+In the last four years, the economy has expanded at a relatively high pace, albeit
+22.
+in a context of high population growth. The principal sources of growth remain
+agriculture, tourism and transit trade. Agriculture has benefited from good rains over
+the past three seasons and some degree of diversification away from traditional crop of
+groundnuts. Nonetheless, the production of groundnuts - the main cash crop in The
+Gambia - has increased substantially, as well as the amounts processed and exported
+through official channels (Figure 2). Other crops have also fared well in recent years,
+and fishing grew by an estimated 18 percent in 2001. Despite this good performance, the
+Government's diversification strategy needs to be clearer, as do the institutional
+arrangements for the sector. The Department of State for Agriculture was absorbed under
+the Presidency in November 2002, which hinders transparency in the sector and may
+discourage investors.
+Figure 2: Gambia Groundnut Production and Exports
+
+140,000 120,000100,000o
+0
+I-80,000-
+
+1
+
+60,000 -
+
+c
+
+40,000
+20,000
+0
+
+Producton
+
+\.
+
+Years
+
+Source: World Bank estimate.
+
+- Exports
+
+°
+
+°
+
+- 823.
+The tourism sector has fared less well, with a falling level of tourist arrivals (at
+about 78,000 per year in 2000, down from about 90,000 in 1999). However, the sector
+withstood the drop in tourism worldwide in 2001 fairly well and is now rebounding.
+Moreover, the Govbrnment is introducing measures to help the sector, including
+reclassifying and upgrading hotels, promoting the sector to prospective investors and
+tourists, and marketing The Gambia's impressive bird life to eco-tourists. The Government
+has also tried to stem the trend toward charter tourism, which has a lower local value-added
+content, though it is likely that this will remain an important niche market for The Gambia.
+In fact, in 2002, tourist charters increased and this growth is expected to continue.
+24.
+Globalization and regional integration are both having an impact on The
+Gambia's future. Transit trade has historically accounted for a large share of The
+Gambia's revenues because the country liberalized trade earlier than neighboring countries,
+benefited from being the only English-speaking country in the area and developed a
+relatively efficient port. Transit trade of products such as textiles, vehicles, rice, tea, and
+sugar still provides about 15 percent of GDP, 20 percent of fiscal revenues, and 85 percent
+of all exports. However, the country's re-export trade has been affected by WAEMU's
+common external tariff refofrms and the increased competitiveness of the CFA zone
+following the 1994 devaluation. In 2001, the volume of re-exports increased significantly,
+but the revenues fell slightly as a result of lower tariffs. Policy reforms have enhanced the
+short-term prospects for the volume of transit trade, with a streamlining of the number of
+Gambian tariff bands to four, and a reduction in the highest rate to 18 percent. Banjul
+harbor remains one of the comparatively efficient container ports in Western Africa (it
+takes about two weeks to clear a container through customs in Banjul, as opposed to four
+weeks in Dakar). However, regular border closings with Senegal and the introduction and
+abandonment of a pre-shipment inspection scheme have hindered growth in re-export trade.
+25.
+Though The Gambia maintains some advantages in transit trade, the country must
+now focus on developing new sources of overseas trade. The Gateway Project, which was
+approved by the Board in February 2002, is supporting The Gambia's diversification from
+re-export trade. The strategy behind the Gateway presented a clear vision for export-based
+growth in which The Gambia focused on its key traditional strengths: the tourism industry;
+a trade and services economy; and the growing development of agribusiness. Tourism and
+processed agricultural exports could also develop the critical air links which might allow
+The Gambia to become more competitive in exporting such products as fish, fresh
+vegetables and flowers. The Gateway Project also foresees the development of The
+Gambia as a teleport, where information could be processed and transmitted efficiently.
+26.
+The Gambia must also take advantage of the benefits of regional integration,
+which given the country's small size and location within Senegal's borders are likely to be
+extensive. This process is well under way as The Gambia is a member of no less than 16
+regional organizations related to economic and monetary integration, agriculture, natural
+resources, health, and transport. The most important of these is ECOWAS. The Gambia is
+not a member of WAEMU, as it has its own currency and central bank. However, five
+West African non-WAEMU countries (Ghana, Nigeria, The Gambia, Guinea and Sierra
+Leone) declared their intention to proceed with a monetary union among the non-CFA
+Franc countries of the Region by July 2005. To that end, they have committed themselves
+
+-9-
+
+to achieving a 5 percent inflation rate by 2003; reducing budget deficits to 4 percent of
+GDP and central bank financing of budget deficits to 10 percent of the previous year's
+government revenues; maintaining foreign exchange reserves to six months of imports;
+creating a Convergence Council to help coordinate macroeconomic policies; and setting up
+a common central bank. With regard to these targets, recent economic performance would
+indicate that The Gambia can meet all of them, though fiscal discipline would need to
+improve over that of the last two years (preliminary data place deficits at 8.7 percent of
+GDP for 2001 and around 7.6 percent of GDP for 2002).
+27.
+In addition to progressing towards the standards of ECOWAS, in January 2003 The
+Gambia became eligible to export to the United States under the African Growth and
+Opportunity Act. The Gambia also has reciprocal trade agreements with the U.K. and
+Senegal. Like its ECOWAS membership, these agreements are providing an important
+impetus to The Gambia to pursue needed policy reforms, but the country will need to go
+further to take advantage of the trading opportunities presented. In addition, the Gambia
+should identify sectors where cross-border coordination or investment will yield results.
+The Private Sector Development Forum in November 2002 identified the potential for
+common approaches in agribusiness and tourism, for example, as a way of designing joint
+training and marketing strategies.
+28.
+Taking full advantage of regional cooperation remains critical because the
+Gambians' focus on trade places them in close competition with their neighboring
+countries. Senegal has plans to invest in a new port for bulk shipments as well as a new
+international airport. President Wade has clearly articulated his vision for Senegal to
+become the gateway to West Africa. In parallel, Cape Verde has efficiently pursued the
+upgrade of its airport on the island of Sal, so that it is now the only airport in the region
+with a top certification from the Federal Aviation Authority in the United States, which the
+Cape Verdeans hope will allow it to become a gateway for tourism and aerial transport. In
+order to succeed in increasing trade in The Gambia, enterprises will require investment
+from the private sector and investment in infrastructure. The Government's role in
+advancing The Gambia's bid for its share of regional trade should be to improve the
+investment climate, thereby attracting the necessary investments in infrastructure and the
+private sector.
+29.
+The PRSP acknowledges that the energy and water sectors in The Gambia are two
+of the largest constraints to the country's growth. NAWEC is the state-owned company in
+energy and water, and its future is critical if the private sector led growth envisaged in the
+PRSP is to occur. In 2000 and 2001, NAWEC faced a net loss of US$2.5 million and
+US$1.4 million, respectively. Electricity and water tariffs are low and there are no guiding
+principles for their regulation. In water, the coverage ratio in urban areas is low. Only
+Banjul and the Tourist Development Area have central sewage systems, but sewage is not
+treated in Banjul prior to pumping it into the sea.
+30.
+NAWEC has been granted a monopoly to generate, transport and distribute
+electricity, and it currently covers the Greater Banjul Area and six other centers. In 2001,
+the energy sector was placed under the Presidency, and NAWEC reports directly to that
+office. As of 2001, access to electricity was only 23 percent nationally and 35 percent in
+
+- 10-
+
+Banjul. Peak load is limited to about 26 MW due to generation constraints and suppressed
+demand is estimated at about 5 MW. In the next five years, an additional generation of
+about 15 MW will be needed. Beyond these five years, regional interconnections with
+Guinea and Senegal and the West Africa power grid should provide for additional
+generation. In addition to generation, NAWEC requires significant investment in
+transmission and distribution equipment, as well as improved management. Currently,
+NAWEC is suffering from high losses and relatively low collection rates. It also faces
+environmental problems at its plants and a lack of storage for fuel. There is currently no
+rural electrification strategy. In order to achieve the growth objectives of the PRSP, which
+are presented below, The Gambia will need to remove the constraints posed by a lack of
+adequate water and energy infrastructure.
+III. THE GAMBIA'S DEVELOPMENT AGENDA
+Poverty Analysis in the PRSP
+31.
+The Gambian PRSP presented a sound poverty analysis based on data from
+household surveys in 1989, 1992 and 1998. This data was complemented by a recent
+series of Participatory Poverty Assessments. The results show a dramatic increase in
+poverty between 1992 and 1998. The reasons for this increase are most likely linked to
+declining incomes and ineffective and poorly targeted public expenditures during this
+period. Box 1 below summarizes the poverty profile of The Gambia.
+32.
+The poverty analysis done in the PRSP is impressive, but some of the data sources
+are becoming dated. A new Household Survey (HHS) has recently been launched and a
+new census is scheduled for 2003. The resulting data will greatly enhance The Gambia's
+ability to monitor progress since 1998.
+Policy Framework Developed in The Gambia's PRSP
+33.
+Given the poverty profile described above, The Gambia has focused its PRSP on
+reducing poverty through increasing equity. The PRSP acknowledges the need for
+continued growth, but less emphasis is given to the strategy behind this growth. The
+country identifies five pillars for its policy framework. These pillars are as follows:
+1) Create an enabling policy environment to promote economic growth and
+poverty reduction;
+2) Enhance the productive capacity and social protection of the poor and
+vulnerable;
+3) Improve coverage of the basic social service needs of the poor and
+vulnerable;
+4) Build the capacity of local communities and civil society organizations to
+play an active role in the development process; and
+5) Mainstream gender equity, environmental issues, nutrition, governance
+and HIV/AIDS awareness into all development programs.
+
+BOXi: -Poverty-Profl
+The PRSP anailysis.concltdes that povertyl increased significantly in the 1990s, both with respect to the'
+,fod povertyyline and tboverall povertyline. Urban povert is on the'rise, but e
+poverty
+oxtrene
+has
+,incr,ased most in rural areas, with61,/ of the rural population falling below the overall poverty fine in
+1998asopposedto41%inl992 1,9-,':.,K, ,
+' ''
+The characteristics of rurali"p'overtyoutlined 'inthe PRSP descri,be aypical Garbian'sufferig from
+serious poverty as-a woman living in a remote area, most likely in ihe, Lower or UppertRiver Division, -'
+,worki'ng in agriculture, most,likely as a grooundnut farnier, and 1iving in large household. The
+poverty experienced by hiis personmis characterized by illiteracy,, maln,ourishmient and lack of access to.
+clean-water and sanitation.'O,Cver'9% of the members of extremely poor households who reported
+working saidthat-thatt',worked in'agricultiure. ,Matern'al mortality in'rural-areas was found'to bealmost.
+double ofthat inhurban ,areas.
+a
+-r
+
+Uti' ba1\
+1
+
+cn
+
+-
+
+1
+
+t weeIn.
+CIr z,
+-1
+
+an
+E
+
+Urbianization has: continued in The.Gambia overall but'dwindled-in the'Greater Banjul Area between
+19,83 and 1993. The -2003, c,ensusr'may 'show Banjul growing again,given-the growth- in,tourismiand
+transittrae Th
+derable-seasonal, igration,backto rura areas as axresult of thesmal -'
+size of the country andthe large numberof households participating inagriculture
+,One of'the ,most.imporant determinaniitsofpoveity'was gender, with,women focused'in agriculture andearning significa'ntly lesst,hamenainevery sect,or. Femalepovery is exacerbaedby,the
+t.that
+women cannot'ow land in rural communities and i the evenit of a husband's death, a woman loses
+nfexmely'',
+property to his family. Another,deterninant,was household size, with over ,19 percent of exctre
+-poor households having more than, Ii;members, conpared with just 4 percent of-non-poor households.'
+,'-Poor health'and poverty were also-linked. 'Access to health care favors'the wealthier regions. ,,
+Malnutrition indicators were highertfor-the poorer
+rrregion's. Iricidenceof diarrhea, respiratory-infectionsandfever werealil higher inchildren under-five in the poorest income quintile. Household I',behavior in-response to:child illness,differed as well, with walthier'households more likely to have
+access to antiim-aiarial 'drugs, bed nets anjd re'spirMatory tre atmeits Finally ,though there haven been K'
+,marked,improv=ements in access to safe drinking water (84% f the populatidon in2000 vs. 69% i
+":1996), 25%io of theextremely,poor households'still'u`sd traditionial uncovered welis as theiruslurce'of
+,,waer,-as, opposed to
+,' np
+h,u,, Ios.
+,
+,
+,;
+-
+
+_
+
+a'
+
+'
+
+p o''
+
+,
+
+-
+
+-
+
+'
+
+'
+
+- .
+
+34.
+The PRSP also presents a macroeconomic framework for 2003 to 2005 which is
+largely consistent with the above pillars. In this framework, The Gambia identifies
+
+macroeconomic stability as its key objective, and specifies that this stability should be
+created through market-based incentives conducive to private sector growth and poverty
+alleviation. The macroeconomic framework focuses on:
+a) Strengthening public finances to lower the budget deficit and the levels of
+domestic debt;
+b) Deepening structural reforms to foster growth;
+c) Developing the human resource capacity of the public sector;
+d) Implementing a social sector agenda focusing on health, education and
+agriculture; and
+e) Improving the macro and social databases to facilitate better policy
+formulation focused on poverty reduction.
+
+'
+
+- 12-
+
+35.
+As indicated in Table 2 below, real GDP is projected to grow at six percent per
+year in the PRSP, while the fiscal deficit as a percent of GDP would decline. Exports
+would also continue to grow, though at a declining rate. The growth strategy presented
+focuses on increasing exports in agriculture, tourism and transit trade, but details are very
+limited. The development of these sectoral growth strategies is a key objective for the
+first year of implementation of the PRSP. The CAS projections, which are presented in
+Annex 1, show slightly different rates of GDP growth and inflation which are based on
+more recent information.
+Table 2: PRSP's Key Macroeconomic Objectives
+(annual percentage changes, unless otherwise indicated)
+Indicator
+
+2003
+
+2004
+
+2005
+
+Real GDP growth
+
+6.0
+
+6.0
+
+6.2
+
+Fiscal deficit (excluding grants) as % of GDP
+Exports f.o.b.
+
+2.7
+4.5
+
+2.3
+3.5
+
+1.9
+5.0
+
+12.3
+5.0
+
+11.6
+5.8
+
+10.3
+2.7
+
+5.2
+9.9
+4.0
+
+5.4
+9.6
+3.0
+
+5.5
+9.6
+3.0
+
+Current Account deficit (excluding grants) as % of GDP
+Current Account deficit (including grants) as % of GDP
+Gross official reserves as months of imports (incl. Transit)
+Broad money growth
+Inflation
+Source: PRSP
+
+36.
+The sectors given priority in The Gambia's PRSP are health, education and
+agriculture. The PRSP presents expenditure programs for the priority sectors and for
+some infrastructure sectors, though there was no distinction between capital and recurrent
+expenditures, and downstream recurrent expenditures resulting from capital investments
+were not included. Moreover, since the strategy for infrastructure did not cover all
+priorities, it is likely that the costs will increase.
+37.
+The Joint Staff Assessment (JSA) of the World Bank and IMF concluded that the
+PRSP represented a credible poverty reduction strategy, which had been prepared in a
+participatory manner and included a good analysis of poverty. Staffs concluded that the
+PRSP provided a clear set of indicators for monitoring the implementation of the
+strategies in health and education, but not for agriculture. In addition, the JSA concluded
+that the macroeconomic targets set in the PRSP are achievable if prudent macroeconomic
+policies and key structural reforms are undertaken. The need to develop a full Medium
+Term Economic Framework was flagged, as was the need to present a clear strategy for
+infrastructure development, including for such key sectors as energy and water. In
+
+addition, the JSA identified five risks for the successful implementation of the PRSP,
+which were: regional security tensions; the possible persistence of governance issues;
+limited institutional capacity; inability to finance the PRSP with external resources; and
+adverse external shocks.
+
+- 13 -
+
+External Financing Requirements
+38.
+In its PRSP, The Gambia has presented an indicative funding gap of US$67 million
+for the three-year period of the CAS. However, since the PRSP was completed, the
+Government has updated its costing scenarios and has held a Round Table in September
+2002. In the latest costings presented by the Government, the total cost of PRSP-related
+expenditures from FY03-05 was projected to be US$186 million, of which the Government
+budget would finance US$58.5 million and donors would finance US$69 million, which
+leaves a financing gap of approximately US$58.5 million. However, the first year of PRSP
+expenditures have been adequately covered by the Government and the donors.
+Consultation Process
+In addition to the very participative process followed in the preparation of the
+39.
+PRSP, the Bank pursued further consultations about the specific role of IDA in The
+Gambia's development. In April 2002, a Bank team held consultations on the Country
+Assistance Strategy for 2003-2005. The team met with the Secretaries of State, Permanent
+Secretaries and/or senior staff in each of the development-related Departments of State.
+40.
+In the Department of State for Finance and Economic Affairs, concerns focused on
+the need for better human and technical capacity to monitor the budget process. In
+Agriculture, concerns were to continue the work on research started under a previous
+World Bank project and to expand extension. In Tourism, authorities were keen to share
+the elements of their new strategy and said the focus would be on diversifying and
+upgrading The Gambia's tourist attraction. They expressed a strong desire for investment,
+possibly from the IFC, in the high-end of the hotel industry. In Local Government, the
+Bank presented the challenges inherent in the newly adopted Local Government Act and
+stressed the need for capacity building at the local government level. Both the Health and
+Education, representatives stressed the need for sustained investment in their sectors, while
+conceding that measures to improve the effectiveness of these expenditures were essential.
+The officials from Trade stressed the importance of implementing the ongoing Gateway
+Project successfully and ensuring an improved investment climate along with investments
+supporting infrastructure, particularly electricity.
+41.
+In addition to meeting with government representatives, the team held meetings
+with civil society in three towns and villages. Specifically, nine meetings were held with
+the following groups: the NGO umbrella organization, TANGO; a group of press and
+radio journalists; a group of parliamentarians from the National Assembly; The Gambia
+Teachers' Union; a group of entrepreneurs and private sector operators; a women's group
+from Banjul called WISDOM; the District Development Committee from Mansa Konko;
+the producers association from the village of YBK Fula; and the women's producer
+association from the village of Madina Nfally.
+42.
+In each meeting, the team sought feedback on the way the Bank does business in
+The Gambia and on priorities for IDA financing. The most pressing concerns - based on
+the number of times the subject was raised by different groups - and the Bank's planned
+response are presented in Box 2 below.
+
+- 14-
+
+Box 2: What the Bank Heard and Planned Response
+I. Poor communication by the World Bank: This concern, which was raised 17 times, was the
+only topic raised by every group. Plans to address this: The Bank is in the process of
+recruiting a liaison officer for the World Bank who would be based in Banjul. The principal
+responsibilities of this liaison officer would include improving communications and
+increasing the Bank's response time on procurement-and disbursement issues (see No. 4
+below). The country team has also subsequently agreed to prepare press releases with
+Government at the- end of all major missions.
+2. Need-access to credit: The Bank team heard this from the private sector in Banjul, the village
+associations and the women's group. Their concerns were not only access to credit but also access
+at affordable interest rates. Plans to address this: The Gambia's high interest rates need to be
+addressed through continued reduction of public borrowing domestically. In addition, the
+Bank plan's to address some issues in rural finance through the planned Community Driven
+Development (CDD) operation.
+3 Improve teacher traininn and retention: The high ranking of this concern is affected-by the
+fact that the Bank team met with the teachers' union, where the concern was repeated many times. -Plans to address this: This would be addressed through analysis of civil service reform and
+through the planned second phase of the education APL.4. World Bank processes are slow: Procurement bottlenecks were probably the obstacle raised
+most often; however, many felt that the Bank's lack of presence in Banjul and the need to refer
+back to Washington for most decisions were also reasons for slow implementation. Plans to
+address this: This will be addressed through the creation of a liaison office in Banjul, staffed
+by someone with knowledge of procurement and by the decentralization of task managers to
+Dakar.
+5. Need access to equipment: This concern is clearly linked to credit. If the two were considered
+jointly, they would be overwhelmingly the number one concern. Plans to address this: This
+should also be addressed through improving access to credit and through the CDD
+operation. The Private Sector Assessment (PSA) should also examine the private sector'sability to grow in this area.
+6. Improve public financial management and accountability: This concern was raised by the
+press, the parliamentarians and the NGOs. Plans to-address this: This issue, which is-also at
+the core of the PRSP, will be addressed through core diagnostic work (CFAA, CPAR and
+PER) as well as through continued assistance from the Bank-financed Capacity Building for
+Economic Management Project (CBEMP).
+7. Need access to storage: This was the other major concern of the agricultural producers and the
+private sector. Plans to address this: PSA will look at the issue of agricultural storage and it
+could be addressed through the CDD.
+8.
+
+9.
+
+Re-intecrate the PlUs back into,the line Departments: This was a-topic raised with a lot of
+feeling by the National Assembly but, for the most part, it was not supported by the Departmentsinvolved.. Plans to address this: The Bank sent a mission in May 2002 to examine-this issue
+more closely and is following it up within the context of the CPPR dialog.
+The World Bank is too top-down: Linked to their concern on the slow operations of the World Bank, several participants noted that the Bank requires that too many decisions be made-at
+headquarters. Plans to address this: This will be addressed through the opening of the
+Bank's liaison office in Banjul as well as the ongoing decentralization to Dakar.
+
+-
+
+-
+
+10. Finance community vroiects directly: There were many participants who suggested that the
+Bank should finance communities directly rather than through the Central Government. Plans to
+address this: The CAS not only foresees the.inclusion of a CDD Project but also adopts
+more direct approaches with the communities in the sectoral projects included.
+
+- 15 -
+
+43.
+In addition to these ten most prevalent concerns, other concerns raised included:
+the need to stop political interference in project management and in public financial
+management; the need to develop linkages between the private sector operators and rural
+producers; and the need to abandon the policies of double shifts and multigrade teaching
+in basic education. This last issue will be reviewed in the context of preparing the second
+phase of the Education APL.
+IV. BANK'S PERFORMANCE AND EXPERIENCE UNDER PREVIOUS CAS
+Performance Under the Previous CAS
+44.
+In the 1998 CAS, the strategy adopted for reducing poverty envisaged a
+combination of lending and advisory services focused on: economic management and
+capacity building; private sector development; rural development; and social
+development. Five projects totaling US$81 million have been approved since the
+presentation of the CAS.
+45.
+Table 3 below looks at the activities planned and achieved in the last CAS. A
+retrospective look at the Bank's lending shows very clearly how important it is to have
+the commitment of the borrower before pursuing a strategy. The Bank was unable to
+launch planned lending or sector work in rural development, energy or economic reform
+because the Government was not prepared to go forward with these reforms. The
+planned LIL in population proved unnecessary given the population activities
+incorporated into the Participatory Health, Population and Nutrition Project (PHPNP).
+Table 3: 1998 CAS Activities Planned and Achieved
+Activity
+
+Fully
+achieved
+
+Partially
+achieved
+
+Not
+undertaken
+
+Lending
+Poverty Alleviation
+Third Education
+Capacity Building for Economic Mgmt.
+Gateway (High Case)
+Economic Reform (High Case)
+Infrastructure (LIL)
+Rural Sector Support
+Population Policy (LIL)
+National Council for the Arts (IDF)
+
+/
+
+/
+/
+
+.
+
+Non-lending Services
+Financial Sector Study
+Critical review of Capacity Building
+Poverty Monitoring
+Energy Sector Policy
+TA for Reducing Transaction Costs
+
+V
+,
+
+- 16
+
+-
+
+In the case of rural development, the decision not to lend reflected in part the
+46.
+limited success of the Bank's previous program. A 1998 an Implementation Completion
+Report (ICR) on the Agricultural Services Project judged this intervention as unsatisfactory
+- the Bank's performance on appraisal and supervision as well as the Borrower's
+performance on implementation were all judged deficient. The Government agreed in its
+assessment that any future operations should focus on community organizations,
+specifically on women's groups, and should be decentralized. In the case of infrastructure,
+the LIL for electricity was not pursued by the Government but the Bank provided limited
+support to the sector through a Project Preparation Facility (PPF) for this project.
+Regarding the Economic Reform Credit, the Bank was unable to pursue an active
+47.
+dialogue with the Government on reforms of key public enterprises because of the
+expropriation of the groundnut processing plants and a limited response from
+Government on plans for the future of NAWEC.
+The most fruitful dialogue with the Bank on privatization was in the context of the
+48.
+Gateway Project which does support the Gambian Divestiture Agency (GDA) and led to
+the Divestiture Act of 2001 in which the Government agreed to the goal of divesting
+fifteen public enterprises. Gateway will also provide technical assistance for the
+privatization of the telecommunications and transport sectors.
+The CBEMP is helping to address the other major area for economic policy
+49.
+reform which has been improving public expenditure management, notably in increasing
+transparency around budgetary processes. The Financial Sector Study, which was
+completed, also highlighted the need for some reforms in the banking and insurance
+systems and for a deepening of the T-bill market.
+50.
+Health and education were a core part of the last CAS. The PHPNP struggled
+initially but has now been upgraded to satisfactory, and indicators show promising results
+on the Integrated Childhood Illness component. The health sector has also led the way on
+the multisectoral HIV/AIDS Rapid Response Project, the need for which was not foreseen
+in the last CAS, but which has gotten off to a slow but steady start. The education sector
+continues to be the strongest performer in The Gambia. The project planned in the last
+CAS became an APL and the implementation of the first phase has gone smoothly.
+51.
+The Global Environment Facility gave a grant of US$25,000 to The Gambia in
+September 1999 for the preparation of an Integrated Marine and Coastal Biodiversity
+Management Project. In June 2002, another grant of US$985,104 was approved for the
+project, which will finance improved conservation management, including of protected
+areas and of breeding and nursery grounds for critical fish species.
+52.
+In 1999, The Gambia received an Institutional Development Fund (IDF) grant for
+$445,000 for building the capacity of the National Council for Arts and Culture. The grant
+financed the development of a strategic plan for the agency, staff training, a computerized
+accounting system, strengthened publishing capacity and a review of the legal and fiscal
+framework for the cultural sector. Another IDF grant ($482,000) is under implementation
+for strengthening the capacity of the accountancy profession in The Gambia.
+
+- 17 -
+
+53.
+Portfolio performance and outcome. For the period FY96-02, out of seven
+projects evaluated by the Bank's Operations Evaluation Department (OED), four were
+rated satisfactory in terms of outcome (57 percent), two made a substantial contribution
+to institutional development (29 percent), while the sustainability of two operations was
+considered as likely. Bank performance at entry was rated satisfactory in four out of
+those 7 projects (57 percent), and Bank performance in terms of supervision was
+satisfactory in 5 projects (71 percent).
+The Existing Portfolio
+Size and Composition. As of end-December 2002, the Bank's portfolio for The
+54.
+Gambia included six projects for a committed amount of US$99 million and a disbursed
+amount of US$35.5 million. The portfolio is relatively young, with three projects having
+been approved within the last two years (representing $46 million or 46 percent of total
+commitments).
+Table 4: Operations Portfolio
+(As of December 31, 2002)
+Sector
+
+Social Services
+Particip. Health, Population &
+Nutrition
+Third Education
+HIV/AIDS Rapid Response
+Urban/Private Sector
+Poverty Alleviation & Capacity
+Building
+Gateway
+Economic Management
+Capac. Build. for Econ.
+Management
+Total
+DO: Development Objective
+IP: Implementation Progress
+
+DO
+
+IP
+
+Commt.
+USS million
+
+Undisb.
+USS million
+
+S
+
+S
+
+18.0
+
+10.3
+
+S
+S
+
+S
+S
+
+20.0
+15.0
+53.0
+
+5.8
+14.5
+30.6
+
+U
+
+U
+
+15.0
+
+7.1
+
+S
+
+S
+
+16.0
+31.0
+
+14.3
+21.4
+
+S
+
+S
+
+15.0
+
+13.1
+
+99.0
+
+65.1
+
+S: Satisfactory
+U: Unsatisfactory
+
+55.
+Performance. The last CAS reported a strong improvement in the Bank's portfolio.
+In FY96, problem projects represented 17 percent of the number of projects at risk, 25
+percent in FY99, 0 percent in FY00. Unfortunately, that percentage climbed back up to 25
+percent in FY01 and 33 percent in FY02. As of July 2002, however, with the upgrade of the
+PHPNP, the percentage was back down to 17 percent of projects or 15 percent of total
+commitments (US$15 million of US$99 million total commitments). The Poverty
+Alleviation and Capacity Building Project is the only one currently rated unsatisfactory for
+implementation progress and development objective. Factors affecting performance have
+included political interference, poor financial management and reporting delays.
+
+- 18
+
+-
+
+56.
+Consultations with the Government on portfolio performance were strengthened in
+the last twelve months. A Country Portfolio Performance Review (CPPR) was carried out
+in April 2002 and showed the need to improve the country's capacity for resource utilization
+on investments (para. 57). A follow-up CPPR seminar was organized in November 2002
+which showed encouraging results, but also the need to sustain efforts in the areas of
+financial management and procurement The Bank plans to continue frequent portfolio
+reviews, and the upcoming opening of a liaison office in Banjul will greatly facilitate
+portfolio management.
+57.
+Utilization of Resources. The disbursement ratio4 rose steadily from about 26
+percent in FY95 to about 52 percent in FY98 (Figure 3). Most operations of the previous
+generation closed by 1998, which
+Figure 3: Disbursement Ratios for The Gambia
+partially explains the dip in
+disbursements in FY99, as new
+operations were gradually added to
+the pipeline. The disbursement
+ratio hovered around 15 percent in
+50
+FY00 and 01. Following the April
+40
+;!
+2002
+' CPPR,
+\ : 1the disbursement ratio
+LSO
+30
+J
+.
+'
+>
+*
+_
+picked up in FY02 to 24 percent
+f2-,.\
+____________
+.(the average disbursement ratio for
+^ -.>- - +,,
+< E
+~the Africa Region is 22 percent).
+The disbursement ratio for the
+0
+period July 2002 to January 2003 is
+1996
+
+1997
+
+1998
+1999
+2000
+Fiscal Year
+Fiscal_Ye ar
+
+2001
+_rate
+
+2002
+
+10.6 percent, for a projected annual
+for FY03 of about 21 percent.
+
+58.
+Fiduciary Compliance. Development Credit Agreements for IDA-financed
+projects normally establish the time period for submission of audit reports as six months
+after the year's end. Special accounts, project account SOEs and executing agency accounts
+are audited. As of January 2003, three out of ten audit reports were considered overdue
+because they did not include financial statements of the executing agency. The Bank is
+following up with the Govemment to obtain these financial statements.
+IFC and MIGA
+59.
+The IFC currently has three projects under implementation in The Gambia. The first
+is a loan guarantee for Kerr Kande Farm, which will enable this company to modernize its
+production of eggs and chicken products in Banjul. The second is a loan guarantee for
+NDOW Middle and High School, which will enable the school's owner to complete work
+on the Middle and High School. The third loan is for Lyefish development.
+
+ratio isthe ratio of disbursements during the year to the undisbursed balance of the Bank's
+portfolio at the beginning of the year (investment projects only).
+4Disbursement
+
+- 19-
+
+The Gambians expressed an interest in further involvement of the IFC in their
+60.
+country during CAS consultations. In particular, the group of entrepreneurs with whom the
+Bank met was keen to have contact with the IFC, as were the women's groups. They were
+particularly interested in securing financing for agribusiness enterprises. The Government
+expressed interest in the IFC investing in the tourism sector, particularly in helping them
+expand their tourist hotels. However, the IFC has had several non-performing loans in The
+Gambia and has at least one ongoing litigation with a Gambian company, so it is unlikely
+that there will be new investments until this situation improves.
+61.
+Although The Gambia is a member of MIGA, it has no guarantees or other activities
+with MIGA at this time.
+Role of Other Partners
+62.
+The Gambia is highly dependent on external development assistance. The country
+received US$49 million in net official development assistance in 2000, which amounts to
+US$38 per capita and 11.8 percent of GN1.5 Most of this assistance comes through
+multilaterals (US$24.9 million),6 which accounted for 51 percent of total development
+assistance in 2000. Bilateral assistance (US$14.6 million) accounted for 30 percent of total
+assistance in 2000. See Table 5 for a breakdown of donor activities by sector.
+63.
+The Government has prepared a comprehensive technical assistance program to
+support the PRSP, which was presented at the September 2002 Round Table. The Bank
+works closely with the IMM, EU, UNDP and DFID on programs to strengthen public
+expenditure management and statistics. Consistent with the ongoing SWAPs in health and
+education, the Bank will continue to cooperate closely with U.N. agencies, DFID and other
+donorsin-the social sectors. The EU's main focus areas are rural development and
+transport, and the Bank will work closely with AfDB and the EU in the preparation of the
+planned CDD operation.
+64.
+The IMF approved a new three-year Poverty Reduction and Growth Facility
+(PRGF) for SDR 20.2 million on July 10, 2002. The first review of the PRGF should have
+been completed in December, but because of fiscal slippages, the review could not be
+completed and has been extended to February 2003.
+The European Union (EU) is in the process of finalizing its Country Support
+65.
+Strategy (CSS) for the period 2002-2007. The CSS is anchored in the PRSP and the
+strategy proposes aid in two focal sectors - rural development and transport - capacity
+building being a non-focal theme. The indicative envelope of US$37 million covers
+programs in reform of local government and decentralization (US$10 million), rural private
+sector development (US$3 million), food security and income generation (US$2 million),
+transport (US$15 million). Finally, US$6 million is allocated for capacity building and
+US$1 million for contribution to regional projects.
+
+5
+
+World Development Indicators, 2002
+OECD/European, Japan and U.S.
+
+6Mostly
+
+- 20 -
+
+Table 5: Participation of The Gambia's Partners in the PRSP by Sector
+Areas of Intervention
+
+3~v
+
+Economic
+Formulation and
+Execution
+
+0o
+
+Public Financia
+
+0
+
+ii;
+
+Management
+
+,
+
+Private Sector
+Development
+
+-
+
+2
+
+o
+
+41CO
+
+IMF
+
+WB
+
+EU
+
+UNDP
+
+X
+
+X
+
+X
+
+X
+
+Other
+U.N.
+
+AfDB IsDB
+
+OPEC
+
+BADEA
+
+Kuwait
+Fund DFID
+X
+_
+
+xI
+
+x(
+
+x
+
+x
+
+x
+
+Improve
+X
+
+Infrastructure
+tu < c
+o .
+
+D .
+
+Agricultural
+Diversification/
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+HIV/AIDS
+
+X
+
+X
+
+Nutrition
+
+X
+
+X
+
+_
+
+c
+C
+
+Provision of
+Community
+Infrastructure
+
+X
+
+;
+
+Education
+
+X
+
+> ° 8 c
+
+Health
+
+EjE
+
+Capacity
+
+.
+
+X
+
+X
+
+rural growth
+
+Z
+
+X
+
+Building at
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+X
+
+X
+
+X
+
+=
+
+XX
+
+Local Levels
+m~
+
+uz
+
+Multisectoral
+Institutions
+
+_
+
+X
+
+X
+
+X
+
+x
+
+Legend. IMF=Intemational Monetary Fund; WB=World Bank; EU=European Union; UNDP=United Nations Development
+Programme; AfDB=African Development Bank; IsDB=Islamic Development Bank; OPEC=Organization of Petroleum
+Exporting Countries; BADEA=Banque Arabe pour le Developpement Economique en Afrique; Kuwait Fund;
+DFID=Department for International Development
+
+66.
+The United Nations system has representation of the followinf agencies in The
+Gambia: UNICEF, UNDP, UNFPA, WFP, WHO, FAO and UNHCR. The second
+Country Cooperation Framework (CCF) will support national priority concerns in three
+areas: governance, poverty reduction and economic management, and private sector
+7
+
+UNICEF=United Nations Children's Fund; UNDP=United Nations Development Programme;
+UNFPA=United Nations Population Fund; WFP=World Food Programme; WHO=World Health
+Organization; FAO=Food and Agriculture Organization; UNHCR=United Nations High Commission for
+Refugees.
+
+- 21 development. Cross-cutting issues will include gender equity, advocacy, resource
+mobilization, partnerships, aid coordination, HIV/AIDS and the environment.
+67.
+Support provided by the African Development Bank, the Islamic Development
+Bank, and OPEC is mainly in the social sectors and infrastructure programs.
+68.
+DFID is also preparing a country strategy anchored on a program to provide
+budgetary support to the PRSP, possibly in the education sector, linked with support to
+public expenditure management and wider governance reform (including support to civil
+society and the justice sector). DFID anticipates that the existing level of their support
+will rise steadily between now and 2005-06, but budgetary support depends on
+satisfactory implementation of public financial management reform.
+V. The FY03-05 CAS
+Strategic Selectivity
+69.
+There are a number of inputs into this CAS which were summarized in previous
+sections: the overarching framework of the PRSP, the analytic inputs of the DPR, the Bank's
+past experience in The Gambia, the performance of the current portfolio, what the Bank
+heard in consultations with Government and civil society, and the role of other partners.
+70.
+Taking all of these into account, the challenge is to respond within the constraints
+of The Gambia's IDA allocation, absorptive capacity and debt sustainability. In so doing,
+the Bank is planning activities which support three of the five pillars of The Gambia's
+PRSP (the breakdown of activity by pillar is given in Annex 12). The Bank's efforts are
+focused on the first, third and fourth pillars, and specifically on three selective objectives
+under these pillars. These objectives are: improving public expenditure management;
+enhancing the equity and quality of social service delivery; and, promoting private sectorled growth. The rationale for this selection is, first, that these objectives reflect the three
+priorities for policy reform highlighted in the PRSP, and second, that these are also the
+priorities which both emerged from the Bank's analysis and dialogue with the
+Government and other donors and played to the strengths of the Bank's experience.
+Non-Lending Services
+71.
+The analytical work outlined below focuses on these three objectives, but
+particularly on public expenditure management. The ongoing Development Policy
+Review, which is discussed in paras. 7-10, has helped to shape the vision of this CAS.
+72.
+With regard to public expenditure management, the CAS also places a Country
+Financial Accountability Assessment (CFAA) in FY03, a Public Expenditure Review
+(PER) in FY04 and a Country Procurement Assessment Report (CPAR) in FY05. Each of
+these diagnoses will further clarify capacity shortfalls and needed reforms in public
+financial management. The PER, which was initiated in 2002 by the Government, the
+Bank and DFID, will focus on five sectors: health, education, agriculture, public works
+
+- 22 -
+
+and local government. It will help to refine a program of priority expenditures consistent
+with the PRSP in each sector and tie these priorities into the budgeting process.
+Table 6: Advisory Services, FY03-05
+FY03
+
+FY04
+
+FY05
+
+DPR
+
+PER
+
+CPAR
+
+CFAA
+
+Civil Service Reforn
+(informal)
+
+PSA
+Poverty Assessment
+
+With regard to improving social service delivery, the Government has asked the
+73.
+Bank to examine the issues of decentralization and civil service reform from a perspective of
+improving service delivery in the rural areas. In April 2002, The Gambia passed a new
+Local Government Act. This Act sketches the future of decentralization, but it is clear that
+capacity building and civil service reform must accompany it. Staffing health and education
+facilities in rural areas has become a major hurdle prohibiting effective service delivery.
+74.
+In 2002, The Gambia received a Public/Private Infrastructure Advisory Facility
+(PPIAF) grant to fine-tune the divestiture program already under way and to undertake a
+study on the Regulatory Framework. This study will prepare the groundwork for the
+establishment of the Multisectoral Regulatory Agency, the establishment of which is
+financed under the Gateway Project. The Private Sector Assessment (PSA) programmed for
+FY05 will complement the regulatory study by looking at areas which need improvement in
+order to attract foreign investment, including administrative barriers and needed reforms and
+investment in infrastructure. In addition, the PSA will look at potential sources of growth,
+focusing on rural growth through agribusiness or rural financial markets.
+75.
+The Gambians have presented a solid poverty assessment in their PRSP, as well as
+a plan for monitoring key outcome indicators. A new Household Survey (HHS) should be
+completed by early 2003 and a new census is planned for 2003. This data, plus that from
+smaller surveys in the sectors, should provide an excellent opportunity for updating the
+poverty analysis. IDA will plan to work with the Government and other partners to ensure
+that an updated Poverty Assessment is prepared by FY05. Using the analysis presented in
+the PRSP as a baseline, it will be possible to measure the initial impact of reform efforts
+and re-establish a solid baseline for future reforms. As part of this Poverty Assessment, the
+Bank plans to do a Poverty and Social Impact Analysis (PSIA) for reforms in energy and
+groundnuts because these reforms are the most likely to have a social impact.
+Lending Amounts, Scenarios and Triggers
+76.
+Three operations are planned in the base case lending scenario, which correspond
+to the priority sectors: health, education, and agriculture. In the high case scenario, IDA
+
+- 23 -
+
+proposes two additional operations - one which supports investment in the energy sector
+and one which would provide support for policy reform. In order for these operations to
+succeed, and, more importantly, in order for The Gambia to achieve its objective of six
+percent annual growth in GDP, the Government will need to commit itself to aggressively
+pursuing transparency in the energy sector and improved public financial management.
+Thus, the triggers which would allow IDA to move to the high case lending scenario are
+closely linked with these reforms. If policy performance deteriorated, and The Gambia
+were to fall into the low case scenario, the IDA program would only include the
+education operation because this is a sector in which implementation and results have
+been very good. Because of the sector's impact, the Bank could continue to support the
+sector even if the policy dialogue were strained in other areas.
+Table 7: New Lending Scenarios and Budget (US$ million)
+
+Scenarios
+FY03
+FY04
+Education APL 2
+CDD
+Energy Sector Investment
+FY05
+PHN
+Economic Reform
+
+Low
+case
+
+10*
+
+Base case
+
+High case
+
+10*
+8
+
+10*
+8
+7
+
+7
+
+7
+5
+
+IDA Commitments
+10
+25
+37
+*$2.5 million of this $10 million would be in the form of an IDA grant.
+77.
+
+The Gambia has an IDA allocation of SDR 19 million or approximately US$25
+
+million. This is the amount programmed in the base case scenario (Table 7 above). Of
+this US$25 million, US$10 million is programmed for the second phase of the education
+APL. This second phase will focus on expanding the pilot components tested under the
+first phase and on strengthening pre-university training. The pilots which have been
+successful under the first phase included a girls' scholarship fund, a local languages
+component and a decentralization component.
+78.
+
+Of this US$10 million, US$2.5 million would be an IDA grant, which will likely
+
+absorb all of The Gambia's grant allocation for FY04. The education project was
+selected for use of the IDA grant allocation because it is key to building capacity. The
+grant funds will be directed toward pedagogic inputs such as teacher training and
+textbooks. As such, the impact of these funds will be monitorable since the project plans
+to support learning assessments at the end of each school year.
+
+79.
+The base-case scenario would also include a follow-up project to the ongoing
+PHPNP credit which closes in December 2003. As result of a slow start, the project may
+need to be extended. As such, the new project is scheduled as a deliverable for FY05.
+The principal goal of the new credit would be to assist the Government to meet the
+
+- 24 Millennium Development Goals in health and nutrition. This project would also respond
+to the high priority given in the PRSP to reproductive health and nutrition. The new
+Health Project will continue to be separate from the ongoing HIV/AIDS Project because
+the latter is a multi-sectoral effort with very different institutional and implementation
+arrangements. Attempting to merge the two would hinder the implementation of the
+critical HIV/AIDS interventions.
+80.
+The third project in the base case is a Community Driven Development Project.
+One of the reasons that a CDD is needed in The Gambia is that the small size of the
+country makes it inefficient to prepare a separate project or program in every sector.
+Thus, by working through communities and local governments, the CDD provides a
+single mechanism for working across sectors.
+The challenge of the CDD will be to tackle some of the principal concerns
+81.
+reiterated by the people consulted in PRSP and CAS discussions, namely how to
+diversify from groundnuts, improve access to storage, credit and markets and launch
+small-scale food processing enterprises. In their PRSP, the Gambians have made
+reference to a Social Fund which would act as a single platform for interventions at the
+community level. This CDD could be an input into such a Fund if its scope and
+institutional arrangements were clarified. The CDD Project would also support capacity
+building at the local government level.
+82.
+The Bank is considering support to the energy sector. However, this support is
+included in the high case because the risks associated in the current environment are
+judged to be large, unless the Govermuent can signal its willingness to implement serious
+reform in this sector. If the triggers articulated for the high case below are met, this
+would be an acceptable harbinger of change.
+The PRSP flags the importance of improvements in the delivery of water and
+83.
+electricity for private sector-led growth to succeed and the Bank concurs. However, in
+the energy and water sectors, a number of elements would need to be addressed for
+investments to be fruitful. First, as noted in the JSA, the strategy for the water sector
+needs to be clearly articulated. The Government has prepared a draft energy sector
+strategy, but energy and water are so closely interlinked that it is difficult to consider a
+strategy for one sector without the other. Second, the regulatory framework in place is
+inadequate and the role which the new Multisectoral Regulatory Agency would play in
+setting and monitoring tariffs should be clarified. In addition, the placement of the
+Department of Energy directly under control of the Presidency has led to a lack of
+transparency in the sector. Finally, the low level of tariffs and substandard technical and
+commercial performance of NAWEC should be addressed.
+The high case scenario also includes a structural adjustment credit which would
+84.
+provide support for further reforms in telecommunications, transport and groundnuts.
+Each of these sectors has parastatals slated for divestiture under the Track I Divestiture
+Program, and the Government may require budgetary assistance to implement the
+program. At this time, however, the Government's vision for divestiture in these sectors
+is not clear. Current public expenditure management in The Gambia does not warrant a
+
+- 25 Poverty Reduction Strategy Credit (PRSC), given that there are serious problems with
+budget execution and monitoring; however, as noted above, IDA and other donors are
+supporting diagnostic work and technical assistance for improving public financial
+management. If this work improves capacity and the Government commits to
+undertaking the necessary reforms, a PRSC for The Gambia could be considered in the
+next CAS.
+Base Case Scenario
+The triggers reflect policy performance that is consistent with the PRSP and that
+85.
+should be met in the course of its implementation. The Gambia is in the base case at this
+time.
+The base case scenario assumes that the Government continues with satisfactory
+86.
+implementation of the PRSP, including sufficient budget allocations to the priority
+sectors. It also assumes that macroeconomic performance and performance of the IDA
+portfolio remain satisfactory. With regard to governance, it implies annual public
+expenditure reviews and progress on legal and judicial reform which is highlighted in the
+PRSP and is consistent with the policy agenda discussed for and financed under the
+CBEMP. In rural development, the trigger is that the Government adopts a strategy and
+performance indicators for rural development by 2003. As indicated in the JSA, these
+indicators had been developed for the PRSP, but in the absence of full agreement on them
+within the Government, they were not included. The development of such indicators is
+an objective of the first progress report on the JSA.
+High Case Scenario
+The high case assumes more ambitious progress on PRSP implementation and
+87.
+that the Government fully integrates the PRSP expenditures into the budget. This is an
+important step towards the development of a Medium Term Expenditure Framework.
+With regard to public expenditure management, the high case scenario focuses on
+improving public financial accountability by implementing the recommendations of the
+upcoming CFAA and improving the management of public debt.
+88.
+In infrastructure, the Government is expected to complete a strategy for the water
+sector and adjust electricity tariffs. The strategy for the water sector must complement
+that for the energy sector. In addition, the Government is expected to ensure that the
+Multi-sector Regulatory Agency is staffed and operational by 2004. Finally, in moving
+to the high case scenario, IDA would like to ensure that the Government remains on track
+to meet the education enrollment MDG.
+Other Options Considered
+The major alternative considered to the lending program proposed in this CAS
+89.
+was the exclusion of an energy sector credit in the high case scenario. Because of the
+limited IDA allocation, the inclusion of both the energy and the economic reform credit
+constrain the amount of resources available for each operation. However, in recent
+months the Government has made progress in the energy sector, including the preparation
+
+- 26 of a draft strategy articulating their desire to pursue reform. Since the Bank views this
+reform as essential for the growth of The Gambia's economy, IDA would want to support
+it under this CAS. Although at some point, these two high case projects may be merged
+into a single operation, at this time the Bank intends to maintain the economic reform
+credit as an independent operation which could support reform in energy as well as in
+other sectors such as telecommunications or transport.
+
+Table 8: CAS Triggers, FY03-05
+Policy domain
+PRSP
+
+To stay in the
+Base-case scenario:
+Adequate budget allocation for
+PRSP priority sectors.
+
+To move to the
+High-case scenario (Base case
+plus):
+Fully integrate the PRSP
+expenditures into the budget.
+
+Maintain a satisfactory
+macroeconomic framework as
+demonstrated by performance
+on the PRGF.
+Portfolio
+
+No more than two projects
+rated unsatisfactory for DO or
+IP.
+
+No projects rated unsatisfactory
+for DO or IP.
+
+Governance
+
+Conduct annual public
+expenditure reviews in health,
+education and agriculture and
+implement their
+recommendations to strengthen
+expenditure controls and
+improve the composition of
+expenditures.
+
+Commit to implementing the
+core recommendations of the
+CFAA.
+
+Progress on Legal and Judicial
+Reform including completion
+of an updated strategy for the
+judicial sector by end 2003.
+
+Decide on institutional
+arrangements for managing
+public debt and introduce a
+public debt ceiling, defined by
+Parliament on the basis of the
+budget.
+
+Finalize a strategy for the
+energy sector by 2004.
+
+Prepare a strategy for the water
+sector by 2004.
+
+Infrastructure/PSD
+
+Adjust electricity tariffs to be
+consistent with regional norms.
+Staff and make operational the
+Multi-sector Regulatory Agency
+by 2004.
+Rural
+Development
+Education
+
+Adopt a strategy - fully costed,
+and complete with indicators for rural development by 2003.
+Education enrollment is on track
+
+to meet the MDG for education.
+
+- 27 -
+
+90.
+Another alternative considered was to do a follow-on to the Agricultural Services
+Project, but given the conclusions of the ICR on the last Agricultural Services Project, the
+Bank concluded that a CDD operation would be more appropriate.
+91.
+Finally, a number of additional pieces of sector work were considered, looking at
+issues ranging from fisheries to groundnut diversification; however, given the constraints
+of the budget, the strategy focused on the core diagnostic work plus the Private Sector
+Assessment and an informal piece on civil service reform, which was specifically
+requested by the Government. Both of these studies are key to the principal objectives
+under this CAS, which are to improve public expenditure management and service
+delivery and to promote private sector-led growth.
+VI. Monitoring Outcomes
+92.
+A selection of measurable outcomes will be used to monitor The Gambia's
+progress in implementing its PRSP (Annex 12). As shown in Table 9, the PRSP's targets
+are broadly consistent with the MDGs. The Bank, with other donors, will align its
+operations in support of these indicators in order to ensure progress toward the MDG
+targets.
+93.
+To assess its own performance, the Bank will closely monitor portfolio
+performance indicators for all IDA-financed operations in order to evaluate the
+effectiveness of specific operations in achieving desired outcomes. In terms of its overall
+assistance program, the Bank will monitor the CAS support to PRSP objectives, using the
+Country Partnership Strategy Matrix (Annex 12), and specifically the core CAS
+benchmarks shown in Table 10. In addition, the Bank will carry out independent client
+surveys and will continue to have regular consultations with the Government, civil
+society, donors and NGOs to get feedback and monitor implementation of CAS priorities.
+Table 9: The Gambia PRSP Targets and the MDGs
+MDG
+
+The Gambia PRSP target
+
+Halve, between 1990 and 2015, the
+proportion of people whose income is less
+than one dollar a day.
+
+A reduction by 66 percent of the number
+of women living in poverty by 2015. No
+specific target for population at large.
+
+Halve, between 1990 and 2015, the
+proportion of people who suffer from
+hunger.
+
+A reduction by 50 percent of the number
+of malnourished people by 2015.
+In line with MDGs.
+
+Ensure that, by 2015, children
+everywhere, boys and girls alike, will be
+able to complete a full course of primary
+schooling.
+
+Universal primary education by 2015,
+with 80 percent completion in primary
+education by 2005.
+In line and on track"' with MDGs.
+(continued
+
+)
+
+- 28 (Table 9: The Gambia PRSP Targets and the MDGs - continued)
+
+MDG
+
+The Gambia PRSP target
+
+Eliminate gender disparity in primary and
+secondary education, preferably by 2005,
+and to all levels of education no later than
+2015.
+Reduce by two thirds, between 1990 and
+2015, the under-five mortality rate.
+
+Attaining gender equity in primary and
+secondary enrollments by 2005.
+In line and on track with MDGs.
+
+Reduce by three quarters, between 1990
+and 2015, the maternal mortality rate.
+
+A 50 percent reduction of the maternal
+mortality rate of 1990, and a further 50
+percent by 2015.
+In line with MDGs.
+
+Have halted by 2015 and begun to reverse
+the spread of HIV/AIDS.
+
+The PRSP contains no target directly
+linked to this MDG.
+However, impact indicator of HIV/AIDS
+Project currently under implementation is
+to contain prevalence rates of HIV and
+sexually transmitted infections to present
+levels by 2005. This will require a strong
+commitment on behalf of the Government
+and its partners.
+
+Have halted by 2015 and begun to reverse
+the incidence of malaria and other major
+diseases.
+
+No specific target determined in PRSP.
+
+Integrate the principles of sustainable
+development into country policies and
+programs and reverse the losses of
+environmental resources.
+
+No specific target determined in PRSP.
+
+A reduction of the 1990 infant and child
+mortality rates by 33 percent by the year
+2015.
+In line and on track with MDGs.
+
+a/ "On track" means that at the current rate of implementation, The Gambia would meet the MDG by 2015.
+
+Bank Exposure and Debt Sustainability
+Under the Enhanced HIPC Decision Point in (DP) December 2000, The Gambia
+94.
+was to receive debt relief amounting to US$90 million in nominal terms, and US$67
+million in NPV terms. The debt burden of The Gambia was found unsustainable
+according to the export criterion. At that point, analysis showed that even with debt relief
+and the continued pursuit of appropriate policies and prudent debt management, the NPV
+of debt-to-export ratio was only expected to reach a sustainable level of 148 percent in
+2007. The volume of exports was projected to grow at 5.75 percent beyond 2004.
+
+- 29 -
+
+Table 10: Core CAS Monitoring Benchmarks
+PRSPICAS Objective
+Create an enabling
+policy environment to
+promote economic
+growth and poverty
+reduction.
+
+CAS Progress Benchmark
+a Strengthen macro-financial balances
+
+=> maintain overall budget deficit at less than 5
+percent of GDP
+* Contain a growing domestic public debt
+
+Associated CAS Instrument
+Economic Recovery Credit Project*
+Capacity Building for Economic
+Management Project
+- PER/CFAA/CPAR
+-
+
+* Strengthen public expenditure management
+=> Introduction of MTEFandprogram-based
+budgeting
+
+Enhance the productive
+capacity and social
+protection of the poor
+and vulnerable.
+
+=> Introductionof IFMIS in accountant-general's
+office with electronic links to spending
+agencies
+* Agriculture
+=> clarify Government's strategyforpursuing
+fiture diversificationand growth in sector, as
+well as institutionalarrangementsforthe
+sector
+* Energy
+
+- Community-Driven Development
+Project
+- Private Sector Assessment
+
+- Energy Sector Investment Project*
+
+=> energy policy in place
+
+Improve coverage of
+the basic social service
+needs of the poor and
+vulnerable.
+
+Build the capacity of
+local communities and
+civil society
+organizations to play an
+active role in the
+development process.
+Mainstream gender
+equity, environmental
+issues, nutrition,
+govemance and
+HIV/AIDS awareness
+into all development
+programs.
+
+* Improve living conditions of poor
+=> adequateprovision ofpublic infrastructureand
+services
+=>jobscreated in public works
+* Expand access to and quality of social services
+delivery
+=> Monitor ratio of expenditures in education and
+health to GDP (or expenditures inpriority
+sectors as a share of totalexpenditures)
+* Interventions at the community level:
+=> clarify scope and institutionalarrangementsof
+
+plannedSocial Fund
+=> well-trained civil servants at in post in rural
+areas and have capacity toful.fll their
+responsibilities under newly established
+decentralizedadministration
+=> Satisfactory implementation ofrelatedBank
+operations
+
+- Poverty Alleviation and Capacity
+Building Project
+
+- Education IH Project (phases l&2)
+- Participatory Health, Population and
+Nutrition Project
+- Health Project
+- Community-Driven Development
+Project
+- Community-Driven Development
+Project
+- Poverty Alleviation and Capacity
+Building Project
+
+-
+
+-
+
+HIV/AIDS Rapid Response Project
+Participatory Health, Population and
+Nutrition Project
+PHPNP follow-up
+Education III Project (phases I&2)
+Capacity Building for Economic
+Management Project
+GEF Project
+
+Note: These benchmarks would monitor progress under the base case assistance program and assume no major exogenous shocks.
+* High case
+
+95.
+The Decision Point scenario has been updated with revised projections for
+exports. The revision took into account actual export performance in 2000 and 2001 and
+revised export projections in 2002 and beyond, based on new information on the
+evolution of prices and volumes of The Gambia's main export products. In 2000 and
+2001, exports grew by 9.0 and 10.1 percent, respectively, as a result of sound policies and
+
+- 30 record agricultural production. On the other hand, longer term prospects for exports are
+lower than originally projected due to the expected decline in world market prices
+resulting from the global economic slowdown.
+96.
+Figure 4 shows the impact of IDA lending on debt sustainability for low, base,
+and high scenarios, as well as for the base scenario from the DP DSA. The current
+exercise indicates that compared to the DP DSA projections, the NPV of debt-to-exports
+ratio for The Gambia will deteriorate somewhat in the long term due to a decrease in
+export projections and an increase in projected lending. The fact that the NPV debt to
+exports ratio is projected to reach 176 percent in 2010 suggests that Bank lending can
+remain in the base case without having a substantial impact on the debt profile- but that
+the debt situation needs to be watched carefully.
+Figure 4: Impact of Lending Scenarios on Debt Sustainability
+180m
+
+;eo
+2 o
+40
+
+20
+
+o.
+
++
+
+Base
+Low
+
+e
+
+High
+
+- - -- Original DP DSA
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+................
+C
+
+Risks and Mitigation
+97.
+The Gambia faces continual risk from external shocks as a small economy based
+on primary products and subject to irregular rains. This risk can only be addressed by
+tryfing to make the economy as robust and diversified as possible, which requires good
+governance, an attractive investment climate and good management of public resources.
+These are the objectives of the CAS, but there are internal risks which could affect its
+success.
+98.
+The principal risk for the implementation and effectiveness of this CAS is the
+Government's willingness to pursue reform in a sustainable and consistent manner. This
+could affect the Government's ability to maintain a stable macro environLment and focus
+expenditures on the priority sectors identified in the PRSP. As explained above, there are
+significant weaknesses in the process of budget formulation, execution and reporting.
+Fiscal deficits grew again in 2002, yet despite increased expenditures, the funding of
+
+- 31 priority sectors has not been as strong in recent years as projected. The Government must
+thus keep fiscal control in an environment of falling trade revenues and increasing
+expenditure demands stemming from the PRSP. IDA will be providing technical
+assistance to strengthen expenditure controls and monitoring along with the IMF and
+DFID. The Bank will prepare with DFID a CFAA (FY03), which will further define the
+agenda for reform in these areas. The CFAA will be followed by a PER (FY04) and a
+CPAR (FY05).
+99.
+The Government's hesitancy to pursue an open and frank dialogue on divestiture
+and infrastructure development is also a risk. The Gambia needs to clarify its objectives
+in water, energy, groundnuts, telecommunications and transport, and to indicate that the
+Government is willing to conduct the development of these sectors transparently. The
+PRSP projects a rate of six percent growth in the coming years. This estimate is realistic
+in the context of good policy and normal rains. However, the extent to which the
+Government is unable to address growing concerns on key sectors could affect the
+country's growth potential. To mitigate this risk, the Bank has included triggers for the
+base case which would clarify the Government's vision for the future of its energy and
+agricultural sectors. High case triggers that capture a higher level of policy performance
+are also included, signaling that the Government was launching important reforms.
+100. There are also risks associated with capacity and the governance environment in
+The Gambia. Improvements in the investment climate will clearly require judicial reform
+which has gotten off to a slow start under the CBEMP; however, there is an
+implementation plan in place which should accelerate this work. Other governance
+issues have surfaced which may have discouraged foreign investment concessional aid.
+The Bank will continue to pursue an open dialogue with the Government about the
+importance of addressing these issues in order to increase investment and foreign aid.
+
+James D. Wolfensohn
+President
+by Shengman Zhang
+
+Washington, D.C.
+February 10, 2003
+
+- 32 Annex 1: CAS Table Al - Key Economic and Program Indicators
+Change from Last CAS
+
+Economy (CY)
+Growth rates (%)
+
+1998
+
+b
+
+1999
+
+b
+
+2000
+
+Current CAS Forecast
+
+Actual
+
+Forecast in Last CAS
+b
+
+2 001
+
+2001 a
+
+1999C
+
+b
+
+2002 b
+
+2003 b
+
+204
+
+3.8
+7.5
+0.4
+
+4.8
+2.9
+2.8
+
+5.0
+
+5.0
+
+6.4
+
+5.6
+
+6.0
+
+6.0
+
+5.8
+
+6.2
+
+4.3
+4.8
+
+5.0
+5.6
+
+-8.3
+-7.4
+
+9.0
+3.1
+
+15.1
+17.8
+
+1.4
+4.2
+
+5.1
+2.1
+
+1.7
+-3.6
+
+3.0
+
+3.0
+
+3.0
+
+3.8
+
+0.9
+
+4.0
+
+3.0
+
+2.5
+
+2.5
+
+National accounts (% GDP)
+Current account balance (excluding
+grants)
+
+-10.6
+
+-10.2
+
+-9.9
+
+-9.5
+
+-11.7
+
+-12.1
+
+-14.8
+
+-13.6
+
+-12.9
+
+-11.3
+
+__
+
+18.7
+
+19.8
+
+20.6
+
+21.0
+
+17.8
+
+17.3
+
+17.8
+
+19.4
+
+18.5
+
+18.5
+
+-4.8
+
+-3.6
+
+-8.7
+
+-0.2
+
+-0.4
+
+-0.9
+
+4.5
+
+3.7
+
+3.7
+
+3.0
+
+4.2
+
+4.1
+
+5.8
+
+5.9
+
+5.2
+
+5.1
+
+5.3
+
+5.5
+
+Fyoob
+
+Fygg
+
+FYOO
+
+10
+
+35
+3.5
+
+0
+7.6
+
+GDP
+
+Exports FOB (merchandise)
+Imports CIF (merchandise)
+Inflation(/)
+
+Gross investment
+
+_
+
+Public finance (% GDP)_
+
+--
+
+Fiscal balance (current revenue less
+current expenditures excluding grants)
+Foreign financing (gross)
+
+_
+
+....
+
+-4.0
+
+-2.9
+
+-1.9
+
+3.7
+
+3.9
+
+3.8
+
+-
+
+-0.7
+
+Intemational reserves
+(as months of imports) CIF
+Program (Bank's FY)
+Lending ($ million)
+Gross disbursements ($ million)
+a Estimated year
+
+b. Projected year
+
+FY98b
+
+Fyggb
+30
+
+c. Actual outcome
+
+Fyoob
+14
+
+_
+
+---
+
+Fyoia
+-
+
+15
+6.4
+
+FY02b
+3-1
+12
+
+Fy 0 3 b FYO4b
+0
+18
+
+18
+18
+
+- 33 Annex 2: The Gambia at a Glance
+1/15/03
+
+POVERTY and SOCIAL
+2001
+Populabon. mid-year ('dlilons)
+GNI per capita (Alfasmethod. US$1
+GNI (Alas meth7c USSbllhons)
+
+The
+Gambla
+
+SubSaharan
+Africa
+
+LowIncome
+
+13
+310
+042
+
+674
+470
+317
+
+2.511
+430
+1,069
+
+3.1
+29
+
+2.5
+26
+
+19
+23
+
+Development dlamond
+Life expectancy
+
+Average annual growth, 199541
+Population (n6)
+Laborforce (%)
+Most racent estlmate (latest year available, 1995.01)
+Poverty (3 otpopulabon below naitonal poverty Ine)
+Urban popuation( of total population)
+LIfe expectancy at birth (years)
+Infant mortaliy (per 1.000 lve7 blIths)
+Child malnutrition (X ofchildren under5)
+Access to an Impmved water source (X ofpopulaffon)
+IllIteracy (X ofpopulation age 15+)
+Gross primary enmilment (%of school-age populatfon)
+Mate
+Female
+
+GNI
+per
+
+Gross
+
+~~~~~prmary
+
+7
+
+capita
+47
+31
+53
+73
+26
+62
+62
+81
+88
+75
+
+32
+47
+91
+
+31
+59
+76
+
+55
+37
+78
+85
+72
+
+76
+37
+96
+103
+88
+
+enrollment
+
+Access to improved water source
+Gambia The
+Low-Income group
+
+KEY ECONOMIC RATIOS and LONG-TERM TRENDS
+1981
+
+1981
+
+2000
+
+2001
+
+GDP (US$ bIllons)
+Gmss domestic investmentUGDP
+Exports of goods and serviceslGDP
+Gmss dormestc savings/GDP
+Gmss nationa savlngslGDP
+
+0 22
+25.3
+44 0
+25
+25
+
+0.32
+21 9
+63 6
+10.6
+95
+
+0.41
+17 0
+47 9
+27
+12 2
+
+0.38
+17.9
+544
+09
+11.1
+
+Current account baianrelGDP
+Interest payents/GDP
+Total debt/GDP
+Total debt servicelexports
+Present value of debt/GDP
+Presentvalueofdebt/exports
+
+-49.9
+10
+80.5
+96
+
+-14 3
+20
+120.0
+17.6
+
+-12.9
+13
+1077
+7.6
+601
+1056
+
+-14.9
+14
+115.3
+11 8
+61 0
+92.1
+
+198141
+
+199141
+
+2000
+
+2001
+
+2001405
+
+36
+4 3
+07
+
+35
+03
+13
+
+56
+2.3
+99
+
+6.0
+3.0
+20 5
+
+60
+33
+80
+
+1981
+
+191
+
+2000
+
+2001
+
+34 4
+14.0
+64
+51.6
+
+27.8
+13.7
+69
+585
+
+33 2
+12 3
+47
+545
+
+39.6
+14.22
+52
+661
+
+836
+13.7
+62 2
+
+83 7
+15 4
+71.5
+
+o4
+
+66.8
+
+761
+13 3
+74.9
+
+Economic ratios
+Trade
+
+Domes
+sav ticn
+
+\
+
+.
+
+nvestmert
+
+Indebtedness
+(average annual groth)
+GDP
+GDP per capita
+Exports of goods and services
+
+Gambla, The
+Low-Income group
+
+STRUCTURE of the ECONOMY
+(X of GDP)
+Agriculture
+Industry
+Manufactuinng
+Services
+Privte consumption
+General govemment consumption
+Imports of goods and services
+
+Growth of Investment and GDP (%)
+ct7
+0
+0
+
+GDI
+
+C GDP
+
+1981-91
+
+1991-01
+
+2000
+
+2001
+
+Growth of exporta and Imports I%)
+
+(avewgge annual grwth)
+Agncuiture
+Industry
+Manufacturing
+Services
+
+08
+56
+72
+2.7
+
+61
+27
+14
+37
+
+120
+5.0
+40
+15
+
+12 0
+9.0
+60
+02
+
+0i
+
+Private consumption
+General govemment consumption
+Gross domesUc investment
+Imports of goods and servces
+
+05
+-0 7
+14
+-31
+
+5.4
+06
+2.1
+20
+
+8.6
+14.6
+37 7
+8.4
+
+10.4
+23 9
+32
+218
+
+l
+
+A.
+
+10
+0
+0
+00
+
+O
+
+Exports
+
+01
+
+lmports
+
+Note, 2001 data are preliminary estimnates.
+The diamonds show four key indicators Inthe country (in bold) rompared with its income-group average. i data are missIng, the diamond will
+be Incomplete
+(continued .. )
+
+- 34 Annex 2
+The Gambia at a Glance (continued)
+Gambia, The
+PRICES and GOVERNMENT FINANCE
+1981
+
+1991
+
+2000
+
+2001
+
+59
+16
+
+86
+83
+
+0.9
+3.7
+
+40
+7.2
+
+Inflation ()
+
+Donmestc prices
+
+X%change)sConsumer prloes
+Implicit GDP deflatr
+Governmentflnance
+(%of GDP, excludes cununt grans)
+
+2
+
+Curantrevenue
+
+238
+
+196
+
+173
+
+Current budget balance
+Overall surplus/deflct
+
+67
+-1.7
+
+13
+-2 5
+
+-2 9
+-8 7
+
+1091
+132
+74
+2
+
+2000
+133
+14
+8
+
+2001
+154
+16
+10
+
+202
+
+233
+
+.
+..
+
+174
+12
+1
+1
+
+.
+.
+
+82
+82
+100
+
+98
+116
+84
+
+99
+125
+79
+
+1981
+66
+175
+-109
+
+1991
+187
+229
+-42
+
+2000
+212
+275
+-63
+
+2001
+223
+293
+-70
+
+-4
+
+-14
+
+-7
+49
+
+50
+
+-46
+
+-53
+
+-57
+
+..
+
+9B
+
+97
+
+se
+
+S9
+
+00
+
+01
+
+CPI
+
+GP deflatr
+
+-
+
+TRADE
+
+(USS mlIUonsJ
+Totalexporls(fob)
+Groundnuts
+Fish
+Manufactures
+Total lmports (ci1
+Food
+Fuel and energy
+Capialgoods
+Export price Index (1995=100)
+Import price Index (1995=100)
+Termsoftrade(1995-100)
+
+1981
+47
+.
+..
+
+.
+
+133
+.
+
+Export and Import levels (USSmill.)
+250
+_
+200
+
+150
+1C
+0
+
+i -
+
+*
+
+so
+o
+
+..
+
+9o
+
+go
+
+go
+
+27
+
+OExports
+
+go
+
+00
+
+01
+
+olmports
+
+SALANCE of PAYMENTS
+
+(USS millbons)
+E(UStofgoodsendaervies
+Imports of goods and aervlces
+Resoure balance
+Net Income
+Net current transfers
+
+.
+
+-8
+
+Current account balance
+
+-109
+
+Finandng items (net)
+Changes Innet reserves
+
+NIA
+
+N/A
+
+55
+-2
+
+43
+14
+
+N/A
+2.0
+
+78
+87
+
+114
+130
+
+113
+160
+
+1981
+
+1991
+
+2000
+
+2001
+
+..
+
+Current account balance to GDP (%)
+o.
+0
+.10
+
+I
+
+25
+
+Memo:
+Reserves Including gold (US$ mnilons)
+Conversion rate (DEC, localVUSS)
+EXTERNAL DEBT and RESOURCE FLOWS
+
+(USS millions)
+Total debt outstanding and disburaed
+IBRD
+IDA
+Total debt service
+IBRD
+IDA
+Composition of net resouce flows
+Offidal grants
+Offidal creditors
+Private credKtors
+Foreign dired Investment
+
+Composillon of 2001 debt (USS mill.)
+176
+0
+20
+
+383
+0
+108
+
+447
+0
+189
+
+441
+0
+196
+
+6
+0
+0
+
+33
+0
+1
+
+18
+0
+4
+
+30
+0
+4
+
+32
+8
+
+17
+-5
+10
+
+66
+21
+0
+2
+0
+
+59
+24
+0
+6
+0
+
+.
+
+.
+
+Portfolioequlty
+
+E 75
+
+B5sa
+D 124.
+
+c 4
+
+World Bank program
+Commtrnenta
+Disbursements
+Princtpal repayments
+
+2
+4
+0
+
+0
+7
+0
+
+6
+2
+
+,,
+10
+3
+
+Netfows
+Interest payments
+Ne transfers
+
+4
+0
+4
+
+6
+1
+5
+
+3
+1
+2
+
+7
+1
+6
+
+Development Economics
+
+A. IBRD
+E-IDA
+C -IMF
+
+D-Othermultlateral
+
+E -Bliteral
+F-Prvate
+G - Short-term
+
+1/15/03
+
+- 35 -
+
+Annex 3: CAS Table B2
+Selected Indicators of Bank Portfolio Performance and Management
+(As of 01/12/03)
+Indicator
+Portfolio Assessment
+Number of Projects Under hnplementation a
+
+2000
+
+2001
+
+2002
+
+2003
+
+3
+
+Average Implementation Period (years) 6
+Percent of Problem Projects by Number a c
+
+1.8
+0.0
+
+Percent of Problem Projects by Amount
+
+0.0
+
+4
+2.2
+25.0
+26.5
+25.0
+26.5
+15.7
+
+6
+2.3
+33.3
+33.3
+33.3
+33.3
+23.9
+
+6
+2.9
+16.7
+15.2
+16.7
+15.2
+10.6
+
+No
+
+Yes
+
+Yes
+
+238.4
+79.5
+
+386.0
+64.3
+
+468
+78.0
+
+a
+
+C
+
+Percent of Projects at Risk by Number a,d
+Percent of Projects at Risk by Amount ed
+Disbursement Ratio (%) '
+Portfolio Management
+CPPR during the year (yestno)
+
+0.0
+0.0
+14.9
+Yes
+(follow-up)
+
+Supervision Resources (total US$'000)
+Average Supervision (US$'000/project)
+
+270.25
+67.5
+
+Memorandum Item
+Project Evaluation by OED by Number
+
+Since FY
+80
+20
+
+Project Evaluation by OED by Amount
+
+Last Five
+FYs
+5
+
+166.9
+
+30.6
+
+% of OED Projects Rated U or HU by Number
+
+45.0
+
+33.6
+
+% of OED Projects Rated U or HU by Amount
+
+34.2
+
+41.6
+
+(US$ millions)
+
+a. As shown in the Annual Report on Portfolio Performance (except for current FY).
+b. Average age of projects in the Bank's country portfolio.
+c. Percent of projects rated U or HU on development objectives (DO) and/or implementation
+progress (IP).
+d. As defined under the Portfolio Improvement Program.
+e. Ratio of disbursements during the year to the undisbursed balance of the Bank's portfolio at the
+beginning of the year: Investment projects only.
+Note: All indicators are for projects active in the Portfolio, with the exception of Disbursement Ratio,
+which includes all active projects as well as projects which existed during the fiscal year.
+
+-36 Annex 4: CAS Table B3
+IDA Program Summary
+(As of 01/12/2003)
+
+Proposed IBRDIIDA Base Case Lending Program's
+Fiscal
+year
+2004
+
+Project ID
+3RD EDUCATION-PHASE II
+COMMUNITY-DRIVEN RURAL SERVICES SUPPORT
+Sub-total
+
+2005
+
+PHN
+Sub-total
+
+Total
+
+US$(M)
+
+Strategic Rewards Implementation b
+b (HIMIL)
+Risks (HAI4#L)
+
+10.0
+
+H
+
+8.0
+
+M
+
+H
+H
+
+H
+
+M
+
+18.0
+70
+7.0
+
+25.0
+
+- 37 Annex 5: CAS Table B3
+Bank Group Fact Sheet - IFC and MIGA Program, FYOO-03
+2000
+
+2001
+
+2002
+
+2003
+
+0
+
+0
+
+0
+
+0
+
+Total
+
+0
+
+0
+
+0
+
+0
+
+Investment instrument (%)
+Loans
+Equity
+Quasi-Equity
+Other
+Total
+
+0
+
+0
+
+0
+
+0
+
+MIGA guarantees (US$ million)
+
+0
+
+0
+
+0
+
+0
+
+IFC approvals (US$ million)a
+Sector (°)
+
+alncludes quasi-equity types of both loan and equity instruments.
+
+- 38 Annex 6: CAS Table B4
+Summary of Non-lending Services
+(As of 01/12/03)
+
+Product
+
+Completion
+FY
+
+FY Cost
+(US$000)
+
+Audi ence'
+
+Objeciveb
+
+2002
+annual
+
+43 0
+11.0
+
+Bank Government
+Bank, Government, Donors
+
+Knowledge generation, problem solving
+Knowledge generation, problem solving
+
+annual
+annual
+2003
+annual
+2003
+2003
+
+75.0
+50.0
+70.0
+20.0
+41.0
+60.0
+
+Bank, Government
+Bank, Government, Donors
+Bank, Government
+Bank, Government, Donors
+Bank, Government
+Bank, Government, Donors
+
+Knowledge
+Knowledge
+Knowledge
+Knowledge
+Knowledge
+Knowledge
+
+annual
+2004
+2004
+2004
+annual
+2004
+
+64.0
+50.0
+50.0
+100.0
+20.0
+30.0
+
+Bank, Government
+Bank, Government, Donors
+Bank, Government
+Bank, Government
+Bank, Government, Donors
+Bank, Government
+
+Knowledge generation, problem solving
+Knowledge generation, problem solving
+Knowledge generation, problemn solving
+Bank, Government
+Knowledge generation, problem solving
+Knowledge Generation, problem solving
+
+annual
+2005
+annual
+2005
+2005
+
+65.0
+50.0
+20.0
+70.0
+60.0
+
+Bank,
+Bank,
+Bank,
+Bank,
+Bank,
+
+Knowledge generation,
+Knowledge generation,
+Knowledge generation,
+Knowledge generation,
+Knowledge generation,
+
+2005
+
+100.0
+
+Bak, Government, Donors
+
+Completions in FY02
+(F-PRSP)/Joint Staff Assessment (JSA)
+Country Portfolio Performance Review (CPPR)
+Under way in FY03
+General Economic Work
+HIPC Momtoring
+Development Policy Review (DPR)
+Country Portfolio Performance Review (CPPR)
+Country Assistance Strategy (CAS)
+Country Financial Accountability Assessment
+(CFAA)
+
+generation,
+generation,
+generation,
+generation,
+generation,
+generation,
+
+problem solving
+problem solving
+problem solving
+problem solving
+problem solving
+problem solving
+
+Planned in FY04
+General Economic Work
+HIPC Progress Report
+Support to PRSP Progress Report
+Public Expenditure Review (PER)
+Country Portfolio Performance Review (CPPR)
+Civil Service Reform (informnal)
+Planned in FY05
+General Economic Work
+Support to PRSP Progress Report
+Country Portfolio Performance Review (CPPR)
+Private Sector Assessment
+Country Procurement Assessment Report
+(CPAR)
+Poverty Assessment
+a.
+b.
+
+Government, donor, Bank, public dissemination.
+Knowledge generation, public debate, problem-solving.
+
+Government
+Government
+Government, Donors
+Government
+Government, Donors
+
+problem solving
+problem solving
+problem solving
+problem solving
+problem solving
+
+Knowledge generation, problem solving
+
+- 39Annex 7: CAS Table B5
+Social Indicators
+
+Latest single year
+1970-75 198045 1995401
+POPULATION
+Total population, mid-year (millions)
+Growth rate (%annual average for penod)
+Urban population (%of populabon)
+Total ferbility rate (births per woman)
+POVERTY
+(%of populaton)
+National headcount index
+Urban headcount index
+Rural headcount index
+INCOME
+GNI per capita (US$)
+Consumerpnceindex(1995=100)
+Food pnce index (1995=100)
+INCOMEICONSUMPTION DISTRIBUTION
+Gini index
+Lowest quintile (%of income or consumption
+Highest quintle (%of income or consumptior
+SOCIAL INDICATORS
+Public expenditure
+Health (%of GDP)
+Educabon (%of GNI)
+
+Socal secunty and welfare (%of GDP)
+Net primary school enrollment rate
+(X of age goup)
+Total
+Male
+Female
+Access to an improved water source
+(%of populaton)
+Total
+
+05
+33
+17 0
+65
+
+Same regiontincome group
+Sub-Saharan Low4ncome
+Africa
+
+08
+32
+22.3
+63
+
+13
+31
+31 3
+5.0
+
+673.9
+25
+32 3
+52
+
+2,511.4
+19
+31 0
+36
+
+260
+29
+
+310
+116
+
+470 0
+133.1
+
+430
+141
+
+-
+
+220
+10
+
+..
+
+50 2
+
+40
+55 3
+
+.
+.
+
+2.3
+.
+
+09
+
+12
+
+21
+29
+13
+
+62
+77
+48
+
+61
+65
+57
+
+.
+
+62
+80
+
+.
+
+Urban
+Rural
+
+2.4
+34
+
+12
+34
+
+55 4
+
+76
+
+53
+
+813
+42 6
+
+88
+71
+
+.
+
+52 9
+
+57
+
+46.4
+
+57
+
+Immunization rate
+(%under 12 months)
+Measles
+
+DPT
+Child malnutntion (%under 5 years)
+Life expectancy at birth
+(years)
+Total
+Male
+Female
+Mortality
+infant (per thousand live births)
+Under5(perthousandlivebirths)
+Adult (154-9)
+Male (per 1,000 populabon)
+Female (per 1,000 populabon)
+Matemal (per 100,000 live births)
+Births attended by skilled health staff (%)
+
+.
+
+26
+
+38
+37
+40
+
+45
+43
+46
+
+53
+52
+55
+
+46 5
+45.7
+47 4
+
+59
+58
+60
+
+172
+319
+
+137
+216
+
+73
+110
+
+91 2
+161.6
+
+76
+115
+
+655
+519
+
+584
+466
+
+436
+388
+1,100
+
+504 5
+459 4
+
+294
+261
+
+,,
+
+.
+
+80
+
+01/053
+CAS Annex B5 This table was produced from tha CMU LDB system
+Note 0 or 0 0 means zero or less than half the unit shown Net enrollment rmtos exceeding 100 indicate discrepancies between the
+estimates of school-age population and report enrollment data.
+
+- 40 -
+
+Annex 8: CAS Table B6
+Key Economic Indicators
+
+Indicator
+National accounts (as %of GDP)
+Grossdomesticproduct/a
+Agriculture
+Industry
+Services
+
+l
+
+Projected
+Estimate
+Actual
+2003
+1996 1997 1998 1999 2000 2001 2002
+
+2004
+
+100
+30
+14
+56
+
+100
+29
+14
+57
+
+100
+30
+14
+56
+
+100
+33
+13
+54
+
+100
+33
+12
+54
+
+100
+40
+14
+46
+
+100
+40
+15
+45
+
+100
+39
+15
+46
+
+100
+35
+12
+53
+
+Total Consumption
+Gross domestic fixed investment
+Government investment
+Private investment
+
+94
+22
+13
+9
+
+96
+17
+8
+9
+
+97
+18
+5
+13
+
+97
+18
+5
+13
+
+97
+17
+4
+13
+
+99
+18
+6
+12
+
+96
+19
+6
+13
+
+98
+19
+5
+13
+
+97
+19
+6
+13
+
+Exports (GNFS) /b
+Imports (GNFS)
+
+47
+63
+
+45
+58
+
+51
+67
+
+46
+61
+
+48
+62
+
+54
+71
+
+55
+71
+
+57
+74
+
+58
+74
+
+Gross domestic savings
+Gross national savings /c
+
+6
+15
+
+4
+13
+
+3
+15.
+
+3
+13
+
+3
+12
+
+1
+11
+
+4
+13
+
+2
+13
+
+3
+14
+
+391
+
+411
+
+417
+
+424
+
+415
+
+383
+
+423
+
+435
+
+469
+
+340
+
+340
+
+340
+
+340
+
+350
+
+330
+
+310
+
+310
+
+320
+
+Real annual growth rates (%, calculated from 1987 prices)
+2.2 4.9
+Gross domestic product at market prices
+2.2 4.9
+Gross Domestic Income
+
+4.9
+4.9
+
+6.4
+6.4
+
+5.6
+5.6
+
+6.0
+6.0
+
+6.0
+6.0
+
+5.8
+5.8
+
+6.2
+6.2
+
+calculated from 1987 prices)
+Real annual per capita growth rates (O/o,
+1.7
+-0.9 1.7
+Gross domestic product at market prices
+7.8
+-10.0 3.8
+Total consumption
+9.5
+-10.8 4.1
+Private consumption
+
+3.1
+3.5
+3.3
+
+2.3
+-2.4
+-3.8
+
+3.0
+6.4
+4.8
+
+3.3
+2.6
+4.4
+
+3.3
+5.7
+6.4
+
+3.5
+2.4
+2.8
+
+213 199
+130 120
+278 262
+207 194
+-65 -63
+52
+59
+-48 -50
+
+212
+133
+275
+202
+-63
+49
+-53
+
+223
+154
+293
+233
+-70
+50
+-57
+
+246
+168
+316
+249
+-70
+57
+-57
+
+267
+178
+346
+260
+-79
+68
+-56
+
+283
+177
+359
+257
+-76
+58
+-53
+
+7
+4
+2
+3
+41
+-3
+
+2
+6
+21
+-15
+47
+-2
+
+6
+-8
+24
+-32
+46
+14
+
+7
+18
+17
+2
+41
+-9
+
+8
+4
+15
+-11
+53
+-9
+
+-15.3 -18.3 -16.5
+
+-18.1
+
+Memorandum items
+Gross domestic product
+(US$ million at current prices)
+GNP per capita (US$, Atlas method)
+
+Balance of Payments (US$ millions)
+Exports (GNFS)b
+Merchandise FOB
+Imports (GNFS) /b
+Merchandise FOB
+Resource balance
+Net current transfers
+Current account balance
+Net private foreign direct investment
+Long-term loans (net)
+Official
+Private
+Other capital (net, incl. errors & ommissions)
+Change in reserves /d
+Memorandum items
+Resource balance (%of GDP)
+
+a.
+b.
+c.
+d.
+
+185 185
+114 108
+247 237
+189 176
+-62 -52
+45
+43
+-52 -43
+9
+18
+13
+5
+33
+-8
+
+9
+12
+21
+-9
+30
+-7
+
+12
+5
+8
+-3
+41
+-10
+
+-15.9 -12.7 -15.6 -14.9
+
+8
+-1
+11
+-13
+56
+-10
+-16.3
+
+GDP at factor cost
+"GNFS" denotes "goods and nonfactor services."
+Includes net unrequited transfers excluding official capital grants.
+Includes use of IMF resources.
+(continued...)
+
+- 41 -
+
+Annex 8
+CAS Table B6 - Key Economic Indicators (continued)
+
+L__
+
+_
+
+Idi'ctor
+
+_
+
+Real annual growth rates ( YR87 prices)
+Merchandise exports (FOB)
+
+tProetW
+~~~~~~~Estintate,
+
+.
+
+tACwl
+
+.
+
+I
+
+_
+
+.
+
+'I999
+
+1997 -1998
+____1996
+
+2001 2002
+
+2800
+
+20031
+
+_
+
+2
+
+1.4
+
+5.1
+
+1.7
+
+42
+
+2.1
+
+-3.6
+
+18.1
+18.0
+0.1
+4.7
+1.7
+
+19.6 17.3 19.2
+18.3 20.2 17.6
+1.3 -2.9 1 5
+3.8 5.8 6.1
+0.3 0.9 3 0
+
+19,6
+17.8
+1.8
+5.4
+4.2
+
+19.5
+17.1
+2.3
+5.8
+4.1
+
+Monetary indicators
+M2/GDP
+Growth of M2 (%)
+Private sector credit growth/
+total credit growth (%)
+
+25.4 28.5 29.6 29.9
+6.3 22.3 10.2 12.1
+-72.6 62.2 -293.9 94.5
+
+36.8 38.7 38.3
+34.8 19.4 12.0
+15.7 23.9 102.9
+
+34.7
+-4.4
+-5.3
+
+35.1
+9.0
+225.9
+
+Price indices( YR87 =100)
+Merchandise export price index
+Merchandise importprice index
+Merchandise terms of trade index
+Real exchange rate (US$/LCU) /f
+
+183.6
+124.7
+147.2
+94.0
+
+190.4 189.8 199.8
+128.2 131.1 133.8
+148.5 144.8 149.3
+98.9 97.4 95.2
+
+215.0 226.5 244.1
+136.7 139.9 143.5
+157.3 161.8 170.1
+..
+91.1
+
+245.4
+147.0
+166.9
+
+240.6
+150.6
+159.8
+
+3.0
+6.8
+
+2.5
+-0.4
+
+2.5
+1.5
+
+-8.0
+
+-7.9
+
+20.2 -12.1
+..
+..
+
+..
+..
+
+..
+..
+
+-9 5
+
+15.1
+
+-8.5
+
+Public finance (as % of GDP at market prices) /e
+18.8 19.1
+Currentrevenues
+19.3 19.0
+Current expenditures
+-0.4 0.1
+Current account surplus (+) or deficit-)
+11.5 7.9
+Capital expenditure
+8.8 5.4
+Foreign financing
+
+19.3
+18.0
+1.3
+52
+26
+
+Primary
+Manufactures
+
+Merchandise imports (CIF)
+
+Real interest rates
+Consumer price index (%change)
+GDP deflator (%change)
+
+..
+..
+
+-12.8
+
+2.1
+2.9
+
+2.8
+3.8
+
+1.1
+1.1
+
+3.8
+4.3
+
+2.6 10.1
+..
+..
+
+2.2
+
+0.9
+3.7
+
+..
+..
+
+12.5
+
+4.0
+7.2
+
+e. Consolidated central government. Includes current grants such as HIPC support.
+f. "LCU" denotes "local currency units." An increase in US$/LCU denotes appreciation.
+
+- 42 -
+
+Annex 9: CAS Table B7
+Key Exposure Indicators
+Actual .
+
+998
+
+,_Estimate.
+20
+
+Projected
+2002 2003 ,2004
+
+1996
+
+1997
+
+431
+
+446
+
+439
+
+432
+
+447
+
+441
+
+462
+
+499
+
+520
+
+Net disbursements (US$m) /a
+
+21
+
+15
+
+9
+
+4
+
+42
+
+33
+
+18
+
+17
+
+15
+
+Total debt service (TDS) (US$m) /a
+Debt and debt service indicators (%/6)
+
+22
+
+16
+
+15
+
+15
+
+18
+
+30
+
+23
+
+24
+
+24
+
+206.6
+..
+10.7
+0.0
+
+214.1
+108.5
+7.6
+0.0
+
+180.8
+105.4
+6.1
+0.0
+
+191.7
+101.8
+6.4
+0.0
+
+189.2
+107.7
+7.6
+0.0
+
+174.2
+115.3
+11.8
+0.0
+
+166.4
+109.4
+8.3
+0.0
+
+161.0
+114.7
+7.6
+0.0
+
+160.1
+110.9
+7.2
+0.0
+
+0.0
+65.1
+
+0.0
+69.0
+
+0.0
+83.0
+
+0.0
+83.2
+
+0.0
+77.9
+
+0.0
+68.8
+
+0.0
+68.0
+
+0.0
+68.9
+
+0.0
+70.4
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0.0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+..
+
+..
+
+..
+
+..
+
+..
+
+..
+
+167
+
+171
+
+166
+
+189
+
+196
+
+203
+
+204
+
+204
+
+Indica-or,
+Total debt outstanding and disbursed (TDO) (US$m) /a
+
+TDO/XGS /b
+TDO/GDP
+TDS/XGS
+Concessional/TDO
+IBRD exposure indicators (%)
+IBRD DS/public DS
+Preferred creditor DS/public
+
+1999
+
+0
+
+DS (%) /c
+IBRD DS/XGS
+IBRD TDO (US$m) /d
+Of which present value of guarantees (US$m)
+Share of IBRD portfolio (%)
+
+IDA TDO (US$m) /d
+
+163
+
+IFC (US$m)
+
+Loans
+Equity and quasi-equity /e
+MIGA
+MIGA guarantees (US$m)
+
+a. Includes public and publicly guaranteed debt, private nonguaranteed, use of IMF credits and net short-term capital.
+b. "XGS" denotes exports of goods and services, including workers' remittances.
+c. Preferred creditors are defined as IBRD, IDA, the regional multilateral development banks, the IMF, and the Bank for International
+Settlements.
+d. Includes present value of guarantees.
+e. Includes equity and quasi-equity types of both loan and equity instruments.
+
+- 43 -
+
+Annex 10: CAS Table B8
+Statement of IFC's Held and Disbursed Portfolio
+(As of 11/30/02)
+(In US Dollar Millions)
+Disbursed
+
+________Held
+FY
+Approval
+
+Participation
+
+Loan
+
+0.00
+0.00
+0.00
+
+0.00
+0.00
+0.00
+
+0.19
+0.36
+0.20
+
+0.00
+0.00
+0.00
+
+0.00
+0.00
+0.00
+
+0.00
+0.00
+0.00
+
+0.00
+
+0.00
+
+0.76
+
+0.00
+
+0.00
+
+0.00
+
+Loan
+
+Equity Quasi
+
+1995/97 AEF KKF IHa/
+1994
+AEF Lyefish b/
+AEF Ndebaan c/
+1993
+
+0.19
+0.36
+0.20
+
+0.00
+0.00
+0.00
+
+Total Portfolio:
+
+0.76
+
+0.00
+
+Company
+
+a/ AEF = African Enterprise Facility (poultry producer)
+b/ AEF = African Enterprise Facility (commercial fishing)
+c/ AEF = African Enterprise Facility (medical clinic)
+
+Equity Quasi ParUcipatlon
+
+- 44 Annex 11: CAS Table B8
+Operations Portfolio (IBRD/IDA and Grants)
+(As of 12/02)
+Closed Credits: 24
+Actve Credits: 6
+Project ID
+
+Project Name
+
+P057995
+P057394
+P060329
+P000825
+P057997
+P035643
+
+Capacity Building for Economic Mgmt.
+Gateway
+HIV/AIDS Rapid Response
+Participatory Health/Population/Nutrition
+Poverty Alleviation and Capacity Building
+Third Education Sector
+
+Supervision Rating Development Implementation
+Progress
+Objectives
+S
+S
+S
+S
+S
+S
+S
+S
+U
+U
+S
+S
+
+Total
+
+IBRD/IDA *
+Total Disbursed (Active)
+of which has been repaid
+
+35.48
+0.0
+
+Total Disbursed (Closed)
+of which has been repaid
+
+172.78
+16.95
+
+Total Disbursed (Active + Closed)
+of which has been repaid
+
+208.26
+16.95
+
+Total Undisbursed (Active minus Grants)
+Total Undisbursed (Closed)
+Total Undisbursed (Active + Closed ninus
+Grants)
+
+Difference Between
+Expected and Actual
+
+Last PSR
+Fiscal Year
+2002
+2002
+2001
+1998
+1999
+1999
+
+Orkinal Amount in US$ Millions
+Grant Cancel. Undisb.
+IDA
+IBRD
+15.0
+16.0
+15.0
+18.0
+15.0
+20.0
+
+13.1
+14.3
+14.5
+10.3
+7.1
+5.8
+
+Disbursements
+Original Formally
+Revised
+4
+-14
+6.4
+10.0
+10 1
+78
+5.7
+
+99.0
+
+65.1
+
+32.6
+
+10.1
+
+64.18
+0.00
+64 18
+
+a. Intended disbursements to date minus actual disbursements to date as projected at appraisal
+b. Following the FY94 Annual Review of Portfolio performance (ARPP), a letter-based system was introduced (HS = highly satisfactory, S
+proposed Improvements in Project and Portfolio Performance Rating Methodology (SecM94-90 1), August 23, 1994.
+
+= satisfactory,
+
+U = unsatisfactory, HU
+
+= highly
+
+unsatisfactory) see
+
+- 45 -
+
+Annex 12: CAS Table B9
+Country Partnership Strategy Matrix
+- Diagnosis
+
+|
+
+-
+
+Strte,
+
+actions
+
+Parnerpr
+
+Bank Grup Instuments-
+
+-
+
+m
+
+PRSP Pillar No. 1: To Improve the Enabling Policy Environment to Promote Growth and Poverty Reduction
+frantmewk and
+Maimtainasamblemacrmeconomic
+support anaccelerated
+growth straueg*
+
+r.
+
+Improve Strategic Approach
+
+• Strengthen Government capacity for economic policy
+formulation and execution
+
+MaALNn
+tendng:
+- DPR
+Portfolio:
+- Capacdy Buildig for Economic Managemet Project
+
+-
+
+NWFTechnical Cooperatona
+ActonaPlan
+UNDP Ecohnoc Managment and Capacity Buildimg
+
+LeneR
+
+CrePdgm
+iBtCBPI->
+- Economic R&srm Credtt (high clue)
+
+EUl
+-DFID
+
+* Strengthen public financial management and improve
+effectiveness of public spending
+
+PM
+
+UNDP
+-EU
+
+CFAA
+
+-DFn)
+
+-CPAR
+
+CMi ServiceReform (mal)
+
+* Deepen structural reforms, including privatization and
+
+- Pnve
+
+SnrAment
+
+regulation of utilities
+* Achieve broad-based, export-oriented, and sustainable growth
+
+Portfolio:
+
+oG.ay Poje
+
+Lsndng:
+- Commnntny-Driven Devekpment Prject
+Non bnclng:
+- PSA
+
+* Improve infrastructure
+
+E-n
+
+AfDB
+EeUormentaghc)
+
+sg
+-
+
+Arab Bnk for Econ Dev
+
+-OPEC
+-haDB
+-Kuwait
+
+Suppott tchwevement of PRSP objedwie of povetty
+reduppoitachwnvementofPltSPobjecaiveofpoven
+
+.Non
+
+* Redirect public investment toward the promotion of human
+
+Fund
+
+lencdnw.-KuutF
+
+PNE
+
+and institutional capacity and poverty reduction
+
+(continued...)
+
+-
+
+-~~--^
+
+K Diagnosis
+
+-
+
+Strateg
+
+-
+
+46 BankkGroup nstruments
+
+actins
+
+-
+
+Partner progtams
+
+PRSP Pillar No. 2: To Enhance the Productive Capacity and Social Protection of the Poor and Vulnerable
+oNon
+Develop growth potential of sectors which could increase
+
+Supportopportuncies for employmentmaducome.
+generatng activims for the poor
+
+employment and rural incomes
+
+* Improve
+
+u
+lending:
+Agn-urai Drsificattro RumdGrowdt ( tbrnal)
+- Pnvate SectorAssessment
+Lending:
+Project
+- Community-Driven Developmeru
+
+living conditions of poor through sustainable
+
+Poveny Aleattn nd C
+
+ty Buildg Pjea
+
+-IFAD
+
+EU
+AfDB
+Kuwait Fund
+EU
+
+-
+
+provision of adequate public infrastructure and services
+Prmote social proteacon of the por
+
+PRSP Pillar No. 3: To Improve Coverage of the Unmet Basic Needs of the Poor
+lrmpvm~ernet of acces to healt careandeducatoon
+r
+for povty reductin
+a prerequnioe
+
+Improve family health in The Gambia (reproductive health,
+infant/child health and good nutritional status)
+* Improve access to basic education
+
+Poilfollo:
+- Patcipatory Health Popultina andNutritn Projec
+Lendfing:
+
+-UN
+AEB
+- IsDB
+
+Foiow-on PHN
+
+PortfoIio:
+- Tlrd Educaoon project
+
+AfNDB
+-DB
+- OPEC
+
+Portfolio.
+
+-UN
+
+. TLhfdEducation Pase i
+
+-DF[D)
+
+* Need to stem a rapid growth of HIV virus infection which
+
+-
+
+Rad RespomePromjec
+WVAMS
+
+causes AIDS
+PRSP Pillar No. 4: To Build the Capacity of Local Communities and Civil Society Organizations to Play an Active Role in the Development Process
+Lending:
+- CDD project
+Portfolio:
+- Poverty Alleviation andCapacityBuilding Projea
+
+by
+inereneountabiliy andtransparency
+refornung isutnutaons at centraland ocal level
+
+-
+
+process
+EU ilntnutionaiupport to Decestralzaitmon
+E
+DFID
+UNDP
+
+(continued...)
+PRSP Pillar No. 5: To Mainstream Gender Equity, Environmental Issues, Nutrition, Governance and HIV/AIDS awareness Into All Development Programs
+Ensurefocis of oil development progen on
+povery reducton
+
+*
+
+in order to ensure focus on poverty reduction outcomes at
+
+Lending:
+Tud Educawn (Phe
+CDD
+
+community levels.
+
+Potfolo
+
+Need to coordinate all interventons (Govemment and donors)
+
+* Need to have in place special institutional arrangements to
+pursue above objective.
+
+THtV/Education
+-GEF
+
+EU
+i)
+
+-
+
+UNDP
+
+-
+
+OtierUN Agencies
+
+Respone
+
+- Participatory Hea,
+- Poventy Alleviation
+
+Prjec
+
+Population aid Nutrion Project
+andCapacity Building Project
+
+FiD
+
+- 47 Annex 13: CAS Table B10
+Summary of Development Priorities
+(As of 01/12/03)
+
+Network
+
+Country
+Performance
+
+Poverty Reduction and Economic Developm
+Fair
+Economic Development
+Fair
+Economic Policy
+Poor
+Public Sector
+Good
+Gender
+Poor
+Governance
+Human Development
+Education
+Health and Nutrition
+HIV/AIDS
+.
+Social Development
+
+Good
+Fair
+Fair
+
+Major Issue
+nt
+Rural Growth and Poverty
+Strengthen Public Finances
+Civil Service Reform
+Inequality
+Judicial Reform/
+Decentralization
+
+Quality and Access
+Primary Care
+Maintain low Level of
+
+.
+High
+High
+Moderate
+Moderate
+Moderate
+
+High
+High
+Moderate
+Moderate
+High
+
+High
+Moderate
+High
+
+High
+High
+High
+
+Moderate
+
+Moderate
+
+Moderate
+Moderate
+
+Moderate
+Moderate
+
+High
+
+High
+
+Low
+
+Moderate
+
+~~~~~~~Epidemic
+Fair
+
+Inequality
+
+Environmentally and Socially Sustainable Development
+Diversify Agriculture
+Fair
+Rural Development
+Coastal /marine areas
+Fair
+Coastal Environment
+Private Sector and Infrastructure
+Fair
+Private Sector
+
+Energy
+
+Bank
+Priority
+
+Country
+Priority
+
+Poor
+
+Strategy for Privatization
+Energy/Water Utility,
+Telecommunications,
+Transportation and Port
+Increase access and reliability
+of power/water supply
+
+- 48 -
+
+Annex 14: IMF-World Bank Relations
+
+(As of December 2002)
+PARTNERSHIP IN THE GAMBIA'S DEVELOPMENT STRATEGY
+
+1.
+In April 2002 the Government of The Gambia outlined its development strategy
+in a Second Strategy for Poverty Alleviation document (SPA II), also called the Poverty
+Reduction Strategy Paper (PRSP). The Bank and the Fund Boards endorsed this strategy
+in July 2002. The Government intends to fully update the PRSP in 2003. The PRSP sets
+out the following five pillars of the Government's strategy: (i) create an enabling policy
+environment to promote economic growth and poverty reduction; (ii) enhance the
+productive capacity and social protection of the poor and vulnerable; (iii) improve
+coverage of the basic social service needs of the poor and vulnerable; (iv) build the
+capacity of local communities and civil society organizations to play an active role in the
+development process; and (v) mainstream gender equity, environmental issues, nutrition,
+governance and HIV/AIDS awareness into all development programs.
+2.
+The Fund has supported The Gambia under an arrangement under the Poverty
+Reduction and Growth Facility (PRGF) between June 1998 and December 2001. In July
+2002, the IMF Board endorsed the full PRSP and approved a new three-year PRGF
+arrangement as well as the use of HIPC interim assistance. The Fund takes the lead in the
+policy dialogue on macroeconomic policies and monitors macroeconomic performance
+by way of quantitative performance criteria. On the structural side, the program is
+focused on tax, budgetary, and financial sector reform and improvements in the
+compilation and provision of, household, national accounts and external data. Structural
+conditionality under the PRGF arrangement covers areas such as regular publication of
+reports on poverty reducing expenditure, elimination of government-public enterprise
+cross arrears, conduct of a household and enterprise survey and strengthening of the
+customs data system.
+3.
+The PRSP and its comprehensive poverty analysis will provide the framework for
+the Bank's Country Assistance Strategy planned for Board presentation in early-March
+2003. The Bank is currently supporting the implementation of the PRSP in the areas of
+health, education, HIV/AIDS, economic management, private sector development
+through the implementation of a portfolio of specific projects, as outlined more fully
+below.
+BANK GROUP STRATEGY AND BANK PORTFOLIO
+
+4.
+The objective of the CAS for the Bank is to support the Government's efforts
+through a combination of core diagnostic work and lending.
+Assessment of Country Policies
+5.
+The core diagnostic work will provide an analytical underpinning and framework
+for the reforms proposed in the PRSP, in the following areas: (i) strengthening public
+finance management (planned are a Public Expenditure Review (FY04), a Country
+
+- 49 -
+
+Financial Accountability Assessment (FY03) and a Country Procurement Assessment
+Report (FY05); (ii) deepening structural reforms, including privatization and regulation
+of utilities such as electricity, water, telecommunications and transport (a Development
+Policy Review is planned for FY03 and a Private Sector Assessment for FY05); and
+(iii) redirecting public investment toward the promotion of human and institutional
+capacity and poverty reduction (a study is planned for FY04 to examine issues of
+decentralization and civil service reform from a perspective of improving service delivery
+in rural areas). In addition, the Bank will support the preparation of a new Household
+Survey and Census in 2003, and will work with Government to ensure that an updated
+poverty analysis is prepared by FY05.
+Lending
+Over the years, the World Bank, through IDA, has assisted the Government in
+6.
+pursuing four main objectives: (a) establishment of a macroeconomic and sectoral
+environment conducive to economic growth; (b) rehabilitation and development of
+infrastructure; (c) development of human capital by providing more efficient social
+services; and (d) capacity building in departments that have a key role for economic
+management. Instruments used in supporting these objectives have been adjustment
+lending (first and second structural adjustment credits (SAL I and SAL II), buttressed by
+sector-based rehabilitation and investment projects. As of December 31, 2002, IDA had
+approved 30 credits for a total amount of about US$271 million, with an undisbursed
+amount of about US$65 million.
+7.
+The currentportfolio consists of six projects in health, education, poverty
+alleviation, capacity building for economic management, and private sector, totaling
+US$99 million, with an undisbursed amount of about US$65 million (66 percent).
+8.
+In health, the Participatory Health/Population/Nutrition operation was approved
+in March 1998. It aims at improving the quality of services related to reproductive
+health, infant and child health, and nutrition for women of reproductive age, infants, and
+children. It also aims at improving the quality of management and implementation of a
+family health program. An HIV/AIDS Rapid Response operation was approved in
+January 2001. The project aims at (a) containing the HIV/AIDS pandemic; (b) reducing
+the spread of the epidemic and mitigating its effects; and (c) increasing access to
+prevention services, as well as treatment, care, and support for those infected and affected
+by HIV/AIDS.
+In education, the Third Education Sector Project was approved in September 1998
+9.
+to support the implementation of the second half of the Government's Education Sector
+Policy Framework, 1988-2005, and its accompanying investment program.
+10.
+A PovertyAlleviation and MunicipalDevelopment operation was approved in
+March 1999, with the following objectives: (a) to reduce the backlog in public
+infrastructure development, and improve the maintenance of public assets; (b) to alleviate
+poverty through the creation of temporary jobs and improvements to the selection of
+small- and medium-sized investments, which should aim at upgrading the living
+environment of the poor; and (c) to strengthen the technical and managerial capacity of
+
+- 50 -
+
+local authorities (with an emphasis on their financial situation), local private firms
+(namely, consultants and contractors), and Gamworks (procurement agency).
+11.
+A Capacity Buildingfor Economic Management Project was approved in July
+2001 to help (a) build government capacity for economic planning, policy formulation,
+and execution, and (b) build the capacity of the judicial and financial systems to facilitate
+private sector development.
+12.
+A Gateway Project was approved in February 2002 to help the country establish
+itself as a globally competitive export and processing center by laying the foundation for
+expanded private investment export-oriented production and employment, through the
+establishment of a Free Zone and an improved institutional environment.
+13.
+The IDA lending program for the period FY03-05 will correspond closely to the
+priorities established in the PRSP, with operations proposed in education, health and
+agriculture for a base case scenario of US$25 million. A second phase of the education
+adaptable lending program (APL) will focus on expanding the pilot components tested
+under the first phase and on strengthening pre-university training. The follow-up health
+project will assist the Government to meet the millennium development goals in health
+and nutrition. The new community-driven development project will address rural
+development issues such as decentralization, agriculture and possibly credit.
+14.
+As of November 30, 2002, the IFC'sportfolio has three ongoing operations
+totaling US$0.7 million. These are investments under the African Enterprise Facility
+(AEF) for a medical clinic (Ndebaan), a poultry producer (KKF) and for commercial
+fishery (Lyefish). No new investments have been made since 1997.
+15.
+IDA, MIGA, and the IFC will continue to coordinate their respective roles to
+support development activities in The Gambia.
+Sector Issues
+16.
+Evidence of the effectiveness of expenditures in education is encouraging:
+teachers are being trained, retention rates for girls have improved thanks to the girls'
+education trust fund, and transition rates from primary to secondary education are also
+up. Evidence of effective spending in health is anecdotal and comparatively less
+promising. Four out of five hospitals are running, but with limited equipment.
+Vaccination coverage has decreased, and is supported by HIPC resources. Plans have
+been made to implement a management information system to improve monitoring, in the
+context of the Participatory Health Population and Nutrition Project (PHPNP).
+Education sector issues include the training of teachers, the containment of
+17.
+personnel costs, and the improvement in girls' enrollment ratios in primary and
+secondary education. In health, child health is key, with an emphasis on preventive
+interventions, such as vaccination and adequate nutrition, specifically in the most
+vulnerable (rural) areas. However, the health sector is facing difficulties in implementing
+certain components of the PHPNP, such as the management information system to
+monitor progress. Intrasectoral budget allocations are also an issue, since the
+
+- 51 construction of two additional hospitals (bringing the total to five) limit the availability of
+resources for primary and secondary health care.
+BANK-FUND COLLABORATION IN SPECIC AREAS
+
+18.
+The IMF and the World Bank staff maintain a close working relationship,
+especially with respect to (i) implementation of the Poverty Reduction Strategy Paper,
+(ii) implementation of measures toward the HIPC Completion Point, (iii) analyses and
+reforms in public finance management, other governance issues including customs.
+19.
+The new PRGF arrangement does not include structural conditionality on (a) the
+restructuring and privatization of public enterprises, (b) the procurement code, (c) the
+investment code, and (d) the Public Investment Program (PIP), all of which were covered
+by structural benchmarks in the earlier PRGF annual arrangements. The Bank has the
+lead role in all these areas, and except for item (a), they have been addressed through
+legislation, interim codes, and an initial review of the PIP (the current PRGF-supported
+program has incorporated quarterly budget targets to eliminate government-public
+enterprise cross-arrears). More generally, the new three-year PRGF arrangement has
+been refocused to include structural conditionality that is more in the areas where the
+Fund takes a lead role and that has a more direct bearing on macroeconomic issues.
+20.
+All existing and prospective Bank lending is in investment projects, of which
+those in education and health have conditionality that is reflected also in the HIPC
+Initiative floating completion triggers.
+lFinancial Relations with the World Bank Group
+(As of 12/31/02, in millions of U.S. dollars)
+Projects
+
+Commitment
+
+Disbursed
+
+Undisbursed
+
+171.8
+
+172.8
+
+0.0
+
+Gateway
+CB for Economic Management Project
+HIV/AIDS Rapid Response
+
+16.0
+15.0
+15.0
+
+2.4
+2.9
+1.4
+
+14.3
+13.1
+14.5
+
+Participatory Health/Pop./Nutrition
+Third Education
+Poverty Alleviation and Municipal Dev.
+
+18.0
+20.0
+15.0
+
+7.7
+14.0
+7.1
+
+10.3
+5.8
+7.1
+
+99.0
+
+35.5
+
+65.1
+
+270.8
+
+208.3
+
+65.1
+
+24 credits closed
+Ongoing projects
+
+Subtotal
+Total
+Source: The World Bank Integrated Controller's System
+
+- 52 Annex 15: Expenditure Accountability Assessment and Action Plan (AAP)
+Action Plan Update Table
+Actions with time horizon
+
+Indicator
+I
+_
+
+2
+3
+4
+
+BUDGETFORMULATION,
+Composition of budget
+entity
+Limitations to use of offbudget transactions
+Reliability of budget as
+guide to outturn-level
+Data on donor financing
+
+5
+
+Classification of budget
+transactions
+
+6
+
+Identification of poverty
+reducing expenditures
+
+(S/Ma)
+
+Statusb
+
+Progress to Date
+
+Meets benchmark
+
+-
+
+N/A
+
+Rationalize below-the-line
+accounts
+Meets benchmark
+
+11
+
+Comprehensive reportproducedand
+currently being mnplemented
+N/A
+
+-
+
+Provide detailed information
+on development projects, and
+list them under relevant
+spending agencies (S)
+Prepare and implement
+economic and functional
+classification (M)
+Meets benchmark
+
+NS
+
+Have not been implemented for 2003 Budget
+
+11
+
+Object/economic classification prepared and
+planned for usage in 2004 Budget; functional
+classification not yet prepared
+Poverty Reducing Expenditure Report
+produced (6/2002) and second report being
+
+-
+
+produced; coding changes to be applied to
+12003 Budget and payment vouchers
+7
+
+Quality of multi-year
+expenditure projections
+
+BUDGETEXECUTION
+8 Level of payment arrears
+9 Quality of internal audit
+10 Use of tracking surveys
+11
+
+Quality of fiscal/banking
+data reconciliation
+
+Introduce MTEF (M) and
+continue sectoral PERs (M)
+
+.I
+
+Meets benchmark
+Meets benchmark
+Implement tracking surveys
+(M)
+Implement IFMIS (M);
+rationalize below-the-line
+accounts; computerize cash
+book entries of AGO
+
+-
+
+NS
+
+Delay in placement of resident MTEF
+advisor, placement expected in early 2003;
+PERs completed for three sectors (2001) but
+mostly annual time horizon
+N/A
+N/A
+No tracking surveys conducted
+
+II
+
+IFMIS residentadvisor appointed(March
+2002) but progresshas been slow due to low
+capacity ofAGO; comprehensivereport
+produced of below-the-line accounts and
+currently being implemented; spreadsheet
+basedframework developedfor AGO cash
+books
+IFMIS resident advisorappointed (March
+2002) but progress has been slow due to low
+capacity ofAGO; work initiatedonfiscal
+flash reportingsystem; updating of general
+ledger completed until August 2001 but
+discontinued afterwards
+IFMIS resident advisorappointed (March
+2002) but progress has been slow due to low
+capacity of AGO
+2000 and 2001 accounts in theprocess of
+being closed
+Audits not done since 1991
+
+IBUDGETREPORTING-
+
+Timeliness of internal
+budget reports
+
+Implement IFMIS (M);
+introduce fiscal flash
+reporting system; continued
+updating of entries in
+government general ledger
+
+II
+
+Functional classification
+used for in-year budget
+reports
+14 Timeliness of accounts
+closure
+15 Timeliness of final audited
+_ accounts
+
+Implement EFMIS with new
+budget classifications (M)
+
+11
+
+Close 2001 accounts (S)
+
+II
+
+12
+
+13
+
+Audit accounts from 1991
+and thereafter (M)
+
+NS
+I.-
+
+a S = short term, i e action that is expected to be completed inone year M = medium term, x eaction that is expected to be completed in2-3 years
+b Progress to date should include short descnption of progress and improvements, note degree of implementation, Xe whether implementation has been initiated (H), isnot yet
+started (NS), or is complete (Fl, for fully implemented). If Fl, please state date of completion
+
+- 53 Annex 16: Debt Sustainability Analysis Update
+Summary
+Under the Enhanced HIPC Decision Point (DP) in December 2000, The Gambia was to
+receive debt relief amounting to US$90 million in nominal terms, and US$67 million in
+NPV terms. The relief was expected to come from IDA (US$22.3 million in NPV terms),
+IMF (US$2.3 million), AfDB (US$20.6 million) and other creditors. It is currently
+receiving assistance from IDA, IMF, AfDB, the EU and the Paris Club. The HIPC
+Completion Point is expected to be reached in the second half of 2003.
+The current exercise indicates that compared to the DP DSA projections, the NPV of
+debt-to-exports ratio for The Gambia will deteriorate somewhat in the long term due to a
+decrease in export projections and an increase in projected lending. The fact that the
+NPV debt to exports ratio is projected to reach 176 percent in 2010 suggests that Bank
+lending can remain in the base case - but that the debt situation needs to be watched
+carefully.
+This Annex examines the developments in debt sustainability indicators since the
+Decision Point.
+Main results of the 2000 DP DSA
+The DSA showed that at the end of 1999, the total external public debt stock amounted to
+about US$452 million. In NPV terms, total debt was estimated at about US$258 million,
+equivalent to 59 percent of 1999 GDP, 217 percent of exports of goods and non-factor
+services, and 332 percent of government revenue. The Gambia's main creditors were
+multilateral, accounting for 70 percent of debt in NPV terms, with 32 percent owed to
+IDA, 22 percent to the AfDB and 3 percent to the IMF. Bilateral creditors accounted for
+the remaining 30 percent of its debt, of which one third was due to Paris Club and two
+thirds to non-Paris Club creditors. 8
+The debt burden of The Gambia was found unsustainable according to the export
+criterion and it qualified to seek enhanced HIPC assistance through the export window.
+After the full use of traditional debt relief mechanisms, The Gambia's NPV of debt-toexports ratio was 206 percent in 1999 and 207 percent in 2000, exceeding the enhanced
+HIPC target for the net present value of debt-to-exports ratio of 150 percent. HIPC
+assistance was to be US$66.6 million in NPV terms (not including traditional debt relief),
+where US$49.2 million would come from multilateral creditors and US$17.4 million
+from bilateral creditors, with IDA providing one-third of total relief
+The baseline scenario of the DSA for the balance of payments and debt outlook assumed
+the continuation of sound economic and financial policies. Given the implementation of
+structural reforms in the agricultural and external sectors, the volume of exports was
+projected to grow at 5% percent and import volumes at about 51/2 percent beyond 2004.
+8 Under the enhanced HIPC Initiative, the DSA was to be based on the country's stock of debt after the full
+
+application of traditional debt relief mechanisms at the Decision Point. In the case of The Gambia, this
+implies adjusting the 1999 NPV debt stock by (i) a stock-of-debt operation under Naples terms (67 percent
+NPV reduction on eligible debt) and a topping up of all previously rescheduled loans; and (ii) a comparable
+treatment from non-Paris Club creditors. Under these assumptions, the NPV of the external debt as of end
+1999 would be reduced by about 5 percent to US$245 million.
+
+- 54 -
+
+Developments during 2000-02
+During 2000 to 2002, The Gambia received interim debt relief from IDA, IMF, AfDB,
+EU and Paris Club. The HIPC Completion Point is expected to be reached in the second
+half of 2003.
+The Decision Point scenario has been updated with revised projections for new lending
+and exports. With regards in exports, the revision took into account actual export
+performance in 2000 and 2001 and revised export projection in 2002 and beyond, based
+on new information on the evolution of prices and volume of The Gambia's main export
+products. In 2000 and 2001, exports grew by 9.0 and 10.1 percent respectively, and it is
+estimated to have grown by 8.4 percent in 2002. These numbers are higher than the
+projections in the DP DSA. High export growth was the result of sound economic
+policies combined with record agricultural production benefiting from favorable weather
+conditions. On the other hand, longer term prospects for exports are lower than originally
+projected due to the expected decline in world market prices resulting from the global
+economic slowdown. The debt projections are highly sensitive to assumptions about
+export growth.
+As a result of the update, projected NPV debt-to-exports ratio is higher than originally
+estimated in the DP DSA for most of the projection period from 2003 to 2019, reaching a
+peak of 176.0 percent versus 128.2 percent in the DP DSA for 2011 (see Table below),
+and staying above 150 percent during the period 2003 to 2014. For that period, the
+difference between the original DSA and the update is attributed to the combination of
+lower export projections and higher projection for IDA and AfDB disbursements, as well
+as significant borrowing from Taiwan, China (more than US$30 million during 200 12003). The NPV of new lending accumulated during 2000 to 2005 is projected at
+US$113.7 million or about 69 percent more than US$67.4 million in the DP DSA. The
+increase in lending partly reflects greater confidence among donors that the country is
+pursuing sound economic policies as a result of the PRSP process. At the same time,
+export projections are adjusted downward from US$181.9 million to US$176.7 million,
+bringing the NPV of debt-to-exports ratio up from 140.8 percent to 171.6 percent in
+2005.
+The difference between the projections of the original DP DSA and the present update
+becomes smaller towards the end of the projection period. In 2019, the revised estimate
+of the new debt stands at US$312.3 million, or only 13 percent more than the original
+US$276.6 million, which, together with the lower exports, brings the NPV of debt-toexports ratio up from 108 percent to 122 percent. Details of the base scenario are
+presented in the table below alongside with the DP original projections.
+The current update projects a "hump" in NPV of debt-to-exports ratio, where for a
+number of years the ratio exceeds 150 percent. The fact that the NPV debt to exports
+ratio is projected to reach 176 percent in 2010 suggests that Bank lending can remain in
+the base case - but that the debt situation needs to be watched carefully: the average
+NPV of debt-to-exports ratio stands at 167.2 percent during 2000 to 2009, and then
+decreases to 151.7 percent during 2010 to 2019.
+Sensitivity analysis
+The three CAS scenarios of IDA disbursements were simulated: base, high and low. The
+Gambia has an IDA allocation of SDR 19 million or approximately US$25 million over
+the CAS period, and this is the amount programmned in the base case scenario. In
+
+- 55 -
+
+addition, the CAS proposes a low case of US$10 million and a high case of US$37
+million. Triggers for the base and high cases encompass satisfactory IDA portfolio
+management, implementation of the PRSP, and progress in governance, infrastructure,
+rural development, and the health and education sectors. Projected IDA disbursements
+during the period 2003 to 2005 are the following:
+'he Gambia: Planned Disbursements from IDA
+CY03-04-05
+US' mmn
+03
+04
+05
+Base
+
+23.0
+
+23.4
+
+14.7
+
+Low
+
+23.0
+
+22.6
+
+12.0
+
+High
+
+23.0
+
+24.1
+
+17.2
+
+The resulting differences in the NPV of the debt-to-exports ratio amnong the three
+scenarios were within a relatively small range. In particular, for 2005 the NPV of debtto-exports ratio was projected to be within the range of 170.9 to 172.2 percent for low
+and high scenarios, with the range somewhat increasing to 173.9 to 178.0 percent in
+2010, and to 112.6 to 123.9 percent in 2019.
+Figure 1 shows the impact of IDA lending on debt sustainability for low, base, and high
+scenarios, as well as for the base scenario from the DP DSA. Starting from 2002
+onwards all three scenarios assume higher NPV of debt-to-exports ratios than the base
+scenario from the DP DSA.
+Figure 1: Impact of Lending Scenarios on Debt Sustainability
+200
+180
+
+160 -
+
+=
+
+Base
+
+l
+
+140 -
+
+& 120 ~100
+u80
+o
+z
+
+-4--~sBase
+
+60
+
+-U-Low
+
+40-
+
+High
+
+,,t
+- - -
+
+20
+
+Onginal DP DSA
+
+-
+
+0
+CD
+
+0aD
+cm
+
+0
+,
+
+N
+
+(M
+
+'I
+
+0
+'N
+N
+
+0a
+N
+
+N
+
+LO
+
+0
+Nv
+
+CD 10
+N
+
+CD
+
+0
+0
+N4 N
+
+D
+
+10
+
+-
+
+N
+
+C2
+
+U
+
+CD
+
+0
+v
+
+0a
+CN
+
+N
+
+N
+
+Nm N
+
+N
+
+N
+
+N
+
+C
+N
+
+D
+N4
+
+_
+'°8a~~~~~~~~~~~~^
+
+-----va-w-
+
+R n-
+
+t:
+
+X->
+A-
+
+- -s- -l -s-
+
+>"s
+
+~.
+. .
+
+^
+
+-- 2a
+
+. .
+
+. . .> . .s
+
+~
+
+~
+
+;3_n"
+
+Rn>
+
+Ea
+
+>.
+f>- - -f<
+
+-Z-s- - -
+
+ita"$>°a
+
+A 2
+
+'Rn-E - ----
+
+nor
+
+t-
+
+3a
+
+Z
+
+-a - -h
+
+m
+
+-
+
+-
+
+- - - - - -¢-
+
+->a
+
+-$
+- - -R - -^4"
+
+v~~~~~~~~~~~~~~~~~~4
+,fi^*r
+t<t-=~O"~^Ofi-~Fo~<^_fiot"-~=->v~r
+
+O
+
+=o
+
+^
+
+^
+
+-R>
+-
+
+r n
+
+33-s
+^--tia--"-t-t
+--aW
+S-! 5ttSr4rlrbow~~~~~~~~-
+
+rl 1r_o !>b
+
+> i$
+
+r,>
+o
+r "_"rl
+:!-~~~U
+
+_
+
+l
+
+qr
+
+!~-g$12t
+
+_o
+
+"
+
+_
+
+qOq_
+
+*3
+
+v_ g ;.q_
+r
+
+qr
+
+vO
+
+rb
+
+" *g:
+
+hZw*-_
+MXRrso
+
+rbZ_>
+
+ytr
+
+g-_r
+
+3rw
+r lNo
+
+=K
+
+~
+
+" S_
+
+a
+
+w jg
+
+l"w*<q_
+
+^
+
+~_
+
+%
+
+r
+
+§3>
+%r3
+
+Lqni
+;IwA
+
+MAP SECTION
+
+15°
+
+16°
+
+TH E GAM BI
+° PRIMARY PAVED ROADS
+SECONDARY ROADS
+
+\
+-
+
+\<
+
+e
+
+\~---140
+
+<
+
+o0
+
+C
+
+8
+
+TRACKS
+g
+
+A;
+
+*
+
+DISTRICT HEADQUARTERS
+
+o
+
+DIVISION HEADQUARTERS
+
+*
+
+NATIONAL CAPITAL
+
+MALI
+SENEGAL>
+
+~~~~~~~~~~~~~S
+OCEAN
+
+|OC
+
+~~~~~~~
+ToDoloar
+
+CITIES AND VILLAGES
+
+INTERNATIONAL BOUNDARIES
+
+~~~~~o
+
+Dko
+
+K
+
+To Dakar
+
+Rioh'
+K
+Sn
+
+~---~Ien
+8
+
+(tamX~'~
+
+'-BURKINA>
+S
+FASO
+
+Gii1NEA Ei15;
+
+DIVISION BOUNDARIES
+
+"
+
+'SERRA
+
+140
+
+T--~
+
+I K
+
+GUINEA s
+L+NEw,DyoTEg
+
+-.- -
+
+>
+z
+
+L~iVIE
+
+x
+
+A
+
+~ ~ ,,~KxJ
+~ K~~~~~~~~~~~~~I'affO"'auneoo
+,
+\SmO
+
+9
+
+-.
+
+hn,~o--
+
+*Jppe,
+
+I
+
+cf~ LL
+
+rKL} -~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+o
+
+fI
+
+-- 30
+
+I
+
+G..v 0
+
+00
+-
+
+-~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~asse.I
+
+na
+
+0
+
+10
+
+20
+
+30
+
+40
+
+.
+
+K
+
+S
+
+-
+
+50 KILOMETERS
+
+/
+>
+
+o
+
+-
+
+E N E G A L _a||AtNl t
+I'
+
+EAN
+
+w
+
+HEGAMBIA
+
+, /RIVERS
+
+ATLANTIC
+
+l
+
+AI
+
+160
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~150
+140'
+
+|
+
+1 30
+
+25436
+
+Report No.:
+Type:
+
+CAS
+
+GM
+
+

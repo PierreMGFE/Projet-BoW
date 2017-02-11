@@ -1,0 +1,5720 @@
+Public Disclosure Authorized
+
+Document of
+The World Bank
+FOR OFFICIAL USE ONLY
+
+Public Disclosure Authorized
+
+Report No. 31830-JM
+
+INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT
+
+COUNTRY ASSISTANCE STRATEGY
+
+Public Disclosure Authorized
+
+Public Disclosure Authorized
+
+FOR
+JAMAICA
+
+APRIL 2005
+
+Caribbean Country Management Unit
+Latin America and the Caribbean Region
+
+___
+
+~~
+
+This document has a restricted distribution and may be used by recipients only in the performance o f their
+official duties. I t s contents may not otherwise be disclosed without World Bank authorization.
+
+The date of the last Country Assistance Strategy Progress Report was October 24, 2002.
+CURRENCY EQUIVALENTS
+
+Currency Unit: Jamaica Dollar (J$)
+US$1.0 = J$61.54 (as o f March 31, 2005)
+
+FISCAL YEAR
+
+April 1 to March 3 1
+
+WEIGHTS AND MEASURES
+Kilogram, Metric System
+
+ABBREVIATIONS AND ACRONYMS
+AAA
+BOJ
+BRDP
+CAN
+CAS
+CDB
+CFA
+CFAA
+CIDA
+CPAR
+CPI
+CPPR
+CSME
+DFID
+DO
+DPL
+ESW
+EU
+FINSAC
+FSAP
+FTAA
+GCI
+GDP
+GEF
+HRU
+IBRD
+ICB
+IDB
+IDF
+IFC
+IF1
+
+Analytical and Advisory Activities
+Bank of Jamaica
+Bank Restructuringand Debt Management
+Program
+Country Assistance Note
+Country Assistance Strategy
+Caribbean Development Bank
+Country Fiduciary Assessment
+Country Financial Accountability
+Assessment
+Canadian International Development
+Agency
+Country Procurement Assessment Review
+Consumer Price Index
+Country Portfolio Performance Review
+Caribbean Single Market and Economy
+Department for InternationalDevelopment
+(UK)
+Development Objective
+Development Policy Loan
+Economic and Sector Work
+European Union
+Financial Sector Adjustment Credit
+Financial Sector Assessment Program
+Free Trade Area of the Americas
+Global Competitiveness Index
+Gross Domestic Product
+Global Environmental Facility
+Health Reform Unit
+International Bank for Reconstructionand
+Development
+International Competitive Bidding
+Inter-American DevelopmentBank
+Institutional Development Fund
+Intemational Finance Corporation
+International Financial Institution
+
+Vice President:
+Director:
+Task Team Leader:
+
+IMF
+IP
+JANEAP
+JBIC
+JICA
+JSLC
+JSIF
+LAC
+LIL
+MDGs
+MIF
+MIGA
+MOH
+MOP
+MTS
+NAFTA
+NCB
+NET
+NGO
+NWC
+OED
+PAHO
+PATH
+PPG
+REER
+ROSE
+SIL
+SMP
+STATIN
+UNDP
+UNICEF
+USAID
+
+InternationalMonetary Fund
+Implementation Progress
+Jamaica National Environmental Action
+Plan
+Japan Bank for InternationalCooperation
+Japan Intemational Cooperation Agency
+Jamaica Survey of Living Conditions
+Jamaica Social Investment Fund
+Latin America and the Caribbean
+Learning and Innovation Loan
+Millennium Development Goals
+Multilaterai InvestmentFund
+Multilateral Investment Guarantee Agency
+Ministry o f Health
+Memorandumof the President
+Medium Term Strategy
+North American Free Trade Agreement
+National Competitive Bidding
+Government of the Netherlands
+Non-GovernmentalOrganization
+National Water Commission
+Operations Evaluation Department
+Pan-American Health Organization
+Program for Advancement through Health
+and Education
+Public and Publicly-Guaranteed
+Real Effective Exchange Rate
+Reform of Secondary Education
+Sector Investment Loan
+Staff-Monitored Program
+Statistical Institute of Jamaica
+United Nations Development Program
+United Nations Children’s Fund
+United States Agency for International
+Development
+
+Pamela Cox
+Caroline D. Anstey
+E r r o l Graham
+
+FOR OFFICIAL, USE ONLY
+TABLE OF CONTENTS
+Executive Summary............................................................................................................. 1
+Overview..................................................................................................................... 4
+I.
+11. The Country Context .................................................................................................. 4
+Political Context .......................................................................................................... 4
+Economic Context ....................................................................................................... 5
+Poverty Trends ............................................................................................................. 7
+Prospects for Future Growth...................................................................................... 10
+Ongoing and Emerging Challenges and Issues ......................................................... 10
+I11. The Government’s Medium-Term Policy Framework and Priorities for Growth and
+Poverty Reduction .................................................................................................... 15
+Medium Term Economic Framework .......................................................................
+15
+Medium-Term Private Sector Policy Framework......................................................
+17
+? 4 e 5 2 2 Term Sociaf ?H
+: . :y Framework ......................................................................z 7
+I V . Progress on the Current Bank Group Strategy ......................................................... 22
+The 2000 CAS and 2002 CAS Progress Report ........................................................ 22
+The Existing Portfolio................................................................................................ 22
+Lessons from the Previous CASs .............................................................................. 24
+CAS Consultations and Key Messages Received...................................................... 24
+V . The Role of the World Bank Group: Looking Ahead .............................................. 26
+26
+The World Bank Group Lending Program ................................................................
+Pillar 1: Accelerating inclusive economic growth ..................................................... 26
+Pillar 2: Improving human development and opportunity......................................... 29
+Pillar 3: Crime prevention and reduction................................................................... 30
+31
+Analytical and Advisory Activities (AAAs)...............................................................
+33
+V I. Program and Risks ....................................................................................................
+Lending Program and Scenarios ................................................................................ 33
+Bank Assistance in the Context of Overall Donor Support ....................................... 35
+Harmonization and U s e of Country Systems............................................................. 36
+Framework for Monitoring Progress ......................................................................... 38
+Bank Exposure in Jamaica......................................................................................... 39
+Key Risks and Risk Mitigation .................................................................................. 40
+
+This document has a restricted distribution and m a y b e used b y recipients only in
+
+.
+
+the performance o f their official duties I t s contents m a y n o t b e otherwise disclosed
+without W o r l d Bank authorization .
+
+-
+
+Annex
+Annex
+Annex
+Annex
+
+B8: (continued): Jamaica: Statement o f IFC’s Held and Disbursed Portfolio .....59
+B9: AS Summary of Development Priorities ...................................................... 60
+..
+C: Debt Sustainability ........................................................................................
+61
+D: CAS Consultations ........................................................................................ 62
+
+TABLES:
+
+Table 1. Jamaica . Selected Macroeconomic Indicators ..................................................... 6
+Table 2. Assessment of the Likelihood of Meeting the MDGs (Goals 1-7) ....................... 9
+Table 3 . Trend in Major Crimes in Jamaica (based on Crime index. 1990=100) ............ 12
+Table 4 . Outlook for Selected Economic Indicators under the Government’s MediumTerm Macroeconomic Framework ........................................................................... 16
+Table 5 . Government Social Priorities by Thematic Areas ..............................................
+18
+Table 6 . Ongoing and Planned Analytical and Advisory Activities .................................
+32
+Table 7. IBRD Lending Scenarios for FY06-09 ............................................................... 34
+Table 8 . Lending Scenarios and Triggers ......................................................................... 35
+36
+Table 9 . Areas o f Donor Support ......................................................................................
+Table 10. Framework for Monitoring Progress ................................................................ 38
+Table 11. External Public and Publicly-Guaranteed Debt ................................................ 40
+and Bank Exposure Indicators ........................................................................................... 40
+
+BOXES:
+B o x 1: The Shifting Composition o f Jamaica’s Debt and I t s Implications ................. 11
+B o x 2: K e y Messages from Joint CAS Consultations .........................................
+
+FIGURES:
+Figure 1. Poverty Headcount in Jamaica ............................................................................
+Figure 2 . Poverty Headcount b y Region, 1992-2002 .........................................................
+
+iv
+
+25
+
+8
+8
+
+Executive Summary
+Jamaica’s economic performance has improved since the CAS Progress Report
+1.
+in 2002. Real GDP growth has accelerated from 1 percent in 2001/02 to 2 percent in
+2003/04 and i s projected to be 1.5 percent in 2004/05 in spite o f the impact o f Hurricane
+Ivan. Jamaica’s medium-term growth prospects are generally good and improving as a
+result o f significant planned investments in key sectors including tourism, bauxite
+mining, telecommunications, power generation and infrastructure. Opportunities are also
+expected to be created by the formation o f the Caribbean Single Market and Economy
+(CSME), an economic union o f Caribbean countries which w i l l facilitate the free
+movement o f people, capital, goods and services. The transition to the Free Trade Area
+o f the Americas (FTAA) may also unlock economic opportunities for Jamaica.
+2.
+However, Jamaica faces ongoing and emerging challenges which could
+compromise i t s longer-term growth prospects. One o f the major challenges i s the large
+debt burden-one o f the highest ratios of total debt to GDP and domestic debt to GDP in
+the world. Achieving sustained growth w i l l involve dealing w i t h the growing debt
+burden on an urgent basis. Another major challenge i s the high levels o f crime and
+violence which are estimated to cost society at least 4 percent o f GDP. Crime and
+violence are largely concentrated amongst the poorest in society and amongst young
+males (14-24 years) who often tend to be the victims as well as the perpetrators o f violent
+crime. Poor educational outcomes are also a major challenge with which Jamaica must
+contend in order to improve competitiveness and reduce poverty. The performance o f
+Jamaica’s economy i s also likely to be impacted b y the reduction in trade preferences for
+and bananas. As a small open economy in the
+two o f i t s major exports-sugar
+Caribbean, Jamaica i s prone to both external economic shocks as well as natural disasters
+that could have severe negative impacts on the economy. The recent Hurricane Ivan
+(with damage estimated at 8 percent of GDP) was a stark reminder o f this vulnerability.
+The Government o f Jamaica has articulated a Medium Term Socio-Economic
+3.
+Policy Framework (MTSEPF) covering the period April 2004 to March 2009. This
+policy framework, aimed at responding to the major ongoing and emerging challenges
+facing Jamaica, resulted f r o m wide public consultations and enjoys strong donor support.
+I t provides a systematic and comprehensive approach to the development of the country
+in the medium-term.
+
+The World Bank Group Strategy and Program
+4.
+The World Bank Group Country Assistance Strategy for FY06-09 i s aligned
+with the government’s M e d i u m Term Socio-Economic Policy Framework and i s based
+on three mutually reinforcing pillars:
+
+(i) accelerating inclusive economic growth;
+(ii) improving human development and opportunity; and
+(iii) crime prevention and reduction.
+
+1
+
+The strategy also emphasizes the two cross-cutting themes o f governance and
+5.
+environmental sustainability. The strategy i s the result o f close collaboration with the
+government and has benefited from wide consultations with c i v i l society and other
+donors. In recognition o f the limited fiscal space, the program i s focused, addressing
+only key priority areas that have strong ownership, not just within the Government, but
+also within the Opposition and civil society.
+
+6.
+IBRD would focus on providing technical and financial assistance for improving
+basic infrastructure in inner city areas as well as crime prevention and reduction. In
+addition, i t would support early childhood education and development in the context o f a
+Sector Wide Approach (SWAP) and interventions targeted at youth at risk. IBRD would
+also assist the Government in implementing innovative community driven development
+activities focused on rural development. IBRD could also support the Government’s
+fiscal consolidation and public sector reforms, including education sector reform and the
+institutionalization o f a Medium Terrn Expenditure Framework as a tool for expenditure
+consolidation. Through i t s existing portfolio, IBRD w i l l continue to provide support to
+expand access and improve quality in secondary education as well as to improve schoolbased management; enhance the efficiency and effectiveness o f the social safety net;
+support the prevention and control o f HIV/AIDS; and improve community infrastructure.
+As part o f the assistance program, IBRD would undertake analytical work including a
+Poverty Assessment, a Financial Sector Assessment Program (FSAP, jointly with the
+IMF), a Country Fiduciary Assessment (CFA, jointly with IDB), and a Diagnostic of
+Investment Climate. “On demand” policy notes would be prepared which respond to
+short term issues including debt and fiscal management issues and informal monitoring of
+macroeconomic developments would be continued given the vulnerability o f the
+economy. Jamaica w i l l also benefit from the dissemination of key analytical work on
+growth and public expenditure completed in 2004 and 2005, to build wide and strong
+ownership for further structural reforms and f r o m ongoing and planned Caribbean-wide
+studies, including on issues o f growth and competitiveness, social protection and pension
+reform, migration and remittances, crime, violence and social exclusion, health financing,
+infrastructure and financial sector.
+7.
+I F C w i l l focus on investing in infrastructure, the financial sector, services and
+other sectors where Jamaica has a comparative advantage. Where appropriate, I F C w i l l
+also selectively provide financial and advisory services. Based on the findings o f the
+FSAP, I F C could play a key role in providing long term finance for the domestic and
+regional expansion o f strong companies operating in Jamaica and facilitate access to
+finance for SMEs and micro enterprises.
+8.
+MIGA w i l l support the development o f the financial sector, particularly in i t s
+ability to provide long-term financing. MIGA w i l l also continue to provide support for
+the development o f key infrastructure including the ports through the provision o f
+guarantees.
+
+2
+
+Managing Risks
+
+9.
+The CAS has three scenarios with different IBRD lending volumes and number
+o f operations-low,
+base and high. The base case lending scenario includes four
+operations for a total of US$75 million over four years. The high case lending scenario
+consists of a development policy loan o f US$75 million in addition to the base case,
+bringing the total lending envelope to US$l50 million. In the l o w case scenario,
+resulting f r o m a deterioration o f portfolio performance and/or a deterioration o f key
+macroeconomic indicators, no new lending would be processed and the Bank would
+focus on the implementation o f i t s current portfolio and intensify i t s macroeconomic
+dialogue w i t h the Government.
+10.
+K e y risks are the country’s vulnerability to natural disasters and to external
+economic shocks, policy slippage or reversal, notably in the wake o f the 2007 elections,
+and the population’s fatigue with the significant and sustained high level o f fiscal
+adjustment required b y the high debt burden. The CAS program tries to manage these
+risks through careful selection of triggers and monitoring o f progress, continued support
+for disaster prevention and mitigation, a focus on priority areas which have broad
+ownership in the country, and linking fast disbursing lending to policy implementation
+progress and results. The government and the International Development Partners have
+initiated a dialogue aimed at developing a joint results-based monitoring and evaluation
+framework to monitor the results under the Medium-Term Socio-Economic Policy
+Framework. In keeping with the commitment under the Harmonization and Alignment
+initiative to shift to the use of country systems, the CAS Progress Report w i l l present a
+comprehensive Results Framework.
+Agenda for Board Consideration
+Board Members may wish to discuss, among others, the following aspects o f
+11.
+this CAS:
+I s the CAS program an adequate response to Jamaica’s needs as a highly indebted
+middle income country?
+I
+(ii) s the balance between planned investment lending, policy-based lending and
+analytical work adequate to support a continuation o f the Government’s structural
+reforms?
+(iii) Are the triggers and the risk mitigation framework adequate?
+
+(i)
+
+3
+
+JAMAICA: WORLD BANK GROUP
+COUNTRY ASSISTANCE STRATEGY FOR FY06-09
+
+I. Overview
+1.
+Jamaica has recently emerged from a financial crisis following a long period o f
+disappointing GDP growth. Previous Bank assistance has focus on restoring growth,
+protecting the poor, improving governance and environmental sustainability. Growth has
+returned and some progress has been made in protecting the poor through an improved
+social safety net program. There have also been some improvements in governance,
+including better delivery of public services through Executive Agencies. In order to reap
+further sustained reduction in poverty, Jamaica needs to accelerate inclusive growth,
+improve human development and opportunity, and reduce crime and violence. However,
+there are enormous challenges presented b y the large debt overhang and the consequent
+limited fiscal space. In addition, Jamaica’s vulnerability to natural disasters and external
+economic shocks are continuing challenges.
+2.
+The Government has articulated a Medium-Term Socio-Economic Policy
+Framework that attempts to respond to these challenges. The World Bank Group’s
+support to Jamaica-a highly indebted middle income country-builds on this framework
+and provides a very focused program over the period FY06-09 based on three mutually
+reinforcing pillars: (i)accelerating inclusive economic growth; (ii)
+improving human
+development and opportunity; and (iii)
+crime prevention and reduction.
+
+11. The Country Context
+Political Context
+3.
+Jamaica has been a stable democracy since i t s independence in 1962. The People’s
+National Party (PNP), which has been in power since 1989, i s enjoying an unprecedented
+fourth term o f office having been re-elected in October 2002, albeit with a smaller
+majority - 34 o f 60 seats, down f r o m 48. In the Local Government elections of June 16,
+2003 the Jamaica Labour Party (JLP) won 12 o f the 13 local councils, thereby taking
+control o f local government from the PNP. The JLP has since lost one council to the
+PNP in a November 2004 by-election. The next general elections are constitutionally due
+b y 2007. Local Government elections are likely to be held sooner although there i s no
+fixed date. The two main political parties are likely to have new leaders going into the
+next general elections. The opposition JLP has already elected a new leader and i t i s
+expected that the PNP will elect a new leader when Prime Minister Patterson retires
+sometime before the end o f his term in 2007.
+4.
+Both the Government and the opposition share views on the major challenges
+facing Jamaica, including: the large debt, the high levels o f crime and violence and the
+poor educational outcomes. Both political parties also strongly support the need for
+public sector reform. The Government appears to support a more gradual approach,
+including relying on attrition, to address the size o f the public sector. The opposition, on
+
+4
+
+the other hand, has argued for a more radical approach to addressing the size o f the public
+sector, including a reduction in the number o f Cabinet posts, ministries and departments.
+
+Economic Context
+
+5.
+Jamaica’s economic performance has improved since the CAS Progress Report in
+2002. Real GDP growth accelerated from 1 percent in 2001/02 to 2 percent in 2003/04
+and i s projected at 1.5 percent in 2004/05, revised downward from 2.5 percent due to the
+impact o f Hurricane Ivan in September 2004. The improvement in growth i s being led b y
+relatively strong performance in tourism, mining, agriculture and the recovery in the
+manufacturing sector.
+The fiscal situation has also improved. The central government’s overall public
+6.
+sector deficit was reduced from 10.8 percent o f GDP in 2002/03 to 8.7 percent in 2003/04
+and i s projected at 7.9 percent in 2004-05. The primary surplus has improved from 7
+percent in 2002/03 to 10.8 percent o f GDP in 2003/04. The improvement in the fiscal
+balance reflected higher revenues, including from additional tax measures, as well as
+containment in expenditure. Provisional data for the first half o f 2004105 suggest further
+improvements in revenues and continued containment in expenditure, despite the impact
+o f Hurricane Ivan, leading to a further increase in the central Government’s primary
+surplus to 11.3 percent of GDP. This follows a sustained effort by the Government in
+running primary fiscal surpluses in excess o f 7 percent o f GDP for the last five years.
+
+7.
+The size o f the overall public sector debt i s one o f the major challenges faced b y the
+Government. Jamaica’s debt, which has been increasing steadily since the 1996/97
+financial sector crisis, hit a new high o f about 146 percent o f GDP in 2002103. The sharp
+growth in the debt was fueled by rising wages and salary costs as well as the sharp
+increases in domestic interest rates which peaked at around 34 percent at the end o f
+2002/03. This interest rate increase resulted f r o m the Central Bank’s efforts to stem
+pressure o n the currency which came under severe pressure in early 2003, depreciating b y
+almost 20 percent between April and May. Approximately 25 percent o f the debt
+consists o f variable-rate instruments linked to the six-month Treasury bill yield. Partly
+reflecting the double-digit inflation, the public debt t o GDP ratio i s projected to decline
+from 143 percent in 2003/04 to 137 percent in 2004/05.
+Interest rates have stabilized at around 15 percent in 2004/05. The moderation o f
+8.
+interest rates in part reflects the market’s confidence in the government’s commitment to
+a tighter fiscal policy and that the public sector borrowing requirement i s likely to be
+reduced. In response to the significant exchange rate depreciation in late 2002 and early
+2003 as well as the new tax measures imposed in the 2003/04 budget and the o i l price
+increase, inflation rose to 12.9 percent in 2003/04, the first double digit inflation since
+1996. Average inflation i s projected to be 11.7 percent in 2004/05 on account o f
+adjustments to electricity tariffs and, in the wake o f Hurricane Ivan, increases in prices o f
+food and raw material.
+9.
+The sharp recovery in the tourist industry, increased demand and better prices for
+alumina, and the recovery of agricultural exports combined with a decline in imports led
+to a narrowing o f the external current account deficit to 6.5 percent o f GDP in 2003/04
+from 14.9 percent of GDP in 2002/03 (Table 1). The current account deficit i s projected
+5
+
+to widen in 2004/05 to 10.2 percent o f GDP as a result o f higher o i l prices and increased
+imports o f food, raw materials and capital goods in the wake o f Hurricane Ivan. The net
+international reserves also rose b y over US$200 million to US$1.6 billion in 2003/04 and
+now stand at about US$1.8 billion (or 4.5 months o f imports) - the highest level in two
+years.
+
+Table 1. Jamaica. Selected Macroeconomic Indicators
+Actual
+Prel.
+998199 1999100 2000101 2001102 2002103 2003104
+
+104105
+
+287.4
+
+310.8
+
+346.8
+
+379.8
+
+417.7
+
+495.5
+
+561.6
+
+Real GDP growth (% change)
+
+-0.6
+
+1.1
+
+0.8
+
+1.0
+
+1.9
+
+2.0
+
+1.5
+
+Consumer Price Index (avg)(annual % change)
+
+8.1
+
+6.3
+
+7.7
+
+8.0
+
+6.5
+
+12.9
+
+11.7
+
+Primary Fiscal Balance (% of GDP, CG)
+
+5.4
+
+9.4
+
+11.5
+
+7.8
+
+7.0
+
+10.8
+
+11.3
+
+Overall Fiscal Balance (% of GDP, CG)*
+
+-11.9
+
+-8.6
+
+-4.8
+
+-6.1
+
+-10.8
+
+-8.7
+
+-7.9
+
+Public Debt (% of GDP)
+
+116.5
+
+132.5
+
+132.0
+
+132.1
+
+146.4
+
+142.6
+
+136.6
+
+External Current Account Balance (% of GDP)
+
+-2.0
+
+-3.3
+
+-4.8
+
+-9.6
+
+-14.9
+
+-6.5
+
+-10.2
+
+Net International Reserves (US$mn)
+
+582
+
+704
+
+1286
+
+1942
+
+1340
+
+1569
+
+1670
+
+Interest Rate (180 day BoJ CD rate, eop)
+
+22.0
+
+18.6
+
+16.9
+
+13.8
+
+33.5
+
+16.0
+
+14.5
+
+Exchange Rate (eop, J$lUS$)
+Source: IMF staff; CG=Central Government.
+Including off-budget expenditure.
+
+38.1
+
+42.2
+
+45.7
+
+47.6
+
+56.2
+
+60.8
+
+...
+
+Nominal GDP (J$ bn)
+
+Proj.
+
+I*
+
+10. The Government has improved financial sector regulation and supervision since the
+financial crisis in 1996/97. In the banking sector, minimum capital requirements were
+raised to 10 percent o f risk-weighted capital (1999); recognition o f non-performing loans
+was tightened to 3 months from 6 months; stronger guidelines were issued for
+provisioning, loan renegotiation, suspension o f accrued interest on non-performing loans
+and loan write-offs; and limits on connected lending and concentration o f lending have
+been introduced. Regarding the non-bank intermediaries, the Government has enacted an
+Insurance L a w to serve as the basis for regulation and supervision in the sector. In 2001,
+the Financial Services Commission was established to regulate and supervise securities,
+insurance and pensions. The strengthening o f bank regulation and supervision as well as
+the regulation and supervision o f the non-bank sector has corrected many o f the problems
+which existed prior to the financial crisis and identified in the 2001 assessment o f the
+Base1 Core Principles. In general, prudential indicators o f commercial banks and other
+deposit taking institutions regulated by the Bank o f Jamaica have shown improvements
+over the last three years. For example, non-performing loans (NPL) as a ratio o f total
+loans, fell from 8 percent in 2001/02 to 3.1 percent in 2004/05. Jamaica has also taken
+steps to enhance i t s Anti-Money Laundering/Combating the Financing o f Terrorism
+(AML/CFT) regime and has an AML regulatory regime in place. The Money Laundering
+
+6
+
+Act (MLA) was approved b y Parliament in 1996 and implemented in 1998. Laws aimed
+at reinforcing the A M L / C F T framework are currently before Parliament.
+11. Strong reforms but benefits lagging. Since the mid-eighties, Jamaica has made
+remarkable progress on first generation reforms including trade and foreign exchange
+liberalization. As indicated above, following a financial crisis in 1996197, the authorities
+have taken significant steps to strengthen the regulatory environment and supervisory
+institutions including the Central Bank. The regulatory environment for business has also
+been substantially improved. Jamaica has been cited as one o f the ten countries which
+regulate the least owing to i t s aggressive adoption o f best practice regulation over the last
+1
+decade.
+12. Notwithstanding these reform measures, Jamaica has not reaped their benefits due
+in large measure to a series o f exogenous shocks and the financial crisis. Jamaica has
+been saddled with a large debt overhang, largely the legacy o f the financial crisis but also
+due to the assumption of some contingent liabilities and high wage cost from a bloated
+public sector. The high cost o f servicing the debt has not only squeezed expenditure in
+the key social sectors including education and health but has also limited public
+investment to less than 2 percent o f GDP-a level inadequate to support sustained private
+sector growth.
+
+Poverty Trends
+13. Growth has improved but poverty has increased. Despite the return to positive
+GDP growth in 2000 following several years o f negative growth, the rate o f poverty
+increased-moving from 16.8 percent in 2001 to 19.7 percent in 20022 (see Figure 1).
+This development i s in sharp contrast to developments from 1991 to 2001 when, despite a
+stagnant economy, Jamaica reduced the rate o f poverty b y half. However, as the 2004
+Country Economic Memorandum (CEM) points out, many o f the favorable
+circumstances that reduced poverty between 1991 and 2001, including l o w inflation
+(resulting largely from a reduction in relative food prices), and growth o f the informal
+sector are unlikely to continue in the future.
+
+14. In Jamaica, the profile o f the poor, as established by the annual Survey o f Living
+Conditions (SLC), a living standards measurement survey, makes clear that there are
+several interrelated factors linked to poverty-large households, households headed by
+females, inequities in access to health and education services, l o w educational attainment,
+unemployment, especially among youth, underemployment among the working poor and
+dependence on informal sector and/or rural employment. In addition, the poor typically
+live in overcrowded and substandard housing.
+
+I
+
+Doing business in 2004: Understanding Regulation, World Bank.
+Inequality as measured by the Gini coefficient of consumption in the Survey o f Living Conditions, has not
+changed much in the last decade. The Gini was 0. 381 in 1990 and 0. 379 in 2000.
+2
+
+7
+
+Figure 1. Poverty Headcount in Jamaica
+
+500
+0
+
+GDP per capita (US$)
+fleft axis)
+
+-
+
+--
+
+10
+
+0
+
+15. Poverty in rural and inner-city areas deserves special attention. The incidence
+o f poverty in the rural areas i s more than twice the level in Kingston (Figure 2). In
+addition, rural poverty i s more volatile than urban poverty, perhaps tied to the vagaries o f
+traditional rain-fed agriculture. However, work done in the 2004 CEM suggests that the
+performance o f the agricultural sector may be only a small part o f the puzzle of profound
+rural poverty.
+Rural poverty i s also related to other concerns, including: poor
+infrastructure; limited access to quality education; higher rates o f adult illiteracy; and
+more limited employment opportunities. This implies that rural poverty cannot be fixed
+by only focusing on domestic agriculture and that there i s a need to give attention to other
+issues including infrastructure, social services and human capital development.
+Figure 2. Poverty Headcount by Region, 1992-2002
+
+I
+
+1992
+
+1993
+
+1994
+
+1995
+
+1996
+
+1997
+
+1998
+
+1999
+
+2000
+
+2001
+
+2002
+
+Source: Survey of Living Conditions data (various years), PIOJ.
+
+16. Notwithstanding the generally lower level o f poverty in the cities, there are pockets
+o f high levels o f chronic poverty in many inner-city areas. The pockets of urban poverty
+are associated with higher levels o f crime, violence and other anti-social behavior that
+contribute to perpetuating chronic poverty by limiting access to social services including
+health and education or restricting employment opportunities.
+
+8
+
+17. Poverty in rural townships presents a mix o f urban and rural features. I t remains
+consistently higher than in the Kingston Metropolitan Area (KMA) but lower than in
+rural areas and i s even more volatile than rural poverty. At the same time, many o f the
+problems o f urban areas, including high-density areas with poor quality infrastructure and
+with increasing levels o f crime and violence, can be seen in rural townships.
+
+18. Poverty and Gender. There i s a strong gender dimension to poverty. Femaleheaded households account for about two-thirds o f the households in poverty and
+generally show a higher incidence o f poverty in all the surveys since 1989 (CEM, 2004).
+In 2002, the per capita consumption in female-headed households (J$7,795) was nearly
+22 percent lower than in male headed households. The higher level o f poverty in femaleheaded households reflects: (i)higher level o f unemployment among women (17.6
+percent) compared with men (9.7 percent); larger female-headed households (3.6 persons
+compared with 3.2 persons for male headed households); and the fact that female-headed
+households tend to be single income households.
+Table 2. Assessment of the Likelihood of Meeting the MDGs (Goals 1-7)
+MDG Goals
+
+Current Status of
+Progress Indicators
+
+Likelihood of
+Meeting MDGs
+
+1. Halve between 1990 and 2015 the
+proportion of people in extreme
+poverty and who suffer from hunger.
+
+Poverty Headcount
+19.7%; Poverty Gap
+(2001) 4.6%; Food
+Poverty 5.5%
+Net Primary enrollment
+Male: 99.9%
+Female: 95.7%
+Total: 97.8
+
+LIKELY
+
+Infant Mortality rate
+(2001) 24.5%
+
+UNLIKELY
+
+Weak but
+improving
+
+Maternal Mortality
+Rate (2001): 106 2%
+
+UNLIKELY
+
+Weak but
+improving
+
+H I V prevalence (2001)
+among 15-24 year-old
+pregnant women:
+1.22%; Incidence of
+Malaria: 7
+Proportion of land
+covered by forest
+(2000): 30%
+
+(a) UNLIKELY
+(b) LIKELY
+
+Weak but
+improving
+
+LIKELY
+
+Weak but
+improving on the
+environment but
+strong on access
+to water and
+improvement o f
+the lives of slum
+dwellers
+
+2. Achieve universal completion of
+primary education by 2015 for both
+boys and girls.
+3. (a) Eliminate gender disparities in
+primary and secondary education by
+2005 and (b) for a l l levels by 2015.
+4. Reduce infant and child mortality
+rates by two-thirds between 1990 and
+2015.
+5. Reduce maternal mortality rate by
+three-quarters between 1990 and
+mi <
+
+6. Halt and reverse by 2015 (a) the
+spread of HIV/AIDS, (b) the
+incidence o f malaria and other
+diseases.
+7. Ensure environmental
+sustainability and access to an
+improved water source. Improve the
+lives of slum dwellers.
+
+LIKELY
+
+UNLIKELY
+
+I
+
+Source: Millennium Development Goals report, April 2004.
+
+9
+
+State of
+Supportive
+Environment
+Fair on Poverty,
+Strong on hunger
+
+Strong
+Strong
+
+19. Jamaica i s considered to be a “Country in Green”3 and i s on track for meeting over
+half o f the Millennium Development Goals (MDGs). However, progress in meeting the
+4
+three health-related MDGs i s o f concern.
+As Table 2 shows, Jamaica i s unlikely to
+achieve goals related to the reduction in the infant, child and maternal mortality rates. I t
+i s also unlikely to halt and reverse the spread of H I V / A I D S b y 2015.
+Prospects for Future Growth
+20. Hurricane Ivan o f September 2004 trimmed GDP in 2004105 as a result o f
+temporary disruptions in key sectors including tourism, bauxite mining, agriculture and
+utilities. However, the medium-term growth prospects for Jamaica are generally good
+and improving as a result o f significant planned investments in key sectors including
+tourism, bauxite mining, telecommunications, power generation and infrastructure
+(primarily roads, seaports and airports). However, achieving and maintaining higher
+growth through the long-term i s likely to be hindered by the large debt overhang. This
+reflects three elements.
+21. First, high public debt tends to crowd-out private investment and reduces bank
+incentives for financing private investment and entrepreneurs to take risk, since l o w risk,
+high returns are available on government debt. High public debt and the segmentation o f
+the credit market have probably affected mostly small borrowers who are riskier and
+unable to access foreign credit markets.
+22. Second, within the public budget, the high debt servicing arising from the debt has
+crowded out public sector investment (which fell to a l o w o f about 1 percent o f GDP in
+2003/04).
+This reduces “crowding-in”, the positive impact o f public on private
+investment, such as in tourism. Continued inadequacy o f infrastructure (which i s at least
+partly a function o f public investment) also increases the cost o f doing business and
+makes the economy less competitive.
+23. Similarly, as discussed in the 2005 Public Expenditure Review (PER), debt
+servicing has crowded out expenditure on health and education in the budget, even
+though Jamaica has strived very hard to maintain such expenditure. The upshot i s that
+the non-salary component o f health and education expenditure has been squeezed, and
+this can impact long-term competitiveness through the quality o f the labor force.
+24. Third, Jamaica’s growth prospects could also be adversely affected b y other factors
+including external shocks f r o m higher interest rates in the international capital market,
+increases in the price o f o i l or natural disasters to which Jamaica is prone and which
+could have an adverse effect on the key growth sectors. Domestic shocks such as social
+instability or an increase in the level o f crime and violence may also impact the longer
+term growth prospects.
+
+Ongoing and Emerging Challenges and Issues
+25. Strategic analytical studies carried out by the Government, the Bank and other
+donors in the recent past have identified some o f the key ongoing and emerging
+Based on World Bank Classification.
+Millennium Development Goals, Jamaica, Final Report, Planning Institute o f Jamaica.
+
+10
+
+challenges and issues which are impacting or likely to impact on Jamaica’s development
+agenda in the short, medium and long term.
+26. Debt burden and fiscal imbalance. The analysis in the recent C E M (2004)
+suggests that sustained growth w i l l be fundamental to further declines in poverty.
+However, achieving sustained growth w i l l involve dealing with the growing debt burden
+o n an urgent basis. Jamaica has one o f the highest ratios o f total debt to GDP and
+domestic debt to GDP in the world. The analysis in the recent PER suggests that this
+level o f debt is only sustainable if the current very high primary surpluses (11 percent o f
+GDP) are sustained for long periods. Even so, the debt dynamics remain highly sensitive
+to changes in growth and interest rates as well as external and domestic shocks (See
+Annex C o n Debt Sustainability)
+27. In large part due to the high indebtedness, but also due to past weak fiscal
+discipline, Government expenditure has become increasing skewed to recurrent spending.
+As a share o f total expenditure, recurrent expenditure increased from 77 percent in
+1992/93 to 97 percent in 2003/04. Moreover, interest payments account for the single
+largest portion o f the recurrent spending (49 percent in 2003/04).
+28. As a result o f the large debt burden, and particularly the large domestic debt,
+servicing the debt (interest and principal) has taken an increasingly larger share of the
+overall budget, thereby crowding out public sector investments and critical social sector
+and program spending. In addition, the credibility o f the budget and i t s use as an
+
+effective tool o f fiscal policy has been compromised by the overarching short-term focus
+on the management o f the large debt overhang. Although sustainability o f the large
+primary surplus may be politically difficult, the Government does not consider the
+restructuring o f the debt a feasible option given the current structure o f the debt (Box 1).
+
+11
+
+29. Pervasive and high crime and violence. Jamaica has one o f the highest rates o f
+violent crime in the world. However, i t i s the high murder rate (54 per 100,000 in 2004)
+that i s attracting the most concerns in Jamaica. The Crime Rate Indices (CRI) show that
+for the past 30 years, violent crimes have increased steadily (1980, a violent election year
+i s a clear outlier). Over the 1990s, the murder rate was largely driven b y increasing
+levels o f distribution and trans-shipment o f drugs, leading to increased “gang wars”. The
+police estimates that drug-related killings now account for more that 20 percent o f the
+murders annually. Increased drug trafficking has led to additional security measures on
+the port that increase the processing time for perishable products.
+
+1990
+1995
+2000
+
+100
+137
+151
+
+100
+91
+68
+
+100
+152
+119
+
+100
+79
+40
+
+100
+123
+112
+
+100
+181
+82
+
+30. Crime and violence are also concentrated in the major urban centers, possibly
+reflective o f the serious social problems associated with lack o f family ties, growing
+urbanization, high unemployment as well as drugs related conflicts. Kingston and St.
+Andrew account for only about 27 percent o f Jamaica’s total population but averaged 57
+percent o f total murders between 1984 and 2001. Crime and violence in Jamaica are also
+largely concentrated amongst the poorest in society and amongst young males (14-24
+years) who often tend to be the victims as well as the perpetrators o f violent crime. In
+2003, males accounted for 98 percent o f those arrested for major crimes and 49 percent
+were from the 16-25 age group. Also, 40 percent o f all major crimes were committed
+against young persons. Youth from inner city areas are more likely to be recruited as
+drug sellers because o f their relatively lower opportunity cost, given that they are more
+likely to be out o f school and unemployed.
+31. Gender-based and domestic violence i s also growing o f importance. In general,
+statistics indicate that reports o f violent crimes against women are on the rise, though
+some o f this, may be due to greater reporting. The number o f rapes and carnal abuses has
+increased over the last two years and accounts for over a quarter of the major crimes in
+2003. O f the crimes against youth, 65.7 percent o f the victims were females. Domestic
+violence also represents a significant proportion o f the reported murders.
+32. I t i s estimated that crime costs society at least 4 percent o f GDP annually, including
+lost production, health expenses and public and private spending for security. In
+
+12
+
+addition, exporting firms’ security costs can be as high as 5 percent o f sales. Small firms’
+losses due to extortion, fraud, robbery and arson can be 9 percent o f revenue, with an
+average o f 3-6 percent for firms in manufacturing and distribution (CEM, 2004).
+33. In the joint country assistance strategy consultations (together with DFID and IDB)
+which were held across Jamaica, i t was pointed out in several instances that crime and
+violence were contributing significantly to the number o f disabled, poor persons some o f
+whom were transformed from healthy, earning, independent persons. These accounts
+provide anecdotal evidence that crime and violence contribute directly and sometimes
+almost immediately to personal poverty.
+34. Need to improve human development. Health indicators for Jamaica compare
+well with other countries with similar or even higher levels o f income; however, the
+efficiency o f the public health system and equity in access to quality care are ongoing
+problems. In addition, achievement o f the MDG goals with respect to reducing infant
+and child mortality, improving maternal health and combating HIV/AIDS i s unlikely.
+Continuing health and nutrition concerns include the increasing incidence of HIV/AIDS
+(an estimated 1.5 percent o f the adult population affected). Other health concerns include
+a persistent pattern o f low-birth weight babies and continued pockets of malnutrition.
+The incidence o f low-birth weight babies, malnutrition and preventable illness and
+injuries impacts negatively on human capital development.
+35. Over the past ten years, Jamaica has devoted an average o f 5.4 percent o f GDP to
+education, a significant share o f public spending compared to middle-income countries
+and others in the region. As a result o f focused education policy and commitment o f
+families to education for their children, Jamaica has succeeded in achieving over 95
+percent enrollment at the pre-primary level and universal primary and lower secondary
+education for both girls and boys. However, access t o pre-primary and especially to
+upper secondary education continues to be linked to income. In addition, a worrying
+trend that may be linked to the rise in poverty in recent years i s the fact that enrollment
+among all income groups declined between 2000 and 2002. Enrollment among 17 to 18
+year olds i s also linked to income and also declined between 2000 and 2002 - from 69 to
+62 percent among students f r o m the wealthiest quintile and f r o m 29 percent to 19 percent
+among students from the poorest quintiles. The poor quality o f education has meant that
+a large share o f students leave the formal education system without the requisite
+competencies for the world o f work. Poor education outcomes have significant
+implications for the labor market and Jamaica’s overall competitiveness in a global
+economy where the terms o f trade are turning increasingly in favor o f knowledge based
+industries. Boys are particularly at risk in the education system. Jamaica i s one o f the
+few countries in which there i s a reversal o f the normal gender disparity in education as
+the ratio o f girls to boys in primary, secondary and tertiary education reveals that girls
+have the advantage over boys from grade 10 upwards. This gap widens even further at
+the tertiary level.
+36. Currently, the youth-at-risk problem i s one o f the most pressing concerns for
+Jamaica. The problem o f youth-at-risk i s a complex issue, caused by a multitude o f
+underlying factors that affect Jamaican children and adolescents at various developmental
+stages, including the poor quality o f education and high rates o f attrition from school;
+lack o f employment opportunities; poor reproductive health with related high rates o f
+
+13
+
+teenage pregnancy, STDs and HIV/AIDS; unstable home environments, poor parenting,
+lack o f supervision and guidance; high levels o f crime and violence, including drug
+related and domestic violence and sexual abuse. Children growing up in poverty, living
+in communities affected by violence and unstable home environments are most “at risk. ”
+
+37. H i g h rates of migration o f skilled persons. As the 2004 C E M pointed out, the
+rate o f emigration o f the more highly educated workers i s high (over 20,000 per year in
+the 1990s) and this off-sets potential improvement in the quality o f the labor force. The
+large emigration o f educated Jamaicans raises the issue o f the high cost o f education at
+the tertiary level, a significant part o f which i s borne b y the State.
+38. Decline in competitiveness. The main challenge confronting private sector
+development i s to accelerate growth b y improving Jamaica’s competitiveness. This
+declined significantly in the 1990s, reflected in declining shares o f exports in world trade
+and in Jamaica’s GDP and stagnation in export earnings. Jamaica’s share o f world
+merchandise exports fell steadily from 0.036 percent in 1994 to 0.024 percent in 2001
+(CEM, 2004). This was accompanied b y an even larger proportionate decline in the share
+of exports to GDP, from 32 percent to 19 percent. This adverse performance has been
+closely linked to the appreciation o f the CPI-based real effective exchange rate (REER)
+over 1992-98, and an even greater appreciation in the wage-based REER. The very close
+link between Jamaica’s share in world merchandise exports and the REER i s also
+suggested b y the high correlation coefficient o f -0.6. Similarly, the share o f Jamaica’s
+goods and services exports in i t s GDP and the REER has a correlation coefficient o f -0.
+8. The decline in Jamaica’s competitiveness i s also related to the poor educational
+outcomes, l o w levels o f skills among those seeking employment and a high rate of
+migration o f professionals and skilled persons as discussed above as well as the crowding
+out o f private investment by high public debt, rising crime and violence and reduced
+public investment for basic infrastructure upkeep. In 2004, Jamaica was ranked 65th
+among a total o f 104 countries on the Growth Competitiveness Index (GCI)’, compared
+with a ranking of 52 in 2001. Of the three indices that comprise the overall GCI, Jamaica
+ranked relatively high on the Technology Index (49) but much lower on the Public
+Institution Index (69) and the Macroeconomic Environment Index (83).
+39. Reduction in trade preferences. The global economy i s being transformed into an
+increasingly competitive and liberalized trading environment associated with the erosion
+o f trade barriers and bilateral trade preferences.
+Jamaica’s preferential trading
+arrangements for two o f i t s major export crops, sugar and bananas, are likely to be
+significantly eroded over the next few years. In the period o f adjustment, Jamaica i s
+likely to face considerable social and economic challenges as these industries face an
+increasingly competitive external environment which may in some cases determine the
+very survival o f these industries. In 2003, exports o f sugar and bananas together
+accounted for about 12.4 percent o f traditional exports which include bauxite and
+alumina exports. However, when bauxite and alumina are excluded, sugar and bananas
+account for more than half o f traditional exports. In 2003, about 17.6 percent o f the
+employed labor force was in agriculture, the bulk o f which i s believed to be in the sugar
+and banana sectors.
+Global Competitiveness Report, 2004.
+
+14
+
+40. Vulnerability to external economic shocks and natural disasters. As a small
+open economy in the Caribbean, Jamaica i s prone to both economic shocks as well as
+natural disasters that could have severe negative impact on the economy and on
+household welfare. The impact o f the 9/11 events, the recent sharp rise in o i l prices as
+well as the impact o f Hurricane Ivan (with damage estimated at 8 percent of GDP) are
+poignant reminders o f Jamaica’s continuing vulnerability. H o w to mitigate and respond
+to these events in the context o f tight fiscal constraints are ongoing challenges that the
+government faces.
+
+111.The Government’s Medium-Term Policy Framework and Priorities for Growth
+and Poverty Reduction
+41. T o address the ongoing and emerging challenges, the Government o f Jamaica has
+articulated a Medium-Term Socio-Economic Policy Framework (MTSEPF) covering the
+period April 2004 to March 2009. This policy framework, which resulted from wide
+public consultations and enjoys strong donor support, builds on the overarching
+framework established in the 1996 National Industrial Policy (NIP), the objective o f
+which was to provide a systematic, holistic and comprehensive approach to the
+development o f the country into the 21st century.
+42. The Government’s Medium-Term policy framework has identified three broad
+policy areas for focus:
+0
+0
+0
+
+Medium-Term Economic Framework;
+Medium-Term Private Sector Policy Framework; and
+Medium-Term Social Policy Framework.
+
+Medium Term Economic Framework
+43. Under i t s Medium-Term Economic Framework, the government proposes a m i x o f
+monetary, exchange rate and fiscal measures aimed at reducing the public debt-GDP ratio
+to about 100 percent o f GDP by 2008/09 through intensified fiscal adjustment and
+improved growth. At the request of the authorities, the IMF i s providing intensified
+surveillance o f their medium-term macroeconomic program. This economic framework
+targets real GDP growth o f about 3-3.5 percent during 2005/06 and 2008/09 with
+inflation declining to 5-6 percent by 2008/09. Import requirements o f several major
+capital projects to be undertaken b y the private sector in mining, tourism, cement and
+other areas may cause the external current account deficit to widen temporarily in the
+coming two years (to about 13 percent o f GDP in 2006/07). Over the medium-term, a
+two-thirds increase in alumina production capacity and almost doubling in the number o f
+hotel rooms are expected to raise mining exports and travel receipts. This, together with
+higher remittances and a gradual decline in o i l prices, should help reduce the current
+account deficit to about 4 percent o f GDP by 2008/09. The fiscal program targets a
+smaller fiscal deficit o f 4-5 percent o f GDP in 2004/05 followed b y a balanced budget in
+2005/06 and small surpluses in 2006/07 to 2008/09 (Table 4). The monetary and
+exchange rate policies are aimed at the maintenance o f a stable, predictable macro
+environment. More specifically, the objective i s for domestic inflation rates to gradually
+converge to those of Jamaica’s major trading partners.
+15
+
+44. In the fiscal area, the government i s considering the recommendations o f a tax
+policy review committee with a view to initiating a comprehensive tax reform program in
+the context o f the 2005/06 budget. The authorities’ goal for the tax reform program i s to
+increase the efficiency and equity o f the tax system. O n the expenditure side, the
+government proposes to pilot the Medium-Term Expenditure Framework (MTEF) in one
+o f the major spending sectors-Health, Education or National Security-in 2005. One
+significant component o f the non-debt expenditure is the wage bill. To control the wage
+bill in real terms, the Government signed a Memorandum o f Understanding (MOU) for
+the Public Sector with the Jamaica Confederation o f Trade Unions on February 16, 2004.
+Under this M O U , the public sector unions have agreed with the government for a general
+policy o f wage restraint in the public sector for the period April 1, 2004 to March 31,
+2006. During this period, all wage contracts w i l l be settled within a wage bill increase o f
+3 percent in nominal terms. In addition, in order to control employment within the public
+sector, i t was agreed that there would be a general policy o f employment constraint
+except for certain critical groups o f public servants including: health professionals, police
+officers, correctional officers, the Jamaica fire service and teachers. I t was also agreed
+that there would be no separation o f employment in the public sector except through
+restructuring and mergers o f entities.
+
+45. Acceleration in the implementation o f the Government Medium-Term policy
+framework accompanied b y a more favorable external economic environment could have
+even higher payoffs, particularly if the Government maintains sustainable primary
+surpluses in excess of 11 percent o f GDP, upgrades the education system and addresses
+the serious crime problem. Under such a high case macroeconomic scenario, real GDP
+growth could average 3.5-4 percent in the medium term and the debt to GDP ratio would
+decline to below 100 percent b y 2008/09. Greater investor confidence would raise
+investment and facilitate access to financing on better terms in the international markets.
+Table 4. Outlook for Selected Economic Indicators under the Government’s
+M e d i u m - T e r m Macroeconomic F r a m e w o r k
+Key Indicators
+
+Actual
+
+2002/03
+
+Est,
+
+2003104
+
+2004/05
+
+PROJECTIONS
+
+2005/06
+
+2006/07
+
+Sources: Planning Institute o f Jamaica, MTSEPFLMF. CG =Central Government.
+* Excluding off-budget expenditure.
+
+16
+
+2007108
+
+2008109
+
+46. Developments in 2004105 and the magnitude and duration o f the fiscal adjustment
+envisaged b y the authorities highlight the Jamaican economy’s vulnerability to shocks
+and the implementation risks associated with the authorities’ ambitious debt reduction
+strategy. The debt dynamics are particularly sensitive to exchange rate and interest rate
+shocks, as a result o f the large share (about three-fourths) o f foreign currency and floating
+rate debts in total public debt. Also, as indicated above, external shocks from higher
+interest rates in the international capital market, increases in the price o f o i l or natural
+disasters to which Jamaica i s prone could have adverse effects on the key growth sectors.
+Domestic shocks such as social instability or an increase in the level o f crime and
+violence could also impact the longer term growth prospects. Under the resulting l o w
+case macroeconomic scenario, real GDP growth would not exceed 2 percent, and per
+capita incomes would stagnate. The public debt would still decline over the period, but
+more slowly, to about 120 percent o f GDP b y 2008/09. This scenario s t i l l assumes an
+unchanged primary budget surplus o f 11 percent o f GDP. A n y major slippage o f fiscal
+performance would trigger a worse macroeconomic scenario w i t h lower growth rates and
+higher inflation.
+
+Medium-Term Private Sector Policy Framework
+47. The principal objective o f the Medium-Term Private Sector Policy Framework i s to
+resume growth with employment. This growth i s expected to be led by the private sector
+based on Jamaica’s comparative advantage in natural resources, location and climate.
+The opportunities for tourism and bauxite mining are particularly highlighted.
+48. The Government’s private sector policy framework reiterates the message of the
+National Industrial Policy (NIP) o f 1996 that the private sector should be the engine o f
+growth and commits the Government to continue to disengage f r o m productive activities
+and to focus on i t s role as policy maker, regulator and enabler. The Government’s main
+private sector strategies include ensuring:
+0
+0
+
+0
+
+a stable macro economic framework;
+a positive enabling environment including tackling crime and extortion;
+a competitive Real Effective Exchange Rate (REER); and
+an improved operating environment with respect to the availability o f
+appropriately skilled manpower and reliable and cost effective infrastructure.
+
+49. The Partnership for Progress Initiative, based on Ireland’s Social Partnership model
+and coordinated b y the Private Sector Organization o f Jamaica, i s expected to provide the
+key platform for a coordinated private sector growth strategy. The Partnership for
+Progress Initiative aims t o construct a social partnership including the private sector,
+unions and Government to implement the private sector strategies.
+
+Medium-Term Social Policy Framework
+
+50. The Government has also proposed a M e d i u m Term Social Policy Framework that
+reaffirms i t s commitment to achieving the Millennium Development Goals as well as
+those included in the thematic areas shown in Table 5 below:
+
+17
+
+Table 5. Government Social Priorities by Thematic Areas
+~
+
+Thematic Areas
+Children
+
+Priorities
+Strengthen policy, legislative and institutional
+framework to ensure the survival, development,
+education and participation o f children.
+
+Youth Development
+
+Foster positive youth development and participation and
+increase capacity o f service providers to provide
+services to young people and their families.
+
+Gender
+
+Promote and support initiatives in keeping with the
+MDGs and national and international commitments
+towards the attainment o f gender equality.
+
+The Elderly
+
+Promote social integration o f the elderly.
+
+Social Safety Nets
+
+Continued social safety net reform including
+institutionalization o f the Program for Advancement
+through Health and Education (PATH).
+
+Law and Order, and Crime
+
+Crime reduction through modernization of law
+enforcement infrastructure and strengthening crime
+prevention efforts.
+
+Governance
+
+Enhanced efficiency and effectiveness o f central and
+local government and greater civil society.
+
+~
+
+51.
+
+Attainment o f the policy objectives w o u l d b e supported through the f o l l o w i n g
+reform agendas in health, education and l i f e l o n g learning, social protection, crime
+prevention and justice, l a w and order, governance and environmental sustainability.
+
+Health
+
+52. In the health sector, the major challenge i s t o maintain the gains of the past and
+address issues related to the changing epidemiological patterns. The prevalence o f
+H I V / A I D S i s increasing w i t h an estimated 1.5 percent o f the adult population affected.
+In addition, increases in chronic diseases and accidents and injuries have placed
+increasing demands o n an already overburdened health care system. At the same time,
+some 80-85 percent o f the health budget i s accounted for by wages and salaries w i t h nonwage expenditure squeezed in a w a y that adversely affects the delivery of services. T o
+address the major challenges in the health sector, the Ministry of Health i s implementing
+a Strategic Plan covering the period 2001 t o 2005. T h e k e y strategic priorities being
+addressed include:
+0
+
+0
+
+0
+
+the determination of the optimal organizational structure f o r the delivery o f high
+quality, cost effective health care services;
+e. , hospitals,
+rationalization o f the number and location of health facilities (i.
+clinics) t o optimize the use of scarce resources, particularly qualified medical
+staff;
+identify appropriate measures f o r retaining professional staff; and
+
+18
+
+review the role o f the private sector, and identify how i t can
+effectively complement public sector health provision and financing o f health
+provision such as through statutory and voluntary health insurance schemes.
+
+53. T o address the special challenges o f HIV/AIDS, the Government has developed a
+specific medium-term HIV/AIDS strategy which focuses on four overarching objectives:
+(1) the creation o f an effective multi-sectoral response to the HIV/AIDS/STI epidemic;
+(2) the reduction o f individual vulnerability to infection; (3) the reduction o f transmission
+o f the virus; and (4) the improvement in care, support and treatment o f People Living
+with A I D S (PLWHA). The implementation o f this strategy i s supported by the World
+Bank through the ongoing H N / A I D S Prevention and Control project.
+Education and Lifelong Learning
+
+54. The Government’s key policy objectives in the medium term are to improve access
+to and the quality o f education. T o achieve this, the Government w i l l continue to build
+upon previous reforms and those outlined in the 2001 White Paper on Education. These
+include:
+integrating and expanding Early Childhood Education towards achieving
+universal enrollment and the provision o f early stimulation for the 0-3 age
+cohort;
+providing a place at the upper secondary level for all students b y 2007;
+decentralizing school management, stressing participation, performance
+and accountability; and
+the freezing o f school fees at the secondary level and the scheduled
+phasing out o f the cost sharing scheme over the next three years.
+
+55. The Government has also articulated a policy on lifelong learning. The policy
+focusing on basic competencies in order to provide additional core skills to
+includes: (i)
+improve employability o f the working age population; (ii)
+moving the focus o f education
+and training from youth to lifelong learning; (iii)improving human resources
+development planning in the context o f employer productivity enhancement; and (iv)
+forging relationships with the private sector to define training needs and provide training
+to ensure greater efficiency and competitiveness.
+
+56. The National Task Force o n Education, which was appointed b y the Prime Minister
+with the mandate to review developments in education over the last 20 years and
+prescribe the way forward in addressing inefficiencies and inadequacies, released i t s
+report in December 2004. That report recommends: establishment o f performance
+indicators; improvements in governance and management o f education systems,
+including increased accountability for performance; strengthening o f curriculum,
+teaching and learning supports; fuller stakeholder participation in the education system;
+and greater equity in the financing o f different types o f schools. O n tertiary education,
+the Task Force has recommended decreasing the share o f public expenditure on tertiary
+education from i t s current level o f 19.5 percent to 11.8 percent to allow for greater cost
+sharing at this level. The Task Force also recommended the immediate appointment o f a
+Transformation Team for a period o f three years to lead the restructuring and
+
+19
+
+transformation o f the education sector. The Transformation Team was appointed in midFebruary 2005.
+
+Social Protection
+
+57. Government has made significant progress in reforming the country’s social safety
+net. The centerpiece o f the social safety net reform i s the Program for Advancement
+through Health and Education (PATH) which involved the merger o f the Poor Relief,
+Food Stamp and Public Assistance programs into a unified benefit program, with
+significantly lower administrative cost. Another key element o f the reform was better
+targeting o f beneficiaries based o n the Beneficiary Identification System (B1S)-an
+objective means o f identifying the poor. The Government has reaffirmed i t s commitment
+to the social safety net reform program through continued development and
+implementation o f a modernized and developmental approach to welfare that emphasizes:
+a
+
+a
+
+a
+a
+a
+a
+
+protection o f public non-wage expenditures in selected education, health
+and welfare programs to foster human capital development, particularly among
+the poor through PATH;
+introduction o f the National Assistance A c t as the under-girding o f the
+new safety net system and training, upgrading and deployment o f staff to
+implement case management approach;
+introduction o f cost effective service delivery methods and establishment
+o f a Central Welfare Agency;
+development and implementation o f a strategy to empower welfare
+families to have sustainable livelihoods;
+increased program transparency through system wide use o f the
+Beneficiary Identification System to identify the poor; and
+adjustment o f PATH benefits to J$500 per month by April 2005 and
+application o f a benefit review mechanism to minimize erosion o f benefits due to
+inflation.
+
+58. The reform i s intended to promote and facilitate social inclusion o f vulnerable
+groups particularly poor children, youth, disabled, indigent poor and elderly. This w i l l be
+done through integration o f welfare priorities with those o f other social policies and
+through empowerment at the community and family level.
+59. Proposals for the reform o f the pensions system were developed from as far back as
+the 1970s. However, very few o f the recommendations were implemented. In 1994, the
+Ministry o f Finance and Planning established a Pension Reform Committee which in
+1999 produced a Green Paper “Reform o f the Pensions System in Jamaica” which was
+the basis for public discussion. On the basis o f the proposals from the public, the
+Government i s developing a National Pensions Act. The National Insurance Scheme (the
+Government’s central social insurance program) will be enhanced to provide basic
+pension benefits.
+Policies for Law and Order and Crime Prevention
+
+60. The Government’s medium-term policy on law and order and crime prevention
+focuses on the reduction o f crime and violence and improving the administration, access
+20
+
+and delivery o f justice. This w i l l involve improving the capability o f the police and
+military and improved surveillance o f coastal waters to prevent smuggling o f drugs and
+guns.
+61. The government also plans to continue to place emphasis on crime reduction
+through the modernization o f the law enforcement infrastructure and b y strengthening
+crime prevention efforts with the support o f community-based policing and international
+cooperation strategies. The Government also plans to implement the National Juvenile
+Justice Plan o f Action focusing on prevention and enhanced processing through the
+Courts for those who come in conflict with the law. I t w i l l also seek to improve
+rehabilitation and re-socialization, creation o f new opportunities, and reduction o f their
+propensity to commit crimes.
+Governance
+
+62. Jamaica has a strong democracy, a high caliber bureaucracy and a good regulatory
+framework. However, these strengths have not converted into comparable outcomes.
+Public satisfaction with government policies and the government’s ability to carry out i t s
+declared programs are below average in the cross country comparisons. In addition, the
+business environment i s affected by corruption, and very poor rule o f law and crime
+negates the positive elements in the business environment (CEM, 2004). Good
+governance i s fundamental to the strategic objectives o f the Government. In improving
+governance, the Government proposes to focus on two central themes: (i)enhanced
+efficiency and effectiveness o f the central and local government machinery, including the
+regulatory and legislative environment; and (ii)
+greater c i v i l society representation in
+national decision making.
+
+63. The Government w i l l continue the local government reform process launched in
+1994. The aim i s to create modem local authorities with the capacity, vision and resource
+base to deliver the range o f services for which they are responsible, as well as appropriate
+mechanisms for accountability and transparency. Closely linked to the creation o f an
+effective local government system i s the promotion o f greater involvement o f c i v i l
+society in national decision making.
+Environmental Sustainability
+
+64. Jamaica’s natural resources play a central role in i t s development. The key
+economic sectors o f agriculture, tourism and bauxite mining are all natural resource
+based. In addition, many o f the towns and cities need to be protected from flooding
+through the proper management o f watersheds. The Government o f Jamaica appreciates
+the link between proper management o f the island’s natural resources and sustainable
+development. Inappropriate agricultural practices generate a wide range o f negative
+impacts including deforestation, soil erosion, pollution, and dwindling marine resources.
+O f the estimated 30 percent o f Jamaica covered b y forest, more than 90 percent has been
+disturbed and degraded. Widespread squatting in environmentally fragile areas has
+increased the cost o f mitigation measures. Inappropriate management o f solid and liquid
+waste has resulted in significant damage to the environment including surface and
+underground water pollution, clogging o f drains and water courses resulting in flooding
+as well as pollution o f beaches, thereby adversely affecting the tourism industry.
+21
+
+IV. Progress on the Current Bank Group Strategy
+The 2000 CAS and 2002 CAS Progress Report
+65. The previous full CAS o f 2000 covering the period 2001-2002 aimed at preventing
+a reversal o f the gains in poverty reduction and creating a foundation for economic
+growth. I t focused on four pillars: (i)
+restoring economic growth; (ii)
+ensuring that
+growth i s inclusive and that the poor are adequately protected; (iii)improving
+governance, efficiency and effectiveness in the public sector; and (iv) ensuring
+sustainable development. During FYO1-02, U S 1 9 0 million were committed in new
+IBRD lending (Bank Restructuring and Debt Management Program Loan I,Social Safety
+Net Project and Jamaica Emergency Recovery Loan). In addition, Jamaica participated
+in a regional Adaptable Program Loan (APL) on HIV/AIDS o f US$15 million.
+66. The C A S Progress Report (PR) o f 2002 covered a period o f one year and built on
+the strategy agreed in the CAS o f 2000. The IBRD lending program under the CAS PR
+was US$129.8 million for three projects, two from the previous CAS (Bank Restructuring
+and Debt Management Program Loan I1 and Reform o f Secondary Education 11) and a
+new National Community Development Project. These three operations were approved
+b y the Board in 2003.
+67. IFC and MIGA strategies since the 2000 CAS have been to selectively focus on
+country specific and regional investments, in order to support Jamaican private sector. In
+this context, I F C supported projects in sectors such as power, telecommunications,
+infrastructure and retail activities, and participated in the setting-up o f a facility to
+provide financing to small and medium-sized export-oriented companies for twelve
+Caribbean countries, including Jamaica. MIGA has supported, through guarantees, the
+development of the financial sector as well as infrastructure development.
+
+The Existing Portfolio
+68. The IBRD existing portfolio in Jamaica consists o f four on-going projects
+representing a total commitment o f U S 1 0 9 . 8 million, o f which U S 9 0 . 3 million remain
+undisbursed. Approximately 25 percent o f the projects are at risk and 25 percent are
+rated as problem projects, primarily due to implementation delays. Three o f the four
+projects are in the social sector, focusing on health (HIV/AIDS), education and social
+safety net reforms.
+The fourth project i s supporting community infrastructure
+development. The major project implementation issues relate to: (a) government’s fiscal
+constraint as i t relates to the overall funding provisions for projects as well as counterpart
+funding; (b) technical capacity within the Project Implementing Units (PIU), particularly
+related to financial management and procurement skills; and (c) delays in implementing
+the full safety net reform as a result o f holdups in repealing existing Poor Relief
+Legislation and enactment o f the replacement National Assistance Act.
+69. Due to the tight fiscal constraint and the commitment to reduce the budget deficit to
+4.6 percent o f GDP in 2004/05 and to balance i t by 2005/06, the Government has
+significantly reduced public investment, including outright cuts or fairly significant
+reduction in the f l o w o f fund to multilateral and bilateral programs. One multilateral has
+seen a 15 percent cut in i t s portfolio since October 2004. The IJ3RD portfolio has not
+22
+
+been affected b y cuts, largely reflecting the higher priority accorded b y the Government
+to interventions supported by Bank projects. However, the reduction in project financing
+f r o m the Consolidated Fund has affected the implementation progress of all four projects
+but particularly the Reform o f Secondary Education (ROSE 11) project due to i t s
+significant c i v i l works component, which require fairly large withdrawals from the
+Consolidated Fund.
+70. In response to the Government’s difficult fiscal situation, the Bank undertook a
+review o f the Country Financing Parameters for Jamaica and has approved up to 100
+percent financing for new investment projects. In addition, retrofitting o f previously
+approved projects may be considered on a case-by-case basis. In this context,
+Government, the Bank, and other donors have agreed to move forward on planning for a
+Sector Wide Approach (SWAP) in Education that would support critical reforms to
+improve system governance and accountability for learning outcomes. The Bank has also
+addressed the technical capacity issue related to financial management and procurement
+by conducting training for Project Implementing Unit (PIU) staff. This training has also
+been combined with the training on Client Connection, which should help to improve
+project management.
+71. As o f end o f January 2005, IFC committed portfolio amounted to US$114 million,
+including US$73 million for IFC’s own account and US$41 million for the account o f
+participants. Since FYOO, I F C has disbursed US$139.3 million, notably US$55.8 million
+in a telecommunications project (including US$5.8 million for participants’ account) to
+promote the rapid expansion o f the mobile phone market in Jamaica; US$38.5 million for
+the development o f the Montego Bay Airport (including US$21.4 million for
+participants’ accounts); and US$45 million for JPS Co, an independent power producer.
+As part o f a US$ 42 million regional investment operation in Central America and the
+Caribbean, I F C also supported investment in the retail sector in Jamaica. A large part o f
+the portfolio consists o f investments in the utility sector, telecommunications and
+transportation and warehousing. In spite o f a difficult macro economic environment, the
+quality o f Jamaica’s portfolio improved markedly, reporting no non-performing-loans
+(NPLs) since FYOO.
+72. MIGA’s outstanding portfolio in Jamaica consists o f 13 contracts o f guarantee with
+a gross exposure of US$117.3 million, o f which MIGA’s net exposure i s US$108.1
+million. Currently, MIGA i s underwriting two projects in the financial and infrastructure
+sectors in Jamaica totaling US$50 million. Both projects are expected to be complete in
+FY05. As i t s most prominent operation in Jamaica, MIGA has provided the Bank o f
+Nova Scotia (BNS) o f Canada a guarantee o f US$45 m i l l i o n to cover i t s US$50 m i l l i o n
+medium- to long-term loan to the Bank o f N o v a Scotia Jamaica Limited (BNSJ) o f
+Jamaica. The guarantee i s for up to fifteen years and protects against the risks o f transfer
+restriction and expropriation o f funds. The project i s expected to increase the availability
+o f l o w cost long-term hard currency funds in both the financial sector and the general
+economy. This project w i l l also allow BNSJ to expand the scope o f i t s medium t o long
+term hard currency lending to provide funding for projects in the infrastructure, tourism,
+port services, wharfage services, water distribution and manufacturing sectors at
+preferential rates o f interest.
+
+23
+
+Lessons from the Previous CASs
+
+73. A review o f the lessons learned from previous CASs was summarized in the OED’s
+Country Assistance Note (CAN) o f December 1998. In sum, the C A N noted that
+adjustment programs did not ensure adequate fiscal adjustment and instead the
+Government relied on external borrowing, which resulted in an increase in Jamaica’s
+external debt and the Bank’s exposure. On investment lending, the C A N noted that the
+ambitious design o f projects was not consistent with local implementation capacity, and
+insufficient attention to funding risks and project management were the leading causes o f
+l o w success rates. These lessons as well as those gleaned from the 2000 CAS and the
+2002 CAS PR and the various project completion reports have been considered in the
+framing o f this CAS. Some o f the key lessons learned for the recent lending operations
+as well as the 2000 CAS and 2002 CAS PR include:
+a
+Support focused interventions framed within a sectorkheme comprehensive
+approach and coordinated donor assistance. On education, while there has been a
+significant increase in access through the Reform o f Secondary Education project,
+progress in improving the quality o f education has been more limited. This i s due in part
+to the generally poor quality o f students from the early childhood and primary levels
+where the Bank had no intervention. Providing support in the context o f a Sector Wide
+Approach (SWAp) would help to address the issue o f a focus on the whole; however, the
+need for upfront coordination becomes even more important in the context o f a SWAp;
+
+Focus Bank lending in high priority areas which have broad-based support within
+the government, parliamentary opposition and c i v i l society and leverage the existing
+portfolio o f projects to impact on the unfinished reform agendas in health, education and
+social protection. This will not only enhance the ability to leverage support from other
+donors but w i l l also help to ensure the political commitment to project implementation.
+The lesson i s particularly highlighted in the establishment o f the unified social assistance
+program PATH through the Social Safety Net Project, and the success of the Jamaica
+Social Investment Fund and the National Community Development Project;
+a
+
+Building on existing programs and working through existing institutional
+structures to foster sustainable reforms and strengthen Government’s capacity to
+efficiently deliver social services;
+a
+
+a
+Build flexibility into the C A S lending envelope where possible, to allow the Bank
+to be responsive to unforeseen crises such as natural disasters or economic shocks b y
+ensuring that resources are available for appropriate crisis responses (including repair to
+schools, health facilities or other infrastructure and safety nets for households); and
+
+Continue to focus o n simplifying the design o f projects in line with the country’s
+capacity for implementation.
+a
+
+CAS Consultations and K e y Messages Received
+74. The lessons f r o m the previous CASs and project Implementation Completion
+Reports confirm one o f the key messages in the 1998 OED’s C A N that in order to ensure
+
+24
+
+V. The Role of the World Bank Group: Looking Ahead
+77. The comprehensive Medium-Term Socio-Economic Policy Framework outlined b y
+
+the Government provides a good basis for the Bank Group’s continued support in concert
+with other donors. The World Bank Group strategy for FY06-09 is, therefore, aligned
+with the government’s Medium-Term Socio-Economic Policy Framework and i s based
+on three mutually reinforcing pillars and supported b y two cross-cutting themes o f
+Governance and Environmental sustainability.
+The three primary pillars are: (i)
+accelerating inclusive economic growth; (ii)improving human development and
+opportunity; and (iii)
+crime prevention and reduction.
+
+The World Bank Group Lending Program
+Pillar 1: Accelerating inclusive economic growth
+
+78. The 2000 CAS and subsequent CAS Progress Report focused on restoring
+economic growth. Growth has since picked up, but faster and more inclusive growth i s
+necessary to launch into a virtuous cycle. This CAS would focus on helping the
+government achieving accelerated inclusive economic growth through support for: (i)
+fiscal consolidation and debt reduction; (ii)reducing regulatory and infrastructure
+constraints and developing the private sector; and (iii)
+rural development.
+Fiscal consolidation and debt reduction
+
+79. Both the C E M and the PER point to a large debt overhang and fiscal imbalance as
+
+major constraint to faster’growth. The W o r l d Bank Group would support, in partnership
+with other donors, the Government’s efforts at fiscal consolidation and debt reduction
+through lending as well as through analytical activities in key areas identified below.
+
+80. Aligning the budget to the MTSEPF priorities. Given the very limited fiscal
+space, more efficient management o f public resources i s an imperative. The Bank in
+partnership with other donors w i l l support the Government’s efforts towards the
+establishment o f a Medium-Term Expenditure Framework (MTEF) and a related Public
+Sector Investment Program (PSIP) that clearly reflects the priorities established in the
+MTSEPF. The recently completed Public Expenditure Review (PER) also identified
+specific issues which the government needs to address for better alignment o f the budget
+with priorities. In order to support the alignment efforts, during the CAS period, the
+Bank w i l l work with the government for a wide dissemination o f the PER across
+ministries and departments.
+
+81. Continuing public sector reform. With support from the Bank under the Public
+Sector Modernization Project (PSMP), the government has completed a first phase o f
+public sector reform, including, inter alia the creation o f Executive Agencies which have
+been very successful in delivering improved quality service while reducing the fiscal
+burden on the government. Presently, there are various pockets o f inefficiency which
+lead to waste, and gaps in the system which are conducive to lack o f transparency and
+corruption. Addressing these issues may not only help produce value for money and
+efficiency savings, but also support private sector development, the achievement o f the
+MDGs and a fairer distribution o f the dividends o f development. The Bank, jointly with
+
+26
+
+the IDB and in collaboration with other donors, i s currently undertaking a Country
+Fiduciary Assessment (CFA) for Jamaica. I t i s expected that a clear road map w i l l be
+presented to the government as to how to improve the efficiency o f public resource use
+through improvements in the public financial management and procurement systems.
+The Bank will also work with the Government to design a comprehensive capacity
+development strategy for procurement and financial management as core functions o f
+public administration.
+
+82. Debt reduction. Reducing the debt i s crucial to accelerating growth through less
+crowding out o f private investment and through greater public sector investment in
+infrastructure. The Government has articulated and i s implementing i t s debt management
+strategy which includes running a consistently high primary surplus. The Bank i s
+supporting the Government through an ongoing Institutional Development Grant to help
+build the capacity o f the debt management unit within the Ministry o f Finance. Over the
+CAS period, the Bank w i l l continue to support the Government with technical assistance
+o n debt management including ‘on demand’ policy notes. In addition, policy based
+lending support o f up to US$75 million during the CAS period could assist the
+government in re-profiling i t s debt.
+Reducing regulatory and infrastructure constraints and developing the private sector
+
+83. Strengthening of the regulatory framework. In order to improve the regulatory
+environment to promote fair competition, encourage private investment as well as
+environmental sustainability, the World Bank Group would support the government in i t s
+efforts to reform the regulatory environment, first through an assessment of the impact o f
+the current regulatory structure, and then recommendations as to the most cost-effective
+regulatory policy framework which should be adopted. In this regard, the Bank i s
+supporting the Government’s request for financial assistance f r o m the Public Private
+Infrastructure Advisory Facility (PPIAF) for an assessment o f i t s regulatory capacity as a
+first step to strengthening the regulatory framework. In addition, through i t s ongoing
+dialogue, the Bank would continue to share best practice experience with the
+Government.
+84. Improving infrastructure. The government has made considerable progress in
+encouraging private participation in the provision o f infrastructure including
+telecommunications, power and roads. This trend i s expected to continue as the
+regulatory framework i s improved. In order to support private sector-led growth in
+Jamaica, during the CAS period the I F C and MIGA w i l l continue to support projects in
+infrastructure (ports, power, wastewater treatment, transportation, etc. ) and the financial
+sector. MIGA w i l l also continue to support the government’s effort to improve
+infrastructure through the provision o f guarantees to cover investments in these important
+areas.
+
+85. IBRD w i l l continue to provide support for the provision o f infrastructure in
+communities through the implementation of the National Community Development
+project (NCDP). In addition, during the CAS period, an Inner C i t y Basic Services
+Project o f US$25 million will be implemented to provide, among other things, improved
+infrastructure in some inner city communities.
+
+27
+
+86. Developing the private sector. Beyond i t s support for infrastructure, I F C w i l l also
+bauxite and alumina production; (ii)
+seek opportunities to support the expansion of: (i)
+services including strong local and /or regional hotel owners/operators; and (iii)
+strong
+companies wishing to modernize and expand domestically and regionally. In addition,
+I F C w i l l seek to provide advisory services to increase the role o f the private sector in the
+delivery o f goods and services to the population. Based on the findings o f the FSAP (see
+para. l O l ) , I F C could support further consolidation in the banking sector and thus play a
+key role in providing, directly or through financial intermediaries, long term finance for
+the domestic and regional expansion o f Jamaican companies as well as facilitating access
+to finance for SMEs and micro enterprises. I f the intended support for this CAS period
+does indeed largely materialize the resulting commitment volume would most likely
+exceed that attained during the FY02-05. Finally, I F C could provide technical assistance
+on a selective basis, in order to help create an enabling environment and foster supply.
+Rural development
+
+87. Jamaica’s rural policy vision i s that o f an economically viable and socially dynamic
+rural environment where there i s universal access to social amenities, active participation
+o f local communities in decision-making and where opportunities for growth are created
+while ensuring sustainable use o f natural resources. The policy has five principal goals:
+(i)
+promoting growth while protecting the environment; (ii)
+providing basic services and
+infrastructure; (iii)
+building more effective, integrated and participatory processes for
+development; (iv) supporting the development of human and social capital; and (v)
+eradicating poverty and promoting social inclusion.
+88. The Government’s rural growth strategy focuses on increasing access to basic
+services, income generating activities outside the agricultural sector and creating an
+enabling environment through infrastructure development.
+This can be done b y
+improving rural roads and irrigation infrastructure, storage, brokering commercial
+partnerships between merchants, hotel chains or agro-processors and farmer associations,
+contract farming and other contractual relationships that add rural value and increase
+competitiveness. Creating linkages between the tourism sector and rural areas i s an
+important aspect o f rural development that has not been fully exploited. For example,
+rural development could encourage local initiatives in eco-tourism, agro-tourism,
+traditional food preparation for hotels in rural areas, heritage tours and plantation visits.
+
+89. Such initiatives could be financed through community driven investments in cooperation with tour operators and hotel chains. In collaboration with other donors
+working in the rural area, IBRD would support o n a pilot basis a project for communitydriven development focused on the rural areas (US$15 million). Community-driven
+development i s an ideal instrument for participatory implementation o f plans to achieve
+the Government’s rural development goals. This was validated by the fact that during the
+CAS consultations many people commented that the community driven projects through
+the Jamaica Social Investment Fund (JSIF) and NGOs were far more successful and
+sustainable than projects directly implemented by the Government with minimal
+participation from the community. The implementation o f the development plans
+(including the community projects such as small-scale infrastructure or income
+generation activities) needs to be done with social, technical, economic, institutional and
+
+28
+
+environmental sustainability in mind. Jamaica and the World Bank have also first-hand
+experience in delivering labor intensive infrastructure development to communities
+through the National Community Development Project.
+The ongoing Poverty
+Assessment which also focuses on rural poverty w i l l provide input to the design o f the
+rural project.
+
+Pillar 2: Improving human development and opportunity
+Transformation of education
+
+90. Early Childhood Development. The Government i s aggressively promoting early
+childhood education as part o f i t s strategy to improve education outcomes. This i s in
+recognition o f the fact that without early learning, later education i s more costly and less
+effective. Experience from other countries suggests that early childhood interventions
+(including early childhood care and education programs) can improve education
+outcomes and help break the intergenerational transmission o f poverty. Early childhood
+interventions can also help to accelerate inclusive economic growth and promote crime
+prevention and reduction. The focus on early childhood education, therefore, tackles one
+o f the very important dimensions o f the youth-at-risk problem and complements ongoing
+Bank support for the Reform o f Secondary Education and the Social Safety Net Reform.
+91. The Bank would support the Government’s efforts in strengthening early childhood
+development through an Early Childhood Development Project (US$15 million). This
+operation would finance and evaluate innovative initiatives for children in the birth to age
+3 cohort, including, inter alia, parenting programs, outreach programs for particularly at
+risk young children (including l o w birth weight and malnourished babies and babies at
+risk o f abuse) and expanded access to day care for children from poor families. These
+initiatives would build on lessons learned f r o m international experience and on the
+country’s specific program evaluations and would rely on Jamaica’s existing wealth o f
+non-governmental organizations already o n the ground delivering services to young
+children and parents. The support to early childhood education would also contribute to
+improve the quality o f pre-primary (pre-school) education for children in the 4 to 5 age
+cohort and strategies to increase pre-primary enrolment among children who are poor.
+92. Sector Wide Approach (SWAp) in Education. The government has committed to
+implementing a SWAP in education to support the structural reforms t o improve the
+education system. I t i s expected that the implementation o f the SWAP could take
+upwards o f eighteen months as the government moves to improve i t s fiduciary systems
+through the implementation o f an action plan developed through an ongoing joint World
+Bank-IDB Country Fiduciary Assessment (CFA). The Bank would also take the lead on
+donor coordination for the preparation o f the SWAp. The implementation o f the SWAP
+i s expected to bring congruence to the several programs being implemented b y different
+donors in the sector, thereby not only reducing the administrative cost but also benefiting
+from synergies and improving the overall outcomes.
+93. In health, the Bank’s ongoing support will be through the ongoing H I V / A I D S
+prevention and control project which i s aimed at assisting the Government in curbing the
+spread o f the HIV epidemic through (a) the expansion o f preventive programs; (b) the
+
+29
+
+strengthening o f treatment, care and support for people living with HN/AIDS; and (c)
+strengthening o f Jamaica’s multi-sectoral capacity to respond to the epidemic.
+
+Pillar 3: C r i m e prevention and reduction
+
+94. The Bank’s research on crime and violence in Jamaica suggests that i t i s
+concentrated in the inner city communities and amongst youth. The Bank’s strategy,
+therefore, focuses on these two entry points through the Inner City Basic Services for the
+Poor project and the Youth at Risk Project.
+95. I n n e r C i t y Basic Services for the Poor. Jamaica’s inner-city communities have
+become a flashpoint for the country’s burgeoning crime and violence problem. A
+complex relationship has evolved in recent years between organized criminal agents and
+inner-city communities. Crime and violence - coupled with growing poverty and
+unemployment - have further exacerbated social fragmentation and the weakness o f civic
+organization in inner-city comm.unities. A 1997 World Bank study o f Urban Poverty and
+Violence concluded that violence in poor urban communities erodes the two key assets
+vital to poverty reduction - labor and social capital. The report recommended
+interventions that integrate the delivery o f services with building o f civic institutions.
+The 2004 World Bank CEM also highlighted the negative impact o f crime and violence
+on human and social capital development as well as on the investment climate. The
+Government’s Medium-Term Socio-Economic Policy Framework (MTSEPF) l i s t s innercity renewal as a priority.
+96. The quality and coverage o f basic services in inner-city communities are poor with
+pockets o f extreme deprivation in particular neighborhoods. Access to water, sanitary
+facilities, transport, health, public areas and social and sport facilities i s also inadequate
+for a majority o f inner-city neighborhoods. Through the Inner City Basic Services
+Project (US$25 million), the Bank would provide support to strengthen the provision o f
+basic services to the poor including through community based provision. This operation
+would also address crime and violence prevention by complementing the community
+policing efforts through the improvement o f social infrastructure such as better roads and
+street lighting in inner city areas. In this effort, the Bank w i l l maintain close
+collaboration with other donors who are involved in complementary operations including
+USAID, DFID, IDB, EU and C I D A .
+97. Youth At Risk. As the 2004 CEM pointed out, young males in the age group 1424 account for the bulk o f crime and violence. Addressing the youth at risk problem is,
+therefore, integral t o crime prevention. One o f the clear messages o f previous Bank
+supported analytic work on Youth-At-Risk in Jamaica and the Bank’s Caribbean Youth
+Development Study i s that the youth-at-risk problem requires a multidimensional
+approach that focuses on both prevention and remediation. The Bank w i l l work closely
+with other development partners and with the wealth o f youth serving NGOs in Jamaica
+to design an appropriate intervention.
+
+98. The Bank would provide support to the Government’s youth-at-risk initiatives
+through a Youth At Risk Project (US$20 million). The operation would support: (i)
+a
+parenting education program; (ii)
+programs to keep students in school; (iii)
+activities that
+promote the school to work transition; and (iv) targeted interventions for already at-risk
+
+30
+
+youth. The Bank would bring i t s expertise in youth development and build on
+international experience o f successful interventions in youth development, building on
+existing programs, including inter alia, mentoring programs, after school programs (for
+in-school and out-of school youth) and other youth-serving programs. Support for
+targeted interventions for youth most at risk could include youth involved in crime and
+teenage parents. The Bank would also support development o f better linkages between
+different youth serving programs and improving partnership and connectivity such that
+the different players would collectively have a larger impact. The Bank would provide
+support to implement activities designed to promote the school to work transition. This
+support would build upon the partnership established with HEART Trust/NTA in the
+completion o f the Lifelong Learning in Jamaica study.
+
+Analytical and Advisory Activities (AAAs)
+
+99. During 2003 and 2004, the Bank prepared a Country Economic Memorandum
+focused on issues related to accelerating inclusive economic growth and, during 2004 and
+2005, a Public Expenditure Review examining public expenditure allocation priorities
+and public sector reform issues in Jamaica’s tight fiscal environment. In addition, a study
+on growth and competitiveness issues in the Caribbean recently completed b y the Bank
+provides the Government with insights and policy recommendations for improving the
+competitiveness o f the economy. The dissemination o f these reports represented a key
+instrument for policy discussion with the Government on the country’s development
+priorities and the Bank assistance strategy.
+100. All AAA covered by this CAS w i l l address issues o f economic growth, human
+development and social inclusion, and crime prevention and reduction, and i t w i l l provide
+valuable input to the policy dialogue linked with the lending program to accelerate
+growth and promote social equity. The AAA will be o f two types: formal and informal.
+A brief account o f each study i s provided below. Partnership with other donors,
+including the IDB, DFID and EU, in the preparation o f these reports w i l l be sought.
+Discussions to this effect are ongoing with some o f the development partners. This w i l l
+ensure the Bank avoids duplication, maximizes the use o f available technical and
+financial resources, and builds common ground around critical policy issues.
+101. A Poverty Assessment currently under preparation w i l l provide an updated
+assessment o f poverty levels and w i l l focus o n rural poverty issues, poverty and the labor
+market, and the link between crime and violence and poverty. Work on a Country
+Fiduciary Assessment (CFA), in collaboration with the Inter-American Development
+Bank, i s underway to help strengthen public financial management and procurement. I t
+w i l l also help to provide a sound basis for the harmonization and alignment with the
+country’s procurement and financial management systems. At the request o f the
+Government, the Bank i s undertaking a Financial Sector Assessment Program (FSAP),
+jointly with the IMF, to review the status o f the financial sector. T o help create a positive
+enabling environment for private sector driven growth, the Bank i s also undertaking an
+Diagnostic o f Investment Climate which w i l l provide policy recommendations
+complementary to the recently completed study on growth and competitiveness issues in
+the Caribbean.
+
+31
+
+102. The Bank i s supporting the Government’s request for financial assistance from the
+Public Private Infrastructure Advisory Facility (PPIAF) for an assessment o f i t s
+regulatory capacity as a first step to strengthening the regulatory framework.
+103. The Bank w i l l continue the informal monitoring o f macroeconomic developments
+given the vulnerability o f the economy. This w i l l be done within the context o f the
+results based monitoring framework agreed between the Government and the donors. In
+addition, the Bank w i l l undertake just-in-time policy notes to follow-up on specific
+findings and recommendations o f the studies undertaken during the CAS period and other
+issues jointly identified with the authorities. Dissemination o f key analytical work w i l l
+be ensured during the CAS period to build wide and strong ownership for further
+structural reforms.
+Table 6. Ongoing and Planned Analytical and Advisory Activities
+Fiscal
+Year
+
+Pillarl: Accelerate inclusive economic
+growth
+
+FY05
+
+Country Fiduciary Assessment (CFA,
+ongoing)
+
+FY06
+
+Diagnostic o f Investment Climate
+
+Pillar 2: Improve human
+development and
+opportunity
+
+Pillar 3: Crime
+prevention and
+reduction
+
+Poverty Assessment
+(ongoing)
+
+Financial Sector Assessment Program
+(FSAP)
+
+Caribbean Social
+Protection Strategy review
+(regional study; ongoing)
+
+Dissemination of CEM and PER
+PPIAF Assistance for Regulatory Reforms
+Economic monitoring
+FY07
+
+Caribbean Air Transport (regional study)
+Economic monitoring
+
+Caribbean Migration,
+Remittances and the
+Diaspora (regional study)
+
+Caribbean Recent Economic
+Developments in Infrastructure (regional
+study)
+FY08
+
+Curriculum RefordSkills
+Enhancement (regional
+study)
+Caribbean Pension Reform
+(regional study)
+
+Economic Monitoring
+Caribbean Financial Sector and
+Regulation (regional study)
+
+FY09
+
+Crime, Violence a n d
+Social Exclusion in
+the Caribbean
+(regional study)
+
+Caribbean Health
+Financing (regional study)
+
+Country Economic Memorandum
+
+104. In addition to the country specific analytical work, Jamaica will benefit from
+ongoing and planned regional studies. A Caribbean regional study on Crime, Violence
+and Social Exclusion would focus on the impact o f crime on tourism, investment,
+poverty, and social cohesion. This would be a multi-sectoral endeavor aimed at
+32
+
+developing recommendations that would draw on experience from successful
+interventions in Brazil and elsewhere. The Bank i s also currently developing a Social
+Protection Strategy Review paper for the Caribbean, including a focus on Jamaica. The
+objective o f the strategy i s to strengthen the Bank’s ability to support clients on social
+protection through: (i)better understanding the key socio-economic risks, existing
+country-level social protection programs, coverage and implementation gaps, and
+outstanding country-level needs; (ii)
+stronger coordination w i t h country counterparts and
+donors; and (iii)
+more strategic emphasis on the Bank’s ‘comparative advantage in the
+region. A Caribbean regional study on Migration, Remittances and the Diaspora w i l l
+examine the impact o f migration and i t s implications for public policy decisions
+surrounding the financing o f higher education and skills development; the impact,
+facilitation, and potential leverage o f remittance flows; and the potential for the growth o f
+niche markets among the diaspora. This work w i l l be undertaken in close collaboration
+with other donors, most notably the IDB. Additional planned regional studies cover
+issues related to pension reform, health financing, and the infrastructure and financial
+sectors (see Table 6).
+
+VI. Program and Risks
+Lending Program and Scenarios
+105. IBRD’s Lending Scenarios and Instrument Choice. The base-case lending
+scenario assumes: (I)
+satisfactory portfolio performance as evidenced by no more than 30
+percent problem projects; and (2) satisfactory macroeconomic performance as evidenced
+b y performance substantially in line with the improving trend in the Government’s
+Medium-Term Socio-Economic Policy Framework outlined in Table 4 and monitored
+inter alia b y the IMF under Intensified Surveillance. Under this scenario, the Bank
+would undertake a modest lending program o f about US$75 million for the period FY0609. The program would consist o f four operations. In FY06, the lending program would
+include an inner city basic services project (US$25 million) supporting the government’s
+crime prevention and reduction program as well as improving the infrastructure in inner
+city areas. In FY07, the lending program would include support to education focused on
+early childhood development (US$15 million) in the context o f a Sector Wide Approach
+(SWAP) in the education sector. In FY08, the Bank would provide support for an
+innovative community driven development project (US$15 million) focused on rural
+development. In FY09, the Bank would provide support for a Youth At Risk project
+(US$20 million). The base-case lending program i s summarized in Table 7.
+
+106. The base-case scenario described above represents the most likely scenario. Failure
+to meet the triggers under the base case would trigger a low-case scenario. In this case,
+no new lending would be processed and the Bank would focus on the implementation o f
+i t s portfolio and intensify i t s policy dialogue w i t h the government.
+
+33
+
+Table 7. IBRD Lending Scenarios for FY06-09
+
+lending
+
+Development
+Policy Lending
+
+107. Under the high-case lending scenario, in addition to the investment lending and
+analytical activities planned under the base-case scenario, the Bank could provide policy
+based lending o f up to about US$75 million to support a more aggressive debt reduction
+program as well as structural reforms, including public sector reforms, in the latter part o f
+the CAS period. Debt reduction would free up additional fiscal resources for the social
+sectors as well as for public infrastructure investment to further spur growth. Movement
+to the high case would require at least an 18-month track-record, within this CAS period,
+o f satisfactory macroeconomic performance as evidenced by performance substantially in
+line with the improving trend in the Government’s Medium-Term Socio-Economic
+Policy Framework outlined in Table 4 and monitored inter alia b y the IMF under
+Intensified Surveillance. A continuation in the high-case would require that the
+Government maintains this track record o f satisfactory macroeconomic performance. In
+the event that Jamaica should obtain an IMF disbursing arrangement, the Bank would
+reassess the timing o f i t s policy lending support under this CAS.
+
+108. The policy based lending could support reforms towards fiscal consolidation and
+debt reduction with measures both on the revenue and expenditure sides. O n the revenue
+side, the focus could be on tax reforms and o n the expenditure side o n public sector
+reforms including education sector transformation and the institutionalization o f a
+Medium-Term Expenditure Framework as a tool for expenditure consolidation.
+
+34
+
+Table 8. Lending Scenarios and Triggers
+
+Base Case Lending
+Scenario
+
+High Case Lending
+Scenario
+
+US$75 million for four
+investment projects
+
+Base Case Lending plus
+US$75 million for
+development policy
+lending
+
+Triggers
+Satisfactory macroeconomic performance
+as evidenced by performance substantially
+in line with the improving trend in the
+Government’s Medium-Term SocioEconomic Policy Framework (outlined in
+Table 4 and monitored inter alia by the
+IMF under Intensified Surveillance).
+Satisfactory portfolio performance as
+evidenced by no more than 30 percent
+problem projects.
+At least an 18-month track-record o f
+satisfactory macroeconomic performance
+as evidenced by performance substantially
+in line with the improving trend in the
+Government’s Medium-Term SocioEconomic Policy Framework (outlined in
+Table 4 and monitored inter alia b y the
+IMF under Intensified Surveillance).
+Satisfactory portfolio performance as
+evidenced by no more than 30 percent
+Droblem Droiects.
+
+L o w Case Lending
+Scenario
+
+N o new lending to be
+processed.
+Intensify policy dialogue
+including diagnostic
+AAA.
+
+Failure to meet the triggers under the base
+case.
+
+Bank Assistance in the Context of Overall Donor Support
+109. Overall development assistance has shown a steady decline since 2000, with gross
+flows (loans and grants) falling from just above US$400 million in 2000 to US$117.7
+million in 2003-a decline o f over 70 percent. This i s due in part to some donors shifting
+their strategy to providing more assistance to l o w income countries. The sharp decline in
+2003 also reflected the government’s strategy to contain overall expenditure to meet
+fiscal targets and decrease reliance on external borrowing for investment projects.
+The
+emphasis has also been on the slowdown o f the disbursement o f loans and hence the
+structure o f the O D A f l o w has skewed towards grants.
+
+110. In terms o f overall resource flows, the Inter-American Development Bank (IDB),
+the European Union, the Caribbean Development Bank (CDB), the UK Department for
+International Development (DFID), the United States Agency for International
+Development (US AID) and the Canadian International Development Agency (CIDA)
+Economic and Social Survey o f Jamaica, 2003.
+
+35
+
+have large, though increasingly more focused programs in Jamaica. Table 9 below
+indicates the areas where the various multilateral and bilateral agencies are active in
+Jamaica.
+Table 9. Areas of Donor Support
+Pillars
+
+Specific Intervention
+
+Accelerating Inclusive
+Economic Growth
+
+Direct budgetary support
+Regulatory reforms
+
+Improving
+- competitiveness
+
+ImprovingHuman
+Development and
+Opportunity
+
+Crime Prevention and
+Reduction
+
+Governance
+
+Environmental
+Sustainability
+
+Transport (airport reform)
+National highway
+Agricultural support
+Infrastructure (water)
+Telecommunications
+Public sector reform
+Improving reproductive health
+Skills training
+Gender training and research
+Social safety net
+Early childhood education
+Primary education
+Secondary education
+Health sector reform
+HIV/AIDS prevention and
+treatment
+Security and justice
+Inner citv develoDment
+Areas of Support
+
+Public Sector Modernization
+Civic Dialogue
+Regulatory Framework
+Local Government Reform
+Biodiversity
+Solid Waste Management
+Management o f the Environment
+
+Development
+Partners
+EC
+USAID, IBRD, EC,
+IBRD
+USAID, DFID, EC,
+IDB, IBRD
+IDB
+IDB, Japan, EC
+IDB, CDB, FAO, EC
+IDB,EC
+IDB
+CIDA, DFID
+USAID, UNFPA
+USAID, JICA
+UNDP
+IBRD, IDB
+CDB, UNICEF
+IDB
+IBRD
+IDB, JICA
+IBRD, USAID, JICA,
+Global Fund
+USAID, IDB, DFID,
+CIDA, EC
+IBRD. CIDA. DFID
+Donors
+
+CIDA, DFID
+UNDP, CIDA, IDB
+UNDP, USAID
+IDB
+UNDP
+IDB
+USAID, JICA,
+UNDP
+
+Harmonization and Use of Country Systems
+
+111. Despite the decline, Official Development Assistance (ODA) w i l l continue to play a
+critical role in financing strategic development projects and programs in Jamaica. The
+decline in O D A in the face of the fiscal challenges, however, reinforces the need to
+improve aid effectiveness. In this regard, donor harmonization i s an imperative for
+Jamaica.
+
+36
+
+112. Since September 2002, Jamaica has been one o f the country pilots for
+harmonization. Progress has been made in the four core areas in which the efforts in
+Jamaica have been directed: (i)financial management, (ii)procurement, (iii)
+environmental safeguards, and (iv) analytical work and strategy.
+On financial
+management, the Government has accepted the international standard on financial
+management and auditing. As a first step, the government i s moving i t s accounting from
+a cash basis to an accrual basis and i s already piloting this in three ministries and
+departments. The audit system has been strengthened and deepened and a financial
+management information system has been developed. The Government also intends to
+introduce a common framework for the presentation o f financial reports so that one report
+could suffice for all donors participating in the same project.
+113. In late 2003, the World Bank undertook a Country Procurement Assessment
+Review (CPAR) working with the Procurement Policy Implementation Unit o f the
+Ministry o f Finance and Planning (MOFP). Following on the recommendations o f the
+CPAR, the government has prepared i t s own procurement guidelines and strengthened
+the office o f the Contractor General. Work was undertaken on defining Jamaica’s
+National Competitive Bidding (NCB) and International Competitive Bidding (ICB)
+thresholds in tandem with the FTAA Market Access. In order to minimize transaction
+costs, i t i s felt that the Caribbean Single Market and Economy (CSME) procurement
+regime should await agreements reached under the FTAA procurement regime.
+
+114. O n environmental assessment and social safeguards, the preliminary analysis
+suggests that harmonization i s possible given the relative similarity between the
+environmental assessment system that the Government has put in place and that o f many
+o f the donors.
+115. While Jamaica has made some progress on i t s financial management, procurement
+and environmental safeguards systems, there i s further work to be done in all three areas
+in order to move to the use o f country systems. Jamaica’s capacity to carry the
+harmonization agenda forwards i s weak in some areas, particularly on overall
+coordination and financial management. On overall coordination, DFID i s providing
+technical assistance to build capacity within the harmonization secretariat at the Planning
+Institute o f Jamaica. The joint BanWIDB CFA, which i s underway, has already provided
+some knowledge support for the Auditor General’s Office and i s expected to make a
+detailed assessment o f the progress o n the financial management and procurement
+systems and make recommendations for their improvement. Part o f the strategic support
+under this CAS would be to pilot the use o f the country systems in one or more o f the
+investment operations proposed under the base case lending scenario. This would be
+done in collaboration with other donors.
+116. The joint country strategy consultations w i t h DFID and IDB and in collaboration
+with the Government also reflect the significant progress that has been made under the
+harmonization initiative to coordinate the work o f the respective institutions and
+harmonize the country strategy cycles. The feedback from the government, the
+opposition and civil society on the joint consultations was very positive.
+
+37
+
+Framework for Monitoring Progress
+
+Overall Policy Goals
+Increase private
+sector led GDP
+growth rate from
+2.2% to 3.0% and
+maintain it thereafter
+whilst protecting the
+environment.
+
+1
+
+Key Monitoring Indicators
+
+Strategic Objectives
+Fiscal consolidation and debt reduction.
+Maintain primary surplus in excess o f 10%.
+Reduce public sector expenditure through a
+reduction of the wage bill in real terms.
+Improve prioritization of budget
+expenditures.
+Avoid incremental indebtedness.
+Reduce interest rate on domestic debt.
+
+Balanced budget by 2005/06
+and small surplus thereafter.
+Higher GDP growth rates.
+Lower debt/GDP ratio.
+Single digit inflation.
+Lower benchmark interest
+rates.
+
+Containment o f the public
+sector wage bill in nominal
+terms.
+Stronger regulatory
+framework.
+Increased private sector
+investment in infrastructure.
+
+Reducing regulatory and infrastructure
+constraints and developing the private sector
+Encourage greater private sector investment
+in infrastructure.
+Improve regulatory governance framework.
+
+I
+
+Rural development
+Improve opportunities and reduce poverty
+in rural areas.
+0
+Improve access to social amenities.
+Promote alternative tourism options such as
+eco-tourism and community-based tourism.
+Enhance community participation in the
+design, construction, operation and
+maintenance of infrastructure.
+
+38
+
+0
+
+Increase in the number o f rural
+communities with access to
+improved roads.
+Stronger rural community
+institutions to support the
+structures and services
+required to support
+community based
+development.
+
+Consolidate social
+sector gains achieved
+over the past decade
+
+Transformation of education
+Promote early childhood development
+services.
+Promote full access to educational
+opportunities for children and youth at all
+levels o f the education system.
+Improving the teaching/learning processes.
+Promotion o f lifelong learning.
+
+Universal access to early
+childhood services.
+Provide in-service training
+for 130 teachers and
+Education Officers.
+Universal enrolment at
+upper secondary education
+level by 2007.
+Lifelong learning policy
+developed by 2007.
+
+I Crime prevention and
+
+Inner City Renewal
+Community policing
+Improved social services to inner city
+residents
+Expansion of Peace Management Initiatives
+Implement strategies for community crime
+prevention
+
+Improved access to basic
+services to inner city
+communities
+Reduction in the number o f
+persons living under slum
+conditions
+Lower level of crime and
+violence in specific inner
+city communities
+A larger proportion o f the
+school-aged children,
+particularly boys,
+remaining in school.
+
+Youth At Risk
+Reduce the incidence o f youth violence
+
+Improving
+Governance
+
+Ensuring
+Environmental
+Sustainability
+including through
+improved national
+and local capacity for
+hazard risk
+management
+
+Cross-cutting Theme: Governance
+Improved financial
+Expansion o f participatory framework.
+management and
+Enhanced public sector efficiency.
+procurement systems.
+Improved accountability and transparency.
+Cross-cutting Theme: Environmental Sustain Iility
+Protected Area Systems
+Integrate the principles o f sustainable
+development into country policies and
+Plan developed.
+program; reverse the loss o f environmental
+National Solid Waste
+resources.
+Master Plan developed and
+Formalize the solid waster sub-sector to
+implementation
+provide better public cleansing.
+commenced.
+Hazard Mitigation Policy
+Minimize the impact o f natural hazards.
+and Strategy completed.
+Complete revision o f
+national building code.
+
+Bank Exposure in Jamaica
+119. Bank exposure to Jamaica has declined in recent years as a result of lower lending,
+in line with the overall reduction in ODA flows. At end-January 2005, Jamaica’s debt to
+the Bank was US$435 million, or about one third o f the multilateral debt and 8 percent of
+the total external debt. There i s also about US$90 m i l l i o n o f undisbursed commitments
+on four ongoing projects. Except for the three year period between 2001 and 2003, net
+flows to Jamaica during the period 1990 to 2004 have been negative. N e t flows were
+negative US$36 million in FY04.
+
+39
+
+120. The current lending program for Jamaica i s carefully designed to support Jamaica’s
+key development priorities within the context o f the country’s overall debt containment
+strategy and also minimizing the exposure risk for the Bank. Under the base-case lending
+scenario, a very modest lending range o f US$15 million to US$25 million per year i s
+planned. Under this scenario, Jamaica’s outstanding and disbursed debt to the Bank
+would continue to decline to about US$368 million (about 6 percent of the total external
+debt stock) at end 2007. With the DPL o f US$75 million, the outstanding and disbursed
+debt to the Bank would increase to US$424 million (6.5 percent o f the total external debt
+stock) in 2008 before falling to US$404 million (5.7 percent o f the total external debt
+stock) in 2009.
+
+121. With the proposed modest base-case lending, i t i s anticipated that IBRD exposure
+would only increase marginally as suggested by the projected indicators in Table 11
+below. Debt service to IBRD as a share o f exports o f goods and services i s projected to
+remain at 1.1 percent between 2005 and 2006 and then fall to 1.O percent thereafter. Debt
+service to IBRD as a proportion o f total external debt service i s expected to rise from 5
+percent in 2005 to 6.2 percent in 2006, falling back to 5 percent in 2007 before rising to
+7.1 percent in 2009 (assuming the proposed disbursement o f the US$75 million DPL in
+2008).
+Table 11. External Public and Publicly-GuaranteedDebt
+and Bank Exposure Indicators
+Actual
+
+Estimates
+
+2001
+
+2002
+
+2003
+
+145.6
+47.3
+19.6
+
+153.9
+50.7
+23.3
+
+147.8
+50.2
+21.4
+
+IBRD DSPPG DS
+Preferred creditor DSPPG
+DS
+’ IBRD DSRGNFS
+
+10.6
+29.1
+
+8.0
+24.0
+
+2.0
+
+1.8
+
+IBRD DOD (US$million)
+
+443
+
+495
+
+2004
+
+Projections
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+132.6
+47.1
+21.1
+
+126.5
+44.7
+21.6
+
+119.4
+42.2
+
+106.6
+40.0
+
+102.8
+37.8
+
+107.3
+
+17.6
+
+22.1
+
+18.2
+
+36.5
+17.6
+
+8.3
+25.4
+
+6.6
+23.0
+
+5.0
+19.4
+
+6.2
+24.4
+
+5.0
+18.3
+
+6.1
+21.6
+
+7.1
+22.8
+
+1.8
+476
+
+1.4
+441
+
+1.1
+417
+
+1.1
+
+1.0
+
+1.0
+
+1.0
+
+392
+
+368
+
+424
+
+404
+
+Overall Indebtedness
+TDORGNFS
+TDO/GDP
+TDSRGNFS
+
+IBRD Exposure
+
+~
+
+Key Risks and Risk Mitigation
+122. K e y risks for the planned program are the country’s vulnerability t o natural
+disasters and to extemal economic shocks, domestic shocks, policy slippage or reversal,
+notably in the wake o f the 2007 elections, and possible population’s fatigue with the
+significant and sustained high level of fiscal adjustment required b y the high debt burden.
+The limited fiscal space resulting f r o m the large debt overhang i s also a risk for the
+implementation o f this CAS. The CAS program tries to manage these risks through
+careful selection o f triggers and monitoring o f progress, continued support for disaster
+prevention and mitigation, a focus on priority areas which have strong, broad ownership
+
+40
+
+in the country, and linking fast disbursing lending to policy implementation progress and
+results.
+
+123. Natural disasters. Jamaica i s highly vulnerable to natural disasters including
+hurricanes, earthquakes and flooding. These events, either occurring together or
+separately, can have significant adverse impact on the social and economic life o f the
+country. F r o m recent experiences, hurricane and/or flooding can have significant impact
+on GDP growth and on domestic inflation as well as necessitate major adjustment in
+fiscal expenditure due to re-construction needs. T o mitigate the impact o f natural
+disasters, the Bank has assisted the Government with hazard mapping as well as with
+reforming i t s Social Safety Net program and through community support through the
+Jamaica Social Investment Fund (JSIF). In addition, recent analytical work (PER) has
+suggested that the Government should consider the establishment o f a “protected”
+contingency fund to be activated in the event o f a natural disaster. The Government of
+Jamaica has also expressed a desire to participate in a possible regional risk pooling
+arrangement for catastrophe risk insurance. A High Level C A R I C O M Heads o f
+Government Meeting in September 2004 formally requested that the Bank undertake a
+feasibility for such an initiative and this work i s now ongoing.
+124. External Economic shocks. Jamaica i s prone to external shocks arising from o i l
+price increases, interest rates increases or indeed any shock to the North American
+economy that results in a significant shortfall in tourist arrivals. Such shocks may result
+in a deterioration o f the balance o f payments and/or the fiscal account and consequently
+the debt dynamics. As pointed out in the recent C E M and PER, the high level o f debt and
+the primary fiscal surplus required to service the debt have increased Jamaica’s
+vulnerability to shocks. For example, Jamaica could be hard hit if a turning point occurs
+in emerging market bonds, driven for example b y higher U S interest rates. Jamaica’s oildependence and i t s already high and increasing rate o f energy-intensity make the country
+particularly prone to o i l price shocks. Jamaica i s currently developing an energy strategy
+and a review o f the Bank supported Demand Side Management i s currently underway
+and should provide some useful lessons on energy efficiency. In the event o f an interest
+rate shock, the government may need to increase the level o f primary surplus even
+further. The current level o f net international reserves (approximately US$1.8 billion or
+4.5 months o f imports) would also provide some cushion for an external shock.
+However, in the event o f a significant shock, the Government may have to request
+support from the IMF and donors.
+125. Domestic shocks. Though infrequent, Jamaica i s subject to domestic shocks from
+riots related to lack o f water, police killings or gas price increases. Such events can have
+a negative impact on economic performance. While i t i s difficult to mitigate these kinds
+o f shocks, the proposed inner-city basic services project and the national community
+development project are t w o strategic interventions which in tandem with the other social
+capital building activities f r o m other donors can help to ease social tensions.
+126. Policy slippage/slow implementation. The Government has demonstrated strong
+commitment to reducing fiscal and debt imbalances as indicated by sustaining primary
+fiscal balances in excess of 7 percent o f GDP for the last 5 years. This commitment was
+recently reaffirmed w i t h the maintenance o f the expenditure program in spite o f the
+impact o f the recent Hurricane Ivan. However, with general elections due by 2007 and
+41
+
+the M O U signed with the public sector unions expiring in March 2006, there are strong
+r i s k s o f policy slippage after March 2006. First, the public sector unions may use the
+opportunity created b y a closely contested election to pressure the Government for catchup wages. Second, election induced spending in the year prior to and during the elections
+may worsen the fiscal balance and exacerbate the debt situation as was the case for the
+2002 elections. The general population’s fatigue with the significant and sustained high
+level o f fiscal adjustment may also result in policy slippages prior to the elections.
+Attempts w i l l be made to mitigate such risks b y maintaining a close dialogue with the
+Government, the opposition and civil society to ensure continued broad-based ownership
+of the program. Second, the high-case lending program w i l l only be triggered b y an 18month track record o f satisfactory macroeconomic performance, and with careful
+attention paid to i t s timing vis-&vis the forthcoming elections. Third, the results-based
+monitoring framework with broad-based support from the donors w i l l act as a very
+powerful check against policy slippage/reversal or a slowdown in the implementation o f
+the program.
+
+127. Limited Fiscal Space. The investment lending support detailed in this CAS i s
+based on the assumption that there w i l l be adequate fiscal space to provide for: (a) voting
+of the adequate amount o f resources in the national budget; and (b) the timely
+disbursement o f financial resources from the Consolidated Fund to provide for the
+effective implementation of the projects to meet their development objectives. However,
+a deterioration o f the debt dynamics requiring more resources for interest payments could
+compromise the availability o f domestic financing for the priority projects. T o help
+mitigate this risk, the implementation o f the projects has been phased and the size o f the
+projects have been kept deliberately small.
+
+42
+
+Annex A
+
+Jamaica at a glance
+POVERTY and SOCIAL
+
+2003
+Population, mid-year (millions)
+GNI per capita (Atlas method, US$)
+GNI (At/as method, US$ billions)
+
+Jamaica
+
+Latin
+America
+& Carib.
+
+Lowermiddleincome
+
+2.6
+2.980
+7.9
+
+534
+3,260
+1,741
+
+2,655
+1,480
+3,934
+
+0.8
+1.3
+
+1.5
+2.1
+
+0.9
+I.2
+
+4/6/05
+
+1 Developmentdiamond'
+Life expectancy
+~
+
+Average annual growth, 1997-03
+Population (%)
+Labor force (%)
+
+GNI
+per
+capita
+
+Most recent estimate (latest year available, 1997-03)
+
+20
+52
+76
+25
+4
+92
+12
+101
+101
+100
+
+86
+11
+129
+131
+126
+
+50
+69
+32
+11
+81
+10
+112
+113
+111
+
+1983
+
+1993
+
+2002
+
+2003
+
+3.6
+22.3
+35.7
+14.9
+9.6
+
+4.8
+28.7
+48.0
+20.3
+24.3
+
+8.4
+31.8
+36.2
+11.8
+17.6
+
+8.1
+30.0
+40.7
+11.5
+17.8
+
+-12.1
+4.4
+95.9
+29.8
+
+0.3
+3.4
+90.5
+20.0
+
+-14.9
+3.4
+50 7
+23.8
+69.9
+165.0
+
+-6.5
+3.2
+50.2
+21.8
+
+1983-93
+
+1993-03
+
+2002
+
+2003
+
+2003-07
+
+3.1
+2.3
+
+0.6
+-02
+-2.2
+
+1.9
+1.1
+-5.6
+
+2.0
+1.1
+15.0
+
+2.4
+I.4
+8.3
+
+1983
+
+1993
+
+2002
+
+2003
+
+6.4
+35.0
+20.0
+58.5
+
+7.5
+34.8
+16.1
+57.7
+
+5.5
+29.1
+12.5
+65.3
+
+5.2
+29.8
+12.6
+65.0
+
+65.0
+20.1
+43.0
+
+68.1
+11.5
+56.3
+
+71.9
+16.3
+56.3
+
+73.4
+15.1
+59.2
+
+1983-93
+
+1993-03
+
+2002
+
+2003
+
+2.1
+4.0
+2.3
+2.5
+
+-2.4
+-0.6
+-1.9
+1.6
+
+-7.0
+1.4
+-0.8
+1.8
+
+4.7
+1.4
+-0.8
+2.5
+
+-0.7
+4.9
+1.1
+0.3
+
+1.9
+4.1
+10.4
+3.2
+
+4.4
+-5.4
+-3.6
+7.7
+
+Poverty (% of population below national poverty line)
+Urban population (% of total population)
+Life expectancy at birth (years)
+Infant mortality (per 1,000 live births)
+Child malnutrition (% of children under5)
+Access to an improved water source (% ofpopulation)
+Illiteracy (% of population age 15+)
+Gross primary enrollment (% of school-a.qe population)
+Male
+Female
+
+77
+71
+28
+
+Gross
+
+I
+
+primary
+
+enrollment
+
+I
+
+1
+
+1
+
+Access to improved water source
+Jamaica
+Lower-middie-incomearom
+
+KEY ECONOMIC RATIOS and LONG-TERMTRENDS
+GDP IUS$ billions)
+Gross domestic investmenffGDP
+Exports of goods and servicesJGDP
+Gross domestic savings1GDP
+Gross national savings1GDP
+Current account balance1GDP
+Interest paymentsiGDP
+Total external debtiGDP
+Total extemal debt servicelexports
+Present value of debffGDP
+Present value of debtiexports
+(average annual growth)
+GDP
+GDP per capita
+Exports of goods and services
+STRUCTURE of the ECONOMY
+("A of GDP)
+Agriculture
+Industry
+Manufacturing
+Services
+
+Private consumption
+General government consumption
+Imports of goods and services
+
+(average annual growth)
+Agriculture
+Industry
+Manufacturing
+Services
+Private consumption
+General government consumption
+Gross domestic investment
+Imports of goods and services
+
+..
+
+Economic ratios'
+Trade
+T
+
+Indebtedness
+-*Jamaica
+Lower-middle-incomegroup
+
+Growth of exports and imports (%)
+15
+10
+5
+0
+
+5
+10
+,151
+
+Note: 2003 data are preliminary estimates.
+*The diamonds show four key indicators in the country (in bold) compared with its income-group average. If data are missing, the diamond will
+be incomolete.
+
+43
+
+Annex A (Continued)
+Jamaica
+PRICES and GOVERNMENT FINANCE
+Domestic prices
+(YY change)
+Consumer pnces
+Implicit GDP deflator
+Government finance
+(“A of GDP, includes current grants)
+Current revenue
+Current budget balance
+Overall surplus/deficit
+TRADE
+
+(US5 millions)
+
+Total exports (fob)
+Alumina
+Bauxite
+Manufactures
+Total imports (cif)
+Food
+Fuel and energy
+Capital goods
+
+1983
+
+1993
+
+2002
+
+2003
+
+16.7
+16.5
+
+30.1
+39.2
+
+6.5
+8.4
+
+12.9
+12.5
+
+25.1
+-7.2
+-15.0
+
+25.1
+5.9
+2.6
+
+26.4
+-7.6
+-10.8
+
+28.6
+-6.9
+-6.7
+
+1
+
+1983
+
+1993
+
+2002
+
+2003
+
+1 Export and import levels (US5 mill.)
+
+685
+315
+109
+84
+1,287
+110
+397
+294
+
+1,283
+440
+84
+268
+2,189
+145
+343
+390
+
+1,307
+604
+106
+110
+3,330
+291
+636
+67 1
+
+1,463
+662
+89
+108
+3,233
+282
+829
+558
+
+1993
+
+2002
+
+2003
+
+1,236
+1,491
+-255
+
+2,567
+2,674
+-1 07
+
+3,229
+4,828
+-1,599
+
+3,469
+4,947
+.1,478
+
+Net income
+Net current transfers
+
+-283
+102
+
+-256
+377
+
+-606
+1096
+
+-632
+1230
+
+Current account balance
+
+-437
+
+14
+
+-1249
+
+-526
+
+Financing items (net)
+Changes in net reserves
+
+175
+262
+
+449
+-463
+
+1851
+-602
+
+298
+228
+
+1.9
+
+390
+24.9
+
+1,340
+48.4
+
+1,569
+57.7
+
+1983
+
+1993
+
+2002
+
+2003
+
+3,472
+368
+0
+
+4,373
+607
+0
+
+4,281
+495
+0
+
+4,090
+476
+0
+
+Total debt service
+IBRD
+IDA
+
+397
+39
+0
+
+537
+123
+0
+
+848
+65
+0
+
+824
+66
+0
+
+Composition of net resource flows
+Official grants
+Official creditors
+Private creditors
+Foreign direct investment
+Portfolio equity
+
+13
+306
+91
+-19
+0
+
+242
+-33
+-1
+78
+0
+
+38
+60
+62
+481
+0
+
+29
+-70
+-208
+721
+0
+
+World Bank program
+Commitments
+Disbursements
+Principal repayments
+Net flows
+Interest payments
+Net transfers
+
+120
+60
+13
+47
+26
+21
+
+107
+77
+74
+4
+49
+-45
+
+145
+84
+44
+40
+21
+19
+
+0
+15
+46
+-31
+20
+-52
+
+Memo:
+Reserves including gold (US$ millions)
+Conversion rate (DEC, local/US$)
+EXTERNAL DEBTand RESOURCE FLOWS
+
+(US$ millions)
+Total debt outstanding and disbursed
+IBRD
+IDA
+
+00
+
+deflator
+
+44
+
+02
+
+01
+
+-CPI
+
+I
+
+~~
+
+97
+
+96
+
+99
+
+00
+
+E4 Exports
+
+1983
+
+/US$ millions)
+Exports of goods and services
+Imports of goods and services
+Resource balance
+
+99
+
+98
+
+**GDP
+
+Export price index (1995=100)
+Import price index (1995=100)
+Terms of trade (1995=100)
+BALANCE of PAYMENTS
+
+I
+
+Inflation (%)
+
+02
+
+01
+
+Imports
+
+Furrent account balance to GDP (%)
+
+OS
+
+___
+
+-4
+6
+
+4
+-10
+-12
+14
+
+-16
+
+1 Composition of 2003 debt (US5 mill.)
+
+A . IBRD
+
+B - IDA
+C - IMF
+
+D - Other multilateral
+
+E - Bilateral
+F .Private
+
+G -Short-term
+
+I
+
+7
+
+E
+
+E
+L
+
+C
+
+a
+
+f
+
+i
+i
+
+C
+
+h
+
+T
+
+e
+c
+i
+
+;
+C
+
+C
+
+<
+
+<
+i
+?
+<
+
+i
+5
+i
+
+C
+
+._
++
+
+m
+
+5
+
+8
+
+vl
+
+7
+I
+
+I
+I
+
+!
+
+1
+I
+
+I
+I
+I
+
+I
+I
+
+,,
+
+I
+
+I
+
+1
+
+cc
+
+d
+
+E
+
+5
+k
+
+s
+
+a
+
+t
+
+c
+
+f
+8
+
+;
+C
+
+c
+
+L
+
+T
+
+e
+
+a
+c
+
+5
+
+C
+
+3
+c
+
+c
+
+C
+
+!
+
+f
+
+a
+n
+
+c
+c
+
+L
+
+i
+
+c
+
+P
+
+.f
+
+i
+c
+
+a
+
+n
+
+t
+
+C
+
+b
+i
+
+C
+
+2
+
+U
+
+0
+
+r
+
+0
+
+a
+
+*;
+
+VI
+
+'i
+
+t
+
+Ea
+
+T
+
+{
+
+f
+
+7
+
+i
+
+0
+U
+
+e
+
+s
+c
+U
+
+2
+
+c
+
+ee
+
+-n
+!
+En
+
+I
+
+c
+
+:
+U
+
+E
+
+c
+
+i
+i
+
+7
+
+8
+
+B
+
+f
+
+8
+
+b
+
+E
+
+;
+E 9
+
+s
+
+.Lb
+c
+L
+
+ai
+
+i
+
+<
+
+s
+
+f
+u
+
+I
+
+..->
+
+Annex B2
+Selected Indicators o f Bank Portfolio Performance and Management
+Indicator
+Portfolio Assessment
+Number of Projects Under Implementation a
+
+Average Implementation Period (years) b
+Percent of Problem Projects by Number
+Percent of Problem Projects by Amount
+Percent of Projects at Risk by Number
+Percent of Projects at Risk by Amount
+Disbursement Ratio (9%)
+Portfolio Management
+CPPR during the year (yesho)
+Supervision Resources (total U S $ thousands)
+Average Supervision (US$ thousands/project)
+
+2001
+
+2002
+
+2003
+
+2004
+
+3
+2.3
+0
+0
+0
+0
+50
+
+4
+1.1
+50
+50.1
+50
+50.1
+15.5
+
+4
+2.1
+25
+36.2
+25
+36.2
+8.5
+
+4
+2.8
+25
+36.2
+25
+36.2
+6.8
+
+no
+416
+59.4
+
+no
+326
+54.3
+
+no
+349
+58.2
+
+no
+416
+103.9
+
+Memorandum I t e m
+Projects Evaluated by OED by Number
+Projects Evaluated by OED by Amt (US$ millions)
+9% o f OED Projects Rated U or HU by Number
+9% of OED Projects Rated U of HU bv Amt.
+
+50
+
+Since FY 1980
+55
+1304.2
+44.4
+43.5
+
+Last Five FYs
+
+9
+370.3
+22.2
+15.2
+
+Annex B3
+Bank Group Program Summary
+
+Fiscal
+Year
+
+Project
+
+US$
+(million)
+
+Strategic
+Rewards
+(H/M/L)
+
+Implementation
+Risks ( H / M / L )
+
+2006
+
+Inner City Basic Services for the Poor
+Project
+
+25.0
+
+H
+
+M
+
+2007
+
+Early Childhood Development Project
+
+15.0
+
+H
+
+L
+
+2008
+
+Rural Development Project
+
+15.0
+
+H
+
+H
+
+2009
+
+Youth At Risk Project
+
+20.0
+
+H
+
+H
+
+Total
+
+75.0
+
+Proposed IBRD High -Case Lending Program
+Fiscal
+Year
+
+Lending
+
+US$
+(million)
+
+Strategic
+Rewards
+(H/M/L)
+
+2008
+
+Development Policy Loan (in addition
+to base-case projects)
+
+75.0
+
+H
+
+Total
+
+150.0
+
+I
+
+Implementation
+Risks ( H / M / L )
+H
+
+b. High (H), moderate (M), or low (L) indicates the expected strategic rewards and implementation risks.
+
+51
+
+Annex B3
+(Continued)
+
+IFC and MIGA Program, FY 2002-2005
+As of January 3 1,2005
+
+IFC commitments in US$ million
+
+2002
+
+2003
+
+2004
+
+2005
+
+40.0
+
+45.0
+
+0.0
+
+0.0
+
+N.A.
+
+N.A.
+
+N.A.
+
+N.A.
+
+IFC Commitments by Sector (as % of total)
+
+50
+50
+
+Information
+Transportation & Warehousing
+
+100
+
+Utilities
+
+Total
+
+100
+
+100
+
+80
+20
+100
+
+100
+
+IFC Commitments by Investment instrument (as 5% of total)
+Loan
+Quasi-equity
+Total IFC
+
+MIGA Guarantees (US$ million)
+
+45 .O
+
+52
+
+100
+
+Annex B4
+Summary of Non-Lending Services
+Product
+
+Completion
+
+cost
+(US$OOO)
+
+Audience
+
+Objective
+
+The Road to Sustained Growth in
+Jamaica (CEM)
+
+FY04
+
+264
+
+G/B/DP
+
+KGPS/SS
+
+Fiscal Consolidation for Growth and
+Poverty Reduction (PER)
+
+FY05
+
+165
+
+G/B/D
+
+KGPS/SS
+
+Country Fiduciary Assessment
+
+FY05
+
+135
+
+G/B/D
+
+KGPS
+
+Diagnostic of Investment Climate
+
+FY06
+
+210
+
+G/B
+
+KG/PS/SS
+
+Financial Sector Assessment Program
+
+FY06
+
+230
+
+G/B
+
+KG
+
+Poverty Assessment
+
+FY06
+
+176
+
+G/B/D
+
+KGPS
+
+PPIAF Assistance for Regulatory Reform
+
+FY06
+
+350
+
+G/B
+
+KGPS
+
+Country Economic Memorandum
+
+FY09
+
+165
+
+G/B/D/P
+
+KG/PS/SS
+
+a
+
+b
+
+Recent completions
+
+Underway
+
+a. Government (G), Donor (D), Bank (B), Public dissemination (P)
+
+b. Knowledge generation (KG), Problem-solving (PS), Strategy-Setting (SS)
+
+53
+
+Annex B5
+
+I
+
+INCOME
+GNI Der
+per cads
+capita (US$)
+(US$)
+
+Consumer price index (1995 =100)
+Food price index (1993 =100)
+
+I
+
+I
+
+1970-75
+
+1.390
+2
+I
+
+I
+
+3980-85
+
+II
+
+900
+
+10
+9
+
+INCOME/CONSUMPTION
+Gini index
+
+1996-2002
+
+2.690
+2,690
+I98
+172
+.38
+
+Total
+
+,
+
+I
+
+Latest single year
+
+1.1.
+
+54
+
+I
+
+I
+
+Same regiodincome group
+Latin
+America
+
+Lower-middle-income
+
+~
+
+Caribbean
+
+3.280
+
+I
+
+1,400
+1.400
+
+Annex B 6
+
+--I_
+
+^l^
+-.-_
+ll-^
+ll
+
+Key Economic Indicators - Base Case Scenario
+
+Indicator
+
+__._"_
+
+~
+
+2000
+
+Actual
+2001
+2002
+
+Estimated2003
+2004
+2005
+
+Projected
+2006
+2007
+
+-2008
+
+National accounts (as % of GDP)
+Gross domestic product"
+Agriculture
+Industry
+Services
+
+100
+6
+29
+64
+
+100
+6
+30
+64
+
+100
+6
+29
+65
+
+100
+5
+30
+65
+
+100
+5
+28
+67
+
+100
+4
+25
+71
+
+100
+4
+23
+73
+
+100
+4
+22
+74
+
+100
+4
+21
+75
+
+Total Consumption
+Gross domestic fixed investment
+
+85
+27
+
+87
+29
+
+88
+32
+
+89
+30
+
+96
+22
+
+87
+30
+
+92
+28
+
+81
+33
+
+78
+33
+
+Exports (GNFS)h
+Imports (GNFS)
+
+43
+54
+
+39
+55
+
+36
+56
+
+41
+59
+
+45
+63
+
+45
+62
+
+46
+66
+
+49
+63
+
+52
+63
+
+Gross domestic savings
+Gross national savings'
+
+15
+20
+
+13
+17
+
+12
+17
+
+11
+18
+
+4
+12
+
+13
+21
+
+8
+17
+
+19
+27
+
+22
+30
+
+7979
+
+8367
+
+8443
+
+8143
+
+9069
+
+9794
+
+10379
+
+11001
+
+11663
+
+2910
+
+2910
+
+2900
+
+2980
+
+3060
+
+3210
+
+3510
+
+3690
+
+3820
+
+0.8
+0.8
+
+1.0
+1.1
+
+1.9
+2.3
+
+2.0
+5.9
+
+1.5
+1.8
+
+2.5
+.3.1
+
+2.8
+3.3
+
+3.3
+3.8
+
+3.4
+3.5
+
+0.0
+
+0.3
+
+1.1
+
+1.1
+
+0.5
+
+1.5
+
+1.8
+
+2.3
+
+2.4
+
+3551
+1515
+4373
+2969
+-822
+83 1
+-427
+-4.8
+
+3354
+1424
+4567
+3001
+-1213
+958
+-764
+-9.6
+
+3229
+1307
+4828
+3330
+- 1599
+1096
+- 1249
+-14.9
+
+3469
+1463
+4947
+3233
+-1478
+1230
+-526
+-6.5
+
+4147
+1492
+5756
+362 1
+- 1609
+1381
+-923
+-10.2
+
+4475
+1602
+6153
+3883
+-1678
+1381
+-1010
+-10.3
+
+4778
+1608
+6852
+4299
+-2074
+1432
+- 1324
+-12.8
+
+5276
+1778
+6792
+4083
+-1516
+1486
+-768
+-7.0
+
+5824
+1965
+7045
+41 17
+-1221
+1541
+-463
+-4.0
+
+-4
+530
+342
+171
+-612
+
+-24
+454
+590
+524
+656
+
+-16
+347
+-227
+543
+-602
+
+0
+593
+143
+18
+228
+
+2
+420
+137
+472
+-108
+
+2
+723
+39
+77
+-169
+
+2
+1398
+29
+134
+239
+
+2
+782
+19
+104
+139
+
+-20
+557
+20
+-67
+27
+
+-10.3
+
+-15.0
+
+-18.9
+
+-18.1
+
+-17.5
+
+-17.0
+
+-20.0
+
+-14.0
+
+-10.8
+
+7.1
+18.8
+
+-9.0
+1.2
+
+-11.4
+2.1
+
+4.5
+3.0
+
+2.9
+-10.4
+Continued
+
+9.1
+9.0
+
+-0.1
+10.4
+
+10.2
+-5.3
+
+10.2
+0.5
+
+Memorandum items
+Gross domestic product
+(US$ million at current prices)
+GNI per capita (USS, Atlas method)
+Real annual growth rates (70,calculated from 1986
+Gross domestic product at market prices
+Gross Domestic Income
+
+Real annual per capita growth rates (%, calculated
+Gross domestic product at market prices
+
+Balance of Payments (US$ millions)
+Exports (GNFS)h
+Merchandise FOB
+Imports (GNFS)~
+Merchandise FOB
+Resource balance
+Net current transfers
+Current account balance
+Current account balance a % o f GDP
+Net Capital Account
+Net private foreign direct investment
+Official
+Other capital (net, incl. errors &omissions)
+Change in reserves'
+Memorundiim items
+
+Resource balance (% of GDP)
+Real annual growth rates ( YR86 prices)
+Merchandise exports (FOB)
+Merchandise imports (CIF)
+
+55
+
+Annex B6
+Key Economic Indicators - Base Case Scenario
+(Continued)
+Actual
+
+Estimate
+
+Projected
+
+2000
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+Current revenues
+
+28.8
+
+26.9
+
+26.4
+
+28.6
+
+29.9
+
+30.7
+
+30.3
+
+29.7
+
+29.6
+
+Indicator
+Public finance (as % o f GDP at market prices)d
+Current expenditures
+
+28.1
+
+29.9
+
+33.8
+
+35.2
+
+33.8
+
+29.2
+
+28.0
+
+26.1
+
+26.1
+
+Current account surplus (+) or deficit (-)
+
+0.7
+
+-3.0
+
+-7.4
+
+-6.6
+
+.-3.9
+
+1.5
+
+2.3
+
+3.6
+
+3.5
+
+Capital expenditure
+
+2.7
+
+2.7
+
+1.9
+
+1.1
+
+2.0
+
+2.1
+
+1.4
+
+1.2
+
+1.2
+
+Foreign financing
+
+2.5
+
+6.0
+
+-0.8
+
+1.2
+
+5.0
+
+2.2
+
+1.2
+
+-1.1
+
+-3.1
+
+M2/GDP
+
+39.2
+
+39.2
+
+40.4
+
+44.0
+
+44.4
+
+45.0
+
+40.0
+
+40.0
+
+40.0
+
+Growth of M2 (%)
+Private sector credit growth /
+
+10.6
+52.8
+
+9.8
+34.4
+
+13.0
+71.4
+
+25.5
+39.6
+
+20.5
+106.6
+
+14.1
+98.3
+
+-1.9
+73.6
+
+9.7
+126.0
+
+9.2
+152.9
+
+Monetary indicators
+
+total credit growth (%)
+Consumer price index (% change, average)
+
+6.1
+
+8.0
+
+6.5
+
+12.9
+
+11.7
+
+9.4
+
+7.1
+
+6.0
+
+5.5
+
+GDP deflator (% change)
+
+11.6
+
+8.3
+
+8.4
+
+12.5
+
+17.0
+
+11.1
+
+7.1
+
+6.4
+
+5.5
+
+b
+
+a.
+
+GDP at market prices
+“GNFS” denotes “goods and nonfactor services”
+
+c.
+
+Includes use of IMF resources; negative denotes increase
+
+d.
+
+Budgetary central government
+
+56
+
+Annex B7
+Key Exposure Indicators
+Actual
+
+Estimate
+
+Projected
+
+2005
+
+2006
+
+2007
+
+208
+
+2009
+
+12388
+
+12389
+
+12102
+
+11947
+
+11721
+
+11279
+
+4090
+
+4336
+
+4419
+
+4385
+
+4338
+
+4256
+
+123
+
+-278
+
+431
+
+173
+
+46
+
+-93
+
+362
+
+573
+
+723
+
+830
+
+809
+
+920
+
+1015
+
+886
+
+1223
+
+1108
+
+1119
+
+284.0
+
+314.3
+
+379.4
+
+334.7
+
+298.8
+
+276.8
+
+253.3
+
+226.5
+
+201.3
+
+185.5
+
+132.7
+
+132.1
+
+146.4
+
+142.6
+
+136.6
+
+126.5
+
+116.6
+
+108.6
+
+100.5
+
+98.3
+
+17.8
+
+19.6
+
+23.3
+
+21.4
+
+21.1
+
+21.6
+
+17.6
+
+22.1
+
+18.2
+
+17.6
+
+IBRD DS/public DS
+
+14.4
+
+10.6
+
+8.0
+
+8.3
+
+6.6
+
+5.0
+
+6.2
+
+5.0
+
+6.1
+
+7.1
+
+Preferred creditor DS/public
+
+36.4
+
+29.1
+
+24.0
+
+25.4
+
+23.0
+
+19.4
+
+24.4
+
+18.3
+
+21.6
+
+22.8
+
+IBRD DS/XGS
+
+2.2
+
+2.0
+
+1.8
+
+1.8
+
+1.4
+
+1.1
+
+1.1
+
+1.0
+
+1.0
+
+1.0
+
+IBRD TDO (US$m)
+
+415
+
+443
+
+495
+
+476
+
+441
+
+417
+
+392
+
+368
+
+424
+
+404
+
+Share o f IBRD portfolio (%)
+
+4.1
+
+4.2
+
+4.0
+
+4.1
+
+3.6
+
+3.4
+
+3.2
+
+3.1
+
+3.6
+
+3.6
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+50
+
+22
+
+90
+
+2000
+
+2001
+
+2002
+
+2003
+
+10085
+
+10540
+
+12249
+
+11612
+
+3809
+
+3836
+
+4281
+
+N e t disbursements (US$m)
+
+481
+
+633
+
+Total external debt service (TDS)
+
+684
+
+TDOEGS
+TDO/GDP
+
+Indicator
+Total debt outstanding and
+
+2004
+
+disbursed (TDO) (US$m)
+Public external debt (US$m)a
+
+4206
+
+(US$m)
+Debt and debt service indicators
+
+(%I
+
+TDS (external:i/XGS
+IBRD exposure indicators (%)
+
+DS (96)'
+
+IDA TDO (US$m)
+
+IFC (US$m)
+Loans
+
+8
+
+Equity and quasi-equity
+MIGA
+MIGA guarantees (US$m)
+
+97
+
+94
+
+135
+
+131
+
+"Excluding government guaranteed debt.
+
+57
+
+117
+
+..
+
+8s
+
+0
+
+0
+
+3
+
+3
+
+o
+
+c
+
+0
+
+0 0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 0
+
+..
+
+C E
+
+4-
+
+m
+
+n
+
+Y
+
+ci3
+
+0
+
+- i
+
+Annex B9
+C A S Summary of Development Priorities
+Network area
+
+Country
+Performance
+
+Country
+priority
+
+M a j o r issue
+
+Poverty Reduction and
+Economic Management
+
+0
+
+Poverty reduction
+
+Fair
+
+Economic policy
+
+Fair
+
+Uptick in the poverty headcount in
+
+the last two years despite resumption
+
+of GDP growth.
+Fiscal consolidation and debt
+reduction i s necessary to accelerate
+
+The quality of public service
+delivery has improved. However,
+accountability i s s t i l l weak and the
+large size of the public sector i s a
+fiscal burden.
+
+Public sector
+
+Bank
+priority
+
+Reconciliation o f country and
+B a n k priorities
+
+_i
+High
+
+High1 High1 kong support from EU. Proposed
+upport from WB, USAID and
+IFID
+
+High
+
+High
+
+;upport from DFID and CIDA
+
+Good
+
+High unemployment among women
+persist. Males at Risk.
+
+Moderate
+
+\.loderate
+
+Education
+
+Poor
+
+Poor outcomes at all levels. Public
+expenditure highly regressive at the
+tertiary level.
+
+High
+
+High
+
+Health nutrition and
+population
+
+Good
+
+HIV/AIDS, Infant and maternal
+mortality are key MDGs issues.
+
+High
+
+Moderate
+
+Social protection
+
+Good
+
+Legislative hurdles prevent
+institutional adjustments necessary
+for further improvements in the
+system.
+
+High
+
+High
+
+Strong involvement from WB and
+[DB
+
+Rural strategy i s yet to be
+articulated. Limited rural
+infrastructurelimit the potential for
+growth in agriculture as well as
+tourism related activities.
+
+High
+
+High
+
+Strong involvement by the EU,
+USAID and the IDB
+
+Key institutional roles yet to be
+defined
+
+Moderate
+
+Moderate
+
+Crime and violence i s the major
+issue.
+
+High
+
+High
+
+Moderate
+
+Moderate
+
+Join IMF/WB FSAP underway
+
+Moderate
+
+Moderate
+
+Strong involvement by the EU and
+USAID
+
+Moderate
+
+Moderate
+
+Proposed Involvement in this area
+by IDB
+
+High
+
+Moderate
+
+Gender
+Human Development
+0
+
+Y
+
+-
+
+Strong involvement from WB, IDB
+ind USAID
+
+Environmentally and Socially
+Sustainable Development
+Rural development
+
+Environment
+
+Fair
+
+Support from USAID and CIDA
+Proposedsupport from
+WB/IDB/DFID
+
+Infrastructure
+Significant recovery since the
+1996/97 crisis. Public sector debt
+held by domestic financial institution
+Private sector
+
+0
+
+Fair
+
+I Weakness in regulatory framework
+
+Fair
+
+High energy cost and moderate
+efficiency limiting economy’s
+competitiveness.
+Public investment crowded out by
+
+Energy and mining
+Infrastructure
+
+60
+
+area.
+
+Annex C
+Debt Sustainability
+
+As has been pointed out in the recent Country Economic Memorandum (CEM) and
+Public Expenditure Review (PER), the size o f the public debt i s perhaps the biggest
+economic challenge which the Government faces in the medium to long term. Even under
+the most optimistic scenario, the debt declines only slowly and the debt dynamic i s
+subject to probable shocks that could impact key determining parameters including
+growth, inflation, exchange rate and interest rates.
+The Jamaican authorities have articulated a debt management strategy which aims to
+reduce the debt to sustainable levels, and ensure that borrowing costs and risks are
+minimized. More specifically, the strategy involves: (a) maintaining a prudent debt
+structure; (b) using market mechanisms for domestic debt issuance; (c) promoting and
+building a liquid and efficient market for government securities; (d) increasing the
+transparency and predictability o f primary market debt issuance; (e) financing the fiscal
+deficit and debt redemption; and (0 accessing the external market for funds to the extent
+o f gross external amortization. Based on this strategy o f tighter fiscal policy and faster
+nominal GDP growth, the authorities expect the public debt-GDP ratio to decline to 136.6
+percent o f GDP b y the end o f FY2004/05 and then further to about 100 percent o f GDP
+in 2008/09.
+Table C1 below, identifies the level o f fiscal effort-in terms o f the primary balancethat would be required to stabilize the stock o f debt over time given the critical
+parameters o f growth, interest rates and inflation. For example, assuming a growth rate o f
+2 percent, an interest rate of 14 percent and an inflation rate o f 6 percent, a primary
+surplus o f 8.1 percent would be required to keep the debt stable. Under the same
+assumptions, a much stronger fiscal effort (a higher primary surplus) would be required
+to eventually reduce the debt-GDP ratio to the targeted level o f 100 percent o f GDP. With
+the debt-GDP reduced to 100 percent, under the same assumptions, the government will
+only need a primary surplus o f 5.4 percent to stabilize the debt.
+TableCl :Primary SurplusDeficit (% o f GDP) Required to Stabilize the Stock of Public Debt
+
+Note: d = debt/GDP ratio; f = rate of inflation; g = real GDP growth rate, and i= nominal interest rate.
+
+61
+
+Annex D
+CAS Consultations
+Background
+The preparation o f this CAS resulted from process o f consultation that was intensive and
+inclusive. Detailed discussions were held with the Government (including Ministries and
+Departments) the opposition, and c i v i l society. Consultations were also held with
+bilateral and other multilateral partners. In addition, there were internal brainstorming
+within the Bank with participation from all sectors.
+
+Joint Consultations: DFIDDDB and World Bank with Participation by CDB
+In January 2005 i t was agreed that in the context o f Harmonization, the Inter-American
+Development Bank (IDB), the World Bank (WB) and UK Department for International
+Development (DFID) would conduct joint consultations with a cross section o f Jamaicans
+as part o f their country planning processes. Strategies and consultations would be based
+on priorities outlined in the Government's Medium Term Socio-Economic Policy
+Framework (MTSEPF).
+
+The consultations were held in February 14'h , 15Ih and 17tho f 2005 in Mandeville,
+Montego-Bay and Kingston, respectively. Invited participants included a cross section o f
+c i v i l society including representatives from CBOs, NGOs, the private sector, labor
+unions, academia and other International Development Partners (IDPs). Participants were
+drawn from the host city and surrounding areas. A total o f one hundred and forty-four
+(144) persons participated in the consultations, thirty-five (35) in Mandeville, thirty-three
+(33) in Montego-Bay and seventy-six (76) in Kingston.
+The format o f the sessions was essentially the same at all the consultations with a
+presentation on the Government's MTSEPF, followed b y an open discussion. This was
+followed b y the three presentations from DFID, the World Bank and IDB and then a
+general discussion on the ideas presented.
+
+Summary of comments
+The consultations were successful in facilitating participant input. Persons took full
+advantage o f the opportunity to be heard and to put forward their views and suggestions.
+Common across all the consultations were the issue areas o f Education and Training,
+Governance issues - including the consultative process, local government, public sector
+reform, transparency, corruption and accountability. Other common issues were Crime
+and Violence, Youth (young males), HIV/AIDS, Agriculture, the Debt, the Disabled
+community, Private sector development - including the micro, small and medium
+enterprises, Community Tourism and NGO development. Parenting was also raised in all
+the sessions as well as Taxation and Employment issues, related both t o private sector
+development and macro-economic stability/growth. There was also common concern
+regarding the funding and implementation o f the MTSEPF.
+62
+
+Participant Feedback on Consultations
+
+Participants provided written feedback on what they thought of the consultations, a sampling of comments
+are presented below:
+“Very good opportunity to share views. We hope they contribute to the National good. Stimulated thought.
+Gave a chance to hear what the Orgs. are doing”
+
+“(1) Very timely consultation (2) Implementation of suggestions are greatly anticipated (3) Wefeel a part
+of the process of development in the nation
+“Excellent opportunity to share views. We hope the discussion will be included in the decision making and
+that it’s not just talk”
+“The move to have the private sector involved in the ‘decision making’ process for the next 3 - 4 years in
+the country’s development. We do hope the information is put to great use ”.
+“We find the discussion informative & educative & to ...involve everyone. We will be sure to disseminate
+the information to our group of 7 communities as soon as we return”
+“This was very useful & I am grateful to have been invited to participate. More time may have been needed
+to express our opinion on buming issues”
+“Very informative, participatory and a good indication of bottom up planning incorporating local and
+IDPs”
+“Informative, useful, interesting to hear viewpoints of IDB, WB arid DFID )’
+“The use of focus group for persons working in specijic areas could be more productive”
+“Good opportunity to understand MTSEPF and real voices from difSerent communities. I [willJ take this
+discussion back to our ofice (IICA) and MTSEPF will be regarded as a reference when formulating
+technical cooperation project”
+“This was an excellent consultation. Congratulations are extended for the wide range of invitees and the
+clear, comprehensive presentations. There may have been greater gains (my opinion) if more than 15
+minutes were dedicated to voices from the floor. Some comments were not received because of time
+constraints. I hope an opportunity will arise for the receipt of those comments. Overall, there was a
+sensitive, organized approach and an excellently managed consultation. Well done!”
+“Overall -presentations impressive, have touched on broad areas of importance. Kindly consider in the
+education strategies the possibility of working with parents, parental skills lacking in the country,
+education must include parents. Need for more to be said on development of young entrepreneurs”
+“...The donor agencies are well placed to have a good overview of our issues. The next step is to link this
+macro-viewpoint with effective country projects and programs. This is a critically important process!
+)’
+
+63
+
+

@@ -1,0 +1,2909 @@
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+z
+
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+r
+
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+s
+
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+i
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+b
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+u
+
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+
+Document of 
+The World Bank 
+
+FOR OFFICIAL USE ONLY 
+
+GUINEA-BISSAU 
+
+Report No. 106725-GB 
+
+TURNING CHALLENGES INTO OPPORTUNITIES FOR POVERTY 
+REDUCTION AND INCLUSIVE GROWTH  
+
+SYSTEMATIC COUNTRY DIAGNOSTIC (SCD)  
+
+JUNE, 2016 
+
+International Development Association  
+Country Department AFCF1 
+Africa Region  
+
+International Finance Corporation  
+Sub-Saharan Africa Department  
+
+Multilateral Investment Guarantee Agency 
+
+i 
+
+ 
+ 
+ 
+ 
+ 
+ 
+                
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ACKNOWLEDGEMENTS 
+
+We would like to thank the following colleagues who have contributed through invaluable inputs, 
+comments or both: Vera Songwe, Marie-Chantal Uwanyiligira, Philip English, Greg Toulmin, 
+Francisco Campos, Zenaida Hernandez, Raja Bentaouet, Paolo Zacchia, Eric Lancelot, Johannes 
+G. Hoogeveen, Ambar Narayan, Neeta G. Sirur, Sudharshan Canagarajah, Edson Correia Araujo, 
+Melissa Merchant, Philippe Auffret, Axel Gastambide, Audrey Ifeyinwa Achonu, Eric Mabushi, 
+Jerome Cretegny, Faheen Allibhoy, Tanya Yudelman, Giovanni Ruta, Isabelle Huynh, Upulee 
+Iresha Dasanayake, Anta Loum Lo, Arthur Foch, Vincent Floreani, Audrey Ifeyinwa Achonu, 
+Daniel Kirkwood, Eric Brintet, Kjetil Hansen, Alexandre Marc, Asbjorn Haland, Simona Ross, 
+Marina Temudo, Pervaiz Rashid, Rasmane Ouedraogo, Charl Jooste, Daniel Valderrama, Samuel 
+Freije and John Elder. 
+
+We are especially thankful to Marcelo Leite Paiva who provided superb research assistance for the 
+elaboration of this report. 
+
+We also thank the peer reviewers: Trang Van Nguyen, Sebastien Dessus and Nadia F. Piffaretti. 
+
+Marek Hanusch has also had a key role as co-Task Team Leader of the Concept Note and main 
+author of the Country Economic Memorandum, both documents which have been central to the 
+making of this Systematic Country Diagnostic. 
+
+ii
+
+ 
+ 
+ 
+ 
+ 
+LIST OF ABBREVIATIONS 
+
+AfDB 
+APBG 
+AU 
+BCEAO 
+BOAD or WADB 
+CCVI 
+CEM 
+CPIA 
+CPLP 
+DB 
+DEA 
+DGO 
+DTF 
+DTIS 
+EAGB 
+ECF 
+ECOMIB 
+ECOWAS 
+EI 
+EU 
+FAO 
+FAOSTAT 
+FCFA or CFA 
+FCS 
+FDI 
+FGM 
+FUNPI 
+GDP 
+GIC 
+GNI 
+HA 
+HHI 
+IBRD 
+ICT 
+IDA 
+IFC 
+ILAP 
+ILO 
+IMF 
+INEC 
+IUCN 
+
+African Development Bank 
+Guinea-Bissau Port Authority 
+African Union 
+Central Bank of West African States 
+West African Development Bank 
+Climate Change Vulnerability Index 
+Country Economic Memorandum  
+Country Policy and Institutional Assessment  
+Community of Portuguese Language Countries 
+Doing Business Report  
+U.S. Drug Enforcement Administration 
+Directorate of the Budget 
+Distance to Frontier 
+Diagnostic Trade Integration Study 
+National Utility Company (Empresa de Eletricidade e Águas de Guiné-Bissau) 
+Extended Credit Facility 
+ECOWAS Security Mission in Guinea-Bissau  
+Economic Community of West African States  
+Extractive Industries 
+European Union 
+United Nations Food and Agriculture Organization 
+United Nations Food and Agriculture Organization Statistics  
+West African Franc (Currency) 
+Fragile- or Conflict-Affected States 
+Foreign Direct Investment 
+Female Genital Mutilation 
+Fund to Promote Industrialization of Agricultural Products 
+Gross Domestic Product 
+Growth Incidence Curve 
+Gross National Income 
+Hectare = 1,000 m2 
+Herfindahl-Hirschmann Index 
+International Bank for Reconstruction and Development (The World Bank) 
+Information and Communication Technologies 
+International Development Association 
+International Finance Corporation 
+Household Survey (Inquérito Ligeiro para a Avaliação da Pobreza) 
+International Labour Organization 
+International Monetary Fund 
+National Institute of Statistics of Guinea-Bissau 
+International Union for Conservation of Nature 
+
+iii
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LCD 
+MAB 
+MCS 
+MDGs 
+MFI 
+MICS 
+MTN 
+NAPA 
+
+NGO 
+NPL 
+OAF 
+ODA 
+OECD  
+PAIGC   
+PEFA 
+PEMFAR 
+PFM 
+PPP 
+R&D 
+SCD 
+SDI 
+SE 
+SME 
+SPS 
+SSA 
+SSR 
+TSA 
+UN 
+UNCTAD 
+UNDC 
+UNDP 
+UNESCO 
+UNICEF 
+VMS 
+WAEMU 
+WARFP 
+WDI 
+WDR 
+WGB 
+WGI 
+
+Least-Developed Countries 
+UNESCO Man and the Biosphere Program 
+Monitoring, Control and Surveillance 
+Millennium Development Goals 
+Micro Finance Institution 
+Multiple Indicator Cluster Survey 
+MTN Group, Telecommunications 
+National Programme of Action of Adaptation to Negative Effects of Climate 
+Changes 
+Non-Governmental Organization 
+Non-Performing Loan 
+One Acre Fund 
+Official Development Assistance 
+Organisation for Economic Co-Operation and Development 
+Party for the Independence of Guinea-Bissau and Cabo Verde 
+Public Expenditure and Financial Accountability 
+Public Expenditure Management and Financial Accountability Review  
+Public Financial Management 
+Purchasing Power Parity 
+Research and Development 
+Systematic Country Diagnostic 
+Service Delivery Indicators Survey 
+Social Enterprises 
+Small and Medium Enterprises 
+Social Protection Strategy 
+Sub-Saharan Africa 
+Security Sector Reform 
+Treasury Single Account 
+United Nations 
+United Nations Conference on Trade and Development 
+United Nations Office on Drugs and Crime 
+United Nations Development Program 
+United Nations Educational, Scientific & Cultural Organization 
+United Nations Children’s Emergency Fund 
+Vessel Monitoring System 
+West African Economic and Monetary Union 
+West Africa Regional Fisheries Program 
+World Development Indicator 
+World Development Report 
+World Bank Group 
+Worldwide Governance Indicator 
+
+iv
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Regional Vice President, IDA: Makhtar Diop 
+Vice President, IFC: Snezana Stoiljkovic 
+Vice President, MIGA: Karin Finkelston 
+Country Director, IDA: Louise Cord 
+Regional Director, IFC: Vera Songwe 
+Senior Directors: Ana Revenga, Carlos Felipe Jaramillo 
+Practice Managers: Pablo Fajnzylber, Seynabou Sakho 
+Task Team Leaders: Javier E. Baez, Rohan Longmore 
+
+v
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TABLE OF CONTENTS 
+
+1  INTRODUCTION ............................................................................................................... 2 
+1.1  Guinea-Bissau is rich in natural resources and has opportunities to develop some sectors 
+that can ignite growth .............................................................................................................. 2 
+1.2  Economic growth, poverty reduction and shared prosperity performance have been 
+disappointing ........................................................................................................................... 3 
+1.3  A vicious cycle of low assets, low productivity and lack of inclusiveness ...................... 3 
+1.4  An undiversified and vulnerable economic base and an unfriendly business climate ..... 4 
+1.5  Cross-cutting challenges stemming from endemic fragility and a weak governance 
+framework ................................................................................................................................ 5 
+1.6  Dark clouds on the horizon risk sustainability of growth, distribution and poverty 
+reduction .................................................................................................................................. 8 
+1.7  Looking ahead, change in Guinea-Bissau will require major strategic efforts ................ 8 
+1.8  Diagnostics framework .................................................................................................... 9 
+1.9  Scope and process .......................................................................................................... 12 
+2  POVERTY, SHARED PROSPERITY AND EQUITY .................................................. 14 
+2.1  Poverty in Guinea-Bissau is deep and entrenched ......................................................... 15 
+2.2  Inequality is particularly high and the poor are not able to capitalize on growth .......... 20 
+2.3  The productive capacity of households is undermined by low human and physical 
+capital, and an inefficient use of natural resources ................................................................ 23 
+2.4  Assets are not only low but also are used at suboptimal levels ...................................... 33 
+2.5  Returns to assets are inadequate and undiversified ........................................................ 36 
+2.6  Private transfers provide modest support to household incomes ................................... 40 
+2.7  Household well-being is highly vulnerable to shocks .................................................... 41 
+3  MACRO LEVEL COUNTRY CONTEXT ..................................................................... 44 
+3.1  Growth has been low, largely due to a narrow economic base ...................................... 46 
+3.2  Low productivity, savings and investments also underpin slow growth ........................ 51 
+3.3  Economic growth is fragile ............................................................................................ 53 
+3.4  Structural weaknesses constrain the effectiveness and equity of fiscal policy .............. 55 
+3.5  An underdeveloped private sector and multiple supply-side constraints hinder actual 
+and potential output ............................................................................................................... 58 
+3.6  Untapped economic opportunities to spur shared growth .............................................. 68 
+4  WEAK PUBLIC GOVERNANCE AND INSTITUTIONS ARE A CHALLENGE 
+FOR SHARED PROSPERITY .............................................................................................. 75 
+4.1  Fragility, institution-building and economic development ............................................ 76 
+4.2  Repeated cycles of fragility in Guinea-Bissau ............................................................... 78 
+4.3  A rentier economy .......................................................................................................... 80 
+4.4  Rent extraction is facilitated by weak public governance .............................................. 83 
+4.5  The way forward for stronger governance and less fragility ......................................... 86 
+
+vi
+
+ 
+ 
+ 
+5  SUSTAINABILITY CHALLENGES .............................................................................. 89 
+5.1  Structural issues and existing and emerging risks threaten economic sustainability ..... 89 
+5.2  Risks to environmental sustainability are ultimately risks to long-term inclusive growth
+ ………………………………………………………………………………………….92 
+5.3  Some drivers of fragility remain unaddressed ................................................................ 94 
+6  PRIORITIZATION OF CONSTRAINTS ON PROGRESS TOWARDS THE TWIN 
+GOALS ..................................................................................................................................... 98 
+6.1  Prioritization of development constraints in a challenging politically environment ..... 98 
+6.2  Prioritization process ...................................................................................................... 99 
+6.3  Binding constraints and prioritized policy actions ....................................................... 101 
+
+Annexes 
+
+Annex 1A. The Guinea-Bissau performance in development indicators compared to regional and 
+global benchmarks ...................................................................................................................... 118 
+Annex 2A. Dissecting the drivers of negative growth in Guinea-Bissau with Recentered 
+Influence Function (RIF) and Oaxaca-Blinder decompositions ................................................. 121 
+Annex2B. Mincerian Regressions .............................................................................................. 125 
+Annex 2C. Climate Change Impacts ........................................................................................... 126 
+Annex 3. Prioritization Worksheet ............................................................................................. 127 
+Annex Figure 1A.1. Guinea-Bissau exhibits significant gaps in development when compared to 
+other Sub-Saharan African countries and the world. .................................................................. 119 
+Annex Figure 2A.1. Composition and endowment effects for the Guinea-Bissau growth 
+incidence curve (2002-2010) ...................................................................................................... 122 
+Annex Figure 2A.2. Panel A: Composition effects .................................................................... 123 
+Annex Figure 2A.3. Panel B: Structural effects ......................................................................... 123 
+Annex Figure 2A.4. Returns to select variables (inputs) ............................................................ 124 
+Annex Table 2B.1. Mincerian regressions for log of monthly earnings in poor and non-poor 
+households (2010) ....................................................................................................................... 125 
+Annex Table 2C.1. Guinea-Bissau’s climate is changing in a number of ways ......................... 126 
+
+vii
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BIBLIOGRAPHY 
+
+List of Figures 
+
+Figure 1.1: Guinea-Bissau’s growth performance has been hampered by political instability ...... 7 
+Figure 1.2. Diagnostics framework to assess opportunities for poverty reduction and shared 
+growth ........................................................................................................................................... 11 
+Figure 2.1: Poverty in Guinea-Bissau is high and increased between 2002 and 2010 ................. 16 
+Figure 2.2: Poverty rate in Guinea-Bissau is above the rate in Sub-Saharan Africa (percent) ..... 16 
+Figure 2.3 Household per capita consumption has been systematically lower in rural areas ....... 19 
+Figure 2.4: Poverty rates for most rural regions are above the national average…………...……19  
+Figure 2.5: Despite moderate improvements, the endowment base for Guineans remains low…19 
+Figure 2.6: Proxying chronic and transient poverty in Guinea-Bissau (2010) ............................. 20 
+Figure 2.7: Gini coefficients across countries in Africa (circa 2008-2012) ................................. 20 
+Figure 2.8: Consumption Growth was experienced by households in the top of the distribution 21  
+Figure 2.9: The lower quintiles are also the most deprived in asset ownership and access to basic 
+services .......................................................................................................................................... 22 
+Figure 2.10 . Educational outcomes in Guinea-Bissau are lower than the regional average ........ 24 
+Figure 2.11. Gender inequities in educational outcomes are greater than regional average ........ 25 
+Figure 2.12: Education outcomes are weaker for the lowest income quintiles ............................ 25 
+Figure 2.13. Poor access to improved water and sanitation and lower life expectancy (panel a) 27 
+Figure 2.13. Life expectancy at birth (panel b) 
+Figure 2.14. Maternal health outcomes are weaker in Guinea-Bissau than in Sub-Saharan Africa
+....................................................................................................................................................... 28 
+Figure 2.15. Child mortality is high even by regional standards .................................................. 29 
+Figure 2.16. Malaria cases and malaria related deaths in Guinea-Bissau (2014) ......................... 29 
+Figure 2.17: Guinea-Bissau has considerable renewable and non-renewable resources…. ......... 30 
+Figure 2.18:Resources accounting for the largest share of the country’s total wealth ................. 30 
+Figure 2.19. While labor participation is slightly above the average for neighboring countries, the 
+gender gap is regionally high (2010) ............................................................................................ 33 
+Figure 2.20: The economically active population wants to work more hours… ………...……...36    
+Figure 2.21: Youth have higher unemployment ........................................................................... 34 
+Figure 2.22. Guinea-Bissau’s labor market is marked by informal employment ......................... 38 
+Figure 2.23. The share of salaried labor in Guinea-Bissau is lower than some of its neighbors 
+(circa 2008-2012) .......................................................................................................................... 38 
+Figure 2.24. Rice and cashew have had lower yields than the regional average .......................... 39 
+Figure 3.1. Guinea-Bissau has a history of low economic growth… ........................................... 46 
+Figure 3.2: The primary sector is large in Guinea-Bissau…...…………………………………..54 
+Figure 3.3: A major driver of economic growth ........................................................................... 50 
+Figure 3.4: Both savings and investments are low in Guinea-Bissau ........................................... 52 
+
+viii
+
+ 
+ 
+Figure 3.5: The cashew prices is an important determinant of the current account balance, 
+savings, and investment  ............................................................................................................... 52 
+
+Figure 3.6: The international cashew price has been falling as global cashew exports increased…..59 
+
+Figure 3.7: Guinea-Bissau’s terms of trade have been deteriorating throughout the 2000s …… 53 
+Figure 3.8: Fiscal space is severely limited in Guinea-Bissau...................................................... 56 
+Figure 3.9: Guinea-Bissau strongly relies on export taxes for domestic revenue ........................ 56 
+Figure 3.10. The size of the military is excessive by regional standards ...................................... 57 
+Figure 3.11. Fiscal and macroeconomic management performance are relatively weak in Guinea-
+Bissau  ........................................................................................................................................... 58 
+Figure 3.12. Electricity access for households and businesses is low in Guinea-Bissau .............. 60 
+Figure 3.13. Mobile phone coverage has increased in Guinea-Bissau but the internet revolution 
+has not yet taken off ...................................................................................................................... 62 
+Figure 3.14:  Guinea-Bissau’s performance on Doing Business indicators is low, hindering the 
+formation of capital in the country ................................................................................................ 63 
+Figure 3.15. The financial is sector is highly underdeveloped, constraining the business climate
+....................................................................................................................................................... 64 
+Figure 3.16. Low bank penetration in Guinea-Bissau .................................................................. 65 
+Figure 3.17. Private sector Credit/GPD in WAEMU ................................................................... 65 
+Figure 3.18. Total Lending to the Guinea-Bissau Private-Sector (FCFA millions) ..................... 66 
+Figure 3.19. Median wages are relatively low in Guinea-Bissau… but, due to low productivity, 
+unit labor costs are high ................................................................................................................ 67 
+Figure 3.20. The Guinean labor market is relatively rigid… ........................................................ 67 
+Figure 3.21. Firing costs are one disincentive for firms to hire into formal jobs ......................... 67 
+Figure 3.22 Guinea-Bissau is the fifth largest exporter of raw cashew worldwide, yet the country 
+hardly produces processed cashew (kernel) .................................................................................. 70 
+Figure 3.23: Petroleum and cooper have respectively the second and third largest potential for 
+export…………………………………………………………………………………………….77 
+Figure 4.1. Fragility is correlated with underperformance in multiple human development 
+outcomes ....................................................................................................................................... 77 
+Figure 4.2. Easier access to rents in associated with a higher incidence of military coups (LHS) 
+and rent-seeking is associated with worse economic performance (RHS) ................................... 79 
+Figure 4.3. Corruption is endemic in Guinea-Bissau (percent of businesses) .............................. 81 
+Figure 4.4. Important differences appear between bilateral trade data reported by Guinea-Bissau 
+and the one reported by its partners .............................................................................................. 82 
+Figure 4.5. Guinea-Bissau ranks among the bottom 10 percent globally on the quality of 
+governance .................................................................................................................................... 83 
+Figure 5.1. Fluctuation in financial flows coincides with political events ................................... 90 
+Figure 5.2. Overall fiscal balance and public debt………………………………………….……96            
+Figure 5.3. Debt has declined to manageable levels ..................................................................... 91 
+Figure 5.4. Gross and adjusted net savings (percent of GNI, 2010) ............................................. 93 
+
+ix
+
+ 
+Figure 5.5. In 2014, Guinea-Bissau was among the countries most likely to experience a coup . 95 
+Figure 6.1. Human capital base expansion, agricultural technology and risk-mitigation are top 
+priorities to address low inclusiveness ........................................................................................ 105 
+Figure 6.2. Diversification, infrastructure and financial inclusions are top priorities ................ 109 
+Figure 6.3. Inefficiencies in public spending, financial management systems, public sector 
+capacity and the business regulation were considered top priorities to address fragility and weak 
+governance .................................................................................................................................. 114 
+
+List of Tables 
+
+Table 2.1. The extreme poor have further deprivations when compared with the moderate poor 18 
+Table 2.2. Labor participation is lower among women and urban residents ................................ 34 
+Table 2.3: The level of welfare of female-headed households is influenced by transfers ............ 40 
+Table 2.4: Approximately 70 percent of the popuation live in the coastal area ……..………….46 
+Table 3.1. Real per capita GDP in Guinea-Bissau and its peers, 1990-2014 ............................... 47 
+Table 6.1. Ranking of mitigating actions to address constraints to lack of inclusiveness and low 
+rural productivity ........................................................................................................................ 104 
+Table 6.2. Ranking of mitigating actions to address constraints to low and unstable growth .... 108 
+Table 6.3. Ranking of mitigating actions to address constraints to fragility and weak governance
+..................................................................................................................................................... 113 
+
+List of Boxes 
+
+Box 2.1. Female Genital Mutilation and HIV in Guinea-Bissau .................................................. 28 
+Box 2.2. Women, Land and Productivity ..................................................................................... 32 
+Box 2.3. Opportunities and risks from future demographic changes in Guinea-Bissau ............... 35 
+Box 2.4. The government policy on climate change .................................................................... 42 
+Box 3.1. “Terra Ranca” is the government reform agenda moving forward ................................ 46 
+Box 3.2. Economic Growth in Guinea-Bissau and Cabo Verde ................................................... 49 
+Box 3.3. How much does Guinea-Bissau have to grow to catch up with the world? ................... 51 
+Box 3.4. The 2015 Brussels Donor Roundtable ........................................................................... 58 
+Box 4.1. Chronology of fragility in Guinea-Bissau ...................................................................... 79 
+Box 4.2. Elites and the illegal economy in Guinea-Bissau ........................................................... 83 
+Box 4.3. Strengthening Public Sector Performance in Service Delivery through Partnership with 
+Social Enterprises.......................................................................................................................... 87 
+Box Figure B2.3.1 The working age population will double by 2040 ………………….…...….38 
+Box Figure B3.3.1 GDP Per Capita Projections for Guinea-Bissau at 9 percent growth………..56 
+
+x
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

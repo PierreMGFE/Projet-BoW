@@ -1,0 +1,8201 @@
+Document of
+The World Bank
+
+Report No 24122 MAU
+
+MEMORANDUM OF THE PRESIDENT OF
+
+THE INTERNATIONAL DEVELOPMENT ASSOCIATION
+
+TO THE EXECUTIVE DIRECTORS
+
+ON A COUNTRY ASSISTANCE STRATEGY
+
+OF THE WORLD BANK GROUP
+
+FOR
+
+THE ISLAMIC REPUBLIC OF MAURITANIA
+
+May 6, 2002
+
+d
+e
+
+z
+
+i
+
+r
+
+o
+h
+
+t
+
+u
+
+A
+
+e
+
+r
+
+u
+
+s
+
+o
+
+l
+
+c
+s
+
+i
+
+D
+
+c
+
+i
+l
+
+b
+u
+
+P
+
+d
+e
+
+z
+
+i
+
+r
+
+o
+h
+
+t
+
+u
+
+A
+
+e
+
+r
+
+u
+
+s
+
+o
+
+l
+
+c
+s
+
+i
+
+D
+
+c
+
+i
+l
+
+b
+u
+
+P
+
+d
+e
+
+z
+
+i
+
+r
+
+o
+h
+
+t
+
+u
+
+A
+
+e
+
+r
+
+u
+
+s
+
+o
+
+l
+
+c
+s
+
+i
+
+D
+
+c
+
+i
+l
+
+b
+u
+
+P
+
+d
+e
+
+z
+
+i
+
+r
+
+o
+h
+
+t
+
+u
+
+A
+
+e
+
+r
+
+u
+
+s
+
+o
+
+l
+
+c
+s
+
+i
+
+D
+
+c
+
+i
+l
+
+b
+u
+
+P
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CURRENCY EQUIVALENTS
+= 
+
+Currency Unit 
+US$1 
+
+Mauritanian Ouguiyas (UM)
+279 UM
+
+AfDB 
+APL 
+BMCI 
+CAS 
+CDF 
+CG 
+CPPR 
+DO 
+EU 
+FADES 
+FAO 
+FDI 
+FHH 
+GBM 
+GIRM 
+HIPC 
+ICT 
+ICR 
+IDA 
+IDB 
+IFC 
+IMF 
+LIL 
+MIGA 
+MTEF 
+NGO 
+OED 
+ONS 
+PDIAIM 
+PRGF 
+PRSP 
+ROSC 
+SIP 
+SNIM 
+SOMELEC 
+SSA 
+UNDP 
+
+WEIGHTS AND MEASURES Metric system
+
+FISCAL YEAR January 1 - December 31
+
+ABBREVIATIONS AND ACRONYMS
+African Development Bank
+Adaptable Program Lending
+Banque Mauritanienne pour le Commerce et l'Industrie
+Country Assistance Strategy
+Comprehensive Development Framework
+Consultative Group
+Country Program Performance Review
+Development Objectives
+European Union
+Fonds Arabe de Developpement Economique et Sociale
+Food and Agriculture Organization
+Foreign Direct Investment
+Female-Headed Households
+Generale des Banques de Mauritanie
+Government of the Islamic Republic of Mauritania
+Heavily Indebted Poor Countries
+Information and Communication Technologies
+Implementation Completion Report
+International Development Association
+Islamic Development Bank
+International Finance Corporation
+International Monetary Fund
+Learning and Innovation Loan
+Multilateral International Guarantee Agency
+Medium-Term Expenditure Framework
+Non Governmental Organisation
+Operations Evaluation Department
+Office Nationale de la Statistique
+Integrated Development Program for Irrigated Agriculture in Mauritania
+Poverty Reduction Growth Facility
+Poverty Reduction Strategy Paper
+Report on the Observance of Standards and Codes
+Sector Investment Program
+Societe Nationale Industrielle et Miniere
+Societe Nationale d'Electricite
+Sub-Saharan Africa
+United Nations Development Program
+
+Vice President 
+Country Director 
+Sector Manager 
+Task Team Leader 
+Core Team Members 
+
+Callisto Madavo
+A. David Craig
+Emmanuel Akpa
+Miquel Saponara
+Agnes Soucat
+Govindan Nair
+Eavan O'Halloran
+Steve Wan Yan Lun
+
+: 
+: 
+: 
+
+ISLAMIC REPUBLIC OF MAURITANIA
+COUNTRY ASSISTANCE STRATEGY
+
+TABLE OF CONTENTS
+
+Executive Summary ..................
+i
+I. 
+INTRODUCTION ....................
+1
+II. MAURITANIA'S DEVELOPMENT PROGRAM AND PROSPECTS ................ 
+..................... 2
+A. 
+THE PRSP ..............................................................
+2
+B. 
+EcoNoMIc & SOCIAL PERFORMANCE AND PRSP IMPLEMENTATION ........................................... 3
+C. 
+ECONOMIC OUTLOOK ............................................................. 
+D. 
+THE CDF, PARTNERSHIPS AND PARTICIPATION ............................................................. 
+III. THE WORLD BANK GROUP COUNTRY ASSISTANCE STRATEGY FOR
+MAURITANIA DURING FY03-05 ................................................................. 
+A. 
+PROGRESS UNDER THE FY98-01 CAS AND LESSONS LEARNT 
+B. 
+STRATEGIC ELEMENTS OF THE FY03-05 CAS .20
+C. ASSISTANCE PROGRAM .23
+D. 
+SELECTIVITY AND CHOICE OF INSTRUMENTS .30
+E. 
+PORTFOLIO PERFORMANCE AND MANAGEMENT .31
+F. 
+SCENARIOS AND TRIGGERS .32
+IV. RISKS .................................................. 
+V. 
+CONCLUDING REMARKS ................................................... 
+
+33
+34
+
+.15
+
+10
+
+15
+
+13
+
+Table
+Table 1: Mauritania: Macroeconomic Framework, 2000-2005 ................................................. 11
+
+.I
+
+.................. 
+
+Boxes
+BOX 1: A COUNTRY PROFILE ...................... 
+BOX 2: SOCIAL INDICATORS ......................
+BOX 3:WHERE ARE THE POOR? .......................................... 
+BOX 4: A PROFILE OF POVERY IN MAURITANIA ...................................................
+6
+BOX 5: SUMMARY ECONOMIC INDICATORS ..................................................
+7
+BOX 6: MAJOR STRUCTURAL REFORMS ...................................................
+8
+BOX 7: EXTERNAL FINANCING REQUIREMENTS .................................................. 12
+BOX 8:PARTICIPATORY PROCESS FOLLOWED .................................................. 
+14
+BOX 9: LENDING FY98-02 .................................................. 
+15
+BOX 10: ESWFY98-02 .................................................. 
+16
+BOX 11: MAKING COMPETITION WORK .................................................. 
+17
+BOX 12: LESSONS LEARNED FROM CLIENT SURVEY .................................................. 18
+BOX 13:MAURITANIA'S PERFORMANCE UNDER THE HIGH CASE SCENARIO ............................................ 18
+BOX 14: BANK GROUP'S ROLE IN OVERALL DONOR EFFORT ...................... 
+............................ 19
+BOX 15: IDA ASSISTANCE PROGRAM .................................................. 
+22
+BOX 16:SCENARIOS AND TRIGGERS .................................................. 
+33
+
+....
+
+S
+
+4
+
+Attachment I
+
+STANDARD ANNEXES ................................................... 
+
+35
+
+MEMORANDUM OF THE PRESIDENT OF THE
+INTERNATIONAL DEVELOPMENT ASSOCIATION TO THE
+EXECUTIVE DIRECTORS ON A COUNTRY ASSISTANCE STRATEGY
+OF THE WORLD BANK GROUP FOR THE ISLAMIC REPUBLIC OF MAURITANIA
+
+EXECUTIVE SUMMARY
+
+1. 
+Over the past decade, the Government of the Islamic Republic of Mauritania (GIRM) has
+undertaken a wide-reaching macroeconomic, structural and social reform program that has been
+both ambitious and successful. Mauritania has gained a solid international reputation as having
+liberalized both economically and politically, with a market-driven economy and a relatively
+open political landscape with elections held regularly and considered fair. Significant progress
+has been made in reducing poverty with the proportion of individuals estimated to be living on
+income below the poverty line declining from 56.6% in 1990 to 46.3% in 2000. Mauritania is
+also on track to reach the Millennium Development Goals with major improvements already
+achieved on social indicators.
+
+2. 
+Mauritania has undergone rapid transformation from a traditionally nomadic society to
+one where over half the population now lives in urban areas. The economic structure still
+presents a sharp contrast between a relatively small modern sector and traditional subsistence
+sectors. While economic growth has been strong 
+throughout 
+the 1 990s, 
+it remains
+overwhelmingly based on fishing and iron ore although good growth potential has been
+identified in agricultural diversification, livestock and tourism.
+
+3. 
+Mauritania was one of the first countries to finalize its Poverty Reduction Strategy Paper
+(PRSP) in early 2001 and, since then, it has been implementing this strategy in a satisfactory
+manner. The PRSP places poverty reduction at the center of the GIRM's economic development
+strategy and outlines the following four strategic axes for achieving this: (i) accelerating private
+sector-led growth; (ii) anchoring growth in the economic environment of the poor; (iii)
+developing human resources and ensuring universal access to basic infrastructure and services;
+and (iv) institutional development and governance.
+
+4. 
+The GIRM has streamlined 
+the principles of the Comprehensive Development
+Framework into the PRSP. The long-term development vision has been clearly articulated as the
+PRSP covers the 2001-2015 period. The GIRM has taken the leadership on developing effective
+partnerships through the participatory way in which the PRSP was developed and is being
+implemented, and through its donor coordination efforts.
+
+5. 
+Objectives. The main objective of the Country Assistance Strategy for FY03-05 is to
+support the GIRM in the implementation of the PRSP. 
+In particular the following strategic
+elements are pursued: 
+(i) the program of lending and non-lending operations has been
+specifically designed to support implementation of the four strategic axes of the PRSP; (ii)
+capacity building is the main emphasis of the CAS; (iii) the focus of the Bank's lending program
+will be through programmatic support through three PRSCs: (iv) fiduciary issues are fully taken
+into account into the scope and sequencing of the PRSCs; and (v) the shift to programmatic
+lending through the PRSCs will be underpinned by the Bank's core diagnostic ESW.
+
+Mauritania CAS 
+
+ii
+
+6. 
+Approach. While building on the experience and lessons learnt from the FY98-01 CAS,
+this CAS also:
+
+* Builds on the participatory process of the PRSP and furthermore incorporates the
+results of intensive CAS consultations with GIRM, civil society and the donor
+community;
+* 
+Integrates the results of the 2000 Client Feedback Survey;
+* Pursues the goal of selectivity of activities to ensure greater complementarity with
+other development partners;
+* Addresses key cross-cutting and capacity building issues;
+* Recommends a progressive shift to programmatic support to improve public sector
+management and increase the efficiency of public resources.
+
+7. 
+A series of Poverty Reduction Support Credits (PRSC) would be the main pillar of the
+lending prograrn. However, it is recognized that the shift from traditional investment lending to
+programmatic lending will be phased in gradually. During this CAS, the Bank will continue
+with 
+select 
+investment projects which directly 
+target poverty 
+reduction, 
+institutional
+strengthening and capacity building while gradually phasing-in PRSCs. The base case lending
+level of US$110 million assumes that the PRSP and reform program will continue to be
+implemented in a timely manner. The high case lending would be triggered by (i) accelerated
+progress being made in implementing the PRSP and on achievement of the PRSP poverty,
+growth and macroeconomic targets; (ii) significant increase in the absorptive capacity; (iii)
+strong performance 
+in public finance management 
+including full implementation of the
+recommendations of the CFAA, ROSC and the CPAR action plans; (iv) major improvements on
+strengthening institutional capacity in the ministries of rural development, education and health;
+(v) strong portfolio performance with disbursement rates higher than Bank average and less than
+15 percent of the portfolio rated at risk. A lending total of up to US$140 million is envisaged
+under the high case.
+
+8. 
+Risks. Mauritania has proven to be a reliable and committed development partner.
+Nevertheless, Mauritania remains a small economy with a narrow resource export base and thus
+is vulnerable to external shocks. The HIPC debt relief, efforts to diversify the economy, the
+implementation of the PRSP, and the current level of international reserves should increase
+Mauritania's ability to absorb such temporary shocks. Another potential risk to be considered is
+the ability of Mauritania to move away from its traditional way of private sector business and
+adapt a more modem and innovative approach to increase competitiveness. The achievements
+over the past decade have shown that Mauritania is able and willing to implement ambitious
+reforms and adapt as it moves forward.
+
+9. 
+
+The following issues are suggested for Board discussion:
+
+* Does the proposed assistance program adequately target Mauritania's private sector-
+led growth and poverty reduction challenges?
+* Does the Board consider the mix of Bank instruments, including the gradual shift to
+programmatic support, appropriate?
+
+MEMORANDUM OF THE PRESIDENT OF THE
+INTERNATIONAL DEVELOPMENT ASSOCIATION TO THE
+EXECUTIVE DIRECTORS ON A COUNTRY ASSISTANCE STRATEGY
+OF THE WORLD BANK GROUP FOR THE ISLAMIC REPUBLIC OF MAURITANIA
+
+I. INTRODUCTION
+
+1. 
+Since 1992, Mauritania has undertaken an ambitious and successful transition to an
+economically liberalized and politically diverse country. This has been managed by a reform-
+minded, competent and committed team in Government which has implemented wide-reaching
+macroeconomic, structural and social reforms. 
+In ten years, Mauritania has been transformed
+from a country with a predominantly nomadic population, limited economic base and poor social
+indicators to one that is highly urbanized, market-driven, with sustained economic growth (albeit
+narrowly based) and a growing international reputation as a location for investment. There has
+also been significant progress in maintaining macroeconomic stability and in improving social
+indicators, thus placing Mauritania on the path towards achieving the Millennium Development
+Goals. Mauritania was one of the first countries to present a full Poverty Reduction Strategy
+Paper (PRSP) to the Boards of the Bank and the IMF in February 2001 and it has been
+successfully implementing this strategy since then.
+
+Box l Mauritania - A Country Profile
+
+Population. About 2.7 million with a growth rate of 2.7 percent. The socio-cultural landscape has undergone rapid transformation
+_from a traditionally nomadic society at independence (1960) with only 5 percent of the population in urban centers, to an urban-
+dominated one whereby over half the population (1.6 million) livein urban centers (1998 figure). This urbanization was caused by
+rapid population sedentarization and migration from rural areas,' particularly since the mid-1980s: Nouakchott, the capital city,
+represents one third of the total population. Mauritania has an intricate dual culture with traditional ties with the Magbreb countries
+to the North and with Senegal and Mali in the South and East.
+Economic Activities. Mining and fisheries activities domiunate the industrial sector and together account for nearly all export
+eamnings. The rural sector is the main source of incorne for the population and employs an estimated 64 percent of the labor force.
+Diversification and modemization of agricultural production along the Senegal'River Valley, although incipient, are showing
+progress. Potential sources of gtowth have been identified in the livestock, agri-business, artisanal fisheries and tourism sectors but
+these have been given insufficient attention'to date.
+The-Environment. More than 90% of the land surface is desert and water scarcity is a widespread problem. Desertification and
+environmental 'degradation are threatening arable land (0.5 percent of the total surface) and urgent actions are needed to mitigate
+this threat. Irrigation and other infrastructure investments in the Senegal River Valley are crucial but challenging as there is a
+complex mix of economic, environmental and social concems which also impact neighboring countries. Improved fishing'resource
+management, including better conservation and surveillance, is necessary for ensuring sustainable supplies of fish. In'urban areas,
+the most important issues are improving sanitation and waste management and expanding access to water.
+History of Bank Relations. The first Bank operation in Mauritania was an IDA credit of US$8 million for a Roads project in 1964.
+Since then, there have been 61 IDA Credits, 3 IBRD Loans and 2 IFC investments, totaling US$912 million. Thitteen operations
+are currently under implementation. In May 2002, disbursements were US$692 million, and there was an undisbursed balance of
+US$203 million.
+Political' Outlook. Since opposition political parties were legalized in 1992, Mauritania has held two presidential elections.
+Legislative and municipal elections are conducted regularly and have become accepied practice in the country - the'most recent
+were held in October 2001. International' observers welcomed the smooth organization, the manner, and the results of the two
+rounds of these elections and the fact that they allowed for proper participation of all electors in an atmosphere of normality and
+dembcratic openness. There was widespread international recognition that these elections reflected a sound development of
+political.pluralism in Mauritania.
+
+Mauritania CAS 
+
+2
+
+2. 
+The last Country Assistance Strategy (CAS) was presented to the Board on June 10,
+1997. At that time, Mauritania was deepening the implementation of a major stabilization
+program and initiating the implementation of additional structural reforms aimed at eliminating
+macroeconomic imbalances and liberalizing the economy. Over the past four years, considerable
+progress has been achieved on both fronts. This Country Assistance Strategy (FY03-05)
+continues the approach of the previous CAS which is to emphasize poverty reduction policies
+and programs through broad-based economic growth led by the private sector. The important
+difference in the country context now is that Mauritania has prepared and has been implementing
+its PRSP1 which forms the main framework for the CAS and all other donor activities in
+Mauritania.
+
+II. MAURITANIA'S DEVELOPMENT PROGRAM AND PROSPECTS
+
+A. 
+
+THE PRSP
+
+3. 
+Mauritania's first PRSP, which covers the 2001-2015 period, was finalized in January
+2001, at the national conference on the struggle against poverty. The PRSP is based on a
+participatory approach which envisages poverty reduction as part of a long-term economic
+development strategy. It sets targets between now and 2015 that are in line with the Millennium
+Development Goals. The PRSP has been well received by all the country's development
+partners who endorsed the way it was prepared, its objectives, strategic guidelines, and action
+plan. The four strategic axes of the PRSP are:
+
+* Accelerating private sector-led growth
+* Growth anchored in the economic environment of the poor
+* Developing human resources and ensuring universal access to basic infrastructure and
+services
+Institutional development and governance
+
+* 
+
+(i) 
+
+Accelerating Private Sector-led Growth
+
+4. 
+The Government's objective 
+is 
+to enhance competitiveness by promoting 
+the
+development of a dynamic private sector and fostering an incentive framework which is
+attractive to private foreign investment. The strategy of the Govermnent of the Islamic Republic
+of Mauritania (GIRM) for accelerating private sector-led growth is based on: (i) the effective
+implementation of far-reaching reforms of the legal and judicial framework focused on the
+application of the different business law codes already adopted; (ii) deepening the tax reform to
+further simplify business taxes; (iii) amending labor laws with a view to making them more
+flexible; (iv) enhancing the competitive business environment by securing a level playing field
+for all private sector operators; (v) improving trade facilitation for existing and potential
+exporters; and (vi) helping exporters meet product and phyto-sanitary standards to export
+
+' The full PRSP and its joint staff assessment (JSA) (IDA/SecM2001/0024, dated 1/16/2001) were discussed by the World Bank
+Board on February 6, 2001.
+
+Mauritania CAS 
+
+3
+
+markets and implementing an integrated approach to rural development based on policies to
+promote growth and diversification of the agriculture and livestock sectors.
+
+(ii) 
+
+Growth Anchored in the Economic Environment of the Poor
+
+5. 
+The development of the rural and infrastructure sectors are essential to developing trade,
+reducing production costs, and enhancing the competitiveness of the national economy. The
+objective sought is to promote diversified growth of the agriculture and livestock sectors as well
+as the sustainable provision of basic infrastructure in telecommunications, electricity, roads,
+airports, and new Information and Communication Technologies (ICTs), primarily through
+private investment and service delivery, and efficient management and maintenance systems.
+
+(iii) 
+Developing Human Resources and Ensuring Universal Access to Basic Services and
+Infrastructure
+
+6. 
+As the PRSP indicates, public services such as education, health care, safe drinking
+water, sanitation and energy have a direct impact on strategies aimed at accelerating growth and
+ensuring that the quality of life of the poor is improved. Within a policy of universal access to
+basic services and infrastructure, private provision and delivery of services in under-serviced
+areas will be encouraged. 
+In the education sector, the GIRM will continue to implement an
+ambitious strategy for primary education by providing the necessary infrastructure and teachers
+while fine-tuning its strategy for post-primary and higher education. 
+In the health sector, the
+GIRM will continue to implement its ten-year plan aimed at providing universal access to basic
+In addition, the strategy of anchoring growth in the economic environment of
+health services. 
+the poor is a major focus of the PRSP. This strategy is based on an integrated approach, of
+which the recently adopted urban development policy aims at creating the necessary conditions
+for urban centers to serve as focal points for regional development and for promoting the
+economic integration of the population living in outlying districts.
+
+(iv) 
+
+Institutional Development and Governance
+
+7. 
+The GIRM is aware that institutional development and good governance are essential for
+making substantive progress in the other three axes of the PRSP. Actions detailed in its "General
+Framework for the National Program of Good Governance" adopted by the GIRM in 1999
+revolves around five main themes: (i) consolidation of the rule of law; (ii) strengthening of civil
+service capabilities; (iii) support for decentralization; 
+(iv) effective management of public
+resources including use of Information and Communication Technologies (ICTs) and websites to
+achieve greater transparency; and (v) involvement of the poor and strengthening of civil society
+capabilities, particularly those of NGOs operating in new and more complex areas.
+
+B. 
+
+ECONOMIC & SOCIAL PERFORMANCE AND PRSP IMPLEMENTATION
+
+8. 
+The achievements made by the GIRM have underlined the depth of its commitment to
+place poverty at center stage of its development strategy and reform the role of the State to be the
+main facilitator for ensuring a market-led economy with a conducive and effective incentive
+framework for the private sector. While much remains to be done on that front, particularly to
+
+Mauritania CAS 
+
+4
+
+modernize the public administration, improve civil service capacity and carry out wide-reaching
+judicial reforms, the PRSP has articulated a coherent strategy in these areas. The implementation
+of the PRSP strategy has been satisfactory during its first year, as documented in the PRSP
+progress report and the associated Joint Staff Assessment (JSA) 2 . The PRSP builds and expands
+on the successful performance achieved during the 1990s on implementing macroeconomic,
+structural and social policies reforms and on reducing poverty.
+
+(i) 
+
+Progress in the Social Areas, Human Development and Poverty
+
+9. 
+Over the past decade, the GIRM has significantly increased public spending for education
+and health services, implemented a series of significant reforms and thus improved social
+indicators. Education sector reforms were started in 1987 and were designed to expand access
+to primary education, improve the
+quality of primary and secondary 
+education, 
+reduce 
+illiteracy, 
+and
+strengthen 
+job-oriented vocational 
+training. 
+Mauritania has made 
+considerable efforts to improve the 
+overall level of education and the 
+
+Box 2:'Social 1idicators:-Mauritania and SSA 
+
+GNI per-capita (atlas US$, 2001) 
+
+Pouation growth rt 
+
+-Mauritaniia_ 
+
+SSA
+480
+
+- 2 
+
+350 
+
+' 
+
+' 
+
+:
+
+Adult illiteracy (%~, 26000~ 
+Piimnary enrollment, boys and 'girls (%/0) 
+Primary enrollment, girls (0,) 
+
+-
+
+62, 
+84.4 
+82.2 
+
+2.6
+
+38
+78
+71
+
+151
+
+47
+5.6
+10000
+
+skills of its population, especially of 
+
+women. These efforts have resulted 
+in a rapid increase in primary school 
+7 
+
+enrollments from 49 percent of the 
+
+7-12 year age group in 1986/87/ to 
+84.4 percent in 2000/01 and with a 
+
+12 yea age 
+goup in1986/8 
+
+to 
+
+Under 5 mortality rat'(per000) -
+
+Life expectancy at birth (yrs,) 
+53- 
+Fertility (per woman), 
+4.7 
+Population,perphysician 
+9000 -' 
+s6v!i,,, 
+eVaeC02-scal'c, OD!l,mn 
+Sorce-A DI '2001 .& 2002, SociiilJndicators:ofDevelop.ment.
+GNI per capita:SSA includingSouthAfrica:480
+
+~~~~~~~~~~HIV/AIDS 
+
+prevalence rate (IAD)05%84
+
+116 
+
+-, 
+
+completion rate of about 62 percent -
+an important achievement. The recently completed Education Medium Term Expenditure
+Framework (MTEF) shows an increase in spending in education from 3.7 percent of GDP in
+1996 to 4.6 percent in 2001. In 2001, the GIRM finalized its Ten Year Education Development
+Program which is being implemented with support from the Bank and several other donors.
+
+10. With regard to health, the sector focus has been on preventive health care and access to
+primary care services. Since 1996, primary health care has received about 40 percent of the
+sector's budgetary resources, significantly higher than the Sub-Saharan Africa (SSA) average of
+25 percent. As a result, access to primary health care increased from 30 percent in 1990 to about
+70 percent in 2001/02. In addition, the GIRM has increasingly provided funding for safety nets
+to protect the most vulnerable groups of society. The HIV prevalence rate is among the lowest in
+SSA at 0.52 percent at end 2001. Thus, health indicators in Mauritania in 2001 are better than
+those in other Sub-Saharan countries (Box 2). Between 1990-2000, expenditures more than
+doubled from a low of 1 percent of GDP to 1.6 percent in 2000 and to 2 percent in 2001. A
+national strategic framework for the health sector has been developed and a MTEF has been
+prepared to underpin the strategy. The analytical basis has been strengthened by a Demographic
+and Health Survey (DHS) and a health expenditures and demand survey conducted in 2001 by
+the GIRM, with the Bank's support.
+
+2 See JSA and PRSP Progress Report, IDA/SecM2002-0259, May 9, 2002
+
+Mauritania CAS 
+
+5
+
+11. 
+Gender. The roles of men and women in Mauritania have changed as rapidly as the
+structure of the population. With the rapid population urbanization and sedentarization,
+particularly of men, there is a high number of female-headed households (FHH) that is also
+linked to socio-cultural disincentives to marriage and a high (37 percent) divorce rate. Women
+in rural areas have therefore taken charge of farming activities and are assuming greater roles in
+areas previously reserved to men. Women predominate in agricultural production despite their
+continued low access to economic and financial resources, and the insecurity of their access to
+property rights and land tenure. 
+In urban areas, women dominate the informal sector and are
+active traders. The productivity of women across the full range of their economic activities
+remains very low, due to lack of skills and access to training, and weak organizational structures
+and capacity among women's groups and associations.
+
+12. 
+The Secretariat d'Etat ai la Condition Feminine (SECF) is responsible for planning and
+monitoring improvements of the socio-economic and legal status of women, and coordination
+with key line ministries and the donor community on specific initiatives to promote women's
+status at both central and moughataar (local) levels. The GIRM signed and ratified the
+Convention for the Elimination of all forms of Discrimination against Women (CEDAW, 2001)
+and adopted a Personal Status Code (Code du Statut Personnel, 2001) aimed inter alia at
+defining a more conducive legal framework for the protection of the rights of women and
+children. 
+In addition, the GIRM has established several Centres de Promotion Feminine (CPF)
+throughout the country to provide women with literacy and non-formal education, skills training,
+and assistance in the formation of cooperatives. These actions are contributing to raising the
+literacy rate, the level of income among women, and their greater awareness of the importance of
+their potential contribution to economic growth, poverty reduction and development. Since
+1999, the World Bank has been providing technical and financial support, through an IDF Grant,
+to gender-responsive legal reform, legal literacy and education, and increased access to legal and
+judicial services especially targeted to women. This led to the launch of the first legal aid clinic
+in Nouakchott (1999), which should gradually be extended to cover other regions where women
+experience severe conflicts on personal and family law related issues as well as access to
+resources.
+
+13. 
+
+Poverty. The results of the 2000 Integrated 
+
+Household Survey indicate that significant progress has
+
+been made in reducing poverty in Mauritania (Box 3). 
+Between 1990 and 2000, the proportion of individuals 
+estimated to be living on income below the poverty line 
+declined from 56.6 percent to 46.3 percent. The 2000 
+Household Survey has provided a solid basis for poverty 
+diagnosis, although more 
+in-depth analysis of the 
+outcomes is needed. The results of the survey provide a 
+good basis for monitoring and evaluating poverty trends 
+and they constitute the starting point of the PRSP 
+implementation. The outcomes point to a decline in the 
+average poverty rate in recent years (from 50.5 percent 
+in 1996 to 46.3 percent in 2000), with poverty declining 
+in some urban centers and northern rural areas and
+
+Box 3: Where are the poor?
+
+National 
+
+Nouakchott 
+
+Autres villes 
+
+Rural Fleuve 
+
+l RuralAutres 
+
+Of poor 
+
+'56.6' 
+50.5 
+46.3 
+36.1 
+21 
+25.1 
+44.5 
+
+25.7 ^ 
+73.8-. 
+60.7 
+-71.5. 
+69.3 
+71.7 
+
+of
+Poverty
+28.2
+32.6
+'31.4
+13.2
+7.7
+12.3
+17.9
+
+13.2-
+39.2
+37.0
+53.7
+38.7
+52.5
+
+1Q90 
+1996 
+2000 
+1990 
+1996 
+2000 
+1990 
+
+2000 
+1990 
+1996 
+2000 
+1990 
+1996 
+
+Mauritania CAS 
+
+6
+
+worsening in Nouakchott and the Senegal River Valley. Overall, the groups most vulnerable
+include independent farmers and agricultural salaried workers in the Senegal River region, as
+well as the population from urban settlements, which are mostly unemployed, or in the informal
+sector.
+
+Box 4. A Profile of Poverty in Mauritania
+
+Poverty in Mauritania. Between 1990 and 2000, it is estimated that the incidence of poverty as.a whole fell from 56.6 to 46 3 percent. This is
+clearly a major achievement The decline in poverty was not uniform across the country however, as shown in Box 3. jAlmost all gains come
+from economic growth and the resultant increase in incorme and expenditure. Gains appear to have benefited urban areas and the "rural other"
+regions but not Nouakchott and the "rural fleuve" (Senegal River Valley). Other urban poor gained from the improved,economic performance
+and the growth in informal sector activities.
+What does poor mean? In 1990, the absolute poverty line was established at a level.of annual expenditure equivalent of UM 32,800 per adult,
+per year. In 1996, the absolute poverty line adjusted for inflation was set at an annual expenditure equivalent of UM 53,840. In 2000, this line'
+was set at UM 67,316 per adult, per year. The extreme poverty line was defined as an annual expenditure of UM 40,709 '(1996) and UM 50,897
+(2000).
+The changing nature of poverty. While the GIRM actions succeeded in reducing poverty-over the last decade, Mauritania faces new challenges
+from: (i) rapid urbanization of its population which has increased sharply in,absolute terms due to migration from rural and secondary cities to
+Nouakchott; and (ii) an increase of absolute and extreme poverty levels in the "rural fleuve" region.
+Gains in Inequality. The overall Gini coefficient shows that inequality has deteriorated: it was 39 percent in 2000 against 33.8 percent in 1996.
+A regional analysis of the distribution of household per capita expenditure shows that inequality is higher in the urban centers including
+Nouakchott (35.1 %/6), and the "rural fleuve" (33.8 %) but lower in "riral other' (37.1%/o): The'magnitude of the estimated measure of inequality
+associated with Nouakchott (34.6%) can be attributed to a less homogeneous population due to the rural migration while 'other cities" includes
+Northem cities with higher per capita expenditure than Southem cities.
+Who are the poor? Vulnerable groups include households headed by people of 60 years or more, households deriving their income mainly from
+agriculture, populations of the spontaneous urban settlements, and the unemployed. Female headed households appear to. be better off
+irrespective of regions and household location, with an incidence of poverty systematically lower than the national and male-only estimates.
+This suggest that the sex and the gender of the household head is not in itself a good predictor of the poverty status and thatfurdther analysis is
+needed to address the complex gender dimension of poverty in Mauritania. The rural poor have lower literacy rates (38%), compared with the
+national average (57.2%/o), lower access to water (22. 1% vs 50.4%) and lower access to electricity (1.5%vs_18.1%/o).
+The working popYlation is estimated at 700,000 people, of which the modem sector,, including the civil service, emp(bys only about 70,000.
+Urban unemployment, a result of rapid rural-urban migration and the inability to absorb the uriskilled labor force, is estimated at 26 percent.
+Targeted programs. In the context of the PRSP, several targeted anii-poverty programs have been elaborated to provide assistance to
+disadvantaged groups. These programs include: (i) labor-intensive public works; (ii) credit-based programts (micro-financing, artisanal fisheries
+credit, rural credit); (iii) rural water programs; and (iv) investments in human capital through significant-shifts in public spending in favor of
+education and health. Several other activities are being financed through HIPC interim assistance: TWIZE: "social habitat" programr which
+include self-construction of homes in the poorest suburban areas of Nouakchott and other large cities, micro-credit, 'etc.; TOUMZE' "small'
+livestock" distributed to the poorest households in rural areas,.to constitute their sometimes only productive assets; AGR: revenue generating
+activities, particularly in favor of women organized in cooperatives. Early indications concerning TWIZE and TOUMZE are that these programs
+are effectively targeting the poor, judging by the ever-increasing demand from their elected representatives. 
+
+14. 
+The PRSP First Annual Progress Report revised the poverty reduction strategy targets to
+take into account the results of the 2000 Household Survey as well as the lower economic growth
+resulting from the adverse global economic slowdown in the second half of 2001. The GIRM
+also recognizes that bottlenecks remain at the level of project implementation, monitoring of
+public expenditures, and evaluation of their impact on the poor. As stated in the JSA of the
+progress report, implementation capacity needs to be strengthened, so as to improve the
+monitoring of budget execution and poverty reducing expenditures, and more actions are needed
+to improve performance in education and health. In addition, further work is needed to analyze
+the outcomes of the recent household survey, so that policy lessons could be drawn for the
+future, and to make poverty and social impact analysis an integral part of future progress reports
+and updated PRSPs.
+
+(ii) 
+
+15. 
+
+Economic Performance
+
+During the period 1997-2001, macroeconomic performance held firm resulting at end
+
+Mauritania CAS 
+
+.
+
+.
+
+.
+
+. ~~~~~~~~~~Box 5: Summiary Eeonomie Indicators
+1
+
+-
+
+.
+
+.
+
+| 
+
+2001 in a real GDP growth rate of 4.6 percent led
+by the fisheries, rural and mining sectors as well 
+as by the new traditional sectors of construction, 
+public works and 
+telecommunications. The 
+current account 
+(including official 
+transfers) 
+balance was -5.7 percent of GDP and gross 
+official 
+reserves 
+rose 
+to US$286 million, 
+equivalent to 6.3 months of imports. 
+Fiscal 
+policy was 
+appropriate 
+and permitted 
+an 
+
+policy was 
+approprite 
+and 
+permitted 
+an 
+appreciable 
+increase 
+in 
+social 
+and poverty 
+reduction expenditure from 7.5 percent of GDP in 
+2000 to 8.5 percent of GDP at end-2001. By end- 
+2001, key economic and financial indicators were 
+
+in line with the macroeconomic program (Box 5) 
+as outlined in the PRSP. 
+Structural reforms 
+
+related to exchange rate policy, deregulation and 
+
+RealGrowth Rates
+
+GDPo 
+
+F 
+Exports (F.O.B) 
+
+Shares of nominal GDP ( nercent):
+Gross domestic investment 
+
+Domesticsavings 
+Private consumption 
+Consolidated Go. 
+perations (%of GDP)
+COverall surplus or deficit (excd. grants) 
+
+Primary balance (excl. grants) 
+in Excluding offipial transfers, 
+durrent Account Balance: (% of GDP)
+Including official transfers 
+Debt Service I Exports (PRGF Data) 
+
+Inflation (CPI, annual average %) 
+
+-
+
+Gross intl. Reserveslimports (mos.) 
+Debt outstanding/GDP (DRS data) 
+
+3.2 
+
+-17.8 
+
+17.6 
+
+17.6 
+
+75.8 
+
+4.2 
+
+7.1 
+
+-9.5 
+1.5 
+29.8 
+
+4.5 
+
+4.3 
+194 
+
+7
+
+4.6
+
+-3:9
+
+26.7
+
+21.0
+
+70.3
+
+-5.6
+
+-2.7
+
+-10.0
+-5.7
+15.5
+
+4.7
+
+6.3
+212
+
+privatization, 
+educational 
+system,
+competitiveness, public resource management, and tax and tariff reforms have been implemented
+(Box 6). The revised medium-term projections in the PRSP economic framework (2002-05)
+aims at accelerating diversified private sector-led economic growth from 4.6 percent in 2001 to
+6.4 percent in 2005, thus increasing employment and reducing poverty from 46.3 percent in 2000
+to 42.3 percent in 2005, with gains in all regions and without increases in inequality3 .
+
+(iii) 
+
+Structural Issues
+
+16. 
+Although Mauritania's economy has been substantially liberalized since the early 1990s,
+the economic structure still presents a sharp contrast between a relatively small modem sector
+and traditional subsistence sectors. Furthermore, the economy is extremely dependent on two
+commodity exports - fishing and iron ore - and is thus vulnerable to terms of trade shocks and
+the increasing likelihood of over-exploitation. The sustainability of higher economic growth in
+Mauritania will depend on how the economic and export bases are expanded beyond mining and
+fisheries and how agricultural crop production can be diversified and non-farm activities
+developed, the livestock sector integrated into the modem economy, and the value-added of the
+fisheries sector increased. It is recognized that this is a difficult challenge which will involve a
+comprehensive approach. 
+In particular, private sector-led growth in the above sectors will
+require, as shown in a recent private sector survey, the development of an adequate
+infrastructure, improved trade facilitation, certification to allow product standards to be met, an
+effective financial sector and business services, 
+the removal of remaining private sector
+constraints and lowering of high transaction costs.
+
+3 The "Loi d'Orientation" on poverty reduction, voted by the Parliament in July 2001, states that the PRSP is to be implemented through
+Regional Poverty Reduction Programs (PRLP). These PRLPs will be gradually elaborated for each of the 13 wilayas (regions). Much
+like for the PRSP, this will be done through: (i) a largely participatory process, (ii) a diagnosis of the situation of poverty in the wilaya,
+and (iii) a comprehensive approach to poverty reduction and development.
+
+Mauritania CAS 
+
+8
+
+1I93-1997 
+
+I' 
+
+.
+
+.
+
+Box 6: Ten Y.ears of Sustained Structural Reforms
+
+Fisheries. The fishing marketing board and sectoral public enterprises privatized, a license system for industrial fishing
+implemented; the Oceanographic Research Center 'and the-Sui'veillance Uniit strengtheneda Fishing activities .opened to foreign'
+operators; regulation of ship chandlery activities adopted; fishing resources management program adopted; a system of territorial
+rights for artisanal fisheries implemented.
+Mining. The "Socidte Nationale Industrielle etMinimre" (SNIM) has been successfully restructured
+Transport. Air and land transport activities.liberalized, port services privatized.'
+Educadon and Health. Technical training centers strengthened,-mediuitni4erinliteracy program implemented, action plan for basic
+education in rural areas implemented, reform-of the educational system adopted. Primary health program implemented, Service
+delivery system strengthened and decentralized to the regions; community based healthpJolicies implemented.
+Banking. The Development Bank abolished; all comtiercial banks privatized; new banking law enacted, market'for Treasury Bills
+created, regulation of savings and loans associations adopted,: framework for micro-finance adopted, and the foundation for a
+stronger banking sector supervision has been established: 
+.
+lublic Enterprises, All public enterprises,, except for SNM, liquidated or privatized; subsidies, tax exemptions and cross-debts
+eliminated. 
+Insurance. The GIRM-owned insurance conpany pnivatized and sector activities liberalized. 
+Private Sedor. Measures to promote private sectorjdevelopment implemented in banking, 'foreign exchange, tiriffs, pricing, and
+marketing. The GIRM has withdrawn from all commercialFand industrial activities,'state monopolies abolished, Chamber of
+Commerce re-invigorated, regulation' pertainingto the creation of economic interest groups (EIGs) adopted. Tle New York,
+Vienna and La Hague Conventions;ratified. 
+e
+
+". 
+
+-
+
+l
+
+l
+
+-
+
+1998-2001
+Governance. New regulations fo'r legal professions adopted, judicial system modernized, Natiol -Audit Office strengthened, new
+procurement code adopted, tax directorate reorganized, custom's administration strengthened,'expenditure clearing law adopted.
+Quarterly reports on tracking of poverty related expenditures published. 
+.
+RuraL Achievements in the rural sector include:' Pricing.and mnarketing fully liberalized; rice-mills privatized; land-tenure reforml
+undergoing implementation and monitoring in the Trarza regi on and' in the entire niddle and upper Senegal River Valley;' a
+cooperative credit system strengthened, veterinary services privatized, livestock developmiJent code adopted.'
+Energy. Electricity company (SOMELEC) in the process of being privatized. 
+.
+Transport. Air-Mauritaniaprivatied. -
+'
+Mining. Mining sector opened-to private investm,nent.:' New mining code adopted. 
+Telecommunications. Telecommunications and' postal services lawsi'adopted. Postal and telecom activities separated. Competition
+introduced in telecom services and state operator privatized. 
+.
+FiscaL Tariff, VAT and direct taxation reform implemented, new investment code adopted, MTEFs for health &- education
+prepared, new budget nomenclature implemented, computerization of the entire expenditue chain initiated.
+Public Administration. Recommendations of the audit of "the civil service implemeonted: Ministries of Rural'Development,
+Economic Affairs and Development, Educatiori Finance, Fisheries and Commerce reorganized. Education and Health- Services
+decentralized; municipal decentralization ongoing. A Secretariat d'Etat for New Tech^n;ologies and a ((Commissariat aux droits de
+I'homme, a la lutte contre ia pauvrete et a'la reinsiertiorn,'the Office of the Ombudsman of,the Republic and a multi-sectoral
+
+' 
+
+'
+
+-
+
+regulatory agency have been created. * 
+
+.
+
+-
+
+(iv) Other Cross-Cutting Issues
+
+17. 
+Environment Mauritania is implementing, with IDA support under the Rainfed Natural
+Resources Management project, community-based natural resources management operations in
+the rainfed area. 
+In addition, Mauritania has joined the regional RPTES (Review of Policies,
+Strategies and Programs of the Traditional Energy Sector) program that builds local capacity
+through a mix of policy and operational support to review policies, strategies and programs in the
+traditional energy sector. There is an urgent need to improve targeting of GIRM actions to
+address the country's growing environmental problems. This will include:
+
+* 
+improving the management of renewable and non-renewable resources
+* addressing desertification and deforestation issues
+* 
+sustainable natural resource development, particularly in the Senegal River valley
+* 
+coastal zone and fisheries management
+
+Mauritania CAS 
+
+9
+
+* urban environmental issues
+* 
+establishment of a legal and institutional framework for environmental management of
+oil, mining and other productive activities which can have potential negative impacts on
+the environment.
+
+18. 
+Core Labor Standards. Mauritania has ratified all ILO conventions related to Core
+Labor Standards. Mauritanian law prohibits all forms of slavery and forced and bonded labor, as
+well as the trafficking in persons, and there are no reports that persons were trafficked through,
+to, or within the country. The Labor Code states explicitly that children must not be employed
+before the age of 14 in the nonagricultural sector unless the Minister of Labor grants an
+exception due to local circumstances. The GIRM has a functional labor inspectorate empowered
+to refer violations directly to the appropriate judicial authorities. Also, the Constitution provides
+for freedom of association and the right of citizens to join any political or labor organization. All
+workers, except members of the military and police, are free to associate in and establish unions
+at the local and national levels. General or sectoral agreements on wages, working conditions,
+and social and medical benefits are negotiated in tripartite discussion and formalized by
+government decree. Wages and other benefits also can be negotiated bilaterally between
+employer and union and the results of such negotiations are filed with the Directorate of Labor.
+
+19. 
+Regional Integration. Mauritania plays its part in a variety of activities at the regional
+level and is comrnmitted to enhancing effective cooperation with other countries in the region.
+Mauritania is a member of the Arab Maghreb Union4 and has participated in the meetings of the
+Euro-Mediterranean countries. In addition, Mauritania is working with Senegal and Mali, within
+the framework of the "Organisation de la Mise en Valeur du fleuve Senigal " (OMVS), on the
+development of the Senegal river basin. Mauritania is also working with Guinea-Bissau, Cape
+Verde, The Gambia and Senegal on the implementation of a fisheries resource management
+program, while a similar program is being implemented in coordination with Morocco and
+Spain. While not a member of the "Organisation pour l'harmonisation des droits des affaires"
+(OHADA), the GIRM recognizes the importance of sub-regional market integration and is
+actively implementing policy measures to harmonize its business law, fiscal and monetary
+policies.
+
+20. 
+Governance. The GIRM has prepared in consultation with civil society, private sector
+and development partners, a "General Framework for the National Program of Good
+Governance", covering the central government, parliament, judiciary, local governments, civil
+society and human rights. The UNDP and other donors are providing assistance to GIRM to
+prepare an action-plan setting priorities for each component in order to better establish the
+coherence of the ongoing actions and take advantage of possible synergies.
+
+21. 
+In the area of public resource management, Mauritania has made significant progress.
+This includes the recent preparation of medium-term expenditure frameworks (MTEF) for
+education and health, which have enabled the GIRM to shift the priority of public spending
+toward social sectors - a key component of the PRSP. The preparation of MTEFs for other
+priority sectors (rural development, urban development and infrastructure) has experienced some
+
+4Mauritania withdrew from the Economic Community of West African States (ECOWAS) in December 2000.
+
+Mauritania CAS 
+
+10
+
+delay, but along with the MTEF for all public expenditures, they should be completed before end
+2002. The goal of the MTEFs, including the public investment program is to be integrated fully
+with the macroeconomic framework. However, there is a need to enhance public expenditure
+tracking and evaluation. Although the monitoring of the HIPC-financed expenditures has
+improved significantly, as evidenced by the quarterly reports produced by the committee in
+charge of monitoring these expenditures, further actions are needed in other areas to: (i) identify
+all poverty-related expenditures; (ii) reinforce reporting on budget execution; (iii) strengthen the
+systems of internal and external audits, and (iv) prepare reports on the poverty impact of public
+spending.
+
+C. 
+
+ECONOMIC OUTLOOK
+
+22. Mauritania's economy has been transformed by the implementation of stabilization and
+structural policy measures since the early 1990s (Boxes 2, 3, 4, 5 and 6). 
+It is now liberalized
+and market-oriented and there is sound economic and financial management, sustained real GDP
+growth, good prospect for export diversification and a reduction in the incidence of poverty.
+
+(i) 
+
+External Environment
+
+23. 
+The variability of Mauritania's economic performance in the last ten years demonstrates
+the degree to which the economy remains vulnerable to exogenous factors. Of these, the most
+significant are: (i) fluctuations in world prices for its principal exports: iron-ore and fisheries
+products; (ii) climatic fluctuations, such as in rainfall and plagues (desert locusts and birds); (iii)
+international aid, given Mauritania's high dependency on aid for investments; and (iv)
+Mauritania's significant debt burden.
+
+24. 
+World prices and trade. The Mauritanian economy is highly vulnerable to both price
+fluctuations and changes in demand in world markets. Exports of goods and non-factor services
+were equivalent to about 40 percent of GDP in 2001. Iron ore and fisheries products accounted
+for nearly 100 percent of total merchandise exports. Mauritania is heavily dependent on fuel and
+food imports which accounted for some 36 percent of total imports (GNFS) in 2001; their price
+fluctuations have a major impact on the country's external terms of trade. Mauritania's terms of
+trade declined by 10 percent in 1999, improved by 4.8 percent in 2000 and by 4.9 percent in
+2001.
+
+25. 
+Climatic fluctuations. Cereals and livestock production remain heavily dependent on
+rainfall. Since the last CAS, Mauritania has experienced droughts, flooding and severe frost in
+the main agricultural regions. As a result, total cereal production declined from 223,200 tm in
+1999/00 to 207,200 tm in 2000/01. Climatic fluctuations also caused massive losses of livestock
+and rendered about 7,000 families homeless.
+
+26. 
+International Aid/Foreign Savings. For the foreseeable future, Mauritania will remain
+dependent on inflows of concessional external assistance for the implementation of its PRSP. To
+use this assistance most effectively, the GIRM, donors and principal creditors will need to
+improve further their coordination efforts to ensure that implementation of the PRSP is effective
+
+Mauritania CAS 
+
+11
+
+and that appropriate levels of financing are available for investment in basic infrastructure such
+as transport, urban and rural development, water supply and modernization of the economy.
+
+(ii) 
+
+Scenarios
+
+27. 
+The Government's macro-economic objectives for 2002-05 comprise: (i) sustaining an
+average real GDP growth rate of 5.8 percent; (ii) stabilizing inflation at about 3.7 percent; and
+(iii) increasing the Central Bank's international reserves to cover about 7.5 months of imports by
+2005. During this period, the GIRM will continue to pursue appropriate macroeconomic policies
+and deepen further 
+the 
+implementation of its reform programs, strengthen economic
+management, governance and modernization of the public sector apparatus and reduce poverty
+by at least 4 percent points.
+
+Table 1: Mauritania: Macroeconomic Framework, 2000-2005
+
+Economic growth and prices
+Real GDP (percentage change) 
+Nominal GDP (percentage change) 
+GDP Implicit deflator (percentage change) 
+Consumer price index (annual percentage change, 
+period average)
+
+Grossdomesticexpenditures 
+Consumption 
+Govemment 
+Non-government 1/ 
+Gross fixed investment 
+Government 
+Non-govemment2/ 
+Private 
+Gross national savings 
+Govemment 
+Non-government 1/ 
+Current account (including official 
+transfers) % of GDP
+Net exports of goods and services 
+Exports of goods and services 
+Imports of goods and services 
+Net factor income 
+Net transfers 
+Memorandum item
+Nominal GDP (in billions of Ouguiyas) 
+Govemment revenue/GDP, excluding grants 
+Govemment expenditures/GDP 
+Overall government balance/GDP 
+
+2000 
+
+2001 
+2002 
+Actual 3/ Prog. 3/
+
+2003 
+
+2004 
+
+2005
+
+5.0 
+11.3 
+6.1 
+3.3 
+
+111.8 
+81.6 
+17.3 
+64.3 
+30.3 
+7.5 
+22.7 
+10.2 
+31.1 
+4.7 
+26.4 
+0.8 
+
+-11.8 
+40.7 
+52.5 
+2.0 
+10.6 
+
+223.7 
+25.9 
+30.3 
+-4.5 
+
+4.6 
+9.8 
+5.0 
+4.7 
+
+112.6 
+86.0 
+15.6 
+70.3 
+26.7 
+8.3 
+18.3 
+10.0 
+21.0 
+2.5 
+18.5 
+-5.7 
+
+-12.6 
+40.0 
+52.6 
+-2.4 
+9.3 
+
+245.6 
+21.1 
+26.7 
+-5.6 
+
+5.1 
+8.9 
+3.6 
+4.0 
+
+5.5 
+9.4 
+3.7 
+3.8 
+
+6.1 
+10.0 
+3.6 
+3.5 
+
+(% of GDP)
+118.7 
+119.5 
+94.0 
+92.4 
+18.4 
+18.4 
+75.6 
+74.0 
+24.7 
+26.9 
+10.7 
+11.4 
+13.9 
+15.5 
+9.2 
+9.7 
+28.4 
+21.2 
+16.9 
+8.6 
+11.5 
+12.5 
+3.8 
+-5.7 
+
+-18.6 
+37.8 
+56.4 
+13.5 
+8.9 
+
+267.3 
+37.1 
+30.8 
+6.3 
+
+-19.3 
+37.8 
+57.1 
+6.2 
+7.4 
+
+292.5 
+28.8 
+31.0 
+-2.2 
+
+120.2 
+92.4 
+18.4 
+74.0 
+27.8 
+11.9 
+15.9 
+10.4 
+21.9 
+8.4 
+13.5 
+-5.9 
+
+-20.2 
+37.8 
+58.1 
+6.0 
+8.3 
+
+321.7 
+27.7 
+30.9 
+-3.1 
+
+6.4
+10.2
+3.6
+3.5
+
+120.7
+92.2
+17.8
+74.3
+28.5
+12.2
+16.3
+11.0
+21.7
+8.2
+13.6
+-6.8
+
+-20.7
+37.6
+58.3
+5.8
+8.2
+
+354.5
+26.7
+30.9
+-4.2
+
+l/ Includes public enterprises with SNIM.
+2/ The decline in the share of non-government investment to GDP reflects the decline in public enterprises' share
+which is partially offset by the increase in private sector investment share over the period 2000-05.
+3/ The delayed payment of the 2001 fish royalties explains the uneven movements in gross national saving,
+govemment balance and saving, the current account, and net factor income.
+
+28. 
+The PRSP acknowledges that achieving higher growth rates and accelerating poverty
+reduction will certainly involve substantial structural changes. This will imply diversifying the
+economic base, removing constraints 
+to private sector development, mobilizing savings,
+increasing the absorptive capacity and the competitiveness of the Mauritanian economy. The
+
+Mauritania CAS 
+
+12
+
+development of basic infrastructure will be key to underpin these objectives and will need an
+increased availability of concessional financial resources.
+
+29. While the medium term growth objective appears achievable, either a more positive
+scenario or a less positive one can be envisioned: (a) if the recovery of the global economy
+intensifies and if oil and other mineral exploration materialize in the next few years, growth
+would be higher than forecast and thus lead to a more sustained and faster reduction of poverty;
+or (b) if the recovery of the global economy is slower than anticipated, with the vulnerability of
+the economy to external shocks, the medium term growth and poverty reduction performance
+could be weaker.
+
+(iii) 
+
+Financial Requirements 
+
+|Box 
+
+7, Extemal Financing Requirements
+and Sources, 2002-2005 -'Base Case Suienario
+.(JS million)
+2002 
+
+203 
+
+Cota Rentairenents 
+(excl.allofficial lanfes) -
+Long-ierm debi amanizalion au7e / 
+1mF fineil 
+I*ncease in gross official re,enecs 
+Arream reduction 
+
+-/ 
+
+TetalRaumsr 
+
+Official h3ris 
+
+receipts 
+
+Ltng-erm loandi5burremers 
+S to Net direct foreign investment 
+oher capimal i neel 2' 
+
+Debt relief 
+
+2004 
+
+Proj. 
+
+2005
+
+Proj.
+
+PrOi 
+
+-973 
+
+-101.3 
+
+-119.9
+
+70.5 
+17.1 
+, 1 
+0 
+
+38.4 
+
+18.7 
+-3.7 
+
+69.1 
+
+61.3 
+13.9 
+33 
+0 
+
+35.8 
+
+19.9 
+0 
+
+55.7 
+
+62.4
+12.1
+23
+O
+
+38.1
+
+21.1
+2.8
+
+53.8
+
+Eat 
+
+02 
+
+7 
+74.3 
+0.4 
+86 
+7.5 
+
+.
+
+35
+36.9 
+42.6'
+17.7 
+-24.0 
+
+35.3 
+
+Financinggap 3/ 
+0 
+-38.7 
+-38.4
+'On prihcipal aftet traditional debt relief mechanisms only (i. e.excludes enhanced
+
+Z0.3 
+
+I 
+
+net ho....em 
+
+anc/al 
+
+rial(net trade credit + net liabilities ofbanking system),
+
+3i Assumed to be filled with debt relief extended by official bilateral creditors an
+
+-borrowingonhighlyconcessionalterms
+
+US$272.7 million to be financed from Officialtmnsferspayments
+
+30. Mauritania's 
+
+total 
+
+external 
+
+financing requirements are estimated at 
+
+US$690.3 million for the 2002-05 period. 
+Of this amount, about US$399 million are 
+expected to be generated from Mauritania's 
+
+own resources, 
+
+leaving a gap of about 
+
+external sources including debt relief At 
+the CG meeting held in Paris in December 
+
+2001, donors pledged adequate resources to 
+cover Mauritania's external financing gap 
+over the next three years which coincide 
+with the CAS period. The prospects for 
+disbursements of that high 
+level donor 
+financing, particularly for social sector and 
+
+other priority areas, appear favorable. 
+
+(iv) 
+
+Debt and Creditworthiness
+
+31. Mauritania ranks among the Highly Indebted Poor Countries (HIPC) and, as mentioned
+earlier, is very vulnerable to external shocks. Mauritania's total outstanding and disbursed
+external debt was estimated, at the end of 2001, at US$2.0 billion, equivalent to 212 percent of
+GDP. Multilateral debt, including use of IMF credit, accounted for 55 percent (and IDA alone
+for 23.3 percent), bilateral debt for 45 percent, and private and short-term debt for 0 percent.
+Mauritania has benefited from the Paris Club rescheduling under the Naples terms. Mauritania
+was declared eligible to benefit from the HIPC initiative on January 1999 and reached the
+Decision Point in January 2000. A detailed analysis of debt sustainability is presented in the
+Mauritania: President's Memorandum and Recommendation and Completion Point Document
+for the Enhanced Heavily Indebted Poor Countries (HIPC) Initiative which is to be presented to
+the Board at the same time as this CAS. In the post-HIPC context, it is particularly important
+that concerted efforts are made by GIRM, with the support of all donors, to continue to practice
+prudent debt management policies and avoid a build-up of new non-concessional official
+external debt.
+
+Mauritania CAS 
+
+13
+
+D. 
+
+THE CDF, PARTNERSHIPS AND PARTICIPATION
+
+32. 
+Comprehensive Development Framework. The GIRM, in coordination with donors and
+other development partners, has carried out substantial work in the context of the CDF. The
+main principles of the CDF -
+long-term vision, ownership, partnership and results focus - all
+feature strongly as core elements in Mauritania's PRSP and in this CAS. The long-term vision
+has been well formulated in the PRSP and the main objective of the Bank's program is to
+provide support to the GIRM to continue to implement the PRSP. The GIRM, donors and the
+Bank are working towards strengthening PRSP monitoring and evaluation, agreeing on a
+common set of PRSP implementation indicators to which donors will tie the performance of their
+aid programs, and developing more quantifiable and time-bound indicators of performance,
+particularly with respect to progress on reaching the Millennium Development Goals.
+
+33. 
+A feature of the CDF in Mauritania is the GIRM's leadership on donor coordination - at
+the Consultative Group (see next paragraph) as well as on an on-going basis in Nouakchott -
+which has allowed close coordination between the World Bank and all resident UN agencies,
+IMF, EU, AfDB, IDB, and bilateral donors. The CAS fully recognizes the leadership role being
+played by the GIRM which has been evidenced by the satisfactory way in which the PRSP was
+prepared and is being implemented, and by the GIRM's efforts to lead on donor coordination.
+
+34. 
+Consultative Group Meeting. At the fourth CG meeting in Paris in December 2001,
+multilateral and bilateral donors underlined the strong interest of the international community to
+assist Mauritania in achieving its development objectives. Over 200 representatives of private
+sector companies also attended, attesting to the very strong and growing international interest in
+Mauritania as a location for private investment. The GIRM acknowledged the need to further
+enhance its leadership of aid coordination in light of the large role external financing plays in the
+Public Investment Program (PIP) 5 and the PRSP. All development partners pledged their full
+support to the GIRM's efforts to improve donor coordination and effectiveness and to work
+towards harmonization of aid procedures. The CG has proven to be an effective tool for
+promoting the CDF approach, both by broadening participation from donors and the private
+sector and by strengthening the leadership role of GIRM. The Group agreed to continue to hold
+CG meetings every three years and to adopt new coordination measures for systematic
+information sharing and periodic reviews of the PRSP and PIP. The next CG will be held in late
+2004 or early 2005.
+
+35. 
+Partnerships & Participation. Since the last CAS, and particularly in the context of the
+PRSP, the GIRM has demonstrated its willingness to work in close partnership with the World
+Bank and other development partners, which was solidified during the December 2001 CG
+meeting. The partnership with civil society and stakeholders was deepened through the
+preparation of the PRSP and the CG6 . The participatory process used in the preparation of the
+PRSP and the PRSP Progress Report was extensive, involving representatives from the private
+sector, NGOs, elected officials, and civil society, as well as Mauritania's development partners.
+The experience of preparing and implementing the PRSP over the last two years has resulted in
+very high expectations from all actors (administration, civil society, private sector).
+
+5 At the CG meeting, Mauritania's development partners pledged about US$412 million to support PIP 2002-05 implementation.
+6 All documentation related to the PRSP and Consultative Group was posted in the GIRM's internet site www.mauritania.mr
+
+Mauritania CAS 
+
+14
+
+36. 
+The work of the World Bank Group in Mauritania has become increasingly participatory
+in the past several years. Donors and civil society at large are systematically consulted and have
+been fully involved in the preparation of investment operations, economic policy reforms,
+preparation of MTEFs for education and health, and organization of the CG. The Bank's
+operations have also been discussed with the press on a regular basis and the Information
+Center/Library of the Country Office has been opened to the public for several years.
+Participation has been and will continue to be an essential element for the implementation of
+both the PRSP and the CAS and, therefore, supporting the GIRM in facilitating participation,
+donor coordination and partnerships will continue to be part of the WBG's work in Mauritania.
+
+37. 
+Interaction on a project-by-project basis with NGOs has been part of the Bank's practice
+and the Bank is increasingly coordinating its programs with national and international NGOs and
+civil society. The Bank is pursuing more detailed sector-specific initiatives to enhance this
+collaboration. While collaboration with the donor community is excellent, the Bank believes
+that there is room for further improvement, in particular in cross-cutting areas/themes such as
+governance, decentralization, public sector reform and the environment. One recent example of
+effective coordination is the GIRM's leadership in preparing an action-plan based on the
+recommendations of the Integrated Framework exercise aiming at improving Mauritania's export
+competitiveness and integration into the world trade. The Bank, together with other donors, will
+assist the GIRM in implementing this action plan.
+
+38. 
+The CAS builds on the participatory process of the PRSP and pursues the goal of
+selectivity of activities to ensure greater complementarity with other donors. 
+In this regard,
+preparation of the CAS followed the participatory model set by the PRSP (Box 8). With respect
+to results focus, the key outcome of success of the CAS will be strong implementation of the
+PRSP and the Program Matrix in Annex B9 sets out a selection of results from the PRSP against
+which progress will be assessed. Finally, the CAS draws extensively on the lessons leamed from
+the implementation of the FY98-01 CAS and the results of the 2000 Client Survey (Box 12).
+
+39. 
+Collaboration with the IMF. Since 1992, staff of the Bank and the IMF have
+collaborated effectively to support the GIRM's macroeconomic and sectoral reform programs.
+Going forward, the Bank and the IMF will continue to support the implementation of the PRSP,
+the scope and emphasis of the second-generation reforms and the medium-term macroeconomic
+
+policies.
+
+Box 8: CAS Participatory Process
+
+| 
+
+In December.2001, the documents presented at the fourth Consultative Group included the full PRSP: and the draft PRSP Progress Report.
+Both documents laid out Mauritania's priorities regarding accelerated private sector-led growth and poverty reduction and were carried out
+in a fully participatory manner. Also, several sectoral papers/strategies prepared with donors assistance were presented.' The GIRM's
+leadership of the CG, as well as. of donor coordination on an on-going basis, has allowed the Bank and donors to discuss the PRSPl
+priorities in detail, decide together on specific areas of intervention depending on the comparative advantage of each donor and on
+requests from the GIRM for specific donor involvement in certain areas, work towards complementarity of activities and then commit
+assistance fully within this collaborative framework.
+In January 2002, the Country Team (CT) worked on the details of the issues to be raised in the CAS as prioritized in the PRSP and as
+agreed with partners during the CQ.
+In February 2002, the CT brainstonned together with the GIRM officials, donors and civil society in Nouakchott.
+* Brainstorming continued with GIRM in March 2002. IFC & MIGA staff participated. This brainstorming benefited 'reatly foni the First
+Annual Progress Report on the PRSP which had then become available and which provided further guidance for areas and sectors needing
+attention and Bank Group support.
+In late March 2002, the Bank circulated and discussed the draft CAS in Nouakchott with the GIRM officials, donorsi private sector, NGOs
+and civil society representatives. Comments and reactions were fully incorporated.
+
+.
+
+Mauritania CAS 
+
+15
+
+III. THE WORLD BANK GROUP COUNTRY ASSISTANCE STRATEGY FOR
+MAURITANIA DURING FY03-05
+
+A. 
+
+PROGRESS UNDER THE FY98-01 CAS AND LESSONS LEARNT
+
+40. 
+The overall objective of the FY98-01 CAS was to assist the GIRM to achieve accelerated
+growth and poverty reduction through: (i) maintaining macroeconomic stability; (ii) promoting
+rural development; 
+(iii) promoting urban development; 
+(iv) promoting private sector
+development; and (v) promoting human resources development. Significant progress has been
+made towards the first objective (see para. 15). Recent data indicate encouraging results in the
+second objective, particularly with respect to successful pilot exports of a broad range of fruits
+and vegetables which clearly confirm Mauritania's potential in crop diversification.
+
+41. 
+Progress in promoting urban development shows a mixed-record with slow progress in
+developing basic services to the cities in the interior of the country. 
+In Nouakchott and
+Nouadhibou, the GIRM has made efforts to develop basic infrastructure although this has been
+constrained by the high level of immigration to these cities. With reference to the fourth and
+fifth objectives, considerable progress has been made with the opening of all sectors to private
+investment and the implementation of regulatory policy measures as well as in improving key
+social indicators and in reducing poverty (Boxes 3 and 4). To assist the GIRM in reaching its
+development objectives and implementing its reform program, the Bank prepared several lending
+operations (Box 9).
+
+42. 
+A considerable amount of Economic and Sector Work (ESW) was prepared by the GIRM
+in partnership with IDA or carried out by IDA, including core ESW (Box 10). This work has
+established the knowledge and analytical base which underpins the Bank's policy dialogue and
+project design. A particularly important piece of analytical work was the 2001 Integrated
+Framework Report which analyzed trade issues and identified actions aimed at increasing trade
+opportunities and capacity. The action-plan of this report is being implemented by GIRM with
+the assistance of several donors.
+
+(i) What worked well
+
+43. 
+All but one of the ten projects under 
+implementation at the time of the Board 
+
+of these projects were rated as Satisfactory 
+
+discussion of the FY98-01 CAS has closed 
+and the one still-active project is due to 
+close by June 2002. At exit, all except one 
+of these ~~t 
+rated 
+Satisfactory 
+for Development Objectives 
+(DO) and 
+The 
+results 
+of the 2000 Client Survey show that the 
+GIRM has a positive perception of the 
+efficiency and effectiveness of the Bank's 
+
+Implementation Progress (IP). The results 
+
+assistance (Box 12). 
+
+Adj,,tment
+
+FY01FiscalReformSupportOperation 
+
+Box 9: Lending FY98-02
+
+s/t 
+
+FY01 Supplemental oil prices 
+Investment
+FY98 Health (SIP) 
+~~ FY99 Mining Sector Capacity Building) 
+
+~FY00 Cultural Heritage (LIL) 
+
+FY99 Nutrition (LIL) 
+FY99-Telecom and Postal Reform 
+FY00 Integrated Devt. Prog (APL) 
+FY00 Energy/Water/Sanitation Reform ITA) 
+
+FY02 Education Sector Developmet(AAPPL) SDR 
+
+FY02 Global Distance Leaming (LIL) 
+
+-
+
+total 
+
+SDR 
+
+SDR 
+
+SDR 
+
+SDR 
+
+SDR 
+
+22.4
+
+14.1
+
+36.5
+
+SDR 
+SDR 
+
+SDR 
+SDR 
+SDR- 
+
+SDR 
+SDR 
+
+17.8
+11.1
+
+3.6
+8.0
+
+3.8
+28.2
+
+7.4
+
+359.8
+
+2.6
+
+213:9
+
+Mauritania CAS 
+
+16
+
+44. 
+Under the FY98-01 CAS, the Bank's assistance 1- -
+to Mauritania covered both adjustment and investment 
+operations in support of the GIRM's economic and 
+social development 
+strategy 
+Twelve 
+operations were approved of which two were quick 
+disbursing adjustment credits. The adjustment credits -
+a one tranche Fiscal Reform Support Operation and a 
+
+(Box 10). 
+
+Group
+Ta Reorf
+
+Tar,If Rform
+Recommendations
+
+Boxl0: ESWFY9802
+Done by GIRM, with support from the World Bank
+
+'he Marginal Effective Rate of Taxation: Analysis and
+
+Potert3'.4ssessmeni and HouseholdSurvey
+
+Ubman Secitor Medium-tenrmExpenditure Framework
+
+Education Medium-Term Expwndirure Framework
+The Educational System in Mauritania
+RuraldevelopmeniStrategy
+Agro-business Strategy
+
+Supplemental Credit relating to the impact of oil Health: Medium-tenn Expenditure Framework
+
+prices on Africa - successfully supported Mauritania s 
+efforts to improve public finance management. They 
+
+were implemented in close coordination with the IMF- Mrifania Integrated Framework -Poverty Focused
+
+supported program. The investment operations are 
+supporting a range of sectors and now account for all of 
+Bank operations. 
+In the area of private sector 
+
+development, both 
+
+the Mining Sector Capacity Ia DA
+
+Trade Strate 
+-
+Integration of SVHinIo the National Economy
+Livestopk Dev elopment Strategy,
+Fisheries Sector: Stock Evaluation
+Arttsanial Fisheries D)evelopment;
+
+Building project and the Telecommunications/Postal Macro-mode,iing 
+Reform project have been highly 
+successful 
+in 
+
+C'F
+Cout 'roief 
+Financial Accountability (CPFA)
+Updated ProcurementAssessme't
+
+" 
+
+' 
+
+strengthening the GIRM's capacity to act as facilitator I___ 
+
+-_______ "'_.":___
+
+and regulator of utility sectors and mining activities and significantly increase private investment
+in Mauritania (Box 11).
+
+45. 
+Two rural sector APLs - a Rainfed Natural Resources Management project (PGRNP)
+and an Integrated Development Program for Irrigated Agriculture in Mauritania (PDIAIM)
+are contributing to provide consumers with new agricultural products, improving the balance of
+trade through a reduction in agricultural imports and the development of exports, and increasing
+agriculture value-added as well as generating income and employment for the population living
+in the Senegal River Valley and the rain-fed zones. The Energy, Water and Sanitation Sectors
+Reform TA credit has led to a successful restructuring of the legal and institutional framework of
+the water/sanitation and energy sectors and created an environment for private sector
+participation. In the social sectors, a Health SIP is supporting the implementation of the GIRM's
+program for the health sector while a Nutrition LIL is assisting the GIRM in testing the
+effectiveness of various activities to improve mother and child nutrition status and health through
+the provision of technical and financial resources. A Cultural Heritage LIL is assisting the
+GIRM of Mauritania in testing appropriate methods to determine how to safeguard and enhance
+its cultural heritage while contributing to the revitalization of economic activities through the
+creation of small-scale enterprises and by capitalizing on tourism potential.
+
+46. 
+Three new operations were approved in FY02: (i) a Global Distance-Learning Center
+LIL that will test mechanisms of public and private sector partnership to promote better access to
+and dissemination of information relevant for country development and policy reforms; (ii) an
+Urban Development Program APL which supports alleviation of urban poverty, by reducing the
+proliferation of slums and improving the living conditions of the poor, strengthening capacity for
+urban management and decentralization and involving communities in decision-making and in
+the provision of urban infrastructure and services; and (iii) an Education Sector Development
+Program APL in support of implementing phase I of the Education Sector Development
+Program which aims at completing universal primary education and expanding significantly
+
+Mauritania CAS 
+
+17
+
+access to the first cycle of secondary education, improving quality, and piloting new training
+arrangements in vocational and higher education.
+
+(ii) What worked less well
+
+47. 
+As it expanded its lending program, IDA came across two constraints common to Bank
+programs in many sub-Saharan countries: the relatively low absorptive capacity and the weak
+implementation and monitoring capacity. The main area of weakness relates to absorptive
+capacity of the rural sector APLs (PDIAIM and PGRNP) whereby the IDA available resources
+are disbursed slowly due to delays or difficulties with project implementation, although on the
+whole, these projects are being implemented in a satisfactory manner.
+
+Box 11: Making competition work
+
+The case of telecommunications
+In mid-1998, Mauritania faced several constraints as it embarked 'on a competitive program of private provision of infrastructure services -
+relatively high country risk, a small domestic market, and virtual absence of institutional capacity for regulating competitive utility sectors.
+By end-2001, highly successfil reforms in telecommunications overcarne these constraints well beyond expectations, and also laid the
+foundations for similar reforms in other utility sectors such as power and water. The monopoly of the state-owned telecommunications
+operator ended in mid- 2000 when the first mobile telecommunications license was granted through a competitive tender, generating proceeds
+of US$28 million. Eight months later in February 2001, a competitive tender for privatizing the state-owned operator yielded a post-
+privatization enterprise value of US$48 million or US$4,065 per access line, well above the previous record in Sub-Saharan Africa and the
+world average of US$2,500. Competing in all segments of telecommunications services, both operators have now multiplied access lines from
+20,000 at the beginning of 2000 to over 130,000 by end-2001. Furthermore, competition has accelerated investment in the sector which in the
+years 2000 and 2001 alone were equivalent to more than 10% of GDP.
+A windfall from competition has been the creation of 2000 telecommunications-related jobs in the informal sector, as over 300 micro-
+enterprises have sprung up in the main cities to sell prepaid calling cards and mobile handsets and repair telephone equipment Similar reforms
+in the power sector have benefited from a significantly improved country risk as well as a well-tested institutional framework for privatization
+and for regulation.
+The case of mining
+A preliminary analysis of mining sector reform policy shows a considerable increase in investment in mining exploration. FDI in 2001
+amounted to US$15 million compared to US$10 million for 1999. The area covered by the exploration has increased from 477,132 km2 in
+1999 to 532,136 km2 in 2000 but it went down to 389,338 km2 in 2001, due to the introduction of area fees, but this translated into an
+increase in investment per km2. The number of operators has gone from 6 in 1999 to 13 in 2001. Just three operators held about 96% of the
+area and more.than 80% of investment in 1999. In 2001 these percentages decreased to less than 7.0% of the area and 60% of investment.
+One can also observe the presence of an increased number of foreign investors: the only national operator (SNiM) has seen its share of
+investments in mining exploration go from 10% to 7 % between 1999 and 2001 while its share of exploration area i:overed has gone from
+53% to 15% in the same period.
+
+48. 
+These weaknesses have been recognized - in the Mid-Term Reviews of the two projects
+- as needing specific attention and action plans have been developed to strengthen capacity, to
+better streamline project activities with objectives and to outline clear performance indicators.
+This would allow planned disbursement rates to be more realistic and in line with absorptive
+capacity. With the goal of further increasing disbursement rates and project performance across
+the whole IDA portfolio, the January 2002 CPPR broadened this approach to all projects in the
+portfolio and recommended that they elaborate or enhance Annual Technical and Financial
+Execution Programs and include more targeted performance indicators which conform to those
+outlined at project appraisal. 
+It was also recommended that periodic progress reports on
+technical and financial management be prepared and discussed regularly between the Bank and
+the GIRM.
+
+49. 
+Another cause of difficulties in project implementation in the past is related to the
+tendency for project structures and some administrative agencies to evolve in a strictly sectoral
+context without adequate consideration of macro-economic engagements and constraints. 
+It is
+
+Mauritania CAS 
+
+18
+
+expected that the PRSP will mitigate this weakness as it provides the framework for the planning
+and implementation of all projects. Weak capacity of human resources, in project units as well
+as in the civil service as a whole, is also a reason behind poor project implementation,
+particularly with respect to building procurement capacity of project personnel. It is recognized
+that capacity building must be a core element of the Bank's approach so that adequately trained
+staff can be made available during the project preparation stage as well as the execution phase.
+Additional measures have been identified to increase collaboration within and across ministries
+to gather and disseminate key information to facilitate the monitoring of investment projects.
+
+Box 12: Lessons from Client Survey
+
+In 2000, a Client Survey in Mauritania was carried out among over fifty clients from a broad range of backgrounds. All aspects of the
+World Bank staffs interactions with clients as well as the Bank's technical know-how are among the areas rated most important and
+effective by clients in Mauritania. In particular, the Bank is rated highly in its reliability in delivering on commitments (which is also
+rated first in imnportance to clients), honesty, clarity of comnmunication, respect for the country's culture, accessibility and technical
+jcompetence. Also highly rated are,,the Bank's overall contributions to Mauritania's development in bringing aboit economic growth,
+strengthening and maintaining sound macroeconomic and trade policies, strengthening the private sector and the framework for a
+market economy and supporting programs that include all social groups in development. Bank policy advice is judged as realistic and
+providing a convincing rationale for reform.
+In project design and implementation, the Bank is effective in assuring that project benefits justify the costs, laying the institutional
+and managerial structures needed for imnplementation, resolving implementation problems and supporting the GIRM in its efforts to
+manage any negative project impacts.
+Areas of high importance to clients in Mauritania but where the Bank's effectiveness is below the average for the Africa Region,
+include giving appropriate priority to poverty reduction in the Bank's program of support, respecting Mauritania's social priorities,
+providing recommendations that are practical, establishing the conditions for long-term project sustainability aid promoting private
+involvement in effective delivery of public services.,
+Overall, the work of the Country: Office in Mauritania is judged as more effective than average for the Africa Region and is
+particularly effective at improving the understanding of the Bank's role and program of assistance and helping to make project
+implementation efficient.
+On the strategic issues of building effective partnerships, the World Bank is judged as working well with others in Mauritania.
+Clients agree fairly strongly that the Bank works in partnership with the GIRM, works harmoniously with othder donors to further
+Mauritania's development and is ready to learn from its partners. With respect to resource mobilization, clients gave fairly good
+ratings to the Bank's effectiveness in helping to attract project co-financing from, other donors and using consultative groups to
+advance donor support for Mauritania's development agenda. The Bank is rated as average in effectiveness at helping the GIRM
+obtain maximum benefit from the synergy between private and public investment.
+
+(iii) Mauritania's Performance under the FY98-01 CAS
+
+50. 
+
+In the area of macroeconomic
+
+stabilization, key macroeconomic
+improved s ady ad t 
+
+indicators improved steadily and the 
+
+stabinicatior 
+
+IMF has successfully completed all 
+
+five mid-term reviews of the Poverty 
+
+Reduction Growth Facility (PRGF). 
+
+Reduction Growth rFacility (PRGF. 
+
+Regarding private sector development 
+
+the GIRM(cid:4) 
+
+has fully implemented all 
+
+mining and oil exploration rose, as a 
+
+agreed policy reforms and private 
+investment 
+in 
+telecommunications, 
+result of both 
+the 
+privatization 
+result of both 
+the privatization 
+program and the liberalization of the 
+economy, 
+from US$6 million 
+in 
+
+Box 13: Mauritania's Performance under the High Case Scenario
+Over the period 1997-2001 Mauritania has successfully achieved all but
+
+one of the benchmarks envisaged under the "high case scenario"
+presented in the 1997 CAS.
+
+'Benchmarks met: 
+
+C
+
+* Macroeconomic stabilization (Efficient and diversified revenue base,
+Implementation of tariff and direct tax reform)
+
+to pivate investment)
+
+. Efficient and effective management and allocation of public resources,
+private sector development (Opening of telecomm., water and electricity
+. Implementation of agreed judicial and regulatory policy actions
+. Eliminate obstacles for entry and factor mobilization in transport
+activites, 
+
+-
+
+* Satisfactory portfolio'imnlementation
+Benchmark not met:
+
+. Vaccination of children <I year >75% (Actual rate 670%)
+. Primary enrollment ratio Ž 90% 
+(Actual ratio 88%)
+
+Mauritania CAS 
+
+19
+
+1996/97 to about US$150 million in 2000/01. As for the social indicators, these have improved
+vis-a-vis those prevailing in 1996. With respect to portfolio performance, the last Country
+Portfolio Performance Review (CPPR) was carried out in January 2002 and assessed that project
+implementation has been good overall, though somewhat slower than projected.
+
+Box 14: Bank Group's Role in the Context of the Overall Donor Effort in Mauritania in 2001
+IDA as Lead Donor [ 
+IDA 
+IMF/EU/FR/GER
+EU/FR/GER/AfDB/IDB/IFAD/JN/FAO/UNDP/IDA
+EU/FADES/AfDB/FR/JN/FAO
+FAO/IDA
+IMF/WTO/UNDP/UNTAC/ITCADA
+
+Other Donors
+
+Specific Interventions 
+Macroeconomics 
+Rural Sector 
+Fisheries 
+Livestock 
+Trade/export diversification 
+(Integrated Framework)
+Private Sector/econ. regulation 
+Energy/Water/Telecom 
+Mining 
+Urban Dev. 
+FinanciaUBanking Sector 
+e-government 
+New Technologies
+Roads 
+
+Decentralization 
+
+Land Management 
+Micro-finance 
+Rural energy 
+Rural Irrigation 
+
+IDA
+IDA 
+IDA 
+IDA 
+
+IDA
+
+IDA 
+IDA 
+
+IDA 
+
+IDA 
+
+IDA 
+IDA 
+
+FADES/AfDB/EU/UNDP
+EU/FR
+EU/FRiGER/UNDP
+IMF/IDA
+
+EU/AfDB/IDB/FADES/FR/China
+
+FR/UNDP/IDA
+
+FRIGERIUNDP/IDA
+FR/GERIUNDP/IDA
+FADES/UNDPMDA
+IDB/FADES/IFAD/FR/GER/JN/UNDP
+
+FR/AfDB/IDBfUN/JN
+EU/AfDB/IDB/UN/FADES/FRIGER
+
+EU/FR/GER
+
+UNDP
+
+UNESCO/FR/China/lDA
+
+UN/WHO/IDA
+
+FRIDA
+EU/FR/GER/IDA
+IMF/FR
+IMF/IDA
+IMFIUNDP/FR/IDA
+IMF/IDA
+
+IMF
+IMF/UNDP/AfDB/FR/GER
+
+.s 
+
+a E ° 
+
+> 
+
+o 
+
+Education Sector 
+. Health Sector 
+| go gFinancial Services 
+F 
+Nutrition 
+
+o , u gt A Culture 
+
+_ -
+
+3. 8 
+
+' 
+
+Iw > 
+
+.a i3 
+
+HIV/AIDS 
+Judicial Refonn 
+Public Sector 
+Public Resource Mgmt 
+Tax /Tariff Reform 
+Governance 
+.Transparency/Financial 
+
+Accountability
+
+Fiduciary Framework 
+Capacity Building 
+
+(iv) 
+
+IFC and MIGA Activities
+
+51. 
+IFC has ongoing operations in agribusiness and fisheries. 
+It has approved an equity
+participation in one bank (GBM), the extension of credit lines to two banks (GBM, BMCI) and is
+also considering possible investments in other commercial ventures (e.g. fish processing,
+furniture, leasing company). IFC provided privatization advisory services for the privatization of
+the state telecommunications operator, effectively complementing the focus of the Bank in
+creating a pro-competitive regulatory framework. On January 15, 2000, MIGA approved its first
+
+Mauritania CAS 
+
+20
+
+guarantee for Mauritania for US$66.3 million related to the first mobile telecommunications
+network. Mauritania has participated in all Annual African Mining, Investment and Business
+Opportunities Symposium organized by MIGA, and has indicated that it will continue to
+participate in these Annual Symposiums.
+
+(v) 
+
+Lessons Learnt
+
+52. 
+The lessons learnt from the experience of the previous CAS, together with the results of
+the Client Feedback Survey (Box 12) provide some clear messages about ways in which the
+World Bank can improve its effectiveness including: (i) greater focus on poverty reduction and
+other social priorities; (ii) ensuring elements necessary for long-term project sustainability are in
+place; (iii) promoting private involvement in delivery of public services; (iv) devote more time
+and effort to build understanding of reforms and commitment to them at both the political and
+administrative levels; and (v) provide better targeted capacity building efforts. In particular, the
+significant progress made on macroeconomic and structural reforms, in contrast to the weaker
+performance at 
+the sector 
+levels, 
+indicates 
+that the Bank's assistance program should
+increasingly focus on multi-sectoral and cross-cutting public sector management and capacity
+building issues. Finally, the Client Feedback Survey also concluded that the Bank should
+strengthen its assessment of the most effective sequencing and timing of reforms.
+
+B. 
+
+STRATEGIC ELEMENTS OF THE FY03-05 CAS
+
+53. 
+The World Bank Group strategy for FY03-05 will continue, as in the FY98-01 CAS, to
+be fully supportive of the GIRM's development program. However, the context for World Bank
+support has now changed in several fundamental respects.
+
+54. 
+The PRSP Framework. The GIRM has committed itself to the PRSP process and has
+successfully implemented its program for more than 12 months, as documented in the First
+Annual PRSP Progress Report. The Bank's CAS should be regarded as a Business Plan that
+outlines the Bank's modalities of support to the implementation of the PRSP over the coming
+three years. The CAS also emphasizes selectivity and complementarity with the efforts of other
+development partners, all of which fall into the PRSP framework.
+
+55. 
+Focus on Capacity Building. The PRSP recognizes that the GIRM's weak administrative
+capacity has become the binding constraint on Mauritania's ability to absorb concessional
+assistance, both in the form of HIPC-related debt relief and new concessional funding. For this
+reason, this CAS increases the emphasis on capacity building, not only in IDA-funded PIUs, but
+also more broadly in core government ministries and agencies, both central and local. The focus
+of the Bank's assistance program will thus shift away from the more traditional approach of
+adjustment and 
+investment operations 
+towards sectoral and cross-cutting public sector
+management and capacity building issues.
+
+56. 
+Programmatic Approach. The Bank's strategy will be focused on support to the PRSP
+through a series of Poverty Reduction Support Credits (PRSC), to be disbursed against progress
+in policy reforms and institutional capacity building. The PRSCs are justified for the following
+reasons: (i) macroeconomic progress achieved to date has been strong and there has been no
+need for adjustment lending since FY01; (ii) the fiduciary framework is improving (see next
+
+Mauritania CAS 
+
+21
+
+paragraph) to allow the move to programmatic support and the PRSCs will focus on continued
+reforms in public sector management, procurement and financial management, thus further
+strengthening the fiduciary framework and the overall cross-sectoral approach; (iii) the MTEF
+already prepared in the health and education sectors provides a comprehensive sectoral focus and
+permits the piloting of health reforms and capacity building under a PRSC which is a more
+effective mechanism to address constraints at the sector level than a limited investment
+operation; and (iv) tying the PRSCs directly to the PRSP will allow for greater country
+ownership and enhanced donor collaboration.
+
+57. 
+Fiduciary Issues. Mauritania is on-track to meet the Fiduciary Safeguard requirements
+for phasing-in of PRSCs during FY03. The GIRM is already implementing the action plan
+recommended by the Country Procurement Assessment Review (CPAR) carried out in 2001. By
+September 2002, 
+it will have completed a Country Financial Accountability Assessment
+(CFAA), with an associated action plan, as well as the Report of the Observance of Standards
+and Codes (ROSC). 
+It is also ready to start an environmental management capacity building
+program in key ministries. A key part of the Bank's dialogue with the GIRM in FY03 therefore
+will be to agree on how to link each of these implementation plans with the series of PRSCs.
+The Bank will also continue to assist the GIRM, in coordination with the IMF, France, UNDP,
+Germany and the EU, in the implementation of the National Program of Good Governance. The
+Bank's strategy in this area is to assist the GIRM to build an efficient, market-oriented public
+sector apparatus and a strong civil service able to practice sound economic management.
+
+58. 
+Transitional CAS. As the GIRM gains experience in implementing the PRSP, with the
+support of the PRSC program, it is expected that PRSCs will take a progressively larger part of
+the lending program. During this period, the share of traditional investment lending, and the
+importance of the associated PIUs, will therefore decline. Nonetheless, the shift will be gradual.
+The PRSCs will be phased-in as the basic building blocks are put into place and the Bank will
+continue with select investment projects which directly target poverty reduction and institutional
+strengthening. These would include a supplemental credit for Mining Sector Capacity Building
+(crucial for the diversification of mining revenues), the Financial Sector Reform Project and the
+Natural Resource Management Capacity Building Project. A detailed matrix linking Bank Group
+objectives and instruments to the PRSP is provided in Annex B9.
+
+59. 
+Core Diagnostic ESW. The shift to the PRSC approach will continue to be underpinned
+by the Bank's core diagnostic ESW. During FY03-05, the Bank Group will continue, in close
+coordination with the IMF, to assist the GIRM in maintaining and consolidating macroeconomic
+stability and improving public resource management, external debt and foreign exchange
+management. The preparation of a Country Economic Memorandum (CEM) is planned for
+FY03. Together with the IMF, the Bank will assist the GIRM in building capacity for
+quantitative analysis of growth and poverty reduction (revising the macroeconomic model to
+simulate the sources and effects of different growth scenarios). The Bank will continue its
+support to GIRM for preparing sectoral PER/MTEFs and for developing poverty and social
+impact analysis. Core aspects of the Bank's M & E work will include assistance in: (i)
+conducting poverty diagnosis and updating the poverty profile, (ii) strengthening the Statistical
+Office (ONS) 
+to develop better social and poverty 
+indicators; and (iii) putting in place
+institutional mechanisms to ensure feedback from monitoring agencies to policy makers. The
+
+Mauritania CAS 
+
+22
+
+Bank will also continue to assist the GIRM, in coordination with the IMF, EU, UNDP, France,
+and Germany, in implementing its National Program of Good Governance.
+
+Box 15. IDA Base-Case Assistaince Program for Mauritania;(FY@35)
+
+'_____________ 
+, 
+
+Lsending/lnvestment (US$110 million),, 
+
+-
+
+FY03 
+
+Financial Sector Reform 
+PRSC I 
+Supplemental Credit for 
+Mining Sector Capacity 
+Building project
+Multi-Sectoral HIV/AIDS 
+and Communicable
+Diseases Project (MAP)*
+Partial Risk Guarantee for
+SOMELEC Privatization 
+TOTAL 
+
+15.0 
+15.0 
+5.0 
+
+(15.0)
+
+10.0
+45.0 
+
+FY04 
+
+FY05.,
+
+PRSC 11 
+Water Supply project 
+
+15.0 
+20.0 
+
+PRSC 111 
+Natural Resource Management 
+Capacity Building project
+PGRNP 11 project 
+
+15.0
+5.0
+
+10.0
+
+TOTAL 
+
+35.0 
+
+TOTAL 
+
+30.0
+
+; BaseCase Non-Lending Tasks and'ESWI 
+
+FY03 
+
+FY04 
+
+FY05.
+
+. PRSP monitoring 
+. IDF grant for Judicial Reform and Private 
+Sector Development
+
+. Country Procurement Assessment Review
+(CPAR)
+
+. CEM 
+. Economic Regulation 
+. Country Financial Accountability 
+assessment (CFAA)
+. Regulatory framework oil sector
+. PRSP Monitoring
+. IDF grant for PRSP implementation
+. IDF for Procurement Reform
+. IDF grant on Legal Status of Women
+. IDF grant for Judicial Reform and
+Private Sector Development
+
+FY03 
+
+.
+
+FY04 
+
+-
+
+FY05' 
+
+_
+
+High-Case Scenario (US$140 million)
+
+Financial Sector Reform 
+PRSC I 
+Supplemental Credit for 
+Mining Sector Capacity 
+Building project 
+Multi-Sectoral HIV/AIDS
+and Communicable
+Diseases Project (MAP)* 
+Partial Risk Guarantee for
+SOMELEC Privatization 
+TOTAL 
+
+15.0 
+15.0 
+
+5.0
+
+(15.0)
+
+10.0
+45.0 
+
+PRSC 11 
+Water Supply project 
+PGRNP 11 project 
+
+20.0 
+30.0 
+10.0 
+
+PRSC 111 
+PDIAIM 11 
+Natural Resource Management 
+Capacity Building project
+
+20.0
+10.0
+5.0
+
+TOTAL 
+
+60.0 
+
+TOTAL 
+
+35.0
+
+FY03 
+
+-
+
+FY04 
+
+! 
+
+High-Case Non-Lending Tasks and ESW 
+
+.
+
+.
+
+i 
+
+:
+
+Base-Case plus: 
+. Gender Assessment 
+
+Base-Case plus: 
+Labor market study 
+| Private Participation in infrastructure 
+. Issues and Perspectives of the housing 
+sector 
+| Market dynamics in the health sector
+*This project does not affect IDA allocation as it is part of the Africa Regional MAP
+
+| 
+
+Base-Case plus:
+. Consultative Group
+. Agriculture statistics
+. Rural business development services
+| . Development prospects of Arabic Gum
+
+Mauritania CAS 
+
+23
+
+C. 
+
+ASSISTANCE PROGRAM
+
+The Four Strateyic Axes of the PRSP
+
+(i) 
+
+Accelerating private sector-led growth
+
+60. 
+Private sector-led growth 
+is critical to poverty reduction, income generation and
+employment opportunities. Given Mauritania's proximity to European markets, a dynamic
+private sector, relatively low labor cost, and a decade of comprehensive and sustained structural
+reforms, Mauritania has significant potential for private sector driven export-oriented growth.
+Unleashing that potential requires preserving a stable macro-economic framework and enhancing
+Mauritania's 
+competitiveness, 
+improving 
+public 
+resource management, 
+developing
+infrastructure, modernizing and strengthening the judiciary system and developing a sound and
+diversified financial system. To help the GIRM make progress in these areas, the Bank's
+strategy provides for using the full range of services (lending, ESW and technical assistance,
+supplemented by IFC services and lending and by MIGA advisory services) towards: (i)
+removing remaining barriers to competition and factor mobility; (ii) improving the legal and
+regulatory environment; (iii) further streamlining tax regulations; (iv) exploiting new market
+opportunities; (v) facilitating savings mobilization and access to services and credit, and
+developing financial intermediation; (vi) lowering production costs; (vii) increasing private
+sector participation in the delivery of public services; and (viii) increasing internal/external
+competitiveness.
+
+61. 
+
+ESW and Advisory Services
+
+Base Case
+
+* The findings of recently completed studies on "Rural Development Strategy", "Agro-
+business Strategy", "Livestock Development Strategy", "Integrated Framework - Poverty
+Focused Trade Strategy", "Micro-Finance Development Strategy", "Fisheries Resource
+Management" and "National Strategy for the Development of New Technologies", as well as
+of the ongoing "Financial Sector Development" and "Economic Regulation" studies will be
+used 
+to address concerns regarding 
+increased private sector participation 
+in these
+productive/service sectors.
+
+* The Bank will provide technical advice on the restructuring of rural development institutions
+
+and associations.
+
+* Based on the recommendations of the "Fisheries Resource Management" study, the Bank
+will continue its policy dialogue with GIRM and donors, on how best to implement a
+comprehensive Fisheries Resource Management System. Concrete actions in the areas of
+research, surveillance, 
+infrastructure, transformation of fisheries products and artisanal
+fisheries development are being supported by the EU, FAO, AfDB, FADES, Germany,
+France and Japan.
+
+* The Bank will provide policy advice in assisting the GIRM to prepare a legal and regulatory
+
+ftameworkfor the sustainable development of the oil sector.
+
+Mauritania CAS 
+
+24
+
+* The Bank will continue to assist the GIRM to attract foreign direct investment (FDI), in order
+to broaden and diversify its productive base and upgrade its technological base so it can be
+translated into higher and sustained growth.
+* The Bank intends to continue to coordinate with MIGA, IFC and the African Project
+Development Facility (APDF) to identify investment opportunities, promote small and
+medium enterprise development, and provide technical assistance and advisory services to
+the private sector.
+* An IDF grant for Judicial Reform and Private Sector Development (FY03) will aim at
+strengthening the office of the Inspecteur de Juridique, supporting the establishment of a
+legal information center, implementing reforms in court administration and strengthening the
+new Chambre de Commerce and the Comite national de concertation Etat-Secteur prive to
+become educated clients of the judiciary and promoters of good justice.
+
+High Case
+* 
+In the high case scenario, the Bank also envisages providing assistance to the development of
+agricultural statistics as well as a census on agriculture and livestock and will conduct a
+study of rural business development services to strengthen and harness the synergies between
+rural communities/farmers organizations supported by IDA's programs (PDIAIM and
+PGRNP) and small-scale, private, rural enterprises in order to boost farm productivity,
+generate rural non-farm income, and increase rural non-farm employment opportunities to
+fight poverty in rural areas.
+
+62. 
+Lending. The above analytical framework will form the basis for the following planned
+investments:
+
+Base Case
+
+* To assist the GIRM in developing financial intermediation, attracting savings and utilizing
+such savings for economic growth while promoting competition in the financial sector, the
+Bank will support a Financial Sector Reform Operation (FY03).
+* A program of PRSCs (FY03-04-05) will be prepared to assist the GIRM in: (i) strengthening
+public sector management and financial management; (ii) implementing a full judiciary
+reform and capacity building; and (iii) supporting managerial, institutional and capacity
+development in the Ministry of Finance, the High Commission on Poverty Reduction and
+Human Rights and the Ministry of Health.
+* To assist the GIRM in the privatization of SOMELEC (the national electricity company),
+IDA is preparing a Partial Risk Guarantee for up to US$ 10 million.
+* The IFC intends to intensify its activities in Mauritania by expanding its operations to the
+fisheries, industry and banking sectors.
+
+* 
+
+In the livestock sub-sector, the Bank will continue to support the reform of pasture and
+rangeland management through the second phase of the APL Rainfed Natural Resource
+Management Project (PGRNP) (FY05).
+
+Mauritania CAS 
+
+High Case
+
+25
+
+* Should the CAS move to the high case, then the preparation of the second phase of the APL
+
+Rainfed Natural Resource Management Project (PGRNP) will be accelerated from FY05 to
+
+FY04.
+
+* A second-phase of the eleven-year APL Integrated Development Program for Irrigated
+
+Agriculture (PDIAIM)7 (FY05) will also be brought forward from FY06 to FY05. This APL
+will continue to support the objectives of private sector development, capacity building,
+poverty reduction, rehabilitation of irrigated agriculture, land tenure, provision of basic social
+and economic rural infrastructure, environmental protection in the Senegal River Valley,
+promoting agriculture export diversification and helping agricultural producers to meet the
+necessary sanitary and phyto-sanitary standards.
+
+(ii) 
+
+Growth Anchored in the Economic Environment of the Poor
+
+63. 
+)While Mauritania has made good progress in the modernization of its basic infrastructure
+by privatizing telecommunications and in launching the privatization of electricity, by building
+and maintaining main roads and by negotiating concessions with the private sector to manage
+urban water distribution in the slums and serviced sites, rapid urbanization has not been
+accompanied by sufficient investments in urban and rural infrastructure, hence the emergence of
+slums around the major cities and the isolation of most rural areas. A large part of the urban
+population suffers from low living standards with very poor access to basic services such as
+roads, water, sanitation, electricity, and waste disposal services.
+
+64. 
+
+ESWandAdvisory Services
+
+Base Case
+
+* Given 
+the 
+importance of basic 
+infrastructure 
+to improve 
+living standards and 
+the
+competitiveness of the Mauritanian economy, the Bank will help the GIRM to maintain and
+expand its infrastructure services through enhanced public sector management and the
+refocusing of public investment in the infrastructure sector by assisting in the preparation of a
+MTEFfor the Infrastructure Sector and by continuing its work on Municipal Taxation.
+
+High Case
+
+* The Bank will also prepare a study on "Private Participation in Infrastructure and Supply
+Chain " (FY04) and on "Issues and Perspectives of the Housing Sector" (FY04).
+
+7Water resource management issues are dealt with within the framework of the OMVS regional project.
+
+Mauritania CAS 
+
+65. 
+
+Lending
+
+Base Case
+
+26
+
+* 
+
+In FY02, IDA approved an Urban Development Program APL to: (i) support Mauritania's
+central and local governments to improve living conditions and promote employment
+opportunities in the main towns and, in particular, in slums; (ii) support decentralization; and
+(iii) strengthen the institutional framework and capacity for urban and land management at
+the central and municipal levels.
+
+* The Bank also plans to participate in the financing of the Aftouf-Es-Saheli Water Supply
+Project (FY04), for US$20 million, which aims at providing a more cost-effective and
+environmentally sustainable solution to Nouakchott's current and projected demand for
+water. A project supporting the environmental and social mitigation of the OMVS multi-
+donor regional power project was presented to the Board in FY98 which, inter-alia, is
+providing support to the Governments of Mauritania, Mali and Senegal to develop and sign
+the Water Charter for the Senegal River. Completion and signature of this water charter will
+be a crucial building block in the development of the Aftout-Es-Saheli project.
+
+High Case
+* The lending amount for the Aftouf-Es-Saheli Water Supply Project (FY04) will be increased
+to US$30 million.
+* The second-phase of the eleven-year APL Integrated Development Program for Irrigated
+Agriculture (PDIAIM) (FY05), mentioned above, will be brought forward to FY05.
+
+* The preparation of the second PGRNP project would be accelerated from FY05 to FY04.
+
+(iii) Developing human resources and ensuring universal access to basic infrastructure
+and services
+
+66. 
+As stated in the PRSP, the poor are particularly concerned about their lack of access to
+basic services such as primary education, primary health care, clean water and sanitation. Given
+that these services have a major impact on the quality of life of the population, and that achieving
+the MDGs will necessitate significant improvements in these sectors, IDA will assist the GIRM
+in improving their delivery. As a general rule the Bank will ensure that gender aspects are fully
+taken into account and reflected in its ESW and in the design and implementation of investment
+operations.
+
+67. 
+In the health sector, the Bank will support the GIRM towards achieving the following
+specific goals: (i) decreasing under 5 mortality and maternal mortality by 25 percent by the end
+of 2004, as well as reducing fertility and malnutrition; (ii) reduce the burden of expenditures on
+health on the poor; and (iii) promote participation and involvement of communities and users in
+the management and delivery of health interventions. The Bank will therefore support the
+development of the primary and secondary health services along the following strategic
+directions: (i) increase the availability and quality of human resources for primary and secondary
+services in the rural areas; (ii) improve access to functional services including equipment to
+
+Mauritania CAS 
+
+27
+
+conduct outreach activities 
+to the village and household 
+levels; (iii) ensure continuous
+availability of essential low cost drugs and other essential consumables; (iv) improve quality of,
+and stimulate demand for, essential health interventions affecting health indicators including
+malaria, HIV/AIDS and TB control as well as maternal and child health services; (v) implement
+financial protection including risk sharing and subsidy mechanisms to raise financial access to
+services of the poor and protect them from the impoverishing effect of out-of pocket spending on
+health including third party payment and community financing mechanisms; (vi) support
+decentralized participatory management of health services through the institutionalization of
+health committees and promotion of participation by women and the poor; and (vii) the annual
+analysis of the efficiency and equity of public expenditures on health through the development of
+a public expenditures monitoring mechanism.
+
+68. 
+In the education sector, the Bank will assist the GIRM, together with other development
+partners, to implement the first phase of its Educational Sector Development Program (ESDP),
+which aims at: (i) implementing bilingual education at the primary and secondary levels; (ii)
+improving access and equity; (iii) enhancing quality and increasing the internal efficiency of the
+education system; and (iv) improve the relevance and the external efficiency of the vocational,
+technical and higher education levels. Expected outcomes at the end of the first phase include:
+universal access to primary education, increased completion rates, expanded access to secondary
+education and improved quality of education at all levels.
+
+69. 
+
+ESW and Advisory Services
+
+Base Case
+
+* The Bank will continue to support the national goals and strategic options outlined in the
+PRSP and will work closely with the GIRM to measure the progress of the health and
+
+education sectors towards achieving the Millennium Development Goals by focusing, inter-
+
+alia, on reducing disparities between the urban and rural areas as well as between richer and
+poorer groups. This will include support for: (i) yearly rapid surveys measuring malnutrition,
+immunization rates, use of bed nets, HIV rates, primary school enrollment rates, and literacy
+rates; and (ii) a Demographic and Health survey in 2004 to measure progress in terms of
+health outcomes: under 5 mortality, fertility and maternal mortality.
+
+* The IDF grants for the promotion of the application of the law and the advancement of the
+legal status of women andfor PRSP implementation will both be extended into FY03.
+
+High Case
+
+* The Bank will conduct an overall analysis of the Market Dynamics in the Health Sector
+(FY04) including: (i) an analysis of the health labor market focusing on demand, monetary
+and non monetary incentives in the health sector in relation to the internal and global health
+market, in order to support the policy dialogue regarding human resources development and
+retention in the health sector; (ii) an analysis of both public and private spending on health
+through preparing and institutionalizing National Health Accounts; and (iii) an analysis of the
+pharmaceutical market, drug prices in the formal and informal sector, importance of use of
+fake drugs and incidence on the health sector.
+
+Mauritania CAS 
+
+28
+
+* The Bank will conduct a Labor Market Study (FY04), in coordination with the Chamber of
+Commerce, the Federation of Employers, the ONS and the NGO community to investigate
+employment creation opportunities and training needs and increase the relevance of training
+and employment creation in accordance with the signals of the labor market.
+
+* The Bank will conduct a Strategic Country Gender Assessment (FY03) to provide a
+foundation for addressing the gender dimensions of growth and poverty reduction and to
+assist the GIRM in identifying priority gender-responsive interventions.
+
+70. 
+
+Lending
+
+Base Case
+
+* The Bank's strategy is to assist the GIRM via an APL Education Reform Sector Program,
+approved in FY02, to: (i) implement bilingual education at the primary and secondary levels
+of education; (ii) improve access and equity; (iii) enhance quality and increase the internal
+efficiency of the educational system; and (iv) improve the relevance and external efficiency
+of the vocational, technical and higher education systems.
+
+* The PRSC program (FY03-04-05) will, 
+inter alia, 
+focus on supporting managerial,
+institutional and capacity development in the Ministry of Finance, the High Commission on
+Poverty Reduction and Human Rights and the Ministry of Health.
+
+* The Bank's assistance to the health sector and, more generally, to social protection issues
+will continue within the framework of the ongoing Health Sector Investment operation and
+the the planned PRSCs mentioned above, particularly with respect to institutional and
+capacity building.
+
+* 
+
+In the context of the Multi-Sectoral AIDS Program for Africa (MAP), the Bank will prepare a
+
+project in FY03 to keep the prevalence of HIV/AIDS at the current low level and, in parallel,
+reduce the incidence of other communicable diseases.
+
+High Case
+
+* 
+
+In the high case scenario, the scope of the PRSCs will be extended to assist in the financing
+of the proposed Universal Access Strategy which will involve developing public-private
+partnerships for working towards universal access of the population to basic infrastructure
+and services such as water, energy, electricity and telecommunications. Therefore, the
+amount of PRSC II and III will be increased from US$15 million to US$20 million.
+
+(iv) 
+
+Institutional Development and Governance
+
+71. 
+Despite encouraging results from structural reforms, privatization, and decentralization of
+some GIRM services and functions to municipalities, the GIRM's institutional apparatus needs
+to be fully adapted to its new role of promotion and regulation. Regarding the institutional
+framework, Mauritania has, as a result of its high aid-dependence, developed a dual structure for
+managing sectoral strategies and projects. 
+Sectoral Ministries and donor-financed Project
+Implementation Units (PIUs) co-exist side by side, each with separate authority to hire staff,
+
+Mauritania CAS 
+
+29
+
+commit resources and sign contracts. 
+In general, Ministries have very limited administrative
+budgets, low salaries, and therefore under-qualified and poorly motivated staff. In many cases,
+Ministries are almost entirely dependent on their associated PIUs for higher-level technical
+expertise and basic logistical necessities, such as vehicles and computers. Rather than
+contributing to capacity building in Mauritania, the existence and dominance of these PIJs have
+become a major obstacle to developing a strong public service, both at the central and
+decentralized levels. The focus of the Bank's assistance program will thus shift away from
+building institutional and human capacity through traditional investment operations with PIUs:
+rather, it will concentrate on overall public sector management and cross-sectoral capacity
+building.
+
+72. 
+ESW and Advisory Services. The Bank will continue to conduct ESW and provide
+advisory services/technical assistance on several important fronts:
+
+* 
+
+* The Bank will work towards improving economic management, including public resource
+management and fiscal decentralization by: (i) incorporating social analysis in public
+investment projects; and (ii) carrying out annual reviews of the Public Investment Program
+(PIP) and increasing Mauritania 's absorptive capacity. The Bank will also assist the GIRM
+in the preparation of two MTEFs (rural and urban sectors) and in defining/implementing a
+reform of sub-national taxation.
+In the area of governance, the Bank will together with the IMF and other developing
+partners, assist the GIRM to implement the National Program of Good Governance through
+efforts to improve accountability of public resource management and enhance institutional
+capacity to deliver essential services that are of quality, cost-effective and timely. This will
+include completing the Country Financial Accountability Assessment (FY03) and the Report
+on the Observance of Standards and Codes (ROSC) which analyze all aspects of financial
+management and provide a set of recommendations to be carried out. The Bank will also
+carry out a Country Procurement Assessment Review (CPAR) in FY05 which will analyze
+progress being made on implementing procurement reforms. 
+In addition the Bank will
+provide advice on the following critical areas of action in the short and medium-term: (i)
+improving budget formulation, execution and reporting; (ii) strengthening monitoring of
+poverty-reducing public expenditure; (iii) developing a transparent and efficient fiduciary
+framework; and (iv) fiscal decentralization.
+* The Bank will carry out an "Economic Regulation" study (FY03) to help the GIRM in
+refocusing the role of the State, in building the necessary institutional and administrative
+regulatory capacity aimed at removing inefficient and arbitrary regulatory checks and
+balances and in developing a strong partnership between the State and the civil society at
+large.
+
+* The Bank will continue to assist the GIRM via an IDFfor Completing Procurement Reform
+(FY03) and in monitoring public expenditures towards poverty reduction.
+* World Bank Institute: Several activities for the remainder of FY02 and for FY03 are being
+prepared and implemented by the World Bank Institute. There is a comprehensive program
+of training seminars on several aspects of the PRSP process and public expenditure
+management - participation by all actors and stakeholders, strengthening of capacity, poverty
+
+Mauritania CAS 
+
+30
+
+analysis and diagnostic tools, and monitoring and evaluation of poverty impacts. This
+program streamlines a multi-sectoral approach into the activities and is targeted at a variety
+of participants in and outside GIRM. Other trainings being undertaken or planned by WBI
+include training of joumalists on economic issues, labor market policies, and capacity
+building in aspects of health sector reform and financing.
+
+73. 
+
+Lending
+
+Base Case
+
+* The PRSC program (FY03-04-05) is centered on building institutional and administrative
+capacity in the GIRM for public sector management and financial management. The focus of
+the PRSCs will initially be on support to managerial, institutional and capacity development
+in the Ministry of Finance, the High Commission on Poverty Reduction and Human Rights
+and the Ministry of Health.
+
+* The Bank will assist in financing an Institutional and Capacity Building Project for Natural
+
+Resource Management (FY05) which will be aimed at radically overhauling 
+the
+environmental and natural resource management and control capabilities of the GIRM.
+Components of this project will include: (i) establishment of an Environmental Regulatory
+and Enforcement Agency which is independent of any Ministry and is multi-sectoral; (ii)
+capacity building in individual sectoral Ministries to deal with environmental management
+and mitigation, with a focus on the multi-dimensional needs of the Senegal River Valley
+area; and (iii) developing an appropriate environmental legislative and regulatory framework
+for management of the Banc d'Arguin to govern oil exploration which is being conducted
+both on and off-shore around that area.
+
+* The Bank also envisages providing continued support to sustainable natural resource
+exploitation in the mining sector through continuing the activities already being implemented
+in the Mining Sector Capacity Building Project through a supplemental credit to the existing
+project (FY03).
+
+High Case
+
+* The scope of the PRSCs (FY03-04-05) will be broadened to include support to GIRM to use
+Information and Communication Technologies to achieve greater transparency and efficiency
+in public sector transactions. The PRSCs will also provide assistance to pilot modernization
+of the state and E-Government in one or two Ministries initially.
+
+D. 
+
+74. 
+
+SELECTIVITY AND CHOICE OF INSTRUMENTS
+
+The principles of selectivity that the Bank will observe are the following:
+
+(i) Knowledge-based comparative advantage: Given Mauritania's sustained track record in
+stabilization and structural reform, non-lending products will become 
+increasingly
+important in assisting the GIRM to identify new sources of growth, accelerate growth in
+sectors with high growth potential, enhance overall economic management, develop human
+
+Mauritania CAS 
+
+31
+
+capacity, improve mobilization and allocation of resources and reduce poverty. The Bank
+will endeavor to disseminate its ESW/non-lending products and to improve communication
+with the population regarding economic and social policy reforms. As for lending, the
+Bank will continue to be selective in its focus and provide investment resources to
+overcome critical bottlenecks. 
+In this endeavor, the Bank will continue to work closely
+with the GIRM, the IMF, the AfDB, the EU, bilateral donors, NGOs, the private sector and
+civil society;
+(ii) Focus on poverty reduction: The Bank's interventions will be fully in line with the
+priorities of the PRSP and will directly target poverty reduction;
+(iii) Empowerment of private sector and communities: The CAS is based on the PRSP which
+was elaborated and is being implemented in a fully participatory manner. The CAS also
+focuses on a private sector-led approach to development involving civil society and
+stakeholders in the design and delivery of activities; and,
+(iv) Improved coordination with donors and burden-sharing: The recent Consultative Group
+meeting allowed the World Bank Group to consolidate its understanding of the priority
+activities of other donors and development partners and to come to agreement on the
+comparative advantage of each partner and the areas for complementarity of activities.
+Where other donors have the lead, the Bank will only intervene when its expertise can help
+to clarify issues/strategies and improve the impact of donors assistance.
+
+E. 
+
+PORTFOLIO PERFORMANCE AND MANAGEMENT
+
+75. 
+The current project portfolio consists of 13 investment operations for a total commitment
+of SDR 224 million (US$294 million) with an undisbursed balance of SDR 166 million (US$203
+million or 75 percent of the total). Excluding the Education Sector Development Program and
+Urban Sector Development Project which both only recently became effective, 47.8 percent of
+the total committed amount has already been disbursed. Over the past three years, disbursement
+rates for the Mauritania portfolio have increased from 14 percent in FY99 to 19 percent in FY00,
+reached almost 22 percent in FY01 and are currently estimated at 25.6 percent for FY02. This
+represents a strong improvement and is above the Bank's average of 20 percent. However, in
+order to strengthen the portfolio further, enhanced efforts to increase disbursement are being
+prioritized, particularly because nine projects have already passed the Mid-Term Review stage.
+
+76. 
+The most recent Country Portfolio Performance Review (CPPR) was carried out in
+January 2002 and showed that, overall, the projects in the World Bank portfolio are performing
+well. This confirms OED reviews of the Mauritania portfolio in the last three years which are
+broadly favorable: OED evaluations show FY98-01 Satisfactory outcomes at 82 percent, likely
+sustainability at 73 percent, realism and pro-activity indexes have continuously been 100 percent.
+Of the 13 projects, only the Regional Power project is rated Unsatisfactory for Development
+Objectives (DO) and Implementation Progress (IP). All others are rated Satisfactory for both
+DO and IP except for the Telecommunications project which is rated Highly Satisfactory for DO.
+Another project -
+the Infrastructure and Pilot Decentralization Project - recently closed at end
+December 2001 and was also rated Satisfactory.
+
+Mauritania CAS 
+
+32
+
+77. 
+The CPPR highlighted one of the main systemic problems in the project portfolio as
+being the need to develop capacity and it established a new and more focused framework for
+joint portfolio management between the Bank and the GIRM. 
+It was agreed that stepped-up
+efforts at implementation would be carried out at all levels - project, Ministerial, executing
+agency and by the Bank. Each actor has committed to conducting a follow-up review on the
+recommendations of the CPPR in 9-12 months time which will focus on technical issues of
+implementation and will do a stock-taking of progress achieved. Both the GIRM and the Bank
+agreed that implementation difficulties are often a result of insufficient consideration of cross-
+sectoral issues in project design so, for the projects planned in this CAS, particular attention will
+be given to the establishment of multi-sectoral teams in Bank and in GIRM to design and
+implement future and on-going projects.
+
+78. 
+The World Bank Country Office will play the key role in following up on portfolio
+management and will strengthen its capacity by hiring an urban development expert to follow the
+Urban Development Program and a water and energy expert to follow the Aftout-Es-Saheli
+project and the Universal Access agenda. A regional financial management specialist is being
+recruited in the Bank's Country Office in Mali who will also cover Mauritania. 
+Increased
+training of client counterparts in procurement and disbursement issues is planned for the coming
+year as well as on-going strengthening of project management skills. All Country Team
+members are undertaking efforts in their respective sectors to provide support to building
+programmatic and planning skills with their counterparts in the GIRM to ensure more effective
+sectoral strategies and program targeting and to build towards Medium-Term Expenditure
+Frameworks in all sectors, along the lines of those already carried out for the Health and
+Education sectors. Finally, there is a strong consensus between the Bank and the GIRM on
+implementing the priority actions, developing better cross-sectoral links and synergies, and
+working together as a team to accomplish this as rapidly as possible.
+
+F. 
+
+SCENARIOS AND TRIGGERS
+
+79. 
+Bank financing would focus primarily on providing support to the implementation of the
+PRSP through PRSCs, on-going APLs and targeted investment projects. The base case
+assistance scenario (approximately US$110 million), assumes that: (i) the PRSP will be
+implemented in a timely manner (as laid out in 4nnex 2 of the PRSP Progress Report); (ii) that
+all poverty-reducing expenditures are duly identified and integrated into the accounting system;
+(iii) that satisfactory progress is made in implementing the main recommendations of the ROSC,
+CFAA and CPAR action plans; and (iv) that the disbursement ratio for projects is at the Bank
+average of 20 percent.
+
+80. 
+Given Mauritania's track record in implementing macroeconomic and structural reforms
+over the last ten years and its demonstrated commitment to its reform program and poverty
+reduction, the Bank would consider increasing its support for implementation of the PRSP and
+thus move to a high-case assistance scenario. This scenario would depend on the following: (i)
+accelerated progress being made in implementing the PRSP and on achievement of the PRSP
+poverty, growth and macroeconomic targets (a satisfactory implementation would mean reaching
+all or most of the targets by 2004/05 as planned, while reaching these targets before would be
+considered as accelerated implementation); (ii) significant increase in the absorptive capacity;
+(iii) strong performance in public finance management including full implementation of the
+
+Mauritania CAS 
+
+33
+
+recommendations of the CFAA, ROSC and the CPAR action plans; (iv) major improvements on
+strengthening institutional capacity in the ministries of rural development, education and health;
+(v) strong portfolio performance with disbursement rates higher than Bank average and less than
+15 percent of the portfolio rated at risk. Under this scenario, totaling up to US$140 million, the
+Bank would increase the amounts for the PRSCs and APLs.
+
+81. 
+Failing to the low case would result from the macroeconomic program going off track
+and a slow down in the PRSP implementation. This scenario would result in a revised CAS
+proposing a reduced assistance program. At the present time, the Bank sees the probability of
+this case as very low.
+
+Box 16: Scenarios and Triggers
+
+PRSP Implementation 
+
+Govemance and 
+Accountability 
+.
+.
+
+HIGH 
+
+Base case plus:
+. Accelerated progress made in implementing
+the PRSP 
+. Increase absorptive capacity as 
+demonstrated by the speed and level of 
+implementation of priority poverty reduction 
+.
+.
+programs 
+
+. Strong performance in public finance 
+management withuJll implementation of the 
+ROSC, CFAA and CPAR action plans 
+Major improvements in strengthening 
+institutional capacity
+
+Competitiveness and 
+Trade 
+
+. Major improvements in strengthening
+institutional capacity in the ministries of
+rural development, education and health
+
+BASE
+
+Satsfactory implementaton of the PRSP as
+specified in Annex 2 of the PRSP
+. Identification of all poverty-reducing expenditures
+and integration of all executed expenditure into the
+accounting system
+
+Improvements in public finance management with
+progress made in implementing the main
+recommendations of the ROSC, CFAA and CPAR
+action plans
+
+Portfolio performance 
+ond absorption: 
+
+Disbursement ratio for projects > 20% and 
+<15% of portfolio at risk 
+
+Disbursement ratio for projects 20%
+. .
+
+82. Monitoring Outcomes, CAS Performance and Self-Evaluation. A selection of
+measurable outcomes will be used to monitor Mauritania's progress in implementing its PRSP
+(Annex B9). These will include standard growth, and indicators related to the four axes of the
+PRSP. To evaluate its own performance, the Bank is in the process of defining a results
+monitoring framework for evaluating the effectiveness of on-going operations (in particular, for
+APLs), and it will continue to carry out independent client surveys. The Bank will also closely
+monitor portfolio performance indicators for all IDA-financed operations. In addition, the Bank
+will continue with regular consultations with GIRM, civil society, donors and NGOs to get
+feedback and monitor how well the Bank is implementing the stated CAS priorities. All these
+actions will allow the Bank to fine-tuning the CAS so it becomes a living strategy.
+
+IV. 
+
+RISKS
+
+83. 
+There are few risks associated with the Bank's strategy in Mauritania. On the basis of its
+macroeconomic and structural reform performance during the last ten years and the recent CPPR,
+
+Mauritania CAS 
+
+34
+
+Mauritania has shown itself to be a very reliable partner. Nevertheless, Mauritania remains a
+small economy with a narrow resource export base dependent on just two commodities: iron-ore
+and fisheries (see para. 23-26). Climate and external shocks have to be considered as potential
+risks. These external shocks affect negatively the GIRM effort to promote diversified economic
+growth and poverty reduction. However, the HIPC debt relief and the current level of
+international reserves should increase Mauritania's ability to absorb temporary external shocks.
+Another potential risk to be considered is the ability of Mauritania to change its traditional way
+of doing private sector business and, therefore, to continue to pursue its goal to expand its
+economic and export bases and to increase its competitiveness. During the last decade,
+Mauritania has proved its commitment and capability to implement bold reforms, adapt and
+move forward. The Bank's goal is to assist Mauritania to continue along this path.
+
+V. 
+
+CONCLUDING REMARKS
+
+84. 
+The main goal of the GIRM's PRSP is to achieve accelerated private sector-led growth and
+to significantly reduce poverty. The Bank's assistance program described 
+in this CAS are
+specifically designed to support Mauritania to reach this goal.
+
+James D. Wolfensohn
+President
+by Shengman Zhang
+
+Washington, D.C.
+May 6, 2002
+
+Mauritania CAS 
+
+35
+
+Attachment I
+
+REPUBLIC OF MAURITANIA
+
+COUNTRY ASSISTANCE STRATEGY
+
+Standard Annexes
+
+Annexes
+
+Al 
+A2 
+B2 
+B3 
+B4 
+B5 
+B6 
+B7 
+B8 
+
+Key Economic and Program Indicators - Change from the Last CAS
+Country At a Glance
+Selected Indicators of Bank Portfolio Performance and Management
+IBRD/IDA Program Summary
+Summary of Non-lending Services
+Social Indicators
+Key Economic Indicators
+Key Exposure Indicators
+Statement of IFCs Held and Disbursed Portfolio
+Bank Group Operations Portfolio (IBRD/IDA and Grants)
+B9 
+CAS Program Matrix
+B10 CAS Summary of Development Priorities
+
+Annex Al
+
+Mauritania CAS 
+
+Page 1 of I
+
+Key Economic and Program Indicators - Change from Last CAS
+
+Forecast in Last CAS Actual 
+
+Current CAS Forecast
+
+Economy (CY) 
+
+1998a 1999" 
+
+2000' 
+
+1998" 1999" 2000" 
+
+2001c 2002a 
+
+2003" 
+
+2004D 
+
+2005"
+
+Growth rates (%)
+GDP 
+
+5.1 
+
+5.3 
+
+5.3 
+
+3.7 
+
+4.1 
+
+5.0 
+
+4.6 
+
+5.1 
+-4 
+
+5.5 
+
+6.1 
+
+6.4
+
+Export of goods and 
+
+.. 
+
+.. 
+
+.. 
+
+-7.3 
+
+-9 
+
+8.7 
+
+-2.2 
+
+5.5 
+
+7.9 
+
+7.3
+
+services
+Exports (Fob) 
+Imports (Fob) 
+
+0.4 
+5.6 
+
+2.8 
+-0.4 
+
+6.2 
+3.9 
+
+-11.8 
+-7.4 
+0.7 -14.9 
+
+7.8 
+13 
+
+-3.9 
+4 
+
+-4.6 
+7 
+
+5.4 
+7 
+
+8.1 
+5 
+
+7.2
+13
+
+Inflation (%) 
+
+4.6 
+
+4.0 
+
+3.0 
+
+8.0 
+
+4.1 
+
+3.3 
+
+4.7 
+
+4.0 
+
+3.8 
+
+3.5 
+
+3.5
+
+National accounts (% GDP)
+Current account balance 
+(excl. all ext. transfers)
+Gross investment 
+
+-6.0 
+
+-4.5 
+
+-3.4 
+
+-6.4 
+
+-4.3 
+
+-6.0 
+
+-10.0 
+
+0.0 
+
+-9.4 
+
+-9.1 
+
+-10.0
+
+17.7 
+
+18.1 
+
+20.5 
+
+19.0 17.5 30.3 
+
+26.7 24.7 
+
+26.9 
+
+27.8 
+
+28.5
+
+Public finance (% GDP)
+Overall surplus (+)/deficit (-) 
+(excl. grants)
+Foreign financing*
+
+3.7 
+
+3.8 
+
+4.0 
+
+2.1 
+
+2.2 
+
+-4.5 
+
+-5.6 
+
+6.3 
+
+-2.2 
+
+-3.1 
+
+-4.2
+
+Intemational reserves 
+
+5.0 
+
+6.1 
+
+6.8 
+
+4.1 
+
+5.4 
+
+6.5 
+
+6.3 
+
+7.5 
+
+7.0 
+
+6.9 
+
+6.9
+
+(as months of imports)
+
+Program (Bank's FY) 
+
+FY98a FY99 FY00" 
+
+FY98c FY99 FY00 
+
+FY01' FY02 
+
+FY035 FY04" 
+
+FY05D
+
+b 
+
+c 
+
+a 
+
+b
+
+Lending ($ million) 
+Gross disbursements 
+
+36.8 25.0 
+26.6 
+17.8 
+
+25.0 
+13.0 
+
+24.4 
+20.5 
+
+30.8 83.1 
+21.0 27.1 
+
+18.3 
+76.9 
+
+122.5 
+26.1
+
+45.0 
+
+35.0 
+
+30.0
+
+($ million)
+
+a. Estimated year
+b. Projected year
+c. Actual outcome
+* 90% of public investment is foreign financed
+
+Annex A2
+Page 1 of 2
+
+Mauritania CAS 
+
+Mauritania at a glance
+
+Sub-
+Saharan 
+Africa 
+
+POVERTY and SOCIAL 
+
+Low-
+Income 
+
+MaurtanIa 
+
+Develmnt diamond'
+
+2001
+
+Population, mid-year (millions) 
+
+2.7 
+
+6859 
+
+2,459 
+
+Lfe exewncy
+
+GNI per capita (Atlas method, USS) 
+GNI (Atlas method, USS billions) 
+
+350 
+0.97 
+
+480 
+313 
+
+420
+1,030
+
+Average annual growth, 1995-01
+
+Population (%) 
+
+2.7 
+
+2.6 
+
+19
+
+Labor fbrce (%) 
+Most recent estmate (latest year avallable, 199541) 
+Poverty (% of population below national poverty line) 
+Urban population (X of total population) 
+Life expectancy at birth (years) 
+Infant mortality (per 1, 000 live births, 2000) 
+Child mainutrition (X of children under 5, 2000) 
+Access to an improved water source (% of poputbon) 
+Illiteracy (% of population age 15+) 
+Gross primary enrollment (% of school-age populaon) 
+Male 
+Female 
+KEY ECONOMIC RATIOS and LONG-TERM TRENDS
+
+G2. 
+GNI 
+capita 
+
+214 
+
+Gross
+enmllment
+
+p.r 
+
+~~~~~~~primary
+
+46.3
+58 
+53 
+74 
+32 
+76 
+42.8 
+88 
+89 
+82 
+
+34 
+47 
+92 
+
+32
+59
+77
+
+Acosss to improved water source
+
+55 
+38 
+78 
+85 
+71 
+
+76
+38
+9B 
+102 
+86
+
+-
+
+Maurtanba
+Low-income group
+
+1961 
+0.66 
+26.5 
+39.3 
+0.5 
+
+181 
+1.1 
+17.9 
+44.1 
+9.7 
+12.0 
+-8.2 
+2.2 
+193.8 
+17.3 
+
+2000 
+0.98 
+30.3 
+40.7 
+18.4 
+31.1 
+0.8 
+
+2001
+1.0
+26.7
+40.0 
+14.0
+21.0
+-5.7 
+
+Economic rIo
+
+GDP (USS billions) 
+Gross domesbc InvestmentVGDP 
+Exports of goods and services/GDP 
+Gross domestic savings/GDP 
+Gross natonal savingstGDP 
+Current account balance/GDP 
+Interest paymenWGDP 
+Total debGODP 
+Total debt service/exports 
+
+Trade
+
+-17.1 
+2.1 
+112.7 
+22.4 
+
+Domestic
+
+.. 
+
+.. 
+
+Investment
+
+189.5 
+24.6 
+
+212
+15.5
+1441.1
+384.9
+
+Present value of debt/GDP (after enhanced HIPC) 
+Present value of debtexports (after enhanced HIP( 
+
+Indebtedness
+
+1981-91 
+
+188s141 
+
+2000 
+
+2001 
+
+200148
+
+(average annual gtowth)
+GDP 
+GDP per capita 
+Exports of goods and services 
+
+0.2 
+-2.5 
+0.2 
+
+4.3 
+1.5 
+3.1 
+
+5.0 
+2.3 
+8.7 
+
+4.6 
+1.9 
+-2.2 
+
+5.8 
+3.1 
+6.4
+
+-M 
+
+aulltanla
+Low-income group
+
+STRUCTURE of the ECONOMY
+
+1981 
+
+1991 
+
+2000 
+
+2001 
+
+GOwt of Invstmnt and GDP (%)
+
+(% of GDPJ
+Ag9culture 
+Industry 
+Manufacturing 
+Services 
+Private consumption 
+General govemment consumption 
+Imports of goods and services 
+
+31.9 
+26.2 
+
+2867 
+30.0 
+10.8 
+41.3 
+72.1 
+18.2 
+52.3 
+
+22.0 
+31.0 
+8.5 
+47.0 
+64.3 
+17.3 
+52.5 
+
+22.0 
+30.0 
+8.0 
+48.0 
+70.3 
+15.6 
+52.6 
+
+eo -
+40 -
+
+20
+
+41.9 
+85.4 
+34.2 
+85.3 
+
+0
+
+401 
+
+'a 
+
+97 
+
+9e 
+
+0 
+
+01
+
+GDI 
+
+0*GDP
+
+(average annual growth) 
+Agriculture 
+Industry 
+Manufacturing 
+Services 
+
+1981-91 
+1.4 
+4.7 
+-1.6 
+1.1 
+
+1991401 
+4.6 
+2.1 
+-0.5 
+5.6 
+
+2000 
+2.8 
+8.7 
+3.3 
+5.9 
+
+2001 
+-02 
+1.4 
+5.9 
+1o
+8.5 o 1
+
+Growth of export and Imports (%)
+
+40
+
+2s
+
+Private consumpton 
+
+-0.9 
+
+2.7 
+
+3.2 
+
+1.3 
+
+1 -n
+
+General govemment consumpton 
+Gross domestc investment 
+Imports of goods and services 
+
+-3.5 
+3.4 
+-1.7 
+
+2.6 
+9.6 
+2.9 
+
+2.9 
+41.3 
+14.0 
+
+8 8 
+-4.8 
+4.8
+
+o
+
+Epeds 
+
+Omports
+
+The diamonds show four key indicators in the country (In bold) compared with Its Income-group average. If data are missing, the diamond vwll
+be incomplete.
+
+Annex A2
+Page 2 of 2
+
+Mauritania CAS 
+
+Mauritania
+
+PRICES and GOVERNMENT FINANCE
+
+1981 
+
+1991 
+
+2000 
+
+2001 
+
+Inflation (%)
+
+Domeslic prices 
+(% change) 
+Consumer prices 
+Implidt GDP deflator 
+
+10
+
+a
+
+.. 
+
+5.6 
+9.8 
+
+3.3 
+6.1 
+
+4.7 
+5.0 
+
+;
+
+7.3 
+
+4
+
+Goverment flnance 
+
+2 -
+
+(% of GDP, includes curent grants) 
+Current revenue 
+
+o -
+
+22.6 
+
+25.9 
+
+21.1 
+
+98 
+
+97 
+
+98 
+
+99 
+
+00 
+
+01
+
+Current budget balance 
+Overall surplus/defict 
+
+1.4 
+-5.7 
+
+8.6 
+-4.5 
+
+11.9 
+-5.6
+
+L 
+
+-GDP 
+
+deflator 
+
+eCPI
+
+.
+
+TRADE
+
+(US$ millions) 
+Total exports (fob) 
+Iron 
+Fish 
+
+1981 
+
+1991 
+434 
+212 
+222 
+.4
+416 
+
+2000 
+359 
+193 
+164 
+
+2001 
+345
+199
+158
+
+Export and Import levels (US$ mill.)
+
+.. 
+
+Manufactures 
+
+Total imports (cif) 
+
+343 
+
+357
+
+Food 
+
+.. 
+.. 
+.. 
+
+121 
+
+120 
+
+113
+
+Fuel and energy 
+Capital goods 
+
+39 
+78 
+
+100 
+78 
+
+92 
+61 
+
+100
+a
+
+Export price index (1985=-100) 
+Importprieindex(1985=100) 
+Terms of trade (1985=100) 
+
+.. 
+
+110 
+108 
+101 
+
+103.5 
+94.1 
+110.0 
+
+114.2ss 
+98.6 
+115.8
+
+0 
+mExports 
+
+9 
+
+o 
+*rinports
+
+o
+
+.. 
+.. 
+
+BALANCE of PAYMENTS
+
+1981 
+
+1991 
+
+2000 
+
+200 
+
+Current account balance to GDP (%)
+
+(US$ millions)
+
+Exports of goods and services 
+Imports of goods and servioes 
+Resource balance 
+
+319 
+514 
+-196 
+
+498 
+591 
+-93 
+
+392 
+493 
+-101 
+
+385.9 
+496 
+-110.1 
+
+4
+2
+
+.-
+
+Net income 
+Net current transfers 
+
+-51 
+99 
+
+-61 
+62 
+
+-20 
+128.9 
+
+-58 
+113.4 
+
+-2 
+
+9700
+
+*4
+
+Current account balance 
+
+-147 
+
+-93 
+
+7.9 
+
+-54.7 
+
+Finandng items (net) 
+Changes in net reserves 
+
+171 
+-24 
+
+121 
+-28 
+
+31.9 
+24 
+
+85.7 
+31 
+
+*10
+
+-12
+
+Memo:
+Reserves including gold (US$ millions) 
+Conversion rate (DEC, locat/US5) 
+
+168 
+48.3 
+
+67 
+81.9 
+
+255 
+240.0 
+
+286
+254.3
+
+EXTERNAL DEBT and RESOURCE FLOWS
+
+1981 
+
+1991 
+
+2000 
+
+2001
+
+(US$ millions) 
+Total debt outstanding and disbursed 
+IBRD 
+IDA 
+
+Composidon of 2000 debt (US$ mill.)
+
+967 
+"1 
+44 
+
+2,188 
+43 
+224 
+
+1,768 
+0 
+449 
+
+2043.6
+0
+475 
+
+G: 324
+
+Total debt service 
+
+77 
+
+88 
+
+115 
+
+67
+
+IBRD 
+
+1 
+
+1 5 
+
+2 
+
+0
+
+IDA 
+
+0 
+
+2 
+
+7 
+
+9
+
+Composition of net resource flows
+Official transfert 
+Official creditors 
+
+.. 
+
+.. 
+
+66.0 
+
+42.2 
+
+c: 116
+
+145 
+
+25
+
+Private creditors 
+
+-15 
+
+-2
+
+Foreign direct investment 
+Portfolio equity 
+
+12 
+0
+
+2 
+
+40 
+
+14 
+
+D S 
+
+I23
+
+World Bank program
+Commitments 
+
+3 
+
+0 
+
+30 
+
+31 
+
+A- IBRD 
+B-IDA 
+C -IMF 
+
+E -Bilateral
+
+Disbursements 
+
+17 
+
+14 
+
+57 
+
+47 
+
+D - Other rrulblateral F - Private
+G - Short-term
+
+Prncipal repayments 
+Net flows 
+Interest payments 
+Net transfers 
+
+0 
+17 
+1 
+16 
+
+12 
+1 
+5 
+-4 
+
+6 
+51 
+3 
+48 
+
+5 
+42
+3
+38
+
+Development Economics 
+
+5/7/02
+
+Mauritania CAS 
+
+Annex B2
+
+Page 1 of 1
+
+Mauritania
+Selected Indicators* of Bank Portfolio Performance and Management
+
+Indicator 
+Portfolio Assessment
+Number of Projects Under Implementation a 
+Average Implementation Period (years) b 
+Percent of Problem Projects by Number at c 
+Percent of Problem Projects by Amount a c 
+Percent of Projects at Risk by Number a, d 
+Percent of Projects at Risk by Amount 
+Disbursement Ratio (%) e 
+Portfolio Management
+CPPR during the year (yes/no) 
+Supervision Resources (total US$000) 
+Average Supervision (US$000/project) 
+
+d 
+
+1999 
+
+2000 
+
+2001 
+
+12 
+2.7 
+8.3 
+7.3 
+8.3 
+7.3 
+14 
+
+Yes 
+585 
+49 
+
+14 
+2.6 
+0 
+0 
+0 
+0 
+19.2 
+
+No 
+1,016 
+73 
+
+11 
+3 
+0 
+0 
+0 
+0 
+21.8 
+
+No 
+736 
+67 
+
+2002
+
+13
+2.8
+7.7
+3.8
+7.7
+3.8
+25.6
+
+Yes
+1,015
+78
+
+Memorandum Item 
+
+Since FY 80 
+
+Proj Eval by OED by Number 
+Proj Eval by OED by Amt (US$ millions) 
+% of OED Projects Rated U or HU by Number 
+% of OED Projects Rated U or HU by Amt 
+
+32 
+496.6 
+34.4 
+0 
+
+Last Five
+FYs
+9
+152.6
+22.2
+0
+
+a. As shown in the Annual Report on Portfolio Performance (except for current FY).
+b. Average age of projects in the Bank's country portfolio.
+c. Percent of projects rated U or HU on development objectives (DO) and/or implementation progress (IP).
+d. As defined under the Portfolio Improvement Program.
+e. Ratio of disbursements during the year to the undisbursed balance of the Bank's portfolio at the
+beginning of the year: Investment projects only.
+* All indicators are for projects active in the Portfolio, with the exception of Disbursement Ratio,
+which includes all active projects as well as projects which exited during the fiscal year.
+
+Mauritania CAS 
+
+Annex B3
+
+Page 1 of 2
+
+IDA Program Summary
+Mauritania
+
+Proposed IDA Base-Case Lending Program 8
+
+Fiscal year Proj ID 
+
+US$(M) 
+
+Strategic Rewards 
+b (HA/L) 
+
+Implementation b
+Risks (HAML)
+
+2003 
+
+2004 
+
+2005 
+
+Financial Sector Reform Project 
+PRSC 1 
+Supplemental Credit for Mining Sector 
+Mutli-Sector HIV/AIDS Project * 
+Partial Risk Guarantee for SOMELEC
+Privatization 
+Result 
+PRSC 2 
+Water Supply Project ** 
+Result 
+PRSC 3 ** 
+PGRNP l1 
+Natural Resource Mgmt Capacity Bldg Project 
+Result 
+
+Overall result 
+
+15 
+15 
+5 
+(15) 
+
+10 
+45
+15 
+20 
+35
+15 
+10 
+5 
+30
+
+110
+
+H 
+H 
+M 
+H 
+
+H 
+
+H 
+H 
+
+H 
+H 
+M 
+
+L
+M
+L
+M
+
+M
+
+M
+M
+
+M
+H
+M
+
+* Does not impact IDA allocation as is part of Regional MAP
+
+** FY04 high case: the lending amounts would be increased - PRSC 11 to US$20 million and the Water Supply Project to US$30
+million. PGRNP 11 would also be brought forward to FY04. This would make a total high case lending amount of US$60 million in
+FY04.
+
+*** FY05 high case: the lending amount for PRSC III would be increased to US$20 million and PDIAIM If would be brought into
+the CAS lending program (in FY05) for an amount of US$10 million. This would make a total high case lending amount of US$35
+million.
+
+Mauritania CAS 
+
+Annex B3
+Page 2 of 2
+
+IFC & MIGA for Mauritania
+
+Mauritania - IFC and MIGA Program, FY 1999-2002
+
+1999 2000 2001 2002
+
+IFC approvals (US$m) 
+
+Sector (%)
+
+ACCOMMODATION/TOURIST 
+FINANCE & INSURANCE 
+
+Total 
+
+Investment instrument(%)
+
+Loans 
+Equity
+Quasi-Equity
+Other
+
+Total 
+
+MIGA guarantees (US$m) 
+
+7.00
+
+100
+
+100
+
+100 100 
+
+0 
+
+0
+
+100
+
+0 0 0 0
+
+66.30
+
+Mauritania CAS 
+
+Annex B4
+Page 1 of 1
+
+Summary of Nonlending Services -
+Mauritania
+
+Product 
+
+Completion FY 
+
+Cost (US$000) Audiencea 
+
+ObjectiveD
+
+Recent completions
+
+MTEF Education * 
+MTEF Health * 
+
+Fisheries Resource Management* 
+
+The Education System in Mauritania * 
+Rural Development Strategy * 
+Agro-Business Strategy * 
+
+Integrated F'work Trade Strategy * 
+Dev't of New Technologies 
+
+Micro-Finance Dev't Strategy * 
+
+Livestock Dev't Strategy * 
+
+Macro-Modelling 
+
+Underway
+Financial Sector Development* 
+
+FY02 
+FY02 
+
+FY02 
+
+FY02 
+FY02 
+FY02 
+
+FY02 
+FY02 
+
+FY02 
+
+FY02 
+
+FY02 
+
+FY03 
+
+... 
+... 
+
+... 
+
+... 
+... 
+... 
+
+... 
+... 
+
+... 
+
+... 
+
+... 
+
+... 
+
+Planned
+CEM 
+Economic Regulation 
+CFAA 
+
+Gender Assessment 
+Regulatory framework oil sector 
+
+PRSP Monitoring 
+Labor Market Study 
+Private Participation in Infrastructure 
+Issues & Perspectives in Housing 
+PRSP Monitoring 
+Market Dynamics in Health Sector 
+CAS 
+Consultative Group 
+Agriculture Statistics 
+Rural Business Devt Services 
+CPAR 
+Devt Prospects of Arabic Gum 
+
+FY03 
+FY03 
+FY03 
+
+FY03 
+FY03 
+
+FY03 
+FY04 
+FY04 
+FY04 
+FY04 
+FY04 
+FY05 
+FY05 
+FY05 
+FY05 
+FY05 
+FY05 
+
+105 
+50 
+65 
+
+... 
+... 
+
+61 
+50 
+50 
+50 
+30 
+50 
+50 
+170 
+50 
+50 
+80 
+50 
+
+* Prepared and financed by the Government of Mauritania in partnership
+with the Bank and other donors
+a. Government (G), donor (D), Bank (B), public dissemination (P)
+b. Knowledge generation (K), public debate (D), problem-solving (P)
+
+G, D, B 
+G, D, B 
+
+G, D, B, P 
+
+G, D, B, P 
+G, D, B 
+G, D, B 
+
+G, D, B, P 
+G, D, B, P 
+
+G, D, B 
+
+G, D, B 
+
+G, D, B 
+
+K
+K
+
+K, P
+K, D
+
+K, P
+K, P
+
+K, D, P
+K, D, P
+K, P
+K, P
+K, P
+
+G, D, B, P 
+
+K, D, P
+
+G, D, B 
+G, D, B 
+G, D, B 
+
+G, D, B, P 
+G, D, B, P 
+
+G, D, B, P 
+G, D, B, P 
+G, D, B, P 
+G, D, B, P 
+G, D, B, P 
+G, D, B, P 
+G, D, B, P 
+G, D, B, P 
+G, D, B 
+G, D, B 
+G, D, B, P 
+G, D, B 
+
+K, P
+K, P
+K, D, P
+
+K, D, P
+
+K, P
+K, D
+K
+K
+K
+K, D
+K, P
+K, D
+K, D
+K
+K, P
+K, D, P
+K, P
+
+Annex B5
+Page 1 of 1
+
+Mauritania CAS 
+
+Mauritania Social Indicators
+
+Latest single year 
+
+Same region/income group
+Sub-
+Saharan 
+Africa 
+
+Low-
+Income
+
+1970-75 
+
+1980-85 
+
+2001 
+
+POPULATION
+Total population, mid-year (millions) 
+Growth rate (Y. annuai average forperiod) 
+Urban population ('Y of population) 
+
+1.4 
+2.3 
+20.3 
+
+1.8 
+2.6 
+35.0 
+
+2.7 
+2.7 
+57.7 
+
+658.6 
+2.6 
+34.4 
+
+2,458.7
+1.9
+31.9
+
+Total fertility rate (births per woman) 
+
+.. 
+
+.. 
+
+4.7 
+
+5.3 
+
+3.7
+
+POVERTY
+(% of population)
+
+National headcount index 
+Urban headcount index 
+Rural headcount index 
+
+.. 
+..
+.. 
+
+.. 
+
+46.3
+
+.. 
+
+61.2
+
+INCOME
+GNI per capila (US$) 
+Consumer price index (1995=100) 
+Food price index (1995=100) 
+INCOMEICONSUMPTION DISTRIBUTION
+
+390 
+
+380 
+50 
+
+350 
+127 
+
+480 
+133 
+
+420
+142
+
+.. 
+..
+
+Gini index 
+
+.. 
+
+.. 
+
+39.0
+
+Lowest quintile (% of income or consumption) 
+Highest quintile (% of income or consumption) 
+SOCIAL INDICATORS
+Public expenditure
+
+..
+..
+
+Health (% of GDP) 
+Education (% of GDP) 
+
+.. 
+.. 
+..
+
+.. 
+.. 
+
+1.6 
+4.5 
+
+2.4 
+4.1 
+
+1.2
+3.3
+
+Social security and welfare (% of GOP) 
+Gross primary school enrollment rate
+(% of age group)
+
+Total 
+
+.. 
+
+.. 
+
+84.4
+
+Male
+
+Female 
+
+.. 
+
+.. 
+
+82.2
+
+Access to an Improved water source
+(% of population)
+
+Total 
+Urban 
+Rural 
+
+17 
+98 
+10 
+
+37 
+80 
+16 
+
+.. 
+.. 
+.. 
+
+55 
+82 
+41 
+
+76
+88
+70
+
+Immunization rate
+(% under 12 months)
+
+Measles 
+DPT 
+Child malnutrition (Y. under 5 years) 
+
+.. 
+.. 
+
+.. 
+.. 
+
+.. 
+.. 
+
+57 
+59 
+
+64
+70
+
+.. 
+
+.. 
+
+32
+
+Life expectancy at birth
+(years)
+Total 
+
+43 
+
+47 
+
+53 
+
+47 
+
+59
+
+Male 
+Female 
+
+.. 
+.. 
+
+.. 
+.. 
+
+.. 
+.. 
+
+46 
+48 
+
+58
+60
+
+Mortality
+
+Infant (per thousand live births) 
+Under 5 (per thousand live births) 
+Adult (15-59)
+Male (per 1,000 population) 
+Female (per 1,000 population) 
+
+.. 
+.. 
+
+.. 
+.. 
+
+74 
+116 
+
+92 
+159 
+
+77
+116
+
+.. 
+.. 
+..
+.. 
+
+.. 
+.. 
+
+.. 
+.. 
+
+499 
+453 
+
+288
+258
+
+Maternal (per 100,000 live births) 
+
+Births ahended by skilled health slaff (%) 
+
+.. 
+
+57
+
+CAS Annex 85. This table was produced from the CMU LDB system. 
+Note: 0 or 0.0 means zero or less than half the unit shown. Net enrollment ratios exceeding 100 indicate discrepancies
+between the estimates of school-age population and reported enrollment data.
+
+05/07/02
+
+Annex B6
+
+Mauritania CAS 
+
+Page 1 of 4
+
+Mauritania - Key Economic Indicators
+
+Actual 
+1999 
+
+Est. 
+Proj.
+2003 2004 2005
+
+Indicator 
+
+1997 
+
+1998 
+
+2000 
+
+2001 
+
+2002 
+
+National accounts
+(as % GDP at current
+market prices)
+
+Gross domestic product 
+Agriculture 
+Industrya 
+Services' 
+
+100.0 
+25 
+30 
+46 
+
+100.0 
+24 
+31 
+44 
+
+100.0 
+25 
+29 
+46 
+
+100.0 
+22 
+31 
+47 
+
+100.0 
+22 
+30 
+48 
+
+100.0 
+21 
+31 
+48 
+
+100.0 100.0 100.0
+... 
+... 
+...
+* --
+... 
+
+... 
+
+...
+
+Total Consumption 
+Gross domestic fixed investment 
+Government investment 
+Private investment 1/ 
+(includes increase in
+stocks)
+Exports (GNFS)b 
+Imports (GNFS) 
+
+92 
+18 
+6 
+12 
+
+95 
+19 
+6 
+13 
+
+93.7 
+17.5 
+5.8 
+12 
+
+81.6 
+30.3 
+7.5 
+22.7 
+
+86 
+26.7 
+8.3 
+18.3 
+
+94 
+24.7 
+10.7 
+13.9 
+
+92.4 
+26.9 
+11.4 
+15.5 
+
+92.4 
+27.8 
+11.9 
+15.9 
+
+92.2
+28.5
+12.2
+16.3
+
+39 
+49 
+
+40 
+54 
+
+39 
+49 
+
+40.7 
+52.5 
+
+40 
+52.6 
+
+37.8 
+56.4 
+
+37.8 
+57.1 
+
+37.8 
+58.1 
+
+37.6
+58.3
+
+Gross domestic savings 
+Gross national savings' 
+
+7.9 
+19.1 
+
+5 
+15 
+
+6.3 
+21.7 
+
+18.4 
+31.1 
+
+14 
+21 
+
+6 
+28.5 
+
+7.6 
+21.2 
+
+7.6 
+21.9 
+
+7.8
+21.7
+
+Memorandum items
+Gross domestic product 
+(US$ million at current prices)
+Gross national product per 
+capita (US$, Atlas method)
+
+1096 
+
+1002 
+
+958 
+
+931 
+
+966. 
+
+983 
+
+998 1026 
+
+1052
+
+450 
+
+420 
+
+400 
+
+390 
+
+350 
+
+... 
+
+...
+
+Real annual growth rates
+(%, calculated from 1985 prices)
+Gross domestic product at 
+market prices
+Gross Domestic Income 
+
+3.2 
+
+3.7 
+
+4.1 
+
+5.0 
+
+4.6 
+
+5.1 
+
+5.5 
+
+6.1 
+
+6.4
+
+6.1 
+
+3.7 
+
+4.1 
+
+7.0 
+
+3.7 
+
+-2.9 
+
+6.0 
+
+5.5 
+
+6.5
+
+Real annual per capita
+growth rates (%, calculated
+from 1985 prices)
+Gross domestic product at market prices 
+Total consumption 
+Private consumption 
+
+0.4 
+-1.9 
+-1.8 
+
+0.9 
+6.4 
+6.2 
+
+1.3 
+-2.6 
+1.0 
+
+2.2 
+3.6 
+3.2 
+
+1.9 
+1.4 
+-1.4 
+
+2.4 
+2.2 
+-1.9 
+
+2.8 
+3.0 
+2.1 
+
+3.4 
+2.9 
+0.6 
+
+3.7
+3.3
+2.0
+
+Balance of Payments
+(US$m)
+Exports (GNFS)b 
+Merchandise FOB 
+Imports (GNFS)b 
+Merchandise FOB 
+Resource balance 
+
+430 
+408 
+536 
+355 
+-106 
+
+399 
+360 
+538 
+358 
+-139 
+
+370 
+333 
+471 
+305 
+-102 
+
+378 
+345 
+486 
+343 
+-108 
+
+386 
+345 
+495.7 
+357 
+-109.7 
+
+370.5 
+329 
+554.1 
+382 
+-183.6 
+
+390.9 421.6 
+347.8 375.3 
+587.7 649.1 
+400.7 453.1 
+-197 
+-227 
+
+452.5
+402.3
+696.4
+492.4
+-243
+
+Current account balance (excluding
+official transfers) 
+Current account balance
+(including official transfer) 
+
+1.0 
+
+-36 
+
+-41.4 
+
+-58.1 
+
+-96.9 
+
+0.2 
+
+-97.3 -101.3 
+
+-119.9
+
+16.9 
+
+-11.2 
+
+40.0 
+
+7.9 
+
+-54.7 
+
+37.1 
+
+-59 
+
+-65.5 
+
+-81.8
+
+(contn 'd)
+
+1/ Non Government
+
+Annex B6
+Page 2 of 4
+
+Mauritania CAS 
+
+Mauritania - Key Economic Indicators
+
+Actual 
+1999 
+
+Est. 
+
+Proj 2
+2005
+
+Indicator:", 
+
+1997 1998 
+
+2000 
+
+2001 2002 
+
+2003 2004 
+
+Net private foreign direct 
+investment
+Long-term loans (net)
+Official 
+Private 
+Other capital (net, including 
+errors and omissions)
+Change in reservesd 
+
+-3 
+
+0 
+
+0 
+
+40.8 
+
+14.4 
+
+17.7 
+
+18.7 
+
+19.9 
+
+21.2
+
+... 
+... 
+
+... 
+...
+
+-38.2 
+
+-8.4 
+
+-29.7 
+
+-31.7 
+
+-32.7 
+
+-27.2 
+
+-25.2
+
+-20.6 
+
+-30.2 
+
+-27.4 
+
+-24 
+
+-3.7 
+
+0 
+
+2.8
+
+-61 
+
+-19 
+
+-23 
+
+24 
+
+33 
+
+86 
+
+1 
+
+33 
+
+23
+
+Memorandum items
+Resource balance (% of GDP) 
+Real annual growth rates ( YR85
+prices)
+Merchandise exports (FOB)
+Primary 
+Manufactures 
+Merchandise imports (CIF) 
+
+-9.7 
+
+-13.9 
+
+-10.6 
+
+-11.6 
+
+-11.3 
+
+-18.7 
+
+-18 
+
+-22 
+
+-22.8
+
+-17.8 
+-23.8 
+-6.4 
+
+-1.8 
+-3.4 
+14.1 
+
+5.6 
+3.4 
+-3.4 
+
+2.3 
+0.2 
+6.2 
+
+1.0 
+0.5 
+8.9 
+
+2.0 
+7.0 
+-0.9 
+
+... 
+... 
+
+... 
+...
+... 
+
+...
+
+...
+
+Public finance
+(as % of GDP at current
+market prices)'
+Current revenues 
+Current expenditures 
+Current account surplus (+) or
+deficit (-) 
+Capital expenditure 
+Foreign financing 
+
+26.5 
+16.9 
+
+26.5 
+17.7 
+
+27.7 
+18.2 
+
+25.9 
+17.4 
+
+21.1 
+16.9 
+
+37.1 
+19.1 
+
+28.8 
+19.0 
+
+27.7 
+18.7 
+
+26.7
+18.3
+
+9.7 
+5.9 
+0.9 
+
+8.9 
+7.3 
+-1.8 
+
+9.4 
+7.5 
+0.5 
+
+8.6 
+13.3 
+1.1 
+
+11.9 
+9.1 
+0.8 
+
+18 
+11.0 
+-0.6 
+
+9.8 
+
+9.0 
+... 
+... 
+
+8.4
+...
+...
+
+... 
+
+Monetary indicators
+M2/GDP (at current market prices) 
+GrowthofM2(%) 
+Private sector credit growth / total credit
+growth (%) 
+
+16.0 
+8.0 
+
+14.7 
+4.1 
+
+14.6 
+5.1 
+
+14.7 
+12.6 
+
+15.7 
+17.3 
+
+15.7 
+9.1 
+
+... 
+... 
+
+... 
+...
+
+...
+
+-36.0 
+
+-29.4 
+
+-290.4 
+
+351.9 
+
+156.9 
+
+-62.2 
+
+... 
+
+... 
+
+...
+
+Price indices( YR85 =100)
+Merchandise exportprice index 
+Merchandise import price index 
+Merchandise terms oftrade index 
+Real exchange rate (US$/LCU)r 
+
+139.0 
+117.1 
+118.7 
+66.2 
+
+123.6 
+105 
+117.7 
+
+104.0 
+99 
+105.3 
+
+103.5 
+94.1 
+110 
+
+114.2 101.6 
+106 
+97.8 
+115.8 107.7 
+
+102.6 
+103 
+95.3 
+94.8 
+107.7 108.7 
+
+105
+95.4
+110.1
+
+..
+
+Consumer price index (% growth rate) 
+GDP deflator (% growth rate) 
+
+4.5 
+... 
+
+8.0 
+... 
+(contn 'd)
+
+4.0 
+2.1 
+
+3.3 
+6.1 
+
+4.7 
+5.2 
+
+4.0 
+3.6 
+
+3.8 
+3.7 
+
+3.5 
+3.6 
+
+3.5
+3.6
+
+Mauritania CAS 
+
+Base-case (most likely) projection
+
+Selected Indicators Table
+
+Annex B6
+Page 3 of 4
+
+1997 
+
+199 
+
+1999 
+
+2000 
+
+200 
+
+200 21003 2004 2005
+
+Part A: Main Macro Aggregates
+
+Annual growth rates, calculatedfrom constant
+1985 price data
+GDP(mp) percapita 
+Total consumption per capita 
+
+GDP at market prices 
+Total consumption 
+Private consumption 
+Gross domestic investment (GDI) 
+Gross dom. fixed investment (GDFI) 
+
+Exports (GNFS) 
+of which Goods 
+Imports (GNFS) 
+of which Goods 
+
+Savings-investment balances, as percentage of
+GDP
+Gross Domestic investment 
+of which Government investment 
+
+Foreign savings 
+Gross national savings 
+
+Gross domestic savings 
+
+0.4 
+-1.9 
+
+3.2 
+0.9 
+1.0 
+15.9 
+15.9 
+
+-18.3 
+-17.8 
+-11.6 
+-6.4 
+
+17.6 
+5.6 
+
+-0.1 
+17.6 
+
+7.9 
+
+0.9 
+6.4 
+
+3.7 
+9.3 
+9.1 
+0.0 
+0.0 
+
+1.3 
+-2.6 
+
+4.1 
+4.2 
+3.7 
+-8.9 
+-8.9 
+
+-7.3 
+-11.8 
+13.7 
+0.7 
+
+9.0 
+-7.4 
+-1.1 
+-14.9 
+
+19.0 
+5.6 
+
+3.6 
+15.4 
+
+17.5 
+5.8 
+
+-2.2 
+21.7 
+
+2.3 
+3.6 
+
+5.1 
+0.0 
+-0.5 
+41.3 
+41.3 
+
+8.7 
+7.8 
+14.8 
+13 
+
+30.3 
+7.5 
+
+-0.8 
+31.1 
+
+5 
+
+6.3 
+
+18.4 
+
+1.9 
+1.4 
+
+4.6 
+6.3 
+1.3 
+-4.8 
+-4.8 
+
+-2.2 
+-3.9 
+4.8 
+4 
+
+26.7 
+8.3 
+
+5.7 
+21 
+
+14 
+
+2.4 
+2.2 
+
+5.0 
+4.1 
+0.7 
+6.4 
+6.4 
+
+-4.0 
+-4.6 
+9.9 
+7 
+
+2.8 
+3.0 
+
+5.5 
+4.8 
+4.8 
+14.0 
+14.0 
+
+5.5 
+5.4 
+9.6 
+7 
+
+3.3 
+2.9 
+
+6.1 
+5.7 
+3.2 
+10.0 
+10.0 
+
+7.9 
+8.1 
+8.0 
+5 
+
+24.7 
+10.7 
+
+26.9 
+11.4 
+
+27.8 
+11.9 
+
+-3.8 
+28.5 
+
+5.7 
+21.2 
+
+5.9 
+21.9 
+
+3.7
+3.3
+
+6.4
+5.5
+4.6
+10.3
+10.3
+
+7.3
+7.2
+7.2
+13
+
+28.5
+12.2
+
+6.8
+21.7
+
+6 
+
+7.6 
+
+7.6 
+
+7.8
+
+Other
+GDP implicit deflator (% change) 
+Annual average exchange rate (LCU/US$) 
+
+Index real average exchange rate (YR85 =100) 
+
+Termsoftradeindex(YR85=100) 
+Incremental capital-output ratio (GDI based) 
+Import elasticity with respect to GDP 
+Money growth 
+
+5.4 
+151.9 
+
+66.2 
+
+118.7 
+6.7 
+-203.5 
+8.0 
+
+9.4 
+6.2 
+188.5 209.5 
+
+6.1 
+240.0 
+
+5 
+254.3 
+
+.. 
+
+.. 
+
+.. 
+
+.. 
+
+117 105.3 
+6.5 
+5.7 
+381.5 
+-83.4 
+4.1 
+5.1 
+
+110 
+4.0 
+122.2 
+12.6 
+
+115.8 
+5.9 
+192.6 
+17.3 
+
+3.6 
+
+3.7 
+
+3.6 
+
+3.6
+
+.. 
+
+.. 
+
+..
+
+..
+
+107.7 107.7 108.7 110.1
+4.8 
+4.5 
+4.5 
+4.3
+-18.4 
+86.2 
+85.9 
+75.8
+9.1 
+
+..
+
+(contn 'd)
+
+Mauritania CAS 
+
+Selected Indicators Table
+
+Annex B6
+Page 4 of 4
+
+Part B: Government Finance Indicators
+
+Percentage of GDP
+Total revenues, of which 
+Tax revenues 
+Total expenditures, of which 
+Govemmentconsumption 
+Deficit(-)/Surplus(+) excl grants 
+Financing:
+Foreign (external net) 
+Monetary sector 
+Other domestic 
+
+Other
+
+Esdmate 
+
+Projecdon
+
+1997 
+
+1998 
+
+1999 
+
+2000 
+
+2001 2002 2003 2004 2005
+
+27.0 
+15.7 
+22.7 
+9.7 
+4.3 
+
+... 
+... 
+... 
+
+27.1 
+15.7 
+25.0 
+10.0 
+2.2 
+
+... 
+... 
+... 
+
+27.9 
+14.9 
+25.8 
+10.6 
+2.2 
+
+... 
+... 
+... 
+
+25.9 
+14.8 
+30.3 
+10.6 
+-4.5 
+
+6.4 
+-7.8 
+0.2 
+
+21.1 
+14.2 
+26.7 
+9.9 
+-5.6 
+
+6.0 
+-9.4 
+1.6 
+
+37.1 28.8 
+14.4 
+14.4 
+30.8 
+31 
+11.2 
+11.0 
+6.3 
+-2.2 
+
+7.0 
+-13.3 
+2.8
+
+... 
+
+27.7 
+14.6 
+30.9 
+11.1 
+-3.1 
+
+...
+-
+
+26.7
+14.6
+30.9
+11.0
+-4.2
+
+--
+
+Total Debt/GDPmp 
+Total interest payments/Tax revenues 
+
+194 
+18.8 
+
+214 
+22.4 
+
+212 
+22.6 
+
+189.5 
+22.2 
+
+212 
+21.1 
+
+...
+19.5 
+
+18.1 
+
+15.8 
+
+14.4
+
+Part C: Debt & Liquidity Indicators
+Total DOD and TDS
+DOD (US$ millions) 
+DOD / GDPmp ratio 
+TDS (US$ millions) before debt relief 
+
+TDS/Exports (XGS) ratio exci arrears
+reduction 
+
+Total gross reserves (months' imports G&S) 
+
+Part D: External Financing Plan
+(USS, millions)
+Official transfers 
+Private investment (net) 
+Net Long term borrowing exci IMF 
+Adjustments to scheduled debt service 
+
+Financing Requirements (incl IMF) 
+of which current account deficit 
+
+2456 
+194 
+106.5 
+
+2444 
+214 
+92 
+
+2033 
+219 
+107 
+
+1766 2043.6 
+189 
+... 
+120 
+120 
+
+...
+
+... 
+
+... 
+...
+123.4 120.8 104.6 
+
+102.2
+
+29.8 
+
+4.3 
+
+20 
+
+4.1 
+
+22.5 
+
+24.6 
+
+15.5 
+
+12.3 
+
+11 
+
+10.3 
+
+10
+
+5.4 
+
+6.5 
+
+6.3 
+
+7.5 
+
+7 
+
+6.9 
+
+6.9
+
+70 
+112 
+-3.3 
+-0.3 
+... 
+... 
+49.0 44.5 
+
+81.4 
+0.0 
+... 
+42.4 
+
+... 
+... 
+
+... 
+... 
+
+-18.8 
+-41.0 
+
+66 
+40.0 
+.. 
+105.6 
+
+11.1 
+-58.1 
+
+42.2 
+14.4 
+.
+46.7 
+
+-97.5 
+-82.6 
+
+36.6 38.4 
+17.7 
+18.7 
+.. 
+... 
+21.5 
+-
+
+35.8 
+19.9 
+... 
+
+38.1
+21.2
+...
+*-
+
+0.9 -76.7 
+-72.8 
+0.2 -97.3 -101.3 
+
+-83
+-199.9
+
+a. 
+b. 
+c. 
+d. 
+e. 
+f 
+
+If GDP components are estimated at factor cost, a footnote indicating "Data-YR" fact should be added.
+"GNFS" denotes "goods and nonfactor services."
+Includes net unrequitted transfers excluding official capital grants.
+Includes use of IMF resources
+Should indicate the level of the govemment to which the data refer.
+"LCU" denotes "local currency units." An increase in US$/LCU denotes apprec
+
+Mauritania CAS 
+
+Total debt outstanding and 
+disbursed (TDO) (US$m)a
+
+Annex B7
+
+Page 1 of 1
+
+Key Exposure Indicators
+
+Estimate 
+
+Projection
+
+1997 
+
+1998 
+
+1999 
+
+2000 
+
+2001 
+
+2002 
+
+2003 
+
+2004 2005
+
+2456 
+
+2444 2033.1 
+
+1766 
+
+2043.6 
+
+... 
+
+... 
+
+... 
+
+...
+
+Net disbursements (US$m)' 
+
+-18 
+
+-4.8 
+
+-38.2 
+
+-8.4 
+
+-29.7 
+
+-31.7 
+
+-32.7 
+
+-27.2 -25.2
+
+106 
+
+92 
+
+107 
+
+120 
+
+120 
+
+123.4 
+
+120.8 
+
+104.6 102.2
+
+Total debt service (TDS) 
+
+(Us$m)a before debt relief
+
+Debt and debt service indicators (%)
+TDO/XGSb 
+TDO/GDP 
+
+... 
+194 
+
+612.5 
+214 
+
+559.8 
+212 
+
+393 
+189.5 
+
+... 
+212 
+
+.
+... 
+
+...
+
+.
+
+... 
+
+...
+
+10
+
+TDS/XGS 
+
+29.8 
+
+20 
+
+22.5 
+
+24.6 
+
+15.5.. 
+
+12.3 
+
+11.0 
+
+10.3 
+
+IBRD exposure indicators (%)
+IBRD DS/public DS 
+Preferred creditor DS/public DS (%) 
+IBRD DS/XGS 
+IBRD TDO (US$m)d 
+Of which present value of
+guarantees (US$m)
+
+Share of IBRD portfolio (%) 
+
+IDA TDO (US$m)d 
+
+IFC (US$m)
+Loans 
+
+Equity and quasi-equity /c 
+
+MIGA
+
+MIGA guarantees (US$m) 
+
+2.2 
+62.9 
+0.5 
+6 
+
+2.3 
+77.8 
+0.5 
+3 
+
+2.1 
+77.8 
+0.5 
+1 
+
+1.9 
+73.9 
+0.4 
+2 
+
+... 
+
+... 
+... 
+
+.
+... 
+...
+... 
+
+...
+... 
+
+* -
+
+...
+
+*-
+
+... 
+373 
+
+398 
+
+.. ... 
+415 
+
+...
+440 
+
+... 
+
+...
+
+... 
+
+... 
+
+... 
+
+... 
+
+... 
+
+... 
+
+... 
+
+... 
+
+...
+
+...
+
+... 
+
+... 
+
+...
+
+Mauritania CAS 
+
+Annex B8
+Page 1 of 2
+
+IFC for Mauritania
+
+Mauritania
+Statement of IFC's
+Held and Disbursed Portfolio
+As of 12/31/2001
+(In US Dollars Millions)
+
+Held 
+
+Disbursed
+
+Loan 
+
+FY Approval Company 
+1997 
+AEF Codipal 
+1996 
+AEF Mayo Fish 
+1997 
+AEF STEP 
+1997 
+BMCI 
+1996/00 
+GBM 
+0 
+PAL-Tiviski 
+1999 
+SEF Lemhar 
+
+Equity Quasi Partic Loan Equity Quasi Partic
+0 
+0.47 
+0 
+0 
+0 
+0.47 
+0 
+0.17 
+0 
+0 
+0 
+0.17 
+0 
+0 
+0 
+0.56 
+0 
+0 
+0 
+0 
+0 
+5.45 
+0 
+0 
+0 
+0 
+0 
+7 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+
+0 
+0 
+0.56 
+5.45 
+7 
+0.44 
+0.39 
+
+Total Portfolio: 
+
+13.84 
+
+0 
+
+0.64 
+
+0 13.01 
+
+0 
+
+0.64 
+
+0
+0
+0
+0
+0
+0
+0
+
+0
+
+Approvals Pending Commitment
+
+Loan 
+
+Equity Quasi Partic
+
+Mauritania CAS 
+
+Annex B8
+Page 2 of 2
+
+Bank Group Operations Portfolio (IBRD/IDA and Grants)
+As Of Date 04/0212002
+
+89.3
+
+603.1
+
+Closed Projects 51
+IBRD/IDA I
+Total Disbursed 
+(Active)
+of which has 0.00
+been repaid
+Total Disbursed 
+(Closed)
+of which has 114.8
+been repaid
+Total Disbursed 
+(Active + Closed)
+of which has 114.8
+been repaid
+Total Undisbursed 203.0
+(Active)
+Total Undisbursed 1.4
+(Closed)
+Total Undisbursed 
+(Active + Closed)
+
+204.4
+
+692.4
+
+Active Proiects 
+
+Project ID 
+
+Project Name 
+
+P064570 
+P071308 
+
+P001857 
+P071881 
+
+P035689 
+P044711 
+
+P057875 
+
+P063791 
+P066345 
+P046650 
+P055003 
+P001875 
+
+P069095 
+Overall result 
+
+S 
+S 
+
+Cultural Heritage 
+Education Sector Devt. 
+Program
+General Education 
+Global Distance Learning 
+Center
+Health Sector Investment 
+Integrated Devt Program 
+(PDIAIM)
+Mining Sector Capacity 
+Building
+Telecom. & Postal Reform 
+Energy/Water/Sanitation 
+Regional Power 
+Nutrition (LIL) 
+Natural Resources Mgmt 
+(PGRNP)
+Urban Development Program S 
+
+S 
+
+HS 
+S 
+U 
+S 
+S 
+
+Last PSR 
+Supervision Rating 
+
+Develooment 
+Obiectives 
+S 
+S 
+
+Imolement. 
+Proaress 
+S 
+S 
+
+Fiscal 
+Year
+2000 
+2002 
+
+S 
+S 
+Not effective Not effective 
+
+Oriainal Amount In USS 
+Millions
+IDA GRANT Cancel. Undisb. 
+
+IBRD 
+
+Difference Between
+Expected and Actual
+Disbursements"
+
+Orig. 
+
+Frm Revd
+
+5 
+49.2 
+
+35 
+3.3 
+
+24 
+38.1 
+
+15 
+
+10.8 
+9.9 
+11.1 
+4.9 
+18 
+
+70 
+294.3 
+
+3.7 
+49.2
+
+5.8 
+3.3 
+
+14.2 
+22.4 
+
+8.4 
+
+6.4 
+6.2 
+3.3 
+3 
+7.1 
+
+2.1
+
+32.1
+1.3
+
+11.6 
+29.5
+
+3.6
+
+6.2
+5.8
+3.4
+1.7 
+6
+
+8.2
+
+2.6
+
+70 
+203.0 
+
+4.8
+108.1 
+
+10.8
+
+1995 
+2002 
+
+1998 
+2000 
+
+1999 
+
+1999 
+2000 
+1997 
+1999 
+1997 
+
+2002 
+Result 
+
+S 
+S 
+
+S 
+
+S 
+S 
+U 
+S 
+S 
+
+S 
+
+Mauritania CAS 
+
+CAS PROGRAM MATRIX
+
+Annex B9
+Page 1 of 5
+
+PRSP 
+OBJECTIVES 
+
+Accelerating 
+Private Sector- 
+Led Growth 
+
+GIRM's STRATEG' 
+
+Maintaining macroeconomic stability 
+
+-
+
+SELECTED GIRM & WBG PROGRESS 
+BENCHMARKS 
+
+WBG INSTRUMENTS 
+AND TIMING (* DENOTES 
+
+_________.________________.________ 
+
+HIGH CASE) 
+
+. Maintain stable macro-framework 
+* Ensure sustained and diversified real economic 
+growth 
+
+* PRSC (FY03- 04- 05) 
+* CEM (FY03)
+* Econ. Regulation (FY03)
+
+OTHER
+DEVELOPMENT
+PARTNERS
+IMF, EU, AfDB, FR, UN
+
+* Ensure fiscal and external position 
+* Satisfactory implementation of PRSP 
+
+. Develop competition in the financial * Implementation of financial sector development 
+sector and stimulate savings 
+study recommendations 
+* Develop appropriate savings mobilization 
+instruments 
+
+* PRSP monitoring (FY03-04-
+05)
+* IDF for PRSP implementation
+(FY03)
+* Financial Sector Reform 
+(FY03)
+* PDIAIM I (FY00), PDIAIM
+II (FY05)*
+
+. Fostering incentive framework for 
+private sector 
+
+* Application of revised codes for business laws 
+* PRSC (FY03-04-05) 
+* Reduction and simplification of direct and indirect * Economic Regulation (FY03)
+tax system 
+* Labor Market Study (FY04) *
+* Suppression of obstacles.to competition and 
+* IDF for Judicial Reform and
+progressive expansion of the jurisdiction of the 
+Private Sector Development
+regulatory authority
+
+IMF, FR, GER
+
+IMF, FR, UNDP
+
+. Improve the economy's 
+attractiveness to foreign investment 
+
+* Reduce cost of doing business (transport, water, 
+electricity, telecomm.) and foster private 
+participation in all sectors 
+* Promotion of export sectors: mines, tourism, 
+fishing, agriculture and livestock 
+* Increase volume/value of non-traditional exports 
+
+* PRSC ((FY03-04-05) 
+IMF, FR, WTO, UNDP,
+* Water Supply Project (FY04) UNTAC, ITC, IFAD, FAO
+* Mining Sector Capacity
+Building Project and
+Supplemental Credit (FY99-
+03)
+* Telecoms & Postal Reform
+Project, PDIAIM (FY00),
+PDIAIM 11 (FY05) *
+* PGRNP I (FY97), PGRNP II
+(FY05)
+* MIGA & IFC activities
+* Private participation in
+infrastructure (FY04) *
+* Legal and Regulatory
+
+Mauritania CAS 
+
+Annex B9
+Page 2 of 5
+
+PRSP 
+OBJECTIVES 
+
+GIRAM's STRATEGY-i 
+
+SELECTED GIRM & WBG PROGRESS 
+BENCHMARKS 
+
+* Diversify agricultural production 
+and improve the productivity of 
+small farmers 
+
+* Develop livestock potential, increase * Integrate livestock sector into economy 
+its productivity and exports 
+* Implementation of Farming Code 
+* Implementation of priority investment program 
+* implementation of a support program for small 
+facilities to develop livestock by-products for 
+export
+* Consolidation of opening up of agricultural 
+production 
+* Support for diversification for domestic and 
+intemational markets, and training for small 
+farmers 
+* Implementation of the national agronomics 
+research plan and improvement of extension 
+services
+* Improve marketing channels for inputs and
+agricultural products
+* Implementation of rural infrastructure program
+(construction of roads and works to open up arid
+areas)
+
+W WBG INSTRUMENTS 
+AND TIMING (* DENOTES 
+
+HIGH CASE) 
+
+Framework for Oil Sector
+(FY03)
+
+OTHER
+DEVELOPMENT
+PARTNERS
+
+__Consultative Group (FY05)
+
+* PGRNP I (FY97) - PGRNP II FR, FAO, IFAD
+(FY05)
+* Agriculture statistics (FY05)*
+* Rural business development
+services (FY05)*
+
+EU, FR, GER, AfDB,
+IDB, IFAD, FAO
+
+* PDIAIM I (FY97) -PDIAIM 
+II (FY05)* 
+* PGRNP I (FY97) - PGRNP II
+(FY05)
+* Rural business Development
+Services (FY05)*
+* Gender Assessment (FY03)*
+
+Fostering Basic 
+Infrastructure to 
+Support Growth 
+
+.
+
+Increase the supply, quality and 
+accessibility of basic infrastructures 
+
+EU, FADES, AfDB, IDB,
+FR, GER, UNDP
+
+* Revision of land instruments to facilitate access to * Urban Dev. Prog. (FY02) 
+real property, particularly for the poor 
+* PRSCs (FY03-04-05) 
+* Implementation of the Urban Development 
+* Energy/Water/Sanitation
+Program 
+Project (FY00)
+* Extension of program providing access to low-cost * PDIAIM I (FY00), PDIAIM
+housing 
+11 (FY05)*, PRGNP I (FY97),
+* Private sector participation in the delivery of basic 
+PRGNP II (FY05)
+services - water, energy, sanitation 
+* Water Supply Project (FY04)
+* Issues and Perspectives of the
+Housing Sector (FY04)*
+* Private Participation in
+Infrastructure (FY04)*
+
+Mauritania CAS 
+
+PRSP 
+OBJECTIVES 
+
+GIRM's STRATEGY 
+
+SELECTED GIRM & WBG PROGRESS 
+BENCHMARKS 
+
+___________ 
+
+_________________________________ 
+
+WBG INSTRUMENTS 
+AND TIMING (* DENOTES 
+
+~~~~~~HIGH 
+
+CASE) 
+
+* Promote development of areas of 
+extreme poverty and involvement of 
+local communities 
+
+* Promote employment, micro- 
+finance, micro- and small businesses 
+
+* Continuation of regional and local programs to 
+* PRSCs (FY 03-04-05) 
+combat poverty involving local groups and NGOs * PDIAIM I (FY00), PDIAIM 
+11 (FY05)*, PGRNP I
+(FY97), PGRNP II (FY05)
+* PDU (FY02)
+* PRSP monitoring
+
+* IDF for PRSP implementation
+
+* Consolidation and extension of micro-credit 
+* Financial Sector Adjustment 
+programs 
+Project (FY03) 
+* Continuation and implementation of program to 
+* Labor Market Study (FY04)*
+incorporate young graduates to the labor market, in * IDF on Legal Status of
+collaboration with the private sector 
+Women
+* Improve legal and institutional framework of the 
+* IDF for PRSP implementation
+craft industry 
+* Gender Assessment (FY03)*
+* Expand the geographic reach of the micro-finance
+program
+* Increase the monetarization of farm and artisanal
+fisheries output
+* Promote income-generating activities
+
+Annex B9
+Page 3 of 5
+
+OTHER
+DEVELOPMENT
+PARTNERS
+
+EU, FADES, AfDB, IDB,
+FR, GER, UNDP
+
+IMF, GER, UIN, FR,
+AfDB,
+
+* Improve the natural resources 
+management and protect the 
+environment 
+
+* Implementation of international conventions on 
+the environment and PANE 
+* Improve management of renewable and non- 
+renewable resources 
+* Enhance the legal and institutional framework for 
+environmental management 
+
+EU, IFAD, FR, GR, UN,
+,N
+
+* Natural Resource 
+Management Capacity 
+Building project (FY05)
+* Mining Sector Capacity
+Building Project and
+Supplemental Credit (FY99,
+03)
+* Regulatory framework for oil
+sector (FY03)
+* Regional Program for
+Traditional Energy Sources
+
+(on-going)
+
+Mauritania CAS 
+
+Annex B9
+Page 4 of 5
+
+PRSP 
+OBJECTIVES 
+
+Developing 
+Human 
+Resources and 
+Ensuring 
+Universal 
+Access to Basic 
+Infrastructure 
+and Services 
+
+GIRM's STRATEGY 
+
+SELECTED GIRM & WBG PROGRESS 
+BENCHMARKS 
+
+: ________________________ 
+
+._____________________:__________ 
+
+WBG INSTRUMENTS 
+AND TIMING (* DENOTES 
+
+HIGH CASE) 
+
+OTHER
+DEVELOPMENT
+
+PA R TN ERS
+
+. Raise access, equity, and both 
+internal and external efficiency, and 
+quality of the education 
+
+* Satisfactory implementation of the Education 
+Sector Development Program 
+
+Improve the health status and 
+indicators, reduce the burden of 
+expenditures on health on the poor; 
+and promote participation 
+
+* Satisfactory implementation of on-going Health 
+Sector Investment Project and Nutrition LIL 
+* Preparation and launching of a Multi-Sectoral 
+HIV/AIDS and Communicable Diseases Project 
+
+* ESDP First phase (FY02) 
+* Distance Learning Center
+Project (FY02)
+* IDF on Legal Status of
+Women
+* General Education project
+(extended to 12/31/02)
+* Labor Market Study (FY04)*
+* Gender Assessment (FY03)*
+* PRSC (FY03-04-05) 
+* Health Sector Investment 
+Project (FY98)
+* Nutrition LIL (FY99)
+
+FR, AfDB, IDB, UN, JN
+
+EU, AfDB, IDB, UN,
+FADES, FR, GER
+
+. Improve supply of and access to 
+quality drinking water 
+
+* Multi-Sectoral HIV/AIDS
+and Communicable Diseases
+Project (FY03)
+* Market dynamics in the
+health sector (FY04)*
+* Gender Assessment (FY03)*
+* Improve the living conditions of the population of * Water Supply project (FY04) FADES, AfDB, EU, IDB,
+FR, GER, JN
+Nouakchott by increasing the quality/quantity of 
+* PRSC (FY03-04-05) 
+potable water available 
+* Energy/Water/Sanitation
+* Involvement of the private sector in financing, 
+Project (on-going)
+management and maintenance of infrastructures
+* Strengthening of the capacities of new operators 
+. Promote access to universal services * promote integrated universal services solutions 
+(drinking water, electricity, mail, 
+and implementation of its infrastructure 
+NTIC) among population groups in 
+development program 
+disadvantaged areas 
+* Implement postal reform 
+* Establishment of a transparent legal framework to 
+provide incentives for NTIC operators 
+
+* Gender Assessment
+* Urban Development 
+Program (FY02) 
+* PRSC (FY03-04-05)
+* Telecoms & Postal Reform
+
+FADES, AfDB, EU, IDB,
+FR
+
+project (on-going)
+* Energy/Water/Sanitation
+Project (on-going)
+* Private Participation in
+Infrastructure (FY04)*
+* Gender Assessment (FY03)*
+
+Mauritania CAS 
+
+PRSP 
+OBJECTIVES 
+
+Institutional 
+
+Development 
+and Govemance 
+
+GIRM's STRATEGY 
+
+SELECTED GIRM & WBG PROGRESS 
+BENCHMARKS 
+
+WBG INSTRUMENTS 
+AND TIMING (* DENOTES 
+
+________________________ 
+________________________________ 
+
+HIGH CASE) 
+
+. Strengthening the judiciary system 
+
+* Continuation ofjudicial reform 
+
+* PRSC (FY03-04-05) 
+
+* Implementation of a program to strengthen judicial * IDF for Legal Status of
+capacities and infrastructures 
+Women
+
+Annex B9
+Page 5 of 5
+
+OTHER
+DEVELOPMENT
+
+PA RTN ERS
+
+FR, UN
+
+. Reform public sector 
+
+* E-Government 
+
+* PRSC (FY03-04-05) 
+
+EU, FR, GER
+
+. Decentralize public administration 
+
+* Strengthen local govemments responsive to 
+population needs 
+* Decentralize delivery of public services 
+
+* Urban Development 
+Uran Deeomn
+Program (FY02)
+
+FR
+
+* IDF Judicial Reform &
+Private Sector (FY02)
+
+_ Improve the management of public 
+resources and accountability 
+
+* Strengthen management and monitoring 
+* CFAA (FY03) 
+IMF, EU, UNDP, FR,
+mechanism of public resources 
+* IDF for Procurement Reform GER
+* Computerization of expenditures 
+(FY03)
+* Submission of budget closure law to Parliament 
+* PRSP implementation (FY03)
+* Support to the government Audit Office for audits * PRSP monitoring
+and preparation of its annual report 
+* CAS (FY05)
+* Develop multi-sectoral framework for medium 
+* WBI learning program
+term expenditures 
+(FY02-03-04-05)
+* Assess impact of poverty-related public 
+* PRSCs (FY03-04-05)
+expenditures upon priority sectors 
+* Consultative Group (FY05)
+* Improve coordination of aid
+* Increase absorptive capacity
+* Implement good governance action-plan
+
+. Building capacity 
+
+* Implementation of the Capacity Building 
+Programs 
+
+IMF, UNDP, AfDB, FR,
+GER
+
+* Natural Resource Mgmt
+Capacity Building Project 
+(FY05) 
+* Mining Sector Capacity
+Building Project and
+Supplemental Credit (FY99,
+03)
+
+* WBI LP
+
+Mauritania CAS Page 
+
+CAS Summary of Development Priorities
+
+As Of Date 04/0212002
+
+Annex B10
+1 of 1
+
+Network area 
+
+Country 
+
+perfornance8
+
+Major issue' 
+
+Country 
+
+pfiorityC 
+
+Bank
+
+pniority'
+
+Poverty Reduction & Economic Management
+
+Poverty reduction 
+Economic policy 
+Public sector 
+Gender 
+
+Human Development Department
+Education 
+Health, nutrition & population 
+Social protection 
+
+Good 
+Good 
+Good 
+Good 
+
+Rural poverty 
+None 
+Civil service reform 
+Inequality 
+
+Excellent Quality 
+Good 
+Primary care 
+Good 
+Vulnerable groups 
+
+Environmentally & Socially Sustainable Development
+
+Rural development 
+Environment 
+Social development 
+
+Finance, Private Sector & Infrastructure
+Financial sector 
+Private sector 
+Energy & mining 
+Infrastructure 
+
+Good 
+Fair 
+Good 
+
+Good 
+Good 
+Good 
+Good 
+
+Crop diversification 
+Desertification 
+Inequality 
+
+High 
+High
+High 
+High
+Medium Medium
+Medium Medium
+
+High 
+High 
+High 
+
+High
+High
+High
+
+High 
+High
+Medium Medium
+High 
+High
+
+Promote financial intermediation 
+Eliminate remaining admin. barriers 
+Private investment 
+Water supply provision to main cities 
+
+High 
+High
+Medium Medium
+Medium Medium
+High 
+High
+
+a. Use 'excellent,' "good," "fair," or"poor."
+
+b. Indicate principal country-specific problems (e.g., for poverty reduction, "rural poverty;" for education, 'female secondary completion;"
+for environment, "urban air pollution").
+c. To indicate priority, use "low," "medium," or "high."
+d. Give explanation, if priorities do not agree; for example, another MDB may have the lead on the issue, or there may be ongoing
+dialogue.
+
+
