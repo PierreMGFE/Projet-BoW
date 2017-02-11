@@ -4,3 +4,12 @@ graphes en sortie
 clustering données économiques
 save as csv
 executer ligne de commande
+
+
+# countvectorizer
+# tfidfvectorizer
+# fonctions dans MFE topic modelling
+# fréquence minimale des mots
+# 0.3
+# 0.4
+# 0.5
