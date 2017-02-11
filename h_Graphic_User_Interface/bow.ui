@@ -976,13 +976,4 @@
  </widget>
  <resources/>
  <connections/>
- <buttongroups>
-  <buttongroup name="format_buttongroup">
-   <property name="exclusive">
-    <bool>true</bool>
-   </property>
-  </buttongroup>
-  <buttongroup name="frequency_buttongroup"/>
-  <buttongroup name="factorisation_buttongroup"/>
- </buttongroups>
 </ui>
