@@ -29,6 +29,6 @@ class StemTokenizer(object):
         self.stemmer = SnowballStemmer("english", ignore_stopwords=False)
 
     def __call__(self, doc):
-        return [t for t in wordpunct_tokenize(doc) if t.isalpha() and (t.lower() not in banned_words) and len(t) > 1]
+        return [t for t in wordpunct_tokenize(doc) if t.isalpha() and (t.lower() not in banned_words) and len(t) > 4]
 
 

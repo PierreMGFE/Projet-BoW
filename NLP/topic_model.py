@@ -14,7 +14,7 @@ import importlib
 importlib.reload(tokens)
 
 
-year = '2013'
+year = '2012'
 data_year = data[year]
 
 countries = [country for country in data_year.keys()]
@@ -22,9 +22,12 @@ reports = [report for report in data_year.values()]
 
 
 # To remove
-n_features = 2000
-n_topics = 3
+n_features = 100
+n_topics = 4
 most_important = 20
+
+df_max = 0.6
+df_min = 0.1
 
 
 class TopicModelling():
@@ -62,10 +65,10 @@ class TopicModelling():
         # TODO : change year
         if technique == 'count_vectorizer':
             self.vectorizer = CountVectorizer(input='filename', max_features=n_features, stop_words='english',
-                                              tokenizer=tokens.StemTokenizer())
+                                              tokenizer=tokens.StemTokenizer(), max_df=df_max, min_df=df_min)
         elif technique == 'tf_idf':
             self.vectorizer = TfidfVectorizer(input='filename', max_features=n_features,
-                                              tokenizer=tokens.StemTokenizer())
+                                              tokenizer=tokens.StemTokenizer(), max_df=df_max, min_df=df_min)
         else:
             raise ValueError("technique must belong to {'count_vectorizer','tf-idf'} ")
         # Document-term matrix
