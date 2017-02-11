@@ -304,7 +304,9 @@ class bow_mainwindow(QtWidgets.QMainWindow):
                         for i in range(len(file) - 4):
                             txt_name += file[i]
                         txt_name += ".txt"
-                        os.system("pdftotext " + file + " " + txt_name)
+                        try:
+                            os.system("pdftotext " + file + " " + txt_name)
+
 
                 self.dir_path += "/converted"
 
