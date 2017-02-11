@@ -9,8 +9,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>366</width>
-    <height>533</height>
+    <width>524</width>
+    <height>886</height>
    </rect>
   </property>
   <property name="cursor">
@@ -27,8 +27,8 @@
    <widget class="QLabel" name="Source_folder">
     <property name="geometry">
      <rect>
-      <x>20</x>
-      <y>10</y>
+      <x>10</x>
+      <y>0</y>
       <width>211</width>
       <height>31</height>
      </rect>
@@ -45,8 +45,8 @@
    <widget class="QLabel" name="Analysis_output">
     <property name="geometry">
      <rect>
-      <x>20</x>
-      <y>280</y>
+      <x>10</x>
+      <y>220</y>
       <width>211</width>
       <height>31</height>
      </rect>
@@ -57,14 +57,14 @@
      </font>
     </property>
     <property name="text">
-     <string notr="true">Analysis outputs</string>
+     <string notr="true">Analysis parameters</string>
     </property>
    </widget>
    <widget class="QLabel" name="Source_format">
     <property name="geometry">
      <rect>
-      <x>20</x>
-      <y>110</y>
+      <x>10</x>
+      <y>90</y>
       <width>211</width>
       <height>31</height>
      </rect>
@@ -81,103 +81,49 @@
    <widget class="QLabel" name="Source_folder_description">
     <property name="geometry">
      <rect>
-      <x>30</x>
-      <y>40</y>
+      <x>20</x>
+      <y>20</y>
       <width>261</width>
-      <height>21</height>
+      <height>31</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <italic>true</italic>
+     </font>
+    </property>
     <property name="text">
-     <string notr="true">Select the folder where your source files are stored</string>
+     <string notr="true">Select the folder where the source files are stored :</string>
     </property>
    </widget>
    <widget class="QLabel" name="Source_format_description">
     <property name="geometry">
      <rect>
-      <x>30</x>
-      <y>140</y>
-      <width>321</width>
-      <height>41</height>
+      <x>20</x>
+      <y>130</y>
+      <width>401</width>
+      <height>31</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <italic>true</italic>
+     </font>
+    </property>
     <property name="text">
-     <string notr="true">Select the file type of your source files. If PDF is selected, corresponding files wil converted to TXT and saved to a subfolder before analysis.</string>
+     <string notr="true">Select the file type of your source files :</string>
     </property>
     <property name="wordWrap">
      <bool>true</bool>
     </property>
    </widget>
-   <widget class="QWidget" name="layoutWidget">
-    <property name="geometry">
-     <rect>
-      <x>30</x>
-      <y>320</y>
-      <width>133</width>
-      <height>111</height>
-     </rect>
-    </property>
-    <layout class="QVBoxLayout" name="analysis">
-     <item>
-      <widget class="QCheckBox" name="checkBox_3">
-       <property name="text">
-        <string notr="true">Stemmed words</string>
-       </property>
-       <property name="shortcut">
-        <string notr="true"/>
-       </property>
-       <attribute name="buttonGroup">
-        <string notr="true">choose_outputs</string>
-       </attribute>
-      </widget>
-     </item>
-     <item>
-      <widget class="QCheckBox" name="checkBox_4">
-       <property name="text">
-        <string notr="true">Word Frequency</string>
-       </property>
-       <property name="shortcut">
-        <string notr="true"/>
-       </property>
-       <attribute name="buttonGroup">
-        <string notr="true">choose_outputs</string>
-       </attribute>
-      </widget>
-     </item>
-     <item>
-      <widget class="QCheckBox" name="checkBox_2">
-       <property name="text">
-        <string notr="true">Themes</string>
-       </property>
-       <property name="shortcut">
-        <string notr="true"/>
-       </property>
-       <attribute name="buttonGroup">
-        <string notr="true">choose_outputs</string>
-       </attribute>
-      </widget>
-     </item>
-     <item>
-      <widget class="QCheckBox" name="checkBox_1">
-       <property name="text">
-        <string notr="true">Text-to-text distances</string>
-       </property>
-       <property name="shortcut">
-        <string notr="true"/>
-       </property>
-       <attribute name="buttonGroup">
-        <string notr="true">choose_outputs</string>
-       </attribute>
-      </widget>
-     </item>
-    </layout>
-   </widget>
    <widget class="QWidget" name="gridLayoutWidget">
     <property name="geometry">
      <rect>
       <x>30</x>
-      <y>190</y>
+      <y>160</y>
       <width>284</width>
-      <height>80</height>
+      <height>51</height>
      </rect>
     </property>
     <layout class="QGridLayout" name="format">
@@ -234,7 +180,7 @@
     <property name="geometry">
      <rect>
       <x>30</x>
-      <y>60</y>
+      <y>40</y>
       <width>311</width>
       <height>41</height>
      </rect>
@@ -280,15 +226,17 @@
    <widget class="QPushButton" name="launch_analysis_button">
     <property name="geometry">
      <rect>
-      <x>220</x>
-      <y>460</y>
-      <width>121</width>
-      <height>23</height>
+      <x>150</x>
+      <y>810</y>
+      <width>171</width>
+      <height>31</height>
      </rect>
     </property>
     <property name="font">
      <font>
-      <pointsize>8</pointsize>
+      <pointsize>12</pointsize>
+      <weight>50</weight>
+      <bold>false</bold>
      </font>
     </property>
     <property name="cursor">
@@ -301,13 +249,472 @@
      <string notr="true">Enter</string>
     </property>
    </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>240</y>
+      <width>121</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="text">
+     <string>Word frequency</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>460</y>
+      <width>181</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="text">
+     <string>Frequency matrix factorisation</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_3">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>710</y>
+      <width>171</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="text">
+     <string>Clustering</string>
+    </property>
+   </widget>
+   <widget class="QWidget" name="horizontalLayoutWidget_2">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>310</y>
+      <width>231</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <layout class="QHBoxLayout" name="horizontalLayout_2">
+     <item>
+      <widget class="QRadioButton" name="countvectorizer">
+       <property name="text">
+        <string notr="true">CountVectorizer</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">choose_frequency</string>
+       </attribute>
+      </widget>
+     </item>
+     <item>
+      <widget class="QRadioButton" name="tf_idf">
+       <property name="text">
+        <string notr="true">TF - IDF</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">choose_frequency</string>
+       </attribute>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QLabel" name="word_frequency_method_label">
+    <property name="geometry">
+     <rect>
+      <x>40</x>
+      <y>280</y>
+      <width>219</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <italic>true</italic>
+     </font>
+    </property>
+    <property name="toolTip">
+     <string notr="true"/>
+    </property>
+    <property name="text">
+     <string notr="true">Choose word frequency measuring method :</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_4">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>110</y>
+      <width>471</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string notr="true">If the source is PDF files, the files wil converted to TXT and saved to a subfolder for analysis.</string>
+    </property>
+    <property name="wordWrap">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_5">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>260</y>
+      <width>461</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string notr="true">All words present within the source will be saved as features and assigned a frequency per text.</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="matrix_factorisation_method_label">
+    <property name="geometry">
+     <rect>
+      <x>40</x>
+      <y>500</y>
+      <width>219</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <italic>true</italic>
+     </font>
+    </property>
+    <property name="toolTip">
+     <string notr="true"/>
+    </property>
+    <property name="text">
+     <string notr="true">Choose matrix factorisation method :</string>
+    </property>
+   </widget>
+   <widget class="QWidget" name="horizontalLayoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>530</y>
+      <width>231</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <layout class="QHBoxLayout" name="horizontalLayout">
+     <item>
+      <widget class="QRadioButton" name="nmf">
+       <property name="toolTip">
+        <string notr="true">Non-negative Matrix Factorization</string>
+       </property>
+       <property name="text">
+        <string>NMF</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">choose_factorisation</string>
+       </attribute>
+      </widget>
+     </item>
+     <item>
+      <widget class="QRadioButton" name="lda">
+       <property name="toolTip">
+        <string notr="true">Latent Dirichlet Allocation</string>
+       </property>
+       <property name="text">
+        <string notr="true">LDA</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">choose_factorisation</string>
+       </attribute>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QLabel" name="label_6">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>480</y>
+      <width>441</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>The features/text matrix will be factorised to make the most important features stand out.</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_7">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>730</y>
+      <width>351</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>TextLabel</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_8">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>750</y>
+      <width>281</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <italic>true</italic>
+     </font>
+    </property>
+    <property name="text">
+     <string notr="true">Choose the number k of clusters that will be created :</string>
+    </property>
+   </widget>
+   <widget class="QSpinBox" name="number_clusters">
+    <property name="geometry">
+     <rect>
+      <x>90</x>
+      <y>780</y>
+      <width>42</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="value">
+     <number>3</number>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_9">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>570</y>
+      <width>181</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="text">
+     <string>Topic Modelling</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_10">
+    <property name="geometry">
+     <rect>
+      <x>40</x>
+      <y>340</y>
+      <width>471</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <italic>true</italic>
+     </font>
+    </property>
+    <property name="text">
+     <string notr="true">Choose minimum and maximum source frequency (proportion of files in which a feature appears) :</string>
+    </property>
+   </widget>
+   <widget class="QWidget" name="horizontalLayoutWidget_3">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>370</y>
+      <width>231</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <layout class="QHBoxLayout" name="horizontalLayout_3">
+     <item>
+      <widget class="QLabel" name="label_11">
+       <property name="text">
+        <string notr="true">Minimum :</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QSpinBox" name="spinBox">
+       <property name="suffix">
+        <string notr="true">%</string>
+       </property>
+       <property name="maximum">
+        <number>100</number>
+       </property>
+       <property name="singleStep">
+        <number>1</number>
+       </property>
+       <property name="value">
+        <number>20</number>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_12">
+       <property name="text">
+        <string notr="true">Maximum :</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QSpinBox" name="spinBox_2">
+       <property name="suffix">
+        <string notr="true">%</string>
+       </property>
+       <property name="maximum">
+        <number>100</number>
+       </property>
+       <property name="singleStep">
+        <number>1</number>
+       </property>
+       <property name="value">
+        <number>70</number>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QLabel" name="label_13">
+    <property name="geometry">
+     <rect>
+      <x>40</x>
+      <y>400</y>
+      <width>381</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <italic>true</italic>
+     </font>
+    </property>
+    <property name="text">
+     <string notr="true">Choose the total number of features that will be selected for analysis :</string>
+    </property>
+   </widget>
+   <widget class="QSpinBox" name="spinBox_3">
+    <property name="geometry">
+     <rect>
+      <x>80</x>
+      <y>430</y>
+      <width>71</width>
+      <height>22</height>
+     </rect>
+    </property>
+    <property name="maximum">
+     <number>10000</number>
+    </property>
+    <property name="value">
+     <number>500</number>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_14">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>590</y>
+      <width>471</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>The features will be assembled into topics that link texts containing the same frequent features.</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_15">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>610</y>
+      <width>311</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <italic>true</italic>
+     </font>
+    </property>
+    <property name="text">
+     <string>Choose the number of topics that will be created :</string>
+    </property>
+   </widget>
+   <widget class="QSpinBox" name="spinBox_4">
+    <property name="geometry">
+     <rect>
+      <x>90</x>
+      <y>640</y>
+      <width>42</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="value">
+     <number>3</number>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_16">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>660</y>
+      <width>331</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <italic>true</italic>
+     </font>
+    </property>
+    <property name="text">
+     <string>Choose the number of features used to describe the topics :</string>
+    </property>
+   </widget>
+   <widget class="QSpinBox" name="spinBox_5">
+    <property name="geometry">
+     <rect>
+      <x>90</x>
+      <y>690</y>
+      <width>42</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="value">
+     <number>20</number>
+    </property>
+   </widget>
   </widget>
   <widget class="QMenuBar" name="menubar">
    <property name="geometry">
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>366</width>
+     <width>524</width>
      <height>21</height>
     </rect>
    </property>
@@ -501,15 +908,17 @@
   </connection>
  </connections>
  <buttongroups>
-  <buttongroup name="choose_outputs">
-   <property name="exclusive">
-    <bool>false</bool>
-   </property>
-  </buttongroup>
   <buttongroup name="choose_format">
    <property name="exclusive">
     <bool>true</bool>
    </property>
   </buttongroup>
+  <buttongroup name="choose_frequency"/>
+  <buttongroup name="choose_outputs">
+   <property name="exclusive">
+    <bool>false</bool>
+   </property>
+  </buttongroup>
+  <buttongroup name="choose_factorisation"/>
  </buttongroups>
 </ui>

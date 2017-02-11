@@ -295,10 +295,6 @@ class bow_mainwindow(QtWidgets.QMainWindow):
                     os.mkdir("converted")
                 pdfs = [file for file in os.listdir() if file.endswith(".pdf")]
 
-                # if os.name == "posix":
-                #     pass
-
-                # if os.name == "nt":
                 for file in pdfs:
                     txt_name = "converted/"
                     for i in range(len(file) - 4):
@@ -312,6 +308,7 @@ class bow_mainwindow(QtWidgets.QMainWindow):
 
                 self.dir_path += "/converted"
 
+            os.chdir(self.dir_path)
             self.input_files = [file for file in os.listdir() if file.endswith(".txt")]
 
             # TODO : access algorithm from here
