@@ -210,7 +210,7 @@ class Bow(QtWidgets.QMainWindow):
         font.setWeight(50)
         self.tf_idf_radioButton.setFont(font)
         self.tf_idf_radioButton.setCursor(QtGui.QCursor(QtCore.Qt.PointingHandCursor))
-        self.tf_idf_radioButton.setText("TF - IDF")
+        self.tf_idf_radioButton.setText("TF-IDF")
         self.tf_idf_radioButton.setObjectName("tf_idf_radioButton")
         self.vectorizer_buttonGroup.addButton(self.tf_idf_radioButton)
         self.dtm_frequency_buttons.addWidget(self.tf_idf_radioButton)

@@ -32,7 +32,7 @@ class TopicModelling():
         self.fileList = fileList
         self.countries = countries
 
-    def vectorize(self, technique='count_vectorizer'):
+    def vectorize(self, technique):
         """
         Parameters
         ----------
@@ -45,9 +45,9 @@ class TopicModelling():
 
         """
         # TODO : change year
-        if technique == 'count_vectorizer':
+        if technique == 'CountVectorizer':
             self.vectorizer = CountVectorizer(**self.params['Vectorizer'])
-        elif technique == 'tf_idf':
+        elif technique == 'TF-IDF':
             self.vectorizer = TfidfVectorizer(**self.params['Vectorizer'])
         else:
             raise ValueError("technique must belong to {'count_vectorizer','tf-idf'} ")
@@ -55,7 +55,7 @@ class TopicModelling():
         self.dtm = self.vectorizer.fit_transform(self.fileList).toarray()
         self.vocab = list(self.vectorizer.get_feature_names())
 
-    def factor(self, technique='NMF', print_topic=True):
+    def factor(self, technique, print_topic=True):
         """
         Parameters
         ----------
