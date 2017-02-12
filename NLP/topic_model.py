@@ -108,9 +108,6 @@ class TopicModelling():
         self.cluster = KMeans(init='k-means++', n_clusters=5, n_init=10)
         self.cluster.fit(self.doctopic)
 
-        predict_label = self.cluster.predict(self.doctopic)
-        return predict_label
-
     def plot(self, dims=2):
         """
         Parameters

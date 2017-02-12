@@ -42,6 +42,3 @@ def display(clustering, X, country_labels, step=.01):
     plt.xticks(np.linspace(x_min,x_max,10, endpoint=True))
     plt.yticks(np.linspace(y_min,y_max,10, endpoint=True))
     plt.show()
-
-# display(kmeans, reduced_data, country_label)
-display(tm.cluster, tm.doctopic, countries)
