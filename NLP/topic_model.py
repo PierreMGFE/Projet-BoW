@@ -51,9 +51,8 @@ class TopicModelling():
         else:
             raise ValueError("technique must belong to {'count_vectorizer','tf-idf'} ")
         # Document-term matrix
-        self.dtm = self.vectorizer.fit_transform(fileList).toarray()
+        self.dtm = self.vectorizer.fit_transform(self.fileList).toarray()
         self.vocab = list(self.vectorizer.get_feature_names())
-        print(self.dtm)
 
     def factor(self, technique='NMF', print_topic=True):
         """
@@ -76,7 +75,9 @@ class TopicModelling():
             words_topic = self.factorizer.components_
             # TODO : utile de trier ici ?
             sorted_words = np.argsort(words_topic, 1)
-            for i in np.arange(self.params[technique][0]):
+            print(self.params[technique])
+            n = list(self.params[technique].values())[0]
+            for i in np.arange(n):
                 vocab_topic = [self.vocab[topic_word] for topic_word in sorted_words[i]]
                 print('Topic {0}'.format(i))
                 print(*vocab_topic[:most_important])

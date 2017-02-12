@@ -26,7 +26,7 @@ params = {'Vectorizer' :
           {'input' : 'filename',
            'max_features' : 100,
            'tokenizer': LemmaTokenizer(),
-           'max_df': 0.8,
+           'max_df': 0.6,
            'min_df': 0.2
           },
           'NMF':
