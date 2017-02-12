@@ -39,10 +39,9 @@ def create_data(year, data1="NY.GNP.PCAP.CD", data2="NY.GDP.PCAP.KD.ZG"):
     data_year = data[year]
     countries = [country for country in data_year.keys()]
 
-    econ_data3, country_label = create_data(year=year)
     reduced_data = normalize(econ_data3, axis=0)
     country_label_lw = [transform(country) for country in country_label]
-    countries_lw = [g(country) for country in countries]
+    countries_lw = [transform(country) for country in countries]
     idxs = [idx for idx, country in enumerate(country_label_lw) if country in countries_lw]
 
 
@@ -51,3 +50,5 @@ def create_data(year, data1="NY.GNP.PCAP.CD", data2="NY.GDP.PCAP.KD.ZG"):
     country_label = [country_label[idx] for idx in idxs]
 
     return reduced_data, country_label
+
+x,y = create_data('2009')

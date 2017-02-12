@@ -5,7 +5,7 @@ from NLP.topic_model import TopicModelling
 import NLP.cluster_GNP_GDP as economic_expost
 import sklearn.cluster as clustering
 
-from NLP.cluster_GNP_GDP import
+from NLP.cluster_GNP_GDP import create_data
 
 from NLP.display_clustering import display
 
@@ -41,8 +41,7 @@ X_1 = tm.doctopic
 cluster_1 = tm.cluster
 country_labels_1 = cluster_1.labels_
 
-
-X_2 = economic_expost.reduced_data
+X_2,country_names_2 = economic_expost.create_data('2008')
 country_names_2 = economic_expost.country_label
 
 cluster_2 = clustering.KMeans(init='k-means++', n_clusters=5, n_init=10)
