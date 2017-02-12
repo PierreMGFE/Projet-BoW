@@ -3,11 +3,13 @@ from preprocessing.load_files import data
 import numpy as np
 from re import sub
 from sklearn.preprocessing import normalize
+import os.path
+from settings import ROOT_DIR
 
 
 # TODO : list of years instead of year
 def create_data(year, data1="NY.GNP.PCAP.CD", data2="NY.GDP.PCAP.KD.ZG"):
-    econ_data = pandas.read_excel("data_files/excel_data/economic_data.xlsx")
+    econ_data = pandas.read_excel(os.path.join(ROOT_DIR,"data_files/excel_data/economic_data.xlsx"))
     
     # select gni per capita and not missing data
     econ_data_gni_pc = econ_data[(econ_data["Series Code"] == data1) & (econ_data[year + " [YR" + year + "]"] != "..")]
