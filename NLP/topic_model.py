@@ -25,11 +25,13 @@ class TopicModelling():
             For instance, if self.dtm[:,1] corresponds to the frequency of the word "banana" in several texts,
             then vocab[1] = "banana"
     """
-    def __init__(self,params = None):
+    def __init__(self, params, fileList, countries):
         # TODO : how does SKLearn manage this?
         self.params = params
+        self.fileList = fileList
+        self.countries = countries
 
-    def vectorize(self, fileList, technique='count_vectorizer'):
+    def vectorize(self, technique='count_vectorizer'):
         """
         Parameters
         ----------
@@ -62,32 +64,27 @@ class TopicModelling():
         """
         if technique == 'NMF':
             # TODO : check if you must stock transformers
-           self.factorizer = NMF(n_components=n_topics,
-                                 random_state=1,
-                                 alpha=0.5)
+           self.factorizer = NMF(**self.params['NMF'])
         elif technique == 'LDA':
-            self.factorizer = LatentDirichletAllocation(n_topics=n_topics, max_iter=5,
-                                                        learning_method='online',
-                                                        learning_offset=50.,
-                                                        random_state=0)
+            self.factorizer = LatentDirichletAllocation(**self.params['LDA'])
         else:
             raise ValueError("model must belong to {'LDA','NMF'}")
         self.doctopic = self.factorizer.fit_transform(self.dtm)
-
+        most_important = self.params['display']['most_important']
         if print_topic:
             print('Top {0} words for each topic'.format(most_important))
             words_topic = self.factorizer.components_
             # TODO : utile de trier ici ?
             sorted_words = np.argsort(words_topic, 1)
-            for i in np.arange(n_topics):
+            for i in np.arange(self.params[technique][0]):
                 vocab_topic = [self.vocab[topic_word] for topic_word in sorted_words[i]]
                 print('Topic {0}'.format(i))
                 print(*vocab_topic[:most_important])
                 print('\n')
 
             major_topics = np.argmax(self.doctopic, 1)
-            for i in np.arange(len(countries)):
-                print('Major topic for {0} : {1}'.format(countries[i], major_topics[i]))
+            for i in np.arange(len(self.countries)):
+                print('Major topic for {0} : {1}'.format(self.countries[i], major_topics[i]))
 
     def distance(self, distance='cosine'):
         """
@@ -105,10 +102,10 @@ class TopicModelling():
 
     def clustering(self):
 
-        self.cluster = KMeans(init='k-means++', n_clusters=5, n_init=10)
+        self.cluster = KMeans(**self.params['k-Means'])
         self.cluster.fit(self.doctopic)
 
-    def plot(self, dims=2):
+    def plot(self, countries, dims=2):
         """
         Parameters
         ----------

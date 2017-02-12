@@ -20,6 +20,8 @@ country_names_1 = [country for country in data_year.keys()]
 
 
 # Different parameters for Vectorizer / Factorization
+techniques = {'Vectorize' : 'count_vectorizer', 'Factor' : 'NMF'}
+
 params = {'Vectorizer' :
           {'input' : 'filename',
            'max_features' : 100,
@@ -27,21 +29,35 @@ params = {'Vectorizer' :
            'max_df': 0.8,
            'min_df': 0.2
           },
-          'Factorization' :
+          'NMF':
           {
-           'n_topics' : 3
+           'n_components': 3
+          },
+          'LDA':
+          {
+            'n_topics': 3
+          },
+          'k-Means':
+          {
+            'init': 'k-means++',
+            'n_clusters': 5,
+            'n_init': 10
+          },
+          'display':
+          {
+            'most_important' : 20
           }
          }
 
-tm = TopicModelling(params)
-tm.vectorize(wb_reports_paths, technique='count_vectorizer')
-tm.factor()
+tm = TopicModelling(params, wb_reports_paths, country_names_1)
+tm.vectorize(technique=techniques['Vectorize'])
+tm.factor(technique=techniques['Factor'])
 tm.clustering()
 X_1 = tm.doctopic
 cluster_1 = tm.cluster
 country_labels_1 = cluster_1.labels_
 
-X_2,country_names_2 = economic_expost.create_data('2009')
+X_2, country_names_2 = economic_expost.create_data('2009')
 
 
 cluster_2 = clustering.KMeans(init='k-means++', n_clusters=5, n_init=10)

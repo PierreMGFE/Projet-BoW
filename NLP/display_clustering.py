@@ -34,6 +34,6 @@ def display(clustering, X, country_labels, step=.01):
     plt.title(title)
     plt.xlim(x_min, x_max)
     plt.ylim(y_min, y_max)
-    plt.xticks(np.linspace(x_min,x_max,10, endpoint=True))
-    plt.yticks(np.linspace(y_min,y_max,10, endpoint=True))
+    plt.xticks(np.linspace(x_min, x_max, 10, endpoint=True))
+    plt.yticks(np.linspace(y_min, y_max, 10, endpoint=True))
     plt.show()
