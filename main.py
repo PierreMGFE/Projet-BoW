@@ -15,7 +15,8 @@ from sklearn.metrics import adjusted_rand_score
 def main_clustering(window):
     # Import file paths of all reports
     year = '2007'
-    data_year = prediction_NLP.data[year]
+    data = prediction_NLP.load_files(window.folder_path)
+    data_year = data[year]
 
     wb_reports_paths = [report for report in data_year.values()]
     # Names of all countries who had a report written about them
