@@ -51,4 +51,3 @@ def create_data(year, data1="NY.GNP.PCAP.CD", data2="NY.GDP.PCAP.KD.ZG"):
 
     return reduced_data, country_label
 
-
