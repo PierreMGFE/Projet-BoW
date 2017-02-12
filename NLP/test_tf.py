@@ -1,29 +1,3 @@
-import importlib
-
-import matplotlib.pyplot as plt
-import numpy as np
-from preprocessing.load_files import data
-from sklearn.feature_extraction.text import TfidfVectorizer
-import preprocessing.tokenizers as tokens
-importlib.reload(tokens)
-
-year = '2006'
-data_year = data[year]
-
-countries = [country for country in data_year.keys()]
-reports = [report for report in data_year.values()]
-
-
-# To remove
-n_topics = 3
-most_important = 20
-n_features = 50
-
-vectorizer = TfidfVectorizer(input='filename', min_df=0.2, max_df=0.7, max_features=n_features, tokenizer=tokens.StemTokenizer())
-dtm = vectorizer.fit_transform(reports).toarray()
-vocab = list(np.array(vectorizer.get_feature_names()))
-
-
 def display_distance_txt3d(dist, names, year):
     fig = plt.figure()
     plt.clf()

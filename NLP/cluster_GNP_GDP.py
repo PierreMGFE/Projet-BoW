@@ -46,12 +46,9 @@ def create_data(year, data1="NY.GNP.PCAP.CD", data2="NY.GDP.PCAP.KD.ZG"):
     countries_lw = [transform(country) for country in countries]
     idxs = [idx for idx, country in enumerate(country_label_lw) if country in countries_lw]
 
-
-
+    country_label = [country_label[idx].replace(' ', '') for idx in idxs]
     reduced_data = reduced_data[idxs]
-    country_label = [country_label[idx] for idx in idxs]
 
     return reduced_data, country_label
 
-x, y = create_data('2010')
 
