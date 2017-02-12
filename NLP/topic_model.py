@@ -7,6 +7,7 @@ from sklearn.decomposition import NMF, LatentDirichletAllocation
 from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 from sklearn.manifold import MDS
 from sklearn.metrics.pairwise import euclidean_distances, cosine_distances
+from sklearn.preprocessing import normalize
 
 
 class TopicModelling():
@@ -70,12 +71,12 @@ class TopicModelling():
             raise ValueError("model must belong to {'LDA','NMF'}")
         self.doctopic = self.factorizer.fit_transform(self.dtm)
         most_important = self.params['display']['most_important']
+        self.doctopic = normalize(self.doctopic,axis=0)
         if print_topic:
             print('Top {0} words for each topic'.format(most_important))
             words_topic = self.factorizer.components_
             # TODO : utile de trier ici ?
             sorted_words = np.argsort(words_topic, 1)
-            print(self.params[technique])
             n = list(self.params[technique].values())[0]
             for i in np.arange(n):
                 vocab_topic = [self.vocab[topic_word] for topic_word in sorted_words[i]]

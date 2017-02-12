@@ -17,7 +17,6 @@ def main_clustering(window):
     year = '2007'
     data_year = prediction_NLP.data[year]
 
-
     wb_reports_paths = [report for report in data_year.values()]
     # Names of all countries who had a report written about them
     country_names_1 = [country for country in data_year.keys()]

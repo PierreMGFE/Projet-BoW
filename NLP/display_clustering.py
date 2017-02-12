@@ -3,13 +3,12 @@ import matplotlib.pyplot as plt
 from sklearn.utils.validation import check_is_fitted
 
 
-def display(clustering, X, country_labels, step=.01):
+def display(clustering, X, country_labels, step=.001):
     check_is_fitted(clustering, 'cluster_centers_')
 
     x_min, x_max = X[:, 0].min() - 0.1, X[:, 0].max() + 0.1
     y_min, y_max = X[:, 1].min() - 0.1, X[:, 1].max() + 0.1
     xx, yy = np.meshgrid(np.arange(x_min, x_max, step), np.arange(y_min, y_max, step))
-    print(np.c_[xx.ravel(), yy.ravel()])
     Z = clustering.predict(np.c_[xx.ravel(), yy.ravel()])
 
     Z = Z.reshape(xx.shape)
