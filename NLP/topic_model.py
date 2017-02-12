@@ -1,33 +1,12 @@
-import numpy as np
-import matplotlib.pyplot as plt
-
-from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
-from sklearn.metrics.pairwise import euclidean_distances, cosine_distances
-from sklearn.manifold import MDS
-from sklearn.decomposition import NMF, LatentDirichletAllocation
-from sklearn.cluster import KMeans
-from preprocessing.load_files import data
-import preprocessing.tokenizers as tokens
-
 import importlib
 
-importlib.reload(tokens)
-
-
-year = '2012'
-data_year = data[year]
-
-countries = [country for country in data_year.keys()]
-reports = [report for report in data_year.values()]
-
-
-# To remove
-n_features = 100
-n_topics = 4
-most_important = 20
-
-df_max = 0.6
-df_min = 0.1
+import matplotlib.pyplot as plt
+import numpy as np
+from sklearn.cluster import KMeans
+from sklearn.decomposition import NMF, LatentDirichletAllocation
+from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
+from sklearn.manifold import MDS
+from sklearn.metrics.pairwise import euclidean_distances, cosine_distances
 
 
 class TopicModelling():
@@ -64,16 +43,14 @@ class TopicModelling():
         """
         # TODO : change year
         if technique == 'count_vectorizer':
-            self.vectorizer = CountVectorizer(input='filename', max_features=n_features, stop_words='english',
-                                              tokenizer=tokens.StemTokenizer(), max_df=df_max, min_df=df_min)
+            self.vectorizer = CountVectorizer(**self.params['Vectorizer'])
         elif technique == 'tf_idf':
-            self.vectorizer = TfidfVectorizer(input='filename', max_features=n_features,
-                                              tokenizer=tokens.StemTokenizer(), max_df=df_max, min_df=df_min)
+            self.vectorizer = TfidfVectorizer(**self.params['Vectorizer'])
         else:
             raise ValueError("technique must belong to {'count_vectorizer','tf-idf'} ")
         # Document-term matrix
-        self.dtm = self.vectorizer.fit_transform(reports).toarray()
-        self.vocab = np.array(self.vectorizer.get_feature_names())
+        self.dtm = self.vectorizer.fit_transform(fileList).toarray()
+        self.vocab = list(self.vectorizer.get_feature_names())
         print(self.dtm)
 
     def factor(self, technique='NMF', print_topic=True):
@@ -87,8 +64,7 @@ class TopicModelling():
             # TODO : check if you must stock transformers
            self.factorizer = NMF(n_components=n_topics,
                                  random_state=1,
-                                 alpha=.1,
-                                 l1_ratio=.5)
+                                 alpha=0.5)
         elif technique == 'LDA':
             self.factorizer = LatentDirichletAllocation(n_topics=n_topics, max_iter=5,
                                                         learning_method='online',
@@ -127,12 +103,12 @@ class TopicModelling():
         else:
             raise ValueError("technique must belong to {'l2','cosine'} ")
 
-    def cluster(self):
+    def clustering(self):
 
-        kmeans = KMeans(init='k-means++', n_clusters=5, n_init=10)
-        kmeans.fit(self.doctopic)
+        self.cluster = KMeans(init='k-means++', n_clusters=5, n_init=10)
+        self.cluster.fit(self.doctopic)
 
-        predict_label = kmeans.predict(self.doctopic)
+        predict_label = self.cluster.predict(self.doctopic)
         return predict_label
 
     def plot(self, dims=2):
@@ -162,9 +138,3 @@ class TopicModelling():
 
         plt.show()
 
-params = dict()
-
-tm = TopicModelling(params)
-tm.vectorize(reports, technique='count_vectorizer')
-tm.factor()
-labels = tm.cluster()

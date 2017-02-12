@@ -28,6 +28,6 @@ def load_files(path):
                     data[year][country] = file_path
     return data, set(country_words)
 
-path = os.path.join(ROOT_DIR, "text_data/pdftotext")
+path = os.path.join(ROOT_DIR, "data_files/text_data/pdfminer_pdf2txt/CAS_CPS_SCD")
 data, country_words = load_files(path)
 
