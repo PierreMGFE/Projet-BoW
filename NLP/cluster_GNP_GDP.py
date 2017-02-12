@@ -53,5 +53,6 @@ def create_data(year, data1="NY.GNP.PCAP.CD", data2="NY.GDP.PCAP.KD.ZG"):
 
     return reduced_data, country_label
 
+#year 2016 is empty in the excel file: so it creates an error
 x, y = create_data('2010')
 
