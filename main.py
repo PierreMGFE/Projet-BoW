@@ -14,7 +14,7 @@ from sklearn.metrics import adjusted_rand_score
 
 
 # Import file paths of all reports
-year = '2007'
+year = '2014'
 data_year = prediction_NLP.data[year]
 
 
@@ -27,13 +27,13 @@ wb_reports_paths = list(np.array(wb_reports_paths)[sorting_1])
 
 
 # Different parameters for Vectorizer / Factorization
-techniques = {'Vectorize' : 'count_vectorizer', 'Factor' : 'NMF'}
+techniques = {'Vectorize' : 'count_vectorizer', 'Factor': 'NMF'}
 
 params = {'Vectorizer':
             {'input': 'filename',
-             'max_features' : 100,
+             'max_features': 50,
              'tokenizer': LemmaTokenizer(),
-             'max_df': 0.6,
+             'max_df': 0.4,
              'min_df': 0.2
             },
           'NMF':
@@ -44,7 +44,7 @@ params = {'Vectorizer':
           },
           'k-Means':
           {'init': 'k-means++',
-           'n_clusters': 5,
+           'n_clusters': 3,
            'n_init': 10
           },
           'display':
@@ -64,7 +64,7 @@ country_labels_1 = cluster_1.labels_
 X_2, country_names_2 = economic_expost.create_data(year)
 
 
-cluster_2 = clustering.KMeans(init='k-means++', n_clusters=5, n_init=10)
+cluster_2 = clustering.KMeans(**params['k-Means'])
 cluster_2.fit(X_2)
 country_labels_2 = cluster_2.labels_
 
@@ -72,11 +72,11 @@ sorting_2, country_names_2 = argsort(country_names_2)
 country_labels_2 = country_labels_2[sorting_2]
 X_2 = X_2[sorting_2]
 
-print(country_names_1)
-print(country_names_2)
+#print(country_names_1)
+#print(country_names_2)
 
 print(adjusted_rand_score(country_labels_1, country_labels_2))
 
-display(cluster_1, X_1, country_names_1)
+#display(cluster_1, X_1, country_names_1)
     # TODO : add stop
-display(cluster_2, X_2, country_names_2)
+#display(cluster_2, X_2, country_names_2)
