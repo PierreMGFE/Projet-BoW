@@ -3,6 +3,7 @@
 import sys, os
 from PyQt5 import QtCore, QtGui, QtWidgets
 import bow_functions as bf
+import main as main_clustering
 
 class Bow(QtWidgets.QMainWindow):
     def __init__(self):
@@ -849,20 +850,28 @@ class Bow(QtWidgets.QMainWindow):
 
 
     def start_clustering(self):
-
         self.folder_path = self.source_folder_line.text()
         # fetch parameters
         self.format = self.source_format_buttonGroup.checkedButton().text().lower()
 
-        self.input_param = {"freq": self.vectorizer_buttonGroup.checkedButton().text(),
-                       "df_min": self.min_df_spinBox.value() / 100,
-                       "df_max": self.max_df_spinBox.value() / 100,
-                       "n_feat": self.number_features_spinBox.value(),
-                       "facto": self.factorisation_buttonGroup.checkedButton().text(),
-                       "n_topics": self.number_topics_spinBox.value(),
-                       "n_top_feat": self.number_top_features_spinBox.value(),
-                       "n_clust": self.number_clusters_spinBox.value()}
+        self.input_techniques = {"Vectorize": self.vectorizer_buttonGroup.checkedButton().text(),
+                                 "Factor": self.factorisation_buttonGroup.checkedButton().text()}
 
+        self.input_param = {'Vectorizer':
+                                {'input': 'filename',
+                                 'max_features' : self.number_features_spinBox.value(),
+                                 'max_df': self.max_df_spinBox.value() / 100,
+                                 'min_df': self.min_df_spinBox.value() / 100},
+                            'NMF':
+                                {'n_components': self.number_topics_spinBox.value()},
+                            'LDA':
+                                {'n_topics': self.number_topics_spinBox.value()},
+                            'k-Means':
+                                {'init': 'k-means++',
+                                 'n_clusters': self.number_clusters_spinBox.value(),
+                                 'n_init': 10},
+                            'display':
+                                {'most_important' : self.number_top_features_spinBox.value()}}
 
         # Launch or error message
         valid, error_message_text = bf.valid_start_clustering(self)
@@ -875,6 +884,7 @@ class Bow(QtWidgets.QMainWindow):
             os.chdir(self.folder_path)
             self.input_files = [file for file in os.listdir() if file.endswith(".txt")]
 
+            main_clustering.main_clustering(self)
             # TODO : access algorithm from here
             # output = algorithm(parameters, files)
 

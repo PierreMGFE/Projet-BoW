@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.5.2 (C:\Miniconda3\python.exe)" project-jdk-type="Python SDK" />
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings sdk-home="C:\Miniconda3\python.exe" working-directory="$PROJECT_DIR$/h_Graphic_User_Interface">
+        <option name="mySdkHome" value="C:\Miniconda3\python.exe" />
+        <option name="myWorkingDirectory" value="$PROJECT_DIR$/h_Graphic_User_Interface" />
+      </console-settings>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\Pierre\AppData\Roaming\Subversion</configuration>
   </component>
