@@ -877,12 +877,12 @@ class Bow(QtWidgets.QMainWindow):
         valid, error_message_text = bf.valid_start_clustering(self)
 
         if valid:
-            if self.format == "pdf":
-                bf.convert_pdf(self)
-                self.folder_path += "/converted"
-
-            os.chdir(self.folder_path)
-            self.input_files = [file for file in os.listdir() if file.endswith(".txt")]
+            # if self.format == "pdf":
+            #     bf.convert_pdf(self)
+            #     self.folder_path += "/converted"
+            #
+            # os.chdir(self.folder_path)
+            # self.input_files = [file for file in os.listdir() if file.endswith(".txt")]
 
             main_clustering.main_clustering(self)
             # TODO : access algorithm from here
