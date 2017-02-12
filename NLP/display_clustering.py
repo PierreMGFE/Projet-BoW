@@ -1,11 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.utils.validation import check_is_fitted
-import preprocessing.load_files as lf
-
-import preprocessing.tokenizers as tokens
-
-
 
 
 def display(clustering, X, country_labels, step=.01):
