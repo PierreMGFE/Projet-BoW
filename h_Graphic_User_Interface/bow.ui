@@ -748,6 +748,8 @@
                  <property name="font">
                   <font>
                    <pointsize>8</pointsize>
+                   <weight>50</weight>
+                   <bold>false</bold>
                   </font>
                  </property>
                  <property name="inputMask">
@@ -769,6 +771,8 @@
                  <property name="font">
                   <font>
                    <pointsize>8</pointsize>
+                   <weight>50</weight>
+                   <bold>false</bold>
                   </font>
                  </property>
                  <property name="cursor">

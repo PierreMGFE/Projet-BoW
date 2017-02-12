@@ -557,18 +557,24 @@ class Bow(QtWidgets.QMainWindow):
         self.actionSave_as.triggered.connect(self.save_as)
         self.actionAbout.triggered.connect(self.open_about_dialog)
 
-        # Browse
+        # Folder
         self.dir_path = ""
         self.browse_button.clicked.connect(self.open_directory_name_dialog)
         self.input_files = []
 
         # Format
         self.format = ""
+        self.pdf_button.toggle()
         self.pdf_button.toggled['bool'].connect(self.set_format)
 
-        # Analysis outputs
-        self.parameters = []
-        self.output = []
+        # Analysis parameters
+        self.countvectorizer.toggle()
+        self.lda.toggle()
+
+        self.input_parameters = {}
+        self.output_parameters = []
+
+        self.pdf_button.
 
         # Launch Analysis
         self.launch_analysis_button.clicked.connect(self.launch_analysis)
@@ -586,8 +592,8 @@ class Bow(QtWidgets.QMainWindow):
     def launch_analysis(self):
         launch = False
         error_message_text = ""
-        self.parameters = [box.isChecked() for box in self.choose_outputs.buttons()]
-        print(self.parameters)
+        # self.output_parameters = [box.isChecked() for box in self.choose_outputs.buttons()]
+        # print(self.output_parameters)
         # TODO : in save file, write what each item in self.parameters refers to ?
 
         # Check if path is valid
@@ -596,11 +602,12 @@ class Bow(QtWidgets.QMainWindow):
             if (self.format == "pdf" or self.format == "txt"):
                 # Check if there are valid files in directory
                 if len([file for file in os.listdir(self.dir_path) if file.endswith("." + self.format)]):
+                    launch = True
                     # Check if parameters are valid
-                    if len([param for param in self.parameters if param]):
-                        launch = True
-                    else:
-                        error_message_text += "Select at least 1 output\n"
+                    # if len([param for param in self.output_parameters if param]):
+                    #     launch = True
+                    # else:
+                    #     error_message_text += "Select at least 1 output\n"
                 else:
                     error_message_text += "No " + self.format.upper() + " files in directory\n"
             else:
