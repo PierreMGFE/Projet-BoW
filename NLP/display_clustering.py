@@ -1,9 +1,10 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.utils.validation import check_is_fitted
+from settings import ROOT_DIR
 
 
-def display(clustering, X, country_labels, step=.001):
+def display(clustering, X, country_labels, path, step=.001):
     check_is_fitted(clustering, 'cluster_centers_')
 
     x_min, x_max = X[:, 0].min() - 0.1, X[:, 0].max() + 0.1
@@ -35,4 +36,6 @@ def display(clustering, X, country_labels, step=.001):
     plt.ylim(y_min, y_max)
     plt.xticks(np.linspace(x_min, x_max, 10, endpoint=True))
     plt.yticks(np.linspace(y_min, y_max, 10, endpoint=True))
-    plt.show()
+    # plt.show()
+
+    plt.savefig(ROOT_DIR+"/plots/"+path)
