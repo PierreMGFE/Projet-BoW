@@ -15,7 +15,7 @@ from sklearn.metrics import adjusted_rand_score
 def main_clustering(window):
     # Import file paths of all reports
     year = '2007'
-    data = prediction_NLP.load_files(window.folder_path)
+    data = prediction_NLP.load_files(window.folder_path)[0]
     data_year = data[year]
 
     wb_reports_paths = [report for report in data_year.values()]
@@ -40,7 +40,7 @@ def main_clustering(window):
 
     X_2, country_names_2 = economic_expost.create_data(year)
 
-    cluster_2 = clustering.KMeans(init='k-means++', n_clusters=5, n_init=10)
+    cluster_2 = clustering.KMeans(**params['k-Means'])
     cluster_2.fit(X_2)
     country_labels_2 = cluster_2.labels_
 
@@ -53,6 +53,7 @@ def main_clustering(window):
 
     print(adjusted_rand_score(country_labels_1, country_labels_2))
 
-    display(cluster_1, X_1, country_names_1)
+    display(cluster_1, X_1, country_names_1, "plot1.png")
         # TODO : add stop
-    display(cluster_2, X_2, country_names_2)
+    if window.display_clusters_checkBox.isChecked():
+        display(cluster_2, X_2, country_names_2, "plot2.png")

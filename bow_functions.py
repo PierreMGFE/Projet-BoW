@@ -9,15 +9,16 @@ def valid_start_clustering(window):
     if os.path.isdir(window.folder_path):
         # Check if format is valid
         if (window.format == "pdf" or window.format == "txt"):
+            valid = True
             # Check if there are valid files in directory
-            if len([file for file in os.listdir(window.folder_path) if file.endswith("." + window.format)]):
-                # Check if parameters are valid
-                if window.input_param["Vectorizer"]["min_df"] < window.input_param["Vectorizer"]["max_df"]:
-                    valid = True
-                else:
-                    error_message_text += "Check frequency\n"
-            else:
-                error_message_text += "No " + window.format + " files in directory\n"
+            # if len([file for file in os.listdir(window.folder_path) if file.endswith("." + window.format)]):
+            #     # Check if parameters are valid
+            #     if window.input_param["Vectorizer"]["min_df"] < window.input_param["Vectorizer"]["max_df"]:
+            #         valid = True
+            #     else:
+            #         error_message_text += "Check frequency\n"
+            # else:
+            #     error_message_text += "No " + window.format + " files in directory\n"
         else:
             error_message_text += "Invalid format\n"
     else:

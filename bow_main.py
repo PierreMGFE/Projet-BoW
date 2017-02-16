@@ -210,7 +210,7 @@ class Bow(QtWidgets.QMainWindow):
         font.setWeight(50)
         self.tf_idf_radioButton.setFont(font)
         self.tf_idf_radioButton.setCursor(QtGui.QCursor(QtCore.Qt.PointingHandCursor))
-        self.tf_idf_radioButton.setText("TF - IDF")
+        self.tf_idf_radioButton.setText("TF-IDF")
         self.tf_idf_radioButton.setObjectName("tf_idf_radioButton")
         self.vectorizer_buttonGroup.addButton(self.tf_idf_radioButton)
         self.dtm_frequency_buttons.addWidget(self.tf_idf_radioButton)
@@ -387,7 +387,7 @@ class Bow(QtWidgets.QMainWindow):
         font.setBold(False)
         font.setWeight(50)
         self.number_topics_spinBox.setFont(font)
-        self.number_topics_spinBox.setProperty("value", 3)
+        self.number_topics_spinBox.setProperty("value", 2)
         self.number_topics_spinBox.setObjectName("number_topics_spinBox")
         self.topics_formLayout.setWidget(0, QtWidgets.QFormLayout.FieldRole, self.number_topics_spinBox)
         self.number_top_features_label = QtWidgets.QLabel(self.topic_modelling_groupBox)
@@ -804,8 +804,11 @@ class Bow(QtWidgets.QMainWindow):
         self.souce_folder_browse_pushButton.clicked.connect(self.folder_path_dialog)
         self.source_file_browse_pushButton.clicked.connect(self.file_path_dialog)
 
+        #Default folder
+        self.source_folder_line.setText("C:/Users/Pierre/Documents/ENPC/3. 2A/3. S3/2. TDLOG/Projet Bag of Words/Projet-BoW/data_files/text_data/pdfminer_pdf2txt")
+
         #Default toggled radio buttons
-        self.pdf_radioButton.toggle()
+        self.txt_radioButton.toggle()
         self.countvectorizer_radioButton.toggle()
         self.lda_radioButton.toggle()
         self.euclidian_radioButton.toggle()
