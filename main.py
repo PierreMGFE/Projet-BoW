@@ -35,11 +35,10 @@ def main_clustering(window):
     tm.factor(technique=techniques['Factor'])
     tm.clustering()
     X_1 = tm.doctopic
-    cluster_1 = tm.cluster
+    cluster_1 = tm  .cluster
     country_labels_1 = cluster_1.labels_
 
     X_2, country_names_2 = economic_expost.create_data(year)
-
 
     cluster_2 = clustering.KMeans(init='k-means++', n_clusters=5, n_init=10)
     cluster_2.fit(X_2)

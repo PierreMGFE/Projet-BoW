@@ -6,9 +6,10 @@ from re import findall
 def load_files(path):
     """
      Return a dict representing reco result. This is used in admin interface
-     :param path: a string which represents path towards directory containing all files
-     :return: a dict named data with every report. data[n][c] contains the report regarding country c in year n.
-     For instance, data[2014][Bhutan] contains the 2014 report for Myanmar.
+     :param path: string which represents top path towards directory containing all files
+     :return data: dict with every report. data[n][c] contains the report regarding country c in year n.
+     For instance, data[2014][Bhutan] contains the 2014 report for Myanmar
+     :return country_words : set which contains names of all countries the World Bank wrote something about
      """
     # TODO : change annotations
     data = dict()
@@ -26,7 +27,8 @@ def load_files(path):
                 file_path = os.path.join(dirpath, filename)
                 if country not in data[year]:
                     data[year][country] = file_path
-    return data, set(country_words)
+    country_words = set(country_words)
+    return data, country_words
 
 path = os.path.join(ROOT_DIR, "data_files/text_data/pdfminer_pdf2txt/CAS_CPS_SCD")
 data, country_words = load_files(path)
