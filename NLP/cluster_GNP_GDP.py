@@ -1,3 +1,19 @@
+
+"""
+===========================================================
+
+input:  excel_file
+            of macro data
+            with as many countries as in our dataset (>100)
+                mainly poor and developping countries
+            from 2000 to 2016
+            with    GNI per capita (name code: "NY.GNP.PCAP.CD")
+                    GDP per capita growth (name code: "NY.GDP.PCAP.KD.ZG")
+                    
+
+=========== ========================================================
+"""
+
 import pandas
 from preprocessing.load_files import data
 import numpy as np
@@ -11,8 +27,8 @@ from settings import ROOT_DIR
 def create_data(year, data1="NY.GNP.PCAP.CD", data2="NY.GDP.PCAP.KD.ZG"):
     """
     :param year: string for which year we want to get the year
-    :param data1:
-    :param data2:
+    :param data1: code we want to select from the Excel sheet
+    :param data2: code we want to select from the Excel sheet
     :return reduced_data: n*2 array containing normalized GNP / GDP per capita with n number of
     countries listed in reports for year n ;
     :return country_label: list of size n containing names of countries listed in reduced_data ;

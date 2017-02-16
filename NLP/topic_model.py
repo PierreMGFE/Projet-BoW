@@ -1,3 +1,40 @@
+"""
+===========================================================
+compute topics
+display topics
+===========================================================
+
+important: the dtm matrix
+            which is the matrix (num_text, num_feature)
+            of large dimensions (390, 13000)
+        factorizes this matrix
+            LDA method: a probabilistic model capable of expressing 
+                        uncertainty about the placement of topics across 
+                        texts and the assignment of words to topics
+            NMF method: a deterministic algorithm which arrives at a 
+                        single representation of the corpus
+            both represent "latent topics"
+
+=========== ========================================================
+
+parameters: vectorize method
+                TfidfVectorizer prefered
+            factorizing
+                NMF: non-negative matrix factorization (prefered)
+                LDA: latent Dirichlet allocation
+            distance between a selected corpus of text
+            
+            clustering
+            
+            plot
+                        
+=========== ========================================================
+output: compute topics
+        display topics
+        display which topics dominates each text of the chosen corpus
+=========== ========================================================
+"""
+
 import importlib
 
 import matplotlib.pyplot as plt

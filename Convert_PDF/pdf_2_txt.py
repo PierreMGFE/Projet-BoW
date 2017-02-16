@@ -1,3 +1,20 @@
+"""
+===========================================================
+transform a  set of PDF files to TXT files
+===========================================================
+
+input:  inpath is the path of departure
+        from which we look of PDF files
+        and transform them to TXT
+
+=========== ========================================================
+=========== ========================================================
+output: new folder created
+        TXT files in the right folder
+=========== ========================================================
+
+"""
+
 import os
 import re
 from settings import ROOT_DIR
