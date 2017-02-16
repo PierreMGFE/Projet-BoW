@@ -30,8 +30,8 @@ def main_clustering(window):
     params = window.input_param
     params['Vectorizer']['tokenizer'] = LemmaTokenizer()
 
-    tm = TopicModelling(params, wb_reports_paths, country_names_1)
-    tm.vectorize(technique=techniques['Vectorize'])
+    tm = TopicModelling(params)
+    tm.vectorize(techniques['Vectorize'], wb_reports_paths, country_names_1)
     tm.factor(technique=techniques['Factor'])
     tm.clustering()
     X_1 = tm.doctopic

@@ -9,6 +9,14 @@ from settings import ROOT_DIR
 
 # TODO : list of years instead of year
 def create_data(year, data1="NY.GNP.PCAP.CD", data2="NY.GDP.PCAP.KD.ZG"):
+    """
+    :param year: string for which year we want to get the year
+    :param data1:
+    :param data2:
+    :return reduced_data: n*2 array containing normalized GNP / GDP per capita with n number of
+    countries listed in reports for year n ;
+    :return country_label: list of size n containing names of countries listed in reduced_data ;
+    """
     econ_data = pandas.read_excel(os.path.join(ROOT_DIR,"data_files/excel_data/economic_data2.xlsx"))
     
     # select gni per capita and not missing data

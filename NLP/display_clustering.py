@@ -5,6 +5,16 @@ from settings import ROOT_DIR
 
 
 def display(clustering, X, country_labels, path, step=.001):
+    """
+    Saves matplotlib figure representing data points and clustering
+
+    :param clustering: instance of fitted clustering class ; most of the time, KMeans
+    :param X: n*d array containing data points (they represent countries)
+    :param country_labels: names matching these data points
+    :param path: string which shows where to stock final plots
+    :param step: precision of plot
+    """
+
     check_is_fitted(clustering, 'cluster_centers_')
 
     x_min, x_max = X[:, 0].min() - 0.1, X[:, 0].max() + 0.1

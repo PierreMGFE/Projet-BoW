@@ -11,39 +11,48 @@ from sklearn.preprocessing import normalize
 
 
 class TopicModelling():
-    # TODO : update documentation
-    """
-    Attributes
-    ----------        print('Top {0} words for each topic'.format(most_important))
-
-    dtm : TODO
-
-    dist : array, shape = [n,n]
-        dist[i][j] = distance between text_i and text_j
-
-    vocab : list, len = p
-            Associates the index of each word in the document-term matrix to the word itself
-            For instance, if self.dtm[:,1] corresponds to the frequency of the word "banana" in several texts,
-            then vocab[1] = "banana"
-    """
-    def __init__(self, params, fileList, countries):
-        # TODO : how does SKLearn manage this?
-        self.params = params
-        self.fileList = fileList
-        self.countries = countries
-
-    def vectorize(self, technique):
+    def __init__(self, params):
         """
-        Parameters
+        :param params: dict which contains list of parameters for TopicModelling methods
+
+        Attributes
         ----------
-        raw_documents : iterable, len = n
-              an iterable with n file names which yields str
-        technique : {'count_vectorizer','tf-idf'} (default='count_vectorizer')
-             Specifies the technique to compute document-term matrix
-
-        Returns
+        fileList : list of size m all files (containing reports) that will be open by CountVectorizer
+        countries : list of size m country names corresponding to reports in fileList
+        vectorizer : instance of class computing document-term matrix from texts
+        dtm : m*n array with n size of vocabulary ; document-term matrix :
+        dtm[m][n] = frequency of word vocab[n] in fileList[m]
+        vocab : list of size n matching index of column with certain word. For instance, vocab[150] = 'growth'
+        factorizer : instance of class computing document-topic matrix for document-term matrix
+        doctopic : m*d array with d chosen number of topics ; document-topic matrix
+        dist : m*m array containing distance between texts
+        cluster : instance of class computing clusters between texts
+        ----------
 
         """
+
+        self.params = params
+        self.fileList = None
+        self.countries = None
+        self.vectorizer = None
+        self.dtm = None
+        self.vocab = None
+        self.factorizer = None
+        self.doctopic = None
+        self.dist = None
+        self.cluster = None
+
+    def vectorize(self, technique, fileList, countries):
+        """
+        Computes the document-term matrix, the vocabulary
+
+        :param technique : {'count_vectorizer','tf-idf'} (default='count_vectorizer')
+             Specifies the technique to compute document-term matrix
+        :param fileList: value of self.fileList
+        :param countries: value of self.countries
+
+        """
+        self.fileList = fileList
         # TODO : change year
         if technique == 'CountVectorizer':
             self.vectorizer = CountVectorizer(**self.params['Vectorizer'])
@@ -57,10 +66,11 @@ class TopicModelling():
 
     def factor(self, technique, print_topic=True):
         """
-        Parameters
-        ----------
-        technique : {'NMF','LDA'} (default='cosine')
+        Computes the document-topic matrix
+
+        :param technique : {'NMF','LDA'} (default='cosine')
              Specifies the technique to compute document-topic matrix
+        :param print_topic : if True, print main topic per text and main words in topic
         """
         if technique == 'NMF':
             # TODO : check if you must stock transformers
@@ -90,7 +100,7 @@ class TopicModelling():
 
     def distance(self, distance='cosine'):
         """
-        Parameters
+        Computes m*m array containing distance between texts
         ----------
         distance : {'l2','cosine'} (default='cosine')
              Specifies the distance to compute distance matrix
@@ -107,14 +117,14 @@ class TopicModelling():
         self.cluster = KMeans(**self.params['k-Means'])
         self.cluster.fit(self.doctopic)
 
-    def plot(self, countries, dims=2):
+    def plot(self, dims=2):
         """
+        Plot 2d or 3d representation of data using MDS (or t-SNE?) algorithm
         Parameters
         ----------
         dims : int, {2,3} (default=2)
              Specifies the distance to compute distance matrix
 
-        Plot 2d or 3d representation of data using MDS (or t-SNE?) algorithm
         """
         mds = MDS(n_components=dims, dissimilarity="precomputed", random_state=1)
         pos = mds.fit_transform(self.dist)
@@ -122,7 +132,7 @@ class TopicModelling():
 
         # Ajouter les noms des fichiers : names n'est pas défini. Version 1) voir si ça marche comme ça
         if dims == 2:
-            for x, y, name in zip(xs, ys, countries):
+            for x, y, name in zip(xs, ys, self.countries):
                 plt.scatter(x, y, c=50)
                 plt.text(x,y,name)
         elif dims == 3:
